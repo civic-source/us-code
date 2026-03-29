@@ -3,16 +3,16 @@ title: "Section 6121 - Definitions"
 usc_title: 5
 usc_section: "6121"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 6121"
-generated_at: "2026-03-29T02:10:01.891Z"
+generated_at: "2026-03-29T17:50:36.500Z"
 ---
 
 # § 6121. Definitions
 
 For purposes of this subchapter—
 
-  - **(1)** “agency” means any Executive agency, any military department, the Government Publishing Office, the Library of Congress, the Architect of the Capitol, and the Botanic Garden;
+  - **(1)** “agency” means any Executive agency, any military department, the Government Printing Office, the Library of Congress, the Architect of the Capitol, and the Botanic Garden;
   - **(2)** “employee” has the meaning given the term in subsection (a) of section 2105 of this title , except that such term also includes an employee described in subsection (c) of that section;
   - **(3)** “basic work requirement” means the number of hours, excluding overtime hours, which an employee is required to work or is required to account for by leave or otherwise;
   - **(4)** “credit hours” means any hours, within a flexible schedule established under section 6122 of this title , which are in excess of an employee’s basic work requirement and which the employee elects to work so as to vary the length of a workweek or a workday;

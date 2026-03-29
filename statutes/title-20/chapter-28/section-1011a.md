@@ -3,15 +3,15 @@ title: "Section 1011a - Protection of student speech and association rights"
 usc_title: 20
 usc_section: "1011a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1011a"
-generated_at: "2026-03-29T02:12:17.170Z"
+generated_at: "2026-03-29T17:51:48.313Z"
 ---
 
 # § 1011a. Protection of student speech and association rights
 
 - **(a)**
-  - **(1)** It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this chapter, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
+  - **(1)** It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this chapter and part C of subchapter I of chapter 34 of title 42, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
   - **(2)** It is the sense of Congress that—
     - **(A)** the diversity of institutions and educational missions is one of the key strengths of American higher education;
     - **(B)** individual institutions of higher education have different missions and each institution should design its academic program in accordance with its educational goals;

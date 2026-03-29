@@ -3,9 +3,9 @@ title: "Section 2252A - Certain activities relating to material constituting or 
 usc_title: 18
 usc_section: "2252A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 2252A"
-generated_at: "2026-03-29T02:12:02.438Z"
+generated_at: "2026-03-29T17:53:15.683Z"
 ---
 
 # § 2252A. Certain activities relating to material constituting or containing child pornography
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T02:12:02.438Z"
 - **(a)** Any person who—
   - **(1)** knowingly mails, or transports or ships using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means, including by computer, any child pornography;
   - **(2)** knowingly receives or distributes—
-    - **(A)** any child pornography using any means or facility of interstate or foreign commerce or that has been mailed, or has been shipped or transported in or affecting interstate or foreign commerce by any means, including by computer; or
-    - **(B)** any material that contains child pornography using any means or facility of interstate or foreign commerce or that has been mailed, or has been shipped or transported in or affecting interstate or foreign commerce by any means, including by computer;
+    - **(A)** any child pornography that has been mailed, or using any means or facility of interstate or foreign commerce shipped or transported in or affecting interstate or foreign commerce by any means, including by computer; or
+    - **(B)** any material that contains child pornography that has been mailed, or using any means or facility of interstate or foreign commerce shipped or transported in or affecting interstate or foreign commerce by any means, including by computer;
   - **(3)** knowingly—
     - **(A)** reproduces any child pornography for distribution through the mails, or using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means, including by computer; or
     - **(B)** advertises, promotes, presents, distributes, or solicits through the mails, or using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means, including by computer, any material or purported material in a manner that reflects the belief, or that is intended to cause another to believe, that the material or purported material is, or contains—
@@ -32,8 +32,8 @@ generated_at: "2026-03-29T02:12:02.438Z"
     - **(C)** which distribution, offer, sending, or provision is accomplished using the mails or any means or facility of interstate or foreign commerce,
   - **(7)** knowingly produces with intent to distribute, or distributes, by any means, including a computer, in or affecting interstate or foreign commerce, child pornography that is an adapted or modified depiction of an identifiable minor. 1 1 So in original. The period probably should be a comma.
 - **(b)**
-  - **(1)** Whoever violates, or attempts or conspires to violate, paragraph (1), (2), (3), (4), or (6) of subsection (a) shall be fined under this title and imprisoned not less than 5 years and not more than 20 years, but, if such person has a prior conviction under this chapter, section 1591, chapter 71, chapter 109A, or chapter 117, or under the Uniform Code of Military Justice or the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, or sex trafficking of children, such person shall be fined under this title and imprisoned for not less than 15 years nor more than 40 years.
-  - **(2)** Whoever violates, or attempts or conspires to violate, subsection (a)(5) shall be fined under this title or imprisoned not more than 10 years, or both, but, if any image of child pornography involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such person shall be fined under this title and imprisoned for not more than 20 years, or if such person has a prior conviction under this chapter, chapter 71, chapter 109A, or chapter 117, or under the Uniform Code of Military Justice or the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, such person shall be fined under this title and imprisoned for not less than 10 years nor more than 20 years.
+  - **(1)** Whoever violates, or attempts or conspires to violate, paragraph (1), (2), (3), (4), or (6) of subsection (a) shall be fined under this title and imprisoned not less than 5 years and not more than 20 years, but, if such person has a prior conviction under this chapter, section 1591, chapter 71, chapter 109A, or chapter 117, or under section 920 of title 10 (article 120 of the Uniform Code of Military Justice), or under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, or sex trafficking of children, such person shall be fined under this title and imprisoned for not less than 15 years nor more than 40 years.
+  - **(2)** Whoever violates, or attempts or conspires to violate, subsection (a)(5) shall be fined under this title or imprisoned not more than 10 years, or both, but, if any image of child pornography involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such person shall be fined under this title and imprisoned for not more than 20 years, or if such person has a prior conviction under this chapter, chapter 71, chapter 109A, or chapter 117, or under section 920 of title 10 (article 120 of the Uniform Code of Military Justice), or under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward, or the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, such person shall be fined under this title and imprisoned for not less than 10 years nor more than 20 years.
   - **(3)** Whoever violates, or attempts or conspires to violate, subsection (a)(7) shall be fined under this title or imprisoned not more than 15 years, or both.
 - **(c)** It shall be an affirmative defense to a charge of violating paragraph (1), (2), (3)(A), (4), or (5) of subsection (a) that—
   - **(1)**

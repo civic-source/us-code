@@ -3,9 +3,9 @@ title: "Section 2632 - Transportation to and from certain places of employment a
 usc_title: 10
 usc_section: "2632"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2632"
-generated_at: "2026-03-29T02:10:45.120Z"
+generated_at: "2026-03-29T17:50:57.145Z"
 ---
 
 # § 2632. Transportation to and from certain places of employment and on military installations
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:10:45.120Z"
 - **(c)** To provide transportation under subsection (a), the department may—
   - **(1)** buy, lease, or charter motor vehicles or water carriers having a seating capacity of 12 or more passengers;
   - **(2)** maintain and operate that equipment by—
-    - **(A)** enlisted members of the Army, Navy, Air Force, Marine Corps, Space Force, or the Coast Guard, as the case may be;
+    - **(A)** enlisted members of the Army, Navy, Air Force, Marine Corps, or the Coast Guard, as the case may be;
     - **(B)** employees of the department concerned; and
     - **(C)** private persons under contract; and
   - **(3)** lease or charter the equipment to private or public carriers for operation under terms that are considered necessary by the Secretary or by an officer of the department designated by the Secretary, and that may provide for the pooling of Government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.

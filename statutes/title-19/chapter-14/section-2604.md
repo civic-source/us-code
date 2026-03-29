@@ -3,12 +3,13 @@ title: "Section 2604 - Designation of materials covered by agreements or emergen
 usc_title: 19
 usc_section: "2604"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2604"
-generated_at: "2026-03-29T02:12:08.710Z"
+generated_at: "2026-03-29T17:51:51.303Z"
 ---
 
 # § 2604. Designation of materials covered by agreements or emergency actions
 
-After any agreement enters into force under section 2602 of this title , or emergency action is taken under section 2603 of this title , the Secretary, in consultation with the Secretary of State, shall by regulation promulgate (and when appropriate shall revise) a list of the archaeological or ethnological material of the State Party covered by the agreement or by such action. The Secretary may list such material by type or other appropriate classification, but each listing made under this section shall be sufficiently specific and precise to insure that (1) the import restrictions under section 2606 of this title are applied only to the archeological and ethnological material covered by the agreement or emergency action; and (2) fair notice is given to importers and other persons as to what material is subject to such restrictions.
+  - **(1)** the import restrictions under section 2606 of this title are applied only to the archeological and ethnological material covered by the agreement or emergency action; and
+  - **(2)** fair notice is given to importers and other persons as to what material is subject to such restrictions.
 

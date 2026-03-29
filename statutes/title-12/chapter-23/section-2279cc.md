@@ -3,9 +3,9 @@ title: "Section 2279cc - Conservatorship; liquidation; receivership"
 usc_title: 12
 usc_section: "2279cc"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2279cc"
-generated_at: "2026-03-29T02:11:21.141Z"
+generated_at: "2026-03-29T17:51:13.182Z"
 ---
 
 # § 2279cc. Conservatorship; liquidation; receivership
@@ -32,13 +32,13 @@ generated_at: "2026-03-29T02:11:21.141Z"
     - **(A)** A conservator or receiver for the Corporation and professional personnel (other than a Federal employee) employed to represent or assist the conservator or receiver may be compensated for activities conducted as, or for, a conservator or receiver.
     - **(B)** Compensation may not be provided in amounts greater than the compensation paid to employees of the Federal Government for similar services, except that the Farm Credit Administration may provide for compensation at higher rates that are not in excess of rates prevailing in the private sector if the Farm Credit Administration determines that compensation at higher rates is necessary in order to recruit and retain competent personnel.
     - **(C)** The conservator or receiver may contract with any governmental entity, including the Farm Credit System Insurance Corporation, to make personnel, services, and facilities of the entity available to the conservator or receiver on such terms and compensation arrangements as shall be mutually agreed, and each entity may provide the same to the conservator or receiver.
-  - **(3)** A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) shall—
+  - **(3)** A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) of this section shall—
     - **(A)** be paid by the conservator or receiver from funds of the Corporation before any other valid claim against the Corporation; and
     - **(B)** may be secured by a lien, on such property of the Corporation as the conservator or receiver may determine, that shall have priority over any other lien.
   - **(4)** If the conservator or receiver for the Corporation is not a Federal entity, or an officer or employee of the Federal Government, the conservator or receiver shall not be personally liable for damages in tort or otherwise for an act or omission performed pursuant to and in the course of the conservatorship or receivership, unless the act or omission constitutes gross negligence or any form of intentional tortious conduct or criminal conduct.
   - **(5)** The Farm Credit Administration may allow indemnification of the conservator or receiver from the assets of the conservatorship or receivership on such terms as the Farm Credit Administration considers appropriate.
 - **(d)**
-  - **(1)** Notwithstanding subsection (i)(1), not later than 30 days after a conservator or receiver is appointed under subsection (b), the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
+  - **(1)** Notwithstanding subsection (i)(1) of this section, not later than 30 days after a conservator or receiver is appointed under subsection (b) of this section, the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
   - **(2)** On the commencement of an action under paragraph (1), any court having jurisdiction of any other action or enforcement proceeding authorized under this chapter to which the Corporation is a party shall stay the action or proceeding during the pendency of the action for removal of the conservator or receiver.
 - **(e)** The conservator or receiver for the Corporation shall have such powers to conduct the conservatorship or receivership as shall be provided pursuant to regulations adopted by the Farm Credit Administration Board. Such powers shall be comparable to the powers available to a conservator or receiver appointed pursuant to section 2183(b) of this title .
 - **(f)**

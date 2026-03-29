@@ -3,12 +3,14 @@ title: "Section 723 - Purposes of refuge; regulations by Secretary of the Interi
 usc_title: 16
 usc_section: "723"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 723"
-generated_at: "2026-03-29T02:11:53.659Z"
+generated_at: "2026-03-29T17:51:56.763Z"
 ---
 
 # § 723. Purposes of refuge; regulations by Secretary of the Interior
 
-The refuge shall be established and maintained (a) as a refuge and breeding place for migratory birds included in the terms of the convention between the United States and Great Britain for the protection of migratory birds, concluded August 16, 1916 , and (b) to such extent as the Secretary of the Interior may by regulations prescribe, as a refuge and breeding place for other wild birds, game animals, fur-bearing animals, and for the conservation of wild flowers and aquatic plants, and (c) to such extent as the Secretary of the Interior may by regulations prescribe as a refuge and breeding place for fish and other aquatic animal life.
+- **(a)** as a refuge and breeding place for migratory birds included in the terms of the convention between the United States and Great Britain for the protection of migratory birds, concluded August 16, 1916 , and
+- **(b)** to such extent as the Secretary of the Interior may by regulations prescribe, as a refuge and breeding place for other wild birds, game animals, fur-bearing animals, and for the conservation of wild flowers and aquatic plants, and
+- **(c)** to such extent as the Secretary of the Interior may by regulations prescribe as a refuge and breeding place for fish and other aquatic animal life.
 

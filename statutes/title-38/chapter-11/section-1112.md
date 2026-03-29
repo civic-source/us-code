@@ -3,9 +3,9 @@ title: "Section 1112 - Presumptions relating to certain diseases and disabilitie
 usc_title: 38
 usc_section: "1112"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1112"
-generated_at: "2026-03-29T02:14:50.342Z"
+generated_at: "2026-03-29T17:52:53.685Z"
 ---
 
 # § 1112. Presumptions relating to certain diseases and disabilities
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T02:14:50.342Z"
   - **(5)** Hansen’s disease developing a 10 percent degree of disability or more within three years from the date of separation from such service;
 - **(b)**
   - **(1)** For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title , in the case of a veteran who is a former prisoner of war—
-    - **(A)** a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
-    - **(B)** if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
+    - **(A)** a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
+    - **(B)** if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
   - **(2)** The diseases specified in this paragraph are the following:
     - **(A)** Psychosis.
     - **(B)** Any of the anxiety states.
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T02:14:50.342Z"
     - **(L)** Atherosclerotic heart disease or hypertensive vascular disease (including hypertensive heart disease) and their complications (including myocardial infarction, congestive heart failure and arrhythmia).
     - **(M)** Stroke and its complications.
 - **(c)**
-  - **(1)** For the purposes of section 1110 of this title , and subject to the provisions of section 1113 of this title , a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, air, or space service, notwithstanding that there is no record of evidence of such disease during a period of such service.
+  - **(1)** For the purposes of section 1110 of this title , and subject to the provisions of section 1113 of this title , a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such disease during a period of such service.
   - **(2)** The diseases referred to in paragraph (1) of this subsection are the following:
     - **(A)** Leukemia (other than chronic lymphocytic leukemia).
     - **(B)** Cancer of the thyroid.
@@ -72,7 +72,4 @@ generated_at: "2026-03-29T02:14:50.342Z"
       - **(ii)** The occupation of Hiroshima or Nagasaki, Japan, by United States forces during the period beginning on August 6, 1945 , and ending on July 1, 1946 .
       - **(iii)** Internment as prisoner of war in Japan (or service on active duty in Japan immediately following such internment) during World War II which (as determined by the Secretary) resulted in an opportunity for exposure to ionizing radiation comparable to that of veterans described in clause (ii) of this subparagraph.
       - **(iv)** Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 ( 42 U.S.C. 7384 l (14)).
-      - **(v)** Cleanup of Enewetak Atoll during the period beginning on January 1, 1977 , and ending on December 31, 1980 .
-      - **(vi)** Onsite participation in the response effort following the collision of a United States Air Force B–52 bomber and refueling plane that caused the release of four thermonuclear weapons in the vicinity of Palomares, Spain, during the period beginning January 17, 1966 , and ending March 31, 1967 .
-      - **(vii)** Onsite participation in the response effort following the on-board fire and crash of a United States Air Force B–52 bomber that caused the release of four thermonuclear weapons in the vicinity of Thule Air Force Base, Greenland, during the period beginning January 21, 1968 , and ending September 25, 1968 .
   - **(4)** A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 ( 42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.

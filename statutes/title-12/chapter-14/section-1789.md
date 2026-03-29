@@ -3,9 +3,9 @@ title: "Section 1789 - Administrative provisions"
 usc_title: 12
 usc_section: "1789"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1789"
-generated_at: "2026-03-29T02:11:21.021Z"
+generated_at: "2026-03-29T17:51:13.103Z"
 ---
 
 # § 1789. Administrative provisions
@@ -23,8 +23,5 @@ generated_at: "2026-03-29T02:11:21.021Z"
   - **(10)** delegate to any officer or employee of the Administration such of its functions as it deems appropriate; and
   - **(11)** prescribe such rules and regulations as it may deem necessary or appropriate to carry out the provisions of this subchapter.
 - **(b)** With respect to the financial operations arising by reason of this subchapter, the Board shall—
-  - **(1)** on an annual basis and prior to the submission of the detailed business-type budget required under paragraph (2)—
-    - **(A)** make publicly available and publish in the Federal Register a draft of the detailed business-type budget; and
-    - **(B)** hold a public hearing, with public notice provided of the hearing, during which the public may submit comments on the draft of the detailed business-type budget;
-  - **(2)** prepare annually and submit a detailed business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31, which shall address any comment submitted by the public under paragraph (1)(B); and
-  - **(3)** maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 1 1 See References in Text note below. of title 31.
+  - **(1)** prepare annually and submit a business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31; and
+  - **(2)** maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 1 1 See References in Text note below. of title 31.

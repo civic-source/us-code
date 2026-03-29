@@ -1,77 +1,37 @@
 ---
-title: "Section 185 - Joint Safety Council"
+title: "Section 185 - Financial Management Modernization Executive Committee"
 usc_title: 10
 usc_section: "185"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 185"
-generated_at: "2026-03-29T02:10:44.840Z"
+generated_at: "2026-03-29T17:50:56.933Z"
 ---
 
-# § 185. Joint Safety Council
+# § 185. Financial Management Modernization Executive Committee
 
-- **(a)** There is established, within the Office of the Deputy Secretary of Defense, a Joint Safety Council (in this section referred to as the “Council”).
-- **(b)**
-  - **(1)** The Council shall be composed of voting members as follows:
-    - **(A)** The Director of Safety for each military department.
-    - **(B)** An employee of the Department of Defense who is a career member of the Senior Executive Service and has a demonstrated record of success in the implementation of programs within the Department of Defense (as determined by the Deputy Secretary of Defense), appointed by the Deputy Secretary of Defense.
-    - **(C)** One member of the armed forces or civilian employee from each military department, appointed by the Secretary concerned.
-    - **(D)** During periods in which the Coast Guard is not operating as a service in the Department of the Navy, an officer of the Coast Guard, appointed by the Secretary of Homeland Security.
-    - **(E)** Such additional members as may be determined by the Deputy Secretary of Defense.
-  - **(2)**
-    - **(A)** Each member of the Council shall serve at the will of the official who appointed that member.
-    - **(B)** Any vacancy on the Council shall be filled in the same manner as the original appointment.
-  - **(3)** Members of the Council may not receive additional pay, allowances, or benefits by reason of their service on the Council.
-- **(c)**
-  - **(1)**
-    - **(A)** The Secretary of Defense, or the designee of the Secretary, shall select one of the members of the Council who is a member of the armed forces to serve as the Chairperson of the Council.
-    - **(B)** The Chairperson shall serve for a term of two years and shall be responsible for—
-      - **(i)** serving as the Director of Safety for the Department of Defense;
-      - **(ii)** serving as principal advisor to the Secretary of Defense regarding military safety and related regulations and policy reforms, including issues regarding maintenance, supply chains, personnel management, and training;
-      - **(iii)** overseeing all duties and activities of the Council, including the conduct of military safety studies and the issuance of safety guidance to the military departments;
-      - **(iv)** working with, and advising, the Secretaries of the military departments through appointed safety chiefs to implement standardized safety guidance across the military departments;
-      - **(v)** submitting to the Secretary of Defense and Congress an annual report reviewing the compliance of each military department with the guidance described in clause (iv);
-      - **(vi)** advising Congress on issues relating to military safety and reforms; and
-      - **(vii)** overseeing coordination with other Federal agencies, including the Federal Aviation Administration, to inform military aviation safety guidance and reforms.
-  - **(2)** The individual appointed under subsection (b)(1)(B) shall serve as the Vice Chairperson. The Vice Chairperson shall report to the Chairperson and shall serve as Chairperson in the absence of the Chairperson.
-- **(d)** The Council shall carry out the following responsibilities:
-  - **(1)** Subject to subsection (e), issuing, publishing, and updating regulations related to joint safety, including regulations on the reporting and investigation of mishaps.
-  - **(2)** With respect to mishap data—
-    - **(A)** establishing uniform data collection standards and a repository, that is accessible Department-wide, of data for mishaps in the Department of Defense;
-    - **(B)** reviewing the compliance of each military department in adopting and using the uniform data collection standards established under subparagraph (A); and
-    - **(C)** reviewing mishap data to assess, identify, and prioritize risk mitigation efforts and safety improvement efforts across the Department.
-  - **(3)** With respect to non-mishap data—
-    - **(A)** establishing standards and requirements for the collection of aircraft, equipment, simulator, airfield, range, pilot, and operator data;
-    - **(B)** establishing standards and requirements for the collection of ground vehicle equipment and crew data; and
-    - **(C)** establishing requirements for each military department to collect and analyze any waivers issued relating to pilot or operator qualifications or standards.
-  - **(4)** Reviewing and assessing civil and commercial aviation safety programs and practices to determine the suitability of such programs and practices for implementation in the military departments.
-  - **(5)** Establishing, in consultation with the Administrator of the Federal Aviation Administration, a requirement for each military department to implement an aviation safety management system.
-  - **(6)** Establishing, in consultation with the heads of appropriate Federal departments and agencies, a requirement for each military department to implement a separate safety management program for ground vehicles and ships.
-  - **(7)** Ensuring each military department has in place, for the safety management system and program described in paragraphs (5) and (6), respectively, of that military department—
-    - **(A)** a resolution plan that identifies specific corrective and preventative actions to address the causes of mishaps; and
-    - **(B)** an implementation plan for such system and program.
-  - **(8)** Reviewing the proposal of each military department for the safety management system and program described in paragraphs (5) and (6), respectively.
-  - **(9)** Reviewing the implementation of such systems by each military department.
-  - **(10)** Ensuring each military department has in place a system to monitor the implementation of recommendations made in safety and legal investigation reports of mishap incidents.
-  - **(11)** Not later than one year after the initial identification of corrective and preventative actions by a military department pursuant to a resolution plan under paragraph (7)(A), and periodically thereafter, reviewing and validating each such identified corrective and preventative action to ensure the action is effective.
-  - **(12)** Ensuring any related change in methods, tactics, or procedures necessary for the conduct of such identified corrective and preventative actions have been implemented.
-- **(e)** The decisions and recommendations of the Council are subject to review and approval by the Deputy Secretary of Defense.
-- **(f)**
-  - **(1)** The Council may appoint staff in accordance with section 3101 of title 5 .
-  - **(2)** The Council may accept persons on detail from within the Department of Defense and from other Federal departments or agencies on a reimbursable or non-reimbursable basis.
-- **(g)** The Council may enter into contracts for the acquisition of administrative supplies, equipment, and personnel services for use by the Council, to the extent that funds are available for such purposes.
-- **(h)** The Chairperson may procure temporary and intermittent services under section 3109(b) of title 5 at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
-- **(i)**
-  - **(1)** Under regulations issued by the Secretary of Defense, the Council shall have access to Department of Defense databases necessary to carry out its responsibilities, including causal factors to be used for mishap reduction purposes.
-  - **(2)** Under regulations issued by the Secretary of Defense, the Council may enter into agreements with the Federal Aviation Administration, the National Transportation Safety Board, and any other Federal agency regarding the sharing of safety data.
-  - **(3)** Data collected by the Council pursuant to this subsection may include privileged safety information that is protected from disclosure or discovery to any person.
-- **(j)** The Council shall meet quarterly and at the call of the Chairperson.
-- **(k)**
-  - **(1)** The Chairperson of the Council shall submit to the congressional defense committees biannual reports on the activities of the Council.
-  - **(2)** Not later than December 31 of each year, the Deputy Secretary of Defense shall submit to the congressional defense committees an annual report containing—
-    - **(A)** a summary of the goals and priorities of the Deputy Secretary for the year following the date of the submission of the report with respect to the activities of the Council;
-    - **(B)** an assessment by the Deputy Secretary of the activities of the Council carried out during the year preceding the date of such submission; and
-    - **(C)** for the year covered by the report—
-      - **(i)** releasable information regarding any mishap that occurred during such year; and
-      - **(ii)** an identification of any corrective or preventative action implemented pursuant to a recommendation made in a safety or legal investigation report of such a mishap.
-- **(l)** Not later than March 31 and December 31 of each year, the Chairperson of the Council shall provide to the congressional defense committees a briefing on the contents of the report required to be submitted under subsection (k)(1) that covers the six-month period preceding the date of the briefing.
+- **(a)**
+  - **(1)** The Secretary of Defense shall establish a Financial Management Modernization Executive Committee.
+  - **(2)** The Committee shall be composed of the following:
+    - **(A)** The Under Secretary of Defense (Comptroller), who shall be the chairman of the committee.
+    - **(B)** The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+    - **(C)** The Under Secretary of Defense for Personnel and Readiness.
+    - **(D)** The Chief Information Officer of the Department of Defense.
+    - **(E)** Such additional personnel of the Department of Defense (including appropriate personnel of the military departments and Defense Agencies) as are designated by the Secretary.
+  - **(3)** The Committee shall be accountable to the Senior Executive Council (composed of the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force).
+- **(b)** In addition to other matters assigned to it by the Secretary of Defense, the Committee shall have the following duties:
+  - **(1)** To establish a process that ensures that each critical accounting system, financial management system, and data feeder system of the Department of Defense is compliant with applicable Federal financial management and reporting requirements.
+  - **(2)** To develop a management plan for the implementation of the financial and data feeder systems compliance process established pursuant to paragraph (1).
+  - **(3)** To supervise and monitor the actions that are necessary to implement the management plan developed pursuant to paragraph (2), as approved by the Secretary of Defense.
+  - **(4)** To ensure that a Department of Defense financial management enterprise architecture is developed and maintained in accordance with—
+    - **(A)** the overall business process transformation strategy of the Department; and
+    - **(B)** the architecture framework of the Department for command, control, communications, computers, intelligence, surveillance, and reconnaissance functions.
+  - **(5)** To ensure that investments in existing or proposed financial management systems for the Department comply with the overall business practice transformation strategy of the Department and the financial management enterprise architecture developed under paragraph (4).
+  - **(6)** To provide an annual accounting of each financial and data feeder system investment technology project to ensure that each such project is being implemented at acceptable cost and within a reasonable schedule and is contributing to tangible, observable improvements in mission performance.
+- **(c)** The management plan developed under subsection (b)(2) shall include among its principal elements at least the following elements:
+  - **(1)** A requirement for the establishment and maintenance of a complete inventory of all budgetary, accounting, finance, and data feeder systems that support the transformed business processes of the Department and produce financial statements.
+  - **(2)** A phased process (consisting of the successive phases of Awareness, Evaluation, Renovation, Validation, and Compliance) for improving systems referred to in paragraph (1) that provides for mapping financial data flow from the cognizant Department business function source (as part of the overall business process transformation strategy of the Department) to Department financial statements.
+  - **(3)** Periodic submittal to the Secretary of Defense, the Deputy Secretary of Defense, and the Senior Executive Council (or any combination thereof) of reports on the progress being made in achieving financial management transformation goals and milestones included in the annual financial management improvement plan in 2002.
+  - **(4)** Documentation of the completion of each phase specified in paragraph (2) of improvements made to each accounting, finance, and data feeder system of the Department.
+  - **(5)** Independent audit by the Inspector General of the Department, the audit agencies of the military departments, and private sector firms contracted to conduct validation audits (or any combination thereof) at the validation phase for each accounting, finance, and data feeder system.
+- **(d)** In this section, the term “data feeder system” means an automated or manual system from which information is derived for a financial management system or an accounting system.

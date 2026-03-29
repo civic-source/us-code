@@ -3,9 +3,9 @@ title: "Section 8743 - Identification of, and imposition of measures with respec
 usc_title: 22
 usc_section: "8743"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8743"
-generated_at: "2026-03-29T02:12:40.466Z"
+generated_at: "2026-03-29T17:52:10.726Z"
 ---
 
 # § 8743. Identification of, and imposition of measures with respect to, foreign government agencies carrying out activities or transactions with certain Iran-affiliated persons
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:12:40.466Z"
       - **(ii)** to the provision of medicines, medical equipment, and humanitarian assistance; or
       - **(iii)** to any credit, credit guarantee, or financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodities.
     - **(G)** Additional restrictions as may be imposed pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
-  - **(2)** Nothing in this subsection shall be construed to impose measures with respect to programs under section 1501 of the National Defense Authorization Act for Fiscal Year 1997 ( 50 U.S.C. 2632 1 1 So in original. Probably should be “2362”. note) and programs under the Atomic Energy Defense Act ( 50 U.S.C. 2501 et seq.). 2 2 See References in Text note below.
+  - **(2)** Nothing in this subsection shall be construed to impose measures with respect to programs under section 1501 of the National Defense Authorization Act for Fiscal Year 1997 ( 50 U.S.C. 2632 1 1 So in original. Probably should be “2362”. note) and programs under the Atomic Energy Defense Act ( 50 U.S.C. 2501 et seq.).
 - **(c)** The President may terminate any measures imposed with respect to an agency pursuant to subsection (b) if the President determines and notifies the appropriate congressional committees that—
   - **(1)**
     - **(A)** a person described in subparagraph (A) or (B) of subsection (a)(2) with respect to which the agency is carrying out activities or transactions is no longer designated pursuant to subparagraph (A) or (B) of subsection (a)(2); or

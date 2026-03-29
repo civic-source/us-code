@@ -3,9 +3,9 @@ title: "Section 3330 - Government-wide list of vacant positions"
 usc_title: 5
 usc_section: "3330"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 3330"
-generated_at: "2026-03-29T02:10:01.820Z"
+generated_at: "2026-03-29T17:50:36.455Z"
 ---
 
 # § 3330. Government-wide list of vacant positions

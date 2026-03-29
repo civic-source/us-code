@@ -3,15 +3,15 @@ title: "Section 628 - Special selection boards"
 usc_title: 10
 usc_section: "628"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 628"
-generated_at: "2026-03-29T02:10:44.892Z"
+generated_at: "2026-03-29T17:50:56.957Z"
 ---
 
 # § 628. Special selection boards
 
 - **(a)**
-  - **(1)** If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion from in or above the promotion zone by a promotion board was not so considered, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
+  - **(1)** If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion from in or above the promotion zone by a promotion board was not so considered, or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
   - **(2)** A special selection board convened under paragraph (1) shall consider the record of the person whose name was referred to it for consideration as that record would have appeared to the board that should have considered him. That record shall be compared with a sampling of the records of those officers of the same competitive category who were recommended for promotion, and those officers who were not recommended for promotion, by the board that should have considered him.
   - **(3)** If a special selection board convened under paragraph (1) does not recommend for promotion a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person shall be considered to have failed of selection for promotion.
 - **(b)**

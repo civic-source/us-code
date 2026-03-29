@@ -3,9 +3,9 @@ title: "Section 7021 - Transferable records"
 usc_title: 15
 usc_section: "7021"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 7021"
-generated_at: "2026-03-29T02:11:34.413Z"
+generated_at: "2026-03-29T17:51:36.409Z"
 ---
 
 # § 7021. Transferable records
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:11:34.413Z"
     - **(C)** relates to a loan secured by real property.
   - **(2)** The terms “electronic record”, “electronic signature”, and “person” have the same meanings provided in section 7006 of this title .
 - **(b)** A person has control of a transferable record if a system employed for evidencing the transfer of interests in the transferable record reliably establishes that person as the person to which the transferable record was issued or transferred.
-- **(c)** A system satisfies subsection (b), and a person is deemed to have control of a transferable record, if the transferable record is created, stored, and assigned in such a manner that—
+- **(c)** A system satisfies subsection (b) of this section, and a person is deemed to have control of a transferable record, if the transferable record is created, stored, and assigned in such a manner that—
   - **(1)** a single authoritative copy of the transferable record exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;
   - **(2)** the authoritative copy identifies the person asserting control as—
     - **(A)** the person to which the transferable record was issued; or

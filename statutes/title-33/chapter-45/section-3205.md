@@ -3,17 +3,16 @@ title: "Section 3205 - Tsunami research program"
 usc_title: 33
 usc_section: "3205"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 3205"
-generated_at: "2026-03-29T02:14:18.655Z"
+generated_at: "2026-03-29T17:52:46.005Z"
 ---
 
 # § 3205. Tsunami research program
 
-- **(a)** The Administrator shall, in consultation with such other Federal agencies, State, tribal, and territorial governments, and academic institutions as the Administrator considers appropriate, the coordinating committee under section 3204(d) 1 1 So in original. Probably should read “section 3204(b)”. of this title, and the panel under section 3206a(a) of this title , support or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, assessment for tsunami tracking and numerical forecast modeling, and standards development.
-- **(b)** The research program supported or maintained under subsection (a) shall—
-  - **(1)** consider other appropriate and cost effective solutions to mitigate the impact of tsunami, including the improvement of near-field and distant tsunami detection and forecasting capabilities, which may include use of a new generation of the Deep-ocean Assessment and Reporting of Tsunamis array, integration of tsunami sensors into commercial and Federal telecommunications cables, and other real-time tsunami monitoring systems and supercomputer capacity of the Administration to develop a rapid tsunami forecast for all United States coastlines;
+The Administrator shall, in consultation with other agencies and academic institutions, and with the coordinating committee established under section 3204(b) of this title , establish or maintain a tsunami research program to develop detection, forecast, communication, and mitigation science and technology, including advanced sensing techniques, information and communication technology, data collection, analysis, and assessment for tsunami tracking and numerical forecast modeling. Such research program shall—
+
+  - **(1)** consider other appropriate research to mitigate the impact of tsunami;
   - **(2)** coordinate with the National Weather Service on technology to be transferred to operations;
-  - **(3)** conduct social science research to develop and assess community warning, education, and evacuation materials;
-  - **(4)** develop the technical basis for validation of tsunami maps, numerical tsunami models, digital elevation models, and forecasts; and
-  - **(5)** ensure that research and findings are available to the public and the scientific community.
+  - **(3)** include social science research to develop and assess community warning, education, and evacuation materials; and
+  - **(4)** ensure that research and findings are available to the scientific community.

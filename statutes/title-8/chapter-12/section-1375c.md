@@ -3,9 +3,9 @@ title: "Section 1375c - Protections, remedies, and limitations on issuance for A
 usc_title: 8
 usc_section: "1375c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1375c"
-generated_at: "2026-03-29T02:10:21.465Z"
+generated_at: "2026-03-29T17:50:41.376Z"
 ---
 
 # § 1375c. Protections, remedies, and limitations on issuance for A–3 and G–5 visas
@@ -14,8 +14,8 @@ generated_at: "2026-03-29T02:10:21.465Z"
   - **(1)** Notwithstanding any other provision of law, the Secretary of State may not issue—
     - **(A)** an A–3 visa unless the applicant is employed, or has signed a contract to be employed containing the requirements set forth in subsection (d)(2), 1 1 So in original. Probably should be “(b)(2),”. by an officer of a diplomatic mission or consular post; or
     - **(B)** a G–5 visa unless the applicant is employed, or has signed a contract to be employed by an employee in an international organization.
-  - **(2)** Notwithstanding any other provision of law, the Secretary shall suspend, for a period of at least 1 year, except if the Secretary determines and reports to the appropriate congressional committees, in advance, the reasons a shorter period is in the national interest,, 2 2 So in original. the issuance of A–3 visas or G–5 visas to applicants seeking to work for officials of a diplomatic mission or an international organization, if there is an unpaid default or final civil judgement directly or indirectly related to human trafficking against the employer or a family member assigned to the embassy, or the diplomatic mission or international organization hosting the employer or family member has not responded affirmatively to a request to waive immunity within 6 weeks of the request in a case brought by the United States Government and the country that accredited the employer or family member or, in the case of international organizations, the country of citizenship, has not initiated prosecution against the employer or family member.
-  - **(3)** The Secretary may suspend the application of the limitation under paragraph (2) if the Secretary determines and reports to the appropriate congressional committees that, as applicable, the unpaid default judgment or final civil judgement has been resolved, the diplomatic mission or international organization hosting the employer or family member has waived immunity for the employer or family member or the country that accredited the employer or family member or the country of citizenship of the employer or family member completed the prosecution of the employer or family member, and the diplomatic mission or international organization hosting the employer or family member has a mechanism in place to ensure that such abuse or exploitation does not reoccur with respect to any alien employed by an employee of such mission or institution.
+  - **(2)** Notwithstanding any other provision of law, the Secretary shall suspend, for such period as the Secretary determines necessary, the issuance of A–3 visas or G–5 visas to applicants seeking to work for officials of a diplomatic mission or an international organization, if the Secretary determines that there is credible evidence that 1 or more employees of such mission or international organization have abused or exploited 1 or more nonimmigrants holding an A–3 visa or a G–5 visa, and that the diplomatic mission or international organization tolerated such actions.
+  - **(3)** The Secretary may suspend the application of the limitation under paragraph (2) if the Secretary determines and reports to the appropriate congressional committees that a mechanism is in place to ensure that such abuse or exploitation does not reoccur with respect to any alien employed by an employee of such mission or institution.
 - **(b)**
   - **(1)** The Secretary may not issue or renew an A–3 visa or a G–5 visa unless—
     - **(A)** the visa applicant has executed a contract with the employer or prospective employer containing provisions described in paragraph (2); and
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T02:10:21.465Z"
       - **(i)** adjudicating claims of rights violations;
       - **(ii)** determining the level of compensation; and
       - **(iii)** administering the program, fund, or scheme.
-- **(e)** The Secretary shall cooperate, to the fullest extent possible consistent with the United States obligations under the Vienna Convention on Diplomatic Relations, done at Vienna, April 18, 1961 , (23 U.S.T. 3229), 3 3 So in original. Probably should be “ April 18, 1961 (23 U.S.T. 3227),”. with any investigation by United States law enforcement authorities of crimes related to abuse or exploitation of a nonimmigrant holding an A–3 visa or a G–5 visa.
+- **(e)** The Secretary shall cooperate, to the fullest extent possible consistent with the United States obligations under the Vienna Convention on Diplomatic Relations, done at Vienna, April 18, 1961 , (23 U.S.T. 3229), 2 2 So in original. Probably should be “ April 18, 1961 (23 U.S.T. 3227),”. with any investigation by United States law enforcement authorities of crimes related to abuse or exploitation of a nonimmigrant holding an A–3 visa or a G–5 visa.
 - **(f)** In this section:
   - **(1)** The term “A–3 visa” means a nonimmigrant visa issued pursuant to section 1101(a)(15)(A)(iii) of this title .
   - **(2)** The term “G–5 visa” means a nonimmigrant visa issued pursuant to section 1101(a)(15)(G)(v) of this title .

@@ -3,21 +3,18 @@ title: "Section 1003 - Leasing procedures"
 usc_title: 30
 usc_section: "1003"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1003"
-generated_at: "2026-03-29T02:14:11.237Z"
+generated_at: "2026-03-29T17:52:16.741Z"
 ---
 
 # § 1003. Leasing procedures
 
 - **(a)** The Secretary shall accept nominations of land to be leased at any time from qualified companies and individuals under this chapter.
 - **(b)**
-  - **(1)** Except as otherwise specifically provided by this chapter, all land to be leased that is not subject to leasing under subsection (c) shall be leased as provided in this subsection to the highest responsible qualified bidder, as determined by the Secretary.
-  - **(2)** The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) if the land is otherwise available for leasing.
+  - **(1)** Except as otherwise specifically provided by this chapter, all land to be leased that is not subject to leasing under subsection (c) of this section shall be leased as provided in this subsection to the highest responsible qualified bidder, as determined by the Secretary.
+  - **(2)** The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) of this section if the land is otherwise available for leasing.
   - **(3)** Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency may be available for noncompetitive leasing under this section to the mining claim holder.
-  - **(4)** Land under an oil and gas lease issued pursuant to the Mineral Leasing Act ( 30 U.S.C. 181 et seq.) or the Mineral Leasing Act for Acquired Lands ( 30 U.S.C. 351 et seq.) that is subject to an approved application for permit to drill and from which oil and gas production is occurring may be available for noncompetitive leasing under subsection (c) by the holder of the oil and gas lease—
-    - **(A)** on a determination that geothermal energy will be produced from a well producing or capable of producing oil and gas; and
-    - **(B)** to provide for the coproduction of geothermal energy with oil and gas.
 - **(c)** The Secretary shall make available for a period of 2 years for noncompetitive leasing any tract for which a competitive lease sale is held, but for which the Secretary does not receive any bids in a competitive lease sale.
 - **(d)**
   - **(1)** It shall be a priority for the Secretary, and for the Secretary of Agriculture with respect to National Forest Systems land, to ensure timely completion of administrative actions, including amendments to applicable forest plans and resource management plans, necessary to process applications for geothermal leasing pending on August 8, 2005 . 1 1 See Codification note below. All future forest plans and resource management plans for areas with high geothermal resource potential shall consider geothermal leasing and development.
@@ -25,7 +22,7 @@ generated_at: "2026-03-29T02:14:11.237Z"
     - **(A)** except as provided in subparagraph (B), shall be subject to this section as in effect on the day before August 8, 2005 ; or
     - **(B)** at the election of the applicant, shall be subject to this section as in effect on August 8, 2005 .
 - **(e)** If information is available to the Secretary indicating a geothermal resource that could be produced as 1 unit can reasonably be expected to underlie more than 1 parcel to be offered in a competitive lease sale, the parcels for such a resource may be offered for bidding as a block in the competitive lease sale.
-- **(f)** Notwithstanding subsection (b), the Secretary may identify areas in which the land to be leased under this chapter exclusively for direct use of geothermal resources, without sale for purposes other than commercial generation of electricity, may be leased to any qualified applicant that first applies for such a lease under regulations issued by the Secretary, if the Secretary—
+- **(f)** Notwithstanding subsection (b) of this section, the Secretary may identify areas in which the land to be leased under this chapter exclusively for direct use of geothermal resources, without sale for purposes other than commercial generation of electricity, may be leased to any qualified applicant that first applies for such a lease under regulations issued by the Secretary, if the Secretary—
   - **(1)** publishes a notice of the land proposed for leasing not later than 90 days before the date of the issuance of the lease;
   - **(2)** does not receive during the 90-day period beginning on the date of the publication any nomination to include the land concerned in the next competitive lease sale; and
   - **(3)** determines there is no competitive interest in the geothermal resources in the land to be leased.

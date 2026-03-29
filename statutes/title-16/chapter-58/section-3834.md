@@ -3,9 +3,9 @@ title: "Section 3834 - Payments"
 usc_title: 16
 usc_section: "3834"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3834"
-generated_at: "2026-03-29T02:11:53.904Z"
+generated_at: "2026-03-29T17:51:56.968Z"
 ---
 
 # § 3834. Payments
@@ -17,53 +17,49 @@ generated_at: "2026-03-29T02:11:53.904Z"
     - **(B)** at the option of the Secretary, at any time prior to such date during the year that the obligation is incurred.
 - **(b)**
   - **(1)** In making cost sharing payments to an owner or operator under a contract entered into under this subpart, the Secretary shall pay 50 percent of the cost of establishing water quality and conservation measures and practices required under each contract for which the Secretary determines that cost sharing is appropriate and in the public interest.
-  - **(2)**
-    - **(A)** The Secretary shall ensure, to the maximum extent practicable, that cost sharing payments to an owner or operator under this subpart, when combined with the sum of payments from all other funding sources for measures and practices described in paragraph (1), do not exceed 100 percent of the total actual cost of establishing those measures and practices, as determined by the Secretary.
-    - **(B)** The Secretary may not make any cost sharing payment to an owner or operator under this subpart pursuant to section 3832(a)(5) of this title .
-    - **(C)** In the case of seed costs related to the establishment of cover, cost sharing payments under this subpart shall not exceed 50 percent of the actual cost of the seed mixture, as determined by the Secretary.
-  - **(3)** Except in the case of incentive payments that are related to the cost of the establishment of a practice and received from eligible partners under the conservation reserve enhancement program under section 3831a of this title , an owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistance with respect to the land under any other provision of law.
-  - **(4)** In addition to the cost sharing payment described in this subsection, the Secretary shall make an incentive payment to an owner or operator of land enrolled under section 3831(d)(6) of this title in an amount not to exceed 50 percent of the actual cost of establishing all measures and practices described in paragraph (1), including seed costs related to the establishment of cover, as determined by the Secretary.
-- **(c)**
-  - **(1)** Using funds made available under section 3841(a)(1)(A) of this title , the Secretary may make incentive payments to an owner or operator of eligible land in an amount sufficient to encourage proper thinning and other practices to improve the condition of resources, promote forest management, or enhance wildlife habitat on the land.
-  - **(2)** A payment described in paragraph (1) may not exceed 100 percent of the total cost of thinning and other practices conducted by the owner or operator.
-- **(d)**
-  - **(1)** In determining the amount of annual rental payments to be paid to owners and operators for converting highly erodible cropland or other eligible lands normally devoted to the production of an agricultural commodity to less intensive use, the Secretary shall consider—
-    - **(A)** the amount necessary to encourage owners or operators of highly erodible cropland or other eligible lands to participate in the program established by this subpart;
-    - **(B)** the impact on the local farmland rental market; and
-    - **(C)** such other factors as the Secretary determines to be appropriate.
-  - **(2)**
-    - **(A)** The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through the submission of applications for such contracts by owners and operators in such manner as the Secretary may prescribe.
+  - **(2)** The Secretary shall not make any payment to an owner or operator under this subpart to the extent that the total amount of cost sharing payments provided to the owner or operator from all sources would exceed 100 percent of the total cost of establishing measures and practices described in paragraph (1).
+  - **(3)**
+    - **(A)** This paragraph applies to—
+      - **(i)** land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990 ;
+      - **(ii)** land converted to such production under section 3835a of this title ; and
+      - **(iii)** land on which an owner or operator agrees to conduct thinning authorized by section 3832(a)(9) of this title , if the thinning is necessary to improve the condition of resources on the land.
     - **(B)**
-      - **(i)** Subject to clause (ii), if land subject to a contract entered into under this subpart is reenrolled under section 3831(h)(1) of this title or has been previously enrolled in the conservation reserve, the annual rental payment shall be in an amount that is not more than 85 percent in the case of general enrollment contacts, or 90 percent in the case of continuous enrollment contracts, of the applicable estimated average county rental rate published pursuant to paragraph (4) for the year in which the reenrollment occurs.
-      - **(ii)** The reduction in annual rental payments under clause (i) may be waived as part of the negotiation between the Secretary and an eligible partner to enter into a conservation reserve enhancement program agreement under section 3831a of this title .
-    - **(C)** Notwithstanding subparagraph (A), in the case of eligible land described in section 3831(b)(3) of this title , the Secretary shall make annual payments in an amount that is not more than 75 percent of the grazing value of the land covered by the contract.
-    - **(D)** The Secretary shall make an incentive payment to the owner or operator of land enrolled under section 3831(d)(6) of this title at the time of initial enrollment in an amount equal to 32.5 percent of the amount of the first annual rental payment under subparagraph (A).
+      - **(i)** In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessary costs incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator) or thinning.
+      - **(ii)** The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
+        - **(I)** the planting of the trees or shrubs; or
+        - **(II)** the thinning of existing stands to improve the condition of resources on the land.
+  - **(4)** The Secretary may permit owners or operators that contract to devote at least 10 acres of land to the production of hardwood trees under this subpart to extend the planting of the trees over a 3-year period if at least ⅓ of the trees are planted in each of the first 2 years.
+  - **(5)** An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistance with respect to the land under any other provision of law.
+- **(c)**
+  - **(1)** In determining the amount of annual rental payments to be paid to owners and operators for converting highly erodible cropland normally devoted to the production of an agricultural commodity to less intensive use, the Secretary may consider, among other things, the amount necessary to encourage owners or operators of highly erodible cropland to participate in the program established by this subpart.
+  - **(2)** The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
+    - **(A)** the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
+    - **(B)** such other means as the Secretary determines are appropriate.
   - **(3)**
     - **(A)** In determining the acceptability of contract offers, the Secretary may take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
     - **(B)** The Secretary may establish different criteria for determining the acceptability of contract offers in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.
     - **(C)** In determining the acceptability of contract offers for new enrollments, the Secretary shall accept, to the maximum extent practicable, an offer from an owner or operator that is a resident of the county in which the land is located or of a contiguous county if, as determined by the Secretary, the land would provide at least equivalent conservation benefits to land under competing offers.
+  - **(4)** In the case of acreage enrolled in the conservation reserve established under this subpart that is to be devoted to hardwood trees, the Secretary may consider bids for contracts under this subsection on a continuous basis.
+  - **(5)**
+    - **(A)** The Secretary (acting through the National Agricultural Statistics Service) shall conduct an annual survey of per acre estimates of county average market dryland and irrigated cash rental rates for cropland and pastureland in all counties or equivalent subdivisions within each State that have 20,000 acres or more of cropland and pastureland.
+    - **(B)** The estimates derived from the annual survey conducted under subparagraph (A) shall be maintained on a website of the Department of Agriculture for use by the general public.
+- **(d)**
+  - **(1)** Except as otherwise provided in this section, payments under this subpart—
+    - **(A)** shall be made in cash or in commodities in such amount and on such time schedule as is agreed on and specified in the contract; and
+    - **(B)** may be made in advance of determination of performance.
+  - **(2)** If the payment to an owner or operator is made with in-kind commodities, the payment shall be made by the Commodity Credit Corporation—
+    - **(A)** by delivery of the commodity involved to the owner or operator at a warehouse or other similar facility located in the county in which the highly erodible cropland is located or at such other location as is agreed to by the Secretary and the owner or operator;
+    - **(B)** by the transfer of negotiable warehouse receipts; or
+    - **(C)** by such other method, including the sale of the commodity in commercial markets, as is determined by the Secretary to be appropriate to enable the owner or operator to receive efficient and expeditious possession of the commodity.
+  - **(3)**
+    - **(A)** If stocks of a commodity acquired by the Commodity Credit Corporation are not readily available to make full payment in kind to the owner or operator, the Secretary may substitute full or partial payment in cash for payment in kind.
+    - **(B)** Payments to an owner or operator under a special conservation reserve enhancement program described in subsection (f)(4) of this section shall be in the form of cash only.
+- **(e)** If an owner or operator that is entitled to a payment under a contract entered into under this subpart dies, becomes incompetent, is otherwise unable to receive the payment, or is succeeded by another person that renders or completes the required performance, the Secretary shall make the payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
+- **(f)**
+  - **(1)** The total amount of rental payments, including rental payments made in the form of in-kind commodities, received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
+  - **(2)**
+  - **(3)** Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.
   - **(4)**
-    - **(A)** The Secretary (acting through the National Agricultural Statistics Service) shall annually conduct a survey of per acre estimates of county average market dryland and irrigated cash rental rates for cropland and pastureland in all counties or equivalent subdivisions within each State that have 20,000 acres or more of cropland and pastureland, and shall publish the estimates derived from the survey not later than September 15 of each year.
-    - **(B)** The estimates derived from the survey conducted under subparagraph (A) and the average current and previous soil rental rates for each county shall be maintained on a website of the Department of Agriculture for use by the general public.
-    - **(C)** The Secretary shall consider the estimates derived from the survey conducted under subparagraph (A) relating to dryland cash rental rates as a factor in determining rental rates under this section in a manner determined appropriate by the Secretary.
-    - **(D)**
-      - **(i)** The Secretary shall provide an opportunity for State Committees of the Farm Service Agency or eligible partners (as defined in section 3831a(a) of this title ) in conservation reserve enhancement programs under section 3831a of this title to propose an alternative soil rental rate prior to finalizing new rates, on the condition that documentation described in clause (ii) is provided to support the proposed alternative.
-      - **(ii)** Documentation referred to in clause (i) includes—
-        - **(I)** an average of cash rents from a random sample of lease agreements;
-        - **(II)** cash rent estimates from a published survey;
-        - **(III)** neighboring county estimate comparisons from the National Agricultural Statistics Service;
-        - **(IV)** an average of cash rents from Farm Service Agency farm business plans;
-        - **(V)** models that estimate cash rents, such as models that use returns to estimate crop production or land value data; or
-        - **(VI)** other documentation, as determined by the Secretary.
-      - **(iii)** Not less than 14 days prior to the announcement of new or revised soil rental rates, the Secretary shall offer a briefing to the Chairman and Ranking Member of the Committee on Agriculture of the House of Representatives and the Chairman and Ranking Member of the Committee on Agriculture, Nutrition, and Forestry of the Senate, including information on and the rationale for the alternative rates proposed under clause (i) that were accepted or rejected.
-    - **(E)** Notwithstanding forest management incentive payments described in subsection (c), the county average soil rental rate (before any adjustments relating to specific practices, wellhead protection, or soil productivity) shall not exceed—
-      - **(i)** 85 percent of the estimated rental rate determined under this paragraph for general enrollment; or
-      - **(ii)** 90 percent of the estimated rental rate determined under this paragraph for continuous enrollment.
-- **(e)**
-  - **(1)** Except as otherwise provided in this section, payments under this subpart shall be made in cash in such amount and on such time schedule as is agreed on and specified in the contract.
-  - **(2)** Payments under this subpart may be made in advance of determination of performance.
-- **(f)** If an owner or operator that is entitled to a payment under a contract entered into under this subpart dies, becomes incompetent, is otherwise unable to receive the payment, or is succeeded by another person that renders or completes the required performance, the Secretary shall make the payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
-- **(g)**
-  - **(1)** Except as provided in paragraph (2), the total amount of rental payments received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
-  - **(2)** Paragraph (1) and section 1308–3a(b) of title 7 shall not apply to rental payments received by a rural water district or association for land that is enrolled under this subpart for the purpose of protecting a wellhead.
-- **(h)** In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
+    - **(A)** The provisions of this subsection that limit payments to any person or legal entity, and section 1305(d) of the Agricultural Reconciliation Act of 1987 ( 7 U.S.C. 1308 note; Public Law 100–203 ), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under a special conservation reserve enhancement program carried out by that entity that has been approved by the Secretary.
+    - **(B)** The Secretary may enter into such agreements for payments to States (including political subdivisions and agencies of States) that the Secretary determines will advance the purposes of this subpart.
+- **(g)** In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.

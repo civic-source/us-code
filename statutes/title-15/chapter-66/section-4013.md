@@ -3,9 +3,9 @@ title: "Section 4013 - Issuance of certificate"
 usc_title: 15
 usc_section: "4013"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 4013"
-generated_at: "2026-03-29T02:11:34.357Z"
+generated_at: "2026-03-29T17:51:36.366Z"
 ---
 
 # § 4013. Issuance of certificate
@@ -15,10 +15,10 @@ generated_at: "2026-03-29T02:11:34.357Z"
   - **(2)** not unreasonably enhance, stabilize, or depress prices within the United States of the goods, wares, merchandise, or services of the class exported by the applicant,
   - **(3)** not constitute unfair methods of competition against competitors engaged in the export of goods, wares, merchandise, or services of the class exported by the applicant, and
   - **(4)** not include any act that may reasonably be expected to result in the sale for consumption or resale within the United States of the goods, wares, merchandise, or services exported by the applicant.
-- **(b)** Within ninety days after the Secretary receives an application for a certificate of review, the Secretary shall determine whether the applicant’s export trade, export trade activities, and methods of operation meet the standards of subsection (a). If the Secretary, with the concurrence of the Attorney General, determines that such standards are met, the Secretary shall issue to the applicant a certificate of review. The certificate of review shall specify—
+- **(b)** Within ninety days after the Secretary receives an application for a certificate of review, the Secretary shall determine whether the applicant’s export trade, export trade activities, and methods of operation meet the standards of subsection (a) of this section. If the Secretary, with the concurrence of the Attorney General, determines that such standards are met, the Secretary shall issue to the applicant a certificate of review. The certificate of review shall specify—
   - **(1)** the export trade, export trade activities, and methods of operation to which the certificate applies,
   - **(2)** the person to whom the certificate of review is issued, and
-  - **(3)** any terms and conditions the Secretary or the Attorney General deems necessary to assure compliance with the standards of subsection (a).
+  - **(3)** any terms and conditions the Secretary or the Attorney General deems necessary to assure compliance with the standards of subsection (a) of this section.
 - **(c)** If the applicant indicates a special need for prompt disposition, the Secretary and the Attorney General may expedite action on the application, except that no certificate of review may be issued within thirty days of publication of notice in the Federal Register under section 4012(b)(1) of this title .
 - **(d)**
   - **(1)** If the Secretary denies in whole or in part an application for a certificate, he shall notify the applicant of his determination and the reasons for it.

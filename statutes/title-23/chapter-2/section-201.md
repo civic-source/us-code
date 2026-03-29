@@ -3,9 +3,9 @@ title: "Section 201 - Federal lands and tribal transportation programs"
 usc_title: 23
 usc_section: "201"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 201"
-generated_at: "2026-03-29T02:13:00.951Z"
+generated_at: "2026-03-29T17:52:01.438Z"
 ---
 
 # § 201. Federal lands and tribal transportation programs
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:13:00.951Z"
       - **(ii)** modifies the point of obligation associated with Federal salaries and expenses.
   - **(7)**
     - **(A)** The Federal share of the cost of a project carried out under the Federal lands transportation program or the tribal transportation program shall be 100 percent.
-    - **(B)** The Federal share of the cost of a project carried out under the Federal lands access program shall be be 1 1 So in original. up to 100 percent.
+    - **(B)** The Federal share of the cost of a project carried out under the Federal lands access program shall be determined in accordance with section 120.
 - **(c)**
   - **(1)** In consultation with the Secretary of each appropriate Federal land management agency, the Secretary shall implement transportation planning procedures for Federal lands and tribal transportation facilities that are consistent with the planning processes required under sections 134 and 135.
   - **(2)** The transportation improvement program developed as a part of the transportation planning process under this section shall be approved by the Secretary.
@@ -40,24 +40,11 @@ generated_at: "2026-03-29T02:13:00.951Z"
   - **(4)** The approved tribal transportation program, Federal lands transportation program, and Federal lands access program transportation improvement programs shall be included in appropriate State and metropolitan planning organization plans and programs without further action on the transportation improvement program.
   - **(5)** The Secretary and the Secretary of each appropriate Federal land management agency shall, to the extent appropriate, implement safety, bridge, pavement, and congestion management systems for facilities funded under the tribal transportation program and the Federal lands transportation program in support of asset management.
   - **(6)**
-    - **(A)**
-      - **(i)** The Secretaries of the appropriate Federal land management agencies shall collect and report data necessary to implement the Federal lands transportation program, the Federal lands access program, and the tribal transportation program.
-      - **(ii)** Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.).
-      - **(iii)** Data collected under this paragraph includes—
-        - **(I)** inventory and condition information on Federal lands transportation facilities and tribal transportation facilities; and
-        - **(II)** bridge inspection and inventory information on any Federal bridge open to the public.
+    - **(A)** The Secretaries of the appropriate Federal land management agencies shall collect and report data necessary to implement the Federal lands transportation program, the Federal lands access program, and the tribal transportation program in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), including—
+      - **(i)** inventory and condition information on Federal lands transportation facilities and tribal transportation facilities; and
+      - **(ii)** bridge inspection and inventory information on any Federal bridge open to the public.
     - **(B)** The Secretary, in coordination with the Secretaries of the appropriate Federal land management agencies, shall define the collection and reporting data standards.
-    - **(C)** In addition to the data to be collected under subparagraph (A), not later than 90 days after the last day of each fiscal year, any entity carrying out a project under the tribal transportation program under section 202 shall submit to the Secretary and the Secretary of the Interior, based on obligations and expenditures under the tribal transportation program during the preceding fiscal year, the following data:
-      - **(i)** The names of projects and activities carried out by the entity under the tribal transportation program during the preceding fiscal year.
-      - **(ii)** A description of the projects and activities identified under clause (i).
-      - **(iii)** The current status of the projects and activities identified under clause (i).
-      - **(iv)** An estimate of the number of jobs created and the number of jobs retained by the projects and activities identified under clause (i).
-  - **(7)** The Secretary may conduct cooperative research and technology deployment in coordination with Federal land management agencies, as determined appropriate by the Secretary.
-  - **(8)**
-    - **(A)** To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 20 percent of the funds authorized for programs under sections 203 and 204.
-    - **(B)** In addition to the activities described in subparagraph (A), funds described under that subparagraph may be used for—
-      - **(i)** bridge inspections on any federally owned bridge even if that bridge is not included on the inventory described under section 203; and
-      - **(ii)** transportation planning activities carried out by Federal land management agencies eligible for funding under this chapter.
+  - **(7)** To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204.
 - **(d)** In carrying out work under reimbursable agreements with any State, local, or tribal government under this title, the Secretary—
   - **(1)** may, without regard to any other provision of law (including regulations), record obligations against accounts receivable from the entity; and
   - **(2)** shall credit amounts received from the entity to the appropriate account, which shall occur not later than 90 days after the date of the original request by the Secretary for payment.
@@ -68,18 +55,3 @@ generated_at: "2026-03-29T02:13:00.951Z"
     - **(C)** State departments of transportation; and
     - **(D)** local government agencies.
   - **(2)** The funds described in paragraph (1) shall be credited back to the loaning entity with funds that are currently available for obligation at the time of the credit.
-- **(f)**
-  - **(1)** Notwithstanding any other provision of law (including the Federal Acquisition Regulation), a contracting method available to a State under this title may be used by the Secretary, on behalf of—
-    - **(A)** a Federal land management agency, in using any funds pursuant to section 203, 204, or 308;
-    - **(B)** a Federal land management agency, in using any funds pursuant to section 1535 of title 31 for any of the eligible uses described in sections 203(a)(1) and 204(a)(1) and paragraphs (1) and (2) of section 308(a); or
-    - **(C)** a Tribal government, in using funds pursuant to section 202(b)(7)(D).
-  - **(2)** The contracting methods referred to in paragraph (1) shall include, at a minimum—
-    - **(A)** project bundling;
-    - **(B)** bridge bundling;
-    - **(C)** design-build contracting;
-    - **(D)** 2-phase contracting;
-    - **(E)** long-term concession agreements; and
-    - **(F)** any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
-  - **(3)** Nothing in this subsection—
-    - **(A)** affects the application of the Federal share for the project carried out with a contracting method under this subsection; or
-    - **(B)** modifies the point of obligation of Federal salaries and expenses.

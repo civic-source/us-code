@@ -3,9 +3,9 @@ title: "Section 1782 - Administration of insurance fund"
 usc_title: 12
 usc_section: "1782"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1782"
-generated_at: "2026-03-29T02:11:21.008Z"
+generated_at: "2026-03-29T17:51:13.094Z"
 ---
 
 # § 1782. Administration of insurance fund
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T02:11:21.008Z"
     - **(C)** any other person that the Board determines to be appropriate.
 - **(b)**
   - **(1)**
-    - **(A)** For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c).
+    - **(A)** For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c) of this section.
     - **(B)** Subparagraph (A) shall not apply with respect to a credit union that became insured during the reporting period.
   - **(2)** The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
   - **(3)** The president of the credit union or any officer designated by the board of directors shall certify, with respect to each statement required to be filed with the Board pursuant to this subsection, that to the best of his or her knowledge and belief the statement is true, correct, complete, and in accordance with this subchapter and the regulations issued under this subchapter.
@@ -79,18 +79,18 @@ generated_at: "2026-03-29T02:11:21.008Z"
     - **(B)** The Board shall distribute under subparagraph (A) the maximum possible amount that—
       - **(i)** does not reduce the Fund’s equity ratio below the normal operating level; and
       - **(ii)** does not reduce the Fund’s available assets ratio below 1.0 percent.
-    - **(C)** In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) for the final reporting period of the calendar year referred to in subparagraph (A).
+    - **(C)** In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section for the final reporting period of the calendar year referred to in subparagraph (A).
   - **(4)** In calculating the available assets ratio and equity ratio of the Fund, the Board shall use the most current and accurate data reasonably available.
 - **(d)**
   - **(1)** Any insured credit union which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of its deposit or any premium charge for insurance may be compelled to make such report or to file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purpose by the Board against the credit union and any officer or officers thereof. Any such suit may be brought in any court of the United States of competent jurisdiction in the district or territory in which the principal office of the credit union is located.
   - **(2)**
     - **(A)** Any insured credit union which—
-      - **(i)** maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit any certified statement under subsection (b)(1) within the period of time required or submits a false or misleading certified statement under such subsection; or
+      - **(i)** maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit any certified statement under subsection (b)(1) of this section within the period of time required or submits a false or misleading certified statement under such subsection; or
       - **(ii)** submits the statement at a time which is minimally after the time required,
     - **(B)** Any insured credit union which—
-      - **(i)** fails to submit any certified statement under subsection (b)(1) within the period of time required or submits a false or misleading certified statement in a manner not described in subparagraph (A); or
+      - **(i)** fails to submit any certified statement under subsection (b)(1) of this section within the period of time required or submits a false or misleading certified statement in a manner not described in subparagraph (A); or
       - **(ii)** fails or refuses to pay any deposit or premium for insurance required under this subchapter,
-    - **(C)** Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
+    - **(C)** Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) of this section submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
     - **(D)** Any penalty imposed under this paragraph shall be assessed and collected by the Board in the manner provided in section 1786(k)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section.
     - **(E)** Any insured credit union against which any penalty is assessed under this paragraph shall be afforded an agency hearing if the credit union submits a request for such hearing within 20 days after the issuance of the notice of the assessment. Section 1786(j) of this title shall apply to any proceeding under this subparagraph.
     - **(F)** No penalty may be assessed for the failure of any insured credit union to pay any deposit or premium for insurance if—

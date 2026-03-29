@@ -3,21 +3,14 @@ title: "Section 928 - Art. 128. Assault"
 usc_title: 10
 usc_section: "928"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 928"
-generated_at: "2026-03-29T02:10:44.928Z"
+generated_at: "2026-03-29T17:50:56.980Z"
 ---
 
 # § 928. Art. 128. Assault
 
-- **(a)** Any person subject to this chapter who, unlawfully and with force or violence—
-  - **(1)** attempts to do bodily harm to another person;
-  - **(2)** offers to do bodily harm to another person; or
-  - **(3)** does bodily harm to another person;
-- **(b)** Any person subject to this chapter—
-  - **(1)** who, with the intent to do bodily harm, offers to do bodily harm with a dangerous weapon;
-  - **(2)** who, in committing an assault, inflicts substantial bodily harm or grievous bodily harm on another person; or
-  - **(3)** who commits an assault by strangulation or suffocation;
-- **(c)**
-  - **(1)** Any person subject to this chapter who commits assault with intent to commit an offense specified in paragraph (2) shall be punished as a court-martial may direct.
-  - **(2)** The offenses referred to in paragraph (1) are murder, voluntary manslaughter, rape, sexual assault, rape of a child, sexual assault of a child, robbery, arson, burglary, and kidnapping.
+- **(a)** Any person subject to this chapter who attempts or offers with unlawful force or violence to do bodily harm to another person, whether or not the attempt or offer is consummated, is guilty of assault and shall be punished as a court-martial may direct.
+- **(b)** Any person subject to this chapter who—
+  - **(1)** commits an assault with a dangerous weapon or other means or force likely to produce death or grievous bodily harm; or
+  - **(2)** commits an assault and intentionally inflicts grievous bodily harm with or without a weapon;

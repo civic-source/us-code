@@ -3,9 +3,9 @@ title: "Section 3657a - Quarters allowances"
 usc_title: 22
 usc_section: "3657a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3657a"
-generated_at: "2026-03-29T02:12:40.295Z"
+generated_at: "2026-03-29T17:52:10.588Z"
 ---
 
 # § 3657a. Quarters allowances

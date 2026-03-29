@@ -3,9 +3,9 @@ title: "Section 6702 - Frivolous tax submissions"
 usc_title: 26
 usc_section: "6702"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6702"
-generated_at: "2026-03-29T02:14:01.366Z"
+generated_at: "2026-03-29T17:52:39.591Z"
 ---
 
 # § 6702. Frivolous tax submissions
@@ -35,4 +35,3 @@ generated_at: "2026-03-29T02:14:01.366Z"
 - **(c)** The Secretary shall prescribe (and periodically revise) a list of positions which the Secretary has identified as being frivolous for purposes of this subsection. The Secretary shall not include in such list any position that the Secretary determines meets the requirement of section 6662(d)(2)(B)(ii)(II).
 - **(d)** The Secretary may reduce the amount of any penalty imposed under this section if the Secretary determines that such reduction would promote compliance with and administration of the Federal tax laws.
 - **(e)** The penalties imposed by this section shall be in addition to any other penalty provided by law.
-- **(f)** An administrative adjustment request under section 6227 and a partnership adjustment tracking report under section 6226(b)(4)(A) shall be treated as a return for purposes of this section.

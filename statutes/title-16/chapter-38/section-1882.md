@@ -3,9 +3,9 @@ title: "Section 1882 - Fisheries systems research"
 usc_title: 16
 usc_section: "1882"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1882"
-generated_at: "2026-03-29T02:11:53.844Z"
+generated_at: "2026-03-29T17:51:56.918Z"
 ---
 
 # § 1882. Fisheries systems research
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:11:53.844Z"
 - **(b)** The advisory panel shall consist of not more than 20 individuals and include—
   - **(1)** individuals with expertise in the structures, functions, and physical and biological characteristics of ecosystems; and
   - **(2)** representatives from the Councils, States, fishing industry, conservation organizations, or others with expertise in the management of marine resources.
-- **(c)** Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1), solicit recommendations from the National Academy of Sciences.
+- **(c)** Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1) of this section, solicit recommendations from the National Academy of Sciences.
 - **(d)** Within 2 years after October 11, 1996 , the Secretary shall submit to the Congress a completed report of the panel established under this section, which shall include—
   - **(1)** an analysis of the extent to which ecosystem principles are being applied in fishery conservation and management activities, including research activities;
   - **(2)** proposed actions by the Secretary and by the Congress that should be undertaken to expand the application of ecosystem principles in fishery conservation and management; and

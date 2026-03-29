@@ -3,9 +3,9 @@ title: "Section 2317 - Wetlands"
 usc_title: 33
 usc_section: "2317"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2317"
-generated_at: "2026-03-29T02:14:18.621Z"
+generated_at: "2026-03-29T17:52:45.986Z"
 ---
 
 # § 2317. Wetlands
@@ -21,14 +21,14 @@ generated_at: "2026-03-29T02:14:18.621Z"
   - **(1)** the use of constructed wetlands for wastewater treatment, and
   - **(2)** methods by which such projects contribute—
     - **(A)** to meeting the objective of the Federal Water Pollution Control Act [ 33 U.S.C. 1251 et seq.] to restore and maintain the physical, chemical, and biological integrity of the Nation’s waters, and
-    - **(B)** to attaining the goals established by subsection (a).
-- **(c)** For the project conducted under subsection (b), the non-Federal interest shall agree—
+    - **(B)** to attaining the goals established by subsection (a) of this section.
+- **(c)** For the project conducted under subsection (b) of this section, the non-Federal interest shall agree—
   - **(1)** to provide, without cost to the United States, all lands, easements, rights-of-way, relocations, and dredged material disposal areas necessary for construction and subsequent research and demonstration work;
   - **(2)** to hold and save the United States free from damages due to construction, operation, and maintenance of the project, except damages due to the fault or negligence of the United States or its contractors; and
   - **(3)** to operate and maintain the restored or constructed wetlands in accordance with good management practices; except that nothing in this paragraph shall be construed as precluding a Federal agency from agreeing to operate and maintain the restored or reconstructed wetlands.
 - **(d)**
-  - **(1)** The Secretary, in consultation with the Administrator, is authorized to establish and implement a demonstration program for the purpose of determining the feasibility of wetlands restoration, enhancement, and creation as a means of contributing to the goals established by subsection (a).
-  - **(2)** The goal of the program under this subsection shall be to establish a limited number of demonstration wetlands restoration, enhancement, and creation areas in districts of the Corps of Engineers for the purpose of evaluating the technical and scientific long-term feasibility of such areas as a means of contributing to the attainment of the goals established by subsection (a). Federal and State land-owning agencies and private parties may contribute to such areas.
+  - **(1)** The Secretary, in consultation with the Administrator, is authorized to establish and implement a demonstration program for the purpose of determining the feasibility of wetlands restoration, enhancement, and creation as a means of contributing to the goals established by subsection (a) of this section.
+  - **(2)** The goal of the program under this subsection shall be to establish a limited number of demonstration wetlands restoration, enhancement, and creation areas in districts of the Corps of Engineers for the purpose of evaluating the technical and scientific long-term feasibility of such areas as a means of contributing to the attainment of the goals established by subsection (a) of this section. Federal and State land-owning agencies and private parties may contribute to such areas.
   - **(3)** In establishing the demonstration program under this subsection, the Secretary shall consider—
     - **(A)** past experience with wetlands restoration, enhancement, and creation;
     - **(B)** the appropriate means of measuring benefits of compensatory mitigation activities, including enhancement or restoration of existing wetlands or creation of wetlands;
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T02:14:18.621Z"
     - **(F)** responsibilities for short- and long-term project monitoring.
   - **(4)**
     - **(A)** The district engineer for each district of the Corps of Engineers in which a wetlands restoration, enhancement, and creation area is established under this subsection shall transmit annual reports to the Chief of Engineers describing the amount and value of wetlands restored, enhanced, and created for the area and a summary of whether the area is contributing to the goal established in paragraph (2).
-    - **(B)** Not later than 3 years after November 28, 1990 , the Secretary shall transmit to Congress a report evaluating the use of wetlands restoration, enhancement, and creation areas in fulfilling the goal established by paragraph (2), together with recommendations on whether or not to continue use of such areas as a means of meeting the goals established by subsection (a).
+    - **(B)** Not later than 3 years after November 28, 1990 , the Secretary shall transmit to Congress a report evaluating the use of wetlands restoration, enhancement, and creation areas in fulfilling the goal established by paragraph (2), together with recommendations on whether or not to continue use of such areas as a means of meeting the goals established by subsection (a) of this section.
   - **(5)** Nothing in this subsection affects any requirements under section 404 of the Federal Water Pollution Control Act ( 33 U.S.C. 1344 ) or section 403 of this title .
 - **(e)**
   - **(1)** The Secretary is authorized to establish a program for the training and certification of individuals as wetlands delineators. As part of such program, the Secretary shall carry out demonstration projects in districts of the Corps of Engineers. The program shall include training and certification of delineators and procedures for expediting consideration and acceptance of delineations performed by certified delineators.

@@ -1,0 +1,18 @@
+---
+title: "Section 4352 - Cadets: hazing"
+usc_title: 10
+usc_section: "4352"
+chapter: 403
+current_through: "PL 113-100"
+classification: "10 U.S.C. § 4352"
+generated_at: "2026-03-29T17:50:57.193Z"
+---
+
+# § 4352. Cadets: hazing
+
+- **(a)** Subject to the approval of the Secretary of the Army, the Superintendent of the Academy shall issue regulations—
+  - **(1)** defining hazing;
+  - **(2)** designed to prevent that practice; and
+  - **(3)** prescribing dismissal, suspension, or other adequate punishment for violations.
+- **(b)** If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
+- **(c)** A cadet dismissed from the Academy for hazing may not be reappointed to the Corps of Cadets, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, until two years after the graduation of his class.

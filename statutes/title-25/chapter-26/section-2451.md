@@ -3,9 +3,9 @@ title: "Section 2451 - Bureau of Indian Affairs law enforcement and judicial tra
 usc_title: 25
 usc_section: "2451"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2451"
-generated_at: "2026-03-29T02:13:20.943Z"
+generated_at: "2026-03-29T17:52:06.125Z"
 ---
 
 # § 2451. Bureau of Indian Affairs law enforcement and judicial training
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T02:13:20.943Z"
     - **(A)** the investigation and prosecution of offenses relating to illegal narcotics; and
     - **(B)** alcohol and substance abuse prevention and treatment.
   - **(2)** Any training provided to Bureau of Indian Affairs or tribal law enforcement or judicial personnel under paragraph (1) shall include training in issues relating to youth alcohol and substance abuse prevention and treatment.
-- **(b)** For the purposes of providing the training required by subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
+- **(b)** For the purposes of providing the training required by subsection (a) of this section, there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.

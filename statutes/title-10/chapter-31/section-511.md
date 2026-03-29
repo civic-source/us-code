@@ -3,9 +3,9 @@ title: "Section 511 - College First Program"
 usc_title: 10
 usc_section: "511"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 511"
-generated_at: "2026-03-29T02:10:44.879Z"
+generated_at: "2026-03-29T17:50:56.948Z"
 ---
 
 # § 511. College First Program
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:10:44.879Z"
 - **(a)** The Secretary of each military department may establish a program to increase the number of, and the level of the qualifications of, persons entering the armed forces as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service.
 - **(b)** The Secretary concerned may—
   - **(1)** exercise the authority under section 513 of this title —
-    - **(A)** to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of a reserve component, or as a member of the Space Force, notwithstanding the scope of the authority under subsection (a) of that section, in the case of the Army National Guard of the United States or Air National Guard of the United States; and
+    - **(A)** to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of a reserve component, notwithstanding the scope of the authority under subsection (a) of that section, in the case of the Army National Guard of the United States or Air National Guard of the United States; and
     - **(B)** to authorize, notwithstanding the period limitation in subsection (b) of that section, a delay of the enlistment of any such person in a regular component under that subsection for the period during which the person is enrolled in, and pursuing a program of education at, an institution of higher education, or a program of vocational or technical training, on a full-time basis that is to be completed within the maximum period of delay determined for that person under subsection (c); and
   - **(2)** subject to paragraph (2) of subsection (d) and except as provided in paragraph (3) of that subsection, pay an allowance to a person accepted for enlistment under paragraph (1)(A) for each month of the period during which that person is enrolled in and pursuing a program described in paragraph (1)(B).
 - **(c)** The period of delay authorized a person under paragraph (1)(B) of subsection (b) may not exceed the 30-month period beginning on the date of the person’s enlistment accepted under paragraph (1)(A) of such subsection.

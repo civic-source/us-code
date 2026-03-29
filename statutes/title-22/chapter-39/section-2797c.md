@@ -3,9 +3,9 @@ title: "Section 2797c - Definitions"
 usc_title: 22
 usc_section: "2797c"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2797c"
-generated_at: "2026-03-29T02:12:40.272Z"
+generated_at: "2026-03-29T17:52:10.574Z"
 ---
 
 # § 2797c. Definitions
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:12:40.272Z"
   - **(3)** the term “MTCR adherent” means a country that participates in the MTCR or that, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
   - **(4)** the term “MTCR Annex” means the Guidelines and Equipment and Technology Annex of the MTCR, and any amendments thereto;
   - **(5)** the terms “missile equipment or technology” and “MTCR equipment or technology” mean those items listed in category I or category II of the MTCR Annex;
-  - **(6)** the term “United States person” has the meaning given that term in section 4618(2) 1 1 See References in Text note below. of title 50;
+  - **(6)** the term “United States person” has the meaning given that term in section 2415(2) of title 50 , Appendix;
   - **(7)** the term “foreign person” means any person other than a United States person;
   - **(8)**
     - **(A)** the term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise, and any successor of any such entity; and
@@ -24,6 +24,6 @@ generated_at: "2026-03-29T02:12:40.272Z"
       - **(i)** all activities of that government relating to the development or production of any missile equipment or technology; and
       - **(ii)** all activities of that government affecting the development or production of electronics, space systems or equipment, and military aircraft; and
   - **(9)** the term “otherwise engaged in the trade of” means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
-- **(b)** For purposes of subsection (a)(3), as it relates to any international understanding concluded with the United States after January 1, 2000 , the term “international understanding” means—
+- **(b)** For purposes of subsection (a)(3) of this section, as it relates to any international understanding concluded with the United States after January 1, 2000 , the term “international understanding” means—
   - **(1)** any specific agreement by a country not to export, transfer, or otherwise engage in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter; or
   - **(2)** any specific understanding by a country that, notwithstanding section 2797b(b) of this title , the United States retains the right to take the actions under section 2797b(a)(2) of this title in the case of any export or transfer of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter.

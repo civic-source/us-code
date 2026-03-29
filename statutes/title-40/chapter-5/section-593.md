@@ -3,9 +3,9 @@ title: "Section 593 - Protection for veterans preference employees"
 usc_title: 40
 usc_section: "593"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "40 U.S.C. § 593"
-generated_at: "2026-03-29T02:14:58.782Z"
+generated_at: "2026-03-29T17:52:50.582Z"
 ---
 
 # § 593. Protection for veterans preference employees

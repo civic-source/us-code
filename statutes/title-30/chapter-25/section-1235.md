@@ -3,9 +3,9 @@ title: "Section 1235 - State reclamation program"
 usc_title: 30
 usc_section: "1235"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1235"
-generated_at: "2026-03-29T02:14:11.246Z"
+generated_at: "2026-03-29T17:52:16.753Z"
 ---
 
 # § 1235. State reclamation program
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:14:11.246Z"
 - **(a)** Not later than the end of the one hundred and eighty-day period immediately following August 3, 1977 , the Secretary shall promulgate and publish in the Federal Register regulations covering implementation of an abandoned mine reclamation program incorporating the provisions of this subchapter and establishing procedures and requirements for preparation, submission, and approval of State programs consisting of the plan and annual submissions of projects.
 - **(b)** Each State having within its borders coal mined lands eligible for reclamation under this subchapter, may submit to the Secretary a State Reclamation Plan and annual projects to carry out the purposes of this subchapter.
 - **(c)** The Secretary shall not approve, fund, or continue to fund a State abandoned mine reclamation program unless that State has an approved State regulatory program pursuant to section 1253 of this title .
-- **(d)** If the Secretary determines that a State has developed and submitted a program for reclamation of abandoned mines and has the ability and necessary State legislation to implement the provisions of this subchapter, sections 1232 and 1240 of this title excepted, the Secretary shall approve such State program and shall grant to the State exclusive responsibility and authority to implement the provisions of the approved program: Provided , That the Secretary shall withdraw such approval and authorization if he determines upon the basis of information provided under this section that the State program is not in compliance with the procedures, guidelines, and requirements established under subsection (a).
+- **(d)** If the Secretary determines that a State has developed and submitted a program for reclamation of abandoned mines and has the ability and necessary State legislation to implement the provisions of this subchapter, sections 1232 and 1240 of this title excepted, the Secretary shall approve such State program and shall grant to the State exclusive responsibility and authority to implement the provisions of the approved program: Provided , That the Secretary shall withdraw such approval and authorization if he determines upon the basis of information provided under this section that the State program is not in compliance with the procedures, guidelines, and requirements established under subsection (a) of this section.
 - **(e)** Each State Reclamation Plan shall generally identify the areas to be reclaimed, the purposes for which the reclamation is proposed, the relationship of the lands to be reclaimed and the proposed reclamation to surrounding areas, the specific criteria for ranking and identifying proj­ects to be funded, and the legal authority and programmatic capability to perform such work in conformance with the provisions of this subchapter.
 - **(f)** On an annual basis, each State having an approved State Reclamation Plan may submit to the Secretary an application for the support of the State program and implementation of specific reclamation projects. Such annual requests shall include such information as may be requested by the Secretary including:
   - **(1)** a general description of each proposed project;

@@ -3,9 +3,9 @@ title: "Section 2632 - Duties"
 usc_title: 29
 usc_section: "2632"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2632"
-generated_at: "2026-03-29T02:14:09.495Z"
+generated_at: "2026-03-29T17:52:18.894Z"
 ---
 
 # § 2632. Duties
@@ -17,7 +17,7 @@ The Commission shall—
     - **(B)** the potential costs, benefits, and impact on productivity, job creation and business growth of such policies on employers and employees;
     - **(C)** possible differences in costs, benefits, and impact on productivity, job creation and business growth of such policies on employers based on business type and size;
     - **(D)** the impact of family and medical leave policies on the availability of employee benefits provided by employers, including employers not covered under this Act;
-    - **(E)** alternate and equivalent State enforcement of subchapter I with respect to employees described in section 2618(a) of this title ;
+    - **(E)** alternate and equivalent State enforcement of subchapter I of this chapter with respect to employees described in section 2618(a) of this title ;
     - **(F)** methods used by employers to reduce administrative costs of implementing family and medical leave policies;
     - **(G)** the ability of the employers to recover, under section 2614(c)(2) of this title , the premiums described in such section; and
     - **(H)** the impact on employers and employees of policies that provide temporary wage replacement during periods of family and medical leave.

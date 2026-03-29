@@ -3,9 +3,9 @@ title: "Section 1186a - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1186a"
-generated_at: "2026-03-29T02:10:21.416Z"
+generated_at: "2026-03-29T17:50:41.330Z"
 ---
 
 # § 1186a. Conditional permanent resident status for certain alien spouses and sons and daughters
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T02:10:21.416Z"
         - **(I)** was entered into in accordance with the laws of the place where the marriage took place,
         - **(II)** has not been judicially annulled or terminated, other than through the death of a spouse, and
         - **(III)** was not entered into for the purpose of procuring an alien’s admission as an immigrant; and
-      - **(ii)** no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) 2 2 See References in Text note below. of section 1184 of this title with respect to the alien spouse or alien son or daughter.
+      - **(ii)** no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) 3 3 See References in Text note below. of section 1184 of this title with respect to the alien spouse or alien son or daughter.
     - **(B)** The information is a statement of—
       - **(i)** the actual residence of each party to the qualifying marriage since the date the alien spouse obtained permanent resident status on a conditional basis under subsection (a), and
       - **(ii)** the place of employment (if any) of each such party since such date, and the name of the employer of such party.

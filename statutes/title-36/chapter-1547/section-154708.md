@@ -3,9 +3,9 @@ title: "Section 154708 - Restrictions"
 usc_title: 36
 usc_section: "154708"
 chapter: 1547
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 154708"
-generated_at: "2026-03-29T02:14:41.374Z"
+generated_at: "2026-03-29T17:52:49.373Z"
 ---
 
 # § 154708. Restrictions

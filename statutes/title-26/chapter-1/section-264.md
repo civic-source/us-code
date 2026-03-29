@@ -3,9 +3,9 @@ title: "Section 264 - Certain amounts paid in connection with insurance contract
 usc_title: 26
 usc_section: "264"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 264"
-generated_at: "2026-03-29T02:14:00.872Z"
+generated_at: "2026-03-29T17:52:39.178Z"
 ---
 
 # § 264. Certain amounts paid in connection with insurance contracts
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:14:00.872Z"
   - **(2)** if an amount is deposited after March 1, 1954 , with the insurer for payment of a substantial number of future premiums on the contract.
 - **(d)** Subsection (a)(3) shall not apply to any amount paid or accrued by a person during a taxable year on indebtedness incurred or continued as part of a plan referred to in subsection (a)(3)—
   - **(1)** if no part of 4 of the annual premiums due during the 7-year period (beginning with the date the first premium on the contract to which such plan relates was paid) is paid under such plan by means of indebtedness,
-  - **(2)** if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph) no deduction would be allowable by reason of subsection (a)(3) does not exceed $100,
+  - **(2)** if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph) no deduction would be allowable by reason of subsection (a)(3) does not exceed $100.
   - **(3)** if such amount was paid or accrued on indebtedness incurred because of an unforeseen substantial loss of income or unforeseen substantial increase in his financial obligations, or
   - **(4)** if such indebtedness was incurred in connection with his trade or business.
 - **(e)**

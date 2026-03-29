@@ -3,12 +3,13 @@ title: "Section 2208 - Certain residents of possessions considered citizens of t
 usc_title: 26
 usc_section: "2208"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2208"
-generated_at: "2026-03-29T02:14:01.169Z"
+generated_at: "2026-03-29T17:52:39.411Z"
 ---
 
 # § 2208. Certain residents of possessions considered citizens of the United States
 
-A decedent who was a citizen of the United States and a resident of a possession thereof at the time of his death shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+  - **(1)** his being a citizen of such possession of the United States, or
+  - **(2)** his birth or residence within such possession of the United States.
 

@@ -3,9 +3,9 @@ title: "Section 3015 - Eligibility of cooperatives"
 usc_title: 12
 usc_section: "3015"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3015"
-generated_at: "2026-03-29T02:11:21.155Z"
+generated_at: "2026-03-29T17:51:13.192Z"
 ---
 
 # § 3015. Eligibility of cooperatives
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T02:11:21.155Z"
   - **(6)** is not a credit union, mutual savings bank, or mutual savings and loan association.
 - **(b)** No organization shall be ineligible because it produces, markets, or furnishes goods, services, or facilities on behalf of its members as primary producers, unless the dollar volume of loans made by the Bank to such organizations exceeds 10 per centum of the gross assets of the Bank.
 - **(c)** As used in this section, the term “net savings” means, for any period, the borrower’s gross receipts, less the operating and other expenses deductible therefrom in accordance with generally accepted accounting principles, including, without limitation, contributions to allowable reserves, and after deducting the amounts of any dividends on its capital stock or other membership capital payable during, or within forty-five days after, the close of such period.
-- **(d)** An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the un­availability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
-- **(e)** Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
+- **(d)** An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Rural Telephone Bank, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the un­availability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
+- **(e)** Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II of this chapter.

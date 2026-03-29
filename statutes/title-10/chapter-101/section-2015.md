@@ -1,34 +1,16 @@
 ---
-title: "Section 2015 - Program to assist members in obtaining professional credentials"
+title: "Section 2015 - Payment of expenses to obtain professional credentials"
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-29T02:10:45.057Z"
+generated_at: "2026-03-29T17:50:57.069Z"
 ---
 
-# § 2015. Program to assist members in obtaining professional credentials
+# § 2015. Payment of expenses to obtain professional credentials
 
-- **(a)** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials that translate into civilian occupations.
-- **(b)**
-  - **(1)** Under the program required by this section, the Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall provide for the payment of expenses of members for professional accreditation, Federal occupational licenses, State-imposed and professional licenses, professional certification, and related expenses.
-  - **(2)** The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
-- **(c)**
-  - **(1)** Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) meets one of the requirements specified in paragraph (2).
-  - **(2)** The requirements for a credentialing program specified in this paragraph are that the credentialing program—
-    - **(A)** is accredited by a nationally-recognized, third-party personnel certification program accreditor;
-    - **(B)**
-      - **(i)** is sought or accepted by employers within the industry or sector involved as a recognized, preferred, or required credential for recruitment, screening, hiring, retention, or advancement purposes; and
-      - **(ii)** where appropriate, is endorsed by a nationally-recognized trade association or organization representing a significant part of the industry or sector;
-    - **(C)** grants licenses that are recognized by the Federal Government or a State government; or
-    - **(D)** meets credential standards of a Federal agency.
-- **(d)**
-  - **(1)** The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
-  - **(2)** The regulations shall apply uniformly to the armed forces to the extent practicable.
-  - **(3)** The regulations shall include the following:
-    - **(A)** Requirements for eligibility for participation in the program under this section.
-    - **(B)** A description of the professional credentials and occupations covered by the program.
-    - **(C)** Mechanisms for oversight of the payment of expenses and the provision of other benefits under the program.
-    - **(D)** Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
-- **(e)** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+- **(a)** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may pay for—
+  - **(1)** expenses for members of the armed forces to obtain professional credentials, including expenses for professional accreditation, State-imposed and professional licenses, and professional certification; and
+  - **(2)** examinations to obtain such credentials.
+- **(b)** The authority under subsection (a) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.

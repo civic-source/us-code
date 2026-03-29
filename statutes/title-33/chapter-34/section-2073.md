@@ -1,12 +1,25 @@
 ---
-title: "Section 2073 - Repealed. Pub. L. 115–282, title VI, § 601(c)(5) , Dec. 4, 2018 , 132 Stat. 4290"
+title: "Section 2073 - Navigation Safety Advisory Council"
 usc_title: 33
 usc_section: "2073"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2073"
-generated_at: "2026-03-29T02:14:18.599Z"
+generated_at: "2026-03-29T17:52:45.978Z"
 ---
 
-# § 2073. Repealed. Pub. L. 115–282, title VI, § 601(c)(5) , Dec. 4, 2018 , 132 Stat. 4290
+# § 2073. Navigation Safety Advisory Council
 
+- **(a)**
+  - **(1)** The Secretary of the department in which the Coast Guard is operating shall establish a Navigation Safety Advisory Council (hereinafter referred to as the “Council”), consisting of not more than 21 members. All members shall have expertise in Inland and International vessel navigation Rules of the Road, aids to maritime navigation, maritime law, vessel safety, port safety, or commercial diving safety. Upon appointment, all non-Federal members shall be designated as representative members to represent the viewpoints and interests of one of the following groups or organizations:
+    - **(A)** Commercial vessel owners or operators.
+    - **(B)** Professional mariners.
+    - **(C)** Recreational boaters.
+    - **(D)** The recreational boating industry.
+    - **(E)** State agencies responsible for vessel or port safety.
+    - **(F)** The Maritime Law Association.
+  - **(2)** Additional persons may be appointed to panels of the Council to assist the Council in performance of its functions.
+  - **(3)** The Secretary, through the Coast Guard Commandant, shall not less often than once a year publish a notice in the Federal Register soliciting nominations for membership on the Council.
+- **(b)** The Council shall advise, consult with, and make recommendations to the Secretary, through the Coast Guard Commandant, on matters relating to maritime collisions, rammings, groundings, Inland Rules of the Road, International Rules of the Road, navigation regulations and equipment, routing measures, marine information, diving safety, and aids to navigation systems. Any advice and recommendations made by the Council to the Secretary shall reflect the independent judgment of the Council on the matter concerned. The Council shall meet at the call of the Coast Guard Commandant, but in any event not less than twice during each calendar year. All proceedings of the Council shall be public, and a record of the proceedings shall be made available for public inspection.
+- **(c)** The Secretary shall furnish to the Council an executive secretary and such secretarial, clerical, and other services as are deemed necessary for the conduct of its business. Members of the Council, while away from their home or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 . Payments under this section shall not render members of the Council officers or employees of the United States for any purpose.
+- **(d)** Unless extended by subsequent Act of Congress, the Council shall terminate on September 30, 2020 .

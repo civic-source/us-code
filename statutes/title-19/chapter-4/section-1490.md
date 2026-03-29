@@ -3,9 +3,9 @@ title: "Section 1490 - General orders"
 usc_title: 19
 usc_section: "1490"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1490"
-generated_at: "2026-03-29T02:12:08.612Z"
+generated_at: "2026-03-29T17:51:51.218Z"
 ---
 
 # § 1490. General orders
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T02:12:08.612Z"
     - **(C)** a bond is given for the production of documents or the transmittal of data.
 - **(b)** At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.
 - **(c)** Any imported merchandise that—
-  - **(1)** is described in any of subparagraphs (A) through (D) of subsection (a)(1); and
+  - **(1)** is described in any of subparagraphs (A) through (D) of subsection (a)(1) of this section; and
   - **(2)** is consigned to, or owned by, the United States Government;

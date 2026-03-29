@@ -3,12 +3,13 @@ title: "Section 697c - Restrictions on development company assistance"
 usc_title: 15
 usc_section: "697c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 697c"
-generated_at: "2026-03-29T02:11:34.114Z"
+generated_at: "2026-03-29T17:51:36.182Z"
 ---
 
 # § 697c. Restrictions on development company assistance
 
-Notwithstanding Any Other Provision of Law : (1) on or after May 1, 1991 , no development company may accept funding from any source, including but not limited to any department or agency of the United States Government, if such funding includes any conditions, priorities or restrictions upon the types of small businesses to which they may provide financial assistance under this subchapter or if it includes any conditions or imposes any requirements, directly or indirectly, upon any recipient of assistance under this subchapter; and (2) before such date, no department or agency of the United States Government which provides funding to any development company shall impose any condition, priority or restriction upon the type of small business which receives financing under this subchapter nor shall it include any condition or impose any requirement, directly or indirectly, upon any recipient of assistance under this subchapter: Provided , That the foregoing shall not affect any such conditions, priorities or restrictions if the department or agency also provides all of the financial assistance to be delivered by the development company to the small business and such conditions, priorities or restrictions are limited solely to the financial assistance so provided.
+  - **(1)** on or after May 1, 1991 , no development company may accept funding from any source, including but not limited to any department or agency of the United States Government, if such funding includes any conditions, priorities or restrictions upon the types of small businesses to which they may provide financial assistance under this subchapter or if it includes any conditions or imposes any requirements, directly or indirectly, upon any recipient of assistance under this subchapter; and
+  - **(2)** before such date, no department or agency of the United States Government which provides funding to any development company shall impose any condition, priority or restriction upon the type of small business which receives financing under this subchapter nor shall it include any condition or impose any requirement, directly or indirectly, upon any recipient of assistance under this subchapter: Provided , That the foregoing shall not affect any such conditions, priorities or restrictions if the department or agency also provides all of the financial assistance to be delivered by the development company to the small business and such conditions, priorities or restrictions are limited solely to the financial assistance so provided.
 

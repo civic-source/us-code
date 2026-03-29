@@ -1,0 +1,14 @@
+---
+title: "Section 4654 - Quartermaster supplies: military instruction camps"
+usc_title: 10
+usc_section: "4654"
+chapter: 441
+current_through: "PL 113-100"
+classification: "10 U.S.C. § 4654"
+generated_at: "2026-03-29T17:50:57.198Z"
+---
+
+# § 4654. Quartermaster supplies: military instruction camps
+
+Under such conditions as he may prescribe, the Secretary of the Army may issue, to any educational institution at which an Army officer is detailed as professor of military science and tactics, such quartermaster supplies as are necessary to establish and maintain a camp for the military instruction of its students. The Secretary shall require a bond in the value of the property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
+

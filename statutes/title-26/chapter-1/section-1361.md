@@ -3,9 +3,9 @@ title: "Section 1361 - S corporation defined"
 usc_title: 26
 usc_section: "1361"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1361"
-generated_at: "2026-03-29T02:14:01.136Z"
+generated_at: "2026-03-29T17:52:39.370Z"
 ---
 
 # § 1361. S corporation defined
@@ -21,8 +21,9 @@ generated_at: "2026-03-29T02:14:01.136Z"
     - **(D)** have more than 1 class of stock.
   - **(2)** For purposes of paragraph (1), the term “ineligible corporation” means any corporation which is—
     - **(A)** a financial institution which uses the reserve method of accounting for bad debts described in section 585,
-    - **(B)** an insurance company subject to tax under subchapter L, or
-    - **(C)** a DISC or former DISC.
+    - **(B)** an insurance company subject to tax under subchapter L,
+    - **(C)** a corporation to which an election under section 936 applies, or
+    - **(D)** a DISC or former DISC.
   - **(3)**
     - **(A)** Except as provided in regulations prescribed by the Secretary, for purposes of this title—
       - **(i)** a corporation which is a qualified subchapter S subsidiary shall not be treated as a separate corporation, and
@@ -65,8 +66,8 @@ generated_at: "2026-03-29T02:14:01.136Z"
       - **(ii)** In the case of a trust described in clause (ii) of subparagraph (A), the estate of the deemed owner shall be treated as the shareholder.
       - **(iii)** In the case of a trust described in clause (iii) of subparagraph (A), the estate of the testator shall be treated as the shareholder.
       - **(iv)** In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
-      - **(v)** In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period. This clause shall not apply for purposes of subsection (b)(1)(C).
-      - **(vi)** In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as the shareholder.
+      - **(v)** In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period.
+      - **(vi)** In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as a shareholder.
   - **(3)** For purposes of subsection (b)(1)(B), the term “estate” includes the estate of an individual in a case under title 11 of the United States Code.
   - **(4)** For purposes of subsection (b)(1)(D), a corporation shall not be treated as having more than 1 class of stock solely because there are differences in voting rights among the shares of common stock.
   - **(5)**
@@ -118,7 +119,7 @@ generated_at: "2026-03-29T02:14:01.136Z"
   - **(4)** For special treatment of electing small business trusts, see section 641(c).
 - **(f)**
   - **(1)** Restricted bank director stock shall not be taken into account as outstanding stock of the S corporation in applying this subchapter (other than section 1368(f)).
-  - **(2)** For purposes of this subsection, the term “restricted bank director stock” means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) )), if such stock—
+  - **(2)** For purposes of this subsection, the term “restricted bank director stock” means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) ), 1 1 So in original. Another closing parenthesis probably should precede the comma. if such stock—
     - **(A)** is required to be held by an individual under applicable Federal or State law in order to permit such individual to serve as a director, and
     - **(B)** is subject to an agreement with such bank or company (or a corporation which controls (within the meaning of section 368(c)) such bank or company) pursuant to which the holder is required to sell back such stock (at the same price as the individual acquired such stock) upon ceasing to hold the office of director.
   - **(3)** For treatment of certain distributions with respect to restricted bank director stock, see section 1368(f).

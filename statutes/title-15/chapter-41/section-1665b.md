@@ -3,9 +3,9 @@ title: "Section 1665b - Advertising of open end consumer credit plans secured by
 usc_title: 15
 usc_section: "1665b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1665b"
-generated_at: "2026-03-29T02:11:34.203Z"
+generated_at: "2026-03-29T17:51:36.255Z"
 ---
 
 # § 1665b. Advertising of open end consumer credit plans secured by consumer’s principal dwelling
@@ -16,16 +16,16 @@ generated_at: "2026-03-29T02:11:34.203Z"
   - **(3)** The highest annual percentage rate which may be imposed under the plan.
   - **(4)** Any other information the Bureau may by regulation require.
 - **(b)**
-  - **(1)** If any advertisement described in subsection (a) contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
-  - **(2)** Each advertisement described in subsection (a) that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+  - **(1)** If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+  - **(2)** Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
     - **(A)** the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
     - **(B)** the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
-- **(c)** No advertisement described in subsection (a) with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
+- **(c)** No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
 - **(d)**
-  - **(1)** If any advertisement described in subsection (a) includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
+  - **(1)** If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
   - **(2)** The annual percentage rate required to be disclosed under the paragraph (1) rate must be current as of a reasonable time given the media involved.
   - **(3)** Any advertisement to which paragraph (1) applies shall also state the period of time during which the initial annual percentage rate referred to in such paragraph will be in effect.
-- **(e)** If any advertisement described in subsection (a) contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
+- **(e)** If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
 - **(f)** For purposes of this section and section 1637a of this title , the term “balloon payment” means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer’s principal dwelling, any repayment option under which—
   - **(1)** the account holder is required to repay the entire amount of any outstanding balance as of a specified date or at the end of a specified period of time, as determined in accordance with the terms of the agreement pursuant to which such credit is extended; and
   - **(2)** the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.

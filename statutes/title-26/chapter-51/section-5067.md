@@ -1,17 +1,14 @@
 ---
-title: "Section 5067 - Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits"
+title: "Section 5067 - Cross reference"
 usc_title: 26
 usc_section: "5067"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 5067"
-generated_at: "2026-03-29T02:14:01.254Z"
+generated_at: "2026-03-29T17:52:39.490Z"
 ---
 
-# § 5067. Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits
+# § 5067. Cross reference
 
-In the case of beer, wine, or distilled spirits that are smuggled into the United States or produced other than as authorized by this chapter—
+For general administrative provisions applicable to the assessment, collection, refund, etc., of taxes, see subtitle F.
 
-  - **(1)** the rates of tax under paragraphs (1)(A)(i) and (2) of section 5051(a) shall not apply in the case of any such beer,
-  - **(2)** the credit under section 5041(c) shall not apply in the case of any such wine, and
-  - **(3)** the rates of tax under section 5001(c) shall not apply in the case of any such distilled spirits.

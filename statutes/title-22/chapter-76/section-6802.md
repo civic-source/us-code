@@ -3,9 +3,9 @@ title: "Section 6802 - Findings and purposes"
 usc_title: 22
 usc_section: "6802"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 6802"
-generated_at: "2026-03-29T02:12:40.402Z"
+generated_at: "2026-03-29T17:52:10.677Z"
 ---
 
 # § 6802. Findings and purposes

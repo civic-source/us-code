@@ -3,16 +3,16 @@ title: "Section 2263 - Study of Corps capability to conserve fish and wildlife"
 usc_title: 33
 usc_section: "2263"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2263"
-generated_at: "2026-03-29T02:14:18.610Z"
+generated_at: "2026-03-29T17:52:45.982Z"
 ---
 
 # § 2263. Study of Corps capability to conserve fish and wildlife
 
 - **(a)** The Secretary shall investigate and study the feasibility of utilizing the capabilities of the United States Army Corps of Engineers to conserve fish and wildlife (including their habitats) where such fish and wildlife are indigenous to the United States, its possessions, or its territories. The scope of such study shall include the use of engineering or construction capabilities to create alternative habitats, or to improve, enlarge, develop, or otherwise beneficially modify existing habitats of such fish and wildlife. The study shall be conducted in consultation with the Director of the Fish and Wildlife Service of the Department of the Interior, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, and shall be transmitted within the 30-month period beginning on November 17, 1986 , by the Secretary to Congress, together with the findings, conclusions, and recommendations of the Chief of Engineers. The Secretary, in consultation with the Federal officers referred to in the preceding sentence, shall undertake a continuing review of the matters covered in the study and shall transmit to Congress, on a biennial basis, any revisions to the study that may be required as a result of the review, together with the findings, conclusions, and recommendations of the Chief of Engineers.
 - **(b)**
-  - **(1)** The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $120,000,000 to carry out such projects.
+  - **(1)** The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $50,000,000 to carry out such projects.
   - **(2)** Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
     - **(A)** the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
     - **(B)** the construction of a reef for fish habitat in the Atlantic Ocean in the vicinity of Fort Lauderdale, Florida;
@@ -28,12 +28,7 @@ generated_at: "2026-03-29T02:14:18.610Z"
     - **(B)** consistent with plans and strategies for guiding the restoration of the Chesapeake Bay oyster resource and fishery.
   - **(4)**
     - **(A)** The non-Federal share of the cost of any project under this subsection shall be 25 percent.
-    - **(B)** The non-Federal share may be provided through in-kind services, including—
-      - **(i)** the provision by the non-Federal interest of shell stock material that is determined by the Secretary to be suitable for use in carrying out the project; and
-      - **(ii)** in the case of a project carried out under paragraph (2)(D) after June 10, 2014 , land conservation or restoration efforts undertaken by the non-Federal interest that the Secretary determines provide water quality benefits that—
-        - **(I)** enhance the viability of oyster restoration efforts;
-        - **(II)** are integral to the project; and
-        - **(III)** are cost effective.
+    - **(B)** The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.
     - **(C)** The non-Federal interest shall be credited with the value of in-kind services provided on or after October 1, 2000 , for a project described in paragraph (1) completed on or after that date, if the Secretary determines that the work is integral to the project.
   - **(5)** In this subsection, the term “ecological success” means—
     - **(A)** achieving a tenfold increase in native oyster biomass by the year 2010, from a 1994 baseline; and

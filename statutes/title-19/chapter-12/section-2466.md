@@ -3,9 +3,9 @@ title: "Section 2466 - Agricultural exports of beneficiary developing countries"
 usc_title: 19
 usc_section: "2466"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2466"
-generated_at: "2026-03-29T02:12:08.699Z"
+generated_at: "2026-03-29T17:51:51.292Z"
 ---
 
 # § 2466. Agricultural exports of beneficiary developing countries

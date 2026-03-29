@@ -3,9 +3,9 @@ title: "Section 511 - Liability of States, instrumentalities of States, and Stat
 usc_title: 17
 usc_section: "511"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "17 U.S.C. § 511"
-generated_at: "2026-03-29T02:11:57.624Z"
+generated_at: "2026-03-29T17:51:39.291Z"
 ---
 
 # § 511. Liability of States, instrumentalities of States, and State officials for infringement of copyright

@@ -3,9 +3,9 @@ title: "Section 360ii - Program of control"
 usc_title: 21
 usc_section: "360ii"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 360ii"
-generated_at: "2026-03-29T02:12:28.040Z"
+generated_at: "2026-03-29T17:52:03.866Z"
 ---
 
 # § 360ii. Program of control
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:12:28.040Z"
   - **(4)** study and evaluate emissions of, and conditions of exposure to, electronic product radiation and intense magnetic fields;
   - **(5)** develop, test, and evaluate the effectiveness of procedures and techniques for minimizing exposure to electronic product radiation; and
   - **(6)** consult and maintain liaison with the Secretary of Commerce, the Secretary of Defense, the Secretary of Labor, the Atomic Energy Commission, and other appropriate Federal departments and agencies on (A) techniques, equipment, and programs for testing and evaluating electronic product radiation, and (B) the development of performance standards pursuant to section 360kk of this title to control such radiation emissions.
-- **(b)** In carrying out the purposes of subsection (a), the Secretary is authorized to—
+- **(b)** In carrying out the purposes of subsection (a) of this section, the Secretary is authorized to—
   - **(1)**
     - **(A)** collect and make available, through publications and other appropriate means, the results of, and other information concerning, research and studies relating to the nature and extent of the hazards and control of electronic product radiation; and (B) make such recommendations relating to such hazards and control as he considers appropriate;
   - **(2)** make grants to public and private agencies, organizations, and institutions, and to individuals for the purposes stated in paragraphs (2), (4), and (5) of subsection (a) of this section;

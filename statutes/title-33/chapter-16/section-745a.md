@@ -1,12 +1,14 @@
 ---
-title: "Section 745a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(6), Jan. 1, 2021 , 134 Stat. 4759"
+title: "Section 745a - Traveling expenses of new appointees to isolated posts outside United States"
 usc_title: 33
 usc_section: "745a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 745a"
-generated_at: "2026-03-29T02:14:18.519Z"
+generated_at: "2026-03-29T17:52:45.917Z"
 ---
 
-# § 745a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(6), Jan. 1, 2021 , 134 Stat. 4759
+# § 745a. Traveling expenses of new appointees to isolated posts outside United States
+
+In all appropriations hereafter made for “General expenses, Coast Guard,” there is authorized to be made available not exceeding $1,500 in any fiscal year, under rules prescribed by the Secretary of Transportation, for paying the actual and necessary traveling expenses of new appointees from ports of embarkation in the United States to first post of duty at isolated light stations, in districts outside the continental limits of the United States.
 

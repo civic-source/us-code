@@ -3,14 +3,14 @@ title: "Section 379b - Consolidated administrative and laboratory facility"
 usc_title: 21
 usc_section: "379b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 379b"
-generated_at: "2026-03-29T02:12:28.069Z"
+generated_at: "2026-03-29T17:52:03.888Z"
 ---
 
 # § 379b. Consolidated administrative and laboratory facility
 
 - **(a)** The Secretary, in consultation with the Administrator of the General Services Administration, shall enter into contracts for the design, construction, and operation of a consolidated Food and Drug Administration administrative and laboratory facility.
-- **(b)** The Secretary shall solicit contract proposals under subsection (a) from interested parties. In awarding contracts under such subsection, the Secretary shall review such proposals and give priority to those alternatives that are the most cost effective for the Federal Government and that allow for the use of donated land, federally owned property, or lease-purchase arrangements. A contract under this subsection shall not be entered into unless such contract results in a net cost savings to the Federal Government over the duration of the contract, as compared to the Government purchase price including borrowing by the Secretary of the Treasury.
+- **(b)** The Secretary shall solicit contract proposals under subsection (a) of this section from interested parties. In awarding contracts under such subsection, the Secretary shall review such proposals and give priority to those alternatives that are the most cost effective for the Federal Government and that allow for the use of donated land, federally owned property, or lease-purchase arrangements. A contract under this subsection shall not be entered into unless such contract results in a net cost savings to the Federal Government over the duration of the contract, as compared to the Government purchase price including borrowing by the Secretary of the Treasury.
 - **(c)** In carrying out this section, the Secretary shall have the power, in connection with real property, buildings, and facilities, to accept on behalf of the Food and Drug Administration gifts or donations of services or property, real or personal, as the Secretary determines to be necessary.
 - **(d)** There are authorized to be appropriated to carry out this section $100,000,000 for fiscal year 1991, and such sums as may be necessary for each of the subsequent fiscal years, to remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 761 - Terms defined"
 usc_title: 26
 usc_section: "761"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 761"
-generated_at: "2026-03-29T02:14:01.035Z"
+generated_at: "2026-03-29T17:52:39.290Z"
 ---
 
 # § 761. Terms defined
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:14:01.035Z"
   - **(1)** for investment purposes only and not for the active conduct of a business,
   - **(2)** for the joint production, extraction, or use of property, but not for the purpose of selling services or property produced or extracted, or
   - **(3)** by dealers in securities for a short period for the purpose of underwriting, selling, or distributing a particular issue of securities,
-- **(b)** For purposes of this subtitle, the term “partner” means a member of a partnership. In the case of a capital interest in a partnership in which capital is a material income-producing factor, whether a person is a partner with respect to such interest shall be determined without regard to whether such interest was derived by gift from any other person.
+- **(b)** For purposes of this subtitle, the term “partner” means a member of a partnership.
 - **(c)** For purposes of this subchapter, a partnership agreement includes any modifications of the partnership agreement made prior to, or at, the time prescribed by law for the filing of the partnership return for the taxable year (not including extensions) which are agreed to by all the partners, or which are adopted in such other manner as may be provided by the partnership agreement.
 - **(d)** For purposes of this subchapter, the term “liquidation of a partner’s interest” means the termination of a partner’s entire interest in a partnership by means of a distribution, or a series of distributions, to the partner by the partnership.
 - **(e)** Except as otherwise provided in regulations, for purposes of—

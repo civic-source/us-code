@@ -3,16 +3,16 @@ title: "Section 269 - Acquisitions made to evade or avoid income tax"
 usc_title: 26
 usc_section: "269"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 269"
-generated_at: "2026-03-29T02:14:00.875Z"
+generated_at: "2026-03-29T17:52:39.181Z"
 ---
 
 # § 269. Acquisitions made to evade or avoid income tax
 
 - **(a)** If—
-  - **(1)** any person or persons acquire, directly or indirectly, control of a corporation, or
-  - **(2)** any corporation acquires, directly or indirectly, property of another corporation, not controlled, directly or indirectly, immediately before such acquisition, by such acquiring corporation or its stockholders, the basis of which property, in the hands of the acquiring corporation, is determined by reference to the basis in the hands of the transferor corporation,
+  - **(1)** any person or persons acquire, or acquired on or after October 8, 1940 , directly or indirectly, control of a corporation, or
+  - **(2)** any corporation acquires, or acquired on or after October 8, 1940 , directly or indirectly, property of another corporation, not controlled, directly or indirectly, immediately before such acquisition, by such acquiring corporation or its stockholders, the basis of which property, in the hands of the acquiring corporation, is determined by reference to the basis in the hands of the transferor corporation,
 - **(b)**
   - **(1)** If—
     - **(A)** there is a qualified stock purchase by a corporation of another corporation,

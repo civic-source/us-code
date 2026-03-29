@@ -3,9 +3,9 @@ title: "Section 6038 - Information reporting with respect to certain foreign cor
 usc_title: 26
 usc_section: "6038"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6038"
-generated_at: "2026-03-29T02:14:01.281Z"
+generated_at: "2026-03-29T17:52:39.515Z"
 ---
 
 # § 6038. Information reporting with respect to certain foreign corporations and partnerships
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:14:01.281Z"
 - **(a)**
   - **(1)** Every United States person shall furnish, with respect to any foreign business entity which such person controls, such information as the Secretary may prescribe relating to—
     - **(A)** the name, the principal place of business, and the nature of business of such entity, and the country under whose laws such entity is incorporated (or organized in the case of a partnership);
-    - **(B)** in the case of a foreign corporation, its post-1986 undistributed earnings (as defined in section 902(c)); 1 1 See References in Text note below.
+    - **(B)** in the case of a foreign corporation, its post-1986 undistributed earnings (as defined in section 902(c));
     - **(C)** a balance sheet for such entity listing assets, liabilities, and capital;
     - **(D)** transactions between such entity and—
       - **(i)** such person,
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:14:01.281Z"
 - **(c)**
   - **(1)** If a United States person fails to furnish, within the time prescribed under paragraph (2) of subsection (a), any information with respect to any foreign business entity required under paragraph (1) of subsection (a), then—
     - **(A)** in applying section 901 (relating to taxes of foreign countries and possessions of the United States) to such United States person for the taxable year, the amount of taxes (other than taxes reduced under subparagraph (B)) paid or deemed paid (other than those deemed paid under section 904(c)) to any foreign country or possession of the United States for the taxable year shall be reduced by 10 percent, and
-    - **(B)** in the case of a foreign business entity which is a foreign corporation, in applying section 960 to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which such information is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
+    - **(B)** in the case of a foreign business entity which is a foreign corporation, in applying sections 902 (relating to foreign tax credit for corporate stockholder in foreign corporation) and 960 (relating to special rules for foreign tax credit) to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which such information is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
   - **(2)** The amount of the reduction under paragraph (1) for each failure to furnish information with respect to a foreign business entity required under subsection (a)(1) shall not exceed whichever of the following amounts is the greater:
     - **(A)** $10,000, or
     - **(B)** the income of the foreign business entity for its annual accounting period with respect to which the failure occurs.
@@ -42,6 +42,7 @@ generated_at: "2026-03-29T02:14:01.281Z"
   - **(4)**
     - **(A)** No taxes shall be reduced under this subsection more than once for the same failure.
     - **(B)** For purposes of this subsection and subsection (b), the time prescribed under paragraph (2) of subsection (a) to furnish information (and the beginning of the 90-day period after notice by the Secretary) shall be treated as being not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish such information.
+    - **(C)** In applying subsections (a) and (b) of section 902, and in applying subsection (a) of section 960, the reduction provided by this subsection shall not apply for purposes of determining the amount of post-1986 undistributed earnings.
 - **(d)** Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable, the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
 - **(e)** For purposes of this section—
   - **(1)** The term “foreign business entity” means a foreign corporation and a foreign partnership.

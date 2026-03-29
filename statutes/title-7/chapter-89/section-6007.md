@@ -3,9 +3,9 @@ title: "Section 6007 - Assessments"
 usc_title: 7
 usc_section: "6007"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6007"
-generated_at: "2026-03-29T02:10:17.062Z"
+generated_at: "2026-03-29T17:50:48.805Z"
 ---
 
 # § 6007. Assessments
@@ -13,9 +13,9 @@ generated_at: "2026-03-29T02:10:17.062Z"
 - **(a)** During the effective period of a plan issued pursuant to this chapter, assessments shall be—
   - **(1)** levied on all pecans produced in, and all pecans imported into, the United States and marketed; and
   - **(2)** deducted from the payment made to a grower for all pecans sold to a first handler.
-- **(b)** No more than one assessment may be assessed under subsection (a) on a grower (as remitted by a first handler), grower-sheller, or importer, for any lot of pecans handled or imported.
+- **(b)** No more than one assessment may be assessed under subsection (a) of this section on a grower (as remitted by a first handler), grower-sheller, or importer, for any lot of pecans handled or imported.
 - **(c)**
-  - **(1)** Assessments required under subsection (a) shall be remitted to the Board by—
+  - **(1)** Assessments required under subsection (a) of this section shall be remitted to the Board by—
     - **(A)** a first handler; and
     - **(B)** an importer.
   - **(2)**
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T02:10:17.062Z"
     - **(B)** The Board shall collect such assessments and upon receipt of such assessments shall remit such assessments to the State, within a time period mutually agreed upon between the State and the Board, and approved by the Secretary. In the collection of such State assessments, neither the Board nor the Secretary shall in any manner enforce the collection or remittance of any such payment by producers of such State assessments or investigate nonpayment of such State assessments, except to provide to a State the names of growers from whom such assessments were collected and the respective amounts of assessments collected.
     - **(C)** The Secretary is authorized to make such regulations as may be necessary to carry out the provisions of this section.
 - **(e)**
-  - **(1)** There shall be a late-payment charge imposed on any person who fails to remit, on or before the due date established by the Board under subsection (c)(2), to the Board the total amount for which such person is liable.
+  - **(1)** There shall be a late-payment charge imposed on any person who fails to remit, on or before the due date established by the Board under subsection (c)(2) of this section, to the Board the total amount for which such person is liable.
   - **(2)** The amount of the late-payment charge imposed under paragraph (1) shall be prescribed by the Board with the approval of the Secretary.
 - **(f)**
   - **(1)** During the period beginning on the effective date of a plan first issued under section 6003 of this title and ending on the date the referendum is conducted under section 6011(a) of this title , the Board shall—

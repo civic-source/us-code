@@ -3,9 +3,9 @@ title: "Section 321d - Market names for catfish and ginseng"
 usc_title: 21
 usc_section: "321d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 321d"
-generated_at: "2026-03-29T02:12:27.947Z"
+generated_at: "2026-03-29T17:52:03.797Z"
 ---
 
 # § 321d. Market names for catfish and ginseng

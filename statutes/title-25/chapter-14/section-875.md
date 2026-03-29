@@ -1,12 +1,14 @@
 ---
-title: "Section 875 - Omitted"
+title: "Section 875 - Rules and regulations"
 usc_title: 25
 usc_section: "875"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 875"
-generated_at: "2026-03-29T02:13:20.869Z"
+generated_at: "2026-03-29T17:52:06.025Z"
 ---
 
-# § 875. Omitted
+# § 875. Rules and regulations
+
+The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 

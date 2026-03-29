@@ -3,9 +3,9 @@ title: "Section 2257 - Interchangeability of funds for miscellaneous expenses an
 usc_title: 7
 usc_section: "2257"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2257"
-generated_at: "2026-03-29T02:10:16.956Z"
+generated_at: "2026-03-29T17:50:48.726Z"
 ---
 
 # § 2257. Interchangeability of funds for miscellaneous expenses and general expenses

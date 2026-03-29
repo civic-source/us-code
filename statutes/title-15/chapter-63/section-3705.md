@@ -3,9 +3,9 @@ title: "Section 3705 - Cooperative Research Centers"
 usc_title: 15
 usc_section: "3705"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3705"
-generated_at: "2026-03-29T02:11:34.343Z"
+generated_at: "2026-03-29T17:51:36.357Z"
 ---
 
 # § 3705. Cooperative Research Centers
@@ -30,5 +30,5 @@ generated_at: "2026-03-29T02:11:34.343Z"
     - **(B)** the consideration of means to place the Center, to the maximum extent feasible, on a self-sustaining basis;
   - **(4)** suitable consideration has been given to the university’s or other nonprofit institution’s capabilities and geographical location; and
   - **(5)** consideration has been given to any effects upon competition of the activities proposed under the Center.
-- **(d)** The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3).
+- **(d)** The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3) of this section.
 - **(e)** In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.

@@ -3,9 +3,9 @@ title: "Section 71 - “Person” defined"
 usc_title: 15
 usc_section: "71"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 71"
-generated_at: "2026-03-29T02:11:33.875Z"
+generated_at: "2026-03-29T17:51:35.995Z"
 ---
 
 # § 71. “Person” defined

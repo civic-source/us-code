@@ -3,9 +3,9 @@ title: "Section 3203 - Reporting procedures"
 usc_title: 25
 usc_section: "3203"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 3203"
-generated_at: "2026-03-29T02:13:20.965Z"
+generated_at: "2026-03-29T17:52:06.143Z"
 ---
 
 # § 3203. Reporting procedures
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T02:13:20.965Z"
 - **(b)**
   - **(1)** When a local law enforcement agency or local child protective services agency receives an initial report from any person of—
     - **(A)** the abuse of a child in Indian country, or
-    - **(B)** actions which would reasonably be expected to result in abuse of a child in Indian country, the receiving agency shall immediately notify appropriate officials of the other agency of such report and shall also submit, when prepared, a copy of the written report required under subsection (c) to such agency.
+    - **(B)** actions which would reasonably be expected to result in abuse of a child in Indian country, the receiving agency shall immediately notify appropriate officials of the other agency of such report and shall also submit, when prepared, a copy of the written report required under subsection (c) of this section to such agency.
   - **(2)** Where a report of abuse involves an Indian child or where the alleged abuser is an Indian and where a preliminary inquiry indicates a criminal violation has occurred, the local law enforcement agency, if other than the Federal Bureau of Investigation, shall immediately report such occurrence to the Federal Bureau of Investigation.
 - **(c)**
-  - **(1)** Within 36 hours after receiving an initial report described in subsection (b), the receiving agency shall prepare a written report which shall include, if available—
+  - **(1)** Within 36 hours after receiving an initial report described in subsection (b) of this section, the receiving agency shall prepare a written report which shall include, if available—
     - **(A)** the name, address, age, and sex of the child that is the subject of the report;
     - **(B)** the grade and the school in which the child is currently enrolled;
     - **(C)** the name and address of the child’s parents or other person responsible for the child’s care;
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T02:13:20.965Z"
   - **(2)**
     - **(A)** Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) 1 1 See References in Text note below. of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure the safety and well-being of the child or children involved.
     - **(B)** Upon completion of the investigation of any report of alleged abuse that is made to a local law enforcement agency or local child protective services agency, such agency shall prepare a final written report on such allegation.
-- **(d)** The identity of any person making a report described in subsection (b)(1) shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.
+- **(d)** The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.

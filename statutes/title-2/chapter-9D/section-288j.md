@@ -3,9 +3,9 @@ title: "Section 288j - Consideration of resolutions to direct counsel"
 usc_title: 2
 usc_section: "288j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 288j"
-generated_at: "2026-03-29T02:09:53.668Z"
+generated_at: "2026-03-29T17:50:24.022Z"
 ---
 
 # § 288j. Consideration of resolutions to direct counsel

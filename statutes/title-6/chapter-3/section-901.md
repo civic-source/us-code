@@ -3,9 +3,9 @@ title: "Section 901 - Definitions"
 usc_title: 6
 usc_section: "901"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 901"
-generated_at: "2026-03-29T02:10:05.063Z"
+generated_at: "2026-03-29T17:50:39.368Z"
 ---
 
 # § 901. Definitions
@@ -22,7 +22,7 @@ In this Act:
     - **(G)** the Committee on Transportation and Infrastructure of the House of Representatives;
     - **(H)** the Committee on Ways and Means of the House of Representatives; and
     - **(I)** other congressional committees, as appropriate.
-  - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) 1 1 See References in Text note below. or any successor committee.
+  - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) or any successor committee.
   - **(3)** The term “commercial seaport personnel” includes any person engaged in an activity relating to the loading or unloading of cargo or passengers, the movement or tracking of cargo, the maintenance and repair of intermodal equipment, the operation of cargo-related equipment (whether or not integral to the vessel), and the handling of mooring lines on the dock when a vessel is made fast or let go in the United States.
   - **(4)** The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection of the Department of Homeland Security.
   - **(5)** The term “container” has the meaning given the term in the International Convention for Safe Containers, with annexes, done at Geneva, December 2, 1972 (29 UST 3707).
@@ -36,5 +36,5 @@ In this Act:
   - **(13)** The term “screening” means a visual or automated review of information about goods, including manifest or entry documentation accompanying a shipment being imported into the United States, to determine the presence of misdeclared, restricted, or prohibited items and assess the level of threat posed by such cargo.
   - **(14)** The term “search” means an intrusive examination in which a container is opened and its contents are devanned and visually inspected for the presence of misdeclared, restricted, or prohibited items.
   - **(15)** The term “Secretary” means the Secretary of Homeland Security.
-  - **(16)** The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) 1 of title 46).
-  - **(17)** The term “transportation security incident” has the meaning given the term in section 70101(6) 1 of title 46.
+  - **(16)** The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) of title 46 ).
+  - **(17)** The term “transportation security incident” has the meaning given the term in section 70101(6) of title 46 .

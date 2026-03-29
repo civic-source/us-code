@@ -3,9 +3,9 @@ title: "Section 115 - Trade and customs revenue functions of the Department"
 usc_title: 6
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 115"
-generated_at: "2026-03-29T02:10:04.949Z"
+generated_at: "2026-03-29T17:50:39.318Z"
 ---
 
 # § 115. Trade and customs revenue functions of the Department
@@ -28,9 +28,9 @@ generated_at: "2026-03-29T02:10:04.949Z"
   - **(4)** Not later than September 30, 2007 , the Secretary shall ensure that the requirements of section 212(b) of this title are fully satisfied and shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding implementation of this paragraph.
   - **(5)** In this section, the term “customs revenue functions” means the functions described in section 212(b)(2) of this title .
 - **(c)**
-  - **(1)** The Secretary shall consult with representatives of the business community involved in international trade, including seeking the advice and recommendations of the Commercial Operations Advisory Committee, not later than 30 days after proposing, and not later than 30 days before finalizing, any Department policies, initiatives, or actions that will have a significant impact on international trade and customs revenue functions.
+  - **(1)** The Secretary shall consult with representatives of the business community involved in international trade, including seeking the advice and recommendations of the Commercial Operations Advisory Committee, on Department policies and actions that have a significant impact on international trade and customs revenue functions.
   - **(2)**
-    - **(A)** Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days before finalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
+    - **(A)** Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 30 days prior to the finalization of any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
     - **(B)** If the Secretary determines that it is important to the national security interest of the United States to finalize any Department policies, initiatives, or actions prior to the consultation described in subparagraph (A), the Secretary shall—
       - **(i)** notify and provide any recommendations of the Commercial Operations Advisory Committee received to the appropriate congressional committees not later than 45 days after the date on which the policies, initiatives, or actions are finalized; and
       - **(ii)** to the extent appropriate, modify the policies, initiatives, or actions based upon the consultations with the appropriate congressional committees.

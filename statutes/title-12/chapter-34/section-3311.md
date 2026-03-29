@@ -3,21 +3,21 @@ title: "Section 3311 - Required review of regulations"
 usc_title: 12
 usc_section: "3311"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3311"
-generated_at: "2026-03-29T02:11:21.164Z"
+generated_at: "2026-03-29T17:51:13.199Z"
 ---
 
 # § 3311. Required review of regulations
 
 - **(a)** Not less frequently than once every 10 years, the Council and each appropriate Federal banking agency represented on the Council shall conduct a review of all regulations prescribed by the Council or by any such appropriate Federal banking agency, respectively, in order to identify outdated or otherwise unnecessary regulatory requirements imposed on insured depository institutions.
-- **(b)** In conducting the review under subsection (a), the Council or the appropriate Federal banking agency shall—
-  - **(1)** categorize the regulations described in subsection (a) by type (such as consumer regulations, safety and soundness regulations, or such other designations as determined by the Council, or the appropriate Federal banking agency); and
+- **(b)** In conducting the review under subsection (a) of this section, the Council or the appropriate Federal banking agency shall—
+  - **(1)** categorize the regulations described in subsection (a) of this section by type (such as consumer regulations, safety and soundness regulations, or such other designations as determined by the Council, or the appropriate Federal banking agency); and
   - **(2)** at regular intervals, provide notice and solicit public comment on a particular category or categories of regulations, requesting commentators to identify areas of the regulations that are outdated, unnecessary, or unduly burdensome.
-- **(c)** The Council or the appropriate Federal banking agency shall ensure that the notice and comment period described in subsection (b)(2) is conducted with respect to all regulations described in subsection (a) not less frequently than once every 10 years.
+- **(c)** The Council or the appropriate Federal banking agency shall ensure that the notice and comment period described in subsection (b)(2) of this section is conducted with respect to all regulations described in subsection (a) of this section not less frequently than once every 10 years.
 - **(d)** The Council or the appropriate Federal banking agency shall—
   - **(1)** publish in the Federal Register a summary of the comments received under this section, identifying significant issues raised and providing comment on such issues; and
   - **(2)** eliminate unnecessary regulations to the extent that such action is appropriate.
-- **(e)** Not later than 30 days after carrying out subsection (d)(1), the Council shall submit to the Congress a report, which shall include—
+- **(e)** Not later than 30 days after carrying out subsection (d)(1) of this section, the Council shall submit to the Congress a report, which shall include—
   - **(1)** a summary of any significant issues raised by public comments received by the Council and the appropriate Federal banking agencies under this section and the relative merits of such issues; and
   - **(2)** an analysis of whether the appropriate Federal banking agency involved is able to address the regulatory burdens associated with such issues by regulation, or whether such burdens must be addressed by legislative action.

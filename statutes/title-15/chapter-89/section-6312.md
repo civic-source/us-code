@@ -3,17 +3,17 @@ title: "Section 6312 - Professional boxing matches conducted on Indian reservati
 usc_title: 15
 usc_section: "6312"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 6312"
-generated_at: "2026-03-29T02:11:34.393Z"
+generated_at: "2026-03-29T17:51:36.392Z"
 ---
 
 # § 6312. Professional boxing matches conducted on Indian reservations
 
 - **(a)** For purposes of this section, the following definitions shall apply:
-  - **(1)** The term “Indian tribe” has the same meaning as in section 5304(e) of title 25 .
+  - **(1)** The term “Indian tribe” has the same meaning as in section 450b(e) of title 25 .
   - **(2)** The term “reservation” means the geographically defined area over which a tribal organization exercises governmental jurisdiction.
-  - **(3)** The term “tribal organization” has the same meaning as in section 5304( l ) of title 25.
+  - **(3)** The term “tribal organization” has the same meaning as in section 450b( l ) of title 25.
 - **(b)**
   - **(1)** Notwithstanding any other provision of law, a tribal organization of an Indian tribe may, upon the initiative of the tribal organization—
     - **(A)** regulate professional boxing matches held within the reservation under the jurisdiction of that tribal organization; and

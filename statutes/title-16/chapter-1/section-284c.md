@@ -3,9 +3,9 @@ title: "Section 284c - Financial assistance for reconstruction of Center"
 usc_title: 16
 usc_section: "284c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 284c"
-generated_at: "2026-03-29T02:11:53.363Z"
+generated_at: "2026-03-29T17:51:56.486Z"
 ---
 
 # § 284c. Financial assistance for reconstruction of Center
@@ -25,6 +25,6 @@ generated_at: "2026-03-29T02:11:53.363Z"
   - **(1)** to expend all funds for the reconstruction of the Center (and for construction or reconstruction of any related structures or fixtures) only in accordance with circulars published by the Office of Management and Budget applicable to Federal grants to nonprofit organizations, and in accordance with the provisions of sections 3141–3144, 3146, and 3147 of title 40;
   - **(2)** to comply with such other terms and conditions as the Secretary deems appropriate; and
   - **(3)** to maintain, during the term of the cooperative agreement described in section 284d of this title , and at the Foundation’s expense, insurance on the Center respecting such risks, in such amounts, and containing such terms and conditions, as are satisfactory to the Secretary.
-- **(d)** The Secretary shall be responsible for overseeing the reconstruction and shall have final approval over the plans for, and location and design of, the Center, and the Foundation shall be responsible for managing the construction activities, including the selection (in accordance with the requirements referred to in paragraphs (1) and (2) of subsection (c)) of persons to perform architectural, engineering, construction, and related services.
+- **(d)** The Secretary shall be responsible for overseeing the reconstruction and shall have final approval over the plans for, and location and design of, the Center, and the Foundation shall be responsible for managing the construction activities, including the selection (in accordance with the requirements referred to in paragraphs (1) and (2) of subsection (c) of this section) of persons to perform architectural, engineering, construction, and related services.
 - **(e)** No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards (“A” weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads, prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.
 - **(f)** The Secretary may also provide support services, as requested by the Foundation, on a reimbursable basis, for purposes of reconstruction of the Center.

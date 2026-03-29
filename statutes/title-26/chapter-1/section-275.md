@@ -3,9 +3,9 @@ title: "Section 275 - Certain taxes"
 usc_title: 26
 usc_section: "275"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 275"
-generated_at: "2026-03-29T02:14:00.877Z"
+generated_at: "2026-03-29T17:52:39.183Z"
 ---
 
 # § 275. Certain taxes
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T02:14:00.877Z"
   - **(3)** Estate, inheritance, legacy, succession, and gift taxes.
   - **(4)** Income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States if the taxpayer chooses to take to any extent the benefits of section 901.
   - **(5)** Taxes on real property, to the extent that section 164(d) requires such taxes to be treated as imposed on another taxpayer.
-  - **(6)** Taxes imposed by chapters 37, 41, 42, 43, 44, 45, 46, 50A, and 54.
+  - **(6)** Taxes imposed by chapters 41, 42, 43, 44, 45, 46, and 54.
 - **(b)** For disallowance of certain other taxes, see section 164(c).

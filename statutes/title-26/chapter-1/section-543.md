@@ -3,9 +3,9 @@ title: "Section 543 - Personal holding company income"
 usc_title: 26
 usc_section: "543"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 543"
-generated_at: "2026-03-29T02:14:01.012Z"
+generated_at: "2026-03-29T17:52:39.273Z"
 ---
 
 # § 543. Personal holding company income
@@ -14,9 +14,8 @@ generated_at: "2026-03-29T02:14:01.012Z"
   - **(1)** Dividends, interest, royalties (other than mineral, oil, or gas royalties or copyright royalties), and annuities. This paragraph shall not apply to—
     - **(A)** interest constituting rent (as defined in subsection (b)(3)),
     - **(B)** interest on amounts set aside in a reserve fund under chapter 533 or 535 of title 46, United States Code,
-    - **(C)** dividends received by a United States shareholder (as defined in section 951(b)) from a controlled foreign corporation (as defined in section 957(a)),
-    - **(D)** active business computer software royalties (within the meaning of subsection (d)), and
-    - **(E)** interest received by a broker or dealer (within the meaning of section 3(a)(4) or (5) of the Securities and Exchange Act of 1934) in connection with—
+    - **(C)** active business computer software royalties (within the meaning of subsection (d)), and
+    - **(D)** interest received by a broker or dealer (within the meaning of section 3(a)(4) or (5) of the Securities and Exchange Act of 1934) in connection with—
       - **(i)** any securities or money market instruments held as property described in section 1221(a)(1),
       - **(ii)** margin accounts, or
       - **(iii)** any financing for a customer secured by securities or money market instruments.
@@ -24,7 +23,7 @@ generated_at: "2026-03-29T02:14:01.012Z"
     - **(A)** such adjusted income constitutes 50 percent or more of the adjusted ordinary gross income, and
     - **(B)** the sum of—
       - **(i)** the dividends paid during the taxable year (determined under section 562),
-      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(c) (as limited by the second sentence of section 563(b)), and
+      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(d) 1 1 See References in Text note below. (as limited by the second sentence of section 563(b)), and
       - **(iii)** the consent dividends for the taxable year (determined under section 565),
   - **(3)** The adjusted income from mineral, oil, and gas royalties; except that such adjusted income shall not be included if—
     - **(A)** such adjusted income constitutes 50 percent or more of the adjusted ordinary gross income,
@@ -95,7 +94,7 @@ generated_at: "2026-03-29T02:14:01.012Z"
   - **(3)** The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinary gross income of the corporation for the taxable year.
   - **(4)**
     - **(A)** The requirements of this paragraph are met if—
-      - **(i)** the sum of the deductions allowable to the corporation under sections 162, 174, 174A, and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
+      - **(i)** the sum of the deductions allowable to the corporation under sections 162, 174, and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
       - **(ii)** the average of such deductions for the 5-taxable year period ending with such taxable year equals or exceeds 25 percent of the average ordinary gross income of such corporation for such period.
     - **(B)** For purposes of subparagraph (A), a deduction shall not be treated as allowable under section 162 if it is specifically allowable under another section.
     - **(C)** For purposes of subparagraph (A), no deduction shall be taken into account with respect to compensation for personal services rendered by the 5 individual shareholders holding the largest percentage (by value) of the outstanding stock of the corporation. For purposes of the preceding sentence—
@@ -104,7 +103,7 @@ generated_at: "2026-03-29T02:14:01.012Z"
   - **(5)**
     - **(A)** The requirements of this paragraph are met if the sum of—
       - **(i)** the dividends paid during the taxable year (determined under section 562),
-      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(c) (as limited by the second sentence of section 563(b)), and
+      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(d) 1 (as limited by the second sentence of section 563(b)), and
       - **(iii)** the consent dividends for the taxable year (determined under section 565),
     - **(B)** For purposes of this paragraph, personal holding company income shall be computed—
       - **(i)** without regard to amounts described in subsection (a)(1)(C),

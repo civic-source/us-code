@@ -3,15 +3,15 @@ title: "Section 7426 - Civil actions by persons other than taxpayers"
 usc_title: 26
 usc_section: "7426"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7426"
-generated_at: "2026-03-29T02:14:01.382Z"
+generated_at: "2026-03-29T17:52:39.605Z"
 ---
 
 # § 7426. Civil actions by persons other than taxpayers
 
 - **(a)**
-  - **(1)** If a levy has been made on property or property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property and that such property was wrongfully levied upon may bring a civil action against the United States in a district court of the United States. Such action may be brought without regard to whether such property has been surrendered to or sold by the Secretary.
+  - **(1)** If a levy has been made on property or property has been sold pursuant to a levy, and any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property and that such property was wrongfully levied upon may bring a civil action against the United States in a district court of the United States. Such action may be brought without regard to whether such property has been surrendered to or sold by the Secretary.
   - **(2)** If property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil action against the United States in a district court of the United States.
   - **(3)** If property has been sold pursuant to an agreement described in section 6325(b)(3) (relating to substitution of proceeds of sale), any person who claims to be legally entitled to all or any part of the amount held as a fund pursuant to such agreement may bring a civil action against the United States in a district court of the United States.
   - **(4)** If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate is issued, bring a civil action against the United States in a district court of the United States for a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:14:01.382Z"
 - **(e)** If an action, which could be brought against the United States under this section, is improperly brought against any officer or employee of the United States (or former officer or employee) or his personal representative, the court shall order, upon such terms as are just, that the pleadings be amended to substitute the United States as a party for such officer or employee as of the time such action was commenced upon proper service of process on the United States.
 - **(f)** The provisions of section 7422(a) (relating to prohibition of suit prior to filing claim for refund) shall not apply to actions under this section.
 - **(g)** Interest shall be allowed at the overpayment rate established under section 6621—
-  - **(1)** in the case of a judgment pursuant to subsection (b)(2)(B), from the date the Secretary receives the money wrongfully levied upon to the date of payment of such judgment;
+  - **(1)** In the case of a judgment pursuant to subsection (b)(2)(B), from the date the Secretary receives the money wrongfully levied upon to the date of payment of such judgment;
   - **(2)** in the case of a judgment pursuant to subsection (b)(2)(C), from the date of the sale of the property wrongfully levied upon to the date of payment of such judgment; and
   - **(3)** in the case of a judgment pursuant to subsection (b)(5) which orders a refund of any amount, from the date the Secretary received such amount to the date of payment of such judgment.
 - **(h)**

@@ -3,15 +3,15 @@ title: "Section 4116 - Prevention of unfair labor practices"
 usc_title: 22
 usc_section: "4116"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4116"
-generated_at: "2026-03-29T02:12:40.331Z"
+generated_at: "2026-03-29T17:52:10.617Z"
 ---
 
 # § 4116. Prevention of unfair labor practices
 
 - **(a)** If the Department or labor organization is charged by any person with having engaged in or engaging in an unfair labor practice, the General Counsel shall investigate the charge and may issue and cause to be served upon the Department or labor organization a complaint. In any case in which the General Counsel does not issue a complaint because the charge fails to state an unfair labor practice, the General Counsel shall provide the person making the charge a written statement of the reasons for not issuing a complaint.
-- **(b)** Any complaint under subsection (a) shall contain a notice—
+- **(b)** Any complaint under subsection (a) of this section shall contain a notice—
   - **(1)** of the charge;
   - **(2)** that a hearing will be held before the Board (or any member thereof or before an individual employed by the Board and designated for such purpose); and
   - **(3)** of the time and place fixed for the hearing.
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:12:40.331Z"
     - **(B)** any concealment which prevented discovery of the alleged unfair labor practice during the 6-month period,
 - **(e)** The General Counsel may prescribe regulations providing for informal methods by which the alleged unfair labor practice may be resolved prior to the issuance of a complaint.
 - **(f)** The Board (or any member thereof or any individual employed by the Board and designated for such purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound by rules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
-- **(g)** If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order—
+- **(g)** If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) of this section that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order—
   - **(1)** to cease and desist from any such unfair labor practice in which the Department or labor organization is engaged;
   - **(2)** requiring the parties to renegotiate a collective bargaining agreement in accordance with the order of the Board and requiring that the agreement, as amended, be given retroactive effect;
   - **(3)** requiring reinstatement of an employee with backpay in accordance with section 5596 of title 5 ; or

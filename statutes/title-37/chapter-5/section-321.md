@@ -3,9 +3,9 @@ title: "Section 321 - Special pay: judge advocate continuation pay"
 usc_title: 37
 usc_section: "321"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 321"
-generated_at: "2026-03-29T02:14:43.127Z"
+generated_at: "2026-03-29T17:52:59.091Z"
 ---
 
 # § 321. Special pay: judge advocate continuation pay
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:14:43.127Z"
   - **(1)** is qualified and serving as a judge advocate, as defined in section 801 of title 10 ; and
   - **(2)** has completed—
     - **(A)** the active duty service obligation incurred through the officer’s original commissioning program; or
-    - **(B)** in the case of an officer detailed under section 2004 of title 10 or section 470 1 1 See References in Text note below. of title 14, the active duty service obligation incurred as part of that detail.
+    - **(B)** in the case of an officer detailed under section 2004 of title 10 or section 470 of title 14 , the active duty service obligation incurred as part of that detail.
 - **(b)** An eligible judge advocate who executes a written agreement to remain on active duty for a period of obligated service specified in the agreement may, upon the acceptance of the agreement by the Secretary concerned, be paid continuation pay under this section. The total amount paid to an officer under one or more agreements under this section may not exceed $60,000.
 - **(c)** The term of an agreement under subsection (b) and the amount payable under the agreement may be prorated.
 - **(d)** Upon acceptance of an agreement under subsection (b) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed. The Secretary shall prepare an implementation plan specifying the amount of each installment payment under the agreement and the times for payment of the installments.

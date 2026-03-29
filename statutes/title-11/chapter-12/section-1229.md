@@ -3,18 +3,17 @@ title: "Section 1229 - Modification of plan after confirmation"
 usc_title: 11
 usc_section: "1229"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 1229"
-generated_at: "2026-03-29T02:10:54.351Z"
+generated_at: "2026-03-29T17:51:02.159Z"
 ---
 
 # § 1229. Modification of plan after confirmation
 
 - **(a)** At any time after confirmation of the plan but before the completion of payments under such plan, the plan may be modified, on request of the debtor, the trustee, or the holder of an allowed unsecured claim, to—
   - **(1)** increase or reduce the amount of payments on claims of a particular class provided for by the plan;
-  - **(2)** extend or reduce the time for such payments;
-  - **(3)** alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan; or
-  - **(4)** provide for the payment of a claim described in section 1232(a) that arose after the date on which the petition was filed.
+  - **(2)** extend or reduce the time for such payments; or
+  - **(3)** alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan.
 - **(b)**
   - **(1)** Sections 1222(a), 1222(b), and 1223(c) of this title and the requirements of section 1225(a) of this title apply to any modification under subsection (a) of this section.
   - **(2)** The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.

@@ -3,14 +3,14 @@ title: "Section 1003 - Additional definitions"
 usc_title: 20
 usc_section: "1003"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1003"
-generated_at: "2026-03-29T02:12:17.170Z"
+generated_at: "2026-03-29T17:51:48.313Z"
 ---
 
 # § 1003. Additional definitions
 
-In this chapter:
+In this chapter and part C of subchapter I of chapter 34 of title 42:
 
   - **(1)** The term “authorizing committees” means the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives.
   - **(2)** The term “combination of institutions of higher education” means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education for the purpose of carrying out a common objective on the group’s behalf.
@@ -21,7 +21,7 @@ In this chapter:
       - **(i)** offers, for a fee, degrees, diplomas, or certificates, that may be used to represent to the general public that the individual possessing such a degree, diploma, or certificate has completed a program of postsecondary education or training; and
       - **(ii)** requires such individual to complete little or no education or coursework to obtain such degree, diploma, or certificate; and
     - **(B)** lacks accreditation by an accrediting agency or association that is recognized as an accrediting agency or association of institutions of higher education (as such term is defined in section 1002 of this title ) by—
-      - **(i)** the Secretary pursuant to subpart 2 of part H of subchapter IV; or
+      - **(i)** the Secretary pursuant to subpart 2 of part G of subchapter IV of this chapter; or
       - **(ii)** a Federal agency, State government, or other organization or association that recognizes accrediting agencies or associations.
   - **(6)** The term “disability” has the same meaning given that term under section 12102(2) of title 42 .
   - **(7)**
@@ -45,7 +45,7 @@ In this chapter:
   - **(9)** The term “elementary school” has the same meaning given that term under section 7801 of this title .
   - **(10)** The term “gifted and talented” has the same meaning given that term under section 7801 of this title .
   - **(11)** The term “local educational agency” has the same meaning given that term under section 7801 of this title .
-  - **(12)** The term “new borrower” when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV.
+  - **(12)** The term “new borrower” when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
   - **(13)** The term “nonprofit” as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
   - **(14)** The term “poverty line” means the poverty line (as defined in section 9902(2) of title 42 ) applicable to a family of the size involved.
   - **(15)** The term “school or department of divinity” means an institution, or a department or a branch of an institution, the program of instruction of which is designed for the education of students—

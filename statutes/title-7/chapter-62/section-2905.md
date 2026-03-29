@@ -3,15 +3,15 @@ title: "Section 2905 - Certification of organizations to nominate"
 usc_title: 7
 usc_section: "2905"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2905"
-generated_at: "2026-03-29T02:10:16.979Z"
+generated_at: "2026-03-29T17:50:48.744Z"
 ---
 
 # § 2905. Certification of organizations to nominate
 
-- **(a)** The eligibility of any State organization to represent producers and to participate in the making of nominations under section 2904(1) of this title shall be certified by the Secretary. The Secretary shall certify any State organization that the Secretary determines meets the eligibility criteria established under subsection (b) and such determination as to eligibility shall be final.
-- **(b)** A State cattle association or State general farm organization may be certified as described in subsection (a) if such association or organization meets all of the following eligibility criteria:
+- **(a)** The eligibility of any State organization to represent producers and to participate in the making of nominations under section 2904(1) of this title shall be certified by the Secretary. The Secretary shall certify any State organization that the Secretary determines meets the eligibility criteria established under subsection (b) of this section and such determination as to eligibility shall be final.
+- **(b)** A State cattle association or State general farm organization may be certified as described in subsection (a) of this section if such association or organization meets all of the following eligibility criteria:
   - **(1)** The association or organization’s total paid membership is comprised of at least a majority of cattle producers or the association or organization’s total paid membership represents at least a majority of the cattle producers in the State.
   - **(2)** The association or organization represents a substantial number of producers that produce a substantial number of cattle in the State.
   - **(3)** The association or organization has a history of stability and permanency.

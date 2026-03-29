@@ -1,12 +1,14 @@
 ---
-title: "Section 1272 - Omitted"
+title: "Section 1272 - Protection of minors and persons under legal disability"
 usc_title: 25
 usc_section: "1272"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1272"
-generated_at: "2026-03-29T02:13:20.872Z"
+generated_at: "2026-03-29T17:52:06.041Z"
 ---
 
-# § 1272. Omitted
+# § 1272. Protection of minors and persons under legal disability
+
+Sums payable to enrollees or their heirs or legatees who are less than eighteen years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
 

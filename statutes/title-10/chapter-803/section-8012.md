@@ -1,14 +1,14 @@
 ---
-title: "Section 8012 - Department of the Navy: seal"
+title: "Section 8012 - Department of the Air Force: seal"
 usc_title: 10
 usc_section: "8012"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 8012"
-generated_at: "2026-03-29T02:10:45.290Z"
+generated_at: "2026-03-29T17:50:57.236Z"
 ---
 
-# § 8012. Department of the Navy: seal
+# § 8012. Department of the Air Force: seal
 
-The Secretary of the Navy shall have a seal for the Department of the Navy. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
+The Secretary of the Air Force shall have a seal for the Department of the Air Force. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 

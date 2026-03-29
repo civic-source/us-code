@@ -3,9 +3,9 @@ title: "Section 1351 - Treatment of recoveries of foreign expropriation losses"
 usc_title: 26
 usc_section: "1351"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1351"
-generated_at: "2026-03-29T02:14:01.133Z"
+generated_at: "2026-03-29T17:52:39.369Z"
 ---
 
 # § 1351. Treatment of recoveries of foreign expropriation losses
@@ -31,6 +31,6 @@ generated_at: "2026-03-29T02:14:01.133Z"
 - **(i)** For purposes of this subtitle, proper adjustment shall be made, under regulations prescribed by the Secretary, in—
   - **(1)** the credit under section 27 (relating to foreign tax credit),
   - **(2)** the credit under section 38 (relating to general business credit),
-  - **(3)** the net operating loss deduction under section 172,
+  - **(3)** the net operating loss deduction under section 172, or the operations loss deduction under section 810,
   - **(4)** the capital loss carryover under section 1212(a), and
   - **(5)** such other items as may be specified by such regulations,

@@ -1,32 +1,25 @@
 ---
-title: "Section 2309a - Project modifications for improvement of environment or drought resiliency"
+title: "Section 2309a - Project modifications for improvement of environment"
 usc_title: 33
 usc_section: "2309a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2309a"
-generated_at: "2026-03-29T02:14:18.619Z"
+generated_at: "2026-03-29T17:52:45.986Z"
 ---
 
-# § 2309a. Project modifications for improvement of environment or drought resiliency
+# § 2309a. Project modifications for improvement of environment
 
-- **(a)** The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of—
-  - **(1)** improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment; or
-  - **(2)** providing drought resiliency.
-- **(b)** The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will provide for drought resilience or will improve the quality of the environment in the public interest.
+- **(a)** The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
+- **(b)** The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
 - **(c)**
   - **(1)** If the Secretary determines that construction of a water resources project by the Secretary or operation of a water resources project constructed by the Secretary has contributed to the degradation of the quality of the environment, the Secretary may undertake measures for restoration of environmental quality and measures for enhancement of environmental quality that are associated with the restoration, through modifications either at the project site or at other locations that have been affected by the construction or operation of the project, if such measures do not conflict with the authorized project purposes.
   - **(2)** Congress finds that—
     - **(A)** the Great Lakes navigation system has been instrumental in the spread of sea lamprey and the associated impacts on its fishery; and
     - **(B)** the use of the authority under this subsection for control of sea lamprey at any Great Lakes basin location is appropriate.
-- **(d)** The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) shall be 25 percent. The non-Federal share may be provided in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $15,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
+- **(d)** The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. Not more than 80 percent of the non-Federal share may be in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $5,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
 - **(e)** The Secretary shall coordinate any actions taken pursuant to this section with appropriate Federal, State, and local agencies.
 - **(f)**
 - **(g)** Notwithstanding section 1962d–5b of title 42 , a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
-- **(h)** There is authorized to be appropriated not to exceed $62,000,000 annually to carry out this section.
+- **(h)** There is authorized to be appropriated not to exceed $40,000,000 annually to carry out this section.
 - **(i)** In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
-- **(j)** Drought resilience measures carried out under this section may include—
-  - **(1)** water conservation measures to mitigate and address drought conditions;
-  - **(2)** removal of sediment captured behind a dam for the purpose of restoring or increasing the authorized storage capacity of the project concerned;
-  - **(3)** the planting of native plant species that will reduce the risk of drought and the incidence of nonnative species; and
-  - **(4)** other actions that increase drought resilience, water conservation, or water availability.

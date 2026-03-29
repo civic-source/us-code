@@ -3,9 +3,9 @@ title: "Section 2602 - Agreements to implement Article 9 of the convention"
 usc_title: 19
 usc_section: "2602"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2602"
-generated_at: "2026-03-29T02:12:08.710Z"
+generated_at: "2026-03-29T17:51:51.302Z"
 ---
 
 # § 2602. Agreements to implement Article 9 of the convention
@@ -23,19 +23,19 @@ generated_at: "2026-03-29T02:12:08.710Z"
     - **(B)** a multilateral agreement with the State Party and with one or more other nations (whether or not a State Party) under which the United States will apply such restrictions, and the other nations will apply similar restrictions, with respect to such material.
   - **(3)** A request made to the United States under article 9 of the Convention by a State Party must be accompanied by a written statement of the facts known to the State Party that relate to those matters with respect to which determinations must be made under subparagraphs (A) through (D) of paragraph (1).
   - **(4)** In implementing this subsection, the President should endeavor to obtain the commitment of the State Party concerned to permit the exhange 1 1 So in original. Probably should be “exchange”. of its archaeological and ethnological materials under circumstances in which such exchange does not jeopardize its cultural patrimony.
-- **(b)** The President may not enter into any agreement under subsection (a) which has an effective period beyond the close of the five-year period beginning on the date on which such agreement enters into force with respect to the United States.
+- **(b)** The President may not enter into any agreement under subsection (a) of this section which has an effective period beyond the close of the five-year period beginning on the date on which such agreement enters into force with respect to the United States.
 - **(c)**
-  - **(1)** The President may not enter into a bilateral or multilateral agreement authorized by subsection (a) unless the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party making a request to the United States under article 9 of the Convention will be applied in concert with similar restrictions implemented, or to be implemented, by those nations (whether or not State Parties) individually having a significant import trade in such material.
+  - **(1)** The President may not enter into a bilateral or multilateral agreement authorized by subsection (a) of this section unless the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party making a request to the United States under article 9 of the Convention will be applied in concert with similar restrictions implemented, or to be implemented, by those nations (whether or not State Parties) individually having a significant import trade in such material.
   - **(2)** Notwithstanding paragraph (1), the President may enter into an agreement if he determines that a nation individually having a significant import trade in such material is not implementing, or is not likely to implement, similar restrictions, but—
     - **(A)** such restrictions are not essential to deter a serious situation of pillage, and
     - **(B)** the application of the import restrictions set forth in section 2606 of this title in concert with similar restrictions implemented, or to be implemented, by other nations (whether or not State Parties) individually having a significant import trade in such material would be of substantial benefit in deterring a serious situation of pillage.
-- **(d)** If, after an agreement enters into force with respect to the United States, the President determines that a number of parties to the agreement (other than parties described in subsection (c)(2)) having significant import trade in the archaeological and ethnological material covered by the agreement—
+- **(d)** If, after an agreement enters into force with respect to the United States, the President determines that a number of parties to the agreement (other than parties described in subsection (c)(2) of this section) having significant import trade in the archaeological and ethnological material covered by the agreement—
   - **(1)** have not implemented within a reasonable period of time import restrictions that are similar to those set forth in section 2606 of this title , or
   - **(2)** are not implementing such restrictions satisfactorily with the result that no substantial benefit in deterring a serious situation of pillage in the State Party concerned is being obtained,
 - **(e)** The President may extend any agreement that enters into force with respect to the United States for additional periods of not more than five years each if the President determines that—
-  - **(1)** the factors referred to in subsection (a)(1) which justified the entering into of the agreement still pertain, and
-  - **(2)** no cause for suspension under subsection (d) exists.
-- **(f)** If any request described in subsection (a) is made by a State Party, or if the President proposes to extend any agreement under subsection (e), the President shall—
+  - **(1)** the factors referred to in subsection (a)(1) of this section which justified the entering into of the agreement still pertain, and
+  - **(2)** no cause for suspension under subsection (d) of this section exists.
+- **(f)** If any request described in subsection (a) of this section is made by a State Party, or if the President proposes to extend any agreement under subsection (e) of this section, the President shall—
   - **(1)** publish notification of the request or proposal in the Federal Register;
   - **(2)** submit to the Committee such information regarding the request or proposal (including, if applicable, information from the State Party with respect to the implementation of emergency action under section 2603 of this title ) as is appropriate to enable the Committee to carry out its duties under section 2605(f) of this title ; and
   - **(3)** consider, in taking action on the request or proposal, the views and recommendations contained in any Committee report—
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T02:12:08.710Z"
     - **(B)** submitted to the President before the close of the one-hundred-and-fifty-day period beginning on the day on which the President submitted information on the request or proposal to the Committee under paragraph (2).
 - **(g)**
   - **(1)** In any case in which the President—
-    - **(A)** enters into or extends an agreement pursuant to subsection (a) or (e), or
+    - **(A)** enters into or extends an agreement pursuant to subsection (a) or (e) of this section, or
     - **(B)** applies import restrictions under section 2603 of this title ,
   - **(2)** The report under paragraph (1) shall contain—
     - **(A)** a description of such action (including the text of any agreement entered into),

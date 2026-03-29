@@ -3,9 +3,9 @@ title: "Section 823c - Alaska State jurisdiction over small hydroelectric projec
 usc_title: 16
 usc_section: "823c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 823c"
-generated_at: "2026-03-29T02:11:53.679Z"
+generated_at: "2026-03-29T17:51:56.784Z"
 ---
 
 # § 823c. Alaska State jurisdiction over small hydroelectric projects
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:11:53.679Z"
   - **(3)** requires, as a condition of a license for any project works—
     - **(A)** the construction, maintenance, and operation by a licensee at its own expense of such lights and signals as may be directed by the Secretary of the Department in which the Coast Guard is operating, and such fishways as may be prescribed by the Secretary of the Interior or the Secretary of Commerce, as appropriate;
     - **(B)** the operation of any navigation facilities which may be constructed as part of any project to be controlled at all times by such reasonable rules and regulations as may be made by the Secretary of the Army; and
-    - **(C)** except as provided in subsection (j), conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act ( 16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
+    - **(C)** except as provided in subsection (j) of this section, conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act ( 16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
 - **(b)** For purposes of this section, the term “qualifying project works” means project works—
   - **(1)** that are not part of a project licensed under this part or exempted from licensing under this subchapter or section 2705 of this title prior to November 9, 2000 ;
   - **(2)** for which a preliminary permit, a license application, or an application for an exemption from licensing has not been accepted for filing by the Commission prior to November 9, 2000 (unless such application is withdrawn at the election of the applicant);
@@ -36,9 +36,9 @@ generated_at: "2026-03-29T02:11:53.679Z"
 - **(e)** The Commission shall consult with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce before certifying the State of Alaska’s regulatory program.
 - **(f)** Nothing in this section shall preempt the application of Federal environmental, natural resources, or cultural resources protection laws according to their terms.
 - **(g)** The State of Alaska shall notify the Commission not later than 30 days after making any significant modification to its regulatory program. The Commission shall periodically review the State’s program to ensure compliance with the provisions of this section.
-- **(h)** Notwithstanding subsection (a), the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
+- **(h)** Notwithstanding subsection (a) of this section, the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
 - **(i)**
-  - **(1)** Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska’s regulatory program for water-power development to determine whether it complies with the requirements of subsection (a).
-  - **(2)** The Commission’s review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska’s regulatory program for water-power development complies with the requirements of subsection (a).
-  - **(3)** If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska’s regulatory program for water-power development shall be deemed to be in compliance with subsection (a).
-- **(j)** If the State of Alaska determines that a recommendation under subsection (a)(3)(C) is inconsistent with paragraphs (1) and (2) of subsection (a), the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under section 803(j)(2) of this title .
+  - **(1)** Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska’s regulatory program for water-power development to determine whether it complies with the requirements of subsection (a) of this section.
+  - **(2)** The Commission’s review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska’s regulatory program for water-power development complies with the requirements of subsection (a) of this section.
+  - **(3)** If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska’s regulatory program for water-power development shall be deemed to be in compliance with subsection (a) of this section.
+- **(j)** If the State of Alaska determines that a recommendation under subsection (a)(3)(C) of this section is inconsistent with paragraphs (1) and (2) of subsection (a) of this section, the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under section 803(j)(2) of this title .

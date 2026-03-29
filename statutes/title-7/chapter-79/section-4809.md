@@ -3,9 +3,9 @@ title: "Section 4809 - Assessments"
 usc_title: 7
 usc_section: "4809"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 4809"
-generated_at: "2026-03-29T02:10:17.030Z"
+generated_at: "2026-03-29T17:50:48.779Z"
 ---
 
 # § 4809. Assessments
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:10:17.030Z"
     - **(A)** each producer for each porcine animal described in subparagraph (A) or (C) of section 4802(8) of this title produced in the United States that is sold or slaughtered for sale;
     - **(B)** each producer for each porcine animal described in subsection 1 1 So in original. Probably should be “section”. 4802(8)(B) of this title that is sold; and
     - **(C)** each importer for each porcine animal, pork, or pork product that is imported into the United States.
-  - **(2)** Such assessment shall be collected and remitted to the Board once it is appointed pursuant to section 4808 of this title , but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c), except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to section 4808 of this title , by—
+  - **(2)** Such assessment shall be collected and remitted to the Board once it is appointed pursuant to section 4808 of this title , but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c) of this section, except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to section 4808 of this title , by—
     - **(A)** in the case of subparagraph (A) of paragraph (1), the purchaser of the porcine animal referred to in such subparagraph;
     - **(B)** in the case of subparagraph (B) of paragraph (1), the producer of the porcine animal referred to in such subparagraph; and
     - **(C)** in the case of subparagraph (C) of paragraph (1), the importer referred to in such subparagraph.
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:10:17.030Z"
 - **(c)** Funds collected by the Board from assessments collected under this section shall be distributed and used in the following manner:
   - **(1)**
     - **(A)** Each State association, shall receive an amount of funds equal to the product obtained by multiplying—
-      - **(i)** the aggregate amount of assessments attributable to porcine animals produced in such State by persons described in subsection (a)(1)(A) and (B) minus that State’s share of refunds determined pursuant to paragraph (4) by such persons pursuant to section 4813 of this title ; and
+      - **(i)** the aggregate amount of assessments attributable to porcine animals produced in such State by persons described in subsection (a)(1)(A) and (B) of this section minus that State’s share of refunds determined pursuant to paragraph (4) by such persons pursuant to section 4813 of this title ; and
       - **(ii)** a percentage applicable to such State association determined by the Delegate Body, but in no event less than sixteen and one-half percent, or
     - **(B)** in the case of a State association that was conducting a pork promotion program in the period from July 1, 1984 , to June 30, 1985 , if greater than (A) an amount of funds equal to the amount of funds that would have been collected in such State pursuant to the pork promotion program in existence in such State from July 1, 1984 , to June 30, 1985 , had the porcine animals, subject to assessment and to which no refund was received in such State in each year following December 23, 1985 , been produced from July 1, 1984 , to June 30, 1985 , and been subject to the rates of assessments then in effect and the rate of return then in effect from each State to the Council described in paragraph (2)(A), and other national entities involved in pork promotion, research and consumer information.
     - **(C)** A State association shall use such funds and any proceeds from the investment of such funds for financing—
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T02:10:17.030Z"
       - **(ii)** administrative expenses incurred in connection with such plans and projects.
   - **(2)**
     - **(A)** The National Pork Producers Council, a nonprofit corporation of the type described in section 501(c)(3) of title 26 and incorporated in the State of Iowa, shall receive an amount of funds equal to—
-      - **(i)** 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title . 2 2 So in original. The period probably should be a comma.
+      - **(i)** 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title . 2 2 So in original. The period probably should be a comma.
       - **(ii)** 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title ,
       - **(iii)** 25 percent until twelve months after the referendum is conducted, and
       - **(iv)** no funds thereafter except in so far as it obtains such funds from the Board pursuant to sections 3 3 So in original. Probably should be “section”. 4808 or 4809 of this title, each of which amounts determined under (i), (ii), and (iii) shall be less the Council’s share of refunds determined pursuant to paragraph (4).
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T02:10:17.030Z"
       - **(ii)** administrative expenses of the Council.
   - **(3)**
     - **(A)** The Board shall receive the amount of funds that remain after the distribution required under paragraphs (1) and (2).
-    - **(B)** The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) for—
+    - **(B)** The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) of this section for—
       - **(i)** financing promotion, research, and consumer information plans and projects in accordance with this chapter; 4 4 See References in Text note below.
       - **(ii)** such expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary;
       - **(iii)** accumulation of a reasonable reserve to permit an effective promotion, research, and consumer information program to continue in years when the amount of assessments may be reduced; and

@@ -3,9 +3,9 @@ title: "Section 205j - Financial and administrative services; source and reimbur
 usc_title: 15
 usc_section: "205j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 205j"
-generated_at: "2026-03-29T02:11:34.002Z"
+generated_at: "2026-03-29T17:51:36.118Z"
 ---
 
 # § 205j. Financial and administrative services; source and reimbursement

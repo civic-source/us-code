@@ -3,12 +3,12 @@ title: "Section 410u - Preservation of historic sites"
 usc_title: 16
 usc_section: "410u"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 410u"
-generated_at: "2026-03-29T02:11:53.387Z"
+generated_at: "2026-03-29T17:51:56.512Z"
 ---
 
 # § 410u. Preservation of historic sites
 
-To provide further for the preservation and interpretation of historic sites, structures, and properties lying along the entire route or routes where significant events occurred on the 18th and 19th of April 1775, in the cities of Boston, Cambridge, Medford, and Somerville, and the towns of Arlington, Brookline, Concord, Lexington, and Lincoln, including the area generally described in section 410s of this title as lying between Fiske Hill and the North Bridge, the Secretary of the Interior is authorized, in accordance with the purposes of this subchapter, to enter into cooperative agreements with the Commonwealth of Massachusetts, political subdivisions thereof, corporations, associations, or individuals, and to erect and maintain tablets or markers, in accordance with provisions contained in the Act approved August 21, 1935 , entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes” ( 49 Stat. 666 ). 1 1 See References in Text note below.
+To provide further for the preservation and interpretation of historic sites, structures, and properties lying along the entire route or routes where significant events occurred on the 18th and 19th of April 1775, in the cities of Boston, Cambridge, Medford, and Somerville, and the towns of Arlington, Brookline, Concord, Lexington, and Lincoln, including the area generally described in section 410s of this title as lying between Fiske Hill and the North Bridge, the Secretary of the Interior is authorized, in accordance with the purposes of this subchapter, to enter into cooperative agreements with the Commonwealth of Massachusetts, political subdivisions thereof, corporations, associations, or individuals, and to erect and maintain tablets or markers, in accordance with provisions contained in sections 461 to 467 of this title.
 

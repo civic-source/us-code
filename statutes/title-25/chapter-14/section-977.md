@@ -1,12 +1,14 @@
 ---
-title: "Section 977 - Omitted"
+title: "Section 977 - Rights, privileges, and obligations under Nebraska laws unaffected"
 usc_title: 25
 usc_section: "977"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 977"
-generated_at: "2026-03-29T02:13:20.870Z"
+generated_at: "2026-03-29T17:52:06.033Z"
 ---
 
-# § 977. Omitted
+# § 977. Rights, privileges, and obligations under Nebraska laws unaffected
+
+Nothing in this subchapter shall affect the rights, privileges, or obligations of the tribe and its members under the laws of Nebraska.
 

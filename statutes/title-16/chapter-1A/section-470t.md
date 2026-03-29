@@ -1,12 +1,14 @@
 ---
-title: "Section 470t - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 470t - Budget; authorization of appropriations"
 usc_title: 16
 usc_section: "470t"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 470t"
-generated_at: "2026-03-29T02:11:53.564Z"
+generated_at: "2026-03-29T17:51:56.683Z"
 ---
 
-# § 470t. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 470t. Budget; authorization of appropriations
 
+- **(a)** The Council shall submit its budget annually as a related agency of the Department of the Interior. There are authorized to be appropriated such amounts as may be necessary to carry out this part.
+- **(b)** Whenever the Council submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the House and Senate Appropriations Committees and the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources.

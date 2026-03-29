@@ -3,9 +3,9 @@ title: "Section 4636 - Civil money penalties"
 usc_title: 12
 usc_section: "4636"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4636"
-generated_at: "2026-03-29T02:11:21.217Z"
+generated_at: "2026-03-29T17:51:13.246Z"
 ---
 
 # § 4636. Civil money penalties
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T02:11:21.217Z"
     - **(A)** in the case of any entity-affiliated party, an amount not to exceed $2,000,000; and
     - **(B)** in the case of any regulated entity, $2,000,000.
 - **(c)**
-  - **(1)** The Director shall establish standards and procedures governing the imposition of civil money penalties under subsections (a) and (b). Such standards and procedures—
+  - **(1)** The Director shall establish standards and procedures governing the imposition of civil money penalties under subsections (a) and (b) of this section. Such standards and procedures—
     - **(A)** shall provide for the Director to notify the regulated entity or entity-affiliated party in writing of the Director’s determination to impose the penalty, which shall be made on the record;
     - **(B)** shall provide for the imposition of a penalty only after the regulated entity, executive officer, or director or entity-affiliated party has been given an opportunity for a hearing on the record pursuant to section 4633 of this title ; and
     - **(C)** may provide for review by the Director of any determination or order, or interlocutory ruling, arising from a hearing.
@@ -45,6 +45,6 @@ generated_at: "2026-03-29T02:11:21.217Z"
 - **(d)** If a regulated entity, executive officer, director, or entity-affiliated party fails to comply with an order of the Director imposing a civil money penalty under this section, after the order is no longer subject to review as provided under subsection (c)(1), the Director may bring an action in the United States District Court for the District of Columbia, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located, to obtain a monetary judgment against the regulated entity, executive officer, director, or entity-affiliated party and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the order of the Director imposing the penalty shall not be subject to review.
 - **(e)** The Director may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 - **(f)** Any civil money penalty under this section shall be in addition to any other available civil remedy and may be imposed whether or not the Director imposes other administrative sanctions.
-- **(g)** A regulated entity may not reimburse or indemnify any individual for any penalty imposed under subsection (b)(3).
+- **(g)** A regulated entity may not reimburse or indemnify any individual for any penalty imposed under subsection (b)(3) of this section.
 - **(h)** The Director shall deposit any civil money penalties collected under this section into the general fund of the Treasury.
-- **(i)** A penalty under this section may be imposed only for conduct or violations under subsection (a) occurring after October 28, 1992 .
+- **(i)** A penalty under this section may be imposed only for conduct or violations under subsection (a) of this section occurring after October 28, 1992 .

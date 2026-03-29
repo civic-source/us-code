@@ -3,9 +3,9 @@ title: "Section 280F - Limitation on depreciation for luxury automobiles; limita
 usc_title: 26
 usc_section: "280F"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 280F"
-generated_at: "2026-03-29T02:14:00.879Z"
+generated_at: "2026-03-29T17:52:39.185Z"
 ---
 
 # § 280F. Limitation on depreciation for luxury automobiles; limitation where certain property used for personal purposes
@@ -13,15 +13,19 @@ generated_at: "2026-03-29T02:14:00.879Z"
 - **(a)**
   - **(1)**
     - **(A)** The amount of the depreciation deduction for any taxable year for any passenger automobile shall not exceed—
-      - **(i)** $10,000 for the 1st taxable year in the recovery period,
-      - **(ii)** $16,000 for the 2nd taxable year in the recovery period,
-      - **(iii)** $9,600 for the 3rd taxable year in the recovery period, and
-      - **(iv)** $5,760 for each succeeding taxable year in the recovery period.
+      - **(i)** $2,560 for the 1st taxable year in the recovery period,
+      - **(ii)** $4,100 for the 2nd taxable year in the recovery period,
+      - **(iii)** $2,450 for the 3rd taxable year in the recovery period, and
+      - **(iv)** $1,475 for each succeeding taxable year in the recovery period.
     - **(B)**
       - **(i)** Except as provided in clause (ii), the unrecovered basis of any passenger automobile shall be treated as an expense for the 1st taxable year after the recovery period. Any excess of the unrecovered basis over the limitation of clause (ii) shall be treated as an expense in the succeeding taxable year.
-      - **(ii)** The amount treated as an expense under clause (i) for any taxable year shall not exceed $5,760.
+      - **(ii)** The amount treated as an expense under clause (i) for any taxable year shall not exceed $1,475.
       - **(iii)** No amount shall be allowable as a deduction by reason of this subparagraph with respect to any property for any taxable year unless a depreciation deduction would be allowable with respect to such property for such taxable year.
       - **(iv)** For purposes of this subtitle, any amount allowable as a deduction by reason of this subparagraph shall be treated as a depreciation deduction allowable under section 168.
+    - **(C)**
+      - **(i)** In the case of a passenger automobile which is propelled by a fuel which is not a clean-burning fuel and to which is installed qualified clean-fuel vehicle property (as defined in section 179A(c)(1)(A)) for purposes of permitting such vehicle to be propelled by a clean burning fuel (as defined in section 179A(e)(1)), subparagraph (A) shall not apply to the cost of the installed qualified clean burning vehicle property.
+      - **(ii)** In the case of a purpose built passenger vehicle (as defined in section 4001(a)(2)(C)(ii)), each of the annual limitations specified in subparagraphs (A) and (B) shall be tripled.
+      - **(iii)** This subparagraph shall apply to property placed in service after August 5, 1997 , and before January 1, 2007 .
   - **(2)** This subsection shall be applied before—
     - **(A)** the application of subsection (b), and
     - **(B)** the application of any other reduction in the amount of any depreciation deduction allowable under section 168 by reason of any use not qualifying the property for such credit or depreciation deduction.
@@ -51,9 +55,11 @@ generated_at: "2026-03-29T02:14:00.879Z"
     - **(A)** Except as provided in subparagraph (B), the term “listed property” means—
       - **(i)** any passenger automobile,
       - **(ii)** any other property used as a means of transportation,
-      - **(iii)** any property of a type generally used for purposes of entertainment, recreation, or amusement, and
-      - **(iv)** any other property of a type specified by the Secretary by regulations.
-    - **(B)** Except to the extent provided in regulations, clause (ii) of subparagraph (A) shall not apply to any property substantially all of the use of which is in a trade or business of providing to unrelated persons services consisting of the transportation of persons or property for compensation or hire.
+      - **(iii)** any property of a type generally used for purposes of entertainment, recreation, or amusement,
+      - **(iv)** any computer or peripheral equipment (as defined in section 168(i)(2)(B)), “and” 1 1 So in original. The quotation marks probably should not appear.
+      - **(v)** any other property of a type specified by the Secretary by regulations.
+    - **(B)** The term “listed property” shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
+    - **(C)** Except to the extent provided in regulations, clause (ii) of subparagraph (A) shall not apply to any property substantially all of the use of which is in a trade or business of providing to unrelated persons services consisting of the transportation of persons or property for compensation or hire.
   - **(5)**
     - **(A)** Except as provided in subparagraph (B), the term “passenger automobile” means any 4-wheeled vehicle—
       - **(i)** which is manufactured primarily for use on public streets, roads, and highways, and
@@ -75,13 +81,13 @@ generated_at: "2026-03-29T02:14:00.879Z"
       - **(i)** The term “5-percent owner” means any person who is a 5-percent owner with respect to the taxpayer (as defined in section 416(i)(1)(B)(i)).
       - **(ii)** The term “related person” means any person related to the taxpayer (within the meaning of section 267(b)).
   - **(7)**
-    - **(A)** In the case of any passenger automobile placed in service after 2018, subsection (a) shall be applied by increasing each dollar amount contained in such subsection by the automobile price inflation adjustment for the calendar year in which such automobile is placed in service. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or if the increase is a multiple of $50, such increase shall be increased to the next higher multiple of $100).
+    - **(A)** In the case of any passenger automobile placed in service after 1988, subsection (a) shall be applied by increasing each dollar amount contained in such subsection by the automobile price inflation adjustment for the calendar year in which such automobile is placed in service. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or if the increase is a multiple of $50, such increase shall be increased to the next higher multiple of $100).
     - **(B)** For purposes of this paragraph—
       - **(i)** The automobile price inflation adjustment for any calendar year is the percentage (if any) by which—
-        - **(I)** the C-CPI-U automobile component for October of the preceding calendar year, exceeds
-        - **(II)** the automobile component of the CPI (as defined in section 1(f)(4)) for October of 2017, multiplied by the amount determined under 1(f)(3)(B).
-      - **(ii)** The term “C-CPI-U automobile component” means the automobile component of the Chained Consumer Price Index for All Urban Consumers (as described in section 1(f)(6)).
-  - **(8)** For purposes of subsection (a)(1), the term “unrecovered basis” means the adjusted basis of the passenger automobile determined after the application of subsection (a) and as if all use during the recovery period were use in a trade or business (including the holding of property for the production of income).
+        - **(I)** the CPI automobile component for October of the preceding calendar year, exceeds
+        - **(II)** the CPI automobile component for October of 1987.
+      - **(ii)** The term “CPI automobile component” means the automobile component of the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+  - **(8)** For purposes of subsection (a)(2), the term “unrecovered basis” means the adjusted basis of the passenger automobile determined after the application of subsection (a) and as if all use during the recovery period were use in a trade or business (including the holding of property for the production of income).
   - **(9)** All taxpayers holding interests in any passenger automobile shall be treated as 1 taxpayer for purposes of applying subsection (a) to such automobile, and the limitations of subsection (a) shall be allocated among such taxpayers in proportion to their interests in such automobile.
-  - **(10)** For purposes of subsection (a)(1) any property acquired in a nonrecognition transaction shall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
+  - **(10)** For purposes of subsection (a)(2) any property acquired in a nonrecognition transaction shall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.

@@ -3,9 +3,9 @@ title: "Section 305 - Penalties for unlawful export information activities"
 usc_title: 13
 usc_section: "305"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "13 U.S.C. § 305"
-generated_at: "2026-03-29T02:11:22.195Z"
+generated_at: "2026-03-29T17:51:04.681Z"
 ---
 
 # § 305. Penalties for unlawful export information activities
@@ -28,6 +28,6 @@ generated_at: "2026-03-29T02:11:22.195Z"
   - **(5)** Any amount paid in satisfaction of a civil penalty imposed under this section or section 304 shall be deposited into the general fund of the Treasury and credited as miscellaneous receipts.
 - **(d)**
   - **(1)** The Secretary of Commerce may designate officers or employees of the Office of Export Enforcement to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
-  - **(2)** The Commissioner of Customs 1 1 See Change of Name note below. may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
+  - **(2)** The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 - **(e)** The Secretary of Commerce shall promulgate regulations for the implementation and enforcement of this section.
 - **(f)** The criminal fines provided for in this section are exempt from the provisions of section 3571 of title 18 , United States Code.

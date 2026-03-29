@@ -1,33 +1,41 @@
 ---
-title: "Section 2225 - Insider threat detection"
+title: "Section 2225 - Information technology purchases: tracking and management"
 usc_title: 10
 usc_section: "2225"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2225"
-generated_at: "2026-03-29T02:10:45.084Z"
+generated_at: "2026-03-29T17:50:57.085Z"
 ---
 
-# § 2225. Insider threat detection
+# § 2225. Information technology purchases: tracking and management
 
-- **(a)** The Secretary of Defense shall establish a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense to detect unauthorized access to, use of, or transmission of classified or controlled unclassified information.
-- **(b)** The program established under subsection (a) shall include the following:
-  - **(1)** Technology solutions for deployment within the Department of Defense that allow for centralized monitoring and detection of unauthorized activities, including—
-    - **(A)** monitoring the use of external ports and read and write capability controls;
-    - **(B)** disabling the removable media ports of computers physically or electronically;
-    - **(C)** electronic auditing and reporting of unusual and unauthorized user activities;
-    - **(D)** using data-loss prevention and data-rights management technology to prevent the unauthorized export of information from a network or to render such information unusable in the event of the unauthorized export of such information;
-    - **(E)** a roles-based access certification system;
-    - **(F)** cross-domain guards for transfers of information between different networks; and
-    - **(G)** patch management for software and security updates.
-  - **(2)** Policies and procedures to support such program, including special consideration for policies and procedures related to international and interagency partners and activities in support of ongoing operations in areas of hostilities.
-  - **(3)** A governance structure and process that integrates information security and sharing technologies with the policies and procedures referred to in paragraph (2). Such structure and process shall include—
-    - **(A)** coordination with the existing security clearance and suitability review process;
-    - **(B)** coordination of existing anomaly detection techniques, including those used in counterintelligence investigation or personnel screening activities; and
-    - **(C)** updating and expediting of the classification review and marking process.
-  - **(4)** A continuing analysis of—
-    - **(A)** gaps in security measures under the program; and
-    - **(B)** technology, policies, and processes needed to increase the capability of the program beyond the initially established full operating capability to address such gaps.
-  - **(5)** A baseline analysis framework that includes measures of performance and effectiveness.
-  - **(6)** A plan for how to ensure related security measures are put in place for other departments or agencies with access to Department of Defense networks.
-  - **(7)** A plan for enforcement to ensure that the program is being applied and implemented on a uniform and consistent basis.
+- **(a)** To improve tracking and management of information technology products and services by the Department of Defense, the Secretary of Defense shall provide for the collection of the data described in subsection (b) for each purchase of such products or services made by a military department or Defense Agency in excess of the simplified acquisition threshold, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement.
+- **(b)** The data required to be collected under subsection (a) includes the following:
+  - **(1)** The products or services purchased.
+  - **(2)** Whether the products or services are categorized as commercially available off-the-shelf items, other commercial items, nondevelopmental items other than commercial items, other noncommercial items, or services.
+  - **(3)** The total dollar amount of the purchase.
+  - **(4)** The form of contracting action used to make the purchase.
+  - **(5)** In the case of a purchase made through an agency other than the Department of Defense—
+    - **(A)** the agency through which the purchase is made; and
+    - **(B)** the reasons for making the purchase through that agency.
+  - **(6)** The type of pricing used to make the purchase (whether fixed price or another type of pricing).
+  - **(7)** The extent of competition provided in making the purchase.
+  - **(8)** A statement regarding whether the purchase was made from—
+    - **(A)** a small business concern;
+    - **(B)** a small business concern owned and controlled by socially and economically disadvantaged individuals; or
+    - **(C)** a small business concern owned and controlled by women.
+  - **(9)** A statement regarding whether the purchase was made in compliance with the planning requirements under sections 11312 and 11313 of title 40.
+- **(c)** The head of each contracting activity in the Department of Defense shall have responsibility for ensuring the fairness and reasonableness of unit prices paid by the contracting activity for information technology products and services that are frequently purchased commercially available off-the-shelf items.
+- **(d)** No purchase of information technology products or services in excess of the simplified acquisition threshold shall be made for the Department of Defense from a Federal agency outside the Department of Defense unless—
+  - **(1)** the purchase data is collected in accordance with subsection (a); or
+  - **(2)**
+    - **(A)** in the case of a purchase by a Defense Agency, the purchase is approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics; or
+    - **(B)** in the case of a purchase by a military department, the purchase is approved by the senior procurement executive of the military department.
+- **(e)** Not later than March 15 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a summary of the data collected in accordance with subsection (a).
+- **(f)** In this section:
+  - **(1)** The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 1702(c) of title 41 .
+  - **(2)** The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41 .
+  - **(3)** The term “small business concern” means a business concern that meets the applicable size standards prescribed pursuant to section 3(a) of the Small Business Act ( 15 U.S.C. 632(a) ).
+  - **(4)** The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given that term in section 8(d)(3)(C) of the Small Business Act ( 15 U.S.C. 637(d)(3)(C) ).
+  - **(5)** The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act ( 15 U.S.C. 637(d)(3)(D) ).

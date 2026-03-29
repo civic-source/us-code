@@ -3,15 +3,15 @@ title: "Section 383 - Office of International Relations"
 usc_title: 21
 usc_section: "383"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 383"
-generated_at: "2026-03-29T02:12:28.106Z"
+generated_at: "2026-03-29T17:52:03.913Z"
 ---
 
 # § 383. Office of International Relations
 
 - **(a)** There is established in the Department of Health and Human Services an Office of International Relations.
-- **(b)** In carrying out the functions of the office under subsection (a), the Secretary may enter into agreements with foreign countries to facilitate commerce in devices between the United States and such countries consistent with the requirements of this chapter. In such agreements, the Secretary shall encourage the mutual recognition of—
+- **(b)** In carrying out the functions of the office under subsection (a) of this section, the Secretary may enter into agreements with foreign countries to facilitate commerce in devices between the United States and such countries consistent with the requirements of this chapter. In such agreements, the Secretary shall encourage the mutual recognition of—
   - **(1)** good manufacturing practice regulations promulgated under section 360j(f) of this title , and
   - **(2)** other regulations and testing protocols as the Secretary determines to be appropriate.
 - **(c)**

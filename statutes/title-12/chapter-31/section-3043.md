@@ -3,9 +3,9 @@ title: "Section 3043 - Advances"
 usc_title: 12
 usc_section: "3043"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3043"
-generated_at: "2026-03-29T02:11:21.157Z"
+generated_at: "2026-03-29T17:51:13.193Z"
 ---
 
 # § 3043. Advances
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T02:11:21.157Z"
     - **(B)** the membership of the applicant is, or will consist, substantially of low-income persons, as defined by the Board of Directors, or the applicant proposes to undertake to provide specialized goods, services, or facilities to serve their needs; and
   - **(2)** the applicant cannot obtain sufficient funds through a loan under section 3018 of this title or otherwise, and the applicant presents a plan which the Office determines will permit the replacement of a capital investment advance out of member equities within a period not to exceed thirty years.
 - **(b)** The Office may make advances to pay all or part of the interest payable to the Bank or any other lender by an eligible cooperative applicant which the Office determines cannot pay a market rate of interest because it sells goods or services to, or provides facilities for the use of, persons of low income: Provided , That such advances will not exceed an amount equal to 4 per centum of the principal amount of the indebtedness of such applicant to the Bank or such other lender for any year in which the net income of the cooperative is insufficient to meet scheduled interest payments.
-- **(c)** Capital investment advances made by the Office pursuant to subsection (a) and interest supplement advances made by the Office pursuant to subsection (b) shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to section 3018 of this title .
+- **(c)** Capital investment advances made by the Office pursuant to subsection (a) of this section and interest supplement advances made by the Office pursuant to subsection (b) of this section shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to section 3018 of this title .

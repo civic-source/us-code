@@ -3,12 +3,12 @@ title: "Section 1011d - Student representation"
 usc_title: 20
 usc_section: "1011d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1011d"
-generated_at: "2026-03-29T02:12:17.171Z"
+generated_at: "2026-03-29T17:51:48.314Z"
 ---
 
 # § 1011d. Student representation
 
-The Secretary shall, in appointing individuals to any commission, committee, board, panel, or other body in connection with the administration of this chapter, include individuals who are, at the time of appointment, attending an institution of higher education.
+The Secretary shall, in appointing individuals to any commission, committee, board, panel, or other body in connection with the administration of this chapter and part C of subchapter I of chapter 34 of title 42, include individuals who are, at the time of appointment, attending an institution of higher education.
 

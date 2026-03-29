@@ -3,9 +3,9 @@ title: "Section 45H - Credit for production of low sulfur diesel fuel"
 usc_title: 26
 usc_section: "45H"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 45H"
-generated_at: "2026-03-29T02:14:00.745Z"
+generated_at: "2026-03-29T17:52:39.097Z"
 ---
 
 # § 45H. Credit for production of low sulfur diesel fuel
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:14:00.745Z"
   - **(3)** The term “applicable EPA regulations” means the Highway Diesel Fuel Sulfur Control Requirements of the Environmental Protection Agency.
   - **(4)** The term “applicable period” means, with respect to any facility, the period beginning on January 1, 2003 , and ending on the earlier of the date which is 1 year after the date on which the taxpayer must comply with the applicable EPA regulations with respect to such facility or December 31, 2009 .
   - **(5)** The term “low sulfur diesel fuel” means diesel fuel with a sulfur content of 15 parts per million or less.
-- **(d)** For purposes of this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003 , were refineries of the refiner or a related person (within the meaning of section 613A(d)(3)), shall be taken into account.
+- **(d)** For purposes 1 1 So in original. Probably should be followed by “of”. this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003 , were refineries of the refiner or a related person (within the meaning of section 613A(d)(3)), shall be taken into account.
 - **(e)**
   - **(1)** No credit shall be allowed unless, not later than the date which is 30 months after the first day of the first taxable year in which the low sulfur diesel fuel production credit is determined with respect to a facility, the small business refiner obtains certification from the Secretary, after consultation with the Administrator of the Environmental Protection Agency, that the taxpayer’s qualified costs with respect to such facility will result in compliance with the applicable EPA regulations.
   - **(2)** An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental Protection Agency, to determine that such qualified costs are necessary for compliance with the applicable EPA regulations.

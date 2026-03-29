@@ -1,34 +1,14 @@
 ---
-title: "Section 3407 - Plan approval; Secretarial authority; review of decision"
+title: "Section 3407 - Plan approval"
 usc_title: 25
 usc_section: "3407"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 3407"
-generated_at: "2026-03-29T02:13:20.970Z"
+generated_at: "2026-03-29T17:52:06.146Z"
 ---
 
-# § 3407. Plan approval; Secretarial authority; review of decision
+# § 3407. Plan approval
 
-- **(a)** The Secretary shall have exclusive authority to approve or disapprove a plan submitted by an Indian tribe in accordance with section 3405 of this title .
-- **(b)**
-  - **(1)** Not later than 90 days after the date on which the Secretary receives a plan, the Secretary shall, after coordinating with the Secretary of each Federal agency providing funds to be used to implement the plan, approve or deny the plan.
-  - **(2)** If the Secretary approves a plan under paragraph (1), the Secretary shall authorize the transfer of program funds identified in the plan in accordance with section 3412 of this title .
-  - **(3)** If the Secretary denies the plan under paragraph (1), the Secretary shall provide to the Indian tribe a written notification of disapproval of the plan that contains a specific finding that clearly demonstrates, or that is supported by a controlling legal authority, that the plan does not meet the requirements described in section 3405 of this title .
-  - **(4)**
-    - **(A)** If a plan is denied under paragraph (3) solely on the basis that a request for a waiver that is part of the plan has not been approved (or is subject to dispute resolution) under section 3406 of this title , the Secretary shall, upon a request from the tribe, grant partial approval for those portions of the plan not affected by the request for a waiver.
-    - **(B)** With respect to a plan described in subparagraph (A), on resolution of the request for a waiver under section 3406 of this title , the Secretary shall, on a request from the tribe, approve the plan or amended plan not later than 90 days after the date on which the Secretary receives the request.
-  - **(5)** If the Secretary does not make a decision under paragraph (1) within 90 days of the date on which the Secretary receives the plan, the plan shall be considered to be approved.
-- **(c)** Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period identified in subsection (b)(1) for not more than 90 additional days, if, before the expiration of the period, the Secretary obtains the express written consent of the Indian tribe.
-- **(d)**
-  - **(1)** If the Secretary denies a plan under subsection (b)(3), the Secretary shall—
-    - **(A)** state any objections in writing to the Indian tribe;
-    - **(B)** provide assistance to the Indian tribe to overcome the stated objections; and
-    - **(C)** unless the Indian tribe brings a civil action under paragraph (2), provide the Indian tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appeal on the objections raised, under such rules and regulations as the Secretary may promulgate.
-  - **(2)**
-    - **(A)** The district courts of the United States shall have original jurisdiction of a civil action against the appropriate Secretary arising under this section.
-    - **(B)** An Indian tribe may bring a civil action under this paragraph without regard to whether the Indian tribe had a hearing or filed an appeal under paragraph (1).
-    - **(C)** In an action brought under this paragraph, the court may order appropriate relief (including injunctive relief to reverse a denial of a plan under this section or to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this chapter or regulations promulgated thereunder) against any action by an officer or employee of the United States or any agency thereof contrary to this chapter or regulations promulgated thereunder.
-  - **(3)** Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (collectively referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under paragraph (1)(C) shall be made—
-    - **(A)** by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
-    - **(B)** by an administrative law judge.
+Within 90 days after the receipt of a tribal government’s plan by the Secretary, the Secretary shall inform the tribal government, in writing, of the Secretary’s approval or disapproval of the plan, including any request for a waiver that is made as part of the plan submitted by the tribal government. If the plan is disapproved, the tribal government shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend its plan or to petition the Secretary to reconsider such disapproval, including reconsidering the disapproval of any waiver requested by the Indian tribe.
+

@@ -3,15 +3,15 @@ title: "Section 1638a - Tribal management of federally owned quarters"
 usc_title: 25
 usc_section: "1638a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1638a"
-generated_at: "2026-03-29T02:13:20.895Z"
+generated_at: "2026-03-29T17:52:06.068Z"
 ---
 
 # § 1638a. Tribal management of federally owned quarters
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
+  - **(1)** Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
   - **(2)** In establishing rental rates under this subsection, a tribal health program shall attempt—
     - **(A)** to base the rental rates on the reasonable value of the quarters to the occupants of the quarters; and
     - **(B)** to generate sufficient funds to prudently provide for the operation and maintenance of the quarters, and at the discretion of the tribal health program, to supply reserve funds for capital repairs and replacement of the quarters.

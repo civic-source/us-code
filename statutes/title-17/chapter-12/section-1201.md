@@ -3,9 +3,9 @@ title: "Section 1201 - Circumvention of copyright protection systems"
 usc_title: 17
 usc_section: "1201"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "17 U.S.C. § 1201"
-generated_at: "2026-03-29T02:11:57.634Z"
+generated_at: "2026-03-29T17:51:39.301Z"
 ---
 
 # § 1201. Circumvention of copyright protection systems
@@ -37,8 +37,7 @@ generated_at: "2026-03-29T02:11:57.634Z"
   - **(2)** As used in this subsection—
     - **(A)** to “circumvent protection afforded by a technological measure” means avoiding, bypassing, removing, deactivating, or otherwise impairing a technological measure; and
     - **(B)** a technological measure “effectively protects a right of a copyright owner under this title” if the measure, in the ordinary course of its operation, prevents, restricts, or otherwise limits the exercise of a right of a copyright owner under this title.
-- **(c)**
-  - **(1)** Nothing in this section shall affect rights, remedies, limitations, or defenses to copyright infringement, including fair use, under this title.
+- **(c)** , Not Affected .—(1) Nothing in this section shall affect rights, remedies, limitations, or defenses to copyright infringement, including fair use, under this title.
   - **(2)** Nothing in this section shall enlarge or diminish vicarious or contributory liability for copyright infringement in connection with any technology, product, service, device, component, or part thereof.
   - **(3)** Nothing in this section shall require that the design of, or design and selection of parts and components for, a consumer electronics, telecommunications, or computing product provide for a response to any particular technological measure, so long as such part or component, or the product in which such part or component is integrated, does not otherwise fall within the prohibitions of subsection (a)(2) or (b)(1).
   - **(4)** Nothing in this section shall enlarge or diminish any rights of free speech or the press for activities using consumer electronics, telecommunications, or computing products.

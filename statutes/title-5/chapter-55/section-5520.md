@@ -3,9 +3,9 @@ title: "Section 5520 - Withholding of city or county income or employment taxes"
 usc_title: 5
 usc_section: "5520"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5520"
-generated_at: "2026-03-29T02:10:01.864Z"
+generated_at: "2026-03-29T17:50:36.482Z"
 ---
 
 # § 5520. Withholding of city or county income or employment taxes

@@ -3,9 +3,9 @@ title: "Section 8122 - Procedures for complementary access"
 usc_title: 22
 usc_section: "8122"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8122"
-generated_at: "2026-03-29T02:12:40.446Z"
+generated_at: "2026-03-29T17:52:10.711Z"
 ---
 
 # § 8122. Procedures for complementary access

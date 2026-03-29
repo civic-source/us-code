@@ -3,9 +3,9 @@ title: "Section 1161s - Program to promote training and job placement of realtim
 usc_title: 20
 usc_section: "1161s"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1161s"
-generated_at: "2026-03-29T02:12:17.329Z"
+generated_at: "2026-03-29T17:51:48.472Z"
 ---
 
 # § 1161s. Program to promote training and job placement of realtime writers
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:12:17.329Z"
   - **(2)** For purposes of this section, an eligible entity is a court reporting program that—
     - **(A)** has a curriculum capable of training realtime writers qualified to provide captioning services;
     - **(B)** is accredited by an accrediting agency or association recognized by the Secretary; and
-    - **(C)** is participating in student aid programs under subchapter IV.
+    - **(C)** is participating in student aid programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
   - **(3)** In determining whether to make grants under this section, the Secretary shall give a priority to eligible entities that, as determined by the Secretary—
     - **(A)** possess the most substantial capability to increase their capacity to train realtime writers;
     - **(B)** demonstrate the most promising collaboration with educational institutions, businesses, labor organizations, or other community groups having the potential to train or provide job placement assistance to realtime writers; or
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:12:17.329Z"
     - **(B)** A description of performance measures to be utilized to evaluate the progress of individuals receiving such training and assistance in matters relating to enrollment, completion of training, and job placement and retention.
     - **(C)** A description of the manner in which the eligible entity will ensure that recipients of scholarships, if any, funded by the grant will be employed and retained as realtime writers.
     - **(D)** A description of the manner in which the eligible entity intends to continue providing the training and assistance to be funded by the grant after the end of the grant period, including any partnerships or arrangements established for that purpose.
-    - **(E)** A description of how the eligible entity will work with local boards (as defined in section 3102 of title 29 ) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
+    - **(E)** A description of how the eligible entity will work with local boards (as defined in section 2801 of title 29 ) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
     - **(F)** Additional information, if any, on the eligibility of the eligible entity for priority in the making of grants under subsection (a)(3).
     - **(G)** Such other information as the Secretary may require.
 - **(c)**
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T02:12:17.329Z"
     - **(F)** encouraging individuals with disabilities to pursue a career in realtime writing; and
     - **(G)** the employment and payment of personnel for the purposes described in this paragraph.
   - **(2)**
-    - **(A)** The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part F of subchapter IV.
+    - **(A)** The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part E of subchapter IV.
     - **(B)** Each recipient of a scholarship under paragraph (1)(B) shall enter into an agreement with the school in which the recipient is enrolled to provide realtime writing services for the purposes described in subsection (a)(1) for a period of time appropriate (as determined by the Secretary) for the amount of the scholarship received.
     - **(C)** The Secretary shall establish requirements for coursework and employment for recipients of scholarships under paragraph (1)(B), including requirements for repayment of scholarship amounts in the event of failure to meet such requirements for coursework and employment. The Secretary may waive, in whole or in part, the requirements for repayment of scholarship amounts on the basis of economic conditions which may affect the ability of scholarship recipients to find work as realtime writers.
   - **(3)** The recipient of a grant under this section may not use more than five percent of the grant amount to pay administrative costs associated with activities funded by the grant. The Secretary shall use not more than five percent of the amount available for grants under this section in any fiscal year for administrative costs of the program.

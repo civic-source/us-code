@@ -3,21 +3,18 @@ title: "Section 287b - Reports to Congress by President"
 usc_title: 22
 usc_section: "287b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 287b"
-generated_at: "2026-03-29T02:12:39.965Z"
+generated_at: "2026-03-29T17:52:10.421Z"
 ---
 
 # § 287b. Reports to Congress by President
 
 - **(a)** The President shall, from time to time as occasion may require, but not less than once each year, make reports to the Congress of the activities of the United Nations and of the participation of the United States therein.
 - **(b)** Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
-- **(c)** In addition to the report required by subsection (a), the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
+- **(c)** In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
   - **(1)**
-    - **(A)** A description of all assistance from the United States to the United Nations to support peacekeeping operations that—
-      - **(i)** was provided during the previous fiscal year;
-      - **(ii)** is expected to be provided during the fiscal year; or
-      - **(iii)** is included in the annual budget request to Congress for the forthcoming fiscal year.
+    - **(A)** In accordance with section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, 1 1 See References in Text note below. a description of all assistance provided by the United States to the United Nations to support peacekeeping operations during the previous calendar quarter and during the previous year.
     - **(B)** With respect to United Nations peacekeeping operations—
       - **(i)** the aggregate cost of all United Nations peacekeeping operations for the prior fiscal year;
       - **(ii)** the costs of each United Nations peacekeeping operation for the prior fiscal year; and
@@ -26,23 +23,7 @@ generated_at: "2026-03-29T02:12:39.965Z"
       - **(i)** the aggregate cost of all such operations for the prior fiscal year;
       - **(ii)** the costs of each such operation for the prior fiscal year; and
       - **(iii)** the amount of United States contributions (both assessed and voluntary) to such operations on an operation-by-operation basis for the prior fiscal year.
-    - **(D)** For assessed or voluntary contributions described in subparagraph (B)(iii) or (C)(iii) that exceed $100,000 in value, including in-kind contributions—
-      - **(i)** the total amount or estimated value of all such contributions to the United Nations and to each of its affiliated agencies and related bodies;
-      - **(ii)** the nature and estimated total value of all in-kind contributions in support of United Nations peacekeeping operations and other international peacekeeping operations, including—
-        - **(I)** logistics;
-        - **(II)** airlift;
-        - **(III)** arms and materiel;
-        - **(IV)** nonmilitary technology and equipment;
-        - **(V)** personnel; and
-        - **(VI)** training;
-      - **(iii)** the approximate percentage of all such contributions to the United Nations and to each such agency or body when compared with all contributions to the United Nations and to each such agency or body from any source; and
-      - **(iv)** for each such United States Government contribution to the United Nations and to each such agency or body—
-        - **(I)** the amount or value of the contribution;
-        - **(II)** a description of the contribution, including whether it is an assessed or voluntary contribution;
-        - **(III)** the purpose of the contribution;
-        - **(IV)** the department or agency of the United States Government responsible for the contribution; and
-        - **(V)** the United Nations or United Nations affiliated agency or related body that received the contribution.
-    - **(E)** The report required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+    - **(D)** In the case of the first 2 reports submitted pursuant to this subsection, a projection of all United States costs for United Nations peacekeeping operations during each of the next 2 fiscal years, including assessed and voluntary contributions.
   - **(2)**
     - **(A)** An assessment of the effectiveness of ongoing international peacekeeping operations, their relevance to United States national interests, the efforts by the United Nations and other international organizations (as applicable) to resolve the relevant armed conflicts, and the projected termination dates for all such operations.
     - **(B)** The dollar value and percentage of total peacekeeping contracts that have been awarded to United States contractors during the previous year.

@@ -1,0 +1,31 @@
+---
+title: "Section 7255f - Definitions"
+usc_title: 20
+usc_section: "7255f"
+chapter: 70
+current_through: "PL 113-100"
+classification: "20 U.S.C. § 7255f"
+generated_at: "2026-03-29T17:51:48.648Z"
+---
+
+# § 7255f. Definitions
+
+In this subpart:
+
+  - **(1)** The term “educational institution” means an institution of higher education, a local educational agency, or a State educational agency.
+  - **(2)** The term “eligible entity” includes any of the following that is organized on a Statewide or multistate basis:
+    - **(A)** A public agency or corporation established for the purpose of developing and operating telecommunications networks to enhance educational opportunities provided by educational institutions, teacher training centers, and other entities, except that any such agency or corporation shall represent the interests of elementary schools and secondary schools that are eligible to participate in the program under part A of subchapter I of this chapter.
+    - **(B)** A partnership that will provide telecommunications services and that includes three or more of the following entities, at least one of which shall be an agency described in clause (i) or (ii):
+      - **(i)** A local educational agency that serves a significant number of elementary schools and secondary schools that are eligible for assistance under part A of subchapter I of this chapter, or elementary schools and secondary schools operated or funded for Indian children by the Department of the Interior eligible under section 6331(d)(1)(A) of this title .
+      - **(ii)** A State educational agency.
+      - **(iii)** An adult and family education program.
+      - **(iv)** An institution of higher education or a State higher education agency (as that term is defined in section 1003 of this title ).
+      - **(v)** A teacher training center or academy that—
+        - **(I)** provides teacher preservice and inservice training; and
+        - **(II)** receives Federal financial assistance or has been approved by a State agency;
+      - **(vi)**
+        - **(I)** A public or private entity with experience and expertise in the planning and operation of a telecommunications network, including entities involved in telecommunications through satellite, cable, telephone, or computer; or
+        - **(II)** a public broadcasting entity with such experience.
+      - **(vii)** A public or private elementary school or secondary school.
+  - **(3)** The term “instructional programming” means courses of instruction and training courses for elementary and secondary students, teachers, and others, and materials for use in such instruction and training that have been prepared in audio and visual form on tape, disc, film, or live, and presented by means of telecommunications devices.
+  - **(4)** The term “public broadcasting entity” has the same meaning given such term in section 397 of title 47 .

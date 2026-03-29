@@ -3,12 +3,12 @@ title: "Section 2466b - Termination of benefits for sub-Saharan African countrie
 usc_title: 19
 usc_section: "2466b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2466b"
-generated_at: "2026-03-29T02:12:08.699Z"
+generated_at: "2026-03-29T17:51:51.293Z"
 ---
 
 # § 2466b. Termination of benefits for sub-Saharan African countries
 
-In the case of a beneficiary sub-Saharan African country, as defined in section 2466a(c) 1 1 See References in Text note below. of this title, duty-free treatment provided under this subchapter shall remain in effect through September 30, 2025 .
+In the case of a beneficiary sub-Saharan African country, as defined in section 2466a(c) of this title , duty-free treatment provided under this subchapter shall remain in effect through September 30, 2015 .
 

@@ -3,9 +3,9 @@ title: "Section 12006 - Strength limitations: authority to waive in time of war 
 usc_title: 10
 usc_section: "12006"
 chapter: 1201
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 12006"
-generated_at: "2026-03-29T02:10:45.363Z"
+generated_at: "2026-03-29T17:50:57.267Z"
 ---
 
 # § 12006. Strength limitations: authority to waive in time of war or national emergency

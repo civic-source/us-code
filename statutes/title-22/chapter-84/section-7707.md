@@ -3,15 +3,15 @@ title: "Section 7707 - Congressional and public notification of candidate countr
 usc_title: 22
 usc_section: "7707"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 7707"
-generated_at: "2026-03-29T02:12:40.436Z"
+generated_at: "2026-03-29T17:52:10.704Z"
 ---
 
 # § 7707. Congressional and public notification of candidate countries, eligibility criteria, and eligible countries
 
 - **(a)** Not later than 90 days prior to the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
-  - **(1)** shall prepare and submit to the appropriate congressional committees a report that contains a list of all candidate countries identified under section 7705 of this title , and all countries that would be candidate countries if the countries met the requirement contained in section 7705(a)(2) of this title , for the fiscal year; and
+  - **(1)** shall prepare and submit to the appropriate congressional committees a report that contains a list of all candidate countries identified under section 7705 of this title , and all countries that would be candidate countries if the countries met the requirement contained in section 7705(a)(1)(B) of this title , for the fiscal year; and
   - **(2)** shall publish in the Federal Register the information contained in the report described in paragraph (1).
 - **(b)** Not later than 60 days prior to the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
   - **(1)** shall prepare and submit to the appropriate congressional committees a report that contains a list of the criteria and methodology described in subsections (a) and (b) of section 7706 of this title that will be used to determine eligibility for each candidate country identified under subsection (a);

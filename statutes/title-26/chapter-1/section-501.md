@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-29T02:14:00.993Z"
+generated_at: "2026-03-29T17:52:39.261Z"
 ---
 
 # § 501. Exemption from tax on corporations, certain trusts, etc.
@@ -54,9 +54,7 @@ generated_at: "2026-03-29T02:14:00.993Z"
     - **(D)** For purposes of this paragraph, the term “qualified pole rental” means any rental of a pole (or other structure used to support wires) if such pole (or other structure)—
       - **(i)** is used by the telephone or electric company to support one or more wires which are used by such company in providing telephone or electric services to its members, and
       - **(ii)** is used pursuant to the rental to support one or more wires (in addition to the wires described in clause (i)) for use in connection with the transmission by wire of electricity or of telephone or other communications.
-    - **(E)** For purposes of subparagraph (C)(ii), the term “FERC” means—
-      - **(i)** the Federal Energy Regulatory Commission, or
-      - **(ii)** in the case of any utility with respect to which all of the electricity generated, transmitted, or distributed by such utility is generated, transmitted, distributed, and consumed in the same State, the State agency of such State with the authority to regulate electric utilities.
+    - **(E)** For purposes of subparagraph (C)(ii), the term “FERC” means the Federal Energy Regulatory Commission and references to such term shall be treated as including the Public Utility Commission of Texas with respect to any ERCOT utility (as defined in section 212(k)(2)(B) of the Federal Power Act ( 16 U.S.C. 824k(k)(2)(B) )).
     - **(F)** For purposes of subparagraph (C)(iv), the term “nuclear decommissioning transaction” means—
       - **(i)** any transfer into a trust, fund, or instrument established to pay any nuclear decommissioning costs if the transfer is in connection with the transfer of the mutual or cooperative electric company’s interest in a nuclear power plant or nuclear power plant unit,
       - **(ii)** any distribution from any trust, fund, or instrument established to pay any nuclear decommissioning costs, or
@@ -78,10 +76,6 @@ generated_at: "2026-03-29T02:14:00.993Z"
       - **(vii)** For purposes of this subparagraph, the start-up year is the first year that the mutual or cooperative electric company offers nondiscriminatory open access or the calendar year which includes the date of the enactment of this subparagraph, if later, at the election of such company.
       - **(viii)** A company shall not fail to be treated as a mutual or cooperative electric company for purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
       - **(ix)** For purposes of subparagraph (A), in the case of a mutual or cooperative electric company, income received, or accrued, indirectly from a member shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
-    - **(I)** In the case of a mutual or cooperative electric company described in this paragraph or an organization described in section 1381(a)(2), income received or accrued in connection with an election under section 45J(e)(1) shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
-    - **(J)** In the case of a mutual or cooperative telephone or electric company described in this paragraph, subparagraph (A) shall be applied without taking into account any income received or accrued from—
-      - **(i)** any grant, contribution, or assistance provided pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act or any similar grant, contribution, or assistance by any local, State, or regional governmental entity for the purpose of relief, recovery, or restoration from, or preparation for, a disaster or emergency, or
-      - **(ii)** any grant or contribution by any governmental entity (other than a contribution in aid of construction or any other contribution as a customer or potential customer) the purpose of which is substantially related to providing, constructing, restoring, or relocating electric, communication, broadband, internet, or other utility facilities or services.
   - **(13)** Cemetery companies owned and operated exclusively for the benefit of their members or which are not operated for profit; and any corporation chartered solely for the purpose of the disposal of bodies by burial or cremation which is not permitted by its charter to engage in any business not necessarily incident to that purpose and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
   - **(14)**
     - **(A)** Credit unions without capital stock organized and operated for mutual purposes and without profit.
@@ -89,7 +83,7 @@ generated_at: "2026-03-29T02:14:00.993Z"
       - **(i)** domestic building and loan associations,
       - **(ii)** cooperative banks without capital stock organized and operated for mutual purposes and without profit,
       - **(iii)** mutual savings banks not having capital stock represented by shares, or
-      - **(iv)** mutual savings banks described in section 591(b).
+      - **(iv)** mutual savings banks described in section 591(b) 2 2 So in original. Probably should be followed by a period.
     - **(C)** Corporations or associations organized before September 1, 1957 , and operated for mutual purposes and without profit for the purpose of providing reserve funds for associations or banks described in clause (i), (ii), or (iii) of subparagraph (B); but only if 85 percent or more of the income is attributable to providing such reserve funds and to investments. This subparagraph shall not apply to any corporation or association entitled to exemption under subparagraph (B).
   - **(15)**
     - **(A)** Insurance companies (as defined in section 816(a)) other than life (including interinsurers and reciprocal underwriters) if—
@@ -100,7 +94,7 @@ generated_at: "2026-03-29T02:14:00.993Z"
         - **(I)** the gross receipts of which for the taxable year do not exceed $150,000, and
         - **(II)** more than 35 percent of such gross receipts consist of premiums.
     - **(B)** For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
-    - **(C)** For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii), 1 except that in applying section 831(b)(2)(B)(ii) 1 for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
+    - **(C)** For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii), except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
   - **(16)** Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shall not be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
   - **(17)**
     - **(A)** A trust or trusts forming part of a plan providing for the payment of supplemental unemployment compensation benefits, if—
@@ -127,9 +121,9 @@ generated_at: "2026-03-29T02:14:00.993Z"
       - **(iv)** the requirements of section 401(a)(30) are met.
   - **(19)** A post or organization of past or present members of the Armed Forces of the United States, or an auxiliary unit or society of, or a trust or foundation for, any such post or organization—
     - **(A)** organized in the United States or any of its possessions,
-    - **(B)** at least 75 percent of the members of which are past or present members of the Armed Forces of the United States and substantially all of the other members of which are individuals who are cadets or are spouses, widows, widowers, ancestors, or lineal descendants of past or present members of the Armed Forces of the United States or of cadets, and
+    - **(B)** at least 75 percent of the members of which are past or present members of the Armed Forces of the United States and substantially all of the other members of which are individuals who are cadets or are spouses, widows,, 3 3 So in original. widowers, ancestors, or lineal descendants of past or present members of the Armed Forces of the United States or of cadets, and
     - **(C)** no part of the net earnings of which inures to the benefit of any private shareholder or individual.
-  - **[(20)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii) , Dec. 19, 2014 , 128 Stat. 4040 .]
+  - **(20)** an 4 4 So in original. Probably should be capitalized. organization or trust created or organized in the United States, the exclusive function of which is to form part of a qualified group legal services plan or plans, within the meaning of section 120. An organization or trust which receives contributions because of section 120(c)(5)(C) shall not be prevented from qualifying as an organization described in this paragraph merely because it provides legal services or indemnification against the cost of legal services unassociated with a qualified group legal services plan.
   - **(21)**
     - **(A)** A trust or trusts established in writing, created or organized in the United States, and contributed to by any person (except an insurance company) if—
       - **(i)** the purpose of such trust or trusts is exclusively—
@@ -243,7 +237,7 @@ generated_at: "2026-03-29T02:14:00.993Z"
   - **(2)** organized and controlled by one or more such members, and
   - **(3)** comprised solely of members that are organizations described in clause (ii) or (iv) of section 170(b)(1)(A)—
     - **(A)** which are exempt from taxation under subsection (a), or
-    - **(B)** the income of which is excluded from taxation under section 115,
+    - **(B)** the income of which is excluded from taxation under section 115(a),
 - **(g)** For purposes of subsection (c)(5), the term “agricultural” includes the art or science of cultivating land, harvesting crops or aquatic resources, or raising livestock.
 - **(h)**
   - **(1)** In the case of an organization to which this subsection applies, exemption from taxation under subsection (a) shall be denied because a substantial part of the activities of such organization consists of carrying on propaganda, or otherwise attempting, to influence legislation, but only if such organization normally—
@@ -262,9 +256,8 @@ generated_at: "2026-03-29T02:14:00.993Z"
     - **(B)** section 170(b)(1)(A)(iii) (relating to hospitals and medical research organizations),
     - **(C)** section 170(b)(1)(A)(iv) (relating to organizations supporting government schools),
     - **(D)** section 170(b)(1)(A)(vi) (relating to organizations publicly supported by charitable contributions),
-    - **(E)** section 170(b)(1)(A)(ix) (relating to agricultural research organizations),
-    - **(F)** section 509(a)(2) (relating to organizations publicly supported by admissions, sales, etc.), or
-    - **(G)** section 509(a)(3) (relating to organizations supporting certain types of public charities) except that for purposes of this subparagraph, section 509(a)(3) shall be applied without regard to the last sentence of section 509(a).
+    - **(E)** section 509(a)(2) (relating to organizations publicly supported by admissions, sales, etc.), or
+    - **(F)** section 509(a)(3) (relating to organizations supporting certain types of public charities) except that for purposes of this subparagraph, section 509(a)(3) shall be applied without regard to the last sentence of section 509(a).
   - **(5)** For purposes of paragraph (3) an organization is a disqualified organization if it is—
     - **(A)** described in section 170(b)(1)(A)(i) (relating to churches),
     - **(B)** an integrated auxiliary of a church or of a convention or association of churches, or
@@ -343,7 +336,7 @@ generated_at: "2026-03-29T02:14:00.993Z"
       - **(i)** the date of the first publication of a designation or identification described in paragraph (2) with respect to such organization, or
       - **(ii)** the date of the enactment of this subsection, and
     - **(B)** ends on the first date that all designations and identifications described in paragraph (2) with respect to such organization are rescinded pursuant to the law or Executive order under which such designation or identification was made.
-  - **(4)** No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
+  - **(4)** No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2), 1 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
   - **(5)** Notwithstanding section 7428 or any other provision of law, no organization or other person may challenge a suspension under paragraph (1), a designation or identification described in paragraph (2), the period of suspension described in paragraph (3), or a denial of a deduction under paragraph (4) in any administrative or judicial proceeding relating to the Federal tax liability of such organization or other person.
   - **(6)**
     - **(A)** If—
@@ -423,3 +416,4 @@ generated_at: "2026-03-29T02:14:00.993Z"
     - **(B)** prohibits the use of gross charges.
   - **(6)** An organization meets the requirement of this paragraph only if the organization does not engage in extraordinary collection actions before the organization has made reasonable efforts to determine whether the individual is eligible for assistance under the financial assistance policy described in paragraph (4)(A).
   - **(7)** The Secretary shall issue such regulations and guidance as may be necessary to carry out the provisions of this subsection, including guidance relating to what constitutes reasonable efforts to determine the eligibility of a patient under a financial assistance policy for purposes of paragraph (6).
+- **(s)** For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 ( 64 Stat. 997 ; 50 U.S.C. 790(b) ).

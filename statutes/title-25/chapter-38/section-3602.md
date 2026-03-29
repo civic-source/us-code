@@ -3,9 +3,9 @@ title: "Section 3602 - Definitions"
 usc_title: 25
 usc_section: "3602"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 3602"
-generated_at: "2026-03-29T02:13:20.975Z"
+generated_at: "2026-03-29T17:52:06.150Z"
 ---
 
 # § 3602. Definitions
@@ -18,5 +18,5 @@ For purposes of this chapter:
   - **(4)** The term “judicial personnel” means any judge, magistrate, court counselor, court clerk, court administrator, bailiff, probation officer, officer of the court, dispute resolution facilitator, or other official, employee, or volunteer within the tribal justice system.
   - **(5)** The term “Office” means the Office of Tribal Justice Support within the Bureau of Indian Affairs.
   - **(6)** The term “Secretary” means the Secretary of the Interior.
-  - **(7)** The term “tribal organization” means any organization defined in section 5304( l ) of this title.
+  - **(7)** The term “tribal organization” means any organization defined in section 450b( l ) of this title.
   - **(8)** The term “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including (but not limited to) traditional methods and forums for dispute resolution, lower courts, appellate courts (including intertribal appellate courts), alternative dispute resolution systems, and circuit rider systems, established by inherent tribal authority whether or not they constitute a court of record.

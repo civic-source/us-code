@@ -3,9 +3,9 @@ title: "Section 1221 - Capital asset defined"
 usc_title: 26
 usc_section: "1221"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1221"
-generated_at: "2026-03-29T02:14:01.112Z"
+generated_at: "2026-03-29T17:52:39.352Z"
 ---
 
 # § 1221. Capital asset defined
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:14:01.112Z"
 - **(a)** For purposes of this subtitle, the term “capital asset” means property held by the taxpayer (whether or not connected with his trade or business), but does not include—
   - **(1)** stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
   - **(2)** property, used in his trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or real property used in his trade or business;
-  - **(3)** a patent, invention, model or design (whether or not patented), a secret formula or process, a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by—
+  - **(3)** a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by—
     - **(A)** a taxpayer whose personal efforts created such property,
     - **(B)** in the case of a letter, memorandum, or similar property, a taxpayer for whom such property was prepared or produced, or
     - **(C)** a taxpayer in whose hands the basis of such property is determined, for purposes of determining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);

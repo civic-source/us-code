@@ -1,33 +1,89 @@
 ---
-title: "Section 118 - Materiel readiness metrics and materiel readiness objectives for major weapon systems"
+title: "Section 118 - Quadrennial defense review"
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-29T02:10:44.813Z"
+generated_at: "2026-03-29T17:50:56.917Z"
 ---
 
-# § 118. Materiel readiness metrics and materiel readiness objectives for major weapon systems
+# § 118. Quadrennial defense review
 
-- **(a)** Each head of an element of the Department specified in paragraphs (1) through (10) of section 111(b) of this title shall establish and maintain materiel readiness metrics to enable assessment of the readiness of members of the armed forces to carry out—
-  - **(1)** the strategic framework required by section 113(g)(1)(B)(vii) 1 1 See References in Text note below. of this title; and
-  - **(2)** guidance issued by the Secretary of Defense pursuant to section 113(g)(1)(B) of this title .
-- **(b)** At a minimum, the materiel readiness metrics required by subsection (a) shall establish procedures and a computation methodology to determine the materiel availability, operational availability, operational capability, and materiel reliability of each major weapon system by designated mission, design series, variant, or class.
-- **(c)**
-  - **(1)** Not later than one year after the date of the enactment of this subsection, each head of an element described in subsection (a) shall establish materiel readiness objectives for each major weapon system.
-  - **(2)** Annually, each head of an element described in subsection (a) shall review and revise such materiel readiness objectives and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31 .
-- **(d)** Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report on major weapons systems sustainment for the period covered by the future years defense program specified by section 221 of this title . Such report shall include—
-  - **(1)** an assessment of the materiel availability, operational availability, and materiel reliability for each major weapon system; and
-  - **(2)** a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable materiel readiness objectives, such as infrastructure, workforce, or supply chain considerations.
-- **(e)** Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Director of Cost Assessment and Performance Evaluation shall submit to the congressional defense committees a comprehensive estimate of the funds necessary to meet the materiel readiness objectives required by subsection (c) through the period covered by the most recent future-years defense program. At a minimum, the Director shall provide, for each major weapon system, by designated mission, design series, variant, or class, a comprehensive estimate of the funds necessary to meet such objectives that—
-  - **(1)** have been obligated by subactivity group within the operation and maintenance accounts for the second fiscal year preceding the budget year;
-  - **(2)** the Director estimates will have been obligated by subactivity group within the operation and maintenance accounts by the end of the fiscal year preceding the budget year; and
-  - **(3)** have been budgeted and programmed across the future years defense program within the operation and maintenance accounts by subactivity group.
-- **(f)** In this section:
-  - **(1)** The term “major weapon system” has the meaning given in section 101(a) of this title .
-  - **(2)** The term “materiel availability” means a measure of the percentage of the total inventory of a major weapon system that is operationally capable of performing an assigned mission.
-  - **(3)** The term “materiel readiness objective” means the minimum required availability of each covered system that is necessary to fulfill the requirements of the strategic framework and guidance referred to in subsection (a).
-  - **(4)** The term “materiel reliability” means the probability that a major weapon system will perform without failure over a specified interval.
-  - **(5)** The term “operational availability” means a measure of the percentage of time a major weapon system is operationally capable.
-  - **(6)** The term “operationally capable” means a materiel condition indicating that a major weapon system is capable of performing its assigned mission and has no discrepancies with a subsystem of a major weapon system.
+- **(a)** The Secretary of Defense shall every four years, during a year following a year evenly divisible by four, conduct a comprehensive examination (to be known as a “quadrennial defense review”) of the national defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies of the United States with a view toward determining and expressing the defense strategy of the United States and establishing a defense program for the next 20 years. Each such quadrennial defense review shall be conducted in consultation with the Chairman of the Joint Chiefs of Staff.
+- **(b)** Each quadrennial defense review shall be conducted so as—
+  - **(1)** to delineate a national defense strategy consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ); 1 1 See References in Text note below.
+  - **(2)** to define sufficient force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program of the United States associated with that national defense strategy that would be required to execute successfully the full range of missions called for in that national defense strategy;
+  - **(3)** to identify (A) the budget plan that would be required to provide sufficient resources to execute successfully the full range of missions called for in that national defense strategy at a low-to-moderate level of risk, and (B) any additional resources (beyond those programmed in the current future-years defense program) required to achieve such a level of risk; and
+  - **(4)** to make recommendations that are not constrained to comply with and are fully independent of the budget submitted to Congress by the President pursuant to section 1105 of title 31 .
+- **(c)** The assessment of risk for the purposes of subsection (b) shall be undertaken by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff. That assessment shall define the nature and magnitude of the political, strategic, and military risks associated with executing the missions called for under the national defense strategy.
+- **(d)** The Secretary shall submit a report on each quadrennial defense review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31 . The report shall include the following:
+  - **(1)** The results of the review, including a comprehensive discussion of the national defense strategy of the United States, the strategic planning guidance, and the force structure best suited to implement that strategy at a low-to-moderate level of risk.
+  - **(2)** The assumed or defined national security interests of the United States that inform the national defense strategy defined in the review.
+  - **(3)** The threats to the assumed or defined national security interests of the United States that were examined for the purposes of the review and the scenarios developed in the examination of those threats.
+  - **(4)** The assumptions used in the review, including assumptions relating to—
+    - **(A)** the status of readiness of United States forces;
+    - **(B)** the cooperation of allies, mission-sharing and additional benefits to and burdens on United States forces resulting from coalition operations;
+    - **(C)** warning times;
+    - **(D)** levels of engagement in operations other than war and smaller-scale contingencies and withdrawal from such operations and contingencies;
+    - **(E)** the intensity, duration, and military and political end-states of conflicts and smaller-scale contingencies; and
+    - **(F)** the roles and responsibilities that would be discharged by contractors.
+  - **(5)** The effect on the force structure and on readiness for high-intensity combat of preparations for and participation in operations other than war and smaller-scale contingencies.
+  - **(6)** The manpower, sustainment, and contractor support policies required under the national defense strategy to support engagement in conflicts lasting longer than 120 days.
+  - **(7)** The anticipated roles and missions of the reserve components in the national defense strategy and the strength, capabilities, and equipment necessary to assure that the reserve components can capably discharge those roles and missions.
+  - **(8)** The appropriate ratio of combat forces to support forces (commonly referred to as the “tooth-to-tail” ratio) under the national defense strategy, including, in particular, the appropriate number and size of headquarters units and Defense Agencies, and the scope of contractor support, for that purpose.
+  - **(9)** The specific capabilities, including the general number and type of specific military platforms, needed to achieve the strategic and warfighting objectives identified in the review.
+  - **(10)** The strategic and tactical air-lift, sea-lift, and ground transportation capabilities required to support the national defense strategy.
+  - **(11)** The forward presence, pre-positioning, and other anticipatory deployments necessary under the national defense strategy for conflict deterrence and adequate military response to anticipated conflicts.
+  - **(12)** The extent to which resources must be shifted among two or more theaters under the national defense strategy in the event of conflict in such theaters.
+  - **(13)** The advisability of revisions to the Unified Command Plan as a result of the national defense strategy.
+  - **(14)** The effect on force structure of the use by the armed forces of technologies anticipated to be available for the ensuing 20 years.
+  - **(15)** The national defense mission of the Coast Guard.
+  - **(16)** The homeland defense and support to civil authority missions of the active and reserve components, including the organization and capabilities required for the active and reserve components to discharge each such mission.
+  - **(17)** Any other matter the Secretary considers appropriate.
+- **(e)**
+  - **(1)** Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman’s assessment of the review, including the Chairman’s assessment of risk and a description of the capabilities needed to address such risk.
+  - **(2)** The Chairman’s assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman’s assessment, together with the Secretary’s comments, in the report in its entirety.
+- **(f)**
+  - **(1)** Not later than February 1 of a year in which a quadrennial defense review is conducted under this section, there shall be established an independent panel to be known as the National Defense Panel (in this subsection referred to as the “Panel”). The Panel shall have the duties set forth in this subsection.
+  - **(2)** The Panel shall be composed of ten members from private civilian life who are recognized experts in matters relating to the national security of the United States. Eight of the members shall be appointed as follows:
+    - **(A)** Two by the chairman of the Committee on Armed Services of the House of Representatives.
+    - **(B)** Two by the chairman of the Committee on Armed Services of the Senate.
+    - **(C)** Two by the ranking member of the Committee on Armed Services of the House of Representatives.
+    - **(D)** Two by the ranking member of the Committee on Armed Services of the Senate.
+  - **(3)** In addition to the members appointed under paragraph (2), the Secretary of Defense shall appoint two members from private civilian life to serve as co-chairs of the panel.
+  - **(4)** Members shall be appointed for the life of the Panel. Any vacancy in the Panel shall be filled in the same manner as the original appointment.
+  - **(5)** The Panel shall have the following duties with respect to a quadrennial defense review:
+    - **(A)** While the review is being conducted, the Panel shall review the updates from the Secretary of Defense required under paragraph (8) on the conduct of the review.
+    - **(B)** The Panel shall—
+      - **(i)** review the Secretary of Defense’s terms of reference and any other materials providing the basis for, or substantial inputs to, the work of the Department of Defense on the quadrennial defense review;
+      - **(ii)** conduct an assessment of the assumptions, strategy, findings, and risks of the report on the quadrennial defense review required in subsection (d), with particular attention paid to the risks described in that report;
+      - **(iii)** conduct an independent assessment of a variety of possible force structures of the armed forces, including the force structure identified in the report on the quadrennial defense review required in subsection (d);
+      - **(iv)** review the resource requirements identified pursuant to subsection (b)(3) and, to the extent practicable, make a general comparison to the resource requirements to support the forces contemplated under the force structures assessed under this subparagraph; and
+      - **(v)** provide to Congress and the Secretary of Defense, through the report under paragraph (7), any recommendations it considers appropriate for their consideration.
+  - **(6)** If the Secretary of Defense has not made the Secretary’s appointments to the Panel under paragraph (3) by February 1 of a year in which a quadrennial defense review is conducted under this section, the Panel shall convene for its first meeting with the remaining members.
+  - **(7)** Not later than 3 months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressional committees named in that subsection, the Panel established under paragraph (1) shall submit to those committees an assessment of the quadrennial defense review, including a description of the items addressed under paragraph (5) with respect to that quadrennial defense review.
+  - **(8)** The Secretary of Defense shall ensure that periodically, but not less often than every 60 days, or at the request of the co-chairs, the Department of Defense briefs the Panel on the progress of the conduct of a quadrennial defense review under subsection (a).
+  - **(9)**
+    - **(A)** The Panel may request directly from the Department of Defense and any of its components such information as the Panel considers necessary to carry out its duties under this subsection. The head of the department or agency concerned shall cooperate with the Panel to ensure that information requested by the Panel under this paragraph is promptly provided to the maximum extent practical.
+    - **(B)** Upon the request of the co-chairs, the Secretary of Defense shall make available to the Panel the services of any federally funded research and development center that is covered by a sponsoring agreement of the Department of Defense.
+    - **(C)** The Panel shall have the authorities provided in section 3161 of title 5 and shall be subject to the conditions set forth in such section.
+    - **(D)** Funds for activities of the Panel shall be provided from amounts available to the Department of Defense.
+  - **(10)** The Panel for a quadrennial defense review shall terminate 45 days after the date on which the Panel submits its final report on the quadrennial defense review under paragraph (7).
+- **(g)**
+  - **(1)** The first national security strategy and national defense strategy prepared after January 28, 2008 , shall include guidance for military planners—
+    - **(A)** to assess the risks of projected climate change to current and future missions of the armed forces;
+    - **(B)** to update defense plans based on these assessments, including working with allies and partners to incorporate climate mitigation strategies, capacity building, and relevant research and development; and
+    - **(C)** to develop the capabilities needed to reduce future impacts.
+  - **(2)** The first quadrennial defense review prepared after January 28, 2008 , shall also examine the capabilities of the armed forces to respond to the consequences of climate change, in particular, preparedness for natural disasters from extreme weather events and other missions the armed forces may be asked to support inside the United States and overseas.
+  - **(3)** For planning purposes to comply with the requirements of this subsection, the Secretary of Defense shall use—
+    - **(A)** the mid-range projections of the fourth assessment report of the Intergovernmental Panel on Climate Change;
+    - **(B)** subsequent mid-range consensus climate projections if more recent information is available when the next national security strategy, national defense strategy, or quadrennial defense review, as the case may be, is conducted; and
+    - **(C)** findings of appropriate and available estimations or studies of the anticipated strategic, social, political, and economic effects of global climate change and the implications of such effects on the national security of the United States.
+  - **(4)** In this subsection, the term “national security strategy” means the annual national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ). 1
+- **(h)** Nothing in this section shall be construed to affect section 1105(a) of title 31 .
+- **(i)**
+  - **(1)** Not later than 90 days after submitting a report on a quadrennial defense review under subsection (d), the Secretary of Defense shall submit to the congressional defense committees a report detailing how the results of the assessment conducted as part of such review will impact—
+    - **(A)** the status of overseas base closure and realignment actions undertaken as part of a global defense posture realignment strategy; and
+    - **(B)** the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations of the global defense posture of the United States.
+  - **(2)** A report under paragraph (1) shall include any recommendations for additional closures or realignments of military installations outside of the United States and any comments resulting from an interagency review of these plans that includes the Department of State and other relevant Federal departments and agencies.

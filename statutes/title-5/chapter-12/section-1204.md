@@ -3,9 +3,9 @@ title: "Section 1204 - Powers and functions of the Merit Systems Protection Boar
 usc_title: 5
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 1204"
-generated_at: "2026-03-29T02:10:01.798Z"
+generated_at: "2026-03-29T17:50:36.440Z"
 ---
 
 # § 1204. Powers and functions of the Merit Systems Protection Board
@@ -54,4 +54,3 @@ generated_at: "2026-03-29T02:10:01.798Z"
 - **(m)**
   - **(1)** Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case arising under section 1215, may require payment by the agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency’s action was clearly without merit.
   - **(2)** If an employee or applicant for employment is the prevailing party of a case arising under section 1215 and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title , the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e–5(k) ).
-- **(n)** The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.

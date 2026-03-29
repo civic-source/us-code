@@ -3,9 +3,9 @@ title: "Section 5313 - Limitation on payment of compensation and dependency and 
 usc_title: 38
 usc_section: "5313"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 5313"
-generated_at: "2026-03-29T02:14:50.455Z"
+generated_at: "2026-03-29T17:52:53.805Z"
 ---
 
 # § 5313. Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony

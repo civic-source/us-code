@@ -1,12 +1,14 @@
 ---
-title: "Section 677j - Omitted"
+title: "Section 677j - Advances or expenditures from tribal funds; restrictions on mixed-blood group until adoption of plan for terminating supervision"
 usc_title: 25
 usc_section: "677j"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 677j"
-generated_at: "2026-03-29T02:13:20.867Z"
+generated_at: "2026-03-29T17:52:06.013Z"
 ---
 
-# § 677j. Omitted
+# § 677j. Advances or expenditures from tribal funds; restrictions on mixed-blood group until adoption of plan for terminating supervision
+
+Notwithstanding any other provision of existing law, the tribal funds now on deposit or hereafter deposited in the United States Treasury to the credit of the tribe or either group thereof, shall be available for advance to the tribe or the respective groups, or for expenditure, for such purposes, including per capita payments, as may be designated by the Tribal Business Committee for the full-blood members, and by the authorized agents of the mixed-blood members, and in either event subject to the approval of the Secretary: Provided , That the aggregate amount of the expenditures and advances authorized by this section for the mixed-blood group shall not exceed 50 per centum of the total funds of said mixed-blood group after such division, until said mixed-blood group has adopted a plan approved by the Secretary for termination of Federal supervision of said mixed-blood group, as required under section 677 l of this title. After such termination of Federal supervision, per capita payments to the mixed-blood group shall not be subject to approval of the Secretary.
 

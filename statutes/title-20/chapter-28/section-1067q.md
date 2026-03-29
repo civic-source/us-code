@@ -3,9 +3,9 @@ title: "Section 1067q - Investment in historically Black colleges and universiti
 usc_title: 20
 usc_section: "1067q"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1067q"
-generated_at: "2026-03-29T02:12:17.198Z"
+generated_at: "2026-03-29T17:51:48.339Z"
 ---
 
 # § 1067q. Investment in historically Black colleges and universities and other minority-serving institutions
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:12:17.198Z"
   - **(7)** a Native American-serving nontribal institution (as defined in subsection (c)).
 - **(b)**
   - **(1)**
-    - **(A)** There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
+    - **(A)** There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.
     - **(B)** Funds made available under subparagraph (A) for a fiscal year shall remain available for the next succeeding fiscal year.
   - **(2)**
     - **(A)** Of the amounts made available under paragraph (1) for each fiscal year—
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T02:12:17.198Z"
       - **(ii)** which for the purpose of this paragraph and for that year was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act [ 20 U.S.C. 6313(a)(5) ] exceeds 30 percent of the total enrollment of such school; or
     - **(D)** are first-generation college students (as that term is defined in section 1070a–11(h) of this title ), and a majority of such first-generation college students are low-income individuals.
   - **(4)** The term “low-income individual” has the meaning given such term in section 1070a–11(h) of this title .
-  - **(5)** The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV, in which eligibility for the programs’ benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
+  - **(5)** The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the programs’ benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
   - **(6)** The term “Native American” means an individual who is of a tribe, people, or culture that is indigenous to the United States.
   - **(7)** The term “Native American Pacific Islander” means any descendant of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
   - **(8)** The term “Native American-serving nontribal institution” means an institution of higher education that—

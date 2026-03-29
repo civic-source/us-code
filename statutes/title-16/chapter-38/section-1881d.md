@@ -3,16 +3,16 @@ title: "Section 1881d - Incidental harvest research"
 usc_title: 16
 usc_section: "1881d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1881d"
-generated_at: "2026-03-29T02:11:53.844Z"
+generated_at: "2026-03-29T17:51:56.918Z"
 ---
 
 # § 1881d. Incidental harvest research
 
 - **(a)** Within nine months after October 11, 1996 , the Secretary shall, after consultation with the Gulf Council and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
-- **(b)** The program concluded pursuant to subsection (a) shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
-- **(c)** For stocks of fish identified pursuant to subsection (b), with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
+- **(b)** The program concluded pursuant to subsection (a) of this section shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
+- **(c)** For stocks of fish identified pursuant to subsection (b) of this section, with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
   - **(1)** a program to collect and evaluate information on the nature and extent (including the spatial and temporal distribution) of incidental mortality of such stocks as a direct result of shrimp trawl fishing activities;
   - **(2)** an assessment of the status and condition of such stocks, including collection of information which would allow the estimation of life history parameters with sufficient accuracy and precision to support sound scientific evaluation of the effects of various management alternatives on the status of such stocks; and
   - **(3)** a program of information collection and evaluation for such stocks on the magnitude and distribution of fishing mortality and fishing effort by sources of fishing mortality other than shrimp trawl fishing activity.

@@ -3,9 +3,9 @@ title: "Section 409 - Qualifications for tax credit employee stock ownership pla
 usc_title: 26
 usc_section: "409"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-29T02:14:00.926Z"
+generated_at: "2026-03-29T17:52:39.216Z"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans
@@ -89,7 +89,7 @@ generated_at: "2026-03-29T02:14:00.926Z"
 - **(n)**
   - **(1)** A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
     - **(A)** during the nonallocation period, for the benefit of—
-      - **(i)** any taxpayer who makes an election under section 1042(a) with respect to employer securities,
+      - **(i)** any taxpayer who makes an election under section 1042(a) with respect to employer securities,,, 2 2 So in original.
       - **(ii)** any individual who is related to the taxpayer (within the meaning of section 267(b)), or
     - **(B)** for the benefit of any other person who owns (after application of section 318(a)) more than 25 percent of—
       - **(i)** any class of outstanding stock of the corporation which issued such employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of subsection ( l )(4)) as such corporation, or
@@ -159,3 +159,7 @@ generated_at: "2026-03-29T02:14:00.926Z"
   - **(7)**
     - **(A)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
     - **(B)** The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
+- **(q)**
+  - **(1)** For requirements for allowance of employee plan credit, see section 48(n). 1
+  - **(2)** For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699. 1
+  - **(3)** For requirements for allowance of an employee stock ownership credit, see section 41. 1

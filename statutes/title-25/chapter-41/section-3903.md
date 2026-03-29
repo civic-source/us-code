@@ -3,15 +3,15 @@ title: "Section 3903 - Inventory of open dumps"
 usc_title: 25
 usc_section: "3903"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 3903"
-generated_at: "2026-03-29T02:13:20.982Z"
+generated_at: "2026-03-29T17:52:06.155Z"
 ---
 
 # § 3903. Inventory of open dumps
 
 - **(a)** Not later than 12 months after October 22, 1994 , the Director shall conduct a study and inventory of open dumps on Indian lands and Alaska Native lands. The inventory shall list the geographic location of all open dumps, an evaluation of the contents of each dump, and an assessment of the relative severity of the threat to public health and the environment posed by each dump. Such assessment shall be carried out cooperatively with the Administrator of the Environmental Protection Agency. The Director shall obtain the concurrence of the Administrator in the determination of relative severity made by any such assessment.
-- **(b)** Upon completion of the study and inventory under subsection (a), the Director shall report to the Congress, and update such report annually—
+- **(b)** Upon completion of the study and inventory under subsection (a) of this section, the Director shall report to the Congress, and update such report annually—
   - **(1)** the current priority of Indian and Alaska Native solid waste deficiencies,
   - **(2)** the methodology of determining the priority listing,
   - **(3)** the level of funding needed to effectively close or bring into compliance all open dumps on Indian lands or Alaska Native lands, and

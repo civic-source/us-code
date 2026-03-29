@@ -3,9 +3,9 @@ title: "Section 150 - National goals and performance management measures"
 usc_title: 23
 usc_section: "150"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 150"
-generated_at: "2026-03-29T02:13:00.938Z"
+generated_at: "2026-03-29T17:52:01.434Z"
 ---
 
 # § 150. National goals and performance management measures
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:13:00.938Z"
   - **(2)** To maintain the highway infrastructure asset system in a state of good repair.
   - **(3)** To achieve a significant reduction in congestion on the National Highway System.
   - **(4)** To improve the efficiency of the surface transportation system.
-  - **(5)** To improve the National Highway Freight Network, strengthen the ability of rural communities to access national and international trade markets, and support regional economic development.
+  - **(5)** To improve the national freight network, strengthen the ability of rural communities to access national and international trade markets, and support regional economic development.
   - **(6)** To enhance the performance of the transportation system while protecting and enhancing the natural environment.
   - **(7)** To reduce project costs, promote jobs and the economy, and expedite the movement of people and goods by accelerating project completion through eliminating delays in the project development and delivery process, including reducing regulatory burdens and improving agencies’ work practices.
 - **(c)**
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T02:13:00.938Z"
         - **(V)** the performance of the National Highway System (excluding the Interstate System);
       - **(iii)** minimum levels for the condition of pavement on the Interstate System, only for the purposes of carrying out section 119(f)(1); and
       - **(iv)** the data elements that are necessary to collect and maintain standardized data to carry out a performance-based approach.
-    - **(B)** In establishing minimum condition levels under subparagraph (A)(iii), if the Secretary determines that various geographic regions of the United States experience disparate factors contributing to the condition of pavement on the Interstate System in those regions, the Secretary may establish different minimum levels for each region.
+    - **(B)** In establishing minimum condition levels under subparagraph (A)(iii), if the Secretary determines that various geographic regions of the United States experience disparate factors contributing to the condition of pavement on the Interstate System in those regions, the Secretary may establish different minimum levels for each region;
   - **(4)** For the purpose of carrying out section 148, the Secretary shall establish measures for States to use to assess—
     - **(A)** serious injuries and fatalities per vehicle mile traveled; and
     - **(B)** the number of serious injuries and fatalities.
@@ -51,4 +51,4 @@ generated_at: "2026-03-29T02:13:00.938Z"
   - **(1)** the condition and performance of the National Highway System in the State;
   - **(2)** the effectiveness of the investment strategy document in the State asset management plan for the National Highway System;
   - **(3)** progress in achieving performance targets identified under subsection (d); and
-  - **(4)** the ways in which the State is addressing congestion at freight bottlenecks, including those identified in the national freight strategic plan, within the State.
+  - **(4)** the ways in which the State is addressing congestion at freight bottlenecks, including those identified in the National Freight Strategic Plan, within the State.

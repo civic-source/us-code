@@ -3,9 +3,9 @@ title: "Section 945 - Art. 145. Annuities for judges and survivors"
 usc_title: 10
 usc_section: "945"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 945"
-generated_at: "2026-03-29T02:10:44.933Z"
+generated_at: "2026-03-29T17:50:56.984Z"
 ---
 
 # § 945. Art. 145. Annuities for judges and survivors
@@ -21,13 +21,14 @@ generated_at: "2026-03-29T02:10:44.933Z"
       - **(ii)** the completion of 5 years of civilian service (or longer) shall not be a basis for excluding interest.
 - **(b)** The annuity payable under this section to a person who makes an election under subsection (a)(2) is 80 percent of the rate of pay for a judge in active service on the United States Court of Appeals for the Armed Forces as of the date on which the person is separated from civilian service.
 - **(c)** Nothing in this section affects any right of any person to participate in the thrift savings plan under section 8351 of title 5 or subchapter III of chapter 84 of such title.
-- **(d)** The Secretary of Defense shall prescribe by regulation a program to provide annuities for survivors and former spouses of persons receiving annuities under this section by reason of elections made by such persons under subsection (a)(2). That program shall, to the maximum extent practicable, provide benefits and establish terms and conditions that are similar to those provided under survivor and former spouse annuity programs under other retirement systems for civilian employees of the Federal Government. The program may include provisions for the reduction in the annuity paid the person as a condition for the survivor annuity. An election by a judge (including a senior judge) or former judge to receive an annuity under this section terminates any right or interest which any other individual may have to a survivor annuity under any other retirement system for civilian employees of the Federal Government based on the service of that judge or former judge as a civilian officer or employee of the Federal Government (except with respect to an election under subsection (f)(1)(B)).
+- **(d)** The Secretary of Defense shall prescribe by regulation a program to provide annuities for survivors and former spouses of persons receiving annuities under this section by reason of elections made by such persons under subsection (a)(2). That program shall, to the maximum extent practicable, provide benefits and establish terms and conditions that are similar to those provided under survivor and former spouse annuity programs under other retirement systems for civilian employees of the Federal Government. The program may include provisions for the reduction in the annuity paid the person as a condition for the survivor annuity. An election by a judge (including a senior judge) or former judge to receive an annuity under this section terminates any right or interest which any other individual may have to a survivor annuity under any other retirement system for civilian employees of the Federal Government based on the service of that judge or former judge as a civilian officer or employee of the Federal Government (except with respect to an election under subsection (g)(1)(B)).
 - **(e)** The Secretary of Defense shall periodically increase annuities and survivor annuities paid under this section in order to take account of changes in the cost of living. The Secretary shall prescribe by regulation procedures for increases in annuities under this section. Such system shall, to the maximum extent appropriate, provide cost-of-living adjustments that are similar to those that are provided under other retirement systems for civilian employees of the Federal Government.
-- **(f)**
+- **(f)** A person who is receiving an annuity under this section by reason of service as a judge of the court and who is appointed to a position in the Federal Government shall, during the period of such person’s service in such position, be entitled to receive only the annuity under this section or the pay for that position, whichever is higher.
+- **(g)**
   - **(1)** A person who is receiving an annuity under this section by reason of service as a judge of the court and who later is appointed as a justice or judge of the United States to hold office during good behavior and who retires from that office, or from regular active service in that office, shall be paid either (A) the annuity under this section, or (B) the annuity or salary to which he is entitled by reason of his service as such a justice or judge of the United States, as determined by an election by that person at the time of his retirement from the office, or from regular active service in the office, of justice or judge of the United States. Such an election may not be revoked.
   - **(2)** An election by a person to be paid an annuity or salary pursuant to paragraph (1)(B) terminates (A) any election previously made by such person to provide a survivor annuity pursuant to subsection (d), and (B) any right of any other individual to receive a survivor annuity pursuant to subsection (d) on the basis of the service of that person.
-- **(g)** Annuities and survivor annuities paid under this section shall be paid out of the Department of Defense Military Retirement Fund.
-- **(h)**
+- **(h)** Annuities and survivor annuities paid under this section shall be paid out of the Department of Defense Military Retirement Fund.
+- **(i)**
   - **(1)** This subsection applies with respect to any person who—
     - **(A)** prior to being appointed as a judge of the United States Court of Appeals for the Armed Forces, performed civilian service of a type making such person subject to the Civil Service Retirement System; and
     - **(B)** would be eligible to make an election under section 301(a)(2) of the Federal Employees’ Retirement System Act of 1986, by virtue of being appointed as such a judge, but for the fact that such person has not had a break in service of sufficient duration to be considered someone who is being reemployed by the Federal Government.

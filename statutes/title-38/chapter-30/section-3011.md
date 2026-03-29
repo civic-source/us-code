@@ -3,16 +3,16 @@ title: "Section 3011 - Basic educational assistance entitlement for service on a
 usc_title: 38
 usc_section: "3011"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 3011"
-generated_at: "2026-03-29T02:14:50.395Z"
+generated_at: "2026-03-29T17:52:53.733Z"
 ---
 
 # § 3011. Basic educational assistance entitlement for service on active duty
 
 - **(a)** Except as provided in subsection (c) of this section, each individual—
   - **(1)** who—
-    - **(A)** during the period beginning July 1, 1985 , and ending September 30, 2030 , first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
+    - **(A)** after June 30, 1985 , first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
       - **(i)** who (I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or
       - **(ii)** who serves in the Armed Forces and is discharged or released from active duty (I) for a service-connected disability, by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10 ), for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; (II) for the convenience of the Government, if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy;
     - **(B)** as of December 31, 1989 , is eligible for educational assistance benefits under chapter 34 of this title and was on active duty at any time during the period beginning on October 19, 1984 , and ending on July 1, 1985 , continued on active duty without a break in service and—
@@ -29,13 +29,13 @@ generated_at: "2026-03-29T02:14:50.395Z"
     - **(A)** continues on active duty;
     - **(B)** is discharged from active duty with an honorable discharge;
     - **(C)** is released after service on active duty characterized by the Secretary concerned as honorable service and is placed on the retired list, is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
-    - **(D)** is released from active duty for further service in a reserve component of the Armed Forces or for further service in the Space Force in a space force active status not on sustained duty under section 20105 of title 10 after service on active duty characterized by the Secretary concerned as honorable service;
+    - **(D)** is released from active duty for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service;
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that begin after the date that is 270 days after the date on which the individual initially enters initial training.
+  - **(1)** Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay.
   - **(2)** In the case of an individual covered by paragraph (1) who is a member of the Selected Reserve, the Secretary of Defense shall collect from the individual an amount equal to $1,200 not later than one year after completion by the individual of the two years of service on active duty providing the basis for such entitlement. The Secretary of Defense may collect such amount through reductions in basic pay in accordance with paragraph (1) or through such other method as the Secretary of Defense considers appropriate.
   - **(3)** Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
 - **(c)**
-  - **(1)** An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training. Any individual who makes such an election is not entitled to educational assistance under this chapter.
+  - **(1)** An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
   - **(2)** An individual who after December 31, 1976 , receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
   - **(3)** An individual who after December 31, 1976 , receives a commission as an officer in the Armed Forces upon completion of a program of educational assistance under section 2107 of title 10 is not eligible for educational assistance under this section if the individual enters on active duty—
     - **(A)** before October 1, 1996 ; or

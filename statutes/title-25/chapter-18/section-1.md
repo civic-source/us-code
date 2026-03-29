@@ -3,15 +3,15 @@ title: "Section 1 - Nursing school clinics"
 usc_title: 25
 usc_section: "1"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-29T02:13:20.885Z"
+generated_at: "2026-03-29T17:52:06.061Z"
 ---
 
 # § 1616e–1. Nursing school clinics
 
 - **(a)** In addition to the authority of the Secretary under section 1616e(a)(1) of this title , the Secretary, acting through the Service, is authorized to provide grants to public or private schools of nursing for the purpose of establishing, developing, operating, and administering clinics to address the health care needs of Indians, and to provide primary health care services to Indians who reside on or within 50 miles of Indian country, as defined in section 1151 of title 18 .
-- **(b)** Grants provided under subsection (a) may be used to—
+- **(b)** Grants provided under subsection (a) of this section may be used to—
   - **(1)** establish clinics, to be run and staffed by the faculty and students of a grantee school, to provide primary care services in areas in or within 50 miles of Indian country (as defined in section 1151 of title 18 );
   - **(2)** provide clinical training, program development, faculty enhancement, and student scholarships in a manner that would benefit such clinics; and
   - **(3)** carry out any other activities determined appropriate by the Secretary.

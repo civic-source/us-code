@@ -1,12 +1,28 @@
 ---
-title: "Section 631 - Omitted"
+title: "Section 631 - Basic program for conservation and development of resources; projects; appropriations"
 usc_title: 25
 usc_section: "631"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 631"
-generated_at: "2026-03-29T02:13:20.866Z"
+generated_at: "2026-03-29T17:52:06.001Z"
 ---
 
-# § 631. Omitted
+# § 631. Basic program for conservation and development of resources; projects; appropriations
 
+In order to further the purposes of existing treaties with the Navajo Indians, to provide facilities, employment, and services essential in combating hunger, disease, poverty, and demoralization among the members of the Navajo and Hopi Tribes, to make available the resources of their reservations for use in promoting a self-supporting economy and self-reliant communities, and to lay a stable foundation on which these Indians can engage in diversified economic activities and ultimately attain standards of living comparable with those enjoyed by other citizens, the Secretary of the Interior is authorized and directed to undertake, within the limits of the funds from time to time appropriated pursuant to this subchapter, a program of basic improvements for the conservation and development of the resources of the Navajo and Hopi Indians, the more productive employment of their manpower, and the supplying of means to be used in their rehabilitation, whether on or off the Navajo and Hopi Indian Reservations. Such program shall include the following projects for which capital expenditures in the amount shown after each project listed in the following subsections and totaling $108,570,000 are authorized to be appropriated:
+
+  - **(1)** Soil and water conservation and range improvement work, $10,000,000.
+  - **(2)** Completion and extension of existing irrigation projects, and completion of the investigation to determine the feasibility of the proposed San Juan-Shiprock irrigation project, $9,000,000.
+  - **(3)** Surveys and studies of timber, coal, mineral, and other physical and human resources, $500,000.
+  - **(4)** Development of industrial and business enterprises, $1,000,000.
+  - **(5)** Development of opportunities for off-reservation employment and resettlement and assistance in adjustments related thereto, $3,500,000.
+  - **(6)** Relocation and resettlement of Navajo and Hopi Indians (Colorado River Indian Reservation), $5,750,000.
+  - **(7)** Roads and trails, $40,000,000; of which not less than $20,000,000 shall be (A) available for contract authority for such construction and improvement of the roads designated as route 1 and route 3 on the Navajo and Hopi Indian Reservations as may be necessary to bring the portion of such roads located in any State up to at least the secondary road standards in effect in such State, and (B) in addition to any amounts expended on such roads under the $20,000,000 authorization provided under this clause prior to amendment.
+  - **(8)** Telephone and radio communications systems, $250,000.
+  - **(9)** Agency, institutional, and domestic water supply, $2,500,000.
+  - **(10)** Establishment of a revolving loan fund, $5,000,000.
+  - **(11)** Hospital buildings and equipment, and other health conservation measures, $4,750,000.
+  - **(12)** School buildings and equipment, and other educational measures, $25,000,000.
+  - **(13)** Housing and necessary facilities and equipment, $820,000.
+  - **(14)** Common service facilities, $500,000.

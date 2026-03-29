@@ -3,15 +3,15 @@ title: "Section 302j - Special pay: accession bonus for pharmacy officers"
 usc_title: 37
 usc_section: "302j"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 302j"
-generated_at: "2026-03-29T02:14:43.121Z"
+generated_at: "2026-03-29T17:52:59.080Z"
 ---
 
 # § 302j. Special pay: accession bonus for pharmacy officers
 
-- **(a)** A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000 , and ending on December 31, 2018 , executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
-- **(b)** The amount of an accession bonus under subsection (a) may not exceed $30,000.
+- **(a)** A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000 , and ending on December 31, 2013 , executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+- **(b)** —The amount of an accession bonus under subsection (a) may not exceed $30,000.
 - **(c)** A person may not be paid a bonus under subsection (a) if—
   - **(1)** the person, in exchange for an agreement to accept an appointment as a warrant or commissioned officer, received financial assistance from the Department of Defense or the Department of Health and Human Services to pursue a course of study in pharmacy; or
   - **(2)** the Secretary concerned determines that the person is not qualified to become and remain licensed as a pharmacist.

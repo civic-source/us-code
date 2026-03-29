@@ -1,12 +1,14 @@
 ---
-title: "Section 5914 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 5914 - Park budgets and accountability"
 usc_title: 16
 usc_section: "5914"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 5914"
-generated_at: "2026-03-29T02:11:53.957Z"
+generated_at: "2026-03-29T17:51:57.011Z"
 ---
 
-# § 5914. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 5914. Park budgets and accountability
 
+- **(a)** Each unit of the National Park System shall prepare and make available to the public a 5-year strategic plan and an annual performance plan. Such plans shall reflect the National Park Service policies, goals, and outcomes represented in the Service-wide Strategic Plan, prepared pursuant to the provisions of the Government Performance and Results Act of 1993 ( Public Law 103–62 ; 107 Stat. 285 ).
+- **(b)** As a part of the annual performance plan for a unit of the National Park System prepared pursuant to subsection (a) of this section, following receipt of the appropriation for the unit from the Operations of the National Park System account (but no later than January 1 of each year), the superintendent of the unit shall develop and make available to the public the budget for the current fiscal year for that unit. The budget shall include, at a minimum, funding allocations for resource preservation (including resource management), visitor services (including maintenance, interpretation, law enforcement, and search and rescue) and administration. The budget shall also include allocations into each of the above categories of all funds retained from fees collected for that year, including (but not limited to) special use permits, concession franchise fees, and recreation use and entrance fees.

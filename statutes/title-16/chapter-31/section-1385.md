@@ -3,9 +3,9 @@ title: "Section 1385 - Dolphin protection"
 usc_title: 16
 usc_section: "1385"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1385"
-generated_at: "2026-03-29T02:11:53.775Z"
+generated_at: "2026-03-29T17:51:56.868Z"
 ---
 
 # § 1385. Dolphin protection
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T02:11:53.775Z"
   - **(2)** For purposes of paragraph (1)(C), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets is dolphin safe if—
     - **(A)** the vessel is of a type and size that the Secretary has determined, consistent with the International Dolphin Conservation Program, is not capable of deploying its purse seine nets on or to encircle dolphins; or
     - **(B)**
-      - **(i)** the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h);
+      - **(i)** the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h) of this section;
       - **(ii)** the product is accompanied by a written statement executed by—
         - **(I)** the Secretary or the Secretary’s designee;
         - **(II)** a representative of the Inter-American Tropical Tuna Commission; or
@@ -40,29 +40,29 @@ generated_at: "2026-03-29T02:11:53.775Z"
       - **(iii)** the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product; and
     - **(C)** the written statements and endorsements referred to in subparagraph (B) comply with regulations promulgated by the Secretary which provide for the verification of tuna products as dolphin safe.
   - **(3)**
-    - **(A)** The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this section. 1 1 See References in Text note below.
+    - **(A)** The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act. 1 1 So in original. Probably should be “this section”.
     - **(B)** A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
     - **(C)** It is a violation of section 45 of title 15 to label a tuna product with any label or mark that refers to dolphins, porpoises, or marine mammals other than the mark developed under subparagraph (A) unless—
       - **(i)** no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught;
-      - **(ii)** the label is supported by a tracking and verification program which is comparable in effectiveness to the program established under subsection (f); and
+      - **(ii)** the label is supported by a tracking and verification program which is comparable in effectiveness to the program established under subsection (f) of this section; and
       - **(iii)** the label complies with all applicable labeling, marketing, and advertising laws and regulations of the Federal Trade Commission, including any guidelines for environmental labeling.
     - **(D)** If the Secretary determines that the use of a label referred to in subparagraph (C) is substantially undermining the conservation goals of the International Dolphin Conservation Program, the Secretary shall report that determination to the United States Senate Committee on Commerce, Science, and Transportation and the United States House of Representatives Committees on Resources and on Commerce, along with recommendations to correct such problems.
     - **(E)** It is a violation of section 45 of title 15 willingly and knowingly to use a label referred to in subparagraph (C) in a campaign or effort to mislead or deceive consumers about the level of protection afforded dolphins under the International Dolphin Conservation Program.
-- **(e)** For additional prohibitions relating to this section 1 and enforcement of this section, 1 see section 1826g of this title .
-- **(f)** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section, 1 including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
+- **(e)** Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) of this section that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
+- **(f)** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this Act, 1 including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d) of this section. In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
   - **(1)** The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
   - **(2)** Additional measures to enhance current observer coverage, including the establishment of criteria for training, and for improving monitoring and reporting capabilities and procedures.
-  - **(3)** The designation of well location, procedures for sealing holds, procedures for monitoring and certifying both above and below deck, or through equally effective methods, the tracking and verification of tuna labeled under subsection (d).
+  - **(3)** The designation of well location, procedures for sealing holds, procedures for monitoring and certifying both above and below deck, or through equally effective methods, the tracking and verification of tuna labeled under subsection (d) of this section.
   - **(4)** The reporting, receipt, and database storage of radio and facsimile transmittals from fishing vessels containing information related to the tracking and verification of tuna, and the definition of set.
   - **(5)** The shore-based verification and tracking throughout the fishing, transshipment, and canning process by means of Inter-American Tropical Tuna Commission trip records or otherwise.
-  - **(6)** The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d).
+  - **(6)** The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d) of this section.
   - **(7)** The provision of timely access to data required under this subsection by the Secretary from harvesting nations to undertake the actions required in paragraph (6) of this paragraph. 2 2 So in original. Probably should be “this subsection”.
 - **(g)**
   - **(1)** Between March 1, 1999 , and March 31, 1999 , the Secretary shall, on the basis of the research conducted before March 1, 1999 , under section 1414a(a) of this title , information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
   - **(2)** Between July 1, 2001 , and December 31, 2002 , the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title , information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 - **(h)**
-  - **(1)** Unless otherwise required by paragraph (2), the certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified in subsection (d)(2)(B)(ii) shall be that no dolphins were killed or seriously injured during the sets in which the tuna were caught.
-  - **(2)** The certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified under subsection (d)(2)(B)(ii) shall be that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphins, and that no dolphins were killed or seriously injured during the sets in which the tuna were caught, if the tuna were caught on a trip commencing—
-    - **(A)** before the effective date of the initial finding by the Secretary under subsection (g)(1);
-    - **(B)** after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2), where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
-    - **(C)** after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
+  - **(1)** Unless otherwise required by paragraph (2), the certification by the captain under subsection (d)(2)(B)(i) of this section and the certification provided by the observer as specified in subsection (d)(2)(B)(ii) of this section shall be that no dolphins were killed or seriously injured during the sets in which the tuna were caught.
+  - **(2)** The certification by the captain under subsection (d)(2)(B)(i) of this section and the certification provided by the observer as specified under subsection (d)(2)(B)(ii) of this section shall be that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphins, and that no dolphins were killed or seriously injured during the sets in which the tuna were caught, if the tuna were caught on a trip commencing—
+    - **(A)** before the effective date of the initial finding by the Secretary under subsection (g)(1) of this section;
+    - **(B)** after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2) of this section, where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
+    - **(C)** after the effective date of the finding under subsection (g)(2) of this section, where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.

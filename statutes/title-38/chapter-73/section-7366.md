@@ -3,9 +3,9 @@ title: "Section 7366 - Accountability and oversight"
 usc_title: 38
 usc_section: "7366"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7366"
-generated_at: "2026-03-29T02:14:50.479Z"
+generated_at: "2026-03-29T17:52:53.836Z"
 ---
 
 # § 7366. Accountability and oversight
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:14:50.479Z"
 - **(a)**
   - **(1)**
     - **(A)** The records of a corporation established under this subchapter shall be available to the Secretary.
-    - **(B)** For the purposes of sections 404(a)(1) and 406(a)(1) of title 5, the programs and operations of such a corporation shall be considered to be programs and operations of the Department with respect to which the Inspector General of the Department has responsibilities under chapter 4 of title 5.
+    - **(B)** For the purposes of sections 4(a)(1) and 6(a)(1) of the Inspector General Act of 1978, the programs and operations of such a corporation shall be considered to be programs and operations of the Department with respect to which the Inspector General of the Department has responsibilities under such Act.
   - **(2)** Such a corporation shall be considered an agency for the purposes of section 716 of title 31 (relating to availability of information and inspection of records by the Comptroller General).
 - **(b)**
   - **(1)** Each corporation shall submit to the Secretary each year a report providing a detailed statement of the operations, activities, and accomplishments of the corporation during that year.

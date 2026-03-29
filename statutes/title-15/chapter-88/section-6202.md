@@ -3,9 +3,9 @@ title: "Section 6202 - Investigations to assist foreign antitrust authority in o
 usc_title: 15
 usc_section: "6202"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 6202"
-generated_at: "2026-03-29T02:11:34.389Z"
+generated_at: "2026-03-29T17:51:36.390Z"
 ---
 
 # § 6202. Investigations to assist foreign antitrust authority in obtaining antitrust evidence
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T02:11:34.389Z"
 - **(b)** In accordance with an antitrust mutual assistance agreement in effect under this chapter, subject to section 6207 of this title , and except as provided in section 6204 of this title , the Attorney General and the Commission may, using their respective authority to investigate possible violations of the Federal antitrust laws, conduct investigations to obtain antitrust evidence relating to a possible violation of the foreign antitrust laws administered or enforced by the foreign antitrust authority with respect to which such agreement is in effect under this chapter, and may provide such antitrust evidence to the foreign antitrust authority, to assist the foreign antitrust authority—
   - **(1)** in determining whether a person has violated or is about to violate any of such foreign antitrust laws, or
   - **(2)** in enforcing any of such foreign antitrust laws.
-- **(c)** An investigation may be conducted under subsection (b), and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
+- **(c)** An investigation may be conducted under subsection (b) of this section, and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
 - **(d)** A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.

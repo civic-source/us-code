@@ -3,9 +3,9 @@ title: "Section 396 - Inspection of livestock, hides, animal products, etc.; pla
 usc_title: 7
 usc_section: "396"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 396"
-generated_at: "2026-03-29T02:10:16.721Z"
+generated_at: "2026-03-29T17:50:48.513Z"
 ---
 
 # § 396. Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds

@@ -3,9 +3,9 @@ title: "Section 1621d - Other authority for provision of services"
 usc_title: 25
 usc_section: "1621d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1621d"
-generated_at: "2026-03-29T02:13:20.888Z"
+generated_at: "2026-03-29T17:52:06.063Z"
 ---
 
 # § 1621d. Other authority for provision of services
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:13:20.888Z"
   - **(1)** The term “assisted living service” means any service provided by an assisted living facility (as defined in section 1715w(b) of title 12 ), except that such an assisted living facility—
     - **(A)** shall not be required to obtain a license; but
     - **(B)** shall meet all applicable standards for licensure.
-  - **(2)** The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.)) 1 1 See References in Text note below. that are or will be provided in accordance with applicable standards.
+  - **(2)** The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.)) that are or will be provided in accordance with applicable standards.
   - **(3)** The term “hospice care” means—
     - **(A)** the items and services specified in subparagraphs (A) through (H) of section 1395x(dd)(1) of title 42 ; and
     - **(B)** such other services as an Indian tribe or tribal organization determines are necessary and appropriate to provide in furtherance of that care.

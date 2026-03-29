@@ -3,9 +3,9 @@ title: "Section 2 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T02:11:33.998Z"
+generated_at: "2026-03-29T17:51:36.114Z"
 ---
 
 # § 80c–2. Authorization of appropriations

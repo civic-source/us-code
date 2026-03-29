@@ -3,15 +3,15 @@ title: "Section 4161 - Remedies for noncompliance"
 usc_title: 25
 usc_section: "4161"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 4161"
-generated_at: "2026-03-29T02:13:20.990Z"
+generated_at: "2026-03-29T17:52:06.161Z"
 ---
 
 # § 4161. Remedies for noncompliance
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
+  - **(1)** Except as provided in subsection (b) of this section, if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
     - **(A)** terminate payments under this chapter to the recipient;
     - **(B)** reduce payments under this chapter to the recipient by an amount equal to the amount of such payments that were not expended in accordance with this chapter;
     - **(C)** limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply; or
@@ -25,19 +25,19 @@ generated_at: "2026-03-29T02:13:20.990Z"
       - **(ii)** conduct a hearing not later than 60 days after the date on which the Secretary provides notice under clause (i).
     - **(C)** Upon completion of a hearing under this paragraph, the Secretary shall make a determination regarding whether to continue taking the action that is the subject of the hearing, or take another action under this subsection.
 - **(b)**
-  - **(1)** If the Secretary makes a finding under subsection (a), but determines that the failure to comply substantially with the provisions of this chapter—
+  - **(1)** If the Secretary makes a finding under subsection (a) of this section, but determines that the failure to comply substantially with the provisions of this chapter—
     - **(A)** is not a pattern or practice of activities constituting willful noncompliance, and
     - **(B)** is a result of the limited capability or capacity of the recipient,
   - **(2)** The period of a performance agreement described in paragraph (1) shall be for 1 year.
   - **(3)** Upon the termination of a performance agreement entered into under paragraph (1), the Secretary shall review the performance of the recipient that is a party to the agreement.
   - **(4)** If, on the basis of a review under paragraph (3), the Secretary determines that the recipient—
     - **(A)** has made a good faith effort to meet the compliance objectives specified in the agreement, the Secretary may enter into an additional performance agreement for the period specified in paragraph (2); and
-    - **(B)** has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a).
+    - **(B)** has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a) of this section.
 - **(c)**
-  - **(1)** In lieu of, or in addition to, any action authorized by subsection (a), if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+  - **(1)** In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
   - **(2)** Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistance furnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
 - **(d)**
-  - **(1)** Any recipient who receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter—
+  - **(1)** Any recipient who receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter—
     - **(A)** may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
     - **(B)** upon the filing of any petition under subparagraph (A), shall forthwith transmit copies of the petition to the Secretary and the Attorney General of the United States, who shall represent the Secretary in the litigation.
   - **(2)** The Secretary shall file in the court a record of the proceeding on which the Secretary based the action, as provided in section 2112 of title 28 . No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.

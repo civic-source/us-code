@@ -3,9 +3,9 @@ title: "Section 5452 - Environmental initiatives for Poland and Hungary"
 usc_title: 22
 usc_section: "5452"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5452"
-generated_at: "2026-03-29T02:12:40.359Z"
+generated_at: "2026-03-29T17:52:10.642Z"
 ---
 
 # § 5452. Environmental initiatives for Poland and Hungary
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:12:40.359Z"
   - **(1)** establish an air quality monitoring network in the Krakow metropolitan area as a part of Poland’s national air monitoring network; and
   - **(2)** improve both water quality and the availability of drinking water in the Krakow metropolitan area.
 - **(d)** The Administrator shall work with other United States and Hungarian officials and private parties to establish and support a regional center in Budapest for facilitating cooperative environmental activities between governmental experts and public and private organizations from the United States and Eastern and Western Europe.
-- **(e)** To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d), there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989 , to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of Part 1 1 So in original. Probably should not be capitalized. II of that Act ( 22 U.S.C. 2346 and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
+- **(e)** To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d) of this section, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989 , to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of Part 1 1 So in original. Probably should not be capitalized. II of that Act ( 22 U.S.C. 2346 and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
 - **(f)**
   - **(1)** The Secretary of Energy shall cooperate with Polish officials and experts to retrofit a coal-fired commercial powerplant in the Krakow, Poland, region with advanced clean coal technology that has been successfully demonstrated at a comparably scaled powerplant in the United States. Such retrofit shall be carried out by one or more United States companies using United States technology and equipment manufactured in the United States. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
   - **(2)** The Secretary of Energy shall cooperate with Polish officials and experts and companies within the United States to assess and develop the capability within Poland to manufacture or modify boilers, furnaces, smelters, or other equipment that will enable industrial facilities within Poland to use fossil fuels cleanly. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.

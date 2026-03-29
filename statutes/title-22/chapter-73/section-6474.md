@@ -3,9 +3,9 @@ title: "Section 6474 - Studies on effect of expedited removal provisions on asyl
 usc_title: 22
 usc_section: "6474"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 6474"
-generated_at: "2026-03-29T02:12:40.392Z"
+generated_at: "2026-03-29T17:52:10.669Z"
 ---
 
 # § 6474. Studies on effect of expedited removal provisions on asylum claims
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T02:12:40.392Z"
     - **(C)** Incorrectly removing such aliens to a country where they may be persecuted.
     - **(D)** Detaining such aliens improperly or in inappropriate conditions.
 - **(b)**
-  - **(1)** In the case of a Commission request under subsection (a), the experts designated by the Commission under that subsection may submit a report to the committees described in paragraph (2). Such report may be submitted with the Comptroller General’s report under subsection (a)(2) or independently.
-  - **(2)** Not later than September 1, 2000 , the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate a report containing the results of the study conducted under subsection (a)(2). If the Commission requests designated experts to participate with the Comptroller General in the preparation and submission of the report, the Comptroller General shall grant the request.
+  - **(1)** In the case of a Commission request under subsection (a) of this section, the experts designated by the Commission under that subsection may submit a report to the committees described in paragraph (2). Such report may be submitted with the Comptroller General’s report under subsection (a)(2) of this section or independently.
+  - **(2)** Not later than September 1, 2000 , the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate a report containing the results of the study conducted under subsection (a)(2) of this section. If the Commission requests designated experts to participate with the Comptroller General in the preparation and submission of the report, the Comptroller General shall grant the request.
 - **(c)**
-  - **(1)** Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8 .
-  - **(2)** Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) do not contravene international law.
+  - **(1)** Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a) of this section, the experts designated under subsection (a) of this section to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8 .
+  - **(2)** Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) of this section do not contravene international law.

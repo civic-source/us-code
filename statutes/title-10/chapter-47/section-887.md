@@ -1,14 +1,14 @@
 ---
-title: "Section 887 - Art. 87. Missing movement; jumping from vessel"
+title: "Section 887 - Art. 87. Missing movement"
 usc_title: 10
 usc_section: "887"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 887"
-generated_at: "2026-03-29T02:10:44.923Z"
+generated_at: "2026-03-29T17:50:56.977Z"
 ---
 
-# § 887. Art. 87. Missing movement; jumping from vessel
+# § 887. Art. 87. Missing movement
 
-- **(a)** Any person subject to this chapter who, through neglect or design, misses the movement of a ship, aircraft, or unit with which the person is required in the course of duty to move shall be punished as a court-martial may direct.
-- **(b)** Any person subject to this chapter who wrongfully and intentionally jumps into the water from a vessel in use by the armed forces shall be punished as a court-martial may direct.
+Any person subject to this chapter who through neglect or design misses the movement of a ship, aircraft, or unit with which he is required in the course of duty to move shall be punished as a court-martial may direct.
+

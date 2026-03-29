@@ -3,9 +3,9 @@ title: "Section 282 - Acquisition of property; purpose; authority of Secretary; 
 usc_title: 16
 usc_section: "282"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 282"
-generated_at: "2026-03-29T02:11:53.362Z"
+generated_at: "2026-03-29T17:51:56.485Z"
 ---
 
 # § 282. Acquisition of property; purpose; authority of Secretary; manner and place; donation of State lands

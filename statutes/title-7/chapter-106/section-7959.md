@@ -3,9 +3,9 @@ title: "Section 7959 - Termination of marketing quota programs for peanuts and c
 usc_title: 7
 usc_section: "7959"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7959"
-generated_at: "2026-03-29T02:10:17.181Z"
+generated_at: "2026-03-29T17:50:48.884Z"
 ---
 
 # § 7959. Termination of marketing quota programs for peanuts and compensation to peanut quota holders for loss of quota asset value
@@ -14,14 +14,14 @@ generated_at: "2026-03-29T02:10:17.181Z"
   - **(1)**
   - **(2)** Part VI of subtitle B of title III of the Agricultural Adjustment Act of 1938 ( 7 U.S.C. 1357–135 9a), as in effect on the day before May 13, 2002 , shall continue to apply with respect to the 2001 crop of peanuts notwithstanding the amendment made by paragraph (1). Section 7958(g)(2) of this title shall also apply to the 2001 crop of peanuts.
 - **(b)**
-  - **(1)** The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holder under subsection (f) for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a).
+  - **(1)** The Secretary shall offer to enter into a contract with each person that the Secretary determines is an eligible peanut quota holder under subsection (f) of this section for the purpose of providing compensation for the lost value of the quota on account of the repeal of the marketing quota program for peanuts under subsection (a) of this section.
   - **(2)** The Secretary shall make payments under the contracts during fiscal years 2002 through 2006.
 - **(c)**
   - **(1)** The payments required under the contracts shall be provided in 5 equal installments not later than September 30 of each of fiscal years 2002 through 2006.
-  - **(2)** At the request of an eligible peanut quota holder entitled to payments under a contract, the Secretary shall provide the entire payment amount determined under subsection (d) with respect to the eligible peanut quota holder for the 5 fiscal years in a single lump sum during the fiscal year specified by the eligible peanut quota holder.
+  - **(2)** At the request of an eligible peanut quota holder entitled to payments under a contract, the Secretary shall provide the entire payment amount determined under subsection (d) of this section with respect to the eligible peanut quota holder for the 5 fiscal years in a single lump sum during the fiscal year specified by the eligible peanut quota holder.
 - **(d)** The amount of the payment for a fiscal year to an eligible peanut quota holder under a contract shall be equal to the product obtained by multiplying—
   - **(1)** $0.11 per pound; by
-  - **(2)** the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f).
+  - **(2)** the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f) of this section.
 - **(e)** The provisions of section 590h(g) of title 16 , relating to assignment of payments, shall apply to the payments made under the contracts. A person making an assignment of the payment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this subsection.
 - **(f)**
   - **(1)** Except as otherwise provided in this subsection, the Secretary shall consider a person to be an eligible peanut quota holder for the purposes of this section if the person, as of May 13, 2002 , owned a farm that, also as of that date, was eligible for a permanent peanut quota under section 358–1(b) of the Agricultural Adjustment Act of 1938 ( 7 U.S.C. 1358–1(b) ), irrespective of temporary leases, transfers of quotas for seed, or quotas for experimental purposes.
@@ -31,5 +31,5 @@ generated_at: "2026-03-29T02:10:17.181Z"
   - **(5)** Notwithstanding the preceding paragraphs, the Secretary may declare a person to be the eligible peanut quota holder with respect to certain pounds of quota or otherwise for purposes of this section if the Secretary considers the declaration is needed to insure a fair and equitable administration of the payments provided for in this section, so long as the Secretary does not, in exercising this authority, effectively increase the total quota in excess of the quota that was available to all producers for the 2001 crop year for other than seed or experimental use.
   - **(6)** A person shall be considered an eligible peanut quota holder for purposes of this section only with respect to that number of permanent pounds that qualifies the person as a peanut quota holder under one of the preceding paragraphs. The determination of the peanut poundage amount for which the person qualifies shall be made based on the 2001 crop quota levels and shall take into account sales of the farm that occurred before May 13, 2002 , and any permanent transfers of quota that took place before that date, consistent with the preceding paragraphs. The Secretary shall not take into account, or allow eligibility for, quotas for seed, granted as experimental quotas, or obtained by temporary lease or transfer.
 - **(g)**
-  - **(1)** Once a person is eligible for payments under this section, as determined under subsection (f), the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) and irrespective of whether the person has a continuing interest in the production of peanuts.
+  - **(1)** Once a person is eligible for payments under this section, as determined under subsection (f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the person has a continuing interest in the production of peanuts.
   - **(2)** If a person eligible for payments under this section dies, in the case of an individual, or ceases to exist, in the case of other persons, the payment eligibility of the person shall pass to the person’s personal or organizational successor, as determined by the Secretary.

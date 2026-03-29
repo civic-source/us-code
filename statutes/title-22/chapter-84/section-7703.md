@@ -3,9 +3,9 @@ title: "Section 7703 - Establishment and management of the Millennium Challenge 
 usc_title: 22
 usc_section: "7703"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 7703"
-generated_at: "2026-03-29T02:12:40.435Z"
+generated_at: "2026-03-29T17:52:10.703Z"
 ---
 
 # § 7703. Establishment and management of the Millennium Challenge Corporation
@@ -34,12 +34,7 @@ generated_at: "2026-03-29T02:12:40.435Z"
       - **(iv)** one individual should be appointed from among a list of individuals submitted by the minority leader of the Senate.
   - **(4)**
     - **(A)** Each member of the Board described in paragraph (3)(A) shall serve for a term that is concurrent with the term of service of the individual’s position as an officer within the other Federal department or agency.
-    - **(B)** Each member of the Board described in paragraph (3)(B)—
-      - **(i)** shall be appointed for a term of 3 years;
-      - **(ii)** may be reappointed for a term of an additional 2 years; and
-      - **(iii)** may continue to serve in each such appointment until the earlier of—
-        - **(I)** the date on which his or her successor is appointed; or
-        - **(II)** the date that is 1 year after the expiration of his or her appointment or reappointment, as the case may be.
+    - **(B)** Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years.
     - **(C)** A vacancy in the Board shall be filled in the manner in which the original appointment was made.
   - **(5)** There shall be a Chairperson of the Board. The Secretary of State shall serve as the Chairperson.
   - **(6)** A majority of the members of the Board shall constitute a quorum, which, except with respect to a meeting of the Board during the 135-day period beginning on January 23, 2004 , shall include at least one member of the Board described in paragraph (3)(B).

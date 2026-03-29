@@ -1,12 +1,17 @@
 ---
-title: "Section 2196 - Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2) , Oct. 5, 2018 , 132 Stat. 3513"
+title: "Section 2196 - Income and revenues"
 usc_title: 22
 usc_section: "2196"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2196"
-generated_at: "2026-03-29T02:12:40.042Z"
+generated_at: "2026-03-29T17:52:10.493Z"
 ---
 
-# §§ 2194b to 2196. Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2) , Oct. 5, 2018 , 132 Stat. 3513
+# § 2196. Income and revenues
 
+In order to carry out the purposes of the Corporation, all revenues and income transferred to or earned by the Corporation, from whatever source derived, shall be held by the Corporation and shall be available to carry out its purposes, including without limitation—
+
+- **(a)** payment of all expenses of the Corporation, including investment promotion expenses;
+- **(b)** transfers and additions to the insurance or guaranty reserves, the Direct Investment Fund established pursuant to section 2195 of this title , and such other funds or reserves as the Corporation may establish, at such time and in such amounts as the Board may determine; and
+- **(c)** payment of dividends, on capital stock, which shall consist of and be paid from net earnings of the Corporation after payments, transfers, and additions under subsections (a) and (b) hereof.

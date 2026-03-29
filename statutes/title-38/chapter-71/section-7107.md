@@ -3,42 +3,32 @@ title: "Section 7107 - Appeals: dockets; hearings"
 usc_title: 38
 usc_section: "7107"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7107"
-generated_at: "2026-03-29T02:14:50.465Z"
+generated_at: "2026-03-29T17:52:53.817Z"
 ---
 
 # § 7107. Appeals: dockets; hearings
 
 - **(a)**
-  - **(1)** Subject to paragraph (2), the Board shall maintain at least two separate dockets.
-  - **(2)** The Board may not maintain more than two separate dockets unless the Board notifies the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives of any additional docket, including a justification for maintaining such additional docket.
-  - **(3)**
-    - **(A)** The Board may assign to each docket maintained under paragraph (1) such cases as the Board considers appropriate, except that cases described in clause (i) of subparagraph (B) may not be assigned to any docket to which cases described in clause (ii) of such paragraph are assigned.
-    - **(B)** Cases described in this paragraph are the following:
-      - **(i)** Cases in which no Board hearing is requested.
-      - **(ii)** Cases in which a Board hearing is requested in the notice of disagreement.
-  - **(4)** Except as provided in subsection (b), each case before the Board will be decided in regular order according to its respective place on the docket to which it is assigned by the Board.
-- **(b)**
-  - **(1)** A case on one of the dockets of the Board maintained under subsection (a) may, for cause shown, be advanced on motion for earlier consideration and determination.
-  - **(2)** Any such motion shall set forth succinctly the grounds upon which the motion is based.
-  - **(3)** Such a motion may be granted only—
+  - **(1)** Except as provided in paragraphs (2) and (3) and in subsection (f), each case received pursuant to application for review on appeal shall be considered and decided in regular order according to its place upon the docket.
+  - **(2)** A case referred to in paragraph (1) may, for cause shown, be advanced on motion for earlier consideration and determination. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
     - **(A)** if the case involves interpretation of law of general application affecting other claims;
     - **(B)** if the appellant is seriously ill or is under severe financial hardship; or
     - **(C)** for other sufficient cause shown.
-- **(c)**
-  - **(1)** For cases on a docket maintained by the Board under subsection (a) that may include a hearing, in which a hearing is requested in the notice of disagreement, the Board shall notify the appellant whether a Board hearing will be held—
-    - **(A)** at its principal location; or
-    - **(B)** by picture and voice transmission at a facility of the Department where the Secretary has provided suitable facilities and equipment to conduct such hearings.
-  - **(2)**
-    - **(A)** Upon notification of a Board hearing at the Board’s principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
-    - **(B)** Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
-    - **(C)**
-      - **(i)** Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1), the appellant may alternatively request a hearing by picture and voice transmission—
-        - **(I)** at a location selected by the appellant; and
-        - **(II)** via a secure internet platform established and maintained by the Secretary that protects sensitive personal information from a data breach.
-      - **(ii)** If an appellant makes a request under clause (i), the Board shall grant such request.
-- **(d)** Nothing in this section shall be construed to preclude the screening of cases for purposes of—
+  - **(3)** A case referred to in paragraph (1) may be postponed for later consideration and determination if such postponement is necessary to afford the appellant a hearing.
+- **(b)** The Board shall decide any appeal only after affording the appellant an opportunity for a hearing.
+- **(c)** A hearing docket shall be maintained and formal recorded hearings shall be held by such member or members of the Board as the Chairman may designate. Such member or members designated by the Chairman to conduct the hearing shall, except in the case of a reconsideration of a decision under section 7103 of this title , participate in making the final determination of the claim.
+- **(d)**
+  - **(1)** An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.
+  - **(2)** A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
+  - **(3)** A hearing to be held within an area served by a regional office of the Department may, for cause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+    - **(A)** if the case involves interpretation of law of general application affecting other claims;
+    - **(B)** if the appellant is seriously ill or is under severe financial hardship; or
+    - **(C)** for other sufficient cause shown.
+- **(e)**
+  - **(1)** At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board’s principal location.
+  - **(2)** When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.
+- **(f)** Nothing in this section shall preclude the screening of cases for purposes of—
   - **(1)** determining the adequacy of the record for decisional purposes; or
   - **(2)** the development, or attempted development, of a record found to be inadequate for decisional purposes.
-- **(e)** The Secretary shall develop and implement a policy allowing an appellant to move the appellant’s case from one docket to another docket.

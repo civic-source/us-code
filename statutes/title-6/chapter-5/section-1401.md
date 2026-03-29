@@ -3,9 +3,9 @@ title: "Section 1401 - Definitions"
 usc_title: 6
 usc_section: "1401"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 1401"
-generated_at: "2026-03-29T02:10:05.090Z"
+generated_at: "2026-03-29T17:50:39.389Z"
 ---
 
 # § 1401. Definitions

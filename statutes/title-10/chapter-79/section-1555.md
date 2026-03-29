@@ -3,9 +3,9 @@ title: "Section 1555 - Professional staff"
 usc_title: 10
 usc_section: "1555"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1555"
-generated_at: "2026-03-29T02:10:45.028Z"
+generated_at: "2026-03-29T17:50:57.052Z"
 ---
 
 # § 1555. Professional staff
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T02:10:45.028Z"
 - **(c)** In this section, the term “service review agency” means—
   - **(1)** with respect to the Department of the Army, the Army Review Boards Agency;
   - **(2)** with respect to the Department of the Navy, the Navy Council of Personnel Boards and the Board for Correction of Naval Records; and
-  - **(3)** with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.
+  - **(3)** with respect to the Department of the Air Force, the Air Force Review Boards Agency.

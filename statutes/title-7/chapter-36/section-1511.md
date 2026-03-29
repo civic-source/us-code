@@ -3,9 +3,9 @@ title: "Section 1511 - Tax exemption"
 usc_title: 7
 usc_section: "1511"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1511"
-generated_at: "2026-03-29T02:10:16.815Z"
+generated_at: "2026-03-29T17:50:48.603Z"
 ---
 
 # § 1511. Tax exemption

@@ -3,9 +3,9 @@ title: "Section 608b - Marketing agreements; exemption from anti-trust laws; ins
 usc_title: 7
 usc_section: "608b"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 608b"
-generated_at: "2026-03-29T02:10:16.737Z"
+generated_at: "2026-03-29T17:50:48.531Z"
 ---
 
 # § 608b. Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T02:10:16.737Z"
     - **(C)** any assessment (except with respect to any assessment for the indemnification of losses on rejected peanuts) imposed under the agreement shall—
       - **(i)** apply to peanut handlers (as defined by the Secretary) who have not entered into such an agreement with the Secretary in addition to those handlers who have entered into the agreement; and
       - **(ii)** be paid to the Secretary.
-  - **(2)** Violation of this subsection by a person who has not entered into such an agreement shall result in the assessment by the Secretary of a penalty equal to 140 percent of the support price for quota peanuts multiplied by the quantity of peanuts sold or disposed of in violation of subsection (b)(1)(B), as determined under section 1445c–3 1 1 See References in Text note below. of this title, for the marketing year for the crop with respect to which such violation occurs.
+  - **(2)** Violation of this subsection by a person who has not entered into such an agreement shall result in the assessment by the Secretary of a penalty equal to 140 percent of the support price for quota peanuts multiplied by the quantity of peanuts sold or disposed of in violation of subsection (b)(1)(B) of this section, as determined under section 1445c–3 1 1 See References in Text note below. of this title, for the marketing year for the crop with respect to which such violation occurs.

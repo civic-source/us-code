@@ -3,9 +3,9 @@ title: "Section 1574 - Reports to Congress"
 usc_title: 8
 usc_section: "1574"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1574"
-generated_at: "2026-03-29T02:10:21.484Z"
+generated_at: "2026-03-29T17:50:41.392Z"
 ---
 
 # § 1574. Reports to Congress
@@ -19,8 +19,8 @@ generated_at: "2026-03-29T02:10:21.484Z"
       - **(i)** a description of the adequacy of existing computer hardware, computer software, and other mechanisms to comply with the adjudications and reporting requirements of this subchapter; and
       - **(ii)** a plan for implementing improvements to existing data systems to accomplish the purpose of this subchapter, as described in section 1571(a) of this title ;
     - **(B)** a description of the quality controls to be put into force to ensure timely, fair, accurate, and complete processing and adjudication of such applications;
-    - **(C)** the elements specified in subsection (b)(2);
-    - **(D)** an estimate of the amount of appropriated funds that would be necessary in order to eliminate the backlogs in each category of immigration benefit applications described in subsection (b)(2); and
+    - **(C)** the elements specified in subsection (b)(2) of this section;
+    - **(D)** an estimate of the amount of appropriated funds that would be necessary in order to eliminate the backlogs in each category of immigration benefit applications described in subsection (b)(2) of this section; and
     - **(E)** a detailed plan on how the Attorney General will use any funds in the Immigration Services and Infrastructure Improvements Account to comply with the purposes of this subchapter.
 - **(b)**
   - **(1)** Beginning 90 days after the end of the first fiscal year for which any appropriation authorized by section 1573(b) of this title is made, and 90 days after the end of each fiscal year thereafter, the Attorney General shall submit a report to the Committees on the Judiciary and Appropriations of the Senate and the House of Representatives concerning the status of—

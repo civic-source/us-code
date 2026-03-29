@@ -1,63 +1,63 @@
 ---
-title: "Section 2258A - Reporting requirements of providers"
+title: "Section 2258A - Reporting requirements of electronic communication service providers and remote computing service providers"
 usc_title: 18
 usc_section: "2258A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 2258A"
-generated_at: "2026-03-29T02:12:02.442Z"
+generated_at: "2026-03-29T17:53:15.685Z"
 ---
 
-# § 2258A. Reporting requirements of providers
+# § 2258A. Reporting requirements of electronic communication service providers and remote computing service providers
 
 - **(a)**
-  - **(1)**
-    - **(A)** In order to reduce the proliferation of online child sexual exploitation and to prevent the online sexual exploitation of children, a provider—
-      - **(i)** shall, as soon as reasonably possible after obtaining actual knowledge of any facts or circumstances described in paragraph (2)(A), take the actions described in subparagraph (B); and
-      - **(ii)** may, after obtaining actual knowledge of any facts or circumstances described in paragraph (2)(B), take the actions described in subparagraph (B).
-    - **(B)** The actions described in this subparagraph are—
-      - **(i)** providing to the CyberTipline of NCMEC, or any successor to the CyberTipline operated by NCMEC, the mailing address, telephone number, facsimile number, electronic mailing address of, and individual point of contact for, such provider; and
-      - **(ii)** making a report of such facts or circumstances to the CyberTipline, or any successor to the CyberTipline operated by NCMEC.
-  - **(2)**
-    - **(A)** The facts or circumstances described in this subparagraph are any facts or circumstances from which there is an apparent violation of section 2251, 2251A, 2252, 2252A, 2252B, or 2260 that involves child pornography, of section 1591 (if the violation involves a minor), or of 1 1 So in original. Probably should be followed by “section”. 2422(b).
-    - **(B)** The facts or circumstances described in this subparagraph are any facts or circumstances which indicate a violation of any of the sections described in subparagraph (A) involving child pornography may be planned or imminent.
-- **(b)** In an effort to prevent the future sexual victimization of children, and to the extent the information is within the custody or control of a provider, the facts and circumstances included in each report under subsection (a)(1) may, at the sole discretion of the provider, include the following information:
-  - **(1)** Information relating to the identity of any individual who appears to have violated or plans to violate a Federal law described in subsection (a)(2), which may, to the extent reasonably practicable, include the electronic mail address, Internet Protocol address, uniform resource locator, payment information (excluding personally identifiable information), or any other identifying information, including self-reported identifying information.
-  - **(2)** Information relating to when and how a customer or subscriber of a provider uploaded, transmitted, or received content relating to the report or when and how content relating to the report was reported to, or discovered by the provider, including a date and time stamp and time zone.
-  - **(3)** Information relating to the geographic location of the involved individual or website, which may include the Internet Protocol address or verified address, or, if not reasonably available, at least one form of geographic identifying information, including area code or zip code, provided by the customer or subscriber, or stored or obtained by the provider.
-  - **(4)** Any visual depiction of apparent child pornography or other content relating to the incident such report is regarding.
-  - **(5)** The complete communication containing any visual depiction of apparent child pornography or other content, including—
+  - **(1)** Whoever, while engaged in providing an electronic communication service or a remote computing service to the public through a facility or means of interstate or foreign commerce, obtains actual knowledge of any facts or circumstances described in paragraph (2) shall, as soon as reasonably possible—
+    - **(A)** provide to the CyberTipline of the National Center for Missing and Exploited Children, or any successor to the CyberTipline operated by such center, the mailing address, telephone number, facsimile number, electronic mail address of, and individual point of contact for, such electronic communication service provider or remote computing service provider; and
+    - **(B)** make a report of such facts or circumstances to the CyberTipline, or any successor to the CyberTipline operated by such center.
+  - **(2)** The facts or circumstances described in this paragraph are any facts or circumstances from which there is an apparent violation of—
+    - **(A)** section 2251, 2251A, 2252, 2252A, 2252B, or 2260 that involves child pornography; or
+    - **(B)** section 1466A.
+- **(b)** To the extent the information is within the custody or control of an electronic communication service provider or a remote computing service provider, the facts and circumstances included in each report under subsection (a)(1) may include the following information:
+  - **(1)** Information relating to the identity of any individual who appears to have violated a Federal law described in subsection (a)(2), which may, to the extent reasonably practicable, include the electronic mail address, Internet Protocol address, uniform resource locator, or any other identifying information, including self-reported identifying information.
+  - **(2)** Information relating to when and how a customer or subscriber of an electronic communication service or a remote computing service uploaded, transmitted, or received apparent child pornography or when and how apparent child pornography was reported to, or discovered by the electronic communication service provider or remote computing service provider, including a date and time stamp and time zone.
+  - **(3)**
+    - **(A)** Information relating to the geographic location of the involved individual or website, which may include the Internet Protocol address or verified billing address, or, if not reasonably available, at least 1 form of geographic identifying information, including area code or zip code.
+    - **(B)** The information described in subparagraph (A) may also include any geographic information provided to the electronic communication service or remote computing service by the customer or subscriber.
+  - **(4)** Any image of apparent child pornography relating to the incident such report is regarding.
+  - **(5)** The complete communication containing any image of apparent child pornography, including—
     - **(A)** any data or information regarding the transmission of the communication; and
-    - **(B)** any visual depictions, data, or other digital files contained in, or attached to, the communication.
-- **(c)** Pursuant to its clearinghouse role as a private, nonprofit organization, and at the conclusion of its review in furtherance of its nonprofit mission, NCMEC shall make available each report made under subsection (a)(1) and all supplemental data included in the report to one or more of the following law enforcement agencies:
-  - **(1)** Any Federal law enforcement agency that is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes.
-  - **(2)** Any State or local law enforcement agency that is involved in the investigation of child sexual exploitation.
-  - **(3)** A foreign law enforcement agency designated by the Attorney General under subsection (d)(3) or a foreign law enforcement agency that has an established relationship with the Federal Bureau of Investigation, Immigration and Customs Enforcement, or INTERPOL, and is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes.
+    - **(B)** any images, data, or other digital files contained in, or attached to, the communication.
+- **(c)**
+  - **(1)** The National Center for Missing and Exploited Children shall forward each report made under subsection (a)(1) to any appropriate law enforcement agency designated by the Attorney General under subsection (d)(2).
+  - **(2)** The National Center for Missing and Exploited Children may forward any report made under subsection (a)(1) to an appropriate law enforcement official of a State or political subdivision of a State for the purpose of enforcing State criminal law.
+  - **(3)**
+    - **(A)** The National Center for Missing and Exploited Children may forward any report made under subsection (a)(1) to any appropriate foreign law enforcement agency designated by the Attorney General under subsection (d)(3), subject to the conditions established by the Attorney General under subsection (d)(3).
+    - **(B)** If the National Center for Missing and Exploited Children forwards a report to a foreign law enforcement agency under subparagraph (A), the National Center for Missing and Exploited Children shall concurrently provide a copy of the report and the identity of the foreign law enforcement agency to—
+      - **(i)** the Attorney General; or
+      - **(ii)** the Federal law enforcement agency or agencies designated by the Attorney General under subsection (d)(2).
 - **(d)**
   - **(1)** The Attorney General shall enforce this section.
-  - **(2)** The Attorney General may designate a Federal law enforcement agency or agencies to which a report shall be forwarded under subsection (c)(1).
-  - **(3)** The Attorney General may—
-    - **(A)** in consultation with the Secretary of State, designate foreign law enforcement agencies to which a report may be forwarded under subsection (c)(3);
+  - **(2)** The Attorney General shall designate promptly the Federal law enforcement agency or agencies to which a report shall be forwarded under subsection (c)(1).
+  - **(3)** The Attorney General shall promptly—
+    - **(A)** in consultation with the Secretary of State, designate the foreign law enforcement agencies to which a report may be forwarded under subsection (c)(3);
     - **(B)** establish the conditions under which such a report may be forwarded to such agencies; and
     - **(C)** develop a process for foreign law enforcement agencies to request assistance from Federal law enforcement agencies in obtaining evidence related to a report referred under subsection (c)(3).
-  - **(4)** The Attorney General may maintain and make available to the Department of State, NCMEC, providers, the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives a list of the foreign law enforcement agencies designated under paragraph (3).
-  - **(5)**
-    - **(A)** NCMEC may notify a provider of the information described in subparagraph (B), if—
-      - **(i)** a provider notifies NCMEC that the provider is making a report under this section as the result of a request by a foreign law enforcement agency; and
-      - **(ii)** NCMEC forwards the report described in clause (i) to—
-        - **(I)** the requesting foreign law enforcement agency; or
-        - **(II)** another agency in the same country designated by the Attorney General under paragraph (3) or that has an established relationship with the Federal Bureau of Investigation, U.S. Immigration and Customs Enforcement, or INTERPOL and is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes.
-    - **(B)** The information described in this subparagraph is—
+  - **(4)** The Attorney General shall maintain and make available to the Department of State, the National Center for Missing and Exploited Children, electronic communication service providers, remote computing service providers, the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives a list of the foreign law enforcement agencies designated under paragraph (3).
+  - **(5)** It is the sense of Congress that—
+    - **(A)** combating the international manufacturing, possession, and trade in online child pornography requires cooperation with competent, qualified, and appropriately trained foreign law enforcement agencies; and
+    - **(B)** the Attorney General, in cooperation with the Secretary of State, should make a substantial effort to expand the list of foreign agencies designated under paragraph (3).
+  - **(6)** If an electronic communication service provider or remote computing service provider notifies the National Center for Missing and Exploited Children that the electronic communication service provider or remote computing service provider is making a report under this section as the result of a request by a foreign law enforcement agency, the National Center for Missing and Exploited Children shall—
+    - **(A)** if the Center forwards the report to the requesting foreign law enforcement agency or another agency in the same country designated by the Attorney General under paragraph (3), notify the electronic communication service provider or remote computing service provider of—
       - **(i)** the identity of the foreign law enforcement agency to which the report was forwarded; and
-      - **(ii)** the date on which the report was forwarded.
-    - **(C)** If a provider notifies NCMEC that the provider is making a report under this section as the result of a request by a foreign law enforcement agency and NCMEC is unable to forward the report as described in subparagraph (A)(ii), NCMEC shall notify the provider that NCMEC was unable to forward the report.
-- **(e)** A provider that knowingly and willfully fails to make a report required under subsection (a)(1) shall be fined—
-  - **(1)** in the case of an initial knowing and willful failure to make a report, not more than $850,000 in the case of a provider with not less than 100,000,000 monthly active users or $600,000 in the case of a provider with less than 100,000,000 monthly active users; and
-  - **(2)** in the case of any second or subsequent knowing and willful failure to make a report, not more than $1,000,000 in the case of a provider with not less than 100,000,000 monthly active users or $850,000 in the case of a provider with less than 100,000,000 monthly active users.
-- **(f)** Nothing in this section shall be construed to require a provider to—
+      - **(ii)** the date on which the report was forwarded; or
+    - **(B)** notify the electronic communication service provider or remote computing service provider if the Center declines to forward the report because the Center, in consultation with the Attorney General, determines that no law enforcement agency in the foreign country has been designated by the Attorney General under paragraph (3).
+- **(e)** An electronic communication service provider or remote computing service provider that knowingly and willfully fails to make a report required under subsection (a)(1) shall be fined—
+  - **(1)** in the case of an initial knowing and willful failure to make a report, not more than $150,000; and
+  - **(2)** in the case of any second or subsequent knowing and willful failure to make a report, not more than $300,000.
+- **(f)** Nothing in this section shall be construed to require an electronic communication service provider or a remote computing service provider to—
   - **(1)** monitor any user, subscriber, or customer of that provider;
   - **(2)** monitor the content of any communication of any person described in paragraph (1); or
-  - **(3)** affirmatively search, screen, or scan for facts or circumstances described in sections (a) and (b).
+  - **(3)** affirmatively seek facts or circumstances described in sections (a) and (b).
 - **(g)**
   - **(1)** Except as provided in paragraph (2), a law enforcement agency that receives a report under subsection (c) shall not disclose any information contained in that report.
   - **(2)**
@@ -67,20 +67,19 @@ generated_at: "2026-03-29T02:12:02.442Z"
       - **(iii)** to such other government personnel (including personnel of a State or subdivision of a State) as are determined to be necessary by an attorney for the government to assist the attorney in the performance of the official duties of the attorney in enforcing Federal criminal law;
       - **(iv)** if the report discloses a violation of State criminal law, to an appropriate official of a State or subdivision of a State for the purpose of enforcing such State law;
       - **(v)** to a defendant in a criminal case or the attorney for that defendant, subject to the terms and limitations under section 3509(m) or a similar State law, to the extent the information relates to a criminal charge pending against that defendant;
-      - **(vi)** subject to subparagraph (B), to a provider if necessary to facilitate response to legal process issued in connection to a criminal investigation, prosecution, or post-conviction remedy relating to that report; and
+      - **(vi)** subject to subparagraph (B), to an electronic communication service provider or remote computing provider if necessary to facilitate response to legal process issued in connection to a criminal investigation, prosecution, or post-conviction remedy relating to that report; and
       - **(vii)** as ordered by a court upon a showing of good cause and pursuant to any protective orders or other conditions that the court may impose.
-    - **(B)** Nothing in subparagraph (A)(vi) authorizes a law enforcement agency to provide visual depictions of apparent child pornography to a provider.
-  - **(3)** NCMEC may disclose by mail, electronic transmission, or other reasonable means, information received in a report under subsection (a) only to—
-    - **(A)** any Federal law enforcement agency designated by the Attorney General under subsection (d)(2) or that is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes;
-    - **(B)** any State, local, or tribal law enforcement agency involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes;
-    - **(C)** any foreign law enforcement agency designated by the Attorney General under subsection (d)(3) or that has an established relationship with the Federal Bureau of Investigation, Immigration and Customs Enforcement, or INTERPOL, and is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes;
-    - **(D)** a provider as described in section 2258C; and
-    - **(E)** respond to legal process, as necessary.
-  - **(4)** A provider that submits a report under subsection (a)(1) may disclose by mail, electronic transmission, or other reasonable means, information, including visual depictions contained in the report, in a manner consistent with permitted disclosures under paragraphs (3) through (8) of section 2702(b) only to a law enforcement agency described in subparagraph (A), (B), or (C) of paragraph (3), to NCMEC, or as necessary to respond to legal process.
+    - **(B)**
+      - **(i)** The electronic communication service provider or remote computing service provider shall be prohibited from disclosing the contents of a report provided under subparagraph (A)(vi) to any person, except as necessary to respond to the legal process.
+      - **(ii)** Nothing in subparagraph (A)(vi) authorizes a law enforcement agency to provide child pornography images to an electronic communications service provider or a remote computing service.
+  - **(3)** The National Center for Missing and Exploited Children may disclose information received in a report under subsection (a) only—
+    - **(A)** to any Federal law enforcement agency designated by the Attorney General under subsection (d)(2);
+    - **(B)** to any State, local, or tribal law enforcement agency involved in the investigation of child pornography, child exploitation, kidnapping, or enticement crimes;
+    - **(C)** to any foreign law enforcement agency designated by the Attorney General under subsection (d)(3); and
+    - **(D)** to an electronic communication service provider or remote computing service provider as described in section 2258C.
 - **(h)**
-  - **(1)** For the purposes of this section, a completed submission by a provider of a report to the CyberTipline under subsection (a)(1) shall be treated as a request to preserve the contents provided in the report for 1 year after the submission to the CyberTipline.
-  - **(2)** Pursuant to paragraph (1), a provider shall preserve any visual depictions, data, or other digital files that are reasonably accessible and may provide context or additional information about the reported material or person.
-  - **(3)** A provider preserving materials under this section shall maintain the materials in a secure location and take appropriate steps to limit access by agents or employees of the service to the materials to that access necessary to comply with the requirements of this subsection.
-  - **(4)** Nothing in this section shall be construed as replacing, amending, or otherwise interfering with the authorities and duties under section 2703.
-  - **(5)** A provider of a report to the CyberTipline under subsection (a)(1) may voluntarily preserve the contents provided in the report (including any comingled content described in paragraph (2)) for longer than 1 year after the submission to the CyberTipline for the purpose of reducing the proliferation of online child sexual exploitation or preventing the online sexual exploitation of children.
-  - **(6)** Not later than 1 year after the date of enactment of this paragraph, a provider of a report to the CyberTipline under subsection (a)(1) shall preserve materials under this subsection in a manner that is consistent with the most recent version of the Cybersecurity Framework developed by the National Institute of Standards and Technology, or any successor thereto.
+  - **(1)** For the purposes of this section, the notification to an electronic communication service provider or a remote computing service provider by the CyberTipline of receipt of a report under subsection (a)(1) shall be treated as a request to preserve, as if such request was made pursuant to section 2703(f).
+  - **(2)** Pursuant to paragraph (1), an electronic communication service provider or a remote computing service shall preserve the contents of the report provided pursuant to subsection (b) for 90 days after such notification by the CyberTipline.
+  - **(3)** Pursuant to paragraph (1), an electronic communication service provider or a remote computing service shall preserve any images, data, or other digital files that are commingled or interspersed among the images of apparent child pornography within a particular communication or user-created folder or directory.
+  - **(4)** An electronic communications service or remote computing service preserving materials under this section shall maintain the materials in a secure location and take appropriate steps to limit access by agents or employees of the service to the materials to that access necessary to comply with the requirements of this subsection.
+  - **(5)** Nothing in this section shall be construed as replacing, amending, or otherwise interfering with the authorities and duties under section 2703.

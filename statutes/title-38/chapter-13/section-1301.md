@@ -3,12 +3,12 @@ title: "Section 1301 - Definitions"
 usc_title: 38
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1301"
-generated_at: "2026-03-29T02:14:50.347Z"
+generated_at: "2026-03-29T17:52:53.689Z"
 ---
 
 # § 1301. Definitions
 
-As used in this chapter— The term “veteran” includes a person who died in the active military, naval, air, or space service.
+As used in this chapter— The term “veteran” includes a person who died in the active military, naval, or air service.
 

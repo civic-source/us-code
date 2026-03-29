@@ -3,9 +3,9 @@ title: "Section 4242 - Contract decisions nonreviewable"
 usc_title: 12
 usc_section: "4242"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4242"
-generated_at: "2026-03-29T02:11:21.190Z"
+generated_at: "2026-03-29T17:51:13.223Z"
 ---
 
 # § 4242. Contract decisions nonreviewable

@@ -3,21 +3,21 @@ title: "Section 23 - Standardized contracts for certain commodities"
 usc_title: 7
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 23"
-generated_at: "2026-03-29T02:10:16.640Z"
+generated_at: "2026-03-29T17:50:48.442Z"
 ---
 
 # § 23. Standardized contracts for certain commodities
 
-- **(a)** Except as authorized under subsection (b), no person shall offer to enter into, enter into, or confirm the execution of, any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract.
+- **(a)** Except as authorized under subsection (b) of this section, no person shall offer to enter into, enter into, or confirm the execution of, any transaction for the delivery of any commodity under a standardized contract commonly known to the trade as a margin account, margin contract, leverage account, or leverage contract, or under any contract, account, arrangement, scheme, or device that the Commission determines serves the same function or functions as such a standardized contract, or is marketed or managed in substantially the same manner as such a standardized contract.
 - **(b)**
-  - **(1)** Subject to paragraph (2), no person shall offer to enter into, enter into, or confirm the execution of, any transaction for the delivery of silver bullion, gold bullion, bulk silver coins, bulk gold coins, or platinum under a standardized contract described in subsection (a), contrary to the terms of any rule, regulation, or order that the Commission shall prescribe, which may include terms designed to ensure the financial solvency of the transaction or prevent manipulation or fraud. Such rule, regulation, or order may be made only after notice and opportunity for hearing. The Commission may set different terms and conditions for transactions involving different commodities.
-  - **(2)** No person may engage in any activity described in paragraph (1) who is not permitted to engage in such activity, by the rules, regulations, and orders of the Commission in effect on November 10, 1986 , until the Commission permits such person to engage in such activity in accordance with regulations issued in accordance with subsection (c)(2).
+  - **(1)** Subject to paragraph (2), no person shall offer to enter into, enter into, or confirm the execution of, any transaction for the delivery of silver bullion, gold bullion, bulk silver coins, bulk gold coins, or platinum under a standardized contract described in subsection (a) of this section, contrary to the terms of any rule, regulation, or order that the Commission shall prescribe, which may include terms designed to ensure the financial solvency of the transaction or prevent manipulation or fraud. Such rule, regulation, or order may be made only after notice and opportunity for hearing. The Commission may set different terms and conditions for transactions involving different commodities.
+  - **(2)** No person may engage in any activity described in paragraph (1) who is not permitted to engage in such activity, by the rules, regulations, and orders of the Commission in effect on November 10, 1986 , until the Commission permits such person to engage in such activity in accordance with regulations issued in accordance with subsection (c)(2) of this section.
 - **(c)**
   - **(1)**
     - **(A)** Not later than 2 years after November 10, 1986 , the Commission shall—
-      - **(i)** with the assistance of a futures association registered under this chapter, conduct a survey concerning the persons interested in engaging in the business of offering to enter into, entering into, or confirming the execution of, the transactions described in subsection (b)(1); and
+      - **(i)** with the assistance of a futures association registered under this chapter, conduct a survey concerning the persons interested in engaging in the business of offering to enter into, entering into, or confirming the execution of, the transactions described in subsection (b)(1) of this section; and
       - **(ii)** transmit a report of the results of the survey to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
     - **(B)** Notwithstanding any other provision of law, for purposes of completing such report the Commission may direct, by rule, regulation, or order, a futures association registered under this chapter to render such assistance as the Commission shall specify.
     - **(C)** Such report shall include the findings and any recommendations of the Commission concerning—

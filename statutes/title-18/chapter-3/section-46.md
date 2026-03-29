@@ -1,12 +1,15 @@
 ---
-title: "Section 46 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(1) , Dec. 27, 2020 , 134 Stat. 2155 ]"
+title: "Section 46 - Transportation of water hyacinths"
 usc_title: 18
 usc_section: "46"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 46"
-generated_at: "2026-03-29T02:12:02.355Z"
+generated_at: "2026-03-29T17:53:15.536Z"
 ---
 
-# [§ 46. Repealed. Pub. L. 116–260, div. O, title X, § 1002(1) , Dec. 27, 2020 , 134 Stat. 2155 ]
+# § 46. Transportation of water hyacinths
 
+- **(a)** Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, alligator grass (alternanthera philoxeroides), or water chestnut plants (trapa natans) or water hyacinth plants (eichhornia crassipes) or the seeds of such grass or plants; or
+- **(b)** Whoever knowingly sells, purchases, barters, exchanges, gives, or receives any grass, plant, or seed which has been transported in violation of subsection (a); or
+- **(c)** Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, an advertisement, to sell, purchase, barter, exchange, give, or receive alligator grass or water chestnut plants or water hyacinth plants or the seeds of such grass or plants— Shall be fined under this title, or imprisoned not more than six months, or both.

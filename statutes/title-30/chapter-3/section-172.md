@@ -3,9 +3,9 @@ title: "Section 172 - Certain Alabama lands subject to homestead entry"
 usc_title: 30
 usc_section: "172"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 172"
-generated_at: "2026-03-29T02:14:11.195Z"
+generated_at: "2026-03-29T17:52:16.703Z"
 ---
 
 # § 172. Certain Alabama lands subject to homestead entry

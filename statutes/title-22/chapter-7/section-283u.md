@@ -3,9 +3,9 @@ title: "Section 283u - Membership in the Bank for the Bahamas and Guyana"
 usc_title: 22
 usc_section: "283u"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 283u"
-generated_at: "2026-03-29T02:12:39.952Z"
+generated_at: "2026-03-29T17:52:10.407Z"
 ---
 
 # § 283u. Membership in the Bank for the Bahamas and Guyana

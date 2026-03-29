@@ -3,9 +3,9 @@ title: "Section 5595 - Severance pay"
 usc_title: 5
 usc_section: "5595"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5595"
-generated_at: "2026-03-29T02:10:01.879Z"
+generated_at: "2026-03-29T17:50:36.490Z"
 ---
 
 # § 5595. Severance pay
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:10:01.879Z"
   - **(1)** “agency” means—
     - **(A)** an Executive agency;
     - **(B)** the Library of Congress;
-    - **(C)** the Government Publishing Office;
+    - **(C)** the Government Printing Office;
     - **(D)** the government of the District of Columbia;
     - **(E)** the Administrative Office of the United States Courts, the Federal Judicial Center, and the courts named by section 610 of title 28 ; and
     - **(F)** the Office of the Architect of the Capitol; and
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:10:01.879Z"
       - **(vi)** an employee who, at the time of separation from the service, is entitled to receive benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any other severance pay from the Government;
       - **(vii)** an employee of the Tennessee Valley Authority;
       - **(viii)** an employee of the Office of the Architect of the Capitol, who is employed on a temporary when actually employed basis;
-      - **(ix)** an employee of the Government Publishing Office, who is employed on a temporary when actually employed basis; or
+      - **(ix)** an employee of the Government Printing Office, who is employed on a temporary when actually employed basis; or
       - **(x)** such other employee as may be excluded by regulations of the President or such other officer or agency as he may designate.
 - **(b)** Under regulations prescribed by the President or such officer or agency as he may designate, an employee who—
   - **(1)** has been employed currently for a continuous period of at least 12 months; and
@@ -68,7 +68,7 @@ generated_at: "2026-03-29T02:10:01.879Z"
     - **(B)** The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
     - **(C)** Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
   - **(3)** If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
-  - **(4)** This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996 , and before October 1, 2018 .
+  - **(4)** This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996 , and before October 1, 2014 .
 - **(j)**
   - **(1)** In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
   - **(2)**

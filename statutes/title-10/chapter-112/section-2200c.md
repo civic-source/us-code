@@ -1,18 +1,16 @@
 ---
-title: "Section 2200c - Special considerations in awarding scholarships and grants"
+title: "Section 2200c - Centers of Academic Excellence in Information Assurance Education"
 usc_title: 10
 usc_section: "2200c"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2200c"
-generated_at: "2026-03-29T02:10:45.074Z"
+generated_at: "2026-03-29T17:50:57.081Z"
 ---
 
-# § 2200c. Special considerations in awarding scholarships and grants
+# § 2200c. Centers of Academic Excellence in Information Assurance Education
 
-- **(a)** In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—
-  - **(1)** in the case of a scholarship, the institution at which the recipient pursues a degree is a Center of Academic Excellence in Cyber Education; and
-  - **(2)** in the case of a grant, the recipient is a Center of Academic Excellence in Cyber Education.
-- **(b)** In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—
-  - **(1)** in the case of a scholarship, the institution of higher education at which the recipient pursues a degree is an institution described in section 371(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1067q(a) ); and
-  - **(2)** in the case of a grant, the recipient is an institution described in such section.
+In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—
+
+  - **(1)** in the case of a scholarship, the institution at which the recipient pursues a degree is a Center of Academic Excellence in Information Assurance Education; and
+  - **(2)** in the case of a grant, the recipient is a Center of Academic Excellence in Information Assurance Education.

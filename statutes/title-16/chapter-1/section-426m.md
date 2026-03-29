@@ -3,12 +3,12 @@ title: "Section 426m - Administration, protection, and development"
 usc_title: 16
 usc_section: "426m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 426m"
-generated_at: "2026-03-29T02:11:53.447Z"
+generated_at: "2026-03-29T17:51:56.557Z"
 ---
 
 # § 426m. Administration, protection, and development
 
-The administration, protection and development of the Stones River National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ( 39 Stat. 535 ), entitled “An Act to establish a National Park Service, and for other purposes”, 1 1 See References in Text note below. as amended.
+The administration, protection and development of the Stones River National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 

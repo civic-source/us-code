@@ -3,23 +3,12 @@ title: "Section 484 - Quarterly cyber operations briefings"
 usc_title: 10
 usc_section: "484"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 484"
-generated_at: "2026-03-29T02:10:44.872Z"
+generated_at: "2026-03-29T17:50:56.945Z"
 ---
 
 # § 484. Quarterly cyber operations briefings
 
-- **(a)** The Under Secretary of Defense for Policy, the Commander of United States Cyber Command, and the Chairman of the Joint Chiefs of Staff, or designees from each of their offices, shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace, including clandestine cyber activities, carried out by the Department of Defense during the immediately preceding quarter.
-- **(b)** Each briefing under subsection (a) shall include, with respect to the military operations in cyberspace described in such subsection, the following:
-  - **(1)** An update, set forth separately for each applicable geographic and functional command, that describes the operations carried out in the area of operations of that command or by that command.
-  - **(2)** An update, set forth for each applicable geographic and functional command, that describes defensive cyber operations executed to protect or defend forces, networks, and equipment in the area of operations of that command.
-  - **(3)** An update on relevant authorities and legal issues applicable to operations, including any presidential directives and delegations of authority received since the last quarterly update.
-  - **(4)** An overview of critical operational challenges posed by major adversaries or encountered in operational activities conducted since the last quarterly update.
-  - **(5)** An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—
-    - **(A)** addresses all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—
-      - **(i)** using both quantitative and qualitative metrics; and
-      - **(ii)** in a way that is common to all military departments; and
-    - **(B)** is consistent with readiness reporting pursuant to section 482 of this title .
-  - **(6)** Any other matters that the briefers determine to be appropriate.
-- **(c)** Each briefing under subsection (a) shall include a classified placemat, summarizing the elements specified in paragraphs (1), (2), (3), and (5) of subsection (b), and an unclassified memorandum, summarizing the briefing’s contents.
+The Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
+

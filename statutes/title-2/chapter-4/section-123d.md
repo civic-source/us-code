@@ -3,9 +3,9 @@ title: "Section 123d - Transferred"
 usc_title: 2
 usc_section: "123d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 123d"
-generated_at: "2026-03-29T02:09:53.643Z"
+generated_at: "2026-03-29T17:50:23.998Z"
 ---
 
 # § 123d. Transferred

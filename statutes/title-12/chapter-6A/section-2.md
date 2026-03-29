@@ -1,12 +1,14 @@
 ---
-title: "Section 2 - Repealed. Pub. L. 102–429, title I, § 121(c)(1) , Oct. 21, 1992 , 106 Stat. 2199"
+title: "Section 2 - Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties"
 usc_title: 12
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T02:11:20.876Z"
+generated_at: "2026-03-29T17:51:13.004Z"
 ---
 
-# §§ 635i to 635i–2. Repealed. Pub. L. 102–429, title I, § 121(c)(1) , Oct. 21, 1992 , 106 Stat. 2199
+# § 635a–2. Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties
+
+The Bank shall implement such regulations and procedures as may be appropriate to insure that full consideration is given to the extent to which any loan or financial guarantee is likely to have an adverse effect on industries, including agriculture, and employment in the United States, either by reducing demand for goods produced in the United States or by increasing imports to the United States. To carry out the purposes of this subsection, 1 1 So in original. Probably should be “section,”. the Bank shall request, and the United States International Trade Commission shall furnish, a report assessing the impact of the Bank’s activities on industries and employment in the United States. Such report shall include an assessment of previous loans or financial guarantees and shall provide recommendations concerning general areas which may adversely affect domestic industries, including agriculture, and employment. After October 1, 1983 , there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. In all cases to which this section applies, the Bank shall consider and address in writing the views of parties or persons who may be substantially adversely affected by the loan or guarantee prior to taking final action on the loan or guarantee. This requirement does not subject the Bank to the provisions of subchapter II of chapter 5 of title 5.
 

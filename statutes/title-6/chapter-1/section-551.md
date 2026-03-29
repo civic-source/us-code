@@ -3,9 +3,9 @@ title: "Section 551 - Transitional authorities"
 usc_title: 6
 usc_section: "551"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 551"
-generated_at: "2026-03-29T02:10:05.021Z"
+generated_at: "2026-03-29T17:50:39.352Z"
 ---
 
 # § 551. Transitional authorities

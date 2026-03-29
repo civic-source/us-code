@@ -3,14 +3,14 @@ title: "Section 1475h - Overseas public diplomacy grants"
 usc_title: 22
 usc_section: "1475h"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1475h"
-generated_at: "2026-03-29T02:12:39.997Z"
+generated_at: "2026-03-29T17:52:10.453Z"
 ---
 
 # § 1475h. Overseas public diplomacy grants
 
-- **(a)** Except as provided in subsection (b), the Department of State shall work to achieve full and open competition in the award of grants for carrying out its overseas public diplomacy functions.
+- **(a)** Except as provided in subsection (b) of this section, the Department of State shall work to achieve full and open competition in the award of grants for carrying out its overseas public diplomacy functions.
 - **(b)** The Department of State may award an overseas public diplomacy grant under procedures other than competitive procedures when—
   - **(1)** such a grant is made under the Mutual Educational and Cultural Exchange Act of 1961 (commonly known as the Fulbright-Hays Act) [ 22 U.S.C. 2451 et seq.] or any statute which expressly authorizes or requires that a grant be made with a specified entity;
   - **(2)** the terms of an international agreement or treaty between the United States Government and a foreign government or international organization have the effect of requiring the use of procedures other than competitive procedures;

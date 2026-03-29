@@ -1,12 +1,26 @@
 ---
-title: "Section 2505 - Renumbered § 4816]"
+title: "Section 2505 - National technology and industrial base: periodic defense capability assessments"
 usc_title: 10
 usc_section: "2505"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2505"
-generated_at: "2026-03-29T02:10:45.112Z"
+generated_at: "2026-03-29T17:50:57.134Z"
 ---
 
-# [§ 2505. Renumbered § 4816]
+# § 2505. National technology and industrial base: periodic defense capability assessments
 
+- **(a)** Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title . The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
+- **(b)** The Secretary of Defense shall ensure that technology and industrial capability assessments—
+  - **(1)** describe sectors or capabilities, their underlying infrastructure and processes;
+  - **(2)** analyze present and projected financial performance of industries supporting the sectors or capabilities in the assessment;
+  - **(3)** identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
+  - **(4)** consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 of this title ) or major automated information system programs (as defined in section 2445a of this title ) in the previous fiscal year on the sectors and capabilities in the assessment.
+- **(c)** Each assessment under subsection (a) shall include a separate discussion and presentation regarding the extent to which the national technology and industrial base is dependent on items for which the source of supply, manufacture, or technology is outside of the United States and Canada and for which there is no immediately available source in the United States or Canada. The discussion and presentation regarding foreign dependency shall—
+  - **(1)** identify cases that pose an unacceptable risk of foreign dependency, as determined by the Secretary; and
+  - **(2)** present actions being taken or proposed to be taken to remedy the risk posed by the cases identified under paragraph (1), including efforts to develop a domestic source for the item in question.
+- **(d)** Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. If it is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
+  - **(1)** identify the sectors that are subject to such harm;
+  - **(2)** describe the harm resulting from such boycott; and
+  - **(3)** identify actions necessary to minimize the effects of such boycott on the national technology and industrial base.
+- **(e)** The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.

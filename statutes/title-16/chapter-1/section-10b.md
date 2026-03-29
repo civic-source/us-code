@@ -1,12 +1,14 @@
 ---
-title: "Section 10b - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 10b - Contracts for options to acquire lands and waters in national park system"
 usc_title: 16
 usc_section: "10b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 10b"
-generated_at: "2026-03-29T02:11:53.485Z"
+generated_at: "2026-03-29T17:51:56.600Z"
 ---
 
-# § 460l–10b. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 460l–10b. Contracts for options to acquire lands and waters in national park system
+
+The Secretary of the Interior may enter into contracts for options to acquire lands, waters, or interests therein within the exterior boundaries of any area the acquisition of which is authorized by law for inclusion in the national park system. The minimum period of any such option shall be two years, and any sums expended for the purchase thereof shall be credited to the purchase price of said area. Not to exceed $500,000 of the sum authorized to be appropriated from the fund by section 460 l –6 of this title may be expended by the Secretary in any one fiscal year for such options.
 

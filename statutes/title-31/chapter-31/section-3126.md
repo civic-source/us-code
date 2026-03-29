@@ -3,9 +3,9 @@ title: "Section 3126 - Losses and relief from liability related to redeeming sav
 usc_title: 31
 usc_section: "3126"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 3126"
-generated_at: "2026-03-29T02:14:14.056Z"
+generated_at: "2026-03-29T17:52:44.162Z"
 ---
 
 # § 3126. Losses and relief from liability related to redeeming savings bonds and notes

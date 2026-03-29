@@ -3,9 +3,9 @@ title: "Section 26 - Cooperative authorities and gifts"
 usc_title: 16
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 26"
-generated_at: "2026-03-29T02:11:53.541Z"
+generated_at: "2026-03-29T17:51:56.657Z"
 ---
 
 # § 460lll–26. Cooperative authorities and gifts
@@ -21,6 +21,3 @@ generated_at: "2026-03-29T02:11:53.541Z"
 - **(b)** For the management, maintenance, operation, and interpretation of the Recreation Area and its facilities, the Secretary may—
   - **(1)** make grants and enter into contracts and cooperative agreements with Federal agencies, governmental units, nonprofit organizations, corporations, and individuals; and
   - **(2)** accept gifts under section 2269 of title 7 notwithstanding that the donor conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
-- **(c)** The Secretary may, for purposes of carrying out this subchapter—
-  - **(1)** enter into memoranda of understanding with State or local government entities, including law enforcement, as appropriate, to clarify jurisdictional matters, such as road management, policing, and other functions that are typically performed by the entity on non-Federal land; and
-  - **(2)** make available on a public website of the Department of Agriculture any memoranda of understanding entered into under paragraph (1).

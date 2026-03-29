@@ -3,9 +3,9 @@ title: "Section 972 - Items eligible for indemnity agreements"
 usc_title: 20
 usc_section: "972"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 972"
-generated_at: "2026-03-29T02:12:17.168Z"
+generated_at: "2026-03-29T17:51:48.311Z"
 ---
 
 # § 972. Items eligible for indemnity agreements

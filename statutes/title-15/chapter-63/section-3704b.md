@@ -3,9 +3,9 @@ title: "Section 3704b - National Technical Information Service"
 usc_title: 15
 usc_section: "3704b"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3704b"
-generated_at: "2026-03-29T02:11:34.343Z"
+generated_at: "2026-03-29T17:51:36.356Z"
 ---
 
 # § 3704b. National Technical Information Service
@@ -13,15 +13,15 @@ generated_at: "2026-03-29T02:11:34.343Z"
 - **(a)**
   - **(1)** The Secretary of Commerce, acting through the Director of the National Technical Information Service (hereafter in this section referred to as the “Director”) is authorized to do the following:
     - **(A)** Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the “Service”).
-    - **(B)** In addition to the authority regarding fees contained in section 2 of the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 ( 15 U.S.C. 1152 ), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
+    - **(B)** In addition to the authority regarding fees contained in section 2 of the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 ( 15 U.S.C. 1152 ), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D) of this section.
     - **(C)** Enter into contracts for the performance of part or all of the functions performed by the Promotion Division of the Service prior to October 24, 1988 . The details of any such contract, and a statement of its effect on the operations and personnel of the Service, shall be provided to the appropriate committees of the Congress 30 days in advance of the execution of such contract.
     - **(D)** Employ such personnel as may be necessary to conduct the business of the Service.
     - **(E)** For the period of October 1, 1991 through September 30, 1992 , only, retain and use all earned and unearned monies heretofore or hereafter received, including receipts, revenues, and advanced payments and deposits, to fund all obligations and expenses, including inventories and capital equipment.
-  - **(2)** The functions and activities of the Service specified in subsection (e)(1) through (6) are permanent Federal functions to be carried out by the Secretary through the Service and its employees, and shall not be transferred from the Service, by contract or otherwise, to the private sector on a permanent or temporary basis without express approval of the Congress. Functions or activities—
+  - **(2)** The functions and activities of the Service specified in subsection (e)(1) through (6) of this section are permanent Federal functions to be carried out by the Secretary through the Service and its employees, and shall not be transferred from the Service, by contract or otherwise, to the private sector on a permanent or temporary basis without express approval of the Congress. Functions or activities—
     - **(A)** for the procurement of supplies, materials, and equipment by the Service;
     - **(B)** referred to in paragraph (1)(C); or
     - **(C)** to be performed through joint ventures or cooperative agreements which do not result in a reduction in the Federal workforce of the affected programs of the service, 1 1 So in original. Probably should be capitalized.
-  - **(3)** For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 13(a)(4) 2 2 See References in Text note below. of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710c(a)(4) ), over operating expenses.
+  - **(3)** For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 3710c(a)(4) 2 2 See References in Text note below. of this title, over operating expenses.
   - **(4)** Omitted.
 - **(b)** The management of the Service shall be vested in a Director who shall report to the Director of the National Institute of Standards and Technology and the Secretary of Commerce.
 - **(c)**
@@ -33,10 +33,10 @@ generated_at: "2026-03-29T02:11:34.343Z"
 - **(e)** The Secretary of Commerce, acting through the Service, shall—
   - **(1)** establish and maintain a permanent repository of nonclassified scientific, technical, and engineering information;
   - **(2)** cooperate and coordinate its operations with other Government scientific, technical, and engineering information programs;
-  - **(3)** make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Publishing Office;
+  - **(3)** make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Printing Office;
   - **(4)** in conjunction with the private sector as appropriate, collect, translate into English, and disseminate unclassified foreign scientific, technical, and engineering information;
   - **(5)** implement new methods or media for the dissemination of scientific, technical, and engineering information, including producing and disseminating information products in electronic format; and
-  - **(6)** carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [ 15 U.S.C. 1151 et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988 , under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.].
+  - **(6)** carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [ 15 U.S.C. 1151 et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988 , under this chapter.
 - **(f)**
   - **(1)** The Secretary of Commerce and the Director shall keep the appropriate committees of Congress fully and currently informed about all activities related to the carrying out of the functions of the Service, including changes in fee policies.
   - **(2)** Within 90 days after October 24, 1988 , the Secretary of Commerce shall submit to the Congress a report on the current fee structure of the Service, including an explanation of the basis for the fees, taking into consideration all applicable costs, and the adequacy of the fees, along with reasons for the declining sales at the Service of scientific, technical, and engineering publications. Such report shall explain any actions planned or taken to increase such sales at reasonable fees.
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T02:11:34.343Z"
     - **(B)** detail the operating plan of the Service, including specific expense and staff needs, for the upcoming year;
     - **(C)** set forth details of modernization progress made in the preceding year;
     - **(D)** describe the long-term modernization plans of the Service; and
-    - **(E)** include the results of the most recent annual audit carried out under subsection (d).
+    - **(E)** include the results of the most recent annual audit carried out under subsection (d) of this section.
   - **(4)** The Secretary shall also give the Congress detailed advance notice of not less than 30 calendar days of—
     - **(A)** any proposed reduction-in-force;
     - **(B)** any joint venture or cooperative agreement which involves a financial incentive to the joint venturer or contractor; and

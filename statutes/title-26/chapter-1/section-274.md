@@ -3,22 +3,22 @@ title: "Section 274 - Disallowance of certain entertainment, etc., expenses"
 usc_title: 26
 usc_section: "274"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 274"
-generated_at: "2026-03-29T02:14:00.875Z"
+generated_at: "2026-03-29T17:52:39.181Z"
 ---
 
 # § 274. Disallowance of certain entertainment, etc., expenses
 
 - **(a)**
   - **(1)** No deduction otherwise allowable under this chapter shall be allowed for any item—
-    - **(A)** With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or
+    - **(A)** With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a convention or otherwise), that such item was associated with, the active conduct of the taxpayer’s trade or business, or
     - **(B)** With respect to a facility used in connection with an activity referred to in subparagraph (A).
   - **(2)** For purposes of applying paragraph (1)—
     - **(A)** Dues or fees to any social, athletic, or sporting club or organization shall be treated as items with respect to facilities.
     - **(B)** An activity described in section 212 shall be treated as a trade or business.
+    - **(C)** In the case of a club, paragraph (1)(B) shall apply unless the taxpayer establishes that the facility was used primarily for the furtherance of the taxpayer’s trade or business and that the item was directly related to the active conduct of such trade or business.
   - **(3)** Notwithstanding the preceding provisions of this subsection, no deduction shall be allowed under this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
-  - **(4)** No deduction shall be allowed under this chapter for the expense of any qualified transportation fringe (as defined in section 132(f)) provided to an employee of the taxpayer.
 - **(b)**
   - **(1)** No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added to prior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludable from gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
     - **(A)** an item having a cost to the taxpayer not in excess of $4.00 on which the name of the taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
@@ -27,15 +27,16 @@ generated_at: "2026-03-29T02:14:00.875Z"
     - **(A)** In the case of a gift by a partnership, the limitation contained in paragraph (1) shall apply to the partnership as well as to each member thereof.
     - **(B)** For purposes of paragraph (1), a husband and wife shall be treated as one taxpayer.
 - **(c)**
-  - **(1)** In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162 or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
+  - **(1)** In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
   - **(2)** Paragraph (1) shall not apply to the expenses of any travel outside the United States away from home if—
     - **(A)** such travel does not exceed one week, or
     - **(B)** the portion of the time of travel outside the United States away from home which is not attributable to the pursuit of the taxpayer’s trade or business or an activity described in section 212 is less than 25 percent of the total time on such travel.
   - **(3)** For purposes of this subsection, travel outside the United States does not include any travel from one point in the United States to another point in the United States.
 - **(d)** No deduction or credit shall be allowed—
   - **(1)** under section 162 or 212 for any traveling expense (including meals and lodging while away from home),
-  - **(2)** for any expense for gifts, or
-  - **(3)** with respect to any listed property (as defined in section 280F(d)(4)),
+  - **(2)** for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,
+  - **(3)** for any expense for gifts, or
+  - **(4)** with respect to any listed property (as defined in section 280F(d)(4)),
 - **(e)** Subsection (a) shall not apply to—
   - **(1)** Expenses for food and beverages (and facilities used in connection therewith) furnished on the business premises of the taxpayer primarily for his employees.
   - **(2)**
@@ -105,14 +106,10 @@ generated_at: "2026-03-29T02:14:00.875Z"
     - **(A)** which is not a qualified plan award, when added to the cost to the employer for all other employee achievement awards made to such employee during the taxable year which are not qualified plan awards, shall not exceed $400, and
     - **(B)** which is a qualified plan award, when added to the cost to the employer for all other employee achievement awards made to such employee during the taxable year (including employee achievement awards which are not qualified plan awards), shall not exceed $1,600.
   - **(3)** For purposes of this subsection—
-    - **(A)**
-      - **(i)** The term “employee achievement award” means an item of tangible personal property which is—
-        - **(I)** transferred by an employer to an employee for length of service achievement or safety achievement,
-        - **(II)** awarded as part of a meaningful presentation, and
-        - **(III)** awarded under conditions and circumstances that do not create a significant likelihood of the payment of disguised compensation.
-      - **(ii)** For purposes of clause (i), the term “tangible personal property” shall not include—
-        - **(I)** cash, cash equivalents, gift cards, gift coupons, or gift certificates (other than arrangements conferring only the right to select and receive tangible personal property from a limited array of such items pre-selected or pre-approved by the employer), or
-        - **(II)** vacations, meals, lodging, tickets to theater or sporting events, stocks, bonds, other securities, and other similar items.
+    - **(A)** The term “employee achievement award” means an item of tangible personal property which is—
+      - **(i)** transferred by an employer to an employee for length of service achievement or safety achievement,
+      - **(ii)** awarded as part of a meaningful presentation, and
+      - **(iii)** awarded under conditions and circumstances that do not create a significant likelihood of the payment of disguised compensation.
     - **(B)**
       - **(i)** The term “qualified plan award” means an employee achievement award awarded as part of an established written plan or program of the taxpayer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)) as to eligibility or benefits.
       - **(ii)** An employee achievement award shall not be treated as a qualified plan award for any taxable year if the average cost of all employee achievement awards which are provided by the employer during the year, and which would be qualified plan awards but for this subparagraph, exceeds $400. For purposes of the preceding sentence, average cost shall be determined by including the entire cost of qualified plan awards, without taking into account employee achievement awards of nominal value.
@@ -129,7 +126,14 @@ generated_at: "2026-03-29T02:14:00.875Z"
   - **(2)** Paragraph (1) shall not apply to—
     - **(A)** any expense described in paragraph (2), (3), (4), (7), (8), or (9) of subsection (e), and
     - **(B)** any other expense to the extent provided in regulations.
-- **(l)** No deduction shall be allowed under this chapter for any expense incurred for providing any transportation, or any payment or reimbursement, to an employee of the taxpayer in connection with travel between the employee’s residence and place of employment, except as necessary for ensuring the safety of the employee.
+- **(l)**
+  - **(1)**
+    - **(A)** In determining the amount allowable as a deduction under this chapter for any ticket for any activity or facility described in subsection (d)(2), the amount taken into account shall not exceed the face value of such ticket.
+    - **(B)** Subparagraph (A) shall not apply to any ticket for any sports event—
+      - **(i)** which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
+      - **(ii)** all of the net proceeds of which are contributed to such organization, and
+      - **(iii)** which utilizes volunteers for substantially all of the work performed in carrying out such event.
+  - **(2)** In the case of a skybox or other private luxury box leased for more than 1 event, the amount allowable as a deduction under this chapter with respect to such events shall not exceed the sum of the face value of non-luxury box seat tickets for the seats in such box covered by the lease. For purposes of the preceding sentence, 2 or more related leases shall be treated as 1 lease.
 - **(m)**
   - **(1)**
     - **(A)** No deduction shall be allowed under this chapter for expenses incurred for transportation by water to the extent such expenses exceed twice the aggregate per diem amounts for days of such transportation. For purposes of the preceding sentence, the term “per diem amounts” means the highest amount generally allowable with respect to a day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
@@ -142,25 +146,22 @@ generated_at: "2026-03-29T02:14:00.875Z"
     - **(B)** the travel of the spouse, dependent, or other individual is for a bona fide business purpose, and
     - **(C)** such expenses would otherwise be deductible by the spouse, dependent, or other individual.
 - **(n)**
-  - **(1)** The amount allowable as a deduction under this chapter for any expense for food or beverages shall not exceed 50 percent of the amount of such expense which would (but for this paragraph) be allowable as a deduction under this chapter.
+  - **(1)** The amount allowable as a deduction under this chapter for—
+    - **(A)** any expense for food or beverages, and
+    - **(B)** any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such activity,
   - **(2)** Paragraph (1) shall not apply to any expense if—
     - **(A)** such expense is described in paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),
-    - **(B)** in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82,
-    - **(C)** such expense is for food or beverages—
+    - **(B)** in the case of an expense for food or beverages, such expense is excludable from the gross income of the recipient under section 132 by reason of subsection (e) thereof (relating to de minimis fringes),
+    - **(C)** such expense is covered by a package involving a ticket described in subsection ( l )(1)(B),
+    - **(D)** in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
+    - **(E)** such expense is for food or beverages—
       - **(i)** required by any Federal law to be provided to crew members of a commercial vessel,
       - **(ii)** provided to crew members of a commercial vessel—
         - **(I)** which is operating on the Great Lakes, the Saint Lawrence Seaway, or any inland waterway of the United States, and
         - **(II)** which is of a kind which would be required by Federal law to provide food and beverages to crew members if it were operated at sea,
-      - **(iii)** provided on an oil or gas platform or drilling rig if the platform or rig is located offshore,
-      - **(iv)** provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude, or
-      - **(v)** provided—
-        - **(I)** on a fishing vessel, fish processing vessel, or fish tender vessel (as such terms are defined in section 2101 of title 46 , United States Code), or
-        - **(II)** at a facility for the processing of fish for commercial use or consumption which—
-    - **(D)** such expense is—
-      - **(i)** for food or beverages provided by a restaurant, and
-      - **(ii)** paid or incurred before January 1, 2023 .
-  - **(3)** In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “80 percent” for “50 percent”.
-- **(o)** Except in the case of an expense described in subsection (e)(8) or (n)(2)(C), no deduction shall be allowed under this chapter for—
-  - **(1)** any expense for the operation of a facility described in section 132(e)(2), and any expense for food or beverages, including under section 132(e)(1), associated with such facility, or
-  - **(2)** any expense for meals described in section 119(a).
-- **(p)** The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
+      - **(iii)** provided on an oil or gas platform or drilling rig if the platform or rig is located offshore, or
+      - **(iv)** provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
+  - **(3)**
+    - **(A)** In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “the applicable percentage” for “50 percent”.
+    - **(B)** For purposes of this paragraph, the term “applicable percentage” means the percentage determined under the following table: For taxable years beginning The applicable in calendar year— percentage is— 1998 or 1999 55 2000 or 2001 60 2002 or 2003 65 2004 or 2005 70 2006 or 2007 75 2008 or thereafter 80.
+- **(o)** The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.

@@ -3,9 +3,9 @@ title: "Section 1405 - Years of service"
 usc_title: 10
 usc_section: "1405"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1405"
-generated_at: "2026-03-29T02:10:45.001Z"
+generated_at: "2026-03-29T17:50:57.034Z"
 ---
 
 # § 1405. Years of service
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T02:10:45.001Z"
   - **(1)** each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1 ⁄ 12 of a year; and
   - **(2)** any remaining fractional part of a month shall be disregarded.
 - **(c)**
-  - **(1)** Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under section 972(a) of this title , or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994 , may not be counted in determining years of service under subsection (a).
+  - **(1)** Time required to be made up by an enlisted member of the Army or Air Force under section 972(a) of this title , or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994 , may not be counted in determining years of service under subsection (a).
   - **(2)** Section 972(b) of this title excludes from computation of an officer’s years of service for purposes of this section any time identified with respect to that officer under that section.

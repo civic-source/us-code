@@ -1,16 +1,14 @@
 ---
-title: "Section 925 - Art. 125. Kidnapping"
+title: "Section 925 - Art. 125. Sodomy"
 usc_title: 10
 usc_section: "925"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 925"
-generated_at: "2026-03-29T02:10:44.928Z"
+generated_at: "2026-03-29T17:50:56.980Z"
 ---
 
-# § 925. Art. 125. Kidnapping
+# § 925. Art. 125. Sodomy
 
-Any person subject to this chapter who wrongfully—
-
-  - **(1)** seizes, confines, inveigles, decoys, or carries away another person; and
-  - **(2)** holds the other person against that person’s will;
+- **(a)** Any person subject to this chapter who engages in unnatural carnal copulation with another person of the same or opposite sex or with an animal is guilty of sodomy. Penetration, however slight, is sufficient to complete the offense.
+- **(b)** Any person found guilty of sodomy shall be punished as a court-martial may direct.

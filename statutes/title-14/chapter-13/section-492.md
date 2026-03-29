@@ -1,0 +1,14 @@
+---
+title: "Section 492 - Distinguished service medal"
+usc_title: 14
+usc_section: "492"
+chapter: 13
+current_through: "PL 113-100"
+classification: "14 U.S.C. § 492"
+generated_at: "2026-03-29T17:51:01.002Z"
+---
+
+# § 492. Distinguished service medal
+
+The President may present, but not in the name of Congress, a distinguished service medal of appropriate design, with accompanying ribbon, together with a rosette or other device, to be worn in lieu thereof, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by exceptionally meritorious service to the Government in a duty of great responsibility.
+

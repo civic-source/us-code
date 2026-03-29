@@ -1,17 +1,14 @@
 ---
-title: "Section 4 - Cooperative agreements"
+title: "Section 4 - Volunteers"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T02:11:53.615Z"
+generated_at: "2026-03-29T17:51:56.727Z"
 ---
 
-# § 583k–4. Cooperative agreements
+# § 583j–4. Volunteers
 
-- **(a)** The Secretary may enter into a cooperative agreement with any State, tribal, local governmental, and private entity to carry out this subchapter.
-- **(b)** Cooperative agreements authorized under this section may—
-  - **(1)** improve trail maintenance in a priority area;
-  - **(2)** implement the strategy; or
-  - **(3)** advance trail maintenance in a manner deemed appropriate by the Secretary.
+The Secretary may accept, without regard to the civil service classification laws, rules and regulations, any director, officer, employee or agent of the Foundation as a volunteer for purposes of the Volunteers in the National Forests Act of 1972 ( 16 U.S.C. 558a through 558d; 86 Stat. 147 ).
+

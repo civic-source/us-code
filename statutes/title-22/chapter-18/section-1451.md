@@ -3,12 +3,14 @@ title: "Section 1451 - Assignment of Government employees to requesting countrie
 usc_title: 22
 usc_section: "1451"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1451"
-generated_at: "2026-03-29T02:12:39.993Z"
+generated_at: "2026-03-29T17:52:10.448Z"
 ---
 
 # § 1451. Assignment of Government employees to requesting countries; governing regulations
 
-The Director of the United States Information Agency is authorized, when the government of another country is desirous of obtaining the services of a person having special scientific or other technical or professional qualifications, from time to time to assign or authorize the assignment for service, to or in cooperation with such government, any person in the employ or service of the Government of the United States who has such qualifications, with the approval of the Government agency in which such person is employed or serving. No person shall be assigned for service to or in cooperation with the government of any country unless (1) the Director finds that such assignment is necessary in the national interest of the United States, or (2) such government agrees to reimburse the United States in an amount equal to the compensation, travel expenses, and allowances payable to such person during the period of such assignment in accordance with the provisions of section 1452 of this title , or (3) such government shall have made an advance of funds, property, or services as provided in section 1479 of this title . Nothing in this chapter, however, shall authorize the assignment of such personnel for service relating to the organization, training, operation, development, or combat equipment of the armed forces of a foreign government.
+  - **(1)** the Director finds that such assignment is necessary in the national interest of the United States, or
+  - **(2)** such government agrees to reimburse the United States in an amount equal to the compensation, travel expenses, and allowances payable to such person during the period of such assignment in accordance with the provisions of section 1452 of this title , or
+  - **(3)** such government shall have made an advance of funds, property, or services as provided in section 1479 of this title . Nothing in this chapter, however, shall authorize the assignment of such personnel for service relating to the organization, training, operation, development, or combat equipment of the armed forces of a foreign government.
 

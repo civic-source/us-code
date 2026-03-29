@@ -3,9 +3,9 @@ title: "Section 5581 - Definitions"
 usc_title: 5
 usc_section: "5581"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5581"
-generated_at: "2026-03-29T02:10:01.877Z"
+generated_at: "2026-03-29T17:50:36.490Z"
 ---
 
 # § 5581. Definitions
@@ -18,7 +18,7 @@ For the purpose of this subchapter—
       - **(i)** a Federal land bank;
       - **(ii)** a Federal intermediate credit bank;
       - **(iii)** a regional bank for cooperatives; or
-      - **(iv)** the Senate within the purview of section 36a of title 2 ; 1 1 See References in Text note below. and
+      - **(iv)** the Senate within the purview of section 36a of title 2 ; and
   - **(2)** “money due” means the pay and allowances due on account of the services of a deceased employee for the Government of the United States or the government of the District of Columbia. It includes, but is not limited to—
     - **(A)** per diem instead of subsistence, mileage, and amounts due in reimbursement of travel expenses, including incidental and miscellaneous expenses in connection therewith for which reimbursement is due;
     - **(B)** allowances on change of official station;

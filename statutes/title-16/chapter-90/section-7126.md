@@ -3,9 +3,9 @@ title: "Section 7126 - Use of project funds"
 usc_title: 16
 usc_section: "7126"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 7126"
-generated_at: "2026-03-29T02:11:53.993Z"
+generated_at: "2026-03-29T17:51:57.035Z"
 ---
 
 # § 7126. Use of project funds
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:11:53.993Z"
   - **(1)** As soon as practicable after the agreement is reached under subsection (a) with regard to a project to be funded in whole or in part using project funds, or other funds described in section 7123(a)(2) of this title , the Secretary concerned shall transfer to the applicable unit of National Forest System land or Bureau of Land Management District an amount of project funds equal to—
     - **(A)** in the case of a project to be completed in a single fiscal year, the total amount specified in the agreement to be paid using project funds, or other funds described in section 7123(a)(2) of this title ; or
     - **(B)** in the case of a multiyear project, the amount specified in the agreement to be paid using project funds, or other funds described in section 7123(a)(2) of this title for the first fiscal year.
-  - **(2)** The unit of National Forest System land or Bureau of Land Management District concerned shall not commence a project until the project funds, or other funds described in section 7123(a)(2) of this title required to be transferred under paragraph (1) for the project, have been made available by the Secretary concerned.
+  - **(2)** The unit of National Forest System land or Bureau of Land Management District concerned, 1 1 So in original. The comma probably should not appear. shall not commence a project until the project funds, or other funds described in section 7123(a)(2) of this title required to be transferred under paragraph (1) for the project, have been made available by the Secretary concerned.
   - **(3)**
     - **(A)** For the second and subsequent fiscal years of a multiyear project to be funded in whole or in part using project funds, the unit of National Forest System land or Bureau of Land Management District concerned shall use the amount of project funds required to continue the project in that fiscal year according to the agreement entered into under subsection (a).
     - **(B)** The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.

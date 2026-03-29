@@ -3,9 +3,9 @@ title: "Section 8163 - Hearing and notice requirements regarding proposed leases
 usc_title: 38
 usc_section: "8163"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 8163"
-generated_at: "2026-03-29T02:14:50.502Z"
+generated_at: "2026-03-29T17:52:53.868Z"
 ---
 
 # § 8163. Hearing and notice requirements regarding proposed leases
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T02:14:50.502Z"
     - **(B)** would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
   - **(5)** A description of how those uses would affect services to veterans.
 - **(c)**
-  - **(1)** If after a hearing under subsection (a) the Secretary intends to enter into an enhanced-use lease of the property involved, the Secretary shall notify the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate of the Secretary’s intention to enter into such lease, shall publish a notice of such intention in the Federal Register, and shall submit to the congressional veterans’ affairs committees a copy of the proposed lease. With respect to a major enhanced-use lease, upon the request of the congressional veterans’ affairs committees, not later than 30 days after the date of such notice, the Secretary shall testify before the committees on the major enhanced-use lease, including with respect to the status of the lease, the cost, and the plans to carry out the activities under the lease. The Secretary may not delegate such testifying below the level of the head of the Office of Asset Enterprise Management of the Department or any successor to such office.
+  - **(1)** If after a hearing under subsection (a) the Secretary intends to enter into an enhanced-use lease of the property involved, the Secretary shall notify the congressional veterans’ affairs committees of the Secretary’s intention to enter into such lease and shall publish a notice of such intention in the Federal Register.
   - **(2)** The Secretary may not enter into an enhanced use lease until the end of the 45-day period beginning on the date of the submission of notice under paragraph (1).
   - **(3)** Each notice under paragraph (1) shall include the following:
     - **(A)** An identification of the property involved.

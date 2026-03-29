@@ -3,9 +3,9 @@ title: "Section 526 - Authority of Attorney General to investigate United States
 usc_title: 28
 usc_section: "526"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 526"
-generated_at: "2026-03-29T02:14:04.526Z"
+generated_at: "2026-03-29T17:52:24.192Z"
 ---
 
 # § 526. Authority of Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others

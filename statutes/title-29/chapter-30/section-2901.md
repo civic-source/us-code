@@ -1,12 +1,14 @@
 ---
-title: "Section 2901 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705"
+title: "Section 2901 - Authorization of appropriations"
 usc_title: 29
 usc_section: "2901"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2901"
-generated_at: "2026-03-29T02:14:09.496Z"
+generated_at: "2026-03-29T17:52:18.911Z"
 ---
 
-# §§ 2884 to 2901. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705
+# § 2901. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
 

@@ -3,19 +3,14 @@ title: "Section 221 - Requirements with respect to administering polygraph exami
 usc_title: 6
 usc_section: "221"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 221"
-generated_at: "2026-03-29T02:10:04.972Z"
+generated_at: "2026-03-29T17:50:39.329Z"
 ---
 
 # § 221. Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection
 
-- **(a)** The Secretary of Homeland Security shall ensure that—
-  - **(1)** by not later than 2 years after January 4, 2011 , all applicants for law enforcement positions with U.S. Customs and Border Protection (except as provided in subsection (b)) receive polygraph examinations before being hired for such a position; and
+The Secretary of Homeland Security shall ensure that—
+
+  - **(1)** by not later than 2 years after January 4, 2011 , all applicants for law enforcement positions with U.S. Customs and Border Protection receive polygraph examinations before being hired for such a position; and
   - **(2)** by not later than 180 days after January 4, 2011 , U.S. Customs and Border Protection initiates all periodic background reinvestigations for all law enforcement personnel of U.S. Customs and Border Protection that should receive periodic background reinvestigations pursuant to relevant policies of U.S. Customs and Border Protection in effect on the day before January 4, 2011 .
-- **(b)** The Commissioner of U.S. Customs and Border Protection may waive the polygraph examination requirement under subsection (a)(1) for any applicant who—
-  - **(1)** is deemed suitable for employment;
-  - **(2)** holds a current, active Top Secret/Sensitive Compartmented Information Clearance;
-  - **(3)** has a current Single Scope Background Investigation;
-  - **(4)** was not granted any waivers to obtain his or her clearance; and
-  - **(5)** is a veteran (as defined in section 2108 of title 5 ).

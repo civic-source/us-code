@@ -3,9 +3,9 @@ title: "Section 4315 - Overtime pay for FBI employees detailed to House Committe
 usc_title: 2
 usc_section: "4315"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4315"
-generated_at: "2026-03-29T02:09:53.770Z"
+generated_at: "2026-03-29T17:50:24.112Z"
 ---
 
 # § 4315. Overtime pay for FBI employees detailed to House Committee on Appropriations

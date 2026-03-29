@@ -3,12 +3,12 @@ title: "Section 1154 - Consideration to be accorded time, place, and circumstanc
 usc_title: 38
 usc_section: "1154"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1154"
-generated_at: "2026-03-29T02:14:50.345Z"
+generated_at: "2026-03-29T17:52:53.688Z"
 ---
 
 # § 1154. Consideration to be accorded time, place, and circumstances of service
 
 - **(a)** The Secretary shall include in the regulations pertaining to service-connection of disabilities (1) additional provisions in effect requiring that in each case where a veteran is seeking service-connection for any disability due consideration shall be given to the places, types, and circumstances of such veteran’s service as shown by such veteran’s service record, the official history of each organization in which such veteran served, such veteran’s medical records, and all pertinent medical and lay evidence, and (2) the provisions required by section 5 of the Veterans’ Dioxin and Radiation Exposure Compensation Standards Act ( Public Law 98–542 ; 98 Stat. 2727 ).
-- **(b)** In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, air, or space organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
+- **(b)** In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, or air organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.

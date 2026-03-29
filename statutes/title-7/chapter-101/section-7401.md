@@ -3,9 +3,9 @@ title: "Section 7401 - Commodity promotion and evaluation"
 usc_title: 7
 usc_section: "7401"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7401"
-generated_at: "2026-03-29T02:10:17.127Z"
+generated_at: "2026-03-29T17:50:48.850Z"
 ---
 
 # § 7401. Commodity promotion and evaluation
@@ -25,10 +25,10 @@ generated_at: "2026-03-29T02:10:17.127Z"
   - **(12)** subtitle H of title XIX of Public Law 101–624 ( 7 U.S.C. 6401 et seq.);
   - **(13)** Public Law 103–190 ( 7 U.S.C. 6801 et seq.);
   - **(14)** Public Law 103–407 ( 7 U.S.C. 7101 et seq.);
-  - **(15)** subchapter II;
-  - **(16)** subchapter III;
-  - **(17)** subchapter IV;
-  - **(18)** subchapter V; or
+  - **(15)** subchapter II of this chapter;
+  - **(16)** subchapter III of this chapter;
+  - **(17)** subchapter IV of this chapter;
+  - **(18)** subchapter V of this chapter; or
   - **(19)** any other provision of law enacted after April 4, 1996 , that provides for the establishment and operation of a promotion program described in the first sentence.
 - **(b)** Congress finds the following:
   - **(1)** It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commodities through industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T02:10:17.127Z"
       - **(i)** is produced on a certified organic farm; and
       - **(ii)** is covered under both—
         - **(I)** an organic commodity promotion order issued pursuant to paragraph (2); and
-        - **(II)** any other agricultural commodity promotion order issued under a commodity promotion law.
+        - **(II)** any other agricultural commodity promotion order issued under section 7413 of this title .
   - **(2)** The Secretary may issue an organic commodity promotion order under section 7413 of this title that includes any agricultural commodity that—
     - **(A)** is produced or handled (as defined in section 2103 of the Organic Foods Production Act of 1990 ( 7 U.S.C. 6502 )) and that is certified to be sold or labeled as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)); or
     - **(B)** is imported with a valid organic certificate (as defined in that part).

@@ -3,9 +3,9 @@ title: "Section 4024 - Functions of Secretary"
 usc_title: 22
 usc_section: "4024"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4024"
-generated_at: "2026-03-29T02:12:40.313Z"
+generated_at: "2026-03-29T17:52:10.602Z"
 ---
 
 # § 4024. Functions of Secretary
@@ -16,12 +16,12 @@ generated_at: "2026-03-29T02:12:40.313Z"
   - **(3)** encourage and foster programs complementary to those furnished by the institution, including through grants and other gratuitous assistance to nonprofit institutions cooperating in any of the programs under this subchapter;
   - **(4)**
     - **(A)** employ in accordance with the civil service laws such personnel as may be necessary to carry out the provisions of this subchapter, and
-    - **(B)** if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
+    - **(B)** if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as language instructors, linguists, and other academic and training specialists (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
   - **(5)** acquire such real and personal property and equipment as may be necessary for the establishment, maintenance, and operation of the facilities necessary to carry out the provisions of this subchapter without regard to sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41.
 - **(b)** In furtherance of the objectives of this chapter, the Secretary may—
   - **(1)** pay the tuition and other expenses of members of the Service and employees of the Department who are assigned or detailed in accordance with law for special instruction or training, including orientation, language, and career development training;
   - **(2)** pay the salary (excluding premium pay or any special differential under section 3972 of this title ) of members of the Service selected and assigned for training; and
-  - **(3)** provide special monetary or other incentives to encourage members of the Service to acquire or retain proficiency in and reutilize foreign languages or special abilities needed in the Service.
+  - **(3)** provide special monetary or other incentives to encourage members of the Service to acquire or retain proficiency in foreign languages or special abilities needed in the Service.
 - **(c)** The Secretary may provide to family members of members of the Service or of employees of the Department or other agencies, in anticipation of their assignment abroad or while abroad—
   - **(1)** appropriate orientation and language training; and
   - **(2)** functional training for anticipated prospective employment under section 3951 of this title .

@@ -3,12 +3,12 @@ title: "Section 806a - Art. 6a. Investigation and disposition of matters pertain
 usc_title: 10
 usc_section: "806a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 806a"
-generated_at: "2026-03-29T02:10:44.910Z"
+generated_at: "2026-03-29T17:50:56.969Z"
 ---
 
 # § 806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges
 
-- **(a)** The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved. To the extent practicable, the procedures shall be uniform for all armed forces.
+- **(a)** The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military judge or military appellate judge to perform the duties of the judge’s position. To the extent practicable, the procedures shall be uniform for all armed forces.
 - **(b)** The President shall transmit a copy of the procedures prescribed pursuant to this section to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.

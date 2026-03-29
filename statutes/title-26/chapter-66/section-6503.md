@@ -3,15 +3,15 @@ title: "Section 6503 - Suspension of running of period of limitation"
 usc_title: 26
 usc_section: "6503"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6503"
-generated_at: "2026-03-29T02:14:01.351Z"
+generated_at: "2026-03-29T17:52:39.576Z"
 ---
 
 # § 6503. Suspension of running of period of limitation
 
 - **(a)**
-  - **(1)** The running of the period of limitations provided in section 6501 or 6502 on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+  - **(1)** The running of the period of limitations provided in section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a)). 1 1 So in original. on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
   - **(2)** If a notice under section 6212(a) in respect of a deficiency in tax imposed by subtitle A for any taxable year is mailed to a corporation, the suspension of the running of the period of limitations provided in paragraph (1) of this subsection shall apply in the case of corporations with which such corporation made a consolidated income tax return for such taxable year.
 - **(b)** The period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period the assets of the taxpayer are in the control or custody of the court in any proceeding before any court of the United States or of any State or of the District of Columbia, and for 6 months thereafter.
 - **(c)** The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer’s return to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return, such period shall not expire before the expiration of such 6 months.
@@ -28,23 +28,20 @@ generated_at: "2026-03-29T02:14:01.351Z"
   - **(2)** for collection, 6 months thereafter.
 - **(i)** The running of any period of limitations for collection of any amount of undistributed PFIC earnings tax liability (as defined in section 1294(b)) shall be suspended for the period of any extension of time under section 1294 for payment of such amount.
 - **(j)**
-  - **(1)** If any designated summons is issued by the Secretary to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated industry case program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
+  - **(1)** If any designated summons is issued by the Secretary to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
     - **(A)** during any judicial enforcement period—
       - **(i)** with respect to such summons, or
       - **(ii)** with respect to any other summons which is issued during the 30-day period which begins on the date on which such designated summons is issued and which relates to the same return as such designated summons, and
     - **(B)** if the court in any proceeding referred to in paragraph (3) requires any compliance with a summons referred to in subparagraph (A), during the 120-day period beginning with the 1st day after the close of the suspension under subparagraph (A).
   - **(2)** For purposes of this subsection—
     - **(A)** The term “designated summons” means any summons issued for purposes of determining the amount of any tax imposed by this title if—
-      - **(i)** the issuance of such summons is preceded by a review and written approval of such issuance by the Commissioner of the relevant operating division of the Internal Revenue Service and the Chief Counsel which—
-        - **(I)** states facts clearly establishing that the Secretary has made reasonable requests for the information that is the subject of the summons, and
-        - **(II)** is attached to such summons,
+      - **(i)** the issuance of such summons is preceded by a review of such issuance by the regional counsel of the Office of Chief Counsel for the region in which the examination of the corporation is being conducted,
       - **(ii)** such summons is issued at least 60 days before the day on which the period prescribed in section 6501 for the assessment of such tax expires (determined with regard to extensions), and
       - **(iii)** such summons clearly states that it is a designated summons for purposes of this subsection.
     - **(B)** A summons which relates to any return shall not be treated as a designated summons if a prior summons which relates to such return was treated as a designated summons for purposes of this subsection.
   - **(3)** For purposes of this subsection, the term “judicial enforcement period” means, with respect to any summons, the period—
     - **(A)** which begins on the day on which a court proceeding with respect to such summons is brought, and
     - **(B)** which ends on the day on which there is a final resolution as to the summoned person’s response to such summons.
-  - **(4)** In any court proceeding described in paragraph (3), the Secretary shall establish that reasonable requests were made for the information that is the subject of the summons.
 - **(k)** For suspension in case of—
   - **(1)** Deficiency dividends of a personal holding company, see section 547(f).
   - **(2)** Receiverships, see subchapter B of chapter 70.

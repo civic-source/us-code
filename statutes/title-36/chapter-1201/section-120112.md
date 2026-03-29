@@ -3,9 +3,9 @@ title: "Section 120112 - Definition"
 usc_title: 36
 usc_section: "120112"
 chapter: 1201
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 120112"
-generated_at: "2026-03-29T02:14:41.359Z"
+generated_at: "2026-03-29T17:52:49.360Z"
 ---
 
 # § 120112. Definition

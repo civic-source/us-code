@@ -3,9 +3,9 @@ title: "Section 458 - Magazines, paperbacks, and records returned after the clos
 usc_title: 26
 usc_section: "458"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 458"
-generated_at: "2026-03-29T02:14:00.982Z"
+generated_at: "2026-03-29T17:52:39.253Z"
 ---
 
 # § 458. Magazines, paperbacks, and records returned after the close of the taxable year
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T02:14:00.982Z"
     - **(B)** is satisfactory to the Secretary.
   - **(9)** A repurchase by the taxpayer shall be treated as an adjustment of the sales price rather than as a resale.
 - **(c)**
-  - **(1)** This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribe and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
+  - **(1)** This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed 2 2 So in original. Probably should be “prescribe”. and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
   - **(2)** An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election.
   - **(3)** An election under this section shall be effective for the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
   - **(4)** Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable income under an election made under this section shall be treated as a method of accounting.

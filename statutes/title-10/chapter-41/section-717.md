@@ -3,9 +3,9 @@ title: "Section 717 - Members of the armed forces: participation in internationa
 usc_title: 10
 usc_section: "717"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 717"
-generated_at: "2026-03-29T02:10:44.904Z"
+generated_at: "2026-03-29T17:50:56.967Z"
 ---
 
 # § 717. Members of the armed forces: participation in international sports
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T02:10:44.904Z"
   - **(2)** their attendance at and participation in those competitions; and
   - **(3)** the training of animals of the armed forces for, and their attendance at and participation in, those competitions.
 - **(c)**
-  - **(1)** Not more than $3,000,000, to be apportioned among the military departments as the Secretary of Defense prescribes, may be spent during each successive four-year period beginning on October 1, 1980 , for the participation of members of the Army, Navy, Air Force, Marine Corps, and Space Force in the competitions covered by subsection (a).
+  - **(1)** Not more than $3,000,000, to be apportioned among the military departments as the Secretary of Defense prescribes, may be spent during each successive four-year period beginning on October 1, 1980 , for the participation of members of the Army, Navy, Air Force, and Marine Corps in the competitions covered by subsection (a).
   - **(2)** Not more than $100,000 may be spent during each successive four-year period beginning on October 1, 1980 , for the participation of members of the Coast Guard in the competitions covered by subsection (a).
 - **(d)** Appropriations available to the Department of Defense or to the Department of Homeland Security, as the case may be, may be used to carry out this section.

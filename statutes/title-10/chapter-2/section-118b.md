@@ -1,35 +1,27 @@
 ---
-title: "Section 118b - National Defense Sustainment and Logistics Review"
+title: "Section 118b - Quadrennial roles and missions review"
 usc_title: 10
 usc_section: "118b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 118b"
-generated_at: "2026-03-29T02:10:44.813Z"
+generated_at: "2026-03-29T17:50:56.919Z"
 ---
 
-# § 118b. National Defense Sustainment and Logistics Review
+# § 118b. Quadrennial roles and missions review
 
-- **(a)** Upon submission of each national defense strategy under section 113(g) of this title , the Secretary of Defense shall conduct a comprehensive review of the sustainment and logistics requirements necessary to support the force structure, force modernization, infrastructure, force deployment capabilities, response to risks to military installation resilience, and other elements of the defense program and policies of the United States during the subsequent 5-, 10-, and 25-year periods. Each such review shall be known as the ‘National Defense Sustainment and Logistics Review’. Each such review shall be conducted in consultation with the Secretaries of the military departments, the Chiefs of Staff of the Armed Forces, all functional and geographic combatant commanders, and the Director of the Defense Logistics Agency.
+- **(a)** The Secretary of Defense shall every four years conduct a comprehensive assessment (to be known as the “quadrennial roles and missions review”) of the roles and missions of the armed forces and the core competencies and capabilities of the Department of Defense to perform and support such roles and missions.
 - **(b)**
-  - **(1)** Not later than the first Monday in February of the year following the fiscal year during which the National Defense Strategy was submitted under section 113(g) of this title , the Secretary shall submit to the congressional defense committees a report on the review required by subsection (a). Each such report shall include each of the following:
-    - **(A)** An assessment of the strategic, operational, and tactical maritime logistics force (including non-military assets provided by Military Sealift Command, the Maritime Administration, and through the Voluntary Intermodal Sealift Agreement and Voluntary Tanker Agreement) required to support sealift, at sea logistics, and over-the-shore logistics of forces to meet steady state and contingency requirements and the strategic and intra-theater movement of supplies, personnel, and equipment.
-    - **(B)** An assessment of the strategic, operational, and tactical airlift and tankers (including non-military assets provided by the Civil Reserve Air Fleet) required to meet steady state and contingency requirements.
-    - **(C)** An assessment of the location, configuration, material condition, and inventory of prepositioned materiel, equipment, and war reserves programs, as well as the ability to store and distribute these items to deployed military forces, required to meet steady state and contingency requirements.
-    - **(D)** An assessment of the location, infrastructure, and storage capacity for petroleum, oil, and lubricant products, as well as the ability to store, transport, and distribute such products from storage supply points to deployed military forces, required to meet steady state and contingency requirements.
-    - **(E)** An assessment of the capabilities, capacity, and infrastructure of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge software and depot maintenance requirements.
-    - **(F)** An assessment of the production capability, capacity, and infrastructure, of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge production requirements for ammunition and other military munitions.
-    - **(G)** An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure provided by international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
-    - **(H)** An assessment of the cybersecurity risks to military and commercial logistics networks and information technology systems.
-    - **(I)** An assessment of the gaps between the requirements identified under subparagraphs (A) through (H) compared to the actual force structure and infrastructure capabilities, capacity, and posture and the risks associated with each gap as it relates to the ability to meet the national defense strategy.
-    - **(J)** A discussion of the identified mitigations being pursued to address each gap and risk identified under subparagraph (I) as well as the initiatives and resources planned to address such gaps, as included in the Department of Defense budget request submitted during the same year as the report and the applicable future-years defense program.
-    - **(K)** An assessment of the extent to which wargames incorporate logistics capabilities and threats and a description of the logistics constraints and restraints to operations identified through such wargames.
-    - **(L)** An assessment of the ability of the Department of Defense, the Armed Forces, and the combatant commands to leverage and integrate emergent logistics related technologies and advanced computing systems.
-    - **(M)** Such other matters the Secretary of Defense considers appropriate.
-  - **(2)** In preparing the report under paragraph (1), the Secretary of Defense shall consult with, and consider the recommendations of, the Chairman of the Joint Chiefs of Staff.
-  - **(3)** The report required under this subsection shall be submitted in classified form and shall include an unclassified summary.
-- **(c)** Not later than 180 days after the date on which Secretary submits each report required under subsection (b), the Comptroller General shall submit to the congressional defense committees a report that includes an assessment of each of the following:
-  - **(1)** Whether the report includes each of the elements referred to in subsection (b).
-  - **(2)** The strengths and weaknesses of the approach and methodology used in conducting the review required under subsection (a) that is covered by the report.
-  - **(3)** Any other matters relating to sustainment that may arise from the report, as the Comptroller General considers appropriate.
-- **(d)** Nothing in this section shall be construed to affect section 1105(a) of title 31 .
+  - **(1)** In each year in which the Secretary of Defense is required to conduct a comprehensive assessment pursuant to subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary the Chairman’s assessment of the roles and missions of the armed forces and the assignment of functions to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency and effectiveness of the armed forces.
+  - **(2)** The Chairman’s assessment shall be conducted so as to—
+    - **(A)** organize the significant missions of the armed forces into core mission areas that cover broad areas of military activity;
+    - **(B)** ensure that core mission areas are defined and functions are assigned so as to avoid unnecessary duplication of effort among the armed forces; and
+    - **(C)** provide the Chairman’s recommendations with regard to issues to be addressed by the Secretary of Defense under subsection (c).
+- **(c)** Upon receipt of the Chairman’s assessment, and after giving appropriate consideration to the Chairman’s recommendations, the Secretary of Defense shall identify—
+  - **(1)** the core mission areas of the armed forces;
+  - **(2)** the core competencies and capabilities that are associated with the performance or support of a core mission area identified pursuant to paragraph (1);
+  - **(3)** the elements of the Department of Defense (including any other office, agency, activity, or command described in section 111(b) of this title ) that are responsible for providing the core competencies and capabilities required to effectively perform the core missions identified pursuant to paragraph (1);
+  - **(4)** any gaps in the ability of the elements (or other office, agency activity, or command) of the Department of Defense to provide core competencies and capabilities required to effectively perform the core missions identified pursuant to paragraph (1);
+  - **(5)** any unnecessary duplication of core competencies and capabilities between defense components; and
+  - **(6)** a plan for addressing any gaps or unnecessary duplication identified pursuant to paragraph (4) or paragraph (5).
+- **(d)** The Secretary shall submit a report on the quadrennial roles and missions review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31 .

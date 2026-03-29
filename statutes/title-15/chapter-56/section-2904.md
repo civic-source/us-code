@@ -3,16 +3,16 @@ title: "Section 2904 - National Climate Program"
 usc_title: 15
 usc_section: "2904"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2904"
-generated_at: "2026-03-29T02:11:34.321Z"
+generated_at: "2026-03-29T17:51:36.340Z"
 ---
 
 # § 2904. National Climate Program
 
 - **(a)** The President shall establish a National Climate Program in accordance with the provisions, findings and purposes of this chapter.
 - **(b)** The President shall—
-  - **(1)** promulgate the 5-year plans described in subsection (d)(9);
+  - **(1)** promulgate the 5-year plans described in subsection (d)(9) of this section;
   - **(2)** define the roles in the Program of Federal officers, departments, and agencies, including the Departments of Agriculture, Commerce, Defense, Energy, Interior, State, and Transportation; the Environmental Protection Agency; the National Aeronautics and Space Administration; the Council on Environmental Quality; the National Science Foundation; and the Office of Science and Technology Policy; and
   - **(3)** provide for Program coordination.
 - **(c)**
@@ -21,10 +21,10 @@ generated_at: "2026-03-29T02:11:34.321Z"
     - **(A)** serve as the lead entity responsible for administering the program;
     - **(B)** be headed by a Director who shall represent the Climate Program Policy Board and shall be spokesperson for the program;
     - **(C)** serve as the staff for the Board and its supporting committees and working groups;
-    - **(D)** review each agency budget request transmitted under subsection (g)(1) and submit an analysis of the requests to the Board for its review;
+    - **(D)** review each agency budget request transmitted under subsection (g)(1) of this section and submit an analysis of the requests to the Board for its review;
     - **(E)** be responsible for coordinating interagency participation in international climate-related activities; and
-    - **(F)** work with the National Academy of Sciences and other private, academic, State, and local groups in preparing and implementing the 5-year plan (described in subsection (d)(9)) and the program.
-  - **(3)** The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, for climate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9), if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
+    - **(F)** work with the National Academy of Sciences and other private, academic, State, and local groups in preparing and implementing the 5-year plan (described in subsection (d)(9) of this section) and the program.
+  - **(3)** The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, for climate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9) of this section, if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
   - **(4)** Each Federal officer, employee, department and agency involved in the Program shall cooperate with the Secretary in carrying out the provisions of this chapter.
 - **(d)** The Program shall include, but not be limited to, the following elements:
   - **(1)** assessments of the effect of climate on the natural environment, agricultural production, energy supply and demand, land and water resources, transportation, human health and national security. Such assessments shall be conducted to the maximum extent possible by those Federal agencies having national programs in food, fiber, raw materials, energy, transportation, land and water management, and other such responsibilities, in accordance with existing laws and regulations. Where appropriate such assessments may include recommendations for action;
@@ -37,10 +37,10 @@ generated_at: "2026-03-29T02:11:34.321Z"
   - **(8)** experimental climate forecast centers, which shall (A) be responsible for making and routinely updating experimental climate forecasts of a monthly, seasonal, annual, and longer nature, based on a variety of experimental techniques; (B) establish procedures to have forecasts reviewed and their accuracy evaluated; and (C) protect against premature reliance on such experimental forecasts; and
   - **(9)** a preliminary 5-year plan, to be submitted to the Congress for review and comment, not later than 180 days after September 17, 1978 , and a final 5-year plan to be submitted to the Congress not later than 1 year after September 17, 1978 , that shall be revised and extended at least once every four years. Each plan shall establish the goals and priorities for the Program, including the intergovernmental program described in paragraph (7), over the subsequent 5-year period, and shall contain details regarding (A) the role of Federal agencies in the programs, (B) Federal funding required to enable the Program to achieve such goals, and (C) Program accomplishments that must be achieved to ensure that Program goals are met within the time frame established by the plan.
 - **(e)**
-  - **(1)** The Secretary shall establish and maintain an interagency Climate Program Policy Board, consisting of representatives of the Federal agencies specified in subsection (b)(2) and any other agency which the Secretary determines should participate in the Program.
+  - **(1)** The Secretary shall establish and maintain an interagency Climate Program Policy Board, consisting of representatives of the Federal agencies specified in subsection (b)(2) of this section and any other agency which the Secretary determines should participate in the Program.
   - **(2)** The Board shall—
     - **(A)** be responsible for coordinated planning and progress review for the Program;
-    - **(B)** review all agency and department budget requests related to climate transmitted under subsection (g)(1) and submit a report to the Office of Management and Budget concerning such budget requests;
+    - **(B)** review all agency and department budget requests related to climate transmitted under subsection (g)(1) of this section and submit a report to the Office of Management and Budget concerning such budget requests;
     - **(C)** establish and maintain such interagency groups as the Board determines to be necessary to carry out its activities; and
     - **(D)** consult with and seek the advice of users and producers of climate data, information, and services to guide the Board’s efforts, keeping the Director and the Congress advised of such contacts.
   - **(3)** The Board biennially shall select a Chair from among its members. A Board member who is a representative of an agency may not serve as Chair of the Board for a term if an individual who represented that same agency on the Board served as the Board’s Chair for the previous term.

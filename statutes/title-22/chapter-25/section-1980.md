@@ -3,9 +3,9 @@ title: "Section 1980 - Compensation for loss or destruction of commercial fishin
 usc_title: 22
 usc_section: "1980"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1980"
-generated_at: "2026-03-29T02:12:40.016Z"
+generated_at: "2026-03-29T17:52:10.470Z"
 ---
 
 # § 1980. Compensation for loss or destruction of commercial fishing vessel or gear
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:40.016Z"
 - **(a)** For purposes of this section—
   - **(1)** The terms “fishery”, “fishery conservation zone”, “fishing”, “fishing vessel”, “Secretary”, and “vessel of the United States” shall each have the same respective meaning as is given to such terms in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1802 ). 1 1 See References in Text note below.
   - **(2)** The term “fishing gear” means any equipment or appurtenance which is necessary for the carrying out of fishing operations by a fishing vessel, whether or not such equipment or appurtenance is attached to such vessel.
-  - **(3)** The term “fund” means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f).
+  - **(3)** The term “fund” means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f) of this section.
   - **(4)** The term “resulting economic loss” means the gross income, as estimated by the Secretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gear used with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
 - **(b)** Subject to the provisions of this section, the owner or operator (hereinafter referred to as the “vessel owner”) of any fishing vessel which is a vessel of the United States is eligible for monetary compensation under this section for any damage to, loss of, or destruction of such vessel, or any fishing gear used with such vessel, or both, and for any resulting economic loss, if the damage, loss, or destruction—
   - **(1)** in the case of such vessel—
@@ -42,9 +42,9 @@ generated_at: "2026-03-29T02:12:40.016Z"
 - **(f)**
   - **(1)** There is established in the Treasury of the United States the Fishing Vessel and Gear Damage Compensation Fund. The fund shall be available without fiscal year limitation as a revolving fund for the purposes of administering, and paying compensation awarded under, this section.
   - **(2)** The fund shall consist of—
-    - **(A)** all sums recovered by the United States in the exercise of rights subrogated to it under subsection (d)(5);
-    - **(B)** all administrative fees collected under subsection (c)(2);
-    - **(C)** all surcharges collected under subsection (e);
+    - **(A)** all sums recovered by the United States in the exercise of rights subrogated to it under subsection (d)(5) of this section;
+    - **(B)** all administrative fees collected under subsection (c)(2) of this section;
+    - **(C)** all surcharges collected under subsection (e) of this section;
     - **(D)** revenues received from deposits or investments made under the last sentence of this paragraph; and
     - **(E)** any revenue acquired through the issuance of obligations under paragraph (3).
   - **(3)** Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices 2 2 So in original. Probably should be “notes”. or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices 2 or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices 2 or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices 2 or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.

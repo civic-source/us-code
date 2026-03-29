@@ -1,0 +1,36 @@
+---
+title: "Section 3837 - Wetlands reserve program"
+usc_title: 16
+usc_section: "3837"
+chapter: 58
+current_through: "PL 113-100"
+classification: "16 U.S.C. § 3837"
+generated_at: "2026-03-29T17:51:56.969Z"
+---
+
+# § 3837. Wetlands reserve program
+
+- **(a)**
+  - **(1)** The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.
+  - **(2)** The purposes of the wetlands reserve program are to restore, protect, or enhance wetlands on private or tribal lands that are eligible under subsections (c) and (d).
+- **(b)**
+  - **(1)** The total number of acres enrolled in the wetlands reserve program shall not exceed 3,041,200 acres.
+  - **(2)** Subject to paragraph (3), the Secretary shall enroll acreage into the wetlands reserve program through the use of permanent easements, 30-year easements, restoration cost share agreements, or any combination of those options.
+  - **(3)** In the case of acreage owned by an Indian tribe, the Secretary shall enroll acreage into the wetlands reserve program through the use of—
+    - **(A)** a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
+    - **(B)** restoration cost-share agreements; or
+    - **(C)** any combination of the options described in subparagraphs (A) and (B).
+- **(c)** For purposes of enrolling land in the wetland reserve established under this subpart during the 1991 through 2012 fiscal years, private or tribal land shall be eligible to be placed into such reserve if the Secretary, in consultation with the Secretary of the Interior at the local level, determines that—
+  - **(1)** such land maximizes wildlife benefits and wetland values and functions;
+  - **(2)** such land is—
+    - **(A)** farmed wetland or converted wetland, together with the adjacent land that is functionally dependent on the wetlands, except that converted wetland with respect to which the conversion was not commenced prior to December 23, 1985 , shall not be eligible to be enrolled in the program under this section; or
+    - **(B)** cropland or grassland that was used for agricultural production prior to flooding from the natural overflow of a closed basin lake or pothole, as determined by the Secretary, together (where practicable) with the adjacent land that is functionally dependent on the cropland or grassland; and
+  - **(3)** the likelihood of the successful restoration of such land and the resultant wetland values merit inclusion of such land in the program taking into consideration the cost of such restoration.
+- **(d)** The Secretary may include in the wetland reserve established under this subpart, together with land that is eligible under subsection (c) of this section, land that maximizes wildlife benefits and that is—
+  - **(1)** farmed wetland and adjoining lands, enrolled in the conservation reserve, with the highest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
+  - **(2)** other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland in such easement would significantly add to the functional value of the easement; or
+  - **(3)** riparian areas that link wetlands that are protected by easements or some other device or circumstance that achieves the same purpose as an easement.
+- **(e)** The Secretary may not acquire easements on—
+  - **(1)** land that contains timber stands established under the conservation reserve under subpart B; or
+  - **(2)** pasture land established to trees under the conservation reserve under subpart B.
+- **(f)** The Secretary may terminate or modify an existing contract entered into under section 3831(a) of this title if eligible land that is subject to such contract is transferred into the program established by this subpart.

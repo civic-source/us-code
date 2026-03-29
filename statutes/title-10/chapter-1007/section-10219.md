@@ -3,9 +3,9 @@ title: "Section 10219 - Suicide prevention and resilience program"
 usc_title: 10
 usc_section: "10219"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 10219"
-generated_at: "2026-03-29T02:10:45.359Z"
+generated_at: "2026-03-29T17:50:57.263Z"
 ---
 
 # § 10219. Suicide prevention and resilience program
@@ -22,11 +22,4 @@ generated_at: "2026-03-29T02:10:45.359Z"
   - **(4)** managing resources to assist key community and military service providers in helping the families, friends, and fellow servicemembers of a suicide victim through the processes of grieving and healing.
 - **(d)** The program shall include the provision of assistance with such training to the local communities of those servicemembers and families, to be provided in coordination with local community programs.
 - **(e)** In carrying out the program, the Secretary shall collect and analyze “lessons learned” and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
-- **(f)**
-  - **(1)** Upon the request of an adjutant general of a State, the Secretary may share with the adjutant general the contact information of members described in paragraph (2) who reside in such State in order for the adjutant general to include such members in suicide prevention efforts conducted under this section.
-  - **(2)** Members described in this paragraph are—
-    - **(A)** members of the Individual Ready Reserve; and
-    - **(B)** members of a reserve component who are individual mobilization augmentees.
-- **(g)** The Secretary shall evaluate the program every third year beginning in 2022 until the program terminates to determine whether the program effectively—
-  - **(1)** provides training and assistance under subsections (b), (c), and (d); and
-  - **(2)** implements subsection (e).
+- **(f)** The program under this section shall terminate on October 1, 2017 .

@@ -3,9 +3,9 @@ title: "Section 5520a - Garnishment of pay"
 usc_title: 5
 usc_section: "5520a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5520a"
-generated_at: "2026-03-29T02:10:01.864Z"
+generated_at: "2026-03-29T17:50:36.482Z"
 ---
 
 # § 5520a. Garnishment of pay
@@ -46,6 +46,6 @@ generated_at: "2026-03-29T02:10:01.864Z"
 - **(k)**
   - **(1)** No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
   - **(2)** Such regulations shall include provisions for—
-    - **(A)** the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); 1 1 See References in Text note below. and
+    - **(A)** the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); and
     - **(B)** consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
   - **(3)** The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.

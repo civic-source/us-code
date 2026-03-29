@@ -3,9 +3,9 @@ title: "Section 3102 - Employment of personal assistants for handicapped employe
 usc_title: 5
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 3102"
-generated_at: "2026-03-29T02:10:01.807Z"
+generated_at: "2026-03-29T17:50:36.450Z"
 ---
 
 # § 3102. Employment of personal assistants for handicapped employees, including blind and deaf employees
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:10:01.807Z"
     - **(A)** an Executive agency;
     - **(B)** the Library of Congress; and
     - **(C)** an office, agency, or other establishment in the judicial branch;
-  - **(2)** “handicapped employee” means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794 ); 1 1 So in original. Probably should be “( 29 U.S.C. 791 );”. and
+  - **(2)** “handicapped employee” means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794 ); and
   - **(3)** “nonprofit organization” means an organization determined by the Secretary of the Treasury to be an organization described in section 501(c) of the Internal Revenue Code of 1986 ( 26 U.S.C. 501(c) ) which is exempt from taxation under section 501(a) of such Code.
 - **(b)**
   - **(1)** The head of each agency may employ one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee’s official duties and who shall serve without pay from the agency, without regard to—

@@ -3,20 +3,20 @@ title: "Section 495 - Strategic delivery systems"
 usc_title: 10
 usc_section: "495"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 495"
-generated_at: "2026-03-29T02:10:44.874Z"
+generated_at: "2026-03-29T17:50:56.946Z"
 ---
 
 # § 495. Strategic delivery systems
 
-- **(a)** The President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111–84 ; 123 Stat. 2549 ), including plans regarding—
+- **(a)** Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111–84 ; 123 Stat. 2549 ), including plans regarding—
   - **(1)** a heavy bomber and air-launched cruise missile;
   - **(2)** an intercontinental ballistic missile;
   - **(3)** a submarine-launched ballistic missile;
   - **(4)** a ballistic missile submarine; and
   - **(5)** maintaining the nuclear command and control system (as first reported under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 ( Public Law 112–81 ; 125 Stat. 1576 )).
-- **(b)** If in any year prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010 , and entered into force on February 5, 2011 (commonly referred to as the “New START Treaty”), the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 492(a) 1 1 See References in Text note below. of this title the following:
+- **(b)** If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
   - **(1)** A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
   - **(2)** If the determination under paragraph (1) is that the lack of full funding will result in a loss of military capability—
     - **(A)** a plan to preserve or retain the military capability that would otherwise be lost; or

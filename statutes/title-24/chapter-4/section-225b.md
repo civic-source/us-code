@@ -3,9 +3,9 @@ title: "Section 225b - Development of plan for mental health system for the Dist
 usc_title: 24
 usc_section: "225b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "24 U.S.C. § 225b"
-generated_at: "2026-03-29T02:13:07.074Z"
+generated_at: "2026-03-29T17:52:00.354Z"
 ---
 
 # § 225b. Development of plan for mental health system for the District
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:13:07.074Z"
   - **(7)** identify the specific real property, buildings, improvements, and personal property to be transferred pursuant to section 225f(a)(1) of this title needed to provide mental health and other services provided by the Department of Human Services under the final system implementation plan.
 - **(d)**
   - **(1)** The Mayor shall develop the system implementation plan in close consultation with officials of Saint Elizabeths Hospital, through working groups to be established by the Secretary and the Mayor for that purpose.
-  - **(2)** The Mayor and the Secretary shall establish a labor-management advisory committee, requesting the participation of Federal and District employee organizations affected by this subchapter, to make recommendations on the system implementation plan. The committee shall consider staffing patterns under a comprehensive District mental health care system, retention of Hospital employees under such system, Federal retraining for such employees, and any other areas of concern related to the establishment of a comprehensive District system. In developing the system implementation plan the Mayor shall carefully consider the recommendations of the committee. Such advisory committee shall not be subject to chapter 10 of title 5.
+  - **(2)** The Mayor and the Secretary shall establish a labor-management advisory committee, requesting the participation of Federal and District employee organizations affected by this subchapter, to make recommendations on the system implementation plan. The committee shall consider staffing patterns under a comprehensive District mental health care system, retention of Hospital employees under such system, Federal retraining for such employees, and any other areas of concern related to the establishment of a comprehensive District system. In developing the system implementation plan the Mayor shall carefully consider the recommendations of the committee. Such advisory committee shall not be subject to the Federal Advisory Committee Act.
   - **(3)** The Mayor and such working groups shall, in developing the plan, solicit comments from the public, which shall include professional organizations, provider agencies and individuals, and mental health advocacy groups in the District of Columbia.
 - **(e)**
   - **(1)** The Mayor and the Secretary may, during the service coordination period, by mutual agreement and consistent with the requirements of the system implementation plan direct the shift of selected program responsibilities and staff resources from Saint Elizabeths Hospital to the District. The Secretary may assign staff occupying positions in affected programs to work under the supervision of the District. The Mayor shall notify the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate in writing of any planned shift in program responsibilites 1 1 So in original. Probably should be “responsibilities”. or staff resources not less than 30 days prior to the implementation of such shift.

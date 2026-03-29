@@ -1,0 +1,17 @@
+---
+title: "Section 1400O - Education tax benefits"
+usc_title: 26
+usc_section: "1400O"
+chapter: 1
+current_through: "PL 113-100"
+classification: "26 U.S.C. § 1400O"
+generated_at: "2026-03-29T17:52:39.388Z"
+---
+
+# § 1400O. Education tax benefits
+
+In the case of an individual who attends an eligible educational institution (as defined in section 25A(f)(2)) located in the Gulf Opportunity Zone for any taxable year beginning during 2005 or 2006—
+
+  - **(1)** in applying section 25A, the term “qualified tuition and related expenses” shall include any costs which are qualified higher education expenses (as defined in section 529(e)(3)),
+  - **(2)** each of the dollar amounts in effect under subparagraphs (A) and (B) of section 25A(b)(1) shall be twice the amount otherwise in effect before the application of this subsection, and
+  - **(3)** section 25A(c)(1) shall be applied by substituting “40 percent” for “20 percent”.

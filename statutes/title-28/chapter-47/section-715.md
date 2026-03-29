@@ -3,9 +3,9 @@ title: "Section 715 - Staff attorneys and technical assistants"
 usc_title: 28
 usc_section: "715"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 715"
-generated_at: "2026-03-29T02:14:04.540Z"
+generated_at: "2026-03-29T17:52:24.206Z"
 ---
 
 # § 715. Staff attorneys and technical assistants

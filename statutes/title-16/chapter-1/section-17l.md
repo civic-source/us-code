@@ -1,12 +1,14 @@
 ---
-title: "Section 17l - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 17l - Coordination; planning by States with aid of National Park Service"
 usc_title: 16
 usc_section: "17l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 17l"
-generated_at: "2026-03-29T02:11:53.323Z"
+generated_at: "2026-03-29T17:51:56.437Z"
 ---
 
-# § 17l. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 17l. Coordination; planning by States with aid of National Park Service
+
+For the purpose of developing coordinated and adequate public park, parkway, and recreational-area facilities for the people of the United States, the Secretary is authorized to aid the several States and political subdivisions thereof in planning such areas therein, and in cooperating with one another to accomplish these ends. Such aid shall be made available through the National Park Service acting in cooperation with such State agencies or agencies of political subdivisions of States as the Secretary deems best.
 

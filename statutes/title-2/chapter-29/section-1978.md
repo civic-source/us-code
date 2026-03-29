@@ -3,9 +3,9 @@ title: "Section 1978 - Deployment outside of jurisdiction"
 usc_title: 2
 usc_section: "1978"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1978"
-generated_at: "2026-03-29T02:09:53.751Z"
+generated_at: "2026-03-29T17:50:24.098Z"
 ---
 
 # § 1978. Deployment outside of jurisdiction
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:09:53.751Z"
 - **(a)** The Chief of the Capitol Police may not deploy any officer outside of the areas established by law for the jurisdiction of the Capitol Police unless—
   - **(1)** the Chief provides prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the Committees on Appropriations of the House of Representatives and Senate of the costs anticipated to be incurred with respect to the deployment; and
   - **(2)** the Capitol Police Board gives prior approval to the deployment.
-- **(b)** Subsection (a) does not apply with respect to the deployment of any officer for any of the following purposes:
+- **(b)** Subsection (a) of this section does not apply with respect to the deployment of any officer for any of the following purposes:
   - **(1)** Responding to an imminent threat or emergency.
   - **(2)** Intelligence gathering.
   - **(3)** Providing protective services.

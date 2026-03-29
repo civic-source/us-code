@@ -3,14 +3,14 @@ title: "Section 6103 - Holidays"
 usc_title: 5
 usc_section: "6103"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 6103"
-generated_at: "2026-03-29T02:10:01.891Z"
+generated_at: "2026-03-29T17:50:36.500Z"
 ---
 
 # § 6103. Holidays
 
-- **(a)** The following are legal public holidays: New Year’s Day, January 1. Birthday of Martin Luther King, Jr., the third Monday in January. Washington’s Birthday, the third Monday in February. Memorial Day, the last Monday in May. Juneteenth National Independence Day, June 19. Independence Day, July 4. Labor Day, the first Monday in September. Columbus Day, the second Monday in October. Veterans Day, November 11. Thanksgiving Day, the fourth Thursday in November. Christmas Day, December 25.
+- **(a)** The following are legal public holidays: New Year’s Day, January 1. Birthday of Martin Luther King, Jr., the third Monday in January. Washington’s Birthday, the third Monday in February. Memorial Day, the last Monday in May. Independence Day, July 4. Labor Day, the first Monday in September. Columbus Day, the second Monday in October. Veterans Day, November 11. Thanksgiving Day, the fourth Thursday in November. Christmas Day, December 25.
 - **(b)** For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to be a holiday by Federal statute or Executive order, the following rules apply:
   - **(1)** Instead of a holiday that occurs on a Saturday, the Friday immediately before is a legal public holiday for—
     - **(A)** employees whose basic workweek is Monday through Friday; and

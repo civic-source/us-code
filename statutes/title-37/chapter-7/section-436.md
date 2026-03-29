@@ -3,9 +3,9 @@ title: "Section 436 - High-deployment allowance: lengthy or numerous deployments
 usc_title: 37
 usc_section: "436"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 436"
-generated_at: "2026-03-29T02:14:43.139Z"
+generated_at: "2026-03-29T17:52:59.103Z"
 ---
 
 # § 436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:14:43.139Z"
     - **(B)** has been deployed, out of the preceding 730 days, for a total of 401 or more days (or a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness); or
     - **(C)** in the case of a member of a reserve component, is on active duty—
       - **(i)** under a call or order to active duty for a period of more than 30 days that is the second (or later) such call or order to active duty (whether voluntary or involuntary) for that member in support of the same contingency operation; or
-      - **(ii)** for a period of more than 30 days under section 12304b of title 10 or a provision of law referred to in section 101(a)(13)(B) of title 10 , if such period begins within one year after the date on which the member was released from previous service on active duty for a period of more than 30 days under a call or order issued under such a provision of law.
+      - **(ii)** for a period of more than 30 days under a provision of law referred to in section 101(a)(13)(B) of title 10 , if such period begins within one year after the date on which the member was released from previous service on active duty for a period of more than 30 days under a call or order issued under such a provision of law.
 - **(b)** In this section, the term “deployed”, with respect to a member, means that the member is deployed or in a deployment within the meaning of section 991(b) of title 10 (including any definition of “deployment” prescribed under paragraph (4) of that section).
 - **(c)** The monthly rate of the allowance payable to a member under this section shall be determined by the Secretary concerned, not to exceed $1,000 per month.
 - **(d)** A claim of a member for payment of the high-deployment allowance that is not fully substantiated by the recordkeeping system applicable to the member under section 991(c) of title 10 shall be paid if the member furnishes the Secretary concerned with other evidence determined by the Secretary as being sufficient to substantiate the claim.

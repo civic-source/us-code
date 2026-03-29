@@ -3,9 +3,9 @@ title: "Section 5855 - Funding"
 usc_title: 7
 usc_section: "5855"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5855"
-generated_at: "2026-03-29T02:10:17.051Z"
+generated_at: "2026-03-29T17:50:48.797Z"
 ---
 
 # § 5855. Funding
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T02:10:17.051Z"
   - **(3)** Not less than 25 percent and not more than 35 percent of such funds shall be divided equally between the participating States selected for that fiscal year under section 5854 of this title .
   - **(4)** The remaining funds shall be allocated for use by the Agricultural Weather Office and the National Institute of Food and Agriculture in carrying out generally the provisions of this subchapter.
 - **(b)** Funds provided under the authority of this subchapter shall not be used for the construction of facilities. Each State or agency receiving funds shall not use more than 30 percent of such funds for equipment purchases. Any use of the funds in facilitating the distribution of agricultural and climate information to producers shall be done with consideration for the role that the private meteorological sector can play in such information delivery.
-- **(c)** There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of the fiscal years 2008 through 2012 and $1,000,000 for each of fiscal years 2014 through 2023.
+- **(c)** There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of the fiscal years 2008 through 2012 and $1,000,000 for each of fiscal years 2014 through 2018.

@@ -1,12 +1,14 @@
 ---
-title: "Section 1122 - Omitted"
+title: "Section 1122 - Payment and distribution of judgment funds"
 usc_title: 25
 usc_section: "1122"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1122"
-generated_at: "2026-03-29T02:13:20.871Z"
+generated_at: "2026-03-29T17:52:06.037Z"
 ---
 
-# § 1122. Omitted
+# § 1122. Payment and distribution of judgment funds
+
+The funds appropriated by the Acts of July 22, 1969 ( 83 Stat. 49 ), and January 8, 1971 ( 84 Stat. 1981 ), to pay judgments awarded to the Miami Tribe of Oklahoma and the Miami Indians of Indiana in Indian Claims Commission dockets numbered 255 and 124–C, dockets numbered 256, 124–D, E, and F, and dockets numbered 131 and 253, and to pay a judgment awarded to the Miami Tribe of Oklahoma in docket numbered 251–A, together with interest thereon, after payment of attorney fees and litigation expenses, shall be distributed as provided in sections 1122 to 1130 of this title.
 

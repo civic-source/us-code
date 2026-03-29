@@ -3,9 +3,9 @@ title: "Section 147 - Other requirements applicable to certain private activity 
 usc_title: 26
 usc_section: "147"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 147"
-generated_at: "2026-03-29T02:14:00.815Z"
+generated_at: "2026-03-29T17:52:39.137Z"
 ---
 
 # § 147. Other requirements applicable to certain private activity bonds
@@ -65,7 +65,7 @@ generated_at: "2026-03-29T02:14:00.815Z"
       - **(ii)** subsequent to such acquisition, the related person does not have a financial interest in the farming operation with respect to which the bond proceeds are to be used.
     - **(H)** In the case of any calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
   - **(3)** Any land acquired by a governmental unit (or issuing authority) in connection with an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf shall not be taken into account under paragraph (1) if—
     - **(A)** such land is acquired for noise abatement or wetland preservation, or for future use as an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf, and
     - **(B)** there is not other significant use of such land.

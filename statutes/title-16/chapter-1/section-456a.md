@@ -1,12 +1,14 @@
 ---
-title: "Section 456a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 456a - Collections and pay-roll deductions for meals and quarters"
 usc_title: 16
 usc_section: "456a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 456a"
-generated_at: "2026-03-29T02:11:53.469Z"
+generated_at: "2026-03-29T17:51:56.583Z"
 ---
 
-# § 456a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 456a. Collections and pay-roll deductions for meals and quarters
+
+Cash collections and pay-roll deductions made for meals and quarters furnished by the National Park Service to employees of the Government in the field and to cooperating agencies may be credited as a reimbursement to the current appropriation for the administration of the park or monument in which the accommodations are furnished.
 

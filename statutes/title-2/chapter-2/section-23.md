@@ -3,9 +3,9 @@ title: "Section 23 - Presiding officer of Senate may administer oaths"
 usc_title: 2
 usc_section: "23"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 23"
-generated_at: "2026-03-29T02:09:53.624Z"
+generated_at: "2026-03-29T17:50:23.978Z"
 ---
 
 # § 23. Presiding officer of Senate may administer oaths

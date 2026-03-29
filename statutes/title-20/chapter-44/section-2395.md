@@ -3,12 +3,12 @@ title: "Section 2395 - Limitation for certain students"
 usc_title: 20
 usc_section: "2395"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 2395"
-generated_at: "2026-03-29T02:12:17.389Z"
+generated_at: "2026-03-29T17:51:48.537Z"
 ---
 
 # § 2395. Limitation for certain students
 
-No funds received under this chapter may be used to provide career and technical education programs or programs of study to students prior to the the 1 1 So in original. middle grades (as such term is defined in section 7801 of this title ), except that equipment and facilities purchased with funds under this chapter may be used by such students.
+No funds received under this chapter may be used to provide career and technical education programs to students prior to the seventh grade, except that equipment and facilities purchased with funds under this chapter may be used by such students.
 

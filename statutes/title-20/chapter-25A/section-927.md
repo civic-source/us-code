@@ -3,9 +3,9 @@ title: "Section 927 - Allotment formula"
 usc_title: 20
 usc_section: "927"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 927"
-generated_at: "2026-03-29T02:12:17.161Z"
+generated_at: "2026-03-29T17:51:48.304Z"
 ---
 
 # § 927. Allotment formula
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:12:17.161Z"
     - **(C)** unusual food and housing costs,
   - **(3)** the cost of providing academic services of a high quality as required by section 921(b)(1) of this title ; and
   - **(4)** such other factors as the Director considers appropriate.
-- **(b)** Any regulation under subsection (a) shall be issued, and shall become effective, in accordance with the procedures applicable to regulations required to be issued by the Secretary of Education in accordance with section 1232 of this title .
+- **(b)** Any regulation under subsection (a) of this section shall be issued, and shall become effective, in accordance with the procedures applicable to regulations required to be issued by the Secretary of Education in accordance with section 1232 of this title .
 - **(c)**
   - **(1)** Notwithstanding the provisions of section 921(b)(3) of this title , the provisions of part B of the Individuals with Disabilities Education Act [ 20 U.S.C. 1411 et seq.], other than the funding and reporting provisions, shall apply to all schools operated by the Department of Defense under this chapter, including the requirement that children with disabilities, aged 3 to 5, inclusive, receive a free appropriate public education.
   - **(2)** The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act [ 20 U.S.C. 1436 ] and to comply with the procedural safeguards set forth in part C of such Act [ 20 U.S.C. 1431 et seq.] shall apply with respect to all eligible dependents overseas.

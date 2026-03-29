@@ -1,12 +1,21 @@
 ---
-title: "Section 1231 - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264"
+title: "Section 1231 - Regulations"
 usc_title: 33
 usc_section: "1231"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1231"
-generated_at: "2026-03-29T02:14:18.537Z"
+generated_at: "2026-03-29T17:52:45.934Z"
 ---
 
-# §§ 1227 to 1231. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264
+# § 1231. Regulations
 
+- **(a)** In accordance with the provisions of section 553 of title 5 , the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement this chapter.
+- **(b)** The Secretary, in the exercise of this regulatory authority, shall establish procedures for consulting with, and receiving and considering the views of all interested parties, including—
+  - **(1)** interested Federal departments and agencies,
+  - **(2)** officials of State and local governments,
+  - **(3)** representatives of the maritime community,
+  - **(4)** representatives of port and harbor authorities or associations,
+  - **(5)** representatives of environmental groups,
+  - **(6)** any other interested parties who are knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment, and
+  - **(7)** advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.

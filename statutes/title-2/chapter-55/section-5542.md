@@ -3,9 +3,9 @@ title: "Section 5542 - Regulations for safe handling of mail matter"
 usc_title: 2
 usc_section: "5542"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 5542"
-generated_at: "2026-03-29T02:09:53.786Z"
+generated_at: "2026-03-29T17:50:24.128Z"
 ---
 
 # § 5542. Regulations for safe handling of mail matter

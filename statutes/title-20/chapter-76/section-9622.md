@@ -3,9 +3,9 @@ title: "Section 9622 - National Assessment of Educational Progress"
 usc_title: 20
 usc_section: "9622"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 9622"
-generated_at: "2026-03-29T02:12:17.531Z"
+generated_at: "2026-03-29T17:51:48.704Z"
 ---
 
 # § 9622. National Assessment of Educational Progress
@@ -27,9 +27,9 @@ generated_at: "2026-03-29T02:12:17.531Z"
       - **(i)** shall conduct biennial State academic assessments of student achievement in reading and mathematics in grades 4 and 8 as described in paragraphs (2)(B) and (2)(E);
       - **(ii)** may conduct the State academic assessments of student achievement in reading and mathematics in grade 12 as described in paragraph (2)(C);
       - **(iii)** may conduct State academic assessments of student achievement in grades 4, 8, and 12 as described in paragraph (2)(D); and
-      - **(iv)** shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
+      - **(iv)** shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f) of this section, that such assessment produces high quality data that are valid and reliable.
     - **(B)**
-      - **(i)** States participating in State assessments shall enter into an agreement with the Secretary pursuant to subsection (d)(3).
+      - **(i)** States participating in State assessments shall enter into an agreement with the Secretary pursuant to subsection (d)(3) of this section.
       - **(ii)** Such agreement shall contain information sufficient to give States full information about the process for decision-making (which shall include the consensus process used), on objectives to be tested, and the standards for random sampling, test administration, test security, data collection, validation, and reporting.
     - **(C)**
       - **(i)** Except as provided in clause (ii), a participating State shall review and give permission for the release of results from any test of its students administered as a part of a State assessment prior to the release of such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:12:17.531Z"
     - **(B)** Any assessment authorized under this section shall not be used by an agent or agents of the Federal Government to establish, require, or influence the standards, assessments, curriculum, including lesson plans, textbooks, or classroom materials, or instructional practices of States or local educational agencies.
     - **(C)** Nothing in this section shall be construed to prescribe the use of any assessment authorized under this section for student promotion or graduation purposes.
     - **(D)** Nothing in this section shall be construed to affect home schools, whether or not a home school is treated as a home school or a private school under State law, nor shall any home schooled student be required to participate in any assessment referenced or authorized under this section.
-  - **(5)** In carrying out any assessment authorized under this section, the Commissioner for Education Statistics, in a manner consistent with subsection (c)(3), shall—
+  - **(5)** In carrying out any assessment authorized under this section, the Commissioner for Education Statistics, in a manner consistent with subsection (c)(3) of this section, shall—
     - **(A)** use widely accepted professional testing standards, objectively measure academic achievement, knowledge, and skills, and ensure that any academic assessment authorized under this section be tests that do not evaluate or assess personal or family beliefs and attitudes or publicly disclose personally identifiable information;
     - **(B)** only collect information that is directly related to the appraisal of academic achievement, and to the fair and accurate presentation of such information; and
     - **(C)** collect information on race, ethnicity, socioeconomic status, disability, limited English proficiency, and gender.
@@ -67,20 +67,20 @@ generated_at: "2026-03-29T02:12:17.531Z"
   - **(3)**
     - **(A)** Participation in assessments authorized under this section, other than reading and mathematics in grades 4 and 8, shall be voluntary.
     - **(B)** For reading and mathematics assessments in grades 4 and 8, the Secretary shall enter into an agreement with any State carrying out an assessment for the State under this section. Each such agreement shall contain provisions designed to ensure that the State will participate in the assessment.
-  - **(4)** Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure of any authorized assessment upon request in a manner consistent with subsection (c), except the review described in subparagraph (2)(C) of subsection (c) shall take place in consultation with the representatives described in this paragraph.
+  - **(4)** Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure of any authorized assessment upon request in a manner consistent with subsection (c) of this section, except the review described in subparagraph (2)(C) of subsection (c) of this section shall take place in consultation with the representatives described in this paragraph.
 - **(e)**
-  - **(1)** The Assessment Board shall develop appropriate student achievement levels for each grade or age in each subject area to be tested under assessments authorized under this section, except the trend assessment described in subsection (b)(2)(F).
+  - **(1)** The Assessment Board shall develop appropriate student achievement levels for each grade or age in each subject area to be tested under assessments authorized under this section, except the trend assessment described in subsection (b)(2)(F) of this section.
   - **(2)**
     - **(A)** Such levels shall—
       - **(i)** 1 1 So in original. No cl. (ii) has been enacted. be determined by—
         - **(I)** identifying the knowledge that can be measured and verified objectively using widely accepted professional assessment standards; and
         - **(II)** developing achievement levels that are consistent with relevant widely accepted professional assessment standards and based on the appropriate level of subject matter knowledge for grade levels to be assessed, or the age of the students, as the case may be.
     - **(B)** After the determinations described in subparagraph (A), devising a national consensus approach.
-    - **(C)** The achievement levels shall be used on a trial basis until the Commissioner for Education Statistics determines, as a result of an evaluation under subsection (f), that such levels are reasonable, valid, and informative to the public.
+    - **(C)** The achievement levels shall be used on a trial basis until the Commissioner for Education Statistics determines, as a result of an evaluation under subsection (f) of this section, that such levels are reasonable, valid, and informative to the public.
     - **(D)** The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in a manner that makes clear the status of such levels.
     - **(E)** Such levels shall be updated as appropriate by the Assessment Board in consultation with the Commissioner for Education Statistics.
-  - **(3)** After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
-  - **(4)** The Assessment Board shall provide for a review of any trial student achievement levels under development by representatives of State educational agencies or the chief State school officer in a manner consistent with subsection (c), except the review described in paragraph (2)(C) of such subsection shall take place in consultation with the representatives described in this paragraph.
+  - **(3)** After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f) of this section, the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
+  - **(4)** The Assessment Board shall provide for a review of any trial student achievement levels under development by representatives of State educational agencies or the chief State school officer in a manner consistent with subsection (c) of this section, except the review described in paragraph (2)(C) of such subsection shall take place in consultation with the representatives described in this paragraph.
 - **(f)**
   - **(1)**
     - **(A)** The Secretary shall provide for continuing review of any assessment authorized under this section, and student achievement levels, by one or more professional assessment evaluation organizations.

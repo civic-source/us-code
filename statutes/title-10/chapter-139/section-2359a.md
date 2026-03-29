@@ -1,12 +1,12 @@
 ---
-title: "Section 2359a - Renumbered § 4061]"
+title: "Section 2359a - Repealed. Pub. L. 112–81, div. A, title II, § 251(a)(1) , Dec. 31, 2011 , 125 Stat. 1347 ]"
 usc_title: 10
 usc_section: "2359a"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2359a"
-generated_at: "2026-03-29T02:10:45.098Z"
+generated_at: "2026-03-29T17:50:57.112Z"
 ---
 
-# [§ 2359a. Renumbered § 4061]
+# [§ 2359a. Repealed. Pub. L. 112–81, div. A, title II, § 251(a)(1) , Dec. 31, 2011 , 125 Stat. 1347 ]
 

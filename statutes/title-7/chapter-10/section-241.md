@@ -3,9 +3,9 @@ title: "Section 241 - Definitions"
 usc_title: 7
 usc_section: "241"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 241"
-generated_at: "2026-03-29T02:10:16.712Z"
+generated_at: "2026-03-29T17:50:48.500Z"
 ---
 
 # § 241. Definitions

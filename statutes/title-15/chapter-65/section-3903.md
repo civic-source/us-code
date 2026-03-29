@@ -3,9 +3,9 @@ title: "Section 3903 - Purchasing groups"
 usc_title: 15
 usc_section: "3903"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3903"
-generated_at: "2026-03-29T02:11:34.356Z"
+generated_at: "2026-03-29T17:51:36.365Z"
 ---
 
 # § 3903. Purchasing groups
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:11:34.356Z"
   - **(6)** require that a certain percentage of a purchasing group must obtain insurance on a group basis;
   - **(7)** require that any insurance policy issued to a purchasing group or any members of the group be countersigned by an insurance agent or broker residing in that State; or
   - **(8)** otherwise discriminate against a purchasing group or any of its members.
-- **(b)** The exemptions specified in subsection (a) apply to—
+- **(b)** The exemptions specified in subsection (a) of this section apply to—
   - **(1)** liability insurance provided to—
     - **(A)** a purchasing group; or
     - **(B)** any person who is a member of a purchasing group; and

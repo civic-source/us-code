@@ -3,9 +3,9 @@ title: "Section 130i - Repealed. Pub. L. 112–74, div. G, title I, § 105(1) , 
 usc_title: 2
 usc_section: "130i"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 130i"
-generated_at: "2026-03-29T02:09:53.644Z"
+generated_at: "2026-03-29T17:50:23.999Z"
 ---
 
 # § 130i. Repealed. Pub. L. 112–74, div. G, title I, § 105(1) , Dec. 23, 2011 , 125 Stat. 1123

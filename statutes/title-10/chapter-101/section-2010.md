@@ -1,14 +1,18 @@
 ---
-title: "Section 2010 - Requirements with respect to motorcycle safety training"
+title: "Section 2010 - Participation of developing countries in combined exercises: payment of incremental expenses"
 usc_title: 10
 usc_section: "2010"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2010"
-generated_at: "2026-03-29T02:10:45.056Z"
+generated_at: "2026-03-29T17:50:57.068Z"
 ---
 
-# § 2010. Requirements with respect to motorcycle safety training
+# § 2010. Participation of developing countries in combined exercises: payment of incremental expenses
 
-The Secretaries of the military departments shall ensure that all beginner motorcycle safety training provided to members of the Armed Forces meets the motorcycle safety training requirements for licensing of the State in which the permanent station of the member receiving the training is located.
-
+- **(a)** The Secretary of Defense, after consultation with the Secretary of State, may pay the incremental expenses of a developing country that are incurred by that country as the direct result of participation in a bilateral or multilateral military exercise if—
+  - **(1)** the exercise is undertaken primarily to enhance the security interests of the United States; and
+  - **(2)** the Secretary of Defense determines that the participation by such country is necessary to the achievement of the fundamental objectives of the exercise and that those objectives cannot be achieved unless the United States provides the incremental expenses incurred by such country.
+- **(b)** The Secretary of Defense shall establish by regulation such accounting procedures as may be necessary to ensure that funds expended under this section are properly expended.
+- **(c)** Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for bilateral or multilateral military exercises that begin in a fiscal year and end in the following fiscal year.
+- **(d)** In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country’s participation in a bilateral or multilateral military exercise with the United States, including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country’s personnel.

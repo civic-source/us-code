@@ -3,12 +3,20 @@ title: "Section 597 - Acquisition of lands for water resource development projec
 usc_title: 33
 usc_section: "597"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 597"
-generated_at: "2026-03-29T02:14:18.501Z"
+generated_at: "2026-03-29T17:52:45.902Z"
 ---
 
 # § 597. Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations
 
-Within six months after the date that Congress authorizes construction of a water resource development project under the jurisdiction of the Secretary of the Army, the Corps of Engineers shall make reasonable effort to advise owners and occupants in and adjacent to the project area as to the probable timing for the acquisition of lands for the project and for incidental rights-of-way, relocations, and any other requirements affecting owners and occupants. Within a reasonable time after initial appropriations are made for land acquisition or construction, including relocations, the Corps of Engineers shall conduct public meetings at locations convenient to owners and tenants to be displaced by the project in order to advise them of the proposed plans for acquisition and to afford them an opportunity to comment. To carry out the provisions of this section, the Chief of Engineers shall issue regulations to provide, among other things, dissemination of the following information to those affected: (1) factors considered in making the appraisals; (2) desire to purchase property without going to court; (3) legal right to submit to condemnation proceedings; (4) payments for moving expenses or other losses not covered by appraised market value; (5) occupancy during construction; (6) removal of improvements; (7) payments required from occupants of Government acquired land; (8) withdrawals by owners of deposits made in court by Government, and (9) use of land by owner when easement is acquired. The provisions of this section shall not subject the United States to any liability nor affect the validity of any acquisitions by purchase or condemnation and shall be exempt from the operations of subchapter II of chapter 5, and chapter 7, of title 5.
+  - **(1)** factors considered in making the appraisals;
+  - **(2)** desire to purchase property without going to court;
+  - **(3)** legal right to submit to condemnation proceedings;
+  - **(4)** payments for moving expenses or other losses not covered by appraised market value;
+  - **(5)** occupancy during construction;
+  - **(6)** removal of improvements;
+  - **(7)** payments required from occupants of Government acquired land;
+  - **(8)** withdrawals by owners of deposits made in court by Government, and
+  - **(9)** use of land by owner when easement is acquired. The provisions of this section shall not subject the United States to any liability nor affect the validity of any acquisitions by purchase or condemnation and shall be exempt from the operations of subchapter II of chapter 5, and chapter 7, of title 5.
 

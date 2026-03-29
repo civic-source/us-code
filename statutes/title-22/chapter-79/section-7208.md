@@ -3,12 +3,14 @@ title: "Section 7208 - Prohibition on additional imports from Cuba"
 usc_title: 22
 usc_section: "7208"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 7208"
-generated_at: "2026-03-29T02:12:40.419Z"
+generated_at: "2026-03-29T17:52:10.690Z"
 ---
 
 # § 7208. Prohibition on additional imports from Cuba
 
-Nothing in this chapter shall be construed to alter, modify, or otherwise affect the provisions of section 515.204 of title 31, Code of Federal Regulations, relating to the prohibition on the entry into the United States of merchandise that: (1) is of Cuban origin; (2) is or has been located in or transported from or through Cuba; or (3) is made or derived in whole or in part of any article which is the growth, produce, or manufacture of Cuba.
+  - **(1)** is of Cuban origin;
+  - **(2)** is or has been located in or transported from or through Cuba; or
+  - **(3)** is made or derived in whole or in part of any article which is the growth, produce, or manufacture of Cuba.
 

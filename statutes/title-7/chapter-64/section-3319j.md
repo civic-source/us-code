@@ -3,9 +3,9 @@ title: "Section 3319j - Borlaug International Agricultural Science and Technolog
 usc_title: 7
 usc_section: "3319j"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3319j"
-generated_at: "2026-03-29T02:10:17.001Z"
+generated_at: "2026-03-29T17:50:48.760Z"
 ---
 
 # § 3319j. Borlaug International Agricultural Science and Technology Fellowship Program
@@ -22,12 +22,11 @@ generated_at: "2026-03-29T02:10:17.001Z"
     - **(A)** educating a new generation of agricultural scientists;
     - **(B)** increasing scientific knowledge and collaborative research to improve agricultural productivity; and
     - **(C)** extending that knowledge to users and intermediaries in the marketplace; and
-  - **(2)** support—
+  - **(2)** shall 1 1 So in original. The word “shall” probably should not appear. support—
     - **(A)** training and collaborative research opportunities through exchanges for entry level international agricultural research scientists, faculty, and policymakers from eligible countries;
     - **(B)** collaborative research to improve agricultural productivity;
-    - **(C)** the transfer of new science and agricultural technologies to strengthen agricultural practice;
-    - **(D)** the reduction of barriers to technology adoption; and
-    - **(E)** the development of agricultural extension services in eligible countries.
+    - **(C)** the transfer of new science and agricultural technologies to strengthen agricultural practice; and
+    - **(D)** the reduction of barriers to technology adoption.
 - **(d)**
   - **(1)** The Secretary may provide fellowships under this section to individuals from eligible countries who specialize or have experience in agricultural education, research, extension, or related fields, including—
     - **(A)** individuals from the public and private sectors; and
@@ -36,7 +35,5 @@ generated_at: "2026-03-29T02:10:17.001Z"
 - **(e)** A fellowship provided under this section shall be used—
   - **(1)** to promote collaborative programs among agricultural professionals of eligible countries, agricultural professionals of the United States, the international agricultural research system, and, as appropriate, United States entities conducting research; and
   - **(2)** to support fellowship recipients through programs described in subsection (a)(2).
-- **(f)**
-  - **(1)** The Secretary shall provide for the management, coordination, evaluation, and monitoring of the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
-  - **(2)** In carrying out the purposes and programs under this section, the Secretary shall encourage ongoing engagement with fellowship recipients who have completed training under the program to provide advice regarding, and participate in, new or ongoing agricultural development projects, with a priority for capacity-building projects.
+- **(f)** The Secretary shall provide for the management, coordination, evaluation, and monitoring of the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
 - **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.

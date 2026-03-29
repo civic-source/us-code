@@ -3,15 +3,15 @@ title: "Section 2801 - Imposition of tax"
 usc_title: 26
 usc_section: "2801"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2801"
-generated_at: "2026-03-29T02:14:01.178Z"
+generated_at: "2026-03-29T17:52:39.419Z"
 ---
 
 # § 2801. Imposition of tax
 
 - **(a)** If, during any calendar year, any United States citizen or resident receives any covered gift or bequest, there is hereby imposed a tax equal to the product of—
-  - **(1)** the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt, and
+  - **(1)** the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt (or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date), and
   - **(2)** the value of such covered gift or bequest.
 - **(b)** The tax imposed by subsection (a) on any covered gift or bequest shall be paid by the person receiving such gift or bequest.
 - **(c)** Subsection (a) shall apply only to the extent that the value of covered gifts and bequests received by any person during the calendar year exceeds the dollar amount in effect under section 2503(b) for such calendar year.

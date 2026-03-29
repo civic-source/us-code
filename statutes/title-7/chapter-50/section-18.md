@@ -3,12 +3,12 @@ title: "Section 18 - Authorization of appropriations"
 usc_title: 7
 usc_section: "18"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 18"
-generated_at: "2026-03-29T02:10:16.905Z"
+generated_at: "2026-03-29T17:50:48.686Z"
 ---
 
 # § 2009cc–18. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this subchapter $20,000,000 for each of fiscal years 2014 through 2023.
+There is authorized to be appropriated to carry out this subchapter $20,000,000 for each of fiscal years 2014 through 2018.
 

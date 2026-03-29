@@ -3,9 +3,9 @@ title: "Section 3198 - Local hire"
 usc_title: 16
 usc_section: "3198"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3198"
-generated_at: "2026-03-29T02:11:53.878Z"
+generated_at: "2026-03-29T17:51:56.950Z"
 ---
 
 # § 3198. Local hire
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T02:11:53.878Z"
   - **(1)** any provision of the civil service laws or regulations thereunder which require minimum periods of formal training or experience,
   - **(2)** any such provision which provides an employment preference to any other class of applicant is such selection, and
   - **(3)** any numerical limitation on personnel otherwise applicable.
-- **(b)** Notwithstanding the provisions of subsection (a), any individual who is eligible to be selected for a position under the provisions of subsection (a) and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
+- **(b)** Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
 - **(c)**
   - **(1)** In this subsection, the term “immediate family member” means a person related to a deceased employee that was a member of the household of the deceased employee at the time of death.
-  - **(2)** If an employee appointed under the program established by subsection (a) dies in the performance of any assigned duties on or after October 1, 2002 , the Secretary may—
+  - **(2)** If an employee appointed under the program established by subsection (a) of this section dies in the performance of any assigned duties on or after October 1, 2002 , the Secretary may—
     - **(A)** pay or reimburse reasonable expenses, regardless of when those expenses are incurred, for the preparation and transportation of the remains of the deceased employee to a location in the State of Alaska which is selected by the surviving head of household of the deceased employee;
     - **(B)** pay or reimburse reasonable expenses, regardless of when those expenses are incurred, for transporting immediate family members and the baggage and household goods of the deceased employee and immediate family members to a community in the State of Alaska which is selected by the surviving head of household of the deceased employee.
 - **(d)** The Secretary shall from time to time prepare and submit to the Congress reports indicating the actions taken in carrying out the provisions of subsection (a) of this section together with any recommendations for legislation in furtherance of the purposes of this section.

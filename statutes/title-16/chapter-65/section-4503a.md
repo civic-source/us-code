@@ -3,9 +3,9 @@ title: "Section 4503a - Institute of Pacific Islands Forestry"
 usc_title: 16
 usc_section: "4503a"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4503a"
-generated_at: "2026-03-29T02:11:53.937Z"
+generated_at: "2026-03-29T17:51:56.993Z"
 ---
 
 # § 4503a. Institute of Pacific Islands Forestry
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:11:53.937Z"
   - **(1)** the Institute of Pacific Islands Forestry; and
   - **(2)** tropical forests in the State of Hawaii.
 - **(b)**
-  - **(1)** Not later than 1 year after the date of receipt by the Secretary of the action plan required by section 5(b) 1 1 See References in Text note below. of the Hawaii Tropical Forest Recovery Act, the Secretary shall prepare and submit to the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and to the Committees on Appropriations of the House of Representatives and Senate, a tropical forestry plan to expand the capabilities of and construct additional facilities under subsection (a).
+  - **(1)** Not later than 1 year after the date of receipt by the Secretary of the action plan required by section 5(b) 1 1 See References in Text note below. of the Hawaii Tropical Forest Recovery Act, the Secretary shall prepare and submit to the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and to the Committees on Appropriations of the House of Representatives and Senate, a tropical forestry plan to expand the capabilities of and construct additional facilities under subsection (a) of this section.
   - **(2)** The plan shall provide for—
     - **(A)** the establishment of a model center for research, demonstration, education, training, and outreach activities suitable for transferring scientific, technical, managerial, and administrative assistance to governmental and non-governmental organizations seeking to address problems associated with tropical forests within and outside the United States;
     - **(B)** the acquisition or construction of facilities for research, classroom instruction, and housing near an experimental tropical forest in the State of Hawaii;

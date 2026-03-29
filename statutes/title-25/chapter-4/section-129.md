@@ -1,12 +1,14 @@
 ---
-title: "Section 129 - Repealed. Pub. L. 117–317, § 2(4) , Dec. 27, 2022 , 136 Stat. 4419"
+title: "Section 129 - Moneys due Indians holding captives other than Indians withheld"
 usc_title: 25
 usc_section: "129"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 129"
-generated_at: "2026-03-29T02:13:20.839Z"
+generated_at: "2026-03-29T17:52:05.887Z"
 ---
 
-# § 129. Repealed. Pub. L. 117–317, § 2(4) , Dec. 27, 2022 , 136 Stat. 4419
+# § 129. Moneys due Indians holding captives other than Indians withheld
+
+The Secretary of the Interior is authorized to withhold, from any tribe of Indians who may hold any captives other than Indians, any moneys due them from the United States until said captives shall be surrendered to the lawful authorities of the United States.
 

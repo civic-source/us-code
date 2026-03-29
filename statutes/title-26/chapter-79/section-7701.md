@@ -3,15 +3,15 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-29T02:14:01.404Z"
+generated_at: "2026-03-29T17:52:39.626Z"
 ---
 
 # § 7701. Definitions
 
 - **(a)** When used in this title, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof—
-  - **(1)** The term “person” shall be construed to mean an+d include an individual, a trust, estate, partnership, association, company or corporation.
+  - **(1)** The term “person” shall be construed to mean and include an individual, a trust, estate, partnership, association, company or corporation.
   - **(2)** The term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization, through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, a trust or estate or a corporation; and the term “partner” includes a member in such a syndicate, group, pool, joint venture, or organization.
   - **(3)** The term “corporation” includes associations, joint-stock companies, and insurance companies.
   - **(4)** The term “domestic” when applied to a corporation or partnership means created or organized in the United States or under the law of the United States or of any State unless, in the case of a partnership, the Secretary provides otherwise by regulations.
@@ -33,10 +33,10 @@ generated_at: "2026-03-29T02:14:01.404Z"
   - **(14)** The term “taxpayer” means any person subject to any internal revenue tax.
   - **(15)** The term “military or naval forces of the United States” and the term “Armed Forces of the United States” each includes all regular and reserve components of the uniformed services which are subject to the jurisdiction of the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force, and each term also includes the Coast Guard. The members of such forces include commissioned officers and personnel below the grade of commissioned officers in such forces.
   - **(16)** The term “withholding agent” means any person required to deduct and withhold any tax under the provisions of section 1441, 1442, 1443, or 1461.
-  - **(17)** As used in section 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such section, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such section are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such section, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
+  - **(17)** As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
   - **(18)** The term “international organization” means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act ( 22 U.S.C. 288–288f ).
   - **(19)** The term “domestic building and loan association” means a domestic building and loan association, a domestic savings and loan association, and a Federal savings and loan association—
-    - **(A)** which is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
+    - **(A)** which either (i) is an insured institution within the meaning of section 401(a) 1 1 See References in Text note below. of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii) is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
     - **(B)** the business of which consists principally of acquiring the savings of the public and investing in loans; and
     - **(C)** at least 60 percent of the amount of the total assets of which (at the close of the taxable year) consists of—
       - **(i)** cash,
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T02:14:01.404Z"
       - **(ix)** loans made for the payment of expenses of college or university education or vocational training, in accordance with such regulations as may be prescribed by the Secretary,
       - **(x)** property used by the association in the conduct of the business described in subparagraph (B), and
       - **(xi)** any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.
-  - **(20)** For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21.
+  - **(20)** For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951 , who would be considered an employee if his services were performed during 1951.
   - **(21)** The term “levy” includes the power of distraint and seizure by any means.
   - **(22)** The term “Attorney General” means the Attorney General of the United States.
   - **(23)** The term “taxable year” means the calendar year, or the fiscal year ending during such calendar year, upon the basis of which the taxable income is computed under subtitle A. “Taxable year” means, in the case of a return made for a fractional part of a year under the provisions of subtitle A or under regulations prescribed by the Secretary, the period for which such return is made.
@@ -72,7 +72,9 @@ generated_at: "2026-03-29T02:14:01.404Z"
     - **(A)** The term “foreign estate” means an estate the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
     - **(B)** The term “foreign trust” means any trust other than a trust described in subparagraph (E) of paragraph (30).
   - **(32)** The term “cooperative bank” means an institution without capital stock organized and operated for mutual purposes and without profit, which—
-    - **(A)** is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
+    - **(A)** either—
+      - **(i)** is an insured institution within the meaning of section 401(a) 2 2 See References in Text note below. of the National Housing Act (12 U.S.C., sec. 1724(a)), or
+      - **(ii)** is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
     - **(B)** meets the requirements of subparagraphs (B) and (C) of paragraph (19) of this subsection (relating to definition of domestic building and loan association).
   - **(33)** The term “regulated public utility” means—
     - **(A)** A corporation engaged in the furnishing or sale of—
@@ -90,7 +92,7 @@ generated_at: "2026-03-29T02:14:01.404Z"
   - **(35)** The term “enrolled actuary” means a person who is enrolled by the Joint Board for the Enrollment of Actuaries established under subtitle C of the title III of the Employee Retirement Income Security Act of 1974.
   - **(36)**
     - **(A)** The term “tax return preparer” means any person who prepares for compensation, or who employs one or more persons to prepare for compensation, any return of tax imposed by this title or any claim for refund of tax imposed by this title. For purposes of the preceding sentence, the preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund.
-    - **(B)** A person shall not be a “tax return preparer” merely because such person—
+    - **(B)** A person shall not be an 3 3 So in original. Probably should be “a”. “tax return preparer” merely because such person—
       - **(i)** furnishes typing, reproducing, or other mechanical assistance,
       - **(ii)** prepares a return or claim for refund of the employer (or of an officer or employee of the employer) by whom he is regularly and continuously employed,
       - **(iii)** prepares as a fiduciary a return or claim for refund for any person, or
@@ -128,127 +130,6 @@ generated_at: "2026-03-29T02:14:01.404Z"
   - **(50)**
     - **(A)** An individual shall not cease to be treated as a United States citizen before the date on which the individual’s citizenship is treated as relinquished under section 877A(g)(4).
     - **(B)** Under regulations prescribed by the Secretary, subparagraph (A) shall not apply to an individual who became at birth a citizen of the United States and a citizen of another country.
-  - **(51)**
-    - **(A)**
-      - **(i)** The term “prohibited foreign entity” means a specified foreign entity or a foreign-influenced entity.
-      - **(ii)**
-        - **(I)** Subject to subclause (II), for any taxable year, the determination as to whether an entity is a specified foreign entity or foreign-influenced entity shall be made as of the last day of such taxable year.
-        - **(II)** For purposes of the first taxable year beginning after the date of enactment of this paragraph, the determination as to whether an entity is a specified foreign entity described in clauses (i) through (iv) of subparagraph (B) shall be made as of the first day of such taxable year.
-    - **(B)** For purposes of this paragraph, the term “specified foreign entity” means—
-      - **(i)** a foreign entity of concern described in subparagraph (A), (B), (D), or (E) of section 9901(8) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 15 U.S.C. 4651 ),
-      - **(ii)** an entity identified as a Chinese military company operating in the United States in accordance with section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 10 U.S.C. 113 note),
-      - **(iii)** an entity included on a list required by clause (i), (ii), (iv), or (v) of section 2(d)(2)(B) of Public Law 117–78 ( 135 Stat. 1527 ),
-      - **(iv)** an entity specified under section 154(b) of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118–31 ; 10 U.S.C. note prec. 4651), or
-      - **(v)** a foreign-controlled entity.
-    - **(C)** For purposes of subparagraph (B), the term “foreign-controlled entity” means—
-      - **(i)** the government (including any level of government below the national level) of a covered nation,
-      - **(ii)** an agency or instrumentality of a government described in clause (i),
-      - **(iii)** a person who is a citizen or national of a covered nation, provided that such person is not an individual who is a citizen, national, or lawful permanent resident of the United States,
-      - **(iv)** an entity or a qualified business unit (as defined in section 989(a)) incorporated or organized under the laws of, or having its principal place of business in, a covered nation, or
-      - **(v)** an entity (including subsidiary entities) controlled (as determined under subparagraph (G)) by an entity described in clause (i), (ii), (iii), or (iv).
-    - **(D)**
-      - **(i)** For purposes of subparagraph (A), the term “foreign-influenced entity” means an entity—
-        - **(I)** with respect to which, during the taxable year—
-        - **(II)** which, during the previous taxable year, made a payment to a specified foreign entity pursuant to a contract, agreement, or other arrangement which entitles such specified foreign entity (or an entity related to such specified foreign entity) to exercise effective control over—
-      - **(ii)**
-        - **(I)**
-        - **(II)** During any period prior to the date that the guidance described in subclause (I)(bb) is issued by the Secretary, for purposes of clause (i)(II), the term “effective control” means the unrestricted contractual right of a contractual counterparty to—
-        - **(III)**
-        - **(IV)** For purposes of subclauses (I), (II), and (III), the term “taxpayer” shall include any person related to the taxpayer.
-        - **(V)** For purposes of this clause, the term “contractual counterparty” means an entity with which the taxpayer has entered into a contract, agreement, or other arrangement.
-      - **(iii)** Not later than December 31, 2026 , the Secretary shall issue such guidance as is necessary to carry out the purposes of this subparagraph, including establishment of rules to prevent entities from evading, circumventing, or abusing the application of the restrictions against impermissible technology licensing arrangements with specified foreign entities, such as through temporary transfers of intellectual property, retention by a specified foreign entity of a reversionary interest in transferred intellectual property, or otherwise.
-    - **(E)**
-      - **(i)**
-        - **(I)** Subparagraph (C)(v) shall not apply in the case of any entity the securities of which are regularly traded on—
-        - **(II)** Subparagraph (D)(i)(I) shall not apply in the case of any entity—
-        - **(III)** Subclause (I)(cc) shall not apply with respect to any exchange or market which—
-      - **(ii)** In the case of an entity described in clause (i)(I), such entity shall be deemed to be a foreign-controlled entity under subparagraph (C)(v) if such entity is controlled (as determined under subparagraph (G)) by—
-        - **(I)** 1 or more specified foreign entities (as determined without regard to subparagraph (B)(v)) that are each required to report their beneficial ownership pursuant to a rule described in clause (iii)(I)(bb), or
-        - **(II)** 1 or more foreign-controlled entities (as determined without regard to subparagraph (C)(v)) that are each required to report their beneficial ownership pursuant to a rule described in such clause.
-      - **(iii)** In the case of an entity described in clause (i)(II), such entity shall be deemed to be a foreign-influenced entity under subparagraph (D)(i)(I) if—
-        - **(I)** during the taxable year—
-        - **(II)** such entity has issued debt, as part of an original issuance, in excess of 15 percent of its publicly-traded debt to 1 or more specified foreign entities.
-    - **(F)** For purposes of this paragraph, the term “covered officer” means, with respect to an entity—
-      - **(i)** a member of the board of directors, board of supervisors, or equivalent governing body,
-      - **(ii)** an executive-level officer, including the president, chief executive officer, chief operating officer, chief financial officer, general counsel, or senior vice president, or
-      - **(iii)** an individual having powers or responsibilities similar to those of officers or members described in clause (i) or (ii).
-    - **(G)** For purposes of subparagraph (C)(v), the term “control” means—
-      - **(i)** in the case of a corporation, ownership (by vote or value) of more than 50 percent of the stock in such corporation,
-      - **(ii)** in the case of a partnership, ownership of more than 50 percent of the profits interests or capital interests in such partnership, or
-      - **(iii)** in any other case, ownership of more than 50 percent of the beneficial interests in the entity.
-    - **(H)** For purposes of this paragraph, section 318(a)(2) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
-    - **(I)** For purposes of this paragraph—
-      - **(i)** The term “applicable critical mineral” has the same meaning given such term under section 45X(c)(6).
-      - **(ii)** The term “covered nation” has the same meaning given such term under section 4872(f)(2) of title 10 , United States Code.
-      - **(iii)** The term “eligible component” has the same meaning given such term under section 45X(c)(1).
-      - **(iv)** The term “energy storage technology” has the same meaning given such term under section 48E(c)(2).
-      - **(v)** The term “qualified facility” means—
-        - **(I)** a qualified facility, as defined in section 45Y(b)(1), and
-        - **(II)** a qualified facility, as defined in section 48E(b)(3).
-      - **(vi)** The term “related” shall have the same meaning given such term under sections 267(b) and 707(b).
-    - **(J)** For purposes of applying any provision under this paragraph, the beginning of construction with respect to any property shall be determined pursuant to rules similar to the rules under Internal Revenue Service Notice 2013–29 and Internal Revenue Service Notice 2018-59 (as well as any subsequently issued guidance clarifying, modifying, or updating either such Notice), as in effect on January 1, 2025 .
-    - **(K)** The Secretary may prescribe such regulations and guidance as may be necessary or appropriate to carry out the provisions of this paragraph, including rules to prevent the circumvention of any rules or restrictions with respect to prohibited foreign entities.
-  - **(52)**
-    - **(A)** The term “material assistance from a prohibited foreign entity” means—
-      - **(i)** with respect to any qualified facility or energy storage technology, a material assistance cost ratio which is less than the threshold percentage applicable under subparagraph (B), or
-      - **(ii)** with respect to any facility which produces eligible components, a material assistance cost ratio which is less than the threshold percentage applicable under subparagraph (C).
-    - **(B)** For purposes of subparagraph (A)(i), the threshold percentage shall be—
-      - **(i)** in the case of a qualified facility the construction of which begins—
-        - **(I)** during calendar year 2026, 40 percent,
-        - **(II)** during calendar year 2027, 45 percent,
-        - **(III)** during calendar year 2028, 50 percent,
-        - **(IV)** during calendar year 2029, 55 percent, and
-        - **(V)** after December 31, 2029 , 60 percent, and
-      - **(ii)** in the case of energy storage technology the construction of which begins—
-        - **(I)** during calendar year 2026, 55 percent,
-        - **(II)** during calendar year 2027, 60 percent,
-        - **(III)** during calendar year 2028, 65 percent,
-        - **(IV)** during calendar year 2029, 70 percent, and
-        - **(V)** after December 31, 2029 , 75 percent.
-    - **(C)**
-      - **(i)** For purposes of subparagraph (A)(ii), the threshold percentage shall be—
-        - **(I)** in the case of any solar energy component (as such term is defined in section 45X(c)(3)(A)) which is sold—
-        - **(II)** in the case of any wind energy component (as such term is defined in section 45X(c)(4)(A)) which is sold—
-        - **(III)** in the case of any inverter described in subparagraphs (B) through (G) of section 45X(c)(2) which is sold—
-        - **(IV)** in the case of any qualifying battery component (as such term is defined in section 45X(c)(5)(A)) which is sold—
-        - **(V)** subject to clause (ii), in the case of any applicable critical mineral (as such term is defined in section 45X(c)(6)) which is sold—
-      - **(ii)** Not later than December 31, 2027 , the Secretary shall issue threshold percentages for each of the applicable critical minerals described in section 45X(c)(6)), which shall—
-        - **(I)** apply in lieu of the threshold percentage determined under clause (i)(V) for each calendar year, and
-        - **(II)** equal or exceed the threshold percentage which would otherwise apply with respect to such applicable critical mineral under such clause for such calendar year, taking into account—
-    - **(D)**
-      - **(i)** For purposes of subparagraph (A)(i), the term “material assistance cost ratio” means the amount (expressed as a percentage) equal to the quotient of—
-        - **(I)** an amount equal to—
-        - **(II)** the amount described in subclause (I)(aa).
-      - **(ii)** For purposes of subparagraph (A)(ii), the term “material assistance cost ratio” means the amount (expressed as a percentage) equal to the quotient of—
-        - **(I)** an amount equal to—
-        - **(II)** the amount described in subclause (I)(aa).
-      - **(iii)**
-        - **(I)** Not later than December 31, 2026 , the Secretary shall issue safe harbor tables (and such other guidance as deemed necessary) to—
-        - **(II)** For purposes of this paragraph, prior to the date on which the Secretary issues the safe harbor tables described in subclause (I), and for construction of a qualified facility or energy storage technology which begins on or before the date which is 60 days after the date of issuance of such tables, a taxpayer may—
-        - **(III)** Notwithstanding subclauses (I) and (II)—
-        - **(IV)** In a manner consistent with Treasury Regulation section 1.45X–4(c)(4)(i) (as in effect on the date of enactment of this paragraph), the certification referred to in subclause (II)(bb) shall—
-      - **(iv)** Upon the election of the taxpayer (in such form and manner as the Secretary shall designate), in the case of any manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component which is—
-        - **(I)** acquired by the taxpayer, or manufactured or assembled by or for the taxpayer, pursuant to a binding written contract which was entered into prior to June 16, 2025 , and
-        - **(II)**
-      - **(v)** The Secretary shall prescribe such regulations and guidance as may be necessary or appropriate to prevent circumvention of the rules under this subparagraph, including prevention of—
-        - **(I)** any abuse of the exception provided under clause (iv) through the stockpiling of any manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component during any period prior to the application of the requirements under this paragraph, or
-        - **(II)** any evasion with respect to the requirements of this subparagraph where the facts and circumstances demonstrate that the beginning of construction of a qualified facility or energy storage technology has not in fact occurred.
-    - **(E)** For purposes of this paragraph—
-      - **(i)** The term “eligible component” means—
-        - **(I)** any property described in section 45X(c)(1), or
-        - **(II)** any component which is identified by the Secretary pursuant to regulations or guidance issued under subparagraph (G).
-      - **(ii)** The term “energy storage technology” has the same meaning given such term under section 48E(c)(2).
-      - **(iii)** The term “manufactured product” means—
-        - **(I)** a manufactured product which is a component of a qualified facility, as described in section 45Y(g)(11)(B) and any guidance issued thereunder, or
-        - **(II)** any product which is identified by the Secretary pursuant to regulations or guidance issued under subparagraph (G).
-      - **(iv)** The term “qualified facility” means—
-        - **(I)** a qualified facility, as defined in section 45Y(b)(1),
-        - **(II)** a qualified facility, as defined in section 48E(b)(3), and
-        - **(III)** any qualified interconnection property (as defined in section 48E(b)(4)) which is part of the qualified investment with respect to a qualified facility (as described in section 48E(b)(1)).
-    - **(F)** Rules similar to the rules under subparagraphs (H) and (J) of paragraph (51) shall apply for purposes of this paragraph.
-    - **(G)** The Secretary may prescribe such regulations and guidance as may be necessary or appropriate to carry out the provisions of this paragraph, including—
-      - **(i)** identification of components or products for purposes of clauses (i) and (iii) of subparagraph (E), and
-      - **(ii)** for purposes of subparagraph (A)(ii), rules to address facilities which produce more than one eligible component.
 - **(b)**
   - **(1)** For purposes of this title (other than subtitle B)—
     - **(A)** An alien individual shall be treated as a resident of the United States with respect to any calendar year if (and only if) such individual meets the requirements of clause (i), (ii), or (iii):
@@ -272,7 +153,7 @@ generated_at: "2026-03-29T02:14:01.404Z"
   - **(3)**
     - **(A)** Except as otherwise provided in this paragraph, an individual meets the substantial presence test of this paragraph with respect to any calendar year (hereinafter in this subsection referred to as the “current year”) if—
       - **(i)** such individual was present in the United States on at least 31 days during the calendar year, and
-      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: In the case of days in: The applicable multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
+      - **(ii)** the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: The applicable In the case of days in: multiplier is: Current year 1 1st preceding year ⅓ 2nd preceding year ⅙
     - **(B)** An individual shall not be treated as meeting the substantial presence test of this paragraph with respect to any current year if—
       - **(i)** such individual is present in the United States on fewer than 183 days during the current year, and
       - **(ii)** it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection to such foreign country than to the United States.
@@ -300,10 +181,7 @@ generated_at: "2026-03-29T02:14:01.404Z"
       - **(i)** a foreign government-related individual,
       - **(ii)** a teacher or trainee,
       - **(iii)** a student, or
-      - **(iv)** a professional athlete who is temporarily in the United States to compete in a sports event—
-        - **(I)** which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
-        - **(II)** all of the net proceeds of which are contributed to such organization, and, 2 2 So in original. The comma probably should not appear.
-        - **(III)** which utilizes volunteers for substantially all of the work performed in carrying out such event.
+      - **(iv)** a professional athlete who is temporarily in the United States to compete in a charitable sports event described in section 274( l )(1)(B).
     - **(B)** The term “foreign government-related individual” means any individual temporarily present in the United States by reason of—
       - **(i)** diplomatic status, or a visa which the Secretary (after consultation with the Secretary of State) determines represents full-time diplomatic or consular status for purposes of this subsection,
       - **(ii)** being a full-time employee of an international organization, or
@@ -352,17 +230,15 @@ generated_at: "2026-03-29T02:14:01.404Z"
     - **(A)** Notwithstanding paragraphs (1) and (2), and except as provided in paragraph (4), any contract or arrangement between a service provider and a service recipient—
       - **(i)** with respect to—
         - **(I)** the operation of a qualified solid waste disposal facility,
-        - **(II)** the sale to the service recipient of electrical or thermal energy produced at a cogeneration or alternative energy facility,
-        - **(III)** the operation of a water treatment works facility, or
-        - **(IV)** the operation of a storage facility, and
+        - **(II)** the sale to the service recipient of electrical or thermal energy produced at a cogeneration or alternative energy facility, or
+        - **(III)** the operation of a water treatment works facility, and
       - **(ii)** which purports to be a service contract,
     - **(B)** For purposes of subparagraph (A), the term “qualified solid waste disposal facility” means any facility if such facility provides solid waste disposal services for residents of part or all of 1 or more governmental units and substantially all of the solid waste processed at such facility is collected from the general public.
     - **(C)** For purposes of subparagraph (A), the term “cogeneration facility” means a facility which uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
     - **(D)** For purposes of subparagraph (A), the term “alternative energy facility” means a facility for producing electrical or thermal energy if the primary energy source for the facility is not oil, natural gas, coal, or nuclear power.
     - **(E)** For purposes of subparagraph (A), the term “water treatment works facility” means any treatment works within the meaning of section 212(2) of the Federal Water Pollution Control Act.
-    - **(F)** For purposes of subparagraph (A), the term “storage facility” means a facility which uses energy storage technology within the meaning of section 48(c)(6).
   - **(4)**
-    - **(A)** Paragraph (3) shall not apply to any qualified solid waste disposal facility, cogeneration facility, alternative energy facility, water treatment works facility, or storage facility used under a contract or arrangement if—
+    - **(A)** Paragraph (3) shall not apply to any qualified solid waste disposal facility, cogeneration facility, alternative energy facility, or water treatment works facility used under a contract or arrangement if—
       - **(i)** the service recipient (or a related entity) operates such facility,
       - **(ii)** the service recipient (or a related entity) bears any significant financial burden if there is nonperformance under the contract or arrangement (other than for reasons beyond the control of the service provider),
       - **(iii)** the service recipient (or a related entity) receives any significant financial benefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
@@ -375,7 +251,7 @@ generated_at: "2026-03-29T02:14:01.404Z"
       - **(ii)** For purposes of clause (iii) of subparagraph (A), there shall not be taken into account any significant financial benefit merely because payments by the service recipient under the contract or arrangement are decreased by reason of increased production or efficiency or the recovery of energy or other products.
   - **(5)** This subsection shall not apply to any property described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B) (relating to low-income housing) if—
     - **(A)** such property is operated by or for an organization described in paragraph (3) or (4) of section 501(c), and
-    - **(B)** at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+    - **(B)** at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconcilation 4 4 So in original. Probably should be “Reconciliation”. Act of 1990).
   - **(6)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of those provisions of this title which deal with—
   - **(1)** the linking of borrowing to investment, or
@@ -419,7 +295,7 @@ generated_at: "2026-03-29T02:14:01.404Z"
   - **(3)** Paragraph (1) shall not be construed to provide that any amount of the employee’s or Member’s basic pay which is contributed to the Thrift Savings Fund shall not be included in the term “wages” for the purposes of section 209 of the Social Security Act or section 3121(a) of this title .
   - **(4)** For purposes of this subsection, the terms “Member”, “employee”, and “Thrift Savings Fund” shall have the same respective meanings as when used in subchapter III of chapter 84 of title 5, United States Code.
   - **(5)** No provision of law not contained in this title shall apply for purposes of determining the treatment under this title of the Thrift Savings Fund or any contribution to, or distribution from, such Fund.
-- **(k)** In the case of any payment which, except for section 13143(b) of title 5 , United States Code, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
+- **(k)** In the case of any payment which, except for section 501(b) of the Ethics in Government Act of 1978, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
   - **(1)** such payment shall not be treated as received by such officer or employee for all purposes of this title and for all purposes of any tax law of a State or political subdivision thereof, and
   - **(2)** no deduction shall be allowed under any provision of this title (or of any tax law of a State or political subdivision thereof) to such officer or employee by reason of having such payment made to such organization.
 - **(l)** The Secretary may prescribe regulations recharacterizing any multiple-party financing transaction as a transaction directly among any 2 or more of such parties where the Secretary determines that such recharacterization is appropriate to prevent avoidance of any tax imposed by this title.

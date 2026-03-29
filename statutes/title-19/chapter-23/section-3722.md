@@ -3,9 +3,9 @@ title: "Section 3722 - Protections against transshipment"
 usc_title: 19
 usc_section: "3722"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3722"
-generated_at: "2026-03-29T02:12:08.740Z"
+generated_at: "2026-03-29T17:51:51.341Z"
 ---
 
 # § 3722. Protections against transshipment
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:12:08.740Z"
   - **(2)** For purposes of paragraph (1)(F), documentation regarding the country of origin of the covered articles includes documentation such as production records, information relating to the place of production, the number and identification of the types of machinery used in production, the number of workers employed in production, and certification from both the manufacturer and the exporter.
 - **(b)**
   - **(1)**
-    - **(A)** Any importer that claims preferential treatment under section 3721 of this title shall comply with customs procedures similar in all material respects to the requirements of article 5.4.1 of the USMCA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+    - **(A)** Any importer that claims preferential treatment under section 3721 of this title shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
     - **(B)**
       - **(i)** In order to qualify for the preferential treatment under section 3721 of this title and for a Certificate of Origin to be valid with respect to any article for which such treatment is claimed, there shall be in effect a determination by the President that each country described in clause (ii)—
         - **(I)** has implemented and follows; or
@@ -29,14 +29,14 @@ generated_at: "2026-03-29T02:12:08.740Z"
       - **(ii)** A country is described in this clause if it is a beneficiary sub-Saharan African country—
         - **(I)** from which the article is exported; or
         - **(II)** in which materials used in the production of the article originate or in which the article or such materials, undergo production that contributes to a claim that the article is eligible for preferential treatment.
-  - **(2)** The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
+  - **(2)** The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
   - **(3)** If the President determines, based on sufficient evidence, that an exporter has engaged in transshipment as defined in paragraph (4), then the President shall deny for a period of 5 years all benefits under section 3721 of this title to such exporter, any successor of such exporter, and any other entity owned or operated by the principal of the exporter.
   - **(4)** Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter 1 1 See References in Text note below. has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title .
-  - **(5)** The Customs Service shall monitor and the Commissioner of U.S. Customs and Border Protection shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
+  - **(5)** The Customs Service shall monitor and the Commissioner of Customs shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) of this section and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
 - **(c)** The Customs Service shall—
   - **(1)** make available technical assistance to the beneficiary sub-Saharan African countries—
-    - **(A)** in the development and implementation of visa systems, legislation, and regulations described in subsection (a)(1)(A); and
+    - **(A)** in the development and implementation of visa systems, legislation, and regulations described in subsection (a)(1)(A) of this section; and
     - **(B)** to train their officials in anti-transshipment enforcement;
   - **(2)** send production verification teams to at least four beneficiary sub-Saharan African countries each year; and
   - **(3)** to the extent feasible, place beneficiary sub-Saharan African countries on the Electronic Visa (ELVIS) program.
-- **(d)** There is authorized to be appropriated to carry out subsection (c) the sum of $5,894,913.
+- **(d)** There is authorized to be appropriated to carry out subsection (c) of this section the sum of $5,894,913.

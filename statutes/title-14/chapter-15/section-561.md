@@ -1,0 +1,16 @@
+---
+title: "Section 561 - Acquisition directorate"
+usc_title: 14
+usc_section: "561"
+chapter: 15
+current_through: "PL 113-100"
+classification: "14 U.S.C. § 561"
+generated_at: "2026-03-29T17:51:01.004Z"
+---
+
+# § 561. Acquisition directorate
+
+- **(a)** The Commandant of the Coast Guard shall establish an acquisition directorate to provide guidance and oversight for the implementation and management of all Coast Guard acquisition processes, programs, and projects.
+- **(b)** The mission of the acquisition directorate is—
+  - **(1)** to acquire and deliver assets and systems that increase operational readiness, enhance mission performance, and create a safe working environment; and
+  - **(2)** to assist in the development of a workforce that is trained and qualified to further the Coast Guard’s missions and deliver the best-value products and services to the Nation.

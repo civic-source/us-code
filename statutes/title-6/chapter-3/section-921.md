@@ -3,9 +3,9 @@ title: "Section 921 - Domestic radiation detection and imaging"
 usc_title: 6
 usc_section: "921"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 921"
-generated_at: "2026-03-29T02:10:05.064Z"
+generated_at: "2026-03-29T17:50:39.369Z"
 ---
 
 # § 921. Domestic radiation detection and imaging
@@ -22,16 +22,19 @@ generated_at: "2026-03-29T02:10:05.064Z"
   - **(8)** a classified annex that—
     - **(A)** details plans for covert testing; and
     - **(B)** outlines the risk-based prioritization of ports of entry identified under paragraph (1).
-- **(c)** The Secretary, acting through the Director for Domestic Nuclear Detection 1 1 See Change of Name note below. and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
+- **(c)** Not later than 90 days after October 13, 2006 , the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
+- **(d)** Not later than 180 days after the date of the submission of the report under subsection (c), the Secretary shall provide a more complete evaluation under subsection (b)(6).
+- **(e)** Not later than 180 days after October 13, 2006 , the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States.
+- **(f)** The Secretary, acting through the Director for Domestic Nuclear Detection and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
   - **(1)** should take into account relevant standards and procedures utilized by other Federal departments or agencies as well as those developed by international bodies; and
   - **(2)** shall not be designed so as to endorse specific companies or create sovereignty conflicts with participating countries.
-- **(d)** Not later than 3 years after October 13, 2006 , the Secretary shall fully implement the strategy developed under subsection (b).
-- **(e)**
+- **(g)** Not later than 3 years after October 13, 2006 , the Secretary shall fully implement the strategy developed under subsection (b).
+- **(h)**
   - **(1)** As soon as practicable after—
     - **(A)** implementation of the program for the examination of containers for radiation at ports of entry described in subsection (a); and
-    - **(B)** submission of the strategy developed under subsection (b),
+    - **(B)** submission of the strategy developed under subsection (b) (and updating, if any, of that strategy under subsection (c)),
   - **(2)** In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
-- **(f)**
+- **(i)**
   - **(1)** In accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the “Test Center”).
   - **(2)** The Secretary shall conduct multiple, concurrent projects at the Test Center to rapidly identify and test concepts specific to the challenges posed by on-dock rail.
   - **(3)** The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.

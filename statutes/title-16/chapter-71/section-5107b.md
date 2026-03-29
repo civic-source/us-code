@@ -3,9 +3,9 @@ title: "Section 5107b - Transition to management of American lobster fishery by 
 usc_title: 16
 usc_section: "5107b"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 5107b"
-generated_at: "2026-03-29T02:11:53.947Z"
+generated_at: "2026-03-29T17:51:57.003Z"
 ---
 
 # § 5107b. Transition to management of American lobster fishery by Commission
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T02:11:53.947Z"
   - **(1)** 100 lobsters (or parts thereof) for each fishing trip of 24 hours or less duration (up to a maximum of 500 lobsters, or parts thereof, during any 5-day period); or
   - **(2)** 500 lobsters (or parts thereof) for a fishing trip of 5 days or longer.
 - **(b)** Before January 1, 1998 , the Secretary shall monitor, on a timely basis, landings of American lobster, and, if the Secretary determines that catches from vessels that take lobsters in the exclusive economic zone by a method other than pots or traps have increased significantly, then the Secretary may, consistent with the national standards in section 301 of the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1851 ], and after opportunity for public comment and consultation with the Atlantic States Marine Fisheries Commission, implement regulations under section 5103(b) of this title that are necessary for the conservation of American lobster.
-- **(c)** Regulations issued under subsection (a) or (b) shall remain in effect until the Secretary implements regulations under section 5103(b) of this title to implement a coastal fishery management plan for American lobster.
+- **(c)** Regulations issued under subsection (a) or (b) of this section shall remain in effect until the Secretary implements regulations under section 5103(b) of this title to implement a coastal fishery management plan for American lobster.

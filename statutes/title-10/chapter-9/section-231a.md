@@ -1,18 +1,18 @@
 ---
-title: "Section 231a - Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification"
+title: "Section 231a - Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification"
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-29T02:10:44.845Z"
+generated_at: "2026-03-29T17:50:56.936Z"
 ---
 
-# § 231a. Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification
+# § 231a. Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification
 
-- **(a)** Not later than 30 days after the date on which the President submits to Congress the budget for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees the following:
-  - **(1)** A plan for the procurement of the aircraft specified in subsection (b) for each of the Department of the Army, the Department of the Navy, and the Department of the Air Force developed in accordance with this section.
-  - **(2)** A certification by the Secretary that both the budget for such fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the procurement of aircraft at a level that is sufficient for the procurement of the aircraft provided for in the plan under paragraph (1) on the schedule provided in the plan.
+- **(a)** Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year of 1 1 So in original. Probably should be preceded by “, the Secretary”. Defense shall submit to the congressional defense committees—
+  - **(1)** a plan for the procurement of the aircraft specified in subsection (b) for the Department of the Navy, the Department of the Army, and the Department of the Air Force developed in accordance with this section; and
+  - **(2)** a certification by the Secretary that both the budget for such fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the procurement of aircraft at a level that is sufficient for the procurement of the aircraft provided for in the plan under paragraph (1) on the schedule provided in the plan.
 - **(b)** The aircraft specified in this subsection are the aircraft as follows:
   - **(1)** Fighter aircraft.
   - **(2)** Attack aircraft.
@@ -26,24 +26,22 @@ generated_at: "2026-03-29T02:10:44.845Z"
   - **(10)** Operational support and executive lift aircraft.
   - **(11)** Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
 - **(c)**
-  - **(1)** The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent National Defense Strategy submitted under section 113(g) of this title and the most recent National Military Strategy submitted under section 153(b) of this title .
+  - **(1)** The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ), 2 2 See References in Text note below. except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
   - **(2)** Each annual aircraft procurement plan shall include the following:
-    - **(A)** A detailed program for the procurement of the aircraft specified in subsection (b) for each of the Department of the Army, the Department of the Navy, and the Department of the Air Force over the next 15 fiscal years.
-    - **(B)** A description of the aviation force structure necessary to meet the requirements of the national military strategy of the United States.
+    - **(A)** A detailed program for the procurement of the aircraft specified in subsection (b) for each of the Department of the Navy, the Department of the Army, and the Department of the Air Force over the next 30 fiscal years.
+    - **(B)** A description of the necessary aviation force structure to meet the requirements of the national military strategy of the United States or the most recent Quadrennial Defense Review, whichever is applicable under paragraph (1).
     - **(C)** The estimated levels of annual investment funding necessary to carry out each aircraft program, together with a discussion of the procurement strategies on which such estimated levels of annual investment funding are based, set forth in aggregate for the Department of Defense and in aggregate for each military department.
     - **(D)** The estimated level of annual funding necessary to operate, maintain, sustain, and support each aircraft program throughout the life-cycle of the program, set forth in aggregate for the Department of Defense and in aggregate for each military department.
     - **(E)** For each of the cost estimates required by subparagraphs (C) and (D)—
-      - **(i)** a description of whether the cost estimate is derived from the cost estimate position of the military department concerned or from the cost estimate position of the Office of Cost Assessment and Program Evaluation;
-      - **(ii)** if the cost estimate position of the military department and the cost estimate position of the Office of Cost Assessment and Program Evaluation differ by more than 5 percent for any aircraft program, an annotated cost estimate difference and sufficient rationale to explain the difference;
-      - **(iii)** the confidence or certainty level associated with the cost estimate for each aircraft program; and
-      - **(iv)** a certification that the calculations from which the cost estimate is derived are based on common cost categories used by the Under Secretary of Defense for Acquisition and Sustainment for calculating the life-cycle cost of an aircraft program.
-    - **(F)** An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Army, the Department of the Navy, and the Department of the Air Force meet the national security requirements of the United States.
-  - **(3)** For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 4351 of this title , the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
-  - **(4)** Each annual aircraft procurement plan shall be submitted in unclassified form, and shall contain a classified annex. A summary version of the unclassified report shall be made available to the public.
-- **(d)** If the budget for any fiscal year provides for funding of the procurement of aircraft for the Department of the Army, the Department of the Navy, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes the funding shortfall and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. The assessment shall be coordinated in advance with the commanders of the combatant commands.
+      - **(i)** a description of whether the cost estimate is derived from the cost estimate position of the military department or derived from the cost estimate position of the Cost Analysis and Program Evaluation office of the Secretary of Defense;
+      - **(ii)** if the cost estimate position of the military department and the cost estimate position of the Cost Analysis and Program Evaluation office differ by more than .5 percent for any aircraft program, an annotated cost estimate difference and sufficient rationale to explain the difference; and
+      - **(iii)** the confidence or certainty level associated with the cost estimate for each aircraft program.
+    - **(F)** An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Navy, the Department of the Army, and the Department of the Air Force meet the national security requirements of the United States.
+  - **(3)** For any cost estimate required by paragraph (2)(C) or (D), for any aircraft program for which the Secretary is required to include in a report under section 2432 of this title , the source of the cost information used to prepare the annual aircraft plan, shall be sourced from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft plan is prepared.
+  - **(4)** The annual aircraft procurement plan shall be submitted in unclassified form and shall contain a classified annex.
+- **(d)** If the budget for a fiscal year provides for funding of the procurement of aircraft for either the Department of the Navy, the Department of the Army, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
 - **(e)**
-  - **(1)** As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense.
-  - **(2)** Each report under paragraph (1) shall include for the year covered by such report, the following:
+  - **(1)** As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense. Each such report shall include the following, for the year covered by the report:
     - **(A)** The total number of aircraft in the inventory.
     - **(B)** The total number of the aircraft in the inventory that are active, stated in the following categories (with appropriate subcategories for mission aircraft, training aircraft, dedicated test aircraft, and other aircraft):
       - **(i)** Primary aircraft.
@@ -58,5 +56,7 @@ generated_at: "2026-03-29T02:10:44.845Z"
       - **(vi)** Aircraft for reclamation.
       - **(vii)** Aircraft in storage.
     - **(D)** The aircraft inventory requirements approved by the Joint Chiefs of Staff.
-  - **(3)** Each report under paragraph (1) shall set forth each item specified in paragraph (2) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
-- **(f)** In this section, the term “budget” means the budget of the President for a fiscal year as submitted to Congress pursuant to section 1105 of title 31 .
+  - **(2)** Each report submitted under this subsection shall set forth each item described in paragraph (1) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
+- **(f)** In this section:
+  - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
+  - **(2)** The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title .

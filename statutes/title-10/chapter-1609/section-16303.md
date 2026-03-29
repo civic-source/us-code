@@ -3,9 +3,9 @@ title: "Section 16303 - Loan repayment program: chaplains serving in the Selecte
 usc_title: 10
 usc_section: "16303"
 chapter: 1609
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 16303"
-generated_at: "2026-03-29T02:10:45.391Z"
+generated_at: "2026-03-29T17:50:57.292Z"
 ---
 
 # § 16303. Loan repayment program: chaplains serving in the Selected Reserve
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T02:10:45.391Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), the repayment of a loan under subsection (a) may consist of the payment of the principal, interest, and related expenses of the loan.
   - **(2)** The amount of any repayment of a loan made under subsection (a) on behalf of a person may not exceed $20,000 for each three year period of obligated service that the person agrees to serve in an agreement described in subsection (a)(3). Of such amount, not more than an amount equal to 50 percent of such amount may be paid before the completion by the person of the first year of obligated service pursuant to the agreement. The balance of such amount shall be payable at such time or times as are prescribed in regulations.
-- **(d)** A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+- **(d)** A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) of title 37 .
 - **(e)** The Secretary of Defense shall prescribe regulations to carry out this section.

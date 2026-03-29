@@ -3,9 +3,9 @@ title: "Section 3330a - Preference eligibles; administrative redress"
 usc_title: 5
 usc_section: "3330a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 3330a"
-generated_at: "2026-03-29T02:10:01.821Z"
+generated_at: "2026-03-29T17:50:36.455Z"
 ---
 
 # § 3330a. Preference eligibles; administrative redress
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:10:01.821Z"
 - **(a)**
   - **(1)**
     - **(A)** A preference eligible who alleges that an agency has violated such individual’s rights under any statute or regulation relating to veterans’ preference may file a complaint with the Secretary of Labor.
-    - **(B)** A veteran described in section 3304( l )(1) who alleges that an agency has violated such section with respect to such veteran may file a complaint with the Secretary of Labor.
+    - **(B)** A veteran described in section 3304(f)(1) who alleges that an agency has violated such section with respect to such veteran may file a complaint with the Secretary of Labor.
   - **(2)**
     - **(A)** A complaint under this subsection must be filed within 60 days after the date of the alleged violation.
     - **(B)** Such complaint shall be in writing, be in such form as the Secretary may prescribe, specify the agency against which the complaint is filed, and contain a summary of the allegations that form the basis for the complaint.

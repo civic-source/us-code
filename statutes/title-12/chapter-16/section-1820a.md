@@ -3,14 +3,14 @@ title: "Section 1820a - Examination of investment companies"
 usc_title: 12
 usc_section: "1820a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1820a"
-generated_at: "2026-03-29T02:11:21.044Z"
+generated_at: "2026-03-29T17:51:13.117Z"
 ---
 
 # § 1820a. Examination of investment companies
 
-- **(a)** Except as provided in subsection (c), a Federal banking agency may not inspect or examine any registered investment company that is not a bank holding company or a savings and loan holding company.
+- **(a)** Except as provided in subsection (c) of this section, a Federal banking agency may not inspect or examine any registered investment company that is not a bank holding company or a savings and loan holding company.
 - **(b)** The Commission shall provide to any Federal banking agency, upon request, the results of any examination, reports, records, or other information with respect to any registered investment company to the extent necessary for the agency to carry out its statutory responsibilities.
 - **(c)** Nothing in this section shall prevent the Corporation, if the Corporation finds it necessary to determine the condition of an insured depository institution for insurance purposes, from examining an affiliate of any insured depository institution, pursuant to its authority under section 1820(b)(4) of this title , as may be necessary to disclose fully the relationship between the insured depository institution and the affiliate, and the effect of such relationship on the insured depository institution.
 - **(d)** For purposes of this section, the following definitions shall apply:

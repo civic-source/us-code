@@ -3,9 +3,9 @@ title: "Section 1222 - Availability of other remedies"
 usc_title: 5
 usc_section: "1222"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 1222"
-generated_at: "2026-03-29T02:10:01.802Z"
+generated_at: "2026-03-29T17:50:36.445Z"
 ---
 
 # § 1222. Availability of other remedies

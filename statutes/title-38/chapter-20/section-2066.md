@@ -3,9 +3,9 @@ title: "Section 2066 - Advisory Committee on Homeless Veterans"
 usc_title: 38
 usc_section: "2066"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 2066"
-generated_at: "2026-03-29T02:14:50.387Z"
+generated_at: "2026-03-29T17:52:53.727Z"
 ---
 
 # § 2066. Advisory Committee on Homeless Veterans
@@ -59,4 +59,4 @@ generated_at: "2026-03-29T02:14:50.387Z"
   - **(2)** Not later than 90 days after the receipt of a report under paragraph (1), the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a copy of the report, together with any comments and recommendations concerning the report that the Secretary considers appropriate.
   - **(3)** The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
   - **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
-- **(d)** The Committee shall cease to exist September 30, 2026 .
+- **(d)** The Committee shall cease to exist December 31, 2014 .

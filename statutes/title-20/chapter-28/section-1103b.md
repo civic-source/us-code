@@ -3,9 +3,9 @@ title: "Section 1103b - Application review process"
 usc_title: 20
 usc_section: "1103b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1103b"
-generated_at: "2026-03-29T02:12:17.302Z"
+generated_at: "2026-03-29T17:51:48.443Z"
 ---
 
 # § 1103b. Application review process
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:12:17.302Z"
 - **(b)** All readers selected by the Secretary shall receive thorough instruction from the Secretary regarding the evaluation process for applications submitted under this subchapter that are consistent with the provisions of this subchapter, including—
   - **(1)** an enumeration of the factors to be used to determine the quality of applications submitted under this subchapter; and
   - **(2)** an enumeration of the factors to be used to determine whether a grant should be awarded for a project under this subchapter, the amount of any such grant, and the duration of any such grant.
-- **(c)** In awarding grants under this subchapter, the Secretary shall take into consideration the recommendations of the panel made under subsection (a).
+- **(c)** In awarding grants under this subchapter, the Secretary shall take into consideration the recommendations of the panel made under subsection (a) of this section.
 - **(d)** Not later than June 30 of each year, the Secretary shall notify each Hispanic-serving institution making an application under this subchapter of—
   - **(1)** the scores given the institution by the panel pursuant to this section;
   - **(2)** the recommendations of the panel with respect to such application; and

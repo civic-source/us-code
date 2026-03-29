@@ -3,20 +3,20 @@ title: "Section 2623 - Adoption of certain standards"
 usc_title: 16
 usc_section: "2623"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2623"
-generated_at: "2026-03-29T02:11:53.864Z"
+generated_at: "2026-03-29T17:51:56.936Z"
 ---
 
 # § 2623. Adoption of certain standards
 
-- **(a)** Not later than two years after November 9, 1978 , each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) and, on the basis of such hearing, shall—
-  - **(1)** adopt the standards established by subsection (b) (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
-  - **(2)** adopt the standard established by subsection (b)(4) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
+- **(a)** Not later than two years after November 9, 1978 , each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section and, on the basis of such hearing, shall—
+  - **(1)** adopt the standards established by subsection (b) of this section (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
+  - **(2)** adopt the standard established by subsection (b)(4) of this section if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
 - **(b)** The following Federal standards are hereby established:
   - **(1)** To the extent determined appropriate under section 2625(d) of this title , master metering of electric service in the case of new buildings shall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.
   - **(2)** No electric utility may increase any rate pursuant to an automatic adjustment clause unless such clause meets the requirements of section 2625(e) of this title .
   - **(3)** Each electric utility shall transmit to each of its electric consumers information regarding rate schedules in accordance with the requirements of section 2625(f) of this title .
   - **(4)** No electric utility may terminate electric service to any electric consumer except pursuant to procedures described in section 2625(g) of this title .
   - **(5)** No electric utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 2625(h) of this title .
-- **(c)** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a), shall (1) adopt, pursuant to subsection (a), each of the standards established by subsection (b) or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
+- **(c)** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a) of this section, shall (1) adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.

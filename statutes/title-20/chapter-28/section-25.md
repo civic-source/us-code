@@ -3,9 +3,9 @@ title: "Section 25 - Scholarship component"
 usc_title: 20
 usc_section: "25"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 25"
-generated_at: "2026-03-29T02:12:17.208Z"
+generated_at: "2026-03-29T17:51:48.347Z"
 ---
 
 # § 1070a–25. Scholarship component
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:12:17.208Z"
       - **(i)** Funds held in reserve under paragraph (1) that are not used by an eligible student within six years of the student’s scheduled completion of secondary school may be redistributed by the eligible entity to other eligible students.
       - **(ii)** If, after meeting the requirements of paragraph (1) and, if applicable, redistributing excess funds in accordance with clause (i) of this subparagraph, an eligible entity has funds held in reserve under paragraph (1) that remain available, the eligible entity shall return such remaining reserved funds to the Secretary for distribution to other grantees under this division in accordance with the funding rules described in section 1070a–22(a) of this title .
     - **(B)** Notwithstanding subparagraph (A), in the case of an eligible entity that does not receive assistance under this subpart for six fiscal years, the eligible entity shall return any funds held in reserve under paragraph (1) that are not awarded or obligated to eligible students to the Secretary for distribution to other grantees under this division.
-- **(f)** Scholarships provided under this section shall not be considered for the purpose of awarding Federal grant assistance under this subchapter, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter exceed such student’s total cost of attendance.
+- **(f)** Scholarships provided under this section shall not be considered for the purpose of awarding Federal grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter and part C of subchapter I of chapter 34 of title 42 exceed such student’s total cost of attendance.
 - **(g)** A student eligible for assistance under this section is a student who—
   - **(1)** is less than 22 years old at time of first scholarship award under this section;
   - **(2)** receives a secondary school diploma or its recognized equivalent on or after January 1, 1993 ;

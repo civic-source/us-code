@@ -3,9 +3,9 @@ title: "Section 1255 - Grants for research and development"
 usc_title: 33
 usc_section: "1255"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1255"
-generated_at: "2026-03-29T02:14:18.539Z"
+generated_at: "2026-03-29T17:52:45.936Z"
 ---
 
 # § 1255. Grants for research and development
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T02:14:18.539Z"
 - **(f)** Federal grants under subsection (a) of this section shall be subject to the following limitations:
   - **(1)** No grant shall be made for any project unless such project shall have been approved by the appropriate State water pollution control agency or agencies and by the Administrator;
   - **(2)** No grant shall be made for any project in an amount exceeding 75 per centum of cost thereof as determined by the Administrator; and
-  - **(3)** No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a).
+  - **(3)** No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a) of this section.
 - **(g)** Federal grants under subsections (c) and (d) of this section shall not exceed 75 per centum of the cost of the project.
-- **(h)** For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973 , the fiscal year ending June 30, 1974 , and the fiscal year ending June 30, 1975 , and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e).
+- **(h)** For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973 , the fiscal year ending June 30, 1974 , and the fiscal year ending June 30, 1975 , and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e) of this section.
 - **(i)** The Administrator is authorized to make grants to a municipality to assist in the costs of operating and maintaining a project which received a grant under this section, section 1254 of this title , or section 1263 of this title prior to December 27, 1977 , so as to reduce the operation and maintenance costs borne by the recipients of services from such project to costs comparable to those for projects assisted under subchapter II of this chapter.
 - **(j)** The Administrator is authorized to make a grant to any grantee who received an increased grant pursuant to section 1282(a)(2) of this title . Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.

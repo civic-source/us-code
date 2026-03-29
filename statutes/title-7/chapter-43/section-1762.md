@@ -3,9 +3,9 @@ title: "Section 1762 - Personnel"
 usc_title: 7
 usc_section: "1762"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1762"
-generated_at: "2026-03-29T02:10:16.860Z"
+generated_at: "2026-03-29T17:50:48.644Z"
 ---
 
 # § 1762. Personnel

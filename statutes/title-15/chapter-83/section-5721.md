@@ -3,9 +3,9 @@ title: "Section 5721 - Regulations"
 usc_title: 15
 usc_section: "5721"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 5721"
-generated_at: "2026-03-29T02:11:34.386Z"
+generated_at: "2026-03-29T17:51:36.385Z"
 ---
 
 # § 5721. Regulations
@@ -14,8 +14,8 @@ generated_at: "2026-03-29T02:11:34.386Z"
   - **(1)** The Commission shall, in accordance with the requirements of this section, prescribe rules establishing procedures for the correction of billing errors with respect to telephone-billed purchases. The rules prescribed by the Commission shall also include provisions to prohibit unfair or deceptive acts or practices that evade such rules or undermine the rights provided to customers under this subchapter.
   - **(2)** The Commission shall promulgate rules under this section that impose requirements that are substantially similar to the requirements imposed, with respect to the resolution of credit disputes, under the Truth in Lending and Fair Credit Billing Acts [ 15 U.S.C. 1601 et seq., 1666 et seq.].
   - **(3)** A rule issued under paragraph (1) shall be treated as a rule issued under section 57a(a)(1)(B) of this title .
-- **(b)** The Commission shall prescribe the rules under subsection (a) within 270 days after October 28, 1992 . Such rules shall be prescribed in accordance with section 553 of title 5 .
-- **(c)** Any violation of any rule prescribed under subsection (a) shall be treated as a violation of a rule under section 45 of this title regarding unfair or deceptive acts or practices. Notwithstanding section 45(a)(2) of this title , communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
+- **(b)** The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992 . Such rules shall be prescribed in accordance with section 553 of title 5 .
+- **(c)** Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under section 45 of this title regarding unfair or deceptive acts or practices. Notwithstanding section 45(a)(2) of this title , communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
 - **(d)** In prescribing rules under this section, the Commission shall consider, with respect to telephone-billed purchases, the following:
   - **(1)** The initiation of a billing review by a customer.
   - **(2)** Responses by billing entities and providing carriers to the initiation of a billing review.

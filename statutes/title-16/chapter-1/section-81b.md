@@ -1,32 +1,14 @@
 ---
-title: "Section 81b - Wildlife corridors"
+title: "Section 81b - Revision of boundaries"
 usc_title: 16
 usc_section: "81b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 81b"
-generated_at: "2026-03-29T02:11:53.410Z"
+generated_at: "2026-03-29T17:51:56.454Z"
 ---
 
-# § 410aaa–81b. Wildlife corridors
+# § 81b. Revision of boundaries
 
-- **(a)** The Secretary shall—
-  - **(1)** assess the impacts of habitat fragmentation on wildlife in the California Desert Conservation Area; and
-  - **(2)** establish policies and procedures to ensure the preservation of wildlife corridors and facilitate species migration.
-- **(b)**
-  - **(1)** As soon as practicable, but not later than 2 years, after March 12, 2019 , the Secretary shall complete a study regarding the impact of habitat fragmentation on wildlife in the California Desert Conservation Area.
-  - **(2)** The study under paragraph (1) shall—
-    - **(A)** identify the species migrating, or likely to migrate 1 1 So in original. Probably should be followed by a comma. in the California Desert Conservation Area;
-    - **(B)** examine the impacts and potential impacts of habitat fragmentation on—
-      - **(i)** plants, insects, and animals;
-      - **(ii)** soil;
-      - **(iii)** air quality;
-      - **(iv)** water quality and quantity; and
-      - **(v)** species migration and survival;
-    - **(C)** identify critical wildlife and species migration corridors recommended for preservation; and
-    - **(D)** include recommendations for ensuring the biological connectivity of public land managed by the Secretary and the Secretary of Defense throughout the California Desert Conservation Area.
-  - **(3)** The Secretary shall consider the information and recommendations of the study under paragraph (1) to determine the individual and cumulative impacts of rights-of-way for projects in the California Desert Conservation Area, in accordance with—
-    - **(A)** the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
-    - **(B)** the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.); and
-    - **(C)** any other applicable law.
-- **(c)** The Secretary shall incorporate into all land management plans applicable to the California Desert Conservation Area the findings and recommendations of the study completed under subsection (b).
+Subject to all the laws and regulations applicable to the Colonial National Historical Park, the boundaries of said historical park as established by section 81a of this title and as defined by Presidential Proclamation Numbered 2055, dated August 22, 1933 ( 48 Stat. 1706 ), are revised by the elimination of the parkway area described in said proclamation as running north and west of the city of Williamsburg to Jamestown Island, and the substitution therefor of a parkway area running southerly through or around the city of Williamsburg, thence continuing south of said city to the James River and thence along said river and connecting waters to Jamestown Island, the exact location of which shall be determined by the Secretary of the Interior: Provided , That said parkway area shall not exceed an average of five hundred feet in width outside the city of Williamsburg: And provided further , That condemnation proceedings shall not be had, exercised, or resorted to as to any lands in the city of Williamsburg except such lands as may be required for a right-of-way not exceeding two hundred feet in width through said city to connect with highways or parkways leading from Williamsburg to Jamestown and Yorktown.
+

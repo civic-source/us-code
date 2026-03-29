@@ -3,9 +3,9 @@ title: "Section 2055 - Transfers for public, charitable, and religious uses"
 usc_title: 26
 usc_section: "2055"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2055"
-generated_at: "2026-03-29T02:14:01.164Z"
+generated_at: "2026-03-29T17:52:39.406Z"
 ---
 
 # § 2055. Transfers for public, charitable, and religious uses
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T02:14:01.164Z"
     - **(D)** For purposes of this paragraph, the term “qualified interest” means an interest for which a deduction is allowable under subsection (a).
     - **(E)** The deduction referred to in subparagraph (A) shall not exceed the amount of the deduction which would have been allowable for the reformable interest but for paragraph (2).
     - **(F)** If (by reason of the death of any individual, or by termination or distribution of a trust in accordance with the terms of the trust instrument) by the due date for filing the estate tax return (including any extension thereof) a reformable interest is in a wholly charitable trust or passes directly to a person or for a use described in subsection (a), a deduction shall be allowed for such reformable interest as if it had met the requirements of paragraph (2) on the date of the decedent’s death. For purposes of the preceding sentence, the term “wholly charitable trust” means a charitable trust which, upon the allowance of a deduction, would be described in section 4947(a)(1).
-    - **(G)** The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J)) has occurred.
+    - **(G)** The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J) 1 1 So in original. Probably should be followed by an additional closing parenthesis. has occurred.
     - **(H)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing such adjustments in the application of the provisions of section 508 (relating to special rules relating to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations) as may be necessary by reason of the qualified reformation.
     - **(I)** The Secretary shall prescribe regulations (consistent with the provisions of this paragraph) permitting reformations in the case of any failure—
       - **(i)** to meet the requirements of section 170(f)(3)(B) (relating to remainder interests in personal residence or farm, etc.), or
@@ -67,12 +67,12 @@ generated_at: "2026-03-29T02:14:01.164Z"
   - **(1)** For option as to time for valuation for purpose of deduction under this section, see section 2032.
   - **(2)** For treatment of certain organizations providing child care, see section 501(k).
   - **(3)** For exemption of gifts and bequests to or for the benefit of Library of Congress, see section 5 of the Act of March 3, 1925 , as amended ( 2 U.S.C. 161 ).
-  - **(4)** For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see section 8622 of title 10 , United States Code.
+  - **(4)** For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see section 7222 of title 10 , United States Code.
   - **(5)** For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 ( 16 U.S.C. 191 ).
   - **(6)** For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.
   - **(7)** For treatment of gifts or bequests of money accepted by the Attorney General for credit to “Commissary Funds, Federal Prisons,” as gifts or bequests to or for the use of the United States, see section 4043 of title 18 , United States Code.
   - **(8)** For payment of tax on gifts and bequests of United States obligations to the United States, see section 3113(e) of title 31 , United States Code.
-  - **(9)** For treatment of gifts and bequests for benefit of the Naval Academy as gifts or bequests to or for the use of the United States, see section 8473 of title 10 , United States Code.
-  - **(10)** For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see section 8474 of title 10 , United States Code.
+  - **(9)** For treatment of gifts and bequests for benefit of the Naval Academy as gifts or bequests to or for the use of the United States, see section 6973 of title 10 , United States Code.
+  - **(10)** For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see section 6974 of title 10 , United States Code.
   - **(11)** For exemption of gifts and bequests received by National Archives Trust Fund Board, see section 2308 of title 44 , United States Code.
   - **(12)** For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.

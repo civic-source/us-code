@@ -1,12 +1,14 @@
 ---
-title: "Section 972h - Repealed. Pub. L. 114–81, title II, § 210 , Nov. 5, 2015 , 129 Stat. 664"
+title: "Section 972h - Authorization of appropriations"
 usc_title: 16
 usc_section: "972h"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 972h"
-generated_at: "2026-03-29T02:11:53.727Z"
+generated_at: "2026-03-29T17:51:56.827Z"
 ---
 
-# §§ 972 to 972h. Repealed. Pub. L. 114–81, title II, § 210 , Nov. 5, 2015 , 129 Stat. 664
+# § 972h. Authorization of appropriations
+
+There are authorized to be appropriated for fiscal years after fiscal year 1984 such sums as may be necessary to carry out this chapter.
 

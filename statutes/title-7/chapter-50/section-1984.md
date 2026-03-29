@@ -3,9 +3,9 @@ title: "Section 1984 - Taxation"
 usc_title: 7
 usc_section: "1984"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1984"
-generated_at: "2026-03-29T02:10:16.881Z"
+generated_at: "2026-03-29T17:50:48.663Z"
 ---
 
 # § 1984. Taxation

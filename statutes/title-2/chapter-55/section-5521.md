@@ -3,12 +3,12 @@ title: "Section 5521 - Compensation of Chaplain of House"
 usc_title: 2
 usc_section: "5521"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 5521"
-generated_at: "2026-03-29T02:09:53.785Z"
+generated_at: "2026-03-29T17:50:24.126Z"
 ---
 
 # § 5521. Compensation of Chaplain of House
 
-The maximum per year gross rate of compensation of the Chaplain of the House of Representatives shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title .
+Effective May 1, 1977 , and until otherwise provided by law, the per annum gross rate of compensation of the Chaplain of the House of Representatives shall be equal to the rate in effect from time to time for HS level 8, step 4, of the House Employees Schedule.
 

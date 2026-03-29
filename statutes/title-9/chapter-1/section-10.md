@@ -3,9 +3,9 @@ title: "Section 10 - Same; vacation; grounds; rehearing"
 usc_title: 9
 usc_section: "10"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "9 U.S.C. § 10"
-generated_at: "2026-03-29T02:10:21.789Z"
+generated_at: "2026-03-29T17:50:38.311Z"
 ---
 
 # § 10. Same; vacation; grounds; rehearing

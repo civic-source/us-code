@@ -1,12 +1,14 @@
 ---
-title: "Section 652 - Omitted"
+title: "Section 652 - Claims against United States for appropriated lands; submission to United States Court of Federal Claims; appeal; grounds for relief"
 usc_title: 25
 usc_section: "652"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 652"
-generated_at: "2026-03-29T02:13:20.866Z"
+generated_at: "2026-03-29T17:52:06.007Z"
 ---
 
-# § 652. Omitted
+# § 652. Claims against United States for appropriated lands; submission to United States Court of Federal Claims; appeal; grounds for relief
+
+All claims of whatsoever nature the Indians of California as defined in section 651 of this title may have against the United States by reason of lands taken from them in the State of California by the United States without compensation, or for the failure or refusal of the United States to compensate them for their interest in lands in said State which the United States appropriated to its own purposes without the consent of said Indians, may be submitted to the United States Court of Federal Claims by the attorney general of the State of California acting for and on behalf of said Indians for determination of the equitable amount due said Indians from the United States; and jurisdiction is conferred upon the United States Court of Federal Claims, 1 1 So in original. The comma probably should not appear. to hear and determine all such equitable claims of said Indians against the United States and to render final decree thereon. It is declared that the loss to the said Indians on account of their failure to secure the lands and compensation provided for in the eighteen unratified treaties is sufficient ground for equitable relief.
 

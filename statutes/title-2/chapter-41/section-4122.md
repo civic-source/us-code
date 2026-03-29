@@ -3,9 +3,9 @@ title: "Section 4122 - Deposit of fees for services by Office of Attending Physi
 usc_title: 2
 usc_section: "4122"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4122"
-generated_at: "2026-03-29T02:09:53.768Z"
+generated_at: "2026-03-29T17:50:24.111Z"
 ---
 
 # § 4122. Deposit of fees for services by Office of Attending Physician; availability of amounts deposited

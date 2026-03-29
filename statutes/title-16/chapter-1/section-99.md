@@ -3,9 +3,9 @@ title: "Section 99 - Forfeitures and seizures of guns, traps, teams, etc."
 usc_title: 16
 usc_section: "99"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 99"
-generated_at: "2026-03-29T02:11:53.337Z"
+generated_at: "2026-03-29T17:51:56.458Z"
 ---
 
 # § 99. Forfeitures and seizures of guns, traps, teams, etc.

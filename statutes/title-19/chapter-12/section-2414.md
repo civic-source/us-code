@@ -3,9 +3,9 @@ title: "Section 2414 - Determinations by Trade Representative"
 usc_title: 19
 usc_section: "2414"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2414"
-generated_at: "2026-03-29T02:12:08.693Z"
+generated_at: "2026-03-29T17:51:51.285Z"
 ---
 
 # § 2414. Determinations by Trade Representative
@@ -31,9 +31,9 @@ generated_at: "2026-03-29T02:12:08.693Z"
       - **(iii)** such foreign country is undertaking enforcement measures to provide adequate and effective protection of intellectual property rights,
   - **(4)** In any case in which a dispute is not resolved before the close of the minimum dispute settlement period provided for in a trade agreement, the Trade Representative, within 15 days after the close of such dispute settlement period, shall submit a report to Congress setting forth the reasons why the dispute was not resolved within the minimum dispute settlement period, the status of the case at the close of the period, and the prospects for resolution. For purposes of this paragraph, the minimum dispute settlement period provided for under any such trade agreement is the total period of time that results if all stages of the formal dispute settlement procedures are carried out within the time limitations specified in the agreement, but computed without regard to any extension authorized under the agreement at any stage.
 - **(b)**
-  - **(1)** Before making the determinations required under subsection (a)(1), the Trade Representative, unless expeditious action is required—
+  - **(1)** Before making the determinations required under subsection (a)(1) of this section, the Trade Representative, unless expeditious action is required—
     - **(A)** shall provide an opportunity (after giving not less than 30 days notice thereof) for the presentation of views by interested persons, including a public hearing if requested by any interested person,
     - **(B)** shall obtain advice from the appropriate committees established pursuant to section 2155 of this title , and
     - **(C)** may request the views of the United States International Trade Commission regarding the probable impact on the economy of the United States of the taking of action with respect to any goods or service.
-  - **(2)** If the Trade Representative does not comply with the requirements of subparagraphs (A) and (B) of paragraph (1) because expeditious action is required, the Trade Representative shall, after making the determinations under subsection (a)(1), comply with such subparagraphs.
-- **(c)** The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1), together with a description of the facts on which such determination is based.
+  - **(2)** If the Trade Representative does not comply with the requirements of subparagraphs (A) and (B) of paragraph (1) because expeditious action is required, the Trade Representative shall, after making the determinations under subsection (a)(1) of this section, comply with such subparagraphs.
+- **(c)** The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1) of this section, together with a description of the facts on which such determination is based.

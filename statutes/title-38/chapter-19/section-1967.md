@@ -3,9 +3,9 @@ title: "Section 1967 - Persons insured; amount"
 usc_title: 38
 usc_section: "1967"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1967"
-generated_at: "2026-03-29T02:14:50.379Z"
+generated_at: "2026-03-29T17:52:53.716Z"
 ---
 
 # § 1967. Persons insured; amount
@@ -23,17 +23,12 @@ generated_at: "2026-03-29T02:14:50.379Z"
     - **(A)** A member may elect in writing not to be insured under this subchapter.
     - **(B)** A member may elect in writing not to insure the member’s spouse under this subchapter.
   - **(3)**
-    - **(A)** Subject to subparagraphs (B), (C), and (D), the amount for which a person is insured under this subchapter is as follows:
-      - **(i)** In the case of a member, $500,000.
+    - **(A)** Subject to subparagraphs (B) and (C), the amount for which a person is insured under this subchapter is as follows:
+      - **(i)** In the case of a member, $400,000.
       - **(ii)** In the case of a member’s spouse, $100,000.
       - **(iii)** In the case of a member’s child, $10,000.
     - **(B)** A member may elect in writing to be insured or to insure the member’s spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member’s child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member’s spouse, be evenly divisible by $10,000.
     - **(C)** In no case may the amount of insurance coverage under this subsection of a member’s spouse exceed the amount of insurance coverage of the member.
-    - **(D)** In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations, the member—
-      - **(i)** shall be insured under this subchapter for the maximum amount provided under subparagraph (A) for the period of such deployment; and
-      - **(ii)** upon the end of such deployment—
-        - **(I)** shall be insured in the amount elected by the member under subparagraph (B); or
-        - **(II)** shall not be insured, if so elected under paragraph (2)(A).
   - **(4)**
     - **(A)** An insurable dependent of a member is not insured under this chapter unless the member is insured under this subchapter.
     - **(B)** An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that if that member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.

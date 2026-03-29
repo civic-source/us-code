@@ -3,14 +3,14 @@ title: "Section 1621 - Indian Health Care Improvement Fund"
 usc_title: 25
 usc_section: "1621"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1621"
-generated_at: "2026-03-29T02:13:20.887Z"
+generated_at: "2026-03-29T17:52:06.062Z"
 ---
 
 # § 1621. Indian Health Care Improvement Fund
 
-- **(a)** The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. which are appropriated under the authority of this section, for the purposes of—
+- **(a)** The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), which are appropriated under the authority of this section, for the purposes of—
   - **(1)** eliminating the deficiencies in health status and health resources of all Indian tribes;
   - **(2)** eliminating backlogs in the provision of health care services to Indians;
   - **(3)** meeting the health needs of Indians in an efficient and equitable manner, including the use of telehealth and telemedicine when appropriate;

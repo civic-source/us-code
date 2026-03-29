@@ -3,9 +3,9 @@ title: "Section 7519 - Required payments for entities electing not to have requi
 usc_title: 26
 usc_section: "7519"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7519"
-generated_at: "2026-03-29T02:14:01.395Z"
+generated_at: "2026-03-29T17:52:39.619Z"
 ---
 
 # § 7519. Required payments for entities electing not to have required taxable year
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T02:14:01.395Z"
     - **(B)** The term “applicable payment” shall not include any—
       - **(i)** gain from the sale or exchange of property between the partner or shareholder and the partnership or S corporation, and
       - **(ii)** dividend paid by the S corporation.
-  - **(4)** The applicable percentage is the percentage determined in accordance with the following table: If the applicable election year of the partnership or S corporation begins during: The applicable percentage is: 1987 25 1988 50 1989 75 1990 or thereafter 100. Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
+  - **(4)** The applicable percentage is the percentage determined in accordance with the following table: If the applicable election year of the partnership or S The applicable corporation begins during: percentage is: 1987 25 1988 50 1989 75 1990 or thereafter 100. Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
   - **(5)**
     - **(A)** Any guaranteed payment by a partnership shall not be treated as an applicable payment, and the amount of the net income of the partnership shall be determined by not taking such guaranteed payment into account.
     - **(B)** For purposes of subparagraph (A), the term “guaranteed payment” means any payment referred to in section 707(c).

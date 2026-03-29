@@ -3,29 +3,35 @@ title: "Section 2211a - Authorization; implementation; targeted assistance"
 usc_title: 22
 usc_section: "2211a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2211a"
-generated_at: "2026-03-29T02:12:40.042Z"
+generated_at: "2026-03-29T17:52:10.495Z"
 ---
 
 # § 2211a. Authorization; implementation; targeted assistance
 
-- **(a)** The President is authorized to provide assistance on a non-reimbursable basis for programs in developing countries to increase the availability of credit, including the use of innovative credit scoring models, savings, financial technology, financial literacy, education, insurance, property rights, and other services to micro, small, and medium-sized enterprise clients lacking full access to capital, training, technical assistance, and business development services, through—
-  - **(1)** assistance for the purpose of expanding the availability of credit, savings, and other financial and non-financial services to micro, small, and medium-sized enterprise clients, particularly clients owned, managed, and controlled by women;
-  - **(2)** assistance for the purpose of training, technical assistance, and business development services for micro, small, and medium-sized enterprises to enable them to make better use of credit, to better manage their enterprises, to conduct market analysis and product development for expanding domestic and international sales, particularly to United States markets, and to increase their income and build their assets;
-  - **(3)** capacity-building for financial intermediaries in order to enable them to better meet the credit, savings, and training needs of micro, small, and medium-sized enterprises;
-  - **(4)** policy, regulatory programs, and research at the country level that improve the environment for micro, small, and medium-sized enterprises, financial intermediaries, and capital markets and institutions that serve the poor and very poor, especially women;
-  - **(5)** assistance for the purpose of promoting the economic empowerment of women, including through increased access to financial resources and improving property rights, inheritance rights, and other legal protections; and
-  - **(6)** assistance for the purpose of scaling up evidence-based graduation approaches, which include targeting the very poor and households in ultra-poverty, consumption support, promotion of savings, financial literacy, skills training, and asset transfers.
+- **(a)** The President is authorized to provide assistance on a non-reimbursable basis for programs in developing countries to increase the availability of credit, savings, and other services to microfinance and microenterprise clients lacking full access to capital, training, technical assistance, and business development services, through—
+  - **(1)** assistance for the purpose of expanding the availability of credit, savings, and other financial and non-financial services to microfinance and microenterprise clients;
+  - **(2)** assistance for the purpose of training, technical assistance, and business development services for microenterprises to enable them to make better use of credit, to better manage their enterprises, to conduct market analysis and product development for expanding domestic and international sales, particularly to United States markets, and to increase their income and build their assets;
+  - **(3)** capacity-building for microfinance and microenterprise institutions in order to enable them to better meet the credit, savings, and training needs of microfinance and microenterprise clients; and
+  - **(4)** policy, regulatory programs, and research at the country level that improve the environment for microfinance and microenterprise clients and institutions that serve the poor and very poor.
 - **(b)**
-  - **(1)** There is authorized to be established within the Agency an office to support the Agency’s efforts to broaden and deepen local financial markets, expand access to appropriate financial products and services, and support the development of micro, small and medium-sized enterprises. The Office shall be headed by a Director who shall possess technical expertise and ability to offer leadership in the field of financial sector development.
+  - **(1)** There is established within the Agency an office of microenterprise development, which shall be headed by a Director who shall be appointed by the Administrator and who should possess technical expertise and ability to offer leadership in the field of microenterprise development.
   - **(2)**
     - **(A)** Assistance under this section shall emphasize the use of implementing partner organizations that best meet the requirements of subparagraph (C).
-    - **(B)** In order to ensure that assistance under this subpart is distributed effectively and efficiently, the office shall provide coordination and support for field-implemented programs, including through targeted core support for micro, small, and medium-sized enterprises and local financial markets.
-    - **(C)** Assistance under this section shall meet high standards of efficiency, cost-effectiveness, and sustainability, particularly by protecting the use and funding of local organizations in countries in which the Agency invests, and shall especially provide the greatest possible resources to the poor and very poor, especially women. When administering assistance under this section, the Administrator shall—
+    - **(B)**
+      - **(i)** In order to ensure that assistance under this subpart is distributed effectively and efficiently, the office shall also seek to implement a program of central funding under which assistance is administered directly by the office, including through targeted core support for microfinance and microenterprise networks and other practitioners.
+      - **(ii)** Of the amount made available to carry out this division for a fiscal year, not less than $25,000,000 should be made available to carry out clause (i).
+    - **(C)** Assistance under this section shall meet high standards of efficiency, cost-effectiveness, and sustainability and shall especially provide the greatest possible resources to the poor and very poor. When administering assistance under this section, the Administrator shall—
       - **(i)** take into consideration the percentage of funds a provider of assistance intends to expend on administrative costs;
       - **(ii)** take all appropriate steps to ensure that the provider of assistance keeps administrative costs as low as practicable to ensure the maximum amount of funds are used for directly assisting microfinance and microenterprise clients, for establishing sustainable microfinance and microenterprise institutions, or for advancing the microenterprise development field; and
       - **(iii)** give preference to proposals from providers of assistance that are the most technically competitive and have a reasonable allocation to overhead and administrative costs.
-- **(c)** In carrying out sustainable poverty-focused programs under subsection (a)—
-  - **(1)** 50 percent of all micro, small, and medium-sized enterprise resources shall be targeted to activities that reach the very poor; and
-  - **(2)** 50 percent of all small and medium-sized enterprise resources shall be targeted to activities that reach enterprises owned, managed, and controlled by women.
+  - **(3)** With respect to assistance provided under this section, the office shall be responsible for concurring in the microenterprise development components of strategic plans of missions, bureaus, and other offices of the Agency and providing technical support to field missions to help the missions prepare such components.
+- **(c)** In carrying out sustainable poverty-focused programs under subsection (a) of this section, 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006 , such resources shall be used for—
+  - **(1)** support of programs under this section through practitioner institutions that—
+    - **(A)** provide credit and other financial services to clients who are very poor, with loans in 1995 United States dollars of—
+      - **(i)** $1,000 or less in the Europe and Eurasia region;
+      - **(ii)** $400 or less in the Latin America region; and
+      - **(iii)** $300 or less in the rest of the world; and
+    - **(B)** can cover their costs in a reasonable time period; or
+  - **(2)** demand-driven business development programs that achieve reasonable cost recovery that are provided to clients holding poverty loans (as defined by the regional poverty loan limitations in paragraph (1)(A)), whether they are provided by microfinance institutions or by specialized business development services providers.

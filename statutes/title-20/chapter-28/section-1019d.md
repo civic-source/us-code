@@ -3,9 +3,9 @@ title: "Section 1019d - Self-certification form for private education loans"
 usc_title: 20
 usc_section: "1019d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1019d"
-generated_at: "2026-03-29T02:12:17.181Z"
+generated_at: "2026-03-29T17:51:48.322Z"
 ---
 
 # § 1019d. Self-certification form for private education loans
@@ -14,13 +14,13 @@ generated_at: "2026-03-29T02:12:17.181Z"
   - **(1)** be developed in a standardized format;
   - **(2)** be made available to the applicant by the relevant institution of higher education, in written or electronic form, upon request of the applicant;
   - **(3)** contain only disclosures that—
-    - **(A)** the applicant may qualify for Federal student financial assistance through a program under subchapter IV of this chapter, or State or institutional student financial assistance, in place of, or in addition to, a private education loan;
+    - **(A)** the applicant may qualify for Federal student financial assistance through a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, or State or institutional student financial assistance, in place of, or in addition to, a private education loan;
     - **(B)** the applicant is encouraged to discuss the availability of Federal, State, and institutional student financial assistance with financial aid officials at the applicant’s institution of higher education;
     - **(C)** a private education loan may affect the applicant’s eligibility for free or low-cost Federal, State or institutional student financial assistance; and
     - **(D)** the information that the applicant is required to provide on the form is available from officials at the financial aid office of the institution of higher education;
   - **(4)** include a place to provide information on—
-    - **(A)** the applicant’s cost of attendance at the institution of higher education, as determined by the institution under part F of subchapter IV;
-    - **(B)** the applicant’s estimated financial assistance, including amounts of financial assistance used to replace the student aid index, as determined by the institution, in accordance with subchapter IV, for students who have completed the Free Application for Federal Student Aid; and
+    - **(A)** the applicant’s cost of attendance at the institution of higher education, as determined by the institution under part E of subchapter IV;
+    - **(B)** the applicant’s estimated financial assistance, including amounts of financial assistance used to replace the expected family contribution, as determined by the institution, in accordance with subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, for students who have completed the Free Application for Federal Student Aid; and
     - **(C)** the difference between the amounts under subparagraphs (A) and (B), as applicable; and
   - **(5)** include a place for the applicant’s signature, in written or electronic form.
 - **(b)** Nothing in this section shall be construed to create a private right of action against an institution of higher education with respect to the form developed under subsection (a).

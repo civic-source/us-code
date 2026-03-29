@@ -3,9 +3,9 @@ title: "Section 301 - Preemption with respect to other laws"
 usc_title: 17
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "17 U.S.C. § 301"
-generated_at: "2026-03-29T02:11:57.620Z"
+generated_at: "2026-03-29T17:51:39.288Z"
 ---
 
 # § 301. Preemption with respect to other laws
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:11:57.620Z"
   - **(2)** any cause of action arising from undertakings commenced before January 1, 1978 ;
   - **(3)** activities violating legal or equitable rights that are not equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106; or
   - **(4)** State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8).
-- **(c)** Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972 , shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972 , the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did the day before the date of enactment of the Classics Protection and Access Act.
+- **(c)** With respect to sound recordings fixed before February 15, 1972 , any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067 . The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067 . Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972 , shall be subject to copyright under this title before, on, or after February 15, 2067 .
 - **(d)** Nothing in this title annuls or limits any rights or remedies under any other Federal statute.
 - **(e)** The scope of Federal preemption under this section is not affected by the adherence of the United States to the Berne Convention or the satisfaction of obligations of the United States thereunder.
 - **(f)**

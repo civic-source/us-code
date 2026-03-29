@@ -3,9 +3,9 @@ title: "Section 2014 - Administrative actions adversely affecting military train
 usc_title: 10
 usc_section: "2014"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2014"
-generated_at: "2026-03-29T02:10:45.057Z"
+generated_at: "2026-03-29T17:50:57.069Z"
 ---
 
 # § 2014. Administrative actions adversely affecting military training or other readiness activities

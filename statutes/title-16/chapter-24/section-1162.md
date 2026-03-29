@@ -3,9 +3,9 @@ title: "Section 1162 - Authority of Secretary to operate, maintain, and repair G
 usc_title: 16
 usc_section: "1162"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1162"
-generated_at: "2026-03-29T02:11:53.737Z"
+generated_at: "2026-03-29T17:51:56.836Z"
 ---
 
 # § 1162. Authority of Secretary to operate, maintain, and repair Government-owned property; necessary facilities, services, and equipment for Federal employees and dependents

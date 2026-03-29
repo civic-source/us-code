@@ -3,9 +3,9 @@ title: "Section 1166 - Notice requirements"
 usc_title: 29
 usc_section: "1166"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1166"
-generated_at: "2026-03-29T02:14:09.446Z"
+generated_at: "2026-03-29T17:52:18.851Z"
 ---
 
 # § 1166. Notice requirements
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T02:14:09.446Z"
   - **(4)** the administrator shall notify—
     - **(A)** in the case of a qualifying event described in paragraph (1), (2), (4), or (6) of section 1163 of this title , any qualified beneficiary with respect to such event, and
     - **(B)** in the case of a qualifying event described in paragraph (3) or (5) of section 1163 of this title where the covered employee notifies the administrator under paragraph (3), any qualified beneficiary with respect to such event,
-- **(b)** The requirements of subsection (a)(2) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (2) of section 1163 of this title if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator.
-- **(c)** For purposes of subsection (a)(4), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+- **(b)** The requirements of subsection (a)(2) of this section shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (2) of section 1163 of this title if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator.
+- **(c)** For purposes of subsection (a)(4) of this section, any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.

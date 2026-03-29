@@ -3,9 +3,9 @@ title: "Section 6381 - Definitions"
 usc_title: 5
 usc_section: "6381"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 6381"
-generated_at: "2026-03-29T02:10:01.899Z"
+generated_at: "2026-03-29T17:50:36.505Z"
 ---
 
 # § 6381. Definitions
@@ -13,10 +13,8 @@ generated_at: "2026-03-29T02:10:01.899Z"
 For the purpose of this subchapter—
 
   - **(1)** the term “employee” means any individual who—
-    - **(A)** is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 1 1 So in original. Probably should be followed by a comma. any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
-    - **(B)** has completed at least 12 months of service—
-      - **(i)** as an employee (as that term is defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c); or
-      - **(ii)** which qualifies as honorable active service in the Army, Navy, Air Force, Space Force, or Marine Corps of the United States;
+    - **(A)** is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 1 1 So in original. Probably should be followed by a comma. any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
+    - **(B)** has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));
   - **(2)** the term “health care provider” means—
     - **(A)** a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; and
     - **(B)** any other person determined by the Director of the Office of Personnel Management to be capable of providing health care services;

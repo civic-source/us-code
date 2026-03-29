@@ -3,9 +3,9 @@ title: "Section 2301 - Establishment of the United States Holocaust Memorial Mus
 usc_title: 36
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 2301"
-generated_at: "2026-03-29T02:14:41.336Z"
+generated_at: "2026-03-29T17:52:49.342Z"
 ---
 
 # § 2301. Establishment of the United States Holocaust Memorial Museum; functions
@@ -13,5 +13,5 @@ generated_at: "2026-03-29T02:14:41.336Z"
 The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United States Government. The Museum shall—
 
   - **(1)** provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
-  - **(2)** operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2304 of this title ; and
+  - **(2)** operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 1 1 So in original. Section 2306 of this title does not relate to cooperation with the Secretary or other Federal agencies. of this title; and
   - **(3)** carry out the recommendations of the President’s Commission on the Holocaust in its report to the President of September 27, 1979 , to the extent such recommendations are not otherwise provided for in this chapter.

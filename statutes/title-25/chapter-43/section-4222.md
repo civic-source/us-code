@@ -3,9 +3,9 @@ title: "Section 4222 - Block grants for affordable housing activities"
 usc_title: 25
 usc_section: "4222"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 4222"
-generated_at: "2026-03-29T02:13:20.993Z"
+generated_at: "2026-03-29T17:52:06.163Z"
 ---
 
 # § 4222. Block grants for affordable housing activities
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:13:20.993Z"
     - **(A)** the Director has submitted to the Secretary a housing plan for that fiscal year; and
     - **(B)** the Secretary has determined under section 4224 of this title that the housing plan complies with the requirements of section 4223 of this title .
   - **(2)** The Secretary may waive the applicability of the requirements under paragraph (1), in part, if the Secretary finds that the Department of Hawaiian Home Lands has not complied or cannot comply with those requirements due to circumstances beyond the control of the Department of Hawaiian Home Lands.
-- **(c)** Except as provided in subsection (e), amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under section 4224 of this title .
+- **(c)** Except as provided in subsection (e) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under section 4224 of this title .
 - **(d)**
   - **(1)** The Secretary shall, by regulation, authorize the Department of Hawaiian Home Lands to use a percentage of any grant amounts received under this subchapter for any reasonable administrative and planning expenses of the Department relating to carrying out this subchapter and activities assisted with those amounts.
   - **(2)** The administrative and planning expenses referred to in paragraph (1) include—

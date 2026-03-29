@@ -1,14 +1,16 @@
 ---
-title: "Section 1301 - Experimental practices"
+title: "Section 1301 - Environmental practices"
 usc_title: 30
 usc_section: "1301"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1301"
-generated_at: "2026-03-29T02:14:11.261Z"
+generated_at: "2026-03-29T17:52:16.766Z"
 ---
 
-# § 1301. Experimental practices
+# § 1301. Environmental practices
 
-In order to encourage advances in mining and reclamation practices or to allow post-mining land use for industrial, commercial, residential, or public use (including recreational facilities), the regulatory authority with approval by the Secretary may authorize departures in individual cases on an experimental basis from the environmental protection performance standards promulgated under sections 1265 and 1266 of this title. Such departures may be authorized if (i) the experimental practices are potentially more or at least as environmentally protective, during and after mining operations, as those required by promulgated standards; (ii) the mining operations approved for particular land-use or other purposes are not larger or more numerous than necessary to determine the effectiveness and economic feasibility of the experimental practices; and (iii) the experimental practices do not reduce the protection afforded public health and safety below that provided by promulgated standards.
+      - **(i)** the experimental practices are potentially more or at least as environmentally protective, during and after mining operations, as those required by promulgated standards;
+      - **(ii)** the mining operations approved for particular land-use or other purposes are not larger or more numerous than necessary to determine the effectiveness and economic feasibility of the experimental practices; and
+      - **(iii)** the experimental practices do not reduce the protection afforded public health and safety below that provided by promulgated standards.
 

@@ -3,9 +3,9 @@ title: "Section 502 - Allowance of claims or interests"
 usc_title: 11
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 502"
-generated_at: "2026-03-29T02:10:54.318Z"
+generated_at: "2026-03-29T17:51:02.136Z"
 ---
 
 # § 502. Allowance of claims or interests
@@ -28,9 +28,7 @@ generated_at: "2026-03-29T02:10:54.318Z"
       - **(ii)** the date on which the employer directed the employee to terminate, or such employee terminated, performance under such contract; plus
     - **(B)** any unpaid compensation due under such contract, without acceleration, on the earlier of such dates;
   - **(8)** such claim results from a reduction, due to late payment, in the amount of an otherwise applicable credit available to the debtor in connection with an employment tax on wages, salaries, or commissions earned from the debtor; or
-  - **(9)** proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—
-    - **(A)** a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide; and
-    - **(B)** in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
+  - **(9)** proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
 - **(c)** There shall be estimated for purpose of allowance under this section—
   - **(1)** any contingent or unliquidated claim, the fixing or liquidation of which, as the case may be, would unduly delay the administration of the case; or
   - **(2)** any right to payment arising from a right to an equitable remedy for breach of performance.

@@ -1,12 +1,14 @@
 ---
-title: "Section 431 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 431 - National monuments; reservation of lands; relinquishment of private claims"
 usc_title: 16
 usc_section: "431"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 431"
-generated_at: "2026-03-29T02:11:53.456Z"
+generated_at: "2026-03-29T17:51:56.568Z"
 ---
 
-# § 431. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 431. National monuments; reservation of lands; relinquishment of private claims
+
+The President of the United States is authorized, in his discretion, to declare by public proclamation historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. When such objects are situated upon a tract covered by a bona fide unperfected claim or held in private ownership, the tract, or so much thereof as may be necessary for the proper care and management of the object, may be relinquished to the Government, and the Secretary of the Interior is authorized to accept the relinquishment of such tracts in behalf of the Government of the United States.
 

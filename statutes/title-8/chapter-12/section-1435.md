@@ -3,9 +3,9 @@ title: "Section 1435 - Former citizens regaining citizenship"
 usc_title: 8
 usc_section: "1435"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1435"
-generated_at: "2026-03-29T02:10:21.470Z"
+generated_at: "2026-03-29T17:50:41.381Z"
 ---
 
 # § 1435. Former citizens regaining citizenship
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T02:10:21.470Z"
   - **(3)** Such oath of allegiance shall be entered in the records of the appropriate embassy, legation, consulate, court, or the Attorney General, and, upon demand, a certified copy of the proceedings, including a copy of the oath administered, under the seal of the embassy, legation, consulate, court, or the Attorney General, shall be delivered to such woman at a cost not exceeding $5, which certified copy shall be evidence of the facts stated therein before any court of record or judicial tribunal and in any department or agency of the Government of the United States.
 - **(d)**
   - **(1)** A person who was a citizen of the United States at birth and lost such citizenship for failure to meet the physical presence retention requirements under section 1401(b) of this title (as in effect before October 10, 1978 ), shall, from and after taking the oath of allegiance required by section 1448 of this title be a citizen of the United States and have the status of a citizen of the United States by birth, without filing an application for naturalization, and notwithstanding any of the other provisions of this subchapter except the provisions of section 1424 of this title . Nothing in this subsection or any other provision of law shall be construed as conferring United States citizenship retroactively upon such person during any period in which such person was not a citizen.
-  - **(2)** The provisions of paragraphs (2) and (3) of subsection (c) shall apply to a person regaining citizenship under paragraph (1) in the same manner as they apply under subsection (c)(1).
+  - **(2)** The provisions of paragraphs (2) and (3) of subsection (c) of this section shall apply to a person regaining citizenship under paragraph (1) in the same manner as they apply under subsection (c)(1) of this section.

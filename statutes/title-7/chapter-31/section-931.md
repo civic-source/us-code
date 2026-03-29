@@ -3,9 +3,9 @@ title: "Section 931 - Rural Electrification and Telephone Revolving Fund"
 usc_title: 7
 usc_section: "931"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 931"
-generated_at: "2026-03-29T02:10:16.749Z"
+generated_at: "2026-03-29T17:50:48.544Z"
 ---
 
 # § 931. Rural Electrification and Telephone Revolving Fund
@@ -14,6 +14,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
   - **(1)** all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905, 1 1 See References in Text note below. and 922 of this title and under this subchapter, as of May 11, 1973 , and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
   - **(2)** undisbursed balances of electric and telephone loans made under sections 904, 905, 1 and 922 of this title, which as of May 11, 1973 , shall be transferred to and be assets of the fund;
-  - **(3)** all collections of principal and interest received on and after July 1, 1972 , on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, which shall be paid into and be assets of the fund;
-  - **(4)** all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts; or
-  - **(5)** moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title .
+  - **(3)** all collections of principal and interest received on and after July 1, 1972 , on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
+  - **(4)** all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
+  - **(5)** moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title ; and
+  - **(6)** shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.

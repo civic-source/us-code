@@ -3,9 +3,9 @@ title: "Section 2902 - Definitions"
 usc_title: 33
 usc_section: "2902"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2902"
-generated_at: "2026-03-29T02:14:18.646Z"
+generated_at: "2026-03-29T17:52:46.001Z"
 ---
 
 # § 2902. Definitions
@@ -35,7 +35,7 @@ In this chapter, the following definitions apply:
       - **(ii)** a lakewide management plan or remedial action plan developed under section 1268 of this title ;
       - **(iii)** a management plan approved under the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.); and
       - **(iv)** the interstate management plan developed pursuant to the Chesapeake Bay program under section 1267 of this title .
-  - **(7)** The term “Indian tribe” has the meaning given such term by section 5304 of title 25 .
+  - **(7)** The term “Indian tribe” has the meaning given such term by section 450b of title 25 .
   - **(8)** The term “non-Federal interest” means a State, a political subdivision of a State, an Indian tribe, a regional or interstate agency, or, as provided in section 2903(f)(2) of this title , a nongovernmental organization.
   - **(9)** The term “Secretary” means the Secretary of the Army.
   - **(10)** The term “State” means the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Virginia, Washington, and Wisconsin, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, American Samoa, and Guam.

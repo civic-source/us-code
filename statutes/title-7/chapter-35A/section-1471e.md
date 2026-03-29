@@ -3,14 +3,14 @@ title: "Section 1471e - Additional assistance"
 usc_title: 7
 usc_section: "1471e"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1471e"
-generated_at: "2026-03-29T02:10:16.801Z"
+generated_at: "2026-03-29T17:50:48.593Z"
 ---
 
 # § 1471e. Additional assistance
 
-- **(a)** In addition to the assistance provided under section 1471d of this title , if the Secretary determines that the livestock emergency also requires the implementation of one or more of the assistance programs described in subsection (b), the Secretary shall implement such programs.
+- **(a)** In addition to the assistance provided under section 1471d of this title , if the Secretary determines that the livestock emergency also requires the implementation of one or more of the assistance programs described in subsection (b) of this section, the Secretary shall implement such programs.
 - **(b)** Special assistance under this section includes—
   - **(1)** the donation of feed owned by the Commodity Credit Corporation for use in feeding livestock stranded and unidentified as to its owner, including the cost of transporting feed to the affected area, during such period as the Secretary, by regulation, may prescribe;
   - **(2)** reimbursement of not to exceed 50 percent of the cost of—
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T02:10:16.801Z"
     - **(C)** developing springs or seeps for livestock water,
   - **(3)** reimbursement of not to exceed 50 percent of the cost of burning prickly pear cactus to make it suitable for animal feed; and
   - **(4)** making commodities owned by the Commodity Credit Corporation available to livestock producers through the use of a catalog that specifies lots of a size that are economically feasible for a small producer to obtain by means of certificate exchanges.
-- **(c)** The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) for livestock emergencies in 1988 and 1989.
+- **(c)** The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) of this section for livestock emergencies in 1988 and 1989.

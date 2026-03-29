@@ -3,9 +3,9 @@ title: "Section 5422 - Labor market transition in Poland and Hungary"
 usc_title: 22
 usc_section: "5422"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5422"
-generated_at: "2026-03-29T02:12:40.358Z"
+generated_at: "2026-03-29T17:52:10.641Z"
 ---
 
 # § 5422. Labor market transition in Poland and Hungary
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T02:12:40.358Z"
 - **(a)** The Secretary of Labor (hereinafter in this section referred to as the “Secretary”), in consultation with representatives of labor and business in the United States, shall—
   - **(1)** provide technical assistance to Poland and Hungary for the implementation of labor market reforms; and
   - **(2)** provide technical assistance to Poland and Hungary to facilitate adjustment during the period of economic transition and reform.
-- **(b)** In carrying out subsection (a), the Secretary is authorized to provide technical assistance regarding policies and programs for training and retraining, job search and employment services, unemployment insurance, occupational safety and health protection, labor-management relations, labor statistics, analysis of productivity constraints, entrepreneurial support for small businesses, market-driven systems of wage and income determinations, job creation, employment security, the observance of internationally recognized worker rights (including freedom of association and the right to organize and bargain collectively), and other matters that the Secretary may deem appropriate regarding free labor markets and labor organizations.
-- **(c)** In carrying out subsection (a), the Secretary is authorized to do the following:
+- **(b)** In carrying out subsection (a) of this section, the Secretary is authorized to provide technical assistance regarding policies and programs for training and retraining, job search and employment services, unemployment insurance, occupational safety and health protection, labor-management relations, labor statistics, analysis of productivity constraints, entrepreneurial support for small businesses, market-driven systems of wage and income determinations, job creation, employment security, the observance of internationally recognized worker rights (including freedom of association and the right to organize and bargain collectively), and other matters that the Secretary may deem appropriate regarding free labor markets and labor organizations.
+- **(c)** In carrying out subsection (a) of this section, the Secretary is authorized to do the following:
   - **(1)** Solicit and accept in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this section, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise. Gifts and donations of property which are no longer required for the discharge of the purposes of this section shall be reported to the Administrator of General Services for transfer, donation, or other disposal in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
   - **(2)** Solicit and accept voluntary and uncompensated services notwithstanding section 1342 of title 31 . A volunteer under this paragraph shall not be deemed to be an employee of the United States except for the purposes of—
     - **(A)** the tort claims provisions of title 28, and
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:12:40.358Z"
   - **(3)** Enter into arrangements or agreements with appropriate departments, agencies, and establishments of Poland and Hungary.
   - **(4)** Enter into arrangements or agreements with appropriate private and public sector United States parties, and international organizations.
 - **(d)** In carrying out the responsibilities established by this section, the Secretary shall seek information and advice from, and consult with, appropriate officers of the United States.
-- **(e)** For purposes of this section, consultation between the Secretary and United States labor and business representatives shall not be subject to chapter 10 of title 5.
+- **(e)** For purposes of this section, consultation between the Secretary and United States labor and business representatives shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 - **(f)** The Secretary shall delegate the authority to carry out the programs authorized by this section to the head of the Bureau of International Labor Affairs of the Department of Labor.
 - **(g)** There are authorized to be appropriated to the Department of Labor for the 3-year period beginning October 1, 1989 , to carry out this section—
   - **(1)** $4,000,000 for technical assistance to Poland; and

@@ -3,9 +3,9 @@ title: "Section 1099a - State responsibilities"
 usc_title: 20
 usc_section: "1099a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1099a"
-generated_at: "2026-03-29T02:12:17.296Z"
+generated_at: "2026-03-29T17:51:48.437Z"
 ---
 
 # § 1099a. State responsibilities
@@ -14,6 +14,6 @@ generated_at: "2026-03-29T02:12:17.296Z"
   - **(1)** furnish the Secretary, upon request, information with respect to the process for licensing or other authorization for institutions of higher education to operate within the State;
   - **(2)** notify the Secretary promptly whenever the State revokes a license or other authority to operate an institution of higher education; and
   - **(3)** notify the Secretary promptly whenever the State has credible evidence that an institution of higher education within the State—
-    - **(A)** has committed fraud in the administration of the student assistance programs authorized by this subchapter; or
-    - **(B)** has substantially violated a provision of this subchapter.
+    - **(A)** has committed fraud in the administration of the student assistance programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42; or
+    - **(B)** has substantially violated a provision of this subchapter and part C of subchapter I of chapter 34 of title 42.
 - **(b)** Each institution of higher education shall provide evidence to the Secretary that the institution has authority to operate within a State at the time the institution is certified under subpart 3 of this part.

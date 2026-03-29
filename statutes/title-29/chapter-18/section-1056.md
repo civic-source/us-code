@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-29T02:14:09.416Z"
+generated_at: "2026-03-29T17:52:18.821Z"
 ---
 
 # § 1056. Form and payment of benefits
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:14:09.416Z"
         - **(II)** with respect to which the requirements of subparagraphs (C) and (D) are met, and
       - **(ii)** the term “domestic relations order” means any judgment, decree, or order (including approval of a property settlement agreement) which—
         - **(I)** relates to the provision of child support, alimony payments, or marital property rights to a spouse, former spouse, child, or other dependent of a participant, and
-        - **(II)** is made pursuant to a State or Tribal domestic relations law (including a community property law).
+        - **(II)** is made pursuant to a State domestic relations law (including a community property law).
     - **(C)** A domestic relations order meets the requirements of this subparagraph only if such order clearly specifies—
       - **(i)** the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate payee covered by the order,
       - **(ii)** the amount or percentage of the participant’s benefits to be paid by the plan to each such alternate payee, or the manner in which such amount or percentage is to be determined,
@@ -124,7 +124,7 @@ generated_at: "2026-03-29T02:14:09.416Z"
     - **(C)** Subparagraph (A) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant’s compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
   - **(3)**
     - **(A)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
-    - **(B)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 1083(h)(2)(C)(iv) of this title ) is not less than 100 percent.
+    - **(B)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
     - **(C)**
       - **(i)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is 60 percent or greater but less than 80 percent, the plan may not pay any prohibited payment after the valuation date for the plan year to the extent the amount of the payment exceeds the lesser of—
         - **(I)** 50 percent of the amount of the payment which could be made without regard to this subsection, or
@@ -170,36 +170,20 @@ generated_at: "2026-03-29T02:14:09.416Z"
   - **(9)** For purposes of this subsection—
     - **(A)** The term “funding target attainment percentage” has the same meaning given such term by section 1083(d)(2) of this title .
     - **(B)** The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26 ) which were made by the plan during the preceding 2 plan years.
-    - **(C)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
+    - **(C)**
+      - **(i)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
+      - **(ii)** Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
+      - **(iii)** Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title ) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
+    - **(D)** Solely for purposes of any applicable provision—
+      - **(i)** For plan years beginning on or after October 1, 2008 , and before October 1, 2010 , the adjusted funding target attainment percentage of a plan shall be the greater of—
+        - **(I)** such percentage, as determined without regard to this subparagraph, or
+        - **(II)** the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007 , and before October 1, 2008 , as determined under rules prescribed by the Secretary of the Treasury.
+      - **(ii)** In the case of a plan for which the valuation date is not the first day of the plan year—
+        - **(I)** clause (i) shall apply to plan years beginning after December 31, 2007 , and before January 1, 2010 , and
+        - **(II)** clause (i)(II) shall apply based on the last plan year beginning before November 1, 2007 , as determined under rules prescribed by the Secretary of the Treasury.
+      - **(iii)** For purposes of this subparagraph, the term “applicable provision” means—
+        - **(I)** paragraph (3), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary of the Treasury, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
+        - **(II)** paragraph (4).
   - **(10)** In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
-  - **[(11)**
+  - **(11)** For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
   - **(12)** This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title ).
-- **(h)**
-  - **(1)** In the case of an inadvertent benefit overpayment by any pension plan, the responsible plan fiduciary shall not be considered to have failed to comply with the requirements of this subchapter merely because such fiduciary determines, in the exercise of its discretion, not to seek recovery of all or part of such overpayment from—
-    - **(A)** any participant or beneficiary,
-    - **(B)** any plan sponsor of, or contributing employer to—
-      - **(i)** an individual account plan, provided that the amount needed to prevent or restore any impermissible forfeiture from any participant’s or beneficiary’s account arising in connection with the overpayment is, separately from and independently of the overpayment, allocated to such account pursuant to the nonforfeitability requirements of section 1053 of this title (for example, out of the plan’s forfeiture account, additional employer contributions, or recoveries from those responsible for the overpayment), or
-      - **(ii)** a defined benefit pension plan subject to the funding rules in part 3 of this subtitle B, unless the responsible plan fiduciary determines, in the exercise of its fiduciary discretion, that failure to recover all or part of the overpayment faster than required under such funding rules would materially affect the plan’s ability to pay benefits due to other participants and beneficiaries, or
-    - **(C)** any fiduciary of the plan, other than a fiduciary (including a plan sponsor or contributing employer acting in a fiduciary capacity) whose breach of its fiduciary duties resulted in such overpayment, provided that if the plan has established prudent procedures to prevent and minimize overpayment of benefits and the relevant plan fiduciaries have followed such procedures, an inadvertent benefit overpayment will not give rise to a breach of fiduciary duty.
-  - **(2)** Paragraph (1) shall not fail to apply with respect to any inadvertent benefit overpayment merely because, after discovering such overpayment, the responsible plan fiduciary—
-    - **(A)** reduces future benefit payments to the correct amount provided for under the terms of the plan, or
-    - **(B)** seeks recovery from the person or persons responsible for the overpayment.
-  - **(3)** Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under part 3 of this subtitle B or to prevent or restore an impermissible forfeiture in accordance with section 1053 of this title .
-  - **(4)** If the responsible plan fiduciary, in the exercise of its fiduciary discretion, decides to seek recoupment from a participant or beneficiary of all or part of an inadvertent benefit overpayment made by the plan to such participant or beneficiary, it may do so, subject to the following conditions:
-    - **(A)** No interest or other additional amounts (such as collection costs or fees) are sought on overpaid amounts for any period.
-    - **(B)** If the plan seeks to recoup past overpayments of a non-decreasing annuity by reducing future benefit payments—
-      - **(i)** the reduction ceases after the plan has recovered the full dollar amount of the overpayment,
-      - **(ii)** the amount recouped each calendar year does not exceed 10 percent of the full dollar amount of the overpayment, and
-      - **(iii)** future benefit payments are not reduced to below 90 percent of the periodic amount otherwise payable under the terms of the plan.
-    - **(C)** If the plan seeks to recoup past overpayments of a benefit other than a non-decreasing annuity, the plan satisfies requirements developed by the Secretary of Labor for purposes of this subparagraph.
-    - **(D)** Efforts to recoup overpayments are—
-      - **(i)** not accompanied by threats of litigation, unless the responsible plan fiduciary makes a determination that there is a reasonable likelihood of success to recover an amount greater than the cost of recovery, and
-      - **(ii)** not made through a collection agency or similar third party, unless the participant or beneficiary ignores or rejects efforts to recoup the overpayment following either a final judgment in Federal or State court or a settlement between the participant or beneficiary and the plan, in either case authorizing such recoupment.
-    - **(E)** Recoupment of past overpayments to a participant is not sought from any beneficiary of the participant, including a spouse, surviving spouse, former spouse, or other beneficiary.
-    - **(F)** Recoupment may not be sought if the first overpayment occurred more than 3 years before the participant or beneficiary is first notified in writing of the error, except in the case of fraud or misrepresentation by the participant.
-    - **(G)** A participant or beneficiary from whom recoupment is sought is entitled to contest all or part of the recoupment pursuant to the claims procedures of the plan that made the overpayment to the extent such procedures are consistent with section 1133 of this title and in the case of an inadvertent benefit overpayment from a plan to which paragraph (1) applies that is transferred to an eligible retirement plan (as defined in section 402(c)(8)(B) of title 26 ) by or on behalf of a participant or beneficiary—
-      - **(i)** such plan shall notify the plan receiving the rollover of such dispute,
-      - **(ii)** the plan receiving the rollover shall retain such overpayment on behalf of the participant or beneficiary (and shall be entitled to treat such overpayment as plan assets) pending the outcome of such procedures, and
-      - **(iii)** the portion of such overpayment with respect to which recoupment is sought on behalf of the plan shall be permitted to be returned to such plan if it is determined to be an overpayment (and the plans making and receiving such transfer shall be treated as permitting such transfer).
-    - **(H)** In determining the amount of recoupment to seek, the responsible plan fiduciary may take into account the hardship that recoupment likely would impose on the participant or beneficiary.
-  - **(5)** Subparagraphs (A) through (F) of paragraph (4) shall not apply to protect a participant or beneficiary who is culpable. For purposes of this paragraph, a participant or beneficiary is culpable if the individual bears responsibility for the overpayment (such as through misrepresentations or omissions that led to the overpayment), or if the individual knew that the benefit payment or payments were materially in excess of the correct amount. Notwithstanding the preceding sentence, an individual is not culpable merely because the individual believed the benefit payment or payments were or might be in excess of the correct amount, if the individual raised that question with an authorized plan representative and was told the payment or payments were not in excess of the correct amount.

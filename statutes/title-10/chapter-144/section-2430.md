@@ -1,12 +1,21 @@
 ---
-title: "Section 2430 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1846(f)(8) , Jan. 1, 2021 , 134 Stat. 4251 ]"
+title: "Section 2430 - Major defense acquisition program defined"
 usc_title: 10
 usc_section: "2430"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2430"
-generated_at: "2026-03-29T02:10:45.101Z"
+generated_at: "2026-03-29T17:50:57.122Z"
 ---
 
-# [§ 2430. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1846(f)(8) , Jan. 1, 2021 , 134 Stat. 4251 ]
+# § 2430. Major defense acquisition program defined
 
+- **(a)** In this chapter, the term “major defense acquisition program” means a Department of Defense acquisition program that is not a highly sensitive classified program (as determined by the Secretary of Defense) and—
+  - **(1)** that is designated by the Secretary of Defense as a major defense acquisition program; or
+  - **(2)** that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+- **(b)** The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+- **(c)** For purposes of subsection (a)(2), the Secretary shall consider, as applicable, the following:
+  - **(1)** The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title .
+  - **(2)** The cost estimate referred to in section 2366a(a)(4) 1 1 See References in Text note below. of this title.
+  - **(3)** The cost estimate referred to in section 2366b(a)(1)(C) of this title .
+  - **(4)** The cost estimate within a baseline description as required by section 2435 of this title .

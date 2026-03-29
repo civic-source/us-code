@@ -3,12 +3,12 @@ title: "Section 912a - Rescheduling and refinancing of loans"
 usc_title: 7
 usc_section: "912a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 912a"
-generated_at: "2026-03-29T02:10:16.747Z"
+generated_at: "2026-03-29T17:50:48.543Z"
 ---
 
 # § 912a. Rescheduling and refinancing of loans
 
-In addition to the loan extension authority provided in section 912 of this title , the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under the Rural Electrification Act of 1936 ( 7 U.S.C. 901 et seq.), and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
+In addition to the loan extension authority provided in section 912 of this title , the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under this chapter, and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
 

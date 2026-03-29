@@ -3,9 +3,9 @@ title: "Section 8432b - Contributions of persons who perform military service"
 usc_title: 5
 usc_section: "8432b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8432b"
-generated_at: "2026-03-29T02:10:01.966Z"
+generated_at: "2026-03-29T17:50:36.548Z"
 ---
 
 # § 8432b. Contributions of persons who perform military service
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:10:01.966Z"
     - **(B)** disregarding any contributions then actually being made under section 8432(a) and any agency contributions relating thereto.
   - **(2)** An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee’s behalf an amount equal to—
     - **(A)** the total contributions to which that individual would have been entitled under section 8432(c)(2), based on the amounts contributed by such individual under section 8440e (other than under subsection (d)(2) thereof) with respect to the period referred to in subsection (b)(2)(B), if those amounts had been contributed by such individual under section 8432(a); reduced by
-    - **(B)** any contributions actually made on such employee’s behalf under section 8432(c)(2) with respect to the period referred to in subsection (b)(2)(B).
+    - **(B)** any contributions actually made on such employee’s behalf under section 8432(c)(2) (including pursuant to an agreement under section 211(d) of title 37 ) with respect to the period referred to in subsection (b)(2)(B).
 - **(d)** An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee’s behalf an amount equal to—
   - **(1)** 1 percent of such employee’s basic pay (as determined under subsection (e)) for the period referred to in subsection (b)(2)(B); reduced by
   - **(2)** any contributions actually made on such employee’s behalf under section 8432(c)(1) with respect to the period referred to in subsection (b)(2)(B).
@@ -48,6 +48,6 @@ generated_at: "2026-03-29T02:10:01.966Z"
     - **(A)** a separation from civilian service in order to perform the military service on which the employee’s restoration or reemployment rights are based shall be disregarded; and
     - **(B)** such employee shall be credited with a period of civilian service equal to the period referred to in subsection (b)(2)(B).
   - **(2)**
-    - **(A)** An employee to whom this section applies may elect, for purposes of subsection (d) or (f) of section 8433, as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
+    - **(A)** An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h), 1 1 See References in Text note below. as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
     - **(B)** An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 - **(i)** The Executive Director shall prescribe regulations to carry out this section.

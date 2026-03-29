@@ -3,9 +3,9 @@ title: "Section 5842 - Appointment and authority of Director"
 usc_title: 7
 usc_section: "5842"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5842"
-generated_at: "2026-03-29T02:10:17.049Z"
+generated_at: "2026-03-29T17:50:48.796Z"
 ---
 
 # § 5842. Appointment and authority of Director
@@ -29,4 +29,3 @@ generated_at: "2026-03-29T02:10:17.049Z"
   - **(1)** describing the projected needs over a 10-year period in each of the areas of genetic resources described in section 5841(d)(5) of this title , including the identification of existing components of a comprehensive program, policies and activities needed to coordinate those components, and additional elements not in existence which are required for the development of a comprehensive genetic resources program as described in such section;
   - **(2)** assessing the international efforts and activities related to the program, and their effect upon and coordination with the program; and
   - **(3)** evaluating the potential effect of various national laws, including national quarantine requirements, as well as treaties, agreements, and the activities of international organizations on the development of a comprehensive international system for the collection and maintenance of genetic resources of importance to agriculture.
-- **(f)** On completion of the development of the plan described in section 5841(d)(6) of this title , the Secretary shall make the plan available to the public.

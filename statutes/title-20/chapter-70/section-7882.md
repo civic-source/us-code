@@ -3,9 +3,9 @@ title: "Section 7882 - Standards for by-pass"
 usc_title: 20
 usc_section: "7882"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7882"
-generated_at: "2026-03-29T02:12:17.506Z"
+generated_at: "2026-03-29T17:51:48.680Z"
 ---
 
 # § 7882. Standards for by-pass
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T02:12:17.506Z"
 - **(a)** If, by reason of any provision of law, a State educational agency, local educational agency, educational service agency, consortium of those agencies, or other entity is prohibited from providing for the participation in programs of children enrolled in, or teachers or other educational personnel from, private elementary schools and secondary schools, on an equitable basis, or if the Secretary determines that the agency, consortium, or entity has substantially failed or is unwilling to provide for that participation, as required by section 7881 of this title , the Secretary shall—
   - **(1)** waive the requirements of that section for the agency, consortium, or entity; and
   - **(2)** arrange for the provision of equitable services to those children, teachers, or other educational personnel through arrangements that shall be subject to the requirements of this section and of sections 7881, 7883, and 7884 of this title.
-- **(b)** In making the determination under subsection (a), the Secretary shall consider one or more factors, including the quality, size, scope, and location of the program, and the opportunity of private school children, teachers, and other educational personnel to participate in the program.
+- **(b)** In making the determination under subsection (a) of this section, the Secretary shall consider one or more factors, including the quality, size, scope, and location of the program, and the opportunity of private school children, teachers, and other educational personnel to participate in the program.

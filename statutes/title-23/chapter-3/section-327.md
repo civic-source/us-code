@@ -3,9 +3,9 @@ title: "Section 327 - Surface transportation project delivery program"
 usc_title: 23
 usc_section: "327"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 327"
-generated_at: "2026-03-29T02:13:00.961Z"
+generated_at: "2026-03-29T17:52:01.446Z"
 ---
 
 # § 327. Surface transportation project delivery program
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:13:00.961Z"
     - **(B)** If a State assumes responsibility under subparagraph (A)—
       - **(i)** the Secretary may assign to the State, and the State may assume, all or part of the responsibilities of the Secretary for environmental review, consultation, or other action required under any Federal environmental law pertaining to the review or approval of a specific project;
       - **(ii)** at the request of the State, the Secretary may also assign to the State, and the State may assume, the responsibilities of the Secretary with respect to 1 or more railroad, public transportation, or multimodal projects within the State under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
-      - **(iii)** in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); but
+      - **(iii)** in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ( 42 U.S.C. 13 1 1 So in original. 4321 et seq.); but
       - **(iv)** the Secretary may not assign—
         - **(I)** any responsibility imposed on the Secretary by section 134 or 135 or section 5303 or 5304 of title 49; or
         - **(II)** responsibility for any conformity determination required under section 176 of the Clean Air Act ( 42 U.S.C. 7506 ).
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:13:00.961Z"
     - **(D)** Any responsibility of the Secretary not explicitly assumed by the State by written agreement under this section shall remain the responsibility of the Secretary.
     - **(E)** Nothing in this section preempts or interferes with any power, jurisdiction, responsibility, or authority of an agency, other than the Department of Transportation, under applicable law (including regulations) with respect to a project.
     - **(F)** The Secretary may not require a State, as a condition of participation in the program, to forego project delivery methods that are otherwise permissible for projects.
-    - **(G)** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project, including the payment of fees awarded under section 2412 of title 28 .
+    - **(G)** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project.
 - **(b)**
   - **(1)** All States are eligible to participate in the program.
   - **(2)** Not later than 270 days after the date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate, regulations that establish requirements relating to information required to be contained in any application of a State to participate in the program, including, at a minimum—
@@ -50,43 +50,29 @@ generated_at: "2026-03-29T02:13:00.961Z"
       - **(i)** authorize the State to take the actions necessary to carry out the responsibilities being assumed; and
       - **(ii)** are comparable to section 552 of title 5 , including providing that any decision regarding the public availability of a document under those State laws is reviewable by a court of competent jurisdiction; and
     - **(D)** agrees to maintain the financial resources necessary to carry out the responsibilities being assumed;
-  - **(4)** require the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
-  - **(5)** except as provided under paragraph (7), have a term of not more than 5 years;
-  - **(6)** be renewable; and
-  - **(7)** for any State that has participated in a program under this section (or under a predecessor program) for at least 10 years, have a term of 10 years.
+  - **(4)** require the State to provide to the Secretary any information the Secretary considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
+  - **(5)** have a term of not more than 5 years; and
+  - **(6)** be renewable.
 - **(d)**
   - **(1)** The United States district courts shall have exclusive jurisdiction over any civil action against a State for failure to carry out any responsibility of the State under this section.
   - **(2)** A civil action under paragraph (1) shall be governed by the legal standards and requirements that would apply in such a civil action against the Secretary had the Secretary taken the actions in question.
   - **(3)** The Secretary shall have the right to intervene in any action described in paragraph (1).
-- **(e)** A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of and without further approval of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
+- **(e)** A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
 - **(f)** Nothing in this section permits a State to assume any rulemaking authority of the Secretary under any Federal law.
 - **(g)**
-  - **(1)** To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall—
-    - **(A)** not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
-    - **(B)** conduct annual audits during each of the first 4 years of State participation;
-    - **(C)** in the case of an agreement period of greater than 5 years pursuant to subsection (c)(7), conduct an audit covering the first 5 years of the agreement period; and
-    - **(D)** ensure that the time period for completing an audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
+  - **(1)** To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+    - **(A)** semiannual audits during each of the first 2 years of State participation; and
+    - **(B)** annual audits during each of the third and fourth years of State participation.
   - **(2)**
     - **(A)** An audit conducted under paragraph (1) shall be provided to the public for comment.
     - **(B)** Not later than 60 days after the date on which the period for public comment ends, the Secretary shall respond to public comments received under subparagraph (A).
-  - **(3)**
-    - **(A)** An audit conducted under paragraph (1) shall be carried out by an audit team determined by the Secretary, in consultation with the State, in accordance with subparagraph (B).
-    - **(B)** Consultation with the State under subparagraph (A) shall include a reasonable opportunity for the State to review and provide comments on the proposed members of the audit team.
 - **(h)** After the fourth year of the participation of a State in the program, the Secretary shall monitor compliance by the State with the written agreement, including the provision by the State of financial resources to carry out the written agreement.
 - **(i)** The Secretary shall submit to Congress an annual report that describes the administration of the program.
 - **(j)**
   - **(1)** The Secretary may terminate the participation of any State in the program if—
     - **(A)** the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
     - **(B)** the Secretary provides to the State—
-      - **(i)** a notification of the determination of noncompliance;
-      - **(ii)** a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
-      - **(iii)** on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
+      - **(i)** notification of the determination of noncompliance; and
+      - **(ii)** a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
     - **(C)** the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
   - **(2)** The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
-- **(k)** The Secretary, in cooperation with representatives of State officials, may carry out education, training, peer-exchange, and other initiatives as appropriate—
-  - **(1)** to assist States in developing the capacity to participate in the assignment program under this section; and
-  - **(2)** to promote information sharing and collaboration among States that are participating in the assignment program under this section.
-- **(l)** A State granted authority under this section may, as appropriate and at the request of a local government—
-  - **(1)** exercise such authority on behalf of the local government for a locally administered project; or
-  - **(2)** provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and any comparable requirements under State law.
-- **(m)** A State agency that is assigned a responsibility under an agreement under this section shall be deemed to be an agency for the purposes of section 2412 of title 28 .

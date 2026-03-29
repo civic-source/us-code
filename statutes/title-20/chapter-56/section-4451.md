@@ -3,15 +3,15 @@ title: "Section 4451 - Authorization of appropriations"
 usc_title: 20
 usc_section: "4451"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 4451"
-generated_at: "2026-03-29T02:12:17.413Z"
+generated_at: "2026-03-29T17:51:48.563Z"
 ---
 
 # § 4451. Authorization of appropriations
 
 - **(a)**
-  - **(1)** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of subchapter I.
+  - **(1)** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of subchapter I of this chapter.
   - **(2)** Funds appropriated under the authority of paragraph (1) shall remain available without fiscal year limitation.
   - **(3)** Except as provided for amounts subject to section 4425(d) 1 1 See References in Text note below. of this title, amounts appropriated under the authority of this subsection for fiscal year 1989, and for each succeeding fiscal year, shall be paid to the Institute at the later of—
     - **(A)** the beginning of the fiscal year, or

@@ -1,12 +1,16 @@
 ---
-title: "Section 1404 - Repealed. Pub. L. 115–397, title I, § 101(c)(1) , Dec. 21, 2018 , 132 Stat. 5301"
+title: "Section 1404 - Election of proceeding"
 usc_title: 2
 usc_section: "1404"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1404"
-generated_at: "2026-03-29T02:09:53.723Z"
+generated_at: "2026-03-29T17:50:24.076Z"
 ---
 
-# § 1404. Repealed. Pub. L. 115–397, title I, § 101(c)(1) , Dec. 21, 2018 , 132 Stat. 5301
+# § 1404. Election of proceeding
 
+Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee may either—
+
+  - **(1)** file a complaint with the Office in accordance with section 1405 of this title , or
+  - **(2)** file a civil action in accordance with section 1408 of this title in the United States district court for the district in which the employee is employed or for the District of Columbia.

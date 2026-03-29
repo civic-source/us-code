@@ -3,9 +3,9 @@ title: "Section 547 - Preferences"
 usc_title: 11
 usc_section: "547"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 547"
-generated_at: "2026-03-29T02:10:54.331Z"
+generated_at: "2026-03-29T17:51:02.145Z"
 ---
 
 # § 547. Preferences
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:10:54.331Z"
   - **(2)** “new value” means money or money’s worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
   - **(3)** “receivable” means right to payment, whether or not such right has been earned by performance; and
   - **(4)** a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
-- **(b)** Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
+- **(b)** Except as provided in subsections (c) and (i) of this section, the trustee may avoid any transfer of an interest of the debtor in property—
   - **(1)** to or for the benefit of a creditor;
   - **(2)** for or on account of an antecedent debt owed by the debtor before such transfer was made;
   - **(3)** made while the debtor was insolvent;
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T02:10:54.331Z"
   - **(6)** that is the fixing of a statutory lien that is not avoidable under section 545 of this title ;
   - **(7)** to the extent such transfer was a bona fide payment of a debt for a domestic support obligation;
   - **(8)** if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600; or
-  - **(9)** if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000. 1 1 See Adjustment of Dollar Amounts notes below.
+  - **(9)** if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000.
 - **(d)** The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
 - **(e)**
   - **(1)** For the purposes of this section—

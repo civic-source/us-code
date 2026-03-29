@@ -1,15 +1,14 @@
 ---
-title: "Section 7 - Marriage"
+title: "Section 7 - Definition of “marriage” and “spouse”"
 usc_title: 1
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "1 U.S.C. § 7"
-generated_at: "2026-03-29T02:09:50.416Z"
+generated_at: "2026-03-29T17:50:17.777Z"
 ---
 
-# § 7. Marriage
+# § 7. Definition of “marriage” and “spouse”
 
-- **(a)** For the purposes of any Federal law, rule, or regulation in which marital status is a factor, an individual shall be considered married if that individual’s marriage is between 2 individuals and is valid in the State where the marriage was entered into or, in the case of a marriage entered into outside any State, if the marriage is between 2 individuals and is valid in the place where entered into and the marriage could have been entered into in a State.
-- **(b)** In this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.
-- **(c)** For purposes of subsection (a), in determining whether a marriage is valid in a State or the place where entered into, if outside of any State, only the law of the jurisdiction applicable at the time the marriage was entered into may be considered.
+In determining the meaning of any Act of Congress, or of any ruling, regulation, or interpretation of the various administrative bureaus and agencies of the United States, the word “marriage” means only a legal union between one man and one woman as husband and wife, and the word “spouse” refers only to a person of the opposite sex who is a husband or a wife.
+

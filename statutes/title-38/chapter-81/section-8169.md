@@ -1,12 +1,14 @@
 ---
-title: "Section 8169 - Repealed. Pub. L. 117–168, title VII, § 705(d) , Aug. 10, 2022 , 136 Stat. 1800 ]"
+title: "Section 8169 - Expiration"
 usc_title: 38
 usc_section: "8169"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 8169"
-generated_at: "2026-03-29T02:14:50.502Z"
+generated_at: "2026-03-29T17:52:53.869Z"
 ---
 
-# [§ 8169. Repealed. Pub. L. 117–168, title VII, § 705(d) , Aug. 10, 2022 , 136 Stat. 1800 ]
+# § 8169. Expiration
+
+The authority of the Secretary to enter into enhanced-use leases under this subchapter expires on December 31, 2023 .
 

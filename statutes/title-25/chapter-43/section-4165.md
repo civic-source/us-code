@@ -3,16 +3,16 @@ title: "Section 4165 - Review and audit by Secretary"
 usc_title: 25
 usc_section: "4165"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 4165"
-generated_at: "2026-03-29T02:13:20.991Z"
+generated_at: "2026-03-29T17:52:06.162Z"
 ---
 
 # § 4165. Review and audit by Secretary
 
 - **(a)** An entity designated by an Indian tribe as a housing entity shall be treated, for purposes of chapter 75 of title 31, as a non-Federal entity that is subject to the audit requirements that apply to non-Federal entities under that chapter.
 - **(b)**
-  - **(1)** In addition to any audit or review under subsection (a), to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
+  - **(1)** In addition to any audit or review under subsection (a) of this section, to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
     - **(A)** determine whether the recipient—
       - **(i)** has carried out—
         - **(I)** eligible activities in a timely manner; and

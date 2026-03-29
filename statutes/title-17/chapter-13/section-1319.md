@@ -3,9 +3,9 @@ title: "Section 1319 - Correction of errors in certificates"
 usc_title: 17
 usc_section: "1319"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "17 U.S.C. § 1319"
-generated_at: "2026-03-29T02:11:57.637Z"
+generated_at: "2026-03-29T17:51:39.304Z"
 ---
 
 # § 1319. Correction of errors in certificates

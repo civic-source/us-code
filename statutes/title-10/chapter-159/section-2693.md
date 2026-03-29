@@ -1,27 +1,12 @@
 ---
-title: "Section 2693 - Sentinel Landscapes Partnership"
+title: "Section 2693 - Repealed. Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(2) , Oct. 17, 2006 , 120 Stat. 2477 ]"
 usc_title: 10
 usc_section: "2693"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2693"
-generated_at: "2026-03-29T02:10:45.134Z"
+generated_at: "2026-03-29T17:50:57.156Z"
 ---
 
-# § 2693. Sentinel Landscapes Partnership
+# [§ 2693. Repealed. Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(2) , Oct. 17, 2006 , 120 Stat. 2477 ]
 
-- **(a)** The Secretary of Defense, in coordination with the Secretary of Agriculture, the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the program, may establish and carry out a program to preserve and restore sentinel landscapes. The program shall be known as the “Sentinel Landscapes Partnership”.
-- **(b)** The Secretary of Defense, the Secretary of Agriculture, the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the Sentinel Landscapes Partnership may, as such Secretaries and other heads determine appropriate, collectively designate one or more sentinel landscapes.
-- **(c)** In carrying out this section, the Secretaries and the other heads of Federal departments and agencies may coordinate actions between their departments and agencies and with other Federal, State, interstate, and local agencies, Indian Tribes, and private entities to more efficiently work together for the mutual benefit of conservation, resilience, working lands, and national defense, and to encourage owners and managers of land to engage in voluntary land management, resilience, and conservation activities that contribute to the sustainment of military installations, State-owned National Guard installations, and associated airspace.
-- **(d)** In carrying out this section, the Secretaries and the other heads of Federal departments and agencies may give to any eligible owner or manager of land within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance program administered by that Secretary or head. Participation by an eligible owner or manager of land in any such program pursuant to this section shall be voluntary.
-- **(e)** Other Federal agencies with programs addressing conservation or resilience may, and are encouraged to—
-  - **(1)** participate in the activities of the Sentinel Landscapes Partnership; and
-  - **(2)** become full partners in the Sentinel Landscapes Partnership.
-- **(f)** Nothing in this section may be construed to require an owner or manager of land, including a private landowner or agricultural producer, to participate in any land management, resilience, or conservation activity under this section.
-- **(g)** In this section:
-  - **(1)** The term “military installation” has the same meaning as provided in section 100(1) of the Sikes Act ( 16 U.S.C. 670(1) ).
-  - **(2)** The term “State-owned National Guard installation” has the same meaning as provided in section 100(3) of the Sikes Act ( 16 U.S.C. 670(3) ).
-  - **(3)** The term “sentinel landscape” means a landscape-scale area encompassing—
-    - **(A)** one or more military installations or state-owned National Guard installations and associated airspace; and
-    - **(B)** the publicly and privately owned lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense missions of a military installation or State-owned National Guard installation.
-  - **(4)** The term “resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, flooding, wildfire, or other anticipated or unanticipated changes in environmental conditions.

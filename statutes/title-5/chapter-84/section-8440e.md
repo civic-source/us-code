@@ -3,18 +3,16 @@ title: "Section 8440e - Members of the uniformed services"
 usc_title: 5
 usc_section: "8440e"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8440e"
-generated_at: "2026-03-29T02:10:01.971Z"
+generated_at: "2026-03-29T17:50:36.551Z"
 ---
 
 # § 8440e. Members of the uniformed services
 
 - **(a)** For purposes of this section—
-  - **(1)** the term “basic pay” means basic pay payable under section 204 of title 37 ;
-  - **(2)** the term “full TSP member” means a member described in subsection (e)(1);
-  - **(3)** the term “member” has the meaning given the term in section 211 of title 37 ; and
-  - **(4)** the term “Secretary concerned” has the meaning given the term in section 101 of title 37 .
+  - **(1)** the term “member” has the meaning given such term by section 211 of title 37 ; and
+  - **(2)** the term “basic pay” means basic pay payable under section 204 of title 37 .
 - **(b)**
   - **(1)** Any member eligible to participate in the Thrift Savings Plan by virtue of section 211(b) of title 37 may contribute to the Thrift Savings Fund.
   - **(2)**
@@ -29,23 +27,4 @@ generated_at: "2026-03-29T02:10:01.971Z"
     - **(B)** The amount contributed by a member described in section 211(a)(2) of title 37 for any pay period out of any compensation received under section 206 of title 37 may not exceed the maximum percentage of such member’s compensation for such pay period (received under such section 206) allowable under section 8440f.
   - **(2)** A member making contributions to the Thrift Savings Fund out of basic pay, or out of compensation under section 206 of title 37 , may also contribute (by direct transfer to the Fund) any part of any special or incentive pay that such member receives under chapter 5 of title 37.
   - **(3)** Nothing in this section or section 211 of title 37 shall be considered to waive any dollar limitation under the Internal Revenue Code of 1986 which otherwise applies with respect to the Thrift Savings Fund.
-- **(e)**
-  - **(1)** Notwithstanding any other provision of law, the Secretary concerned shall make contributions to the Thrift Savings Fund, in accordance with section 8432 (except to the extent the requirements under such section are modified by this subsection), for the benefit of a member—
-    - **(A)** who first enters a uniformed service on or after January 1, 2018 ; or
-    - **(B)** who—
-      - **(i)** first entered a uniformed service before January 1, 2018 ;
-      - **(ii)** has completed fewer than 12 years of service in the uniformed services as of December 31, 2017 ; and
-      - **(iii)** makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for the reduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.
-  - **(2)** The amount contributed under this subsection by the Secretary concerned for the benefit of a full TSP member for any pay period shall not be more than 5 percent of the member’s basic pay for such pay period. Any such contribution under this subsection, though in accordance with section 8432 as provided in paragraph (1), is instead of, and not in addition to, amounts contributable under section 8432 as provided in section 8432(c).
-  - **(3)**
-    - **(A)** The Secretary concerned shall make a contribution described in section 8432(c)(1) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—
-      - **(i)** begins—
-        - **(I)** on or after the day that is 60 days afer the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or
-        - **(II)** on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
-      - **(ii)** ends on the day such member completes 26 years of service as a member of the uniformed services.
-    - **(B)** The Secretary concerned shall make a contribution described in section 8432(c)(2) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—
-      - **(i)** begins—
-        - **(I)** on or after the day that is 2 years and 1 day after the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or
-        - **(II)** on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
-      - **(ii)** ends on the day such member completes 26 years of service as a member of the uniformed services.
-  - **(4)** Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.
+- **(e)** Except as provided in section 211(d) of title 37 , no contribution under section 8432(c) of this title may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section.

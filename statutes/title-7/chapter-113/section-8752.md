@@ -3,9 +3,9 @@ title: "Section 8752 - Base acres for peanuts for a farm"
 usc_title: 7
 usc_section: "8752"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 8752"
-generated_at: "2026-03-29T02:10:17.209Z"
+generated_at: "2026-03-29T17:50:48.906Z"
 ---
 
 # § 8752. Base acres for peanuts for a farm
@@ -43,4 +43,7 @@ generated_at: "2026-03-29T02:10:17.209Z"
   - **(2)** Paragraph (1) shall not apply to a farm owned by—
     - **(A)** a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title ; 1 1 So in original. There probably should be a closing parenthesis after “title”. or
     - **(B)** a limited resource farmer or rancher, as defined by the Secretary.
-  - **(3)** Paragraphs (1) and (2) shall not apply during the 2008 crop year.
+  - **(3)** The Secretary shall—
+    - **(A)** collect and publish segregated data and survey information about the farm profiles, utilization of land, and crop production; and
+    - **(B)** perform an evaluation on the supply and price of fruits and vegetables based on the effects of suspension of base acres under this section.
+  - **(4)** Paragraphs (1) through (3) shall not apply during the 2008 crop year.

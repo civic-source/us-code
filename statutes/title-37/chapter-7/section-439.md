@@ -3,9 +3,9 @@ title: "Section 439 - Special compensation: members of the uniformed services wi
 usc_title: 37
 usc_section: "439"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 439"
-generated_at: "2026-03-29T02:14:43.140Z"
+generated_at: "2026-03-29T17:52:59.104Z"
 ---
 
 # § 439. Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living

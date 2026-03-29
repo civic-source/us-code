@@ -3,9 +3,9 @@ title: "Section 460eee - Establishment"
 usc_title: 16
 usc_section: "460eee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 460eee"
-generated_at: "2026-03-29T02:11:53.532Z"
+generated_at: "2026-03-29T17:51:56.649Z"
 ---
 
 # § 460eee. Establishment
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T02:11:53.532Z"
 - **(b)** The recreation area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled “Lake Meredith National Recreation Area Boundary Map, ‘Fee-Take Line’ ”, numbered SWRO—80,023–A, and dated September 1990. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) may from time to time make minor revisions in the boundary of the recreation area.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the Federal lands, waters, and interests therein within the recreation area are hereby transferred to the National Park Service.
-  - **(2)** Those lands depicted on the map referred to in subsection (b) that are necessary for the continued operation, maintenance, and replacement of the Canadian River Project facilities and its purposes of providing for municipal and industrial water supply and flood control shall remain under the jurisdiction of the Bureau of Reclamation.
+  - **(2)** Those lands depicted on the map referred to in subsection (b) of this section that are necessary for the continued operation, maintenance, and replacement of the Canadian River Project facilities and its purposes of providing for municipal and industrial water supply and flood control shall remain under the jurisdiction of the Bureau of Reclamation.

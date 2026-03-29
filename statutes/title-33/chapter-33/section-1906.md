@@ -3,9 +3,9 @@ title: "Section 1906 - Incidents involving ships"
 usc_title: 33
 usc_section: "1906"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1906"
-generated_at: "2026-03-29T02:14:18.594Z"
+generated_at: "2026-03-29T17:52:45.976Z"
 ---
 
 # § 1906. Incidents involving ships

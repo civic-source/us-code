@@ -3,9 +3,9 @@ title: "Section 5382 - Cellar treatment of natural wine"
 usc_title: 26
 usc_section: "5382"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 5382"
-generated_at: "2026-03-29T02:14:01.263Z"
+generated_at: "2026-03-29T17:52:39.498Z"
 ---
 
 # § 5382. Cellar treatment of natural wine

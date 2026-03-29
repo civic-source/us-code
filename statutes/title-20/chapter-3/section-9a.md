@@ -3,15 +3,15 @@ title: "Section 9a - Summary and repatriation of unassociated funerary objects, 
 usc_title: 20
 usc_section: "9a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 9a"
-generated_at: "2026-03-29T02:12:17.142Z"
+generated_at: "2026-03-29T17:51:48.292Z"
 ---
 
 # § 80q–9a. Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony
 
 - **(a)** Not later than December 31, 1996 , the Secretary of the Smithsonian Institution shall provide a written summary that contains a summary of unassociated funerary objects, sacred objects, and objects of cultural patrimony (as those terms are defined in subparagraphs (B), (C), and (D), respectively, of section 3001(3) of title 25 , based upon available information held by the Smithsonian Institution. The summary required under this section shall include, at a minimum, the information required under section 3004 of title 25 .
-- **(b)** Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a), or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
+- **(b)** Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a) of this section, or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
   - **(1)** the requesting party is the direct lineal descendant of an individual who owned the unassociated funerary object or sacred object;
   - **(2)** the requesting Indian tribe or Native Hawaiian organization can show that the object was owned or controlled by the Indian tribe or Native Hawaiian organization; or
   - **(3)** the requesting Indian tribe or Native Hawaiian organization can show that the unassociated funerary object or sacred object was owned or controlled by a member thereof, provided that in the case where an unassociated funerary object or sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object.

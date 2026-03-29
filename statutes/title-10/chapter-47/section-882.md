@@ -1,16 +1,14 @@
 ---
-title: "Section 882 - Art. 82. Soliciting commission of offenses"
+title: "Section 882 - Art. 82. Solicitation"
 usc_title: 10
 usc_section: "882"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 882"
-generated_at: "2026-03-29T02:10:44.923Z"
+generated_at: "2026-03-29T17:50:56.977Z"
 ---
 
-# § 882. Art. 82. Soliciting commission of offenses
+# § 882. Art. 82. Solicitation
 
-- **(a)** Any person subject to this chapter who solicits or advises another to commit an offense under this chapter (other than an offense specified in subsection (b)) shall be punished as a court-martial may direct.
-- **(b)** Any person subject to this chapter who solicits or advises another to violate section 885 of this title (article 85), section 894 of this title (article 94), or section 899 of this title (article 99)—
-  - **(1)** if the offense solicited or advised is attempted or is committed, shall be punished with the punishment provided for the commission of the offense; and
-  - **(2)** if the offense solicited or advised is not attempted or committed, shall be punished as a court-martial may direct.
+- **(a)** Any person subject to this chapter who solicits or advises another or others to desert in violation of section 885 of this title (article 85) or mutiny in violation of section 894 of this title (article 94) shall, if the offense solicited or advised is attempted or committed, be punished with the punishment provided for the commission of the offense, but, if the offense solicited or advised is not committed or attempted, he shall be punished as a court-martial may direct.
+- **(b)** Any person subject to this chapter who solicits or advises another or others to commit an act of misbehavior before the enemy in violation of section 899 of this title (article 99) or sedition in violation of section 894 of this title (article 94) shall, if the offense solicited or advised is committed, be punished with the punishment provided for the commission of the offense, but, if the offense solicited or advised is not committed, he shall be punished as a court-martial may direct.

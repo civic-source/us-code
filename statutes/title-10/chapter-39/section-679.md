@@ -3,9 +3,9 @@ title: "Section 679 - Renumbered § 12311]"
 usc_title: 10
 usc_section: "679"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 679"
-generated_at: "2026-03-29T02:10:44.899Z"
+generated_at: "2026-03-29T17:50:56.964Z"
 ---
 
 # [§ 679. Renumbered § 12311]

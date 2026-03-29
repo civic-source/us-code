@@ -1,12 +1,14 @@
 ---
-title: "Section 443b - Transferred"
+title: "Section 443b - Indian goods and supplies"
 usc_title: 25
 usc_section: "443b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 443b"
-generated_at: "2026-03-29T02:13:20.861Z"
+generated_at: "2026-03-29T17:52:05.970Z"
 ---
 
-# § 443b. Transferred
+# § 443b. Indian goods and supplies
+
+Payment for transportation of Indian goods and supplies shall include all Indian transportation lawfully due such land-grant railroads as have not received aid in Government bonds (to be adjusted in accordance with the decisions of the Supreme Court in cases decided under such land-grant Acts), but in no case shall more than 50 per centum of full amount of service be paid to said land-grant roads: Provided , That such compensation shall be computed upon the basis of the tariff or lower special rates for like transportation performed for the public at large, and shall be accepted as in full for all demands for such service: Provided further , That on and after April 30, 1908 in expending money appropriated for this purpose a railroad company which has not received aid in bonds of the United States, and which obtained a grant of public lands to aid in the construction of its railroad on condition that such railroad should be a post route and military road, subject to the use of the United States for postal, military, naval, and other Government services, and also subject to such regulations as Congress may impose, restricting the charge for such government transportation, having claims against the United States for transportation of Indian goods and supplies over such aided railroads, shall be paid out of the moneys appropriated for such purpose only on the basis of such rate for the transportation of such Indian goods and supplies as the Secretary of the Interior shall deem just and reasonable under the provisions set forth herein, such rate not to exceed 50 per centum of the compensation for such Government transportation as shall at that time be charged to and paid by private parties to any such company for like and similar transportation; and the amount so fixed to be paid shall be accepted as in full for all demands for such service.
 

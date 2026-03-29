@@ -3,9 +3,9 @@ title: "Section 1291 - Interest on tax deferral"
 usc_title: 26
 usc_section: "1291"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1291"
-generated_at: "2026-03-29T02:14:01.126Z"
+generated_at: "2026-03-29T17:52:39.365Z"
 ---
 
 # § 1291. Interest on tax deferral
@@ -67,7 +67,7 @@ generated_at: "2026-03-29T02:14:01.126Z"
     - **(C)** In the case of any stock to which subparagraph (A) or (B) applies—
       - **(i)** the adjusted basis of such stock shall be increased by the gain recognized under subparagraph (A) or the amount treated as a dividend under subparagraph (B), as the case may be, and
       - **(ii)** the taxpayer’s holding period in such stock shall be treated as beginning on the first day referred to in such subparagraph.
-- **(e)** Except to the extent inconsistent with the regulations prescribed under subsection (f), rules similar to the rules of subsections (c), (d), and (e) of section 1246 (as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004) shall apply for purposes of this section; except that—
+- **(e)** Except to the extent inconsistent with the regulations prescribed under subsection (f), rules similar to the rules of subsections (c) and (d) (e), 1 1 So in original. See 2010 Amendment notes below. of section 1246 (as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004) shall apply for purposes of this section; except that—
   - **(1)** the reduction under subsection (e) of such section shall be the excess of the basis determined under section 1014 over the adjusted basis of the stock immediately before the decedent’s death, and
   - **(2)** such a reduction shall not apply in the case of a decedent who was a nonresident alien at all times during his holding period in the stock.
 - **(f)** To the extent provided in regulations, in the case of any transfer of stock in a passive foreign investment company where (but for this subsection) there is not full recognition of gain, the excess (if any) of—
@@ -81,6 +81,8 @@ generated_at: "2026-03-29T02:14:01.126Z"
       - **(i)** that such excess distribution taxes are allocated to a taxable year referred to in subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
       - **(ii)** that such excess distribution taxes are allocated to any other taxable year, such taxes shall reduce (subject to the principles of section 904(d) and not below zero) the increase in tax determined under subsection (c)(2) for such taxable year by reason of such distribution (but such taxes shall not be taken into account under section 901).
   - **(2)** For purposes of this subsection—
-    - **(A)** The term “creditable foreign taxes” means, with respect to any distribution, any withholding tax imposed with respect to such distribution, but only if the taxpayer chooses the benefits of section 901 and such taxes are creditable under section 901 (determined without regard to paragraph (1)(C)(ii)).
+    - **(A)** The term “creditable foreign taxes” means, with respect to any distribution—
+      - **(i)** any foreign taxes deemed paid under section 902 with respect to such distribution, and
+      - **(ii)** any withholding tax imposed with respect to such distribution,
     - **(B)** The term “excess distribution taxes” means, with respect to any distribution, the portion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
     - **(C)** The rules of this subsection also shall apply in the case of any gain which but for this section would be includible in gross income as a dividend under section 1248.

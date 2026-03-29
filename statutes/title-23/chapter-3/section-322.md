@@ -3,9 +3,9 @@ title: "Section 322 - Magnetic levitation transportation technology deployment p
 usc_title: 23
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 322"
-generated_at: "2026-03-29T02:13:00.960Z"
+generated_at: "2026-03-29T17:52:01.443Z"
 ---
 
 # § 322. Magnetic levitation transportation technology deployment program
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T02:13:00.960Z"
       - **(i)** There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
       - **(ii)** Notwithstanding section 118(a), funds made available under clause (i) shall not be available in advance of an annual appropriation.
   - **(2)** Funds made available under paragraph (1) shall remain available until expended.
-  - **(3)** Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+  - **(3)** Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
   - **(4)** Notwithstanding any other provision of law, an eligible project selected under this section shall be eligible for other forms of financial assistance provided under this title and the Transportation Equity Act for the 21st Century, including loans, loan guarantees, and lines of credit.
 - **(i)**
   - **(1)** Notwithstanding any other provision of this section, of the funds made available by subsection (h)(1)(A) to carry out this section, $5,000,000 shall be made available to the Secretary to make grants for the research and development of low-speed superconductivity magnetic levitation technology for public transportation purposes in urban areas to demonstrate energy efficiency, congestion mitigation, and safety benefits.

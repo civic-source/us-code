@@ -3,9 +3,9 @@ title: "Section 4 - Hatchery education program development"
 usc_title: 16
 usc_section: "4"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T02:11:53.666Z"
+generated_at: "2026-03-29T17:51:56.770Z"
 ---
 
 # § 760aa–4. Hatchery education program development

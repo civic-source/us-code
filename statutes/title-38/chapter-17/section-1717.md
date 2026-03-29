@@ -3,9 +3,9 @@ title: "Section 1717 - Home health services; invalid lifts and other devices"
 usc_title: 38
 usc_section: "1717"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1717"
-generated_at: "2026-03-29T02:14:50.361Z"
+generated_at: "2026-03-29T17:52:53.700Z"
 ---
 
 # § 1717. Home health services; invalid lifts and other devices
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T02:14:50.361Z"
 - **(b)** The Secretary may furnish an invalid lift, or any type of therapeutic or rehabilitative device, as well as other medical equipment and supplies (excluding medicines), if medically indicated, to any veteran who is receiving (1) compensation under section 1114( l )–(p) of this title (or the comparable rates provided pursuant to section 1134 of this title ), or (2) pension under chapter 15 of this title by reason of being in need of regular aid and attendance.
 - **(c)** The Secretary may furnish devices for assisting in overcoming the handicap of deafness (including telecaptioning television decoders) to any veteran who is profoundly deaf and is entitled to compensation on account of hearing impairment.
 - **(d)**
-  - **(1)** In the case of a member of the Armed Forces who, as determined by the Secretary, has a disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service, the Secretary may furnish improvements and structural alterations for such member for such disability or as otherwise described in subsection (a)(2) while such member is hospitalized or receiving outpatient medical care, services, or treatment for such disability if the Secretary determines that such member is likely to be discharged or released from the Armed Forces for such disability.
+  - **(1)** In the case of a member of the Armed Forces who, as determined by the Secretary, has a disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service, the Secretary may furnish improvements and structural alterations for such member for such disability or as otherwise described in subsection (a)(2) while such member is hospitalized or receiving outpatient medical care, services, or treatment for such disability if the Secretary determines that such member is likely to be discharged or released from the Armed Forces for such disability.
   - **(2)** The furnishing of improvements and alterations under paragraph (1) in connection with the furnishing of medical services described in subparagraph (A) or (B) of subsection (a)(2) shall be subject to the limitation specified in the applicable subparagraph.

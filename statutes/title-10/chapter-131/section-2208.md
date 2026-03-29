@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-29T02:10:45.075Z"
+generated_at: "2026-03-29T17:50:57.081Z"
 ---
 
 # § 2208. Working-capital funds
@@ -18,14 +18,11 @@ generated_at: "2026-03-29T02:10:45.075Z"
   - **(1)** supplies that are procured or otherwise acquired, manufactured, repaired, issued, or used, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment; and
   - **(2)** services or work performed;
 - **(d)** The Secretary of Defense may provide capital for working-capital funds by capitalizing inventories. In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law.
-- **(e)** Subject to the authority and direction of the Secretary of Defense, the Secretary of each military department shall allocate responsibility for its functions, powers, and duties to accomplish the most economical and efficient organization and operation of the activities, and the most economical and efficient use of the inventories, for which working-capital funds are authorized by this section. The accomplishment of the most economical and efficient organization and operation of working capital fund activities for the purposes of this subsection shall include actions toward the following:
-  - **(1)** Undertaking efforts to optimize the rate structure for all requisitioning entities.
-  - **(2)** Encouraging a working capital fund activity to perform reimbursable work for other entities to sustain the efficient use of the workforce.
-  - **(3)** Determining the appropriate leadership level for approving work from outside entities to maximize efficiency.
+- **(e)** Subject to the authority and direction of the Secretary of Defense, the Secretary of each military department shall allocate responsibility for its functions, powers, and duties to accomplish the most economical and efficient organization and operation of the activities, and the most economical and efficient use of the inventories, for which working-capital funds are authorized by this section.
 - **(f)** The requisitioning agency may not incur a cost for supplies drawn from inventories, or services or work performed by industrial-type or commercial-type activities for which working-capital funds may be established under this section, that is more than the amount of appropriations or other funds available for those purposes.
 - **(g)** The appraised value of supplies returned to working-capital funds by a department, activity, or agency may be charged to that fund. The proceeds thereof shall be credited to current applicable appropriations and are available for expenditure for the same purposes that those appropriations are so available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories under subsection (d).
 - **(h)** The Secretary of Defense shall prescribe regulations governing the operation of activities and use of inventories authorized by this section. The regulations may, if the needs of the Department of Defense require it and it is otherwise authorized by law, authorize supplies to be sold to, or services to be rendered or work performed for, persons outside the Department of Defense. However, supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense. Working-capital funds shall be reimbursed for supplies so sold, services so rendered, or work so performed by charges to applicable appropriations or payments received in cash.
-- **(i)** For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 7543 of this title .
+- **(i)** For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 4543 of this title .
 - **(j)**
   - **(1)** The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
     - **(A)** the person purchasing the article or service is fulfilling a Department of Defense contract or a subcontract under a Department of Defense contract, and the solicitation for the contract or subcontract is open to competition between Department of Defense activities and private firms; or
@@ -33,7 +30,7 @@ generated_at: "2026-03-29T02:10:45.075Z"
   - **(2)** The Secretary of Defense may waive the conditions in paragraph (1) in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
 - **(k)**
   - **(1)** Subject to paragraph (2), a contract for the procurement of a capital asset financed by a working-capital fund may be awarded in advance of the availability of funds in the working-capital fund for the procurement.
-  - **(2)** Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $500,000 for procurements by a major range and test facility installation or a science and technology reinvention laboratory and not less than $250,000 for procurements at all other facilities:
+  - **(2)** Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $250,000:
     - **(A)** An unspecified minor military construction project under section 2805(c) of this title .
     - **(B)** Automatic data processing equipment or software.
     - **(C)** Any other equipment.
@@ -46,11 +43,8 @@ generated_at: "2026-03-29T02:10:45.075Z"
   - **(2)** The Secretary of Defense may waive the notification requirements of paragraph (1)—
     - **(A)** during a period of war or national emergency; or
     - **(B)** to the extent that the Secretary determines necessary to support a contingency operation.
-  - **(3)**
-    - **(A)** Except as provided in subparagraph (B), the total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
-    - **(B)** The dollar limitation under subparagraph (A) shall not apply with respect to advance billing for relief efforts following a declaration of a major disaster or emergency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
-  - **(4)** This subsection shall not apply to advance billing for background investigation and related services performed by the Defense Counterintelligence and Security Agency.
-  - **(5)** In this subsection:
+  - **(3)** The total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
+  - **(4)** In this subsection:
     - **(A)** The term “advance billing”, with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit the fund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
     - **(B)** The term “customer” means a requisitioning component or agency.
 - **(m)** Amounts charged for depreciation of capital assets shall be credited to a separate capital asset subaccount established within a working-capital fund.
@@ -77,22 +71,3 @@ generated_at: "2026-03-29T02:10:45.075Z"
 - **(r)**
   - **(1)** Notwithstanding any authority provided in this section to transfer funds, the transfer of funds from a working-capital fund, including a transfer to another working-capital fund, shall not be made under such authority unless the Secretary of Defense submits, in advance, a notification of the proposed transfer to the congressional defense committees in accordance with customary procedures.
   - **(2)** The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
-- **(s)**
-  - **(1)** Except as provided in paragraph (2), the Secretary of Defense or the Secretary of a military department is not authorized—
-    - **(A)** to suspend the employment of indirectly funded Government employees of the Department of Defense who are paid for out of working-capital funds by ceasing or suspending the distribution of such funds; or
-    - **(B)** to cease or suspend the distribution of funds from a working-capital fund for a current project undertaken to carry out the functions or activities of the Department.
-  - **(2)** Paragraph (1) shall not apply with respect to a working-capital fund if—
-    - **(A)** the working-capital fund is insolvent; or
-    - **(B)** there are insufficient funds in the working-capital fund to pay labor costs for the current project concerned.
-  - **(3)** The Secretary of Defense or the Secretary of a military department may waive the limitation in paragraph (1) if such Secretary determines that the waiver is in the national security interests of the United States.
-  - **(4)** This subsection shall not be construed to provide for the exclusion of any particular category of employees of the Department of Defense from furlough due to absence of or inadequate funding.
-- **(t)**
-  - **(1)** From amounts available for Working Capital Fund, Defense, the Secretary shall reserve up to $1,000,000,000, to remain available without fiscal year limitation, for petroleum market price fluctuations. Such amounts may only be disbursed if the Secretary determines such a disbursement is necessary to absorb volatile market changes in fuel prices without affecting the standard price charged for fuel.
-  - **(2)** A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).
-- **(u)**
-  - **(1)** The Secretary of a military department may use a working capital fund of the department under this section to fund an unspecified minor military construction project under section 2805 of this title for the revitalization and recapitalization of a defense industrial base facility owned by the United States and under the jurisdiction of the Secretary.
-  - **(2)**
-    - **(A)** Except as provided in subparagraph (B), section 2805 of this title shall apply with respect to a project funded using a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805 of this title .
-    - **(B)** For purposes of applying subparagraph (A), the dollar limitation specified in subsection (a)(2) of section 2805 of this title , subject to adjustment as provided in subsection (f) of such section, shall apply rather than the dollar limitation specified in subsection (c) of such section.
-  - **(3)** In this subsection, the term “defense industrial base facility” means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
-  - **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2027 .

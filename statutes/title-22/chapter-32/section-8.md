@@ -3,9 +3,9 @@ title: "Section 8 - Prohibition on imports from and exports to Libya"
 usc_title: 22
 usc_section: "8"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8"
-generated_at: "2026-03-29T02:12:40.064Z"
+generated_at: "2026-03-29T17:52:10.515Z"
 ---
 
 # § 2349aa–8. Prohibition on imports from and exports to Libya

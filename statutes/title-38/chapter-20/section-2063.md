@@ -3,9 +3,9 @@ title: "Section 2063 - Employment assistance"
 usc_title: 38
 usc_section: "2063"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 2063"
-generated_at: "2026-03-29T02:14:50.387Z"
+generated_at: "2026-03-29T17:52:53.727Z"
 ---
 
 # § 2063. Employment assistance

@@ -3,9 +3,9 @@ title: "Section 1443 - Research program respecting ocean dumping and other metho
 usc_title: 33
 usc_section: "1443"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1443"
-generated_at: "2026-03-29T02:14:18.588Z"
+generated_at: "2026-03-29T17:52:45.969Z"
 ---
 
 # § 1443. Research program respecting ocean dumping and other methods of waste disposal
@@ -23,6 +23,6 @@ generated_at: "2026-03-29T02:14:18.588Z"
   - **(4)** the applicable laws and regulations governing waste disposal; and
   - **(5)** improvements in permitting processes to reduce administrative burdens.
 - **(d)** The Administrator, in cooperation with the Secretary of Commerce, shall submit to the Congress and the President, not later than one year after April 7, 1986 , a report on sewage sludge disposal in the New York City metropolitan region. The report shall—
-  - **(1)** consider the factors listed in subsection (c) as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
+  - **(1)** consider the factors listed in subsection (c) of this section as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
   - **(2)** include an assessment of the cost of these alternatives; and
   - **(3)** recommend such regulatory or legislative changes as may be necessary to reduce the adverse impacts associated with sewage sludge disposal.

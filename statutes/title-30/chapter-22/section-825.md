@@ -3,9 +3,9 @@ title: "Section 825 - Mandatory health and safety training"
 usc_title: 30
 usc_section: "825"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 825"
-generated_at: "2026-03-29T02:14:11.223Z"
+generated_at: "2026-03-29T17:52:16.728Z"
 ---
 
 # § 825. Mandatory health and safety training
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:14:11.223Z"
   - **(3)** all miners shall receive no less than eight hours of refresher training no less frequently than once each 12 months, except that miners already employed on the effective date of the Federal Mine Safety and Health Amendments Act of 1977 shall receive this refresher training no more than 90 days after the date of approval of the training plan required by this section;
   - **(4)** any miner who is reassigned to a new task in which he has had no previous work experience shall receive training in accordance with a training plan approved by the Secretary under this subsection in the safety and health aspects specific to that task prior to performing that task;
   - **(5)** any training required by paragraphs (1), (2) or (4) shall include a period of training as closely related as is practicable to the work in which the miner is to be engaged.
-- **(b)** Any health and safety training provided under subsection (a) shall be provided during normal working hours. Miners shall be paid at their normal rate of compensation while they take such training, and new miners shall be paid at their starting wage rate when they take the new miner training. If such training shall be given at a location other than the normal place of work, miners shall also be compensated for the additional costs they may incur in attending such training sessions.
+- **(b)** Any health and safety training provided under subsection (a) of this section shall be provided during normal working hours. Miners shall be paid at their normal rate of compensation while they take such training, and new miners shall be paid at their starting wage rate when they take the new miner training. If such training shall be given at a location other than the normal place of work, miners shall also be compensated for the additional costs they may incur in attending such training sessions.
 - **(c)** Upon completion of each training program, each operator shall certify, on a form approved by the Secretary, that the miner has received the specified training in each subject area of the approved health and safety training plan. A certificate for each miner shall be maintained by the operator, and shall be available for inspection at the mine site, and a copy thereof shall be given to each miner at the completion of such training. When a miner leaves the operator’s employ, he shall be entitled to a copy of his health and safety training certificates. False certification by an operator that training was given shall be punishable under section 820(a) and (f) of this title; and each health and safety training certificate shall indicate on its face, in bold letters, printed in a conspicuous manner the fact that such false certification is so punishable.
 - **(d)** The Secretary shall promulgate appropriate standards for safety and health training for coal or other mine construction workers.
 - **(e)**

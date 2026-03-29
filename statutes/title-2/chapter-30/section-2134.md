@@ -3,9 +3,9 @@ title: "Section 2134 - Art exhibits"
 usc_title: 2
 usc_section: "2134"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2134"
-generated_at: "2026-03-29T02:09:53.758Z"
+generated_at: "2026-03-29T17:50:24.103Z"
 ---
 
 # § 2134. Art exhibits

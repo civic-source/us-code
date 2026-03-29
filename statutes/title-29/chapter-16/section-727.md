@@ -3,9 +3,9 @@ title: "Section 727 - Monitoring and review"
 usc_title: 29
 usc_section: "727"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 727"
-generated_at: "2026-03-29T02:14:09.389Z"
+generated_at: "2026-03-29T17:52:18.783Z"
 ---
 
 # § 727. Monitoring and review
@@ -29,22 +29,16 @@ generated_at: "2026-03-29T02:14:09.389Z"
     - **(B)** public hearings and other strategies for collecting information from the public;
     - **(C)** meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title , if the State has such a commission;
     - **(D)** reviews of individual case files, including individualized plans for employment and ineligibility determinations; and
-    - **(E)** meetings with qualified vocational rehabilitation counselors and other personnel, including personnel of a client assistance program under section 732 of this title , and past or current recipients of vocational rehabilitation services.
+    - **(E)** meetings with qualified vocational rehabilitation counselors and other personnel.
   - **(4)** In conducting the review and monitoring, the Commissioner shall examine—
-    - **(A)** the eligibility process, including the process related to the determination of ineligibility under section 722(a)(5) of this title ;
-    - **(B)** the provision of services, including supported employment services and pre-employment transition services, and, if applicable, the order of selection;
-    - **(C)** such other areas as may be identified by the public or through meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title , if the State has such a commission;
-    - **(D)** data reported under section 721(a)(10)(C)(i) of this title ; and
-    - **(E)** such other areas of inquiry as the Commissioner may consider appropriate.
+    - **(A)** the eligibility process;
+    - **(B)** the provision of services, including, if applicable, the order of selection;
+    - **(C)** such other areas as may be identified by the public or through meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title , if the State has such a commission; and
+    - **(D)** such other areas of inquiry as the Commissioner may consider appropriate.
   - **(5)** If the Commissioner issues a report detailing the findings of an annual review or onsite monitoring conducted under this section, the report shall be made available to the State Rehabilitation Council, if the State has such a Council, for use in the development and modification of the State plan described in section 721 of this title .
 - **(b)** The Commissioner shall—
-  - **(1)** provide technical assistance to programs under this subchapter regarding improving the quality of vocational rehabilitation services provided;
-  - **(2)** provide technical assistance and establish a corrective action plan for a program under this subchapter if the Commissioner finds that the program fails to comply substantially with the provisions of the State plan, or with evaluation standards or performance indicators established under section 726 of this title , in order to ensure that such failure is corrected as soon as practicable; and
-  - **(3)** provide technical assistance to programs under this subchapter to—
-    - **(A)** promote high-quality employment outcomes for individuals with disabilities;
-    - **(B)** integrate veterans who are individuals with disabilities into their communities and to support the veterans to obtain and retain competitive integrated employment;
-    - **(C)** develop, improve, and disseminate information on procedures, practices, and strategies, including for the preparation of personnel, to better enable individuals with intellectual disabilities and other individuals with disabilities to participate in postsecondary educational experiences and to obtain and retain competitive integrated employment; and
-    - **(D)** apply evidence-based findings to facilitate systemic improvements in the transition of youth with disabilities to postsecondary life.
+  - **(1)** provide technical assistance to programs under this subchapter regarding improving the quality of vocational rehabilitation services provided; and
+  - **(2)** provide technical assistance and establish a corrective action plan for a program under this subchapter if the Commissioner finds that the program fails to comply substantially with the provisions of the State plan, or with evaluation standards or performance indicators established under section 726 of this title , in order to ensure that such failure is corrected as soon as practicable.
 - **(c)**
   - **(1)** Whenever the Commissioner, after providing reasonable notice and an opportunity for a hearing to the State agency administering or supervising the administration of the State plan approved under section 721 of this title , finds that—
     - **(A)** the plan has been so changed that it no longer complies with the requirements of section 721(a) of this title ; or
@@ -52,10 +46,10 @@ generated_at: "2026-03-29T02:14:09.389Z"
   - **(2)** Until the Commissioner is so satisfied, the Commissioner shall make no further payments to such State under this subchapter (or shall reduce payments or limit payments to projects under those parts of the State plan in which there is no such failure).
   - **(3)** The Commissioner may, in accordance with regulations the Secretary shall prescribe, disburse any funds withheld from a State under paragraph (1) to any public or nonprofit private organization or agency within such State or to any political subdivision of such State submitting a plan meeting the requirements of section 721(a) of this title . The Commissioner may not make any payment under this paragraph unless the entity to which such payment is made has provided assurances to the Commissioner that such entity will contribute, for purposes of carrying out such plan, the same amount as the State would have been obligated to contribute if the State received such payment.
 - **(d)**
-  - **(1)** Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28 , the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
-  - **(2)** If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c), the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
+  - **(1)** Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28 , the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
+  - **(2)** If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
   - **(3)**
     - **(A)** Upon the filing of a petition under paragraph (1) for judicial review of a determination, the court shall have jurisdiction—
-      - **(i)** to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c); and
+      - **(i)** to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c) of this section; and
       - **(ii)** except as otherwise provided in subparagraph (B), to review such determination in accordance with chapter 7 of title 5.
     - **(B)** Section 706 of title 5 shall apply to the review of any determination under this subsection, except that the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such determination if the court finds that the determination is not supported by substantial evidence in the record of the proceeding submitted pursuant to paragraph (1), as supplemented by any additional submissions and presentations filed under paragraph (2).

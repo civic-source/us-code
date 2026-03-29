@@ -1,12 +1,12 @@
 ---
-title: "Section 19n - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 19n - Omitted"
 usc_title: 16
 usc_section: "19n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 19n"
-generated_at: "2026-03-29T02:11:53.324Z"
+generated_at: "2026-03-29T17:51:56.440Z"
 ---
 
-# § 19n. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 19n. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 1801 - Findings, purposes and policy"
 usc_title: 16
 usc_section: "1801"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1801"
-generated_at: "2026-03-29T02:11:53.819Z"
+generated_at: "2026-03-29T17:51:56.899Z"
 ---
 
 # § 1801. Findings, purposes and policy
@@ -23,7 +23,6 @@ generated_at: "2026-03-29T02:11:53.819Z"
   - **(10)** Pacific Insular Areas contain unique historical, cultural, legal, political, and geographical circumstances which make fisheries resources important in sustaining their economic growth.
   - **(11)** A number of the Fishery Management Councils have demonstrated significant progress in integrating ecosystem considerations in fisheries management using the existing authorities provided under this chapter.
   - **(12)** International cooperation is necessary to address illegal, unreported, and unregulated fishing and other fishing practices which may harm the sustainability of living marine resources and disadvantage the United States fishing industry.
-  - **(13)** While both provide significant cultural and economic benefits to the Nation, recreational fishing and commercial fishing are different activities. Therefore, science-based conservation and management approaches should be adapted to the characteristics of each sector.
 - **(b)** It is therefore declared to be the purposes of the Congress in this chapter—
   - **(1)** to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983 , and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
   - **(2)** to support and encourage the implementation and enforcement of international fishery agreements for the conservation and management of highly migratory species, and to encourage the negotiation and implementation of additional such agreements as necessary;

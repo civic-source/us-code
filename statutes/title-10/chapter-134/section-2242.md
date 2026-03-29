@@ -3,9 +3,9 @@ title: "Section 2242 - Authority to use appropriated funds for certain investiga
 usc_title: 10
 usc_section: "2242"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2242"
-generated_at: "2026-03-29T02:10:45.085Z"
+generated_at: "2026-03-29T17:50:57.089Z"
 ---
 
 # § 2242. Authority to use appropriated funds for certain investigations and security services

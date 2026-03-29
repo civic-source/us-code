@@ -3,9 +3,9 @@ title: "Section 1011i - Drug and alcohol abuse prevention"
 usc_title: 20
 usc_section: "1011i"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1011i"
-generated_at: "2026-03-29T02:12:17.172Z"
+generated_at: "2026-03-29T17:51:48.315Z"
 ---
 
 # § 1011i. Drug and alcohol abuse prevention
@@ -24,12 +24,12 @@ generated_at: "2026-03-29T02:12:17.172Z"
       - **(ii)** are reported to campus officials;
     - **(C)** determine the number and type of sanctions described in paragraph (1)(E) that are imposed by the institution as a result of drug and alcohol-related violations and fatalities on the institution’s campus or as part of any of the institution’s activities; and
     - **(D)** ensure that the sanctions required by paragraph (1)(E) are consistently enforced.
-- **(b)** Each institution of higher education that provides the certification required by subsection (a) shall, upon request, make available to the Secretary and to the public a copy of each item required by subsection (a)(1) as well as the results of the biennial review required by subsection (a)(2).
+- **(b)** Each institution of higher education that provides the certification required by subsection (a) of this section shall, upon request, make available to the Secretary and to the public a copy of each item required by subsection (a)(1) of this section as well as the results of the biennial review required by subsection (a)(2) of this section.
 - **(c)**
   - **(1)** The Secretary shall publish regulations to implement and enforce the provisions of this section, including regulations that provide for—
-    - **(A)** the periodic review of a representative sample of programs required by subsection (a); and
+    - **(A)** the periodic review of a representative sample of programs required by subsection (a) of this section; and
     - **(B)** a range of responses and sanctions for institutions of higher education that fail to implement their programs or to consistently enforce their sanctions, including information and technical assistance, the development of a compliance agreement, and the termination of any form of Federal financial assistance.
-  - **(2)** The sanctions required by subsection (a)(1)(E) may include the completion of an appropriate rehabilitation program.
+  - **(2)** The sanctions required by subsection (a)(1)(E) of this section may include the completion of an appropriate rehabilitation program.
 - **(d)** Upon determination by the Secretary to terminate financial assistance to any institution of higher education under this section, the institution may file an appeal with an administrative law judge before the expiration of the 30-day period beginning on the date such institution is notified of the decision to terminate financial assistance under this section. Such judge shall hold a hearing with respect to such termination of assistance before the expiration of the 45-day period beginning on the date that such appeal is filed. Such judge may extend such 45-day period upon a motion by the institution concerned. The decision of the judge with respect to such termination shall be considered to be a final agency action.
 - **(e)**
   - **(1)** The Secretary may make grants to institutions of higher education or consortia of such institutions, and enter into contracts with such institutions, consortia, and other organizations, to develop, implement, operate, improve, and disseminate programs of prevention, and education (including treatment-referral) to reduce and eliminate the illegal use of drugs and alcohol and the violence associated with such use. Such grants or contracts may also be used for the support of a higher education center for alcohol and drug abuse prevention that will provide training, technical assistance, evaluation, dissemination, and associated services and assistance to the higher education community as determined by the Secretary and institutions of higher education.

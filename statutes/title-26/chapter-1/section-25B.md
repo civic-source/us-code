@@ -3,9 +3,9 @@ title: "Section 25B - Elective deferrals and IRA contributions by certain indivi
 usc_title: 26
 usc_section: "25B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 25B"
-generated_at: "2026-03-29T02:14:00.709Z"
+generated_at: "2026-03-29T17:52:39.075Z"
 ---
 
 # § 25B. Elective deferrals and IRA contributions by certain individuals
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:14:00.709Z"
     - **(B)** any taxpayer not described in paragraph (1) or subparagraph (A), the applicable percentage shall be determined under paragraph (1) except that such paragraph shall be applied by substituting for each dollar amount therein (as adjusted under paragraph (3)) a dollar amount equal to 50 percent of such dollar amount.
   - **(3)** In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 1992” in subparagraph (B) thereof.
 - **(c)** For purposes of this section—
   - **(1)** The term “eligible individual” means any individual if such individual has attained the age of 18 as of the close of the taxable year.
   - **(2)** The term “eligible individual” shall not include—
@@ -30,13 +30,11 @@ generated_at: "2026-03-29T02:14:00.709Z"
     - **(B)** any individual who is a student (as defined in section 152(f)(2)).
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified retirement savings contributions” means, with respect to any taxable year, the sum of—
-    - **(A)** the amount of contributions made by the eligible individual during such taxable year to the ABLE account (within the meaning of section 529A) of which such individual is the designated beneficiary, and
-    - **(B)** in the case of any taxable year beginning before January 1, 2027 —
-      - **(i)** the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
-      - **(ii)** the amount of—
-        - **(I)** any elective deferrals (as defined in section 402(g)(3)) of such individual, and
-        - **(II)** any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
-      - **(iii)** the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
+    - **(A)** the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
+    - **(B)** the amount of—
+      - **(i)** any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+      - **(ii)** any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
+    - **(C)** the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
   - **(2)**
     - **(A)** The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
     - **(B)** For purposes of subparagraph (A), the testing period, with respect to a taxable year, is the period which includes—

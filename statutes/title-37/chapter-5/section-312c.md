@@ -3,9 +3,9 @@ title: "Section 312c - Special pay: nuclear career annual incentive bonus"
 usc_title: 37
 usc_section: "312c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 312c"
-generated_at: "2026-03-29T02:14:43.126Z"
+generated_at: "2026-03-29T17:52:59.088Z"
 ---
 
 # § 312c. Special pay: nuclear career annual incentive bonus
@@ -39,4 +39,4 @@ generated_at: "2026-03-29T02:14:43.126Z"
       - **(i)** involving the direct supervision, operation, or maintenance of naval nuclear propulsion plants; and
       - **(ii)** that required the officer be qualified for the performance of operational flying duties.
 - **(c)** Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who is not on active duty on the last day of a nuclear service year or who, on or before the last day of a nuclear service year, loses his technical qualifications or advances from the pay grade of O–6 to a higher pay grade may be paid a bonus in accordance with subsection (a) or (b) on a pro rata basis, if otherwise qualified, unless termination of active duty or loss of technical qualifications was voluntary or was the result of his own misconduct.
-- **(d)** For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2018 .
+- **(d)** For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2013 .

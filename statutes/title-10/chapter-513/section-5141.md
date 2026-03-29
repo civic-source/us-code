@@ -1,0 +1,14 @@
+---
+title: "Section 5141 - Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel"
+usc_title: 10
+usc_section: "5141"
+chapter: 513
+current_through: "PL 113-100"
+classification: "10 U.S.C. § 5141"
+generated_at: "2026-03-29T17:50:57.205Z"
+---
+
+# § 5141. Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel
+
+- **(a)** The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel. The Chief of Naval Personnel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list in the line of the Navy not below the grade of commander.
+- **(b)** The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel. An officer on the active-duty list in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.

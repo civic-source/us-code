@@ -3,9 +3,9 @@ title: "Section 6713 - Certification of new construction"
 usc_title: 40
 usc_section: "6713"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "40 U.S.C. § 6713"
-generated_at: "2026-03-29T02:14:58.798Z"
+generated_at: "2026-03-29T17:52:50.596Z"
 ---
 
 # § 6713. Certification of new construction

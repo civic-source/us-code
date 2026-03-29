@@ -3,9 +3,9 @@ title: "Section 1631 - Consultation; closure of facilities; reports"
 usc_title: 25
 usc_section: "1631"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1631"
-generated_at: "2026-03-29T02:13:20.892Z"
+generated_at: "2026-03-29T17:52:06.066Z"
 ---
 
 # § 1631. Consultation; closure of facilities; reports
@@ -33,8 +33,8 @@ generated_at: "2026-03-29T02:13:20.892Z"
         - **(II)** shall include the methodology required in paragraph (2)(B)(v); and
         - **(III)** may include such health care facilities, and such renovation or expansion needs of any health care facility, as the Service may identify; and
       - **(iv)** shall provide an opportunity for the nomination of planning, design, and construction projects by the Service, Indian tribes, and tribal organizations for consideration under the priority system at least once every 3 years, or more frequently as the Secretary determines to be appropriate.
-    - **(B)** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. are fully and equitably integrated into the health care facility priority system.
-    - **(C)** For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 shall use the criteria used by the Secretary in evaluating the needs of facilities operated directly by the Service.
+    - **(B)** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) are fully and equitably integrated into the health care facility priority system.
+    - **(C)** For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), shall use the criteria used by the Secretary in evaluating the needs of facilities operated directly by the Service.
     - **(D)** The priority of any project established under the construction priority system in effect on March 23, 2010 , shall not be affected by any change in the construction priority system taking place after that date if the project—
       - **(i)** was identified in the fiscal year 2008 Service budget justification as—
         - **(I)** 1 of the 10 top-priority inpatient projects;
@@ -77,12 +77,12 @@ generated_at: "2026-03-29T02:13:20.892Z"
     - **(A)** the Committees on Indian Affairs and Appropriations of the Senate;
     - **(B)** the Committees on Natural Resources and Appropriations of the House of Representatives; and
     - **(C)** the Secretary.
-- **(e)** All funds appropriated under section 13 of this title , for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450f ) 1 or sections 504 and 505 of that Act ( 25 U.S.C. 458aaa–3 , 458aaa–4). 1
+- **(e)** All funds appropriated under section 13 of this title , for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450f ) or sections 504 and 505 of that Act ( 25 U.S.C. 458aaa–3 , 458aaa–4).
 - **(f)** The Secretary shall consult and cooperate with Indian tribes and tribal organizations, and confer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
   - **(1)** the establishment of an area distribution fund in which a portion of health facility construction funding could be devoted to all Service areas;
   - **(2)** approaches provided for in other provisions of this subchapter; and
   - **(3)** other approaches, as the Secretary determines to be appropriate.
-- **(h)** All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act [ 25 U.S.C. 5321 ].
+- **(h)** All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act [ 25 U.S.C. 450f ].
 - **(g)** The priority of any project established under the construction priority system in effect on March 23, 2010 , shall not be affected by any change in the construction priority system taking place after that date if the project—
   - **(1)** was identified in the fiscal year 2008 Service budget justification as—
     - **(A)** 1 of the 10 top-priority inpatient projects;
@@ -90,6 +90,6 @@ generated_at: "2026-03-29T02:13:20.892Z"
     - **(C)** 1 of the 10 top-priority staff quarters developments; or
     - **(D)** 1 of the 10 top-priority Youth Regional Treatment Centers;
   - **(2)** had completed both Phase I and Phase II of the construction priority system in effect on March 23, 2010 ; or
-  - **(3)** is not included in clause (i) or (ii) 4 4 So in original. Probably should be “paragraph (1) or (2)”. and is selected, as determined by the Secretary—
+  - **(3)** is not included in clause (i) or (ii) 3 3 So in original. Probably should be “paragraph (1) or (2)”. and is selected, as determined by the Secretary—
     - **(A)** on the initiative of the Secretary; or
     - **(B)** pursuant to a request of an Indian tribe or tribal organization.

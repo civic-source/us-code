@@ -3,9 +3,9 @@ title: "Section 1411 - Prohibited activities by United States citizens"
 usc_title: 30
 usc_section: "1411"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1411"
-generated_at: "2026-03-29T02:14:11.263Z"
+generated_at: "2026-03-29T17:52:16.770Z"
 ---
 
 # § 1411. Prohibited activities by United States citizens
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:14:11.263Z"
     - **(D)** The furnishing of machinery, products, supplies, services, or materials for any exploration or commercial recovery conducted under a license or permit issued under this subchapter, a license or permit or equivalent authorization issued by a reciprocating state, or under an international agreement.
     - **(E)** Activities, other than exploration or commercial recovery activities, of the Federal Government.
 - **(b)**
-  - **(1)** Subsection (a)(1)(A) shall not be deemed to prohibit any United States citizen who is engaged in exploration before June 28, 1980 , from continuing to engage in such exploration—
+  - **(1)** Subsection (a)(1)(A) of this section shall not be deemed to prohibit any United States citizen who is engaged in exploration before June 28, 1980 , from continuing to engage in such exploration—
     - **(A)** if such citizen applies for a license under section 1413(a) of this title with respect to such exploration within such reasonable period of time, after the date on which initial regulations to implement section 1413(a) of this title are issued, as the Administrator shall prescribe; and
     - **(B)** until such license is issued to such citizen or a final administrative or judicial determination is made affirming the denial of certification of the application for, or issuance of, such license.
   - **(2)** Notwithstanding paragraph (1), if the President by Executive order determines that immediate suspension of exploration activities is necessary for the reasons set forth in section 1416(a)(2)(B) of this title or the Administrator determines that immediate suspension of activities is necessary to prevent a significant adverse effect on the environment or to preserve the safety of life and property at sea, the Administrator is authorized, notwithstanding any other requirement of this chapter, to issue an emergency order requiring any United States citizen who is engaged in exploration before June 28, 1980 , to immediately suspend exploration activities. The issuance of such emergency order is subject to judicial review as provided in chapter 7 of title 5.

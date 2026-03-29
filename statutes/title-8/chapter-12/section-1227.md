@@ -3,9 +3,9 @@ title: "Section 1227 - Deportable aliens"
 usc_title: 8
 usc_section: "1227"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1227"
-generated_at: "2026-03-29T02:10:21.428Z"
+generated_at: "2026-03-29T17:50:41.341Z"
 ---
 
 # § 1227. Deportable aliens
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T02:10:21.428Z"
     - **(D)** Any alien who at any time has been convicted (the judgment on such conviction becoming final) of, or has been so convicted of a conspiracy or attempt to violate—
       - **(i)** any offense under chapter 37 (relating to espionage), chapter 105 (relating to sabotage), or chapter 115 (relating to treason and sedition) of title 18 for which a term of imprisonment of five or more years may be imposed;
       - **(ii)** any offense under section 871 or 960 of title 18;
-      - **(iii)** a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) [now 50 U.S.C. 3801 et seq.] or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.]; or
+      - **(iii)** a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.); or
       - **(iv)** a violation of section 1185 or 1328 of this title,
     - **(E)**
       - **(i)** Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term “crime of domestic violence” means any crime of violence (as defined in section 16 of title 18 ) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual’s acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
@@ -91,8 +91,8 @@ generated_at: "2026-03-29T02:10:21.428Z"
         - **(II)** the alien was found to have violated a protection order intended to protect the alien; or
         - **(III)** the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime—
     - **(B)** In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
-- **(b)** An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a).
-- **(c)** Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title ) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+- **(b)** An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
+- **(c)** Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title ) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 - **(d)**
   - **(1)** If the Secretary of Homeland Security determines that an application for nonimmigrant status under subparagraph (T) or (U) of section 1101(a)(15) of this title filed for an alien in the United States sets forth a prima facie case for approval, the Secretary may grant the alien an administrative stay of a final order of removal under section 1231(c)(2) of this title until—
     - **(A)** the application for nonimmigrant status under such subparagraph (T) or (U) is approved; or

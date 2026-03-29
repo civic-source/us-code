@@ -3,9 +3,9 @@ title: "Section 960 - Authorization of appropriations"
 usc_title: 20
 usc_section: "960"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 960"
-generated_at: "2026-03-29T02:12:17.167Z"
+generated_at: "2026-03-29T17:51:48.311Z"
 ---
 
 # § 960. Authorization of appropriations
@@ -38,8 +38,8 @@ generated_at: "2026-03-29T02:12:17.167Z"
     - **(C)** Sums appropriated pursuant to subparagraph (A) and subparagraph (B) for any fiscal year shall remain available for obligation and expenditure until expended.
   - **(4)** The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities, as the case may be, shall issue guidelines to implement the provisions of paragraph (2) and paragraph (3). Such guidelines shall be consistent with the requirements of section 954(e), section 954( l )(2), 1 1 See References in Text note below. section 956(f), and section 956(h)(2) of this title , as the case may be, regarding total Federal support of activities, programs, proj­ects, or productions carried out under authority of this subchapter.
 - **(b)**
-  - **(1)** Sums appropriated pursuant to subsection (a) for any fiscal year shall remain available for obligation and expenditure until expended.
-  - **(2)** In order to afford adequate notice to interested persons of available assistance under this subchapter, appropriations authorized under subsection (a) are authorized to be included in the measure making appropriations for the fiscal year preceding the fiscal year for which such appropriations become available for obligation.
+  - **(1)** Sums appropriated pursuant to subsection (a) of this section for any fiscal year shall remain available for obligation and expenditure until expended.
+  - **(2)** In order to afford adequate notice to interested persons of available assistance under this subchapter, appropriations authorized under subsection (a) of this section are authorized to be included in the measure making appropriations for the fiscal year preceding the fiscal year for which such appropriations become available for obligation.
 - **(c)**
   - **(1)** There are authorized to be appropriated to the National Endowment for the Arts $21,200,000” 2 2 So in original. The closing quotation marks probably should not appear. for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Arts is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.
   - **(2)** There are authorized to be appropriated to the National Endowment for the Humanities $17,950,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993, to administer the provisions of this subchapter, or any other program for which the Chairperson of the National Endowment for the Humanities is responsible, including not to exceed $50,000 for each such fiscal year for official reception and representation expenses. The total amount which may be obligated or expended for such expenses for fiscal year 1995 through the use of appropriated funds or any other source of funds shall not exceed $100,000.

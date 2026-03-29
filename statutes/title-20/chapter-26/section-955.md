@@ -3,9 +3,9 @@ title: "Section 955 - National Council on the Arts"
 usc_title: 20
 usc_section: "955"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 955"
-generated_at: "2026-03-29T02:12:17.164Z"
+generated_at: "2026-03-29T17:51:48.306Z"
 ---
 
 # § 955. National Council on the Arts
@@ -26,9 +26,9 @@ generated_at: "2026-03-29T02:12:17.164Z"
       - **(ii)** so as to include practicing artists, civic cultural leaders, members of the museum profession, and others who are professionally engaged in the arts; and
       - **(iii)** so as collectively to provide an appropriate distribution of membership among major art fields and interested citizens groups.
   - **(2)**
-    - **(A)** Notwithstanding subsection (b)(1)(B), members first appointed pursuant to such subsection shall be appointed not later than December 31, 1997 . Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998 .
-    - **(B)** Members of the Council serving on the effective date of this subsection may continue to serve on the Council until their current terms expire and new members shall not be appointed under subsection (b)(1)(C) until the number of Presidentially appointed members is less than 14.
-- **(c)** Each member appointed under subsection (b)(1)(C) shall hold office for a term of six years, and the terms of office shall be staggered. The terms of office of all Council members appointed under subsection (b)(1)(C) shall expire on the third day of September in the year of expiration. No member appointed under subsection (b)(1)(C) shall be eligible for reappointment during the two-year period following the expiration of such member’s term. Any member appointed under subsection (b)(1)(C) appointed 2 2 So in original. to fill a vacancy shall serve for the remainder of the term for which such member’s predecessor was appointed. Notwithstanding any other provision of this subsection, a member appointed under subsection (b)(1)(C) shall serve after the expiration of such member’s term until such member’s successor takes office.
+    - **(A)** Notwithstanding subsection (b)(1)(B) of this section, members first appointed pursuant to such subsection shall be appointed not later than December 31, 1997 . Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998 .
+    - **(B)** Members of the Council serving on the effective date of this subsection may continue to serve on the Council until their current terms expire and new members shall not be appointed under subsection (b)(1)(C) of this section until the number of Presidentially appointed members is less than 14.
+- **(c)** Each member appointed under subsection (b)(1)(C) of this section shall hold office for a term of six years, and the terms of office shall be staggered. The terms of office of all Council members appointed under subsection (b)(1)(C) of this section shall expire on the third day of September in the year of expiration. No member appointed under subsection (b)(1)(C) of this section shall be eligible for reappointment during the two-year period following the expiration of such member’s term. Any member appointed under subsection (b)(1)(C) of this section appointed 2 2 So in original. to fill a vacancy shall serve for the remainder of the term for which such member’s predecessor was appointed. Notwithstanding any other provision of this subsection, a member appointed under subsection (b)(1)(C) of this section shall serve after the expiration of such member’s term until such member’s successor takes office.
 - **(d)**
   - **(1)** The Council shall meet at the call of the Chairperson but not less often than twice during each calendar year. Ten members of the Council shall constitute a quorum. All policy meetings of the Council shall be open to the public.
   - **(2)** The Council shall—

@@ -3,9 +3,9 @@ title: "Section 7612 - Special procedures for summonses for computer software"
 usc_title: 26
 usc_section: "7612"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7612"
-generated_at: "2026-03-29T02:14:01.402Z"
+generated_at: "2026-03-29T17:52:39.624Z"
 ---
 
 # § 7612. Special procedures for summonses for computer software
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T02:14:01.402Z"
 - **(c)**
   - **(1)** In any court proceeding to enforce a summons for any portion of software, the court may receive evidence and issue any order necessary to prevent the disclosure of trade secrets or other confidential information with respect to such software, including requiring that any information be placed under seal to be opened only as directed by the court.
   - **(2)** Notwithstanding any other provision of this section, and in addition to any protections ordered pursuant to paragraph (1), in the case of software that comes into the possession or control of the Secretary in the course of any examination with respect to any taxpayer—
-    - **(A)** the software may be used only in connection with the examination of such taxpayer’s return, any appeal by the taxpayer to the Internal Revenue Service Independent Office of Appeals, any judicial proceeding (and any appeals therefrom), and any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
+    - **(A)** the software may be used only in connection with the examination of such taxpayer’s return, any appeal by the taxpayer to the Internal Revenue Service Office of Appeals, any judicial proceeding (and any appeals therefrom), and any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
     - **(B)** the Secretary shall provide, in advance, to the taxpayer and the owner of the software a written list of the names of all individuals who will analyze or otherwise have access to the software;
     - **(C)** the software shall be maintained in a secure area or place, and, in the case of computer software source code, shall not be removed from the owner’s place of business unless the owner permits, or a court orders, such removal;
     - **(D)** the software may not be copied except as necessary to perform such analysis, and the Secretary shall number all copies made and certify in writing that no other copies have been (or will be) made;

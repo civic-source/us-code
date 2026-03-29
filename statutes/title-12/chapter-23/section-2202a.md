@@ -3,14 +3,14 @@ title: "Section 2202a - Restructuring distressed loans"
 usc_title: 12
 usc_section: "2202a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2202a"
-generated_at: "2026-03-29T02:11:21.116Z"
+generated_at: "2026-03-29T17:51:13.163Z"
 ---
 
 # § 2202a. Restructuring distressed loans
 
-- **(a)** As used in this part and section 2219a of this title :
+- **(a)** As used in this part:
   - **(1)** The term “application for restructuring” means a written request—
     - **(A)** from a borrower for the restructuring of a distressed loan in accordance with a preliminary restructuring plan proposed by the borrower as a part of the application;
     - **(B)** submitted on the appropriate forms prescribed by the qualified lender; and
@@ -27,13 +27,13 @@ generated_at: "2026-03-29T02:11:21.116Z"
     - **(C)** One or both of the factors listed in subparagraphs (A) and (B), together with inadequate collateralization, present a high probability of loss to the lender.
   - **(4)** The term “foreclosure proceeding” means—
     - **(A)** a foreclosure or similar legal proceeding to enforce a lien on property, whether real or personal, that secures a nonaccrual or distressed loan; or
-    - **(B)** the seizing of and realizing on nonreal property collateral, other than collateral subject to a statutory lien arising under subchapter I or II, to effect collection of a nonaccrual or distressed loan.
+    - **(B)** the seizing of and realizing on nonreal property collateral, other than collateral subject to a statutory lien arising under subchapter I or II of this chapter, to effect collection of a nonaccrual or distressed loan.
   - **(5)**
     - **(A)** Subject to subparagraph (B), the term “loan” means a loan made to a farmer, rancher, or producer or harvester of aquatic products, for any agricultural or aquatic purpose and other credit needs of the borrower, including financing for basic processing and marketing directly related to the borrower’s operations and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products.
     - **(B)**
       - **(i)** Except as provided in clause (ii), the term “loan” does not include a loan made on or after February 10, 1996 , that is designated, at the time the loan is made, for sale into a secondary market.
       - **(ii)**
-        - **(I)** Except as provided in subclause (II), if a loan designated for sale under clause (i) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the provisions of this section and sections 2202, 2202b, 2202d, and 2219a of this title that would otherwise apply to the loan in the absence of the exclusion described in clause (i) shall become effective with respect to the loan.
+        - **(I)** Except as provided in subclause (II), if a loan designated for sale under clause (i) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the provisions of this section and sections 2202, 2202b, 2202c, 2202d, and 2219a of this title that would otherwise apply to the loan in the absence of the exclusion described in clause (i) shall become effective with respect to the loan.
         - **(II)** If a loan described in subclause (I) is sold into a secondary market after the end of the 180-day period described in subclause (I), subclause (I) shall not apply with respect to the loan beginning on the date of the sale.
   - **(6)** The term “qualified lender” means—
     - **(A)** a System institution that makes loans (as defined in paragraph (5)) except a bank for cooperatives; and
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T02:11:21.116Z"
   - **(7)** The terms “restructure” and “restructuring” include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probable that the operations of the borrower will become financially viable.
 - **(b)**
   - **(1)** On a determination by a qualified lender that a loan made by the lender is or has become a distressed loan, the lender shall provide written notice to the borrower that the loan may be suitable for restructuring, and include with such notice—
-    - **(A)** a copy of the policy of the lender established under subsection (g) that governs the treatment of distressed loans; and
+    - **(A)** a copy of the policy of the lender established under subsection (g) of this section that governs the treatment of distressed loans; and
     - **(B)** all materials necessary to enable the borrower to submit an application for restructuring on the loan.
   - **(2)** Not later than 45 days before any qualified lender begins foreclosure proceedings with respect to a loan outstanding to any borrower, the lender shall notify the borrower that the loan may be suitable for restructuring and that the lender will review any such suitable loan for restructuring, and shall include with such notice a copy of the policy and the materials described in paragraph (1).
   - **(3)** No qualified lender may foreclose or continue any foreclosure proceeding with respect to any distressed loan before the lender has completed any pending consideration of the loan for restructuring under this section.
@@ -70,7 +70,10 @@ generated_at: "2026-03-29T02:11:21.116Z"
     - **(A)** the procedure for submitting an application for restructuring; and
     - **(B)** the right of borrowers with distressed loans to seek review by a credit review committee in accordance with section 2202 of this title of a denial of an application for restructuring.
   - **(3)** Each bank board shall submit the policy of the district governing the treatment of distressed loans under this section to the Farm Credit Administration. Notwithstanding the duty imposed by the preceding sentence, the other duties imposed by this section shall take effect on January 6, 1988 .
-- **(h)** The Farm Credit Administration may issue a directive requiring compliance with any provision of this section to any qualified lender that fails to comply with such provision.
-- **(i)** This section shall not be construed to prevent any qualified lender from enforcing any contractual provision that allows the lender to foreclose a loan, or from taking such other lawful action as the lender deems appropriate, if the lender has reasonable grounds to believe that the loan collateral will be destroyed, dissipated, consumed, concealed, or permanently removed from the State in which the collateral is located.
-- **(j)** The time limitation prescribed in subsection (b)(2), and the requirements of subsection (c), shall not apply to a loan that became a distressed loan before January 6, 1988 , if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
-- **(k)** Each Farm Credit Bank, on request of any association, may assist the association in restructuring loans under this section.
+- **(h)** During the 5-year period beginning on January 6, 1988 , each qualified lender shall submit semiannual reports to the Farm Credit Administration containing—
+  - **(1)** the results of the review of distressed loans of the lender; and
+  - **(2)** the financial effect of loan restructurings and liquidations on the lender.
+- **(i)** The Farm Credit Administration may issue a directive requiring compliance with any provision of this section to any qualified lender that fails to comply with such provision.
+- **(j)** This section shall not be construed to prevent any qualified lender from enforcing any contractual provision that allows the lender to foreclose a loan, or from taking such other lawful action as the lender deems appropriate, if the lender has reasonable grounds to believe that the loan collateral will be destroyed, dissipated, consumed, concealed, or permanently removed from the State in which the collateral is located.
+- **(k)** The time limitation prescribed in subsection (b)(2) of this section, and the requirements of subsection (c) of this section, shall not apply to a loan that became a distressed loan before January 6, 1988 , if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
+- **(l)** Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.

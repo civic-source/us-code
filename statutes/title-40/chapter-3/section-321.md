@@ -3,9 +3,9 @@ title: "Section 321 - Acquisition Services Fund"
 usc_title: 40
 usc_section: "321"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "40 U.S.C. § 321"
-generated_at: "2026-03-29T02:14:58.772Z"
+generated_at: "2026-03-29T17:52:50.572Z"
 ---
 
 # § 321. Acquisition Services Fund
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:14:58.772Z"
 - **(c)**
   - **(1)** The Fund is available for use by or under the direction and control of the Administrator for—
     - **(A)** procuring, for the use of federal agencies in the proper discharge of their responsibilities—
-      - **(i)** personal property (including the purchase from or through the Director of the Government Publishing Office, for warehouse issue, of standard forms, blankbook work, standard specifications, and other printed material in common use by federal agencies and not available through the Superintendent of Documents);
+      - **(i)** personal property (including the purchase from or through the Public Printer, for warehouse issue, of standard forms, blankbook work, standard specifications, and other printed material in common use by federal agencies and not available through the Superintendent of Documents);
       - **(ii)** nonpersonal services; and
       - **(iii)** personal services related to the provision of information technology (as defined in section 11101(6) of this title );
     - **(B)** paying the purchase price, cost of transportation of personal property and services, and cost of personal services employed directly in the repair, rehabilitation, and conversion of personal property; and
@@ -51,14 +51,3 @@ generated_at: "2026-03-29T02:14:58.772Z"
 - **(e)** The Administrator may accept periodic reimbursement from the Senate and from the House of Representatives for the cost of any equipment purchased for the Senate or the House of Representatives with money from the Fund. The amount of each periodic reimbursement shall be computed by amortizing the total cost of each item of equipment over the useful life of the equipment, as determined by the Administrator, in consultation with the Sergeant at Arms and Doorkeeper of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate.
 - **(f)** Following the close of each fiscal year, after making provision for a sufficient level of inventory of personal property to meet the needs of Federal agencies, the replacement cost of motor vehicles, and other anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 - **(g)** The Comptroller General shall audit the Fund in accordance with the provisions of chapter 35 of title 31 and report the results of the audits.
-- **(h)** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program within the Technology Transformation Services funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
-  - **(1)** An explanation of the program.
-  - **(2)** Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
-  - **(3)** The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
-  - **(4)** A description of projects or initiatives associated with the program, including—
-    - **(A)** information about when the projects or initiatives were initiated and completed; and
-    - **(B)** funding information, to the extent practicable.
-  - **(5)** Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
-- **(i)** In this section:
-  - **(1)** The term “Administrator” means the Administrator of General Services.
-  - **(2)** The term “expenditure” means any obligation of funds from the Acquisition Services Fund for programs referenced in subsection (h).

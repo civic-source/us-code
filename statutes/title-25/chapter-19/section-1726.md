@@ -1,12 +1,14 @@
 ---
-title: "Section 1726 - Omitted"
+title: "Section 1726 - Tribal organization"
 usc_title: 25
 usc_section: "1726"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1726"
-generated_at: "2026-03-29T02:13:20.913Z"
+generated_at: "2026-03-29T17:52:06.084Z"
 ---
 
-# § 1726. Omitted
+# § 1726. Tribal organization
 
+- **(a)** The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians may each organize for its common welfare and adopt an appropriate instrument in writing to govern the affairs of the tribe, nation, or band when each is acting in its governmental capacity. Such instrument and any amendments thereto must be consistent with the terms of this subchapter and the Maine Implementing Act. The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall each file with the Secretary a copy of its organic governing document and any amendments thereto.
+- **(b)** For purposes of benefits under this subchapter and the recognition extended the Houlton Band of Maliseet Indians, no person who is not a citizen of the United States may be considered a member of the Houlton Band of Maliseets, except persons who, as of October 10, 1980 , are enrolled members on the band’s existing membership roll, and direct lineal descendants of such members. Membership in the band shall be subject to such further qualifications as may be provided by the band in its organic governing document or amendments thereto subject to the approval of the Secretary.

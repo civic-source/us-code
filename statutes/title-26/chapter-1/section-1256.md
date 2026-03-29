@@ -3,9 +3,9 @@ title: "Section 1256 - Section 1256 contracts marked to market"
 usc_title: 26
 usc_section: "1256"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1256"
-generated_at: "2026-03-29T02:14:01.119Z"
+generated_at: "2026-03-29T17:52:39.359Z"
 ---
 
 # § 1256. Section 1256 contracts marked to market
@@ -45,8 +45,8 @@ generated_at: "2026-03-29T02:14:01.119Z"
   - **(2)** For purposes of this subsection, the term “hedging transaction” means any hedging transaction (as defined in section 1221(b)(2)(A)) if, before the close of the day on which such transaction was entered into (or such earlier time as the Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction.
   - **(3)**
     - **(A)** Notwithstanding paragraph (2), the term “hedging transaction” shall not include any transaction entered into by or for a syndicate.
-    - **(B)** For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 461(k)(4)).
-    - **(C)** For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 461(k)(4))—
+    - **(B)** For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)).
+    - **(C)** For purposes of subparagraph (B), an interest in an entity shall not be treated as held by a limited partner or a limited entrepreneur (within the meaning of section 464(e)(2))—
       - **(i)** for any period if during such period such interest is held by an individual who actively participates at all times during such period in the management of such entity,
       - **(ii)** for any period if during such period such interest is held by the spouse, children, grandchildren, and parents of an individual who actively participates at all times during such period in the management of such entity,
       - **(iii)** if such interest is held by an individual who actively participated in the management of such entity for a period of not less than 5 years,

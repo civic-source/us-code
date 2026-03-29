@@ -3,9 +3,9 @@ title: "Section 3014 - Capitalization"
 usc_title: 12
 usc_section: "3014"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3014"
-generated_at: "2026-03-29T02:11:21.155Z"
+generated_at: "2026-03-29T17:51:13.192Z"
 ---
 
 # § 3014. Capitalization
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:11:21.155Z"
     - **(B)** a disproportionately larger vote in one or more of the groups of cooperatives referred to in section 3013(d)(2)(A) of this title ; and
     - **(C)** the concentration of more than 5 per centum of the total voting control in any one class B or class C stockholder.
 - **(h)** The Bank may accept nonreturnable capital contributions on which no interest, dividend, or patronage refund shall be payable from associations, foundations, or funds or public bodies or agencies at the discretion of the Board.
-- **(i)** After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c), the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.
+- **(i)** After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c) of this section, the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.

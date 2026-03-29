@@ -3,9 +3,9 @@ title: "Section 5107a - State permits valid in certain waters"
 usc_title: 16
 usc_section: "5107a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 5107a"
-generated_at: "2026-03-29T02:11:53.947Z"
+generated_at: "2026-03-29T17:51:57.002Z"
 ---
 
 # § 5107a. State permits valid in certain waters
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T02:11:53.947Z"
   - **(2)** east of Monhegan Island in the area located west of the line 43° 44′ 00′′ N, 69° 15′ 05′′ W and 43° 48′ 10′′ N, 69° 08′ 01′′ W;
   - **(3)** south of Vinalhaven in the area located west of the line 43° 52′ 21′′ N, 68° 39′ 54′′ W and 43° 48′ 10′′ N, 69° 08′ 01′′ W; and
   - **(4)** south of Bois Bubert Island in the area located north of the line 44° 19′ 15′′ N, 67° 49′ 30′′ W and 44° 23′ 45′′ N, 67° 40′ 33′′ W.
-- **(b)** The exemption from Federal fishery permitting requirements granted by subsection (a) may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1858(g) ) for violations of such Act or this chapter.
+- **(b)** The exemption from Federal fishery permitting requirements granted by subsection (a) of this section may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1858(g) ) for violations of such Act or this chapter.

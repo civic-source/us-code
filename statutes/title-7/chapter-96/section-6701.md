@@ -3,14 +3,14 @@ title: "Section 6701 - Global Climate Change Program"
 usc_title: 7
 usc_section: "6701"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6701"
-generated_at: "2026-03-29T02:10:17.085Z"
+generated_at: "2026-03-29T17:50:48.823Z"
 ---
 
 # § 6701. Global Climate Change Program
 
-- **(a)** For the purpose of having within the Department of Agriculture a focal point for coordinating all issues of climate change, the Secretary of Agriculture (hereafter in this chapter referred to as the “Secretary”) shall establish a Global Climate Change Program (hereafter in this section referred to as the “Program”). The Secretary shall designate a director of the Program who shall be responsible to the Secretary for carrying out the duties specified in subsections (b) and (c).
+- **(a)** For the purpose of having within the Department of Agriculture a focal point for coordinating all issues of climate change, the Secretary of Agriculture (hereafter in this chapter referred to as the “Secretary”) shall establish a Global Climate Change Program (hereafter in this section referred to as the “Program”). The Secretary shall designate a director of the Program who shall be responsible to the Secretary for carrying out the duties specified in subsections (b) and (c) of this section.
 - **(b)** The Director shall—
   - **(1)** coordinate policy analysis, long range planning, research, and response strategies relating to climate change issues;
   - **(2)** provide liaison with other Federal agencies, through the Office of Science and Technology Policy, regarding issues of climate change;

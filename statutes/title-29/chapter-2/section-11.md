@@ -3,9 +3,9 @@ title: "Section 11 - Bureau established"
 usc_title: 29
 usc_section: "11"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 11"
-generated_at: "2026-03-29T02:14:09.350Z"
+generated_at: "2026-03-29T17:52:18.743Z"
 ---
 
 # § 11. Bureau established

@@ -1,12 +1,19 @@
 ---
-title: "Section 1300h - Omitted"
+title: "Section 1300h - Congressional findings"
 usc_title: 25
 usc_section: "1300h"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1300h"
-generated_at: "2026-03-29T02:13:20.873Z"
+generated_at: "2026-03-29T17:52:06.046Z"
 ---
 
-# § 1300h. Omitted
+# § 1300h. Congressional findings
 
+Congress finds that—
+
+  - **(1)** the Lac Vieux Desert Band of Lake Superior Chippewa Indians, although currently recognized by the Federal Government as part of the Keweenaw Bay Indian Community, has historically existed, and continues to exist, as a separate and distinct Indian tribe that is located over 75 miles from the Keweenaw Bay Indian Community;
+  - **(2)** the Lac Vieux Desert Band consists of approximately 250 members who continue to reside close to their ancestral homeland near the town of Watersmeet, Michigan;
+  - **(3)** the Lac Vieux Desert Band entered into two treaties with the United States as a distinct tribal entity ( 7 Stat. 591 , 10 Stat. 1109 );
+  - **(4)** members of the Lac Vieux Desert Band currently reside on or otherwise occupy lands within the Township of Watersmeet, Michigan, which are held by the United States in trust for the Keweenaw Bay Indian Community, and currently receive limited Federal benefits through the Keweenaw Bay Indian Community; and
+  - **(5)** because of its distance from Keweenaw Bay and the failure of the United States to recognize the independent status of the tribe, the Lac Vieux Desert Band and its members receive only limited benefits to which the tribe and its members are entitled.

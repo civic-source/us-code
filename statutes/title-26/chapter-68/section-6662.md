@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-29T02:14:01.361Z"
+generated_at: "2026-03-29T17:52:39.585Z"
 ---
 
 # § 6662. Imposition of accuracy-related penalty on underpayments
@@ -19,9 +19,6 @@ generated_at: "2026-03-29T02:14:01.361Z"
   - **(5)** Any substantial estate or gift tax valuation understatement.
   - **(6)** Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701( o )) or failing to meet the requirements of any similar rule of law.
   - **(7)** Any undisclosed foreign financial asset understatement.
-  - **(8)** Any inconsistent estate basis.
-  - **(9)** Any overstatement of the deduction provided in section 170(p).
-  - **(10)** Any disallowance of a deduction by reason of section 170(h)(7).
 - **(c)** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
 - **(d)**
   - **(1)**
@@ -31,7 +28,6 @@ generated_at: "2026-03-29T02:14:01.361Z"
     - **(B)** In the case of a corporation other than an S corporation or a personal holding company (as defined in section 542), there is a substantial understatement of income tax for any taxable year if the amount of the understatement for the taxable year exceeds the lesser of—
       - **(i)** 10 percent of the tax required to be shown on the return for the taxable year (or, if greater, $10,000), or
       - **(ii)** $10,000,000.
-    - **(C)** In the case of any taxpayer who claims any deduction allowed under section 199A for the taxable year, subparagraph (A) shall be applied by substituting “5 percent” for “10 percent”.
   - **(2)**
     - **(A)** For purposes of paragraph (1), the term “understatement” means the excess of—
       - **(i)** the amount of the tax required to be shown on the return for the taxable year, over
@@ -47,7 +43,7 @@ generated_at: "2026-03-29T02:14:01.361Z"
         - **(I)** a partnership or other entity,
         - **(II)** any investment plan or arrangement, or
         - **(III)** any other plan or arrangement,
-  - **(3)** The Secretary may prescribe a list of positions which the Secretary believes do not meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(3), and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register or the Internal Revenue Bulletin.
+  - **(3)** The Secretary may prescribe a list of positions which the Secretary believes do not meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(2), 1 1 See References in Text note below. and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register or the Internal Revenue Bulletin.
 - **(e)**
   - **(1)** For purposes of this section, there is a substantial valuation misstatement under chapter 1 if—
     - **(A)** the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 150 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be), or
@@ -86,21 +82,13 @@ generated_at: "2026-03-29T02:14:01.361Z"
       - **(iii)** in paragraph (1)(B)(ii)—
         - **(I)** “$20,000,000” for “$5,000,000”, and
         - **(II)** “20 percent” for “10 percent”.
-    - **(B)** any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”,
-    - **(C)** any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”, and
-    - **(D)** any disallowance of a deduction described in subsection (b)(10).
-- **(i)**
-  - **(1)** In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
-  - **(2)** For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
-  - **(3)** In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
+    - **(B)** any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”, and
+    - **(C)** any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”.
 - **(j)**
   - **(1)** For purposes of this section, the term “undisclosed foreign financial asset understatement” means, for any taxable year, the portion of the understatement for such taxable year which is attributable to any transaction involving an undisclosed foreign financial asset.
   - **(2)** For purposes of this subsection, the term “undisclosed foreign financial asset” means, with respect to any taxable year, any asset with respect to which information was required to be provided under section 6038, 6038B, 6038D, 6046A, or 6048 for such taxable year but was not provided by the taxpayer as required under the provisions of those sections.
   - **(3)** In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
-- **(k)** For purposes of this section, the term “inconsistent estate basis” means any portion of an underpayment attributable to the failure to comply with section 1014(f).
-- **(l)** In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting “50 percent” for “20 percent”.
-- **(m)**
-  - **(1)** In the case of a taxpayer for which there is a disallowance of an applicable energy credit for any taxable year, for purposes of determining whether there is a substantial understatement of income tax for such taxable year, subsection (d)(1) shall be applied—
-    - **(A)** in subparagraphs (A) and (B), by substituting “1 percent” for “10 percent” each place it appears, and
-    - **(B)** without regard to subparagraph (C).
-  - **(2)** For purposes of this subsection, the term “disallowance of an applicable energy credit” means the disallowance of a credit under section 45X, 45Y, or 48E by reason of overstating the material assistance cost ratio (as determined under section 7701(a)(52)) with respect to any qualified facility, energy storage technology, or facility which produces eligible components.
+- **(i)**
+  - **(1)** In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
+  - **(2)** For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
+  - **(3)** In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.

@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-29T02:11:34.058Z"
+generated_at: "2026-03-29T17:51:36.152Z"
 ---
 
 # § 638. Research and development
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
 - **(b)** It shall be the duty of the Administration, and it is empowered—
   - **(1)** to assist small-business concerns to obtain Government contracts for research and development;
   - **(2)** to assist small-business concerns to obtain the benefits of research and development performed under Government contracts or at Government expense;
-  - **(3)** to provide technical assistance to small-business concerns to accomplish the purposes of this section;
+  - **(3)** to provide technical assistance to small-business concerns to accomplish the purposes of this section; and 1 1 So in original. The word “and” probably should not appear.
   - **(4)** to develop and maintain a source file and an information program to assure each qualified and interested small business concern the opportunity to participate in Federal agency small business innovation research programs and small business technology transfer programs;
   - **(5)** to coordinate with participating agencies a schedule for release of SBIR and STTR solicitations, and to prepare a master release schedule so as to maximize small businesses’ opportunities to respond to solicitations;
   - **(6)** to independently survey and monitor the operation of SBIR and STTR programs within participating Federal agencies;
@@ -24,18 +24,10 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(C)** a description of the extent to which each Federal agency is increasing outreach and awards to firms owned and controlled by women or by socially or economically disadvantaged individuals under each of the SBIR and STTR programs;
     - **(D)** general information about the implementation of, and compliance with the allocation of funds required under, subsection (dd) for firms owned in majority part by venture capital operating companies, hedge funds, or private equity firms and participating in the SBIR program;
     - **(E)** a detailed description of appeals of Phase III awards and notices of noncompliance with the SBIR Policy Directive and the STTR Policy Directive filed by the Administrator with Federal agencies;
-    - **(F)** an accounting of funds, initiatives, and outcomes under the Commercialization Readiness Program;
-    - **(G)** a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k);
-    - **(H)** with respect to a Federal agency to which subsection (f)(1) or (n)(1) applies, whether the Federal agency has complied with the applicable subsection for the year covered by the report;
-    - **(I)** the number of applications submitted to each Federal agency participating in the SBIR or STTR program in innovation open topics as compared to conventional topics, and how many small business concerns receive funding from open topics compared to conventional topics;
-    - **(J)** the total number and dollar amount, and average size, of awards made by each Federal agency participating in the SBIR or STTR program, by phase, from—
-      - **(i)** open topics; and
-      - **(ii)** conventional topics;
-    - **(K)** the minimum performance standards established under subsection (qq), including any applicable modifications under paragraph (3) of such subsection, and the number of small business concerns that did not meet those minimum performance standards, provided that the Administrator does not publish any personally identifiable information, the identity of each such small business concern, or any otherwise sensitive information; and
-    - **(L)** the aggregate number and dollar amount of SBIR and STTR awards made pursuant to waivers under subsection (qq)(3)(E), provided that the Administrator does not publish any personally identifiable information, the identity of each such small business concern, or any otherwise sensitive information;
-  - **(8)** to provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
-  - **(9)** to coordinate the implementation of electronic databases at each of the Federal agencies participating in the SBIR program or the STTR program, including the technical ability of the participating agencies to electronically share data; and
-  - **(10)** to consult, where appropriate, with personnel from the relevant Federal agency to assist small business concerns participating in a SBIR or STTR program with commercializing research developed under such a program before such small business concern is awarded a contract from such Federal agency.
+    - **(F)** an accounting of funds, initiatives, and outcomes under the Commercialization Readiness Program; and
+    - **(G)** a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k) of this section;
+  - **(8)** to provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
+  - **(9)** to coordinate the implementation of electronic databases at each of the Federal agencies participating in the SBIR program or the STTR program, including the technical ability of the participating agencies to electronically share data.
 - **(c)** The Administration is authorized to consult and cooperate with all Government agencies and to make studies and recommendations to such agencies, and such agencies are authorized and directed to cooperate with the Administration in order to carry out and to accomplish the purposes of this section.
 - **(d)**
   - **(1)** The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programs may, among other things, include the following purposes:
@@ -69,7 +61,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(i)** in which commercial applications of STTR-funded research or research and development are funded by non-Federal sources of capital or, for products or services intended for use by the Federal Government, by follow-on non-STTR Federal funding awards; and
       - **(ii)** for which awards from non-STTR Federal funding sources are used for the continuation of research or research and development that has been competitively selected using peer review or scientific review criteria;
   - **(7)** the term “cooperative research and development” means research or research and development conducted jointly by a small business concern and a research institution in which not less than 40 percent of the work is performed by the small business concern, and not less than 30 percent of the work is performed by the research institution;
-  - **(8)** the term “research institution” means a nonprofit institution, as defined in section 3703(5) 1 1 See References in Text note below. of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41 (or any successor regulation thereto);
+  - **(8)** the term “research institution” means a nonprofit institution, as defined in section 3703(5) 2 2 See References in Text note below. of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41 (or any successor regulation thereto);
   - **(9)** the term “commercial applications” shall not be construed to exclude testing and evaluation of products, services, or technologies for use in technical or weapons systems, and further, awards for testing and evaluation of products, services, or technologies for use in technical or weapons systems may be made in either Phase II or Phase III of the Small Business Innovation Research Program and of the Small Business Technology Transfer Program, as defined in this subsection;
   - **(10)** the term “commercialization” means—
     - **(A)** the process of developing products, processes, technologies, or services; and
@@ -79,18 +71,10 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(B)** with respect to the STTR program, the first phase described in paragraph (6)(A);
   - **(12)** the term “Phase II” means—
     - **(A)** with respect to the SBIR program, the second phase described in paragraph (4)(B); and
-    - **(B)** with respect to the STTR program, the second phase described in paragraph (6)(B);
+    - **(B)** with respect to the STTR program, the second phase described in paragraph (6)(B); and
   - **(13)** the term “Phase III” means—
     - **(A)** with respect to the SBIR program, the third phase described in paragraph (4)(C); and
-    - **(B)** with respect to the STTR program, the third phase described in paragraph (6)(C);
-  - **(14)** the term “senior procurement executive” means an official designated under section 1702(c) of title 41 as the senior procurement executive of a Federal agency participating in a SBIR or STTR program;
-  - **(15)** the term “covered individual” means an individual who—
-    - **(A)** contributes in a substantive, meaningful way to the scientific development or execution of a research and development project proposed to be carried out with a research and development award from a Federal research agency; and
-    - **(B)** is designated as a covered individual by the Federal research agency concerned;
-  - **(16)** the term “foreign affiliation” means a funded or unfunded academic, professional, or institutional appointment or position with a foreign government or government-owned entity, whether full-time, part-time, or voluntary (including adjunct, visiting, or honorary);
-  - **(17)** the term “foreign country of concern” means the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Secretary of State;
-  - **(18)** the term “malign foreign talent recruitment program” has the meaning given such term in section 19237 of title 42 ; and
-  - **(19)** the term “federally funded award” means a Phase I, Phase II (including a Phase II award under subsection (cc)), or Phase III SBIR or STTR award made using a funding agreement.
+    - **(B)** with respect to the STTR program, the third phase described in paragraph (6)(C).
 - **(f)**
   - **(1)** Except as provided in paragraph (2)(B), each Federal agency which has an extramural budget for research or research and development in excess of $100,000,000 for fiscal year 1992, or any fiscal year thereafter, shall expend with small business concerns—
     - **(A)** not less than 1.5 percent of such budget in each of fiscal years 1993 and 1994;
@@ -102,23 +86,21 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(G)** not less than 2.9 percent of such budget in fiscal year 2015;
     - **(H)** not less than 3.0 percent of such budget in fiscal year 2016; and
     - **(I)** not less than 3.2 percent of such budget in fiscal year 2017 and each fiscal year thereafter,
-  - **(2)** A Federal agency shall not—
-    - **(A)** use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
-    - **(B)** make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
+  - **(2)** A Federal agency shall not make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
   - **(3)** Funding agreements with small business concerns for research or research and development which result from competitive or single source selections other than an SBIR program shall not be considered to meet any portion of the percentage requirements of paragraph (1).
   - **(4)** Nothing in this subsection may be construed to prohibit a Federal agency from expending with small business concerns an amount of the extramural budget for research or research and development of the agency that exceeds the amount required under paragraph (1).
-- **(g)** Each Federal agency required by subsection (f) to establish a small business innovation research program shall, in accordance with this chapter and regulations issued hereunder—
+- **(g)** Each Federal agency required by subsection (f) of this section to establish a small business innovation research program shall, in accordance with this chapter and regulations issued hereunder—
   - **(1)** unilaterally determine categories of projects to be in its SBIR program;
   - **(2)** issue small business innovation research solicitations in accordance with a schedule determined cooperatively with the Small Business Administration;
   - **(3)** unilaterally determine research topics within the agency’s SBIR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified by—
-    - **(A)** the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 1 of title 42, and in subsequent reports issued under that authority; or
-    - **(B)** the Secretary of Defense, in the 1992 report issued in accordance with section 2522 1 of title 10, and in subsequent reports issued under that authority;
+    - **(A)** the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 2 of title 42, and in subsequent reports issued under that authority; or
+    - **(B)** the Secretary of Defense, in the 1992 report issued in accordance with section 2522 2 of title 10, and in subsequent reports issued under that authority;
   - **(4)**
     - **(A)** unilaterally receive and evaluate proposals resulting from SBIR proposals; and
     - **(B)** make a final decision on each proposal submitted under the SBIR program—
       - **(i)** not later than 1 year after the date on which the applicable solicitation closes, if with respect to the National Institutes of Health or the National Science Foundation, or 90 days after the date on which the applicable solicitation closes, if with respect to any other participating agency; or
       - **(ii)** if the Administrator authorizes an extension with respect to a solicitation, not later than 90 days after the date that would otherwise be applicable to the agency under clause (i);
-  - **(5)** subject to subsection ( l ), unilaterally select awardees for its SBIR funding agreements and inform each awardee under such an agreement, to the extent possible, of the expenses of the awardee that will be allowable under the funding agreement;
+  - **(5)** subject to subsection ( l ) of this section, unilaterally select awardees for its SBIR funding agreements and inform each awardee under such an agreement, to the extent possible, of the expenses of the awardee that will be allowable under the funding agreement;
   - **(6)** administer its own SBIR funding agreements (or delegate such administration to another agency);
   - **(7)** make payments to recipients of SBIR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of completion of such requirements;
   - **(8)** collect annually, and maintain in a common format in accordance with the simplified reporting requirements under subsection (v), such information from awardees as is necessary to assess the SBIR program, including information necessary to maintain the database described in subsection (k), including—
@@ -129,50 +111,22 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(ii)** has an investor that—
         - **(I)** is an individual who is not a citizen of the United States or a lawful permanent resident of the United States and, if so, the name of any such individual; or
         - **(II)** is a person that is not an individual and is not organized under the laws of a State or the United States and, if so, the name of any such person;
-      - **(iii)** is owned by a woman or has a woman as a principal investigator; 2 2 So in original. Probably should be “investor;”.
-      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 2
+      - **(iii)** is owned by a woman or has a woman as a principal investigator; 3 3 So in original. Probably should be “investor;”.
+      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 3
       - **(v)** is a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20 ; or
       - **(vi)** is located in a State described in subsection (u)(3);
     - **(B)** a justification statement from the agency, if an awardee receives an award in an amount that is more than the award guidelines under this section; and
     - **(C)** data with respect to the Federal and State Technology Partnership Program (FAST Program);
   - **(9)** make an annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
-  - **(10)** include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31 , a section on its SBIR program, which section shall describe whether or not the Federal agency complied with the requirements of subsection (f) for the year covered by that plan and include a justification for failure to comply (if applicable),, 3 3 So in original. and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
-  - **(11)** provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
-  - **(12)** provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the SBIR program of the Federal agency;
-  - **(13)** require each small business concern submitting a proposal or application for a federally funded award to disclose in the proposal or application—
-    - **(A)** the identity of all owners and covered individuals of the small business concern who are a party to any foreign talent recruitment program of any foreign country of concern, including the People’s Republic of China;
-    - **(B)** the existence of any joint venture or subsidiary of the small business concern that is based in, funded by, or has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
-    - **(C)** any current or pending contractual or financial obligation or other agreement specific to a business arrangement, or joint venture-like arrangement with an enterprise owned by a foreign state or any foreign entity;
-    - **(D)** whether the small business concern is wholly owned in the People’s Republic of China or another foreign country;
-    - **(E)** the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
-    - **(F)** any technology licensing or intellectual property sales to a foreign country of concern, including the People’s Republic of China, during the 5-year period preceding submission of the proposal; and
-    - **(G)** any foreign business entity, offshore entity, or entity outside the United States related to the small business concern;
-  - **(14)** after reviewing the disclosures of a small business concern under paragraph (13), and if determined appropriate by the head of such Federal agency, request such small business concern to provide true copies of any contractual or financial obligation or other agreement specific to a business arrangement, or joint-venture like arrangement with an enterprise owned by a foreign state or any foreign entity in effect during the 5-year period preceding submission of the proposal with respect to which such small business concern made such disclosures;
-  - **(15)** not make an award under the SBIR program of the Federal agency to a small business concern if the head of the Federal agency determines that—
-    - **(A)** the small business concern submitting the proposal or application—
-      - **(i)** has an owner or covered individual that is party to a malign foreign talent recruitment program;
-      - **(ii)** has a business entity, parent company, or subsidiary located in the People’s Republic of China or another foreign country of concern; or
-      - **(iii)** has an owner or covered individual that has a foreign affiliation with a research institution located in the People’s Republic of China or another foreign country of concern; and
-    - **(B)** the relationships and commitments described in clauses (i) through (iii) of subparagraph (A)—
-      - **(i)** interfere with the capacity for activities supported by the Federal agency to be carried out;
-      - **(ii)** create duplication with activities supported by the Federal agency;
-      - **(iii)** present concerns about conflicts of interest;
-      - **(iv)** were not appropriately disclosed to the Federal agency;
-      - **(v)** violate Federal law or terms and conditions of the Federal agency; or
-      - **(vi)** pose a risk to national security;
-  - **(16)** require a small business concern receiving an award under its SBIR program to repay all amounts received from the Federal agency under the award if—
-    - **(A)** the small business concern makes a material misstatement that the Federal agency determines poses a risk to national security; or
-    - **(B)** there is a change in ownership, change to entity structure, or other substantial change in circumstances of the small business concern that the Federal agency determines poses a risk to national security; and
-  - **(17)** require a small business concern receiving an award under its SBIR program to regularly report to the Federal agency and the Administration throughout the duration of the award on—
-    - **(A)** any change to a disclosure required under subparagraphs (A) through (G) of paragraph (13);
-    - **(B)** any material misstatement made under paragraph (16)(A); and
-    - **(C)** any change described in paragraph (16)(B).
-- **(h)** In addition to the requirements of subsection (f), each Federal agency which has a budget for research or research and development in excess of $20,000,000 for any fiscal year beginning with fiscal year 1983 or subsequent fiscal year shall establish goals specifically for funding agreements for research or research and development to small business concerns, and no goal established under this subsection shall be less than the percentage of the agency’s research or research and development budget expended under funding agreements with small business concerns in the immediately preceding fiscal year.
+  - **(10)** include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31 , a section on its SBIR program, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
+  - **(11)** provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
+  - **(12)** provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the SBIR program of the Federal agency.
+- **(h)** In addition to the requirements of subsection (f) of this section, each Federal agency which has a budget for research or research and development in excess of $20,000,000 for any fiscal year beginning with fiscal year 1983 or subsequent fiscal year shall establish goals specifically for funding agreements for research or research and development to small business concerns, and no goal established under this subsection shall be less than the percentage of the agency’s research or research and development budget expended under funding agreements with small business concerns in the immediately preceding fiscal year.
 - **(i)**
   - **(1)** Each Federal agency required by this section to have an SBIR program or to establish goals shall report annually to the Small Business Administration the number of awards (including awards under subsection (y)) pursuant to grants, contracts, or cooperative agreements over $10,000 in amount and the dollar value of all such awards, identifying SBIR awards and comparing the number and amount of such awards with awards to other than small business concerns.
   - **(2)**
     - **(A)** Not later than 4 months after the date of the enactment of each appropriations Act for a Federal agency required by this section to have an SBIR program, the Federal agency shall submit to the Administrator a report, which shall include a description of the methodology used for calculating the amount of the extramural budget of that Federal agency.
-    - **(B)** The Administrator shall include an analysis of the methodology received from each Federal agency referred to in subparagraph (A) in the report required by subsection (b)(7).
+    - **(B)** The Administrator shall include an analysis of the methodology received from each Federal agency referred to in subparagraph (A) in the report required by subsection (b)(7) of this section.
 - **(j)**
   - **(1)** The Small Business Administration, after consultation with the Administrator of the Office of Federal Procurement Policy, the Director of the Office of Science and Technology Policy, and the Intergovernmental Affairs Division of the Office of Management and Budget, shall, within one hundred and twenty days of July 22, 1982 , issue policy directives for the general conduct of the SBIR programs within the Federal Government, including providing for—
     - **(A)** simplified, standardized, and timely SBIR solicitations;
@@ -181,15 +135,15 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(D)** minimizing regulatory burden associated with participation in the SBIR program for the small business concern which will stimulate the cost-effective conduct of Federal research and development and the likelihood of commercialization of the results of research and development conducted under the SBIR program;
     - **(E)** simplified, standardized, and timely annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
     - **(F)** standardized and orderly withdrawal from program participation by an agency having a SBIR program; at the discretion of the Administration, such directives may require a phased withdrawal over a period of time sufficient in duration to minimize any adverse impact on small business concerns; and
-    - **(G)** the voluntary participation in a SBIR program by a Federal agency not required to establish such a program pursuant to subsection (f).
+    - **(G)** the voluntary participation in a SBIR program by a Federal agency not required to establish such a program pursuant to subsection (f) of this section.
   - **(2)** Not later than 90 days after October 28, 1992 , the Administrator shall modify the policy directives issued pursuant to this subsection to provide for—
     - **(A)** retention by a small business concern of the rights to data generated by the concern in the performance of an SBIR award for a period of not less than 4 years;
     - **(B)** continued use by a small business concern participating in Phase III of the SBIR program, as a directed bailment, of any property transferred by a Federal agency to the small business concern in Phase II of an SBIR program for a period of not less than 2 years, beginning on the initial date of the concern’s participation in Phase III of such program;
     - **(C)** procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an SBIR program enters into follow-on, non-SBIR funding agreements with the small business concern for such research, development, or production;
     - **(D)** an increase to $150,000 in the amount of funds which an agency may award in Phase I of an SBIR program, and to $1,000,000 in Phase II of an SBIR program, and an adjustment of such amounts every year for inflation;
     - **(E)** a process for notifying the participating SBIR agencies and potential SBIR participants of the 1991, 1992, and the current critical technologies, as identified—
-      - **(i)** by the National Critical Technologies Panel (or its successor), in accordance with section 6683 1 of title 42; or
-      - **(ii)** by the Secretary of Defense, in accordance with section 2522 1 of title 10;
+      - **(i)** by the National Critical Technologies Panel (or its successor), in accordance with section 6683 2 of title 42; or
+      - **(ii)** by the Secretary of Defense, in accordance with section 2522 2 of title 10;
     - **(F)** enhanced outreach efforts to increase the participation of socially and economically disadvantaged small business concerns, as defined in section 637(a)(4) of this title , and the participation of small businesses that are 51 percent owned and controlled by women in technological innovation and in SBIR programs, including Phase III of such programs, and the collection of data to document such participation;
     - **(G)** technical and programmatic guidance to encourage agencies to develop gap-funding programs to address the delay between an award for Phase I of an SBIR program and the application for and extension of an award for Phase II of such program;
     - **(H)** procedures to ensure that a small business concern that submits a proposal for a funding agreement for Phase I of an SBIR program and that has received more than 15 Phase II SBIR awards during the preceding 5 fiscal years is able to demonstrate the extent to which it was able to secure Phase III funding to develop concepts resulting from previous Phase II SBIR awards; and
@@ -201,8 +155,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(i)** the reasons why the follow-on funding agreement with the small business concern was not practicable;
       - **(ii)** the identity of the entity with which the agency contracted to perform the research, development, or production; and
       - **(iii)** a description of the type of funding agreement under which the research, development, or production was obtained; and
-    - **(D)** to implement subsection (v), including establishing standardized procedures for the provision of information pursuant to subsection (k)(3).
-  - **(4)** Upon the enactment of this paragraph, the Administrator shall modify the policy directives issued pursuant to this subsection to require procurement center representatives (as described in section 644( l ) of this title) to consult with the appropriate personnel from the relevant Federal agency, to assist small business concerns participating in the SBIR program, particularly in Phase III.
+    - **(D)** to implement subsection (v) of this section, including establishing standardized procedures for the provision of information pursuant to subsection (k)(3) of this section.
 - **(k)**
   - **(1)** Not later than 180 days after December 21, 2000 , the Administrator shall develop, maintain, and make available to the public a searchable, up-to-date, electronic database that includes—
     - **(A)** the name, size, location, and an identifying number assigned by the Administrator, of each small business concern that has received a Phase I or Phase II SBIR or STTR award from a Federal agency;
@@ -219,11 +172,11 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(iv)** how the proceeds from commercialization, marketing, or sale of technology resulting from each assisted STTR project were allocated (by percentage) between the small business concern and the research institution; and
     - **(F)** for each small business concern that has received a Phase I or Phase II SBIR or STTR award from a Federal agency, whether the small business concern—
       - **(i)** has venture capital, hedge fund, or private equity firm investment and, if so, whether the small business concern is registered as majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms as required under subsection (dd)(3);
-      - **(ii)** is owned by a woman or has a woman as a principal investigator; 2
-      - **(iii)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 2
+      - **(ii)** is owned by a woman or has a woman as a principal investigator; 3
+      - **(iii)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 3
       - **(iv)** is owned by a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20 ; or
       - **(v)** received assistance under the Federal and State Technology Partnership Program (FAST Program).
-  - **(2)** Not later than 90 days after December 31, 2011 , the Administrator, in consultation with Federal agencies required to have an SBIR program pursuant to subsection (f)(1) or an STTR program pursuant to subsection (n)(1), shall develop and maintain a database to be used exclusively for SBIR and STTR program evaluation that—
+  - **(2)** Not later than 90 days after December 31, 2011 , the Administrator, in consultation with Federal agencies required to have an SBIR program pursuant to subsection (f)(1) of this section or an STTR program pursuant to subsection (n)(1) of this section, shall develop and maintain a database to be used exclusively for SBIR and STTR program evaluation that—
     - **(A)** contains for each small business concern that applies for, submits a proposal for, or receives an award under Phase I or Phase II of the SBIR program or the STTR program—
       - **(i)** the name, size, and location of, and the identifying number assigned by the Administration to, the small business concern;
       - **(ii)** an abstract of the applicable project;
@@ -264,13 +217,13 @@ generated_at: "2026-03-29T02:11:34.058Z"
   - **(4)** Information provided under paragraph (2) shall be considered privileged and confidential and not subject to disclosure pursuant to section 552 of title 5 .
   - **(5)** Inclusion of information in the database under this subsection shall not be considered to be publication for purposes of subsection (a) or (b) of section 102 of title 35 .
 - **(l)**
-  - **(1)** If a Federal agency required to establish an SBIR program under subsection (f) makes an award with respect to an SBIR solicitation topic or subtopic for which the agency received only 1 proposal, the agency shall provide written justification for making the award in its next quarterly report to the Administration and in the agency’s next annual report required under subsection (g)(8).
-  - **(2)** An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8) an accounting of the awards the agency has made for Phase I of an SBIR program during the reporting period to entities that have received more than 15 awards for Phase II of an SBIR program during the preceding 5 fiscal years.
-  - **(3)** An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8), an accounting of the number of awards it has made to critical technology topics, as defined in subsection (g)(3), including an identification of the specific critical technologies topics, and the percentage by number and dollar amount of the agency’s total SBIR awards to such critical technology topics.
-- **(m)** The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2025 .
+  - **(1)** If a Federal agency required to establish an SBIR program under subsection (f) of this section makes an award with respect to an SBIR solicitation topic or subtopic for which the agency received only 1 proposal, the agency shall provide written justification for making the award in its next quarterly report to the Administration and in the agency’s next annual report required under subsection (g)(8) of this section.
+  - **(2)** An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8) of this section an accounting of the awards the agency has made for Phase I of an SBIR program during the reporting period to entities that have received more than 15 awards for Phase II of an SBIR program during the preceding 5 fiscal years.
+  - **(3)** An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8) of this section, an accounting of the number of awards it has made to critical technology topics, as defined in subsection (g)(3) of this section, including an identification of the specific critical technologies topics, and the percentage by number and dollar amount of the agency’s total SBIR awards to such critical technology topics.
+- **(m)** The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2017 .
 - **(n)**
   - **(1)**
-    - **(A)** With respect to each fiscal year through fiscal year 2025, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
+    - **(A)** With respect to each fiscal year through fiscal year 2017, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
     - **(B)** The percentage of the extramural budget required to be expended by an agency in accordance with subparagraph (A) shall be—
       - **(i)** 0.15 percent for each fiscal year through fiscal year 2003;
       - **(ii)** 0.3 percent for each of fiscal years 2004 through 2011;
@@ -281,12 +234,12 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(A)** use any of its STTR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses, or, in the case of a small business concern or a research institution, costs associated with salaries, expenses, and administrative overhead (other than those direct or indirect costs allowable under guidelines of the Office of Management and Budget and the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41 ); or
     - **(B)** make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentage specified in paragraph (1).
   - **(3)** Funding agreements with small business concerns for research or research and development which result from competitive or single source selections other than an STTR program shall not be considered to meet any portion of the percentage requirements of paragraph (1).
-- **(o)** Each Federal agency required to establish an STTR program in accordance with subsection (n) and regulations issued under this chapter, shall—
+- **(o)** Each Federal agency required to establish an STTR program in accordance with subsection (n) of this section and regulations issued under this chapter, shall—
   - **(1)** unilaterally determine categories of projects to be included in its STTR program;
   - **(2)** issue STTR solicitations in accordance with a schedule determined cooperatively with the Administration;
   - **(3)** unilaterally determine research topics within the agency’s STTR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
-    - **(A)** by the National Critical Technologies Panel (or its successor) in reports required under section 6683 1 of title 42; or
-    - **(B)** by the Secretary of Defense, in accordance with section 2522 1 of title 10;
+    - **(A)** by the National Critical Technologies Panel (or its successor) in reports required under section 6683 2 of title 42; or
+    - **(B)** by the Secretary of Defense, in accordance with section 2522 2 of title 10;
   - **(4)**
     - **(A)** unilaterally receive and evaluate proposals resulting from STTR solicitations; and
     - **(B)** make a final decision on each proposal submitted under the STTR program—
@@ -295,7 +248,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
   - **(5)** unilaterally select awardees for its STTR funding agreements and inform each awardee under such an agreement, to the extent possible, of the expenses of the awardee that will be allowable under the funding agreement;
   - **(6)** administer its own STTR funding agreements (or delegate such administration to another agency);
   - **(7)** make payments to recipients of STTR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of the completion of such requirements;
-  - **(8)** include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31 , a section on its STTR program, which section shall describe whether or not the Federal agency complied with the requirements of subsection (n) for the year covered by that plan and include a justification for failure to comply (if applicable),, 3 and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
+  - **(8)** include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31 , a section on its STTR program, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
   - **(9)** collect annually, and maintain in a common format in accordance with the simplified reporting requirements under subsection (v), such information from applicants and awardees as is necessary to assess the STTR program outputs and outcomes, including information necessary to maintain the database described in subsection (k), including—
     - **(A)** whether an applicant or awardee—
       - **(i)** has venture capital, hedge fund, or private equity firm investment or is majority-owned by multiple venture capital operating companies, hedge funds, or private equity firms and, if so—
@@ -304,15 +257,15 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(ii)** has an investor that—
         - **(I)** is an individual who is not a citizen of the United States or a lawful permanent resident of the United States and, if so, the name of any such individual; or
         - **(II)** is a person that is not an individual and is not organized under the laws of a State or the United States and, if so, the name of any such person;
-      - **(iii)** is owned by a woman or has a woman as a principal investigator; 2
-      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 2
+      - **(iii)** is owned by a woman or has a woman as a principal investigator; 3
+      - **(iv)** is owned by a socially or economically disadvantaged individual or has a socially or economically disadvantaged individual as a principal investigator; 3
       - **(v)** is a faculty member or a student of an institution of higher education, as that term is defined in section 1001 of title 20 ; or
       - **(vi)** is located in a State in which the total value of contracts awarded to small business concerns under all STTR programs is less than the total value of contracts awarded to small business concerns in a majority of other States, as determined by the Administrator in biennial fiscal years, beginning with fiscal year 2008, based on the most recent statistics compiled by the Administrator;
     - **(B)** if an awardee receives an award in an amount that is more than the award guidelines under this section, a statement from the agency that justifies the award amount; and
     - **(C)** data with respect to the Federal and State Technology Partnership Program (FAST Program);
   - **(10)** submit an annual report on the STTR program to the Administration and the Office of Science and Technology Policy;
-  - **(11)** adopt the agreement developed by the Administrator under subsection (w) as the agency’s model agreement for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
-  - **(12)** develop, in consultation with the Office of Federal Procurement Policy and the Office of Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8)) that participate in STTR agreements—
+  - **(11)** adopt the agreement developed by the Administrator under subsection (w) of this section as the agency’s model agreement for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
+  - **(12)** develop, in consultation with the Office of Federal Procurement Policy and the Office of Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8) of this section) that participate in STTR agreements—
     - **(A)** are free from organizational conflicts of interests relative to the STTR program;
     - **(B)** do not use privileged information gained through work performed for an STTR agency or private access to STTR agency personnel in the development of an STTR proposal; and
     - **(C)** use outside peer review, as appropriate;
@@ -322,39 +275,11 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(C)** the existence of Phase III follow-on commitments for the subject of the research; and
     - **(D)** the presence of other indicators of the commercial potential of the idea;
   - **(14)** implement an outreach program to research institutions and small business concerns for the purpose of enhancing its STTR program, in conjunction with any such outreach done for purposes of the SBIR program;
-  - **(15)** provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
-  - **(16)** provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the STTR program of the Federal agency;
-  - **(17)** require each small business concern submitting a proposal or application for a federally funded award to disclose in the proposal or application—
-    - **(A)** the identity of all owners and covered individuals of the small business concern who are a party to any foreign talent recruitment program of any foreign country of concern, including the People’s Republic of China;
-    - **(B)** the existence of any joint venture or subsidiary of the small business concern that is based in, funded by, or has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
-    - **(C)** any current or pending contractual or financial obligation or other agreement specific to a business arrangement, or joint venture-like arrangement with an enterprise owned by a foreign state or any foreign entity;
-    - **(D)** whether the small business concern is wholly owned in the People’s Republic of China or another foreign country;
-    - **(E)** the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
-    - **(F)** any technology licensing or intellectual property sales to a foreign country of concern, including the People’s Republic of China, during the 5-year period preceding submission of the proposal; and
-    - **(G)** any foreign business entity, offshore entity, or entity outside the United States related to the small business concern;
-  - **(18)** after reviewing the disclosures of a small business concern under paragraph (17), and if determined appropriate by the head of such Federal agency, request such small business concern to provide true copies of any contractual or financial obligation or other agreement specific to a business arrangement, or joint-venture like arrangement with an enterprise owned by a foreign state or any foreign entity in effect during the 5-year period preceding submission of the proposal with respect to which such small business concern made such disclosures;
-  - **(19)** not make an award under the STTR program of the Federal agency to a small business concern if the head of the Federal agency determines that—
-    - **(A)** the small business concern submitting the proposal or application—
-      - **(i)** has an owner or covered individual that is party to a malign foreign talent recruitment program;
-      - **(ii)** has a business entity, parent company, or subsidiary located in the People’s Republic of China or another foreign country of concern; or
-      - **(iii)** has an owner or covered individual that has a foreign affiliation with a research institution located in the People’s Republic of China or another foreign country of concern; and
-    - **(B)** the relationships and commitments described in clauses (i) through (iii) of subparagraph (A)—
-      - **(i)** interfere with the capacity for activities supported by the Federal agency to be carried out;
-      - **(ii)** create duplication with activities supported by the Federal agency;
-      - **(iii)** present concerns about conflicts of interest;
-      - **(iv)** were not appropriately disclosed to the Federal agency;
-      - **(v)** violate Federal law or terms and conditions of the Federal agency; or
-      - **(vi)** pose a risk to national security;
-  - **(20)** require a small business concern receiving an award under its STTR program to repay all amounts received from the Federal agency under the award if—
-    - **(A)** the small business concern makes a material misstatement that the Federal agency determines poses a risk to national security; or
-    - **(B)** there is a change in ownership, change to entity structure, or other substantial change in circumstances of the small business concern that the Federal agency determines poses a risk to national security; and
-  - **(21)** require a small business concern receiving an award under its STTR program to regularly report to the Federal agency and the Administration throughout the duration of the award on—
-    - **(A)** any change to a disclosure required under subparagraphs (A) through (G) of paragraph (17);
-    - **(B)** any material misstatement made under paragraph (20)(A); and
-    - **(C)** any change described in paragraph (20)(B).
+  - **(15)** provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
+  - **(16)** provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the STTR program of the Federal agency.
 - **(p)**
   - **(1)** The Administrator shall issue a policy directive for the general conduct of the STTR programs within the Federal Government. Such policy directive shall be issued after consultation with—
-    - **(A)** the heads of each of the Federal agencies required by subsection (n) to establish an STTR program;
+    - **(A)** the heads of each of the Federal agencies required by subsection (n) of this section to establish an STTR program;
     - **(B)** the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office; and
     - **(C)** the Director of the Office of Federal Procurement Policy.
   - **(2)** The policy directive required by paragraph (1) shall provide for—
@@ -373,44 +298,32 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(D)** guidelines for a model agreement, to be used by all agencies, for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
     - **(E)** procedures to ensure that—
       - **(i)** a recipient of an STTR award is a small business concern, as defined in section 632 of this title and the regulations promulgated thereunder; and
-      - **(ii)** such small business concern exercises management and control of the performance of the STTR funding agreement pursuant to a business plan providing for the commercialization of the technology that is the subject matter of the award;
-    - **(F)** procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an STTR program enters into follow-on, non-STTR funding agreements with the small business concern for such research, development, or production; and
-    - **(G)** procedures to ensure that procurement center representatives (as described in section 644( l ) of this title)—
-      - **(i)** consult with the appropriate personnel from the relevant Federal agency, to assist small business concerns participating in the STTR program, particularly in Phase III;
-      - **(ii)** provide technical assistance to such concerns to submit a bid for an award of a Federal contract; and
-      - **(iii)** consult with the appropriate personnel from the relevant Federal agency in providing the assistance described in clause (i).
+      - **(ii)** such small business concern exercises management and control of the performance of the STTR funding agreement pursuant to a business plan providing for the commercialization of the technology that is the subject matter of the award; and
+    - **(F)** procedures to ensure, to the extent practicable, that an agency which intends to pursue research, development, or production of a technology developed by a small business concern under an STTR program enters into follow-on, non-STTR funding agreements with the small business concern for such research, development, or production.
   - **(3)** Not later than 120 days after October 15, 2001 , the Administrator shall modify the policy directive issued pursuant to this subsection to clarify that the rights provided for under paragraph (2)(B)(v) apply to all Federal funding awards under this section, including Phase I, Phase II, and Phase III.
 - **(q)**
-  - **(1)** Each Federal agency required by this section to conduct an SBIR program or STTR program may enter into an agreement with 1 or more vendors selected under paragraph (2)(A) to provide small business concerns engaged in SBIR or STTR projects with technical and business assistance services, such as access to a network of scientists and engineers engaged in a wide range of technologies, assistance with product sales, intellectual property protections, market research, market validation, and development of regulatory plans and manufacturing plans, or access to technical and business literature available through on-line data bases, for the purpose of assisting such concerns in—
+  - **(1)** Each Federal agency required by this section to conduct an SBIR program or STTR program may enter into an agreement with a vendor selected under paragraph (2) to provide small business concerns engaged in SBIR or STTR projects with technical assistance services, such as access to a network of scientists and engineers engaged in a wide range of technologies, or access to technical and business literature available through on-line data bases, for the purpose of assisting such concerns in—
     - **(A)** making better technical decisions concerning such projects;
     - **(B)** solving technical problems which arise during the conduct of such projects;
     - **(C)** minimizing technical risks associated with such projects; and
-    - **(D)** developing and commercializing new commercial products and processes resulting from such projects, including intellectual property protections.
-  - **(2)**
-    - **(A)** Each agency may select 1 or more vendors from which small business concerns may obtain assistance in meeting the goals listed in paragraph (1) for a term not to exceed 5 years. Such selection shall be competitive and shall utilize merit-based criteria.
-    - **(B)** A small business concern may, by contract or otherwise, select 1 or more vendors to assist the small business concern in meeting the goals listed in paragraph (1).
+    - **(D)** developing and commercializing new commercial products and processes resulting from such projects.
+  - **(2)** Each agency may select a vendor to assist small business concerns to meet the goals listed in paragraph (1) for a term not to exceed 5 years. Such selection shall be competitive and shall utilize merit-based criteria.
   - **(3)**
     - **(A)** A Federal agency described in paragraph (1) may—
-      - **(i)** provide to the recipient of a Phase I SBIR or STTR award, through a vendor selected under paragraph (2)(A), the services described in paragraph (1), in an amount equal to not more than $6,500 per year; or
-      - **(ii)** authorize the recipient of a Phase I SBIR or STTR award to purchase the services described in paragraph (1), in an amount equal to not more than $6,500 per year, which shall be in addition to the amount of the recipient’s award.
+      - **(i)** provide to the recipient of a Phase I SBIR or STTR award, through a vendor selected under paragraph (2), the services described in paragraph (1), in an amount equal to not more than $5,000 per year; or
+      - **(ii)** authorize the recipient of a Phase I SBIR or STTR award to purchase the services described in paragraph (1), in an amount equal to not more than $5,000 per year, which shall be in addition to the amount of the recipient’s award.
     - **(B)** A Federal agency described in paragraph (1) may—
-      - **(i)** provide to the recipient of a Phase II SBIR or STTR award, through a vendor selected under paragraph (2)(A), the services described in paragraph (1), in an amount equal to not more than $50,000 per project; or
-      - **(ii)** authorize the recipient of a Phase II SBIR or STTR award to purchase the services described in paragraph (1), in an amount equal to not more than $50,000 per project, which may, as determined appropriate by the head of the Federal agency, be included as part of the recipient’s award or be in addition to the amount of the recipient’s award.
-    - **(C)** In carrying out subparagraphs (A) and (B), each Federal agency shall provide the allowable amounts to a recipient that meets the eligibility requirements under the applicable subparagraph, if the recipient requests to seek technical or business assistance from an individual or entity other than a vendor selected under paragraph (2)(A) by the Federal agency. Business-related services aimed at improving the commercialization success of a small business concern may be obtained from an entity, such as a public or private organization or an agency of or other entity established or funded by a State that facilitates or accelerates the commercialization of technologies or assists in the creation and growth of private enterprises that are commercializing technology.
+      - **(i)** provide to the recipient of a Phase II SBIR or STTR award, through a vendor selected under paragraph (2), the services described in paragraph (1), in an amount equal to not more than $5,000 per year; or
+      - **(ii)** authorize the recipient of a Phase II SBIR or STTR award to purchase the services described in paragraph (1), in an amount equal to not more than $5,000 per year, which shall be in addition to the amount of the recipient’s award.
+    - **(C)** In carrying out subparagraphs (A) and (B), each Federal agency shall provide the allowable amounts to a recipient that meets the eligibility requirements under the applicable subparagraph, if the recipient requests to seek technical assistance from an individual or entity other than the vendor selected under paragraph (2) by the Federal agency.
     - **(D)** A Federal agency may not—
-      - **(i)** use the amounts authorized under subparagraph (A) or (B) unless 1 or more vendors selected under paragraph (2)(A) provides the technical or business assistance to the recipient; or
-      - **(ii)** enter a contract with a vendor under paragraph (2)(A) under which the amount provided for technical or business assistance is based on total number of Phase I or Phase II awards.
-    - **(E)** The Administrator shall establish a limit on the amount of technical and business assistance services that may be received or purchased under subparagraph (B) by a small business concern that has received multiple Phase II SBIR or STTR awards for a fiscal year.
-  - **(4)**
-    - **(A)** A small business concern that receives technical or business assistance from a vendor under this subsection during a fiscal year shall submit to the Federal agency contracting with the vendor a description of the technical or business assistance provided and the benefits and results of the technical or business assistance provided.
-    - **(B)** The information required under subparagraph (A) shall be collected by a Federal agency as part of a report required to be submitted by small business concerns engaged in SBIR or STTR projects of the Federal agency for which the requirement was in effect on August 13, 2018 .
+      - **(i)** use the amounts authorized under subparagraph (A) or (B) unless the vendor selected under paragraph (2) provides the technical assistance to the recipient; or
+      - **(ii)** enter a contract with a vendor under paragraph (2) under which the amount provided for technical assistance is based on total number of Phase I or Phase II awards.
 - **(r)**
   - **(1)** In the case of a small business concern that is awarded a funding agreement for Phase II of an SBIR or STTR program, a Federal agency may enter into a Phase III agreement with that business concern for additional work to be performed during or after the Phase II period. The Phase II funding agreement with the small business concern may, at the discretion of the agency awarding the agreement, set out the procedures applicable to Phase III agreements with that agency or any other agency.
-  - **(2)** In this subsection, the term “Phase III agreement” means a follow-on, non-SBIR or non-STTR funded contract as described in paragraph (4)(C) or paragraph (6)(C) of subsection (e).
+  - **(2)** In this subsection, the term “Phase III agreement” means a follow-on, non-SBIR or non-STTR funded contract as described in paragraph (4)(C) or paragraph (6)(C) of subsection (e) of this section.
   - **(3)** Each funding agreement under an SBIR or STTR program shall include provisions setting forth the respective rights of the United States and the small business concern with respect to intellectual property rights and with respect to any right to carry out follow-on research.
-  - **(4)** To the greatest extent practicable, Federal agencies and Federal prime contractors shall—
-    - **(A)** consider an award under the SBIR program or the STTR program to satisfy the requirements under sections 3201 through 3205 of title 10 and any other applicable competition requirements; and
-    - **(B)** issue, without further justification, Phase III awards relating to technology, including sole source awards, to the SBIR and STTR award recipients that developed the technology.
+  - **(4)** To the greatest extent practicable, Federal agencies and Federal prime contractors shall issue Phase III awards relating to technology, including sole source awards, to the SBIR and STTR award recipients that developed the technology.
 - **(s)** All funds awarded, appropriated, or otherwise made available in accordance with subsection (f) or (n) must be awarded pursuant to competitive and merit-based selection procedures.
 - **(t)** Program information relating to the SBIR and STTR programs shall be included by each Federal agency in any update or revision required of the Federal agency under section 306(b) of title 5 .
 - **(u)**
@@ -422,7 +335,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(E)** the Experimental Program to Stimulate Competitive Research of the National Aeronautics and Space Administration;
     - **(F)** the Institutional Development Award Program of the National Institutes of Health; and
     - **(G)** the National Research Initiative Competitive Grants Program of the Department of Agriculture.
-  - **(2)** Each Federal agency that is subject to subsection (f) and that has established a technology development program may, in each fiscal year, review for funding under that technology development program—
+  - **(2)** Each Federal agency that is subject to subsection (f) of this section and that has established a technology development program may, in each fiscal year, review for funding under that technology development program—
     - **(A)** any proposal to provide outreach and assistance to one or more small business concerns interested in participating in the SBIR program, including any proposal to make a grant or loan to a company to pay a portion or all of the cost of developing an SBIR proposal, from an entity, organization, or individual located in—
       - **(i)** a State that is eligible to participate in that program; or
       - **(ii)** a State described in paragraph (3); or
@@ -431,27 +344,23 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(ii)** a State described in paragraph (3).
   - **(3)** A State referred to in subparagraph (A)(ii) or (B)(ii) of paragraph (2) is a State in which the total value of contracts awarded to small business concerns under all SBIR programs is less than the total value of contracts awarded to small business concerns in a majority of other States, as determined by the Administrator in biennial fiscal years, beginning with fiscal year 2000, based on the most recent statistics compiled by the Administrator.
 - **(v)**
-  - **(1)** The Administrator shall work with the Federal agencies required by this section to have an SBIR or STTR program to standardize reporting requirements for the collection of data from SBIR or STTR applicants and awardees, including data for inclusion in the database under subsection (k), taking into consideration the unique needs of each agency, and to the extent possible, permitting the updating of previously reported information by electronic means. Such requirements shall be designed to minimize the burden on small businesses.
+  - **(1)** The Administrator shall work with the Federal agencies required by this section to have an SBIR or STTR program to standardize reporting requirements for the collection of data from SBIR or STTR applicants and awardees, including data for inclusion in the database under subsection (k) of this section, taking into consideration the unique needs of each agency, and to the extent possible, permitting the updating of previously reported information by electronic means. Such requirements shall be designed to minimize the burden on small businesses.
   - **(2)** Not later than 1 year after December 31, 2011 , and after a period of public comment, the Administrator shall issue regulations or guidelines, taking into consideration the unique needs of each Federal agency, to ensure that each Federal agency required to carry out an SBIR program or STTR program simplifies and standardizes the program proposal, selection, contracting, compliance, and audit procedures for the SBIR program or STTR program of the Federal agency (including procedures relating to overhead rates for applicants and documentation requirements) to reduce the paperwork and regulatory compliance burden on small business concerns applying to and participating in the SBIR program or STTR program.
 - **(w)**
   - **(1)** The Administrator shall promulgate regulations establishing a single model agreement for use in the STTR program that allocates between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization.
   - **(2)** In promulgating regulations under paragraph (1), the Administrator shall provide to affected agencies, small business concerns, research institutions, and other interested parties the opportunity to submit written comments.
 - **(x)**
-  - **(1)** In carrying out subsection (g), the Secretary of Defense shall, not less often than once every 4 years, revise and update the criteria and procedures utilized to identify areas of the research and development efforts of the Department of Defense which are suitable for the provision of funds under the Small Business Innovation Research Program and the Small Business Technology Transfer Program.
+  - **(1)** In carrying out subsection (g) of this section, the Secretary of Defense shall, not less often than once every 4 years, revise and update the criteria and procedures utilized to identify areas of the research and development efforts of the Department of Defense which are suitable for the provision of funds under the Small Business Innovation Research Program and the Small Business Technology Transfer Program.
   - **(2)** The criteria and procedures described in paragraph (1) shall be developed through the use of the most current versions of the following plans:
-    - **(A)** The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 10 U.S.C. 2501 note). 1
+    - **(A)** The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 10 U.S.C. 2501 note).
     - **(B)** The Defense Technology Area Plan of the Department of Defense.
     - **(C)** The Basic Research Plan of the Department of Defense.
-  - **(3)** The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs). 1
+  - **(3)** The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs).
 - **(y)**
   - **(1)** The Secretary of Defense and the Secretary of each military department is authorized to create and administer a “Commercialization Readiness Program” to accelerate the transition of technologies, products, and services developed under the Small Business Innovation Research Program or Small Business Technology Transfer Program to Phase III, including the acquisition process. The authority to create and administer a Commercialization Readiness Program under this subsection may not be construed to eliminate or replace any other SBIR program or STTR program that enhances the insertion or transition of SBIR or STTR technologies, including any such program in effect on January 6, 2006 .
   - **(2)** In carrying out the Commercialization Readiness Program, the Secretary of Defense and the Secretary of each military department shall identify research programs of the Small Business Innovation Research Program or Small Business Technology Transfer Program that have the potential for rapid transitioning to Phase III and into the acquisition process.
   - **(3)** No research program may be identified under paragraph (2) unless the Secretary of the military department concerned certifies in writing that the successful transition of the program to Phase III and into the acquisition process is expected to meet high priority military requirements of such military department.
-  - **(4)**
-    - **(A)** The Secretary of Defense and each Secretary of a military department may use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program for payment of expenses incurred to administer the Commercialization Readiness Program under this subsection.
-    - **(B)** The funds described in subparagraph (A)—
-      - **(i)** shall not be subject to the limitations on the use of funds in subsection (f)(2); and
-      - **(ii)** shall not be used to make Phase III awards.
+  - **(4)** For payment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards.
   - **(5)** For any contract with a value of not less than $100,000,000, the Secretary of Defense is authorized to—
     - **(A)** establish goals for the transition of Phase III technologies in subcontracting plans; and
     - **(B)** require a prime contractor on such a contract to report the number and dollar amount of contracts entered into by that prime contractor for Phase III SBIR or STTR projects.
@@ -502,7 +411,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
   - **(1)** A small business concern that received a Phase I award from a Federal agency under this section shall be eligible to receive a subsequent Phase II award from another Federal agency, if the head of each relevant Federal agency or the relevant component of the Federal agency makes a written determination that the topics of the relevant awards are the same and both agencies report the awards to the Administrator for inclusion in the public database under subsection (k).
   - **(2)** A small business concern that received a Phase I award under this section under the SBIR program or the STTR program may receive a subsequent Phase II award in either the SBIR program or the STTR program and the participating agency or agencies shall report the awards to the Administrator for inclusion in the public database under subsection (k).
   - **(3)** The head of a Federal agency shall verify that any activity to be performed with respect to a project with a Phase I or Phase II SBIR or STTR award has not been funded under the SBIR program or STTR program of another Federal agency.
-- **(cc)** During fiscal years 2012 through 2025, the National Institutes of Health, the Department of Defense, and the Department of Education may each provide to a small business concern an award under Phase II of the SBIR program with respect to a project, without regard to whether the small business concern was provided an award under Phase I of an SBIR program with respect to such project, if the head of the applicable agency determines that the small business concern has completed the determinations described in subsection (e)(4)(A) with respect to such project despite not having been provided a Phase I award.
+- **(cc)** During fiscal years 2012 through 2017, the National Institutes of Health, the Department of Defense, and the Department of Education may each provide to a small business concern an award under Phase II of the SBIR program with respect to a project, without regard to whether the small business concern was provided an award under Phase I of an SBIR program with respect to such project, if the head of the applicable agency determines that the small business concern has completed the determinations described in subsection (e)(4)(A) with respect to such project despite not having been provided a Phase I award.
 - **(dd)**
   - **(1)** Upon providing a written determination described in paragraph (2) to the Administrator, the Committee on Small Business and Entrepreneurship of the Senate, and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, not later than 30 days before the date on which any such award is made—
     - **(A)** the Director of the National Institutes of Health, the Secretary of Energy, and the Director of the National Science Foundation may award not more than 25 percent of the funds allocated for the SBIR program of the applicable Federal agency to small business concerns that are owned in majority part by multiple venture capital operating companies, hedge funds, or private equity firms through competitive, merit-based procedures that are open to all eligible small business concerns; and
@@ -556,35 +465,14 @@ generated_at: "2026-03-29T02:11:34.058Z"
   - **(4)** Any applicant that receives an award under a pilot program shall register with the Administrator in a registry that is available to the public.
   - **(5)** When making an award under this section, the head of a covered Federal agency shall give consideration to whether the technology to be supported by the award is likely to be manufactured in the United States.
   - **(6)** The head of each covered Federal agency shall include in the annual report of the covered Federal agency to the Administrator an analysis of the various activities considered for inclusion in the pilot program of the covered Federal agency and a statement of the reasons why each activity considered was included or not included, as the case may be.
-  - **(7)** The authority to establish a pilot program under this section expires at the end of fiscal year 2025.
+  - **(7)** The authority to establish a pilot program under this section expires at the end of fiscal year 2017.
   - **(8)** In this subsection—
     - **(A)** the term “covered Federal agency”—
       - **(i)** means a Federal agency participating in the SBIR program or the STTR program; and
       - **(ii)** does not include the Department of Defense; and
     - **(B)** the term “pilot program” means each program established under paragraph (1).
-- **(hh)**
-  - **(1)** Federal agencies participating in the SBIR program or STTR program shall, to the extent possible, shorten the amount of time between the provision of notice of an award under the SBIR program or STTR program and the subsequent release of funding with respect to the award.
-  - **(2)**
-    - **(A)** Not later than 1 year after August 13, 2018 , the Under Secretary of Defense for Research and Engineering, acting through the Director of Defense Procurement and Acquisition Policy of the Department of Defense, shall establish a pilot program to reduce the time for awards under the SBIR and STTR programs of the Department of Defense, under which the Department of Defense shall—
-      - **(i)** develop simplified and standardized procedures and model contracts throughout the Department of Defense for Phase I, Phase II, and Phase III SBIR awards;
-      - **(ii)** for Phase I SBIR and STTR awards, reduce the amount of time between solicitation closure and award;
-      - **(iii)** for Phase II SBIR and STTR awards, reduce the amount of time between the end of a Phase I award and the start of the Phase II award;
-      - **(iv)** for Phase II SBIR and STTR awards that skip Phase I, reduce the amount of time between solicitation closure and award;
-      - **(v)** for sequential Phase II SBIR and STTR awards, reduce the amount of time between Phase II awards; and
-      - **(vi)** reduce the award times described in clauses (ii), (iii), (iv), and (v) to be as close to 90 days as possible.
-    - **(B)** In carrying out the pilot program under subparagraph (A), the Director of Defense Procurement and Acquisition Policy of the Department of Defense shall consult with the Director of the Office of Small Business Programs of the Department of Defense.
-    - **(C)** The pilot program under subparagraph (A) shall terminate on September 30, 2025 .
-- **(ii)**
-  - **(1)** Federal agencies participating in the SBIR program or STTR program shall provide to the Administrator, for the annual report on the SBIR and STTR program under subsection (b)(7), the average amount of time the agency takes to make a final decision on proposals submitted under such programs, the average amount of time the agency takes to release funding with respect to an award under such programs, and the goals established to reduce such amounts.
-  - **(2)** The Comptroller General of the United States shall submit to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Armed Services of the Senate, the Committee on Small Business of the House of Representatives, and the Committee on Armed Services of the House of Representatives—
-    - **(A)** not later than 1 year after August 13, 2018 , and every year thereafter for 3 years, a report that—
-      - **(i)** provides the average and median amount of time that each component of the Department of Defense with an SBIR or STTR program takes to review and make a final decision on proposals submitted under the program; and
-      - **(ii)** compares that average and median amount of time with that of other Federal agencies participating in the SBIR or STTR program; and
-    - **(B)** not later than December 5, 2021 , a report that—
-      - **(i)** includes the information described in subparagraph (A);
-      - **(ii)** assesses where each Federal agency participating in the SBIR or STTR program needs improvement with respect to the proposal review and award times under the program;
-      - **(iii)** identifies best practices for shortening the proposal review and award times under the SBIR and STTR programs, including the pros and cons of using contracts compared to grants; and
-      - **(iv)** analyzes the efficacy of the pilot program established under subsection (hh)(2).
+- **(hh)** Federal agencies participating in the SBIR program or STTR program shall, to the extent possible, attempt to shorten the amount of time between the provision of notice of an award under the SBIR program or STTR program and the subsequent release of funding with respect to the award.
+- **(ii)** Federal agencies participating in the SBIR program or STTR program shall provide to the Administrator, for the annual report on the SBIR and STTR program under subsection (b)(7), the average amount of time the agency takes to make a final decision on proposals submitted under such programs, the average amount of time the agency takes to release funding with respect to an award under such programs, and the goals established to reduce such amounts.
 - **(jj)**
   - **(1)** The Director of the National Institutes of Health may use $5,000,000 of the funds allocated under subsection (n)(1) for a Proof of Concept Partnership pilot program to accelerate the creation of small businesses and the commercialization of research innovations from qualifying institutions. To implement this program, the Director shall award, through a competitive, merit-based process, grants to qualifying institutions. These grants shall only be used to administer Proof of Concept Partnership awards in conformity with this subsection.
   - **(2)** In this subsection—
@@ -602,7 +490,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(ii)** Not more than $100,000 shall be awarded towards an individual proposal.
     - **(C)** The administrator of a Proof of Concept Partnership program shall make educational resources and guidance available to researchers attempting to commercialize their innovations.
   - **(4)**
-    - **(A)** The Director may make awards to a qualifying institution for up to $1,000,000 per year for up to 4 years.
+    - **(A)** The Director may make awards to a qualifying institution for up to $1,000,000 per year for up to 3 years.
     - **(B)** In determining which qualifying institutions receive pilot program grants, the Director shall consider, in addition to any other criteria the Director determines necessary, the extent to which qualifying institutions—
       - **(i)** have an established and proven technology transfer or commercialization office and have a plan for engaging that office in the program’s implementation;
       - **(ii)** have demonstrated a commitment to local and regional economic development;
@@ -621,7 +509,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(C)** a detailed description of the pilot program, including incentives and activities undertaken by review board experts;
     - **(D)** a detailed compilation of results achieved by the pilot program, including the number of small business concerns included and the number of business packages developed, and the number of projects that progressed into subsequent STTR phases; and
     - **(E)** an analysis of the program’s effectiveness with supporting data.
-  - **(7)** The pilot program under this subsection shall terminate at the end of fiscal year 2025.
+  - **(7)** The pilot program under this subsection shall terminate at the end of fiscal year 2017.
 - **(kk)** The annual SBIR or STTR report to Congress by the Administration under subsection (b)(7) shall include, for each Phase III award—
   - **(1)** the name of the agency or component of the agency or the non-Federal source of capital making the Phase III award;
   - **(2)** the name of the small business concern or individual receiving the Phase III award; and
@@ -632,7 +520,7 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(B)** release the contact information of the concern to such organizations.
   - **(2)** The Administrator shall establish rules to implement this subsection. The rules shall include a requirement that a Federal agency include in the SBIR and STTR application a provision through which the applicant can indicate consent for purposes of paragraph (1).
 - **(mm)**
-  - **(1)** Subject to paragraph (3) and until September 30, 2025 , the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
+  - **(1)** Subject to paragraph (3), for the 3 fiscal years beginning after December 31, 2011 , the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
     - **(A)** the administration of the SBIR program or the STTR program of the Federal agency;
     - **(B)** the provision of outreach and technical assistance relating to the SBIR program or STTR program of the Federal agency, including technical assistance site visits, personnel interviews, and national conferences;
     - **(C)** the implementation of commercialization and outreach initiatives that were not in effect on December 31, 2011 ;
@@ -641,9 +529,8 @@ generated_at: "2026-03-29T02:11:34.058Z"
     - **(F)** targeted reviews of recipients of awards under the SBIR program or STTR program of the Federal agency that the head of the Federal agency determines are at high risk for fraud, waste, or abuse to ensure compliance with requirements of the SBIR program or STTR program, respectively;
     - **(G)** the implementation of oversight and quality control measures, including verification of reports and invoices and cost reviews;
     - **(H)** carrying out subsection (dd);
-    - **(I)** contract processing costs relating to the SBIR program or STTR program of the Federal agency;
-    - **(J)** funding for additional personnel and assistance with application reviews; and
-    - **(K)** funding for improvements that increase commonality across data systems, reduce redundancy, and improve data oversight and accuracy.
+    - **(I)** contract processing costs relating to the SBIR program or STTR program of the Federal agency; and
+    - **(J)** funding for additional personnel and assistance with application reviews.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), a Federal agency participating in the program under this subsection shall use a portion of the funds authorized for uses under paragraph (1) to carry out the policy directive required under subsection (j)(2)(F) and to increase the participation of States with respect to which a low level of SBIR awards have historically been awarded.
     - **(B)** A Federal agency may request the Administrator to waive the requirement contained in subparagraph (A). Such request shall include an explanation of why the waiver is necessary. The Administrator may grant the waiver based on a determination that the agency has demonstrated a sufficient need for the waiver, that the outreach objectives of the agency are being met, and that there is increased participation by States with respect to which a low level of SBIR awards have historically been awarded.
@@ -689,58 +576,9 @@ generated_at: "2026-03-29T02:11:34.058Z"
       - **(iii)** begin evaluating, each fiscal year, whether each small business concern that received a Phase I SBIR or STTR award from the agency meets the minimum performance standard established under clause (ii).
     - **(B)** If the head of a Federal agency determines that a small business concern that received a Phase I SBIR or STTR award from the agency is not meeting the minimum performance standard established under subparagraph (A)(ii), such concern may not participate in Phase I (or Phase II if under the authority of subsection (cc)) of the SBIR or STTR program of that agency during the 1-year period beginning on the date on which such determination is made.
   - **(3)**
-    - **(A)**
-      - **(i)** With respect to a small business concern that received or receives more than 50 Phase I awards during a covered period, each minimum performance standard established under paragraph (1)(A)(ii) shall be doubled for such covered period.
-      - **(ii)** If the head of a Federal agency determines that a small business concern that received a Phase I award from the Federal agency is not meeting an applicable increased minimum performance standard modified under clause (i), the small business concern may not receive more than 20 total Phase I awards and Phase II awards under subsection (cc) from each Federal agency during the 1-year period beginning on the date on which such determination is made.
-      - **(iii)** In this subparagraph, the term “covered period” means a consecutive period of 5 fiscal years preceding the most recent fiscal year.
-    - **(B)**
-      - **(i)** Each minimum performance standard established under paragraph (2)(A)(ii) shall—
-        - **(I)** with respect to a small business concern that received or receives more than 50 Phase II awards during a covered period, require an average of $250,000 of aggregate sales and investments per Phase II award received during such covered period; and
-        - **(II)** with respect to a small business concern that received or receives more than 100 Phase II awards during a covered period, require an average of $450,000 of aggregate sales and investments per Phase II award received during such covered period.
-      - **(ii)** If the head of a Federal agency determines that a small business concern that received a Phase I award from the agency is not meeting an applicable increased minimum performance standard modified under clause (i), the small business concern may not receive more than 20 total Phase I awards and Phase II awards under subsection (cc) from each agency during the 1-year period beginning on the date on which such determination is made.
-      - **(iii)**
-        - **(I)** A small business concern that is subject to an increased minimum performance standard described in clause (i) shall submit to the Administrator supporting documentation evidencing that all covered sales of the small business concern were properly used to meet the increased minimum performance standard.
-        - **(II)** In this clause, the term “covered sale” means a sale by a small business concern—
-      - **(iv)** In this subparagraph, the term “covered period” means a consecutive period of 10 fiscal years preceding the most recent 2 fiscal years.
-    - **(C)** A small business concern with respect to which an increased minimum performance standard under subparagraph (B) applies may not meet the increased minimum performance standard by obtaining patents.
-    - **(D)** Subparagraphs (A) through (C) shall take effect on April 1, 2023 .
-    - **(E)**
-      - **(i)** The Administrator may, upon the request of a senior official of a Federal agency, grant a waiver with respect to a topic for the SBIR or STTR program of the Federal agency if—
-        - **(I)** the topic is critical to the mission of the Federal agency or relates to national security; and
-        - **(II)** the official submits to the Administrator a request for the waiver in accordance with clause (iii).
-      - **(ii)** If the Administration grants a waiver with respect to a topic for the SBIR or STTR program of a Federal agency, subparagraphs (A)(ii) and (B)(ii) shall not prohibit any covered small business concern from receiving an SBIR or STTR award under such topic.
-      - **(iii)** Not later than 15 days before the release of a solicitation including a topic for which a senior official of a Federal agency is requesting a waiver under clause (i), the senior official shall submit to the Administrator, the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a request for the waiver.
-      - **(iv)** Not later than 15 days after receiving a request for a waiver under clause (i), the Administrator shall make a determination with respect to the request and notify the senior official at the Federal agency that made the request, the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate of the determination.
-      - **(v)** In this subparagraph:
-        - **(I)** The term “covered small business concern” means a small business concern that is subject to the consequences under subparagraph (A)(ii) or (B)(ii) pursuant to a determination by the head of a Federal agency that such small business concern did not meet an increased minimum performance standard that was applicable to such small business concern.
-        - **(II)** The term “senior official” means an individual appointed to a position in a Federal agency that is classified above GS–15 pursuant section 5108 of title 5 , or any equivalent position, as determined by the Administrator.
-    - **(F)**
-      - **(i)** Not later than July 1, 2023 , and annually thereafter, the Administrator shall submit to Congress a list of the small business concerns that did not meet—
-        - **(I)** an applicable minimum performance standard established under paragraph (1)(A)(ii) or (2)(A)(ii); or
-        - **(II)** an applicable increased minimum performance standard.
-      - **(ii)** Each list submitted under clause (i) shall identify each small business concern that received an SBIR or STTR award pursuant to a waiver granted under subparagraph (E) by the Administrator during the period covered by the list.
-      - **(iii)** Each list submitted under clause (i) shall be confidential and exempt from disclosure under section 552(b)(3) of title 5 (commonly known as the “Freedom of Information Act”).
-    - **(G)** Not later than April 1, 2023 , the Administration shall implement the increased minimum performance standards under this paragraph.
-    - **(H)** Nothing in this paragraph shall be construed—
-      - **(i)** to prohibit a small business concern from participating in a Phase I (or Phase II if under the authority of subsection (cc)) of an SBIR or STTR program under paragraph (1)(B) or (2)(B) solely on the basis of a determination by the head of a Federal agency that the small business concern is not meeting an increased minimum performance standard; or
-      - **(ii)** to prevent the head of a Federal agency from implementing more restrictive limitations on the number of federally funded Phase I awards and direct to Phase II awards under subsection (cc) that may be awarded to a small business concern than the limitations described in subparagraphs (A)(ii) and (B)(ii).
-    - **(I)** This paragraph shall terminate on September 30, 2025 .
-  - **(4)**
     - **(A)** Each system and minimum performance standard established under paragraph (1) or paragraph (2) shall be submitted by the head of the applicable Federal agency to the Administrator and shall be subject to the approval of the Administrator. In making a determination with respect to approval, the Administrator shall ensure that the minimum performance standard exceeds a de minimis level. The Administrator shall publish on the Internet Web site of the Administration the systems and minimum performance standards approved.
     - **(B)** The head of each covered Federal agency shall submit to the Administrator the results of each evaluation conducted under paragraph (1) or paragraph (2).
-  - **(5)** Each system and minimum performance standard established under paragraph (1) or paragraph (2) and each approval provided by the Administrator under paragraph (4)(A), at least 60 days before becoming effective, shall be preceded by the provision of notice of and an opportunity for public comment on such system, standard, or approval.
-  - **(6)** Not later than 1 year after the date on which the Administrator implements the increased minimum performance standards under paragraph (3), and periodically thereafter, the Inspector General of the Administration shall—
-    - **(A)** conduct an audit on whether the small business concerns subject to increased minimum performance standards under paragraph (3)(B) verified—
-      - **(i)** the sales by and investments in the small business concerns—
-        - **(I)** during the 5 fiscal years immediately preceding the fiscal year in which the small business concern used such sales and investments to meet an applicable increased performance standard; and
-        - **(II)** as a direct result of a Phase I award or Phase II award made under subsection (cc) during the covered period (as defined in paragraph (3)(B)(iv)), consistent with the definition of Phase III, as applicable;
-      - **(ii)** any third-party revenue the small business concerns list as investments or incomes to meet the increased minimum performance standard—
-        - **(I)** is a direct result of a Phase I award or Phase II award made under subsection (cc) during the covered period (as defined in paragraph (3)(B)(iv)); and
-        - **(II)** consistent with the requirements of the Administrator as in effect on September 30, 2022 , or any successor requirements; and
-      - **(iii)** any dollar amounts such small business concerns list as investments or income to meet such increased minimum performance standard the providence of which is unclear and that is not directly attributable to a Phase I award or Phase II award made under subsection (cc) during the covered period (as defined in paragraph (3)(B)(iv)), consistent with the definition of Phase III, as applicable;
-    - **(B)** assess the self-certification requirements for the minimum performance standards established under paragraph (2)(A)(ii) and the increased minimum performance standards under paragraph (3)(B); and
-    - **(C)** submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives a report on the audit conducted under subparagraph (A) and the assessment conducted under subparagraph (B).
-  - **(7)** In this subsection, the term “increased minimum performance standard” means a minimum performance standard established under paragraph (1)(A)(ii) or (2)(A)(ii) as modified under subparagraph (A) or (B), respectively, of paragraph (3) with respect to a small business concern.
+  - **(4)** Each system and minimum performance standard established under paragraph (1) or paragraph (2) and each approval provided by the Administrator under paragraph (3)(A), at least 60 days before becoming effective, shall be preceded by the provision of notice of and an opportunity for public comment on such system, standard, or approval.
 - **(rr)** In order to increase the number of small businesses receiving awards under the SBIR or STTR programs of participating agencies, and to simplify the application process for such awards, the Administrator shall establish and maintain a public Internet Web site on which the Administrator shall publish such information relating to notice of and application for awards under the SBIR program and STTR program of each participating Federal agency as the Administrator determines appropriate.
 - **(ss)** Not later than October 1, 2013 , and annually thereafter, the head of each Federal agency that makes more than $50,000,000 in awards under the SBIR and STTR programs of the agency combined shall submit to the Administrator, for inclusion in the annual report required under subsection (b)(7), information that includes—
   - **(1)** a description of efforts undertaken by the head of the Federal agency to enhance United States manufacturing activities;
@@ -748,90 +586,3 @@ generated_at: "2026-03-29T02:11:34.058Z"
   - **(3)** an assessment of the effectiveness of the actions described in paragraph (2) at enhancing the research and development of United States manufacturing technologies and processes;
   - **(4)** a description of efforts by vendors selected to provide discretionary technical assistance under subsection (q)(1) to help SBIR and STTR concerns manufacture in the United States; and
   - **(5)** recommendations that the program managers of the SBIR or STTR program of the agency consider appropriate for additional actions to increase the effectiveness of enhancing manufacturing activities.
-- **(tt)**
-  - **(1)** Not later than March 30, 2019 , the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Small Business of the House of Representatives, and the Committee on Science, Space, and Technology of the House of Representatives—
-    - **(A)** each report, evaluation, or analysis, as applicable, described in subsection (b)(7), (g)(9), ( o )(10), (y)(6)(C), (gg)(6), (jj)(6), and (mm)(6); and
-    - **(B)** metrics regarding, and an evaluation of, the authority provided to the National Institutes of Health, the Department of Defense, and the Department of Education under subsection (cc).
-  - **(2)** Not later than December 31, 2018 , the head of each agency that is responsible for carrying out a provision described in subparagraph (A) or (B) of paragraph (1) shall submit to the Administrator any information that is necessary for the Administrator to carry out the responsibilities of the Administrator under that paragraph.
-- **(uu)**
-  - **(1)**
-    - **(A)** Except as provided in subparagraph (B), not later than one year after August 13, 2018 , a covered agency shall implement a commercialization assistance pilot program, under which an eligible entity may receive a subsequent Phase II SBIR award.
-    - **(B)** If the Administrator determines that a covered agency has a program that is sufficiently similar to the commercialization assistance pilot program established under this subsection, such covered agency shall not be required to implement a commercialization assistance pilot program under this subsection.
-  - **(2)** The head of each covered agency may allocate not more than 5 percent of the funds allocated to the SBIR program of the covered agency for the purpose of making a subsequent Phase II SBIR award under the commercialization assistance pilot program.
-  - **(3)** A commercialization assistance pilot program established under this subsection shall terminate on September 30, 2025 .
-  - **(4)** To be selected to receive a subsequent Phase II SBIR award under a commercialization assistance pilot program, an eligible entity shall submit to the covered agency implementing such pilot program an application at such time, in such manner, and containing such information as the covered agency may require, including—
-    - **(A)** an updated Phase II commercialization plan; and
-    - **(B)** the source and amount of the matching funding required under paragraph (5).
-  - **(5)**
-    - **(A)** The Administrator shall require, as a condition of any subsequent Phase II SBIR award made to an eligible entity under this subsection, that a matching amount (excluding any fees collected by the eligible entity receiving such award) equal to the amount of such award be provided from an eligible third-party investor.
-    - **(B)** An eligible entity may not use funding from ineligible sources to meet the matching requirement of subparagraph (A).
-  - **(6)** A subsequent Phase II SBIR award made to an eligible entity under this subsection—
-    - **(A)** may not exceed the limitation described under subsection (aa)(1); and
-    - **(B)** shall be disbursed during Phase II.
-  - **(7)** The funds awarded to an eligible entity under this subsection may only be used for research and development activities that build on eligible entity’s Phase II program and ensure the research funded under such Phase II is rapidly progressing towards commercialization.
-  - **(8)** In selecting eligible entities to participate in a commercialization assistance pilot program under this subsection, the head of a covered agency shall consider—
-    - **(A)** the extent to which such award could aid the eligible entity in commercializing the research funded under the eligible entity’s Phase II program;
-    - **(B)** whether the updated Phase II commercialization plan submitted under paragraph (4) provides a sound approach for establishing technical feasibility that could lead to commercialization of such research;
-    - **(C)** whether the proposed activities to be conducted under such updated Phase II commercialization plan further improve the likelihood that such research will provide societal benefits;
-    - **(D)** whether the small business concern has progressed satisfactorily in Phase II to justify receipt of a subsequent Phase II SBIR award;
-    - **(E)** the expectations of the eligible third-party investor that provides matching funding under paragraph (5); and
-    - **(F)** the likelihood that the proposed activities to be conducted under such updated Phase II commercialization plan using matching funding provided by such eligible third-party investor will lead to commercial and societal benefit.
-  - **(9)** Not later than 6 years after August 13, 2018 , the Comptroller General of the United States shall submit to the Committee on Science, Space, and Technology and the Committee on Small Business of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate, a report including—
-    - **(A)** a summary of the activities of commercialization assistance pilot programs carried out under this subsection;
-    - **(B)** a detailed compilation of results achieved by such commercialization assistance pilot programs, including the number of eligible entities that received awards under such programs;
-    - **(C)** the rate at which each eligible entity that received a subsequent Phase II SBIR award under this subsection commercialized research of the recipient;
-    - **(D)** the growth in employment and revenue of eligible entities that is attributable to participation in a commercialization assistance pilot program;
-    - **(E)** a comparison of commercialization success of eligible entities participating in a commercialization assistance pilot program with recipients of an additional Phase II SBIR award under subsection (ff);
-    - **(F)** demographic information, such as ethnicity and geographic location, of eligible entities participating in a commercialization assistance pilot program;
-    - **(G)** an accounting of the funds used at each covered agency that implements a commercialization assistance pilot program under this subsection;
-    - **(H)** the amount of matching funding provided by eligible third-party investors, set forth separately by source of funding;
-    - **(I)** an analysis of the effectiveness of the commercialization assistance pilot program implemented by each covered agency; and
-    - **(J)** recommendations for improvements to the commercialization assistance pilot program.
-  - **(10)** For purposes of this subsection:
-    - **(A)** The term “covered agency” means a Federal agency required to have an SBIR program.
-    - **(B)** The term “eligible entity” means a small business concern that has received a Phase II award under an SBIR program and an additional Phase II SBIR award under subsection (ff) from the covered agency to which such small business concern is applying for a subsequent Phase II SBIR award.
-    - **(C)** The term “eligible third-party investor” means a small business concern other than an eligible entity, a venture capital firm, an individual investor, a non-SBIR Federal, State or local government, or any combination thereof.
-    - **(D)** The term “ineligible sources” means the following:
-      - **(i)** The eligible entity’s internal research and development funds.
-      - **(ii)** Funding in forms other than cash, such as in-kind or other intangible assets.
-      - **(iii)** Funding from the owners of the eligible entity, or the family members or affiliates of such owners.
-      - **(iv)** Funding attained through loans or other forms of debt obligations.
-    - **(E)** The term “subsequent Phase II SBIR award” means an award granted to an eligible entity under this subsection to carry out further commercialization activities for research conducted pursuant to an SBIR program.
-- **(vv)**
-  - **(1)** The head of each Federal agency required to establish an SBIR or STTR program, in coordination with the Administrator, shall establish and implement a due diligence program to assess security risks presented by small business concerns seeking a federally funded award.
-  - **(2)** Each program established under paragraph (1) shall—
-    - **(A)** assess, using a risk-based approach as appropriate, the cybersecurity practices, patent analysis, employee analysis, and foreign ownership of a small business concern seeking an award, including the financial ties and obligations (which shall include surety, equity, and debt obligations) of the small business concern and employees of the small business concern to a foreign country, foreign person, or foreign entity; and
-    - **(B)** assess awards and proposals or applications, as applicable, using a risk-based approach as appropriate, including through the use of open-source analysis and analytical tools, for the nondisclosures of information required under (g)(13). 5 5 So in original. Probably should be preceded by “subsection”.
-  - **(3)**
-    - **(A)** In addition to the amount allocated under subsection (mm)(1), each Federal agency required to establish an SBIR program may allocate not more than 2 percent of the funds allocated to the SBIR program of the Federal agency for the cost of establishing the due diligence program required under this subsection.
-    - **(B)**
-      - **(i)** Not later than December 31 of the year in which this subparagraph is enacted, and not later than December 31 of each year thereafter, the head of a Federal agency that exercises the authority under subparagraph (A) shall submit to the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Small Business and Entrepreneurship of the Senate, and the Administrator, for the covered year—
-        - **(I)** the total funds allowed to be allocated for the cost of establishing the due diligence program required under this subsection;
-        - **(II)** the total amount of funds obligated or expended under subparagraph (A); and
-        - **(III)** the due diligence activities carried out or to be carried out using amounts allocated under subparagraph (A).
-      - **(ii)** The Administrator shall include the information submitted by head of a Federal agency under clause (i) in the next annual report submitted under subsection (b)(7) after the Administrator receives such information.
-      - **(iii)** In this subparagraph, the term “covered year” means, with respect to the information required under clause (i), the year covered by the annual report submitted under subsection (b)(7) in which the Administrator is required to include such information by clause (ii).
-    - **(C)** This paragraph shall terminate on September 30, 2025 .
-- **(ww)**
-  - **(1)** Not later than 180 days after September 30, 2022 , the Secretary of Defense shall establish innovation open topic activities using the SBIR and STTR programs of the Department of Defense in order to—
-    - **(A)** increase the transition of commercial technology to the Department of Defense;
-    - **(B)** expand the small business nontraditional industrial base;
-    - **(C)** increase commercialization derived from investments of the Department of Defense; and
-    - **(D)** expand the ability for qualifying small business concerns to propose technology solutions to meet the needs of the Department of Defense.
-  - **(2)** The Secretary of Defense shall conduct not less than 1 open topic announcement at each component of the Department of Defense per fiscal year.
-  - **(3)** Not later than 180 days after September 30, 2022 , the Secretary of Defense shall provide a briefing on the establishment of the program required under paragraph (1) to—
-    - **(A)** the Committee on Armed Services and the Committee on Small Business and Entrepreneurship of the Senate; and
-    - **(B)** the Committee on Small Business, the Committee on Armed Services, and the Committee on Science, Space, and Technology of the House of Representatives.
-- **(xx)**
-  - **(1)** A Federal agency required to establish an SBIR or STTR program shall implement a multi-level review and approval process within the Federal agency for solicitation topics to ensure adequate competition and that no private individual or entity is shaping the requirements for eligibility for the solicitation topic after the selection of the solicitation topic, except that the Federal agency may amend the requirements to clarify the solicitation topic.
-  - **(2)** A Federal agency that does not comply with paragraph (1) shall be referred to the Inspector General of the Administration for further investigation.
-- **(yy)**
-  - **(1)** Not later than 180 days after December 23, 2024 , the Secretary of Defense shall establish a pilot program to enable any undergraduate, graduate, or postgraduate degree-granting military research or educational institution established under title 10 to participate in the STTR program of the Department of Defense.
-  - **(2)** The authority to carry out the pilot program under this subsection shall end on September 30, 2025 .
-- **(zz)**
-  - **(1)**
-    - **(A)** In order to more rapidly estimate allocations for the SBIR and STTR programs of the Department of Defense, the Secretary of Defense shall conduct a budget calculation pilot program that requires the calculation of total expenditures for the SBIR and STTR programs in the Department of Defense and determination of related allocations in accordance with subparagraphs (B) and (C), and paragraph (2), respectively.
-    - **(B)** Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its SBIR program as not less than 3.25 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
-    - **(C)** Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its STTR program as not less than 0.46 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
-  - **(2)** Not later than 30 days after the date of enactment of an appropriations bill for the Department of Defense for a fiscal year, the Department shall determine and make adjustments for actual allocations related to the SBIR and STTR programs of the Department.
-  - **(3)** The pilot program under this subsection shall terminate on September 30, 2025 .

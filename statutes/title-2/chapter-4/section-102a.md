@@ -3,9 +3,9 @@ title: "Section 102a - Transferred"
 usc_title: 2
 usc_section: "102a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 102a"
-generated_at: "2026-03-29T02:09:53.640Z"
+generated_at: "2026-03-29T17:50:23.995Z"
 ---
 
 # § 102a. Transferred

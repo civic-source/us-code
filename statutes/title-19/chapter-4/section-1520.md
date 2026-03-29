@@ -3,9 +3,9 @@ title: "Section 1520 - Refunds and errors"
 usc_title: 19
 usc_section: "1520"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1520"
-generated_at: "2026-03-29T02:12:08.622Z"
+generated_at: "2026-03-29T17:51:51.225Z"
 ---
 
 # § 1520. Refunds and errors
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:12:08.622Z"
   - **(4)** Prior to the liquidation of an entry or reconciliation, whenever an importer of record declares or it is ascertained that excess duties, fees, charges, or exactions have been deposited or paid.
 - **(b)** The necessary moneys to make such refunds are authorized to be appropriated annually from the general fund of the Treasury.
 - **(c)**
-- **(d)** Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, section 4033 of this title , section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, or section 4531 of this title , for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+- **(d)** Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title , section 202 of the United States-Chile Free Trade Agreement Implementation Act, section 4033 of this title , section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
   - **(1)** a written declaration that the good qualified under the applicable rules at the time of importation;
-  - **(2)** copies of all applicable certificates or certifications of origin; and
+  - **(2)** copies of all applicable NAFTA Certificates of Origin (as defined in section 1508(b)(1) of this title ), or other certificates or certifications of origin, as the case may be; and
   - **(3)** such other documentation and information relating to the importation of the goods as the Customs Service may require.

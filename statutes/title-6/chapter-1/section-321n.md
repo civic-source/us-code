@@ -3,9 +3,9 @@ title: "Section 321n - Acceptance of gifts"
 usc_title: 6
 usc_section: "321n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 321n"
-generated_at: "2026-03-29T02:10:04.993Z"
+generated_at: "2026-03-29T17:50:39.340Z"
 ---
 
 # § 321n. Acceptance of gifts
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T02:10:04.993Z"
     - **(A)** any gifts that were accepted under this section during the year covered by the report;
     - **(B)** how the gifts contribute to the mission of the Center for Domestic Preparedness; and
     - **(C)** the amount of Federal savings that were generated from the acceptance of the gifts.
-  - **(2)** Each report required under paragraph (1) shall be made publically available.
+  - **(2)** Each report required under paragraph (1) shall be made publically 1 1 So in original. Probably should be “publicly”. available.

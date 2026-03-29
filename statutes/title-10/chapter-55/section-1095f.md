@@ -1,29 +1,14 @@
 ---
-title: "Section 1095f - TRICARE program: referrals and preauthorizations under TRICARE Prime"
+title: "Section 1095f - TRICARE program: referrals for specialty health care"
 usc_title: 10
 usc_section: "1095f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1095f"
-generated_at: "2026-03-29T02:10:44.974Z"
+generated_at: "2026-03-29T17:50:57.014Z"
 ---
 
-# § 1095f. TRICARE program: referrals and preauthorizations under TRICARE Prime
+# § 1095f. TRICARE program: referrals for specialty health care
 
-- **(a)**
-  - **(1)** Except as provided by paragraph (2), a beneficiary enrolled in TRICARE Prime shall be required to obtain a referral for care through a designated primary care manager (or other care coordinator) prior to obtaining care under the TRICARE program.
-  - **(2)**
-    - **(A)** The Secretary may waive the referral requirement in paragraph (1) in such circumstances as the Secretary may establish for purposes of this subsection.
-    - **(B)** The Secretary shall waive the referral requirement in paragraph (1) in the case of a member of the armed forces serving on active duty who seeks to obtain any of the following kinds of care in a military medical treatment facility:
-      - **(i)** Physical therapy.
-      - **(ii)** Nutritional.
-      - **(iii)** Audiological.
-      - **(iv)** Optometric.
-      - **(v)** Podiatric.
-  - **(3)** The cost-sharing amounts for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care under paragraph (1) (or a waiver pursuant to paragraph (2) for such care) shall be determined under section 1075a(c) of this title .
-- **(b)** A beneficiary enrolled in TRICARE Prime shall be required to obtain preauthorization only with respect to a referral for the following:
-  - **(1)** Inpatient hospitalization.
-  - **(2)** Inpatient care at a skilled nursing facility.
-  - **(3)** Inpatient care at a rehabilitation facility.
-  - **(4)** Inpatient care at a residential treatment center.
-- **(c)** The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.
+The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.
+

@@ -3,15 +3,15 @@ title: "Section 3822 - Delineation of wetlands; exemptions"
 usc_title: 16
 usc_section: "3822"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3822"
-generated_at: "2026-03-29T02:11:53.899Z"
+generated_at: "2026-03-29T17:51:56.966Z"
 ---
 
 # § 3822. Delineation of wetlands; exemptions
 
 - **(a)**
-  - **(1)** Subject to subsection (b) and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
+  - **(1)** Subject to subsection (b) of this section and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
   - **(2)** The Secretary shall delineate wetlands on wetland delineation maps. On the request of a person, the Secretary shall make a reasonable effort to make an on-site wetland determination prior to delineation.
   - **(3)** On providing notice to affected persons, the Secretary shall—
     - **(A)** certify whether a map is sufficient for the purpose of making a determination of ineligibility for program benefits under section 3821 of this title ; and
@@ -49,10 +49,8 @@ generated_at: "2026-03-29T02:11:53.899Z"
       - **(ii)** technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
       - **(iii)** the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
       - **(iv)** the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
-- **(c)**
-  - **(1)** No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land, which, except as provided in paragraph (2), shall be conducted in the presence of the affected person.
-  - **(2)** The Secretary may conduct an on-site visit under paragraph (1) without the affected person present if the Secretary has made a reasonable effort to include the presence of the affected person at the on-site visit.
-- **(d)** For purposes of applying the minimal effect exemption under subsection (f)(1), the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title . The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
+- **(c)** No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land.
+- **(d)** For purposes of applying the minimal effect exemption under subsection (f)(1) of this section, the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title . The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
 - **(e)** The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
   - **(1)** Such lands have a predominance of hydric soils.
   - **(2)** Such lands are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.
@@ -80,10 +78,5 @@ generated_at: "2026-03-29T02:11:53.899Z"
     - **(B)** district director, with the technical concurrence of the area conservationist.
   - **(3)** The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively restoring the subject wetland.
 - **(i)** Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
-- **(j)** Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the Natural Resources Conservation Service.
-- **(k)**
-  - **(1)**
-    - **(A)** Using authorities available to the Secretary, the Secretary shall operate a program or work with third parties to establish mitigation banks to assist persons in complying with the provisions of this section while mitigating any loss of wetland values and functions.
-    - **(B)** There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2019 through 2023.
-  - **(2)** Subsection (f)(2)(C) shall not apply to this subsection.
-  - **(3)** The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
+- **(j)** Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National 2 2 So in original. Probably should be “Natural”. Resources Conservation Service.
+- **(k)** Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.

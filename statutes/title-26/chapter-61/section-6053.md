@@ -3,9 +3,9 @@ title: "Section 6053 - Reporting of tips"
 usc_title: 26
 usc_section: "6053"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6053"
-generated_at: "2026-03-29T02:14:01.296Z"
+generated_at: "2026-03-29T17:52:39.529Z"
 ---
 
 # § 6053. Reporting of tips
@@ -42,4 +42,3 @@ generated_at: "2026-03-29T02:14:01.296Z"
     - **(A)** carryout sales, or
     - **(B)** services with respect to which a service charge of 10 percent or more is added.
   - **(7)** The Secretary shall prescribe regulations for the application of this subsection to new businesses.
-  - **(8)** For purposes of any report required by this subsection, in the case of a certified professional employer organization that is treated under section 3511 as the employer of a work site employee, the customer with respect to whom a work site employee performs services shall be the employer for purposes of reporting under this section and the certified professional employer organization shall furnish to the customer and the Secretary any information the Secretary prescribes as necessary to complete such reporting no later than such time as the Secretary shall prescribe.

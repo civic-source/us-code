@@ -3,14 +3,14 @@ title: "Section 2102 - Establishment"
 usc_title: 10
 usc_section: "2102"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2102"
-generated_at: "2026-03-29T02:10:45.059Z"
+generated_at: "2026-03-29T17:50:57.070Z"
 ---
 
 # § 2102. Establishment
 
-- **(a)** For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, Marine Corps, or Space Force, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers’ Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
+- **(a)** For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, or Marine Corps, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers’ Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
 - **(b)** No unit may be established or maintained at an institution unless—
   - **(1)** the senior commissioned officer of the armed force concerned who is assigned to the program at that institution is given the academic rank of professor;
   - **(2)** the institution fulfills the terms of its agreement with the Secretary of the military department concerned; and

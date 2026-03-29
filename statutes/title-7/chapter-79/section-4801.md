@@ -3,9 +3,9 @@ title: "Section 4801 - Congressional findings and declaration of purpose"
 usc_title: 7
 usc_section: "4801"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 4801"
-generated_at: "2026-03-29T02:10:17.028Z"
+generated_at: "2026-03-29T17:50:48.777Z"
 ---
 
 # § 4801. Congressional findings and declaration of purpose

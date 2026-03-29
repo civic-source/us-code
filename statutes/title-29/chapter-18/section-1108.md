@@ -3,9 +3,9 @@ title: "Section 1108 - Exemptions from prohibited transactions"
 usc_title: 29
 usc_section: "1108"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1108"
-generated_at: "2026-03-29T02:14:09.437Z"
+generated_at: "2026-03-29T17:52:18.842Z"
 ---
 
 # § 1108. Exemptions from prohibited transactions
@@ -16,35 +16,7 @@ generated_at: "2026-03-29T02:14:09.437Z"
   - **(3)** protective of the rights of participants and beneficiaries of such plan.
 - **(b)** The prohibitions provided in section 1106 of this title shall not apply to any of the following transactions:
   - **(1)** Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26 ) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26 .
-  - **(2)**
-    - **(A)** Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
-    - **(B)**
-      - **(i)** No contract or arrangement for services between a covered plan and a covered service provider, and no extension or renewal of such a contract or arrangement, is reasonable within the meaning of this paragraph unless the requirements of this clause 1 1 So in original. Probably should be “this subparagraph”. are met.
-      - **(ii)**
-        - **(I)** For purposes of this subparagraph:
-        - **(II)** For purposes of this subparagraph, a description of compensation or cost may be expressed as a monetary amount, formula, or a per capita charge for each enrollee or, if the compensation or cost cannot reasonably be expressed in such terms, by any other reasonable method, including a disclosure that additional compensation may be earned but may not be calculated at the time of contract if such a disclosure includes a description of the circumstances under which the additional compensation may be earned and a reasonable and good faith estimate if the covered service provider cannot otherwise readily describe compensation or cost and explains the methodology and assumptions used to prepare such estimate. Any such description shall contain sufficient information to permit evaluation of the reasonableness of the compensation or cost.
-        - **(III)** No person or entity is a “covered service provider” within the meaning of subclause (I)(bb) solely on the basis of providing services as an affiliate or a subcontractor that is performing one or more of the services described in subitem (AA) or (BB) of such subclause under the contract or arrangement with the covered plan.
-      - **(iii)** A covered service provider shall disclose to a responsible plan fiduciary, in writing, the following:
-        - **(I)** A description of the services to be provided to the covered plan pursuant to the contract or arrangement.
-        - **(II)** If applicable, a statement that the covered service provider, an affiliate, or a subcontractor will provide, or reasonably expects to provide, services pursuant to the contract or arrangement directly to the covered plan as a fiduciary (within the meaning of section 1002(21) of this title ).
-        - **(III)** A description of all direct compensation, either in the aggregate or by service, that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I).
-        - **(IV)**
-        - **(V)** A description of any compensation that will be paid among the covered service provider, an affiliate, or a subcontractor, in connection with the services described in subclause (I) if such compensation is set on a transaction basis (such as commissions, finder’s fees, or other similar incentive compensation based on business placed or retained), including identification of the services for which such compensation will be paid and identification of the payers and recipients of such compensation (including the status of a payer or recipient as an affiliate or a subcontractor), regardless of whether such compensation also is disclosed pursuant to subclause (III) or (IV).
-        - **(VI)** A description of any compensation that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with termination of the contract or arrangement, and how any prepaid amounts will be calculated and refunded upon such termination.
-      - **(iv)** A covered service provider shall disclose to a responsible plan fiduciary, in writing a description of the manner in which the compensation described in clause (iii), as applicable, will be received.
-      - **(v)**
-        - **(I)** A covered service provider shall disclose the information required under clauses (iii) and (iv) to the responsible plan fiduciary not later than the date that is reasonably in advance of the date on which the contract or arrangement is entered into, and extended or renewed.
-        - **(II)** A covered service provider shall disclose any change to the information required under clause (iii) and (iv) as soon as practicable, but not later than 60 days from the date on which the covered service provider is informed of such change, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider’s control, in which case the information shall be disclosed as soon as practicable.
-      - **(vi)**
-        - **(I)** Upon the written request of the responsible plan fiduciary or covered plan administrator, a covered service provider shall furnish any other information relating to the compensation received in connection with the contract or arrangement that is required for the covered plan to comply with the reporting and disclosure requirements under this chapter.
-        - **(II)** The covered service provider shall disclose the information required under clause (iii)(I) reasonably in advance of the date upon which such responsible plan fiduciary or covered plan administrator states that it is required to comply with the applicable reporting or disclosure requirement, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider’s control, in which case the information shall be disclosed as soon as practicable.
-      - **(vii)** No contract or arrangement will fail to be reasonable under this subparagraph solely because the covered service provider, acting in good faith and with reasonable diligence, makes an error or omission in disclosing the information required pursuant to clause (iii) (or a change to such information disclosed pursuant to clause (v)(II)) or clause (vi), provided that the covered service provider discloses the correct information to the responsible plan fiduciary as soon as practicable, but not later than 30 days from the date on which the covered service provider knows of such error or omission.
-      - **(viii)**
-        - **(I)** Pursuant to subsection (a), subparagraphs (C) and (D) of section 1106(a)(1) of this title shall not apply to a responsible plan fiduciary, notwithstanding any failure by a covered service provider to disclose information required under clause (iii), if the following conditions are met:
-        - **(II)** A notice described in subclause (I)(cc) shall contain—
-        - **(III)** A notice described in subclause (I)(cc) shall be filed with the Department not later than 30 days following the earlier of—
-        - **(IV)** If the covered service provider fails to comply with the written request under subclause (I)(bb) within 90 days of such request, the responsible plan fiduciary shall determine whether to terminate or continue the contract or arrangement under section 1104 of this title . If the requested information relates to future services and is not disclosed promptly after the end of the 90-day period, the responsible plan fiduciary shall terminate the contract or arrangement as expeditiously as possible, consistent with such duty of prudence.
-      - **(ix)** Nothing in this subparagraph shall be construed to supersede any provision of State law that governs disclosures by parties that provide the services described in this section, except to the extent that such law prevents the application of a requirement of this section.
+  - **(2)** Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
   - **(3)** A loan to an employee stock ownership plan (as defined in section 1107(d)(6) of this title ), if—
     - **(A)** such loan is primarily for the benefit of participants and beneficiaries of the plan, and
     - **(B)** such loan is at an interest rate which is not in excess of a reasonable rate.
@@ -63,13 +35,13 @@ generated_at: "2026-03-29T02:14:09.437Z"
     - **(B)** the bank, trust company, or insurance company receives not more than reasonable compensation, and
     - **(C)** such transaction is expressly permitted by the instrument under which the plan is maintained, or by a fiduciary (other than the bank, trust company, or insurance company, or an affiliate thereof) who has authority to manage and control the assets of the plan.
   - **(9)** The making by a fiduciary of a distribution of the assets of the plan in accordance with the terms of the plan if such assets are distributed in the same manner as provided under section 1344 of this title (relating to allocation of assets).
-  - **(10)** Any transaction required or permitted under part 1 of subtitle E of subchapter III.
+  - **(10)** Any transaction required or permitted under part 1 of subtitle E of subchapter III of this chapter.
   - **(11)** A merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 1411 of this title .
   - **(12)** The sale by a plan to a party in interest on or after December 18, 1987 , of any stock, if—
-    - **(A)** the requirements of paragraphs (1) and (2) of subsection (e) are met with respect to such stock,
+    - **(A)** the requirements of paragraphs (1) and (2) of subsection (e) of this section are met with respect to such stock,
     - **(B)** on the later of the date on which the stock was acquired by the plan, or January 1, 1975 , such stock constituted a qualifying employer security (as defined in section 1107(d)(5) of this title as then in effect), and
     - **(C)** such stock does not constitute a qualifying employer security (as defined in section 1107(d)(5) of this title as in effect at the time of the sale).
-  - **(13)** Any transfer made before January 1, 2033 , of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on December 29, 2022 ).
+  - **(13)** Any transfer made before January 1, 2022 , of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on July 6, 2012 ).
   - **(14)** Any transaction in connection with the provision of investment advice described in section 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
     - **(A)** the transaction is—
       - **(i)** the provision of the investment advice to the participant or beneficiary of the plan with respect to a security or other property available as an investment under the plan,
@@ -80,8 +52,8 @@ generated_at: "2026-03-29T02:14:09.437Z"
     - **(A)** Any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary), between a plan and a party in interest (other than a fiduciary described in section 1002(21)(A) of this title ) with respect to a plan if—
       - **(i)** the transaction involves a block trade,
       - **(ii)** at the time of the transaction, the interest of the plan (together with the interests of any other plans maintained by the same plan sponsor), does not exceed 10 percent of the aggregate size of the block trade,
-      - **(iii)** the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 3 3 So in original. Probably should be “arm’s-length”. transaction, and
-      - **(iv)** the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 3 transaction with an unrelated party.
+      - **(iii)** the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 1 1 So in original. Probably should be “arm’s-length”. transaction, and
+      - **(iv)** the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 1 transaction with an unrelated party.
     - **(B)** For purposes of this paragraph, the term “block trade” means any trade of at least 10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
   - **(16)** Any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary), between a plan and a party in interest if—
     - **(A)** the transaction is executed through an electronic communication network, alternative trading system, or similar execution system or trading venue subject to regulation and oversight by—
@@ -90,7 +62,7 @@ generated_at: "2026-03-29T02:14:09.437Z"
     - **(B)** either—
       - **(i)** the transaction is effected pursuant to rules designed to match purchases and sales at the best price available through the execution system in accordance with applicable rules of the Securities and Exchange Commission or other relevant governmental authority, or
       - **(ii)** neither the execution system nor the parties to the transaction take into account the identity of the parties in the execution of trades,
-    - **(C)** the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 3 transaction with an unrelated party,
+    - **(C)** the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 1 transaction with an unrelated party,
     - **(D)** if the party in interest has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
     - **(E)** not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue.
   - **(17)**
@@ -102,7 +74,7 @@ generated_at: "2026-03-29T02:14:09.437Z"
       - **(ii)** in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by a fiduciary or fiduciaries in accordance with regulations prescribed by the Secretary.
   - **(18)** Any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either), and a plan (as defined in section 1002(3) of this title ) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
     - **(A)** the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
-    - **(B)** at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 3 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
+    - **(B)** at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 1 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
     - **(C)** the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
     - **(D)** the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
   - **(19)** Any transaction described in sections 1106(a)(1)(A) and 1106(b)(2) of this title involving the purchase and sale of a security between a plan and any other account managed by the same investment manager, if—
@@ -126,7 +98,6 @@ generated_at: "2026-03-29T02:14:09.437Z"
       - **(iii)** The term “correct” means, with respect to a transaction—
         - **(I)** to undo the transaction to the extent possible and in any case to make good to the plan or affected account any losses resulting from the transaction, and
         - **(II)** to restore to the plan or affected account any profits made through the use of assets of the plan.
-  - **(21)** The provision of a de minimis financial incentive described in section 401(k)(4)(A) or section 403(b)(12)(A) of title 26 .
 - **(c)** Nothing in section 1106 of this title shall be construed to prohibit any fiduciary from—
   - **(1)** receiving any benefit to which he may be entitled as a participant or beneficiary in the plan, so long as the benefit is computed and paid on a basis which is consistent with the terms of the plan as applied to all other participants and beneficiaries;
   - **(2)** receiving any reasonable compensation for services rendered, or for the reimbursement of expenses properly and actually incurred, in the performance of his duties with the plan; except that no person so serving who already receives full time pay from an employer or an association of employers, whose employees are participants in the plan, or from an employee organization whose members are participants in such plan shall receive compensation from such plan, except for reimbursement of expenses properly and actually incurred; or
@@ -150,7 +121,7 @@ generated_at: "2026-03-29T02:14:09.437Z"
   - **(3)** if—
     - **(A)** the plan is an eligible individual account plan (as defined in section 1107(d)(3) of this title ), or
     - **(B)** in the case of an acquisition or lease of qualifying employer real property by a plan which is not an eligible individual account plan, or of an acquisition of qualifying employer securities by such a plan, the lease or acquisition is not prohibited by section 1107(a) of this title .
-- **(f)** Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11).
+- **(f)** Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11) of this section.
 - **(g)**
   - **(1)** The prohibitions provided in section 1106 of this title shall not apply to transactions described in subsection (b)(14) if the investment advice provided by a fiduciary adviser is provided under an eligible investment advice arrangement.
   - **(2)** For purposes of this subsection, the term “eligible investment advice arrangement” means an arrangement—
@@ -185,7 +156,7 @@ generated_at: "2026-03-29T02:14:09.437Z"
       - **(ii)** of the past performance and historical rates of return of the investment options available under the plan,
       - **(iii)** of all fees or other compensation relating to the advice that the fiduciary adviser or any affiliate thereof is to receive (including compensation provided by any third party) in connection with the provision of the advice or in connection with the sale, acquisition, or holding of the security or other property,
       - **(iv)** of any material affiliation or contractual relationship of the fiduciary adviser or affiliates thereof in the security or other property,
-      - **(v)** 4 4 So in original. The word “of” probably should appear. the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
+      - **(v)** 2 2 So in original. The word “of” probably should appear. the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
       - **(vi)** of the types of services provided by the fiduciary adviser in connection with the provision of investment advice by the fiduciary adviser,
       - **(vii)** that the adviser is acting as a fiduciary of the plan in connection with the provision of the advice, and
       - **(viii)** that a recipient of the advice may separately arrange for the provision of advice by another adviser, that could have no material affiliation with and receive no fees or other compensation in connection with the security or other property, and
@@ -198,7 +169,7 @@ generated_at: "2026-03-29T02:14:09.437Z"
     - **(A)** the fiduciary adviser provides appropriate disclosure, in connection with the sale, acquisition, or holding of the security or other property, in accordance with all applicable securities laws,
     - **(B)** the sale, acquisition, or holding occurs solely at the direction of the recipient of the advice,
     - **(C)** the compensation received by the fiduciary adviser and affiliates thereof in connection with the sale, acquisition, or holding of the security or other property is reasonable, and
-    - **(D)** the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 3 transaction would be.
+    - **(D)** the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 1 transaction would be.
   - **(8)**
     - **(A)** The requirements of this paragraph are met if the notification required to be provided to participants and beneficiaries under paragraph (6)(A) is written in a clear and conspicuous manner and in a manner calculated to be understood by the average plan participant and is sufficiently accurate and comprehensive to reasonably apprise such participants and beneficiaries of the information required to be provided in the notification.
     - **(B)** The Secretary shall issue a model form for the disclosure of fees and other compensation required in paragraph (6)(A)(iii) which meets the requirements of subparagraph (A).
@@ -220,18 +191,3 @@ generated_at: "2026-03-29T02:14:09.437Z"
       - **(vi)** an employee, agent, or registered representative of a person described in clauses (i) through (v) who satisfies the requirements of applicable insurance, banking, and securities laws relating to the provision of the advice.
     - **(B)** The term “affiliate” of another entity means an affiliated person of the entity (as defined in section 80a–2(a)(3) of title 15 ).
     - **(C)** The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a)(18) ) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–2(a)(17) ) (substituting the entity for the investment adviser referred to in such section).
-- **(h)**
-  - **(1)** Provided that all of the conditions described in paragraph (2) are met, the restrictions imposed by subsections (a), (b)(1), and (b)(2) of section 1106 of this title shall not apply to—
-    - **(A)** the offering of pharmacy benefit services to a group health plan that is sponsored by an entity described in section 1002(37)(G)(vi) of this title or to any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity;
-    - **(B)** the purchase of pharmacy benefit services by plan participants and beneficiaries of a group health plan that is sponsored by an entity described in section 1002(37)(G)(vi) of this title or of any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity; or
-    - **(C)** the operation or implementation of pharmacy benefit services by an entity described in section 1002(37)(G)(vi) of this title or by any other group health plan that is sponsored by a regional council, local union, or other labor organization affiliated with such entity,
-  - **(2)** The conditions described in this paragraph are the following:
-    - **(A)** The terms of the arrangement are at least as favorable to the group health plan as such group health plan could obtain in a similar arm’s length arrangement with an unrelated third party.
-    - **(B)** At least 50 percent of the providers participating in the pharmacy benefit services offered by the arrangement are unrelated to the contributing employers or any other party in interest with respect to the group health plan.
-    - **(C)** The group health plan retains an independent fiduciary who will be responsible for monitoring the group health plan’s consultants, contractors, subcontractors, and other service providers for purposes of pharmacy benefit services described in paragraph (1) offered by such entity or any of its related organizations or subsidiaries and monitors the transactions of such entity and any of its related organizations or subsidiaries to ensure that all conditions of this exemption are satisfied during each plan year.
-    - **(D)** Any decisions regarding the provision of pharmacy benefit services described in paragraph (1) are made by the group health plan’s independent fiduciary, based on objective standards developed by the independent fiduciary in reliance on information provided by the arrangement.
-    - **(E)** The independent fiduciary of the group health plan provides an annual report to the Secretary and the congressional committees of jurisdiction attesting that the conditions described in subparagraphs (C) and (D) have been met for the applicable plan year, together with a statement that use of the arrangement’s services are in the best interest of the participants and beneficiaries in the aggregate for that plan year compared to other similar arrangements the group health plan could have obtained in transactions with an unrelated third party.
-    - **(F)** The arrangement is not designed to benefit any party in interest with respect to the group health plan.
-  - **(3)** In the event an entity described in section 1002(37)(G)(vi) of this title or any affiliate of such entity violates any of the conditions of such exemption, such exemption shall not apply with respect to such entity or affiliate and all enforcement and claims available under this chapter shall apply with respect to such entity or affiliate.
-  - **(4)** Nothing in this subsection shall be construed to modify any obligation of a group health plan otherwise set forth in this chapter.
-  - **(5)** In this subsection, the term “group health plan” has the meaning given such term in section 1191b(a) of this title .

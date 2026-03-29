@@ -3,9 +3,9 @@ title: "Section 1905 - Authorities"
 usc_title: 21
 usc_section: "1905"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 1905"
-generated_at: "2026-03-29T02:12:28.187Z"
+generated_at: "2026-03-29T17:52:03.988Z"
 ---
 
 # § 1905. Authorities
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:12:28.187Z"
     - **(A)** any transactions in foreign exchange, currency, or securities; and
     - **(B)** transfers of credit or payments between, by, through, or to any banking institution, to the extent that such transfers or payments involve any interests of any foreign country or a national thereof; and
   - **(2)** investigate, block during the pendency of an investigation, regulate, direct and compel, nullify, void, prevent, or prohibit any acquisition, holding, withholding, use, transfer, withdrawal, transportation, placement into foreign or domestic commerce of, or dealing in, or exercising any right, power, or privilege with respect to, or transactions involving, any property in which any foreign country or a national thereof has any interest,
-- **(b)** Pursuant to subsection (a), the Secretary of the Treasury may require recordkeeping, reporting, and production of documents to carry out the purposes of this chapter.
+- **(b)** Pursuant to subsection (a) of this section, the Secretary of the Treasury may require recordkeeping, reporting, and production of documents to carry out the purposes of this chapter.
 - **(c)**
   - **(1)** Full and actual compliance with any regulation, order, license, instruction, or direction issued under this chapter shall be a defense in any proceeding alleging a violation of any of the provisions of this chapter.
   - **(2)** No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to, and in reliance on this chapter, or any regulation, instruction, or direction issued under this chapter.

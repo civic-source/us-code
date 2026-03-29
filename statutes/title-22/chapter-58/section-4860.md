@@ -3,9 +3,9 @@ title: "Section 4860 - Reimbursement of Department of the Treasury"
 usc_title: 22
 usc_section: "4860"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4860"
-generated_at: "2026-03-29T02:12:40.349Z"
+generated_at: "2026-03-29T17:52:10.635Z"
 ---
 
 # § 4860. Reimbursement of Department of the Treasury

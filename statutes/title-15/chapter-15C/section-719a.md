@@ -3,12 +3,13 @@ title: "Section 719a - Congressional statement of purpose"
 usc_title: 15
 usc_section: "719a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 719a"
-generated_at: "2026-03-29T02:11:34.128Z"
+generated_at: "2026-03-29T17:51:36.195Z"
 ---
 
 # § 719a. Congressional statement of purpose
 
-The purpose of this chapter is to provide the means for making a sound decision as to the selection of a transportation system for delivery of Alaska natural gas to the contiguous States for construction and initial operation by providing for the participation of the President and the Congress in the selection process, and, if such a system is approved under this chapter, to expedite its construction and initial operation by (1) limiting the jurisdiction of the courts to review the actions of Federal officers or agencies taken pursuant to the direction and authority of this chapter, and (2) permitting the limitation of administrative procedures and effecting the limitation of judicial procedures related to such actions. To accomplish this purpose it is the intent of the Congress to exercise its constitutional powers to the fullest extent in the authorizations and directions herein made, and particularly with respect to the limitation of judicial review of actions of Federal officers or agencies taken pursuant thereto.
+  - **(1)** limiting the jurisdiction of the courts to review the actions of Federal officers or agencies taken pursuant to the direction and authority of this chapter, and
+  - **(2)** permitting the limitation of administrative procedures and effecting the limitation of judicial procedures related to such actions. To accomplish this purpose it is the intent of the Congress to exercise its constitutional powers to the fullest extent in the authorizations and directions herein made, and particularly with respect to the limitation of judicial review of actions of Federal officers or agencies taken pursuant thereto.
 

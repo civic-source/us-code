@@ -3,9 +3,9 @@ title: "Section 1851 - Prohibitions on proprietary trading and certain relations
 usc_title: 12
 usc_section: "1851"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1851"
-generated_at: "2026-03-29T02:11:21.101Z"
+generated_at: "2026-03-29T17:51:13.154Z"
 ---
 
 # § 1851. Prohibitions on proprietary trading and certain relationships with hedge funds and private equity funds
@@ -63,10 +63,7 @@ generated_at: "2026-03-29T02:11:21.101Z"
       - **(iii)** the banking entity does not acquire or retain an equity interest, partnership interest, or other ownership interest in the funds except for a de minimis investment subject to and in compliance with paragraph (4);
       - **(iv)** the banking entity complies with the restrictions under paragraphs (1) and (2) of subparagraph (f);
       - **(v)** the banking entity does not, directly or indirectly, guarantee, assume, or otherwise insure the obligations or performance of the hedge fund or private equity fund or of any hedge fund or private equity fund in which such hedge fund or private equity fund invests;
-      - **(vi)** the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
-        - **(I)** such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 ( 12 U.S.C. 3106 );
-        - **(II)** such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 ( 12 U.S.C. 3106 ); and
-        - **(III)** such name does not contain the word “bank”;
+      - **(vi)** the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name;
       - **(vii)** no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
       - **(viii)** the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designed to ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.
     - **(H)** Proprietary trading conducted by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title , provided that the trading occurs solely outside of the United States and that the banking entity is not directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
@@ -109,24 +106,20 @@ generated_at: "2026-03-29T02:11:21.101Z"
   - **(2)** Nothing in this section shall be construed to limit or restrict the ability of a banking entity or nonbank financial company supervised by the Board to sell or securitize loans in a manner otherwise permitted by law.
   - **(3)** Nothing in this section shall be construed to limit the inherent authority of any Federal agency or State regulatory authority under otherwise applicable provisions of law.
 - **(h)** In this section, the following definitions shall apply:
-  - **(1)** The term “banking entity” means any insured depository institution (as defined in section 1813 of this title ), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term “insured depository institution” does not include an institution—
-    - **(A)** that functions solely in a trust or fiduciary capacity, if—
-      - **(i)** all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
-      - **(ii)** no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
-      - **(iii)** such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
-      - **(iv)** such institution does not—
-        - **(I)** obtain payment or payment related services from any Federal Reserve bank, including any service referred to in section 248a of this title ; or
-        - **(II)** exercise discount or borrowing privileges pursuant to section 461(b)(7) of this title ; or
-    - **(B)** that does not have and is not controlled by a company that has—
-      - **(i)** more than $10,000,000,000 in total consolidated assets; and
-      - **(ii)** total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5 percent of total consolidated assets.
+  - **(1)** The term “banking entity” means any insured depository institution (as defined in section 1813 of this title ), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term “insured depository institution” does not include an institution that functions solely in a trust or fiduciary capacity, if—
+    - **(A)** all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
+    - **(B)** no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
+    - **(C)** such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
+    - **(D)** such institution does not—
+      - **(i)** obtain payment or payment related services from any Federal Reserve bank, including any service referred to in section 248a of this title ; or
+      - **(ii)** exercise discount or borrowing privileges pursuant to section 461(b)(7) of this title .
   - **(2)** The terms “hedge fund” and “private equity fund” mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 ( 15 U.S.C. 80a–1 et seq.), but for section 3(c)(1) or 3(c)(7) of that Act [ 15 U.S.C. 80a–3(c)(1) , (7)], or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
   - **(3)** The term “nonbank financial company supervised by the Board” means a nonbank financial company supervised by the Board of Governors, as defined in section 5311 of this title .
   - **(4)** The term “proprietary trading”, when used with respect to a banking entity or nonbank financial company supervised by the Board, means engaging as a principal for the trading account of the banking entity or nonbank financial company supervised by the Board in any transaction to purchase or sell, or otherwise acquire or dispose of, any security, any derivative, any contract of sale of a commodity for future delivery, any option on any such security, derivative, or contract, or any other security or financial instrument that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
   - **(5)** The term to “sponsor” a fund means—
     - **(A)** to serve as a general partner, managing member, or trustee of a fund;
     - **(B)** in any manner to select or to control (or to have employees, officers, or directors, or agents who constitute) a majority of the directors, trustees, or management of a fund; or
-    - **(C)** to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except as permitted under subsection (d)(1)(G)(vi).
+    - **(C)** to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name.
   - **(6)** The term “trading account” means any account used for acquiring or taking positions in the securities and instruments described in paragraph (4) principally for the purpose of selling in the near term (or otherwise with the intent to resell in order to profit from short-term price movements), and any such other accounts as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
   - **(7)**
     - **(A)** The term “illiquid fund” means a hedge fund or private equity fund that—

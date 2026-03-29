@@ -3,9 +3,9 @@ title: "Section 7303 - Authorities"
 usc_title: 15
 usc_section: "7303"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 7303"
-generated_at: "2026-03-29T02:11:34.423Z"
+generated_at: "2026-03-29T17:51:36.416Z"
 ---
 
 # § 7303. Authorities
@@ -23,9 +23,8 @@ generated_at: "2026-03-29T02:11:34.423Z"
   - **(2)** A Team shall coordinate its investigation, to the extent practicable, with qualified researchers who are conducting engineering or scientific (including social science) research relating to the building failure.
   - **(3)** The National Institute of Standards and Technology shall enter into a memorandum of understanding with each Federal agency that may conduct or sponsor a related investigation, providing for coordination of investigations.
   - **(4)** A Team shall cooperate with State and local authorities carrying out any activities related to a Team’s investigation.
-  - **(5)** Where practicable, a Team shall cooperate with civil litigants without compromising a Team’s investigation or the evidence preservation activities as described in this section.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2) or (3), a Team investigation shall have priority over any other investigation of any other Federal agency or any civil suit or civil action.
+  - **(1)** Except as provided in paragraph (2) or (3), a Team investigation shall have priority over any other investigation of any other Federal agency.
   - **(2)** If the National Transportation Safety Board is conducting an investigation related to an investigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
   - **(3)** If the Attorney General, in consultation with the Director, determines, and notifies the Director, that circumstances reasonably indicate that the building failure being investigated by a Team may have been caused by a criminal act, the Team shall relinquish investigative priority to the appropriate law enforcement agency. The relinquishment of investigative priority by the Team shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
   - **(4)** If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.

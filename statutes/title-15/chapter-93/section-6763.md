@@ -1,14 +1,19 @@
 ---
-title: "Section 6763 - Federal funding prohibited"
+title: "Section 6763 - Relationship to State law"
 usc_title: 15
 usc_section: "6763"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 6763"
-generated_at: "2026-03-29T02:11:34.407Z"
+generated_at: "2026-03-29T17:51:36.403Z"
 ---
 
-# § 6763. Federal funding prohibited
+# § 6763. Relationship to State law
 
-The Association may not receive, accept, or borrow any amounts from the Federal Government to pay for, or reimburse, 1 1 So in original. The comma probably should not appear. the Association for, the costs of establishing or operating the Association.
-
+- **(a)** State laws, regulations, provisions, or other actions purporting to regulate insurance producers shall be preempted as provided in subsection (b) of this section.
+- **(b)** No State shall—
+  - **(1)** impede the activities of, take any action against, or apply any provision of law or regulation to, any insurance producer because that insurance producer or any affiliate plans to become, has applied to become, or is a member of the Association;
+  - **(2)** impose any requirement upon a member of the Association that it pay different fees to be licensed or otherwise qualified to do business in that State, including bonding requirements, based on its residency;
+  - **(3)** impose any licensing, appointment, integrity, personal or corporate qualifications, education, training, experience, residency, or continuing education requirement upon a member of the Association that is different from the criteria for membership in the Association or renewal of such membership, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer’s activities because of its residence or place of operations under this section; or
+  - **(4)** implement the procedures of such State’s system of licensing or renewing the licenses of insurance producers in a manner different from the authority of the Association under section 6755 of this title .
+- **(c)** Except as provided in subsections (a) and (b) of this section, no provision of this section shall be construed as altering or affecting the continuing effectiveness of any law, regulation, provision, or other action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws.

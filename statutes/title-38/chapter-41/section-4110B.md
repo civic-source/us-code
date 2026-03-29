@@ -3,12 +3,13 @@ title: "Section 4110B - Coordination and nonduplication"
 usc_title: 38
 usc_section: "4110B"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 4110B"
-generated_at: "2026-03-29T02:14:50.442Z"
+generated_at: "2026-03-29T17:52:53.789Z"
 ---
 
 # § 4110B. Coordination and nonduplication
 
-In carrying out this chapter, the Secretary shall require that an appropriate administrative entity in each State enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act.
+  - **(8)** and
+  - **(14)** of section 112(b) of the Workforce Investment Act of 1998 ( 29 U.S.C. 2822(b) ).
 

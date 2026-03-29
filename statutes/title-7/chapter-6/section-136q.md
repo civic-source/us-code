@@ -3,9 +3,9 @@ title: "Section 136q - Storage, disposal, transportation, and recall"
 usc_title: 7
 usc_section: "136q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 136q"
-generated_at: "2026-03-29T02:10:16.671Z"
+generated_at: "2026-03-29T17:50:48.466Z"
 ---
 
 # § 136q. Storage, disposal, transportation, and recall
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:10:16.671Z"
   - **(1)** The Administrator may require under section 136a or 136d of this title that—
     - **(A)** the registrant or applicant for registration of a pesticide submit or cite data or information regarding methods for the safe storage and disposal of excess quantities of the pesticide to support the registration or continued registration of a pesticide;
     - **(B)** the labeling of a pesticide contain requirements and procedures for the transportation, storage, and disposal of the pesticide, any container of the pesticide, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide; and
-    - **(C)** the registrant of a pesticide provide evidence of sufficient financial and other resources to carry out a recall plan under subsection (b), and provide for the disposition of the pesticide, in the event of suspension and cancellation of the pesticide.
+    - **(C)** the registrant of a pesticide provide evidence of sufficient financial and other resources to carry out a recall plan under subsection (b) of this section, and provide for the disposition of the pesticide, in the event of suspension and cancellation of the pesticide.
   - **(2)** The Administrator may by regulation, or as part of an order issued under section 136d of this title or an amendment to such an order—
     - **(A)** issue requirements and procedures to be followed by any person who stores or transports a pesticide the registration of which has been suspended or canceled;
     - **(B)** issue requirements and procedures to be followed by any person who disposes of stocks of a pesticide the registration of which has been suspended; and
@@ -36,9 +36,9 @@ generated_at: "2026-03-29T02:10:16.671Z"
   - **(5)** A recall plan established under this subsection shall include—
     - **(A)** the level in the distribution chain to which the recall is to extend, and a schedule for recall; and
     - **(B)** the means to be used to verify the effectiveness of the recall.
-  - **(6)** No requirement or procedure imposed in accordance with paragraph (2) of subsection (a) may require the recall of existing stocks of the pesticide except as provided by this subsection.
+  - **(6)** No requirement or procedure imposed in accordance with paragraph (2) of subsection (a) of this section may require the recall of existing stocks of the pesticide except as provided by this subsection.
 - **(c)**
-  - **(1)** A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
+  - **(1)** A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
   - **(2)** Within a reasonable period of time after such storage costs are incurred and paid by the registrant, the Administrator shall reimburse the registrant, on request, for—
     - **(A)** none of the costs incurred by the registrant before the date of submission of the plan referred to in paragraph (1) to the Administrator;
     - **(B)** 100 percent of the costs incurred by the registrant after the date of submission of the plan to the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, but before the approval of the plan by the Administrator;
@@ -47,9 +47,9 @@ generated_at: "2026-03-29T02:10:16.671Z"
     - **(E)** 25 percent of the costs incurred by the registrant during the period beginning on the first day of the 5th year following the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, and ending on the date that a disposal permit for the pesticide is issued by a State or an alternative plan for disposal of the pesticide in accordance with applicable law has been developed.
 - **(d)**
   - **(1)** Nothing in this section shall be construed as preventing or making unlawful any agreement between a seller and a buyer of any pesticide or other substance regarding the ultimate allocation of the costs of storage, transportation, or disposal of a pesticide.
-  - **(2)** Section 136w(a)(4) of this title shall not apply to any regulation issued under subsection (a)(2) or (b).
+  - **(2)** Section 136w(a)(4) of this title shall not apply to any regulation issued under subsection (a)(2) or (b) of this section.
   - **(3)** No registrant shall be responsible under this section for a pesticide the registration of which is held by another person. No distributor or seller shall be responsible under this section for a pesticide that the distributor or seller did not hold or sell.
-  - **(4)** If the Administrator finds that a person who is subject to a regulation or order under subsection (a)(2) or (b) has failed substantially to comply with that regulation or order, the Administrator may take action under section 136k or 136 l of this title or obtain injunctive relief under section 136n(c) of this title against such person or any successor in interest of any such person.
+  - **(4)** If the Administrator finds that a person who is subject to a regulation or order under subsection (a)(2) or (b) of this section has failed substantially to comply with that regulation or order, the Administrator may take action under section 136k or 136 l of this title or obtain injunctive relief under section 136n(c) of this title against such person or any successor in interest of any such person.
 - **(e)**
   - **(1)**
     - **(A)** Not later than 3 years after the effective date of this subsection, the Administrator shall, in consultation with the heads of other interested Federal agencies, promulgate regulations for the design of pesticide containers that will promote the safe storage and disposal of pesticides.
@@ -82,4 +82,4 @@ generated_at: "2026-03-29T02:10:16.671Z"
   - **(2)** Not later than 2 years after the effective date of this subsection, the Administrator shall submit to Congress a report describing the results of the study required under paragraph (1).
 - **(h)**
   - **(1)** Nothing in this section shall diminish the authorities or requirements of the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.).
-  - **(2)** A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
+  - **(2)** A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.

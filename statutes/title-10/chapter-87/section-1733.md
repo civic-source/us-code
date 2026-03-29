@@ -1,33 +1,24 @@
 ---
-title: "Section 1733 - Product support manager"
+title: "Section 1733 - Critical acquisition positions"
 usc_title: 10
 usc_section: "1733"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1733"
-generated_at: "2026-03-29T02:10:45.044Z"
+generated_at: "2026-03-29T17:50:57.061Z"
 ---
 
-# § 1733. Product support manager
+# § 1733. Critical acquisition positions
 
-- **(a)** A product support manager is the individual responsible for managing product support required to field and maintain the readiness and operational capability of a covered system throughout the life cycle of the covered system.
-- **(b)** The Secretary of Defense shall designate a product support manager for each covered system who shall be coequal with the program manager for such covered system and report directly to the portfolio acquisition executive responsible for such covered system.
-- **(c)** The product support manager shall seek to achieve the objectives of the defense acquisition system established pursuant to section 3102 of this title and shall identify, develop, implement, incentivize, and measure quantifiable best value outcome-based product support that optimizes life-cycle cost, readiness, and operational capability of a covered system.
-- **(d)** A product support manager shall be responsible for the following with respect to a covered system:
-  - **(1)** Developing and executing the product support strategy required under section 4324 of this title .
-  - **(2)** Providing product support and subject matter expertise to the relevant program manager and portfolio acquisition executive.
-  - **(3)** 1 1 So in original. There are two pars. (3). Collaborating with chief engineers and systems engineers—
-    - **(A)** in developing the life-cycle sustainment plan and product support strategy required under section 4324 of this title ; and
-    - **(B)** to analyze the operating and support costs to ensure cost-effective operation, management, and availability of the covered system.
-  - **(3)** 1 Adopting predictive analytics and simulation and modeling tools to improve materiel availability and reliability, increase operational availability rates, and reduce operation and sustainment costs.
-  - **(4)** Conducting product support business case analyses to provide a structured, iterative methodology to compare and assess the full impact of product support alternatives and provide data-informed recommendations that balance requirements with affordability. Such analyses shall—
-    - **(A)** enable the development of the product support strategy as early as possible, but not later than Milestone B approval has been granted for the covered system; and
-    - **(B)** inform proposed updates or changes in the product support strategy as needed.
-  - **(5)** Reviewing and recommending resource allocations across product support integrators and product support providers to meet performance requirements of the product support strategy.
-  - **(6)** Coordinating product support arrangements between product support integrators and product support providers across materiel commands, depots, sustainment working capital funds, and commercial entities to execute the product support strategy and maintain updated parts cataloging and provisioning.
-  - **(7)** Seeking to resolve issues relating to diminishing manufacturing supply, material shortages, critical 2 2 So in original. Probably should be preceded by “and”. readiness items of supply.
-  - **(8)** Managing the end-to-end coordination process related to qualification, certification, and testing of alternative sources of supply for critical readiness items of supply.
-  - **(9)** Ensuring the evaluation and selection of product support integrators and product support providers that are best suited to execute the product support strategy.
-- **(e)** In this section:
-  - **(1)** The term “best value” has the meaning given in section 3101 of this title .
-  - **(2)** The terms “covered system”, “critical readiness items of supply”, “product support”, “product support arrangement”, “product support integrator”, and “product support provider” have the meanings given, respectively, in section 4324 of this title .
+- **(a)** A critical acquisition position may be filled only by a member of the Acquisition Corps.
+- **(b)**
+  - **(1)** The Secretary of Defense shall designate the acquisition positions in the Department of Defense that are critical acquisition positions. Such positions shall include the following:
+    - **(A)** Any acquisition position which—
+      - **(i)** in the case of employees, is required to be filled by an employee in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary, or in the Senior Executive Service; or
+      - **(ii)** in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
+    - **(B)** Other selected acquisition positions not covered by subparagraph (A), including the following:
+      - **(i)** Program executive officer.
+      - **(ii)** Program manager of a major defense acquisition program (as defined in section 2430 of this title ) or of a significant nonmajor defense acquisition program (as defined in section 1737(a)(3) of this title ).
+      - **(iii)** Deputy program manager of a major defense acquisition program.
+    - **(C)** Any other acquisition position of significant responsibility in which the primary duties are supervisory or management duties.
+  - **(2)** The Secretary shall periodically publish a list of the positions designated under this subsection.

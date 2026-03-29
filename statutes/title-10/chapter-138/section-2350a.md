@@ -3,9 +3,9 @@ title: "Section 2350a - Cooperative research and development agreements: NATO or
 usc_title: 10
 usc_section: "2350a"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2350a"
-generated_at: "2026-03-29T02:10:45.093Z"
+generated_at: "2026-03-29T17:50:57.110Z"
 ---
 
 # § 2350a. Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries
@@ -18,35 +18,27 @@ generated_at: "2026-03-29T02:10:45.093Z"
     - **(C)** A member nation of the North Atlantic Treaty Organization.
     - **(D)** A major non-NATO ally.
     - **(E)** Any other friendly foreign country.
-    - **(F)** The European Union, including the European Defence Agency, the European Commission, and the Council of the European Union, and their suborganizations.
   - **(3)** If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 - **(b)**
   - **(1)** The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).
-  - **(2)** The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, or the Under Secretary of Defense for Research and Engineering.
-- **(c)**
-  - **(1)** Except as provided in paragraph (2), each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
-  - **(2)** A cooperative research and development project may be entered into under this section under which costs are shared between the participants on an unequal basis if the Secretary of Defense, or an official specified in subsection (b)(2) to whom the Secretary delegates authority under this paragraph, makes a written determination that unequal cost sharing provides strategic value to the United States or another participant in the project.
-  - **(3)** For purposes of this subsection, the term “cost” means the total value of cash and non-cash contributions.
+  - **(2)** The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering.
+- **(c)** Each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
 - **(d)**
   - **(1)** In order to assure substantial participation on the part of countries and organizations referred to in subsection (a)(2) in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
   - **(2)** A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
 - **(e)**
-  - **(1)** In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project.
-  - **(2)** A cooperative opportunities discussion referred to in paragraph (1) shall consider the following:
-    - **(A)** Whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
-    - **(B)** If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
+  - **(1)** In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
+  - **(2)** A cooperative opportunities document referred to in paragraph (1) shall include the following:
+    - **(A)** A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
+    - **(B)** If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
     - **(C)** An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
-    - **(D)** A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+    - **(D)** The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 - **[(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17) , Nov. 24, 2003 , 117 Stat. 1597 .]
 - **(g)**
   - **(1)** It is the sense of Congress—
-    - **(A)** that the Secretary of Defense should test covered equipment, munitions, and technologies to determine the ability of such covered equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
-    - **(B)** that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of such covered equipment, munitions, and technologies may be conducted to determine procurement alternatives.
-  - **(2)** The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
-  - **(3)** The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 1 1 See References in Text note below. of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
-  - **(4)** In this subsection, the term “covered equipment, munitions, and technologies” means—
-    - **(A)** conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2); and
-    - **(B)** conventional defense equipment, munitions, and technologies manufactured and developed domestically.
+    - **(A)** that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
+    - **(B)** that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
+  - **(2)** The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 - **(h)** The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 - **(i)** In this section:
   - **(1)** The term “cooperative research and development project” means a project involving joint participation by the United States and one or more countries and organizations referred to in subsection (a)(2) under a memorandum of understanding (or other formal agreement) to carry out a joint research and development program—

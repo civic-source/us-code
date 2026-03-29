@@ -3,9 +3,9 @@ title: "Section 9533 - Duties"
 usc_title: 20
 usc_section: "9533"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 9533"
-generated_at: "2026-03-29T02:12:17.523Z"
+generated_at: "2026-03-29T17:51:48.698Z"
 ---
 
 # § 9533. Duties
@@ -31,9 +31,9 @@ generated_at: "2026-03-29T02:12:17.523Z"
     - **(C)** rigorous, peer-reviewed, large-scale, long-term, and broadly applicable empirical research that is designed to determine which approaches to the use of technology are most effective and cost-efficient in practice and under what conditions; and
     - **(D)** field-based research on how teachers implement technology and Internet-based resources in the classroom, including an understanding 1 1 So in original. Probably should be “understanding of”. how these resources are being accessed, put to use, and the effectiveness of such resources; and
   - **(11)** carry out research that is rigorous, peer-reviewed, and large scale to determine which methods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.).
-- **(b)** Research carried out under subsection (a) through contracts, grants, or cooperative agreements shall be carried out only by recipients with the ability and capacity to conduct scientifically valid research.
+- **(b)** Research carried out under subsection (a) of this section through contracts, grants, or cooperative agreements shall be carried out only by recipients with the ability and capacity to conduct scientifically valid research.
 - **(c)**
-  - **(1)** In carrying out activities under subsection (a)(3), the Research Commissioner shall support not less than 8 national research and development centers. The Research Commissioner shall assign each of the 8 national research and development centers not less than 1 of the topics described in paragraph (2). In addition, the Research Commissioner may assign each of the 8 national research and development centers additional topics of research consistent with the mission and priorities of the Institute and the mission of the Research Center.
+  - **(1)** In carrying out activities under subsection (a)(3) of this section, the Research Commissioner shall support not less than 8 national research and development centers. The Research Commissioner shall assign each of the 8 national research and development centers not less than 1 of the topics described in paragraph (2). In addition, the Research Commissioner may assign each of the 8 national research and development centers additional topics of research consistent with the mission and priorities of the Institute and the mission of the Research Center.
   - **(2)** The Research Commissioner shall support the following topics of research, through national research and development centers or through other means:
     - **(A)** Adult literacy.
     - **(B)** Assessment, standards, and accountability research.

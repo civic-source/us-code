@@ -3,9 +3,9 @@ title: "Section 2801 - Scope of chapter; definitions"
 usc_title: 10
 usc_section: "2801"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2801"
-generated_at: "2026-03-29T02:10:45.145Z"
+generated_at: "2026-03-29T17:50:57.164Z"
 ---
 
 # § 2801. Scope of chapter; definitions
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T02:10:45.145Z"
   - **(3)** The term “life-cycle cost-effective”, with respect to a project, product, or measure, means that the sum of the present values of investment costs, capital costs, installation costs, energy costs, operating costs, maintenance costs, and replacement costs, as estimated for the lifetime of the project, product, or measure, does not exceed the base case (current or standard) for the practice, product, or measure.
   - **(4)** The term “military installation” means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
   - **(5)** The term “Secretary concerned” includes the Secretary of Defense with respect to matters concerning the Defense Agencies.
-- **(d)** This chapter (other than sections 2830, 1 1 See References in Text note below. 2835, and 2836 of this chapter) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.
+- **(d)** This chapter (other than sections 2830, 2835, and 2836 of this chapter) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.

@@ -3,9 +3,9 @@ title: "Section 696 - Loans for plant acquisition, construction, conversion and 
 usc_title: 15
 usc_section: "696"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 696"
-generated_at: "2026-03-29T02:11:34.111Z"
+generated_at: "2026-03-29T17:51:36.181Z"
 ---
 
 # § 696. Loans for plant acquisition, construction, conversion and expansion
@@ -40,15 +40,15 @@ The Administration may, in addition to its authority under section 695 of this t
     - **(D)** Seller-provided financing may be used to meet the requirements of subparagraph (B), if the seller subordinates the interest of the seller in the property to the debenture guaranteed by the Administration.
     - **(E)**
       - **(i)** The collateral provided by the small business concern shall generally include a subordinate lien position on the property being financed under this subchapter, and is only 1 of the factors to be evaluated in the credit determination. Additional collateral shall be required only if the Administration determines, on a case-by-case basis, that additional security is necessary to protect the interest of the Government.
-      - **(ii)**
-        - **(I)** With respect to commercial real property provided by the small business concern as collateral, an appraisal of the property by a State licensed or certified appraiser—
-        - **(II)** For purposes of this clause, the term “Federal banking regulator appraisal threshold” means the lesser of the threshold amounts set by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation for when a federally related transaction that is a commercial real estate transaction requires an appraisal prepared by a State licensed or certified appraiser.
+      - **(ii)** With respect to commercial real property provided by the small business concern as collateral, an appraisal of the property by a State licensed or certified appraiser—
+        - **(I)** shall be required by the Administration before disbursement of the loan if the estimated value of that property is more than $250,000; or
+        - **(II)** may be required by the Administration or the lender before disbursement of the loan if the estimated value of that property is $250,000 or less, and such appraisal is necessary for appropriate evaluation of creditworthiness.
   - **(4)** If the project is to construct a new facility, up to 33 per centum of the total project may be leased, if reasonable projections of growth demonstrate that the assisted small business concern will need additional space within three years and will fully utilize such additional space within ten years.
   - **(5)** In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted small business to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
   - **(6)** Ownership requirements to determine the eligibility of a small business concern that applies for assistance under any credit program under this subchapter shall be determined without regard to any ownership interest of a spouse arising solely from the application of the community property laws of a State for purposes of determining marital interests.
   - **(7)**
     - **(A)** Any financing approved under this subchapter may include a limited amount of debt refinancing.
-    - **(B)** If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 100 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
+    - **(B)** If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
       - **(i)** the proceeds of the indebtedness were used to acquire land, including a building situated thereon, to construct a building thereon, or to purchase equipment;
       - **(ii)** the existing indebtedness is collateralized by fixed assets;
       - **(iii)** the existing indebtedness was incurred for the benefit of the small business concern;
@@ -56,20 +56,3 @@ The Administration may, in addition to its authority under section 695 of this t
       - **(v)** the financing under this subchapter will provide a substantial benefit to the borrower when prepayment penalties, financing fees, and other financing costs are accounted for;
       - **(vi)** the borrower has been current on all payments due on the existing debt for not less than 1 year preceding the date of refinancing; and
       - **(vii)** the financing under section 697a of this title will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
-    - **(C)**
-      - **(i)** In this subparagraph—
-        - **(I)** the term “borrower” means a small business concern that submits an application to a development company for financing under this subparagraph;
-        - **(II)** the term “eligible fixed asset” means tangible property relating to which the Administrator may provide financing under this section; and
-        - **(III)** the term “qualified debt” means indebtedness—
-      - **(ii)** A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if—
-        - **(I)** the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
-        - **(II)** the borrower has been in operation for all of the 2-year period ending on the date the loan application is submitted; and
-        - **(III)** for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
-      - **(iii)**
-        - **(I)** The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
-        - **(II)** An application for financing under subclause (I) shall include—
-        - **(III)** A borrower may not use any part of the financing under this clause for non-business purposes.
-      - **(iv)**
-        - **(I)**
-        - **(II)** For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
-      - **(v)** The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.

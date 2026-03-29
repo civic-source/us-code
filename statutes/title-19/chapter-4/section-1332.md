@@ -3,9 +3,9 @@ title: "Section 1332 - Investigations"
 usc_title: 19
 usc_section: "1332"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1332"
-generated_at: "2026-03-29T02:12:08.596Z"
+generated_at: "2026-03-29T17:51:51.206Z"
 ---
 
 # § 1332. Investigations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:12:08.596Z"
   - **(4)** Ascertain import costs of such representative articles so selected;
   - **(5)** Ascertain the grower’s, producer’s, or manufacturer’s selling prices in the principal growing, producing, or manufacturing centers of the United States of the articles of the United States so selected; and
   - **(6)** Ascertain all other facts which will show the differences in or which affect competition between articles of the United States and imported articles in the principal markets of the United States.
-- **(e)** When used in this subdivision and in subdivision (d)—
+- **(e)** When used in this subdivision and in subdivision (d) of this section—
   - **(1)** The term “article” includes any commodity, whether grown, produced, fabricated, manipulated, or manufactured;
   - **(2)** The term “import cost” means the transaction value of the imported merchandise determined in accordance with section 1401a(b) of this title plus, when not included in the transaction value, all necessary expenses, exclusive of customs duties, of bringing such merchandise to the United States.
 - **(f)**

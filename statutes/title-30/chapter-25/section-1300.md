@@ -3,18 +3,18 @@ title: "Section 1300 - Indian lands"
 usc_title: 30
 usc_section: "1300"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1300"
-generated_at: "2026-03-29T02:14:11.260Z"
+generated_at: "2026-03-29T17:52:16.766Z"
 ---
 
 # § 1300. Indian lands
 
 - **(a)** The Secretary is directed to study the question of the regulation of surface mining on Indian lands which will achieve the purpose of this chapter and recognize the special jurisdictional status of these lands. In carrying out this study the Secretary shall consult with Indian tribes. The study report shall include proposed legislation designed to allow Indian tribes to elect to assume full regulatory authority over the administration and enforcement of regulation of surface mining of coal on Indian lands.
-- **(b)** The study report required by subsection (a) together with drafts of proposed legislation and the view of each Indian tribe which would be affected shall be submitted to the Congress as soon as possible but not later than January 1, 1978 .
+- **(b)** The study report required by subsection (a) of this section together with drafts of proposed legislation and the view of each Indian tribe which would be affected shall be submitted to the Congress as soon as possible but not later than January 1, 1978 .
 - **(c)** On and after one hundred and thirty-five days from August 3, 1977 , all surface coal mining operations on Indian lands shall comply with requirements at least as stringent as those imposed by subsections (b)(2), (b)(3), (b)(5), (b)(10), (b)(13), (b)(19), and (d) of section 1265 of this title and the Secretary shall incorporate the requirements of such provisions in all existing and new leases issued for coal on Indian lands.
 - **(d)** On and after thirty months from August 3, 1977 , all surface coal mining operations on Indian lands shall comply with requirements at least as stringent as those imposed by sections 1257, 1258, 1259, 1260, 1265, 1266, 1267, and 1269 of this title and the Secretary shall incorporate the requirements of such provisions in all existing and new leases issued for coal on Indian lands.
-- **(e)** With respect to leases issued after August 3, 1977 , the Secretary shall include and enforce terms and conditions in addition to those required by subsections (c) and (d) as may be requested by the Indian tribe in such leases.
+- **(e)** With respect to leases issued after August 3, 1977 , the Secretary shall include and enforce terms and conditions in addition to those required by subsections (c) and (d) of this section as may be requested by the Indian tribe in such leases.
 - **(f)** Any change required by subsection (c) or (d) of this section in the terms and conditions of any coal lease on Indian lands existing on August 3, 1977 , shall require the approval of the Secretary.
 - **(g)** The Secretary shall provide for adequate participation by the various Indian tribes affected in the study authorized in this section and not more than $700,000 of the funds authorized in section 1302(a) of this title shall be reserved for this purpose.
 - **(h)** The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands 1 1 So in original. Probably should be “lands”. outside the exterior boundaries of Indian reservations: Provided , That nothing in this chapter shall change the existing jurisdictional status of Indian Lands. 1

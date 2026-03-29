@@ -3,15 +3,15 @@ title: "Section 2687 - Base closures and realignments"
 usc_title: 10
 usc_section: "2687"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2687"
-generated_at: "2026-03-29T02:10:45.132Z"
+generated_at: "2026-03-29T17:50:57.155Z"
 ---
 
 # § 2687. Base closures and realignments
 
 - **(a)** Notwithstanding any other provision of law, no action may be taken to effect or implement—
-  - **(1)** the closure, including a mothball action, divestiture, deactivation, or any other action to render inoperable, of any military installation at which at least 300 civilian personnel are authorized to be employed;
+  - **(1)** the closure of any military installation at which at least 300 civilian personnel are authorized to be employed;
   - **(2)** any realignment with respect to any military installation referred to in paragraph (1) involving a reduction by more than 1,000, or by more than 50 percent, in the number of civilian personnel authorized to be employed at such military installation at the time the Secretary of Defense or the Secretary of the military department concerned notifies the Congress under subsection (b) of the Secretary’s plan to close or realign such installation; or
   - **(3)** any construction, conversion, or rehabilitation at any military facility other than a military installation referred to in clause (1) or (2) which will or may be required as a result of the relocation of civilian personnel to such facility by reason of any closure or realignment to which clause (1) or (2) applies,
 - **(b)** No action described in subsection (a) with respect to the closure of, or a realignment with respect to, any military installation referred to in such subsection may be taken unless and until—
@@ -36,4 +36,3 @@ generated_at: "2026-03-29T02:10:45.132Z"
   - **(2)** The term “civilian personnel” means direct-hire, permanent civilian employees of the Department of Defense.
   - **(3)** The term “realignment” includes any action which both reduces and relocates functions and civilian personnel positions, but does not include a reduction in force resulting from workload adjustments, reduced personnel or funding levels, skill imbalances, or other similar causes.
   - **(4)** The term “legislative day” means a day on which either House of Congress is in session.
-  - **(5)** The term “mothball action” means placing a military installation in inactive status while maintaining such installation in a condition such that it could be reactivated at a future date.

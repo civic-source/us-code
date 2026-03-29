@@ -1,12 +1,14 @@
 ---
-title: "Section 2275 - Repealed. Pub. L. 115–334, title V, § 5411(36) , Dec. 20, 2018 , 132 Stat. 4683"
+title: "Section 2275 - Government Accountability Office audit; report to Congress"
 usc_title: 12
 usc_section: "2275"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2275"
-generated_at: "2026-03-29T02:11:21.123Z"
+generated_at: "2026-03-29T17:51:13.169Z"
 ---
 
-# § 2275. Repealed. Pub. L. 115–334, title V, § 5411(36) , Dec. 20, 2018 , 132 Stat. 4683
+# § 2275. Government Accountability Office audit; report to Congress
 
+- **(a)** The Comptroller General shall conduct an evaluation of the programs and activities authorized under the 1980 amendments to this chapter, and shall make an interim report to the Congress no later than December 31, 1982 , and a final report to the Congress no later than December 31, 1984 . The Comptroller General shall include in such evaluation the effect that this chapter, as amended, will have on agricultural credit services provided by the Farm Credit System, Federal agencies, and other entities. The Comptroller General may make such interim reports to the Congress on the programs and activities under these amendments as the Comptroller General deems necessary or as requested by Members of Congress.
+- **(b)** For the purpose of conducting program evaluations required in subsection (a) of this section, the Comptroller General or his duly authorized representatives shall have access to and the right to examine all books, documents, papers, records, or other recorded information within the possession or control of the Federal land banks and Federal land bank associations, Federal intermediate credit banks and production credit associations and banks for cooperatives.

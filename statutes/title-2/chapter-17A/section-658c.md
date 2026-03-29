@@ -3,9 +3,9 @@ title: "Section 658c - Duties of Director; statements on bills and joint resolut
 usc_title: 2
 usc_section: "658c"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 658c"
-generated_at: "2026-03-29T02:09:53.690Z"
+generated_at: "2026-03-29T17:50:24.050Z"
 ---
 
 # § 658c. Duties of Director; statements on bills and joint resolutions other than appropriations bills and joint resolutions
@@ -26,5 +26,5 @@ generated_at: "2026-03-29T02:09:53.690Z"
     - **(A)** the total amount of direct costs of complying with the Federal private sector mandates in the bill or joint resolution; and
     - **(B)** the amount, if any, of increase in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution usable by the private sector for the activities subject to the Federal private sector mandates.
   - **(3)** If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, but shall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement.
-- **(c)** If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b), the Director shall so state and shall briefly explain the basis of the estimate.
+- **(c)** If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
 - **(d)** If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.

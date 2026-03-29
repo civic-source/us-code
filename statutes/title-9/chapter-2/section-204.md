@@ -3,9 +3,9 @@ title: "Section 204 - Venue"
 usc_title: 9
 usc_section: "204"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "9 U.S.C. § 204"
-generated_at: "2026-03-29T02:10:21.790Z"
+generated_at: "2026-03-29T17:50:38.312Z"
 ---
 
 # § 204. Venue

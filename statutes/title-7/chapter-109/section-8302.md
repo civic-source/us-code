@@ -3,9 +3,9 @@ title: "Section 8302 - Definitions"
 usc_title: 7
 usc_section: "8302"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 8302"
-generated_at: "2026-03-29T02:10:17.195Z"
+generated_at: "2026-03-29T17:50:48.893Z"
 ---
 
 # § 8302. Definitions
@@ -19,7 +19,7 @@ In this chapter:
   - **(5)** The term “export” means to move from a place within the territorial limits of the United States to a place outside the territorial limits of the United States.
   - **(6)** The term “facility” means any structure.
   - **(7)** The term “import” means to move from a place outside the territorial limits of the United States to a place within the territorial limits of the United States.
-  - **(8)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(8)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
   - **(9)** The term “interstate commerce” means trade, traffic, or other commerce—
     - **(A)** between a place in a State and a place in another State, or between places within the same State but through any place outside that State; or
     - **(B)** within the District of Columbia or any territory or possession of the United States.
@@ -48,4 +48,3 @@ In this chapter:
   - **(15)** The term “State” means any of the States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, or any territory or possession of the United States.
   - **(16)** Except when used in this section, the term “this chapter” includes any regulation or order issued by the Secretary under the authority of this chapter.
   - **(17)** The term “United States” means all of the States.
-  - **(18)** The term “veterinary countermeasure” means any biological product (including an animal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.

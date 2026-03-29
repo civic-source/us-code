@@ -3,16 +3,16 @@ title: "Section 1722 - Provision of agricultural commodities"
 usc_title: 7
 usc_section: "1722"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1722"
-generated_at: "2026-03-29T02:10:16.847Z"
+generated_at: "2026-03-29T17:50:48.632Z"
 ---
 
 # § 1722. Provision of agricultural commodities
 
 - **(a)** Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
 - **(b)**
-  - **(1)** The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d)) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
+  - **(1)** The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
   - **(2)** The Administrator may not use as a sole rationale for denying a request for funds submitted under this subsection because the program for which the funds are requested—
     - **(A)** would be carried out by the eligible organization in a foreign country in which the Agency for International Development does not have a mission, office, or other presence; or
     - **(B)** is not part of a development plan for the country prepared by the Agency.
@@ -20,16 +20,16 @@ generated_at: "2026-03-29T02:10:16.847Z"
     - **(A)** encourage eligible organizations to propose and implement program plans to address 1 or more aspects of the program under section 1721 of this title ; and
     - **(B)** consider proposals that incorporate a variety of program objectives and strategic plans based on the identification by eligible organizations of appropriate activities, consistent with section 1721 of this title , to assist development of foreign countries.
 - **(c)** Agricultural commodities provided under this subchapter may be made available for direct distribution, sale, barter, or other appropriate disposition.
-- **(d)** To be eligible to receive assistance under subsection (b) an organization shall be—
+- **(d)** To be eligible to receive assistance under subsection (b) of this section an organization shall be—
   - **(1)** a private voluntary organization or cooperative that is, to the extent practicable, registered with the Administrator; or
   - **(2)** an intergovernmental organization, such as the World Food Program.
 - **(e)**
-  - **(1)** Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d), to assist the organizations in—
+  - **(1)** Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
     - **(A)** establishing and enhancing programs under this subchapter;
     - **(B)** meeting specific administrative, management, personnel, transportation, storage, and distribution costs for carrying out programs in foreign countries under this subchapter;
     - **(C)** implementing income-generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within 1 or more recipient countries or within 1 or more countries in the same region; and
     - **(D)** improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
-  - **(2)** To receive funds made available under paragraph (1), an eligible organization described in subsection (d) shall submit a request for the funds that is subject to approval by the Administrator.
+  - **(2)** To receive funds made available under paragraph (1), an eligible organization described in subsection (d) of this section shall submit a request for the funds that is subject to approval by the Administrator.
   - **(3)** Upon the request of an eligible organization, the Administrator may provide assistance to the eligible organization with respect to the sale of agricultural commodities made available to it under this subchapter.
   - **(4)** An eligible organization that receives funds made available under paragraph (1) may invest the funds pending the eligible organization’s use of the funds. Any interest earned on such investment may be used for the purposes for which the assistance was provided to the eligible organization without further appropriation by Congress.
 - **(f)** To ensure that agricultural commodities made available under this subchapter are used effectively and in the areas of greatest need, organizations or cooperatives through which such commodities are distributed shall—
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:10:16.847Z"
   - **(4)** recommend to the Administrator methods of making assistance available that are the most appropriate for each local setting;
   - **(5)** supervise the distribution of commodities provided and the implementation of programs carried out under this subchapter; and
   - **(6)** periodically evaluate the effectiveness of projects undertaken under this subchapter.
-- **(g)** Agricultural commodities and other assistance provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such agricultural commodities or food procured outside of the United States, or on printed material that accompanies other assistance, in the language of the locality in which such commodities and other assistance are distributed, as being furnished by the people of the United States of America.
+- **(g)** Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
 - **(h)**
   - **(1)** The Administrator shall use funds made available for fiscal year 2014 and subsequent fiscal years to carry out this subchapter—
     - **(A)** to assess the types and quality of agricultural commodities and products donated for food aid;
@@ -53,4 +53,4 @@ generated_at: "2026-03-29T02:10:16.847Z"
     - **(A)** shall carry out this subsection in consultation with and through independent entities with proven expertise in food aid commodity quality enhancements;
     - **(B)** may enter into contracts to obtain the services of such entities; and
     - **(C)** shall consult with the Food Aid Consultative Group on how to carry out this subsection.
-  - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2014 through 2023, not more than $4,500,000 may be used to carry out this subsection.
+  - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.

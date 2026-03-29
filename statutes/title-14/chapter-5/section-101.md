@@ -1,0 +1,19 @@
+---
+title: "Section 101 - Appeals and waivers"
+usc_title: 14
+usc_section: "101"
+chapter: 5
+current_through: "PL 113-100"
+classification: "14 U.S.C. § 101"
+generated_at: "2026-03-29T17:51:00.999Z"
+---
+
+# § 101. Appeals and waivers
+
+Except for the Commandant of the Coast Guard, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—
+
+  - **(1)** be a qualified specialist with the training, experience, and qualifications in marine safety to effectively judge the facts and circumstances involved in the appeal and make a judgment regarding the merits of the appeal; or
+  - **(2)** have a senior staff member who—
+    - **(A)** meets the requirements of paragraph (1);
+    - **(B)** actively advises the individual adjudicating the appeal; and
+    - **(C)** concurs in writing on the decision on appeal.

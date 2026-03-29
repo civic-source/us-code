@@ -3,9 +3,9 @@ title: "Section 16401 - Marine Corps Platoon Leaders Class: college tuition assi
 usc_title: 10
 usc_section: "16401"
 chapter: 1611
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 16401"
-generated_at: "2026-03-29T02:10:45.391Z"
+generated_at: "2026-03-29T17:50:57.292Z"
 ---
 
 # § 16401. Marine Corps Platoon Leaders Class: college tuition assistance program
@@ -26,16 +26,16 @@ generated_at: "2026-03-29T02:10:45.391Z"
   - **(1)** tuition and fees charged by the institution of higher education involved;
   - **(2)** the cost of books; and
   - **(3)** in the case of a program of education leading to a baccalaureate degree, laboratory expenses.
-- **(d)** The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $13,800 for any academic year.
+- **(d)** The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $5,200 for any academic year.
 - **(e)**
   - **(1)** Financial assistance may be provided to a member under this section only for three consecutive academic years.
-  - **(2)** Not more than 450 members may participate in the financial assistance program under this section in any academic year.
+  - **(2)** Not more than 1,200 members may participate in the financial assistance program under this section in any academic year.
 - **(f)**
-  - **(1)** An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37, if the member—
+  - **(1)** An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) of title 37 , if the member—
     - **(A)** completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in the Marine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
     - **(B)** fails to complete the military or academic requirements of the Marine Corps Platoon Leaders Class program; or
     - **(C)** is disenrolled from the Marine Corps Platoon Leaders Class program for failure to maintain eligibility for an original appointment as a commissioned officer under section 532 of this title .
-  - **(2)** Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) or 373 of title 37. The Secretary of the Navy may waive the requirements of paragraph (1) in the case of a person who—
+  - **(2)** Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) of title 37 . The Secretary of the Navy may waive the requirements of paragraph (1) in the case of a person who—
     - **(A)** becomes unqualified to serve on active duty as an officer due to a circumstance not within the control of the person;
     - **(B)** is not physically qualified for appointment under section 532 of this title and later is determined by the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct; or
     - **(C)** fails to complete the military or academic requirements of the Marine Corps Platoon Leaders Class program due to a circumstance not within the control of the person.

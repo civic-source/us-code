@@ -3,9 +3,9 @@ title: "Section 2245 - Organization of Farm Credit Administration"
 usc_title: 12
 usc_section: "2245"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2245"
-generated_at: "2026-03-29T02:11:21.119Z"
+generated_at: "2026-03-29T17:51:13.166Z"
 ---
 
 # § 2245. Organization of Farm Credit Administration
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:11:21.119Z"
     - **(A)** The Chairman shall fix the compensation and number of, and appoint and direct, employees of the Administration. The Chairman may set and adjust the rates of basic pay for employees of the Administration without regard to the provisions of chapter 51, or subchapter III of chapter 53, of title 5. The Chairman may provide such additional compensation and benefits to employees of the Administration as is necessary to maintain comparability with the total amount of compensation and benefits provided by other Federal bank regulatory agencies. In setting and adjusting the total amount of compensation and benefits for employees of the Administration, the Chairman shall consult with, and seek to maintain comparability with, other Federal bank regulatory agencies.
     - **(B)** For purposes of this subsection, the term “other Federal bank regulatory agencies” has the same meaning given to the term “appropriate Federal banking agency” in section 1813(q) of this title .
     - **(C)** The officers and employees of the agency shall be—
-      - **(i)** subject to chapter 131 of title 5; and
+      - **(i)** subject to the Ethics in Government Act of 1978; and
       - **(ii)** considered officers or employees of the United States for the purposes of sections 201 through 203, and sections 205 through 209, of title 18.
   - **(3)** The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by the Chairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
 - **(d)** The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title .

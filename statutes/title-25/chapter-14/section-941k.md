@@ -1,12 +1,15 @@
 ---
-title: "Section 941k - Omitted"
+title: "Section 941k - Non-Reservation properties"
 usc_title: 25
 usc_section: "941k"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 941k"
-generated_at: "2026-03-29T02:13:20.870Z"
+generated_at: "2026-03-29T17:52:06.031Z"
 ---
 
-# § 941k. Omitted
+# § 941k. Non-Reservation properties
 
+- **(a)** The Tribe may draw upon the corpus or accumulated income of the Catawba Land Acquisition Trust Fund or the Catawba Economic Development Trust Fund to acquire and hold parcels of real estate outside the Reservation for the purposes and in the manner delineated in the Settlement Agreement. Jurisdiction and status of all non-Reservation lands shall be governed by section 15 of the Settlement Agreement.
+- **(b)** Notwithstanding any other provision of law, the Tribe may lease, sell, mortgage, restrict, encumber, or otherwise dispose of such non-Reservation lands in the same manner as other persons and entities under State law, and the Tribe as land owner shall be subject to the same obligations and responsibilities as other persons and entities under State, Federal, and local law.
+- **(c)** Ownership and transfer of non-Reservation parcels shall not be subject to Federal law restrictions on alienation, including (but not limited to) the restrictions imposed by Federal common law and the provisions of section 177 of this title .

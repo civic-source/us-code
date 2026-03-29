@@ -3,21 +3,14 @@ title: "Section 1917 - Insurance maturing on or after August 1, 1946"
 usc_title: 38
 usc_section: "1917"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1917"
-generated_at: "2026-03-29T02:14:50.374Z"
+generated_at: "2026-03-29T17:52:53.712Z"
 ---
 
 # § 1917. Insurance maturing on or after August 1, 1946
 
-- **(a)**
-  - **(1)** A person who enrolls in insurance maturing on or after August 1, 1946 , may designate a beneficiary of the insurance policy. The insured shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.
-  - **(2)** If a person enrolled in insurance maturing on or after August 1, 1946 , does not designate a beneficiary under paragraph (1) before the veteran dies, or if a designated beneficiary predeceases the veteran, the Secretary shall determine the beneficiary in the following order:
-    - **(A)** The surviving spouse of the insured person.
-    - **(B)** The children of the insured person and descendants of deceased children by representation.
-    - **(C)** The parents of the insured person or the survivors of the parents.
-    - **(D)** The duly appointed executor or administrator of the estate of the insured person.
-    - **(E)** Other next of kin of the insured person entitled under the laws of domicile of the insured person at the time of the death of the insured person.
+- **(a)** The insured shall have the right to designate the beneficiary or beneficiaries of insurance maturing on or after August 1, 1946 , and shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.
 - **(b)** Insurance maturing on or after August 1, 1946 , shall be payable in accordance with the following optional modes of settlement:
   - **(1)** In one sum.
   - **(2)** In equal monthly installments of from thirty-six to two hundred and forty in number, in multiples of twelve.
@@ -28,6 +21,6 @@ generated_at: "2026-03-29T02:14:50.374Z"
 - **(e)** Under such regulations as the Secretary may promulgate, the cash surrender value of any policy of insurance or the proceeds of an endowment contract which matures by reason of completion of the endowment period may be paid to the insured under option (2) or (4) of this section. All settlements under option (4), however, shall be calculated on the basis of The Annuity Table for 1949. If the option selected requires payment of monthly installments of less than $10, the amount payable shall be paid in such maximum number of monthly installments as are a multiple of twelve as will provide a monthly installment of not less than $10.
 - **(f)**
   - **(1)** Following the death of the insured and in a case not covered by subsection (d)—
-    - **(A)** if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within one year after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
-    - **(B)** if, within two years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
+    - **(A)** if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+    - **(B)** if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
   - **(2)** Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.

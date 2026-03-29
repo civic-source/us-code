@@ -3,9 +3,9 @@ title: "Section 2294 - Payments on behalf of public bodies"
 usc_title: 12
 usc_section: "2294"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2294"
-generated_at: "2026-03-29T02:11:21.143Z"
+generated_at: "2026-03-29T17:51:13.183Z"
 ---
 
 # § 2294. Payments on behalf of public bodies

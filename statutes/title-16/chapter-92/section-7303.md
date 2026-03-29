@@ -3,9 +3,9 @@ title: "Section 7303 - Collaborative Forest Landscape Restoration Program"
 usc_title: 16
 usc_section: "7303"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 7303"
-generated_at: "2026-03-29T02:11:53.996Z"
+generated_at: "2026-03-29T17:51:57.036Z"
 ---
 
 # § 7303. Collaborative Forest Landscape Restoration Program
@@ -96,11 +96,6 @@ generated_at: "2026-03-29T02:11:53.996Z"
     - **(A)** 10 proposals to be funded during any fiscal year;
     - **(B)** 2 proposals in any 1 region of the National Forest System to be funded during any fiscal year; and
     - **(C)** the number of proposals that the Secretary determines are likely to receive adequate funding.
-  - **(4)**
-    - **(A)** Subject to subparagraph (B), after consulting with the advisory panel established under subsection (e), if the Secretary determines that a proposal that has been selected under paragraph (1) and is being carried out continues to meet the eligibility criteria established by subsection (b), the Secretary, on a case-by-case basis, may issue for the proposal a 1-time extension of the 10-year period requirement under paragraph (1)(B) of that subsection.
-    - **(B)** The extension described in subparagraph (A)—
-      - **(i)** shall be for the shortest period of time practicable to complete implementation of the proposal, as determined by the Secretary; and
-      - **(ii)** shall not exceed 10 years.
 - **(e)**
   - **(1)** The Secretary shall establish and maintain an advisory panel comprised of not more than 15 members to evaluate, and provide recommendations on, each proposal that has been nominated under subsection (c)(2).
   - **(2)** The Secretary shall ensure that the membership of the advisory panel is fairly balanced in terms of the points of view represented and the functions to be performed by the advisory panel.
@@ -114,9 +109,8 @@ generated_at: "2026-03-29T02:11:53.996Z"
     - **(B)** The Secretary shall not expend money from the Fund on any 1 proposal—
       - **(i)** during a period of more than 10 fiscal years; or
       - **(ii)** in excess of $4,000,000 in any 1 fiscal year.
-    - **(C)** The limitation described in subparagraph (B)(i) shall not apply to a proposal for which a 1-time extension is granted under subsection (d)(4).
   - **(5)** The Secretary shall establish an accounting and reporting system for the Fund.
-  - **(6)** There is authorized to be appropriated to the Fund $80,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+  - **(6)** There is authorized to be appropriated to the Fund $40,000,000 for each of fiscal years 2009 through 2019, to remain available until expended.
 - **(g)**
   - **(1)** Not later than 180 days after the date on which a proposal is selected to be carried out, the Secretary shall create, in collaboration with the interested persons, an implementation work plan and budget to implement the proposal that includes—
     - **(A)** a description of the manner in which the proposal would be implemented to achieve ecological and community economic benefit, including capacity building to accomplish restoration;
@@ -142,7 +136,5 @@ generated_at: "2026-03-29T02:11:53.996Z"
 - **(h)** Not later than 5 years after the first fiscal year in which funding is made available to carry out ecological restoration projects under the program, and every 5 years thereafter, the Secretary, in consultation with the Secretary of the Interior, shall submit a report on the program, including an assessment of whether, and to what extent, the program is fulfilling the purposes of this chapter, to—
   - **(1)** the Committee on Energy and Natural Resources of the Senate;
   - **(2)** the Committee on Appropriations of the Senate;
-  - **(3)** the Committee on Agriculture, Nutrition, and Forestry of the Senate;
-  - **(4)** the Committee on Natural Resources of the House of Representatives;
-  - **(5)** the Committee on Appropriations of the House of Representatives; and
-  - **(6)** the Committee on Agriculture of the House of Representatives.
+  - **(3)** the Committee on Natural Resources of the House of Representatives; and
+  - **(4)** the Committee on Appropriations of the House of Representatives.

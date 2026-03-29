@@ -3,9 +3,9 @@ title: "Section 3811 - Operating regulations"
 usc_title: 22
 usc_section: "3811"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3811"
-generated_at: "2026-03-29T02:12:40.301Z"
+generated_at: "2026-03-29T17:52:10.595Z"
 ---
 
 # § 3811. Operating regulations

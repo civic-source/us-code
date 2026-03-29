@@ -3,9 +3,9 @@ title: "Section 7938 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "7938"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7938"
-generated_at: "2026-03-29T02:10:17.178Z"
+generated_at: "2026-03-29T17:50:48.880Z"
 ---
 
 # § 7938. Special competitive provisions for extra long staple cotton
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T02:10:17.178Z"
   - **(1)** for a consecutive 4-week period, the world market price for the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is below the prevailing United States price for a competing growth of extra long staple cotton; and
   - **(2)** the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is less than 134 percent of the loan rate for extra long staple cotton.
 - **(c)** The Secretary shall make payments available under this section to domestic users of extra long staple cotton produced in the United States and exporters of extra long staple cotton produced in the United States that enter into an agreement with the Commodity Credit Corporation to participate in the program under this section.
-- **(d)** Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
+- **(d)** Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) of this section during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
 - **(e)** Payments under this section shall be made through the issuance of cash or marketing certificates, at the option of eligible recipients of the payments.

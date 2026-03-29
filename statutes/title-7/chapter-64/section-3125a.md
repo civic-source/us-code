@@ -3,9 +3,9 @@ title: "Section 3125a - National Agricultural Library"
 usc_title: 7
 usc_section: "3125a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3125a"
-generated_at: "2026-03-29T02:10:16.984Z"
+generated_at: "2026-03-29T17:50:48.748Z"
 ---
 
 # § 3125a. National Agricultural Library
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:10:16.984Z"
   - **(2)** make microforms and other reproductions of books and other library materials in the Department;
   - **(3)** provide any other library and information products and services; and
   - **(4)** sell those products and services at such prices (not less than the estimated total cost of disseminating the products and services) as the Secretary may determine appropriate.
-- **(f)** Funds received from sales under subsection (e) shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
+- **(f)** Funds received from sales under subsection (e) of this section shall be deposited in the Treasury of the United States to the credit of the applicable appropriation and shall remain available until expended.
 - **(g)**
   - **(1)** The Director may enter into agreement with, and receive funds from any State, and other political subdivision, organization, business, or individual for the purpose of conducting activities to carry out this section.
   - **(2)** Funds received under this subsection for payments for library products and services or other activities shall be deposited to the miscellaneous contributed fund account, and shall remain available until expended.

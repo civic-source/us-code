@@ -3,16 +3,16 @@ title: "Section 6823 - Administration"
 usc_title: 22
 usc_section: "6823"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 6823"
-generated_at: "2026-03-29T02:12:40.403Z"
+generated_at: "2026-03-29T17:52:10.678Z"
 ---
 
 # § 6823. Administration
 
 - **(a)** The Board of Trustees, in consultation with the appropriate officials of the Bank, should appoint an Administrator who should be responsible for managing the day-to-day operations of the Trust Fund.
 - **(b)** The Trust Fund should be authorized to solicit and accept contributions from governments, the private sector, and nongovernmental entities of all kinds.
-- **(c)** As part of the negotiations described in section 6821(a) of this title , the Secretary of the Treasury shall, consistent with subsection (d)—
+- **(c)** As part of the negotiations described in section 6821(a) of this title , the Secretary of the Treasury shall, consistent with subsection (d) of this section—
   - **(1)** take such actions as are necessary to ensure that the Bank or the Association will have in effect adequate procedures and standards to account for and monitor the use of funds contributed to the Trust Fund, including the cost of administering the Trust Fund; and
   - **(2)** seek agreement on the criteria that should be used to determine the programs and activities that should be assisted by the Trust Fund.
 - **(d)** The Board of Trustees should establish—

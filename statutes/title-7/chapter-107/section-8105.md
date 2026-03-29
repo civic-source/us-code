@@ -3,9 +3,9 @@ title: "Section 8105 - Bioenergy program for advanced biofuels"
 usc_title: 7
 usc_section: "8105"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 8105"
-generated_at: "2026-03-29T02:10:17.187Z"
+generated_at: "2026-03-29T17:50:48.888Z"
 ---
 
 # § 8105. Bioenergy program for advanced biofuels
@@ -19,17 +19,14 @@ generated_at: "2026-03-29T02:10:17.187Z"
   - **(1)** the quantity and duration of production by the eligible producer of an advanced biofuel;
   - **(2)** the net nonrenewable energy content of the advanced biofuel, if sufficient data is available, as determined by the Secretary; and
   - **(3)** other appropriate factors, as determined by the Secretary.
-- **(e)**
-  - **(1)** The Secretary shall limit the amount of payments that may be received by a single eligible producer under this section in order to distribute the total amount of funding available in an equitable manner.
-  - **(2)** The total amount of payments made in a fiscal year under this section to one or more eligible producers for the production of advanced biofuels derived from a single eligible commodity, including intermediate ingredients of that single commodity or use of that single commodity and its intermediate ingredients in combination with another commodity, shall not exceed one-third of the total amount of funds made available under subsection (g).
+- **(e)** The Secretary may limit the amount of payments that may be received by a single eligible producer under this section in order to distribute the total amount of funding available in an equitable manner.
 - **(f)** To receive a payment under this section, an eligible producer shall meet any other requirements of Federal and State law (including regulations) applicable to the production of advanced biofuels.
 - **(g)**
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
     - **(A)** $55,000,000 for fiscal year 2009;
     - **(B)** $55,000,000 for fiscal year 2010;
     - **(C)** $85,000,000 for fiscal year 2011;
-    - **(D)** $105,000,000 for fiscal year 2012;
-    - **(E)** $15,000,000 for each of fiscal years 2014 through 2018; and
-    - **(F)** $7,000,000 for each of fiscal years 2019 through 2031.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
+    - **(D)** $105,000,000 for fiscal year 2012; and
+    - **(E)** $15,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
   - **(3)** Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.

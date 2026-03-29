@@ -1,12 +1,12 @@
 ---
-title: "Section 2357 - Renumbered § 4067]"
+title: "Section 2357 - Repealed. Pub. L. 101–510, div. A, title XIII, § 1301(11) , Nov. 5, 1990 , 104 Stat. 1668 ]"
 usc_title: 10
 usc_section: "2357"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2357"
-generated_at: "2026-03-29T02:10:45.098Z"
+generated_at: "2026-03-29T17:50:57.112Z"
 ---
 
-# [§ 2357. Renumbered § 4067]
+# [§ 2357. Repealed. Pub. L. 101–510, div. A, title XIII, § 1301(11) , Nov. 5, 1990 , 104 Stat. 1668 ]
 

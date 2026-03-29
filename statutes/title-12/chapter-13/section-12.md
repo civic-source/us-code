@@ -3,9 +3,9 @@ title: "Section 12 - Assurance of adequate processing of applications for loan a
 usc_title: 12
 usc_section: "12"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-29T02:11:20.989Z"
+generated_at: "2026-03-29T17:51:13.082Z"
 ---
 
 # § 1735f–12. Assurance of adequate processing of applications for loan and mortgage insurance

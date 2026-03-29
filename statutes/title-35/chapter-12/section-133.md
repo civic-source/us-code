@@ -3,12 +3,12 @@ title: "Section 133 - Time for prosecuting application"
 usc_title: 35
 usc_section: "133"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "35 U.S.C. § 133"
-generated_at: "2026-03-29T02:14:28.408Z"
+generated_at: "2026-03-29T17:52:44.603Z"
 ---
 
 # § 133. Time for prosecuting application
 
-Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto.
+Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto, unless it be shown to the satisfaction of the Director that such delay was unavoidable.
 

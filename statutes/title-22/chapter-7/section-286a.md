@@ -3,15 +3,15 @@ title: "Section 286a - Appointments"
 usc_title: 22
 usc_section: "286a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 286a"
-generated_at: "2026-03-29T02:12:39.957Z"
+generated_at: "2026-03-29T17:52:10.412Z"
 ---
 
 # § 286a. Appointments
 
 - **(a)** The President, by and with the advice and consent of the Senate, shall appoint a governor of the Fund who shall also serve as a governor of the Bank, and an executive director of the Fund and an executive director of the Bank. The executive directors so appointed shall also serve as provisional executive directors of the Fund and the Bank for the purposes of the respective Articles of Agreement. The term of office for the governor of the Fund and of the Bank shall be five years. The term of office for the executive directors shall be two years, but the executive directors shall remain in office until their successors have been appointed.
-- **(b)** The President, by and with the advice and consent of the Senate, shall appoint an alternate for the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) for the governor and executive directors.
+- **(b)** The President, by and with the advice and consent of the Senate, shall appoint an alternate for the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) of this section for the governor and executive directors.
 - **(c)** Should the provisions of Schedule D of the Articles of Agreement of the Fund apply, the Governor of the Fund shall also serve as councillor, shall designate an alternate for the councillor, and may designate associates.
 - **(d)**
   - **(1)** No person shall be entitled to receive any salary or other compensation from the United States for services as a Governor, executive director, councillor, alternate, or associate.

@@ -3,15 +3,15 @@ title: "Section 773f - Civil penalties"
 usc_title: 16
 usc_section: "773f"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 773f"
-generated_at: "2026-03-29T02:11:53.666Z"
+generated_at: "2026-03-29T17:51:56.771Z"
 ---
 
 # § 773f. Civil penalties
 
 - **(a)** Any person who is found by the Secretary, after notice and opportunity for a hearing in accordance with section 554 of title 5 , to have committed an act prohibited by section 773e of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $200,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.
-- **(b)** Any person against whom a civil penalty is assessed under subsection (a) may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary and the Attorney General. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, in accordance with rules prescribed pursuant to section 2112 of title 28 . The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5 .
+- **(b)** Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary and the Attorney General. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, in accordance with rules prescribed pursuant to section 2112 of title 28 . The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5 .
 - **(c)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 - **(d)** The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section.
 - **(e)**

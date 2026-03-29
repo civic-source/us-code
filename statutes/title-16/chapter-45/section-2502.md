@@ -1,12 +1,14 @@
 ---
-title: "Section 2502 - Transferred"
+title: "Section 2502 - Congressional statement of purpose; complementary program authorization; terms and conditions"
 usc_title: 16
 usc_section: "2502"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2502"
-generated_at: "2026-03-29T02:11:53.861Z"
+generated_at: "2026-03-29T17:51:56.933Z"
 ---
 
-# § 2502. Transferred
+# § 2502. Congressional statement of purpose; complementary program authorization; terms and conditions
+
+The purpose of this chapter is to authorize the Secretary to establish an urban park and recreation recovery program which would provide Federal grants to economically hard-pressed communities specifically for the rehabilitation of critically needed recreation areas, facilities, and development of improved recreation programs. This program is intended to complement existing Federal programs such as the Land and Water Conservation Fund and Community Development Grant Programs by encouraging and stimulating local governments to revitalize their park and recreation systems and to make long-term commitments to continuing maintenance of these systems. Such assistance shall be subject to such terms and conditions as the Secretary considers appropriate and in the public interest to carry out the purposes of this chapter. It is further the purpose of this chapter to improve recreation facilities and expand recreation services in urban areas with a high incidence of crime and to help deter crime through the expansion of recreation opportunities for at-risk youth. It is the further purpose of this section 1 1 So in original. Probably should be “chapter”. to increase the security of urban parks and to promote collaboration between local agencies involved in parks and recreation, law enforcement, youth social services, and juvenile justice system.
 

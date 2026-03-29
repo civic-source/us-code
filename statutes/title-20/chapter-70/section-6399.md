@@ -3,9 +3,9 @@ title: "Section 6399 - Definitions"
 usc_title: 20
 usc_section: "6399"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6399"
-generated_at: "2026-03-29T02:12:17.449Z"
+generated_at: "2026-03-29T17:51:48.603Z"
 ---
 
 # § 6399. Definitions
@@ -14,15 +14,9 @@ As used in this part:
 
   - **(1)** The term “local operating agency” means—
     - **(A)** a local educational agency to which a State educational agency makes a subgrant under this part;
-    - **(B)** a public or private agency with which a State educational agency or the Secretary makes an arrangement to carry out a project under this part; or
+    - **(B)** a public or nonprofit private agency with which a State educational agency or the Secretary makes an arrangement to carry out a project under this part; or
     - **(C)** a State educational agency, if the State educational agency operates the State’s migrant education program or projects directly.
-  - **(2)** The term “migratory agricultural worker” means an individual who made a qualifying move in the preceding 36 months and, after doing so, engaged in new temporary or seasonal employment or personal subsistence in agriculture, which may be dairy work or the initial processing of raw agricultural products. If an individual did not engage in such new employment soon after a qualifying move, such individual may be considered a migratory agricultural worker if the individual actively sought such new employment and has a recent history of moves for temporary or seasonal agricultural employment.
-  - **(3)** The term “migratory child” means a child or youth who made a qualifying move in the preceding 36 months—
-    - **(A)** as a migratory agricultural worker or a migratory fisher; or
-    - **(B)** with, or to join, a parent or spouse who is a migratory agricultural worker or a migratory fisher.
-  - **(4)** The term “migratory fisher” means an individual who made a qualifying move in the preceding 36 months and, after doing so, engaged in new temporary or seasonal employment or personal subsistence in fishing. If the individual did not engage in such new employment soon after the move, the individual may be considered a migratory fisher if the individual actively sought such new employment and has a recent history of moves for temporary or seasonal fishing employment.
-  - **(5)** The term “qualifying move” means a move due to economic necessity—
-    - **(A)** from one residence to another residence; and
-    - **(B)** from one school district to another school district, except—
-      - **(i)** in the case of a State that is comprised of a single school district, wherein a qualifying move is from one administrative area to another within such district; or
-      - **(ii)** in the case of a school district of more than 15,000 square miles, wherein a qualifying move is a distance of 20 miles or more to a temporary residence.
+  - **(2)** The term “migratory child” means a child who is, or whose parent or spouse is, a migratory agricultural worker, including a migratory dairy worker, or a migratory fisher, and who, in the preceding 36 months, in order to obtain, or accompany such parent or spouse, in order to obtain, temporary or seasonal employment in agricultural or fishing work—
+    - **(A)** has moved from one school district to another;
+    - **(B)** in a State that is comprised of a single school district, has moved from one administrative area to another within such district; or
+    - **(C)** resides in a school district of more than 15,000 square miles, and migrates a distance of 20 miles or more to a temporary residence to engage in a fishing activity.

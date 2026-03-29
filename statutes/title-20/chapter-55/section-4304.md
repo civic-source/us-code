@@ -3,9 +3,9 @@ title: "Section 4304 - Laurent Clerc National Deaf Education Center"
 usc_title: 20
 usc_section: "4304"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 4304"
-generated_at: "2026-03-29T02:12:17.406Z"
+generated_at: "2026-03-29T17:51:48.556Z"
 ---
 
 # § 4304. Laurent Clerc National Deaf Education Center
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:12:17.406Z"
 - **(b)**
   - **(1)** The Clerc Center shall—
     - **(A)** provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
-    - **(B)** provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
+    - **(B)** provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
   - **(2)** To the extent possible, the Clerc Center shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act [ 20 U.S.C. 1418(a)(1) ]. Such educational environments shall include—
     - **(A)** regular classes;
     - **(B)** resource rooms;
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T02:12:17.406Z"
       - **(vi)** Subsections (k) through ( o ).
   - **(5)** The University, for purposes of the elementary and secondary education programs carried out at the Clerc Center, shall—
     - **(A)**
-      - **(i)** select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of this title and approved by the Secretary; and
-      - **(ii)** implement such standards and assessments for such programs by not later than the beginning of the 2016–2017 academic year;
-    - **(B)** adopt the accountability system, consistent with section 6311(c) of this title , of the State from which standards and assessments are selected under subparagraph (A)(i); and
-    - **(C)** publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and the results of the annual evaluation of the programs at the Clerc Center, as determined under subparagraph (B).
+      - **(i)** select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title and approved by the Secretary; and
+      - **(ii)** implement such standards and assessments for such programs by not later than the beginning of the 2009–2010 academic year;
+    - **(B)** annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title ) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and
+    - **(C)** publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and whether the programs at the Clerc Center are making adequate yearly progress, as determined under subparagraph (B).

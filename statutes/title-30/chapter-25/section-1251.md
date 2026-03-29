@@ -3,9 +3,9 @@ title: "Section 1251 - Environmental protection standards"
 usc_title: 30
 usc_section: "1251"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1251"
-generated_at: "2026-03-29T02:14:11.248Z"
+generated_at: "2026-03-29T17:52:16.755Z"
 ---
 
 # § 1251. Environmental protection standards
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T02:14:11.248Z"
     - **(A)** published proposed regulations in the Federal Register and afforded interested persons and State and local governments a period of not less than thirty days after such publication to submit written comments thereon;
     - **(B)** obtained the written concurrence of the Administrator of the Environmental Protection Agency with respect to those regulations promulgated under this section which relate to air or water quality standards promulgated under the authority of the Federal Water Pollution Control Act, as amended [ 33 U.S.C. 1251 et seq.]; and the Clean Air Act, as amended [ 42 U.S.C. 7401 et seq.]; and
     - **(C)** held at least one public hearing on the proposed regulations.
-- **(b)** Not later than one year after August 3, 1977 , the Secretary shall promulgate and publish in the Federal Register regulations covering a permanent regulatory procedure for surface coal mining and reclamation operations performance standards based on and conforming to the provisions of this subchapter and establishing procedures and requirements for preparation, submission, and approval of State programs; and development and implementation of Federal programs under the subchapter. The Secretary shall promulgate these regulations, which shall be concise and written in plain, understandable language in accordance with the procedures in subsection (a).
+- **(b)** Not later than one year after August 3, 1977 , the Secretary shall promulgate and publish in the Federal Register regulations covering a permanent regulatory procedure for surface coal mining and reclamation operations performance standards based on and conforming to the provisions of this subchapter and establishing procedures and requirements for preparation, submission, and approval of State programs; and development and implementation of Federal programs under the subchapter. The Secretary shall promulgate these regulations, which shall be concise and written in plain, understandable language in accordance with the procedures in subsection (a) of this section.

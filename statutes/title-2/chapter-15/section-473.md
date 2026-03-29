@@ -3,9 +3,9 @@ title: "Section 473 - Technology Assessment Board"
 usc_title: 2
 usc_section: "473"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 473"
-generated_at: "2026-03-29T02:09:53.675Z"
+generated_at: "2026-03-29T17:50:24.040Z"
 ---
 
 # § 473. Technology Assessment Board

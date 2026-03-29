@@ -3,9 +3,9 @@ title: "Section 6575 - Technical assistance"
 usc_title: 16
 usc_section: "6575"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6575"
-generated_at: "2026-03-29T02:11:53.971Z"
+generated_at: "2026-03-29T17:51:57.024Z"
 ---
 
 # § 6575. Technical assistance

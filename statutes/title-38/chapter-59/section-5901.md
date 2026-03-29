@@ -3,22 +3,12 @@ title: "Section 5901 - Prohibition against acting as claims agent or attorney"
 usc_title: 38
 usc_section: "5901"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 5901"
-generated_at: "2026-03-29T02:14:50.461Z"
+generated_at: "2026-03-29T17:52:53.812Z"
 ---
 
 # § 5901. Prohibition against acting as claims agent or attorney
 
-- **(a)** Except as provided by section 500 of title 5 , no individual may act as an agent or attorney in the preparation, presentation, or prosecution of any claim under laws administered by the Secretary unless such individual has been recognized for such purposes by the Secretary.
-- **(b)**
-  - **(1)** The Secretary shall ensure that, each time a claimant under a law administered by the Secretary logs in to a website or online tool of the Department, such website or online tool issues to the claimant, in plain language—
-    - **(A)** a warning about individuals who seek to act in violation of this chapter;
-    - **(B)** a link to an online tool of the Department through which the claimant may report such an individual;
-    - **(C)** a link to an online tool of the Department through which the claimant may search for a recognized agent, attorney, or other entity recognized by the Secretary for the preparation, presentation, or prosecution of any claim under laws administered by the Secretary; and
-    - **(D)** a link to a website or an online tool of the Department providing final decisions on discipline of agents, attorneys, and entities, described in subparagraph (C), by the Secretary for violations of this chapter.
-  - **(2)** The Secretary shall provide all information under paragraph (1) in the following languages:
-    - **(A)** English.
-    - **(B)** Spanish.
-    - **(C)** Tagalog.
-    - **(D)** The seven other languages most commonly spoken in the United States.
+Except as provided by section 500 of title 5 , no individual may act as an agent or attorney in the preparation, presentation, or prosecution of any claim under laws administered by the Secretary unless such individual has been recognized for such purposes by the Secretary.
+

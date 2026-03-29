@@ -3,9 +3,9 @@ title: "Section 8907 - Sanctions on persons responsible for violence or undermin
 usc_title: 22
 usc_section: "8907"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8907"
-generated_at: "2026-03-29T02:12:40.475Z"
+generated_at: "2026-03-29T17:52:10.732Z"
 ---
 
 # § 8907. Sanctions on persons responsible for violence or undermining the peace, security, stability, sovereignty, or territorial integrity of Ukraine
@@ -22,12 +22,9 @@ generated_at: "2026-03-29T02:12:40.475Z"
   - **(2)** A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
   - **(3)**
     - **(A)** The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
-    - **(B)** In this paragraph, the term “good” has the meaning given that term in section 4618 1 1 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
+    - **(B)** In this paragraph, the term “good” has the meaning given that term in section 2415 of title 50 , Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(4)** Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, or other applicable international obligations.
 - **(c)** The President may waive the application of sanctions under subsection (b) with respect to a person if the President—
   - **(1)** determines that such a waiver is in the national security interests of the United States; and
   - **(2)** on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
-- **(d)** Subject to section 9511 of this title , the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
-  - **(1)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
-  - **(2)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
-- **(e)** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+- **(d)** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.

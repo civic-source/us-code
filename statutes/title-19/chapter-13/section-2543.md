@@ -3,9 +3,9 @@ title: "Section 2543 - Representation of United States interests before internat
 usc_title: 19
 usc_section: "2543"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2543"
-generated_at: "2026-03-29T02:12:08.707Z"
+generated_at: "2026-03-29T17:51:51.299Z"
 ---
 
 # § 2543. Representation of United States interests before international standards organizations
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:08.707Z"
 - **(a)** The Secretary concerned shall—
   - **(1)** inform, and consult and coordinate with, the Trade Representative with respect to international standards-related activities identified under paragraph (2);
   - **(2)** keep adequately informed regarding international standards-related activities and identify those that may substantially affect the commerce of the United States; and
-  - **(3)** carry out such functions as are required under subsections (b) and (c).
+  - **(3)** carry out such functions as are required under subsections (b) and (c) of this section.
 - **(b)**
   - **(1)** For purposes of this subsection—
     - **(A)** The term “organization member” means the private person who holds membership in a private international standards organization.

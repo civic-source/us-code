@@ -3,19 +3,19 @@ title: "Section 645 - Adjustments"
 usc_title: 2
 usc_section: "645"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 645"
-generated_at: "2026-03-29T02:09:53.686Z"
+generated_at: "2026-03-29T17:50:24.048Z"
 ---
 
 # § 645. Adjustments
 
 - **(a)** After the reporting of a bill or joint resolution or the offering of an amendment thereto or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title .
-- **(b)** The adjustments made pursuant to subsection (a) for legislation shall—
+- **(b)** The adjustments made pursuant to subsection (a) of this section for legislation shall—
   - **(1)** apply while that legislation is under consideration;
   - **(2)** take effect upon the enactment of that legislation; and
   - **(3)** be published in the Congressional Record as soon as practicable.
-- **(c)** Following any adjustment made under subsection (a), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
+- **(c)** Following any adjustment made under subsection (a) of this section, the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under section 633(b) of this title to carry out this section.
 - **(d)**
   - **(1)** In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) 1 1 So in original. Probably should be preceded by the word “section”. of this title, the chair of the Committee on the Budget of the House of Representatives shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
   - **(2)**
@@ -30,20 +30,3 @@ generated_at: "2026-03-29T02:09:53.686Z"
   - **(4)** A point of order under paragraph (1) may be raised by a Senator as provided in section 644(e) of this title .
   - **(5)** When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a bill, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 - **(f)** It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.
-- **(g)**
-  - **(1)**
-    - **(A)** If the Committee on Appropriations of either House reports an appropriation measure for any of fiscal years 2022 through 2027 that provides budget authority for grants under section 506 of title 42 , or if a conference committee submits a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments referred to in subparagraph (B) to reflect the additional new budget authority provided for such grants in that measure or conference report and the outlays resulting therefrom, consistent with subparagraph (D).
-    - **(B)** The adjustments referred to in this subparagraph consist of adjustments to—
-      - **(i)** the discretionary spending limits for that fiscal year as set forth in the most recently adopted concurrent resolution on the budget;
-      - **(ii)** the allocations to the Committees on Appropriations of the Senate and the House of Representatives for that fiscal year under section 633(a) of this title ; and
-      - **(iii)** the appropriate budget aggregates for that fiscal year in the most recently adopted concurrent resolution on the budget.
-    - **(C)** The adjusted discretionary spending limits, allocations, and aggregates under this paragraph shall be considered the appropriate limits, allocations, and aggregates for purposes of congressional enforcement of this Act and concurrent budget resolutions under this Act.
-    - **(D)** No adjustment may be made under this subsection in excess of—
-      - **(i)** for fiscal year 2022, $133,000,000;
-      - **(ii)** for fiscal year 2023, $258,000,000;
-      - **(iii)** for fiscal year 2024, $433,000,000;
-      - **(iv)** for fiscal year 2025, $533,000,000;
-      - **(v)** for fiscal year 2026, $608,000,000; and
-      - **(vi)** for fiscal year 2027, $633,000,000.
-    - **(E)** As used in this subsection, the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation measure or conference report (as the case may be) and specified to pay for grants to States under section 506 of title 42 .
-  - **(2)** Following any adjustment made under paragraph (1), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations pursuant to section 633(b) of this title to carry out this subsection.

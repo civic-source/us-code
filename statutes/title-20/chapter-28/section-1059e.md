@@ -3,9 +3,9 @@ title: "Section 1059e - Predominantly Black Institutions"
 usc_title: 20
 usc_section: "1059e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1059e"
-generated_at: "2026-03-29T02:12:17.191Z"
+generated_at: "2026-03-29T17:51:48.333Z"
 ---
 
 # § 1059e. Predominantly Black Institutions
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:12:17.191Z"
     - **(D)** are first-generation college students and a majority of such first-generation college students are low-income individuals.
   - **(3)** The term “first-generation college student” has the meaning given the term in section 1070a–11(h) of this title .
   - **(4)** The term “low-income individual” has the meaning given such term in section 1070a–11(h) of this title .
-  - **(5)** The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV, in which eligibility for the program’s benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit.
+  - **(5)** The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program’s benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit.
   - **(6)** The term “Predominantly Black Institution” means an institution of higher education, as defined in section 1001(a) of this title —
     - **(A)** that is an eligible institution with not less than 1,000 undergraduate students;
     - **(B)** at which not less than 50 percent of the undergraduate students enrolled at the eligible institution are low-income individuals or first-generation college students; and
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T02:12:17.191Z"
 - **(d)**
   - **(1)** Grant funds provided under this section shall be used—
     - **(A)** to assist the Predominantly Black Institution to plan, develop, undertake, and implement programs to enhance the institution’s capacity to serve more low- and middle-income Black American students;
-    - **(B)** to expand higher education opportunities for students eligible to participate in programs under subchapter IV by encouraging college preparation and student persistence in secondary school and postsecondary education; and
+    - **(B)** to expand higher education opportunities for students eligible to participate in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 by encouraging college preparation and student persistence in secondary school and postsecondary education; and
     - **(C)** to strengthen the financial ability of the Predominantly Black Institution to serve the academic needs of the students described in subparagraphs (A) and (B).
   - **(2)** Grant funds provided under this section shall be used for one or more of the following activities:
     - **(A)** The activities described in paragraphs (1) through (12) of section 1057(c) of this title .

@@ -3,9 +3,9 @@ title: "Section 203 - Definitions"
 usc_title: 29
 usc_section: "203"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 203"
-generated_at: "2026-03-29T02:14:09.360Z"
+generated_at: "2026-03-29T17:52:18.753Z"
 ---
 
 # § 203. Definitions
@@ -25,7 +25,7 @@ As used in this chapter—
       - **(iii)** in any unit of the judicial branch of the Government which has positions in the competitive service,
       - **(iv)** in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces,
       - **(v)** in the Library of Congress, or
-      - **(vi)** the 1 1 So in original. Probably should be preceded by “in”. Government Publishing Office;
+      - **(vi)** the 1 1 So in original. Probably should be preceded by “in”. Government Printing Office;
     - **(B)** any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
     - **(C)** any individual employed by a State, political subdivision of a State, or an interstate governmental agency, other than such an individual—
       - **(i)** who is not subject to the civil service laws of the State, political subdivision, or agency which employs him; and
@@ -35,7 +35,7 @@ As used in this chapter—
         - **(III)** is appointed by such an officeholder to serve on a policymaking level,
         - **(IV)** is an immediate adviser to such an officeholder with respect to the constitutional or legal powers of his office, or
         - **(V)** is an employee in the legislative branch or legislative body of that State, political subdivision, or agency and is not employed by the legislative library of such State, political subdivision, or agency.
-  - **(3)** For purposes of subsection (u), such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer’s immediate family.
+  - **(3)** For purposes of subsection (u) of this section, such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer’s immediate family.
   - **(4)**
     - **(A)** The term “employee” does not include any individual who volunteers to perform services for a public agency which is a State, a political subdivision of a State, or an interstate governmental agency, if—
       - **(i)** the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered; and
@@ -49,13 +49,9 @@ As used in this chapter—
 - **(j)** “Produced” means produced, manufactured, mined, handled, or in any other manner worked on in any State; and for the purposes of this chapter an employee shall be deemed to have been engaged in the production of goods if such employee was employed in producing, manufacturing, mining, handling, transporting, or in any other manner working on such goods, or in any closely related process or occupation directly essential to the production thereof, in any State.
 - **(k)** “Sale” or “sell” includes any sale, exchange, contract to sell, consignment for sale, shipment for sale, or other disposition.
 - **(l)** “Oppressive child labor” means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
-- **(m)**
-  - **(1)** “Wage” paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: Provided , That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: Provided further , That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee.
-  - **(2)**
-    - **(A)** In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee’s employer shall be an amount equal to—
-      - **(i)** the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996 ; and
-      - **(ii)** an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in clause (i) and the wage in effect under section 206(a)(1) of this title .
-    - **(B)** An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portion of employees’ tips, regardless of whether or not the employer takes a tip credit.
+- **(m)** “Wage” paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: Provided , That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: Provided further , That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee. In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee’s employer shall be an amount equal to—
+  - **(1)** the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996 ; and
+  - **(2)** an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title .
 - **(n)** “Resale” shall not include the sale of goods to be used in residential or farm building construction, repair, or maintenance: Provided , That the sale is recognized as a bona fide retail sale in the industry.
 - **(o)** In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
 - **(p)** “American vessel” includes any vessel which is documented or numbered under the laws of the United States.

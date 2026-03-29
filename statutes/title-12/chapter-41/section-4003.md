@@ -3,9 +3,9 @@ title: "Section 4003 - Safeguard exceptions"
 usc_title: 12
 usc_section: "4003"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4003"
-generated_at: "2026-03-29T02:11:21.180Z"
+generated_at: "2026-03-29T17:51:13.213Z"
 ---
 
 # § 4003. Safeguard exceptions
@@ -25,13 +25,13 @@ generated_at: "2026-03-29T02:11:21.180Z"
   - **(2)** checks that have been returned unpaid and redeposited; and
   - **(3)** deposit accounts which have been overdrawn repeatedly.
 - **(c)**
-  - **(1)** In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f).
+  - **(1)** In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f) of this section.
   - **(2)** No determination under this subsection may be based on any class of checks or persons.
   - **(3)** If the receiving depository institution determines that a check deposited in an account is a check described in paragraph (1), the receiving depository institution shall not assess any fee for any subsequent overdraft with respect to such account, if—
-    - **(A)** the depositor was not provided with the written notice required under subsection (f) (with respect to such determination) at the time the deposit was made;
+    - **(A)** the depositor was not provided with the written notice required under subsection (f) of this section (with respect to such determination) at the time the deposit was made;
     - **(B)** the overdraft would not have occurred but for the fact that the funds so deposited are not available; and
     - **(C)** the amount of the check is collected from the originating depository institution.
-  - **(4)** Each agency referred to in section 4009(a) of this title shall monitor compliance with the requirements of this subsection in each regular examination of a depository institution and shall describe in each report to the Congress the extent to which this subsection is being complied with. For the purpose of this paragraph, each depository institution shall retain a record of each notice provided under subsection (f) as a result of the application of this subsection.
+  - **(4)** Each agency referred to in section 4009(a) of this title shall monitor compliance with the requirements of this subsection in each regular examination of a depository institution and shall describe in each report to the Congress the extent to which this subsection is being complied with. For the purpose of this paragraph, each depository institution shall retain a record of each notice provided under subsection (f) of this section as a result of the application of this subsection.
 - **(d)** Subject to such regulations as the Board, jointly with the Director of the Bureau of Consumer Financial Protection, may prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply to funds deposited by check in any receiving depository institution in the case of—
   - **(1)** any interruption of communication facilities;
   - **(2)** suspension of payments by another depository institution;
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T02:11:21.180Z"
       - **(ii)** evidence considered by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, in making the determination under paragraph (1) with respect to such regulation or order; and
       - **(iii)** specific examples of the check-related fraud giving rise to such regulation or order.
 - **(f)**
-  - **(1)** If any exception contained in this section (other than subsection (a)) applies with respect to funds deposited in an account at a depository institution—
+  - **(1)** If any exception contained in this section (other than subsection (a) of this section) applies with respect to funds deposited in an account at a depository institution—
     - **(A)** the depository institution shall provide notice in the manner provided in paragraph (2) of—
       - **(i)** the time period within which the funds shall be made available for withdrawal; and
       - **(ii)** the reason the exception was invoked; and
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T02:11:21.180Z"
   - **(2)** The notice required under paragraph (1)(A) with respect to a deposit to which an exception contained in this section applies shall be made by the time provided in the following subparagraphs:
     - **(A)** In the case of a deposit made in person by the depositor at the receiving depository institution, the depository institution shall immediately provide such notice in writing to the depositor.
     - **(B)** In the case of any other deposit (other than a deposit described in subparagraph (C)), the receiving depository institution shall mail the notice to the depositor not later than the close of the next business day following the business day on which the deposit is received.
-    - **(C)** In the case of a deposit to which subsection (d) or (e) applies, notice shall be provided by the depository institution in accordance with regulations of the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
-    - **(D)** In the case of a deposit to which subsection (b)(1) or (b)(2) applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
-    - **(E)** In the case of a deposit to which subsection (b)(3) applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
-  - **(3)** If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
+    - **(C)** In the case of a deposit to which subsection (d) or (e) of this section applies, notice shall be provided by the depository institution in accordance with regulations of the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
+    - **(D)** In the case of a deposit to which subsection (b)(1) or (b)(2) of this section applies, the depository institution may, for nonconsumer accounts and other classes of accounts, as defined by the Board, that generally have a large number of such deposits, provide notice at or before the time it first determines that the subsection applies.
+    - **(E)** In the case of a deposit to which subsection (b)(3) of this section applies, the depository institution may, subject to regulations of the Board, provide notice at the beginning of each time period it determines that the subsection applies. In addition to the requirements contained in paragraph (1)(A), the notice shall specify the time period for which the exception will apply.
+  - **(3)** If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.

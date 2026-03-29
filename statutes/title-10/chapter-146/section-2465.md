@@ -3,9 +3,9 @@ title: "Section 2465 - Prohibition on contracts for performance of firefighting 
 usc_title: 10
 usc_section: "2465"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2465"
-generated_at: "2026-03-29T02:10:45.104Z"
+generated_at: "2026-03-29T17:50:57.129Z"
 ---
 
 # § 2465. Prohibition on contracts for performance of firefighting or security-guard functions
@@ -15,6 +15,6 @@ generated_at: "2026-03-29T02:10:45.104Z"
   - **(1)** A contract to be carried out at a location outside the United States (including its commonwealths, territories, and possessions) at which members of the armed forces would have to be used for the performance of a function described in subsection (a) at the expense of unit readiness.
   - **(2)** A contract to be carried out on a Government-owned but privately operated installation.
   - **(3)** A contract (or the renewal of a contract) for the performance of a function under contract on September 24, 1983 .
-  - **(4)** A contract that is—
+  - **(4)** A contract for the performance of firefighting functions if the contract is—
     - **(A)** for a period of one year or less; and
-    - **(B)** covers the performance of functions that, in the absence of the contract, would have to be performed by members of the armed forces who are not readily available to perform such functions.
+    - **(B)** covers only the performance of firefighting functions that, in the absence of the contract, would have to be performed by members of the armed forces who are not readily available to perform such functions by reason of a deployment.

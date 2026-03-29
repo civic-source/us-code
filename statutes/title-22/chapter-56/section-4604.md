@@ -3,9 +3,9 @@ title: "Section 4604 - Powers and duties"
 usc_title: 22
 usc_section: "4604"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4604"
-generated_at: "2026-03-29T02:12:40.343Z"
+generated_at: "2026-03-29T17:52:10.628Z"
 ---
 
 # § 4604. Powers and duties
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T02:12:40.343Z"
     - **(A)** purchase, lease for purchase, or otherwise acquire, construct, improve, furnish, or maintain a suitable permanent headquarters, any related facility, or any site or sites for such facilities for the Institute and the legal entity described in section 4603(c) of this title ; or
     - **(B)** provide program-related hospitality, including such hospitality connected with the presentation of the Spark M. Matsunaga Medal of Peace.
 - **(i)** The Institute may charge and collect subscription fees and develop, for publication or other public communication, and disseminate, periodicals and other materials.
-- **(j)** The Institute may charge and collect fees and other participation costs from persons and institutions participating in the Institute’s direct activities authorized in subsection (b).
+- **(j)** The Institute may charge and collect fees and other participation costs from persons and institutions participating in the Institute’s direct activities authorized in subsection (b) of this section.
 - **(k)** The Institute may sue and be sued, complain, and defend in any court of competent jurisdiction.
 - **(l)** The Institute may adopt, alter, use, and display a corporate seal, emblem, badge, and other mark of recognition and colorable simulations thereof.
 - **(m)** The Institute may do any and all lawful acts and things necessary or desirable to carry out the objectives and purposes of this chapter.

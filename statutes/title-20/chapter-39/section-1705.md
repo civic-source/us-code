@@ -3,9 +3,9 @@ title: "Section 1705 - Assignment on neighborhood basis not a denial of equal ed
 usc_title: 20
 usc_section: "1705"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1705"
-generated_at: "2026-03-29T02:12:17.372Z"
+generated_at: "2026-03-29T17:51:48.520Z"
 ---
 
 # § 1705. Assignment on neighborhood basis not a denial of equal educational opportunity

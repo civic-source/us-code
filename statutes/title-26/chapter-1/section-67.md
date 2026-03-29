@@ -3,9 +3,9 @@ title: "Section 67 - 2-percent floor on miscellaneous itemized deductions"
 usc_title: 26
 usc_section: "67"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 67"
-generated_at: "2026-03-29T02:14:00.777Z"
+generated_at: "2026-03-29T17:52:39.114Z"
 ---
 
 # § 67. 2-percent floor on miscellaneous itemized deductions
@@ -22,9 +22,8 @@ generated_at: "2026-03-29T02:14:00.777Z"
   - **(8)** any deduction allowable in connection with personal property used in a short sale,
   - **(9)** the deduction under section 1341 (relating to computation of tax where taxpayer restores substantial amount held under claim of right),
   - **(10)** the deduction under section 72(b)(3) (relating to deduction where annuity payments cease before investment recovered),
-  - **(11)** the deduction under section 171 (relating to deduction for amortizable bond premium),
-  - **(12)** the deduction under section 216 (relating to deductions in connection with cooperative housing corporations), and
-  - **(13)** the deductions allowed by section 162 for educator expenses (as defined in subsection (g)).
+  - **(11)** the deduction under section 171 (relating to deduction for amortizable bond premium), and
+  - **(12)** the deduction under section 216 (relating to deductions in connection with cooperative housing corporations).
 - **(c)**
   - **(1)** The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection.
   - **(2)**
@@ -45,10 +44,3 @@ generated_at: "2026-03-29T02:14:00.777Z"
   - **(1)** the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and which would not have been incurred if the property were not held in such trust or estate, and
   - **(2)** the deductions allowable under sections 642(b), 651, and 661,
 - **(f)** This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
-- **(g)** For purposes of subsection (b)(13), the term “educator expenses” means expenses of a type which would be described in section 62(a)(2)(D) if—
-  - **(1)** such section were applied—
-    - **(A)** without regard to the dollar limitation,
-    - **(B)** without regard to “(other than nonathletic supplies for courses of instruction in health or physical education)” in clause (ii) thereof, and
-    - **(C)** by substituting “as part of instructional activity” for “in the classroom” in clause (ii) thereof, and
-  - **(2)** section 62(d)(1)(A) were applied by inserting “, interscholastic sports administrator or coach,” after “counselor”
-- **(h)** Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017 .

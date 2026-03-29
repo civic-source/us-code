@@ -3,9 +3,9 @@ title: "Section 1183a - Requirements for sponsor’s affidavit of support"
 usc_title: 8
 usc_section: "1183a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1183a"
-generated_at: "2026-03-29T02:10:21.411Z"
+generated_at: "2026-03-29T17:50:41.323Z"
 ---
 
 # § 1183a. Requirements for sponsor’s affidavit of support
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T02:10:21.411Z"
 - **(a)**
   - **(1)** No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) of this title unless such affidavit is executed by a sponsor of the alien as a contract—
     - **(A)** in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
-    - **(B)** that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) 1 1 See References in Text note below. ), consistent with the provisions of this section; and
-    - **(C)** in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2).
+    - **(B)** that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) 1 1 See References in Text note below. of this section), consistent with the provisions of this section; and
+    - **(C)** in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
   - **(2)** An affidavit of support shall be enforceable with respect to benefits provided for an alien before the date the alien is naturalized as a citizen of the United States, or, if earlier, the termination date provided under paragraph (3).
   - **(3)**
     - **(A)** An affidavit of support is not enforceable after such time as the alien (i) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act [ 42 U.S.C. 401 et seq.] or can be credited with such qualifying quarters as provided under subparagraph (B), and (ii) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996 , did not receive any Federal means-tested public benefit (as provided under section 1613 of this title ) during any such period.
@@ -37,9 +37,9 @@ generated_at: "2026-03-29T02:10:21.411Z"
   - **(2)** Any person subject to the requirement of paragraph (1) who fails to satisfy such requirement shall, after notice and opportunity to be heard, be subject to a civil penalty of—
     - **(A)** not less than $250 or more than $2,000, or
     - **(B)** if such failure occurs with knowledge that the sponsored alien has received any means-tested public benefits (other than benefits described in section 1611(b), 1613(c)(2), or 1621(b) of this title) not less than $2,000 or more than $5,000.
-- **(e)** An action to enforce an affidavit of support executed under subsection (a) may be brought against the sponsor in any appropriate court—
+- **(e)** An action to enforce an affidavit of support executed under subsection (a) of this section may be brought against the sponsor in any appropriate court—
   - **(1)** by a sponsored alien, with respect to financial support; or
-  - **(2)** by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2), with respect to reimbursement.
+  - **(2)** by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2) of this section, with respect to reimbursement.
 - **(f)**
   - **(1)** For purposes of this section the term “sponsor” in relation to a sponsored alien means an individual who executes an affidavit of support with respect to the sponsored alien and who—
     - **(A)** is a citizen or national of the United States or an alien who is lawfully admitted to the United States for permanent residence;

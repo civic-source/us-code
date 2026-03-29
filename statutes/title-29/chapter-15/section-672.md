@@ -3,9 +3,9 @@ title: "Section 672 - Grants to States"
 usc_title: 29
 usc_section: "672"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 672"
-generated_at: "2026-03-29T02:14:09.380Z"
+generated_at: "2026-03-29T17:52:18.776Z"
 ---
 
 # § 672. Grants to States
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T02:14:09.380Z"
 - **(d)** Any State agency designated by the Governor of the State desiring a grant under this section shall submit an application therefor to the Secretary.
 - **(e)** The Secretary shall review the application, and shall, after consultation with the Secretary of Health and Human Services, approve or reject such application.
 - **(f)** The Federal share for each State grant under subsection (a) or (b) of this section may not exceed 90 per centum of the total cost of the application. In the event the Federal share for all States under either such subsection is not the same, the differences among the States shall be established on the basis of objective criteria.
-- **(g)** The Secretary is authorized to make grants to the States to assist them in administering and enforcing programs for occupational safety and health contained in State plans approved by the Secretary pursuant to section 667 of this title . The Federal share for each State grant under this subsection may not exceed 50 per centum of the total cost to the State of such a program. The last sentence of subsection (f) shall be applicable in determining the Federal share under this subsection.
+- **(g)** The Secretary is authorized to make grants to the States to assist them in administering and enforcing programs for occupational safety and health contained in State plans approved by the Secretary pursuant to section 667 of this title . The Federal share for each State grant under this subsection may not exceed 50 per centum of the total cost to the State of such a program. The last sentence of subsection (f) of this section shall be applicable in determining the Federal share under this subsection.
 - **(h)** Prior to June 30, 1973 , the Secretary shall, after consultation with the Secretary of Health and Human Services, transmit a report to the President and to the Congress, describing the experience under the grant programs authorized by this section and making any recommendations he may deem appropriate.

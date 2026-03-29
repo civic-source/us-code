@@ -3,9 +3,9 @@ title: "Section 856 - Definition of real estate investment trust"
 usc_title: 26
 usc_section: "856"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 856"
-generated_at: "2026-03-29T02:14:01.050Z"
+generated_at: "2026-03-29T17:52:39.303Z"
 ---
 
 # § 856. Definition of real estate investment trust
@@ -39,21 +39,20 @@ generated_at: "2026-03-29T02:14:01.050Z"
     - **(E)** abatements and refunds of taxes on real property;
     - **(F)** income and gain derived from foreclosure property (as defined in subsection (e));
     - **(G)** amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchase or lease real property (including interests in real property and interests in mortgages on real property);
-    - **(H)** gain from the sale or other disposition of a real estate asset (other than a nonqualified publicly offered REIT debt instrument) which is not a prohibited transaction solely by reason of section 857(b)(6); and
+    - **(H)** gain from the sale or other disposition of a real estate asset which is not a prohibited transaction solely by reason of section 857(b)(6); and
     - **(I)** qualified temporary investment income; and
   - **(4)** at the close of each quarter of the taxable year—
     - **(A)** at least 75 percent of the value of its total assets is represented by real estate assets, cash and cash items (including receivables), and Government securities; and
     - **(B)**
       - **(i)** not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)),
-      - **(ii)** not more than 25 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries,
-      - **(iii)** not more than 25 percent of the value of its total assets is represented by nonqualified publicly offered REIT debt instruments, and
-      - **(iv)** except with respect to a taxable REIT subsidiary and securities includible under subparagraph (A)—
+      - **(ii)** not more than 25 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries, 1 1 So in original. Probably should be followed by “and”.
+      - **(iii)** except with respect to a taxable REIT subsidiary and securities includible under subparagraph (A)—
         - **(I)** not more than 5 percent of the value of its total assets is represented by securities of any one issuer,
         - **(II)** the trust does not hold securities possessing more than 10 percent of the total voting power of the outstanding securities of any one issuer, and
         - **(III)** the trust does not hold securities having a value of more than 10 percent of the total value of the outstanding securities of any one issuer.
   - **(5)** For purposes of this part—
     - **(A)** The term “value” means, with respect to securities for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the trustees, except that in the case of securities of real estate investment trusts such fair value shall not exceed market value or asset value, whichever is higher.
-    - **(B)** The term “real estate assets” means real property (including interests in real property and interests in mortgages on real property or on interests in real property), shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part, and debt instruments issued by publicly offered REITs. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
+    - **(B)** The term “real estate assets” means real property (including interests in real property and interests in mortgages on real property) and shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
     - **(C)** The term “interests in real property” includes fee ownership and co-ownership of land or improvements thereon, leaseholds of land or improvements thereon, options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon, but does not include mineral, oil, or gas royalty interests.
     - **(D)**
       - **(i)** The term “qualified temporary investment income” means any income which—
@@ -66,13 +65,8 @@ generated_at: "2026-03-29T02:14:01.050Z"
     - **(E)** A regular or residual interest in a REMIC shall be treated as a real estate asset, and any amount includible in gross income with respect to such an interest shall be treated as interest on an obligation secured by a mortgage on real property; except that, if less than 95 percent of the assets of such REMIC are real estate assets (determined as if the real estate investment trust held such assets), such real estate investment trust shall be treated as holding directly (and as receiving directly) its proportionate share of the assets and income of the REMIC. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest held by such REMIC in another REMIC shall be treated as a real estate asset under principles similar to the principles of the preceding sentence, except that, if such REMIC’s are part of a tiered structure, they shall be treated as one REMIC for purposes of this subparagraph.
     - **(F)** All other terms shall have the same meaning as when used in the Investment Company Act of 1940, as amended ( 15 U.S.C. 80a–1 and following).
     - **(G)** Except to the extent as determined by the Secretary—
-      - **(i)** any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraphs (2) and (3) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets,
-      - **(ii)** any income of a real estate investment trust from a transaction entered into by the trust primarily to manage risk of currency fluctuations with respect to any item of income or gain described in paragraph (2) or (3) (or any property which generates such income or gain), including gain from the termination of such a transaction, shall not constitute gross income under paragraphs (2) and (3),
-      - **(iii)** if—
-        - **(I)** a real estate investment trust enters into one or more positions described in clause (i) with respect to indebtedness described in clause (i) or one or more positions described in clause (ii) with respect to property which generates income or gain described in paragraph (2) or (3),
-        - **(II)** any portion of such indebtedness is extinguished or any portion of such property is disposed of, and
-        - **(III)** in connection with such extinguishment or disposition, such trust enters into one or more transactions which would be hedging transactions described in clause (ii) or (iii) of section 1221(b)(2)(A) with respect to any position referred to in subclause (I) if such position were ordinary property,
-      - **(iv)** clauses (i), (ii), and (iii) shall not apply with respect to any transaction unless such transaction satisfies the identification requirement described in section 1221(a)(7) (determined after taking into account any curative provisions provided under the regulations referred to therein).
+      - **(i)** any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraphs (2) and (3) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and
+      - **(ii)** any income of a real estate investment trust from a transaction entered into by the trust primarily to manage risk of currency fluctuations with respect to any item of income or gain described in paragraph (2) or (3) (or any property which generates such income or gain), including gain from the termination of such a transaction, shall not constitute gross income under paragraphs (2) and (3), but only if such transaction is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may prescribe).
     - **(H)**
       - **(i)** Gain from the sale of real property described in paragraph (2)(D) and (3)(C) shall include gain which is—
         - **(I)** recognized by an election under section 631(a) from timber owned by the real estate investment trust, the cutting of which is provided by a taxable REIT subsidiary of the real estate investment trust;
@@ -89,20 +83,17 @@ generated_at: "2026-03-29T02:14:01.050Z"
     - **(K)** If the real estate investment trust or its qualified business unit (as defined in section 989) uses any foreign currency as its functional currency (as defined in section 985(b)), the term “cash” includes such foreign currency but only to the extent such foreign currency—
       - **(i)** is held for use in the normal course of the activities of the trust or qualified business unit which give rise to items of income or gain described in paragraph (2) or (3) of subsection (c) or are directly related to acquiring or holding assets described in subsection (c)(4), and
       - **(ii)** is not held in connection with an activity described in subsection (n)(4).
-    - **(L)**
-      - **(i)** The term “publicly offered REIT” has the meaning given such term by section 562(c)(2).
-      - **(ii)** The term “nonqualified publicly offered REIT debt instrument” means any real estate asset which would cease to be a real estate asset if subparagraph (B) were applied without regard to the reference to “debt instruments issued by publicly offered REITs”.
   - **(6)** A corporation, trust, or association which fails to meet the requirements of paragraph (2) or (3), or of both such paragraphs, for any taxable year shall nevertheless be considered to have satisfied the requirements of such paragraphs for such taxable year if—
     - **(A)** following the corporation, trust, or association’s identification of the failure to meet the requirements of paragraph (2) or (3), or of both such paragraphs, for any taxable year, a description of each item of its gross income described in such paragraphs is set forth in a schedule for such taxable year filed in accordance with regulations prescribed by the Secretary, and
     - **(B)** the failure to meet the requirements of paragraph (2) or (3), or of both such paragraphs, is due to reasonable cause and not due to willful neglect.
   - **(7)**
-    - **(A)** A corporation, trust, or association that fails to meet the requirements of paragraph (4) (other than a failure to meet the requirements of paragraph (4)(B)(iv) which is described in subparagraph (B)(i) of this paragraph) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
+    - **(A)** A corporation, trust, or association that fails to meet the requirements of paragraph (4) (other than a failure to meet the requirements of paragraph (4)(B)(iii) which is described in subparagraph (B)(i) of this paragraph) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
       - **(i)** following the corporation, trust, or association’s identification of the failure to satisfy the requirements of such paragraph for a particular quarter, a description of each asset that causes the corporation, trust, or association to fail to satisfy the requirements of such paragraph at the close of such quarter of any taxable year is set forth in a schedule for such quarter filed in accordance with regulations prescribed by the Secretary,
       - **(ii)** the failure to meet the requirements of such paragraph for a particular quarter is due to reasonable cause and not due to willful neglect, and
       - **(iii)**
         - **(I)** the corporation, trust, or association disposes of the assets set forth on the schedule specified in clause (i) within 6 months after the last day of the quarter in which the corporation, trust or association’s identification of the failure to satisfy the requirements of such paragraph occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
         - **(II)** the requirements of such paragraph are otherwise met within the time period specified in subclause (I).
-    - **(B)** A corporation, trust, or association that fails to meet the requirements of paragraph (4)(B)(iv) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
+    - **(B)** A corporation, trust, or association that fails to meet the requirements of paragraph (4)(B)(iii) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
       - **(i)** such failure is due to the ownership of assets the total value of which does not exceed the lesser of—
         - **(I)** 1 percent of the total value of the trust’s assets at the end of the quarter for which such measurement is done, and
         - **(II)** $10,000,000, and
@@ -115,23 +106,7 @@ generated_at: "2026-03-29T02:14:01.050Z"
         - **(II)** the amount determined (pursuant to regulations promulgated by the Secretary) by multiplying the net income generated by the assets described in the schedule specified in subparagraph (A)(i) for the period specified in clause (ii) by the highest rate of tax specified in section 11.
       - **(ii)** For purposes of clause (i)(II), the period described in this clause is the period beginning on the first date that the failure to satisfy the requirements of such paragraph (4) occurs as a result of the ownership of such assets and ending on the earlier of the date on which the trust disposes of such assets or the end of the first quarter when there is no longer a failure to satisfy such paragraph (4).
       - **(iii)** For purposes of subtitle F, the taxes imposed by this subparagraph shall be treated as excise taxes with respect to which the deficiency procedures of such subtitle apply.
-  - **(8)** If a corporation was a distributing corporation or a controlled corporation (other than a controlled corporation with respect to a distribution described in section 355(h)(2)(A)) with respect to any distribution to which section 355 (or so much of section 356 as relates to section 355) applied, such corporation (and any successor corporation) shall not be eligible to make any election under paragraph (1) for any taxable year beginning before the end of the 10-year period beginning on the date of such distribution.
-  - **(9)**
-    - **(A)**
-      - **(i)** Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
-      - **(ii)** If—
-        - **(I)** personal property is leased under, or in connection with, a lease of real property, for a period of not less than 1 year, and rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C),
-        - **(II)** any portion of such personal property and any portion of such real property are sold, or otherwise disposed of, in a single disposition (or contemporaneously in separate dispositions), and
-        - **(III)** the fair market value of the personal property so sold or contemporaneously disposed of (determined at the time of disposition) does not exceed 15 percent of the total fair market value of all of the personal and real property so sold or contemporaneously disposed of (determined at the time of disposition),
-    - **(B)**
-      - **(i)** In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
-        - **(I)** for purposes of paragraph (3)(B), as an obligation described therein,
-        - **(II)** for purposes of paragraph (4)(A), as a real estate asset, and
-        - **(III)** for purposes of paragraphs (2)(D) and (3)(C), as a mortgage on real property.
-      - **(ii)**
-        - **(I)** Except as provided in subclause (II), the fair market value of all such property shall be determined for purposes of clause (i) in the same manner as the fair market value of real property is determined for purposes of apportioning interest income between real property and personal property under paragraph (3)(B).
-        - **(II)** For purposes of applying clause (i)(III), fair market value shall be determined at the time of sale or other disposition.
-  - **(10)** For purposes of this subsection, the term “termination date” means, with respect to any taxpayer, the last day of the taxpayer’s first taxable year beginning after the date of the enactment of this paragraph and before the date that is 1 year after such date of enactment.
+  - **(8)** For purposes of this subsection, the term “termination date” means, with respect to any taxpayer, the last day of the taxpayer’s first taxable year beginning after the date of the enactment of this paragraph and before the date that is 1 year after such date of enactment.
 - **(d)**
   - **(1)** For purposes of paragraphs (2) and (3) of subsection (c), the term “rents from real property” includes (subject to paragraph (2))—
     - **(A)** rents from interests in real property,
@@ -210,7 +185,7 @@ generated_at: "2026-03-29T02:14:01.050Z"
   - **(4)** Any foreclosure property shall cease to be such on the first day (occurring on or after the day on which the real estate investment trust acquired the property) on which—
     - **(A)** a lease is entered into with respect to such property which, by its terms, will give rise to income which is not described in subsection (c)(3) (other than subparagraph (F) of such subsection), or any amount is received or accrued, directly or indirectly, pursuant to a lease entered into on or after such day which is not described in such subsection,
     - **(B)** any construction takes place on such property (other than completion of a building, or completion of any other improvement, where more than 10 percent of the construction of such building or other improvement was completed before default became imminent), or
-    - **(C)** if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom the trust itself does not derive or receive any income or through a taxable REIT subsidiary).
+    - **(C)** if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom the trust itself does not derive or receive any income).
   - **(5)** Property shall be treated as foreclosure property for purposes of this part only if the real estate investment trust so elects (in the manner provided in regulations prescribed by the Secretary) on or before the due date (including any extensions of time) for filing its return of tax under this chapter for the taxable year in which such trust acquires such property. A real estate investment trust may revoke any such election for a taxable year by filing the revocation (in the manner provided by the Secretary) on or before the due date (including any extension of time) for filing its return of tax under this chapter for the taxable year. If a trust revokes an election for any property, no election may be made by the trust under this paragraph with respect to the property for any subsequent taxable year.
   - **(6)** For purposes of this subsection—
     - **(A)** The term “foreclosure property” shall include any qualified health care property acquired by a real estate investment trust as the result of the termination of a lease of such property (other than a termination by reason of a default, or the imminence of a default, on the lease).
@@ -311,7 +286,7 @@ generated_at: "2026-03-29T02:14:01.050Z"
     - **(A)** The term “lodging facility” has the meaning given to such term by subsection (d)(9)(D)(ii).
     - **(B)** The term “health care facility” has the meaning given to such term by subsection (e)(6)(D)(ii).
 - **(m)**
-  - **(1)** In applying subclause (III) of subsection (c)(4)(B)(iv), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
+  - **(1)** In applying subclause (III) of subsection (c)(4)(B)(iii), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
     - **(A)** Straight debt securities of an issuer which meet the requirements of paragraph (2).
     - **(B)** Any loan to an individual or an estate.
     - **(C)** Any section 467 rental agreement (as defined in section 467(d)), other than with a person described in subsection (d)(2)(B).
@@ -330,16 +305,22 @@ generated_at: "2026-03-29T02:14:01.050Z"
       - **(i)** are not described in paragraph (1) (prior to the application of this subparagraph), and
       - **(ii)** have an aggregate value greater than 1 percent of the issuer’s outstanding securities determined without regard to paragraph (3)(A)(i).
   - **(3)**
-    - **(A)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iv)—
+    - **(A)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
       - **(i)** a trust’s interest as a partner in a partnership (as defined in section 7701(a)(2)) shall not be considered a security, and
       - **(ii)** the trust shall be deemed to own its proportionate share of each of the assets of the partnership.
     - **(B)** For purposes of subparagraph (A), with respect to any taxable year beginning after the date of the enactment of this subparagraph—
       - **(i)** the trust’s interest in the partnership assets shall be the trust’s proportionate interest in any securities issued by the partnership (determined without regard to subparagraph (A)(i) and paragraph (4), but not including securities described in paragraph (1)), and
       - **(ii)** the value of any debt instrument shall be the adjusted issue price thereof, as defined in section 1272(a)(4).
-  - **(4)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iv)—
+  - **(4)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
     - **(A)** any debt instrument issued by a partnership and not described in paragraph (1) shall not be considered a security to the extent of the trust’s interest as a partner in the partnership, and
     - **(B)** any debt instrument issued by a partnership and not described in paragraph (1) shall not be considered a security if at least 75 percent of the partnership’s gross income (excluding gross income from prohibited transactions) is derived from sources referred to in subsection (c)(3).
-  - **(5)** The Secretary is authorized to provide guidance (including through the issuance of a written determination, as defined in section 6110(b)) that an arrangement shall not be considered a security held by the trust for purposes of applying subclause (III) of subsection (c)(4)(B)(iv) notwithstanding that such arrangement otherwise could be considered a security under subparagraph (F) of subsection (c)(5).
+  - **(5)** The Secretary is authorized to provide guidance (including through the issuance of a written determination, as defined in section 6110(b)) that an arrangement shall not be considered a security held by the trust for purposes of applying subclause (III) of subsection (c)(4)(B)(iii) notwithstanding that such arrangement otherwise could be considered a security under subparagraph (F) of subsection (c)(5).
+  - **(6)**
+    - **(A)** Notwithstanding paragraph (2)(C), securities held by a trust shall not be considered securities held by the trust for purposes of subsection (c)(4)(B)(iii)(III) during any period beginning on or before October 22, 2004 , if such securities—
+      - **(i)** are held by such trust continuously during such period, and
+      - **(ii)** would not be taken into account for purposes of such subsection by reason of paragraph (7)(C) of subsection (c) (as in effect on October 22, 2004 ) if the amendments made by section 243 of the American Jobs Creation Act of 2004 had never been enacted.
+    - **(B)** Subparagraph (A) shall not apply with respect to any security after the later of October 22, 2004 , or the latest maturity date under the contract (as in effect on October 22, 2004 ) taking into account any renewal or extension permitted under the contract if such renewal or extension does not significantly modify any other terms of the contract.
+    - **(C)** If the successor of a trust to which this paragraph applies acquires securities in a transaction to which section 381 applies, such trusts shall be treated as a single entity for purposes of determining the holding period of such securities under subparagraph (A).
 - **(n)**
   - **(1)** For purposes of this part—
     - **(A)** passive foreign exchange gain for any taxable year shall not constitute gross income for purposes of subsection (c)(2), and

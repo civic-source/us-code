@@ -3,9 +3,9 @@ title: "Section 2878 - Conveyance or lease of existing property and facilities"
 usc_title: 10
 usc_section: "2878"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2878"
-generated_at: "2026-03-29T02:10:45.160Z"
+generated_at: "2026-03-29T17:50:57.173Z"
 ---
 
 # § 2878. Conveyance or lease of existing property and facilities
@@ -21,22 +21,3 @@ generated_at: "2026-03-29T02:10:45.160Z"
   - **(2)** Subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
   - **(3)** Section 1302 of title 40 .
   - **(4)** Section 501 of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11411 ).
-- **(f)**
-  - **(1)** The Secretary concerned shall provide to the congressional defense committees notice in writing and a briefing—
-    - **(A)** not later than 60 days after beginning negotiations with a lessor for the extension of the term of any ground lease of property or facilities under this section; and
-    - **(B)** not later than 90 days before extending the term of any ground lease of property or facilities under this section.
-  - **(2)** A notice and briefing required under paragraph (1) shall include each of the following:
-    - **(A)** A description of any material differences between the extended ground lease and the original ground lease, including with respect to—
-      - **(i)** the length of the term of the lease, as extended; and
-      - **(ii)** any new provisions that materially affect the rights and responsibilities of the ground lessor or the ground lessee under the original ground lease.
-    - **(B)** The number of housing units or facilities subject to the ground lease that, during the lease extension, are to be—
-      - **(i)** constructed;
-      - **(ii)** demolished; or
-      - **(iii)** renovated.
-    - **(C)** The source of any additional financing the lessor has obtained, or intends to obtain, during the term of the ground lease extension that will be used for the development of the property or facilities subject to the ground lease.
-    - **(D)** The following information, displayed annually, for the five-year period preceding the date of the notice and briefing:
-      - **(i)** The debt-to-net operating income ratio for the property or facility subject to the ground lease.
-      - **(ii)** The occupancy rates for the housing units subject to the ground lease.
-      - **(iii)** A report on maintenance response times and completion of maintenance requests for the housing units subject to the ground lease.
-      - **(iv)** The occupancy rates and debt-to-net operating income ratios of any other military privatized housing initiative projects managed by a company that controls, or that is under common control with, the ground lessee entering into the lease extension.
-    - **(E)** An assessment of compliance by the lessor with the Military Housing Privatization Initiative Tenant Bill of Rights developed under section 2890 of this title .

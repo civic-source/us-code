@@ -3,14 +3,14 @@ title: "Section 892b - Quality assurance program"
 usc_title: 33
 usc_section: "892b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 892b"
-generated_at: "2026-03-29T02:14:18.523Z"
+generated_at: "2026-03-29T17:52:45.921Z"
 ---
 
 # § 892b. Quality assurance program
 
-- **(a)** For purposes of this section, the term “hydrographic product” means any publicly or commercially available product or service produced or disseminated by a non-Federal entity that includes or displays hydrographic data.
+- **(a)** For purposes of this section, the term “hydrographic product” means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
 - **(b)**
   - **(1)** The Administrator—
     - **(A)** by not later than 2 years after December 19, 2002 , shall, subject to the availability of appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title ;
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:14:18.523Z"
 - **(d)**
   - **(1)** There is established in the Treasury a separate account, which shall be known as the “Hydrographic Services Account”.
   - **(2)** The account shall consist of—
-    - **(A)** amounts received by the United States as fees charged under subsection (b)(1)(C); and
+    - **(A)** amounts received by the United States as fees charged under subsection (b)(1)(C) of this section; and
     - **(B)** such other amounts as may be provided by law.
   - **(3)** Amounts in the account shall be available to the Administrator, without further appropriation, for hydrographic services.
 - **(e)** After November 13, 1998 , the Administrator may not—

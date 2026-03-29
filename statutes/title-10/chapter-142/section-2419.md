@@ -1,12 +1,14 @@
 ---
-title: "Section 2419 - Renumbered § 4959]"
+title: "Section 2419 - Regulations"
 usc_title: 10
 usc_section: "2419"
 chapter: 142
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2419"
-generated_at: "2026-03-29T02:10:45.101Z"
+generated_at: "2026-03-29T17:50:57.122Z"
 ---
 
-# [§ 2419. Renumbered § 4959]
+# § 2419. Regulations
+
+The Secretary of Defense shall prescribe regulations to carry out this chapter.
 

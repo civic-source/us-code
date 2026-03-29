@@ -3,9 +3,9 @@ title: "Section 6407 - Required terms in orders"
 usc_title: 7
 usc_section: "6407"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6407"
-generated_at: "2026-03-29T02:10:17.074Z"
+generated_at: "2026-03-29T17:50:48.815Z"
 ---
 
 # § 6407. Required terms in orders
@@ -25,12 +25,12 @@ generated_at: "2026-03-29T02:10:17.074Z"
   - **(4)** to develop and recommend such rules, regulations, and amendments to the order to the Secretary for approval as may be necessary for the development and execution of programs or projects to carry out the order;
   - **(5)** to employ such persons as the Board considers necessary and determine the compensation and define the duties of the persons;
   - **(6)** to prepare and submit for the approval of the Secretary, prior to the beginning of each fiscal year, a fiscal year budget of the anticipated expenses in the administration of the order, including the probable costs of all programs and projects;
-  - **(7)** to develop programs and projects, subject to subsection (d);
+  - **(7)** to develop programs and projects, subject to subsection (d) of this section;
   - **(8)** to enter into contracts or agreements, with the approval of the Secretary, to develop and carry out programs or projects of research and advertising;
   - **(9)** to carry out advertising or research, and pay the costs of the projects with funds collected pursuant to section 6409 of this title ;
   - **(10)** to keep minutes, books, and records that reflect all of the acts and transactions of the Board, and promptly report minutes of each Board meeting to the Secretary;
   - **(11)** to furnish the Secretary with such other information as the Secretary may require; and
-  - **(12)** to invest funds collected by the Board pursuant to subsection (g).
+  - **(12)** to invest funds collected by the Board pursuant to subsection (g) of this section.
 - **(d)**
   - **(1)** The order shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of the fiscal year, to develop budgets of the anticipated expenses and disbursements of the Board in the implementation of the order, including projected costs of research and advertising. The budget shall be submitted to the Secretary and be effective on the approval of the Secretary.
   - **(2)** The Board may incur such expenses for research or advertising of fluid milk products, and other expenses for the administration, maintenance, and functioning of the Board, as may be authorized by the Secretary. The expenses shall include any implementation, administrative, and referendum costs incurred by the Department.

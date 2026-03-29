@@ -3,9 +3,9 @@ title: "Section 545b - Opal Creek Wilderness and Scenic Recreation Area"
 usc_title: 16
 usc_section: "545b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 545b"
-generated_at: "2026-03-29T02:11:53.600Z"
+generated_at: "2026-03-29T17:51:56.715Z"
 ---
 
 # § 545b. Opal Creek Wilderness and Scenic Recreation Area
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:11:53.600Z"
 - **(a)** In this section:
   - **(1)** The term “Bull of the Woods Wilderness” means the land designated as wilderness by section 3(4) of the Oregon Wilderness Act of 1984 ( Public Law 98–328 ; 16 U.S.C. 1132 note).
   - **(2)** The term “Opal Creek Wilderness” means certain land in the Willamette National Forest in the State of Oregon comprising approximately 12,800 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996.
-  - **(3)** The term “Scenic Recreation Area” means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996 and established under subsection (c)(1)(C).
+  - **(3)** The term “Scenic Recreation Area” means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996 and established under subsection (c)(1)(C) of this section.
   - **(4)** The term “Secretary” means the Secretary of Agriculture.
 - **(b)** The purposes of this section are—
   - **(1)** to establish a wilderness and scenic recreation area to protect and provide for the enhancement of the natural, scenic, recreational, historic and cultural resources of the area in the vicinity of Opal Creek;
@@ -21,9 +21,9 @@ generated_at: "2026-03-29T02:11:53.600Z"
   - **(3)** to provide increased protection for an important drinking water source for communities served by the North Santiam River.
 - **(c)**
   - **(1)** On a determination by the Secretary under paragraph (2)—
-    - **(A)** the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2), is hereby designated as wilderness, subject to the provisions of the Wilderness Act [ 16 U.S.C. 1131 et seq.], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
+    - **(A)** the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2) of this section, is hereby designated as wilderness, subject to the provisions of the Wilderness Act [ 16 U.S.C. 1131 et seq.], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
     - **(B)** the part of the Bull of the Woods Wilderness that is located in the Willamette National Forest shall be incorporated into the Opal Creek Wilderness; and
-    - **(C)** the Secretary shall establish the Opal Creek Scenic Recreation Area in the Willamette National Forest in the State of Oregon, comprising approximately 13,000 acres, as generally depicted on the map described in subsection (a)(3).
+    - **(C)** the Secretary shall establish the Opal Creek Scenic Recreation Area in the Willamette National Forest in the State of Oregon, comprising approximately 13,000 acres, as generally depicted on the map described in subsection (a)(3) of this section.
   - **(2)** The designations in paragraph (1) shall not take effect unless the Secretary makes a determination, not later than 2 years after November 12, 1996 , that the following conditions have been met:
     - **(A)** the following have been donated to the United States in an acceptable condition and without encumbrances:
       - **(i)** all right, title, and interest in the following patented parcels of land—
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T02:11:53.600Z"
 - **(d)**
   - **(1)** The Secretary shall administer the Scenic Recreation Area in accordance with this section and the laws (including regulations) applicable to the National Forest System.
   - **(2)**
-    - **(A)** Not later than 2 years after the date of establishment of the Scenic Recreation Area, the Secretary, in consultation with the advisory committee established under subsection (e)(1), shall prepare a comprehensive Opal Creek Management Plan (Management Plan) for the Scenic Recreation Area.
+    - **(A)** Not later than 2 years after the date of establishment of the Scenic Recreation Area, the Secretary, in consultation with the advisory committee established under subsection (e)(1) of this section, shall prepare a comprehensive Opal Creek Management Plan (Management Plan) for the Scenic Recreation Area.
     - **(B)** Upon its completion, the Opal Creek Management Plan shall become part of the land and resource management plan for the Willamette National Forest and supersede any conflicting provision in such land and resource management plan. Nothing in this paragraph shall be construed to supersede the requirements of the Endangered Species Act [ 16 U.S.C. 1531 et seq.] or the National Forest Management Act or regulations promulgated under those Acts, or any other law.
     - **(C)** The Opal Creek Management Plan shall provide for a broad range of land uses, including—
       - **(i)** recreation;
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T02:11:53.600Z"
       - **(i)** evaluates the road network within the Scenic Recreation Area to determine which roads should be retained and which roads should be closed;
       - **(ii)** provides guidelines for transportation and access consistent with this section;
       - **(iii)** considers the access needs of persons with disabilities in preparing the transportation plan for the Scenic Recreation Area;
-      - **(iv)** allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2), to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
+      - **(iv)** allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2) of this section, to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
       - **(v)** restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996 , which shall not include paving or widening.
   - **(5)**
     - **(A)** Subject to applicable Federal and State law, the Secretary shall permit hunting and fishing in the Scenic Recreation Area.
@@ -72,12 +72,12 @@ generated_at: "2026-03-29T02:11:53.600Z"
         - **(III)** for removal of hazard trees along trails and roadways.
       - **(ii)** The Secretary may not allow a salvage sale in the Scenic Recreation Area.
   - **(7)**
-    - **(A)** 1 subject 2 2 So in original. Probably should be capitalized. to valid existing rights, all lands in the Scenic Recreation Area are withdrawn from—
+    - **(A)** 2 2 So in original. No subpar. (B) has been enacted. subject 3 3 So in original. Probably should be capitalized. to valid existing rights, all lands in the Scenic Recreation Area are withdrawn from—
       - **(i)** any form of entry, appropriation, or disposal under the public lands laws;
       - **(ii)** location, entry, and patent under the mining laws; and
       - **(iii)** disposition under the mineral and geothermal leasing laws.
   - **(8)**
-    - **(A)** Nothing in this section shall be construed to interfere with or approve any exploration, mining, or mining-related activity in the Bornite Project Area, depicted on the map described in subsection (a)(3), conducted in accordance with applicable laws.
+    - **(A)** Nothing in this section shall be construed to interfere with or approve any exploration, mining, or mining-related activity in the Bornite Project Area, depicted on the map described in subsection (a)(3) of this section, conducted in accordance with applicable laws.
     - **(B)** Nothing in this section shall be construed to interfere with the ability of the Secretary to approve and issue, or deny, special use permits in connection with exploration, mining, and mining-related activities in the Bornite Project Area.
     - **(C)** Motorized vehicles, roads, structures, and utilities (including but not limited to power lines and water lines) may be allowed inside the Scenic Recreation Area to serve the activities conducted on land within the Bornite Project.
     - **(D)** After November 12, 1996 , no patent shall be issued for any mining claim under the general mining laws located within the Bornite Project Area.
@@ -88,7 +88,7 @@ generated_at: "2026-03-29T02:11:53.600Z"
     - **(C)** The management plan may provide for levels of recreation use higher than the levels in existence on November 12, 1996 , if such uses are consistent with the protection of the resource values of the Scenic Recreation Area.
     - **(D)** The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
   - **(11)** So that the knowledge, expertise, and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Scenic Recreation Area and its various subareas for the benefit of the public:
-    - **(A)** The Secretary shall consult on a periodic and regular basis with the advisory council established under subsection (e) with respect to matters relating to management of the Scenic Recreation Area.
+    - **(A)** The Secretary shall consult on a periodic and regular basis with the advisory council established under subsection (e) of this section with respect to matters relating to management of the Scenic Recreation Area.
     - **(B)** The Secretary shall seek the views of private groups, individuals, and the public concerning the Scenic Recreation Area.
     - **(C)** The Secretary shall seek the views and assistance of, and cooperate with, any other Federal, State, or local agency with any responsibility for the zoning, planning, or natural resources of the Scenic Recreation Area.
     - **(D)** The Secretary shall seek the views of any nonprofit agency or organization that may contribute information or expertise about the resources and the management of the Scenic Recreation Area.
@@ -110,7 +110,7 @@ generated_at: "2026-03-29T02:11:53.600Z"
     - **(B)** Any lands or interests in land owned by a State or a political subdivision of a State may be acquired only by donation or exchange.
     - **(C)** Within the boundaries of the Opal Creek Wilderness or the Scenic Recreation Area, the Secretary may not acquire any privately owned land or interest in land without the consent of the owner unless the Secretary finds that—
       - **(i)** the nature of land use has changed significantly, or the landowner has demonstrated intent to change the land use significantly, from the use that existed on November 12, 1996 ; and
-      - **(ii)** acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title 3 3 So in original. Probably should be “section”. or the management plan prepared under subsection (d)(2).
+      - **(ii)** acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title 4 4 So in original. Probably should be “section”. or the management plan prepared under subsection (d)(2) of this section.
     - **(D)** Nothing in this section shall be construed to enhance or diminish the condemnation authority available to the Secretary outside the boundaries of the Opal Creek Wilderness or the Scenic Recreation Area.
   - **(2)**
     - **(A)** Nothing in this section shall limit the authority of the Secretary or a responsible party to conduct an environmental response action in the Scenic Recreation Area in connection with the release, threatened release, or cleanup of a hazardous substance, pollutant, or contaminant, including a response action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 et seq.).
@@ -130,11 +130,11 @@ generated_at: "2026-03-29T02:11:53.600Z"
     - **(D)** Section 2, Township 17 South, Range 4 East, SW¼SW¼ (40 acres);
     - **(E)** Section 2, Township 17 South, Range 4 East, NW¼SE¼ (40 acres);
     - **(F)** Section 8, Township 17 South, Range 4 East, SE¼SW¼ (40 acres);
-    - **(G)** Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); 4 4 So in original. The semicolon probably should be a period.
+    - **(G)** Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); 5 5 So in original. The semicolon probably should be a period.
   - **(4)** The land and interests in land exchanged under this subsection shall be of equal market value as determined by nationally recognized appraisal standards, including, to the extent appropriate, the Uniform Standards for Federal Land Acquisition, the Uniform Standards of Professional Appraisal Practice, or shall be equalized by way of payment of cash pursuant to the provisions of section 1716(d) of title 43 , and other applicable law. The appraisal shall consider access costs for the parcels involved.
   - **(5)**
     - **(A)** The exchange directed by this subsection shall be consummated not later than 120 days after the date Rosboro offers and conveys the property described in paragraph (2) to the United States.
-    - **(B)** The authority provided by this subsection shall lapse of 5 5 So in original. Probably should be “if”. Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996 .
+    - **(B)** The authority provided by this subsection shall lapse of 6 6 So in original. Probably should be “if”. Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996 .
   - **(6)** Rosboro shall have the right to challenge in the United States District Court for the District of Oregon a determination of marketability under paragraph (1) and a determination of value for the lands described in paragraphs (2) and (3) by the Secretary of Agriculture. The court shall have the authority to order the Secretary to complete the transaction contemplated in this subsection.
   - **(7)** There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 - **(h)**

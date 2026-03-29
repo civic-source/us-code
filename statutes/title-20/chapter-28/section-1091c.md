@@ -3,14 +3,14 @@ title: "Section 1091c - Readmission requirements for servicemembers"
 usc_title: 20
 usc_section: "1091c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1091c"
-generated_at: "2026-03-29T02:12:17.280Z"
+generated_at: "2026-03-29T17:51:48.420Z"
 ---
 
 # § 1091c. Readmission requirements for servicemembers
 
-- **(a)** In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve.
+- **(a)** In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.
 - **(b)** A person who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform, service in the uniformed services shall not be denied readmission to an institution of higher education on the basis of that membership, application for membership, performance of service, application for service, or obligation.
 - **(c)**
   - **(1)** Any student whose absence from an institution of higher education is necessitated by reason of service in the uniformed services shall be entitled to readmission to the institution of higher education if—
@@ -26,11 +26,11 @@ generated_at: "2026-03-29T02:12:17.280Z"
     - **(A)** that is required, beyond five years, to complete an initial period of obligated service;
     - **(B)** during which such student was unable to obtain orders releasing such student from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
     - **(C)** performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
-      - **(i)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252, 1 1 See References in Text note below. 359, 360, 367, or 712 1 of title 14;
+      - **(i)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
       - **(ii)** ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
       - **(iii)** ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10 ;
       - **(iv)** ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or
-      - **(v)** called into Federal service as a member of the National Guard under chapter 13 of title 10 or section 12406 of title 10 .
+      - **(v)** called into Federal service as a member of the National Guard under chapter 15 of title 10 or section 12406 of title 10 .
   - **(4)**
     - **(A)** Except as provided in subparagraph (B), a student referred to in subsection (a) shall, upon the completion of a period of service in the uniformed services, notify the institution of higher education of the student’s intent to return to the institution not later than three years after the completion of the period of service.
     - **(B)** A student who is hospitalized for or convalescing from an illness or injury incurred in or aggravated during the performance of service in the uniformed services shall notify the institution of higher education of the student’s intent to return to the institution not later than two years after the end of the period that is necessary for recovery from such illness or injury.

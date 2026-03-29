@@ -3,16 +3,15 @@ title: "Section 1789 - Chaplain-led programs: authorized support"
 usc_title: 10
 usc_section: "1789"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1789"
-generated_at: "2026-03-29T02:10:45.050Z"
+generated_at: "2026-03-29T17:50:57.064Z"
 ---
 
 # § 1789. Chaplain-led programs: authorized support
 
-- **(a)** The Secretary of a military department may provide support services described in subsection (b) to support a chaplain-led program to assist a covered individual in building and maintaining a strong family structure, or to support the resiliency, suicide prevention, or holistic wellness of such covered individual.
-- **(b)** The support services referred to in subsection (a) are costs of transportation, food, lodging, child care, supplies, fees, and training materials for a covered individual while participating in a program referred to in that subsection, including participation at a retreat or conference.
-- **(c)** In this section, the term “covered individual” means—
-  - **(1)** a member of the armed forces on active duty;
-  - **(2)** a member of the reserve components in an active status; or
-  - **(3)** a dependent of an individual described in paragraph (1) or (2).
+- **(a)** The Secretary of a military department may provide support services described in subsection (b) to support chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members, in building and maintaining a strong family structure.
+- **(b)** The support services referred to in subsection (a) are costs of transportation, food, lodging, child care, supplies, fees, and training materials for members of the armed forces and their family members while participating in programs referred to in that subsection, including participation at retreats and conferences.
+- **(c)** In this section, the term “immediate family members”, with respect to a member of the armed forces, means—
+  - **(1)** the member’s spouse; and
+  - **(2)** any child (as defined in section 1072(6) of this title ) of the member who is described in subparagraph (D) of section 1072(2) of this title .

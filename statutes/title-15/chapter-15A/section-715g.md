@@ -3,12 +3,13 @@ title: "Section 715g - Refusal of carrier to accept shipment without certificate
 usc_title: 15
 usc_section: "715g"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 715g"
-generated_at: "2026-03-29T02:11:34.122Z"
+generated_at: "2026-03-29T17:51:36.190Z"
 ---
 
 # § 715g. Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment
 
-No common carrier who shall refuse to accept petroleum or petroleum products from any area in which certificates of clearance are required under authority of this chapter, by reason of the failure of the shipper to deliver such a certificate to such carrier, or who shall refuse to accept any petroleum or petroleum products when having reasonable ground for believing that such petroleum or petroleum products constitute contraband oil, shall be liable on account of such refusal for any penalties or damages. No common carrier shall be subject to any penalty under section 715e of this title in any case where (1) such carrier has a certificate of clearance which on its face appears to be valid and to have been issued by a board created under authority of section 715d of this title , certifying that the shipment in question is not contraband oil, and such carrier had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact, or (2) such carrier, as respects any shipment originating in any area where certificates of clearance are not required under authority of this chapter, had no reasonable ground for believing such petroleum or petroleum products to constitute contraband oil.
+  - **(1)** such carrier has a certificate of clearance which on its face appears to be valid and to have been issued by a board created under authority of section 715d of this title , certifying that the shipment in question is not contraband oil, and such carrier had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact, or
+  - **(2)** such carrier, as respects any shipment originating in any area where certificates of clearance are not required under authority of this chapter, had no reasonable ground for believing such petroleum or petroleum products to constitute contraband oil.
 

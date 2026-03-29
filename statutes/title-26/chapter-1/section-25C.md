@@ -1,90 +1,67 @@
 ---
-title: "Section 25C - Energy efficient home improvement credit"
+title: "Section 25C - Nonbusiness energy property"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-29T02:14:00.709Z"
+generated_at: "2026-03-29T17:52:39.076Z"
 ---
 
-# § 25C. Energy efficient home improvement credit
+# § 25C. Nonbusiness energy property
 
-- **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the sum of—
-  - **(1)** the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year,
-  - **(2)** the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year, and
-  - **(3)** the amount paid or incurred by the taxpayer during the taxable year for home energy audits.
+- **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+  - **(1)** 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
+  - **(2)** the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.
 - **(b)**
-  - **(1)** The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed $1,200.
-  - **(2)** The credit allowed under this section by reason of subsection (a)(2) with respect to any taxpayer for any taxable year shall not exceed, with respect to any item of qualified energy property, $600.
-  - **(3)** The credit allowed under this section by reason of subsection (a)(1) with respect to any taxpayer for any taxable year shall not exceed, in the aggregate with respect to all exterior windows and skylights, $600.
-  - **(4)** The credit allowed under this section by reason of subsection (a)(1) with respect to any taxpayer for any taxable year shall not exceed—
-    - **(A)** $250 in the case of any exterior door, and
-    - **(B)** $500 in the aggregate with respect to all exterior doors.
-  - **(5)** Notwithstanding paragraphs (1) and (2), the credit allowed under this section by reason of subsection (a)(2) with respect to any taxpayer for any taxable year shall not, in the aggregate, exceed $2,000 with respect to amounts paid or incurred for property described in clauses (i) and (ii) of subsection (d)(2)(A) and in subsection (d)(2)(B).
-  - **(6)**
-    - **(A)** The amount of the credit allowed under this section by reason of subsection (a)(3) shall not exceed $150.
-    - **(B)** No credit shall be allowed under this section by reason of subsection (a)(3) unless the taxpayer includes with the taxpayer’s return of tax such information or documentation as the Secretary may require.
+  - **(1)** The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005 .
+  - **(2)** In the case of amounts paid or incurred for components described in subsection (c)(2)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005 .
+  - **(3)** The amount of the credit allowed under this section by reason of subsection (a)(2) shall not exceed—
+    - **(A)** $50 for any advanced main air circulating fan,
+    - **(B)** $150 for any qualified natural gas, propane, or oil furnace or hot water boiler, and
+    - **(C)** $300 for any item of energy-efficient building property.
 - **(c)** For purposes of this section—
-  - **(1)** The term “qualified energy efficiency improvements” means any energy efficient building envelope component, if—
+  - **(1)** The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if—
     - **(A)** such component is installed in or on a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121),
     - **(B)** the original use of such component commences with the taxpayer, and
     - **(C)** such component reasonably can be expected to remain in use for at least 5 years.
-  - **(2)** The term “energy efficient building envelope component” means a building envelope component which meets—
-    - **(A)** in the case of an exterior window or skylight, Energy Star most efficient certification requirements,
-    - **(B)** in the case of an exterior door, applicable Energy Star requirements, and
-    - **(C)** in the case of any other component, the prescriptive criteria for such component established by the most recent International Energy Conservation Code standard in effect as of the beginning of the calendar year which is 2 years prior to the calendar year in which such component is placed in service.
-  - **(3)** The term “building envelope component” means—
-    - **(A)** any insulation material or system, including air sealing material or system, which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
-    - **(B)** exterior windows (including skylights), and
-    - **(C)** exterior doors.
-  - **(4)** The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
+  - **(2)** The term “building envelope component” means—
+    - **(A)** any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
+    - **(B)** exterior windows (including skylights),
+    - **(C)** exterior doors, and
+    - **(D)** any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+  - **(3)** The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
 - **(d)** For purposes of this section—
   - **(1)** The term “residential energy property expenditures” means expenditures made by the taxpayer for qualified energy property which is—
-    - **(A)** installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and
+    - **(A)** installed on or in connection with a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121), and
     - **(B)** originally placed in service by the taxpayer.
-  - **(2)** The term “qualified energy property” means any of the following:
-    - **(A)** Any of the following which meet or exceed the highest efficiency tier (not including any advanced tier) established by the Consortium for Energy Efficiency which is in effect as of the beginning of the calendar year in which the property is placed in service:
-      - **(i)** An electric or natural gas heat pump water heater.
-      - **(ii)** An electric or natural gas heat pump.
-      - **(iii)** A central air conditioner.
-      - **(iv)** A natural gas, propane, or oil water heater.
-      - **(v)** A natural gas, propane, or oil furnace or hot water boiler.
-    - **(B)** A biomass stove or boiler which—
-      - **(i)** uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
-      - **(ii)** has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
-    - **(C)** Any oil furnace or hot water boiler which—
-      - **(i)** meets or exceeds 2021 Energy Star efficiency criteria, and
-      - **(ii)** is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel.
-    - **(D)** Any improvement to, or replacement of, a panelboard, sub-panelboard, branch circuits, or feeders which—
-      - **(i)** is installed in a manner consistent with the National Electric Code,
-      - **(ii)** has a load capacity of not less than 200 amps,
-      - **(iii)** is installed in conjunction with—
-        - **(I)** any qualified energy efficiency improvements, or
-        - **(II)** any qualified energy property described in subparagraphs (A) through (C) for which a credit is allowed under this section for expenditures with respect to such property, and
-      - **(iv)** enables the installation and use of any property described in subclause (I) or (II) of clause (iii).
-  - **(3)** For purposes of paragraph (2), the term “eligible fuel” means—
-    - **(A)** biodiesel and renewable diesel (within the meaning of section 40A),
-    - **(B)** second generation biofuel (within the meaning of section 40), and
-    - **(C)** transportation fuel (as defined in section 45Z(d)(5)).
-- **(e)** For purposes of this section, the term “home energy audit” means an inspection and written report with respect to a dwelling unit located in the United States and owned or used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121) which—
-  - **(1)** identifies the most significant and cost-effective energy efficiency improvements with respect to such dwelling unit, including an estimate of the energy and cost savings with respect to each such improvement, and
-  - **(2)** is conducted and prepared by a home energy auditor that meets the certification or other requirements specified by the Secretary in regulations or other guidance (as prescribed by the Secretary not later than 365 days after the date of the enactment of this subsection).
-- **(f)** For purposes of this section—
+  - **(2)**
+    - **(A)** The term “qualified energy property” means—
+      - **(i)** energy-efficient building property,
+      - **(ii)** a qualified natural gas, propane, or oil furnace or hot water boiler, or
+      - **(iii)** an advanced main air circulating fan.
+    - **(B)** Property described under subparagraph (A) shall meet the performance and quality standards, and the certification requirements (if any), which—
+      - **(i)** have been prescribed by the Secretary by regulations (after consultation with the Secretary of Energy or the Administrator of the Environmental Protection Agency, as appropriate), and
+      - **(ii)** are in effect at the time of the acquisition of the property, or at the time of the completion of the construction, reconstruction, or erection of the property, as the case may be.
+    - **(C)** The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio (EER) for central air conditioners and electric heat pumps—
+      - **(i)** shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
+      - **(ii)** may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency.
+  - **(3)** The term “energy-efficient building property” means—
+    - **(A)** an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
+    - **(B)** an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009 . 1 1 So in original. The period probably should be a comma.
+    - **(C)** a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009 ,
+    - **(D)** a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent. 2 2 So in original. The period probably should be “, and”.
+    - **(E)** a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
+  - **(4)** The term “qualified natural gas, propane, or oil furnace or hot water boiler” means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
+  - **(5)** The term “advanced main air circulating fan” means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
+  - **(6)** The term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.
+- **(e)** For purposes of this section—
   - **(1)** Rules similar to the rules under paragraphs (4), (5), (6), (7), and (8) of section 25D(e) shall apply.
   - **(2)**
     - **(A)** Any expenditure otherwise qualifying as an expenditure under this section shall not be treated as failing to so qualify merely because such expenditure was made with respect to two or more dwelling units.
     - **(B)** In the case of any expenditure described in subparagraph (A), the amount of the credit allowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
   - **(3)** For purposes of determining the amount of expenditures made by any individual with respect to any property, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).
-- **(g)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
-- **(h)**
-  - **(1)** No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024 , unless—
-    - **(A)** such item is produced by a qualified manufacturer, and
-    - **(B)** the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.
-  - **(2)** For purposes of this section, the term “qualified product identification number” means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).
-  - **(3)** For purposes of this section, the term “qualified manufacturer” means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—
-    - **(A)** assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),
-    - **(B)** label such item with such number in such manner as the Secretary may provide, and
-    - **(C)** make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.
-  - **(4)** For purposes of this subsection, the term “specified property” means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
-- **(i)** This section shall not apply with respect to any property placed in service after December 31, 2025 .
+- **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+- **(g)** This section shall not apply with respect to any property placed in service—
+  - **(1)** after December 31, 2007 , and before January 1, 2009 , or
+  - **(2)** after December 31, 2013 .. 3 3 So in original.

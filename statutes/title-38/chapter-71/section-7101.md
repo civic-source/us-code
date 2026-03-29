@@ -3,9 +3,9 @@ title: "Section 7101 - Composition of Board of Veterans’ Appeals"
 usc_title: 38
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7101"
-generated_at: "2026-03-29T02:14:50.464Z"
+generated_at: "2026-03-29T17:52:53.815Z"
 ---
 
 # § 7101. Composition of Board of Veterans’ Appeals
@@ -30,12 +30,8 @@ generated_at: "2026-03-29T02:14:50.464Z"
     - **(B)** the number of cases pending before the Board at the beginning and at the end of that year;
     - **(C)** the number of such cases which were filed during each of the 36 months preceding the current fiscal year;
     - **(D)** the average length of time a case was before the Board between the time of the filing of an appeal and the disposition during the preceding fiscal year;
-    - **(E)** the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year;
-    - **(F)** the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year; and
-    - **(G)** with respect to hearings scheduled under section 7107(c)(2)(C) of this title —
-      - **(i)** the number of hearings scheduled under such section;
-      - **(ii)** the number of hearings under such section that were cancelled; and
-      - **(iii)** any statistical difference in outcomes between cases heard under such section and those held at the principal location of the Board or by picture and voice transmission at a facility of the Department.
+    - **(E)** the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year; and
+    - **(F)** the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year.
   - **(3)** The projections in each such report for the current fiscal year and for the next fiscal year shall include (for each such year)—
     - **(A)** an estimate of the number of cases to be appealed to the Board; and
     - **(B)** an evaluation of the ability of the Board (based on existing and projected personnel levels) to ensure timely disposition of such appeals as required by section 7101(a) of this title .

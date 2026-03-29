@@ -3,9 +3,9 @@ title: "Section 7508 - Time for performing certain acts postponed by reason of s
 usc_title: 26
 usc_section: "7508"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7508"
-generated_at: "2026-03-29T02:14:01.391Z"
+generated_at: "2026-03-29T17:52:39.616Z"
 ---
 
 # § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation
@@ -14,17 +14,16 @@ generated_at: "2026-03-29T02:14:01.391Z"
   - **(1)** Whether any of the following acts was performed within the time prescribed therefor:
     - **(A)** Filing any return of income, estate, gift, employment, or excise tax;
     - **(B)** Payment of any income, estate, gift, employment, or excise tax or any installment thereof or of any other liability to the United States in respect thereof;
-    - **(C)** Filing a petition with the Tax Court, or filing a notice of appeal from a decision of the Tax Court;
+    - **(C)** Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;
     - **(D)** Allowance of a credit or refund of any tax;
     - **(E)** Filing a claim for credit or refund of any tax;
     - **(F)** Bringing suit upon any such claim for credit or refund;
     - **(G)** Assessment of any tax;
     - **(H)** Giving or making any notice or demand for the payment of any tax, or with respect to any liability to the United States in respect of any tax;
     - **(I)** Collection, by the Secretary, by levy or otherwise, of the amount of any liability in respect of any tax;
-    - **(J)** Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax or in respect of any erroneous refund; and
+    - **(J)** Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax; and
     - **(K)** Any other act required or permitted under the internal revenue laws specified by the Secretary;
-  - **(2)** The amount of any credit or refund; and
-  - **(3)** Any certification of a seriously delinquent tax debt under section 7345.
+  - **(2)** The amount of any credit or refund.
 - **(b)**
   - **(1)** Subsection (a) shall not apply for purposes of determining the amount of interest on any overpayment of tax.
   - **(2)** If an individual is entitled to the benefits of subsection (a) with respect to any return and such return is timely filed (determined after the application of such subsection), subsections (b)(3) and (e) of section 6611 shall not apply.
@@ -33,7 +32,6 @@ generated_at: "2026-03-29T02:14:01.391Z"
 - **(e)**
   - **(1)** Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case in which the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
   - **(2)** The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior to such assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
-  - **(3)** With respect to any period of continuous qualified hospitalization described in subsection (a) and the next 180 days thereafter, subsection (a) shall not apply in the application of section 6502.
 - **(f)**
   - **(1)** Any individual who performed Desert Shield services (and the spouse of such individual) shall be entitled to the benefits of this section in the same manner as if such services were services referred to in subsection (a).
   - **(2)** For purposes of this subsection, the term “Desert Shield services” means any services in the Armed Forces of the United States or in support of such Armed Forces if—

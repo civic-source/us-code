@@ -3,9 +3,9 @@ title: "Section 2784a - Management of travel cards"
 usc_title: 10
 usc_section: "2784a"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2784a"
-generated_at: "2026-03-29T02:10:45.143Z"
+generated_at: "2026-03-29T17:50:57.163Z"
 ---
 
 # § 2784a. Management of travel cards
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:10:45.143Z"
 - **(a)**
   - **(1)** The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of the armed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts of expenses of official travel that are charged by the employee or member on the Defense travel card.
   - **(2)** The Secretary of Defense may waive the requirement for a direct payment to a travel card issuer under paragraph (1) in any case the Secretary determines appropriate.
-  - **(3)** For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under section 5702 of title 5 or a member of the armed forces is entitled under section 452 of title 37 .
+  - **(3)** For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under section 5702 of title 5 or a member of the armed forces is entitled under section 474 of title 37 .
 - **(b)**
   - **(1)** The Secretary of Defense may require that there be deducted and withheld from any basic pay payable to an employee of the Department of Defense or a member of the armed forces any amount that is owed by the employee or member to a creditor by reason of one or more charges of expenses of official travel of the employee or member on a Defense travel card issued by the creditor if the employee or member—
     - **(A)** is delinquent in the payment of such amount under the terms of the contract under which the card is issued; and

@@ -3,9 +3,9 @@ title: "Section 2804 - Enforcement"
 usc_title: 12
 usc_section: "2804"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2804"
-generated_at: "2026-03-29T02:11:21.149Z"
+generated_at: "2026-03-29T17:51:13.189Z"
 ---
 
 # § 2804. Enforcement
@@ -21,5 +21,5 @@ generated_at: "2026-03-29T02:11:21.149Z"
     - **(C)** under the Federal Credit Union Act [ 12 U.S.C. 1751 et seq.], by the Administrator of the National Credit Union Administration with respect to any insured credit union; and
     - **(D)** with respect to other lending institutions, by the Secretary of Housing and Urban Development.
   - **(2)** The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the same meanings as in section 3101 of this title .
-- **(c)** For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+- **(c)** For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 - **(d)** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.], enforcement of the requirements imposed under this chapter is committed to each of the agencies under subsection (b). To facilitate research, examinations, and enforcement, all data collected pursuant to section 2803 of this title shall be available to the entities listed under subsection (b). The Bureau may exercise its authorities under the Consumer Financial Protection Act of 2010 to exercise principal authority to examine and enforce compliance by any person with the requirements of this chapter.

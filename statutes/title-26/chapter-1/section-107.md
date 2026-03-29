@@ -3,9 +3,9 @@ title: "Section 107 - Rental value of parsonages"
 usc_title: 26
 usc_section: "107"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 107"
-generated_at: "2026-03-29T02:14:00.791Z"
+generated_at: "2026-03-29T17:52:39.122Z"
 ---
 
 # § 107. Rental value of parsonages

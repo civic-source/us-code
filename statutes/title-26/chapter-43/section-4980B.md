@@ -3,9 +3,9 @@ title: "Section 4980B - Failure to satisfy continuation coverage requirements of
 usc_title: 26
 usc_section: "4980B"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4980B"
-generated_at: "2026-03-29T02:14:01.241Z"
+generated_at: "2026-03-29T17:52:39.477Z"
 ---
 
 # § 4980B. Failure to satisfy continuation coverage requirements of group health plans
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T02:14:01.241Z"
         - **(I)** employer or plan administrator, or
         - **(II)** in the case of a qualifying event described in subparagraph (C) or (E) of subsection (f)(3) where the person described in clause (i) is the plan administrator, the qualified beneficiary,
 - **(f)**
-  - **(1)** A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act ( 42 U.S.C. 1396s(h)(6) )) is not reduced below the coverage provided by the plan as of May 1, 1993 , and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
+  - **(1)** A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) 1 1 See References in Text note below. is not reduced below the coverage provided by the plan as of May 1, 1993 , and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
   - **(2)** For purposes of paragraph (1), the term “continuation coverage” means coverage under the plan which meets the following requirements:
     - **(A)** The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage under the plan is modified for any group of similarly situated beneficiaries, the coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this subsection in connection with such group.
     - **(B)** The coverage must extend for at least the period beginning on the date of the qualifying event and ending not earlier than the earliest of the following:

@@ -1,12 +1,14 @@
 ---
-title: "Section 463f - Transferred"
+title: "Section 463f - Title to lands"
 usc_title: 25
 usc_section: "463f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 463f"
-generated_at: "2026-03-29T02:13:20.864Z"
+generated_at: "2026-03-29T17:52:05.987Z"
 ---
 
-# § 463f. Transferred
+# § 463f. Title to lands
+
+Title to lands or any interest therein acquired pursuant to sections 463d to 463g of this title for Indian use shall be taken in the name of the United States of America in trust for the tribe or individual Indian for which acquired.
 

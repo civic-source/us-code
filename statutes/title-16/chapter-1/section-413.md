@@ -1,12 +1,14 @@
 ---
-title: "Section 413 - Omitted"
+title: "Section 413 - Offenses relating to structures and vegetation"
 usc_title: 16
 usc_section: "413"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 413"
-generated_at: "2026-03-29T02:11:53.441Z"
+generated_at: "2026-03-29T17:51:56.551Z"
 ---
 
-# § 413. Omitted
+# § 413. Offenses relating to structures and vegetation
+
+Every person who willfully destroys, mutilates, defaces, injures, or removes any monument, statue, marker, guidepost, or other structure, or who willfully destroys, cuts, breaks, injures, or removes any tree, shrub, or plant within the limits of any national military parks shall be deemed guilty of a misdemeanor, punishable by a fine of not less than $10 nor more than $1,000 for each monument, statue, marker, guidepost, or other structure, tree, shrub, or plant destroyed, defaced, injured, cut, or removed, or by imprisonment for not less than fifteen days and not more than one year, or by both fine and imprisonment.
 

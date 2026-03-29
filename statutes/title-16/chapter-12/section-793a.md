@@ -3,9 +3,9 @@ title: "Section 793a - Repealed. Pub. L. 87–367, title I, § 103(5) , Oct. 4, 
 usc_title: 16
 usc_section: "793a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 793a"
-generated_at: "2026-03-29T02:11:53.671Z"
+generated_at: "2026-03-29T17:51:56.776Z"
 ---
 
 # § 793a. Repealed. Pub. L. 87–367, title I, § 103(5) , Oct. 4, 1961 , 75 Stat. 787

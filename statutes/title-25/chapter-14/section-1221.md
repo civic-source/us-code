@@ -1,12 +1,14 @@
 ---
-title: "Section 1221 - Omitted"
+title: "Section 1221 - Membership roll"
 usc_title: 25
 usc_section: "1221"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1221"
-generated_at: "2026-03-29T02:13:20.872Z"
+generated_at: "2026-03-29T17:52:06.040Z"
 ---
 
-# § 1221. Omitted
+# § 1221. Membership roll
 
+- **(a)** The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements: (1) they were born on or prior to and were living on July 31, 1970 ; (2) their names or the name of a lineal ancestor from whom they claim eligibility appears on (a) the final roll of the Peoria Tribe of Indians of Oklahoma, pursuant to the Act of August 2, 1956 ( 70 Stat. 937 ) [ 25 U.S.C. 821 et seq.], or (b) the January 1, 1937 , census of the Peoria Tribe, or (c) the 1920 census of the Peoria Tribe, or (d) the Indian or Citizen Class lists pursuant to the Treaty of February 23, 1867 ( 15 Stat. 520 ), or (e) the Schedule of Persons or Families composing the United Tribes of Weas, Piankashaws, Peorias, and Kaskaskias, annexed to the Treaty of May 30, 1854 .
+- **(b)** Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose by the Secretary of the Interior. The determination of the Secretary regarding the eligibility of an applicant shall be final.

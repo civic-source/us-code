@@ -3,9 +3,9 @@ title: "Section 2835a - Use of military family housing constructed under build a
 usc_title: 10
 usc_section: "2835a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2835a"
-generated_at: "2026-03-29T02:10:45.151Z"
+generated_at: "2026-03-29T17:50:57.168Z"
 ---
 
 # § 2835a. Use of military family housing constructed under build and lease authority to house other members
@@ -16,5 +16,13 @@ generated_at: "2026-03-29T02:10:45.151Z"
 - **(b)**
   - **(1)** If the Secretary concerned determines that military family housing constructed and leased under section 2835 of this title is excess to the long-term needs of the family housing program of the Secretary, the Secretary may convert the lease contract entered into under subsection (a) of such section into a long-term lease of military unaccompanied housing.
   - **(2)** The term of the lease contract for military unaccompanied housing converted from military family housing under paragraph (1) may not exceed the remaining term of the lease contract for the family housing so converted.
-- **(c)** The Secretary concerned may not convert military family housing to military unaccompanied housing under subsection (b) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a notice of the intent to undertake the conversion.
+- **(c)**
+  - **(1)** The Secretary concerned may not convert military family housing to military unaccompanied housing under subsection (b) until—
+    - **(A)** the Secretary submits to the congressional defense committees a notice of the intent to undertake the conversion; and
+    - **(B)** a period of 21 days has expired following the date on which the notice is received by the committees or, if earlier, a period of 14 days has expired following the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title .
+  - **(2)** The notice required by paragraph (1) shall include—
+    - **(A)** an explanation of the reasons for the conversion of the military family housing to military unaccompanied housing;
+    - **(B)** a description of the long-term lease to be converted;
+    - **(C)** amounts to be paid under the lease; and
+    - **(D)** the expiration date of the lease.
 - **(d)** This section also shall apply to housing initially acquired or constructed under the former section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984 ( Public Law 98–115 ; 97 Stat 782).

@@ -3,9 +3,9 @@ title: "Section 14702 - Retention on reserve active-status list of certain offic
 usc_title: 10
 usc_section: "14702"
 chapter: 1409
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 14702"
-generated_at: "2026-03-29T02:10:45.385Z"
+generated_at: "2026-03-29T17:50:57.287Z"
 ---
 
 # § 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T02:10:45.385Z"
 - **(a)** Notwithstanding the provisions of section 14506, 14507, or 14508 of this title, the Secretary of the military department concerned may, with the officer’s consent, retain on the reserve active-status list an officer in the grade of major, lieutenant colonel, colonel, or brigadier general who is—
   - **(1)** an officer of the Army National Guard of the United States and assigned to a headquarters or headquarters detachment of a State; or
   - **(2)** a reserve officer of the Army or Air Force who, as a condition of continued employment as a National Guard or Reserve technician is required by the Secretary concerned to maintain membership in a Selected Reserve unit or organization.
-- **(b)** An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age.
+- **(b)** An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.

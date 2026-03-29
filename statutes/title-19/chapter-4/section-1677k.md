@@ -3,9 +3,9 @@ title: "Section 1677k - Third-country dumping"
 usc_title: 19
 usc_section: "1677k"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1677k"
-generated_at: "2026-03-29T02:12:08.659Z"
+generated_at: "2026-03-29T17:51:51.256Z"
 ---
 
 # § 1677k. Third-country dumping
@@ -24,5 +24,5 @@ generated_at: "2026-03-29T02:12:08.659Z"
 - **(c)**
   - **(1)** If the Trade Representative, on the basis of the information contained in a petition submitted under paragraph (1), determines that there is a reasonable basis for the allegations in the petition, the Trade Representative shall submit to the appropriate authority of the Agreement country where the alleged dumping is occurring an application pursuant to Article 12 of the Agreement which requests that appropriate antidumping action under the law of that country be taken, on behalf of the United States, with respect to imports into that country of the merchandise concerned.
   - **(2)** At the request of the Trade Representative, the appropriate officers of the Department of Commerce and the United States International Trade Commission shall assist the Trade Representative in preparing the application under paragraph (1).
-- **(d)** After submitting an application under subsection (c)(1), the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
-- **(e)** If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c), the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
+- **(d)** After submitting an application under subsection (c)(1) of this section, the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
+- **(e)** If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c) of this section, the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.

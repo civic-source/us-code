@@ -3,9 +3,9 @@ title: "Section 533 - Investigative and other officials; appointment"
 usc_title: 28
 usc_section: "533"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 533"
-generated_at: "2026-03-29T02:14:04.528Z"
+generated_at: "2026-03-29T17:52:24.194Z"
 ---
 
 # § 533. Investigative and other officials; appointment

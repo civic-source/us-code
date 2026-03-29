@@ -3,12 +3,13 @@ title: "Section 569c - Services of volunteers"
 usc_title: 33
 usc_section: "569c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 569c"
-generated_at: "2026-03-29T02:14:18.497Z"
+generated_at: "2026-03-29T17:52:45.900Z"
 ---
 
 # § 569c. Services of volunteers
 
-The United States Army Chief of Engineers may accept the services of volunteers and provide for their incidental expenses, including expenses relating to uniforms, transportation, lodging, and the subsistence of those volunteers, to carry out any activity of the Army Corps of Engineers except policy-making or law or regulatory enforcement. Such volunteers shall not be employees of the United States Government except for the purposes of (1) chapter 171 of title 28, relating to tort claims, and (2) chapter 81 of title 5, relating to compensation for work injuries.
+  - **(1)** chapter 171 of title 28, relating to tort claims, and
+  - **(2)** chapter 81 of title 5, relating to compensation for work injuries.
 

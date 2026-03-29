@@ -1,12 +1,14 @@
 ---
-title: "Section 1907 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 1907 - Recordation of mining claims; publication of notice"
 usc_title: 16
 usc_section: "1907"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1907"
-generated_at: "2026-03-29T02:11:53.846Z"
+generated_at: "2026-03-29T17:51:56.919Z"
 ---
 
-# § 1907. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 1907. Recordation of mining claims; publication of notice
+
+All mining claims under the Mining Law of 1872, as amended and supplemented (30 U.S.C. chapters 2, 12A, and 16 and sections 161 and 162) which lie within the boundaries of units of the National Park System shall be recorded with the Secretary of the Interior within one year after September 28, 1976 . Any mining claim not so recorded shall be conclusively presumed to be abandoned and shall be void. Such recordation will not render valid any claim which was not valid on September 28, 1976 , or which becomes invalid thereafter. Within thirty days following September 28, 1976 , the Secretary shall publish notice of the requirement for such recordation in the Federal Register. He shall also publish similar notices in newspapers of general circulation in the areas adjacent to those units of the National Park System listed in section 3 of this Act.
 

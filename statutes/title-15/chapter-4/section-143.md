@@ -3,9 +3,9 @@ title: "Section 143 - Registrar; designation; station; supervision by Secretary 
 usc_title: 15
 usc_section: "143"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 143"
-generated_at: "2026-03-29T02:11:33.998Z"
+generated_at: "2026-03-29T17:51:36.115Z"
 ---
 
 # § 143. Registrar; designation; station; supervision by Secretary of Commerce

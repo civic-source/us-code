@@ -1,12 +1,16 @@
 ---
-title: "Section 7103 - Repealed. Pub. L. 114–95, title IV, § 4002 , Dec. 10, 2015 , 129 Stat. 1967"
+title: "Section 7103 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7103"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7103"
-generated_at: "2026-03-29T02:12:17.465Z"
+generated_at: "2026-03-29T17:51:48.628Z"
 ---
 
-# §§ 7102, 7103. Repealed. Pub. L. 114–95, title IV, § 4002 , Dec. 10, 2015 , 129 Stat. 1967
+# § 7103. Authorization of appropriations
 
+There are authorized to be appropriated—
+
+  - **(1)** $650,000,000 for fiscal year 2002, and such sums as may be necessary for each of the 5 succeeding fiscal years, for State grants under subpart 1 of this part; and
+  - **(2)** such sums for fiscal year 2002, and for each of the 5 succeeding fiscal years, for national programs under subpart 2 of this part.

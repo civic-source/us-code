@@ -3,9 +3,9 @@ title: "Section 1738B - Full faith and credit for child support orders"
 usc_title: 28
 usc_section: "1738B"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 1738B"
-generated_at: "2026-03-29T02:14:04.560Z"
+generated_at: "2026-03-29T17:52:24.224Z"
 ---
 
 # § 1738B. Full faith and credit for child support orders
@@ -14,36 +14,27 @@ generated_at: "2026-03-29T02:14:04.560Z"
   - **(1)** shall enforce according to its terms a child support order made consistently with this section by a court of another State; and
   - **(2)** shall not seek or make a modification of such an order except in accordance with subsections (e), (f), and (i).
 - **(b)** In this section:
-  - **(1)** The term “child” means—
     - **(A)** a person under 18 years of age; and
     - **(B)** a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
-  - **(2)** The term “child’s State” means the State in which a child resides.
-  - **(3)** The term “child’s home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
-  - **(4)** The term “child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
-  - **(5)** The term “child support order”—
     - **(A)** means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
     - **(B)** includes—
       - **(i)** a permanent or temporary order; and
       - **(ii)** an initial order or a modification of an order.
-  - **(6)** The term “contestant” means—
     - **(A)** a person (including a parent) who—
       - **(i)** claims a right to receive child support;
       - **(ii)** is a party to a proceeding that may result in the issuance of a child support order; or
       - **(iii)** is under a child support order; and
     - **(B)** a State or political subdivision of a State to which the right to obtain child support has been assigned.
-  - **(7)** The term “court” means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
-  - **(8)** The term “modification” means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
-  - **(9)** The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in section 1151 of title 18 ).
 - **(c)** A child support order made by a court of a State is made consistently with this section if—
   - **(1)** a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
     - **(A)** has subject matter jurisdiction to hear the matter and enter such an order; and
     - **(B)** has personal jurisdiction over the contestants; and
   - **(2)** reasonable notice and opportunity to be heard is given to the contestants.
-- **(d)** A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order, unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
+- **(d)** A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 - **(e)** A court of a State may modify a child support order issued by a court of another State if—
   - **(1)** the court has jurisdiction to make such a child support order pursuant to subsection (i); and
   - **(2)**
-    - **(A)** the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order; or
+    - **(A)** the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant; or
     - **(B)** each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 - **(f)** If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
   - **(1)** If only 1 court has issued a child support order, the order of that court must be recognized.

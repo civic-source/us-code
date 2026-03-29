@@ -3,9 +3,9 @@ title: "Section 4973 - Tax on excess contributions to certain tax-favored accoun
 usc_title: 26
 usc_section: "4973"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4973"
-generated_at: "2026-03-29T02:14:01.233Z"
+generated_at: "2026-03-29T17:52:39.470Z"
 ---
 
 # § 4973. Tax on excess contributions to certain tax-favored accounts and annuities
@@ -14,9 +14,8 @@ generated_at: "2026-03-29T02:14:01.233Z"
   - **(1)** an individual retirement account (within the meaning of section 408(a)),
   - **(2)** an Archer MSA (within the meaning of section 220(d)),
   - **(3)** an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock),
-  - **(4)** a Coverdell education savings account (as defined in section 530),
-  - **(5)** a health savings account (within the meaning of section 223(d)), or
-  - **(6)** an ABLE account (within the meaning of section 529A),
+  - **(4)** a Coverdell education savings account (as defined in section 530), or
+  - **(5)** a health savings account (within the meaning of section 223(d)),
 - **(b)** For purposes of this section, in the case of individual retirement accounts or individual retirement annuities, the term “excess contributions” means the sum of—
   - **(1)** the excess (if any) of—
     - **(A)** the amount contributed for the taxable year to the accounts or for the annuities (other than a contribution to a Roth IRA or a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16)), over
@@ -60,6 +59,3 @@ generated_at: "2026-03-29T02:14:01.233Z"
     - **(B)** the excess (if any) of—
       - **(i)** the maximum amount allowable as a deduction under section 223(b) (determined without regard to section 106(d)) for the taxable year, over
       - **(ii)** the amount contributed to the accounts for the taxable year.
-- **(h)** For purposes of this section—
-  - **(1)** In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C) or contributions received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B)) exceeds the contribution limit under section 529A(b)(2)(B).
-  - **(2)** For purposes of this subsection, any contribution which is distributed out of the ABLE account in a distribution to which the last sentence of section 529A(b)(2) applies shall be treated as an amount not contributed.

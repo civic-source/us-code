@@ -3,9 +3,9 @@ title: "Section 1702 - Establishment"
 usc_title: 16
 usc_section: "1702"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1702"
-generated_at: "2026-03-29T02:11:53.816Z"
+generated_at: "2026-03-29T17:51:56.898Z"
 ---
 
 # § 1702. Establishment

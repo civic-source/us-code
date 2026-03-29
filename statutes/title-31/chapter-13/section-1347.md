@@ -3,9 +3,9 @@ title: "Section 1347 - Appropriations or authorizations required for agencies in
 usc_title: 31
 usc_section: "1347"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 1347"
-generated_at: "2026-03-29T02:14:14.049Z"
+generated_at: "2026-03-29T17:52:44.158Z"
 ---
 
 # § 1347. Appropriations or authorizations required for agencies in existence for more than one year

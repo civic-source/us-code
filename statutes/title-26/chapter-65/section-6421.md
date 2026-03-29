@@ -3,9 +3,9 @@ title: "Section 6421 - Gasoline used for certain nonhighway purposes, used by lo
 usc_title: 26
 usc_section: "6421"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6421"
-generated_at: "2026-03-29T02:14:01.341Z"
+generated_at: "2026-03-29T17:52:39.570Z"
 ---
 
 # § 6421. Gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:14:01.341Z"
     - **(A)** furnishing (for compensation) passenger land transportation available to the general public, or
     - **(B)** the transportation of students and employees of schools (as defined in the last sentence of section 4221(d)(7)(C)),
   - **(2)** Paragraph (1)(A) shall not apply in respect of gasoline used in any automobile bus while engaged in furnishing transportation which is not scheduled and not along regular routes unless the seating capacity of such bus is at least 20 adults (not including the driver).
-- **(c)** If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4), (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+- **(c)** If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) 1 1 So in original. Probably should be followed by a comma. (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person’s taxable year shall be his taxable year for purposes of subtitle A.
   - **(2)** For payments per quarter based on aggregate amounts payable under this section and section 6427, see section 6427(i)(2).
@@ -61,4 +61,4 @@ generated_at: "2026-03-29T02:14:01.341Z"
 - **(j)**
   - **(1)** For civil penalty for excessive claims under this section, see section 6675.
   - **(2)** For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
-  - **(3)** For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+  - **(3)** For treatment of an Indian tribal government as a State and 2 2 So in original. Probably should be “(and”. a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.

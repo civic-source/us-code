@@ -3,9 +3,9 @@ title: "Section 1225a - Preinspection at foreign airports"
 usc_title: 8
 usc_section: "1225a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1225a"
-generated_at: "2026-03-29T02:10:21.426Z"
+generated_at: "2026-03-29T17:50:41.340Z"
 ---
 
 # § 1225a. Preinspection at foreign airports
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T02:10:21.426Z"
     - **(A)** employees of the United States stationed at the preinspection station and their accompanying family members will receive appropriate protection;
     - **(B)** such employees and their families will not be subject to unreasonable risks to their welfare and safety; and
     - **(C)** the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951 ), or the Protocol Relating to the Status of Refugees (done at New York, January 31, 1967 ), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
-- **(b)** The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3), served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006 , the number of airports selected for an assignment under this subsection shall be at least 50.
+- **(b)** The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3) of this section, served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006 , the number of airports selected for an assignment under this subsection shall be at least 50.

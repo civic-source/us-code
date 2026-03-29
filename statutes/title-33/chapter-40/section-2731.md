@@ -3,9 +3,9 @@ title: "Section 2731 - Oil Spill Recovery Institute"
 usc_title: 33
 usc_section: "2731"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2731"
-generated_at: "2026-03-29T02:14:18.641Z"
+generated_at: "2026-03-29T17:52:45.997Z"
 ---
 
 # § 2731. Oil Spill Recovery Institute
@@ -35,6 +35,6 @@ generated_at: "2026-03-29T02:14:18.641Z"
 - **(g)** The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute and its administering agency that are pertinent to the funds received and expended by the Institute and its administering agency.
 - **(h)** Employees of the Institute shall not, by reason of such employment, be considered to be employees of the Federal Government for any purpose.
 - **(i)** The authorization in section 2736(b) of this title providing funding for the Institute shall terminate 1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased.
-- **(j)** No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b).
+- **(j)** No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
 - **(k)** The Institute shall publish and make available to any person upon request the results of all research, educational, and demonstration projects conducted by the Institute. The Administrator shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Oceanic and Atmospheric Administration.
 - **(l)** In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.

@@ -3,9 +3,9 @@ title: "Section 112 - Drug interdiction and counter-drug activities"
 usc_title: 32
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "32 U.S.C. § 112"
-generated_at: "2026-03-29T02:14:14.591Z"
+generated_at: "2026-03-29T17:52:42.814Z"
 ---
 
 # § 112. Drug interdiction and counter-drug activities
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:14:14.591Z"
 - **(a)** The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for the following:
   - **(1)** The pay, allowances, clothing, subsistence, gratuities, travel, and related expenses, as authorized by State law, of personnel of the National Guard of that State used, while not in Federal service, for the purpose of drug interdiction and counter-drug activities.
   - **(2)** The operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
-  - **(3)** The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $15,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
+  - **(3)** The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
 - **(b)**
   - **(1)** Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
   - **(2)**

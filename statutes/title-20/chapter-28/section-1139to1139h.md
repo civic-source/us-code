@@ -1,0 +1,12 @@
+---
+title: "Section 1139to1139h - Repealed. Pub. L. 110–315, title VII, § 708 , Aug. 14, 2008 , 122 Stat. 3361"
+usc_title: 20
+usc_section: "1139to1139h"
+chapter: 28
+current_through: "PL 113-100"
+classification: "20 U.S.C. § 1139to1139h"
+generated_at: "2026-03-29T17:51:48.456Z"
+---
+
+# §§ 1139 to 1139h. Repealed. Pub. L. 110–315, title VII, § 708 , Aug. 14, 2008 , 122 Stat. 3361
+

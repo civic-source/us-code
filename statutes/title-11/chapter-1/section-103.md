@@ -3,9 +3,9 @@ title: "Section 103 - Applicability of chapters"
 usc_title: 11
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-29T02:10:54.306Z"
+generated_at: "2026-03-29T17:51:02.128Z"
 ---
 
 # § 103. Applicability of chapters
@@ -14,13 +14,12 @@ generated_at: "2026-03-29T02:10:54.306Z"
 - **(b)** Subchapters I and II of chapter 7 of this title apply only in a case under such chapter.
 - **(c)** Subchapter III of chapter 7 of this title applies only in a case under such chapter concerning a stockbroker.
 - **(d)** Subchapter IV of chapter 7 of this title applies only in a case under such chapter concerning a commodity broker.
-- **(e)** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 1 See References in Text note below. of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+- **(e)** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 - **(f)** Except as provided in section 901 of this title , only chapters 1 and 9 of this title apply in a case under such chapter 9.
 - **(g)** Except as provided in section 901 of this title , subchapters I, II, and III of chapter 11 of this title apply only in a case under such chapter.
 - **(h)** Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
-- **(i)** Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a debtor (as defined in section 1182) elects that subchapter V of chapter 11 shall apply.
-- **(j)** Chapter 13 of this title applies only in a case under such chapter.
-- **(k)** Chapter 12 of this title applies only in a case under such chapter.
-- **(l)** Chapter 15 applies only in a case under such chapter, except that—
+- **(i)** Chapter 13 of this title applies only in a case under such chapter.
+- **(j)** Chapter 12 of this title applies only in a case under such chapter.
+- **(k)** Chapter 15 applies only in a case under such chapter, except that—
   - **(1)** sections 1505, 1513, and 1514 apply in all cases under this title; and
   - **(2)** section 1509 applies whether or not a case under this title is pending.

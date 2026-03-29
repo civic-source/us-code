@@ -3,9 +3,9 @@ title: "Section 3406 - Backup withholding"
 usc_title: 26
 usc_section: "3406"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 3406"
-generated_at: "2026-03-29T02:14:01.200Z"
+generated_at: "2026-03-29T17:52:39.436Z"
 ---
 
 # § 3406. Backup withholding
@@ -39,17 +39,12 @@ generated_at: "2026-03-29T02:14:01.200Z"
     - **(A)** does not exceed $10, and
     - **(B)** if determined for a 1-year period, would not exceed $10.
   - **(6)** Any payment of a kind required to be shown on a return required under section 6041(a) or 6041A(a) which is made during any calendar year shall be treated as a reportable payment only if—
-    - **(A)** the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds the dollar amount in effect for such calendar year under section 6041(a),
+    - **(A)** the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,
     - **(B)** the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
     - **(C)** during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
   - **(7)** For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment—
     - **(A)** in redemption of a coupon on a bearer instrument or in redemption of a United States savings bond, or
     - **(B)** to the extent provided in regulations, of interest on instruments similar to those described in subparagraph (A).
-  - **(8)**
-    - **(A)** Any payment in settlement of a third party network transaction required to be shown on a return required under section 6050W which is made during any calendar year shall be treated as a reportable payment only if—
-      - **(i)** the aggregate number of transactions with respect to the participating payee during such calendar year exceeds the number of transactions specified in section 6050W(e)(2), and
-      - **(ii)** the aggregate amount of transactions with respect to the participating payee during such calendar year exceeds the dollar amount specified in section 6050W(e)(1) at the time of such payment.
-    - **(B)** Subparagraph (A) shall not apply with respect to payments to any participating payee during any calendar year if one or more payments in settlement of third party network transactions made by the payor to the participating payee during the preceding calendar year were reportable payments.
 - **(c)**
   - **(1)** If—
     - **(A)** the Secretary determines with respect to any payee that there has been payee underreporting,

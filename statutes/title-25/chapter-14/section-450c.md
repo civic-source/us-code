@@ -1,12 +1,27 @@
 ---
-title: "Section 450c - Transferred"
+title: "Section 450c - Reporting and audit requirements for recipients of Federal financial assistance"
 usc_title: 25
 usc_section: "450c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 450c"
-generated_at: "2026-03-29T02:13:20.863Z"
+generated_at: "2026-03-29T17:52:05.971Z"
 ---
 
-# § 450c. Transferred
+# § 450c. Reporting and audit requirements for recipients of Federal financial assistance
 
+- **(a)**
+  - **(1)** Each recipient of Federal financial assistance under this subchapter shall keep such records as the appropriate Secretary shall prescribe by regulation promulgated under sections 552 and 553 of title 5, including records which fully disclose—
+    - **(A)** the amount and disposition by such recipient of the proceeds of such assistance,
+    - **(B)** the cost of the project or undertaking in connection with which such assistance is given or used,
+    - **(C)** the amount of that portion of the cost of the project or undertaking supplied by other sources, and
+    - **(D)** such other information as will facilitate an effective audit.
+  - **(2)** For the purposes of this subsection, such records for a mature contract shall consist of quarterly financial statements for the purpose of accounting for Federal funds, the annual single-agency audit required by chapter 75 of title 31 1 1 So in original. Probably should be followed by a comma. and a brief annual program report.
+- **(b)** The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in the preceding subsection of this section, have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to in the preceding subsection.
+- **(c)** Each recipient of Federal financial assistance referred to in subsection (a) of this section shall make such reports and information available to the Indian people served or represented by such recipient as and in a manner determined to be adequate by the appropriate Secretary.
+- **(d)** Except as provided in section 13a or 450j–1(a)(3) 2 2 See References in Text note below. of this title, funds paid to a financial assistance recipient referred to in subsection (a) of this section and not expended or used for the purposes for which paid shall be repaid to the Treasury of the United States through the respective Secretary.
+- **(e)** The Secretary shall report annually in writing to each tribe regarding projected and actual staffing levels, funding obligations, and expenditures for programs operated directly by the Secretary serving that tribe.
+- **(f)**
+  - **(1)** For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract entered into, or grant made, under this subchapter, the tribal organization that requested such contract or grant shall submit to the appropriate Secretary a single-agency audit report required by chapter 75 of title 31.
+  - **(2)** In addition to submitting a single-agency audit report pursuant to paragraph (1), a tribal organization referred to in such paragraph shall submit such additional information concerning the conduct of the program, function, service, or activity carried out pursuant to the contract or grant that is the subject of the report as the tribal organization may negotiate with the Secretary.
+  - **(3)** Any disagreement over reporting requirements shall be subject to the declination criteria and procedures set forth in section 450f of this title .

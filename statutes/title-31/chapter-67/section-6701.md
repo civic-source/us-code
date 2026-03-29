@@ -3,9 +3,9 @@ title: "Section 6701 - Payments to local governments"
 usc_title: 31
 usc_section: "6701"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 6701"
-generated_at: "2026-03-29T02:14:14.111Z"
+generated_at: "2026-03-29T17:52:44.196Z"
 ---
 
 # § 6701. Payments to local governments
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T02:14:14.111Z"
   - **(3)** For purposes of this subsection—
     - **(A)** the term “small business concern” has the meaning such term has under section 3 of the Small Business Act;
     - **(B)** the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
-    - **(C)** the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) 1 1 See References in Text note below. of the Small Business Act ( 15 U.S.C. 632 ( o ) 2 2 So in original. Probably should be “632(p)”. ).
+    - **(C)** the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ( 15 U.S.C. 632 ( o ) 1 1 So in original. Probably should be “632(p)”. ).
 - **(g)**
   - **(1)** Funds made available under this chapter to units of local government shall not be used to supplant State or local funds, but will be used to increase the amount of funds that would, in the absence of funds under this chapter, be made available from State or local sources.
   - **(2)** The total level of funding available to a unit of local government for accounts serving eligible purposes under this chapter in the fiscal year immediately preceding receipt of a grant under this chapter shall be designated the “base level account” for the fiscal year in which a grant is received. Grants under this chapter in a given fiscal year shall be reduced on a dollar for dollar basis to the extent that a unit of local government reduces its base level account in that fiscal year.

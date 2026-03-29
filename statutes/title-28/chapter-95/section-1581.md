@@ -3,16 +3,16 @@ title: "Section 1581 - Civil actions against the United States and agencies and 
 usc_title: 28
 usc_section: "1581"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 1581"
-generated_at: "2026-03-29T02:14:04.554Z"
+generated_at: "2026-03-29T17:52:24.220Z"
 ---
 
 # § 1581. Civil actions against the United States and agencies and officers thereof
 
 - **(a)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to contest the denial of a protest, in whole or in part, under section 515 of the Tariff Act of 1930.
 - **(b)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516 of the Tariff Act of 1930.
-- **(c)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A or 517 of the Tariff Act of 1930.
+- **(c)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A of the Tariff Act of 1930.
 - **(d)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review—
   - **(1)** any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act;
   - **(2)** any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
@@ -25,13 +25,9 @@ generated_at: "2026-03-29T02:14:04.554Z"
   - **(2)** any decision of the Secretary of the Treasury to revoke or suspend a customs broker’s license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930; and
   - **(3)** any decision or order of the Customs Service to deny, suspend, or revoke accreditation of a private laboratory under section 499(b) of the Tariff Act of 1930.
 - **(h)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review, prior to the importation of the goods involved, a ruling issued by the Secretary of the Treasury, or a refusal to issue or change such a ruling, relating to classification, valuation, rate of duty, marking, restricted merchandise, entry requirements, drawbacks, vessel repairs, or similar matters, but only if the party commencing the civil action demonstrates to the court that he would be irreparably harmed unless given an opportunity to obtain judicial review prior to such importation.
-- **(i)**
-  - **(1)** In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
-    - **(A)** revenue from imports or tonnage;
-    - **(B)** tariffs, duties, fees, or other taxes on the importation of merchandise for reasons other than the raising of revenue;
-    - **(C)** embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
-    - **(D)** administration and enforcement with respect to the matters referred to in subparagraphs (A) through (C) of this paragraph and subsections (a)–(h) of this section.
-  - **(2)** This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable by—
-    - **(A)** the Court of International Trade under section 516A(a) of the Tariff Act of 1930 ( 19 U.S.C. 1516a(a) ); or
-    - **(B)** a binational panel under section 516A(g) of the Tariff Act of 1930 ( 19 U.S.C. 1516a(g) ).
+- **(i)** In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
+  - **(1)** revenue from imports or tonnage;
+  - **(2)** tariffs, duties, fees, or other taxes on the importation of merchandise for reasons other than the raising of revenue;
+  - **(3)** embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
+  - **(4)** administration and enforcement with respect to the matters referred to in paragraphs (1)–(3) of this subsection and subsections (a)–(h) of this section.
 - **(j)** The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.

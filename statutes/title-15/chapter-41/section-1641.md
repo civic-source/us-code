@@ -3,15 +3,15 @@ title: "Section 1641 - Liability of assignees"
 usc_title: 15
 usc_section: "1641"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1641"
-generated_at: "2026-03-29T02:11:34.200Z"
+generated_at: "2026-03-29T17:51:36.252Z"
 ---
 
 # § 1641. Liability of assignees
 
 - **(a)** Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under section 1607 of this title which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
-- **(b)** Except as provided in section 1635(c) of this title , in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
+- **(b)** Except as provided in section 1635(c) of this title , in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a) of this section, of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
 - **(c)** Any consumer who has the right to rescind a transaction under section 1635 of this title may rescind the transaction as against any assignee of the obligation.
 - **(d)**
   - **(1)** Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) 1 1 See References in Text note below. of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) 1 of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.

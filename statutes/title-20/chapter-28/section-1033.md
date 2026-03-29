@@ -3,9 +3,9 @@ title: "Section 1033 - Definitions"
 usc_title: 20
 usc_section: "1033"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1033"
-generated_at: "2026-03-29T02:12:17.188Z"
+generated_at: "2026-03-29T17:51:48.327Z"
 ---
 
 # § 1033. Definitions
@@ -24,10 +24,4 @@ In this subpart:
       - **(viii)** a Native American-serving, nontribal institution (as defined in section 1059f of this title );
     - **(B)** a consortium of institutions described in subparagraph (A); or
     - **(C)** an institution described in subparagraph (A), or a consortium described in subparagraph (B), in partnership with any other institution of higher education, but only if the center of excellence established under section 1033a of this title is located at an institution described in subparagraph (A).
-  - **(2)** The term “scientifically based reading research”—
-    - **(A)** means research that applies rigorous, systemic, and objective procedures to obtain valid knowledge relevant to reading development, reading instruction, and reading difficulties; and
-    - **(B)** includes research that—
-      - **(i)** employs systemic, empirical methods that draw on observation or experiment;
-      - **(ii)** involves rigorous data analyses that are adequate to test the stated hypotheses and justify the general conclusions drawn;
-      - **(iii)** relies on measurements or observational methods that provide valid data across evaluators and observers and across multiple measurements and observations; and
-      - **(iv)** has been accepted by a peer-reviewed journal or approved by a panel of independent experts through a comparably rigorous, objective, and scientific review.
+  - **(2)** The term “scientifically based reading research” has the meaning given such term in section 6368 of this title .

@@ -1,0 +1,17 @@
+---
+title: "Section 3357 - Submission of petitions"
+usc_title: 19
+usc_section: "3357"
+chapter: 21
+current_through: "PL 113-100"
+classification: "19 U.S.C. § 3357"
+generated_at: "2026-03-29T17:51:51.326Z"
+---
+
+# § 3357. Submission of petitions
+
+A petition for import relief may be submitted to the International Trade Commission under—
+
+  - **(1)** this subpart;
+  - **(2)** chapter 1 of title II of the Trade Act of 1974 [ 19 U.S.C. 2251 et seq.]; or
+  - **(3)** under both this subpart and such chapter 1 at the same time, in which case the International Trade Commission shall consider such petitions jointly.

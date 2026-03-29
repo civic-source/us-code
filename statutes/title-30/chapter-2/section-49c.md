@@ -3,9 +3,9 @@ title: "Section 49c - Recording notices of location of Alaskan mining claims"
 usc_title: 30
 usc_section: "49c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 49c"
-generated_at: "2026-03-29T02:14:11.193Z"
+generated_at: "2026-03-29T17:52:16.699Z"
 ---
 
 # § 49c. Recording notices of location of Alaskan mining claims

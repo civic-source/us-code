@@ -1,27 +1,20 @@
 ---
-title: "Section 1 - Definitions"
+title: "Section 1 - Board of Directors of Foundation"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T02:11:53.615Z"
+generated_at: "2026-03-29T17:51:56.727Z"
 ---
 
-# § 583k–1. Definitions
+# § 583j–1. Board of Directors of Foundation
 
-In this subchapter:
-
-  - **(1)** The term “Administrative Unit” means a national forest or national grassland.
-  - **(2)** The term “outfitter or guide” means an individual, organization, or business who provides outfitting or guiding services, as defined in section 251.51 of title 36, Code of Federal Regulations.
-  - **(3)** The term “partner” means a non-Federal entity that engages in a partnership.
-  - **(4)** The term “partnership” means arrangements between the Department of Agriculture or the Forest Service and a non-Federal entity that are voluntary, mutually beneficial, and entered into for the purpose of mutually agreed-upon objectives.
-  - **(5)** The term “priority area” means a well-defined region on National Forest System land selected by the Secretary under section 583k–3(a) of this title .
-  - **(6)** The term “Secretary” means the Secretary of Agriculture.
-  - **(7)** The term “strategy” means the National Forest System Trails Volunteer and Partnership Strategy authorized by section 583k–2(a) of this title .
-  - **(8)** The term “trail maintenance” means any activity to maintain the usability and sustainability of trails within the National Forest System, including—
-    - **(A)** ensuring trails are passable by the users for which they are managed;
-    - **(B)** preventing environmental damage resulting from trail deterioration;
-    - **(C)** protecting public safety; and
-    - **(D)** averting future deferred maintenance costs.
-  - **(9)** The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ( 16 U.S.C. 558a et seq.). 1 1 See References in Text note below.
+- **(a)** The Foundation shall have a governing Board of Directors (hereinafter referred to as the “Board”), which shall consist of not more than 30 Directors, each of whom shall be a United States citizen. At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty. At all times, a majority of members of the Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
+- **(b)** Within one year from November 16, 1990 , the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
+- **(c)** The Chairman shall be elected by the Board from its members. A chairman shall serve for a two-year term, and may be re-elected to the post during his tenure as a Director.
+- **(d)** A majority of the current voting membership of the Board shall constitute a quorum for the transaction of business.
+- **(e)** The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board by majority vote of the Board of Directors and that vacancy filled in accordance with subsection (b) of this section.
+- **(f)** Voting members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
+- **(g)** The Board may complete the organization of the Foundation by appointing employees, adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this subchapter, and undertaking other such acts as may be necessary to function and to carry out the provisions of this subchapter.
+- **(h)** Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.

@@ -3,21 +3,21 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-29T02:14:00.712Z"
+generated_at: "2026-03-29T17:52:39.076Z"
 ---
 
 # § 26. Limitation based on tax liability; definition of tax liability
 
 - **(a)** The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
-  - **(1)** the taxpayer’s regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27, and
+  - **(1)** the taxpayer’s regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
   - **(2)** the tax imposed by section 55(a) for the taxable year.
 - **(b)** For purposes of this part—
   - **(1)** The term “regular tax liability” means the tax imposed by this chapter for the taxable year.
   - **(2)** For purposes of paragraph (1), any tax imposed by any of the following provisions shall not be treated as tax imposed by this chapter:
     - **(A)** section 55 (relating to minimum tax),
-    - **(B)** section 59A (relating to base erosion and anti-abuse tax),
+    - **(B)** section 59A (relating to environmental tax),
     - **(C)** subsection (m)(5)(B), (q), (t), or (v) of section 72 (relating to additional taxes on certain distributions),
     - **(D)** section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
     - **(E)** section 530(d)(4) (relating to additional tax on certain distributions from Coverdell education savings accounts),
@@ -31,15 +31,13 @@ generated_at: "2026-03-29T02:14:00.712Z"
     - **(M)** section 860E(e) (relating to taxes with respect to certain residual interests),
     - **(N)** section 884 (relating to branch profits tax),
     - **(O)** sections 453( l )(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
-    - **[(P)** Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(2) , Mar. 23, 2018 , 132 Stat. 1201 .]
+    - **(P)** section 860K 1 1 See References in Text note below. (relating to treatment of transfers of high-yield interests to disqualified holders),
     - **(Q)** section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses),
     - **(R)** section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
     - **(S)** sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),
     - **(T)** section 170( o )(3)(B) (relating to recapture of certain deductions for fractional gifts),
     - **(U)** section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses),
     - **(V)** subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
-    - **(W)** section 36(f) (relating to recapture of homebuyer credit),
-    - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation),
-    - **(Y)** section 529A(c)(3)(A) (relating to additional tax on ABLE account distributions not used for qualified disability expenses), and
-    - **(Z)** section 24(j)(2) (relating to excess advance payments).
+    - **(W)** section 36(f) (relating to recapture of homebuyer credit), and
+    - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation).
 - **(c)** For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).

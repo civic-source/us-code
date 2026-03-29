@@ -3,9 +3,9 @@ title: "Section 407 - International postal arrangements"
 usc_title: 39
 usc_section: "407"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 407"
-generated_at: "2026-03-29T02:14:53.115Z"
+generated_at: "2026-03-29T17:52:57.899Z"
 ---
 
 # § 407. International postal arrangements
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:14:53.115Z"
     - **(C)** shall maintain continuing liaison with the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives;
     - **(D)** shall maintain appropriate liaison with both representatives of the Postal Service and representatives of users and private providers of international postal services and other international delivery services to keep informed of their interests and problems, and to provide such assistance as may be needed to ensure that matters of concern are promptly considered by the Department of State or (if applicable, and to the extent practicable) other executive branch agencies; and
     - **(E)** shall assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international postal services and international delivery services.
-  - **(3)** The Secretary of State shall establish an advisory committee (within the meaning of chapter 10 of title 5) to perform such functions as the Secretary considers appropriate in connection with carrying out subparagraphs (A) through (D) of paragraph (2).
+  - **(3)** The Secretary of State shall establish an advisory committee (within the meaning of the Federal Advisory Committee Act) to perform such functions as the Secretary considers appropriate in connection with carrying out subparagraphs (A) through (D) of paragraph (2).
 - **(c)**
   - **(1)** Before concluding any treaty, convention, or amendment that establishes a rate or classification for a product subject to subchapter I of chapter 36, the Secretary of State shall request the Postal Regulatory Commission to submit its views on whether such rate or classification is consistent with the standards and criteria established by the Commission under section 3622.
   - **(2)** The Secretary shall ensure that each treaty, convention, or amendment concluded under subsection (b) is consistent with the views submitted by the Commission pursuant to paragraph (1), except if, or to the extent, the Secretary determines, in writing, that it is not in the foreign policy or national security interest of the United States to ensure consistency with the Commission’s views. Such written determination shall be provided to the Commission together with a full explanation of the reasons thereof, provided that the Secretary may designate which portions of the determination or explanation shall be kept confidential for reasons of foreign policy or national security.
@@ -33,5 +33,5 @@ generated_at: "2026-03-29T02:14:53.115Z"
 - **(e)**
   - **(1)** In this subsection, the term “private company” means a private company substantially owned or controlled by persons who are citizens of the United States.
   - **(2)** With respect to shipments of international mail that are competitive products within the meaning of section 3631 that are exported or imported by the Postal Service, the Customs Service and other appropriate Federal agencies shall apply the customs laws of the United States and all other laws relating to the importation or exportation of such shipments in the same manner to both shipments by the Postal Service and similar shipments by private companies.
-  - **(3)** In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary’s control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
+  - **(3)** In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary’s control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of Customs in carrying out this paragraph.
   - **(4)** The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.

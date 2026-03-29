@@ -3,9 +3,9 @@ title: "Section 6331 - Levy and distraint"
 usc_title: 26
 usc_section: "6331"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6331"
-generated_at: "2026-03-29T02:14:01.331Z"
+generated_at: "2026-03-29T17:52:39.561Z"
 ---
 
 # § 6331. Levy and distraint
@@ -25,9 +25,8 @@ generated_at: "2026-03-29T02:14:01.331Z"
     - **(B)** the procedures applicable to the levy and sale of property under this title,
     - **(C)** the administrative appeals available to the taxpayer with respect to such levy and sale and the procedures relating to such appeals,
     - **(D)** the alternatives available to taxpayers which could prevent levy on the property (including installment agreements under section 6159),
-    - **(E)** the provisions of this title relating to redemption of property and release of liens on property,
-    - **(F)** the procedures applicable to the redemption of property and the release of a lien on property under this title, and
-    - **(G)** the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
+    - **(E)** the provisions of this title relating to redemption of property and release of liens on property, and
+    - **(F)** the procedures applicable to the redemption of property and the release of a lien on property under this title.
 - **(e)** The effect of a levy on salary or wages payable to or received by a taxpayer shall be continuous from the date such levy is first made until such levy is released under section 6343.
 - **(f)** No levy may be made on any property if the amount of the expenses which the Secretary estimates (at the time of levy) would be incurred by the Secretary with respect to the levy and sale of such property exceeds the fair market value of such property at the time of levy.
 - **(g)**
@@ -39,7 +38,7 @@ generated_at: "2026-03-29T02:14:01.331Z"
     - **(A)** any Federal payment other than a payment for which eligibility is based on the income or assets (or both) of a payee,
     - **(B)** any payment described in paragraph (4), (7), (9), or (11) of section 6334(a), and
     - **(C)** any annuity or pension payment under the Railroad Retirement Act or benefit under the Railroad Unemployment Insurance Act.
-  - **(3)** Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “100 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
+  - **(3)** Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government.
 - **(i)**
   - **(1)** No levy may be made under subsection (a) on the property or rights to property of any person with respect to any unpaid divisible tax during the pendency of any proceeding brought by such person in a proper Federal trial court for the recovery of any portion of such divisible tax which was paid by such person if—
     - **(A)** the decision in such proceeding would be res judicata with respect to such unpaid tax; or

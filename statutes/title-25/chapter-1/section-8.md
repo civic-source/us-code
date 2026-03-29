@@ -3,9 +3,9 @@ title: "Section 8 - Accounts for claims and disbursements"
 usc_title: 25
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 8"
-generated_at: "2026-03-29T02:13:20.832Z"
+generated_at: "2026-03-29T17:52:05.882Z"
 ---
 
 # § 8. Accounts for claims and disbursements

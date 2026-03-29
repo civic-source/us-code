@@ -3,14 +3,14 @@ title: "Section 3007 - Seniors farmers’ market nutrition program"
 usc_title: 7
 usc_section: "3007"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3007"
-generated_at: "2026-03-29T02:10:16.980Z"
+generated_at: "2026-03-29T17:50:48.745Z"
 ---
 
 # § 3007. Seniors farmers’ market nutrition program
 
-- **(a)** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2023.
+- **(a)** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2018.
 - **(b)** The purposes of the seniors farmers’ market nutrition program are—
   - **(1)** to provide resources in the form of fresh, nutritious, unprepared, locally grown fruits, vegetables, honey, and herbs from farmers’ markets, roadside stands, and community supported agriculture programs to low-income seniors;
   - **(2)** to increase the domestic consumption of agricultural commodities by expanding or aiding in the expansion of domestic farmers’ markets, roadside stands, and community supported agriculture programs; and

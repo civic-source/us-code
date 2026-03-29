@@ -3,9 +3,9 @@ title: "Section 5921 - Biotechnology risk assessment research"
 usc_title: 7
 usc_section: "5921"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5921"
-generated_at: "2026-03-29T02:10:17.051Z"
+generated_at: "2026-03-29T17:50:48.797Z"
 ---
 
 # § 5921. Biotechnology risk assessment research
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T02:10:17.051Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated such sums as necessary to carry out this section.
   - **(2)** The Secretary of Agriculture shall withhold from outlays of the Department of Agriculture for research on biotechnology, as defined and determined by the Secretary, at least 2 percent of such amount for the purpose of making grants under this section for research on biotechnology risk assessment.
-  - **(3)** Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c).
+  - **(3)** Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c) of this section.

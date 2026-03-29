@@ -3,9 +3,9 @@ title: "Section 3142 - Release or detention of a defendant pending trial"
 usc_title: 18
 usc_section: "3142"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 3142"
-generated_at: "2026-03-29T02:12:02.473Z"
+generated_at: "2026-03-29T17:53:15.716Z"
 ---
 
 # § 3142. Release or detention of a defendant pending trial
@@ -15,10 +15,10 @@ generated_at: "2026-03-29T02:12:02.473Z"
   - **(2)** released on a condition or combination of conditions under subsection (c) of this section;
   - **(3)** temporarily detained to permit revocation of conditional release, deportation, or exclusion under subsection (d) of this section; or
   - **(4)** detained under subsection (e) of this section.
-- **(b)** The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a ), 1 1 See References in Text note below. unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
+- **(b)** The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a ), unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
 - **(c)**
   - **(1)** If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
-    - **(A)** subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a ); 1 and
+    - **(A)** subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a ); and
     - **(B)** subject to the least restrictive further condition, or combination of conditions, that such judicial officer determines will reasonably assure the appearance of the person as required and the safety of any other person and the community, which may include the condition that the person—
       - **(i)** remain in the custody of a designated person, who agrees to assume supervision and to report any violation of a release condition to the court, if the designated person is able reasonably to assure the judicial officer that the person will appear as required and will not pose a danger to the safety of any other person or the community;
       - **(ii)** maintain employment, or, if unemployed, actively seek employment;

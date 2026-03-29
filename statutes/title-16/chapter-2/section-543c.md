@@ -3,9 +3,9 @@ title: "Section 543c - Administration"
 usc_title: 16
 usc_section: "543c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 543c"
-generated_at: "2026-03-29T02:11:53.593Z"
+generated_at: "2026-03-29T17:51:56.708Z"
 ---
 
 # § 543c. Administration
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:11:53.593Z"
     - **(B)** cause substantial damage to significant resources adjacent to the Scenic Area.
 - **(c)** The Secretary shall permit those persons holding currently valid grazing permits within the boundary of the Scenic Area to continue to exercise such permits consistent with other applicable law.
 - **(d)** The Secretary may enter into cooperative agreements with the State of California and any political subdivision thereof (including the city of Los Angeles) for purposes of protecting Scenic Area resources and administering areas owned by the State or by any such political subdivision which are within the Scenic Area.
-- **(e)** Within three years after September 28, 1984 , the Secretary shall submit to the committees referred to in section 543 of this title , a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1). The plan shall include but not be limited to—
+- **(e)** Within three years after September 28, 1984 , the Secretary shall submit to the committees referred to in section 543 of this title , a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1) of this section. The plan shall include but not be limited to—
   - **(1)** an inventory of natural (including geologic) and cultural resources;
   - **(2)** general development plans for public use facilities, including cost estimates; and
   - **(3)** measures for the preservation of the natural and cultural resources of the Scenic Area in accordance with subsections (a) and (b) of this section.

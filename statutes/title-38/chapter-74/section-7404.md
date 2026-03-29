@@ -3,20 +3,16 @@ title: "Section 7404 - Grades and pay scales"
 usc_title: 38
 usc_section: "7404"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7404"
-generated_at: "2026-03-29T02:14:50.480Z"
+generated_at: "2026-03-29T17:52:53.838Z"
 ---
 
 # § 7404. Grades and pay scales
 
 - **(a)**
-  - **(1)**
-    - **(A)** The annual rates or ranges of rates of basic pay for positions provided in section 1 1 So in original. Probably should be “sections”. 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
-    - **(B)** Section 5377 of title 5 shall apply to a position under section 7306 or 7401(4) of this title as if such position were included in the definition of “position” in section 5377(a) of title 5 .
-  - **(2)**
-    - **(A)** The pay of physicians, podiatrists, optometrists, and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
-    - **(B)** The basic pay of registered nurses and physician assistants serving in positions to which an Executive order applies under paragraph (1) may be determined under subchapter IV of this chapter instead of such Executive order. Such positions shall not otherwise be covered by such subchapter, except with respect to bonuses under section 7452 or 7458 or special pay under subsection (g) of such section 7452.
+  - **(1)** The annual rates or ranges of rates of basic pay for positions provided in section 7306 of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
+  - **(2)** The pay of physicians and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
   - **(3)**
     - **(A)** The rate of basic pay for a position to which an Executive order applies under paragraph (1) and is not described by paragraph (2) shall be set in accordance with section 5382 of title 5 as if such position were a Senior Executive Service position (as such term is defined in section 3132(a) of title 5 ).
     - **(B)** A rate of basic pay for a position may not be set under subparagraph (A) in excess of—
@@ -24,8 +20,6 @@ generated_at: "2026-03-29T02:14:50.480Z"
       - **(ii)** in the case that the position is covered by a performance appraisal system that meets the certification criteria established by regulation under section 5307(d) of title 5 , the rate of basic pay payable for level II of the Executive Schedule.
     - **(C)** Notwithstanding the provisions of subsection (d) of section 5307 of title 5 , the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 - **(b)** The grades for positions provided for in paragraph (1) of section 7401 of this title shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
-- **(c)**
-  - **(1)** Notwithstanding the provisions of section 7425(a) of this title , a person appointed under section 7306 or 7401(4) of this title or in a covered executive position under section 7401(1) of this title shall be deemed to be a career appointee for the purposes of section 4507 of title 5 .
-  - **(2)** In this subsection, the term “covered executive position” means a position that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5 ) and is subject to an agency performance management system.
-- **(d)** Except as provided under subsection (e), subchapter III, and section 7457 of this title , and except for individuals appointed under sections 7401(4) and 7306 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
-- **(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid basic pay at a rate determined by the Secretary, not to exceed the maximum rates established under subchapter IV of this chapter.
+- **(c)** Notwithstanding the provisions of section 7425(a) of this title , a person appointed under section 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
+- **(d)** Except as provided under subsection (e), subchapter III, and section 7457 of this title , pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
+- **(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under section 5382 of title 5 .

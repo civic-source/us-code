@@ -3,19 +3,19 @@ title: "Section 2022 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2022"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2022"
-generated_at: "2026-03-29T02:09:53.752Z"
+generated_at: "2026-03-29T17:50:24.099Z"
 ---
 
 # § 2022. Acquisition of buildings and facilities for use in emergency situation
 
 - **(a)** Notwithstanding any other provision of law, in order to respond to an emergency situation, the Sergeant at Arms of the Senate may acquire buildings and facilities, subject to the availability of appropriations, for the use of the Senate, as appropriate, by lease, purchase, or such other arrangement as the Sergeant at Arms of the Senate considers appropriate (including a memorandum of understanding with the head of an executive agency, as defined in section 105 of title 5 , in the case of a building or facility under the control of such Agency). Actions taken by the Sergeant at Arms of the Senate must be approved by the Committees on Appropriations and Rules and Administration.
-- **(b)** Notwithstanding any other provision of law, for purposes of carrying out subsection (a), the Sergeant at Arms of the Senate may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Sergeant at Arms of the Senate considers appropriate, including—
+- **(b)** Notwithstanding any other provision of law, for purposes of carrying out subsection (a) of this section, the Sergeant at Arms of the Senate may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Sergeant at Arms of the Senate considers appropriate, including—
   - **(1)** agreements with the United States Capitol Police or any other entity relating to the policing of such building or facility; and
   - **(2)** agreements with the Architect of the Capitol or any other entity relating to the care and maintenance of such building or facility.
 - **(c)**
-  - **(1)** Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Sergeant at Arms of the Senate pursuant to subsection (b).
+  - **(1)** Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Sergeant at Arms of the Senate pursuant to subsection (b) of this section.
   - **(2)**
-- **(d)** Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a).
+- **(d)** Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a) of this section.
 - **(e)** This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.

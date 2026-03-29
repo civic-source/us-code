@@ -1,14 +1,14 @@
 ---
-title: "Section 8036 - Deputy Chiefs of Naval Operations"
+title: "Section 8036 - Surgeon General: appointment; grade"
 usc_title: 10
 usc_section: "8036"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 8036"
-generated_at: "2026-03-29T02:10:45.293Z"
+generated_at: "2026-03-29T17:50:57.240Z"
 ---
 
-# § 8036. Deputy Chiefs of Naval Operations
+# § 8036. Surgeon General: appointment; grade
 
-- **(a)** There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations, detailed by the Secretary of the Navy from officers on the active-duty list of the Navy serving in grades above captain. The Secretary of the Navy shall prescribe the number of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 8037 of this title , for a total of not more than eight positions.
-- **(b)** The Deputy Chiefs of Naval Operations are charged, under the direction of the Chief of Naval Operations, with the execution of the functions of their respective divisions. Orders issued by the Deputy Chiefs of Naval Operations in performing the duties assigned them are considered as coming from the Chief of Naval Operations.
+There is a Surgeon General of the Air Force who is appointed by the President by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department. The Surgeon General, while so serving, has the grade of lieutenant general.
+

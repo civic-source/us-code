@@ -1,12 +1,14 @@
 ---
-title: "Section 1050 - Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1) , Dec. 23, 2016 , 130 Stat. 2516 ]"
+title: "Section 1050 - Latin American cooperation: payment of personnel expenses"
 usc_title: 10
 usc_section: "1050"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1050"
-generated_at: "2026-03-29T02:10:44.951Z"
+generated_at: "2026-03-29T17:50:56.998Z"
 ---
 
-# [§ 1050. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1) , Dec. 23, 2016 , 130 Stat. 2516 ]
+# § 1050. Latin American cooperation: payment of personnel expenses
+
+The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of Latin American countries and other expenses that the Secretary considers necessary for Latin American cooperation.
 

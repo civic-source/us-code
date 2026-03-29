@@ -3,9 +3,9 @@ title: "Section 1159 - Adjustment of status of refugees"
 usc_title: 8
 usc_section: "1159"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1159"
-generated_at: "2026-03-29T02:10:21.398Z"
+generated_at: "2026-03-29T17:50:41.313Z"
 ---
 
 # § 1159. Adjustment of status of refugees
@@ -15,11 +15,11 @@ generated_at: "2026-03-29T02:10:21.398Z"
     - **(A)** whose admission has not been terminated by the Secretary of Homeland Security or the Attorney General pursuant to such regulations as the Secretary of Homeland Security or the Attorney General may prescribe,
     - **(B)** who has been physically present in the United States for at least one year, and
     - **(C)** who has not acquired permanent resident status,
-  - **(2)** Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c)) as an immigrant under this chapter at the time of the alien’s inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien’s arrival into the United States.
+  - **(2)** Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of the alien’s inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien’s arrival into the United States.
 - **(b)** The Secretary of Homeland Security or the Attorney General, in the Secretary’s or the Attorney General’s discretion and under such regulations as the Secretary or the Attorney General may prescribe, may adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
   - **(1)** applies for such adjustment,
   - **(2)** has been physically present in the United States for at least one year after being granted asylum,
   - **(3)** continues to be a refugee within the meaning of section 1101(a)(42)(A) of this title or a spouse or child of such a refugee,
   - **(4)** is not firmly resettled in any foreign country, and
-  - **(5)** is admissible (except as otherwise provided under subsection (c)) as an immigrant under this chapter at the time of examination for adjustment of such alien.
+  - **(5)** is admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of examination for adjustment of such alien.
 - **(c)** The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Secretary of Homeland Security or the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.

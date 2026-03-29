@@ -3,9 +3,9 @@ title: "Section 68d - Transferred"
 usc_title: 2
 usc_section: "68d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 68d"
-generated_at: "2026-03-29T02:09:53.636Z"
+generated_at: "2026-03-29T17:50:23.989Z"
 ---
 
 # § 68d. Transferred

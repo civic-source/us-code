@@ -3,9 +3,9 @@ title: "Section 5521 - Definitions"
 usc_title: 5
 usc_section: "5521"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5521"
-generated_at: "2026-03-29T02:10:01.865Z"
+generated_at: "2026-03-29T17:50:36.483Z"
 ---
 
 # § 5521. Definitions
@@ -16,7 +16,7 @@ For the purpose of this subchapter—
     - **(A)** an Executive agency;
     - **(B)** the judicial branch;
     - **(C)** the Library of Congress;
-    - **(D)** the Government Publishing Office; and
+    - **(D)** the Government Printing Office; and
     - **(E)** the government of the District of Columbia;
   - **(2)** “employee” means an individual employed in or under an agency;
   - **(3)** “head of each agency” means—

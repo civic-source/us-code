@@ -3,9 +3,9 @@ title: "Section 608 - Construction of fishways"
 usc_title: 33
 usc_section: "608"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 608"
-generated_at: "2026-03-29T02:14:18.502Z"
+generated_at: "2026-03-29T17:52:45.902Z"
 ---
 
 # § 608. Construction of fishways

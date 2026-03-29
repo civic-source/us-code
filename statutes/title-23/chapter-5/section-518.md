@@ -3,14 +3,14 @@ title: "Section 518 - Vehicle-to-vehicle and vehicle-to-infrastructure communica
 usc_title: 23
 usc_section: "518"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 518"
-generated_at: "2026-03-29T02:13:00.979Z"
+generated_at: "2026-03-29T17:52:01.454Z"
 ---
 
 # § 518. Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment
 
-- **(a)** Not later than July 6, 2016 , the Secretary shall make available to the public on a Department of Transportation website a report that—
+- **(a)** Not later than 3 years after the date of enactment of this section, the Secretary shall submit to the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Science, Space, and Technology of the House of Representatives that—
   - **(1)** assesses the status of dedicated short-range communications technology and applications developed through research and development;
   - **(2)** analyzes the known and potential gaps in short-range communications technology and applications;
   - **(3)** defines a recommended implementation path for dedicated short-range communications technology and applications that—

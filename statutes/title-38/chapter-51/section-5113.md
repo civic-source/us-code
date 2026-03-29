@@ -3,9 +3,9 @@ title: "Section 5113 - Effective dates of educational benefits"
 usc_title: 38
 usc_section: "5113"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 5113"
-generated_at: "2026-03-29T02:14:50.451Z"
+generated_at: "2026-03-29T17:52:53.799Z"
 ---
 
 # § 5113. Effective dates of educational benefits
@@ -20,5 +20,5 @@ generated_at: "2026-03-29T02:14:50.451Z"
   - **(3)** In this subsection:
     - **(A)** The term “eligibility date” means the date on which an individual becomes an eligible person.
     - **(B)** The term “eligible person” has the meaning given that term under subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title .
-    - **(C)** The term “initial rating decision” means with respect to an eligible person a decision made by the Secretary that establishes (i) service connection for the death of the person from whom such eligibility is derived or (ii) the existence of the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service) of the person from whom such eligibility is derived, as the case may be.
+    - **(C)** The term “initial rating decision” means with respect to an eligible person a decision made by the Secretary that establishes (i) service connection for the death of the person from whom such eligibility is derived or (ii) the existence of the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived, as the case may be.
 - **(c)** The effective date of an adjustment of benefits under any chapter referred to in subsection (a) of this section, if made on the basis of a certification made by the veteran or person and accepted by the Secretary under section 3680(g) of this title , shall be the date of the change.

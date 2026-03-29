@@ -1,12 +1,39 @@
 ---
-title: "Section 5953 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607"
+title: "Section 5953 - Demilitarization Enterprise Fund"
 usc_title: 22
 usc_section: "5953"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5953"
-generated_at: "2026-03-29T02:12:40.368Z"
+generated_at: "2026-03-29T17:52:10.650Z"
 ---
 
-# §§ 5952, 5953. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607
+# § 5953. Demilitarization Enterprise Fund
 
+- **(a)** The President is authorized to designate a Demilitarization Enterprise Fund for the purposes of this section. The President may designate as the Demilitarization Enterprise Fund any organization that satisfies the requirements of subsection (e) of this section.
+- **(b)** The purpose of the Demilitarization Enterprise Fund is to receive grants pursuant to this section and to use the grant proceeds to provide financial support under programs described in subsection (b)(5) of this section for demilitarization of industries and conversion of military technologies and capabilities into civilian activities.
+- **(c)** The President may make one or more grants to the Demilitarization Enterprise Fund.
+- **(d)** The Demilitarization Enterprise Fund shall use the proceeds of grants received under this section to provide financial support in accordance with subsection (b) of this section through transactions as follows:
+  - **(1)** Making loans.
+  - **(2)** Making grants.
+  - **(3)** Providing collateral for loan guaranties by the Export-Import Bank of the United States.
+  - **(4)** Taking equity positions.
+  - **(5)** Providing venture capital in joint ventures with United States industry.
+  - **(6)** Providing risk capital through any other form of transaction that the President considers appropriate for supporting programs described in subsection (b)(5) of this section.
+- **(e)** An organization is eligible for designation as the Demilitarization Enterprise Fund if the organization—
+  - **(1)** is a private, nonprofit organization;
+  - **(2)** is governed by a board of directors consisting of private citizens of the United States; and
+  - **(3)** provides assurances acceptable to the President that it will use grants received under this section to provide financial support in accordance with this section.
+- **(f)** The following provisions of section 5421 of this title shall apply with respect to the Demilitarization Enterprise Fund in the same manner as such provisions apply to Enterprise Funds designated pursuant to subsection (d) of such section:
+  - **(1)** Subsection (d)(5), relating to the private character of Enterprise Funds.
+  - **(2)** Subsection (h), relating to retention of interest earned in interest bearing accounts.
+  - **(3)** Subsection (i), relating to use of United States private venture capital.
+  - **(4)** Subsection (k), relating to support from Executive agencies.
+  - **(5)** Subsection ( l ), relating to limitation on payments to Fund personnel.
+  - **(6)** Subsections (m) and (n), relating to audits.
+  - **(7)** Subsection ( o ), relating to record keeping requirements.
+  - **(8)** Subsection (p), relating to annual reports.
+- **(g)** To the maximum extent practicable, the Board of Directors of the Demilitarization Enterprise Fund should adopt for that Fund practices and procedures that have been developed by Enterprise Funds for which funding has been made available pursuant to section 5421 of this title .
+- **(h)** In the implementation of this section, the Secretary of State and the Administrator of the Agency for International Development shall be consulted to ensure that the Articles of Incorporation of the Fund (including provisions specifying the responsibilities of the Board of Directors of the Fund), the terms of United States Government grant agreements with the Fund, and United States Government oversight of the Fund are, to the maximum extent practicable, consistent with the Articles of Incorporation of, the terms of grant agreements with, and the oversight of the Enterprise Funds established pursuant to section 5421 of this title and comparable provisions of law.
+- **(i)** The Board of Directors of the Demilitarization Enterprise Fund shall publish the first annual report of the Fund not later than January 31, 1995 .
+- **(j)** A designation of an organization as the Demilitarization Enterprise Fund under subsection (a) of this section shall be temporary. When making the designation, the President shall provide for the eventual termination of the designation.

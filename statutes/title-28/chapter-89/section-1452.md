@@ -3,9 +3,9 @@ title: "Section 1452 - Removal of claims related to bankruptcy cases"
 usc_title: 28
 usc_section: "1452"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 1452"
-generated_at: "2026-03-29T02:14:04.553Z"
+generated_at: "2026-03-29T17:52:24.218Z"
 ---
 
 # § 1452. Removal of claims related to bankruptcy cases

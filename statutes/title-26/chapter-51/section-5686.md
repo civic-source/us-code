@@ -3,9 +3,9 @@ title: "Section 5686 - Penalty for having, possessing, or using liquor or proper
 usc_title: 26
 usc_section: "5686"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 5686"
-generated_at: "2026-03-29T02:14:01.269Z"
+generated_at: "2026-03-29T17:52:39.504Z"
 ---
 
 # § 5686. Penalty for having, possessing, or using liquor or property intended to be used in violating provisions of this chapter

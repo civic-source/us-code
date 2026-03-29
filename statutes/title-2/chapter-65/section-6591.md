@@ -1,12 +1,14 @@
 ---
-title: "Section 6591 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H) , Dec. 20, 2019 , 133 Stat. 2776"
+title: "Section 6591 - Compensation of Sergeant at Arms and Doorkeeper of Senate"
 usc_title: 2
 usc_section: "6591"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 6591"
-generated_at: "2026-03-29T02:09:53.802Z"
+generated_at: "2026-03-29T17:50:24.142Z"
 ---
 
-# § 6591. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H) , Dec. 20, 2019 , 133 Stat. 2776
+# § 6591. Compensation of Sergeant at Arms and Doorkeeper of Senate
+
+The Sergeant at Arms and Doorkeeper of the Senate shall be paid at an annual rate of compensation of $40,000.
 

@@ -3,9 +3,9 @@ title: "Section 70511 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "70511"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 70511"
-generated_at: "2026-03-29T02:14:41.353Z"
+generated_at: "2026-03-29T17:52:49.357Z"
 ---
 
 # § 70511. Liability for acts of officers and agents

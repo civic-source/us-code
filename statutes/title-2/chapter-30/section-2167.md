@@ -3,16 +3,16 @@ title: "Section 2167 - Congressional Award Youth Park"
 usc_title: 2
 usc_section: "2167"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2167"
-generated_at: "2026-03-29T02:09:53.759Z"
+generated_at: "2026-03-29T17:50:24.104Z"
 ---
 
 # § 2167. Congressional Award Youth Park
 
-- **(a)** The parcel of approximately 5 acres of land located on the Capitol Grounds and described in subsection (b) shall be known and designated as the “Congressional Award Youth Park”.
+- **(a)** The parcel of approximately 5 acres of land located on the Capitol Grounds and described in subsection (b) of this section shall be known and designated as the “Congressional Award Youth Park”.
 - **(b)**
-  - **(1)** The parcel of land described in subsection (a) is—
+  - **(1)** The parcel of land described in subsection (a) of this section is—
     - **(A)** bounded on the north by Constitution Avenue, N.W.;
     - **(B)** bounded on the east by First Street, N.W.;
     - **(C)** bounded on the south by Pennsylvania Avenue, N.W.; and

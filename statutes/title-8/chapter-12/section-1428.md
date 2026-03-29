@@ -3,12 +3,14 @@ title: "Section 1428 - Temporary absence of persons performing religious duties"
 usc_title: 8
 usc_section: "1428"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1428"
-generated_at: "2026-03-29T02:10:21.469Z"
+generated_at: "2026-03-29T17:50:41.380Z"
 ---
 
 # § 1428. Temporary absence of persons performing religious duties
 
-Any person who is authorized to perform the ministerial or priestly functions of a religious denomination having a bona fide organization within the United States, or any person who is engaged solely by a religious denomination or by an interdenominational mission organization having a bona fide organization within the United States as a missionary, brother, nun, or sister, who (1) has been lawfully admitted to the United States for permanent residence, (2) has at any time thereafter and before filing an application for naturalization been physically present and residing within the United States for an uninterrupted period of at least one year, and (3) has heretofore been or may hereafter be absent temporarily from the United States in connection with or for the purpose of performing the ministerial or priestly functions of such religious denomination, or serving as a missionary, brother, nun, or sister, shall be considered as being physically present and residing in the United States for the purpose of naturalization within the meaning of section 1427(a) of this title , notwithstanding any such absence from the United States, if he shall in all other respects comply with the requirements of the naturalization law. Such person shall prove to the satisfaction of the Attorney General that his absence from the United States has been solely for the purpose of performing the ministerial or priestly functions of such religious denomination, or of serving as a missionary, brother, nun, or sister.
+  - **(1)** has been lawfully admitted to the United States for permanent residence,
+  - **(2)** has at any time thereafter and before filing an application for naturalization been physically present and residing within the United States for an uninterrupted period of at least one year, and
+  - **(3)** has heretofore been or may hereafter be absent temporarily from the United States in connection with or for the purpose of performing the ministerial or priestly functions of such religious denomination, or serving as a missionary, brother, nun, or sister, shall be considered as being physically present and residing in the United States for the purpose of naturalization within the meaning of section 1427(a) of this title , notwithstanding any such absence from the United States, if he shall in all other respects comply with the requirements of the naturalization law. Such person shall prove to the satisfaction of the Attorney General that his absence from the United States has been solely for the purpose of performing the ministerial or priestly functions of such religious denomination, or of serving as a missionary, brother, nun, or sister.
 

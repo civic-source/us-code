@@ -3,9 +3,9 @@ title: "Section 4713 - Incentives for depository institution participation"
 usc_title: 12
 usc_section: "4713"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4713"
-generated_at: "2026-03-29T02:11:21.226Z"
+generated_at: "2026-03-29T17:51:13.250Z"
 ---
 
 # § 4713. Incentives for depository institution participation
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:11:21.226Z"
     - **(A)** the Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act [ 12 U.S.C. 1813 ]) and the National Credit Union Administration;
     - **(B)** the individuals named pursuant to clauses (ii) and (iv) of section 4703(d)(2)(G) of this title ; and
     - **(C)** any other representatives of insured depository institutions or other persons as the Administrator may determine to be appropriate.
-  - **(2)** Subject to subsection (b) and the consultation requirement of paragraph (1)—
+  - **(2)** Subject to subsection (b) of this section and the consultation requirement of paragraph (1)—
     - **(A)** section 233 of the Bank Enterprise Act of 1991 [ 12 U.S.C. 1834a ] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the same extent that such section is applicable to the Community Enterprise Assessment Credit Board;
     - **(B)** the Administrator shall, for purposes of carrying out this section and section 233 of the Bank Enterprise Act of 1991 [ 12 U.S.C. 1834a ]—
       - **(i)** have all powers and rights of the Community Enterprise Assessment Credit Board under section 233 of the Bank Enterprise Act of 1991 to administer and enforce any provision of such section 233 which is applicable to the Administrator under this section; and

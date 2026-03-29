@@ -1,12 +1,14 @@
 ---
-title: "Section 747b - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(7), Jan. 1, 2021 , 134 Stat. 4759"
+title: "Section 747b - Lighthouse keepers; traveling expenses incurred in obtaining medical attention"
 usc_title: 33
 usc_section: "747b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 747b"
-generated_at: "2026-03-29T02:14:18.519Z"
+generated_at: "2026-03-29T17:52:45.917Z"
 ---
 
-# § 747b. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(7), Jan. 1, 2021 , 134 Stat. 4759
+# § 747b. Lighthouse keepers; traveling expenses incurred in obtaining medical attention
+
+On and after February 25, 1929 , the appropriation, “General expenses, Coast Guard,” shall be available, under rules prescribed by the Secretary of Transportation, for paying the actual and necessary traveling expenses of lighthouse keepers at isolated stations incurred in obtaining medical attention.
 

@@ -3,13 +3,13 @@ title: "Section 4342 - Limitations on disposition of personal prop­erty"
 usc_title: 22
 usc_section: "4342"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4342"
-generated_at: "2026-03-29T02:12:40.340Z"
+generated_at: "2026-03-29T17:52:10.626Z"
 ---
 
 # § 4342. Limitations on disposition of personal prop­erty
 
-- **(a)** Except as authorized under subsection (b), employees or members of their family shall not sell, assign, or otherwise dispose of personal property within a foreign country which was imported into or purchased within that foreign country and which, by virtue of the official status of the employee, was exempt from import limitation, customs duties, or taxes which would otherwise apply.
+- **(a)** Except as authorized under subsection (b) of this section, employees or members of their family shall not sell, assign, or otherwise dispose of personal property within a foreign country which was imported into or purchased within that foreign country and which, by virtue of the official status of the employee, was exempt from import limitation, customs duties, or taxes which would otherwise apply.
 - **(b)** The chief of mission to a foreign country, or a designee of such chief of mission, is authorized to approve within that foreign country sales, assignment, or other dispositions of property by employees under the chief of mission’s jurisdiction (as described in section 3927 of this title ) to the extent that such sale, assignment, or other disposition is in accordance with regulations and policies, rules, and procedures issued pursuant to section 4343 of this title .
 - **(c)** Violation of this section, or other importation, sale, or other disposition of personal property within a foreign country which violates its laws or regulations or governing international law and is prohibited by regulations and policies, rules, and procedures issued pursuant to section 4343 of this title , shall be grounds for disciplinary action against an employee.

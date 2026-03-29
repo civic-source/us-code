@@ -3,9 +3,9 @@ title: "Section 115 - Influencing, impeding, or retaliating against a Federal of
 usc_title: 18
 usc_section: "115"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 115"
-generated_at: "2026-03-29T02:12:02.355Z"
+generated_at: "2026-03-29T17:53:15.538Z"
 ---
 
 # § 115. Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member
@@ -34,4 +34,3 @@ generated_at: "2026-03-29T02:12:02.355Z"
   - **(3)** “United States judge” means any judicial officer of the United States, and includes a justice of the Supreme Court and a United States magistrate judge; and
   - **(4)** “United States official” means the President, President-elect, Vice President, Vice President-elect, a Member of Congress, a member-elect of Congress, a member of the executive branch who is the head of a department listed in 5 U.S.C. 101 , or the Director of the Central Intelligence Agency.
 - **(d)** This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
-- **(e)** There is extraterritorial jurisdiction over the conduct prohibited by this section.

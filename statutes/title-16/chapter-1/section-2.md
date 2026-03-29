@@ -1,21 +1,16 @@
 ---
-title: "Section 2 - Management plan"
+title: "Section 2 - Dominguez Canyon Wilderness Area"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T02:11:53.560Z"
+generated_at: "2026-03-29T17:51:56.671Z"
 ---
 
-# § 460ffff–2. Management plan
+# § 460zzz–2. Dominguez Canyon Wilderness Area
 
-- **(a)** Not later than 3 years after March 12, 2019 , in accordance with subsections (b) and (c), the Secretary shall develop a comprehensive plan for the long-term management of the Scenic Area.
-- **(b)** In developing the management plan, the Secretary shall consult with—
-  - **(1)** appropriate State, Tribal, and local governmental entities, including Inyo County and the Tribe;
-  - **(2)** utilities, including Southern California Edison Company and the Los Angeles Department of Water and Power;
-  - **(3)** the Alabama Hills Stewardship Group; and
-  - **(4)** members of the public.
-- **(c)** In accordance with this subchapter, the management plan shall include provisions for maintenance of existing public utility and other rights-of-way within the Scenic Area.
-- **(d)** In developing the management plan, in accordance with this section, the Secretary may allow casual use mining limited to the use of hand tools, metal detectors, hand-fed dry washers, vacuum cleaners, gold pans, small sluices, and similar items.
-- **(e)** Pending completion of the management plan, the Secretary shall manage the Scenic Area in accordance with section 460ffff–1(b) of this title .
+- **(a)** In accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), the approximately 66,280 acres of public land in Mesa, Montrose, and Delta Counties, Colorado, as generally depicted on the Map, is designated as wilderness and as a component of the National Wilderness Preservation System, to be known as the “Dominguez Canyon Wilderness Area”.
+- **(b)** The Wilderness shall be managed by the Secretary in accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.) and this subchapter, except that—
+  - **(1)** any reference in the Wilderness Act to the effective date of that Act shall be considered to be a reference to March 30, 2009 ; and
+  - **(2)** any reference in the Wilderness Act to the Secretary of Agriculture shall be considered to be a reference to the Secretary of the Interior.

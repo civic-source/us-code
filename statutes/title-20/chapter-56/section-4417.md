@@ -3,9 +3,9 @@ title: "Section 4417 - Functions of Institute"
 usc_title: 20
 usc_section: "4417"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 4417"
-generated_at: "2026-03-29T02:12:17.411Z"
+generated_at: "2026-03-29T17:51:48.561Z"
 ---
 
 # § 4417. Functions of Institute
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:12:17.411Z"
   - **(1)** The Board shall be responsible for establishing the policies and internal organization that relate to the control and monitoring of all subdivisions, administrative entities, and departments of the Institute.
   - **(2)** The specific responsibilities of each subdivision, entity, and department of the Institute are solely within the discretion of the Board, or its designee.
   - **(3)** The Board shall establish, within the Institute, departments for the study of culture and arts and for research and exchange, and a museum. The Board shall establish the areas of competency for the departments created under this paragraph, which may include (but are not limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature and Museology and a learning resources center, programs of institutional support and development, research programs, fellowship programs, seminars, publications, scholar-in-residence programs and inter-institutional programs of cooperation at national and international levels.
-- **(c)** In addition to the centers and programs described in subsection (b), the Institute shall develop such programs and centers as the Board determines are necessary to—
+- **(c)** In addition to the centers and programs described in subsection (b) of this section, the Institute shall develop such programs and centers as the Board determines are necessary to—
   - **(1)** foster research and scholarship in Indian art and culture through—
     - **(A)** resident programs;
     - **(B)** cooperative programs; and

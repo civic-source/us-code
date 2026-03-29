@@ -3,12 +3,12 @@ title: "Section 2002 - Farm Credit System"
 usc_title: 12
 usc_section: "2002"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2002"
-generated_at: "2026-03-29T02:11:21.108Z"
+generated_at: "2026-03-29T17:51:13.157Z"
 ---
 
 # § 2002. Farm Credit System
 
-- **(a)** The Farm Credit System shall include the Farm Credit Banks, the bank for cooperatives, Agricultural Credit Banks, the Federal Land Bank Associations, the Federal Land Credit Associations, the Production Credit Associations, the agricultural credit associations, the Federal Farm Credit Banks Funding Corporation, the Federal Agricultural Mortgage Corporation, service corporations established pursuant to section 2211 of this title , and such other institutions as may be made a part of the Farm Credit System, all of which shall be chartered by and subject to regulation by the Farm Credit Administration.
+- **(a)** The Farm Credit System shall include the the 1 1 So in original. Farm Credit Banks, the Federal land bank associations, the production credit associations, the banks for cooperatives, and such other institutions as may be made a part of the System, all of which shall be chartered by and subject to regulation by the Farm Credit Administration.
 - **(b)** There shall be not more than twelve farm credit districts in the United States, which may be designated by number, one of which districts shall include the Commonwealth of Puerto Rico and one of which districts may, if authorized by the Farm Credit Administration, include the Virgin Islands of the United States: Provided , That the extension of credit and other services authorized by this chapter in the Virgin Islands of the United States shall be undertaken only if determined to be feasible under regulations of the Farm Credit Administration. The boundaries of the twelve farm credit districts existing on December 10, 1971 , may be readjusted from time to time by the Farm Credit Administration, with the concurrence of the boards of the banks in each district involved. Two or more districts may be merged as provided in section 2252(a)(2) of this title .

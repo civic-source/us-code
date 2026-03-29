@@ -3,9 +3,9 @@ title: "Section 612 - Executive exchange program"
 usc_title: 2
 usc_section: "612"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 612"
-generated_at: "2026-03-29T02:09:53.680Z"
+generated_at: "2026-03-29T17:50:24.043Z"
 ---
 
 # § 612. Executive exchange program
@@ -21,6 +21,6 @@ generated_at: "2026-03-29T02:09:53.680Z"
   - **(2)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
   - **(3)** sections 1343, 1344, and 1349(b) of title 31;
   - **(4)** chapter 171 of title 28 (commonly referred to as the “Federal Tort Claims Act”) and any other Federal tort liability statute;
-  - **(5)** chapter 131 of title 5; and
+  - **(5)** the Ethics in Government Act of 1978 (5 U.S.C. App.); and
   - **(6)** section 1043 of title 26 .
 - **(d)** This section shall apply to fiscal year 2008 and each fiscal year thereafter.

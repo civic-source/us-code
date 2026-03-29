@@ -3,9 +3,9 @@ title: "Section 78g - Margin requirements"
 usc_title: 15
 usc_section: "78g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 78g"
-generated_at: "2026-03-29T02:11:33.911Z"
+generated_at: "2026-03-29T17:51:36.034Z"
 ---
 
 # § 78g. Margin requirements
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:11:33.911Z"
 - **(b)** Notwithstanding the provisions of subsection (a) of this section, the Board of Governors of the Federal Reserve System, may, from time to time, with respect to all or specified securities or transactions, or classes of securities, or classes of transactions, by such rules and regulations (1) prescribe such lower margin requirements for the initial extension or maintenance of credit as it deems necessary or appropriate for the accommodation of commerce and industry, having due regard to the general credit situation of the country, and (2) prescribe such higher margin requirements for the initial extension or maintenance of credit as it may deem necessary or appropriate to prevent the excessive use of credit to finance transactions in securities.
 - **(c)**
   - **(1)** It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
-    - **(A)** on any security (other than an exempted security), except as provided in paragraph (2), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the “Board”) shall prescribe under subsections (a) and (b); or
+    - **(A)** on any security (other than an exempted security), except as provided in paragraph (2), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the “Board”) shall prescribe under subsections (a) and (b) of this section; or
     - **(B)** without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board may prescribe—
       - **(i)** to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain a credit initially extended in conformity with the rules and regulations of the Board; and
       - **(ii)** to permit the extension or maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of subparagraph (A).
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T02:11:33.911Z"
     - **(A)** a substantial portion of whose business consists of transactions with persons other than brokers or dealers; or
     - **(B)** to finance its activities as a market maker or an underwriter;
 - **(d)**
-  - **(1)** It shall be unlawful for any person not subject to subsection (c) to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) and the rules and regulations thereunder.
+  - **(1)** It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder.
   - **(2)** This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged—
     - **(A)** by a person not in the ordinary course of business;
     - **(B)** on an exempted security;

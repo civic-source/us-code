@@ -1,12 +1,15 @@
 ---
-title: "Section 883 - Omitted"
+title: "Section 883 - Osage Tribe; disposition of judgment fund"
 usc_title: 25
 usc_section: "883"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 883"
-generated_at: "2026-03-29T02:13:20.869Z"
+generated_at: "2026-03-29T17:52:06.026Z"
 ---
 
-# § 883. Omitted
+# § 883. Osage Tribe; disposition of judgment fund
 
+- **(a)** The Secretary of the Interior is authorized and directed to distribute per capita to all persons whose names appear on the roll of the Osage Tribe of Indians approved by the Secretary of the Interior April 11, 1908 , pursuant to the Act of June 28, 1906 ( 34 Stat. 539 ), all funds which were appropriated by the Act of January 8, 1971 ( 84 Stat. 1981 ), in satisfaction of a judgment that was obtained by the Osage Nation of Indians in the Indian Claims Commission against the United States in dockets numbered 105, 106, 107, and 108, together with interest thereon, except the sum of $1,000,000 and any funds that revert to the Osage Tribe and except the amount allowed for attorney fees and expenses and the cost of distribution.
+- **(b)** The sum of $1,000,000 plus any funds that revert to the Osage Tribe may be advanced, expended, invested, or reinvested for the purpose of financing an education program of benefit to the Osage Tribe of Indians of Oklahoma, such program to be administered as authorized by the Secretary of the Interior.
+- **(c)** The Secretary of the Interior may make appropriate withdrawals from the judgment funds and interest thereon, using interest funds first, to pay costs incident to carrying out the provisions of sections 883 to 883d of this title.

@@ -3,9 +3,9 @@ title: "Section 2708 - Definitions"
 usc_title: 16
 usc_section: "2708"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2708"
-generated_at: "2026-03-29T02:11:53.867Z"
+generated_at: "2026-03-29T17:51:56.939Z"
 ---
 
 # § 2708. Definitions
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T02:11:53.867Z"
   - **(6)** “existing dam” means any dam, the construction of which was completed or on 2 2 So in original. Probably should be “on or”. before July 22, 2005 , and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project;
   - **(7)** “municipality” has the meaning provided in section 796 of this title ; and
   - **(8)** “person” has the meaning provided in section 796 of this title .
-- **(b)** The requirement in subsection (a)(1) that a project be located at the site of an existing dam in order to qualify as a small hydroelectric power project, and the other provisions of this chapter which require that a project be at or in connection with an existing dam (or utilize the potential of such dam) in order to be assisted under or included within such provisions, shall not be construed to exclude—
+- **(b)** The requirement in subsection (a)(1) of this section that a project be located at the site of an existing dam in order to qualify as a small hydroelectric power project, and the other provisions of this chapter which require that a project be at or in connection with an existing dam (or utilize the potential of such dam) in order to be assisted under or included within such provisions, shall not be construed to exclude—
   - **(1)** from the definition contained in such subsection (a)(1), or
   - **(2)** from any other provision of this chapter,

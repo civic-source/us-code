@@ -3,12 +3,12 @@ title: "Section 2347h - Human rights report"
 usc_title: 22
 usc_section: "2347h"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2347h"
-generated_at: "2026-03-29T02:12:40.063Z"
+generated_at: "2026-03-29T17:52:10.514Z"
 ---
 
 # § 2347h. Human rights report
 
 - **(a)** Not later than March 1 of each year, the Secretary of State shall submit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a report describing, to the extent practicable, any involvement of a foreign military or defense ministry civilian participant in education and training activities under this part in a violation of internationally recognized human rights reported under section 2151n(d) of this title subsequent to such participation.
-- **(b)** The report described in subsection (a) shall be in unclassified form, but may include a classified annex.
+- **(b)** The report described in subsection (a) of this section shall be in unclassified form, but may include a classified annex.

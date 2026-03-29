@@ -3,9 +3,9 @@ title: "Section 4071j - Former spouses"
 usc_title: 22
 usc_section: "4071j"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 4071j"
-generated_at: "2026-03-29T02:12:40.325Z"
+generated_at: "2026-03-29T17:52:10.613Z"
 ---
 
 # § 4071j. Former spouses
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:12:40.325Z"
     - **(B)** Any reduction in payments to a participant or former participant as a result of payments to a former spouse under this subsection shall be disregarded in calculating—
       - **(i)** the survivor annuity for any spouse, former spouse, or other survivor under this part, and
       - **(ii)** any reduction in the annuity of the participant to provide survivor benefits under this part.
-  - **(5)** Notwithstanding subsection (a)(1), in the case of any former spouse of a disability annuitant—
+  - **(5)** Notwithstanding subsection (a)(1) of this section, in the case of any former spouse of a disability annuitant—
     - **(A)** the annuity of the former spouse shall commence on the date the participant would qualify, on the basis of his or her creditable service, for an annuity under this subchapter (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
     - **(B)** the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
   - **(6)**
@@ -31,11 +31,11 @@ generated_at: "2026-03-29T02:12:40.325Z"
     - **(B)** A former spouse may not elect a method of payment under subchapter II, chapter 84 of title 5, providing for payment of a survivor annuity to any survivor of the former spouse.
   - **(7)** The maximum amount payable to any former spouse pursuant to this subsection shall be the difference, if any, between 50 percent of the total benefits authorized to be paid to a former participant by this part, disregarding any apportionment of these benefits to others, and the aggregate amount payable to all others at any one time.
 - **(b)**
-  - **(1)** Unless otherwise expressly provided for by any spousal agreement or court order governing survivorship benefits under this part to a former spouse married to a participant or former participant for the periods specified in subsection (a)(1)(A), such former spouse is entitled to a share, determined under subsection (b)(2), of all survivor benefits that would otherwise be payable under this part to an eligible surviving spouse of the participant.
-  - **(2)** The share referred to in subsection (b)(1) equals—
+  - **(1)** Unless otherwise expressly provided for by any spousal agreement or court order governing survivorship benefits under this part to a former spouse married to a participant or former participant for the periods specified in subsection (a)(1)(A) of this section, such former spouse is entitled to a share, determined under subsection (b)(2) of this section, of all survivor benefits that would otherwise be payable under this part to an eligible surviving spouse of the participant.
+  - **(2)** The share referred to in subsection (b)(1) of this section equals—
     - **(A)** 100 percent if such former spouse was married to the participant throughout the entire period of service of the participant which is creditable under this subchapter; or
     - **(B)** a pro rata share of 100 percent if such former spouse was not married to the participant throughout such creditable service.
   - **(3)** A former spouse shall not be qualified for any benefit under this subsection if, before the commencement of any benefit, the former spouse remarries before becoming 55 years of age.
 - **(c)** A participant or former participant may not make any election or modification of election under section 8417, 8418, or 8433 of title 5 or other section relating to the participant’s account in the Thrift Savings Plan or annuity under the basic plan that would diminish the entitlement of a former spouse to any benefit granted to the former spouse by this section or in a current spousal agreement.
-- **(d)** If a member becomes a participant under this part after qualifying for benefits under part I and, at the time of transfer, has a former spouse entitled to benefits under part I which are determined under section 4054 or 4055 of this title (as determined by the Secretary of State) and are similar in amount to a pro rata share division under section 4054 or 4055 of this title and the service of the member as a participant under this part is not recognized in determining that pro rata share, then subsections (a) and (b) of this section shall not apply to such former spouse. Otherwise, subsections (a) and (b) of this section shall apply.
+- **(d)** If a member becomes a participant under this part after qualifying for benefits under part I of this subchapter and, at the time of transfer, has a former spouse entitled to benefits under part I of this subchapter which are determined under section 4054 or 4055 of this title (as determined by the Secretary of State) and are similar in amount to a pro rata share division under section 4054 or 4055 of this title and the service of the member as a participant under this part is not recognized in determining that pro rata share, then subsections (a) and (b) of this section shall not apply to such former spouse. Otherwise, subsections (a) and (b) of this section shall apply.
 - **(e)** If a participant dies after completing at least 18 months of service or a former participant dies entitled to a deferred annuity, but before becoming eligible to receive the annuity, and such participant or former participant has left with the Secretary of State a spousal agreement promising a share of a survivor annuity under subchapter IV, chapter 84, title 5, to a former spouse, such survivor annuity shall be paid under the terms of this part as if the survivor annuity had been ordered by a court.

@@ -3,12 +3,13 @@ title: "Section 2858 - Limitation on the use of funds for expediting a construct
 usc_title: 10
 usc_section: "2858"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2858"
-generated_at: "2026-03-29T02:10:45.157Z"
+generated_at: "2026-03-29T17:50:57.171Z"
 ---
 
 # § 2858. Limitation on the use of funds for expediting a construction project
 
-Funds appropriated for military construction (including military family housing) may not be expended for additional costs involved in expediting a construction project unless the Secretary concerned (1) certifies that expenditures for such costs are necessary to protect the national interest, and (2) establishes a reasonable completion date for the project. In establishing such a completion date, the Secretary shall take into consideration the urgency of the requirement for completion of the project, the type and location of the project, the climatic and seasonal conditions affecting the construction involved, and the application of economical construction practices.
+  - **(1)** certifies that expenditures for such costs are necessary to protect the national interest, and
+  - **(2)** establishes a reasonable completion date for the project. In establishing such a completion date, the Secretary shall take into consideration the urgency of the requirement for completion of the project, the type and location of the project, the climatic and seasonal conditions affecting the construction involved, and the application of economical construction practices.
 

@@ -3,9 +3,9 @@ title: "Section 504 - Cadets and midshipmen: chapter does not apply to"
 usc_title: 37
 usc_section: "504"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 504"
-generated_at: "2026-03-29T02:14:43.143Z"
+generated_at: "2026-03-29T17:52:59.114Z"
 ---
 
 # § 504. Cadets and midshipmen: chapter does not apply to

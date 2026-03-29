@@ -3,9 +3,9 @@ title: "Section 132 - Certain fringe benefits"
 usc_title: 26
 usc_section: "132"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 132"
-generated_at: "2026-03-29T02:14:00.801Z"
+generated_at: "2026-03-29T17:52:39.127Z"
 ---
 
 # § 132. Certain fringe benefits
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T02:14:00.801Z"
   - **(3)** The term “employee discount” means the amount by which—
     - **(A)** the price at which the property or services are provided by the employer to an employee for use by such employee, is less than
     - **(B)** the price at which such property or services are being offered by the employer to customers.
-  - **(4)** The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
+  - **(4)** The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming 1 1 So in original. Probably should be “performing”. services.
 - **(d)** For purposes of this section, the term “working condition fringe” means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
 - **(e)** For purposes of this section—
   - **(1)** The term “de minimis fringe” means any property or service the value of which is (after taking into account the frequency with which similar fringes are provided by the employer to the employer’s employees) so small as to make accounting for it unreasonable or administratively impracticable.
@@ -48,11 +48,13 @@ generated_at: "2026-03-29T02:14:00.801Z"
     - **(A)** Transportation in a commuter highway vehicle if such transportation is in connection with travel between the employee’s residence and place of employment.
     - **(B)** Any transit pass.
     - **(C)** Qualified parking.
+    - **(D)** Any qualified bicycle commuting reimbursement.
   - **(2)** The amount of the fringe benefits which are provided by an employer to any employee and which may be excluded from gross income under subsection (a)(5) shall not exceed—
-    - **(A)** $175 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1), and
-    - **(B)** $175 per month in the case of qualified parking.
+    - **(A)** $100 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1),
+    - **(B)** $175 per month in the case of qualified parking, and
+    - **(C)** the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
   - **(3)** For purposes of this subsection, the term “qualified transportation fringe” includes a cash reimbursement by an employer to an employee for a benefit described in paragraph (1). The preceding sentence shall apply to a cash reimbursement for any transit pass only if a voucher or similar item which may be exchanged only for a transit pass is not readily available for direct distribution by the employer to the employee.
-  - **(4)** No amount shall be included in the gross income of an employee solely because the employee may choose between any qualified transportation fringe and compensation which would otherwise be includible in gross income of such employee.
+  - **(4)** No amount shall be included in the gross income of an employee solely because the employee may choose between any qualified transportation fringe (other than a qualified bicycle commuting reimbursement) and compensation which would otherwise be includible in gross income of such employee.
   - **(5)** For purposes of this subsection—
     - **(A)** The term “transit pass” means any pass, token, farecard, voucher, or similar item entitling a person to transportation (or transportation at a reduced price) if such transportation is—
       - **(i)** on mass transit facilities (whether or not publicly owned), or
@@ -65,15 +67,19 @@ generated_at: "2026-03-29T02:14:00.801Z"
     - **(C)** The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
     - **(D)** Transportation referred to in paragraph (1)(A) shall be considered to be provided by an employer if such transportation is furnished in a commuter highway vehicle operated by or for the employer.
     - **(E)** For purposes of this subsection, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1).
+    - **(F)**
+      - **(i)** The term “qualified bicycle commuting reimbursement” means, with respect to any calendar year, any employer reimbursement during the 15-month period beginning with the first day of such calendar year for reasonable expenses incurred by the employee during such calendar year for the purchase of a bicycle and bicycle improvements, repair, and storage, if such bicycle is regularly used for travel between the employee’s residence and place of employment.
+      - **(ii)** The term “applicable annual limitation” means, with respect to any employee for any calendar year, the product of $20 multiplied by the number of qualified bicycle commuting months during such year.
+      - **(iii)** The term “qualified bicycle commuting month” means, with respect to any employee, any month during which such employee—
+        - **(I)** regularly uses the bicycle for a substantial portion of the travel between the employee’s residence and place of employment, and
+        - **(II)** does not receive any benefit described in subparagraph (A), (B), or (C) of paragraph (1).
   - **(6)**
     - **(A)** In the case of any taxable year beginning in a calendar year after 1999, the dollar amounts contained in subparagraphs (A) and (B) of paragraph (2) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1998” for “calendar year 1992”.
     - **(B)** If any increase determined under subparagraph (A) is not a multiple of $5, such increase shall be rounded to the next lowest multiple of $5.
   - **(7)** For purposes of this section, the terms “working condition fringe” and “de minimis fringe” shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
-- **(g)** For purposes of this section—
-  - **(1)** The term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
-  - **(2)** Except in the case of a member of the Armed Forces of the United States on active duty who moves pursuant to a military order and incident to a permanent change of station, or an employee or new appointee of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )) (other than a member of the Armed Forces of the United States) who moves pursuant to a change in assignment that requires relocation, subsection (a)(6) shall not apply to any taxable year beginning after December 31, 2017 .
+- **(g)** For purposes of this section, the term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
 - **(h)** For purposes of paragraphs (1) and (2) of subsection (a)—
   - **(1)** With respect to a line of business of an employer, the term “employee” includes—
     - **(A)** any individual who was formerly employed by such employer in such line of business and who separated from service with such employer in such line of business by reason of retirement or disability, and

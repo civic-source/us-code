@@ -3,9 +3,9 @@ title: "Section 1441 - Financing Corporation"
 usc_title: 12
 usc_section: "1441"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1441"
-generated_at: "2026-03-29T02:11:20.890Z"
+generated_at: "2026-03-29T17:51:13.017Z"
 ---
 
 # § 1441. Financing Corporation
@@ -27,19 +27,19 @@ generated_at: "2026-03-29T02:11:20.890Z"
   - **(7)**
     - **(A)** All administrative expenses of the Financing Corporation shall be paid by the Federal Home Loan Banks.
     - **(B)** The amount each Federal Home Loan Bank shall pay shall be determined by the Director by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
-      - **(i)** the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (d) (as computed without regard to paragraph (3) or (6) of such subsection); by
+      - **(i)** the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (d) of this section (as computed without regard to paragraph (3) or (6) of such subsection); by
       - **(ii)** the aggregate amount the Director required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
     - **(C)** For purposes of this paragraph, the term “administrative expenses” does not include—
-      - **(i)** issuance costs (as such term is defined in subsection (g)(5)(A));
+      - **(i)** issuance costs (as such term is defined in subsection (g)(5)(A) of this section);
       - **(ii)** any interest on (and any redemption premium with respect to) any obligation of the Financing Corporation; or
-      - **(iii)** custodian fees (as such term is defined in subsection (g)(5)(B)).
+      - **(iii)** custodian fees (as such term is defined in subsection (g)(5)(B) of this section).
   - **(8)** The Directorate shall be subject to such regulations, orders, and directions as the Director may prescribe.
   - **(9)** Members of the Directorate shall receive no pay, allowances, or benefits from the Financing Corporation by reason of their service on the Directorate.
 - **(c)** The Financing Corporation shall have only the following powers, subject to the other provisions of this section and such regulations, orders, and directions as the Director may prescribe:
   - **(1)** To issue nonvoting capital stock to the Federal Home Loan Banks.
   - **(2)** To invest in any security issued by the Federal Savings and Loan Insurance Corporation under section 1725(b) of this title prior to August 9, 1989 , and thereafter to transfer the proceeds of any obligation issued by the Financing Corporation to the FSLIC Resolution Fund.
   - **(3)** To issue debentures, bonds, or other obligations and to borrow, to give security for any amount borrowed, and to pay interest on (and any redemption premium with respect to) any such obligation or amount.
-  - **(4)** To impose assessments in accordance with subsection (f).
+  - **(4)** To impose assessments in accordance with subsection (f) of this section.
   - **(5)** To adopt, alter, and use a corporate seal.
   - **(6)** To have succession until dissolved.
   - **(7)** To enter into contracts.
@@ -79,7 +79,7 @@ generated_at: "2026-03-29T02:11:20.890Z"
   - **(1)** The aggregate amount of obligations of the Financing Corporation which may be outstanding at any time (as determined by the Director) shall not exceed the lesser of—
     - **(A)** an amount equal to the greater of—
       - **(i)** 5 times the amount of the nonvoting capital stock of the Financing Corporation which is outstanding at such time; or
-      - **(ii)** the sum of the face amounts (the amount of principal payable at maturity) of securities described in subsection (g)(2) which are held at such time in the segregated account established pursuant to such subsection; or
+      - **(ii)** the sum of the face amounts (the amount of principal payable at maturity) of securities described in subsection (g)(2) of this section which are held at such time in the segregated account established pursuant to such subsection; or
     - **(B)** $10,825,000,000.
   - **(2)** No obligation of the Financing Corporation shall be issued after December 12, 1991 .
   - **(3)** No obligation of the Financing Corporation may be issued which matures—
@@ -119,7 +119,7 @@ generated_at: "2026-03-29T02:11:20.890Z"
       - **(i)** any fee incurred by the Financing Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under paragraph (2); and
       - **(ii)** any other expense incurred by the Financing Corporation in connection with the establishment or maintenance of such account.
 - **(h)**
-  - **(1)** Except as provided in subsection (e)(8)(B), the Financing Corporation shall be treated as a Federal Home Loan Bank for purposes of sections 1433 and 1443 of this title.
+  - **(1)** Except as provided in subsection (e)(8)(B) of this section, the Financing Corporation shall be treated as a Federal Home Loan Bank for purposes of sections 1433 and 1443 of this title.
   - **(2)** The Federal Reserve banks are authorized to act as depositaries for or fiscal agents or custodians of the Financing Corporation.
   - **(3)** Notwithstanding the fact that no Government funds may be invested in the Financing Corporation, the Financing Corporation shall be treated, for purposes of sections 9105, 4 4 See References in Text note below. 9107, and 9108 of title 31, as a mixed-ownership Government corporation which has capital of the Government.
 - **(i)**
@@ -129,6 +129,6 @@ generated_at: "2026-03-29T02:11:20.890Z"
   - **(2)** Effective on the date of the dissolution of the Financing Corporation under paragraph (1), the Director may exercise, on behalf of the Financing Corporation, any power of the Financing Corporation which the Director determines to be necessary to settle and conclude the affairs of the Financing Corporation.
 - **(j)** The Director may prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations defining terms used in this section.
 - **(k)** For purposes of this section, the following definitions shall apply:
-  - **(1)** The term “Directorate” means the directorate established in the manner provided in subsection (b)(1) to manage the Financing Corporation.
+  - **(1)** The term “Directorate” means the directorate established in the manner provided in subsection (b)(1) of this section to manage the Financing Corporation.
   - **(2)** The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title .
   - **(3)** The term “insured depository institution” has the same meaning as in section 1813 of this title 5 5 So in original. Probably should be followed by a period.

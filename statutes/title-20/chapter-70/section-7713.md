@@ -3,16 +3,16 @@ title: "Section 7713 - Definitions"
 usc_title: 20
 usc_section: "7713"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7713"
-generated_at: "2026-03-29T02:12:17.498Z"
+generated_at: "2026-03-29T17:51:48.675Z"
 ---
 
 # § 7713. Definitions
 
 For purposes of this subchapter:
 
-  - **(1)** The term “Armed Forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+  - **(1)** The term “Armed Forces” means the Army, Navy, Air Force, and Marine Corps.
   - **(2)** The term “average per-pupil expenditure” means—
     - **(A)** the aggregate current expenditures of all local educational agencies in the State; divided by
     - **(B)** the total number of children in average daily attendance for whom such agencies provided free public education.
@@ -21,20 +21,20 @@ For purposes of this subchapter:
     - **(B)** erecting, building, acquiring, altering, remodeling, repairing, or extending school facilities;
     - **(C)** inspecting and supervising the construction of school facilities; and
     - **(D)** debt service for such activities.
-  - **(4)** The term “current expenditures” means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
+  - **(4)** The term “current expenditures” means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
   - **(5)**
     - **(A)** Except as provided in subparagraphs (B) through (F), the term “Federal property” means real property that is not subject to taxation by any State or any political subdivision of a State due to Federal agreement, law, or policy, and that is—
       - **(i)** owned by the United States or leased by the United States from another entity;
       - **(ii)**
         - **(I)** held in trust by the United States for individual Indians or Indian tribes;
         - **(II)** held by individual Indians or Indian tribes subject to restrictions on alienation imposed by the United States;
-        - **(III)** conveyed at any time under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] to a Native individual, Native group, or village or regional corporation (including single family occupancy properties that may have been subsequently sold or leased to a third party), except that property that is conveyed under such Act—
+        - **(III)** conveyed at any time under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] to a Native individual, Native group, or village or regional corporation;
         - **(IV)** public land owned by the United States that is designated for the sole use and benefit of individual Indians or Indian tribes; or
         - **(V)** used for low-rent housing, as described in paragraph (10), that is located on land described in subclause (I), (II), (III), or (IV) of this clause or on land that met one of those descriptions immediately before such property’s use for such housing;
       - **(iii)**
         - **(I)** part of a low-rent housing project assisted under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.];
         - **(II)** used to provide housing for homeless children at closed military installations pursuant to section 11411 of title 42 ; or
-        - **(III)** used for affordable housing assisted under the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4101 et seq.); or
+        - **(III)** used for affordable housing assisted under the Native American Housing Assistance and Self-Determination Act of 1996 [ 25 U.S.C. 4101 et seq.]; or
       - **(iv)** owned by a foreign government or by an international organization.
     - **(B)** The term “Federal property” includes, so long as not subject to taxation by any State or any political subdivision of a State, and whether or not that tax exemption is due to Federal agreement, law, or policy, any school providing flight training to members of the Air Force under contract with the Air Force at an airport owned by a State or political subdivision of a State.
     - **(C)** The term “Federal property” includes, whether or not subject to taxation by a State or a political subdivision of a State—

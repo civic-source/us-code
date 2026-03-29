@@ -1,21 +1,14 @@
 ---
-title: "Section 879 - Art. 79. Conviction of offense charged, lesser included offenses, and attempts"
+title: "Section 879 - Art. 79. Conviction of lesser included offense"
 usc_title: 10
 usc_section: "879"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 879"
-generated_at: "2026-03-29T02:10:44.923Z"
+generated_at: "2026-03-29T17:50:56.977Z"
 ---
 
-# § 879. Art. 79. Conviction of offense charged, lesser included offenses, and attempts
+# § 879. Art. 79. Conviction of lesser included offense
 
-- **(a)** An accused may be found guilty of any of the following:
-  - **(1)** The offense charged.
-  - **(2)** A lesser included offense.
-  - **(3)** An attempt to commit the offense charged.
-  - **(4)** An attempt to commit a lesser included offense, if the attempt is an offense in its own right.
-- **(b)** In this section (article), the term “lesser included offense” means—
-  - **(1)** an offense that is necessarily included in the offense charged; and
-  - **(2)** any lesser included offense so designated by regulation prescribed by the President.
-- **(c)** Any designation of a lesser included offense in a regulation referred to in subsection (b) shall be reasonably included in the greater offense.
+An accused may be found guilty of an offense necessarily included in the offense charged or of an attempt to commit either the offense charged or an offense necessarily included therein.
+

@@ -3,12 +3,13 @@ title: "Section 687d - Conflicts of interest"
 usc_title: 15
 usc_section: "687d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 687d"
-generated_at: "2026-03-29T02:11:34.103Z"
+generated_at: "2026-03-29T17:51:36.175Z"
 ---
 
 # § 687d. Conflicts of interest
 
-For the purpose of controlling conflicts of interest which may be detrimental to small business concerns, to small business investment companies, to the shareholders, partners, or members of either, or to the purposes of this chapter, the Administration shall adopt regulations to govern transactions with any officer, director, shareholder, partner, or member of any small business investment company, or with any person or concern, in which any interest, direct or indirect, financial or otherwise, is held by any officer, director, shareholder, partner, or member of (1) any small business investment company, or (2) any person or concern with an interest, direct or indirect, financial or otherwise, in any small business investment company. Such regulations shall include appropriate requirements for public disclosure necessary to the purposes of this section.
+  - **(1)** any small business investment company, or
+  - **(2)** any person or concern with an interest, direct or indirect, financial or otherwise, in any small business investment company. Such regulations shall include appropriate requirements for public disclosure necessary to the purposes of this section.
 

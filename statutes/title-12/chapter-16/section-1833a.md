@@ -3,14 +3,14 @@ title: "Section 1833a - Civil penalties"
 usc_title: 12
 usc_section: "1833a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1833a"
-generated_at: "2026-03-29T02:11:21.087Z"
+generated_at: "2026-03-29T17:51:13.144Z"
 ---
 
 # § 1833a. Civil penalties
 
-- **(a)** Whoever violates any provision of law to which this section is made applicable by subsection (c) shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
+- **(a)** Whoever violates any provision of law to which this section is made applicable by subsection (c) of this section shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
 - **(b)**
   - **(1)** The amount of the civil penalty shall not exceed $1,000,000.
   - **(2)** In the case of a continuing violation, the amount of the civil penalty may exceed the amount described in paragraph (1) but may not exceed the lesser of $1,000,000 per day or $5,000,000.

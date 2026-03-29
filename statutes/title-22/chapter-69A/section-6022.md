@@ -3,9 +3,9 @@ title: "Section 6022 - Purposes"
 usc_title: 22
 usc_section: "6022"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 6022"
-generated_at: "2026-03-29T02:12:40.371Z"
+generated_at: "2026-03-29T17:52:10.655Z"
 ---
 
 # § 6022. Purposes

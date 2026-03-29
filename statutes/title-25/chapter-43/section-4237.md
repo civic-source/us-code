@@ -3,29 +3,29 @@ title: "Section 4237 - Remedies for noncompliance"
 usc_title: 25
 usc_section: "4237"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 4237"
-generated_at: "2026-03-29T02:13:20.996Z"
+generated_at: "2026-03-29T17:52:06.166Z"
 ---
 
 # § 4237. Remedies for noncompliance
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for a hearing that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary shall—
+  - **(1)** Except as provided in subsection (b) of this section, if the Secretary finds after reasonable notice and opportunity for a hearing that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary shall—
     - **(A)** terminate payments under this subchapter to the Department;
     - **(B)** reduce payments under this subchapter to the Department by an amount equal to the amount of such payments that were not expended in accordance with this subchapter; or
     - **(C)** limit the availability of payments under this subchapter to programs, projects, or activities not affected by such failure to comply.
   - **(2)** If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), the Secretary shall continue that action until the Secretary determines that the failure by the Department to comply with the provision has been remedied by the Department and the Department is in compliance with that provision.
-- **(b)** The Secretary may provide technical assistance for the Department, either directly or indirectly, that is designed to increase the capability and capacity of the Director of the Department to administer assistance provided under this subchapter in compliance with the requirements under this subchapter if the Secretary makes a finding under subsection (a), but determines that the failure of the Department to comply substantially with the provisions of this subchapter—
+- **(b)** The Secretary may provide technical assistance for the Department, either directly or indirectly, that is designed to increase the capability and capacity of the Director of the Department to administer assistance provided under this subchapter in compliance with the requirements under this subchapter if the Secretary makes a finding under subsection (a) of this section, but determines that the failure of the Department to comply substantially with the provisions of this subchapter—
   - **(1)** is not a pattern or practice of activities constituting willful noncompliance; and
   - **(2)** is a result of the limited capability or capacity of the Department of Hawaiian Home Lands.
 - **(c)**
-  - **(1)** In lieu of, or in addition to, any action that the Secretary may take under subsection (a), if the Secretary has reason to believe that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+  - **(1)** In lieu of, or in addition to, any action that the Secretary may take under subsection (a) of this section, if the Secretary has reason to believe that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
   - **(2)** Upon receiving a referral under paragraph (1), the Attorney General may bring a civil action in any United States district court of appropriate jurisdiction for such relief as may be appropriate, including an action—
     - **(A)** to recover the amount of the assistance furnished under this subchapter that was not expended in accordance with this subchapter; or
     - **(B)** for mandatory or injunctive relief.
 - **(d)**
-  - **(1)** If the Director receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter, the Director—
+  - **(1)** If the Director receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter, the Director—
     - **(A)** may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the Ninth Circuit, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
     - **(B)** upon the filing of any petition under subparagraph (A), shall forthwith transmit copies of the petition to the Secretary and the Attorney General of the United States, who shall represent the Secretary in the litigation.
   - **(2)**

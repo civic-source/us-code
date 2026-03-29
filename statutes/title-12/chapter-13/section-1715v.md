@@ -3,9 +3,9 @@ title: "Section 1715v - Insurance of mortgages for housing for elderly persons"
 usc_title: 12
 usc_section: "1715v"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1715v"
-generated_at: "2026-03-29T02:11:20.956Z"
+generated_at: "2026-03-29T17:51:13.061Z"
 ---
 
 # § 1715v. Insurance of mortgages for housing for elderly persons
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:11:20.956Z"
   - **(7)** cover a property or project which is approved for mortgage insurance prior to the beginning of construction or rehabilitation, with 50 per centum or more of the units therein specially designed for the use and occupancy of elderly persons in accordance with standards established by the Secretary, and which may include such commercial and special facilities as the Secretary deems adequate to serve the occupants.
 - **(d)** The Secretary may consent to the release of a part or parts of the mortgaged property or proj­ect from the lien of any mortgage insured under this section upon such terms and conditions as he may prescribe, and shall prescribe such procedures as in his judgment are necessary to secure to elderly persons a preference or priority of opportunity to rent the dwellings included in such property or project.
 - **(e)** The provisions of subsections (d), (e), (g), (h), (i), (j), (k), ( l ), and (n) of section 1713 of this title shall apply to mortgages insured under this section and all references therein to section 1713 of this title shall refer to this section.
-- **(f)** Notwithstanding any of the provisions of this section, the housing provided under this section may include family units which are specially designed for the use and occupancy of any person or family qualifying as a handicapped family as defined in section 1701q 1 of this title, and such special facilities as the Secretary deems adequate to serve handicapped families (as so defined). The Secretary may also prescribe procedures to secure to such families preference or priority of opportunity to rent the living units specially designed for their use and occupancy.
+- **(f)** Notwithstanding any of the provisions of this section, the housing provided under this section may include family units which are specially designed for the use and occupancy of any person or family qualifying as a handicapped family as defined in section 1701q 2 2 See References in Text note below. of this title, and such special facilities as the Secretary deems adequate to serve handicapped families (as so defined). The Secretary may also prescribe procedures to secure to such families preference or priority of opportunity to rent the living units specially designed for their use and occupancy.

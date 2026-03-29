@@ -3,9 +3,9 @@ title: "Section 1621m - Epidemiology centers"
 usc_title: 25
 usc_section: "1621m"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1621m"
-generated_at: "2026-03-29T02:13:20.890Z"
+generated_at: "2026-03-29T17:52:06.065Z"
 ---
 
 # § 1621m. Epidemiology centers
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:13:20.890Z"
   - **(2)**
     - **(A)** Subject to subparagraph (B), any new center established after March 23, 2010 , may be operated under a grant authorized by subsection (d).
     - **(B)** Funding provided in a grant described in subparagraph (A) shall not be divisible.
-  - **(3)** An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. but the funds for the center shall not be divisible.
+  - **(3)** An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
 - **(b)** In consultation with and on the request of Indian tribes, tribal organizations, and urban Indian organizations, each Service area epidemiology center established under this section shall, with respect to the applicable Service area—
   - **(1)** collect data relating to, and monitor progress made toward meeting, each of the health status objectives of the Service, the Indian tribes, tribal organizations, and urban Indian organizations in the Service area;
   - **(2)** evaluate existing delivery systems, data systems, and other systems that impact the improvement of Indian health;

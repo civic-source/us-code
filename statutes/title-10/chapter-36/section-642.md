@@ -3,9 +3,9 @@ title: "Section 642 - Entitlement of officers discharged or retired under this c
 usc_title: 10
 usc_section: "642"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 642"
-generated_at: "2026-03-29T02:10:44.896Z"
+generated_at: "2026-03-29T17:50:56.961Z"
 ---
 
 # § 642. Entitlement of officers discharged or retired under this chapter to separation pay or retired pay

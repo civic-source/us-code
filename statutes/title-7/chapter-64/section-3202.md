@@ -3,9 +3,9 @@ title: "Section 3202 - Research and education grants for the study of antibiotic
 usc_title: 7
 usc_section: "3202"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3202"
-generated_at: "2026-03-29T02:10:16.993Z"
+generated_at: "2026-03-29T17:50:48.754Z"
 ---
 
 # § 3202. Research and education grants for the study of antibiotic-resistant bacteria
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T02:10:16.993Z"
     - **(B)** safe and effective alternatives to antibiotics;
     - **(C)** the development of better veterinary diagnostics to improve decisionmaking; and
     - **(D)** the identification of conditions or factors that affect antibiotic use on farms.
-- **(b)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of grants under this section.
+- **(b)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
 - **(c)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.

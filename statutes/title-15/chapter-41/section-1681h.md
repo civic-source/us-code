@@ -3,16 +3,16 @@ title: "Section 1681h - Conditions and form of disclosure to consumers"
 usc_title: 15
 usc_section: "1681h"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1681h"
-generated_at: "2026-03-29T02:11:34.219Z"
+generated_at: "2026-03-29T17:51:36.265Z"
 ---
 
 # § 1681h. Conditions and form of disclosure to consumers
 
 - **(a)**
   - **(1)** A consumer reporting agency shall require, as a condition of making the disclosures required under section 1681g of this title , that the consumer furnish proper identification.
-  - **(2)** Except as provided in subsection (b), the disclosures required to be made under section 1681g of this title shall be provided under that section in writing.
+  - **(2)** Except as provided in subsection (b) of this section, the disclosures required to be made under section 1681g of this title shall be provided under that section in writing.
 - **(b)**
   - **(1)** If authorized by a consumer, a consumer reporting agency may make the disclosures required under 1 1 So in original. Probably should be followed by “section”. 1681g of this title—
     - **(A)** other than in writing; and

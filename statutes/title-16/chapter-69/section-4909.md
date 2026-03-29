@@ -3,9 +3,9 @@ title: "Section 4909 - Petitions"
 usc_title: 16
 usc_section: "4909"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4909"
-generated_at: "2026-03-29T02:11:53.944Z"
+generated_at: "2026-03-29T17:51:57.000Z"
 ---
 
 # § 4909. Petitions
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:11:53.944Z"
   - **(1)** establish, modify, or terminate any prohibition, suspension, or quota under this chapter on importation of any species of exotic bird;
   - **(2)** add a species of exotic bird to, or remove such a species from, a list under section 4905 of this title ; or
   - **(3)** determine under section 4906 of this title whether an exotic bird breeding facility is a qualifying facility.
-- **(b)** For each petition submitted to the Secretary in accordance with subsection (a), the Secretary shall—
+- **(b)** For each petition submitted to the Secretary in accordance with subsection (a) of this section, the Secretary shall—
   - **(1)** within 90 days after receiving the petition, issue and publish in the Federal Register a preliminary ruling regarding whether the petition presents sufficient information indicating that the action requested in the petition might be warranted; and
   - **(2)** for each petition determined to present such sufficient information—
     - **(A)** provide an opportunity for the submission of public comment on the petition; and

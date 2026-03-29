@@ -3,12 +3,12 @@ title: "Section 162 - Control; regulations; leases; sale and removal of timber"
 usc_title: 16
 usc_section: "162"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 162"
-generated_at: "2026-03-29T02:11:53.346Z"
+generated_at: "2026-03-29T17:51:56.465Z"
 ---
 
 # § 162. Control; regulations; leases; sale and removal of timber
 
-Glacier National Park shall be under the exclusive control of the Secretary of the Interior, whose duties it shall be, as soon as practicable, to make and publish such rules and regulations not inconsistent with the laws of the United States as he may deem necessary or proper for the care, protection, management, and improvement of the same, which regulations shall provide for the preservation of the park in a state of nature so far as is consistent with the purposes of this section and section 161 of this title , and for the care and protection of the fish and game within the boundaries thereof. Said Secretary may, in his discretion, execute leases to parcels of ground not exceeding ten acres in extent at any one place to any one person or company, for not to exceed twenty years, when such ground is necessary for the erection of buildings for the accommodation of visitors, and to parcels of ground not exceeding one acre in extent and for not to exceed twenty years to persons who have heretofore erected or whom he may hereafter authorize to erect summer homes or cottages; he may also sell and permit the removal of such matured, 1 1 So in original. or dead or down timber as he may deem necessary or advisable for the protection or improvement of the park.
+Glacier National Park shall be under the exclusive control of the Secretary of the Interior. In addition to the powers and duties enumerated in section 3 of this title not inconsistent with this section, he shall make and publish such rules and regulations not inconsistent with the laws of the United States as he may deem necessary or proper for the care, protection, management, and improvement of the same, which regulations shall provide for the preservation of the park in a state of nature so far as is consistent with the purposes of this section and section 161 of this title , and for the care and protection of the fish and game within the boundaries thereof. He may, in his discretion, execute leases to parcels of ground not exceeding ten acres in extent at any one place to any one person or company, for not to exceed twenty years, when such ground is necessary for the erection of buildings for the accommodation of visitors, and to parcels of ground not exceeding one acre in extent and for not to exceed twenty years to persons who have heretofore erected or whom he may hereafter authorize to erect summer homes or cottages; he may also sell and permit the removal of such matured or dead or down timber as he may deem necessary or advisable for the protection or improvement of the park.
 

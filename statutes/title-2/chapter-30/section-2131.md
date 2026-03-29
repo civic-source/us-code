@@ -3,9 +3,9 @@ title: "Section 2131 - National Statuary Hall"
 usc_title: 2
 usc_section: "2131"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2131"
-generated_at: "2026-03-29T02:09:53.758Z"
+generated_at: "2026-03-29T17:50:24.103Z"
 ---
 
 # § 2131. National Statuary Hall

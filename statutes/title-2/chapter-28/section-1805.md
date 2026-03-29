@@ -1,19 +1,32 @@
 ---
-title: "Section 1805 - Deputy Architect of the Capitol"
+title: "Section 1805 - Deputy Architect of the Capitol/Chief Operating Officer"
 usc_title: 2
 usc_section: "1805"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1805"
-generated_at: "2026-03-29T02:09:53.735Z"
+generated_at: "2026-03-29T17:50:24.087Z"
 ---
 
-# § 1805. Deputy Architect of the Capitol
+# § 1805. Deputy Architect of the Capitol/Chief Operating Officer
 
-- **(a)** The Architect of the Capitol (in this section referred to as the “Architect”) shall appoint a suitable individual to be the Deputy Architect of the Capitol (in this section referred to as the “Deputy Architect”). The Architect may delegate to the Deputy Architect such duties as the Architect determines are necessary or appropriate.
-- **(b)** The Architect shall appoint a Deputy Architect under subsection (a) not later than 120 days after—
-  - **(1)** the date on which the Architect is appointed under section 1801a of this title , if there is no Deputy Architect on the date of the appointment; or
-  - **(2)** the date on which a vacancy arises in the office of the Deputy Architect.
-- **(c)** The Deputy Architect shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect.
-- **(d)** If the Architect does not appoint a Deputy Architect on or before the applicable date specified in subsection (b), the congressional commission described in section 1801a(a) of this title shall appoint the Deputy Architect by a majority vote of the members of the commission.
-- **(e)** If the position of Deputy Architect becomes vacant, the Architect shall immediately notify the members of the congressional commission described in section 1801a(a) of this title .
+- **(a)** There shall be a Deputy Architect of the Capitol who shall serve as the Chief Operating Officer of the Office of the Architect of the Capitol. The Deputy Architect of the Capitol shall be appointed by the Architect of the Capitol and shall report directly to the Architect of the Capitol and shall be subject to the authority of the Architect of the Capitol. The Architect of the Capitol shall appoint the Deputy Architect of the Capitol not later than 180 days after February 20, 2003 . The Architect of the Capitol shall consult with the Comptroller General or his designee before making the appointment.
+- **(b)** The Deputy Architect of the Capitol shall have strong leadership skills and demonstrated ability in management, including in such areas as strategic planning, performance management, worker safety, customer satisfaction, and service quality.
+- **(c)**
+  - **(1)** The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol for the overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office’s goals and mission; providing overall organization management to improve the Office’s performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
+  - **(2)** The Deputy Architect’s responsibilities include—
+    - **(A)** developing, implementing, annually updating, and maintaining a long-term strategic plan covering a period of not less than 5 years for the Office of the Architect of the Capitol;
+    - **(B)** developing and implementing an annual performance plan that includes annual performance goals covering each of the general goals and objectives in the strategic plan and including to the extent practicable quantifiable performance measures for the annual goals;
+    - **(C)** proposing organizational changes and staffing needed to carry out the Office of the Architect of the Capitol’s mission and strategic and annual performance goals; and
+    - **(D)** reviewing and directing the operational functions of the Office of the Architect of the Capitol.
+- **(d)** The Architect of the Capitol may delegate to the Deputy Architect such additional duties as the Architect determines are necessary or appropriate.
+- **(e)**
+  - **(1)** No later than 90 days after the appointment, the Deputy Architect shall prepare and submit to the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
+  - **(2)** The action plan shall be—
+    - **(A)** approved and signed by both the Architect of the Capitol and the Deputy Architect; and
+    - **(B)** developed concurrently and consistent with the development of a strategic plan.
+- **(f)** The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
+- **(g)** The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+- **(h)** The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
+- **(i)** The Deputy Architect of the Capitol shall prepare and transmit to the Architect of the Capitol an annual performance report. This report shall contain an evaluation of the extent to which the Office of the Architect of the Capitol met its goals and objectives.
+- **(j)** As of October 1, 2006 , the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.

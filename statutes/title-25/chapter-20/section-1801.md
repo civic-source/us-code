@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 25
 usc_section: "1801"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1801"
-generated_at: "2026-03-29T02:13:20.914Z"
+generated_at: "2026-03-29T17:52:06.103Z"
 ---
 
 # § 1801. Definitions
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:13:20.914Z"
     - **(B)** a biological child of a member of an Indian tribe, living or deceased;
   - **(8)** “Indian student count” means a number equal to the total number of Indian students enrolled in each tribally controlled college or university, determined in a manner consistent with subsection (b) of this section on the basis of the quotient of the sum of the credit hours of all Indian students so enrolled, divided by twelve; and
   - **(9)** “satisfactory progress toward a degree or certificate” has the meaning given to such term by the institution at which the student is enrolled.
-- **(b)** The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8):
+- **(b)** The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8) of this section:
   - **(1)** Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
   - **(2)** Credits earned in classes offered during a summer term shall be counted toward the computation of the Indian student count in the succeeding fall term.
   - **(3)** Credits earned by any student who has not obtained a high school degree or its equivalent shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student’s ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student’s aptitude to successfully complete the course in which the student has enrolled. No credits earned by such student for purposes of obtaining a high school degree or its equivalent shall be counted toward the computation of the Indian student count.

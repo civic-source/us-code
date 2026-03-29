@@ -3,9 +3,9 @@ title: "Section 305 - Relationship between the Inter-American Convention and the
 usc_title: 9
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "9 U.S.C. § 305"
-generated_at: "2026-03-29T02:10:21.790Z"
+generated_at: "2026-03-29T17:50:38.312Z"
 ---
 
 # § 305. Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958

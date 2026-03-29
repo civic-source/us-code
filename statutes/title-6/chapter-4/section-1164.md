@@ -3,9 +3,9 @@ title: "Section 1164 - Systemwide Amtrak security upgrades"
 usc_title: 6
 usc_section: "1164"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 1164"
-generated_at: "2026-03-29T02:10:05.083Z"
+generated_at: "2026-03-29T17:50:39.384Z"
 ---
 
 # § 1164. Systemwide Amtrak security upgrades
@@ -22,18 +22,15 @@ generated_at: "2026-03-29T02:10:05.083Z"
     - **(A)** to secure major tunnel access points and ensure tunnel integrity in New York, New Jersey, Maryland, and Washington, DC;
     - **(B)** to secure Amtrak trains;
     - **(C)** to secure Amtrak stations;
-    - **(D)** to obtain a watchlist identification system approved by the Secretary, or to connect to the National Terrorism Screening Center watchlist;
+    - **(D)** to obtain a watchlist identification system approved by the Secretary;
     - **(E)** to obtain train tracking and interoperable communications systems that are coordinated with Federal, State, and local agencies and tribal governments to the maximum extent possible;
     - **(F)** to hire, train, and employ police and security officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation;
-    - **(G)** for operating and capital costs associated with security awareness, preparedness, and response training, including training under section 1167 of this title , and training developed by universities, institutions of higher education, and nonprofit employee labor organizations, for railroad employees, including frontline employees;
-    - **(H)** for live or simulated exercises, including exercises described in section 1166 of this title ;
-    - **(I)** for improvements to passenger verification systems;
-    - **(J)** for improvements to employee and contractor verification systems, including identity verification technology; or
-    - **(K)** for improvements to the security of Amtrak computer systems, including cybersecurity assessments and programs.
+    - **(G)** for operating and capital costs associated with security awareness, preparedness, and response training, including training under section 1167 of this title , and training developed by universities, institutions of higher education, and nonprofit employee labor organizations, for railroad employees, including frontline employees; and
+    - **(H)** for live or simulated exercises, including exercises described in section 1166 of this title .
 - **(b)** The Secretary shall award grants to Amtrak under this section for projects contained in a systemwide security plan approved by the Secretary developed pursuant to section 1162 of this title . Not later than 5 business days after awarding a grant to Amtrak under this section, the Secretary shall transfer the grant funds to the Secretary of Transportation to be disbursed to Amtrak.
 - **(c)** The Secretary shall ensure that, subject to meeting the highest security needs on Amtrak’s entire system and consistent with the risk assessment required under section 1161 of this title and Amtrak’s vulnerability assessment and security plan developed under section 1162 of this title , stations and facilities located outside of the Northeast Corridor receive an equitable share of the security funds authorized by this section.
 - **(d)**
-  - **(1)** Out of funds appropriated pursuant to section 114(w) 1 1 See References in Text note below. of title 49, there shall be made available to the Secretary and the Administrator of the Transportation Security Administration to carry out this section—
+  - **(1)** Out of funds appropriated pursuant to section 114(w) of title 49 , there shall be made available to the Secretary and the Administrator of the Transportation Security Administration to carry out this section—
     - **(A)** $150,000,000 for fiscal year 2008;
     - **(B)** $150,000,000 for fiscal year 2009;
     - **(C)** $175,000,000 for fiscal year 2010; and

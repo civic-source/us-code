@@ -1,73 +1,33 @@
 ---
-title: "Section 127d - Support of special operations for irregular warfare"
+title: "Section 127d - Allied forces participating in combined operations: authority to provide logistic support, supplies, and services"
 usc_title: 10
 usc_section: "127d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 127d"
-generated_at: "2026-03-29T02:10:44.817Z"
+generated_at: "2026-03-29T17:50:56.921Z"
 ---
 
-# § 127d. Support of special operations for irregular warfare
+# § 127d. Allied forces participating in combined operations: authority to provide logistic support, supplies, and services
 
-- **(a)** The Secretary of Defense may, with the concurrence of the relevant Chief of Mission, expend up to $20,000,000 during any fiscal year to provide support to foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating ongoing and authorized irregular warfare operations by United States Special Operations Forces.
-- **(b)** Funds for support under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for the Department of Defense for operation and maintenance.
+- **(a)**
+  - **(1)** Subject to subsections (b) and (c), the Secretary of Defense may provide logistic support, supplies, and services to allied forces participating in a combined operation with the armed forces of the United States.
+  - **(2)** In addition to any logistic support, supplies, and services provided under paragraph (1), the Secretary may provide logistic support, supplies, and services to allied forces solely for the purpose of enhancing the interoperability of the logistical support systems of military forces participating in combined operations with the United States in order to facilitate such operations. Such logistic support, supplies, and services may also be provided under this paragraph to a nonmilitary logistics, security, or similar agency of an allied government if such provision would directly benefit the armed forces of the United States.
+  - **(3)** Provision of support, supplies, and services pursuant to paragraph (1) or (2) may be made only with the concurrence of the Secretary of State.
+- **(b)**
+  - **(1)** The authority provided by subsection (a)(1) may be used only in accordance with the Arms Export Control Act and other export control laws of the United States.
+  - **(2)** The authority provided by subsection (a)(1) may be used only for a combined operation—
+    - **(A)** that is carried out during active hostilities or as part of a contingency operation or a noncombat operation (including an operation in support of the provision of humanitarian or foreign disaster assistance, a country stabilization operation, or a peacekeeping operation under chapter VI or VII of the Charter of the United Nations); and
+    - **(B)** in a case in which the Secretary of Defense determines that the allied forces to be provided logistic support, supplies, and services—
+      - **(i)** are essential to the success of the combined operation; and
+      - **(ii)** would not be able to participate in the combined operation but for the provision of such logistic support, supplies, and services by the Secretary.
 - **(c)**
-  - **(1)** The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section.
-  - **(2)** The procedures required under paragraph (1) shall establish, at a minimum, the following:
-    - **(A)** Policy guidance for the execution of, and constraints within, activities under the authority in this section.
-    - **(B)** The processes through which activities under the authority in this section are to be developed, validated, and coordinated, as appropriate, with relevant entities of the United States Government.
-    - **(C)** The processes through which legal reviews and determinations are made to comply with the authority in this section and ensure that the exercise of such authority is consistent with the national security of the United States.
-    - **(D)** The processes to ensure, to the extent practicable, that before a decision to provide support is made, the recipients of support do not pose a counterintelligence or force protection threat and have not engaged in gross violations of human rights.
-    - **(E)** The processes by which the Department shall keep the congressional defense committees fully and currently informed of—
-      - **(i)** the requirements for the use of the authority in this section; and
-      - **(ii)** activities conducted under such authority.
-  - **(3)** The Secretary shall notify the congressional defense committees of the procedures established pursuant to this section before any exercise of the authority in this section, and shall notify such committee of any material modification of the procedures.
-- **(d)** Nothing in this section shall be construed to constitute a specific statutory authorization for any of the following:
-  - **(1)** The conduct of a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 ( 50 U.S.C. 3093(e) ).
-  - **(2)** The introduction of United States Armed Forces (including as such term is defined in section 8(c) of the War Powers Resolution ( 50 U.S.C. 1547(c) )) into hostilities or into situations wherein hostilities are clearly indicated by the circumstances.
-  - **(3)** The provision of support to regular forces, irregular forces, groups, or individuals for the conduct of operations that United States Special Operations Forces are not otherwise legally authorized to conduct themselves.
-  - **(4)** The conduct or support of activities, directly or indirectly, that are inconsistent with the laws of armed conflict.
-- **(e)** The authority of the Secretary to make funds available under this section for support of a military operation may not be delegated.
-- **(f)** The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict shall have primary programmatic and policy oversight within the Office of the Secretary of Defense of support to irregular warfare activities authorized by this section.
-- **(g)**
-  - **(1)** Not later than 15 days before exercising the authority in this section to make funds available to initiate support of an ongoing and authorized operation or changing the scope or funding level of any support under this section for such an operation by $500,000 or an amount equal to 10 percent of such funding level (whichever is less), the Secretary shall notify the congressional defense committees of the use of such authority with respect to such operation. Any such notification shall be in writing.
-  - **(2)** A notification required by this subsection shall include the following:
-    - **(A)** The type of support to be provided to United States Special Operations Forces, and a description of the ongoing and authorized operation to be supported.
-    - **(B)** A description of the foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating the ongoing and authorized operation that is to be the recipient of funds.
-    - **(C)** The type of support to be provided to the recipient of the funds, and a description of the end-use monitoring to be used in connection with the use of the funds.
-    - **(D)** The amount obligated under the authority to provide support.
-    - **(E)** The duration for which the support is expected to be provided, and an identification of the timeframe in which the provision of support will be reviewed by the commander of the applicable combatant command for a determination with respect to the necessity of continuing such support.
-    - **(F)** The determination of the Secretary that the provision of support does not constitute any of the following:
-      - **(i)** An introduction of United States Armed Forces (including as such term is defined in section 8(c) of the War Powers Resolution ( 50 U.S.C. 1547(c) )) into hostilities, or into situations where hostilities are clearly indicated by the circumstances, without specific statutory authorization within the meaning of section 5(b) of such Resolution ( 50 U.S.C. 1544(b) ).
-      - **(ii)** A covert action, as such term is defined in section 503(e) of the National Security Act of 1947 ( 50 U.S.C. 3093(e) ).
-      - **(iii)** An authorization for the provision of support to regular forces, irregular forces, groups, or individuals for the conduct of operations that United States Special Operations Forces are not otherwise legally authorized to conduct themselves.
-      - **(iv)** The conduct or support of activities, directly or indirectly, that are inconsistent with the laws of armed conflict.
-- **(h)**
-  - **(1)** Not later than 48 hours after suspending or terminating support to any foreign force, irregular force, group, or individual provided pursuant to the authority in this section, the Secretary shall submit to the congressional defense committees a written notice of such suspension or termination.
-  - **(2)** The written notice required by paragraph (1) shall include each of the following:
-    - **(A)** A description of the reasons for the suspension or termination of such support.
-    - **(B)** A description of any effect on regional, theater, or global campaign plan objectives anticipated to result from such suspension or termination.
-    - **(C)** A plan for such suspension or termination, and, in the case of support that is planned to be transitioned to any other program of the Department of Defense or to a program of any other Federal department or agency, a detailed description of the transition plan, including the resources, equipment, capabilities, and personnel associated with such plan.
-- **(i)**
-  - **(1)** Not later than 120 days after the close of each fiscal year in which subsection (a) is in effect, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding fiscal year.
-  - **(2)** Not later than 180 days after the submittal of each report required by paragraph (1), the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the fiscal year in which the report under this paragraph is submitted.
-  - **(3)** Each report required by this subsection shall include the following:
-    - **(A)** A summary of the ongoing irregular warfare operations, and associated authorized campaign plans, being conducted by United States Special Operations Forces that were supported or facilitated by foreign forces, irregular forces, groups, or individuals for which support was provided under this section during the period covered by such report.
-    - **(B)** A description of the support or facilitation provided by such foreign forces, irregular forces, groups, or individuals to United States Special Operations Forces during such period.
-    - **(C)** The type of recipients that were provided support under this section during such period, identified by authorized category (foreign forces, irregular forces, groups, or individuals).
-    - **(D)** A detailed description of the support provided to the recipients under this section during such period.
-    - **(E)** The total amount obligated for support under this section during such period, including budget details.
-    - **(F)** The intended duration of support provided under this section during such period.
-    - **(G)** An assessment of value of the support provided under this section during such period, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support irregular warfare operations by United States Special Operations Forces.
-    - **(H)** The total amount obligated for support under this section in prior fiscal years.
-- **(j)**
-  - **(1)** Not less frequently than quarterly, the Secretary shall provide to the congressional defense committees a briefing on the use of the authority provided by this section, and other matters relating to irregular warfare, with the primary purposes of—
-    - **(A)** keeping the congressional defense committees fully and currently informed of irregular warfare requirements and activities, including emerging combatant commands requirements; and
-    - **(B)** consulting with the congressional defense committees regarding such matters.
-  - **(2)** Each briefing required by paragraph (1) shall include the following:
-    - **(A)** An update on irregular warfare activities within each geographic combatant command and a description of the manner in which such activities support the respective theater campaign plan and the National Defense Strategy.
-    - **(B)** An overview of relevant authorities and legal issues, including limitations.
-    - **(C)** An overview of irregular warfare-related interagency activities and initiatives.
-    - **(D)** A description of emerging combatant command requirements for the use of the authority provided by this section.
-- **(k)** Subject to subsection (d), in this section, the term “irregular warfare” means Department of Defense activities not involving armed conflict that support predetermined United States policy and military objectives conducted by, with, and through regular forces, irregular forces, groups, and individuals.
+  - **(1)** The value of logistic support, supplies, and services provided under subsection (a)(1) in any fiscal year may not exceed $100,000,000.
+  - **(2)** The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not exceed $5,000,000.
+- **(d)**
+  - **(1)** Not later than December 31 each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on the use of the authority provided by subsection (a) during the preceding fiscal year.
+  - **(2)** Each report under paragraph (1) shall be prepared in coordination with the Secretary of State.
+  - **(3)** Each report under paragraph (1) shall include, for the fiscal year covered by the report, the following:
+    - **(A)** Each nation provided logistic support, supplies, and services through the use of the authority provided by subsection (a).
+    - **(B)** For each such nation, a description of the type and value of logistic support, supplies, and services so provided.
+- **(e)** In this section, the term “logistic support, supplies, and services” has the meaning given that term in section 2350(1) of this title .

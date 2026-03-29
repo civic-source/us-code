@@ -1,12 +1,14 @@
 ---
-title: "Section 1910 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 1910 - Civil actions for just compensation by mining claim holders"
 usc_title: 16
 usc_section: "1910"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1910"
-generated_at: "2026-03-29T02:11:53.846Z"
+generated_at: "2026-03-29T17:51:56.919Z"
 ---
 
-# § 1910. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 1910. Civil actions for just compensation by mining claim holders
+
+The holder of any patented or unpatented mining claim subject to this chapter who believes he has suffered a loss by operation of this chapter, or by orders or regulations issued pursuant thereto, may bring an action in a United States district court to recover just compensation, which shall be awarded if the court finds that such loss constitutes a taking of property compensable under the Constitution.
 

@@ -3,16 +3,16 @@ title: "Section 11101 - Definitions"
 usc_title: 40
 usc_section: "11101"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "40 U.S.C. § 11101"
-generated_at: "2026-03-29T02:14:58.806Z"
+generated_at: "2026-03-29T17:52:50.604Z"
 ---
 
 # § 11101. Definitions
 
 In this subtitle, the following definitions apply:
 
-  - **(1)** The term “commercial product” has the meaning given that term in section 103 of title 41 .
+  - **(1)** The term “commercial item” has the meaning given that term in section 103 of title 41 .
   - **(2)** The term “executive agency” has the meaning given that term in section 133 of title 41 .
   - **(3)** The term “information resources” has the meaning given that term in section 3502 of title 44 .
   - **(4)** The term “information resources management” has the meaning given that term in section 3502 of title 44 .

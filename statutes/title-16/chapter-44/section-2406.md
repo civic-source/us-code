@@ -3,9 +3,9 @@ title: "Section 2406 - Notification of travel to Antarctica"
 usc_title: 16
 usc_section: "2406"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2406"
-generated_at: "2026-03-29T02:11:53.856Z"
+generated_at: "2026-03-29T17:51:56.930Z"
 ---
 
 # § 2406. Notification of travel to Antarctica

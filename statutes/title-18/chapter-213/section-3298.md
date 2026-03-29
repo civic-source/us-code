@@ -3,9 +3,9 @@ title: "Section 3298 - Trafficking-related offenses"
 usc_title: 18
 usc_section: "3298"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 3298"
-generated_at: "2026-03-29T02:12:02.481Z"
+generated_at: "2026-03-29T17:53:15.728Z"
 ---
 
 # § 3298. Trafficking-related offenses

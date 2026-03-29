@@ -3,28 +3,20 @@ title: "Section 9097 - Implementation"
 usc_title: 7
 usc_section: "9097"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 9097"
-generated_at: "2026-03-29T02:10:17.231Z"
+generated_at: "2026-03-29T17:50:48.920Z"
 ---
 
 # § 9097. Implementation
 
-- **(a)** The Secretary shall maintain, for each covered commodity and upland cotton, base acres and payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013 , and as adjusted pursuant to sections 9012 and 9013 of this title.
-- **(b)** In implementing this chapter and the amendments made by this title, 1 1 See References in Text note below. the Secretary shall—
-  - **(1)** continue to reduce administrative burdens and costs to producers by streamlining and reducing paperwork, forms, and other administrative requirements, to ensure that—
-    - **(A)** a producer (or an agent of a producer) may report information, electronically (including geospatial data) or conventionally, to the Department of Agriculture, subject to the Secretary—
-      - **(i)** establishing reasonable levels of tolerance that reflect the differences in accuracy between measures of common land units and geospatial data; and
-      - **(ii)** ensuring that discrepancies that occur within the levels of tolerance established under clause (i) shall not be used to penalize a producer (or an agent of a producer) under any program administered by the Department of Agriculture;
-    - **(B)** on the request of a producer (or an agent of a producer), the Department of Agriculture electronically shares with the producer (or agent) in real time and without cost to the producer (or agent) the common land unit data, related farm level data, conservation practices, and other information of the producer through a single Department of Agriculture-wide login;
-    - **(C)** not later than September 30, 2020 , the Administrator of the Risk Management Agency and the Administrator of the Farm Service Agency shall implement a consistent method for determining crop acreage, acreage yields, farm acreage, property descriptions, and other common informational requirements, including measures of common land units;
-    - **(D)** except in the case of misrepresentation, fraud, or scheme and device, no crop insurance agent, approved insurance provider, or employee or contractor of a crop insurance agency or approved insurance provider bears responsibility or liability under the Acreage Crop Reporting and Streamlining Initiative (or any successor or similar initiative) for the eligibility of a producer for a program administered by the Department of Agriculture, not including a policy or plan of insurance offered under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.); and
-    - **(E)** on request of a crop insurance agent or approved insurance provider required to deliver policies and plans of insurance under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) the crop insurance agent or approved insurance provider receives, in a timely manner, any information held by the Farm Service Agency that is necessary to ensure effective crop insurance coverage for farmer customers;
-  - **(2)** continue to improve coordination, information sharing, and administrative work among the Farm Service Agency, Risk Management Agency, Natural Resources Conservation Service, and other agencies, as determined by the Secretary;
-  - **(3)** continue to take advantage of new technologies to enhance the efficiency and effectiveness of the delivery of Department of Agriculture programs to producers, including by developing and making publicly available data standards and security procedures to allow third-party providers to develop applications that use or feed data (including geospatial and precision agriculture data) into the datasets and analyses of the Department of Agriculture; and
-  - **(4)** reduce administrative burdens on producers participating in price loss coverage or agriculture risk coverage by offering—
-    - **(A)** those producers an option to remotely and electronically sign annual contracts for that coverage; and
-    - **(B)** to the maximum extent practicable, an option to sign a multiyear contract for that coverage.
+- **(a)** The Secretary shall maintain, for each covered commodity and upland cotton, base acres and payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013 .
+- **(b)** In implementing this chapter, the Secretary shall—
+  - **(1)** reduce administrative burdens and costs to producers by streamlining and reducing paperwork, forms, and other administrative requirements, including through the implementation of the Acreage Crop Reporting and Streamlining Initiative that, in part, shall ensure that—
+    - **(A)** a producer (or an agent of a producer) may report information, electronically (including geospatial data) or conventionally, to the Department; and
+    - **(B)** upon the request of the producer (or agent thereof) the Department of Agriculture electronically shares with the producer (or agent) in real time and without cost to the producer (or agent) the common land unit data, related farm level data, and other information of the producer;
+  - **(2)** improve coordination, information sharing, and administrative work with the Farm Service Agency, Risk Management Agency, and the Natural Resources Conservation Service; and
+  - **(3)** take advantage of new technologies to enhance efficiency and effectiveness of program delivery to producers.
 - **(c)**
   - **(1)** The Secretary shall make available to the Farm Service Agency to carry out this chapter $100,000,000.
   - **(2)**
@@ -37,41 +29,6 @@ generated_at: "2026-03-29T02:10:17.231Z"
       - **(ii)** To the maximum extent practicable, the Secretary shall—
         - **(I)** obligate the funds made available under clause (i) within 30 days after February 7, 2014 ; and
         - **(II)** require the products described in clause (i) to be made available to producers on the internet within a reasonable period of time, as determined by the Secretary, after the implementation of the first rule implementing programs required under subchapter I of this chapter.
-  - **(4)** The Secretary shall make available to the Farm Service Agency to carry out title I of the Agriculture Improvement Act of 2018 and the amendments made by that title $15,500,000.
-  - **(5)** The Secretary shall make available to carry out subtitle C of title I of the Act entitled “An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14” (119th Congress) and the amendments made by that subtitle $50,000,000, to remain available until expended, of which—
-    - **(A)** not less than $5,000,000 shall be used to carry out paragraphs (3) and (4) of subsection (b);
-    - **(B)** $3,000,000 shall be used for activities described in paragraph (3)(A);
-    - **(C)** $3,000,000 shall be used for activities described in paragraph (3)(B);
-    - **(D)** $9,000,000 shall be used—
-      - **(i)** to carry out mandatory surveys of dairy production cost and product yield information to be reported by manufacturers required to report under section 1637b of this title , for all products processed in the same facility or facilities; and
-      - **(ii)** to publish the results of such surveys biennially; and
-    - **(E)** $1,000,000 shall be used to conduct the study under subsection (d) of 1359kk of this title.
 - **(d)**
-  - **(1)** In any crop year in which an order is issued pursuant 2 2 So in original. Probably should be followed by “to”. section 901(a) of title 2 , the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018, 1 except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
-  - **(2)** In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles 3 3 So in original. Probably should be “subtitle”. B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles 3 B or C and as supplemented in accordance with paragraph (1).
-- **(e)**
-  - **(1)** Subject to paragraph (3), any payment obligated or otherwise made available by the Secretary under this chapter on or after December 20, 2018 , that is not disbursed to the recipient by the date that is 5 years after the date on which the payment is obligated or otherwise made available shall—
-    - **(A)** be deobligated; and
-    - **(B)** revert to the Treasury.
-  - **(2)**
-    - **(A)** Subject to paragraph (3), any payment obligated or otherwise made available by the Farm Service Agency (or any predecessor agency of the Department of Agriculture) under the laws described in subparagraph (B) before December 20, 2018 , that is not disbursed by the date that is 5 years after the date on which the payment is obligated or otherwise made available shall—
-      - **(i)** be deobligated; and
-      - **(ii)** revert to the Treasury.
-    - **(B)** The laws referred to in subparagraph (A) are any of the following:
-      - **(i)** This chapter.
-      - **(ii)** Title I of the Food, Conservation, and Energy Act of 2008 ( 7 U.S.C. 8702 et seq.).
-      - **(iii)** Title I of the Farm Security and Rural Investment Act of 2002 ( 7 U.S.C. 7901 et seq.).
-      - **(iv)** The Agricultural Market Transition Act ( 7 U.S.C. 7201 et seq.).
-      - **(v)** Titles I through XI of the Food, Agriculture, Conservation, and Trade Act of 1990 ( Public Law 101–624 ; 104 Stat. 3374 ) and the amendments made by those titles.
-      - **(vi)** Titles I through X of the Food Security Act of 1985 ( Public Law 99–198 ; 99 Stat. 1362 ) and the amendments made by those titles.
-      - **(vii)** Titles I through XI of the Agriculture and Food Act of 1981 ( Public Law 97–98 ; 95 Stat. 1218 ) and the amendments made by those titles.
-      - **(viii)** Titles I through X of the Food and Agriculture Act of 1977 ( Public Law 95–113 ; 91 Stat. 917 ) and the amendments made by those titles.
-  - **(3)** The Secretary may delay the date of the deobligation and reversion under paragraph (1) or (2) of any payment—
-    - **(A)** that is the subject of—
-      - **(i)** ongoing administrative review or appeal;
-      - **(ii)** litigation; or
-      - **(iii)** the settlement of an estate; or
-    - **(B)** for which the Secretary otherwise determines that the circumstances are such that the delay is equitable.
-- **(f)** Not later than January 1, 2020 , and each January 1 thereafter through January 1, 2023 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the tilled native sod acreage that was subject to a reduction in benefits under section 7333(a)(4)(B) of this title and section 508( o )(2) of the Federal Crop Insurance Act ( 7 U.S.C. 1508 ( o )(2))—
-  - **(1)** as of the date of submission of the report; and
-  - **(2)** by State and county, relative to the total acres of cropland in the State or county.
+  - **(1)** In any crop year in which an order is issued pursuant 1 1 So in original. Probably should be followed by “to”. section 901(a) of title 2 , the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitles B or C of this title or under the amendments made by subtitles B or C, except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
+  - **(2)** In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles B or C and as supplemented in accordance with paragraph (1).

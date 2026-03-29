@@ -3,12 +3,12 @@ title: "Section 607 - Regulations"
 usc_title: 23
 usc_section: "607"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 607"
-generated_at: "2026-03-29T02:13:00.982Z"
+generated_at: "2026-03-29T17:52:01.456Z"
 ---
 
 # § 607. Regulations
 
-The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out the TIFIA program.
+The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out this chapter
 

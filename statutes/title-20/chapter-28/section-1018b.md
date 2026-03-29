@@ -3,19 +3,19 @@ title: "Section 1018b - Administrative simplification of student aid delivery"
 usc_title: 20
 usc_section: "1018b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1018b"
-generated_at: "2026-03-29T02:12:17.179Z"
+generated_at: "2026-03-29T17:51:48.321Z"
 ---
 
 # § 1018b. Administrative simplification of student aid delivery
 
-- **(a)** In order to improve the efficiency and effectiveness of the student aid delivery system, the Secretary and the Chief Operating Officer shall encourage and participate in the establishment of voluntary consensus standards and requirements for the electronic transmission of information necessary for the administration of programs under subchapter IV.
+- **(a)** In order to improve the efficiency and effectiveness of the student aid delivery system, the Secretary and the Chief Operating Officer shall encourage and participate in the establishment of voluntary consensus standards and requirements for the electronic transmission of information necessary for the administration of programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 - **(b)**
   - **(1)** The Chief Operating Officer shall participate in the activities of standard setting organizations in carrying out the provisions of this section.
   - **(2)** The Chief Operating Officer shall encourage higher education groups seeking to develop common forms, standards, and procedures in support of the delivery of Federal student financial assistance to conduct these activities within a standard setting organization.
   - **(3)** The Chief Operating Officer may pay necessary dues and fees associated with participating in standard setting organizations pursuant to this subsection.
-- **(c)** Except with respect to the common financial reporting form under section 1090(a) of this title , the Secretary shall consider adopting voluntary consensus standards agreed to by the organization described in subsection (b) for transactions required under subchapter IV, and common data elements for such transactions, to enable information to be exchanged electronically between systems administered by the Department and among participants in the Federal student aid delivery system.
+- **(c)** Except with respect to the common financial reporting form under section 1090(a) of this title , the Secretary shall consider adopting voluntary consensus standards agreed to by the organization described in subsection (b) of this section for transactions required under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, and common data elements for such transactions, to enable information to be exchanged electronically between systems administered by the Department and among participants in the Federal student aid delivery system.
 - **(d)** Nothing in this section shall restrict the ability of participating institutions and lenders from using a clearinghouse or servicer to comply with the standards for the exchange of information established under this section.
 - **(e)** Any entity that maintains or transmits information under a transaction covered by this section shall maintain reasonable and appropriate administrative, technical, and physical safeguards—
   - **(1)** to ensure the integrity and confidentiality of the information; and

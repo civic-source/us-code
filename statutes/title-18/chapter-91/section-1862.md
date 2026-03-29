@@ -3,9 +3,9 @@ title: "Section 1862 - Repealed. Pub. L. 95–200, § 3(c) , Nov. 23, 1977 , 91 
 usc_title: 18
 usc_section: "1862"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 1862"
-generated_at: "2026-03-29T02:12:02.428Z"
+generated_at: "2026-03-29T17:53:15.664Z"
 ---
 
 # [§ 1862. Repealed. Pub. L. 95–200, § 3(c) , Nov. 23, 1977 , 91 Stat. 1428 ]

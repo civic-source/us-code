@@ -3,9 +3,9 @@ title: "Section 7214 - Inspections of registered public accounting firms"
 usc_title: 15
 usc_section: "7214"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 7214"
-generated_at: "2026-03-29T02:11:34.417Z"
+generated_at: "2026-03-29T17:51:36.412Z"
 ---
 
 # § 7214. Inspections of registered public accounting firms
@@ -32,33 +32,12 @@ generated_at: "2026-03-29T02:11:34.417Z"
   - **(3)** perform such other testing of the audit, supervisory, and quality control procedures of the firm as are necessary or appropriate in light of the purpose of the inspection and the responsibilities of the Board.
 - **(e)** The rules of the Board may require the retention by registered public accounting firms for inspection purposes of records whose retention is not otherwise required by section 7213 of this title or the rules issued thereunder.
 - **(f)** The rules of the Board shall provide a procedure for the review of and response to a draft inspection report by the registered public accounting firm under inspection. The Board shall take such action with respect to such response as it considers appropriate (including revising the draft report or continuing or supplementing its inspection activities before issuing a final report), but the text of any such response, appropriately redacted to protect information reasonably identified by the accounting firm as confidential, shall be attached to and made part of the inspection report.
-- **(g)** A written report of the findings of the Board for each inspection under this section, subject to subsection (h), shall be—
+- **(g)** A written report of the findings of the Board for each inspection under this section, subject to subsection (h) of this section, shall be—
   - **(1)** transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
   - **(2)** made available in appropriate detail to the public (subject to section 7215(b)(5)(A) of this title , and to the protection of such confidential and proprietary information as the Board may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
 - **(h)**
   - **(1)** A registered public accounting firm may seek review by the Commission, pursuant to such rules as the Commission shall promulgate, if the firm—
-    - **(A)** has provided the Board with a response, pursuant to rules issued by the Board under subsection (f), to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
-    - **(B)** disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2).
+    - **(A)** has provided the Board with a response, pursuant to rules issued by the Board under subsection (f) of this section, to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
+    - **(B)** disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2) of this section.
   - **(2)** Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under section 78y of this title , or deemed to be “final agency action” for purposes of section 704 of title 5 .
   - **(3)** Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
-- **(i)**
-  - **(1)** In this subsection—
-    - **(A)** the term “covered issuer” means an issuer that is required to file reports under section 78m or 78 o (d) of this title; and
-    - **(B)** the term “non-inspection year” means, with respect to a covered issuer, a year—
-      - **(i)** during which the Commission identifies the covered issuer under paragraph (2)(A) with respect to every report described in subparagraph (A) filed by the covered issuer during that year; and
-      - **(ii)** that begins after December 18, 2020 .
-  - **(2)** The Commission shall—
-    - **(A)** identify each covered issuer that, with respect to the preparation of the audit report on the financial statement of the covered issuer that is included in a report described in paragraph (1)(A) filed by the covered issuer, retains a registered public accounting firm that has a branch or office that—
-      - **(i)** is located in a foreign jurisdiction; and
-      - **(ii)** the Board is unable to inspect or investigate completely because of a position taken by an authority in a foreign jurisdiction, as determined by the Board; and
-    - **(B)** require each covered issuer identified under subparagraph (A) to, in accordance with the rules issued by the Commission under paragraph (4), submit to the Commission documentation that establishes that the covered issuer is not owned or controlled by a governmental entity in the foreign jurisdiction described in subparagraph (A)(i).
-  - **(3)**
-    - **(A)** If the Commission determines that a covered issuer has 2 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
-      - **(i)** on a national securities exchange; or
-      - **(ii)** through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the “over-the-counter” trading of securities.
-    - **(B)** If, after the Commission imposes a prohibition on a covered issuer under subparagraph (A), the covered issuer certifies to the Commission that the covered issuer has retained a registered public accounting firm that the Board has inspected under this section to the satisfaction of the Commission, the Commission shall end that prohibition.
-    - **(C)** If, after the Commission ends a prohibition under subparagraph (B) or (D) with respect to a covered issuer, the Commission determines that the covered issuer has a non-inspection year, the Commission shall prohibit the securities of the covered issuer from being traded—
-      - **(i)** on a national securities exchange; or
-      - **(ii)** through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the “over-the-counter” trading of securities.
-    - **(D)** If, after the end of the 5-year period beginning on the date on which the Commission imposes a prohibition on a covered issuer under subparagraph (C), the covered issuer certifies to the Commission that the covered issuer will retain a registered public accounting firm that the Board is able to inspect under this section, the Commission shall end that prohibition.
-  - **(4)** Not later than 90 days after December 18, 2020 , the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).

@@ -1,12 +1,14 @@
 ---
-title: "Section 622 - Omitted"
+title: "Section 622 - Exchange of tribal lands; title to lands"
 usc_title: 25
 usc_section: "622"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 622"
-generated_at: "2026-03-29T02:13:20.866Z"
+generated_at: "2026-03-29T17:52:06.001Z"
 ---
 
-# § 622. Omitted
+# § 622. Exchange of tribal lands; title to lands
+
+For the purpose of consolidation of Indian lands the Secretary of the Interior is authorized, under such regulations as he may prescribe, to exchange any lands or interests therein, including improvements and water rights with the consent of the Pueblo or Navajo tribal authorities for other lands, water rights, and improvements of similar value in the area set apart for the Pueblos and Canoncito Navajos or in the areas declared to be public domain or within any public domain within New Mexico. Title to all lands acquired under the provisions of this subchapter shall be taken in the name of the United States in trust for the respective Pueblo Indians and the Navajo Canoncito group.
 

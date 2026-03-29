@@ -3,9 +3,9 @@ title: "Section 5832 - National Training Program"
 usc_title: 7
 usc_section: "5832"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5832"
-generated_at: "2026-03-29T02:10:17.049Z"
+generated_at: "2026-03-29T17:50:48.795Z"
 ---
 
 # § 5832. National Training Program
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:10:17.049Z"
 - **(b)** The National Training Program shall be organized and administered by the National Institute of Food and Agriculture, in coordination with other appropriate Federal agencies. The Secretary shall designate an individual from the Cooperative Extension Service in each State to coordinate the National Training Program within that State. The coordinators shall be responsible, in cooperation with appropriate Federal and State agencies, for developing and implementing a statewide training program for appropriate field office personnel.
 - **(c)**
   - **(1)** The Secretary shall ensure that all agricultural agents of the Cooperative Extension Service have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990 . Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
-  - **(2)** Beginning three years after November 28, 1990 , the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a).
+  - **(2)** Beginning three years after November 28, 1990 , the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a) of this section.
 - **(d)**
   - **(1)** The Secretary shall designate not less than two regional training centers to coordinate and administer educational activities in sustainable agriculture as provided for in this section.
   - **(2)** Such centers shall offer intensive instructional programs involving classroom and field training work for extension specialists and other individuals who are required to transmit technical information.
@@ -38,4 +38,4 @@ generated_at: "2026-03-29T02:10:17.049Z"
   - **(10)** provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; 1 and
   - **(11)** provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title, 1 and other appropriate research programs of the Department.
 - **(h)** For purposes of this section, the term “appropriate field office personnel” includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
-- **(i)** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2023.
+- **(i)** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2018.

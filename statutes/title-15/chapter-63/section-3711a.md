@@ -3,9 +3,9 @@ title: "Section 3711a - Malcolm Baldrige National Quality Award"
 usc_title: 15
 usc_section: "3711a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3711a"
-generated_at: "2026-03-29T02:11:34.346Z"
+generated_at: "2026-03-29T17:51:36.359Z"
 ---
 
 # § 3711a. Malcolm Baldrige National Quality Award
@@ -23,7 +23,6 @@ generated_at: "2026-03-29T02:11:34.346Z"
     - **(D)** Health care providers.
     - **(E)** Education providers.
     - **(F)** Nonprofit organizations.
-    - **(G)** Community.
   - **(2)** The Secretary may at any time expand, subdivide, or otherwise modify the list of categories within which awards may be made as initially in effect under paragraph (1), and may establish separate awards for other organizations including units of government, upon a determination that the objectives of this section would be better served thereby; except that any such expansion, subdivision, modification, or establishment shall not be effective unless and until the Secretary has submitted a detailed description thereof to the Congress and a period of 30 days has elapsed since that submission.
   - **(3)** In any year, not more than 18 awards may be made under this section to recipients who have not previously received an award under this section, and no award shall be made within any category described in paragraph (1) if there are no qualifying enterprises in that category.
 - **(d)**

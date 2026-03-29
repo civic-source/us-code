@@ -3,9 +3,9 @@ title: "Section 1423e - Votes taken by the United States section on matters befo
 usc_title: 16
 usc_section: "1423e"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1423e"
-generated_at: "2026-03-29T02:11:53.786Z"
+generated_at: "2026-03-29T17:51:56.875Z"
 ---
 
 # § 1423e. Votes taken by the United States section on matters before the Commission

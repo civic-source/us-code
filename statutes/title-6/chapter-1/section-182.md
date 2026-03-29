@@ -3,9 +3,9 @@ title: "Section 182 - Responsibilities and authorities of the Under Secretary fo
 usc_title: 6
 usc_section: "182"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 182"
-generated_at: "2026-03-29T02:10:04.958Z"
+generated_at: "2026-03-29T17:50:39.324Z"
 ---
 
 # § 182. Responsibilities and authorities of the Under Secretary for Science and Technology
@@ -13,11 +13,11 @@ generated_at: "2026-03-29T02:10:04.958Z"
 The Secretary, acting through the Under Secretary for Science and Technology, shall have the responsibility for—
 
   - **(1)** advising the Secretary regarding research and development efforts and priorities in support of the Department’s missions;
-  - **(2)** developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to chemical, biological, and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
-  - **(3)** supporting the Under Secretary for Intelligence and Analysis and the Director of the Cybersecurity and Infrastructure Security Agency, by assessing and testing homeland security vulnerabilities and possible threats;
+  - **(2)** developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to chemical, biological,, 1 1 So in original. and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
+  - **(3)** supporting the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection, by assessing and testing homeland security vulnerabilities and possible threats;
   - **(4)** conducting basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements of the Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities;
   - **(5)** establishing priorities for, directing, funding, and conducting national research, development, test and evaluation, and procurement of technology and systems for—
-    - **(A)** preventing the importation of chemical, biological, and related weapons and material; and
+    - **(A)** preventing the importation of chemical, biological,, 1 and related weapons and material; and
     - **(B)** detecting, preventing, protecting against, and responding to terrorist attacks;
   - **(6)** establishing a system for transferring homeland security developments or technologies to Federal, State, local government, and private sector entities;
   - **(7)** entering into work agreements, joint sponsorships, contracts, or any other agreements with the Department of Energy regarding the use of the national laboratories or sites and support of the science and technology base at those facilities;
@@ -26,9 +26,5 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
   - **(10)** supporting United States leadership in science and technology;
   - **(11)** establishing and administering the primary research and development activities of the Department, including the long-term research and development needs and capabilities for all elements of the Department;
   - **(12)** coordinating and integrating all research, development, demonstration, testing, and evaluation activities of the Department;
-  - **(13)** coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs;
-  - **(14)** developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department; and
-  - **(15)** carrying out, in coordination with the Drug Enforcement Administration, research, development, testing, evaluation, and cost-benefit analyses to improve the safety, effectiveness, and efficiency of equipment and the effectiveness and efficiency of reference libraries for use by Federal, State, local, Tribal, and territorial law enforcement agencies for the accurate detection of drugs, such as fentanyl and xylazine, including—
-    - **(A)** portable equipment that can detect and identify drugs with minimal or no handling of the sample;
-    - **(B)** equipment that can separate complex mixtures containing low concentrations of drugs and high concentrations of cutting agents into their component parts to enable signature extraction for field identification and detection; and
-    - **(C)** technologies that use machine learning or artificial intelligence (as defined in section 9401 of title 15 ) and other techniques to predict whether the substances in a sample are controlled substance analogues or other new psychoactive substances not yet included in available reference libraries.
+  - **(13)** coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs; and
+  - **(14)** developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.

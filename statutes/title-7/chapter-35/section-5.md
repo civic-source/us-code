@@ -3,9 +3,9 @@ title: "Section 5 - Treatment of multiyear program contract payments"
 usc_title: 7
 usc_section: "5"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T02:10:16.768Z"
+generated_at: "2026-03-29T17:50:48.562Z"
 ---
 
 # § 1308–5. Treatment of multiyear program contract payments

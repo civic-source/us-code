@@ -3,9 +3,9 @@ title: "Section 1414 - Evaluations, eligibility determinations, individualized e
 usc_title: 20
 usc_section: "1414"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1414"
-generated_at: "2026-03-29T02:12:17.352Z"
+generated_at: "2026-03-29T17:51:48.500Z"
 ---
 
 # § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T02:12:17.352Z"
     - **(A)** the determination of whether the child is a child with a disability as defined in section 1401(3) of this title and the educational needs of the child shall be made by a team of qualified professionals and the parent of the child in accordance with paragraph (5); and
     - **(B)** a copy of the evaluation report and the documentation of determination of eligibility shall be given to the parent.
   - **(5)** In making a determination of eligibility under paragraph (4)(A), a child shall not be determined to be a child with a disability if the determinant factor for such determination is—
-    - **(A)** lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in section 6368(3) of this title , as such section was in effect on the day before December 10, 2015 );
+    - **(A)** lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in section 6368(3) of this title );
     - **(B)** lack of instruction in math; or
     - **(C)** limited English proficiency.
   - **(6)**

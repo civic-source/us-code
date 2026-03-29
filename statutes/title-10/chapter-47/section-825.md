@@ -3,9 +3,9 @@ title: "Section 825 - Art. 25. Who may serve on courts-martial"
 usc_title: 10
 usc_section: "825"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 825"
-generated_at: "2026-03-29T02:10:44.913Z"
+generated_at: "2026-03-29T17:50:56.971Z"
 ---
 
 # § 825. Art. 25. Who may serve on courts-martial
@@ -13,19 +13,9 @@ generated_at: "2026-03-29T02:10:44.913Z"
 - **(a)** Any commissioned officer on active duty is eligible to serve on all courts-martial for the trial of any person who may lawfully be brought before such courts for trial.
 - **(b)** Any warrant officer on active duty is eligible to serve on general and special courts-martial for the trial of any person, other than a commissioned officer, who may lawfully be brought before such courts for trial.
 - **(c)**
-  - **(1)** Any enlisted member on active duty is eligible to serve on a general or special court-martial for the trial of any other enlisted member.
-  - **(2)** Before a court-martial with a military judge and members is assembled for trial, an enlisted member who is an accused may personally request, orally on the record or in writing, that—
-    - **(A)** the membership of the court-martial be comprised entirely of officers; or
-    - **(B)** enlisted members comprise at least one-third of the membership of the court-martial, regardless of whether enlisted members have been detailed to the court-martial.
-  - **(3)** Except as provided in paragraph (4), after such a request, the accused may not be tried by a general or special court-martial if the membership of the court-martial is inconsistent with the request.
-  - **(4)** If, because of physical conditions or military exigencies, a sufficient number of eligible officers or enlisted members, as the case may be, is not available to carry out paragraph (2), the trial may nevertheless be held. In that event, the convening authority shall make a detailed written statement of the reasons for nonavailability. The statement shall be appended to the record.
+  - **(1)** Any enlisted member of an armed force on active duty who is not a member of the same unit as the accused is eligible to serve on general and special courts-martial for the trial of any enlisted member of an armed force who may lawfully be brought before such courts for trial, but he shall serve as a member of a court only if, before the conclusion of a session called by the military judge under section 839(a) of this title (article 39(a)) prior to trial or, in the absence of such a session, before the court is assembled for the trial of the accused, the accused personally has requested orally on the record or in writing that enlisted members serve on it. After such a request, the accused may not be tried by a general or special court-martial the membership of which does not include enlisted members in a number comprising at least, one-third of the total membership of the court, unless eligible enlisted members cannot be obtained on account of physical conditions or military exigencies. If such members cannot be obtained, the court may be assembled and the trial held without them, but the convening authority shall make a detailed written statement, to be appended to the record, stating why they could not be obtained.
+  - **(2)** In this article, “unit” means any regularly organized body as defined by the Secretary concerned, but in no case may it be a body larger than a company, squadron, ship’s crew, or body corresponding to one of them.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2) for capital offenses, the accused in a court-martial with a military judge and members shall be sentenced by the military judge.
-  - **(2)** In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the accused shall be sentenced in accordance with section 853(c) of this title (article 53(c)).
-  - **(3)** In a capital case, if the accused is convicted of a non-capital offense, the accused shall be sentenced for such non-capital offense in accordance with section 853(b) of this title (article 53(b)), regardless of whether the accused is convicted of an offense for which the court-martial may sentence the accused to death.
-- **(e)**
-  - **(1)** When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to the member being tried in rank or grade.
-  - **(2)** When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in the opinion of the convening authority, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when the member is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or as counsel in the same case.
-  - **(3)** The convening authority shall detail not less than the number of members necessary to impanel the court-martial under section 829 of this title (article 29).
-  - **(4)** When convening a court-martial, the convening authority shall detail as members thereof members of the armed forces under such regulations as the President may prescribe for the randomized selection of qualified personnel, to the maximum extent practicable.
-- **(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate the authority of the convening authority under this subsection to the staff judge advocate or legal officer of the convening authority or to any other principal assistant.
+  - **(1)** When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to him in rank or grade.
+  - **(2)** When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in his opinion, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when he is the accuser or a witness for the prosecution or has acted as investigating officer or as counsel in the same case.
+- **(e)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate his authority under this subsection to his staff judge advocate or legal officer or to any other principal assistant.

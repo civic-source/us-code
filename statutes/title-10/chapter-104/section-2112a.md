@@ -3,12 +3,12 @@ title: "Section 2112a - Continued operation of University"
 usc_title: 10
 usc_section: "2112a"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2112a"
-generated_at: "2026-03-29T02:10:45.061Z"
+generated_at: "2026-03-29T17:50:57.072Z"
 ---
 
 # § 2112a. Continued operation of University
 
-The University may not be closed.
-
+- **(a)** The University may not be closed.
+- **(b)** During the five-year period beginning on October 1, 1996 , the personnel staffing levels for the University may not be reduced below the personnel staffing levels for the University as of October 1, 1993 .

@@ -3,9 +3,9 @@ title: "Section 662 - Definitions"
 usc_title: 15
 usc_section: "662"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 662"
-generated_at: "2026-03-29T02:11:34.098Z"
+generated_at: "2026-03-29T17:51:36.171Z"
 ---
 
 # § 662. Definitions
@@ -65,6 +65,5 @@ As used in this chapter—
     - **(B)** has a 5-year maturity or a 10-year maturity;
     - **(C)** requires no interest payment or annual charge for the first 5 years;
     - **(D)** is restricted to Energy Saving qualified investments; and
-    - **(E)** is issued at no cost (as defined in section 661a 1 1 See References in Text note below. of title 2) with respect to purchasing and guaranteeing the debenture;
-  - **(19)** the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources; and
-  - **(20)** the term “underlicensed State” means a State in which the number of licensees per capita is less than the median number of licensees per capita for all States, as calculated by the Administrator.
+    - **(E)** is issued at no cost (as defined in section 661a 1 1 See References in Text note below. of title 2) with respect to purchasing and guaranteeing the debenture; and
+  - **(19)** the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources.

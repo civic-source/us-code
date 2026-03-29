@@ -3,9 +3,9 @@ title: "Section 40A - Biodiesel and renewable diesel used as fuel"
 usc_title: 26
 usc_section: "40A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 40A"
-generated_at: "2026-03-29T02:14:00.726Z"
+generated_at: "2026-03-29T17:52:39.086Z"
 ---
 
 # § 40A. Biodiesel and renewable diesel used as fuel
@@ -31,15 +31,14 @@ generated_at: "2026-03-29T02:14:00.726Z"
     - **(B)** No credit shall be allowed under subparagraph (A)(i) with respect to any biodiesel which was sold in a retail sale described in subparagraph (A)(ii).
   - **(3)** No credit shall be allowed under paragraph (1) or (2) of subsection (a) unless the taxpayer obtains a certification (in such form and manner as prescribed by the Secretary) from the producer or importer of the biodiesel which identifies the product produced and the percentage of biodiesel and agri-biodiesel in the product.
   - **(4)**
-    - **(A)** The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 20 cents for each gallon of qualified agri-biodiesel production of such producer.
-    - **(B)** For purposes of this paragraph, the term “qualified agri-biodiesel production” means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer in a manner which complies with the requirements under section 45Z(f)(1)(A)(iii), and which during the taxable year—
+    - **(A)** The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 10 cents for each gallon of qualified agri-biodiesel production of such producer.
+    - **(B)** For purposes of this paragraph, the term “qualified agri-biodiesel production” means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
       - **(i)** is sold by such producer to another person—
         - **(I)** for use by such other person in the production of a qualified biodiesel mixture in such other person’s trade or business (other than casual off-farm production),
         - **(II)** for use by such other person as a fuel in a trade or business, or
         - **(III)** who sells such agri-biodiesel at retail to another person and places such agri-biodiesel in the fuel tank of such other person, or
       - **(ii)** is used or sold by such producer for any purpose described in clause (i).
     - **(C)** The qualified agri-biodiesel production of any producer for any taxable year shall not exceed 15,000,000 gallons.
-    - **(D)** The credit determined under this paragraph with respect to any gallon of fuel shall be in addition to any credit determined under section 45Z with respect to such gallon of fuel.
 - **(c)** The amount of the credit determined under this section with respect to any biodiesel shall be properly reduced to take into account any benefit provided with respect to such biodiesel solely by reason of the application of section 6426 or 6427(e).
 - **(d)** For purposes of this section—
   - **(1)** The term “biodiesel” means the monoalkyl esters of long chain fatty acids derived from plant or animal matter which meet—
@@ -85,4 +84,7 @@ generated_at: "2026-03-29T02:14:00.726Z"
   - **(3)** The term “renewable diesel” means liquid fuel derived from biomass which meets—
     - **(A)** the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act ( 42 U.S.C. 7545 ), and
     - **(B)** the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.
-- **(g)** This section shall not apply to any sale or use after December 31, 2024 (or, in the case of the small agri-biodiesel producer credit, any sale or use after December 31, 2026 ).
+  - **(4)**
+    - **(A)** Except as provided in the last 3 sentences of paragraph (3), the term “renewable diesel” shall include fuel derived from biomass which meets the requirements of a Department of Defense specification for military jet fuel or an American Society of Testing and Materials specification for aviation turbine fuel.
+    - **(B)** In the case of fuel which is treated as renewable diesel solely by reason of subparagraph (A), subsection (b)(1) and section 6426(c) shall be applied with respect to such fuel by treating kerosene as though it were diesel fuel.
+- **(g)** This section shall not apply to any sale or use after December 31, 2013 .

@@ -3,9 +3,9 @@ title: "Section 7124 - Evaluation and approval of projects by Secretary concerne
 usc_title: 16
 usc_section: "7124"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 7124"
-generated_at: "2026-03-29T02:11:53.992Z"
+generated_at: "2026-03-29T17:51:57.033Z"
 ---
 
 # § 7124. Evaluation and approval of projects by Secretary concerned
@@ -40,6 +40,21 @@ generated_at: "2026-03-29T02:11:53.992Z"
         - **(II)** the sensitivity of the resources being treated;
       - **(iii)** the past experience by the contractor with the type of work being done, using the type of equipment proposed for the project, and meeting or exceeding desired ecological conditions; and
       - **(iv)** the commitment of the contractor to hiring highly qualified workers and local residents.
+  - **(3)**
+    - **(A)** The Secretary concerned shall establish a pilot program to implement a certain percentage of approved projects involving the sale of merchantable timber using separate contracts for—
+      - **(i)** the harvesting or collection of merchantable timber; and
+      - **(ii)** the sale of the timber.
+    - **(B)** Under the pilot program, the Secretary concerned shall ensure that, on a nationwide basis, not less than the following percentage of all approved projects involving the sale of merchantable timber are implemented using separate contracts:
+      - **(i)** For fiscal year 2008, 35 percent.
+      - **(ii)** For fiscal year 2009, 45 percent.
+      - **(iii)** For each of fiscal years 2010 through 2013, 50 percent.
+    - **(C)** The decision whether to use separate contracts to implement a project involving the sale of merchantable timber shall be made by the Secretary concerned after the approval of the project under this subchapter.
+    - **(D)**
+      - **(i)** The Secretary concerned may use funds from any appropriated account available to the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.
+      - **(ii)** The total amount obligated under this subparagraph may not exceed $1,000,000 for any fiscal year during which the pilot program is in effect.
+    - **(E)**
+      - **(i)** Not later than September 30, 2010 , the Comptroller General shall submit to the Committees on Agriculture, Nutrition, and Forestry and Energy and Natural Resources of the Senate and the Committees on Agriculture and Natural Resources of the House of Representatives a report assessing the pilot program.
+      - **(ii)** The Secretary concerned shall submit to the Committees on Agriculture, Nutrition, and Forestry and Energy and Natural Resources of the Senate and the Committees on Agriculture and Natural Resources of the House of Representatives an annual report describing the results of the pilot program.
 - **(f)** The Secretary shall ensure that at least 50 percent of all project funds be used for projects that are primarily dedicated—
   - **(1)** to road maintenance, decommissioning, or obliteration; or
   - **(2)** to restoration of streams and watersheds.

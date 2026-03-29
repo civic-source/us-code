@@ -3,9 +3,9 @@ title: "Section 111 - Agreements relating to use of and access to rights-of-way�
 usc_title: 23
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 111"
-generated_at: "2026-03-29T02:13:00.906Z"
+generated_at: "2026-03-29T17:52:01.418Z"
 ---
 
 # § 111. Agreements relating to use of and access to rights-of-way—Interstate System
@@ -33,4 +33,4 @@ generated_at: "2026-03-29T02:13:00.906Z"
     - **(D)** Sponsorship logos affixed to an identification sign on a call box post may be located on the rights-of-way at intervals not more frequently than 1 per every 5 miles.
     - **(E)** Within a State, at least 20 percent of the call boxes displaying sponsorship logos shall be located on highways outside of urbanized areas with a population greater than 50,000.
   - **(3)** The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
-- **(e)** If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System (including new or modified freeway-to-crossroad interchanges inside a transportation management area), the Secretary may permit a State transportation department to approve the report.
+- **(e)** If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System, the Secretary may permit a State transportation department to approve the report.

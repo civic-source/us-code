@@ -3,9 +3,9 @@ title: "Section 8801 - Definitions"
 usc_title: 22
 usc_section: "8801"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8801"
-generated_at: "2026-03-29T02:12:40.471Z"
+generated_at: "2026-03-29T17:52:10.728Z"
 ---
 
 # § 8801. Definitions
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:12:40.471Z"
   - **(3)** The term “coal” means metallurgical coal, coking coal, or fuel coke.
   - **(4)** The terms “correspondent account” and “payable-through account” have the meanings given those terms in section 5318A of title 31 .
   - **(5)** The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title .
-  - **(6)** The term “good” has the meaning given that term in section 4618 1 1 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
+  - **(6)** The term “good” has the meaning given that term in section 2415 of title 50 , Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(7)** The term “Iranian financial institution” has the meaning given that term in section 8513b(d) of this title .
   - **(8)** The term “Iranian person” means—
     - **(A)** an individual who is a citizen or national of Iran; and

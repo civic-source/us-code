@@ -3,9 +3,9 @@ title: "Section 4108 - Prepayment and voluntary termination"
 usc_title: 12
 usc_section: "4108"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4108"
-generated_at: "2026-03-29T02:11:21.184Z"
+generated_at: "2026-03-29T17:51:13.216Z"
 ---
 
 # § 4108. Prepayment and voluntary termination
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T02:11:21.184Z"
     - **(B)** the ability of low-income and very low-income families or persons to find affordable, decent, safe, and sanitary housing near employment opportunities; or
     - **(C)** the housing opportunities of minorities in the community within which the housing is located.
 - **(b)**
-  - **(1)** A written finding under subsection (a) shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
-  - **(2)** The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
-- **(c)** If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under section 4102 of this title by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
+  - **(1)** A written finding under subsection (a) of this section shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
+  - **(2)** The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) of this section exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
+- **(c)** If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a) of this section, the Secretary shall disapprove the plan, the notice of intent filed under section 4102 of this title by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.

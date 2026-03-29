@@ -3,9 +3,9 @@ title: "Section 143 - Mortgage revenue bonds: qualified mortgage bond and qualif
 usc_title: 26
 usc_section: "143"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 143"
-generated_at: "2026-03-29T02:14:00.809Z"
+generated_at: "2026-03-29T17:52:39.132Z"
 ---
 
 # § 143. Mortgage revenue bonds: qualified mortgage bond and qualified veterans’ mortgage bond
@@ -225,7 +225,7 @@ generated_at: "2026-03-29T02:14:00.809Z"
       - **(iii)** subsection (e) (relating to purchase price requirement) shall be applied by using the market value of the residence at the time of refinancing in lieu of the acquisition cost.
     - **(C)** The term “qualified subprime loan” means an adjustable rate single-family residential mortgage loan made after December 31, 2001 , and before January 1, 2008 , that the bond issuer determines would be reasonably likely to cause financial hardship to the borrower if not refinanced.
     - **(D)** This paragraph shall not apply to any bonds issued after December 31, 2010 .
-  - **(13)**
+  - **(12)**
     - **(A)** At the election of the taxpayer, if the principal residence (within the meaning of section 121) of such taxpayer is—
       - **(i)** rendered unsafe for use as a residence by reason of a federally declared disaster occurring before January 1, 2010 , or
       - **(ii)** demolished or relocated by reason of an order of the government of a State or political subdivision thereof on account of a federally declared disaster occurring before such date,
@@ -234,7 +234,7 @@ generated_at: "2026-03-29T02:14:00.809Z"
       - **(ii)** The aggregate owner-financing to which clause (i) applies shall not exceed the lesser of—
         - **(I)** the cost of such repair or reconstruction, or
         - **(II)** $150,000.
-    - **(C)** For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i). 1 1 See References in Text note below.
+    - **(C)** For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i).
     - **(D)**
       - **(i)** An election under this paragraph may not be revoked except with the consent of the Secretary.
       - **(ii)** If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.
@@ -283,7 +283,7 @@ generated_at: "2026-03-29T02:14:00.809Z"
       - **(iii)** the income percentage.
     - **(B)** The federally-subsidized amount with respect to any indebtedness is the amount equal to 6.25 percent of the highest principal amount of the indebtedness for which the taxpayer was liable.
     - **(C)**
-      - **(i)** The term “holding period percentage” means the percentage determined in accordance with the following table: If the disposition occurs during a year after the testing date which is: The holding period percentage is: The 1st such year 20 The 2d such year 40 The 3d such year 60 The 4th such year 80 The 5th such year 100 The 6th such year 80 The 7th such year 60 The 8th such year 40 The 9th such year 20.
+      - **(i)** The term “holding period percentage” means the percentage determined in accordance with the following table: If the disposition occurs during a year after the The holding period testing date which is: percentage is: The 1st such year 20 The 2d such year 40 The 3d such year 60 The 4th such year 80 The 5th such year 100 The 6th such year 80 The 7th such year 60 The 8th such year 40 The 9th such year 20.
       - **(ii)** If the federally-subsidized indebtedness is completely repaid during any year of the 4-year period beginning on the testing date, the holding period percentage for succeeding years shall be determined by reducing ratably to zero over the succeeding 5 years the holding period percentage which would have been determined under this subparagraph had the taxpayer disposed of his interest in the residence on the date of the repayment.
     - **(D)** The term “testing date” means the earliest date on which all of the following requirements are met:
       - **(i)** The indebtedness is federally-subsidized indebtedness.

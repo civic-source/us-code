@@ -3,13 +3,13 @@ title: "Section 6311 - Studies"
 usc_title: 15
 usc_section: "6311"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 6311"
-generated_at: "2026-03-29T02:11:34.393Z"
+generated_at: "2026-03-29T17:51:36.392Z"
 ---
 
 # § 6311. Studies
 
 - **(a)** The Secretary of Labor shall conduct a study on the feasibility and cost of a national pension system for boxers, including potential funding sources.
 - **(b)** The Secretary of Health and Human Services shall conduct a study to develop recommendations for health, safety, and equipment standards for boxers and for professional boxing matches.
-- **(c)** Not later than one year after October 9, 1996 , the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a). Not later than 180 days after October 9, 1996 , the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b).
+- **(c)** Not later than one year after October 9, 1996 , the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a) of this section. Not later than 180 days after October 9, 1996 , the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b) of this section.

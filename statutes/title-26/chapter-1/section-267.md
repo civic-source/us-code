@@ -3,9 +3,9 @@ title: "Section 267 - Losses, expenses, and interest with respect to transaction
 usc_title: 26
 usc_section: "267"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 267"
-generated_at: "2026-03-29T02:14:00.874Z"
+generated_at: "2026-03-29T17:52:39.180Z"
 ---
 
 # § 267. Losses, expenses, and interest with respect to transactions between related taxpayers
@@ -42,12 +42,9 @@ generated_at: "2026-03-29T02:14:00.874Z"
   - **(3)** An individual owning (otherwise than by the application of paragraph (2)) any stock in a corporation shall be considered as owning the stock owned, directly or indirectly, by or for his partner;
   - **(4)** The family of an individual shall include only his brothers and sisters (whether by the whole or half blood), spouse, ancestors, and lineal descendants; and
   - **(5)** Stock constructively owned by a person by reason of the application of paragraph (1) shall, for the purpose of applying paragraph (1), (2), or (3), be treated as actually owned by such person, but stock constructively owned by an individual by reason of the application of paragraph (2) or (3) shall not be treated as owned by him for the purpose of again applying either of such paragraphs in order to make another the constructive owner of such stock.
-- **(d)**
-  - **(1)** If—
-    - **(A)** in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1), and
-    - **(B)** the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in the taxpayer’s hands is determined directly or indirectly by reference to such property) at a gain,
-  - **(2)** Paragraph (1) shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales).
-  - **(3)** Paragraph (1) shall not apply to the extent any loss sustained by the transferor (if allowed) would not be taken into account in determining a tax imposed under section 1 or 11 or a tax computed as provided by either of such sections.
+- **(d)** If—
+  - **(1)** in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1) (or by reason of section 24(b) of the Internal Revenue Code of 1939); and
+  - **(2)** after December 31, 1953 , the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
 - **(e)**
   - **(1)** In the case of any amount paid or incurred by, to, or on behalf of, a pass-thru entity, for purposes of applying subsection (a)(2)—
     - **(A)** such entity,

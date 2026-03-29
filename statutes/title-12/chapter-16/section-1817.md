@@ -3,9 +3,9 @@ title: "Section 1817 - Assessments"
 usc_title: 12
 usc_section: "1817"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1817"
-generated_at: "2026-03-29T02:11:21.033Z"
+generated_at: "2026-03-29T17:51:13.109Z"
 ---
 
 # § 1817. Assessments
@@ -32,11 +32,6 @@ generated_at: "2026-03-29T02:11:21.033Z"
   - **(11)**
     - **(A)** Before the end of the 1-year period beginning on October 13, 2006 , and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed by an insured depository institution in a report of condition required under paragraph (3).
     - **(B)** After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collection of such information or schedules is no longer necessary or appropriate.
-  - **(12)**
-    - **(A)** The appropriate Federal banking agencies shall issue regulations that allow for a reduced reporting requirement for a covered depository institution when the institution makes the first and third report of condition for a year, as required under paragraph (3).
-    - **(B)** In this paragraph, the term “covered depository institution” means an insured depository institution that—
-      - **(i)** has less than $5,000,000,000 in total consolidated assets; and
-      - **(ii)** satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.
 - **(b)**
   - **(1)**
     - **(A)** The Board of Directors shall, by regulation, establish a risk-based assessment system for insured depository institutions.
@@ -104,7 +99,7 @@ generated_at: "2026-03-29T02:11:21.033Z"
       - **(i)** be in such form and set forth such supporting information as the Board of Directors shall prescribe; and
       - **(ii)** be certified by the president of the depository institution or any other officer designated by its board of directors or trustees that to the best of his or her knowledge and belief, the statement is true, correct and complete, and in accordance with this chapter and regulations issued hereunder.
   - **(2)**
-    - **(A)** Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b).
+    - **(A)** Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b) of this section.
     - **(B)** The payments required under subparagraph (A) shall be made in such manner and at such time or times as the Board of Directors shall prescribe by regulation.
   - **(3)** To facilitate the administration of this section, the Board of Directors may waive the requirements of paragraphs (1) and (2) for the initial assessment period in which a depository institution becomes insured.
   - **(4)**
@@ -148,7 +143,7 @@ generated_at: "2026-03-29T02:11:21.033Z"
     - **(C)** If an insured depository institution has made a false or fraudulent statement with intent to evade any or all of its assessment, the Corporation shall have until 3 years after the date of discovery of the false or fraudulent statement in which to bring an action to recover the underpaid amount.
     - **(D)** Except as provided in subparagraph (C), assessment deposit information contained in records no longer required to be maintained pursuant to subsection (b)(4) shall be considered conclusive and not subject to change.
     - **(E)** Any action for the underpaid or overpaid amount of any assessment that became due before January 1, 2007 , shall be subject to the statute of limitations for assessments in effect at the time the assessment became due.
-- **(h)** Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended [ 12 U.S.C. 21 et seq.], the Federal Reserve Act, as amended [ 12 U.S.C. 221 et seq.], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended [ 12 U.S.C. 501a ]. The remedies provided in this subsection and in subsections (f) and (g) shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
+- **(h)** Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended [ 12 U.S.C. 21 et seq.], the Federal Reserve Act, as amended [ 12 U.S.C. 221 et seq.], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended [ 12 U.S.C. 501a ]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
 - **(i)**
   - **(1)** Trust funds held on deposit by an insured depository institution in a fiduciary capacity as trustee pursuant to any irrevocable trust established pursuant to any statute or written trust agreement shall be insured in an amount not to exceed the standard maximum deposit insurance amount (as determined under section 1821(a)(1) of this title ) for each trust estate.
   - **(2)** Trust funds described in paragraph (1) which are deposited by the fiduciary depository institution in another insured depository institution shall be similarly insured to the fiduciary depository institution according to the trust estates represented.
@@ -278,7 +273,7 @@ generated_at: "2026-03-29T02:11:21.033Z"
 - **(m)**
   - **(1)** Subject to the maximum amount limitation contained in paragraph (2) and notwithstanding any other provision of law, any insured savings association may offset such association’s pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) of this section for any calendar year beginning before 1993.
   - **(2)** The amount of any offset allowed for any savings association under paragraph (1) for any calendar year beginning before 1993 shall not exceed an amount which is equal to 20 percent of such association’s pro rata share of the statutorily prescribed amount (as computed for such calendar year).
-  - **(3)** Notwithstanding any other provision of law, a savings association may offset such association’s pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) for any calendar year beginning after 1992.
+  - **(3)** Notwithstanding any other provision of law, a savings association may offset such association’s pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) of this section for any calendar year beginning after 1992.
   - **(4)** No right, title, or interest of any insured depository institution in or with respect to its pro rata share of the secondary reserve shall be assignable or transferable whether by operation of law or otherwise, except to the extent that the Corporation may provide for transfer of such pro rata share in cases of merger or consolidation, transfer of bulk assets or assumption of liabilities, and similar transactions, as defined by the Corporation for purposes of this paragraph.
   - **(5)** If—
     - **(A)** the status of any savings association as an insured depository institution is terminated pursuant to any provision of section 1818 of this title or the insurance of accounts of any such institution is otherwise terminated;

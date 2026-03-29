@@ -3,9 +3,9 @@ title: "Section 10 - Registration and regulation of security-based swap dealers 
 usc_title: 15
 usc_section: "10"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-29T02:11:33.938Z"
+generated_at: "2026-03-29T17:51:36.060Z"
 ---
 
 # § 78o–10. Registration and regulation of security-based swap dealers and major security-based swap participants
@@ -59,7 +59,6 @@ generated_at: "2026-03-29T02:11:33.938Z"
       - **(ii)** The entities described in clause (i) shall, to the maximum extent practicable, establish and maintain comparable minimum capital requirements and minimum initial and variation margin requirements, including the use of noncash collateral, for—
         - **(I)** security-based swap dealers; and
         - **(II)** major security-based swap participants.
-  - **(4)** The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap in which a counterparty qualifies for an exception under section 78c–3(g)(1) of this title or satisfies the criteria in section 78c–3(g)(4) of this title .
 - **(f)**
   - **(1)** Each registered security-based swap dealer and major security-based swap participant—
     - **(A)** shall make such reports as are required by the Commission, by rule or regulation, regarding the transactions and positions and financial condition of the registered security-based swap dealer or major security-based swap participant;

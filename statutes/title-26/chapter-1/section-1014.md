@@ -3,16 +3,16 @@ title: "Section 1014 - Basis of property acquired from a decedent"
 usc_title: 26
 usc_section: "1014"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1014"
-generated_at: "2026-03-29T02:14:01.099Z"
+generated_at: "2026-03-29T17:52:39.343Z"
 ---
 
 # § 1014. Basis of property acquired from a decedent
 
 - **(a)** Except as otherwise provided in this section, the basis of property in the hands of a person acquiring the property from a decedent or to whom the property passed from a decedent shall, if not sold, exchanged, or otherwise disposed of before the decedent’s death by such person, be—
   - **(1)** the fair market value of the property at the date of the decedent’s death,
-  - **(2)** in the case of an election under section 2032, its value at the applicable valuation date prescribed by such section,
+  - **(2)** in the case of an election under either section 2032 or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21, 1942 , its value at the applicable valuation date prescribed by those sections,
   - **(3)** in the case of an election under section 2032A, its value determined under such section, or
   - **(4)** to the extent of the applicability of the exclusion described in section 2031(c), the basis in the hands of the decedent.
 - **(b)** For purposes of subsection (a), the following property shall be considered to have been acquired from or to have passed from the decedent:
@@ -22,7 +22,8 @@ generated_at: "2026-03-29T02:14:01.099Z"
   - **(4)** Property passing without full and adequate consideration under a general power of appointment exercised by the decedent by will;
   - **(5)** In the case of decedents dying after August 26, 1937 , and before January 1, 2005 , property acquired by bequest, devise, or inheritance or by the decedent’s estate from the decedent, if the property consists of stock or securities of a foreign corporation, which with respect to its taxable year next preceding the date of the decedent’s death was, under the law applicable to such year, a foreign personal holding company. In such case, the basis shall be the fair market value of such property at the date of the decedent’s death or the basis in the hands of the decedent, whichever is lower;
   - **(6)** In the case of decedents dying after December 31, 1947 , property which represents the surviving spouse’s one-half share of community property held by the decedent and the surviving spouse under the community property laws of any State, or possession of the United States or any foreign country, if at least one-half of the whole of the community interest in such property was includible in determining the value of the decedent’s gross estate under chapter 11 of subtitle B (section 2001 and following, relating to estate tax) or section 811 of the Internal Revenue Code of 1939;
-  - **[(7)** , (8) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(74)(B) , Dec. 19, 2014 , 128 Stat. 4049 ]
+  - **(7)** In the case of decedents dying after October 21, 1942 , and on or before December 31, 1947 , such part of any property, representing the surviving spouse’s one-half share of property held by a decedent and the surviving spouse under the community property laws of any State, or possession of the United States or any foreign country, as was included in determining the value of the gross estate of the decedent, if a tax under chapter 3 of the Internal Revenue Code of 1939 was payable on the transfer of the net estate of the decedent. In such case, nothing in this paragraph shall reduce the basis below that which would exist if the Revenue Act of 1948 had not been enacted;
+  - **(8)** In the case of decedents dying after December 31, 1950 , and before January 1, 1954 , property which represents the survivor’s interest in a joint and survivor’s annuity if the value of any part of such interest was required to be included in determining the value of decedent’s gross estate under section 811 of the Internal Revenue Code of 1939;
   - **(9)** In the case of decedents dying after December 31, 1953 , property acquired from the decedent by reason of death, form of ownership, or other conditions (including property acquired through the exercise or non-exercise of a power of appointment), if by reason thereof the property is required to be included in determining the value of the decedent’s gross estate under chapter 11 of subtitle B or under the Internal Revenue Code of 1939. In such case, if the property is acquired before the death of the decedent, the basis shall be the amount determined under subsection (a) reduced by the amount allowed to the taxpayer as deductions in computing taxable income under this subtitle or prior income tax laws for exhaustion, wear and tear, obsolescence, amortization, and depletion on such property before the death of the decedent. Such basis shall be applicable to the property commencing on the death of the decedent. This paragraph shall not apply to—
     - **(A)** annuities described in section 72;
     - **(B)** property to which paragraph (5) would apply if the property had been acquired by bequest; and
@@ -37,13 +38,3 @@ generated_at: "2026-03-29T02:14:01.099Z"
   - **(2)** For purposes of paragraph (1)—
     - **(A)** The term “appreciated property” means any property if the fair market value of such property on the day it was transferred to the decedent by gift exceeds its adjusted basis.
     - **(B)** In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor, rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
-- **(f)** For purposes of this section—
-  - **(1)** The basis of any property to which subsection (a) applies shall not exceed—
-    - **(A)** in the case of property the final value of which has been determined for purposes of the tax imposed by chapter 11 on the estate of such decedent, such value, and
-    - **(B)** in the case of property not described in subparagraph (A) and with respect to which a statement has been furnished under section 6035(a) identifying the value of such property, such value.
-  - **(2)** Paragraph (1) shall only apply to any property whose inclusion in the decedent’s estate increased the liability for the tax imposed by chapter 11 (reduced by credits allowable against such tax) on such estate.
-  - **(3)** For purposes of paragraph (1), the basis of property has been determined for purposes of the tax imposed by chapter 11 if—
-    - **(A)** the value of such property is shown on a return under section 6018 and such value is not contested by the Secretary before the expiration of the time for assessing a tax under chapter 11,
-    - **(B)** in a case not described in subparagraph (A), the value is specified by the Secretary and such value is not timely contested by the executor of the estate, or
-    - **(C)** the value is determined by a court or pursuant to a settlement agreement with the Secretary.
-  - **(4)** The Secretary may by regulations provide exceptions to the application of this subsection.

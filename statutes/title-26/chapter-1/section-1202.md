@@ -3,56 +3,36 @@ title: "Section 1202 - Partial exclusion for gain from certain small business st
 usc_title: 26
 usc_section: "1202"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1202"
-generated_at: "2026-03-29T02:14:01.110Z"
+generated_at: "2026-03-29T17:52:39.351Z"
 ---
 
 # § 1202. Partial exclusion for gain from certain small business stock
 
 - **(a)**
-  - **(1)** In the case of a taxpayer other than a corporation, gross income shall not include—
-    - **(A)** except as provided in paragraphs (3) and (4), 50 percent of any gain from the sale or exchange of qualified small business stock acquired on or before the applicable date and held for more than 5 years, and
-    - **(B)** the applicable percentage of any gain from the sale or exchange of qualified small business stock acquired after the applicable date and held for at least 3 years.
+  - **(1)** In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.
   - **(2)**
     - **(A)** In the case of qualified small business stock acquired after the date of the enactment of this paragraph in a corporation which is a qualified business entity (as defined in section 1397C(b)) during substantially all of the taxpayer’s holding period for such stock, paragraph (1) shall be applied by substituting “60 percent” for “50 percent”.
-    - **(B)** Rules similar to the rules of paragraphs (5) and (7) of section 1400B(b) (as in effect before its repeal) shall apply for purposes of this paragraph.
+    - **(B)** Rules similar to the rules of paragraphs (5) and (7) of section 1400B(b) shall apply for purposes of this paragraph.
     - **(C)** Subparagraph (A) shall not apply to gain attributable to periods after December 31, 2018 .
     - **(D)** The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this paragraph.
   - **(3)** In the case of qualified small business stock acquired after the date of the enactment of this paragraph and on or before the date of the enactment of the Creating Small Business Jobs Act of 2010—
-    - **(A)** paragraph (1)(A) shall be applied by substituting “75 percent” for “50 percent”, and
+    - **(A)** paragraph (1) shall be applied by substituting “75 percent” for “50 percent”, and
     - **(B)** paragraph (2) shall not apply.
-  - **(4)** In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and on or before the applicable date—
-    - **(A)** paragraph (1)(A) shall be applied by substituting “100 percent” for “50 percent”, 1 1 So in original. The comma probably should be followed by “and”.
-    - **(B)** paragraph (2) shall not apply.
-  - **(5)** The applicable percentage under paragraph (1) shall be determined under the following table: Years stock held: Applicable percentage: 3 years 50% 4 years 75% 5 years or more 100%
-  - **(6)** For purposes of this section—
-    - **(A)** The term “applicable date” means the date of the enactment of this paragraph.
-    - **(B)** In the case of any stock which would (but for this paragraph) be treated as having been acquired before, on, or after the applicable date, whichever is applicable, the acquisition date for purposes of this section shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
+  - **(4)** In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2014 —
+    - **(A)** paragraph (1) shall be applied by substituting “100 percent” for “50 percent”,
+    - **(B)** paragraph (2) shall not apply, and
+    - **(C)** paragraph (7) of section 57(a) shall not apply.
 - **(b)**
   - **(1)** If the taxpayer has eligible gain for the taxable year from 1 or more dispositions of stock issued by any corporation, the aggregate amount of such gain from dispositions of stock issued by such corporation which may be taken into account under subsection (a) for the taxable year shall not exceed the greater of—
-    - **(A)** the applicable dollar limit for the taxable year, or
+    - **(A)** $10,000,000 reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
     - **(B)** 10 times the aggregate adjusted bases of qualified small business stock issued by such corporation and disposed of by the taxpayer during the taxable year.
-  - **(2)** For purposes of this subsection, the term “eligible gain” means any gain from the sale or exchange of qualified small business stock held for at least 3 years (more than 5 years in the case of stock acquired on or before the applicable date).
+  - **(2)** For purposes of this subsection, the term “eligible gain” means any gain from the sale or exchange of qualified small business stock held for more than 5 years.
   - **(3)**
-    - **(A)** In the case of a separate return by a married individual for any taxable year—
-      - **(i)** paragraph (4)(A) shall be applied by substituting “$5,000,000” for “$10,000,000”, and
-      - **(ii)** paragraph (4)(B) shall be applied by substituting one-half of the dollar amount in effect under such paragraph for the taxable year for the amount so in effect.
+    - **(A)** In the case of a separate return by a married individual, paragraph (1)(A) shall be applied by substituting “$5,000,000” for “$10,000,000”.
     - **(B)** In the case of any joint return, the amount of gain taken into account under subsection (a) shall be allocated equally between the spouses for purposes of applying this subsection to subsequent taxable years.
     - **(C)** For purposes of this subsection, marital status shall be determined under section 7703.
-  - **(4)** For purposes of paragraph (1)(A), the applicable dollar limit for any taxable year with respect to eligible gain from 1 or more dispositions by a taxpayer of qualified business stock of a corporation is—
-    - **(A)** if such stock was acquired by the taxpayer on or before the applicable date, $10,000,000, reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation and acquired by the taxpayer before, on, or after the applicable date, and
-    - **(B)** if such stock was acquired by the taxpayer after the applicable date, $15,000,000, reduced by the sum of—
-      - **(i)** the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation and acquired by the taxpayer before, on, or after the applicable date, plus
-      - **(ii)** the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for the taxable year and attributable to dispositions of stock issued by such corporation and acquired by the taxpayer on or before the applicable date.
-  - **(5)**
-    - **(A)** In the case of any taxable year beginning after 2026, the $15,000,000 amount in paragraph (4)(B) shall be increased by an amount equal to—
-      - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-    - **(B)** If, for any taxable year, the eligible gain attributable to dispositions of stock issued by a corporation and acquired by the taxpayer after the applicable date exceeds the applicable dollar limit, then notwithstanding any increase under subparagraph (A) for any subsequent taxable year, the applicable dollar limit for such subsequent taxable year shall be zero.
-  - **(4)** In the case of any taxable year beginning after 2026, the $75,000,000 amounts in paragraphs (1)(A) and (1)(B) shall each be increased by an amount equal to—
-    - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(c)** For purposes of this section—
   - **(1)** Except as otherwise provided in this section, the term “qualified small business stock” means any stock in a C corporation which is originally issued after the date of the enactment of the Revenue Reconciliation Act of 1993, if—
     - **(A)** as of the date of issuance, such corporation is a qualified small business, and
@@ -70,8 +50,8 @@ generated_at: "2026-03-29T02:14:01.110Z"
     - **(C)** If any transaction is treated under section 304(a) as a distribution in redemption of the stock of any corporation, for purposes of subparagraphs (A) and (B), such corporation shall be treated as purchasing an amount of its stock equal to the amount treated as such a distribution under section 304(a).
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified small business” means any domestic corporation which is a C corporation if—
-    - **(A)** the aggregate gross assets of such corporation (or any predecessor thereof) at all times on or after the date of the enactment of the Revenue Reconciliation Act of 1993 and before the issuance did not exceed $75,000,000,
-    - **(B)** the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amounts received in the issuance) do not exceed $75,000,000, and
+    - **(A)** the aggregate gross assets of such corporation (or any predecessor thereof) at all times on or after the date of the enactment of the Revenue Reconciliation Act of 1993 and before the issuance did not exceed $50,000,000,
+    - **(B)** the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amounts received in the issuance) do not exceed $50,000,000, and
     - **(C)** such corporation agrees to submit such reports to the Secretary and to shareholders as the Secretary may require to carry out the purposes of this section.
   - **(2)**
     - **(A)** For purposes of paragraph (1), the term “aggregate gross assets” means the amount of cash and the aggregate adjusted bases of other property held by the corporation.
@@ -87,7 +67,7 @@ generated_at: "2026-03-29T02:14:01.110Z"
     - **(B)** such corporation is an eligible corporation.
   - **(2)** For purposes of paragraph (1), if, in connection with any future qualified trade or business, a corporation is engaged in—
     - **(A)** start-up activities described in section 195(c)(1)(A),
-    - **(B)** activities resulting in the payment or incurring of expenditures which are treated as foreign research or experimental expenditures under section 174 or domestic research or experimental expenditures under section 174A, or
+    - **(B)** activities resulting in the payment or incurring of expenditures which may be treated as research and experimental expenditures under section 174, or
     - **(C)** activities with respect to in-house research expenses described in section 41(b)(4),
   - **(3)** For purposes of this subsection, the term “qualified trade or business” means any trade or business other than—
     - **(A)** any trade or business involving the performance of services in the fields of health, law, engineering, architecture, accounting, actuarial science, performing arts, consulting, athletics, financial services, brokerage services, or any trade or business where the principal asset of such trade or business is the reputation or skill of 1 or more of its employees,
@@ -97,8 +77,9 @@ generated_at: "2026-03-29T02:14:01.110Z"
     - **(E)** any business of operating a hotel, motel, restaurant, or similar business.
   - **(4)** For purposes of this subsection, the term “eligible corporation” means any domestic corporation; except that such term shall not include—
     - **(A)** a DISC or former DISC,
-    - **(B)** a regulated investment company, real estate investment trust, or REMIC, and
-    - **(C)** a cooperative.
+    - **(B)** a corporation with respect to which an election under section 936 is in effect or which has a direct or indirect subsidiary with respect to which such an election is in effect,
+    - **(C)** a regulated investment company, real estate investment trust, or REMIC, and
+    - **(D)** a cooperative.
   - **(5)**
     - **(A)** For purposes of this subsection, stock and debt in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary’s assets, and to conduct its ratable share of the subsidiary’s activities.
     - **(B)** A corporation shall be treated as failing to meet the requirements of paragraph (1) for any period during which more than 10 percent of the value of its assets (in excess of liabilities) consists of stock or securities in other corporations which are not subsidiaries of such corporation (other than assets described in paragraph (6)).
@@ -116,7 +97,7 @@ generated_at: "2026-03-29T02:14:01.110Z"
     - **(A)** such amount shall be treated as gain described in subsection (a), and
     - **(B)** for purposes of applying subsection (b), such amount shall be treated as gain from a disposition of stock in the corporation issuing the stock disposed of by the pass-thru entity and the taxpayer’s proportionate share of the adjusted basis of the pass-thru entity in such stock shall be taken into account.
   - **(2)** An amount meets the requirements of this paragraph if—
-    - **(A)** such amount is attributable to gain on the sale or exchange by the pass-thru entity of stock which is qualified small business stock in the hands of such entity (determined by treating such entity as an individual) and which was held by such entity for at least 3 years (more than 5 years in the case of stock acquired on or before the applicable date), and
+    - **(A)** such amount is attributable to gain on the sale or exchange by the pass-thru entity of stock which is qualified small business stock in the hands of such entity (determined by treating such entity as an individual) and which was held by such entity for more than 5 years, and
     - **(B)** such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity which was held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
   - **(3)** Paragraph (1) shall not apply to any amount to the extent such amount exceeds the amount to which paragraph (1) would have applied if such amount were determined by reference to the interest the taxpayer held in the pass-thru entity on the date the qualified small business stock was acquired.
   - **(4)** For purposes of this subsection, the term “pass-thru entity” means—
@@ -145,7 +126,7 @@ generated_at: "2026-03-29T02:14:01.110Z"
   - **(2)** If the adjusted basis of any qualified small business stock is adjusted by reason of any contribution to capital after the date on which such stock was originally issued, in determining the amount of the adjustment by reason of such contribution, the basis of the contributed property shall in no event be treated as less than its fair market value on the date of the contribution.
 - **(j)**
   - **(1)** If the taxpayer has an offsetting short position with respect to any qualified small business stock, subsection (a) shall not apply to any gain from the sale or exchange of such stock unless—
-    - **(A)** such stock was held by the taxpayer for at least 3 years (more than 5 years in the case of stock acquired on or before the applicable date) as of the first day on which there was such a short position, and
+    - **(A)** such stock was held by the taxpayer for more than 5 years as of the first day on which there was such a short position, and
     - **(B)** the taxpayer elects to recognize gain as if such stock were sold on such first day for its fair market value.
   - **(2)** For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting short position with respect to any qualified small business stock if—
     - **(A)** the taxpayer has made a short sale of substantially identical property,

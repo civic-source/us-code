@@ -3,12 +3,15 @@ title: "Section 1202 - Authority of Secretary; studies, research, and investigat
 usc_title: 16
 usc_section: "1202"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1202"
-generated_at: "2026-03-29T02:11:53.738Z"
+generated_at: "2026-03-29T17:51:56.838Z"
 ---
 
 # § 1202. Authority of Secretary; studies, research, and investigations; control measures; execution of program; other actions; costs
 
-In carrying out the purposes of this chapter, the Secretary, in cooperation with the States and the Commonwealth of Puerto Rico, is authorized (1) to conduct, directly or by contract, such studies, research, and investigations, as he deems desirable, to determine the abundance and distribution of jellyfish and other such pests and their effects on fish and shellfish and water-based recreation, (2) to conduct studies of control measures of such pests and of floating seaweed, (3) to carry out, based on studies made pursuant to this chapter, a program of controlling or eliminating such pests and such seaweed, and (4) to take such other actions as the Secretary deems desirable: Provided , That the costs of such actions shall be borne equally by the Federal Government and by the States and the Commonwealth of Puerto Rico, acting jointly or severally.
+  - **(1)** to conduct, directly or by contract, such studies, research, and investigations, as he deems desirable, to determine the abundance and distribution of jellyfish and other such pests and their effects on fish and shellfish and water-based recreation,
+  - **(2)** to conduct studies of control measures of such pests and of floating seaweed,
+  - **(3)** to carry out, based on studies made pursuant to this chapter, a program of controlling or eliminating such pests and such seaweed, and
+  - **(4)** to take such other actions as the Secretary deems desirable: Provided , That the costs of such actions shall be borne equally by the Federal Government and by the States and the Commonwealth of Puerto Rico, acting jointly or severally.
 

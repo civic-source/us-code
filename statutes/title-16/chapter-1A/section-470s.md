@@ -1,12 +1,14 @@
 ---
-title: "Section 470s - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 470s - Rules and regulations; participation by local governments"
 usc_title: 16
 usc_section: "470s"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 470s"
-generated_at: "2026-03-29T02:11:53.563Z"
+generated_at: "2026-03-29T17:51:56.683Z"
 ---
 
-# § 470s. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 470s. Rules and regulations; participation by local governments
+
+The Council is authorized to promulgate such rules and regulations as it deems necessary to govern the implementation of section 470f of this title in its entirety. The Council shall, by regulation, establish such procedures as may be necessary to provide for participation by local governments in proceedings and other actions taken by the Council with respect to undertakings referred to in section 470f of this title which affect such local governments.
 

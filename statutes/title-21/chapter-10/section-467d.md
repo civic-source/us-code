@@ -3,12 +3,13 @@ title: "Section 467d - Administration and enforcement; applicability of penalty 
 usc_title: 21
 usc_section: "467d"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 467d"
-generated_at: "2026-03-29T02:12:28.128Z"
+generated_at: "2026-03-29T17:52:03.935Z"
 ---
 
 # § 467d. Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts
 
-For the efficient administration and enforcement of this chapter, the provision (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1 1 See References in Text note below. of title 15), and the provisions of section 409( l ) 1 of title 47, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 467c of this title .
+- **(c)** through
+- **(h)** of section 46 and the last paragraph of section 49 1 1 See References in Text note below. of title 15), and the provisions of section 409( l ) 1 of title 47, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 467c of this title .
 

@@ -3,17 +3,15 @@ title: "Section 3511 - Duration of educational assistance"
 usc_title: 38
 usc_section: "3511"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 3511"
-generated_at: "2026-03-29T02:14:50.413Z"
+generated_at: "2026-03-29T17:52:53.755Z"
 ---
 
 # § 3511. Duration of educational assistance
 
 - **(a)**
-  - **(1)** Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title , shall be entitled to educational assistance under this chapter—
-    - **(A)** in the case of a person who first enrolls in a program of education using such entitlement before August 1, 2018 , for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training); or
-    - **(B)** in the case of a person who first enrolls in a program of education using such entitlement on or after August 1, 2018 , for an aggregate period not in excess of 36 months (or to the equivalent thereof in part-time training).
+  - **(1)** Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title , shall be entitled to educational assistance under this chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training).
   - **(2)**
     - **(A)** Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall not—
       - **(i)** be charged against the entitlement of any individual under this chapter; or

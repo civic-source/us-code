@@ -3,9 +3,9 @@ title: "Section 304 - Redemption through use of related corporations"
 usc_title: 26
 usc_section: "304"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 304"
-generated_at: "2026-03-29T02:14:00.885Z"
+generated_at: "2026-03-29T17:52:39.188Z"
 ---
 
 # § 304. Redemption through use of related corporations
@@ -39,6 +39,7 @@ generated_at: "2026-03-29T02:14:00.885Z"
     - **(D)** For purposes of subparagraph (C) and this subparagraph—
       - **(i)** The term “qualified minority shareholder” means any shareholder who owns less than 10 percent (in value) of the stock of the BHC. For purposes of the preceding sentence, the rules of paragraph (3) of subsection (c) shall apply.
       - **(ii)** The term “BHC” means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
+      - **(iii)** In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.
   - **(4)**
     - **(A)** In the case of any transfer described in subsection (a) of stock from 1 member of an affiliated group to another member of such group, proper adjustments shall be made to—
       - **(i)** the adjusted basis of any intragroup stock, and

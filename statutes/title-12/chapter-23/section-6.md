@@ -3,9 +3,9 @@ title: "Section 6 - Supervisory actions applicable to level III"
 usc_title: 12
 usc_section: "6"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-29T02:11:21.141Z"
+generated_at: "2026-03-29T17:51:13.182Z"
 ---
 
 # § 2279bb–6. Supervisory actions applicable to level III
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:11:21.141Z"
     - **(B)**
       - **(i)** the Corporation does not submit a capital restoration plan that is approved by the Director; or
       - **(ii)** the Director determines that the Corporation has failed to make, in good faith, reasonable efforts necessary to comply with such a capital restoration plan and fulfill the schedule for the plan approved by the Director.
-- **(b)** In addition to any other actions taken by the Director (including actions under subsection (a)), the Director may, at any time, take any of the following actions if the Corporation is classified as within level III:
+- **(b)** In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director may, at any time, take any of the following actions if the Corporation is classified as within level III:
   - **(1)** Limit any increase in, or order the reduction of, any obligations of the Corporation, including off-balance sheet obligations.
   - **(2)** Limit or prohibit the growth of the assets of the Corporation or require contraction of the assets of the Corporation.
   - **(3)** Prohibit the Corporation from making any payment of dividends.

@@ -3,9 +3,9 @@ title: "Section 552 - Savings provisions"
 usc_title: 6
 usc_section: "552"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 552"
-generated_at: "2026-03-29T02:10:05.021Z"
+generated_at: "2026-03-29T17:50:39.353Z"
 ---
 
 # § 552. Savings provisions
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T02:10:05.021Z"
 - **(c)** Subject to the authority of the Secretary under this chapter, pending civil actions shall continue notwithstanding the enactment of this chapter or the transfer of an agency to the Department, and in such civil actions, proceedings shall be had, appeals taken, and judgments rendered and enforced in the same manner and with the same effect as if such enactment or transfer had not occurred.
 - **(d)** References relating to an agency that is transferred to the Department in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede such transfer or the effective date of this chapter shall be deemed to refer, as appropriate, to the Department, to its officers, employees, or agents, or to its corresponding organizational units or functions. Statutory reporting requirements that applied in relation to such an agency immediately before the effective date of this chapter shall continue to apply following such transfer if they refer to the agency by name.
 - **(e)**
-  - **(1)** Notwithstanding the generality of the foregoing (including subsections (a) and (d)), in and for the Department the Secretary may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, established by statute, rule, or regulation before the effective date of this chapter, relating to employment in any agency transferred to the Department pursuant to this chapter; and
+  - **(1)** Notwithstanding the generality of the foregoing (including subsections (a) and (d) of this section), in and for the Department the Secretary may, in regulations prescribed jointly with the Director of the Office of Personnel Management, adopt the rules, procedures, terms, and conditions, established by statute, rule, or regulation before the effective date of this chapter, relating to employment in any agency transferred to the Department pursuant to this chapter; and
   - **(2)** except as otherwise provided in this chapter, or under authority granted by this chapter, the transfer pursuant to this chapter of personnel shall not alter the terms and conditions of employment, including compensation, of any employee so transferred.
 - **(f)** Any statutory reporting requirement that applied to an agency, transferred to the Department under this chapter, immediately before the effective date of this chapter shall continue to apply following that transfer if the statutory requirement refers to the agency by name.

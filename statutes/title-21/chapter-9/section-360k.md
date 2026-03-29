@@ -3,17 +3,17 @@ title: "Section 360k - State and local requirements respecting devices"
 usc_title: 21
 usc_section: "360k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 360k"
-generated_at: "2026-03-29T02:12:28.035Z"
+generated_at: "2026-03-29T17:52:03.863Z"
 ---
 
 # § 360k. State and local requirements respecting devices
 
-- **(a)** Except as provided in subsection (b), no State or political subdivision of a State may establish or continue in effect with respect to a device intended for human use any requirement—
+- **(a)** Except as provided in subsection (b) of this section, no State or political subdivision of a State may establish or continue in effect with respect to a device intended for human use any requirement—
   - **(1)** which is different from, or in addition to, any requirement applicable under this chapter to the device, and
   - **(2)** which relates to the safety or effectiveness of the device or to any other matter included in a requirement applicable to the device under this chapter.
-- **(b)** Upon application of a State or a political subdivision thereof, the Secretary may, by regulation promulgated after notice and opportunity for an oral hearing, exempt from subsection (a), under such conditions as may be prescribed in such regulation, a requirement of such State or political subdivision applicable to a device intended for human use if—
+- **(b)** Upon application of a State or a political subdivision thereof, the Secretary may, by regulation promulgated after notice and opportunity for an oral hearing, exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, a requirement of such State or political subdivision applicable to a device intended for human use if—
   - **(1)** the requirement is more stringent than a requirement under this chapter which would be applicable to the device if an exemption were not in effect under this subsection; or
   - **(2)** the requirement—
     - **(A)** is required by compelling local conditions, and

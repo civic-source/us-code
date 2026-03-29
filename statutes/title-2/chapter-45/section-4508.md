@@ -3,12 +3,13 @@ title: "Section 4508 - Longevity compensation for telephone operators on United 
 usc_title: 2
 usc_section: "4508"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4508"
-generated_at: "2026-03-29T02:09:53.772Z"
+generated_at: "2026-03-29T17:50:24.114Z"
 ---
 
 # § 4508. Longevity compensation for telephone operators on United States telephone exchange and members of Capitol Police paid by Chief Administrative Officer of House
 
-The provisions of subsections (a) and (b) of section 4507 1 1 See Inapplicability of Section 4507 to Certain Employees note below. of this title (as amended by section 110 of Pub. L. 95–391 ), shall apply to telephone operators (including the chief operator and assistant chief operators) on the United States Capitol telephone exchange and members of the Capitol Police whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives in the same manner and to the same extent as such provisions apply to individuals whose compensation is disbursed by the Secretary of the Senate. For purposes of so applying such subsections, creditable service shall include service performed as an employee of the United States Capitol telephone exchange or a member of the Capitol Police whether compensation therefor is disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate.
+- **(a)** and
+- **(b)** of section 4507 of this title (as amended by section 110 of Pub. L. 95–391 ), shall apply to telephone operators (including the chief operator and assistant chief operators) on the United States Capitol telephone exchange and members of the Capitol Police whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives in the same manner and to the same extent as such provisions apply to individuals whose compensation is disbursed by the Secretary of the Senate. For purposes of so applying such subsections, creditable service shall include service performed as an employee of the United States Capitol telephone exchange or a member of the Capitol Police whether compensation therefor is disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate.
 

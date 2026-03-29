@@ -3,9 +3,9 @@ title: "Section 5813 - Federal-State matching grant program"
 usc_title: 7
 usc_section: "5813"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5813"
-generated_at: "2026-03-29T02:10:17.048Z"
+generated_at: "2026-03-29T17:50:48.794Z"
 ---
 
 # § 5813. Federal-State matching grant program
@@ -25,5 +25,5 @@ generated_at: "2026-03-29T02:10:17.048Z"
   - **(2)** State plans prepared under paragraph (1) shall provide details of the proposed program to be implemented using funds provided under this section for fiscal years 1991 through 1995, or any 5-year period thereafter, and shall identify the sources of matching State funds for the same fiscal year.
   - **(3)** To be eligible for approval, State plans submitted under this subsection shall demonstrate that there will be extensive and direct participation of farmers in the development, implementation, and evaluation of the program.
 - **(d)**
-  - **(1)** Subject to paragraph (2), the Secretary shall provide grants to eligible States in an amount not to exceed 50 percent of the cost of the establishment or enhancement of a State sustainable agriculture program under a plan approved by the Secretary under subsection (c) for a period not to exceed 5 years.
-  - **(2)** To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c).
+  - **(1)** Subject to paragraph (2), the Secretary shall provide grants to eligible States in an amount not to exceed 50 percent of the cost of the establishment or enhancement of a State sustainable agriculture program under a plan approved by the Secretary under subsection (c) of this section for a period not to exceed 5 years.
+  - **(2)** To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section. The matching funds requirement under section 3371 of this title shall not apply to grants awarded under this section.

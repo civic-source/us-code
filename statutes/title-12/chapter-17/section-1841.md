@@ -3,9 +3,9 @@ title: "Section 1841 - Definitions"
 usc_title: 12
 usc_section: "1841"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1841"
-generated_at: "2026-03-29T02:11:21.091Z"
+generated_at: "2026-03-29T17:51:13.147Z"
 ---
 
 # § 1841. Definitions
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:11:21.091Z"
       - **(ii)** is engaged in the business of making commercial loans.
   - **(2)** The term “bank” does not include any of the following:
     - **(A)** A foreign bank which would be a bank within the meaning of paragraph (1) solely because such bank has an insured or uninsured branch in the United States.
-    - **(B)** An insured institution (as defined in subsection (j)).
+    - **(B)** An insured institution (as defined in subsection (j) of this section).
     - **(C)** An organization that does not do business in the United States except as an incident to its activities outside the United States.
     - **(D)** An institution that functions solely in a trust or fiduciary capacity, if—
       - **(i)** all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
@@ -86,7 +86,7 @@ generated_at: "2026-03-29T02:11:21.091Z"
   - **(3)** any savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under section 1467a( l ) of this title.
 - **(k)** For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
 - **(l)** For purposes of this chapter, the term “savings bank holding company” means any company which controls one or more qualified savings banks if the aggregate total assets of such savings banks constitute, upon formation of the holding company and at all times thereafter, at least 70 percent of the total assets of such company.
-- **(m)**
+- **(m)** [Repealed]
 - **(n)** For purposes of this chapter, the terms “depository institution”, “insured depository institution”, “appropriate Federal banking agency”, “default”, “in danger of default”, and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act [ 12 U.S.C. 1813 ].
 - **(o)** For purposes of this chapter, the following definitions shall apply:
   - **(1)**

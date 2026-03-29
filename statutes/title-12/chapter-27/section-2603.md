@@ -3,9 +3,9 @@ title: "Section 2603 - Uniform settlement statement"
 usc_title: 12
 usc_section: "2603"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2603"
-generated_at: "2026-03-29T02:11:21.144Z"
+generated_at: "2026-03-29T17:51:13.184Z"
 ---
 
 # § 2603. Uniform settlement statement
@@ -15,4 +15,3 @@ generated_at: "2026-03-29T02:11:21.144Z"
 - **(c)** The standard form described in subsection (a) may include, in the case of an appraisal coordinated by an appraisal management company (as such term is defined in section 3350(11) of this title ), a clear disclosure of—
   - **(1)** the fee paid directly to the appraiser by such company; and
   - **(2)** the administration fee charged by such company.
-- **(d)** With respect to a mortgage loan transaction involving a residential mortgage loan offered at 0 percent interest with only bonafide and reasonable fees and that is primarily for charitable purposes, an organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title may use forms HUD–1 and GFE (as defined under section 1024.2(b) of title 12, Code of Federal Regulations) together with a disclosure substantially in the form of the Loan Model Form H–2 (as depicted in Appendix H to part 1026 of title 12, Code of Federal Regulations), collectively, in lieu of the disclosure published under subsection (a) of this section.

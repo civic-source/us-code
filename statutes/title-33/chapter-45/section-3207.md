@@ -3,9 +3,9 @@ title: "Section 3207 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3207"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 3207"
-generated_at: "2026-03-29T02:14:18.656Z"
+generated_at: "2026-03-29T17:52:46.005Z"
 ---
 
 # § 3207. Authorization of appropriations
@@ -23,10 +23,7 @@ There are authorized to be appropriated to the Administrator to carry out this c
     - **(B)** not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title ;
   - **(4)** $28,000,000 for fiscal year 2011, of which—
     - **(A)** not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under section 3204 of this title ; and
-    - **(B)** not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title ;
+    - **(B)** not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title ; and
   - **(5)** $29,000,000 for fiscal year 2012, of which—
     - **(A)** not less than 27 percent of the amount appropriated shall be for the tsunami hazard mitigation program under section 3204 of this title ; and
-    - **(B)** not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title ; and
-  - **(6)** $25,800,000 for each of fiscal years 2016 through 2021, of which—
-    - **(A)** not less than 27 percent of the amount appropriated for each fiscal year shall be for activities conducted at the State level under the tsunami hazard mitigation program under section 3204 of this title ; and
     - **(B)** not less than 8 percent of the amount appropriated shall be for the tsunami research program under section 3205 of this title .

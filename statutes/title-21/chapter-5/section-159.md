@@ -3,12 +3,13 @@ title: "Section 159 - Enforcement; penalties applicable; Congressional findings"
 usc_title: 21
 usc_section: "159"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 159"
-generated_at: "2026-03-29T02:12:27.943Z"
+generated_at: "2026-03-29T17:52:03.794Z"
 ---
 
 # § 159. Enforcement; penalties applicable; Congressional findings
 
-The procedures of sections 672, 673, and 674 of this title (relating to detentions, seizures and condemnations, and injunctions, respectively) shall apply to the enforcement of this chapter with respect to any product prepared, sold, bartered, exchanged, or shipped in violation of this chapter or a regulation promulgated under this chapter. The provisions (including penalties) of section 675 of this title shall apply to the performance of official duties under this chapter. Congress finds that (i) the products and activities that are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and (ii) regulation of the products and activities as provided in this chapter is necessary to prevent and eliminate burdens on such commerce and to effectively regulate such commerce.
+      - **(i)** the products and activities that are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and
+      - **(ii)** regulation of the products and activities as provided in this chapter is necessary to prevent and eliminate burdens on such commerce and to effectively regulate such commerce.
 

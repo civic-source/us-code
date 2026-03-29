@@ -3,9 +3,9 @@ title: "Section 122a - Injunctive relief in Federal district court"
 usc_title: 27
 usc_section: "122a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "27 U.S.C. § 122a"
-generated_at: "2026-03-29T02:14:02.222Z"
+generated_at: "2026-03-29T17:52:13.190Z"
 ---
 
 # § 122a. Injunctive relief in Federal district court
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:14:02.222Z"
   - **(3)** An action under this section is limited to actions seeking injunctive relief (a preliminary and/or permanent injunction).
   - **(4)** An action under this section shall be tried before the court.
 - **(d)**
-  - **(1)** In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) has taken place or is taking place.
+  - **(1)** In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) of this section has taken place or is taking place.
   - **(2)** No preliminary injunction may be granted except upon—
     - **(A)** evidence demonstrating the probability of irreparable injury if injunctive relief is not granted; and
     - **(B)** evidence supporting the probability of success on the merits.

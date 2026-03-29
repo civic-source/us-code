@@ -3,9 +3,9 @@ title: "Section 16131 - Educational assistance program: establishment; amount"
 usc_title: 10
 usc_section: "16131"
 chapter: 1606
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 16131"
-generated_at: "2026-03-29T02:10:45.386Z"
+generated_at: "2026-03-29T17:50:57.287Z"
 ---
 
 # § 16131. Educational assistance program: establishment; amount
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:10:45.386Z"
       - **(i)** be charged against the entitlement of any individual under this chapter; or
       - **(ii)** be counted toward the aggregate period for which section 3695 of title 38 limits an individual’s receipt of assistance.
     - **(B)** The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
-      - **(i)** had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
+      - **(i)** had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title; and
       - **(ii)** failed to receive credit or training time toward completion of the individual’s approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual’s course pursuit.
     - **(C)** The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 - **(d)**
@@ -80,6 +80,3 @@ generated_at: "2026-03-29T02:10:45.386Z"
   - **(1)** Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of title 38 is the lesser of $2,000 or the fee charged for the test.
   - **(2)** The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, but for paragraph (1), such individual would otherwise be paid under subsection (b).
   - **(3)** In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual’s available entitlement under this chapter.
-- **(k)**
-  - **(1)** In the case of an individual entitled to educational assistance under this chapter who is pursuing education or training described in subsection (a) or (c) of section 2007 of this title on a half-time or more basis, the Secretary concerned shall, at the election of the individual, pay the individual educational assistance allowance under this chapter for pursuit of such education or training as if the individual were not also eligible to receive or in receipt of educational assistance under section 2007 for pursuit of such education or training.
-  - **(2)** Concurrent receipt of educational assistance under section 2007 of this title and educational assistance under this chapter shall not be considered a duplication of benefits if the individual is enrolled in a program of education on a half-time or more basis.

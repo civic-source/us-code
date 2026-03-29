@@ -1,12 +1,21 @@
 ---
-title: "Section 5921 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2) , Dec. 19, 2014 , 128 Stat. 3606"
+title: "Section 5921 - Prior notice to Congress of obligation of funds"
 usc_title: 22
 usc_section: "5921"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5921"
-generated_at: "2026-03-29T02:12:40.368Z"
+generated_at: "2026-03-29T17:52:10.650Z"
 ---
 
-# § 5921. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2) , Dec. 19, 2014 , 128 Stat. 3606
+# § 5921. Prior notice to Congress of obligation of funds
 
+- **(a)** Not less than 15 days before obligating any funds made available for a program under this chapter, the President shall transmit to the Congress a report on the proposed obligation. Each such report shall specify—
+  - **(1)** the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
+  - **(2)** the activities and forms of assistance under this chapter for which the President plans to obligate such funds, including the projected involvement of United States Government departments and agencies and the United States private sector.
+- **(b)** Any report under subsection (a) of this section that covers proposed industrial demilitarization projects shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
+  - **(1)** the facilities to be demilitarized;
+  - **(2)** the types of activities conducted at those facilities and of the types of nonmilitary activities planned for those facilities;
+  - **(3)** the forms of assistance to be provided by the United States Government and by the United States private sector;
+  - **(4)** the extent to which military production capability will consequently be eliminated at those facilities; and
+  - **(5)** the mechanisms to be established for monitoring progress on those projects.

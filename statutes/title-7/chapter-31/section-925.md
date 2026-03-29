@@ -3,14 +3,14 @@ title: "Section 925 - Loan feasibility"
 usc_title: 7
 usc_section: "925"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 925"
-generated_at: "2026-03-29T02:10:16.749Z"
+generated_at: "2026-03-29T17:50:48.544Z"
 ---
 
 # § 925. Loan feasibility
 
-The Secretary may not, as a condition of making a telephone loan to an applicant therefor, require the applicant to—
+The Secretary and the Governor of the telephone bank may not, as a condition of making a telephone loan to an applicant therefor, require the applicant to—
 
   - **(1)** increase the rates charged to the applicant’s customers or subscribers; or
   - **(2)** increase the applicant’s ratio of—

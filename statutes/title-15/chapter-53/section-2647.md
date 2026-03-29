@@ -3,9 +3,9 @@ title: "Section 2647 - Enforcement"
 usc_title: 15
 usc_section: "2647"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2647"
-generated_at: "2026-03-29T02:11:34.308Z"
+generated_at: "2026-03-29T17:51:36.329Z"
 ---
 
 # § 2647. Enforcement
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:11:34.308Z"
   - **(5)** which knowingly submits false information to the Governor regarding a deferral request under section 2645(d) of this title . 1 1 So in original. The period probably should be a comma.
 - **(b)** A local educational agency is not liable for any civil penalty under subchapter I of this chapter for failing or refusing to comply with any rule promulgated or order issued under this subchapter.
 - **(c)**
-  - **(1)** In determining the amount of a civil penalty to be assessed under subsection (a) against a local educational agency, the Administrator shall consider—
+  - **(1)** In determining the amount of a civil penalty to be assessed under subsection (a) of this section against a local educational agency, the Administrator shall consider—
     - **(A)** the significance of the violation;
     - **(B)** the culpability of the violator, including any history of previous violations under this chapter;
     - **(C)** the ability of the violator to pay the penalty; and

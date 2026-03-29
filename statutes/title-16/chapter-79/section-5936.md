@@ -1,12 +1,14 @@
 ---
-title: "Section 5936 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 5936 - Integration of study results into management decisions"
 usc_title: 16
 usc_section: "5936"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 5936"
-generated_at: "2026-03-29T02:11:53.957Z"
+generated_at: "2026-03-29T17:51:57.011Z"
 ---
 
-# § 5936. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 5936. Integration of study results into management decisions
+
+The Secretary shall take such measures as are necessary to assure the full and proper utilization of the results of scientific study for park management decisions. In each case in which an action undertaken by the National Park Service may cause a significant adverse effect on a park resource, the administrative record shall reflect the manner in which unit resource studies have been considered. The trend in the condition of resources of the National Park System shall be a significant factor in the annual performance evaluation of each superintendent of a unit of the National Park System.
 

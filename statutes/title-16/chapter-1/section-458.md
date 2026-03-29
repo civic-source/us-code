@@ -1,12 +1,14 @@
 ---
-title: "Section 458 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 458 - Travel expenses incident to study of battlefields; payment"
 usc_title: 16
 usc_section: "458"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 458"
-generated_at: "2026-03-29T02:11:53.469Z"
+generated_at: "2026-03-29T17:51:56.583Z"
 ---
 
-# § 458. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 458. Travel expenses incident to study of battlefields; payment
+
+Mileage of officers of the Army and actual expenses of civilian employees traveling on duty in connection with the studies, surveys, and field investigations of battlefields shall be paid from the appropriations made from time to time to meet the expenses for these purposes.
 

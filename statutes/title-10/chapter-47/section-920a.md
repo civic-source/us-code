@@ -1,14 +1,22 @@
 ---
-title: "Section 920a - Art. 120a. Mails: deposit of obscene matter"
+title: "Section 920a - Art. 120a. Stalking"
 usc_title: 10
 usc_section: "920a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 920a"
-generated_at: "2026-03-29T02:10:44.927Z"
+generated_at: "2026-03-29T17:50:56.979Z"
 ---
 
-# § 920a. Art. 120a. Mails: deposit of obscene matter
+# § 920a. Art. 120a. Stalking
 
-Any person subject to this chapter who, wrongfully and knowingly, deposits obscene matter for mailing and delivery shall be punished as a court-martial may direct.
-
+- **(a)** Any person subject to this section—
+  - **(1)** who wrongfully engages in a course of conduct directed at a specific person that would cause a reasonable person to fear death or bodily harm, including sexual assault, to himself or herself or a member of his or her immediate family;
+  - **(2)** who has knowledge, or should have knowledge, that the specific person will be placed in reasonable fear of death or bodily harm, including sexual assault, to himself or herself or a member of his or her immediate family; and
+  - **(3)** whose acts induce reasonable fear in the specific person of death or bodily harm, including sexual assault, to himself or herself or to a member of his or her immediate family;
+- **(b)** In this section:
+  - **(1)** The term “course of conduct” means—
+    - **(A)** a repeated maintenance of visual or physical proximity to a specific person; or
+    - **(B)** a repeated conveyance of verbal threat, written threats, or threats implied by conduct, or a combination of such threats, directed at or toward a specific person.
+  - **(2)** The term “repeated”, with respect to conduct, means two or more occasions of such conduct.
+  - **(3)** The term “immediate family”, in the case of a specific person, means a spouse, parent, child, or sibling of the person, or any other family member, relative, or intimate partner of the person who regularly resides in the household of the person or who within the six months preceding the commencement of the course of conduct regularly resided in the household of the person.

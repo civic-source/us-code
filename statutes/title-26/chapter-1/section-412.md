@@ -3,9 +3,9 @@ title: "Section 412 - Minimum funding standards"
 usc_title: 26
 usc_section: "412"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 412"
-generated_at: "2026-03-29T02:14:00.936Z"
+generated_at: "2026-03-29T17:52:39.222Z"
 ---
 
 # § 412. Minimum funding standards
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T02:14:00.936Z"
     - **(A)**
       - **(i)** Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
       - **(ii)** Any security provided under clause (i) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Corporation, by a contributing sponsor (within the meaning of section 4001(a)(13) of the Employee Retirement Income Security Act of 1974), or a member of such sponsor’s controlled group (within the meaning of section 4001(a)(14) of such Act).
-    - **(B)** Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection or an extension under section 433(d) with respect to a plan described in subparagraph (A)(i)—
+    - **(B)** Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection or an extension under 433(d) 2 2 So in original. Probably should be preceded by “section”. with respect to a plan described in subparagraph (A)(i)—
       - **(i)** provide the Pension Benefit Guaranty Corporation with—
         - **(I)** notice of the completed application for any waiver, modification, or extension, and
         - **(II)** an opportunity to comment on such application within 30 days after receipt of such notice, and
@@ -67,7 +67,7 @@ generated_at: "2026-03-29T02:14:00.936Z"
     - **(B)** Subparagraph (A) shall not apply to any plan amendment which—
       - **(i)** the Secretary determines to be reasonable and which provides for only de minimis increases in the liabilities of the plan,
       - **(ii)** only repeals an amendment described in subsection (d)(2), or
-      - **(iii)** is required as a condition of qualification under part I of subchapter D of chapter 1.
+      - **(iii)** is required as a condition of qualification under part I of subchapter D, 3 3 So in original. The comma probably should not appear. of chapter 1.
 - **(d)**
   - **(1)** If the funding method or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary.
   - **(2)** For purposes of this section, any amendment applying to a plan year which—

@@ -3,9 +3,9 @@ title: "Section 1712 - Investment of funds"
 usc_title: 12
 usc_section: "1712"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1712"
-generated_at: "2026-03-29T02:11:20.943Z"
+generated_at: "2026-03-29T17:51:13.054Z"
 ---
 
 # § 1712. Investment of funds

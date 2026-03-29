@@ -1,26 +1,25 @@
 ---
-title: "Section 182b - Revolving fund for sales shop and other services"
+title: "Section 182b - Revolving fund for gift shop, decimal classification, photo duplication, and related services"
 usc_title: 2
 usc_section: "182b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 182b"
-generated_at: "2026-03-29T02:09:53.659Z"
+generated_at: "2026-03-29T17:50:24.016Z"
 ---
 
-# § 182b. Revolving fund for sales shop and other services
+# § 182b. Revolving fund for gift shop, decimal classification, photo duplication, and related services
 
 - **(a)** There is hereby established in the Treasury a revolving fund for the following programs and activities of the Librarian:
   - **(1)** Decimal classification development.
   - **(2)** The operation of a gift shop or other sales of items associated with collections, exhibits, performances, and special events of the Library of Congress.
   - **(3)** Document reproduction and microfilming services.
   - **(4)** Special events and programs.
-  - **(5)** Training.
-- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a).
-- **(c)** The Librarian may charge a fee for services under any of the programs and activities described in subsection (a), and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
+- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a) of this section.
+- **(c)** The Librarian may charge a fee for services under any of the programs and activities described in subsection (a) of this section, and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
 - **(d)**
   - **(1)** Each account of the revolving fund under this section shall consist of the following amounts:
-    - **(A)** Amounts deposited by the Librarian under subsection (c).
+    - **(A)** Amounts deposited by the Librarian under subsection (c) of this section.
     - **(B)** Any other amounts received by the Librarian which are attributable to the programs and activities covered by such account.
     - **(C)** Amounts deposited by the Librarian under paragraph (2).
     - **(D)** Such other amounts as may be appropriated under law.

@@ -3,20 +3,19 @@ title: "Section 40732 - Sale of firearms and supplies"
 usc_title: 36
 usc_section: "40732"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 40732"
-generated_at: "2026-03-29T02:14:41.351Z"
+generated_at: "2026-03-29T17:52:49.355Z"
 ---
 
 # § 40732. Sale of firearms and supplies
 
-- **(a)** The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, caliber .45 M1911/M1911A1 surplus pistols, and surplus pump action shotguns (except any shotgun that is a modular ancillary addition to a service rifle, or meets the definition of a “short-barreled shotgun” as that term is defined in section 921(a)(6) of title 18 , United States Code), air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
+- **(a)** The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
 - **(b)**
-  - **(1)** The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, caliber .45 M1911/M1911A1 surplus pistols, and surplus pump action shotguns (except any shotgun that is a modular ancillary addition to a service rifle, or meets the definition of a “short-barreled shotgun” as that term is defined in section 921(a)(6) of title 18 , United States Code), ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is legally of age and who is a member of a gun club affiliated with the corporation.
+  - **(1)** The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is over 18 years of age and who is a member of a gun club affiliated with the corporation.
   - **(2)** Except as provided in section 40733 of this title , sales under this subsection are subject to applicable United States, State, and local law. In addition to any other requirement, the corporation shall establish procedures to obtain a criminal records check of the individual with United States Government and State law enforcement agencies.
 - **(c)**
-  - **(1)** No person acquiring a firearm under this chapter may sell a repair part designed to convert a firearm to fire in a fully automatic mode.
+  - **(1)** The corporation may not sell a repair part designed to convert a firearm to fire in a fully automatic mode.
   - **(2)** The corporation may not sell any item to an individual who has been convicted of—
     - **(A)** a felony; or
     - **(B)** a violation of section 922 of title 18 .
-- **(d)** A person who receives a rifle or any ammunition, repair parts, or supplies under section 40728B(c) of this title may sell, at fair market value, such rifle, ammunition, repair parts, or supplies. With respect to rifles other than caliber .22 rimfire and caliber .30 rifles, the seller shall obtain a license as a dealer in rifles and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.

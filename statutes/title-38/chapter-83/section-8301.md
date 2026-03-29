@@ -3,12 +3,12 @@ title: "Section 8301 - Authority to accept gifts, devises, and bequests"
 usc_title: 38
 usc_section: "8301"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 8301"
-generated_at: "2026-03-29T02:14:50.504Z"
+generated_at: "2026-03-29T17:52:53.872Z"
 ---
 
 # § 8301. Authority to accept gifts, devises, and bequests
 
-The Secretary may accept devises, bequests, and gifts, made in any manner, with respect to which the testator or donor shall have indicated the intention that such property shall be for the benefit of groups of persons formerly in the active military, naval, air, or space service who by virtue of such service alone, or disability suffered therein or therefrom, are or shall be patients or members of any one or more hospitals or homes operated by the United States Government, or has indicated the intention that such property shall be for the benefit of any such hospital or home, or shall be paid or delivered to any official, as such, or any agency in administrative control thereof. The Secretary may also accept, for use in carrying out all laws administered by the Secretary, gifts, devises, and bequests which will enhance the Secretary’s ability to provide services or benefits.
+The Secretary may accept devises, bequests, and gifts, made in any manner, with respect to which the testator or donor shall have indicated the intention that such property shall be for the benefit of groups of persons formerly in the active military, naval, or air service who by virtue of such service alone, or disability suffered therein or therefrom, are or shall be patients or members of any one or more hospitals or homes operated by the United States Government, or has indicated the intention that such property shall be for the benefit of any such hospital or home, or shall be paid or delivered to any official, as such, or any agency in administrative control thereof. The Secretary may also accept, for use in carrying out all laws administered by the Secretary, gifts, devises, and bequests which will enhance the Secretary’s ability to provide services or benefits.
 

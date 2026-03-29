@@ -3,9 +3,9 @@ title: "Section 4083 - Definitions; special rule; administrative authority"
 usc_title: 26
 usc_section: "4083"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4083"
-generated_at: "2026-03-29T02:14:01.207Z"
+generated_at: "2026-03-29T17:52:39.443Z"
 ---
 
 # § 4083. Definitions; special rule; administrative authority
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T02:14:01.207Z"
       - **(ii)** transmix, and
       - **(iii)** diesel fuel blend stocks identified by the Secretary.
     - **(B)** For purposes of subparagraph (A), the term “transmix” means a byproduct of refined products pipeline operations created by the mixing of different specification products during pipeline transportation.
-- **(b)** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2028 , if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+- **(b)** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2015 , if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 - **(c)** If any person uses taxable fuel (other than in the production of taxable fuels or special fuels referred to in section 4041), such use shall for the purposes of this chapter be considered a removal.
 - **(d)**
   - **(1)** In addition to the authority otherwise granted by this title, the Secretary may in administering compliance with this subpart, section 4041, and penalties and other administrative provisions related thereto—

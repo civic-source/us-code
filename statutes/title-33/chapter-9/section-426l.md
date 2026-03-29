@@ -3,9 +3,9 @@ title: "Section 426l - Protection of Lake Ontario"
 usc_title: 33
 usc_section: "426l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 426l"
-generated_at: "2026-03-29T02:14:18.483Z"
+generated_at: "2026-03-29T17:52:45.889Z"
 ---
 
 # § 426l. Protection of Lake Ontario

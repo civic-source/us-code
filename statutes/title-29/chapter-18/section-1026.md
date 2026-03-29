@@ -3,12 +3,12 @@ title: "Section 1026 - Reports made public information"
 usc_title: 29
 usc_section: "1026"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1026"
-generated_at: "2026-03-29T02:14:09.411Z"
+generated_at: "2026-03-29T17:52:18.813Z"
 ---
 
 # § 1026. Reports made public information
 
-- **(a)** Except as provided in subsection (b), the contents of the annual reports, statements, and other documents filed with the Secretary pursuant to this part shall be public information and the Secretary shall make any such information and data available for inspection in the public document room of the Department of Labor. The Secretary may use the information and data for statistical and research purposes, and compile and publish such studies, analyses, reports, and surveys based thereon as he may deem appropriate.
+- **(a)** Except as provided in subsection (b) of this section, the contents of the annual reports, statements, and other documents filed with the Secretary pursuant to this part shall be public information and the Secretary shall make any such information and data available for inspection in the public document room of the Department of Labor. The Secretary may use the information and data for statistical and research purposes, and compile and publish such studies, analyses, reports, and surveys based thereon as he may deem appropriate.
 - **(b)** Information described in sections 1025(a) and 1025(c) of this title with respect to a participant may be disclosed only to the extent that information respecting that participant’s benefits under title II of the Social Security Act [ 42 U.S.C. 401 et seq.] may be disclosed under such Act.

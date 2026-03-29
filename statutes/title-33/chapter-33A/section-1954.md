@@ -3,9 +3,9 @@ title: "Section 1954 - Coordination"
 usc_title: 33
 usc_section: "1954"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1954"
-generated_at: "2026-03-29T02:14:18.596Z"
+generated_at: "2026-03-29T17:52:45.977Z"
 ---
 
 # § 1954. Coordination
@@ -15,12 +15,10 @@ generated_at: "2026-03-29T02:14:18.596Z"
   - **(1)** the National Oceanic and Atmospheric Administration, who shall serve as the Chairperson of the Committee;
   - **(2)** the Environmental Protection Agency;
   - **(3)** the United States Coast Guard;
-  - **(4)** the United States Navy;
-  - **(5)** the Department of State;
-  - **(6)** the Department of the Interior; and
-  - **(7)** such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
+  - **(4)** the United States Navy; and
+  - **(5)** such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
 - **(c)** The Committee shall meet at least twice a year to provide a public, interagency forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
-- **(d)** The Secretary of Commerce, acting through the Under Secretary, in cooperation with the EPA Administrator, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 ( 33 U.S.C. 2801 et seq.) to assist—
+- **(d)** The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 ( 33 U.S.C. 2801 et seq.) to assist—
   - **(1)** the Committee in ensuring coordination of research, monitoring, education and regulatory actions; and
   - **(2)** the United States Coast Guard in assessing the effectiveness of the Marine Plastic Pollution Research and Control Act of 1987 and the Act to Prevent Pollution from Ships [ 33 U.S.C. 1901 et seq.] in ensuring compliance under section 2201 of the Marine Plastic Pollution Research and Control Act of 1987 [ 33 U.S.C. 1913 ].
 - **(e)** Biennially, the Committee, through the Chairperson, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Natural Resources of the House of Representatives a report that evaluates United States and international progress in meeting the purpose of this chapter. The report shall include—

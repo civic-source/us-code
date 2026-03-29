@@ -3,34 +3,34 @@ title: "Section 5702 - Federal funds allocated to States"
 usc_title: 12
 usc_section: "5702"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 5702"
-generated_at: "2026-03-29T02:11:21.310Z"
+generated_at: "2026-03-29T17:51:13.316Z"
 ---
 
 # § 5702. Federal funds allocated to States
 
 - **(a)** There is established the State Small Business Credit Initiative, to be administered by the Secretary. Under the Program, the Secretary shall allocate Federal funds to participating States and make the allocated funds available to the participating States as provided in this section for the uses described in this section.
 - **(b)**
-  - **(1)** Not later than 30 days after March 11, 2021 , the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to what the State would receive under the 2021 allocation, as determined under paragraph (2).
+  - **(1)** Not later than 30 days after September 27, 2010 , the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to the average of the respective amounts that the State—
+    - **(A)** would receive under the 2009 allocation, as determined under paragraph (2); and
+    - **(B)** would receive under the 2010 allocation, as determined under paragraph (3).
   - **(2)**
-    - **(A)** With respect to States other than Tribal governments, the Secretary shall determine the 2021 allocation by allocating Federal funds among the States in the proportion that each such State’s 2020 State employment decline bears to the aggregate of the 2020 State employment declines for all States.
+    - **(A)** The Secretary shall determine the 2009 allocation by allocating Federal funds among the States in the proportion that each such State’s 2008 State employment decline bears to the aggregate of the 2008 State employment declines for all States.
     - **(B)** The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
-    - **(C)** In this paragraph and with respect to a State, the term “2020 State employment decline” means the excess (if any) of—
-      - **(i)** the number of individuals employed in such State determined for December 2019; over
-      - **(ii)** the number of individuals employed in such State determined for December 2020.
-    - **(C)**
-      - **(i)** With respect to States that are Tribal governments, the Secretary shall determine the 2021 allocation by allocating $500,000,000 among the Tribal governments in the proportion the Secretary determines appropriate, including with consideration to available employment and economic data regarding each such Tribal government.
-      - **(ii)** With respect to allocations to States that are Tribal governments, the Secretary may—
-        - **(I)** require Tribal governments that individually or jointly wish to participate in the Program to file a notice of intent with the Secretary not later than 30 days after March 11, 2021 ; and
-        - **(II)** notwithstanding paragraph (1), allocate Federal funds to participating Tribal governments not later than 60 days after March 11, 2021 .
-    - **(D)** If the Secretary determines that employment data with respect to a State is unavailable from the Bureau of Labor Statistics of the Department of Labor, the Secretary shall consider such other economic and employment data that is otherwise available for purposes of determining the employment data of such State.
+    - **(C)** In this paragraph and with respect to a State, the term “2008 State employment decline” means the excess (if any) of—
+      - **(i)** the number of individuals employed in such State determined for December 2007; over
+      - **(ii)** the number of individuals employed in such State determined for December 2008.
+  - **(3)**
+    - **(A)** The Secretary shall determine the 2010 allocation by allocating Federal funds among the States in the proportion that each such State’s 2009 unemployment number bears to the aggregate of the 2009 unemployment numbers for all of the States.
+    - **(B)** The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
+    - **(C)** In this paragraph and with respect to a State, the term “2009 unemployment number” means the number of individuals within such State who were determined to be unemployed by the Bureau of Labor Statistics for December 2009.
 - **(c)** The amount allocated by the Secretary to each participating State under subsection (b) shall be made available to the State as follows:
   - **(1)**
     - **(A)** The Secretary shall—
       - **(i)** apportion the participating State’s allocated amount into thirds;
       - **(ii)** transfer to the participating State the first ⅓ when the Secretary approves the State for participation under section 5703 of this title ; and
-      - **(iii)** transfer to the participating State each successive ⅓ when the State has certified to the Secretary that it has expended, transferred, or obligated 80 percent of the last transferred ⅓ for Federal contributions to, or for the account of, State programs that have delivered loans or investments to eligible businesses.
+      - **(iii)** transfer to the participating State each successive ⅓ when the State has certified to the Secretary that it has expended, transferred, or obligated 80 percent of the last transferred ⅓ for Federal contributions to, or for the account of, State programs.
     - **(B)** The Secretary may withhold the transfer of any successive ⅓ pending results of a financial audit.
     - **(C)**
       - **(i)** The Inspector General of the Department of the Treasury shall carry out an audit of the participating State’s use of allocated Federal funds transferred to the State.
@@ -44,23 +44,10 @@ generated_at: "2026-03-29T02:11:21.310Z"
     - **(B)** as collateral for a qualifying loan or swap funding facility;
     - **(C)** in the case of the first ⅓ transferred, for paying administrative costs incurred by the State in implementing an approved State program in an amount not to exceed 5 percent of that first ⅓; or
     - **(D)** in the case of each successive ⅓ transferred, for paying administrative costs incurred by the State in implementing an approved State program in an amount not to exceed 3 percent of that successive ⅓.
-  - **(4)**
-    - **(A)** Any portion of a participating State’s allocated amount that has not been transferred to the State under this section may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the general fund of the Treasury or reallocated as described under subparagraph (B), if—
-      - **(i)** the second ⅓ of a State’s allocated amount has not been transferred to the State before the end of the end of the 3-year period beginning on the date that the Secretary approves the State for participation; or
-      - **(ii)** the last ⅓ of a State’s allocated amount has not been transferred to the State before the end of the end of the 6-year period beginning on the date that the Secretary approves the State for participation.
-    - **(B)** Any amount deemed by the Secretary to be no longer allocated to a State and no longer available to such State under subparagraph (A) may be reallocated by the Secretary to other participating States. In making such a reallocation, the Secretary shall not take into account the minimum allocation requirements under subsection (b)(2)(B) or the specific allocation for Tribal governments described under subsection (b)(2)(C).
+  - **(4)** Any portion of a participating State’s allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury.
   - **(5)** The amounts transferred to a participating State under this section shall not be considered assistance for purposes of subtitle V of title 31.
   - **(6)** In this section—
     - **(A)** the term “allocated amount” means the total amount of Federal funds allocated by the Secretary under subsection (b) to the participating State; and
     - **(B)** the term “⅓” means—
       - **(i)** in the case of the first ⅓ and second ⅓, an amount equal to 33 percent of a participating State’s allocated amount; and
       - **(ii)** in the case of the last ⅓, an amount equal to 34 percent of a participating State’s allocated amount.
-- **(d)** Of the amounts appropriated for fiscal year 2021 to carry out the Program, the Secretary shall—
-  - **(1)** allocate $1,500,000,000 to States from funds allocated under this section and, by regulation or other guidance, prescribe Program requirements that the funds be expended for business enterprises owned and controlled by socially and economically disadvantaged individuals; and
-  - **(2)** allocate such amounts to States based on the needs of business enterprises owned and controlled by socially and economically disadvantaged individuals, as determined by the Secretary, in each State, and not subject to the allocation formula described under subsection (b).
-- **(e)** Of the amounts appropriated for fiscal year 2021 to carry out the Program, the Secretary shall set aside $1,000,000,000 for an incentive program under which the Secretary shall increase the second ⅓ and last ⅓ allocations for States that demonstrate robust support, as determined by the Secretary, for business concerns owned and controlled by socially and economically disadvantaged individuals in the deployment of prior allocation amounts.
-- **(f)**
-  - **(1)** Of the amounts appropriated to carry out the Program, the Secretary shall allocate not less than $500,000,000 to States from funds allocated under this section to be expended for very small businesses.
-  - **(2)** In this subsection, the term “very small business”—
-    - **(A)** means a business with fewer than 10 employees; and
-    - **(B)** may include independent contractors and sole proprietors.

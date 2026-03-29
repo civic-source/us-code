@@ -3,18 +3,15 @@ title: "Section 1595 - Civil remedy"
 usc_title: 18
 usc_section: "1595"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 1595"
-generated_at: "2026-03-29T02:12:02.420Z"
+generated_at: "2026-03-29T17:53:15.651Z"
 ---
 
 # § 1595. Civil remedy
 
-- **(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, or attempts or conspires to benefit, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
+- **(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
 - **(b)**
-  - **(1)** Any civil action filed under subsection (a) shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
+  - **(1)** Any civil action filed under this section shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
   - **(2)** In this subsection, a “criminal action” includes investigation and prosecution and is pending until final adjudication in the trial court.
-- **(c)** No action may be maintained under subsection (a) unless it is commenced not later than the later of—
-  - **(1)** 10 years after the cause of action arose; or
-  - **(2)** 10 years after the victim reaches 18 years of age, if the victim was a minor at the time of the alleged offense.
-- **(d)** In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates section 1591, the attorney general of the State, as parens patriae, may bring a civil action against such person on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
+- **(c)** No action may be maintained under this section unless it is commenced not later than 10 years after the cause of action arose.

@@ -3,9 +3,9 @@ title: "Section 8422 - Deductions from pay; contributions for other service; dep
 usc_title: 5
 usc_section: "8422"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8422"
-generated_at: "2026-03-29T02:10:01.960Z"
+generated_at: "2026-03-29T17:50:36.543Z"
 ---
 
 # § 8422. Deductions from pay; contributions for other service; deposits
@@ -37,10 +37,6 @@ generated_at: "2026-03-29T02:10:01.960Z"
   - **(6)** The percentage of basic pay under section 204 of title 37 payable under paragraph (1), with respect to any period of military service performed during—
     - **(A)** January 1, 1999 , through December 31, 1999 , shall be 3.25 percent; and
     - **(B)** January 1, 2000 , through December 31, 2000 , shall be 3.4 percent.
-  - **(7)**
-    - **(A)** In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the employing agency of such employee, Member, or annuitant makes an administrative error, such employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
-    - **(B)** For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or Congressional employee.
-    - **(C)** The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 - **(f)**
   - **(1)** Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year’s duration under part A, B, 1 1 See References in Text note below. or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, 1 or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
   - **(2)** Any deposit made under paragraph (1) more than 2 years after the later of—
@@ -50,11 +46,6 @@ generated_at: "2026-03-29T02:10:01.960Z"
   - **(4)** The percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1), with respect to any period of volunteer service performed during—
     - **(A)** January 1, 1999 , through December 31, 1999 , shall be 3.25 percent; and
     - **(B)** January 1, 2000 , through December 31, 2000 , shall be 3.4 percent.
-  - **(5)**
-    - **(A)** In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if an employing agency of such employee, Member, or annuitant makes an administrative error that causes additional interest assessed to accrue on the deposit, the employee, Member, or annuitant’s employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
-    - **(B)** In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the Office of Personnel Management makes an administrative error that causes additional interest assessed to accrue on the deposit, the Office of Personnel Management may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
-    - **(C)** For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
-    - **(D)** The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 - **(g)** A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 - **(h)** No deposit may be made with respect to service credited under section 8411(b)(6).
 - **(i)**

@@ -3,9 +3,9 @@ title: "Section 2463 - Guidelines and procedures for use of civilian employees t
 usc_title: 10
 usc_section: "2463"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2463"
-generated_at: "2026-03-29T02:10:45.103Z"
+generated_at: "2026-03-29T17:50:57.129Z"
 ---
 
 # § 2463. Guidelines and procedures for use of civilian employees to perform Department of Defense functions
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:10:45.103Z"
   - **(3)** in the case of a Department of Defense function performed by Department of Defense civilian employees, expanding the scope of the function.
 - **(d)**
   - **(1)** The Secretary of Defense may use the flexible hiring authority available to the Secretary pursuant to section 9902 of title 5 , to facilitate the performance by Department of Defense civilian employees of functions described in subsection (b).
-  - **(2)** The Secretary shall make use of the inventory required by section 4505(c) of this title for the purpose of identifying functions that should be considered for performance by Department of Defense civilian employees pursuant to subsection (b).
+  - **(2)** The Secretary shall make use of the inventory required by section 2330a(c) of this title for the purpose of identifying functions that should be considered for performance by Department of Defense civilian employees pursuant to subsection (b).
 - **(e)**
   - **(1)** Except as provided in paragraph (2), in determining whether a function should be converted to performance by Department of Defense civilian employees, the Secretary of Defense shall—
     - **(A)** develop methodology for determining costs based on the guidance outlined in the Directive-Type Memorandum 09–007 entitled “Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support” or any successor guidance for the determination of costs when costs are the sole basis for the determination;
@@ -41,6 +41,6 @@ generated_at: "2026-03-29T02:10:45.103Z"
   - **(2)** Paragraph (1) shall not apply to any function that is inherently governmental or any function described in subparagraph (A), (B), or (C) of subsection (b)(1).
 - **(f)** The Secretary of Defense shall establish procedures for the timely notification of any contractor who performs a function that the Secretary plans to convert to performance by Department of Defense civilian employees pursuant to subsection (a). The Secretary shall provide a copy of any such notification to the congressional defense committees.
 - **(g)** In this section:
-  - **(1)** The term “functions closely associated with inherently governmental functions” has the meaning given that term in section 4508(b)(3) of this title .
+  - **(1)** The term “functions closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title .
   - **(2)** The term “acquisition function” has the meaning given that term under section 1721(a) of this title .
   - **(3)** The term “inherently governmental function” has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 ( Public Law 105–270 ; 31 U.S.C. 501 note).

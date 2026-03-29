@@ -3,15 +3,15 @@ title: "Section 1634 - Expenditure of non-Service funds for renovation"
 usc_title: 25
 usc_section: "1634"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1634"
-generated_at: "2026-03-29T02:13:20.894Z"
+generated_at: "2026-03-29T17:52:06.067Z"
 ---
 
 # § 1634. Expenditure of non-Service funds for renovation
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of law, the Secretary is authorized to accept any major renovation or modernization by any Indian tribe of any Service facility, or of any other Indian health facility operated pursuant to a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.], including—
+  - **(1)** Notwithstanding any other provision of law, the Secretary is authorized to accept any major renovation or modernization by any Indian tribe of any Service facility, or of any other Indian health facility operated pursuant to a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.], including—
     - **(A)** any plans or designs for such renovation or modernization; and
     - **(B)** any renovation or modernization for which funds appropriated under any Federal law were lawfully expended,
   - **(2)** The Secretary shall maintain a separate priority list to address the needs of such facilities for personnel or equipment.

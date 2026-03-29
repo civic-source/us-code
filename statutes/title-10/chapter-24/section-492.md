@@ -3,15 +3,15 @@ title: "Section 492 - Biennial assessment and report on the delivery platforms f
 usc_title: 10
 usc_section: "492"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 492"
-generated_at: "2026-03-29T02:10:44.872Z"
+generated_at: "2026-03-29T17:50:56.945Z"
 ---
 
 # § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system
 
 - **(a)**
-  - **(1)** For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of, and the ability to meet operational availability requirements for, the systems described in paragraph (2) for which such official has responsibility.
+  - **(1)** For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of the systems described in paragraph (2) for which such official has responsibility.
   - **(2)** The systems described in this paragraph are the following:
     - **(A)** Each type of delivery platform for nuclear weapons.
     - **(B)** The nuclear command and control system.
@@ -33,6 +33,5 @@ generated_at: "2026-03-29T02:10:44.872Z"
   - **(3)** Each report under this subsection may be in classified form if the Secretary of Defense determines it necessary.
 - **(d)** In this section, the term “covered official” means—
   - **(1)** the Commander of the United States Strategic Command;
-  - **(2)** the Director of the Strategic Systems Program of the Navy;
-  - **(3)** the Commander of the Global Strike Command of the Air Force; and
-  - **(4)** the Commander of the United States Air Forces in Europe.
+  - **(2)** the Director of the Strategic Systems Program of the Navy; and
+  - **(3)** the Commander of the Global Strike Command of the Air Force.

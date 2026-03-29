@@ -1,12 +1,14 @@
 ---
-title: "Section 433 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 433 - American antiquities"
 usc_title: 16
 usc_section: "433"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 433"
-generated_at: "2026-03-29T02:11:53.456Z"
+generated_at: "2026-03-29T17:51:56.568Z"
 ---
 
-# § 433. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 433. American antiquities
+
+Any person who shall appropriate, excavate, injure, or destroy any historic or prehistoric ruin or monument, or any object of antiquity, situated on lands owned or controlled by the Government of the United States, without the permission of the Secretary of the Department of the Government having jurisdiction over the lands on which said antiquities are situated, shall, upon conviction, be fined in a sum of not more than $500 or be imprisoned for a period of not more than ninety days, or shall suffer both fine and imprisonment, in the discretion of the court.
 

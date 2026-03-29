@@ -3,9 +3,9 @@ title: "Section 307a - Special pay: assignment incentive pay"
 usc_title: 37
 usc_section: "307a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 307a"
-generated_at: "2026-03-29T02:14:43.123Z"
+generated_at: "2026-03-29T17:52:59.082Z"
 ---
 
 # § 307a. Special pay: assignment incentive pay
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T02:14:43.123Z"
 - **(f)** The service of a member in an assignment referred to in subsection (a) shall not be considered discontinued during any period that the member is not performing service in the assignment by reason of—
   - **(1)** temporary duty performed by the member pursuant to orders; or
   - **(2)** absence of the member for authorized leave, other than leave authorized for a period ending upon the discharge of the member or the release of the member from active duty.
-- **(g)** No agreement under this section may be entered into after December 31, 2018 .
+- **(g)** No agreement under this section may be entered into after December 31, 2013 .

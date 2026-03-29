@@ -3,9 +3,9 @@ title: "Section 934 - Annual report and sequestration order"
 usc_title: 2
 usc_section: "934"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 934"
-generated_at: "2026-03-29T02:09:53.707Z"
+generated_at: "2026-03-29T17:50:24.066Z"
 ---
 
 # § 934. Annual report and sequestration order

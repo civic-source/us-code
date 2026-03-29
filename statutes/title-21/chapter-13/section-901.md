@@ -3,9 +3,9 @@ title: "Section 901 - Severability"
 usc_title: 21
 usc_section: "901"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 901"
-generated_at: "2026-03-29T02:12:28.161Z"
+generated_at: "2026-03-29T17:52:03.967Z"
 ---
 
 # § 901. Severability

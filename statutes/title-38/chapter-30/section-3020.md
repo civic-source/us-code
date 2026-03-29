@@ -3,9 +3,9 @@ title: "Section 3020 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3020"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 3020"
-generated_at: "2026-03-29T02:14:50.398Z"
+generated_at: "2026-03-29T17:52:53.738Z"
 ---
 
 # § 3020. Authority to transfer unused education benefits to family members for career service members
@@ -63,5 +63,5 @@ generated_at: "2026-03-29T02:14:50.398Z"
 - **(l)** Notwithstanding section 101(25) of this title , in this section, the term “Secretary concerned” means—
   - **(1)** the Secretary of the Army with respect to matters concerning the Army;
   - **(2)** the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
-  - **(3)** the Secretary of the Air Force with respect to matters concerning the Air Force or the Space Force; and
+  - **(3)** the Secretary of the Air Force with respect to matters concerning the Air Force; and
   - **(4)** the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.

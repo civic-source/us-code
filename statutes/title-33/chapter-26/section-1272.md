@@ -3,9 +3,9 @@ title: "Section 1272 - Environmental dredging"
 usc_title: 33
 usc_section: "1272"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1272"
-generated_at: "2026-03-29T02:14:18.544Z"
+generated_at: "2026-03-29T17:52:45.941Z"
 ---
 
 # § 1272. Environmental dredging
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:14:18.544Z"
 - **(b)**
   - **(1)** The Secretary may remove and remediate contaminated sediments from the navigable waters of the United States for the purpose of environmental enhancement and water quality improvement if such removal and remediation is requested by a non-Federal sponsor and the sponsor agrees to pay 35 percent of the cost of such removal and remediation.
   - **(2)** The Secretary may not expend more than $50,000,000 in a fiscal year to carry out this subsection.
-- **(c)** The Secretary may only remove and remediate contaminated sediments under subsection (b) in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
+- **(c)** The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
 - **(d)** Costs of disposal of contaminated sediments removed under this section shall be a 1 1 So in original. The word “a” probably should not appear. shared as a cost of construction.
 - **(e)** Nothing in this section shall be construed to affect the rights and responsibilities of any person under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 [ 42 U.S.C. 9601 et seq.].
 - **(f)** In carrying out this section, the Secretary shall give priority to work in the following areas:

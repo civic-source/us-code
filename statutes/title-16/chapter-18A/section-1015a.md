@@ -3,9 +3,9 @@ title: "Section 1015a - Program"
 usc_title: 16
 usc_section: "1015a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1015a"
-generated_at: "2026-03-29T02:11:53.732Z"
+generated_at: "2026-03-29T17:51:56.832Z"
 ---
 
 # § 1015a. Program
@@ -15,9 +15,10 @@ generated_at: "2026-03-29T02:11:53.732Z"
     - **(A)** to form a watershed group; or
     - **(B)** to enlarge a watershed group; and
   - **(2)** to conduct 1 or more projects in accordance with the goals of a watershed group.
-- **(b)** Not later than September 30, 2021 , the Secretary shall update—
-  - **(1)** the application process for the program; and
-  - **(2)** in consultation with the States, the prioritization and eligibility criteria for considering applications submitted in accordance with the application process.
+- **(b)**
+  - **(1)** Not later than 1 year after March 30, 2009 , the Secretary shall establish—
+    - **(A)** an application process for the program; and
+    - **(B)** in consultation with the States, prioritization and eligibility criteria for considering applications submitted in accordance with the application process.
 - **(c)**
   - **(1)** In distributing grant funds under this section, the Secretary—
     - **(A)** shall comply with paragraph (2); and
@@ -87,4 +88,4 @@ generated_at: "2026-03-29T02:11:53.732Z"
   - **(1)** $2,000,000 for each of fiscal years 2008 and 2009;
   - **(2)** $5,000,000 for fiscal year 2010;
   - **(3)** $10,000,000 for fiscal year 2011; and
-  - **(4)** $20,000,000 for each of fiscal years 2012 through 2026.
+  - **(4)** $20,000,000 for each of fiscal years 2012 through 2020.

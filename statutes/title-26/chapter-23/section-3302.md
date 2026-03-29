@@ -3,9 +3,9 @@ title: "Section 3302 - Credits against tax"
 usc_title: 26
 usc_section: "3302"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 3302"
-generated_at: "2026-03-29T02:14:01.189Z"
+generated_at: "2026-03-29T17:52:39.427Z"
 ---
 
 # § 3302. Credits against tax
@@ -57,11 +57,15 @@ generated_at: "2026-03-29T02:14:01.189Z"
     - **(A)** no State action was taken during the 12-month period ending on September 30 of such taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a reduction in such State’s unemployment tax effort (as defined by the Secretary of Labor in regulations),
     - **(B)** no State action was taken during the 12-month period ending on September 30 of such taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a net decrease in the solvency of the State unemployment compensation system (as defined by the Secretary of Labor in regulations),
     - **(C)** the State unemployment tax rate for the taxable year equals or exceeds the average benefit cost ratio for calendar years in the 5-calendar year period ending with the last calendar year before the taxable year, and
-    - **(D)** the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year.
+    - **(D)** the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year (or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981 ).
   - **(3)** If the credit reduction under subsection (c)(2) is limited by reason of paragraph (1) of this subsection for any taxable year, for purposes of applying subsection (c)(2) to subsequent taxable years (including years after 1987), the taxable year for which the credit reduction was so limited (and January 1 thereof) shall not be taken into account.
-  - **(4)** For purposes of this subsection, the State unemployment tax rate for any taxable year is the percentage obtained by dividing—
-    - **(A)** the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by
-    - **(B)** the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such taxable year (determined without regard to any limitation on the amount of wages subject to contribution under the State law).
+  - **(4)** For purposes of this subsection—
+    - **(A)** The State unemployment tax rate for any taxable year is the percentage obtained by dividing—
+      - **(i)** the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by
+      - **(ii)** the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such taxable year (determined without regard to any limitation on the amount of wages subject to contribution under the State law).
+    - **(B)**
+      - **(i)** In the case of taxable year 1983, any additional tax imposed under this chapter with respect to any State by reason of subsection (c)(2) shall be treated as contributions paid into the State unemployment fund with respect to such taxable year.
+      - **(ii)** In the case of taxable year 1984, any additional tax imposed under this chapter with respect to any State by reason of subsection (c)(2) shall (to the extent such additional tax is attributable to a credit reduction in excess of 0.6 of wages attributable to such State) be treated as contributions paid into the State unemployment fund with respect to such taxable year.
   - **(5)** For purposes of this subsection—
     - **(A)** The benefit cost ratio for any calendar year is the percentage determined by dividing—
       - **(i)** the sum of the total of the compensation paid under the State unemployment compensation law during such calendar year and any interest paid during such calendar year on advances made to the State under title XII of the Social Security Act, by
@@ -70,7 +74,10 @@ generated_at: "2026-03-29T02:14:01.189Z"
       - **(i)** the State is entitled to reimbursement for such compensation under the provisions of any Federal law, or
       - **(ii)** such compensation is attributable to services performed for a reimbursing employer.
     - **(C)** The term “reimbursing employer” means any governmental entity or other organization (or group of governmental entities or any other organizations) which makes reimbursements in lieu of contributions to the State unemployment fund.
-    - **(D)** If any percentage determined under subparagraph (A) is not a multiple of .1 percent, such percentage shall be reduced to the nearest multiple of .1 percent.
+    - **(D)**
+      - **(i)** For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
+      - **(ii)** For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1984, only regular compensation (as so defined) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1981.
+    - **(E)** If any percentage determined under subparagraph (A) is not a multiple of .1 percent, such percentage shall be reduced to the nearest multiple of .1 percent.
   - **(6)** The Secretary of Labor may, by regulations, require a State to furnish such information at such time and in such manner as may be necessary for purposes of this subsection.
   - **(7)** The definitions and special rules set forth in subsection (d) shall apply to this subsection in the same manner as they apply to subsection (c).
   - **(8)**
@@ -89,4 +96,3 @@ generated_at: "2026-03-29T02:14:01.189Z"
     - **(A)** The term “potential additional taxes” means, with respect to any State for any taxable year, the aggregate amount of the additional tax which would be payable under this chapter for such taxable year by all taxpayers subject to the unemployment compensation law of such State for such taxable year if paragraph (2) of subsection (c) had applied to such taxable year and any preceding taxable year without regard to this subsection but with regard to subsection (f).
     - **(B)** Any reduction in the State’s balance under section 901(d)(1) of the Social Security Act shall not be treated as a repayment made by such State.
   - **(4)** The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
-- **(h)** If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State’s unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.

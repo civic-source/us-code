@@ -3,9 +3,9 @@ title: "Section 4009 - Administrative enforcement"
 usc_title: 12
 usc_section: "4009"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4009"
-generated_at: "2026-03-29T02:11:21.182Z"
+generated_at: "2026-03-29T17:51:13.215Z"
 ---
 
 # § 4009. Administrative enforcement
@@ -23,6 +23,6 @@ generated_at: "2026-03-29T02:11:21.182Z"
 - **(c)**
   - **(1)** Except to the extent that enforcement of the requirements imposed under this chapter is specifically committed to some other Government agency under subsection (a) of this section, the Board of Governors of the Federal Reserve System shall enforce such requirements.
   - **(2)** If the Board determines that—
-    - **(A)** any depository institution which is not a depository institution described in subsection (a), or
+    - **(A)** any depository institution which is not a depository institution described in subsection (a) of this section, or
     - **(B)** any other person subject to the authority of the Board under this chapter, including any person subject to the authority of the Board under section 4004(d)(2) or 4008(c) of this title,
 - **(d)** The authority of the Board to prescribe regulations under this chapter does not impair the authority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.

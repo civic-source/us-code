@@ -3,9 +3,9 @@ title: "Section 4104A - Collaborative veterans’ training, mentoring, and place
 usc_title: 38
 usc_section: "4104A"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 4104A"
-generated_at: "2026-03-29T02:14:50.441Z"
+generated_at: "2026-03-29T17:52:53.787Z"
 ---
 
 # § 4104A. Collaborative veterans’ training, mentoring, and placement program
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T02:14:50.441Z"
 - **(b)** The Secretary shall ensure that the recipients of the grants—
   - **(1)** collaborate with—
     - **(A)** the appropriate disabled veterans’ outreach specialists (in carrying out the functions described in section 4103A(a)) and the appropriate local veterans’ employment representatives (in carrying out the functions described in section 4104); and
-    - **(B)** the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act) for the areas to be served by recipients of the grants; and
+    - **(B)** the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 )) for the areas to be served by recipients of the grants; and
   - **(2)** based on the collaboration, facilitate the placement of the veterans that complete the training in meaningful employment that leads to economic self-sufficiency.
 - **(c)** To be eligible to receive a grant under this section, a nonprofit organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. At a minimum, the information shall include—
   - **(1)** information describing how the organization will—
-    - **(A)** collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act);
+    - **(A)** collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 ));
     - **(B)** based on the collaboration, provide training that facilitates the placement described in subsection (b)(2); and
     - **(C)** make available, for each veteran receiving the training, a mentor to provide career advice to the veteran and assist the veteran in preparing a resume and developing job interviewing skills; and
   - **(2)** an assurance that the organization will provide the information necessary for the Secretary to prepare the reports described in subsection (d).
@@ -39,5 +39,5 @@ generated_at: "2026-03-29T02:14:50.441Z"
 - **(f)** In this section—
   - **(1)** the term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pension of the Senate; and
-    - **(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce 1 1 So in original. Probably should be preceded by “the”. of the House of Representatives; and
+    - **(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce of the House of Representatives; and
   - **(2)** the term “nonprofit organization” means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code.

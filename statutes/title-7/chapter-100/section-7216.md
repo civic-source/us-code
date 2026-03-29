@@ -3,15 +3,15 @@ title: "Section 7216 - Violations of contract"
 usc_title: 7
 usc_section: "7216"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7216"
-generated_at: "2026-03-29T02:10:17.115Z"
+generated_at: "2026-03-29T17:50:48.841Z"
 ---
 
 # § 7216. Violations of contract
 
-- **(a)** Except as provided in subsection (b), if an owner or producer subject to a contract violates a requirement of the contract specified in section 7211(a) of this title , the Secretary shall terminate the contract with respect to the owner or producer on each farm in which the owner or producer has an interest. On the termination, the owner or producer shall forfeit all rights to receive future contract payments on each farm in which the owner or producer has an interest and shall refund to the Secretary all contract payments received by the owner or producer during the period of the violation, together with interest on the contract payments as determined by the Secretary.
-- **(b)** If the Secretary determines that a violation does not warrant termination of the contract under subsection (a), the Secretary may require the owner or producer subject to the contract—
+- **(a)** Except as provided in subsection (b) of this section, if an owner or producer subject to a contract violates a requirement of the contract specified in section 7211(a) of this title , the Secretary shall terminate the contract with respect to the owner or producer on each farm in which the owner or producer has an interest. On the termination, the owner or producer shall forfeit all rights to receive future contract payments on each farm in which the owner or producer has an interest and shall refund to the Secretary all contract payments received by the owner or producer during the period of the violation, together with interest on the contract payments as determined by the Secretary.
+- **(b)** If the Secretary determines that a violation does not warrant termination of the contract under subsection (a) of this section, the Secretary may require the owner or producer subject to the contract—
   - **(1)** to refund to the Secretary that part of the contract payments received by the owner or producer during the period of the violation, together with interest on the contract payments as determined by the Secretary; or
   - **(2)** to accept a reduction in the amount of future contract payments that is proportionate to the severity of the violation, as determined by the Secretary.
 - **(c)**

@@ -3,9 +3,9 @@ title: "Section 939 - Administration by Secretary"
 usc_title: 33
 usc_section: "939"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 939"
-generated_at: "2026-03-29T02:14:18.532Z"
+generated_at: "2026-03-29T17:52:45.929Z"
 ---
 
 # § 939. Administration by Secretary

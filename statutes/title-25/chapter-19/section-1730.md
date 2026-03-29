@@ -1,12 +1,14 @@
 ---
-title: "Section 1730 - Omitted"
+title: "Section 1730 - Transfer of tribal trust funds held by the State of Maine"
 usc_title: 25
 usc_section: "1730"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1730"
-generated_at: "2026-03-29T02:13:20.913Z"
+generated_at: "2026-03-29T17:52:06.084Z"
 ---
 
-# § 1730. Omitted
+# § 1730. Transfer of tribal trust funds held by the State of Maine
+
+All funds of either the Passamaquoddy Tribe or the Penobscot Nation held in trust by the State of Maine as of October 10, 1980 , shall be transferred to the Secretary to be held in trust for the respective tribe or nation and shall be added to the principal of the settlement fund allocated to that tribe or nation. The receipt of said State funds by the Secretary shall constitute a full discharge of any claim of the respective tribe or nation, its predecessors and successors in interest, and its members, may have against the State of Maine, its officers, employees, agents, and representatives, arising from the administration or management of said State funds. Upon receipt of said State funds, the Secretary, on behalf of the respective tribe and nation, shall execute general releases of all claims against the State of Maine, its officers, employees, agents, and representatives, arising from the administration or management of said State funds.
 

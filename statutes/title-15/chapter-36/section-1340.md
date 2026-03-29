@@ -3,12 +3,13 @@ title: "Section 1340 - Cigarettes for export"
 usc_title: 15
 usc_section: "1340"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1340"
-generated_at: "2026-03-29T02:11:34.172Z"
+generated_at: "2026-03-29T17:51:36.230Z"
 ---
 
 # § 1340. Cigarettes for export
 
-Packages of cigarettes manufactured, imported, or packaged (1) for export from the United States or (2) for delivery to a vessel or aircraft, as supplies, for consumption beyond the jurisdiction of the internal revenue laws of the United States shall be exempt from the requirements of this chapter, but such exemptions shall not apply to cigarettes manufactured, imported, or packaged for sale or distribution to members or units of the Armed Forces of the United States located outside of the United States.
+  - **(1)** for export from the United States or
+  - **(2)** for delivery to a vessel or aircraft, as supplies, for consumption beyond the jurisdiction of the internal revenue laws of the United States shall be exempt from the requirements of this chapter, but such exemptions shall not apply to cigarettes manufactured, imported, or packaged for sale or distribution to members or units of the Armed Forces of the United States located outside of the United States.
 

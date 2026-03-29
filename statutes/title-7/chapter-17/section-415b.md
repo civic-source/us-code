@@ -1,12 +1,14 @@
 ---
-title: "Section 415b - Omitted"
+title: "Section 415b - Wool standards; appropriation of certain funds"
 usc_title: 7
 usc_section: "415b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 415b"
-generated_at: "2026-03-29T02:10:16.721Z"
+generated_at: "2026-03-29T17:50:48.513Z"
 ---
 
-# § 415b. Omitted
+# § 415b. Wool standards; appropriation of certain funds
+
+There is hereby authorized to be appropriated for expenditure by the Secretary of Agriculture, for the purposes stated in section 415c of this title , all funds prior to or on and after May 17, 1928 , collected by suit, or otherwise, pursuant to appropriations for the completion of the work of the domestic wool section of the War Industries Board, and for enforcing Government regulations for handling the wool clip of 1918 as established by the wool division of said board, pursuant to the Executive order dated December 31, 1918 , transferring such work to the Bureau of Markets, now a part of the Bureau of Agricultural Economics of the Department of Agriculture, and for continuing as far as practicable the distribution among the growers of the wool clip of 1918 of all sums prior to or on and after May 17, 1928 , collected or recovered with or without suit by the Government from all persons, firms, or corporations which handled any part of the wool clip of 1918, which he finds it impracticable to distribute among said growers, provided that not to exceed $50,000 may be expended in any fiscal year.
 

@@ -3,9 +3,9 @@ title: "Section 80k - Donation and transfer of lands and improvements, works of 
 usc_title: 20
 usc_section: "80k"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 80k"
-generated_at: "2026-03-29T02:12:17.139Z"
+generated_at: "2026-03-29T17:51:48.290Z"
 ---
 
 # § 80k. Donation and transfer of lands and improvements, works of art, and other assets and property of Museum of African Art to Smithsonian Institution

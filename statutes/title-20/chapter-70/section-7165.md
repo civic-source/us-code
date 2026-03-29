@@ -1,12 +1,14 @@
 ---
-title: "Section 7165 - Transferred"
+title: "Section 7165 - Transfer of school disciplinary records"
 usc_title: 20
 usc_section: "7165"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7165"
-generated_at: "2026-03-29T02:12:17.468Z"
+generated_at: "2026-03-29T17:51:48.635Z"
 ---
 
-# § 7165. Transferred
+# § 7165. Transfer of school disciplinary records
 
+- **(a)** This section shall not apply to any disciplinary records with respect to a suspension or expulsion that are transferred from a private, parochial or other nonpublic school, person, institution, or other entity, that provides education below the college level.
+- **(b)** In accordance with the Family Educational Rights and Privacy Act of 1974 ( 20 U.S.C. 1232g ), not later than 2 years after January 8, 2002 , each State receiving Federal funds under this chapter shall provide an assurance to the Secretary that the State has a procedure in place to facilitate the transfer of disciplinary records, with respect to a suspension or expulsion, by local educational agencies to any private or public elementary school or secondary school for any student who is enrolled or seeks, intends, or is instructed to enroll, on a full- or part-time basis, in the school.

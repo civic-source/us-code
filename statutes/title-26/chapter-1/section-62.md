@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-29T02:14:00.776Z"
+generated_at: "2026-03-29T17:52:39.112Z"
 ---
 
 # § 62. Adjusted gross income defined
@@ -16,9 +16,7 @@ generated_at: "2026-03-29T02:14:00.776Z"
     - **(A)** The deductions allowed by part VI (section 161 and following) which consist of expenses paid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
     - **(B)** The deductions allowed by section 162 which consist of expenses paid or incurred by a qualified performing artist in connection with the performances by him of services in the performing arts as an employee.
     - **(C)** The deductions allowed by section 162 which consist of expenses paid or incurred with respect to services performed by an official as an employee of a State or a political subdivision thereof in a position compensated in whole or in part on a fee basis.
-    - **(D)** The deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator—
-      - **(i)** by reason of the participation of the educator in professional development courses related to the curriculum in which the educator provides instruction or to the students for which the educator provides instruction, and
-      - **(ii)** in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+    - **(D)** In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, or 2013, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
     - **(E)** The deductions allowed by section 162 which consist of expenses, determined at a rate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
   - **(3)** The deductions allowed by part VI (sec. 161 and following) as losses from the sale or exchange of property.
   - **(4)** The deductions allowed by part VI (sec. 161 and following), by section 212 (relating to expenses for production of income), and by section 611 (relating to depletion) which are attributable to property held for the production of rents or royalties.
@@ -27,25 +25,18 @@ generated_at: "2026-03-29T02:14:00.776Z"
   - **(7)** The deduction allowed by section 219 (relating to deduction of certain retirement savings).
   - **[(8)**
   - **(9)** The deductions allowed by section 165 for losses incurred in any transaction entered into for profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
-  - **[(10)**
+  - **(10)** The deduction allowed by section 215.
   - **(11)** The deduction allowed by section 194.
   - **(12)** The deduction allowed by section 165 for the repayment to a trust described in paragraph (9) or (17) of section 501(c) of supplemental unemployment compensation benefits received from such trust if such repayment is required because of the receipt of trade readjustment allowances under section 231 or 232 of the Trade Act of 1974 ( 19 U.S.C. 2291 and 2292).
   - **(13)** Any deduction allowable under this chapter by reason of an individual remitting any portion of any jury pay to such individual’s employer in exchange for payment by the employer of compensation for the period such individual was performing jury duty. For purposes of the preceding sentence, the term “jury pay” means any payment received by the individual for the discharge of jury duty.
-  - **[(14)**
+  - **(14)** The deduction allowed by section 179A.
   - **(15)** The deduction allowed by section 217.
   - **(16)** The deduction allowed by section 220.
   - **(17)** The deduction allowed by section 221.
-  - **[(18)**
+  - **(18)** The deduction allowed by section 222.
   - **(19)** The deduction allowed by section 223.
-  - **(20)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code, or a claim made under section 1862(b)(3)(A) of the Social Security Act ( 42 U.S.C. 1395y(b)(3)(A) ). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
-  - **(21)**
-    - **(A)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under—
-      - **(i)** section 7623(b), or
-      - **(ii)** in the case of taxable years beginning after December 31, 2017 , any action brought under—
-        - **(I)** section 21F of the Securities Exchange Act of 1934 ( 15 U.S.C. 78u–6 ),
-        - **(II)** a State false claims act, including a State false claims act with qui tam provisions, or
-        - **(III)** section 23 of the Commodity Exchange Act ( 7 U.S.C. 26 ).
-    - **(B)** Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of such award.
+  - **(20)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code 1 1 So in original. Probably should be followed by a comma. or a claim made under section 1862(b)(3)(A) of the Social Security Act ( 42 U.S.C. 1395y(b)(3)(A) ). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
+  - **(21)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of such award.
 - **(b)**
   - **(1)** For purposes of subsection (a)(2)(B), the term “qualified performing artist” means, with respect to any taxable year, any individual if—
     - **(A)** such individual performed services in the performing arts as an employee during the taxable year for at least 2 employers,
@@ -67,12 +58,9 @@ generated_at: "2026-03-29T02:14:00.776Z"
     - **(A)** For purposes of subsection (a)(2)(D), the term “eligible educator” means, with respect to any taxable year, an individual who is a kindergarten through grade 12 teacher, instructor, counselor, principal, or aide in a school for at least 900 hours during a school year.
     - **(B)** The term “school” means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
   - **(2)** A deduction shall be allowed under subsection (a)(2)(D) for expenses only to the extent the amount of such expenses exceeds the amount excludable under section 135, 529(c)(1), or 530(d)(2) for the taxable year.
-  - **(3)** In the case of any taxable year beginning after 2015, the $250 amount in subsection (a)(2)(D) shall be increased by an amount equal to—
-    - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(e)** For purposes of subsection (a)(20), the term “unlawful discrimination” means an act that is unlawful under any of the following:
-  - **(1)** Section 302 of the Civil Rights Act of 1991 ( 42 U.S.C. 2000e–16b ).
-  - **(2)** Section 201, 202, 203, 204, 205, 206, 207, or 208 of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1311 , 1312, 1313, 1314, 1315, 1316, or 1317). 1 1 See References in Text note below.
+  - **(1)** Section 302 of the Civil Rights Act of 1991 ( 2 U.S.C. 1202 ). 2 2 See References in Text note below.
+  - **(2)** Section 201, 202, 203, 204, 205, 206, or 207 of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1311 , 1312, 1313, 1314, 1315, 1316, or 1317).
   - **(3)** The National Labor Relations Act ( 29 U.S.C. 151 et seq.).
   - **(4)** The Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.).
   - **(5)** Section 4 or 15 of the Age Discrimination in Employment Act of 1967 ( 29 U.S.C. 623 or 633a).

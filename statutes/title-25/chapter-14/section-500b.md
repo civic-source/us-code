@@ -1,12 +1,14 @@
 ---
-title: "Section 500b - Omitted"
+title: "Section 500b - Filing claim of title to reindeer by nonnatives"
 usc_title: 25
 usc_section: "500b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 500b"
-generated_at: "2026-03-29T02:13:20.864Z"
+generated_at: "2026-03-29T17:52:05.991Z"
 ---
 
-# § 500b. Omitted
+# § 500b. Filing claim of title to reindeer by nonnatives
+
+All persons, other than natives of Alaska, who upon September 1, 1937 , claim title to any Alaskan reindeer shall, within one year after September 1, 1937 , file in Alaska, with the duly authorized agent or agents of the Secretary of the Interior, declarations of their ownership. Similar declarations concerning Alaskan reindeer acquired by any person not a native of Alaska by purchase or by gift at any time after September 1, 1937 , shall be filed as aforesaid within thirty days after the date of such acquisition. Records of all declarations thus filed shall be made and kept open to public inspection in Alaska. If any owner of Alaskan reindeer, to whom the foregoing provisions of this section are applicable, shall fail to file the required declaration within the stated period, he shall be barred thereafter from asserting his claim of title.
 

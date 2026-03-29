@@ -3,9 +3,9 @@ title: "Section 1535 - Appeals"
 usc_title: 8
 usc_section: "1535"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1535"
-generated_at: "2026-03-29T02:10:21.482Z"
+generated_at: "2026-03-29T17:50:41.390Z"
 ---
 
 # § 1535. Appeals
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:10:21.482Z"
     - **(B)** the Court of Appeals shall issue an opinion not later than 60 days after the date of the issuance of the final order of the district court;
     - **(C)** the court shall review all questions of law de novo; and
     - **(D)** a finding of fact shall be accorded deference by the reviewing court and shall not be set aside unless such finding was clearly erroneous, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) 1 1 So in original. Probably should be section “1534(e)(3)”. of this title, the Court of Appeals shall review questions of fact de novo.
-- **(d)** Following a decision by the Court of Appeals pursuant to subsection (c), the alien or the Attorney General may petition the Supreme Court for a writ of certiorari. In any such case, any information transmitted to the Court of Appeals under seal shall, if such information is also submitted to the Supreme Court, be transmitted under seal. Any order of removal shall not be stayed pending disposition of a writ of certiorari, except as provided by the Court of Appeals or a Justice of the Supreme Court.
+- **(d)** Following a decision by the Court of Appeals pursuant to subsection (c) of this section, the alien or the Attorney General may petition the Supreme Court for a writ of certiorari. In any such case, any information transmitted to the Court of Appeals under seal shall, if such information is also submitted to the Supreme Court, be transmitted under seal. Any order of removal shall not be stayed pending disposition of a writ of certiorari, except as provided by the Court of Appeals or a Justice of the Supreme Court.
 - **(e)**
   - **(1)** Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a release condition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
     - **(A)** for purposes of section 3145 of such title an appeal shall be taken to the United States Court of Appeals for the District of Columbia Circuit; and

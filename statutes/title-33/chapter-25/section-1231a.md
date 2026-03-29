@@ -1,12 +1,27 @@
 ---
-title: "Section 1231a - Repealed. Pub. L. 115–282, title VI, § 601(c)(6)(A) , Dec. 4, 2018 , 132 Stat. 4290"
+title: "Section 1231a - Towing Safety Advisory Committee"
 usc_title: 33
 usc_section: "1231a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1231a"
-generated_at: "2026-03-29T02:14:18.537Z"
+generated_at: "2026-03-29T17:52:45.934Z"
 ---
 
-# § 1231a. Repealed. Pub. L. 115–282, title VI, § 601(c)(6)(A) , Dec. 4, 2018 , 132 Stat. 4290
+# § 1231a. Towing Safety Advisory Committee
 
+- **(a)** There is established a Towing Safety Advisory Committee (hereinafter referred to as the “Committee”). The Committee shall consist of eighteen members with particular expertise, knowledge, and experience regarding shallow-draft inland and coastal waterway navigation and towing safety as follows:
+  - **(1)** Seven members representing the barge and towing industry, reflecting a regional geographic balance.
+  - **(2)** One member representing the offshore mineral and oil supply vessel industry.
+  - **(3)** One member representing holders of active licensed Masters or Pilots of towing vessels with experience on the Western Rivers and the Gulf Intracoastal Waterway.
+  - **(4)** One member representing the holders of active licensed Masters of towing vessels in offshore service.
+  - **(5)** One member representing Masters who are active ship-docking or harbor towing vessel. 1 1 So in original.
+  - **(6)** One member representing licensed or unlicensed towing vessel engineers with formal training and experience.
+  - **(7)** Two members representing each of the following groups:
+    - **(A)** Port districts, authorities, or terminal operators.
+    - **(B)** Shippers (of whom at least one shall be engaged in the shipment of oil or hazardous materials by barge).
+  - **(8)** Two members representing the general public.
+- **(b)** The Secretary of the department in which the Coast Guard is operating (hereinafter referred to as the “Secretary”) shall appoint the members of the Committee. The Secretary shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman. The Secretary may request the Secretary of the Army and the Secretary of Commerce to each designate a representative to participate as an observer on the Committee. The Secretary shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
+- **(c)** The Committee shall advise, consult with, and make recommendations to the Secretary on matters relating to shallow-draft inland and coastal waterway navigation and towing safety. Any advice or recommendation made by the Committee to the Secretary shall reflect the independent judgment of the Committee on the matter concerned. The Secretary shall consult with the Committee before taking any significant action affecting shallow-draft inland and coastal waterway navigation and towing safety. The Committee shall meet at the call of the Secretary, but in any event not less than once during each calendar year. All proceedings of the Committee shall be open to the public, and a record of the proceedings shall be made available for public inspection. The Committee is authorized to make available to Congress any information, advice, and recommendations which the Committee is authorized to give to the Secretary.
+- **(d)** Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 . The Secretary shall furnish to the Committee an executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
+- **(e)** Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2020 .

@@ -3,9 +3,9 @@ title: "Section 4943 - Taxes on excess business holdings"
 usc_title: 26
 usc_section: "4943"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4943"
-generated_at: "2026-03-29T02:14:01.226Z"
+generated_at: "2026-03-29T17:52:39.463Z"
 ---
 
 # § 4943. Taxes on excess business holdings
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T02:14:01.226Z"
     - **(C)** a 35-percent controlled entity (as defined in section 4958(f)(3) by substituting “persons described in subparagraph (A) or (B) of section 4943(e)(2)” for “persons described in subparagraph (A) or (B) of paragraph (1)” in subparagraph (A)(i) thereof).
   - **(3)** For purposes of this subsection, rules similar to the rules of paragraphs (4), (5), and (6) of subsection (c) shall apply to donor advised funds (as so defined), except that—
     - **(A)** “the date of the enactment of this subsection” shall be substituted for “ May 26, 1969 ” each place it appears in paragraphs (4), (5), and (6), and
-    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1971 ” in paragraph (4)(E).
+    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1970 ” in paragraph (4)(E).
 - **(f)**
   - **(1)** For purposes of this section, an organization which is described in paragraph (3) shall be treated as a private foundation.
   - **(2)** The Secretary may exempt the excess business holdings of any organization from the application of this subsection if the Secretary determines that such holdings are consistent with the purpose or function constituting the basis for its exemption under section 501.
@@ -106,25 +106,4 @@ generated_at: "2026-03-29T02:14:01.226Z"
   - **(6)** For purposes of this subsection, the term “excess business holdings” shall not include any holdings of a type III supporting organization in any business enterprise if, as of November 18, 2005 , the holdings were held (and at all times thereafter, are held) for the benefit of the community pursuant to the direction of a State attorney general or a State official with jurisdiction over such organization.
   - **(7)** For purposes of this subsection, rules similar to the rules of paragraphs (4), (5), and (6) of subsection (c) shall apply to organizations described in section 509(a)(3), except that—
     - **(A)** “the date of the enactment of this subsection” shall be substituted for “ May 26, 1969 ” each place it appears in paragraphs (4), (5), and (6), and
-    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1971 ” in paragraph (4)(E).
-- **(g)**
-  - **(1)** Subsection (a) shall not apply with respect to the holdings of a private foundation in any business enterprise which meets the requirements of paragraphs (2), (3), and (4) for the taxable year.
-  - **(2)** The requirements of this paragraph are met if—
-    - **(A)** 100 percent of the voting stock in the business enterprise is held by the private foundation at all times during the taxable year, and
-    - **(B)** all the private foundation’s ownership interests in the business enterprise were acquired by means other than by purchase.
-  - **(3)**
-    - **(A)** The requirements of this paragraph are met if the business enterprise, not later than 120 days after the close of the taxable year, distributes an amount equal to its net operating income for such taxable year to the private foundation.
-    - **(B)** For purposes of this paragraph, the net operating income of any business enterprise for any taxable year is an amount equal to the gross income of the business enterprise for the taxable year, reduced by the sum of—
-      - **(i)** the deductions allowed by chapter 1 for the taxable year which are directly connected with the production of such income,
-      - **(ii)** the tax imposed by chapter 1 on the business enterprise for the taxable year, and
-      - **(iii)** an amount for a reasonable reserve for working capital and other business needs of the business enterprise.
-  - **(4)** The requirements of this paragraph are met if, at all times during the taxable year—
-    - **(A)** no substantial contributor (as defined in section 4958(c)(3)(C)) to the private foundation or family member (as determined under section 4958(f)(4)) of such a contributor is a director, officer, trustee, manager, employee, or contractor of the business enterprise (or an individual having powers or responsibilities similar to any of the foregoing),
-    - **(B)** at least a majority of the board of directors of the private foundation are persons who are not—
-      - **(i)** directors or officers of the business enterprise, or
-      - **(ii)** family members (as so determined) of a substantial contributor (as so defined) to the private foundation, and
-    - **(C)** there is no loan outstanding from the business enterprise to a substantial contributor (as so defined) to the private foundation or to any family member of such a contributor (as so determined).
-  - **(5)** This subsection shall not apply to—
-    - **(A)** any fund or organization treated as a private foundation for purposes of this section by reason of subsection (e) or (f),
-    - **(B)** any trust described in section 4947(a)(1) (relating to charitable trusts), and
-    - **(C)** any trust described in section 4947(a)(2) (relating to split-interest trusts).
+    - **(B)** “ January 1, 2007 ” shall be substituted for “ January 1, 1970 ” in paragraph (4)(E).

@@ -3,12 +3,12 @@ title: "Section 5705 - Exemption"
 usc_title: 16
 usc_section: "5705"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 5705"
-generated_at: "2026-03-29T02:11:53.956Z"
+generated_at: "2026-03-29T17:51:57.009Z"
 ---
 
 # § 5705. Exemption
 
-Chapter 10 of title 5 shall not apply to the Panel, the Yukon River Joint Technical Committee, or the Advisory Committee created under section 5704 of this title .
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel, the Yukon River Joint Technical Committee, or the Advisory Committee created under section 5704 of this title .
 

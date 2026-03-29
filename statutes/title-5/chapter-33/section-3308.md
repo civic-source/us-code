@@ -3,9 +3,9 @@ title: "Section 3308 - Competitive service; examinations; educational requiremen
 usc_title: 5
 usc_section: "3308"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 3308"
-generated_at: "2026-03-29T02:10:01.817Z"
+generated_at: "2026-03-29T17:50:36.453Z"
 ---
 
 # § 3308. Competitive service; examinations; educational requirements prohibited; exceptions

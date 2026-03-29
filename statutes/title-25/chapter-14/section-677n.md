@@ -1,12 +1,14 @@
 ---
-title: "Section 677n - Omitted"
+title: "Section 677n - Disposal by mixed-blood members of their individual interests in tribal assets; requisites and conditions"
 usc_title: 25
 usc_section: "677n"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 677n"
-generated_at: "2026-03-29T02:13:20.867Z"
+generated_at: "2026-03-29T17:52:06.013Z"
 ---
 
-# § 677n. Omitted
+# § 677n. Disposal by mixed-blood members of their individual interests in tribal assets; requisites and conditions
+
+Any member of the mixed-blood group may dispose of his interest in the tribal assets prior to termination of Federal supervision, subject to the approval of the Secretary. In the event a member of the mixed-blood group determines to dispose of his interest in any of said real property at any time within ten years from August 27, 1954 , he shall first offer it to the members of the tribe, and no sale of any interest, prior to termination of Federal supervision, shall be authorized without such offer to said members of the tribe in such form as may be approved by the Secretary. After termination of Federal supervision the requirement of such offer, in form to be approved by the Secretary, shall be a covenant to run with the land for said ten-year period, and shall be expressly provided in any patent or deed issued prior to the expiration of said period.
 

@@ -3,9 +3,9 @@ title: "Section 1622 - Duties of Secretary relating to agricultural products"
 usc_title: 7
 usc_section: "1622"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1622"
-generated_at: "2026-03-29T02:10:16.829Z"
+generated_at: "2026-03-29T17:50:48.618Z"
 ---
 
 # § 1622. Duties of Secretary relating to agricultural products
@@ -23,7 +23,7 @@ The Secretary of Agriculture is directed and authorized:
     - **(B)** Fees and penalties collected under subparagraph (A) shall be deposited into the account that incurred the cost of providing the mediation or arbitration service.
     - **(C)** Fees and penalties collected under subparagraph (A) shall be available to the Secretary without further Act of appropriation and shall remain available until expended to pay the expenses of the Secretary for providing mediation and arbitration services under this paragraph.
     - **(D)** No person shall be required by the Secretary to use the mediation and arbitration services provided under this paragraph.
-- **(f)** To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: Provided , That no money appropriated under the authority of this Act shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e).
+- **(f)** To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: Provided , That no money appropriated under the authority of this Act shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e) of this section.
 - **(g)** To collect and disseminate marketing information, including adequate outlook information on a market-area basis, for the purpose of anticipating and meeting consumer requirements, aiding in the maintenance of farm income, and bringing about a balance between production and utilization of agricultural products.
 - **(h)**
   - **(1)** To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be to cover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection.

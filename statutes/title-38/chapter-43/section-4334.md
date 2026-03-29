@@ -3,9 +3,9 @@ title: "Section 4334 - Notice of rights and duties"
 usc_title: 38
 usc_section: "4334"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 4334"
-generated_at: "2026-03-29T02:14:50.448Z"
+generated_at: "2026-03-29T17:52:53.797Z"
 ---
 
 # § 4334. Notice of rights and duties

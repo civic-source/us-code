@@ -3,15 +3,15 @@ title: "Section 4205 - Rights of declarants; participation in actions, awards"
 usc_title: 12
 usc_section: "4205"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4205"
-generated_at: "2026-03-29T02:11:21.189Z"
+generated_at: "2026-03-29T17:51:13.221Z"
 ---
 
 # § 4205. Rights of declarants; participation in actions, awards
 
 - **(a)** A person who has filed a declaration that meets the requirements of sections 4201 through 4204 of this title shall have the rights stated in this section.
-- **(b)** If the Attorney General determines that a cause of action referred to in section 4201 of this title based on the declaration should be referred to private counsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
+- **(b)** If the Attorney General determines that a cause of action referred to in section 4201 of this title based on the declaration should be referred to private counsel pursuant to subchapter III of this chapter, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
 - **(c)**
   - **(1)** When the United States obtains a criminal conviction and the Attorney General determines that the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title the Attorney General may, in his discretion, pay a reward to the declarant 1 1 So in original. Probably should be followed by a period.
   - **(2)** In determining the size of any award under paragraph (1), the Attorney General may, in the Attorney General’s discretion, consider any appropriate factor, including—
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:11:21.189Z"
     - **(A)**
       - **(i)** The declarant shall be entitled to 20 percent to 30 percent of any recovery up to the first $1,000,000 recovered, 10 percent to 20 percent of the next $4,000,000 recovered, and 5 percent to 10 percent of the next $5,000,000 recovered.
       - **(ii)** In calculating an award under clause (i), the Attorney General may consider the size of the overall recovery and the usefulness of the information provided by the declarant.
-    - **(B)** When a declarant has received an award under subsection (c), the Attorney General may subtract the amount of that reward from any recovery under this subsection.
+    - **(B)** When a declarant has received an award under subsection (c) of this section, the Attorney General may subtract the amount of that reward from any recovery under this subsection.
   - **(2)**
     - **(A)** When more than 1 declarant has provided information leading to a recovery under this subsection, the Attorney General shall first calculate the size of the total award under paragraph (1)(A) and then distribute that amount according to the contribution made by each declarant.
     - **(B)** In distributing any such award between 2 or more declarants, the Attorney General may, in the Attorney General’s discretion, consider any appropriate factor.

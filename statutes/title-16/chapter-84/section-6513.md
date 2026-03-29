@@ -3,9 +3,9 @@ title: "Section 6513 - Prioritization"
 usc_title: 16
 usc_section: "6513"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6513"
-generated_at: "2026-03-29T02:11:53.967Z"
+generated_at: "2026-03-29T17:51:57.022Z"
 ---
 
 # § 6513. Prioritization
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:11:53.967Z"
 - **(a)** In accordance with the Implementation Plan, the Secretary shall develop an annual program of work for Federal land that gives priority to authorized hazardous fuel reduction projects that provide for the protection of at-risk communities or watersheds or that implement community wildfire protection plans.
 - **(b)**
   - **(1)** The Secretary shall consider recommendations under subsection (a) that are made by at-risk communities that have developed community wildfire protection plans.
-  - **(2)** Chapter 10 of title 5 shall not apply to the planning process and recommendations concerning community wildfire protection plans.
+  - **(2)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the planning process and recommendations concerning community wildfire protection plans.
 - **(c)**
   - **(1)** Federal agency involvement in developing a community wildfire protection plan, or a recommendation made in a community wildfire protection plan, shall not be considered a Federal agency action under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
   - **(2)** In implementing authorized hazardous fuel reduction projects on Federal land, the Secretary shall, in accordance with section 6514 of this title , comply with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
@@ -25,20 +25,3 @@ generated_at: "2026-03-29T02:11:53.967Z"
   - **(2)**
     - **(A)** In providing financial assistance under any provision of law for hazardous fuel reduction projects on non-Federal land, the Secretary shall consider recommendations made by at-risk communities that have developed community wildfire protection plans.
     - **(B)** In allocating funding under this paragraph, the Secretary should, to the maximum extent practicable, give priority to communities that have adopted a community wildfire protection plan or have taken proactive measures to encourage willing property owners to reduce fire risk on private property.
-- **(e)**
-  - **(1)** In this subsection:
-    - **(A)** The term “hazardous fuel reduction project” means a hazardous fuel reduction project described in paragraph (2).
-    - **(B)** The term “non-Federal land” includes—
-      - **(i)** State land;
-      - **(ii)** county land;
-      - **(iii)** Tribal land;
-      - **(iv)** private land; and
-      - **(v)** other non-Federal land.
-  - **(2)** The Secretary may make grants to State foresters to support hazardous fuel reduction projects that incorporate treatments in landscapes across ownership boundaries on Federal and non-Federal land, particularly in areas identified as priorities in applicable State-wide forest resource assessments or strategies under section 2101a(a) of this title , as mutually agreed to by the State forester and the Regional Forester.
-  - **(3)** To conduct and fund treatments for hazardous fuel reduction projects carried out by State foresters using grants under paragraph (2), the Secretary may use the authorities of the Secretary relating to cooperation and technical and financial assistance, including the good neighbor authority under—
-    - **(A)** section 2113a of this title ; and
-    - **(B)** section 331 of the Department of the Interior and Related Agencies Appropriations Act, 2001 ( 16 U.S.C. 1011 note; Public Law 106–291 ).
-  - **(4)** In carrying out a hazardous fuel reduction project using a grant under paragraph (2) on non-Federal land, the State forester, in consultation with the Secretary—
-    - **(A)** shall consult with any applicable owners of the non-Federal land; and
-    - **(B)** shall not implement the hazardous fuel reduction project on non-Federal land without the consent of the owner of the non-Federal land.
-  - **(5)** There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.

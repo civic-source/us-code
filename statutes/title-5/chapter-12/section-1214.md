@@ -3,9 +3,9 @@ title: "Section 1214 - Investigation of prohibited personnel practices; correcti
 usc_title: 5
 usc_section: "1214"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 1214"
-generated_at: "2026-03-29T02:10:01.799Z"
+generated_at: "2026-03-29T17:50:36.441Z"
 ---
 
 # § 1214. Investigation of prohibited personnel practices; corrective action
@@ -35,28 +35,17 @@ generated_at: "2026-03-29T02:10:01.799Z"
     - **(B)** 120 days after seeking corrective action from the Special Counsel, such employee, former employee, or applicant has not been notified by the Special Counsel that the Special Counsel shall seek corrective action on behalf of such employee, former employee, or applicant.
   - **(4)** If an employee, former employee, or applicant seeks a corrective action from the Board under section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
   - **(5)** In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
-  - **(6)**
-    - **(A)** Notwithstanding any other provision of this section, not later than 30 days after the date on which the Special Counsel receives an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry if the Special Counsel determines that—
-      - **(i)** the same allegation, based on the same set of facts and circumstances, had previously been—
-        - **(I)**
-        - **(II)** filed by the individual with the Merit Systems Protection Board;
-      - **(ii)** the Special Counsel does not have jurisdiction to investigate the allegation; or
-      - **(iii)** the individual knew or should have known of the alleged prohibited personnel practice on or before the date that is 3 years before the date on which the Special Counsel received the allegation.
-    - **(B)** Not later than 30 days after the date on which the Special Counsel terminates an investigation under subparagraph (A), the Special Counsel shall provide a written notification to the individual who submitted the allegation of a prohibited personnel practice that states the basis of the Special Counsel for terminating the investigation.
 - **(b)**
   - **(1)**
     - **(A)**
       - **(i)** The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
       - **(ii)** Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
       - **(iii)** Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
-    - **(B)**
-      - **(i)** The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
-      - **(ii)** If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
+    - **(B)** The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
     - **(C)** The Board shall allow any agency which is the subject of a stay to comment to the Board on any extension of stay proposed under subparagraph (B).
     - **(D)** A stay may be terminated by the Board at any time, except that a stay may not be terminated by the Board—
       - **(i)** on its own motion or on the motion of an agency, unless notice and opportunity for oral or written comments are first provided to the Special Counsel and the individual on whose behalf the stay was ordered; or
       - **(ii)** on motion of the Special Counsel, unless notice and opportunity for oral or written comments are first provided to the individual on whose behalf the stay was ordered.
-    - **(E)** If the Board grants a stay under subparagraph (A), the head of the agency employing the employee who is the subject of the action shall give priority to a request for a transfer submitted by the employee.
   - **(2)**
     - **(A)**
       - **(i)** Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
@@ -89,4 +78,3 @@ generated_at: "2026-03-29T02:10:01.799Z"
   - **(1)** that the individual be placed, as nearly as possible, in the position the individual would have been in had the prohibited personnel practice not occurred; and
   - **(2)** reimbursement for attorney’s fees, back pay and related benefits, medical costs incurred, travel expenses, any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).
 - **(h)** Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
-- **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken.

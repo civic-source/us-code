@@ -3,9 +3,9 @@ title: "Section 7447 - Retirement"
 usc_title: 26
 usc_section: "7447"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7447"
-generated_at: "2026-03-29T02:14:01.385Z"
+generated_at: "2026-03-29T17:52:39.610Z"
 ---
 
 # § 7447. Retirement
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:14:01.385Z"
   - **(3)** In any determination of length of service as judge there shall be included all periods (whether or not consecutive) during which an individual served as judge, as judge of the Tax Court of the United States, or as a member of the Board of Tax Appeals.
 - **(b)**
   - **(1)** Any judge shall retire upon attaining the age of 70.
-  - **(2)** Any judge who meets the age and service requirements set forth in the following table may retire: The judge has attained age: And the years of service as a judge are at least: 65 15 66 14 67 13 68 12 69 11 70 10.
+  - **(2)** Any judge who meets the age and service requirements set forth in the following table may retire: And the years of service as The judge has a judge are attained age: at least: 65 15 66 14 67 13 68 12 69 11 70 10.
   - **(3)** Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
   - **(4)** Any judge who becomes permanently disabled from performing his duties shall retire.
 - **(c)** At or after his retirement, any individual who has elected to receive retired pay under subsection (d) may be called upon by the chief judge of the Tax Court to perform such judicial duties with the Tax Court as may be requested of him for any period or periods specified by the chief judge; except that in the case of any such individual—
@@ -50,18 +50,18 @@ generated_at: "2026-03-29T02:14:01.385Z"
   - **(2)** In the case of any individual who has filed an election to receive retired pay under subsection (d)—
     - **(A)** no annuity or other payment shall be payable to any person under the civil service retirement laws with respect to any service performed by such individual (whether performed before or after such election is filed and whether performed as judge or otherwise);
     - **(B)** no deduction for purposes of the Civil Service Retirement and Disability Fund shall be made from retired pay payable to him under subsection (d) or from any other salary, pay, or compensation payable to him, for any period beginning after the day on which such election is filed; and
-    - **(C)** such individual shall be paid the lump-sum credit computed under sections 8331(8) and 8401(19) of title 5 of the United States Code upon making application therefor with the Office of Personnel Management.
+    - **(C)** such individual shall be paid the lump-sum credit computed under section 8331(8) of title 5 of the United States Code upon making application therefor with the Office of Personnel Management.
 - **(h)**
   - **(1)** Any judge who becomes permanently disabled from performing his duties shall certify to the President his disability in writing. If the chief judge retires for disability, his retirement shall not take effect until concurred in by the President. If any other judge retires for disability, he shall furnish to the President a certificate of disability signed by the chief judge.
   - **(2)** Whenever any judge who becomes permanently disabled from performing his duties does not retire and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President shall declare such judge to be retired.
 - **(i)**
   - **(1)** Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revoke such election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
-  - **(2)** Any revocation under this subsection shall be made by filing a notice thereof in writing with the Office of Personnel Management. The Office of Personnel Management shall transmit to the chief judge a copy of each notice filed under this subsection.
+  - **(2)** Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
   - **(3)** In the case of any revocation under this subsection—
     - **(A)** for purposes of this section, the individual shall be treated as not having filed an election to receive retired pay under subsection (d),
     - **(B)** for purposes of section 7448—
       - **(i)** the individual shall be treated as not having filed an election under section 7448(b), and
-      - **(ii)** section 7448(g) shall not apply, and the amount credited to such individual’s account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
+      - **(ii)** section 7448(g) shall not apply, and the amount credited to such individual’s account (together with interest at 4 percent per annum to December 31, 1947 , and 3 percent per annum thereafter, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
     - **(C)** no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
     - **(D)** the Tax Court shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (e), and
     - **(E)** if subparagraph (D) is complied with, service on the Tax Court shall be treated as service with respect to which deductions and contributions had been made during the period of service.
@@ -72,11 +72,9 @@ generated_at: "2026-03-29T02:14:01.385Z"
   - **(2)** Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of title 5, United States Code, shall apply with respect to a judge who makes an election under paragraph (1).
   - **(3)**
     - **(A)** The amount contributed by a judge to the Thrift Savings Fund in any pay period shall not exceed the maximum percentage of such judge’s basic pay for such period as allowable under section 8440f of title 5 , United States Code. Basic pay does not include any retired pay paid pursuant to this section.
-    - **(B)** No contributions under section 8432(c) of title 5 , United States Code, shall be made for the benefit of a judge who has filed an election to receive retired pay under subsection (e).
+    - **(B)** No contributions may be made for the benefit of a judge under section 8432(c) of title 5 , United States Code.
     - **(C)** Section 8433(b) of title 5 , United States Code, applies with respect to a judge who makes an election under paragraph (1) and who either—
       - **(i)** retires under subsection (b), or
       - **(ii)** ceases to serve as a judge of the Tax Court but does not retire under subsection (b).
     - **(D)** The provisions of section 8351(b)(5) of title 5 , United States Code, shall apply with respect to a judge who makes an election under paragraph (1).
     - **(E)** Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge’s nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
-    - **(F)** In the case of a judge who receives a distribution from the Thrift Savings Plan and who later receives retired pay under subsection (d), the retired pay shall be offset by an amount equal to the amount of the distribution which represents the Government’s contribution to the individual’s Thrift Savings Account during years of service as a full-time judicial officer under the Federal Employees Retirement System, without regard to earnings attributable to such amount. Where such an offset would exceed 50 percent of the retired pay to be received in the first year, the offset may be divided equally over the first 2 years in which the individual receives the annuity.
-- **(k)** For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.), 1 1 See References in Text note below. any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).

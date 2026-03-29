@@ -3,9 +3,9 @@ title: "Section 3760 - Conduct of sale; adjournment"
 usc_title: 12
 usc_section: "3760"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3760"
-generated_at: "2026-03-29T02:11:21.176Z"
+generated_at: "2026-03-29T17:51:13.209Z"
 ---
 
 # § 3760. Conduct of sale; adjournment

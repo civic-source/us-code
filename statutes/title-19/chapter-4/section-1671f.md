@@ -1,14 +1,14 @@
 ---
-title: "Section 1671f - Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order"
+title: "Section 1671f - Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty orders"
 usc_title: 19
 usc_section: "1671f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1671f"
-generated_at: "2026-03-29T02:12:08.641Z"
+generated_at: "2026-03-29T17:51:51.241Z"
 ---
 
-# § 1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order
+# § 1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty orders
 
 - **(a)** If the amount of a cash deposit, or the amount of any bond or other security, required as security for an estimated countervailing duty under section 1671b(d)(1)(B) of this title is different from the amount of the countervailing duty determined under a countervailing duty order issued under section 1671e of this title , then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption before notice of the affirmative determination of the Commission under section 1671d(b) of this title is published shall be—
   - **(1)** disregarded, to the extent that the cash deposit, bond, or other security is lower than the duty under the order, or

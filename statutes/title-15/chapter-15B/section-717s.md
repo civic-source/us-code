@@ -3,9 +3,9 @@ title: "Section 717s - Enforcement of chapter"
 usc_title: 15
 usc_section: "717s"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 717s"
-generated_at: "2026-03-29T02:11:34.126Z"
+generated_at: "2026-03-29T17:51:36.193Z"
 ---
 
 # § 717s. Enforcement of chapter
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:11:34.126Z"
 - **(a)** Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this chapter, or of any rule, regulation, or order thereunder, it may in its discretion bring an action in the proper district court of the United States, or the United States courts of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this chapter or any rule, regulation, or order thereunder, and upon a proper showing a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices or concerning apparent violations of the Federal antitrust laws to the Attorney General, who, in his discretion, may institute the necessary criminal proceedings.
 - **(b)** Upon application of the Commission the district courts of the United States and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus commanding any person to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder.
 - **(c)** The Commission may employ such attorneys as it finds necessary for proper legal aid and service of the Commission or its members in the conduct of their work, or for proper representation of the public interest in investigations made by it, or cases or proceedings pending before it, whether at the Commission’s own instance or upon complaint, or to appear for or represent the Commission in any case in court; and the expenses of such employment shall be paid out of the appropriation for the Commission.
-- **(d)** In any proceedings under subsection (a), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of section 717c–1 of this title (including related rules and regulations) from—
+- **(d)** In any proceedings under subsection (a) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of section 717c–1 of this title (including related rules and regulations) from—
   - **(1)** acting as an officer or director of a natural gas company; or
   - **(2)** engaging in the business of—
     - **(A)** the purchasing or selling of natural gas; or

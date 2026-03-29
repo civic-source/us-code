@@ -1,12 +1,14 @@
 ---
-title: "Section 747 - Omitted"
+title: "Section 747 - Property of deceased members"
 usc_title: 25
 usc_section: "747"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 747"
-generated_at: "2026-03-29T02:13:20.868Z"
+generated_at: "2026-03-29T17:52:06.022Z"
 ---
 
-# § 747. Omitted
+# § 747. Property of deceased members
 
+- **(a)** The Act of June 25, 1910 ( 36 Stat. 855 ), the Act of February 14, 1913 ( 37 Stat. 678 ), and other Acts amendatory thereto shall not apply to the probate of the trust and restricted property of the members of a tribe who die six months or more after September 1, 1954 .
+- **(b)** The laws of the several States, Territories, possessions, and the District of Columbia with respect to the probate of wills, the determination of heirs, and the administration of decedents’ estates shall apply to the individual property of members of the tribe who die six months after September 1, 1954 .

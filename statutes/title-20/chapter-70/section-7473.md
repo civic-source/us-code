@@ -3,9 +3,9 @@ title: "Section 7473 - Preference for Indian applicants"
 usc_title: 20
 usc_section: "7473"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7473"
-generated_at: "2026-03-29T02:12:17.487Z"
+generated_at: "2026-03-29T17:51:48.665Z"
 ---
 
 # § 7473. Preference for Indian applicants

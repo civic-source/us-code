@@ -3,12 +3,12 @@ title: "Section 6565 - Advancement by Secretary of Senate of travel funds to emp
 usc_title: 2
 usc_section: "6565"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 6565"
-generated_at: "2026-03-29T02:09:53.801Z"
+generated_at: "2026-03-29T17:50:24.141Z"
 ---
 
 # § 6565. Advancement by Secretary of Senate of travel funds to employees under his jurisdiction for Federal Election Campaign Act travel expenses
 
-The Secretary of the Senate is hereafter authorized to advance, in his discretion, to any designated employee under his jurisdiction, such sums as may be necessary, not exceeding $1,500, to defray official travel expenses in assisting the Secretary in carrying out his duties under the Federal Election Campaign Act of 1971 [ 52 U.S.C. 30101 et seq.]. Any such employee shall, as soon as practicable, furnish to the Secretary a detailed voucher for such expenses incurred and make settlement with respect to any amount so advanced.
+The Secretary of the Senate is hereafter authorized to advance, in his discretion, to any designated employee under his jurisdiction, such sums as may be necessary, not exceeding $1,500, to defray official travel expenses in assisting the Secretary in carrying out his duties under the Federal Election Campaign Act of 1971 [ 2 U.S.C. 431 et seq.]. Any such employee shall, as soon as practicable, furnish to the Secretary a detailed voucher for such expenses incurred and make settlement with respect to any amount so advanced.
 

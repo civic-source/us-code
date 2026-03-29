@@ -3,9 +3,9 @@ title: "Section 9602 - Comprehensive centers"
 usc_title: 20
 usc_section: "9602"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 9602"
-generated_at: "2026-03-29T02:12:17.529Z"
+generated_at: "2026-03-29T17:51:48.703Z"
 ---
 
 # § 9602. Comprehensive centers
@@ -14,9 +14,9 @@ generated_at: "2026-03-29T02:12:17.529Z"
   - **(1)** Subject to paragraph (2), beginning in fiscal year 2004, the Secretary is authorized to award not less than 20 grants to local entities, or consortia of such entities, with demonstrated expertise in providing technical assistance and professional development in reading, mathematics, science, and technology, especially to low-performing schools and districts, to establish comprehensive centers.
   - **(2)** In awarding grants under paragraph (1), the Secretary—
     - **(A)** shall ensure that not less than 1 comprehensive center is established in each of the 10 geographic regions served by the regional educational laboratories established under section 941(h) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such provision existed on the day before November 5, 2002 ); and
-    - **(B)** after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(d) ] in the population served by the local entity or consortium of such entities.
+    - **(B)** after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6316(b) ) 1 1 So in original. Probably should be followed by a third closing parenthesis. in the population served by the local entity or consortium of such entities.
 - **(b)**
-  - **(1)** Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f), including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002 ) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002 ).
+  - **(1)** Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f) of this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002 ) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002 ).
   - **(2)** In conducting competitions for grants under this section, the Secretary shall actively encourage potential applicants to compete for such awards by making widely available information and technical assistance relating to the competition.
   - **(3)** Before awarding a grant under this section, the Secretary shall design specific objectives and measurable indicators, using the results of the assessment conducted under section 9605 of this title , to be used to assess the particular programs or initiatives, and ongoing progress and performance, of the regional entities, in order to ensure that the educational needs of the region are being met and that the latest and best research and proven practices are being carried out as part of school improvement efforts.
 - **(c)**
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T02:12:17.529Z"
 - **(e)** Each comprehensive center established under this section shall work with State educational agencies, local educational agencies, regional educational agencies, and schools in the region where such center is located on school improvement activities that take into account factors such as the proportion of economically disadvantaged students in the region, and give priority to—
   - **(1)** schools in the region with high percentages or numbers of students from low-income families, as determined under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6313(a)(5) ), including such schools in rural and urban areas, and schools receiving assistance under title I of that Act ( 20 U.S.C. 6301 et seq.);
   - **(2)** local educational agencies in the region in which high percentages or numbers of school-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6333(c)(1)(A) ), including such local educational agencies in rural and urban areas; and
-  - **(3)** schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(d) ].
+  - **(3)** schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6316(b) ).
 - **(f)**
   - **(1)** A comprehensive center established under this section shall support dissemination and technical assistance activities by—
     - **(A)** providing training, professional development, and technical assistance regarding, at a minimum—
@@ -36,13 +36,13 @@ generated_at: "2026-03-29T02:12:17.529Z"
         - **(II)** English language acquisition; and
         - **(III)** education technology; and
       - **(iii)** the facilitation of communication between education experts, school officials, teachers, parents, and librarians, as appropriate; and
-    - **(B)** disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, 1 1 So in original. and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(d) ],, 1 to schools, educators, parents, and policymakers within the region in which the center is located; and
+    - **(B)** disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps, and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6316(b) )), to schools, educators, parents, and policymakers within the region in which the center is located; and
     - **(C)** developing teacher and school leader inservice and preservice training models that illustrate best practices in the use of technology in different content areas.
   - **(2)** Each comprehensive center established under this section shall coordinate its activities, collaborate, and regularly exchange information with the regional educational laboratory in the region in which the center is located, the National Center for Education Evaluation and Regional Assistance, the Office of the Secretary, the State service agency, and other technical assistance providers in the region.
 - **(g)**
   - **(1)** Each comprehensive center established under this section shall have an advisory board that shall support the priorities of such center.
   - **(2)** Each advisory board established under paragraph (1) shall advise the comprehensive center—
-    - **(A)** concerning the activities described in subsection (d);
+    - **(A)** concerning the activities described in subsection (d) of this section;
     - **(B)** on strategies for monitoring and addressing the educational needs of the region, on an ongoing basis;
     - **(C)** on maintaining a high standard of quality in the performance of the center’s activities; and
     - **(D)** on carrying out the center’s duties in a manner that promotes progress toward improving student academic achievement.

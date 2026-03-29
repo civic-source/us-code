@@ -1,12 +1,14 @@
 ---
-title: "Section 2883 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705"
+title: "Section 2883 - Establishment"
 usc_title: 29
 usc_section: "2883"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2883"
-generated_at: "2026-03-29T02:14:09.496Z"
+generated_at: "2026-03-29T17:52:18.909Z"
 ---
 
-# §§ 2881 to 2883. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705
+# § 2883. Establishment
+
+There shall be within the Department of Labor a “Job Corps”.
 

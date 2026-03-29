@@ -3,9 +3,9 @@ title: "Section 2520 - Recovery of civil damages authorized"
 usc_title: 18
 usc_section: "2520"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 2520"
-generated_at: "2026-03-29T02:12:02.461Z"
+generated_at: "2026-03-29T17:53:15.704Z"
 ---
 
 # § 2520. Recovery of civil damages authorized
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:12:02.461Z"
 - **(d)** A good faith reliance on—
   - **(1)** a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization;
   - **(2)** a request of an investigative or law enforcement officer under section 2518(7) of this title ; or
-  - **(3)** a good faith determination that section 2511(3), 2511(2)(i), or 2511(2)(j) of this title permitted the conduct complained of;
+  - **(3)** a good faith determination that section 2511(3) or 2511(2)(i) of this title permitted the conduct complained of;
 - **(e)** A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
 - **(f)** If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 - **(g)** Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).

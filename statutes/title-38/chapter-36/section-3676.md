@@ -3,9 +3,9 @@ title: "Section 3676 - Approval of nonaccredited courses"
 usc_title: 38
 usc_section: "3676"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 3676"
-generated_at: "2026-03-29T02:14:50.418Z"
+generated_at: "2026-03-29T17:52:53.761Z"
 ---
 
 # § 3676. Approval of nonaccredited courses
@@ -34,34 +34,16 @@ generated_at: "2026-03-29T02:14:50.418Z"
   - **(7)** Adequate records as prescribed by the State approving agency are kept to show attendance and progress or grades, and satisfactory standards relating to attendance, progress, and conduct are enforced.
   - **(8)** The institution complies with all local, city, county, municipal, State, and Federal regulations, such as fire codes, building and sanitation codes. The State approving agency may require such evidence of compliance as is deemed necessary.
   - **(9)** The institution is financially sound and capable of fulfilling its commitments for training.
-  - **(10)** The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) 1 1 See References in Text note below. of this title. The institution shall not be deemed to have met this requirement until the State approving agency—
-    - **(A)** has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;
-    - **(B)** has, if such an order has been issued, given due weight to that fact; and
-    - **(C)** has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.
+  - **(10)** The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
   - **(11)** The institution does not exceed its enrollment limitations as established by the State approving agency.
   - **(12)** The institution’s administrators, directors, owners, and instructors are of good reputation and character.
   - **(13)** The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time before completion and—
     - **(A)** in the case of an institution (other than (i) a Federal, State, or local Government institution or (ii) an institution described in subparagraph (B)), such policy provides that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length; or
     - **(B)** in the case of an institution that is a nonaccredited public educational institution, the institution has and maintains a refund policy regarding the unused portion of tuition, fees, and other charges that is substantially the same as the refund policy followed by accredited public educational institutions located within the same State as such institution.
-  - **(14)** The institution agrees to, not later than 30 days after any date on which such institution becomes subject to an action or event described in section 3673(e)(3) of this title , submit to the State approving agency, or the Secretary when acting in the role of a State approving agency, a notification of such action or event in such form and containing such information as the Secretary determines appropriate.
-  - **(15)** In the case of a course designed to prepare an individual for licensure or certification in a State, the course—
-    - **(A)** meets all instructional curriculum licensure or certification requirements of such State; and
-    - **(B)** in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b ), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
-  - **(16)** In the case of a course designed to prepare an individual for employment pursuant to standards developed by a board or agency of a State in an occupation that requires approval, licensure, or certification, the course—
-    - **(A)** meets such standards; and
-    - **(B)** in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b ), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
-  - **(17)** In the case of a course that leads to a standard college degree, the educational institution satisfies the requirements of section 3675(b)(6) of this title .
-  - **(18)** Such additional criteria as may be deemed necessary by the State approving agency if the Secretary, in consultation with the State approving agency and pursuant to regulations prescribed to carry out this paragraph, determines such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably.
+  - **(14)** Such additional criteria as may be deemed necessary by the State approving agency.
 - **(d)** The Secretary may waive, in whole or in part, the requirements of subsection (c)(13) of this section in the case of an educational institution which—
   - **(1)** is a college, university, or similar institution offering postsecondary level academic instruction that leads to an associate or higher degree,
   - **(2)** is operated by an agency of a State or of a unit of local government,
   - **(3)** is located within such State or, in the case of an institution operated by an agency of a unit of local government, within the boundaries of the area over which such unit has taxing jurisdiction, and
   - **(4)** is a candidate for accreditation by a regional accrediting association,
 - **(e)** Notwithstanding any other provision of this title, a course of education shall not be approved under this section if it is to be pursued in whole or in part by independent study.
-- **(f)**
-  - **(1)** The Secretary may waive the requirements of paragraph (14) or (15) of subsection (c) in the case of a course of education offered by an educational institution (either accredited or not accredited) if the Secretary determines all of the following:
-    - **(A)** The educational institution is not accredited by an agency or association recognized by the Secretary of Education.
-    - **(B)** The course did not meet the requirements of such paragraph at any time during the 2-year period preceding the date of the waiver.
-    - **(C)** The waiver furthers the purposes of the educational assistance programs administered by the Secretary or would further the education interests of individuals eligible for assistance under such programs.
-    - **(D)** The educational institution does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
-  - **(2)** Not later than 30 days after the date on which the Secretary issues a waiver under paragraph (1), the Secretary shall submit to Congress notice of such waiver and a justification for issuing such waiver.

@@ -3,9 +3,9 @@ title: "Section 3192 - Land acquisition authority"
 usc_title: 16
 usc_section: "3192"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3192"
-generated_at: "2026-03-29T02:11:53.877Z"
+generated_at: "2026-03-29T17:51:56.948Z"
 ---
 
 # § 3192. Land acquisition authority
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:11:53.877Z"
     - **(C)** the actual occupant of a tract, title to the surface estate of which was on, before, or after December 2, 1980 , conveyed to such occupant pursuant to section 1613(c)(1) and (h)(5) of title 43, unless the Secretary determines that the tract is no longer occupied for the purpose described in section 1613(c)(1) or (h)(5) of title 43 for which the tract was conveyed and that activities on the tract are or will be detrimental to the purposes of the unit in which the tract is located; or
     - **(D)** a spouse or lineal descendant of the actual occupant of a tract described in subparagraph (C), unless the Secretary determines that activities on the tract are or will be detrimental to the purposes of the unit in which the tract is located—
 - **(c)** Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection (b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to accept the exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
-- **(d)** No improved property shall be acquired under subsection (a) without the consent of the owner unless the Secretary first determines that such acquisition is necessary to the fulfillment of the purposes of this Act or to the fulfillment of the purposes for which the concerned conservation system unit was established or expanded.
+- **(d)** No improved property shall be acquired under subsection (a) of this section without the consent of the owner unless the Secretary first determines that such acquisition is necessary to the fulfillment of the purposes of this Act or to the fulfillment of the purposes for which the concerned conservation system unit was established or expanded.
 - **(e)** The owner of an improved property on the date of its acquisition, as a condition of such acquisition, may retain for himself, his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential or recreational purposes, as the case may be, for a definite term of not more than twenty-five years, or in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the owner’s interest in the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that such right is being exercised in a manner inconsistent with the purposes of this Act, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
 - **(f)** For the purposes of this section, the term “improved property” means—
   - **(1)** a detached single family dwelling, the construction of which was begun before January 1, 1980 (hereinafter referred to as the “dwelling”), together with the land on which the dwelling is situated to the extent that such land—

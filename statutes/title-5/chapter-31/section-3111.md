@@ -3,9 +3,9 @@ title: "Section 3111 - Acceptance of volunteer service"
 usc_title: 5
 usc_section: "3111"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 3111"
-generated_at: "2026-03-29T02:10:01.808Z"
+generated_at: "2026-03-29T17:50:36.450Z"
 ---
 
 # § 3111. Acceptance of volunteer service
@@ -23,8 +23,4 @@ generated_at: "2026-03-29T02:10:01.808Z"
     - **(C)** sections 7213(a)(1) and 7431 of title 26 (relating to unauthorized disclosures of returns and return information by Federal employees and other persons); and
     - **(D)** section 7423 of title 26 (relating to suits against employees of the United States);
 - **(d)** Notwithstanding section 1342 of title 31 , the head of an agency may accept voluntary service for the United States under chapter 37 of this title and regulations of the Office of Personnel Management.
-- **(e)**
-  - **(1)** For purposes of this section the term “agency” shall include the Architect of the Capitol. With respect to the Architect of the Capitol, the authority granted to the Office of Personnel Management under this section shall be exercised by the Architect of the Capitol.
-  - **(2)** In this section, the term “agency” includes the Congressional Budget Office, except that in the case of the Congressional Budget Office—
-    - **(A)** any student who provides voluntary service in accordance with this section shall be considered an employee of the Congressional Budget Office for purposes of section 203 of the Congressional Budget Act of 1974 (relating to the level of confidentiality of budget data); and
-    - **(B)** the authority granted to the Office of Personnel Management under this section shall be exercised by the Director of the Congressional Budget Office.
+- **(e)** For purposes of this section the term “agency” shall include the Architect of the Capitol. With respect to the Architect of the Capitol, the authority granted to the Office of Personnel Management under this section shall be exercised by the Architect of the Capitol.

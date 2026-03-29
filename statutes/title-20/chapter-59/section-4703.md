@@ -3,9 +3,9 @@ title: "Section 4703 - Establishment of Barry Goldwater Scholarship and Excellen
 usc_title: 20
 usc_section: "4703"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 4703"
-generated_at: "2026-03-29T02:12:17.415Z"
+generated_at: "2026-03-29T17:51:48.565Z"
 ---
 
 # § 4703. Establishment of Barry Goldwater Scholarship and Excellence in Education Foundation
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T02:12:17.415Z"
   - **(1)** The term of office of each member of the Board shall be six years, except that—
     - **(A)** the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years;
     - **(B)** a member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
-    - **(C)** notwithstanding the term limitation provided for under this paragraph, a member appointed under subsection (b) may continue to serve under such appointment until the successor to the member is appointed.
-  - **(2)** A Member of Congress appointed to the Board under clause (1) or (2) of subsection (b) may not serve as a member of the Board for more than a total of six years.
+    - **(C)** notwithstanding the term limitation provided for under this paragraph, a member appointed under subsection (b) of this section may continue to serve under such appointment until the successor to the member is appointed.
+  - **(2)** A Member of Congress appointed to the Board under clause (1) or (2) of subsection (b) of this section may not serve as a member of the Board for more than a total of six years.
 - **(d)** Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.

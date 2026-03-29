@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-29T02:12:08.649Z"
+generated_at: "2026-03-29T17:51:51.247Z"
 ---
 
 # § 1677. Definitions; special rules
@@ -40,7 +40,7 @@ For purposes of this subtitle—
         - **(II)** if added market value is taken into account, consider whether the value of the raw agricultural product constitutes a significant percentage of the value of the processed agricultural product.
       - **(iv)** For purposes of this subparagraph, the term “raw agricultural product” means any farm or fishery product.
       - **(v)** This subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authority and the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
-  - **(5)**
+  - **(5)** (5B) Categories of noncountervailable subsidies
     - **(A)** Except as provided in paragraph (5B), a countervailable subsidy is a subsidy described in this paragraph which is specific as described in paragraph (5A).
     - **(B)** A subsidy is described in this paragraph in the case in which an authority—
       - **(i)** provides a financial contribution,
@@ -57,8 +57,7 @@ For purposes of this subtitle—
       - **(ii)** in the case of a loan, if there is a difference between the amount the recipient of the loan pays on the loan and the amount the recipient would pay on a comparable commercial loan that the recipient could actually obtain on the market,
       - **(iii)** in the case of a loan guarantee, if there is a difference, after adjusting for any difference in guarantee fees, between the amount the recipient of the guarantee pays on the guaranteed loan and the amount the recipient would pay for a comparable commercial loan if there were no guarantee by the authority, and
       - **(iv)** in the case where goods or services are provided, if such goods or services are provided for less than adequate remuneration, and in the case where goods are purchased, if such goods are purchased for more than adequate remuneration.
-    - **(F)** A change in ownership of all or part of a foreign enterprise or the productive assets of a foreign enterprise does not by itself require a determination by the administering authority that a past countervailable subsidy received by the enterprise no longer continues to be countervailable, even if the change in ownership is accomplished through an arm’s length transaction.
-  - **(5A)**
+    - **(F)** A change in ownership of all or part of a foreign enterprise or the productive assets of a foreign enterprise does not by itself require a determination by the administering authority that a past countervailable subsidy received by the enterprise no longer continues to be countervailable, even if the change in ownership is accomplished through an arm’s length transaction. (5A) Specificity
     - **(A)** A subsidy is specific if it is an export subsidy described in subparagraph (B) or an import substitution subsidy described in subparagraph (C), or if it is determined to be specific pursuant to subparagraph (D).
     - **(B)** An export subsidy is a subsidy that is, in law or in fact, contingent upon export performance, alone or as 1 of 2 or more conditions.
     - **(C)** An import substitution subsidy is a subsidy that is contingent upon the use of domestic goods over imported goods, alone or as 1 of 2 or more conditions.
@@ -74,7 +73,6 @@ For purposes of this subtitle—
         - **(III)** An enterprise or industry receives a disproportionately large amount of the subsidy.
         - **(IV)** The manner in which the authority providing the subsidy has exercised discretion in the decision to grant the subsidy indicates that an enterprise or industry is favored over others.
       - **(iv)** Where a subsidy is limited to an enterprise or industry located within a designated geographical region within the jurisdiction of the authority providing the subsidy, the subsidy is specific.
-  - **(5B)**
     - **(A)** Notwithstanding the provisions of paragraphs (5) and (5A), in the case of merchandise imported from a Subsidies Agreement country, a subsidy shall be treated as noncountervailable if the administering authority determines in an investigation under part I of this subtitle or a review under part III of this subtitle that the subsidy meets all of the criteria described in subparagraph (B), (C), or (D), as the case may be, or the provisions of subparagraph (E)(i) apply.
     - **(B)**
       - **(i)** Except for a subsidy provided on the manufacture, production, or export of civil aircraft, a subsidy for research activities conducted by a person, or by a higher education or research establishment on a contract basis with a person, shall be treated as noncountervailable, if the subsidy covers not more than 75 percent of the costs of industrial research or not more than 50 percent of the costs of precompetitive development activity, and such subsidy is limited exclusively to—
@@ -136,14 +134,15 @@ For purposes of this subtitle—
         - **(I)** there has been significant price underselling by the imported merchandise as compared with the price of domestic like products of the United States, and
         - **(II)** the effect of imports of such merchandise otherwise depresses prices to a significant degree or prevents price increases, which otherwise would have occurred, to a significant degree.
       - **(iii)** In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
-        - **(I)** actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
+        - **(I)** actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
         - **(II)** factors affecting domestic prices,
         - **(III)** actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
         - **(IV)** actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
         - **(V)** in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
       - **(iv)** If domestic producers internally transfer significant production of the domestic like product for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
-        - **(I)** the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product, and
-        - **(II)** the domestic like product is the predominant material input in the production of that downstream article,
+        - **(I)** the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product,
+        - **(II)** the domestic like product is the predominant material input in the production of that downstream article, and
+        - **(III)** the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,
     - **(D)**
       - **(i)** The Commission shall not determine that there is no material injury or threat of material injury to United States producers of an agricultural commodity merely because the prevailing market price is at or above the minimum support price.
       - **(ii)** In the case of agricultural products, the Commission shall consider any increased burden on government income or price support programs.
@@ -183,7 +182,6 @@ For purposes of this subtitle—
       - **(ii)** investigations were initiated under section 1671a(a) or 1673a(a) of this title on the same day, or
       - **(iii)** petitions were filed under section 1671a(b) or 1673a(b) of this title and investigations were initiated under section 1671a(a) or 1673a(a) of this title on the same day,
     - **(I)** The Commission shall consider whether any change in the volume, price effects, or impact of imports of the subject merchandise since the filing of the petition in an investigation under part I or II of this subtitle is related to the pendency of the investigation and, if so, the Commission may reduce the weight accorded to the data for the period after the filing of the petition in making its determination of material injury, threat of material injury, or material retardation of the establishment of an industry in the United States.
-    - **(J)** The Commission may not determine that there is no material injury or threat of material injury to an industry in the United States merely because that industry is profitable or because the performance of that industry has recently improved.
   - **(8)**
     - **(A)** The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of this title .
     - **(B)** The term “Agreement on Agriculture” means the Agreement on Agriculture referred to in section 3511(d)(2) of this title .
@@ -211,7 +209,6 @@ For purposes of this subtitle—
   - **(15)** The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of the subject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
     - **(A)** Sales disregarded under section 1677b(b)(1) of this title .
     - **(B)** Transactions disregarded under section 1677b(f)(2) of this title .
-    - **(C)** Situations in which the administering authority determines that the particular market situation prevents a proper comparison with the export price or constructed export price.
   - **(16)** The term “foreign like product” means merchandise in the first of the following categories in respect of which a determination for the purposes of part II of this subtitle can be satisfactorily made:
     - **(A)** The subject merchandise and other merchandise which is identical in physical characteristics with, and was produced in the same country by the same person as, that merchandise.
     - **(B)** Merchandise—
@@ -236,7 +233,7 @@ For purposes of this subtitle—
       - **(i)** Any determination that a foreign country is a nonmarket economy country shall remain in effect until revoked by the administering authority.
       - **(ii)** The administering authority may make a determination under subparagraph (A) with respect to any foreign country at any time.
     - **(D)** Notwithstanding any other provision of law, any determination made by the administering authority under subparagraph (A) shall not be subject to judicial review in any investigation conducted under part II of this subtitle.
-    - **(E)** Upon request by the administering authority, the Commissioner of U.S. Customs and Border Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title .
+    - **(E)** Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title .
   - **(19)** In determining whether a lease is equivalent to a sale for purposes of this subtitle, the administering authority shall consider—
     - **(A)** the terms of the lease,
     - **(B)** commercial practice within the industry,
@@ -252,7 +249,7 @@ For purposes of this subtitle—
         - **(II)** in accordance with terms of the Memorandum of Understanding in effect at the time of importation, or
       - **(ii)** the merchandise has no substantial nonmilitary use.
   - **(21)** The term “United States-Canada Agreement” means the United States-Canada Free-Trade Agreement.
-  - **(22)** The term “USMCA” has the meaning given that term in section 4502 of this title .
+  - **(22)** The term “NAFTA” means the North American Free Trade Agreement.
   - **(23)** The term “entry” includes, in appropriate circumstances as determined by the administering authority, a reconciliation entry created under a reconciliation process, defined in section 1401(s) of this title , that is initiated by an importer. The liability of an importer under an antidumping or countervailing duty proceeding for entries of merchandise subject to the proceeding will attach to the corresponding reconciliation entry or entries. Suspension of liquidation of the reconciliation entry or entries, for the purpose of enforcing this subtitle, is equivalent to the suspension of liquidation of the corresponding individual entries; but the suspension of liquidation of the reconciliation entry or entries for such purpose does not preclude liquidation for any other purpose.
   - **(24)**
     - **(A)**

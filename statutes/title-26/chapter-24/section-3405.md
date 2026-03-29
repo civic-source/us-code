@@ -3,9 +3,9 @@ title: "Section 3405 - Special rules for pensions, annuities, and certain other 
 usc_title: 26
 usc_section: "3405"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 3405"
-generated_at: "2026-03-29T02:14:01.199Z"
+generated_at: "2026-03-29T17:52:39.435Z"
 ---
 
 # § 3405. Special rules for pensions, annuities, and certain other deferred income
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T02:14:01.199Z"
 - **(a)**
   - **(1)** The payor of any periodic payment (as defined in subsection (e)(2)) shall withhold from such payment the amount which would be required to be withheld from such payment if such payment were a payment of wages by an employer to an employee for the appropriate payroll period.
   - **(2)** An individual may elect to have paragraph (1) not apply with respect to periodic payments made to such individual. Such an election shall remain in effect until revoked by such individual.
-  - **(3)** Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding allowance certificates.
-  - **(4)** In the case of any payment with respect to which a withholding allowance certificate is not in effect, the amount withheld under paragraph (1) shall be determined under rules prescribed by the Secretary.
+  - **(3)** Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding exemption certificates.
+  - **(4)** In the case of any payment with respect to which a withholding exemption certificate is not in effect, the amount withheld under paragraph (1) shall be determined by treating the payee as a married individual claiming 3 withholding exemptions.
 - **(b)**
   - **(1)** The payor of any nonperiodic distribution (as defined in subsection (e)(3)) shall withhold from such distribution an amount equal to 10 percent of such distribution.
   - **(2)**

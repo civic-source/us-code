@@ -3,9 +3,9 @@ title: "Section 5703 - Approving States for participation"
 usc_title: 12
 usc_section: "5703"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 5703"
-generated_at: "2026-03-29T02:11:21.311Z"
+generated_at: "2026-03-29T17:51:13.316Z"
 ---
 
 # § 5703. Approving States for participation
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T02:11:21.311Z"
   - **(1)** an existing, approved State program administered by another State; or
   - **(2)** an authorized agent of, or entity supervised by, the State, including for-profit and not-for-profit entities.
 - **(d)**
-  - **(1)** If a State does not, within 60 days after March 11, 2021 , file with the Secretary a notice of its intent to apply for approval by the Secretary of a State program or within 9 months after March 11, 2021 , file with the Secretary a complete application for approval of a State program, the Secretary may grant to municipalities of that State a special permission that will allow them to apply directly to the Secretary without the State for approval to be participating municipalities.
-  - **(2)** To qualify for the special permission, a municipality of a State shall be required, within 12 months after March 11, 2021 , to file with the Secretary a complete application for approval by the Secretary of a State program.
+  - **(1)** If a State does not, within 60 days after September 27, 2010 , file with the Secretary a notice of its intent to apply for approval by the Secretary of a State program or within 9 months after September 27, 2010 , file with the Secretary a complete application for approval of a State program, the Secretary may grant to municipalities of that State a special permission that will allow them to apply directly to the Secretary without the State for approval to be participating municipalities.
+  - **(2)** To qualify for the special permission, a municipality of a State shall be required, within 12 months after September 27, 2010 , to file with the Secretary a complete application for approval by the Secretary of a State program.
   - **(3)** A municipality of a State may combine with 1 or more other municipalities of that State to file a joint notice of intent to file and a joint application.
   - **(4)** The general approval criteria in paragraphs (2) and (4) shall apply.
   - **(5)**

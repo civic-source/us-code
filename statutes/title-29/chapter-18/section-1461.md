@@ -3,15 +3,15 @@ title: "Section 1461 - Effective date; special rules"
 usc_title: 29
 usc_section: "1461"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1461"
-generated_at: "2026-03-29T02:14:09.483Z"
+generated_at: "2026-03-29T17:52:18.881Z"
 ---
 
 # § 1461. Effective date; special rules
 
 - **(a)** The provisions of this subchapter take effect on September 2, 1974 .
-- **(b)** Notwithstanding the provisions of subsection (a), the corporation shall pay benefits guaranteed under this subchapter with respect to any plan—
+- **(b)** Notwithstanding the provisions of subsection (a) of this section, the corporation shall pay benefits guaranteed under this subchapter with respect to any plan—
   - **(1)** which is not a multiemployer plan,
   - **(2)** which terminates after June 30, 1974 , and before September 2, 1974 ,
   - **(3)** to which section 1321 of this title would apply if that section were effective beginning on July 1, 1974 , and
@@ -29,13 +29,13 @@ generated_at: "2026-03-29T02:14:09.483Z"
     - **(A)** may establish requirements for the continuation of payments which commenced before January 2, 1974 , with respect to retired participants under the plan,
     - **(B)** may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974 , was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
     - **(C)** shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminate such payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980 , without increasing premium rates for such plans.
-- **(d)** Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title , without regard to any limitation on payment under subparagraph (C) of subsection (c)(4).
+- **(d)** Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title , without regard to any limitation on payment under subparagraph (C) of subsection (c)(4) of this section.
 - **(e)**
   - **(1)** Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980 .
   - **(2)**
-    - **(A)** Except as provided in this paragraph, part 1 of subtitle E, relating to withdrawal liability, takes effect on September 26, 1980 .
-    - **(B)** For purposes of determining withdrawal liability under part 1 of subtitle E, an employer who has withdrawn from a plan shall be considered to have withdrawn from a multiemployer plan if, at the time of the withdrawal, the plan was a multiemployer plan as defined in section 1301(a)(3) of this title as in effect at the time of the withdrawal.
-  - **(3)** Sections 1421 through 1426 1 1 See References in Text note below. of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+    - **(A)** Except as provided in this paragraph, part 1 of subtitle E of this subchapter, relating to withdrawal liability, takes effect on September 26, 1980 .
+    - **(B)** For purposes of determining withdrawal liability under part 1 of subtitle E of this subchapter, an employer who has withdrawn from a plan shall be considered to have withdrawn from a multiemployer plan if, at the time of the withdrawal, the plan was a multiemployer plan as defined in section 1301(a)(3) of this title as in effect at the time of the withdrawal.
+  - **(3)** Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
     - **(A)** the date on which the last collective bargaining agreement providing for employer contributions under the plan, which was in effect on September 26, 1980 , expires, without regard to extensions agreed to on or after September 26, 1980 , or
     - **(B)** 3 years after September 26, 1980 .
   - **(4)** Section 1415 of this title shall take effect on September 26, 1980 .
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T02:14:09.483Z"
     - **(B)** the employer is liable to the corporation under such section,
   - **(2)** In any case in which the plan is not so terminated within the period described in paragraph (1), the liability of the employer is abated and any payment held in escrow shall be refunded without interest to the employer or the employer’s bond shall be cancelled.
 - **(g)**
-  - **(1)** In any case in which an employer or employers withdrew from a multiemployer plan before the effective date of part 1 of subtitle E, the corporation may—
+  - **(1)** In any case in which an employer or employers withdrew from a multiemployer plan before the effective date of part 1 of subtitle E of this subchapter, the corporation may—
     - **(A)** apply section 1363(d) of this title , as in effect before the amendments made by the Multiemployer Pension Plan Amendments Act of 1980, to such plan,
     - **(B)** assess liability against the withdrawn employer with respect to the resulting terminated plan,
     - **(C)** guarantee benefits under the terminated plan under section 1322 of this title , as in effect before such amendments, and

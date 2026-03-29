@@ -1,21 +1,22 @@
 ---
-title: "Section 7906 - Prohibited uses of funds"
+title: "Section 7906 - General prohibitions"
 usc_title: 20
 usc_section: "7906"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7906"
-generated_at: "2026-03-29T02:12:17.507Z"
+generated_at: "2026-03-29T17:51:48.681Z"
 ---
 
-# § 7906. Prohibited uses of funds
+# § 7906. General prohibitions
 
-No funds under this chapter may be used—
-
-  - **(1)** for construction, renovation, or repair of any school facility, except as authorized under this chapter;
-  - **(2)** for transportation unless otherwise authorized under this chapter;
-  - **(3)** to develop or distribute materials, or operate programs or courses of instruction directed at youth, that are designed to promote or encourage sexual activity, whether homosexual or heterosexual;
-  - **(4)** to distribute or to aid in the distribution by any organization of legally obscene materials to minors on school grounds;
-  - **(5)** to provide sex education or HIV-prevention education in schools unless that instruction is age appropriate and includes the health benefits of abstinence;
-  - **(6)** to operate a program of contraceptive distribution in schools; or
-  - **(7)** for the provision to any person of a dangerous weapon, as defined in section 930(g)(2) of title 18 , or training in the use of a dangerous weapon, except that this paragraph shall not apply to the use of funds under this chapter for activities carried out under programs authorized by this chapter that are otherwise permissible under such programs and that provide students with educational instruction or educational enrichment activities, such as archery, hunting, other shooting sports, or culinary arts.
+- **(a)** None of the funds authorized under this chapter shall be used—
+  - **(1)** to develop or distribute materials, or operate programs or courses of instruction directed at youth, that are designed to promote or encourage sexual activity, whether homosexual or heterosexual;
+  - **(2)** to distribute or to aid in the distribution by any organization of legally obscene materials to minors on school grounds;
+  - **(3)** to provide sex education or HIV-prevention education in schools unless that instruction is age appropriate and includes the health benefits of abstinence; or
+  - **(4)** to operate a program of contraceptive distribution in schools.
+- **(b)** Nothing in this section shall be construed to—
+  - **(1)** authorize an officer or employee of the Federal Government to mandate, direct, review, or control a State, local educational agency, or school’s instructional content, curriculum, and related activities;
+  - **(2)** limit the application of the General Education Provisions Act [ 20 U.S.C. 1221 et seq.];
+  - **(3)** require the distribution of scientifically or medically false or inaccurate materials or to prohibit the distribution of scientifically or medically true or accurate materials; or
+  - **(4)** create any legally enforceable right.

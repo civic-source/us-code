@@ -3,20 +3,20 @@ title: "Section 6304 - Great Ape Conservation Fund"
 usc_title: 16
 usc_section: "6304"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6304"
-generated_at: "2026-03-29T02:11:53.960Z"
+generated_at: "2026-03-29T17:51:57.019Z"
 ---
 
 # § 6304. Great Ape Conservation Fund
 
 - **(a)** There is established in the Multinational Species Conservation Fund a separate account to be known as the “Great Ape Conservation Fund”, consisting of—
-  - **(1)** amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e);
+  - **(1)** amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e) of this section;
   - **(2)** amounts appropriated to the Fund under section 6305 of this title ; and
-  - **(3)** any interest earned on investment of amounts in the Fund under subsection (c).
+  - **(3)** any interest earned on investment of amounts in the Fund under subsection (c) of this section.
 - **(b)**
   - **(1)** Subject to paragraph (2), upon request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to provide assistance under section 6303 of this title .
-  - **(2)** Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $150,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+  - **(2)** Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 - **(c)**
   - **(1)** The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary of the Treasury, required to meet current withdrawals. Investments may be made only in interest-bearing obligations of the United States.
   - **(2)** For the purpose of investments under paragraph (1), obligations may be acquired—

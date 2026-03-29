@@ -3,9 +3,9 @@ title: "Section 8513 - Mandatory sanctions with respect to financial institution
 usc_title: 22
 usc_section: "8513"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8513"
-generated_at: "2026-03-29T02:12:40.454Z"
+generated_at: "2026-03-29T17:52:10.719Z"
 ---
 
 # § 8513. Mandatory sanctions with respect to financial institutions that engage in certain transactions
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T02:12:40.454Z"
   - **(1)** In this section:
     - **(A)** The terms “account”, “correspondent account”, and “payable-through account” have the meanings given those terms in section 5318A of title 31 .
     - **(B)** The term “agent” includes an entity established by a person for purposes of conducting transactions on behalf of the person in order to conceal the identity of the person.
-    - **(C)** The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of section 5312(a)(2) of title 31 .
+    - **(C)** The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31 .
     - **(D)** The terms “foreign financial institution” and “domestic financial institution” shall have the meanings of those terms as determined by the Secretary of the Treasury.
     - **(E)** The term “money laundering” means the movement of illicit cash or cash equivalent proceeds into, out of, or through a country, or into, out of, or through a financial institution.
   - **(2)** The Secretary of the Treasury may further define the terms used in this section in the regulations prescribed under this section.

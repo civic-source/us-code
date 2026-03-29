@@ -3,9 +3,9 @@ title: "Section 409f - Jurisdiction of New Jersey in civil, criminal and legisla
 usc_title: 16
 usc_section: "409f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 409f"
-generated_at: "2026-03-29T02:11:53.382Z"
+generated_at: "2026-03-29T17:51:56.507Z"
 ---
 
 # § 409f. Jurisdiction of New Jersey in civil, criminal and legislative matters retained; citizenship unaffected

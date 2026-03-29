@@ -3,9 +3,9 @@ title: "Section 7402 - Qualifications of appointees"
 usc_title: 38
 usc_section: "7402"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7402"
-generated_at: "2026-03-29T02:14:50.479Z"
+generated_at: "2026-03-29T17:52:53.837Z"
 ---
 
 # § 7402. Qualifications of appointees
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T02:14:50.479Z"
     - **(A)** hold a master’s degree in marriage and family therapy, or a comparable degree in mental health, from a college or university approved by the Secretary; and
     - **(B)** be licensed or certified to independently practice marriage and family therapy in a State, except that the Secretary may waive the requirement of licensure or certification for an individual marriage and family therapist for a reasonable period of time recommended by the Under Secretary for Health.
   - **(11)** To be eligible to be appointed to a licensed professional mental health counselor position, a person must—
-    - **(A)** hold a master’s degree or doctoral degree in mental health counseling, or a related field, from a college or university approved by the Secretary; and
+    - **(A)** hold a master’s degree in mental health counseling, or a related field, from a college or university approved by the Secretary; and
     - **(B)** be licensed or certified to independently practice mental health counseling.
   - **(12)** To be eligible to be appointed to a chiropractor position, a person must—
     - **(A)** hold the degree of doctor of chiropractic, or its equivalent, from a college of chiropractic approved by the Secretary; and
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T02:14:50.479Z"
     - **(B)** be certified by—
       - **(i)** a not-for-profit entity engaged in peer specialist training as having met such criteria as the Secretary shall establish for a peer specialist position; or
       - **(ii)** a State as having satisfied relevant State requirements for a peer specialist position.
-  - **(14)** To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, hearing aid specialist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
+  - **(14)** To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
 - **(c)** Except as provided in section 7407(a) of this title , a person may not be appointed in the Administration to a position listed in section 7401(1) of this title unless the person is a citizen of the United States.
 - **(d)** A person may not be appointed under section 7401(1) of this title to serve in the Administration in any direct patient-care capacity unless the Under Secretary for Health determines that the person possesses such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable the person to carry out the person’s health-care responsibilities satisfactorily. Any determination by the Under Secretary for Health under this subsection shall be in accordance with regulations which the Secretary shall prescribe.
 - **(e)** A person may not serve as Chief of Staff of a Department health-care facility if the person is not serving on a full-time basis.

@@ -3,12 +3,13 @@ title: "Section 6115 - Expense allowance of President pro tempore of Senate; met
 usc_title: 2
 usc_section: "6115"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 6115"
-generated_at: "2026-03-29T02:09:53.790Z"
+generated_at: "2026-03-29T17:50:24.134Z"
 ---
 
 # § 6115. Expense allowance of President pro tempore of Senate; methods of payment; taxability
 
-Effective with fiscal year 1978 and each fiscal year thereafter, there is hereby authorized an expense allowance for the President Pro Tempore which shall not exceed $40,000 each fiscal year. The President Pro Tempore may receive the expense allowance (1) as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the President Pro Tempore, or (2) in equal monthly payments. Such amounts paid to the President Pro Tempore as reimbursement of actual expenses incurred upon certification and documentation pursuant to this provision, shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction, under title 26.
+  - **(1)** as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the President Pro Tempore, or
+  - **(2)** in equal monthly payments. Such amounts paid to the President Pro Tempore as reimbursement of actual expenses incurred upon certification and documentation pursuant to this provision, shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction, under title 26.
 

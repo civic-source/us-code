@@ -3,9 +3,9 @@ title: "Section 2152 - Assistance for victims of torture"
 usc_title: 22
 usc_section: "2152"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2152"
-generated_at: "2026-03-29T02:12:40.033Z"
+generated_at: "2026-03-29T17:52:10.487Z"
 ---
 
 # § 2152. Assistance for victims of torture
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T02:12:40.033Z"
 - **(b)** Such assistance shall be provided in the form of grants to treatment centers and programs in foreign countries that are carrying out projects or activities specifically designed to treat victims of torture for the physical and psychological effects of the torture.
 - **(c)** Such assistance shall be available—
   - **(1)** for direct services to victims of torture; and
-  - **(2)** to provide research and training to health care providers outside of treatment centers or programs described in subsection (b), for the purpose of enabling such providers to provide the services described in paragraph (1).
+  - **(2)** to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).

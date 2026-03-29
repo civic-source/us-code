@@ -3,9 +3,9 @@ title: "Section 706 - Taxable years of partner and partnership"
 usc_title: 26
 usc_section: "706"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 706"
-generated_at: "2026-03-29T02:14:01.031Z"
+generated_at: "2026-03-29T17:52:39.287Z"
 ---
 
 # § 706. Taxable years of partner and partnership
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:14:01.031Z"
         - **(I)** the 1st day of the partnership taxable year (determined without regard to clause (i)), or
         - **(II)** the days during such representative period as the Secretary may prescribe.
     - **(B)** Except as provided in regulations necessary to prevent the avoidance of this section, if, by reason of paragraph (1)(B)(i), the taxable year of a partnership is changed, such partnership shall not be required to change to another taxable year for either of the 2 taxable years following the year of change.
-  - **(5)** Except as provided in regulations, for purposes of determining the taxable year to which a partnership is required to change by reason of this subsection, changes in taxable years of other persons required by this subsection, section 441(i), section 584(i), section 644, or section 1378(a) shall be taken into account.
+  - **(5)** Except as provided in regulations, for purposes of determining the taxable year to which a partnership is required to change by reason of this subsection, changes in taxable years of other persons required by this subsection, section 441(i), section 584(h), 1 1 See References in Text note below. section 644, or section 1378(a) shall be taken into account.
 - **(c)**
   - **(1)** Except in the case of a termination of a partnership and except as provided in paragraph (2) of this subsection, the taxable year of a partnership shall not close as the result of the death of a partner, the entry of a new partner, the liquidation of a partner’s interest in the partnership, or the sale or exchange of a partner’s interest in the partnership.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 7953 - Availability of direct payments for peanuts"
 usc_title: 7
 usc_section: "7953"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7953"
-generated_at: "2026-03-29T02:10:17.179Z"
+generated_at: "2026-03-29T17:50:48.882Z"
 ---
 
 # § 7953. Availability of direct payments for peanuts
@@ -15,11 +15,11 @@ generated_at: "2026-03-29T02:10:17.179Z"
   - **(2)** For each of the 2003 through 2007 crop years for peanuts, the Secretary shall make direct payments to the producers on a farm to which a payment yield and base acres for peanuts are assigned under section 7952 of this title .
 - **(b)** The payment rate used to make direct payments with respect to peanuts for a crop year shall be equal to $36 per ton.
 - **(c)** The amount of the direct payment to be paid to an historic peanut producer for the 2002 crop of peanuts shall be equal to the product of the following:
-  - **(1)** The payment rate specified in subsection (b).
+  - **(1)** The payment rate specified in subsection (b) of this section.
   - **(2)** The payment acres of the historic peanut producer.
   - **(3)** The average peanut yield determined under section 7952(a)(1) of this title for the historic peanut producer.
 - **(d)** The amount of the direct payment to be paid to the producers on a farm for the 2003 through 2007 crops of peanuts shall be equal to the product of the following:
-  - **(1)** The payment rate specified in subsection (b).
+  - **(1)** The payment rate specified in subsection (b) of this section.
   - **(2)** The payment acres on the farm.
   - **(3)** The payment yield for the farm.
 - **(e)**

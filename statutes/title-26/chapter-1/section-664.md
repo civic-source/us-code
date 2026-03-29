@@ -3,9 +3,9 @@ title: "Section 664 - Charitable remainder trusts"
 usc_title: 26
 usc_section: "664"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 664"
-generated_at: "2026-03-29T02:14:01.025Z"
+generated_at: "2026-03-29T17:52:39.283Z"
 ---
 
 # § 664. Charitable remainder trusts
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:14:01.025Z"
   - **(4)** If—
     - **(A)** any contribution is made to a trust which before the contribution is a charitable remainder unitrust, and
     - **(B)** such contribution would (but for this paragraph) result in such trust ceasing to be a charitable unitrust by reason of paragraph (2)(D),
-- **(e)** For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year. In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence.
+- **(e)** For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
 - **(f)**
   - **(1)** If a trust would, but for a qualified contingency, meet the requirements of paragraph (1)(A) or (2)(A) of subsection (d), such trust shall be treated as meeting such requirements.
   - **(2)** For purposes of determining the amount of any charitable contribution (or the actuarial value of any interest), a qualified contingency shall not be taken into account.
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T02:14:01.025Z"
     - **(B)** plan participants are entitled to direct the plan as to the manner in which such securities which are entitled to vote and are allocated to the account of such participant are to be voted,
     - **(C)** an independent trustee votes the securities so transferred which are not allocated to plan participants,
     - **(D)** each participant who is entitled to a distribution from the plan has the rights described in subparagraphs (A) and (B) of section 409(h)(1),
-    - **(E)** such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitation under section 415(c), and
+    - **(E)** such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e), 1 1 See References in Text note below. and
     - **(F)** on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
   - **(4)** For purposes of this section, the term “qualified employer securities” means employer securities (as defined in section 409( l )) which are issued by a domestic corporation—
     - **(A)** which has no outstanding stock which is readily tradable on an established securities market, and

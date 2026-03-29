@@ -3,12 +3,15 @@ title: "Section 388 - Withdrawn or abandoned international design application"
 usc_title: 35
 usc_section: "388"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "35 U.S.C. § 388"
-generated_at: "2026-03-29T02:14:28.421Z"
+generated_at: "2026-03-29T17:52:44.614Z"
 ---
 
 # § 388. Withdrawn or abandoned international design application
 
-Subject to sections 384 and 387, if an international design application designating the United States is withdrawn, renounced or canceled or considered withdrawn or abandoned, either generally or as to the United States, under the conditions of the treaty and the Regulations, the designation of the United States shall have no effect after the date of withdrawal, renunciation, cancellation, or abandonment and shall be considered as not having been made, unless a claim for benefit of a prior filing date under section 386(c) was made in a national application, or an international design application designating the United States, or a claim for benefit under section 365(c) was made in an international application designating the United States, filed before the date of such withdrawal, renunciation, cancellation, or abandonment. However, such withdrawn, renounced, canceled, or abandoned international design application may serve as the basis for a claim of priority under subsections (a) and (b) of section 386, or under subsection (a) or (b) of section 365, if it designated a country other than the United States.
+- **(a)** and
+- **(b)** of section 386, or under subsection
+- **(a)** or
+- **(b)** of section 365, if it designated a country other than the United States.
 

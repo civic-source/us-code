@@ -3,9 +3,9 @@ title: "Section 3401 - Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Ap
 usc_title: 16
 usc_section: "3401"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3401"
-generated_at: "2026-03-29T02:11:53.888Z"
+generated_at: "2026-03-29T17:51:56.956Z"
 ---
 
 # § 3401. Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Apr. 4, 1996 , 110 Stat. 1007

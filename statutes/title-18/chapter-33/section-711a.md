@@ -1,12 +1,14 @@
 ---
-title: "Section 711a - Repealed. Pub. L. 116–260, div. O, title X, § 1002(6) , Dec. 27, 2020 , 134 Stat. 2155 ]"
+title: "Section 711a - “Woodsy Owl” character, name, or slogan"
 usc_title: 18
 usc_section: "711a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 711a"
-generated_at: "2026-03-29T02:12:02.379Z"
+generated_at: "2026-03-29T17:53:15.582Z"
 ---
 
-# [§ 711a. Repealed. Pub. L. 116–260, div. O, title X, § 1002(6) , Dec. 27, 2020 , 134 Stat. 2155 ]
+# § 711a. “Woodsy Owl” character, name, or slogan
+
+Whoever, except as authorized under rules and regulations issued by the Secretary, knowingly and for profit manufactures, reproduces, or uses the character “Woodsy Owl”, the name “Woodsy Owl”, or the associated slogan, “Give a Hoot, Don’t Pollute” shall be fined under this title or imprisoned not more than six months, or both.
 

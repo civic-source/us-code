@@ -3,9 +3,9 @@ title: "Section 1635f - Mandatory packer reporting of boxed beef sales"
 usc_title: 7
 usc_section: "1635f"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1635f"
-generated_at: "2026-03-29T02:10:16.839Z"
+generated_at: "2026-03-29T17:50:48.624Z"
 ---
 
 # § 1635f. Mandatory packer reporting of boxed beef sales
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T02:10:16.839Z"
     - **(A)** the grade of beef (USDA Choice or better, USDA Select, or ungraded no-roll product);
     - **(B)** the cut of beef; and
     - **(C)** the trim specification.
-- **(b)** The Secretary shall make available to the public the information required to be reported under subsection (a) not less frequently than twice each reporting day.
+- **(b)** The Secretary shall make available to the public the information required to be reported under subsection (a) of this section not less frequently than twice each reporting day.

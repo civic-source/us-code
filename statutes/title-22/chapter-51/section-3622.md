@@ -3,9 +3,9 @@ title: "Section 3622 - Code of conduct for Commission personnel"
 usc_title: 22
 usc_section: "3622"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3622"
-generated_at: "2026-03-29T02:12:40.293Z"
+generated_at: "2026-03-29T17:52:10.587Z"
 ---
 
 # § 3622. Code of conduct for Commission personnel
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:12:40.293Z"
   - **(2)** section 7352 of title 5 ;
   - **(3)** sections 207, 208, 285, 508, 641, 645, 1001, 1917, and 2071 of title 18;
   - **(4)** section 1343, 1344, and 1349(b) of title 31;
-  - **(5)** chapter 131 of title 5; and
+  - **(5)** the Ethics in Government Act of 1978 ( 92 Stat. 1824 ), as amended; and
   - **(6)** those provisions of the laws and regulations of the Republic of Panama which are substantially equivalent to those of the United States set forth in this subsection.
 - **(c)** The Commission shall investigate any allegations regarding the violation of the code of conduct adopted pursuant to subsection (b) of this section. The Commission may recommend that the President suspend from the performance of his duties any member of the Board of the Commission or any officer or employee of the Commission, pending judicial proceedings by appropriate authorities concerning such allegations.
 - **(d)** The President shall negotiate suitable arrangements with the Republic of Panama whereby each nation shall agree to take all measures within its legal authority to assure that members of the Board of the Commission comply with the code of conduct established pursuant to subsection (b) of this section. Without prejudice to such jurisdiction as the United States may have with respect to members of the Board, the provisions of law enumerated in subsection (b) of this section shall be enforced with respect to members of the Board only in accordance with such arrangements.
@@ -28,5 +28,5 @@ generated_at: "2026-03-29T02:12:40.293Z"
   - **(1)** The Congress consents to the following persons accepting civil employment (and compensation for that employment) with the Panama Canal Authority for which the consent of the Congress is required by the last paragraph of section 9 of article I of the Constitution of the United States, relating to acceptance of emoluments, offices, or titles from a foreign government:
     - **(A)** Retired members of the uniformed services.
     - **(B)** Members of a reserve component of the armed forces.
-    - **(C)** Members of the Commissioned Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
+    - **(C)** Members of the Commissioned Reserve Corps of the Public Health Service.
   - **(2)** The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of section 908 of title 37 (relating to approval required for employment of Reserve and retired members by foreign governments).

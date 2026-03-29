@@ -3,9 +3,9 @@ title: "Section 1693c - Terms and conditions of transfers"
 usc_title: 15
 usc_section: "1693c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1693c"
-generated_at: "2026-03-29T02:11:34.234Z"
+generated_at: "2026-03-29T17:51:36.278Z"
 ---
 
 # § 1693c. Terms and conditions of transfers
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:11:34.234Z"
   - **(10)** a notice to the consumer that a fee may be imposed by—
     - **(A)** an automated teller machine operator (as defined in section 1693b(d)(3)(D)(i) of this title ) if the consumer initiates a transfer from an automated teller machine that is not operated by the person issuing the card or other means of access; and
     - **(B)** any national, regional, or local network utilized to effect the transaction.
-- **(b)** A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) if such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to subsection (a)(3), the Bureau shall require subsequent notification if such a change is made permanent.
-- **(c)** For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) shall be disclosed not later than the earlier of—
+- **(b)** A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) of this section if such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to subsection (a)(3) of this section, the Bureau shall require subsequent notification if such a change is made permanent.
+- **(c)** For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) of this section shall be disclosed not later than the earlier of—
   - **(1)** the first periodic statement required by section 1693d(c) of this title after the effective date of this subchapter; or
   - **(2)** thirty days after the effective date of this subchapter.

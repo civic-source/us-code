@@ -3,9 +3,9 @@ title: "Section 202 - Board of Governors"
 usc_title: 39
 usc_section: "202"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 202"
-generated_at: "2026-03-29T02:14:53.113Z"
+generated_at: "2026-03-29T17:52:57.898Z"
 ---
 
 # § 202. Board of Governors
@@ -19,9 +19,9 @@ generated_at: "2026-03-29T02:14:53.113Z"
 - **(c)** The Governors shall appoint and shall have the power to remove the Postmaster General, who shall be a voting member of the Board. His pay and term of service shall be fixed by the Governors.
 - **(d)** The Governors and the Postmaster General shall appoint and shall have the power to remove the Deputy Postmaster General, who shall be a voting member of the Board. His term of service shall be fixed by the Governors and the Postmaster General and his pay by the Governors.
 - **(e)**
-  - **(1)** The Governors and the members of the Postal Regulatory Commission shall appoint, by a favorable vote of a majority of the Governors in office and of a majority of the members of the Commission in office, and shall have the power to remove the Inspector General.
+  - **(1)** The Governors shall appoint and shall have the power to remove the Inspector General.
   - **(2)** The Inspector General shall be appointed—
     - **(A)** for a term of 7 years;
     - **(B)** without regard to political affiliation; and
     - **(C)** solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
-  - **(3)** The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors and 3 members of the Postal Regulatory Commission, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 415(e) of title 5 .
+  - **(3)** The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 8G(e) of the Inspector General Act of 1978.

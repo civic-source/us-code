@@ -3,14 +3,14 @@ title: "Section 1343 - Reportable events"
 usc_title: 29
 usc_section: "1343"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1343"
-generated_at: "2026-03-29T02:14:09.468Z"
+generated_at: "2026-03-29T17:52:18.867Z"
 ---
 
 # § 1343. Reportable events
 
-- **(a)** Within 30 days after the plan administrator or the contributing sponsor knows or has reason to know that a reportable event described in subsection (c) has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
+- **(a)** Within 30 days after the plan administrator or the contributing sponsor knows or has reason to know that a reportable event described in subsection (c) of this section has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
 - **(b)**
   - **(1)** The requirements of this subsection shall be applicable to a contributing sponsor if, as of the close of the preceding plan year—
     - **(A)** the aggregate unfunded vested benefits (as determined under section 1306(a)(3)(E)(iii) of this title ) of plans subject to this subchapter which are maintained by such sponsor and members of such sponsor’s controlled groups (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:14:09.468Z"
   - **(2)** This subsection shall not apply to an event if the contributing sponsor, or the member of the contributing sponsor’s controlled group to which the event relates, is—
     - **(A)** a person subject to the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 [ 15 U.S.C. 78m , 78 o (d)], or
     - **(B)** a subsidiary (as defined for purposes of such Act [ 15 U.S.C. 78a et seq.]) of a person subject to such reporting requirements.
-  - **(3)** No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c), a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
+  - **(3)** No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c) of this section, a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
   - **(4)** The corporation may waive the requirement of this subsection with respect to any or all reportable events with respect to any contributing sponsor.
 - **(c)** For purposes of this section a reportable event occurs—
   - **(1)** when the Secretary of the Treasury issues notice that a plan has ceased to be a plan described in section 1321(a)(2) of this title , or when the Secretary of Labor determines the plan is not in compliance with subchapter I of this chapter;
@@ -38,9 +38,9 @@ generated_at: "2026-03-29T02:14:09.468Z"
   - **(12)** when, in any 12-month period, an aggregate of 3 percent or more of the benefit liabilities of a plan covered by this subchapter and maintained by a contributing sponsor or a member of its controlled group are transferred to a person that is not a member of the controlled group or to a plan or plans maintained by a person or persons that are not such a contributing sponsor or a member of its controlled group; or
   - **(13)** when any other event occurs that may be indicative of a need to terminate the plan and that is prescribed by the corporation in regulations.
 - **(d)** The Secretary of the Treasury shall notify the corporation—
-  - **(1)** whenever a reportable event described in paragraph (1), (4), or (5) of subsection (c) occurs, or
+  - **(1)** whenever a reportable event described in paragraph (1), (4), or (5) of subsection (c) of this section occurs, or
   - **(2)** whenever any other event occurs which the Secretary of the Treasury believes indicates that the plan may not be sound.
 - **(e)** The Secretary of Labor shall notify the corporation—
-  - **(1)** whenever a reportable event described in paragraph (1), (5), or (8) of subsection (c) occurs, or
+  - **(1)** whenever a reportable event described in paragraph (1), (5), or (8) of subsection (c) of this section occurs, or
   - **(2)** whenever any other event occurs which the Secretary of Labor believes indicates that the plan may not be sound.
 - **(f)** Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5 , and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.

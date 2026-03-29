@@ -1,16 +1,16 @@
 ---
-title: "Section 904 - Art. 104. Public records offenses"
+title: "Section 904 - Art. 104. Aiding the enemy"
 usc_title: 10
 usc_section: "904"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 904"
-generated_at: "2026-03-29T02:10:44.924Z"
+generated_at: "2026-03-29T17:50:56.978Z"
 ---
 
-# § 904. Art. 104. Public records offenses
+# § 904. Art. 104. Aiding the enemy
 
-Any person subject to this chapter who, willfully and unlawfully—
+Any person who—
 
-  - **(1)** alters, conceals, removes, mutilates, obliterates, or destroys a public record; or
-  - **(2)** takes a public record with the intent to alter, conceal, remove, mutilate, obliterate, or destroy the public record;
+  - **(1)** aids, or attempts to aid, the enemy with arms, ammunition, supplies, money, or other things; or
+  - **(2)** without proper authority, knowingly harbors or protects or gives intelligence to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;

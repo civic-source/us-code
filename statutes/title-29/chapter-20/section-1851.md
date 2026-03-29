@@ -3,9 +3,9 @@ title: "Section 1851 - Criminal sanctions"
 usc_title: 29
 usc_section: "1851"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1851"
-generated_at: "2026-03-29T02:14:09.486Z"
+generated_at: "2026-03-29T17:52:18.886Z"
 ---
 
 # § 1851. Criminal sanctions

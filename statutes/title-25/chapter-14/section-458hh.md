@@ -1,12 +1,14 @@
 ---
-title: "Section 458hh - Transferred"
+title: "Section 458hh - Authorization of appropriations"
 usc_title: 25
 usc_section: "458hh"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 458hh"
-generated_at: "2026-03-29T02:13:20.863Z"
+generated_at: "2026-03-29T17:52:05.978Z"
 ---
 
-# § 458hh. Transferred
+# § 458hh. Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out this part.
 

@@ -1,14 +1,14 @@
 ---
-title: "Section 6691 - Supplement, not supplant"
+title: "Section 6691 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6691"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6691"
-generated_at: "2026-03-29T02:12:17.461Z"
+generated_at: "2026-03-29T17:51:48.616Z"
 ---
 
-# § 6691. Supplement, not supplant
+# § 6691. Authorization of appropriations
 
-Funds made available under this subchapter shall be used to supplement, and not supplant, non-Federal funds that would otherwise be used for activities authorized under this subchapter.
-
+- **(a)** There are authorized to be appropriated to carry out this subpart $150,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+- **(b)** From the funds appropriated to carry out this subpart for fiscal year 2002, the Secretary shall reserve not more than $30,000,000 to carry out division A of this subpart.

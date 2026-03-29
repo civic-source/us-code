@@ -3,9 +3,9 @@ title: "Section 2403 - Memorial areas"
 usc_title: 38
 usc_section: "2403"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 2403"
-generated_at: "2026-03-29T02:14:50.391Z"
+generated_at: "2026-03-29T17:52:53.731Z"
 ---
 
 # § 2403. Memorial areas
@@ -18,6 +18,3 @@ generated_at: "2026-03-29T02:14:50.391Z"
   - **(5)** whose remains were cremated and the ashes scattered without interment of any portion of the ashes.
 - **(b)** Under regulations prescribed by the Secretary, group memorials may be placed to honor the memory of groups of individuals referred to in subsection (a), and appropriate memorial headstones and markers may be placed to honor the memory of individuals referred to in subsection (a) and section 2306(b) of this title .
 - **(c)** All national and other veterans’ cemeteries under the control of the National Cemetery Administration shall be considered national shrines as a tribute to our gallant dead and, notwithstanding the provisions of any other law, the Secretary is hereby authorized to permit appropriate officials to fly the flag of the United States of America at such cemeteries twenty-four hours each day.
-- **(d)**
-  - **(1)** Subject to standards established by the Secretary, the Secretary shall permit the display of a Fallen Soldier Display in any national cemetery.
-  - **(2)** In this subsection, the term “Fallen Soldier Display” means a memorial monument in honor of fallen members of the Armed Forces that may include a replica of an inverted rifle, boots, helmets, and identification tag.

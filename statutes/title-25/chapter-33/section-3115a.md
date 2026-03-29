@@ -3,14 +3,14 @@ title: "Section 3115a - Tribal forest assets protection"
 usc_title: 25
 usc_section: "3115a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 3115a"
-generated_at: "2026-03-29T02:13:20.964Z"
+generated_at: "2026-03-29T17:52:06.142Z"
 ---
 
 # § 3115a. Tribal forest assets protection
 
-- **(a)** In this Act:
+- **(a)** In this section:
   - **(1)** The term “Federal land” means—
     - **(A)** land of the National Forest System (as defined in section 1609(a) of title 16 ) administered by the Secretary of Agriculture, acting through the Chief of the Forest Service; and
     - **(B)** public lands (as defined in section 1702 of title 43 ), the surface of which is administered by the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
@@ -21,17 +21,17 @@ generated_at: "2026-03-29T02:13:20.964Z"
         - **(I)** is Indian forest land (as defined in section 3103 of this title ); or
         - **(II)** has a cover of grasses, brush, or any similar vegetation; or
       - **(ii)** formerly had a forest cover or vegetative cover that is capable of restoration.
-  - **(3)** The term “Indian tribe” has the meaning given the term in section 5304 of this title .
+  - **(3)** The term “Indian tribe” has the meaning given the term in section 450b of this title .
   - **(4)** The term “Secretary” means—
     - **(A)** the Secretary of Agriculture, with respect to land under the jurisdiction of the Forest Service; and
     - **(B)** the Secretary of the Interior, with respect to land under the jurisdiction of the Bureau of Land Management.
 - **(b)**
-  - **(1)** Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c), the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
+  - **(1)** Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c) of this section, the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
   - **(2)** Following completion of any necessary environmental analysis, the Secretary may enter into an agreement or contract with the Indian tribe as described in paragraph (1).
   - **(3)** Under an agreement or contract entered into under paragraph (2), the Indian tribe may carry out activities to achieve land management goals for Federal land that is—
     - **(A)** under the jurisdiction of the Secretary; and
     - **(B)** bordering or adjacent to the Indian forest land or rangeland under the jurisdiction of the Indian tribe.
-- **(c)** The criteria referred to in subsection (b), with respect to an Indian tribe, are whether—
+- **(c)** The criteria referred to in subsection (b) of this section, with respect to an Indian tribe, are whether—
   - **(1)** the Indian forest land or rangeland under the jurisdiction of the Indian tribe borders on or is adjacent to land under the jurisdiction of the Forest Service or the Bureau of Land Management;
   - **(2)** Forest Service or Bureau of Land Management land bordering on or adjacent to the Indian forest land or rangeland under the jurisdiction of the Indian tribe—
     - **(A)** poses a fire, disease, or other threat to—
@@ -40,11 +40,11 @@ generated_at: "2026-03-29T02:13:20.964Z"
     - **(B)** is in need of land restoration activities;
   - **(3)** the agreement or contracting activities applied for by the Indian tribe are not already covered by a stewardship contract or other instrument that would present a conflict on the subject land; and
   - **(4)** the Forest Service or Bureau of Land Management land described in the application of the Indian tribe presents or involves a feature or circumstance unique to that Indian tribe (including treaty rights or biological, archaeological, historical, or cultural circumstances).
-- **(d)** If the Secretary denies a tribal request under subsection (b)(1), the Secretary may issue a notice of denial to the Indian tribe, which—
+- **(d)** If the Secretary denies a tribal request under subsection (b)(1) of this section, the Secretary may issue a notice of denial to the Indian tribe, which—
   - **(1)** identifies the specific factors that caused, and explains the reasons that support, the denial;
   - **(2)** identifies potential courses of action for overcoming specific issues that led to the denial; and
   - **(3)** proposes a schedule of consultation with the Indian tribe for the purpose of developing a strategy for protecting the Indian forest land or rangeland of the Indian tribe and interests of the Indian tribe in Federal land.
-- **(e)** In entering into an agreement or contract in response to a request of an Indian tribe under subsection (b)(1), the Secretary may—
+- **(e)** In entering into an agreement or contract in response to a request of an Indian tribe under subsection (b)(1) of this section, the Secretary may—
   - **(1)** use a best-value basis; and
   - **(2)** give specific consideration to tribally-related factors in the proposal of the Indian tribe, including—
     - **(A)** the status of the Indian tribe as an Indian tribe;
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T02:13:20.964Z"
     - **(F)** the features of the landscape of the land subject to the proposal, including watersheds and vegetation types;
     - **(G)** the working relationships between the Indian tribe and Federal agencies in coordinating activities affecting the land subject to the proposal; and
     - **(H)** the access by members of the Indian tribe to the land subject to the proposal.
-- **(f)** Nothing in this Act—
-  - **(1)** prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )) or other authority invoked pursuant to this Act; or
+- **(f)** Nothing in this section—
+  - **(1)** prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )) or other authority invoked pursuant to this section; or
   - **(2)** invalidates any agreement or contract under that authority.
-- **(g)** Not later than 4 years after July 22, 2004 , the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this Act.
+- **(g)** Not later than 4 years after July 22, 2004 , the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this section.

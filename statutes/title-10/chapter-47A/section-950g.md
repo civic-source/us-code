@@ -3,9 +3,9 @@ title: "Section 950g - Review by United States Court of Appeals for the District
 usc_title: 10
 usc_section: "950g"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 950g"
-generated_at: "2026-03-29T02:10:44.939Z"
+generated_at: "2026-03-29T17:50:56.989Z"
 ---
 
 # § 950g. Review by United States Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court

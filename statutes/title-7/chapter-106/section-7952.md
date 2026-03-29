@@ -3,9 +3,9 @@ title: "Section 7952 - Establishment of payment yield and base acres for peanuts
 usc_title: 7
 usc_section: "7952"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7952"
-generated_at: "2026-03-29T02:10:17.178Z"
+generated_at: "2026-03-29T17:50:48.882Z"
 ---
 
 # § 7952. Establishment of payment yield and base acres for peanuts for a farm
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T02:10:17.178Z"
     - **(B)** when an entity composed of historic peanut producers has been dissolved; or
     - **(C)** in other appropriate situations, as determined by the Secretary.
 - **(b)**
-  - **(1)** The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
-  - **(2)** Notwithstanding paragraph (1), the average acreage determined under subsection (a)(2) for a farm may not be assigned to a farm in a contiguous State unless—
+  - **(1)** The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) of this section for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
+  - **(2)** Notwithstanding paragraph (1), the average acreage determined under subsection (a)(2) of this section for a farm may not be assigned to a farm in a contiguous State unless—
     - **(A)** the historic peanut producer making the assignment produced peanuts in that State during at least 1 of the 1998 through 2001 crop years; or
     - **(B)** as of March 31, 2003 , the historic peanut producer is a producer on a farm in that State.
   - **(3)** The Secretary shall provide notice to historic peanut producers regarding their opportunity to assign average peanut yields and average acreages to farms under paragraph (1). The notice shall include the following:
@@ -35,17 +35,17 @@ generated_at: "2026-03-29T02:10:17.178Z"
     - **(B)** A description of the limitation in paragraph (2) on their ability to make the assignments.
     - **(C)** Information regarding the manner in which the assignments must be made and the time periods and manner in which notice of the assignments must be submitted to the Secretary.
   - **(4)** Not later than March 31, 2003 , an historic peanut producer shall submit to the Secretary notice of the assignments made by the producer under this subsection. If an historic peanut producer fails to submit the notice by that date, the notice shall be submitted in such other manner as the Secretary may prescribe.
-- **(c)** The average of all of the yields assigned by historic peanut producers under subsection (b) to a farm shall be considered to be the payment yield for that farm for the purpose of making direct payments and counter-cyclical payments under this subchapter.
-- **(d)** Subject to subsection (e), the total number of acres assigned by historic peanut producers under subsection (b) to a farm shall be considered to be the farm’s base acres for peanuts for the purpose of making direct payments and counter-cyclical payments under this subchapter.
+- **(c)** The average of all of the yields assigned by historic peanut producers under subsection (b) of this section to a farm shall be considered to be the payment yield for that farm for the purpose of making direct payments and counter-cyclical payments under this subchapter.
+- **(d)** Subject to subsection (e) of this section, the total number of acres assigned by historic peanut producers under subsection (b) of this section to a farm shall be considered to be the farm’s base acres for peanuts for the purpose of making direct payments and counter-cyclical payments under this subchapter.
 - **(e)**
   - **(1)** The Secretary shall provide for an adjustment, as appropriate, in the base acres for peanuts for a farm whenever either of the following circumstances occur:
     - **(A)** A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 ( 16 U.S.C. 3831 ) with respect to the farm expires or is voluntarily terminated.
     - **(B)** Cropland is released from coverage under a conservation reserve contract by the Secretary.
   - **(2)** For the crop year in which a base acres for peanuts adjustment under paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
 - **(f)**
-  - **(1)** If the sum of the base acres for peanuts for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities under subchapter I for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+  - **(1)** If the sum of the base acres for peanuts for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for peanuts for the farm or the base acres for 1 or more covered commodities under subchapter I of this chapter for the farm so that the sum of the base acres for peanuts and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
   - **(2)** For purposes of paragraph (1), the Secretary shall include the following:
-    - **(A)** Any base acres for the farm under subchapter I.
+    - **(A)** Any base acres for the farm under subchapter I of this chapter.
     - **(B)** Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3830 et seq.).
     - **(C)** Any other acreage on the farm enrolled in a conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
   - **(3)** The Secretary shall give the owner of the farm the opportunity to select the base acres for peanuts or the subchapter I base acres against which the reduction required by paragraph (1) will be made.

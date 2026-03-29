@@ -3,12 +3,12 @@ title: "Section 348 - Entries under land laws not affected"
 usc_title: 16
 usc_section: "348"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 348"
-generated_at: "2026-03-29T02:11:53.366Z"
+generated_at: "2026-03-29T17:51:56.489Z"
 ---
 
 # § 348. Entries under land laws not affected
 
-Nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral, right of way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land.
+Nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, prior to February 26, 1917 , whether for homestead, mineral, right of way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land.
 

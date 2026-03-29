@@ -3,9 +3,9 @@ title: "Section 458 - Office of Counternarcotics Enforcement"
 usc_title: 6
 usc_section: "458"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 458"
-generated_at: "2026-03-29T02:10:05.009Z"
+generated_at: "2026-03-29T17:50:39.346Z"
 ---
 
 # § 458. Office of Counternarcotics Enforcement
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:10:05.009Z"
   - **(3)** to recommend the appropriate financial and personnel resources necessary to help the Department better fulfill its responsibility to stop the entry of illegal drugs into the United States;
   - **(4)** within the Joint Terrorism Task Force construct to track and sever connections between illegal drug trafficking and terrorism; and
   - **(5)** to be a representative of the Department on all task forces, committees, or other entities whose purpose is to coordinate the counternarcotics enforcement activities of the Department and other Federal, State or local agencies.
-- **(e)** Nothing in this section shall be construed to authorize direct control of the operations conducted by the Directorate of Border and Transportation Security, 1 1 See References in Text note below. the Coast Guard, or joint terrorism task forces.
+- **(e)** Nothing in this section shall be construed to authorize direct control of the operations conducted by the Directorate of Border and Transportation Security, the Coast Guard, or joint terrorism task forces.
 - **(f)**
   - **(1)** The Director of the Office of Counternarcotics Enforcement shall, not later than 30 days after the submission by the President to Congress of any request for expenditures for the Department, submit to the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate a review and evaluation of such request. The review and evaluation shall—
     - **(A)** identify any request or subpart of any request that affects or may affect the counternarcotics activities of the Department or any of its subdivisions, or that affects the ability of the Department or any subdivision of the Department to meet its responsibility to stop the entry of illegal drugs into the United States;

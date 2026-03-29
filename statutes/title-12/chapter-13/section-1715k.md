@@ -3,9 +3,9 @@ title: "Section 1715k - Rehabilitation and neighborhood conservation housing ins
 usc_title: 12
 usc_section: "1715k"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1715k"
-generated_at: "2026-03-29T02:11:20.947Z"
+generated_at: "2026-03-29T17:51:13.057Z"
 ---
 
 # § 1715k. Rehabilitation and neighborhood conservation housing insurance
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T02:11:20.947Z"
     - **(C)** the term “financial institution” means a lender approved by the Secretary as eligible for insurance under section 1703 of this title or a mortgagee approved under section 1709(b)(1) of this title .
   - **(2)** To be eligible for insurance under this subsection, a home improvement loan shall—
       - **(i)** not exceed the Secretary’s estimate of the cost of improvement, or $12,000 per family unit, whichever is the lesser, and be limited as required by paragraph (11): Provided , That the Secretary may, by regulation, increase such amount by not to exceed 45 per centum in any geographical area where he finds that cost levels so require;
-      - **(ii)** be limited to an amount which when added to any outstanding indebtedness related to the property (as determined by the Secretary) creates a total outstanding indebtedness which does not exceed the limits provided in subsection (d)(3) for properties (of the same type) other than new construction;
+      - **(ii)** be limited to an amount which when added to any outstanding indebtedness related to the property (as determined by the Secretary) creates a total outstanding indebtedness which does not exceed the limits provided in subsection (d)(3) of this section for properties (of the same type) other than new construction;
       - **(iii)** bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee;
       - **(iv)** have a maturity satisfactory to the Secretary, but not to exceed twenty years from the beginning of amortization of the loan;
       - **(v)** comply with such other terms, conditions, and restrictions as the Secretary may prescribe; and

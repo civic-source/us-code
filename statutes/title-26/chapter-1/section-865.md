@@ -3,9 +3,9 @@ title: "Section 865 - Source rules for personal property sales"
 usc_title: 26
 usc_section: "865"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 865"
-generated_at: "2026-03-29T02:14:01.061Z"
+generated_at: "2026-03-29T17:52:39.312Z"
 ---
 
 # § 865. Source rules for personal property sales
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T02:14:01.061Z"
 - **(h)**
   - **(1)** In the case of gain to which this subsection applies—
     - **(A)** such gain shall be sourced outside the United States, but
-    - **(B)** subsections (a), (b), and (c) of section 904 and sections 907 and 960 shall be applied separately with respect to such gain.
+    - **(B)** subsections (a), (b), and (c) of section 904 and sections 902, 907, and 960 shall be applied separately with respect to such gain.
   - **(2)** This subsection shall apply to—
     - **(A)** Any gain—
       - **(i)** which is from the sale of stock in a foreign corporation or an intangible (as defined in subsection (d)(2)) and which would otherwise be sourced in the United States under this section,
@@ -84,7 +84,7 @@ generated_at: "2026-03-29T02:14:01.061Z"
 - **(j)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of this section, including regulations—
   - **(1)** relating to the treatment of losses from sales of personal property,
   - **(2)** applying the rules of this section to income derived from trading in futures contracts, forward contracts, options contracts, and other instruments, and
-  - **(3)** providing that, subject to such conditions (which may include provisions comparable to section 877) as may be provided in such regulations, subsections (e)(1)(B) and (g)(2) shall not apply for purposes of sections 931 and 933.
+  - **(3)** providing that, subject to such conditions (which may include provisions comparable to section 877) as may be provided in such regulations, subsections (e)(1)(B) and (g)(2) shall not apply for purposes of sections 931, 933, and 936.
 - **(k)**
   - **(1)** For provisions relating to the characterization as dividends for source purposes of gains from the sale of stock in certain foreign corporations, see section 1248.
   - **(2)** For sourcing of income from certain foreign currency transactions, see section 988.

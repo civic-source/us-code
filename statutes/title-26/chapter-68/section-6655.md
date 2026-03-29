@@ -3,9 +3,9 @@ title: "Section 6655 - Failure by corporation to pay estimated income tax"
 usc_title: 26
 usc_section: "6655"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6655"
-generated_at: "2026-03-29T02:14:01.359Z"
+generated_at: "2026-03-29T17:52:39.583Z"
 ---
 
 # § 6655. Failure by corporation to pay estimated income tax
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:14:01.359Z"
     - **(A)** the required installment, over
     - **(B)** the amount (if any) of the installment paid on or before the due date for the installment.
   - **(2)** The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier—
-    - **(A)** the 15th day of the 4th month following the close of the taxable year, or
+    - **(A)** the 15th day of the 3rd month following the close of the taxable year, or
     - **(B)** with respect to any portion of the underpayment, the date on which such portion is paid.
   - **(3)** For purposes of paragraph (2)(B), a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
 - **(c)** For purposes of this section—
@@ -40,16 +40,16 @@ generated_at: "2026-03-29T02:14:01.359Z"
     - **(B)** any reduction in a required installment resulting from the application of this paragraph shall be recaptured by increasing the amount of the next required installment determined under subsection (d)(1) (as so modified) by the amount of such reduction (and by increasing subsequent required installments to the extent that the reduction has not previously been recaptured under this subparagraph).
   - **(2)**
     - **(A)** In the case of any required installment, the annualized income installment is the excess (if any) of—
-      - **(i)** an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, adjusted financial statement income (as defined in section 56A), and modified taxable income—
+      - **(i)** an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, alternative minimum taxable income, and modified alternative minimum taxable income—
         - **(I)** for the first 3 months of the taxable year, in the case of the 1st required installment,
         - **(II)** for the first 3 months of the taxable year, in the case of the 2nd required installment,
         - **(III)** for the first 6 months of the taxable year in the case of the 3rd required installment, and
         - **(IV)** for the first 9 months of the taxable year, in the case of the 4th required installment, over
       - **(ii)** the aggregate amount of any prior required installments for the taxable year.
     - **(B)** For purposes of this paragraph—
-      - **(i)** The taxable income, adjusted financial statement income (as defined in section 56A), and modified taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
-      - **(ii)** In the case of the following required installments: The applicable percentage is: 1st 25 2nd 50 3rd 75 4th 100.
-      - **(iii)** The term “modified taxable income” has the meaning given such term by section 59A(c)(1).
+      - **(i)** The taxable income, alternative minimum taxable income, and modified alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+      - **(ii)** In the case of the following The applicable required installments: percentage is: 1st 25 2nd 50 3rd 75 4th 100.
+      - **(iii)** The term “modified alternative minimum taxable income” has the meaning given to such term by section 59A(b).
     - **(C)**
       - **(i)** If the taxpayer makes an election under this clause—
         - **(I)** subclause (I) of subparagraph (A)(i) shall be applied by substituting “2 months” for “3 months”,
@@ -76,7 +76,7 @@ generated_at: "2026-03-29T02:14:01.359Z"
       - **(ii)** The term “filing month” means the month in which the installment is required to be paid.
       - **(iii)** The Secretary may by regulations provide for the determination of the base period percentage in the case of reorganizations, new corporations, and other similar circumstances.
   - **(4)**
-    - **(A)** Any amounts required to be included in gross income under section 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under paragraph (2) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+    - **(A)** Any amounts required to be included in gross income under section 936(h) or 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under paragraph (2) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
     - **(B)**
       - **(i)** If a taxpayer elects to have this subparagraph apply for any taxable year—
         - **(I)** subparagraph (A) shall not apply, and
@@ -91,7 +91,7 @@ generated_at: "2026-03-29T02:14:01.359Z"
 - **(g)**
   - **(1)** For purposes of this section, the term “tax” means the excess of—
     - **(A)** the sum of—
-      - **(i)** the tax imposed by section 11 or subchapter L of chapter 1, whichever applies,
+      - **(i)** the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever applies,
       - **(ii)** the tax imposed by section 55,
       - **(iii)** the tax imposed by section 59A, plus
       - **(iv)** the tax imposed by section 887, over
@@ -108,7 +108,7 @@ generated_at: "2026-03-29T02:14:01.359Z"
     - **(C)** Any reference to taxable income shall be treated as including a reference to unrelated business taxable income or net investment income (as the case may be).
   - **(4)** In the case of an S corporation, for purposes of this section—
     - **(A)** The following taxes shall be treated as imposed by section 11:
-      - **(i)** The tax imposed by section 1374(a).
+      - **(i)** The tax imposed by section 1374(a) (or the corresponding provisions of prior law).
       - **(ii)** The tax imposed by section 1375(a).
       - **(iii)** Any tax for which the S corporation is liable by reason of section 1371(d)(2).
     - **(B)** Paragraph (2) of subsection (d) shall not apply.
@@ -117,10 +117,9 @@ generated_at: "2026-03-29T02:14:01.359Z"
         - **“(I)** the amount determined under clause (i) by only taking into account the taxes referred to in clauses (i) and (iii) of subsection (g)(4)(A), and
         - **“(II)** 100 percent of the tax imposed by section 1375(a) which was shown on the return of the corporation for the preceding taxable year.”
     - **(D)** The requirement in the last sentence of subsection (d)(1)(B) that the return for the preceding taxable year show a liability for tax shall not apply.
-    - **(E)** Subsection (b)(2)(A) shall be applied by substituting “3rd month” for “4th month”.
-    - **(F)** Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
+    - **(E)** Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
 - **(h)**
-  - **(1)** If the amount of an adjustment under section 6425 made before the 15th day of the 4th month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
+  - **(1)** If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
   - **(2)** For purposes of paragraph (1), the excessive amount is equal to the amount of the adjustment or (if smaller) the amount by which—
     - **(A)** the income tax liability (as defined in section 6425(c)) for the taxable year as shown on the return for the taxable year, exceeds
     - **(B)** the estimated income tax paid during the taxable year, reduced by the amount of the adjustment.

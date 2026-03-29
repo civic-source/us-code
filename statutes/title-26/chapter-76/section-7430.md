@@ -3,9 +3,9 @@ title: "Section 7430 - Awarding of costs and certain fees"
 usc_title: 26
 usc_section: "7430"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7430"
-generated_at: "2026-03-29T02:14:01.383Z"
+generated_at: "2026-03-29T17:52:39.606Z"
 ---
 
 # § 7430. Awarding of costs and certain fees
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T02:14:01.383Z"
   - **(7)** The term “position of the United States” means—
     - **(A)** the position taken by the United States in a judicial proceeding to which subsection (a) applies, and
     - **(B)** the position taken in an administrative proceeding to which subsection (a) applies as of the earlier of—
-      - **(i)** the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Independent Office of Appeals, or
+      - **(i)** the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or
       - **(ii)** the date of the notice of deficiency.
 - **(d)**
   - **(1)** An award for reasonable administrative costs shall be payable out of funds appropriated under section 1304 of title 31 , United States Code.
@@ -85,5 +85,5 @@ generated_at: "2026-03-29T02:14:01.383Z"
     - **(C)** is designated at the time it is made as a qualified offer for purposes of this section; and
     - **(D)** remains open during the period beginning on the date it is made and ending on the earliest of the date the offer is rejected, the date the trial begins, or the 90th day after the date the offer is made.
   - **(2)** For purposes of this subsection, the term “qualified offer period” means the period—
-    - **(A)** beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, and
+    - **(A)** beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, and
     - **(B)** ending on the date which is 30 days before the date the case is first set for trial.

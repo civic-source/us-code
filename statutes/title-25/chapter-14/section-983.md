@@ -1,12 +1,19 @@
 ---
-title: "Section 983 - Omitted"
+title: "Section 983 - Definitions"
 usc_title: 25
 usc_section: "983"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 983"
-generated_at: "2026-03-29T02:13:20.870Z"
+generated_at: "2026-03-29T17:52:06.034Z"
 ---
 
-# § 983. Omitted
+# § 983. Definitions
 
+For purposes of this subchapter—
+
+  - **(1)** The term “Tribe” means the Ponca Tribe of Nebraska.
+  - **(2)** The term “Secretary” means the Secretary of the Interior or the designated representative of the Secretary of the Interior.
+  - **(3)** The term “Interim Council” means the Board of Directors of the Northern Ponca Restoration Committee, Inc.
+  - **(4)** The term “member” means a person who is enrolled on the membership roll of the Tribe of June 10, 1965 , that was compiled by the Bureau of Indian Affairs or is entitled to be enrolled as a member of the Tribe under section 983e of this title .
+  - **(5)** The term “State” means the State of Nebraska.

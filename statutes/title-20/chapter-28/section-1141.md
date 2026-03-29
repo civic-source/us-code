@@ -3,9 +3,9 @@ title: "Section 1141 - College access challenge grant program"
 usc_title: 20
 usc_section: "1141"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1141"
-generated_at: "2026-03-29T02:12:17.315Z"
+generated_at: "2026-03-29T17:51:48.459Z"
 ---
 
 # § 1141. College access challenge grant program
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T02:12:17.315Z"
     - **(F)** Professional development for guidance counselors at middle schools and secondary schools, and financial aid administrators and college admissions counselors at institutions of higher education, to improve such individuals’ capacity to assist students and parents with—
       - **(i)** understanding—
         - **(I)** entrance requirements for admission to institutions of higher education; and
-        - **(II)** State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 2 2 See References in Text note below. of this title, and other financial assistance that is dependent upon a student’s coursework;
+        - **(II)** State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 of this title , and other financial assistance that is dependent upon a student’s coursework;
       - **(ii)** applying to institutions of higher education;
       - **(iii)** applying for Federal student financial assistance and other State, local, and private student financial assistance and scholarships;
       - **(iv)** activities that increase students’ ability to successfully complete the coursework required for a postsecondary degree, including activities such as tutoring or mentoring; and
@@ -72,13 +72,13 @@ generated_at: "2026-03-29T02:12:17.315Z"
       - **(iii)** the servicer of such loan; or
       - **(iv)** the student’s academic performance;
     - **(C)** not charge any student or parent a fee or additional charge to participate in the activities or services; and
-    - **(D)** in the case of an activity providing grant aid, not require a student to meet any condition other than eligibility for Federal financial assistance under subchapter IV of this chapter, except as provided for in the loan cancellation or repayment or interest rate reductions described in subsection (f)(1)(G).
+    - **(D)** in the case of an activity providing grant aid, not require a student to meet any condition other than eligibility for Federal financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, except as provided for in the loan cancellation or repayment or interest rate reductions described in subsection (f)(1)(G).
   - **(2)** A grantee receiving a grant payment under this section shall, in carrying out any activity or service described in subsection (f)(1) with the grant funds, prioritize students and families who are living below the poverty line applicable to the individual’s family size (as determined under section 9902(2) of title 42 ).
   - **(3)**
     - **(A)** In the case of a State that has chosen to make a payment to an eligible not-for-profit holder in the State in accordance with subsection (e), the holder shall clearly and prominently indicate the name of the holder and the nature of the holder’s work in connection with any of the activities carried out, or any information or services provided, with such funds.
     - **(B)** Any information about financing options for higher education provided through an activity or service funded under this section shall—
       - **(i)** include information to students and the students’ parents of the availability of Federal, State, local, institutional, and other grants and loans for postsecondary education; and
-      - **(ii)** present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter in a manner that is clearly distinct from information on student financial assistance under such subchapter IV.
+      - **(ii)** present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in a manner that is clearly distinct from information on student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
   - **(4)** A grantee receiving a grant payment under this section shall attempt to coordinate the activities carried out with the grant payment with any existing activities that are similar to such activities, and with any other entities that support the existing activities in the State.
 - **(h)** A grantee receiving a payment under this section shall prepare and submit an annual report to the Secretary on the activities and services carried out under this section, and on the implementation of such activities and services. The report shall include—
   - **(1)** each activity or service that was provided to students and families over the course of the year;
@@ -87,7 +87,7 @@ generated_at: "2026-03-29T02:12:17.315Z"
   - **(4)** the total contributions from private organizations included in the grantee’s non-Federal share for the fiscal year.
 - **(i)** In this section:
   - **(1)** The term “philanthropic organization” means a non-profit organization—
-    - **(A)** that does not receive funds under subchapter IV of this chapter or under the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.];
+    - **(A)** that does not receive funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 or under the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.];
     - **(B)** that is not a local educational agency or an institution of higher education;
     - **(C)** that has a demonstrated record of dispersing grant aid to underserved populations to ensure access to, and participation in, higher education;
     - **(D)** that is affiliated with an eligible consortium (as defined in paragraph (2)) to carry out this section; and

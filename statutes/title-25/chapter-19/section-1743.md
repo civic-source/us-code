@@ -1,12 +1,17 @@
 ---
-title: "Section 1743 - Omitted"
+title: "Section 1743 - Findings by the Secretary"
 usc_title: 25
 usc_section: "1743"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1743"
-generated_at: "2026-03-29T02:13:20.913Z"
+generated_at: "2026-03-29T17:52:06.085Z"
 ---
 
-# § 1743. Omitted
+# § 1743. Findings by the Secretary
 
+Section 1744 of this title shall not take effect until the Secretary finds that the following events have occurred:
+
+  - **(1)** the State of Florida has enacted legislation appropriating sufficient money to pay, and in fact has paid, the settlement funds to the Miccosukee Tribe;
+  - **(2)** the State of Florida and the Miccosukee Tribe have executed the Lease Agreement; and
+  - **(3)** the State of Florida has enacted appropriate legislation to carry out its commitments under paragraph 1b of the Settlement Agreement between the State of Florida and the Miccosukee Tribe and has given the waiver specified in paragraph 4d of such Agreement.

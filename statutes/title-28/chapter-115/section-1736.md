@@ -3,9 +3,9 @@ title: "Section 1736 - Congressional Journals"
 usc_title: 28
 usc_section: "1736"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "28 U.S.C. § 1736"
-generated_at: "2026-03-29T02:14:04.560Z"
+generated_at: "2026-03-29T17:52:24.224Z"
 ---
 
 # § 1736. Congressional Journals

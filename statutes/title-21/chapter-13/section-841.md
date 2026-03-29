@@ -3,9 +3,9 @@ title: "Section 841 - Prohibited acts A"
 usc_title: 21
 usc_section: "841"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 841"
-generated_at: "2026-03-29T02:12:28.151Z"
+generated_at: "2026-03-29T17:52:03.957Z"
 ---
 
 # § 841. Prohibited acts A
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:12:28.151Z"
       - **(iii)** 280 grams or more of a mixture or substance described in clause (ii) which contains cocaine base;
       - **(iv)** 100 grams or more of phencyclidine (PCP) or 1 kilogram or more of a mixture or substance containing a detectable amount of phencyclidine (PCP);
       - **(v)** 10 grams or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
-      - **(vi)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
+      - **(vi)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide;
       - **(vii)** 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana, or 1,000 or more marihuana plants regardless of weight; or
       - **(viii)** 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers;
     - **(B)** In the case of a violation of subsection (a) of this section involving—
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T02:12:28.151Z"
       - **(iii)** 28 grams or more of a mixture or substance described in clause (ii) which contains cocaine base;
       - **(iv)** 10 grams or more of phencyclidine (PCP) or 100 grams or more of a mixture or substance containing a detectable amount of phencyclidine (PCP);
       - **(v)** 1 gram or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
-      - **(vi)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
+      - **(vi)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide;
       - **(vii)** 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana, or 100 or more marihuana plants regardless of weight; or
       - **(viii)** 5 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 50 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers;
     - **(C)** In the case of a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or 1 gram of flunitrazepam, except as provided in subparagraphs (A), (B), and (D), such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18 , any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this subparagraph which provide for a mandatory term of imprisonment if death or serious bodily injury results, nor shall a person so sentenced be eligible for parole during the term of such a sentence.
@@ -55,12 +55,12 @@ generated_at: "2026-03-29T02:12:28.151Z"
     - **(B)** the amount authorized in accordance with the provisions of title 18;
     - **(C)** $500,000 if the defendant is an individual; or
     - **(D)** $1,000,000 if the defendant is other than an individual;
-  - **(6)** Any person who violates subsection (a), or attempts to do so, and knowingly or intentionally uses a poison, chemical, or other hazardous substance on Federal land, and, by such use—
+  - **(6)** Any person who violates subsection (a) of this section, or attempts to do so, and knowingly or intentionally uses a poison, chemical, or other hazardous substance on Federal land, and, by such use—
     - **(A)** creates a serious hazard to humans, wildlife, or domestic animals,
     - **(B)** degrades or harms the environment or natural resources, or
     - **(C)** pollutes an aquifer, spring, stream, river, or body of water,
   - **(7)**
-    - **(A)** Whoever, with intent to commit a crime of violence, as defined in section 16 of title 18 (including rape), against an individual, violates subsection (a) by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
+    - **(A)** Whoever, with intent to commit a crime of violence, as defined in section 16 of title 18 (including rape), against an individual, violates subsection (a) of this section by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
     - **(B)** For purposes of this paragraph, the term “without that individual’s knowledge” means that the individual is unaware that a substance with the ability to alter that individual’s ability to appraise conduct or to decline participation in or communicate unwillingness to participate in conduct is administered to the individual.
 - **(c)** Any person who knowingly or intentionally—
   - **(1)** possesses a listed chemical with intent to manufacture a controlled substance except as authorized by this subchapter;
@@ -94,9 +94,9 @@ generated_at: "2026-03-29T02:12:28.151Z"
     - **(A)** deliver, distribute, or dispense a controlled substance by means of the Internet, except as authorized by this subchapter; or
     - **(B)** aid or abet (as such terms are used in section 2 of title 18 ) any activity described in subparagraph (A) that is not authorized by this subchapter.
   - **(2)** Examples of activities that violate paragraph (1) include, but are not limited to, knowingly or intentionally—
-    - **(A)** delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by section 823(g) of this title (unless exempt from such registration);
-    - **(B)** writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of section 829(e) of this title ;
-    - **(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 2 2 So in original. Probably should be “section”. 823(g) or 829(e) of this title;
+    - **(A)** delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by section 823(f) of this title (unless exempt from such registration);
+    - **(B)** writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of section 829(e) of the title;
+    - **(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 2 2 So in original. Probably should be “section”. 823(f) or 829(e) of this title;
     - **(D)** offering to fill a prescription for a controlled substance based solely on a consumer’s completion of an online medical questionnaire; and
     - **(E)** making a material false, fictitious, or fraudulent statement or representation in a notification or declaration under subsection (d) or (e), respectively, of section 831 of this title .
   - **(3)**

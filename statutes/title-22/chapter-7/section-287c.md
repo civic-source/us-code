@@ -3,9 +3,9 @@ title: "Section 287c - Economic and communication sanctions pursuant to United N
 usc_title: 22
 usc_section: "287c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 287c"
-generated_at: "2026-03-29T02:12:39.967Z"
+generated_at: "2026-03-29T17:52:10.422Z"
 ---
 
 # § 287c. Economic and communication sanctions pursuant to United Nations Security Council Resolution
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:39.967Z"
 - **(a)** Notwithstanding the provisions of any other law, whenever the United States is called upon by the Security Council to apply measures which said Council has decided, pursuant to article 41 of said Charter, are to be employed to give effect to its decisions under said Charter, the President may, to the extent necessary to apply such measures, through any agency which he may designate, and under such orders, rules, and regulations as may be prescribed by him, investigate, regulate, or prohibit, in whole or in part, economic relations or rail, sea, air, postal, telegraphic, radio, and other means of communication between any foreign country or any national thereof or any person therein and the United States or any person subject to the jurisdiction thereof, or involving any property subject to the jurisdiction of the United States. Any Executive order which is issued under this subsection and which applies measures against Southern Rhodesia pursuant to any United Nations Security Council Resolution may be enforced, notwithstanding the provisions of any other law. The President may exempt from such Executive order any shipment of chromium in any form which is in transit to the United States on March 18, 1977 .
 - **(b)** Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be fined not more than $1,000,000 or, if a natural person, be imprisoned for not more than 20 years, or both.
 - **(c)**
-  - **(1)** During the period in which measures are applied against Southern Rhodesia under subsection (a) pursuant to any United Nations Security Council Resolution, a shipment of any steel mill product (as such product may be defined by the Secretary) containing chromium in any form may not be released from customs custody for entry into the United States if—
+  - **(1)** During the period in which measures are applied against Southern Rhodesia under subsection (a) of this section pursuant to any United Nations Security Council Resolution, a shipment of any steel mill product (as such product may be defined by the Secretary) containing chromium in any form may not be released from customs custody for entry into the United States if—
     - **(A)** a certificate of origin with respect to such shipment has not been filed with the Secretary; or
     - **(B)** in the case of a shipment with respect to which a certificate of origin has been filed with the Secretary, the Secretary determines that the information contained in such certificate does not adequately establish that the steel mill product in such shipment does not contain chromium in any form which is of Southern Rhodesian origin;
   - **(2)** The Secretary shall prescribe regulations for carrying out this subsection.

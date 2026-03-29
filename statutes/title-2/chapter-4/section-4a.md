@@ -3,9 +3,9 @@ title: "Section 4a - Omitted"
 usc_title: 2
 usc_section: "4a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4a"
-generated_at: "2026-03-29T02:09:53.633Z"
+generated_at: "2026-03-29T17:50:23.985Z"
 ---
 
 # § 61a–4a. Omitted

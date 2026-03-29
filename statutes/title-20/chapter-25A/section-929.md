@@ -1,12 +1,30 @@
 ---
-title: "Section 929 - Repealed. Pub. L. 114–328, div. A, title V, § 576 , Dec. 23, 2016 , 130 Stat. 2143"
+title: "Section 929 - Advisory Council on Dependents’ Education"
 usc_title: 20
 usc_section: "929"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 929"
-generated_at: "2026-03-29T02:12:17.162Z"
+generated_at: "2026-03-29T17:51:48.304Z"
 ---
 
-# § 929. Repealed. Pub. L. 114–328, div. A, title V, § 576 , Dec. 23, 2016 , 130 Stat. 2143
+# § 929. Advisory Council on Dependents’ Education
 
+- **(a)**
+  - **(1)** There is established in the Department of Defense an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the “Council”). The Council shall be composed of—
+    - **(A)** the Secretary of Defense and the Secretary of Education, or their respective designees;
+    - **(B)** 12 individuals appointed jointly by the Secretary of Defense and the Secretary of Education who shall be individuals who have demonstrated an interest in the field of primary or secondary education and who shall include representatives of professional employee organizations, school administrators, and parents of students enrolled in the defense dependents’ education system, and one student enrolled in such system; and
+    - **(C)** a representative of the Secretary of Defense and of the Secretary of Education.
+  - **(2)** Individuals appointed to the Council from professional employee organizations shall be individuals designated by those organizations.
+  - **(3)** The Secretary of Defense, or the Secretary’s designee, and the Secretary of Education, or the Secretary’s designee, shall serve as cochairmen of the Council.
+  - **(4)** The Director shall be the Executive Secretary of the Council.
+- **(b)** The term of office of each member of the Council appointed under subsection (a)(2) of this section shall be three years, except that—
+  - **(1)** of the members first appointed under such paragraph, four shall serve for a term of one year, four shall serve for a term of two years, and four shall serve for a term of three years, as determined by the Secretary of Defense and the Secretary of Education at the time of their appointment, and
+  - **(2)** any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
+- **(c)** The Council shall meet at least two times each year. The functions of the Council shall be to—
+  - **(1)** recommend to the Director general policies for operation of the defense dependents’ education system with respect to curriculum selection, administration, and operation of the system,
+  - **(2)** provide information to the Director from other Federal agencies concerned with primary and secondary education with respect to education programs and practices which such agencies have found to be effective and which should be considered for inclusion in the defense dependents’ education system,
+  - **(3)** advise the Director on the design of the study and the selection of the contractor referred to in section 930(a)(2) of this title , and
+  - **(4)** perform such other tasks as may be required by the Secretary of Defense.
+- **(d)** Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for level IV of the Executive Schedule under section 5315 of title 5 , including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
+- **(e)** The Council shall continue in existence until terminated by law.

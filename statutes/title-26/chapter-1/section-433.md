@@ -1,14 +1,14 @@
 ---
-title: "Section 433 - Minimum funding standards for CSEC plans"
+title: "Section 433 - Minimum funding standards"
 usc_title: 26
 usc_section: "433"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 433"
-generated_at: "2026-03-29T02:14:00.968Z"
+generated_at: "2026-03-29T17:52:39.243Z"
 ---
 
-# § 433. Minimum funding standards for CSEC plans
+# § 433. Minimum funding standards
 
 - **(a)** For purposes of section 412, the term “accumulated funding deficiency” for a CSEC plan means the excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which section 412 applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years.
 - **(b)**
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T02:14:00.968Z"
       - **(i)** No actuarial assumption (other than the assumptions described in subsection (h)(3)) used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary.
       - **(ii)** This subparagraph shall apply to a plan only if—
         - **(I)** the plan is a CSEC plan,
-        - **(II)** the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV of such Act (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+        - **(II)** the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV 1 1 So in original. Probably should be followed by “of such Act”. (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
         - **(III)** the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
   - **(6)** If, as of the close of a plan year, a plan would (without regard to this paragraph) have an accumulated funding deficiency (determined without regard to the alternative minimum funding standard account permitted under subsection (e)) in excess of the full funding limitation—
     - **(A)** the funding standard account shall be credited with the amount of such excess, and

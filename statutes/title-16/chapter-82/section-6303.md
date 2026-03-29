@@ -3,9 +3,9 @@ title: "Section 6303 - Great ape conservation assistance"
 usc_title: 16
 usc_section: "6303"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6303"
-generated_at: "2026-03-29T02:11:53.960Z"
+generated_at: "2026-03-29T17:51:57.019Z"
 ---
 
 # § 6303. Great ape conservation assistance
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:11:53.960Z"
 - **(c)**
   - **(1)** The Secretary shall—
     - **(A)** not later than 30 days after receiving a project proposal, provide a copy of the proposal to other appropriate Federal officials; and
-    - **(B)** review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d).
+    - **(B)** review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d) of this section.
   - **(2)** Not later than 180 days after receiving a project proposal, and subject to the availability of funds, the Secretary, after consulting with other appropriate Federal officials, shall—
     - **(A)** consult on the proposal with the government of each country in which the project is to be conducted;
     - **(B)** after taking into consideration any comments resulting from the consultation, approve or disapprove the proposal; and
@@ -55,17 +55,5 @@ generated_at: "2026-03-29T02:11:53.960Z"
   - **(1)** may not be used for captive breeding of great apes other than for captive breeding for release into the wild; and
   - **(2)** may be used for captive breeding of a species for release into the wild only if no other conservation method for the species is biologically feasible.
 - **(i)**
-  - **(1)** Not later than 1 year after March 12, 2019 , and every 5 years thereafter, the Secretary may convene a panel of experts on great apes to identify the greatest needs and priorities for the conservation of great apes.
-  - **(2)** The Secretary shall ensure that the panel referred to in paragraph (1) includes, to the maximum extent practicable, 1 or more representatives—
-    - **(A)** from each country that comprises the natural range of great apes; and
-    - **(B)** with expertise in great ape conservation.
-  - **(3)** In identifying the conservation needs and priorities under paragraph (1), the panel referred to in that paragraph shall consider any relevant great ape conservation plan or strategy, including scientific research and findings relating to—
-    - **(A)** the conservation needs and priorities of great apes;
-    - **(B)** any regional or species-specific action plan or strategy;
-    - **(C)** any applicable strategy developed or initiated by the Secretary; and
-    - **(D)** any other applicable conservation plan or strategy.
-  - **(4)** Subject to the availability of appropriations, the Secretary may use amounts available to the Secretary to pay for the costs of convening and facilitating any meeting of the panel referred to in paragraph (1).
-  - **(5)** Chapter 10 of title 5 shall not apply to a panel convened under paragraph (1).
-- **(j)**
-  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
-  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+  - **(1)** Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.
+  - **(2)** The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).

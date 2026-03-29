@@ -1,12 +1,14 @@
 ---
-title: "Section 492 - Transferred"
+title: "Section 492 - Interest rates and taxes"
 usc_title: 25
 usc_section: "492"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 492"
-generated_at: "2026-03-29T02:13:20.864Z"
+generated_at: "2026-03-29T17:52:05.991Z"
 ---
 
-# § 492. Transferred
+# § 492. Interest rates and taxes
+
+Loans made or insured pursuant to sections 488 to 494 of this title will be subject to the interest rate provisions of section 307(a)(3)(B) of the Consolidated Farmers Home Administration Act of 1961, as amended [ 7 U.S.C. 1927(a)(3)(B) ], and to the provisions of subtitle D of that Act [ 7 U.S.C. 1981 et seq.] except sections 340 [ 7 U.S.C. 1990 ], 341, 342 [ 7 U.S.C. 1013a ], and 343 [ 7 U.S.C. 1991 ] thereof: Provided , That section 334 [ 7 U.S.C. 1984 ] thereof shall not be construed to subject to taxation any lands or interests therein while they are held by an Indian tribe or tribal corporation or by the United States in trust for such tribe or tribal corporation pursuant to sections 488 to 494 of this title.
 

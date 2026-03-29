@@ -3,9 +3,9 @@ title: "Section 3152 - Grants and fellowships for food and agricultural sciences
 usc_title: 7
 usc_section: "3152"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3152"
-generated_at: "2026-03-29T02:10:16.987Z"
+generated_at: "2026-03-29T17:50:48.750Z"
 ---
 
 # § 3152. Grants and fellowships for food and agricultural sciences education
@@ -18,12 +18,12 @@ generated_at: "2026-03-29T02:10:16.987Z"
   - **(4)** to design and implement food and agricultural programs, or programs emphasizing rural economic, community, and business development, to build teaching, research, and extension capacity at colleges and universities having significant minority enrollments;
   - **(5)** to conduct undergraduate scholarship programs to meet national and international needs for training food and agricultural scientists and professionals, or professionals in rural economic, community, and business development; and
   - **(6)** to conduct graduate and postdoctoral fellowship programs to attract highly promising individuals to research or teaching careers in the food and agricultural sciences.
-- **(c)** In awarding grants under subsection (b), the Secretary shall give priority to—
+- **(c)** In awarding grants under subsection (b) of this section, the Secretary shall give priority to—
   - **(1)** applications for teaching enhancement projects that demonstrate enhanced coordination among all types of institutions eligible for funding under this section; and
   - **(2)** applications for teaching enhancement projects that focus on innovative, multidisciplinary education programs, material, and curricula.
 - **(d)**
-  - **(1)** To be eligible for a grant under subsection (b), a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences, or in rural economic, community, and business development, and to each specific subject area for which the grant is to be used.
-  - **(2)** The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b), and make such amounts available only for grants to eligible colleges and universities (including the University of the District of Columbia) that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
+  - **(1)** To be eligible for a grant under subsection (b) of this section, a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences, or in rural economic, community, and business development, and to each specific subject area for which the grant is to be used.
+  - **(2)** The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b) of this section, and make such amounts available only for grants to eligible colleges and universities (including the University of the District of Columbia) that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
   - **(3)** An eligible college or university under subsection (b) includes a research foundation maintained by the college or university.
 - **(e)** From amounts made available for grants under this section, the Secretary may maintain a national food and agricultural education information system that contains—
   - **(1)** information on enrollment, degrees awarded, faculty, and employment placement in the food and agricultural sciences; and
@@ -51,8 +51,8 @@ generated_at: "2026-03-29T02:10:16.987Z"
     - **(E)** to facilitate joint initiatives by the grant recipient with other secondary schools, institutions of higher education that award an associate’s degree, and institutions of higher education that award a bachelor’s degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education;
     - **(F)** to support other initiatives designed to meet local, State, regional, or national needs related to promoting excellence in agriscience and agribusiness education; and
     - **(G)** to support current agriculture in the classroom programs for grades K–12.
-- **(k)** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
+- **(k)** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
 - **(l)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 - **(m)** There are authorized to be appropriated for carrying out this section—
   - **(1)** $60,000,000 for each of fiscal years 1990 through 2013; and
-  - **(2)** $40,000,000 for each of fiscal years 2014 through 2023.
+  - **(2)** $40,000,000 for each of fiscal years 2014 through 2018.

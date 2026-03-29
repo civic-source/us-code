@@ -3,16 +3,16 @@ title: "Section 11a - Disposition of HUD-owned properties"
 usc_title: 12
 usc_section: "11a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 11a"
-generated_at: "2026-03-29T02:11:20.967Z"
+generated_at: "2026-03-29T17:51:13.069Z"
 ---
 
 # § 1715z–11a. Disposition of HUD-owned properties
 
 - **(a)** During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund ( 12 U.S.C. 1735c ) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law. A grant provided under this subsection during fiscal years 2006 through 2010 shall be available only to the extent that appropriations are made in advance for such purposes and shall not be derived from the General Insurance Fund.
 - **(b)**
-  - **(1)** Notwithstanding the authority under subsection (a) and the last sentence of section 1710(g) of this title , the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transfer and the Secretary determines that such transfer is practicable.
+  - **(1)** Notwithstanding the authority under subsection (a) of this section and the last sentence of section 1710(g) of this title , the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transfer and the Secretary determines that such transfer is practicable.
   - **(2)** For purposes of this subsection, the term “qualified HUD property” means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
     - **(A)** an unoccupied multifamily housing project;
     - **(B)** a substandard multifamily housing project; or

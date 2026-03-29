@@ -3,9 +3,9 @@ title: "Section 1004 - Computation of pay and allowances for month or part of mo
 usc_title: 37
 usc_section: "1004"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 1004"
-generated_at: "2026-03-29T02:14:43.146Z"
+generated_at: "2026-03-29T17:52:59.118Z"
 ---
 
 # § 1004. Computation of pay and allowances for month or part of month

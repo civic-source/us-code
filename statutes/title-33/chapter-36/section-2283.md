@@ -3,9 +3,9 @@ title: "Section 2283 - Fish and wildlife mitigation"
 usc_title: 33
 usc_section: "2283"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2283"
-generated_at: "2026-03-29T02:14:18.615Z"
+generated_at: "2026-03-29T17:52:45.983Z"
 ---
 
 # § 2283. Fish and wildlife mitigation
@@ -22,25 +22,19 @@ generated_at: "2026-03-29T02:14:18.615Z"
   - **(2)** Whenever, after his review, the Secretary determines that such mitigation features under this subsection are likely to require condemnation under subparagraph (A) or (B) of paragraph (1) of this subsection, the Secretary shall transmit to Congress a report on such proposed modification, together with his recommendations.
 - **(c)** Costs incurred after November 17, 1986 , including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs are shared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986 , such costs shall not be recovered without the consent of the non-Federal interests or until such contracts are complied with or renegotiated.
 - **(d)**
-  - **(1)** After November 17, 1986 , the Secretary shall not submit any proposal for the authorization of any water resources project to Congress in any report, and shall not select a project alternative in any report, unless such report contains (A) a recommendation with a specific plan to mitigate for damages to ecological resources, including terrestrial and aquatic resources, and fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on ecological resources and fish and wildlife without the implementation of mitigation measures. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, and other habitat types are mitigated to not less than in-kind conditions, to the extent possible. If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of section 2317(a)(1) of this title . In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
-  - **(2)** The Secretary shall select and design mitigation projects using a watershed approach to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
+  - **(1)** After November 17, 1986 , the Secretary shall not submit any proposal for the authorization of any water resources project to Congress in any report, and shall not select a project alternative in any report, unless such report contains (A) a recommendation with a specific plan to mitigate fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on fish and wildlife. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, and other habitat types are mitigated to not less than in-kind conditions, to the extent possible. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
+  - **(2)** The Secretary shall design mitigation projects to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
   - **(3)**
-    - **(A)** To mitigate losses to flood damage reduction capabilities and fish and wildlife resulting from a water resources project, the Secretary shall ensure that the mitigation plan for each water resources project complies with, at a minimum, the mitigation standards and policies established pursuant to the regulatory programs administered by the Secretary.
+    - **(A)** To mitigate losses to flood damage reduction capabilities and fish and wildlife resulting from a water resources project, the Secretary shall ensure that the mitigation plan for each water resources project complies with the mitigation standards and policies established pursuant to the regulatory programs administered by the Secretary.
     - **(B)** A specific mitigation plan for a water resources project under paragraph (1) shall include, at a minimum—
       - **(i)** a plan for monitoring the implementation and ecological success of each mitigation measure, including the cost and duration of any monitoring, and, to the extent practicable, a designation of the entities that will be responsible for the monitoring;
       - **(ii)** the criteria for ecological success by which the mitigation will be evaluated and determined to be successful based on replacement of lost functions and values of the habitat, including hydrologic and vegetative characteristics;
-      - **(iii)** for projects where mitigation will be carried out by the Secretary—
-        - **(I)** a description of the land and interest in land to be acquired for the mitigation plan;
-        - **(II)** the basis for a determination that the land and interests are available for acquisition; and
-        - **(III)** a determination that the proposed interest sought does not exceed the minimum interest in land necessary to meet the mitigation requirements for the project;
-      - **(iv)** for projects where mitigation will be carried out through a third party mitigation arrangement in accordance with subsection (i)—
-        - **(I)** a description of the third party mitigation instrument to be used; and
-        - **(II)** the basis for a determination that the mitigation instrument can meet the mitigation requirements for the project;
-      - **(v)** a description of—
+      - **(iii)** a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;
+      - **(iv)** a description of—
         - **(I)** the types and amount of restoration activities to be conducted;
         - **(II)** the physical action to be undertaken to achieve the mitigation objectives within the watershed in which such losses occur and, in any case in which the mitigation will occur outside the watershed, a detailed explanation for undertaking the mitigation outside the watershed; and
         - **(III)** the functions and values that will result from the mitigation plan; and
-      - **(vi)** a contingency plan for taking corrective actions in cases in which monitoring demonstrates that mitigation measures are not achieving ecological success in accordance with criteria under clause (ii).
+      - **(v)** a contingency plan for taking corrective actions in cases in which monitoring demonstrates that mitigation measures are not achieving ecological success in accordance with criteria under clause (ii).
     - **(C)** In any case in which it is not practicable to identify in a mitigation plan for a water resources project the entity responsible for monitoring at the time of a final report of the Chief of Engineers or other final decision document for the project, such entity shall be identified in the partnership agreement entered into with the non-Federal interest under section 1962d–5b of title 42 .
   - **(4)**
     - **(A)** A mitigation plan under this subsection shall be considered to be successful at the time at which the criteria under paragraph (3)(B)(ii) are achieved under the plan, as determined by monitoring under paragraph (3)(B)(i).
@@ -55,50 +49,4 @@ generated_at: "2026-03-29T02:14:18.615Z"
   - **(2)** such enhancement is designed to benefit species that have been listed as threatened or endangered by the Secretary of the Interior under the terms of the Endangered Species Act, as amended ( 16 U.S.C. 1531 , et seq.), or
   - **(3)** such activities are located on lands managed as a national wildlife refuge.
 - **(f)** Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88 , and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
-- **(g)** The provisions of subsections (a), (b), and (d) shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act [ 16 U.S.C. 661 et seq.], and nothing in this section is intended to affect that Act.
-- **(h)**
-  - **(1)** The Secretary may develop programmatic mitigation plans to address the potential impacts to ecological resources, fish, and wildlife associated with existing or future Federal water resources development projects.
-  - **(2)** The Secretary shall, to the maximum extent practicable, use programmatic mitigation plans developed in accordance with this subsection to guide the development of a mitigation plan under subsection (d).
-  - **(3)** The Secretary shall, to the maximum extent practicable and subject to all conditions of this subsection, use programmatic environmental plans developed by a State, a body politic of the State, which derives its powers from a State constitution, a government entity created by State legislation, or a local government, that meet the requirements of this subsection to address the potential environmental impacts of existing or future water resources development projects.
-  - **(4)** A programmatic mitigation plan developed by the Secretary or an entity described in paragraph (3) to address potential impacts of existing or future water resources development projects shall, to the maximum extent practicable—
-    - **(A)** be developed on a regional, ecosystem, watershed, or statewide scale;
-    - **(B)** include specific goals for aquatic resource and fish and wildlife habitat restoration, establishment, enhancement, or preservation;
-    - **(C)** identify priority areas for aquatic resource and fish and wildlife habitat protection or restoration;
-    - **(D)** include measures to protect or restore habitat connectivity;
-    - **(E)** encompass multiple environmental resources within a defined geographical area or focus on a specific resource, such as aquatic resources or wildlife habitat; and
-    - **(F)** address impacts from all projects in a defined geographical area or focus on a specific type of project.
-  - **(5)** The scope of the plan shall be determined by the Secretary or an entity described in paragraph (3), as appropriate, in consultation with the agency with jurisdiction over the resources being addressed in the environmental mitigation plan.
-  - **(6)** A programmatic environmental mitigation plan may include—
-    - **(A)** an assessment of the condition of environmental resources in the geographical area covered by the plan, including an assessment of recent trends and any potential threats to those resources;
-    - **(B)** an assessment of potential opportunities to improve the overall quality of environmental resources in the geographical area covered by the plan through strategic mitigation for impacts of water resources development projects;
-    - **(C)** standard measures for mitigating certain types of impacts, including impacts to habitat connectivity;
-    - **(D)** parameters for determining appropriate mitigation for certain types of impacts, such as mitigation ratios or criteria for determining appropriate mitigation sites;
-    - **(E)** adaptive management procedures, such as protocols that involve monitoring predicted impacts over time and adjusting mitigation measures in response to information gathered through the monitoring;
-    - **(F)** acknowledgment of specific statutory or regulatory requirements that must be satisfied when determining appropriate mitigation for certain types of resources; and
-    - **(G)** any offsetting benefits of self-mitigating projects, such as ecosystem or resource restoration and protection.
-  - **(7)** Before adopting a programmatic environmental mitigation plan for use under this subsection, the Secretary shall—
-    - **(A)** for a plan developed by the Secretary—
-      - **(i)** make a draft of the plan available for review and comment by applicable environmental resource agencies and the public; and
-      - **(ii)** consider any comments received from those agencies and the public on the draft plan; and
-    - **(B)** for a plan developed under paragraph (3), determine, not later than 180 days after receiving the plan, whether the plan meets the requirements of paragraphs (4) through (6) and was made available for public comment.
-  - **(8)** A programmatic environmental mitigation plan may be integrated with other plans, including watershed plans, ecosystem plans, species recovery plans, growth management plans, and land use plans.
-  - **(9)** If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-  - **(10)** Nothing in this subsection limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-  - **(11)** Nothing in this subsection—
-    - **(A)** requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated, including the addition of fish passage to an existing water resources development project; or
-    - **(B)** affects the mitigation responsibilities of the Secretary under any other provision of law.
-- **(i)**
-  - **(1)** In accordance with all applicable Federal laws (including regulations), mitigation efforts carried out under this section may include—
-    - **(A)** participation in mitigation banking or other third-party mitigation arrangements, such as—
-      - **(i)** the purchase of credits from commercial or State, regional, or local agency-sponsored mitigation banks; and
-      - **(ii)** the purchase of credits from in-lieu fee mitigation programs; and
-    - **(B)** contributions to statewide and regional efforts to conserve, restore, enhance, and create natural habitats and wetlands if the Secretary determines that the contributions will ensure that the mitigation requirements of this section and the goals of section 2317(a)(1) of this title will be met.
-  - **(2)** The banks, programs, and efforts described in paragraph (1) include any banks, programs, and efforts developed in accordance with applicable law (including regulations).
-  - **(3)** In carrying out natural habitat and wetlands mitigation efforts under this section, contributions to the mitigation effort may—
-    - **(A)** take place concurrent with, or in advance of, the commitment of funding to a project; and
-    - **(B)** occur in advance of project construction only if the efforts are consistent with all applicable requirements of Federal law (including regulations) and water resources development planning processes.
-  - **(4)** At the request of the non-Federal project sponsor, preference may be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project has been approved by the applicable Federal agency.
-- **(j)**
-  - **(1)** The Secretary, with the consent of the applicable non-Federal interest, may use funds made available for preconstruction engineering and design after authorization of project construction to satisfy mitigation requirements through third-party arrangements or to acquire interests in land necessary for meeting mitigation requirements under this section.
-  - **(2)** Prior to the expenditure of any funds for a project pursuant to paragraph (1), the Secretary shall notify the Committee on Appropriations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Appropriations and the Committee on Environment and Public Works of the Senate.
-- **(k)** The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
+- **(g)** The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act [ 16 U.S.C. 661 et seq.], and nothing in this section is intended to affect that Act.

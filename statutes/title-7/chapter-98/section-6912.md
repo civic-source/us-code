@@ -3,15 +3,15 @@ title: "Section 6912 - Authority of Secretary to delegate transferred functions"
 usc_title: 7
 usc_section: "6912"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6912"
-generated_at: "2026-03-29T02:10:17.093Z"
+generated_at: "2026-03-29T17:50:48.828Z"
 ---
 
 # § 6912. Authority of Secretary to delegate transferred functions
 
 - **(a)**
-  - **(1)** Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) 1 1 See References in Text note below. of this title or any other function vested in the Secretary as of October 13, 1994 . The authority provided in the preceding sentence includes the authority to establish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
+  - **(1)** Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) of this title or any other function vested in the Secretary as of October 13, 1994 . The authority provided in the preceding sentence includes the authority to establish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
   - **(2)** The delegation authority provided by paragraph (1) shall be subject to—
     - **(A)** sections 6942, 6971(f), 6993, and 2204e of this title and subsections (a) and (b)(1) of section 6981 of this title ;
     - **(B)** sections 5692 and 5693 of this title; and

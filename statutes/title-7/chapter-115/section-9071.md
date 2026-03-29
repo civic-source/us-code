@@ -1,63 +1,36 @@
 ---
-title: "Section 9071 - Milk donation program"
+title: "Section 9071 - Dairy product donation program"
 usc_title: 7
 usc_section: "9071"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 9071"
-generated_at: "2026-03-29T02:10:17.227Z"
+generated_at: "2026-03-29T17:50:48.918Z"
 ---
 
-# § 9071. Milk donation program
+# § 9071. Dairy product donation program
 
-- **(a)** In this section:
-  - **(1)** The term “eligible dairy organization” means a dairy farmer (either individually or as part of a cooperative), or a dairy processor, who—
-    - **(A)** accounts to a Federal milk marketing order marketwide pool; and
-    - **(B)** incurs qualified expenses under subsection (e).
-  - **(2)** The term “eligible distributor” means a public or private nonprofit organization that distributes donated eligible milk.
-  - **(3)** The term “eligible milk” means Class I fluid milk products produced and processed in the United States.
-  - **(4)** The term “eligible partnership” means a partnership between an eligible dairy organization and an eligible distributor.
-  - **(5)** The term “participating partnership” means an eligible partnership for which the Secretary has approved a donation and distribution plan for eligible milk under subsection (c)(2).
-- **(b)** Not later than 180 days after December 20, 2018 , the Secretary shall establish and administer a milk donation program for the purposes of—
-  - **(1)** encouraging the donation of eligible milk;
-  - **(2)** providing nutrition assistance to individuals in low-income groups; and
-  - **(3)** reducing food waste.
+- **(a)** Not later than 120 days after the date on which the Secretary certifies to Congress that the margin protection program is operational, the Secretary shall establish and administer a dairy product donation program for the purposes of—
+  - **(1)** addressing low operating margins experienced by participating dairy operations; and
+  - **(2)** providing nutrition assistance to individuals in low-income groups.
+- **(b)** The Secretary shall announce that the dairy product donation program is in effect for a month, and undertake activities under subsection (c) during the month, whenever the actual dairy production margin has been $4.00 or less per hundredweight of milk for each of the immediately preceding 2 months.
 - **(c)**
-  - **(1)** To be eligible to receive reimbursement under subsection (d), an eligible partnership shall submit to the Secretary a donation and distribution plan that—
-    - **(A)** describes the process that the eligible partnership will use for the donation, processing, transportation, temporary storage, and distribution of eligible milk;
-    - **(B)** includes an estimate of the quantity of eligible milk that the eligible partnership will donate each year, based on—
-      - **(i)** preplanned donations; and
-      - **(ii)** contingency plans to address unanticipated donations; and
-    - **(C)** describes the rate at which the eligible partnership will be reimbursed, which shall be based on a percentage of the limitation described in subsection (e)(2), not to exceed 100 percent.
-  - **(2)** Not less frequently than annually, the Secretary shall—
-    - **(A)** review donation and distribution plans submitted under paragraph (1); and
-    - **(B)** determine whether to approve or disapprove each of those donation and distribution plans.
+  - **(1)** Whenever the dairy product donation program is in effect under subsection (b), the Secretary shall immediately purchase dairy products, at prevailing market prices, until such time as one of the termination conditions specified in subsection (d)(1) is met.
+  - **(2)** To determine the types and quantities of dairy products to purchase under the dairy product donation program, the Secretary shall consult with public and private nonprofit organizations organized to feed low-income populations 1 1 So in original. Probably should be followed by a period.
 - **(d)**
-  - **(1)** On receipt of appropriate documentation under paragraph (2), the Secretary shall reimburse an eligible dairy organization that is a member of a participating partnership on a regular basis for qualified expenses described in subsection (e).
-  - **(2)**
-    - **(A)** An eligible dairy organization shall submit to the Secretary such documentation as the Secretary may require to demonstrate the qualified expenses described in subsection (e) of the eligible dairy organization.
-    - **(B)** The Secretary may verify the accuracy of documentation submitted under subparagraph (A) by spot checks and audits.
-  - **(3)** In providing reimbursements under paragraph (1), the Secretary may provide reimbursements for qualified expenses incurred before the date on which the donation and distribution plan for the applicable participating partnership was approved by the Secretary.
+  - **(1)** The Secretary shall cease activities under the dairy product donation program, and shall not reinitiate activities under the program until the condition specified in subsection (b) is again met, whenever any one of the following occurs:
+    - **(A)** The Secretary has made purchases under the dairy product donation program for three consecutive months, even if the actual dairy production margin remains $4.00 or less per hundredweight of milk.
+    - **(B)** The actual dairy production margin has been greater than $4.00 per hundredweight of milk for the immediately preceding month.
+    - **(C)** The actual dairy production margin has been $4.00 or less, but more than $3.00, per hundredweight of milk for the immediately preceding month and during the same month—
+      - **(i)** the price in the United States for cheddar cheese was more than 5 percent above the world price; or
+      - **(ii)** the price in the United States for non-fat dry milk was more than 5 percent above the world price of skim milk powder.
+    - **(D)** The actual dairy production margin has been $3.00 or less per hundredweight of milk for the immediately preceding month and during the same month—
+      - **(i)** the price in the United States for cheddar cheese was more than 7 percent above the world price; or
+      - **(ii)** the price in the United States for non-fat dry milk was more than 7 percent above the world price of skim milk powder.
+  - **(2)** For purposes of this subsection, the Secretary shall determine the price in the United States for cheddar cheese and non-fat dry milk and the world price of cheddar cheese and skim milk powder.
 - **(e)**
-  - **(1)** The amount of a reimbursement under subsection (d) shall be an amount equal to the product of—
-    - **(A)** the quantity of eligible milk donated by the eligible dairy organization under a donation and distribution plan approved by the Secretary under subsection (c); and
-    - **(B)** subject to the limitation under paragraph (2), the rate described in that donation and distribution plan under subsection (c)(1)(C).
-  - **(2)** Expenses eligible for reimbursement under subsection (d) shall not exceed the value that an eligible dairy organization incurred by accounting to the Federal milk marketing order pool at the difference in the Class I milk value and the lowest classified price for the applicable month (either Class III milk or Class IV milk).
-- **(f)**
-  - **(1)** The Secretary shall—
-    - **(A)** establish a process for an eligible partnership to apply for preapproval of donation and distribution plans under subsection (c); and
-    - **(B)** not less frequently than annually, preapprove an amount for qualified expenses described in subsection (e) that the Secretary will allocate for reimbursement under each donation and distribution plan preapproved under subparagraph (A), based on an assessment of—
-      - **(i)** the feasibility of the plan; and
-      - **(ii)** the extent to which the plan advances the purposes described in subsection (b).
-  - **(2)** In preapproving amounts for reimbursement under paragraph (1)(B), the Secretary shall give preference to eligible partnerships that will provide funding and in-kind contributions in addition to the reimbursements.
-  - **(3)**
-    - **(A)** The Secretary shall adjust or increase amounts preapproved for reimbursement under paragraph (1)(B) based on performance and demand.
-    - **(B)**
-      - **(i)** The Secretary shall establish a procedure for a participating partnership to request an increase in the amount preapproved for reimbursement under paragraph (1)(B) based on changes in conditions.
-      - **(ii)** The Secretary may provide an interim approval of an increase requested under clause (i) and an incremental increase in the amount of reimbursement to the applicable participating partnership to allow time for the Secretary to review the request without interfering with the donation and distribution of eligible milk by the participating partnership.
-- **(g)**
-  - **(1)** An eligible distributor that receives eligible milk donated under this section may not sell the products back into commercial markets.
-  - **(2)** An eligible distributor that the Secretary determines has violated paragraph (1) shall not be eligible for any future participation in the program established under this section.
-- **(h)** The Secretary shall publicize opportunities to participate in the program established under this section.
-- **(i)** The Secretary shall conduct appropriate reviews or audits to ensure the integrity of the program established under this section.
-- **(j)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $9,000,000 for fiscal year 2019, and $5,000,000 for each fiscal year thereafter, to remain available until expended.
+  - **(1)** The Secretary of Agriculture shall distribute, but not store, the dairy products purchased under the dairy product donation program in a manner that encourages the domestic consumption of such dairy products by diverting them to persons in low-income groups, as determined by the Secretary.
+  - **(2)** The Secretary shall utilize the services of public and private nonprofit organizations for the distribution of dairy products purchased under the dairy product donation program. A public or private nonprofit organization that receives dairy products may transfer the products to another public or private nonprofit organization that agrees to use the dairy products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
+- **(f)** A public or private nonprofit organization that receives dairy products under subsection (e) may not sell the products back into commercial markets.
+- **(g)** As specified in section 9091(a) of this title , the funds, facilities, and authorities of the Commodity Credit Corporation shall be available to the Secretary for the purposes of implementing and administering the dairy product donation program.
+- **(h)** In addition to the termination conditions specified in subsection (d)(1), the dairy product donation program shall end on December 31, 2018 .

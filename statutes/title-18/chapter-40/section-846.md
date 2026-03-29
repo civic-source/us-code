@@ -3,9 +3,9 @@ title: "Section 846 - Additional powers of the Attorney General"
 usc_title: 18
 usc_section: "846"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 846"
-generated_at: "2026-03-29T02:12:02.384Z"
+generated_at: "2026-03-29T17:53:15.589Z"
 ---
 
 # § 846. Additional powers of the Attorney General

@@ -3,18 +3,12 @@ title: "Section 2307 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2307"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 2307"
-generated_at: "2026-03-29T02:12:17.379Z"
+generated_at: "2026-03-29T17:51:48.527Z"
 ---
 
 # § 2307. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter (other than sections 2324 and 2327 of this title)—
+There is authorized to be appropriated to carry out this chapter (other than sections 2324, 2327, and 2328 of this title, and subchapter II) such sums as may be necessary for each of the fiscal years 2007 through 2012.
 
-  - **(1)** $1,229,568,538 for fiscal year 2019;
-  - **(2)** $1,246,782,498 for fiscal year 2020;
-  - **(3)** $1,264,237,452 for fiscal year 2021;
-  - **(4)** $1,281,936,777 for fiscal year 2022;
-  - **(5)** $1,299,883,892 for fiscal year 2023; and
-  - **(6)** $1,318,082,266 for fiscal year 2024.

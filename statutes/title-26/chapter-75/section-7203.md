@@ -3,9 +3,9 @@ title: "Section 7203 - Willful failure to file return, supply information, or pa
 usc_title: 26
 usc_section: "7203"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7203"
-generated_at: "2026-03-29T02:14:01.376Z"
+generated_at: "2026-03-29T17:52:39.599Z"
 ---
 
 # § 7203. Willful failure to file return, supply information, or pay tax

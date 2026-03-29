@@ -3,9 +3,9 @@ title: "Section 353a - Pharmacy compounding"
 usc_title: 21
 usc_section: "353a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 353a"
-generated_at: "2026-03-29T02:12:27.980Z"
+generated_at: "2026-03-29T17:52:03.825Z"
 ---
 
 # § 353a. Pharmacy compounding
@@ -22,12 +22,12 @@ generated_at: "2026-03-29T02:12:27.980Z"
         - **(I)** such individual patient for whom the prescription order will be provided; or
         - **(II)** the physician or other licensed practitioner who will write such prescription order.
 - **(b)**
-  - **(1)** A drug product may be compounded under subsection (a) if the licensed pharmacist or licensed physician—
+  - **(1)** A drug product may be compounded under subsection (a) of this section if the licensed pharmacist or licensed physician—
     - **(A)** compounds the drug product using bulk drug substances, as defined in regulations of the Secretary published at section 207.3(a)(4) of title 21 of the Code of Federal Regulations—
       - **(i)** that—
         - **(I)** comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
         - **(II)** if such a monograph does not exist, are drug substances that are components of drugs approved by the Secretary; or
-        - **(III)** if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c);
+        - **(III)** if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c) of this section;
       - **(ii)** that are manufactured by an establishment that is registered under section 360 of this title (including a foreign establishment that is registered under section 360(i) of this title ); and
       - **(iii)** that are accompanied by valid certificates of analysis for each bulk drug substance;
     - **(B)** compounds the drug product using ingredients (other than bulk drug substances) that comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
@@ -40,8 +40,8 @@ generated_at: "2026-03-29T02:12:27.980Z"
       - **(i)** that has entered into a memorandum of understanding with the Secretary which addresses the distribution of inordinate amounts of compounded drug products interstate and provides for appropriate investigation by a State agency of complaints relating to compounded drug products distributed outside such State; or
       - **(ii)** that has not entered into the memorandum of understanding described in clause (i) and the licensed pharmacist, licensed pharmacy, or licensed physician distributes (or causes to be distributed) compounded drug products out of the State in which they are compounded in quantities that do not exceed 5 percent of the total prescription orders dispensed or distributed by such pharmacy or physician.
 - **(c)**
-  - **(1)** The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A), the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
-  - **(2)** The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
+  - **(1)** The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
+  - **(2)** The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) of this section for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
 - **(d)** This section shall not apply to—
   - **(1)** compounded positron emission tomography drugs as defined in section 321(ii) of this title ; or
   - **(2)** radiopharmaceuticals.

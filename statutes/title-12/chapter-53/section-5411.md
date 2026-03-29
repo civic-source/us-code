@@ -3,9 +3,9 @@ title: "Section 5411 - Transfer date"
 usc_title: 12
 usc_section: "5411"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 5411"
-generated_at: "2026-03-29T02:11:21.279Z"
+generated_at: "2026-03-29T17:51:13.290Z"
 ---
 
 # § 5411. Transfer date

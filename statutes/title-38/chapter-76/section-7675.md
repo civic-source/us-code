@@ -3,9 +3,9 @@ title: "Section 7675 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7675"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7675"
-generated_at: "2026-03-29T02:14:50.489Z"
+generated_at: "2026-03-29T17:52:53.853Z"
 ---
 
 # § 7675. Breach of agreement: liability
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:14:50.489Z"
     - **(B)** The participant is dismissed from such educational institution for disciplinary reasons.
     - **(C)** The participant voluntarily terminates the course of education or training in such educational institution before the completion of such course of education or training.
     - **(D)** The participant fails to become licensed to practice medicine, osteopathy, dentistry, podiatry, or optometry in a State, fails to become licensed as a registered nurse in a State, or fails to meet any applicable licensure requirement in the case of any other health-care personnel who provide either direct patient-care services or services incident to direct patient-care services, during a period of time determined under regulations prescribed by the Secretary.
-    - **(E)** The participant fails to maintain employment, while enrolled in the course of training being pursued by the participant, as a Department employee.
+    - **(E)** In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by the participant, as a Department employee.
   - **(2)** Liability under this subsection is in lieu of any service obligation arising under a participant’s agreement.
 - **(c)**
   - **(1)** Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:

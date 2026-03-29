@@ -3,9 +3,9 @@ title: "Section 635a - Management of Bank"
 usc_title: 12
 usc_section: "635a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 635a"
-generated_at: "2026-03-29T02:11:20.872Z"
+generated_at: "2026-03-29T17:51:13.003Z"
 ---
 
 # § 635a. Management of Bank
@@ -18,24 +18,7 @@ generated_at: "2026-03-29T02:11:20.872Z"
   - **(3)** Omitted
   - **(4)** Before entering upon his duties, each of the directors shall take an oath faithfully to discharge the duties of his office.
   - **(5)** The directors, in addition to their duties as members of the Board, shall perform such additional duties and may hold such other offices in the administration of the Bank as the President of the Bank may from time to time prescribe.
-  - **(6)**
-    - **(A)** A quorum of the Board of Directors shall consist of at least three members.
-    - **(B)**
-      - **(i)** If there is an insufficient number of directors to constitute a quorum under subparagraph (A) for 120 consecutive days during the term of a President of the United States, a temporary Board, consisting of the following members, shall act in the stead of the Board of Directors:
-        - **(I)** The United States Trade Representative.
-        - **(II)** The Secretary of the Treasury.
-        - **(III)** The Secretary of Commerce.
-        - **(IV)** The members of the Board of Directors.
-      - **(ii)** If, at a meeting of the temporary Board—
-        - **(I)** a member referred to in clause (i)(IV) is present, the meeting shall be chaired by such a member, consistent with Bank bylaws; or
-        - **(II)** no such member is present, the meeting shall be chaired by the United States Trade Representative.
-      - **(iii)** A member described in subclause (I), (II), or (III) of clause (i) may delegate the authority of the member to vote on whether to authorize a transaction, whose value does not exceed $100,000,000, to—
-        - **(I)** if the member is the United States Trade Representative, the Deputy United States Trade Representative; or
-        - **(II)** if the member is referred to in such subclause (II) or (III), the Deputy Secretary of the department referred to in the subclause.
-      - **(iv)** If the temporary Board consists of members of only one political party, the President of the United States shall, to the extent practicable, appoint to the temporary Board a qualified member of a different political party who occupies a position requiring nomination by the President, by and with the consent of the Senate.
-      - **(v)** The temporary board may not change or amend Bank policies, procedures, bylaws, or guidelines.
-      - **(vi)** The temporary Board shall expire at the end of the term of the President of the United States in office at the time the temporary Board was constituted or upon restoration of a quorum of the Board of Directors as defined in subparagraph (A).
-      - **(vii)** With respect to a transaction that equals or exceeds $100,000,000, the Chairperson of the temporary Board shall ensure that the Bank complies with section 635(b)(3) of this title .
+  - **(6)** A quorum of the Board of Directors shall consist of at least three members.
   - **(7)** The Board of Directors shall adopt, and may from time to time amend, such bylaws as are necessary for the proper management and functioning of the Bank, and shall, in such bylaws, designate the vice presidents and other officers of the Bank and prescribe their duties.
   - **(8)**
     - **(A)** The terms of the directors, including the President and the First Vice President of the Bank, appointed under this section shall be four years, except that—
@@ -96,7 +79,7 @@ generated_at: "2026-03-29T02:11:20.872Z"
 - **(g)**
   - **(1)** The President of the Bank shall ensure that each operating division within the Bank has staff that specializes in processing transactions that primarily benefit small business concerns (as defined in section 632(a) of title 15 ).
   - **(2)** The small business specialists shall be involved in all aspects of processing applications for loans, guarantees, and insurance to support exports by small business concerns, including the approval or disapproval, or staff recommendations of approval or disapproval, as applicable, of such applications. In carrying out these responsibilities, the small business specialists shall consider the unique business requirements of small businesses and shall develop exporter performance criteria tailored to small business exporters.
-  - **(3)** In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $25,000,000.
+  - **(3)** In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $10,000,000.
   - **(4)** The Bank shall prominently identify the small business specialists on its website and in promotional material.
   - **(5)** The evaluation of staff designated by the President of the Bank under paragraph (1), including annual reviews of performance of duties related to transactions in support of exports by small business concerns, and any resulting recommendations for salary adjustments, promotions, and other personnel actions, shall address the criteria established pursuant to subsection (h)(2)(B)(iii) and shall be conducted by the manager of the relevant operating division following consultation with the officer appointed to manage the Small Business Division pursuant to subsection (f)(2).
   - **(6)** Staff recommendations of denial or withdrawal for medium-term applications, exporter held multi-buyer policies, single buyer policies, and working capital applications processed by the Bank shall be transmitted to the officer appointed to manage the Small Business Division pursuant to subsection (f)(2) not later than 2 business days before a final decision.
@@ -124,56 +107,12 @@ generated_at: "2026-03-29T02:11:20.872Z"
   - **(2)** The office shall be managed by a Bank officer of appropriate rank who shall report to the Bank officer designated under subsection (f)(2).
   - **(3)** To the maximum extent practicable, the President of the Bank shall ensure that qualified minority and women applicants are considered when filling any position in the office.
 - **(j)**
-  - **(1)** Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2015 through 2019 to—
+  - **(1)** Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2012, 2013, and 2014 to—
     - **(A)** seek to remedy any of the operational weakness and risk management vulnerabilities of the Bank which are the result of the information technology system of the Bank;
     - **(B)** remedy data fragmentation, enhance information flow throughout the Bank, and manage data across the Bank; and
     - **(C)** enhance the operational capacity and risk management capabilities of the Bank to better enable the Bank to increase exports and grow jobs while protecting the taxpayer.
   - **(2)** In paragraph (1), the term “surplus” means the amount (if any) by which—
     - **(A)** the sum of the interest and fees collected by the Bank; exceeds
     - **(B)** the sum of—
-      - **(i)** the funds set aside to cover expected losses on transactions financed by the Bank; and
-      - **(ii)** the costs incurred to cover the administrative expenses of the Bank.
-  - **(3)** The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2015 through 2019 shall not exceed $20,000,000.
-  - **(4)** The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
-- **(k)**
-  - **(1)** There is established an Office of Ethics within the Bank, which shall oversee all ethics issues within the Bank.
-  - **(2)**
-    - **(A)** The head of the Office of Ethics shall be the Chief Ethics Officer, who shall report to the Board of Directors.
-    - **(B)** Not later than 180 days after December 4, 2015 , the Chief Ethics Officer shall be—
-      - **(i)** appointed by the President of the Bank from among persons—
-        - **(I)** with a background in law who have experience in the fields of law and ethics; and
-        - **(II)** who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Ethics Officer; and
-      - **(ii)** approved by the Board.
-    - **(C)** The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to chapter 131 of title 5.
-  - **(3)** The Office of Ethics has jurisdiction over all employees of, and ethics matters relating to, the Bank. With respect to employees of the Bank, the Office of Ethics shall—
-    - **(A)** recommend administrative actions to establish or enforce standards of official conduct;
-    - **(B)** refer to the Office of the Inspector General of the Bank alleged violations of—
-      - **(i)** the standards of ethical conduct applicable to employees of the Bank under parts 2635 and 6201 of title 5, Code of Federal Regulations;
-      - **(ii)** the standards of ethical conduct established by the Chief Ethics Officer; and
-      - **(iii)** any other laws, rules, or regulations governing the performance of official duties or the discharge of official responsibilities that are applicable to employees of the Bank;
-    - **(C)** report to appropriate Federal or State authorities substantial evidence of a violation of any law applicable to the performance of official duties that may have been disclosed to the Office of Ethics; and
-    - **(D)** render advisory opinions regarding the propriety of any current or proposed conduct of an employee or contractor of the Bank, and issue general guidance on such matters as necessary.
-- **(l)**
-  - **(1)** There shall be a Chief Risk Officer of the Bank, who shall—
-    - **(A)** oversee all issues relating to risk within the Bank; and
-    - **(B)** report to the President of the Bank.
-  - **(2)** Not later than 180 days after December 4, 2015 , the Chief Risk Officer shall be—
-    - **(A)** appointed by the President of the Bank from among persons—
-      - **(i)** with a demonstrated ability in the general management of, and knowledge of and extensive practical experience in, financial risk evaluation practices in large governmental or business entities; and
-      - **(ii)** who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Risk Officer; and
-    - **(B)** approved by the Board.
-  - **(3)** The duties of the Chief Risk Officer are—
-    - **(A)** to be responsible for all matters related to managing and mitigating all risk to which the Bank is exposed, including the programs and operations of the Bank;
-    - **(B)** to establish policies and processes for risk oversight, the monitoring of management compliance with risk limits, and the management of risk exposures and risk controls across the Bank;
-    - **(C)** to be responsible for the planning and execution of all Bank risk management activities, including policies, reporting, and systems to achieve strategic risk objectives;
-    - **(D)** to develop an integrated risk management program that includes identifying, prioritizing, measuring, monitoring, and managing internal control and operating risks and other identified risks;
-    - **(E)** to ensure that the process for risk assessment and underwriting for individual transactions considers how each such transaction considers the effect of the transaction on the concentration of exposure in the overall portfolio of the Bank, taking into account fees, collateralization, and historic default rates; and
-    - **(F)** to review the adequacy of the use by the Bank of qualitative metrics to assess the risk of default under various scenarios.
-- **(m)**
-  - **(1)** There is established a management committee to be known as the “Risk Management Committee”.
-  - **(2)** The membership of the Risk Management Committee shall be the members of the Board of Directors, with the President and First Vice President of the Bank serving as ex officio members.
-  - **(3)** The duties of the Risk Management Committee shall be—
-    - **(A)** to oversee, in conjunction with the Office of the Chief Financial Officer of the Bank—
-      - **(i)** periodic stress testing on the entire Bank portfolio, reflecting different market, industry, and macroeconomic scenarios, and consistent with common practices of commercial and multilateral development banks; and
-      - **(ii)** the monitoring of industry, geographic, and obligor exposure levels; and
-    - **(B)** to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title .
+        - **(I)** 1 1 So in original. Probably should be “(i)”. the funds set aside to cover expected losses on transactions financed by the Bank; and
+- **(ii)** the costs incurred to cover the administrative expenses of the Bank.

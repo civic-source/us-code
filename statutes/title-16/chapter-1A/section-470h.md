@@ -1,12 +1,14 @@
 ---
-title: "Section 470h - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 470h - Historic Preservation Fund; establishment; appropriations; source of revenue"
 usc_title: 16
 usc_section: "470h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 470h"
-generated_at: "2026-03-29T02:11:53.563Z"
+generated_at: "2026-03-29T17:51:56.681Z"
 ---
 
-# § 470h. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 470h. Historic Preservation Fund; establishment; appropriations; source of revenue
+
+To carry out the provisions of this subchapter, there is hereby established the Historic Preservation Fund (hereafter referred to as the “fund”) in the Treasury of the United States. There shall be covered into such fund $24,400,000 for fiscal year 1977, $100,000,000 for fiscal year 1978, $100,000,000 for fiscal year 1979, $150,000,000 for fiscal year 1980, and $150,000,000 for fiscal year 1981, and $150,000,000 for each of fiscal years 1982 through 2015, from revenues due and payable to the United States under the Outer Continental Shelf Lands Act ( 67 Stat. 462 , 469), as amended ( 43 U.S.C. 1338 ), and/or under section 7433(b) of title 10 , notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Such moneys shall be used only to carry out the purposes of this subchapter and shall be available for expenditure only when appropriated by the Congress. Any moneys not appropriated shall remain available in the fund until appropriated for said purposes: Provided , That appropriations made pursuant to this paragraph may be made without fiscal year limitation.
 

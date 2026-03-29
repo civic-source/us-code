@@ -3,19 +3,19 @@ title: "Section 923 - Space-available enrollment of students; tuition"
 usc_title: 20
 usc_section: "923"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 923"
-generated_at: "2026-03-29T02:12:17.161Z"
+generated_at: "2026-03-29T17:51:48.303Z"
 ---
 
 # § 923. Space-available enrollment of students; tuition
 
-- **(a)** Subject to subsection (b) and in accordance with regulations issued under subsection (c), the Director may authorize the enrollment in a school of the defense dependents’ education system of a child not otherwise eligible to enroll in such a school if and to the extent that there is space available for such child in the school.
+- **(a)** Subject to subsection (b) of this section and in accordance with regulations issued under subsection (c) of this section, the Director may authorize the enrollment in a school of the defense dependents’ education system of a child not otherwise eligible to enroll in such a school if and to the extent that there is space available for such child in the school.
 - **(b)**
-  - **(1)** Except as otherwise provided under subsection (c), any child permitted to enroll in a school of the defense dependents’ education system under this section shall be required to pay tuition at a rate determined by the Secretary of Defense, which shall not be less than the rate necessary to defray the average cost of the enrollment of children in the system under this section.
+  - **(1)** Except as otherwise provided under subsection (c) of this section, any child permitted to enroll in a school of the defense dependents’ education system under this section shall be required to pay tuition at a rate determined by the Secretary of Defense, which shall not be less than the rate necessary to defray the average cost of the enrollment of children in the system under this section.
   - **(2)** Amounts received under paragraph (1) shall be available to the defense dependents’ education system to assist in defraying the cost of enrollment of children in the system under this section.
 - **(c)**
-  - **(1)** The Secretary of Defense may by regulation identify classes of children who shall be eligible to enroll in schools of the defense dependents’ education system under this section if and to the extent that there is space available, establish priorities among such classes, waive the tuition requirement of subsection (b)(1) with respect to any such class, and issue such other regulations as may be necessary to carry out this section.
+  - **(1)** The Secretary of Defense may by regulation identify classes of children who shall be eligible to enroll in schools of the defense dependents’ education system under this section if and to the extent that there is space available, establish priorities among such classes, waive the tuition requirement of subsection (b)(1) of this section with respect to any such class, and issue such other regulations as may be necessary to carry out this section.
   - **(2)**
     - **(A)** The Secretary shall include in the regulations prescribed under this subsection a requirement that children in the class of children described in subparagraph (B) shall be subject to the same tuition requirements, or waiver of tuition requirements, as children in the class of children described in subparagraph (C).
     - **(B)** The class of children described in this subparagraph are children of members of reserve components of the Armed Forces who—
@@ -31,7 +31,4 @@ generated_at: "2026-03-29T02:12:17.161Z"
     - **(A)** Children of officers and employees of the United States (other than civilian officers and employees who are sponsors under section 932(2) of this title ) stationed in overseas areas.
     - **(B)** Children of employees of contractors employed in carrying out work for the United States in overseas areas.
     - **(C)** Children of other citizens or nationals of the United States or of foreign nationals, if the Secretary determines that enrollment of such children is in the national interest.
-    - **(D)** Children of employees of the American Red Cross who—
-      - **(i)** are performing, on a full-time basis, services for the Armed Forces, including emergency services; and
-      - **(ii)** reside in an overseas area supported by a school of the defense dependents’ education system.
-  - **(2)** Notwithstanding subsection (c), the Secretary may not waive the tuition requirements of subsection (b)(1) with respect to children referred to in paragraph (1).
+  - **(2)** Notwithstanding subsection (c) of this section, the Secretary may not waive the tuition requirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).

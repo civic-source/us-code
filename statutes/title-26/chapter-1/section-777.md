@@ -1,12 +1,14 @@
 ---
-title: "Section 777 - Repealed. Pub. L. 114–74, title XI, § 1101(b)(1) , Nov. 2, 2015 , 129 Stat. 625 ]"
+title: "Section 777 - Regulations"
 usc_title: 26
 usc_section: "777"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 777"
-generated_at: "2026-03-29T02:14:01.035Z"
+generated_at: "2026-03-29T17:52:39.293Z"
 ---
 
-# [§§ 771 to 777. Repealed. Pub. L. 114–74, title XI, § 1101(b)(1) , Nov. 2, 2015 , 129 Stat. 625 ]
+# § 777. Regulations
+
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this part.
 

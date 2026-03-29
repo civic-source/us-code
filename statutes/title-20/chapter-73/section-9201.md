@@ -1,0 +1,17 @@
+---
+title: "Section 9201 - Purpose"
+usc_title: 20
+usc_section: "9201"
+chapter: 73
+current_through: "PL 113-100"
+classification: "20 U.S.C. § 9201"
+generated_at: "2026-03-29T17:51:48.687Z"
+---
+
+# § 9201. Purpose
+
+It is the purpose of this subchapter to create a partnership among the Federal Government, States, and localities to provide, on a voluntary basis, adult education and literacy services, in order to—
+
+  - **(1)** assist adults to become literate and obtain the knowledge and skills necessary for employment and self-sufficiency;
+  - **(2)** assist adults who are parents to obtain the educational skills necessary to become full partners in the educational development of their children; and
+  - **(3)** assist adults in the completion of a secondary school education.

@@ -3,9 +3,9 @@ title: "Section 194 - Enhancement of public safety communications interoperabili
 usc_title: 6
 usc_section: "194"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 194"
-generated_at: "2026-03-29T02:10:04.961Z"
+generated_at: "2026-03-29T17:50:39.326Z"
 ---
 
 # § 194. Enhancement of public safety communications interoperability
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:10:04.961Z"
     - **(A)** The Secretary may establish an Office for Interoperability and Compatibility within the Directorate of Science and Technology to carry out this subsection.
     - **(B)** If the Secretary establishes such office, the Secretary shall, through such office—
       - **(i)** carry out Department of Homeland Security responsibilities and authorities relating to the SAFECOM Program; and
-      - **(ii)** carry out section 510 1 1 See References in Text note below. of the Homeland Security Act of 2002, as added by subsection (d).
+      - **(ii)** carry out section 321 1 1 See References in Text note below. of this title.
   - **(3)** There are authorized to be appropriated to the Secretary to carry out this subsection—
     - **(A)** $22,105,000 for fiscal year 2005;
     - **(B)** $22,768,000 for fiscal year 2006;

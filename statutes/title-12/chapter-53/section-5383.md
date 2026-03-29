@@ -3,9 +3,9 @@ title: "Section 5383 - Systemic risk determination"
 usc_title: 12
 usc_section: "5383"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 5383"
-generated_at: "2026-03-29T02:11:21.264Z"
+generated_at: "2026-03-29T17:51:13.280Z"
 ---
 
 # § 5383. Systemic risk determination
@@ -72,4 +72,4 @@ generated_at: "2026-03-29T02:11:21.264Z"
 - **(e)**
   - **(1)** Notwithstanding subsection (b), if an insurance company is a covered financial company or a subsidiary or affiliate of a covered financial company, the liquidation or rehabilitation of such insurance company, and any subsidiary or affiliate of such company that is not excepted under paragraph (2), shall be conducted as provided under applicable State law.
   - **(2)** The requirement of paragraph (1) shall not apply with respect to any subsidiary or affiliate of an insurance company that is not itself an insurance company.
-  - **(3)** Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under section 5382(a) of this title with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State.
+  - **(3)** Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under section 5382(a) of this title with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State.

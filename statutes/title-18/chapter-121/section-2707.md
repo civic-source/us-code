@@ -3,9 +3,9 @@ title: "Section 2707 - Civil action"
 usc_title: 18
 usc_section: "2707"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 2707"
-generated_at: "2026-03-29T02:12:02.465Z"
+generated_at: "2026-03-29T17:53:15.706Z"
 ---
 
 # § 2707. Civil action
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T02:12:02.465Z"
 - **(e)** A good faith reliance on—
   - **(1)** a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization (including a request of a governmental entity under section 2703(f) of this title );
   - **(2)** a request of an investigative or law enforcement officer under section 2518(7) of this title ; or
-  - **(3)** a good faith determination that section 2511(3), section 2702(b)(9), or section 2702(c)(7) of this title permitted the conduct complained of;
+  - **(3)** a good faith determination that section 2511(3) of this title permitted the conduct complained of;
 - **(f)** A civil action under this section may not be commenced later than two years after the date upon which the claimant first discovered or had a reasonable opportunity to discover the violation.
 - **(g)** Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5 , United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title , or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.

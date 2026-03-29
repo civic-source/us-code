@@ -1,12 +1,16 @@
 ---
-title: "Section 5956 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 5956 - Franchise fees"
 usc_title: 16
 usc_section: "5956"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 5956"
-generated_at: "2026-03-29T02:11:53.957Z"
+generated_at: "2026-03-29T17:51:57.013Z"
 ---
 
-# § 5956. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 5956. Franchise fees
 
+- **(a)** A concessions contract shall provide for payment to the government of a franchise fee or such other monetary consideration as determined by the Secretary, upon consideration of the probable value to the concessioner of the privileges granted by the particular contract involved. Such probable value shall be based upon a reasonable opportunity for net profit in relation to capital invested and the obligations of the contract. Consideration of revenue to the United States shall be subordinate to the objectives of protecting and preserving park areas and of providing necessary and appropriate services for visitors at reasonable rates.
+- **(b)** The amount of the franchise fee or other monetary consideration paid to the United States for the term of the concessions contract shall be specified in the concessions contract and may only be modified to reflect extraordinary unanticipated changes from the conditions anticipated as of the effective date of the contract. The Secretary shall include in concessions contracts with a term of more than 5 years a provision which allows reconsideration of the franchise fee at the request of the Secretary or the concessioner in the event of such extraordinary unanticipated changes. Such provision shall provide for binding arbitration in the event that the Secretary and the concessioner are unable to agree upon an adjustment to the franchise fee in these circumstances.
+- **(c)** All franchise fees (and other monetary consideration) paid to the United States pursuant to concessions contracts shall be deposited into a special account established in the Treasury of the United States. Twenty percent of the funds deposited in the special account shall be available for expenditure by the Secretary, without further appropriation, to support activities throughout the National Park System regardless of the unit of the National Park System in which the funds were collected. The funds deposited into the special account shall remain available until expended.
+- **(d)** There shall be established within the special account required under subsection (c) of this section a subaccount for each unit of the National Park System. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single unit of the National Park System under concessions contracts. The funds credited to the subaccount for a unit of the National Park System shall be available for expenditure by the Secretary, without further appropriation, for use at the unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.

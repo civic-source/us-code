@@ -1,26 +1,26 @@
 ---
-title: "Section 2350d - Cooperative acquisition and logistics support agreements: NATO countries"
+title: "Section 2350d - Cooperative logistic support agreements: NATO countries"
 usc_title: 10
 usc_section: "2350d"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2350d"
-generated_at: "2026-03-29T02:10:45.094Z"
+generated_at: "2026-03-29T17:50:57.110Z"
 ---
 
-# § 2350d. Cooperative acquisition and logistics support agreements: NATO countries
+# § 2350d. Cooperative logistic support agreements: NATO countries
 
 - **(a)**
-  - **(1)** The Secretary of Defense may enter into bilateral or multilateral agreements known as Support or Procurement Partnership Agreements with one or more governments of other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Support and Procurement Organization and its executive agencies. Any such agreement shall be for the purpose of providing cooperative acquisition and logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
-    - **(A)** shall be entered into pursuant to the terms of the charter of the NATO Support and Procurement Organization and its executive agencies; and
-    - **(B)** shall provide for the common acquisition and logistics support of activities common to the participating countries.
+  - **(1)** The Secretary of Defense may enter into bilateral or multilateral agreements known as Weapon System Partnership Agreements with one or more governments of other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Maintenance and Supply Organization. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
+    - **(A)** shall be entered into pursuant to the terms of the charter of the NATO Maintenance and Supply Organization; and
+    - **(B)** shall provide for the common logistic support of a specific weapon system common to the participating countries.
   - **(2)** Such an agreement may provide for—
-    - **(A)** the transfer of logistics support, supplies, and services by the United States to the NATO Support and Procurement Organization and its executive agencies; and
-    - **(B)** the acquisition of armaments and logistics support, supplies, and services by the United States from that Organization.
-- **(b)** Under the terms of a Support or Procurement Partnership Agreement or Arrangement, the Secretary of Defense—
-  - **(1)** may agree that the NATO Support and Procurement Organization and its executive agencies may enter into contracts for supply, services, support, and acquisition, including armaments for requirements of the United States, to the extent the Secretary determines that the procedures of such Organization governing such supply, services, support, and acquisition are appropriate; and
-  - **(2)** may share the costs of set-up charges of facilities for use by the NATO Support and Procurement Organization and its executive agencies to provide cooperative acquisition and logistics support and in the costs of establishing a revolving fund for initial acquisition and replenishment of supply stocks to be used by the NATO Support and Procurement Organization and its executive agencies to provide cooperative acquisition and logistics support.
-- **(c)** Each Support or Procurement Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
-- **(d)** Except as otherwise provided in this section, the provisions of chapter 137 1 1 See References in Text note below. of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support or Procurement Partnership Agreement.
-- **(e)** Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Support and Procurement Organization and its executive agencies for the purposes of a Support or Procurement Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ( 22 U.S.C. 2751 et seq.).
+    - **(A)** the transfer of logistics support, supplies, and services by the United States to the NATO Maintenance and Supply Organization; and
+    - **(B)** the acquisition of logistics support, supplies, and services by the United States from that Organization.
+- **(b)** Under the terms of a Weapon System Partnership Agreement, the Secretary of Defense—
+  - **(1)** may agree that the NATO Maintenance and Supply Organization may enter into contracts for supply and acquisition of logistics support in Europe for requirements of the United States, to the extent the Secretary determines that the procedures of such Organization governing such supply and acquisition are appropriate; and
+  - **(2)** may share the costs of set-up charges of facilities for use by the NATO Maintenance and Supply Organization to provide cooperative logistics support and in the costs of establishing a revolving fund for initial acquisition and replenishment of supply stocks to be used by the NATO Maintenance and Supply Organization to provide cooperative logistics support.
+- **(c)** Each Weapon System Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
+- **(d)** Except as otherwise provided in this section, the provisions of chapter 137 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Weapon System Partnership Agreement.
+- **(e)** Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Maintenance and Supply Organization for the purposes of a Weapon System Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ( 22 U.S.C. 2751 et seq.).
 - **(f)** The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.

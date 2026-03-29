@@ -3,9 +3,9 @@ title: "Section 1553a - Recordkeeping for merchandise transported by pipeline"
 usc_title: 19
 usc_section: "1553a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1553a"
-generated_at: "2026-03-29T02:12:08.623Z"
+generated_at: "2026-03-29T17:51:51.226Z"
 ---
 
 # § 1553a. Recordkeeping for merchandise transported by pipeline

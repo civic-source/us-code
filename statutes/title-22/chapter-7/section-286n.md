@@ -3,12 +3,15 @@ title: "Section 286n - Special Drawing Rights"
 usc_title: 22
 usc_section: "286n"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 286n"
-generated_at: "2026-03-29T02:12:39.961Z"
+generated_at: "2026-03-29T17:52:10.418Z"
 ---
 
 # § 286n. Special Drawing Rights
 
-The President is hereby authorized (a) to accept the amendment to the articles of agreement of the International Monetary Fund (hereinafter referred to as the “Fund”), attached to the April 1968 report by the Executive Directors to the Board of Governors of the Fund, for the purpose of (i) establishing a facility based on Special Drawing Rights in the Fund and (ii) giving effect to certain modifications in the present rules and practices of the Fund, and (b) to participate in the special drawing account established by the amendment.
+- **(a)** to accept the amendment to the articles of agreement of the International Monetary Fund (hereinafter referred to as the “Fund”), attached to the April 1968 report by the Executive Directors to the Board of Governors of the Fund, for the purpose of
+      - **(i)** establishing a facility based on Special Drawing Rights in the Fund and
+      - **(ii)** giving effect to certain modifications in the present rules and practices of the Fund, and
+- **(b)** to participate in the special drawing account established by the amendment.
 

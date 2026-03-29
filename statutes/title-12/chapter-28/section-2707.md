@@ -3,9 +3,9 @@ title: "Section 2707 - Authority of Secretary"
 usc_title: 12
 usc_section: "2707"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2707"
-generated_at: "2026-03-29T02:11:21.148Z"
+generated_at: "2026-03-29T17:51:13.188Z"
 ---
 
 # § 2707. Authority of Secretary

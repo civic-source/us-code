@@ -3,9 +3,9 @@ title: "Section 1250 - Gain from dispositions of certain depreciable realty"
 usc_title: 26
 usc_section: "1250"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1250"
-generated_at: "2026-03-29T02:14:01.117Z"
+generated_at: "2026-03-29T17:52:39.356Z"
 ---
 
 # § 1250. Gain from dispositions of certain depreciable realty
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T02:14:01.117Z"
 - **(d)**
   - **(1)** Subsection (a) shall not apply to a disposition by gift.
   - **(2)** Except as provided in section 691 (relating to income in respect of a decedent), subsection (a) shall not apply to a transfer at death.
-  - **(3)** If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (6), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+  - **(3)** If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
   - **(4)**
     - **(A)** If property is disposed of and gain (determined without regard to this section) is not recognized in whole or in part under section 1031 or 1033, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the greater of the following:
       - **(i)** the amount of gain recognized on the disposition (determined without regard to this section), increased as provided in subparagraph (B), or
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T02:14:01.117Z"
     - **(C)** With respect to any transaction, the amount determined under this subparagraph shall be the excess of—
       - **(i)** the amount of gain which would (but for this paragraph) be taken into account under subsection (a), over
       - **(ii)** the fair market value (or cost in the case of a transaction described in section 1033(a)(2)) of the section 1250 property acquired in the transaction.
-    - **(D)** In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence 1 1 See References in Text note below. shall be applied—
+    - **(D)** In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence shall be applied—
       - **(i)** first solely to section 1250 properties and to the amount of gain not taken into account under subsection (a) by reason of this paragraph, and
       - **(ii)** then to all purchased properties to which such sentence applies and to the remaining gain not recognized on the transaction as if the cost of the section 1250 properties were the basis of such properties computed under clause (i).
     - **(E)** In the case of any transaction described in section 1031 or 1033, the additional depreciation in respect of the section 1250 property acquired which is attributable to the section 1250 property disposed of shall be an amount equal to the amount of the gain which was not taken into account under subsection (a) by reason of the application of this paragraph.

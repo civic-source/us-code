@@ -1,0 +1,14 @@
+---
+title: "Section 7581 - Marine Corps post laundries: disposition of receipts"
+usc_title: 10
+usc_section: "7581"
+chapter: 649
+current_through: "PL 113-100"
+classification: "10 U.S.C. § 7581"
+generated_at: "2026-03-29T17:50:57.232Z"
+---
+
+# § 7581. Marine Corps post laundries: disposition of receipts
+
+- **(a)** Money received for laundry work performed by Marine Corps post laundries shall be used to pay the cost of maintenance and operation of those laundries. Any amount remaining at the end of the fiscal year after the cost has been so paid shall be deposited in the Treasury to the credit of the appropriation from which the cost of operating the laundries is paid.
+- **(b)** The receipts and expenditures of Marine Corps post laundries shall be accounted for as public funds.

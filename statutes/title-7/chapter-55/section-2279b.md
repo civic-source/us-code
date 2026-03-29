@@ -3,9 +3,9 @@ title: "Section 2279b - Department of Agriculture educational, training, and pro
 usc_title: 7
 usc_section: "2279b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2279b"
-generated_at: "2026-03-29T02:10:16.960Z"
+generated_at: "2026-03-29T17:50:48.729Z"
 ---
 
 # § 2279b. Department of Agriculture educational, training, and professional development activities
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T02:10:16.960Z"
   - **(6)** The Director and the members of the Board shall not be held personally liable for any loss or damage that may accrue to the funds of the Graduate School as the result of any act or exercise of discretion performed in carrying out their duties under this section.
 - **(f)** Employees of the Graduate School are employees of a nonappropriated fund instrumentality and shall not be considered to be Federal employees.
 - **(g)** The Graduate School shall not be considered to be a Federal agency for purposes of—
-  - **(1)** chapter 10 of title 5;
+  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.);
   - **(2)** section 552 or 552a of title 5; or
   - **(3)** chapter 171 of title 28.
 - **(h)** In order to carry out the activities of the Graduate School, the Graduate School may—
@@ -54,4 +54,4 @@ generated_at: "2026-03-29T02:10:16.960Z"
   - **(4)** dispose of real and personal property without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 - **(i)** The Graduate School may enter into contracts without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other law that prescribes procedures for the procurement of property or services by an executive agency.
 - **(j)** The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
-- **(k)** The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
+- **(k)** The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c) of this section) shall be made available to the Comptroller General for purposes of conducting an audit.

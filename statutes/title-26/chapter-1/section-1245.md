@@ -3,9 +3,9 @@ title: "Section 1245 - Gain from dispositions of certain depreciable property"
 usc_title: 26
 usc_section: "1245"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1245"
-generated_at: "2026-03-29T02:14:01.116Z"
+generated_at: "2026-03-29T17:52:39.355Z"
 ---
 
 # § 1245. Gain from dispositions of certain depreciable property
@@ -19,18 +19,17 @@ generated_at: "2026-03-29T02:14:01.116Z"
   - **(2)** For purposes of this section—
     - **(A)** The term “recomputed basis” means, with respect to any property, its adjusted basis recomputed by adding thereto all adjustments reflected in such adjusted basis on account of deductions (whether in respect of the same or other property) allowed or allowable to the taxpayer or to any other person for depreciation or amortization.
     - **(B)** For purposes of subparagraph (A), if the taxpayer can establish by adequate records or other sufficient evidence that the amount allowed for depreciation or amortization for any period was less than the amount allowable, the amount added for such period shall be the amount allowed.
-    - **(C)** Any deduction allowable under section 179, 179B, 179C, 179D, 179E, 181, 190, 193, or 194 shall be treated as if it were a deduction allowable for amortization.
+    - **(C)** Any deduction allowable under section 179, 179A, 179B, 179C, 179D, 179E, 181, 190, 193, or 194 shall be treated as if it were a deduction allowable for amortization.
   - **(3)** For purposes of this section, the term “section 1245 property” means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 and is either—
     - **(A)** personal property,
     - **(B)** other property (not including a building or its structural components) but only if such other property is tangible and has an adjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
       - **(i)** was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
       - **(ii)** constituted a research facility used in connection with any of the activities referred to in clause (i), or
       - **(iii)** constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
-    - **(C)** so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194 1 1 So in original. Probably should be followed by a comma.
+    - **(C)** so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179A, 179B, 179C, 179D, 179E, 185, 1 1 See References in Text note below. 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194, 2 2 Comma added editorially.
     - **(D)** a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
-    - **(E)** a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum,
-    - **(F)** any railroad grading or tunnel bore (as defined in section 168(e)(4)), or
-    - **(G)** any qualified production property (as defined in section 168(n)(2)).
+    - **(E)** a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
+    - **(F)** any railroad grading or tunnel bore (as defined in section 168(e)(4)).
 - **(b)**
   - **(1)** Subsection (a) shall not apply to a disposition by gift.
   - **(2)** Except as provided in section 691 (relating to income in respect of a decedent), subsection (a) shall not apply to a transfer at death.

@@ -3,9 +3,9 @@ title: "Section 285a - Purpose and policy"
 usc_title: 2
 usc_section: "285a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 285a"
-generated_at: "2026-03-29T02:09:53.665Z"
+generated_at: "2026-03-29T17:50:24.020Z"
 ---
 
 # § 285a. Purpose and policy

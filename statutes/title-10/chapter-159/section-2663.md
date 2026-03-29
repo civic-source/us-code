@@ -3,9 +3,9 @@ title: "Section 2663 - Land acquisition authorities"
 usc_title: 10
 usc_section: "2663"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2663"
-generated_at: "2026-03-29T02:10:45.124Z"
+generated_at: "2026-03-29T17:50:57.151Z"
 ---
 
 # § 2663. Land acquisition authorities
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:10:45.124Z"
 - **(c)**
   - **(1)** The Secretary of a military department may acquire any interest in land that—
     - **(A)** the Secretary determines is needed in the interest of national defense; and
-    - **(B)** does not cost more than $4,000,000, exclusive of administrative costs and the amounts of any deficiency judgments.
+    - **(B)** does not cost more than $750,000, exclusive of administrative costs and the amounts of any deficiency judgments.
   - **(2)** The Secretary of a military department may acquire any interest in land that—
     - **(A)** the Secretary determines is needed solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; and
     - **(B)** does not cost more than $1,500,000, exclusive of administrative costs and the amounts of any deficiency judgments.
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:10:45.124Z"
     - **(A)** the acquisition is needed in the interest of national defense;
     - **(B)** the acquisition is required to maintain the operational integrity of a military installation; and
     - **(C)** considerations of urgency do not permit the delay necessary to include the required acquisition in an annual Military Construction Authorization Act.
-  - **(2)** Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit, in an electronic medium pursuant to section 480 of this title , to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
+  - **(2)** Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
   - **(3)** Appropriations available for military construction may be used for the purposes of this subsection.
 - **(e)** Authority provided the Secretary of a military department by law to acquire an interest in real property (including a temporary interest) includes authority—
   - **(1)** to make surveys; and
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T02:10:45.124Z"
       - **(i)** a description of the land to be acquired;
       - **(ii)** a certification that negotiations with the owner or owners of the land occurred, and that the Secretary tendered consideration in an amount equal to the fair market value of the land, as determined by the Secretary; and
       - **(iii)** an explanation of the other approaches considered for acquiring use of the land, the reasons for the acquisition of the land, and the reasons why alternative acquisition strategies are inadequate.
-  - **(2)** The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees in an electronic medium pursuant to section 480 of this title .
+  - **(2)** The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title .
 - **(g)** If the Secretary of a military department determines that the use of condemnation, eminent domain, or seizure to acquire an interest in land is required under subsection (a) to satisfy a requirement vital to national security, and that any delay would be detrimental to national security or the protection of health, safety, or the environment, the Secretary may have proceedings brought in the name of the United States to acquire the land in advance of submitting the report required by subsection (f)(1)(B). However, the Secretary shall submit the report not later than seven days after commencement of the legal proceedings with respect to the land.
 - **(h)**
   - **(1)** The Secretary of a military department may acquire an option on a parcel of real property before or after its acquisition is authorized by law, if the Secretary considers it suitable and likely to be needed for a military project of the military department under the jurisdiction of the Secretary.

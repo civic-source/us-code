@@ -1,12 +1,40 @@
 ---
-title: "Section 2326 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]"
+title: "Section 2326 - Undefinitized contractual actions: restrictions"
 usc_title: 10
 usc_section: "2326"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2326"
-generated_at: "2026-03-29T02:10:45.092Z"
+generated_at: "2026-03-29T17:50:57.104Z"
 ---
 
-# [§ 2326. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]
+# § 2326. Undefinitized contractual actions: restrictions
 
+- **(a)** The head of an agency may not enter into an undefinitized contractual action unless the request to the head of the agency for authorization of the contractual action includes a description of the anticipated effect on requirements of the military department concerned if a delay is incurred for purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
+- **(b)**
+  - **(1)** A contracting officer of the Department of Defense may not enter into an undefinitized contractual action unless the contractual action provides for agreement upon contractual terms, specifications, and price by the earlier of—
+    - **(A)** the end of the 180-day period beginning on the date on which the contractor submits a qualifying proposal to definitize the contractual terms, specifications, and price; or
+    - **(B)** the date on which the amount of funds obligated under the contractual action is equal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
+  - **(2)** Except as provided in paragraph (3), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+  - **(3)** If a contractor submits a qualifying proposal (as defined in subsection (g)) to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+  - **(4)** The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if that head of an agency determines that the waiver is necessary in order to support any of the following operations:
+    - **(A)** A contingency operation.
+    - **(B)** A humanitarian or peacekeeping operation.
+  - **(5)** This subsection does not apply to an undefinitized contractual action for the purchase of initial spares.
+- **(c)** Requirements for spare parts and support equipment that are not needed on an urgent basis may not be included in an undefinitized contractual action for spare parts and support equipment that are needed on an urgent basis unless the head of the agency approves such inclusion as being—
+  - **(1)** good business practice; and
+  - **(2)** in the best interests of the United States.
+- **(d)** The scope of an undefinitized contractual action under which performance has begun may not be modified unless the head of the agency approves such modification as being—
+  - **(1)** good business practice; and
+  - **(2)** in the best interests of the United States.
+- **(e)** The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
+  - **(1)** the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated; and
+  - **(2)** the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
+- **(f)** This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
+- **(g)** In this section:
+  - **(1)** The term “undefinitized contractual action” means a new procurement action entered into by the head of an agency for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action. Such term does not include contractual actions with respect to the following:
+    - **(A)** Foreign military sales.
+    - **(B)** Purchases in an amount not in excess of the amount of the simplified acquisition threshold.
+    - **(C)** Special access programs.
+    - **(D)** Congressionally mandated long-lead procurement contracts.
+  - **(2)** The term “qualifying proposal” means a proposal that contains sufficient information to enable the Department of Defense to conduct complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer.

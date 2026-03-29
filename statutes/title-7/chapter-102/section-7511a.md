@@ -3,9 +3,9 @@ title: "Section 7511a - Emergency food program infrastructure grants"
 usc_title: 7
 usc_section: "7511a"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7511a"
-generated_at: "2026-03-29T02:10:17.147Z"
+generated_at: "2026-03-29T17:50:48.861Z"
 ---
 
 # § 7511a. Emergency food program infrastructure grants
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:10:17.147Z"
     - **(B)** potential nonprofit emergency food providers; and
     - **(C)** persons in need of emergency food assistance in rural areas; and
   - **(6)** constructing, expanding, or repairing a facility or equipment to support hunger relief agencies in the community.
-- **(d)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2023.
+- **(d)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2018.

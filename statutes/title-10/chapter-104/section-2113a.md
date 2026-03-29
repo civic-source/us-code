@@ -3,9 +3,9 @@ title: "Section 2113a - Board of Regents"
 usc_title: 10
 usc_section: "2113a"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2113a"
-generated_at: "2026-03-29T02:10:45.062Z"
+generated_at: "2026-03-29T17:50:57.072Z"
 ---
 
 # § 2113a. Board of Regents
@@ -14,9 +14,8 @@ generated_at: "2026-03-29T02:10:45.062Z"
 - **(b)** The Board shall consist of—
   - **(1)** nine persons outstanding in the fields of health care, higher education administration, or public policy who shall be appointed from civilian life by the Secretary of Defense;
   - **(2)** the Secretary of Defense, or his designee, who shall be an ex officio member;
-  - **(3)** the Director of the Defense Health Agency, who shall be an ex officio member;
-  - **(4)** the surgeons general of the uniformed services, who shall be ex officio members; and
-  - **(5)** the President of the University, who shall be a nonvoting ex officio member.
+  - **(3)** the surgeons general of the uniformed services, who shall be ex officio members; and
+  - **(4)** the President of the University, who shall be a nonvoting ex officio member.
 - **(c)** The term of office of each member of the Board (other than ex officio members) shall be six years except that—
   - **(1)** any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
   - **(2)** any member whose term of office has expired shall continue to serve until his successor is appointed.

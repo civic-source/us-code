@@ -3,9 +3,9 @@ title: "Section 1825 - Import prohibitions"
 usc_title: 16
 usc_section: "1825"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1825"
-generated_at: "2026-03-29T02:11:53.823Z"
+generated_at: "2026-03-29T17:51:56.903Z"
 ---
 
 # § 1825. Import prohibitions
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:11:53.823Z"
     - **(A)** in violation of an applicable international fishery agreement;
     - **(B)** without authorization under an agreement between the United States and such nation; or
     - **(C)** as a consequence of a claim of jurisdiction which is not recognized by the United States;
-- **(b)** Upon receipt of any certification from the Secretary of State under subsection (a), the Secretary of the Treasury shall immediately take such action as may be necessary and appropriate to prohibit the importation into the United States—
+- **(b)** Upon receipt of any certification from the Secretary of State under subsection (a) of this section, the Secretary of the Treasury shall immediately take such action as may be necessary and appropriate to prohibit the importation into the United States—
   - **(1)** of all fish and fish products from the fishery involved, if any; and
   - **(2)** upon recommendation of the Secretary of State, such other fish or fish products, from any fishery of the foreign nation concerned, which the Secretary of State finds to be appropriate to carry out the purposes of this section.
 - **(c)** If the Secretary of State finds that the reasons for the imposition of any import prohibition under this section no longer prevail, the Secretary of State shall notify the Secretary of the Treasury, who shall promptly remove such import prohibition.

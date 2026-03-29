@@ -3,9 +3,9 @@ title: "Section 7632 - Specialty crop research initiative"
 usc_title: 7
 usc_section: "7632"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7632"
-generated_at: "2026-03-29T02:10:17.156Z"
+generated_at: "2026-03-29T17:50:48.866Z"
 ---
 
 # § 7632. Specialty crop research initiative
@@ -18,27 +18,13 @@ generated_at: "2026-03-29T02:10:17.156Z"
 - **(b)** There is established within the Department a specialty crop research and extension initiative to address the critical needs of the specialty crop industry by developing and disseminating science-based tools to address needs of specific crops and their regions, including—
   - **(1)** research in plant breeding, genetics, genomics, and other methods to improve crop characteristics, such as—
     - **(A)** product, taste, quality, and appearance;
-    - **(B)** size-controlling rootstock systems for perennial crops;
-    - **(C)** environmental responses and tolerances;
-    - **(D)** nutrient management, including plant nutrient uptake efficiency;
-    - **(E)** pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
-    - **(F)** enhanced phytonutrient content;
-  - **(2)** efforts to identify and address threats from pests and diseases, including—
-    - **(A)** threats to specialty crop pollinators;
-    - **(B)** emerging and invasive species; and
-    - **(C)** a more effective understanding and utilization of existing natural enemy complexes;
-  - **(3)** efforts—
-    - **(A)** to improve production efficiency, handling and processing, productivity, and profitability over the long term (including specialty crop policy and marketing); and
-    - **(B)** to achieve a better understanding of—
-      - **(i)** the soil rhizosphere microbiome;
-      - **(ii)** pesticide application systems and certified drift-reduction technologies; and
-      - **(iii)** systems to improve and extend the storage life of specialty crops;
-  - **(4)** new innovations and technology, including—
-    - **(A)** mechanization and automation of labor-intensive tasks in production and processing;
-    - **(B)** technologies that delay or inhibit ripening;
-    - **(C)** decision support systems driven by phenology and environmental factors;
-    - **(D)** improved monitoring systems for agricultural pests; and
-    - **(E)** effective systems for preharvest and postharvest management of quarantine pests; and
+    - **(B)** environmental responses and tolerances;
+    - **(C)** nutrient management, including plant nutrient uptake efficiency;
+    - **(D)** pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
+    - **(E)** enhanced phytonutrient content;
+  - **(2)** efforts to identify and address threats from pests and diseases, including threats to specialty crop pollinators;
+  - **(3)** efforts to improve production efficiency, handling and processing, productivity, and profitability over the long term (including specialty crop policy and marketing);
+  - **(4)** new innovations and technology, including improved mechanization and technologies that delay or inhibit ripening; and
   - **(5)** methods to prevent, detect, monitor, control, and respond to potential food safety hazards in the production and processing of specialty crops, including fresh produce.
 - **(c)** The Secretary may carry out this section through—
   - **(1)** Federal agencies;
@@ -65,10 +51,7 @@ generated_at: "2026-03-29T02:10:17.156Z"
 - **(g)**
   - **(1)** With respect to grants awarded under this section, the Secretary shall seek and accept proposals for grants.
   - **(2)** The term of a grant under this section may not exceed 10 years.
-  - **(3)**
-    - **(A)** An entity receiving a grant under this section shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
-    - **(B)** Non-Federal matching funds described in subparagraph (A) may include in-kind support.
-  - **(4)** The Secretary may set such other conditions on the award of a grant under the Initiative as the Secretary determines to be appropriate.
+  - **(3)** The Secretary may set such other conditions on the award of a grant under the Initiative as the Secretary determines to be appropriate.
 - **(h)** In making grants under the Initiative, the Secretary shall provide a higher priority to projects that—
   - **(1)** are multistate, multi-institutional, or multidisciplinary; and
   - **(2)** include explicit mechanisms to communicate results to producers and the public.
@@ -92,12 +75,10 @@ generated_at: "2026-03-29T02:10:17.156Z"
 - **(k)**
   - **(1)**
     - **(A)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2008 and $50,000,000 for each of fiscal years 2009 through 2012, from which activities under each of paragraphs (1) through (5) of subsection (b) shall be allocated not less than 10 percent.
-    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
-      - **(i)** $80,000,000 for each of fiscal years 2014 through 2025; and
-      - **(ii)** $175,000,000 for fiscal year 2026 and each fiscal year thereafter.
+    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $80,000,000 for fiscal year 2014 and each fiscal year thereafter.
     - **(C)** For each of fiscal years 2014 through 2018, the Secretary shall reserve not less than $25,000,000 of the funds made available under subparagraph (B) to carry out the program established under subsection (j).
     - **(D)** Funds reserved under subparagraph (C) shall remain available and reserved for the purpose described in such subparagraph until expended.
-  - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2014 through 2023.
+  - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2014 through 2018.
   - **(3)** There is authorized to be appropriated to carry out this section $100,000,000 for fiscal year 2013.
   - **(4)** Of the funds made available to the Secretary under paragraph (1) for fiscal year 2008 and authorized for use for payment of administrative expenses under section 3315(a)(3) of this title , the Secretary shall transfer, upon the date of enactment of this section, $200,000 to the Office of Prevention, Pesticides, and Toxic Substances of the Environmental Protection Agency for use in conducting a meta-analysis relating to methyl bromide.
   - **(5)** Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.

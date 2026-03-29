@@ -3,15 +3,15 @@ title: "Section 973 - Application for indemnity agreements"
 usc_title: 20
 usc_section: "973"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 973"
-generated_at: "2026-03-29T02:12:17.168Z"
+generated_at: "2026-03-29T17:51:48.311Z"
 ---
 
 # § 973. Application for indemnity agreements
 
 - **(a)** Any person, nonprofit agency, institution, or government desiring to make an indemnity agreement for eligible items under this chapter shall make application therefor in accordance with such procedures, in such form, and in such manner as the Council shall, by regulation, prescribe.
-- **(b)** An application under subsection (a) shall—
+- **(b)** An application under subsection (a) of this section shall—
   - **(1)** describe each item to be covered by the agreement (including an estimated value of such item);
   - **(2)** show evidence that the items are eligible under section 972(a) of this title ; and
   - **(3)** set forth policies, procedures, techniques, and methods with respect to preparation for, and conduct of, exhibition of the items, and any transportation related to such items.

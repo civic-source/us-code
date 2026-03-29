@@ -1,12 +1,14 @@
 ---
-title: "Section 432 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 432 - Permits to examine ruins, excavations, and gathering of objects; regulations"
 usc_title: 16
 usc_section: "432"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 432"
-generated_at: "2026-03-29T02:11:53.456Z"
+generated_at: "2026-03-29T17:51:56.568Z"
 ---
 
-# § 432. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 432. Permits to examine ruins, excavations, and gathering of objects; regulations
+
+Permits for the examination of ruins, the excavation of archaeological sites, and the gathering of objects of antiquity upon the lands under their respective jurisdictions may be granted by the Secretaries of the Interior, Agriculture, and Army to institutions which they may deem properly qualified to conduct such examination, excavation, or gathering, subject to such rules and regulations as they may prescribe: Provided , That the examinations, excavations, and gatherings are undertaken for the benefit of reputable museums, universities, colleges, or other recognized scientific or educational institutions, with a view to increasing the knowledge of such objects, and that the gatherings shall be made for permanent preservation in public museums. The Secretaries of the departments aforesaid shall make and publish from time to time uniform rules and regulations for the purpose of carrying out the provisions of this section and sections 431 and 433 of this title.
 

@@ -1,12 +1,14 @@
 ---
-title: "Section 566c - Omitted"
+title: "Section 566c - Hunting, fishing, trapping, and water rights"
 usc_title: 25
 usc_section: "566c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 566c"
-generated_at: "2026-03-29T02:13:20.865Z"
+generated_at: "2026-03-29T17:52:05.997Z"
 ---
 
-# § 566c. Omitted
+# § 566c. Hunting, fishing, trapping, and water rights
+
+Nothing in this subchapter shall affect in any manner any hunting, fishing, trapping, gathering, or water right of the tribe and its members.
 

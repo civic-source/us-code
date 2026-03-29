@@ -3,9 +3,9 @@ title: "Section 5601 - Criminal penalties"
 usc_title: 26
 usc_section: "5601"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 5601"
-generated_at: "2026-03-29T02:14:01.267Z"
+generated_at: "2026-03-29T17:52:39.501Z"
 ---
 
 # § 5601. Criminal penalties
@@ -29,5 +29,5 @@ generated_at: "2026-03-29T02:14:01.267Z"
   - **(12)** removes, other than as authorized by law, any distilled spirits on which the tax has not been paid or determined, from the place of manufacture or storage, or from any instrument of transportation, or conceals spirits so removed; or
   - **(13)** adds, or causes to be added, any ingredient or substance (other than ingredients or substances authorized by law to be added) to any distilled spirits before the tax is paid thereon, or determined as provided by law, for the purpose of creating fictitious proof; or
   - **(14)** after the time fixed in the notice given under section 5221(a) to suspend operations as a distiller, carries on the business of a distiller on the premises covered by the notice of suspension, or has mash, wort, or beer on such premises, or on any premises connected therewith, or has in his possession or under his control any mash, wort, or beer, with intent to distill the same on such premises; or
-  - **(15)** withdraws, uses, sells, or otherwise disposes of distilled spirits produced under section 5181 for other than fuel use;
+  - **(15)** Withdraws, 1 1 So in original. Probably should not be capitalized. uses, sells, or otherwise disposes of distilled spirits produced under section 5181 for other than fuel use;
 - **(b)** Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).

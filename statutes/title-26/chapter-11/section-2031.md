@@ -3,9 +3,9 @@ title: "Section 2031 - Definition of gross estate"
 usc_title: 26
 usc_section: "2031"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2031"
-generated_at: "2026-03-29T02:14:01.159Z"
+generated_at: "2026-03-29T17:52:39.402Z"
 ---
 
 # § 2031. Definition of gross estate
@@ -15,9 +15,9 @@ generated_at: "2026-03-29T02:14:01.159Z"
 - **(c)**
   - **(1)** If the executor makes the election described in paragraph (6), then, except as otherwise provided in this subsection, there shall be excluded from the gross estate the lesser of—
     - **(A)** the applicable percentage of the value of land subject to a qualified conservation easement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
-    - **(B)** $500,000.
-  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
-  - **[(3)**
+    - **(B)** the exclusion limitation.
+  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land 1 1 So in original. No closing parenthesis was enacted. (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+  - **(3)** For purposes of paragraph (1), the exclusion limitation is the limitation determined in accordance with the following table: In the case of estates of The exclusion decedents dying during: limitation is: 1998 $100,000 1999 $200,000 2000 $300,000 2001 $400,000 2002 or thereafter $500,000.
   - **(4)**
     - **(A)** The exclusion provided in paragraph (1) shall not apply to the extent that the land is debt-financed property.
     - **(B)** For purposes of this paragraph—
@@ -49,5 +49,5 @@ generated_at: "2026-03-29T02:14:01.159Z"
       - **(iv)** the trustee of a trust the corpus of which includes the land to be subject to the qualified conservation easement.
     - **(D)** The term “member of the decedent’s family” means any member of the family (as defined in section 2032A(e)(2)) of the decedent.
   - **(9)** In any case in which the qualified conservation easement is granted after the date of the decedent’s death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
-  - **(10)** This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3) (as in effect before its repeal).
+  - **(10)** This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
 - **(d)** For executor’s right to be furnished on request a statement regarding any valuation made by the Secretary within the gross estate, see section 7517.

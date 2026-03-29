@@ -3,9 +3,9 @@ title: "Section 271 - Establishment of Bureau of Citizenship and Immigration Ser
 usc_title: 6
 usc_section: "271"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 271"
-generated_at: "2026-03-29T02:10:04.979Z"
+generated_at: "2026-03-29T17:50:39.332Z"
 ---
 
 # § 271. Establishment of Bureau of Citizenship and Immigration Services
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:10:04.979Z"
       - **(ii)** work in at least one field office and one service center of such bureau.
     - **(B)** Not later than 2 years after the effective date specified in section 455, 1 the Secretary shall submit a report to Congress on the implementation of such program.
   - **(5)** The Director of the Bureau of Citizenship and Immigration Services is authorized to implement innovative pilot initiatives to eliminate any remaining backlog in the processing of immigration benefit applications, and to prevent any backlog in the processing of such applications from recurring, in accordance with section 1573(a) of title 8 . Such initiatives may include measures such as increasing personnel, transferring personnel to focus on areas with the largest potential for backlog, and streamlining paperwork.
-- **(b)** In accordance with subchapter XII (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: 1
+- **(b)** In accordance with subchapter XII of this chapter (relating to transition provisions), there are transferred from the Commissioner of Immigration and Naturalization to the Director of the Bureau of Citizenship and Immigration Services the following functions, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions immediately before the effective date specified in section 455: 1
   - **(1)** Adjudications of immigrant visa petitions.
   - **(2)** Adjudications of naturalization petitions.
   - **(3)** Adjudications of asylum and refugee applications.

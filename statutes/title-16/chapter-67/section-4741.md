@@ -3,17 +3,17 @@ title: "Section 4741 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4741"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4741"
-generated_at: "2026-03-29T02:11:53.943Z"
+generated_at: "2026-03-29T17:51:56.999Z"
 ---
 
 # § 4741. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated to develop and implement the provisions of subchapter II—
-  - **(1)** $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 1 1 See References in Text note below. and 4712(a)(3) of this title;
-  - **(2)** $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 2 2 So in original. Probably should be followed by a closing parenthesis. of this title;
-  - **(3)** to the Secretary to carry out section 4711 1 of this title—
+- **(a)** There are authorized to be appropriated to develop and implement the provisions of subchapter II of this chapter—
+  - **(1)** $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 and 4712(a)(3) of this title;
+  - **(2)** $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 1 1 So in original. Probably should be followed by a closing parenthesis. of this title;
+  - **(3)** to the Secretary to carry out section 4711 of this title —
     - **(A)** $2,000,000 for each of fiscal years 1997 and 1998; and
     - **(B)** $3,000,000 for each of fiscal years 1999 through 2002;
   - **(4)** for each of fiscal years 1997 through 2002, to carry out paragraphs (1) and (2) of section 4712(b) of this title —
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:11:53.943Z"
   - **(5)** for each of fiscal years 1997 through 2002—
     - **(A)** $3,000,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to the Under Secretary to carry out section 4712(e) of this title ; and
     - **(B)** $500,000 to the Secretary to carry out section 4712(f) of this title .
-- **(b)** There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III—
+- **(b)** There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III of this chapter—
   - **(1)** $6,000,000 to the Department of the Interior, to be used by the Director to carry out sections 4722 and 4728 of this title;
   - **(2)** $1,000,000 to the Department of Commerce, to be used by the Under Secretary to carry out section 4722 of this title ;
   - **(3)** $1,625,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to fund aquatic nuisance species prevention and control research under section 4722(i) of this title at the Great Lakes Environmental Research Laboratory of the National Oceanic and Atmospheric Administration, of which $500,000 shall be made available for grants, to be competitively awarded and subject to peer review, for research relating to Lake Champlain;

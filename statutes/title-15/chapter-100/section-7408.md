@@ -3,9 +3,9 @@ title: "Section 7408 - National Academy of Sciences study on computer and networ
 usc_title: 15
 usc_section: "7408"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 7408"
-generated_at: "2026-03-29T02:11:34.427Z"
+generated_at: "2026-03-29T17:51:36.418Z"
 ---
 
 # § 7408. National Academy of Sciences study on computer and network security in critical infrastructures
@@ -14,6 +14,6 @@ generated_at: "2026-03-29T02:11:34.427Z"
   - **(1)** review existing studies and associated data on the architectural, hardware, and software vulnerabilities and interdependencies in United States critical infrastructure networks;
   - **(2)** identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations for research priorities and resource requirements; and
   - **(3)** review any and all other essential elements of computer and network security, including security of industrial process controls, to be determined in the conduct of the study.
-- **(b)** The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after November 27, 2002 .
+- **(b)** The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) of this section to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after November 27, 2002 .
 - **(c)** The Director of the National Institute of Standards and Technology shall ensure that no information that is classified is included in any publicly released version of the report required by this section.
 - **(d)** There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.

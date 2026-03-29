@@ -3,9 +3,9 @@ title: "Section 1041 - Enforcement provisions"
 usc_title: 21
 usc_section: "1041"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 1041"
-generated_at: "2026-03-29T02:12:28.167Z"
+generated_at: "2026-03-29T17:52:03.972Z"
 ---
 
 # § 1041. Enforcement provisions
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T02:12:28.167Z"
   - **(5)** The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty assessed under this subsection.
   - **(6)** Paragraph (1) shall not apply to an official plant.
 - **(d)** When construing or enforcing the provisions of section 1037 of this title , the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
-- **(e)** No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or paragraph (c) 1 1 So in original. Probably should be “subsection (c)”. of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or ware­houseman.
+- **(e)** No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or subsection (c) of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or ware­houseman.

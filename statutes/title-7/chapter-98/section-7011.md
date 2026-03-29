@@ -3,9 +3,9 @@ title: "Section 7011 - Successorship provisions relating to bargaining units and
 usc_title: 7
 usc_section: "7011"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7011"
-generated_at: "2026-03-29T02:10:17.105Z"
+generated_at: "2026-03-29T17:50:48.835Z"
 ---
 
 # § 7011. Successorship provisions relating to bargaining units and exclusive representatives
@@ -16,10 +16,10 @@ generated_at: "2026-03-29T02:10:17.105Z"
     - **(A)** sections 7103(a)(4), 7111(e), 7111(f)(1), and 7120 of title 5, relating to determining an exclusive representative; and
     - **(B)** section 7112 of title 5 (disregarding subsections (b)(5) and (d) thereof), relating to determining appropriate units.
 - **(b)**
-  - **(1)** If the affected parties reach agreement on the appropriate unit and the exclusive representative for such unit under subsection (a), the Federal Labor Relations Authority shall certify the terms of such agreement, subject to paragraph (2)(A). Nothing in this subsection shall be considered to require the holding of any hearing or election as a condition for certification.
+  - **(1)** If the affected parties reach agreement on the appropriate unit and the exclusive representative for such unit under subsection (a) of this section, the Federal Labor Relations Authority shall certify the terms of such agreement, subject to paragraph (2)(A). Nothing in this subsection shall be considered to require the holding of any hearing or election as a condition for certification.
   - **(2)**
     - **(A)** The Federal Labor Relations Authority may not certify the terms of an agreement under paragraph (1) if—
-      - **(i)** it determines that any of the criteria referred to in subsection (a)(2) (disregarding section 7112(a) of title 5 ) have not been met; or
+      - **(i)** it determines that any of the criteria referred to in subsection (a)(2) of this section (disregarding section 7112(a) of title 5 ) have not been met; or
       - **(ii)** after the Secretary’s exercise of authority and before certification under this section, a valid election under section 7111(b) of title 5 is held covering any employees who would be included in the unit proposed for certification.
     - **(B)** Nothing in section 7111(f)(3) of title 5 shall prevent the holding of an election under section 7111(b) of such title that covers employees within a unit certified under paragraph (1), or giving effect to the results of such an election (including a decision not to be represented by any labor organization), if the election is held before the end of the 12-month period beginning on the date such unit is so certified.
     - **(C)** The certification of a unit under paragraph (1) shall not, for purposes of the last sentence of section 7111(b) of title 5 or section 7111(f)(4) of such title, be treated as if it had occurred pursuant to an election.

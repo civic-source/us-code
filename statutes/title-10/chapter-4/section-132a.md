@@ -1,29 +1,15 @@
 ---
-title: "Section 132a - Performance Improvement Officer"
+title: "Section 132a - Deputy Chief Management Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-29T02:10:44.822Z"
+generated_at: "2026-03-29T17:50:56.923Z"
 ---
 
-# § 132a. Performance Improvement Officer
+# § 132a. Deputy Chief Management Officer
 
-- **(a)**
-  - **(1)** There is a Performance Improvement Officer of the Department of Defense, to be appointed by the Secretary of Defense from among the ranks of qualified individuals from the senior career civil service.
-  - **(2)** The Performance Improvement Officer shall be appointed from among persons described in paragraph (1) who have an extensive management or business background and experience with managing large or complex organizations, organizational change management, or business transformation activities.
-- **(b)** The Performance Improvement Officer shall be supported by a Deputy who shall be appointed by the Secretary of Defense from among the ranks of qualified individuals from the senior career civil service. The Deputy shall be the first assistant to the Performance Improvement Officer and shall assist that Officer in the performance of the duties of that position and shall act for, and exercise the powers of, the Officer when that Officer dies, resigns, or is otherwise unable to perform the functions and duties of the office.
-- **(c)** Subject to the authority, direction, and control of the Secretary of Defense and the Deputy Secretary of Defense, the Performance Improvement Officer shall perform such duties, exercise such powers, and have such responsibilities as the Secretary or the Deputy Secretary may prescribe, including the following:
-  - **(1)** Responsibility for updating and implementing the Strategic Management Plan of the Department of Defense required by section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 ( Public Law 110–181 ; 10 U.S.C. note prec. 2201).
-  - **(2)** Responsibility for chairing the Defense Performance Improvement Council (or any successor organization).
-  - **(3)** Responsibility for the Defense Performance Improvement Framework, as established under section 125a of this title .
-  - **(4)** Responsibility for the execution of not fewer than two annual meetings of the Defense Management Action Group (or any successor organization) with agendas relating to the Strategic Management Plan described in paragraph (1).
-  - **(5)** Oversight of transformational business modernization and business process re-engineering of the Department of Defense.
-  - **(6)** Oversight and tracking the implementation of—
-    - **(A)** solutions to solve issues identified by the High Risk List maintained by the Government Accountability Office; and
-    - **(B)** other recommendations of such Office.
-  - **(7)** Serving as the lead official devoted to modernizing the business processes of the Department that serve as the baseline for all external acquisition and internal operations.
-  - **(8)** Oversight and management of the Defense Management Institute (as established pursuant to the memorandum of the Director of Administration and Management of the Department dated January 13, 2023 ), or any successor organization.
-  - **(9)** Serving as co-chair of the Defense Business Council in accordance with section 2222(f)(1) of this title .
-  - **(10)** Maintaining authority for convening meetings of personnel and organizations of the Department on matters relating to the duties and responsibilities described in this subsection.
+- **(a)** There is a Deputy Chief Management Officer of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+- **(b)** The Deputy Chief Management Officer assists the Deputy Secretary of Defense in the Deputy Secretary’s capacity as Chief Management Officer of the Department of Defense under section 132(c) of this title .
+- **(c)** The Deputy Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense.

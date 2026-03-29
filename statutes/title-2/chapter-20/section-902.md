@@ -3,9 +3,9 @@ title: "Section 902 - Enforcing pay-as-you-go"
 usc_title: 2
 usc_section: "902"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 902"
-generated_at: "2026-03-29T02:09:53.699Z"
+generated_at: "2026-03-29T17:50:24.057Z"
 ---
 
 # § 902. Enforcing pay-as-you-go
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T02:09:53.699Z"
 - **(b)**
   - **(1)** Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002 , as calculated under paragraph (2).
   - **(2)** OMB shall calculate the amount of deficit increase or decrease by adding—
-    - **(A)** all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d);
+    - **(A)** all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
     - **(B)** the estimated amount of savings in direct spending programs applicable to the budget year resulting from the prior year’s sequestration under this section or section 903 of this title , if any, as published in OMB’s final sequestration report for that prior year; and
-    - **(C)** any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) that were not reflected in the final OMB sequestration report for the current year.
+    - **(C)** any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
 - **(c)**
-  - **(1)** The amount required to be sequestered in a fiscal year under subsection (b) shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
+  - **(1)** The amount required to be sequestered in a fiscal year under subsection (b) of this section shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
     - **(A)** All reductions in automatic spending increases specified in section 906(a) 1 1 See References in Text note below. of this title shall be made.
     - **(B)** If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) 1 of this title (foster care and adoption assistance) shall be made.
     - **(C)**
@@ -34,8 +34,8 @@ generated_at: "2026-03-29T02:09:53.699Z"
   - **(3)** If during the preparation of the report under paragraph (2) OMB determines that there is a significant difference between the OMB and CBO estimates, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation, to the extent practicable, shall include written communication to such committees that affords such committees the opportunity to comment before the issuance of that report.
   - **(4)** The estimates under this section shall include the amount of change in outlays or receipts for the current year (if applicable), the budget year, and each outyear excluding any amounts resulting from—
     - **(A)** full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates; and
-    - **(B)** emergency provisions as designated under subsection (e).
+    - **(B)** emergency provisions as designated under subsection (e) of this section.
   - **(5)** OMB and CBO, after consultation with each other and the Committees on the Budget of the House of Representatives and the Senate, shall—
     - **(A)** determine common scorekeeping guidelines; and
     - **(B)** in conformance with such guidelines, prepare estimates under this section.
-- **(e)** If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+- **(e)** If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.

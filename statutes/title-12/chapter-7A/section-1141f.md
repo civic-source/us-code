@@ -1,12 +1,16 @@
 ---
-title: "Section 1141f - Repealed. Pub. L. 115–334, title V, § 5411(52) –(56), (58), Dec. 20, 2018 , 132 Stat. 4685"
+title: "Section 1141f - Miscellaneous loan provisions"
 usc_title: 12
 usc_section: "1141f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1141f"
-generated_at: "2026-03-29T02:11:20.879Z"
+generated_at: "2026-03-29T17:51:13.010Z"
 ---
 
-# §§ 1141b to 1141f. Repealed. Pub. L. 115–334, title V, § 5411(52) –(56), (58), Dec. 20, 2018 , 132 Stat. 4685
+# § 1141f. Miscellaneous loan provisions
 
+- **(a)** Repealed. Pub. L. 89–525, § 4(b) , Aug. 2, 1966 , 80 Stat. 334 .
+- **(b)** Payments of principal or interest upon any such loan or advance shall be covered into the revolving fund.
+- **(c)** Loans to any cooperative association or stabilization corporation shall be made upon the terms specified in this chapter and upon such other terms not inconsistent therewith and upon such security as the administration deems necessary.
+- **(d)** No loan or insurance agreement shall be made by the administration if in its judgment the agreement is likely to increase unduly the production of any agricultural commodity of which there is commonly produced a surplus in excess of the annual marketing requirements.

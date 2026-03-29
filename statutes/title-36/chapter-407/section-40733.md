@@ -3,12 +3,12 @@ title: "Section 40733 - Applicability of other law"
 usc_title: 36
 usc_section: "40733"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 40733"
-generated_at: "2026-03-29T02:14:41.351Z"
+generated_at: "2026-03-29T17:52:49.355Z"
 ---
 
 # § 40733. Applicability of other law
 
-- **(a)** Except as provided in subsection (b), section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
-- **(b)** With respect to firearms other than caliber .22 rimfire and caliber .30 rifles, the corporation shall obtain a license as a dealer in firearms and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
+Section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
+

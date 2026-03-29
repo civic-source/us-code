@@ -3,12 +3,12 @@ title: "Section 430ss - Administration, protection, and development"
 usc_title: 16
 usc_section: "430ss"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 430ss"
-generated_at: "2026-03-29T02:11:53.456Z"
+generated_at: "2026-03-29T17:51:56.567Z"
 ---
 
 # § 430ss. Administration, protection, and development
 
-The administration, protection, and development of the Fort Necessity National Battlefield shall be exercised by the Secretary of the Interior in accordance with provisions of the Act of August 25, 1916 ( 39 Stat. 535 ), entitled “An Act to establish a National Park Service, and for other purposes”, 1 1 See References in Text note below. as amended and supplemented.
+The administration, protection, and development of the Fort Necessity National Battlefield shall be exercised by the Secretary of the Interior in accordance with provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
 

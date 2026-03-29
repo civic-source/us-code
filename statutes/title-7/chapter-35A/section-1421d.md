@@ -3,16 +3,16 @@ title: "Section 1421d - Commodity reports"
 usc_title: 7
 usc_section: "1421d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1421d"
-generated_at: "2026-03-29T02:10:16.788Z"
+generated_at: "2026-03-29T17:50:48.579Z"
 ---
 
 # § 1421d. Commodity reports
 
 - **(a)** The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall gather data from producers to be used to develop crop reports to be distributed by the Secretary during the growing season. The report shall contain statements of the conditions of those crops by State, with such explanations, comparisons, and information as may be useful for illustrating such reports.
 - **(b)**
-  - **(1)** In addition to the reports compiled pursuant to subsection (a), the Secretary shall annually survey producers for information for reports regarding supply, acreage, production, disposition, and prices for the following commodities as determined by the Secretary:
+  - **(1)** In addition to the reports compiled pursuant to subsection (a) of this section, the Secretary shall annually survey producers for information for reports regarding supply, acreage, production, disposition, and prices for the following commodities as determined by the Secretary:
     - **(A)** 25 fresh market vegetables;
     - **(B)** 3 processing vegetables;
     - **(C)** 6 fruits and nuts;

@@ -1,0 +1,14 @@
+---
+title: "Section 1148c - Consolidation or merger"
+usc_title: 12
+usc_section: "1148c"
+chapter: 7
+current_through: "PL 113-100"
+classification: "12 U.S.C. § 1148c"
+generated_at: "2026-03-29T17:51:13.011Z"
+---
+
+# § 1148c. Consolidation or merger
+
+- **(a)** The Farm Credit Administration shall have the power and authority to order and effect the consolidation or merger of two or more regional agricultural credit corporations, on such terms and conditions as it shall direct.
+- **(b)** The Farm Credit Administration is authorized to grant charters to, prescribe bylaws for, and fix the capital of, regional agricultural credit corporations which may be formed by the consolidation of two or more regional agricultural credit corporations, and to approve or prescribe such amendments to the charter and bylaws of any regional agricultural credit corporation as it may from time to time deem necessary. Corporations formed by the consolidation of two or more regional agricultural credit corporations, as herein provided, shall have all the rights, powers, authority, and exemptions and shall be subject to the same supervision and control in the same manner as provided by law in respect to regional agricultural credit corporations organized under section 1148 of this title .

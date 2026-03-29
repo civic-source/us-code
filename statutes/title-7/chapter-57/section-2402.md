@@ -3,14 +3,14 @@ title: "Section 2402 - Right to plant variety protection; plant varieties protec
 usc_title: 7
 usc_section: "2402"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2402"
-generated_at: "2026-03-29T02:10:16.965Z"
+generated_at: "2026-03-29T17:50:48.733Z"
 ---
 
 # § 2402. Right to plant variety protection; plant varieties protectable
 
-- **(a)** The breeder of any sexually reproduced, tuber propagated, or asexually reproduced plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
+- **(a)** The breeder of any sexually reproduced or tuber propagated plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
   - **(1)** new, in the sense that, on the date of filing of the application for plant variety protection, propagating or harvested material of the variety has not been sold or otherwise disposed of to other persons, by or with the consent of the breeder, or the successor in interest of the breeder, for purposes of exploitation of the variety—
     - **(A)** in the United States, more than 1 year prior to the date of filing; or
     - **(B)** in any area outside of the United States—
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:10:16.965Z"
   - **(3)** uniform, in the sense that any variations are describable, predictable, and commercially acceptable; and
   - **(4)** stable, in the sense that the variety, when reproduced, will remain unchanged with regard to the essential and distinctive characteristics of the variety with a reasonable degree of reliability commensurate with that of varieties of the same category in which the same breeding method is employed.
 - **(b)**
-  - **(1)** If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a), the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
+  - **(1)** If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), if 2 or more applicants comply with all requirements for protection on the same date, a certificate shall be issued for each variety.
     - **(B)** If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.

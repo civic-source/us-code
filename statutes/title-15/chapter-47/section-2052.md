@@ -3,9 +3,9 @@ title: "Section 2052 - Definitions"
 usc_title: 15
 usc_section: "2052"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2052"
-generated_at: "2026-03-29T02:11:34.249Z"
+generated_at: "2026-03-29T17:51:36.289Z"
 ---
 
 # § 2052. Definitions
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:11:34.249Z"
   - **(5)** The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
     - **(A)** any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
     - **(B)** tobacco and tobacco products,
-    - **(C)** motor vehicles or motor vehicle equipment (as defined by section 30102(a)(6) and (7) of title 49 1 1 See References in Text note below. ),
+    - **(C)** motor vehicles or motor vehicle equipment (as defined by section 30102(a)(6) and (7) of title 49),
     - **(D)** pesticides (as defined by the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136 et seq.]),
     - **(E)** any article which, if sold by the manufacturer, producer, or importer, would be subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 [ 26 U.S.C. 4181 ] (determined without regard to any exemptions from such tax provided by section 4182 or 4221, or any other provision of such Code), or any component of any such article,
     - **(F)** aircraft, aircraft engines, propellers, or appliances (as defined in section 40102(a) of title 49 ),

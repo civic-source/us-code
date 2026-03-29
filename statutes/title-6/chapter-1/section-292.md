@@ -3,9 +3,9 @@ title: "Section 292 - Voluntary separation incentive payments"
 usc_title: 6
 usc_section: "292"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 292"
-generated_at: "2026-03-29T02:10:04.981Z"
+generated_at: "2026-03-29T17:50:39.335Z"
 ---
 
 # § 292. Voluntary separation incentive payments
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:10:04.981Z"
   - **(1)** an organizational chart depicting the covered entities after their restructuring pursuant to this chapter;
   - **(2)** a summary description of how the authority under this section will be used to help carry out that restructuring; and
   - **(3)** the information specified in section 663(b)(2) of Public Law 104–208 ( 5 U.S.C. 5597 note).
-- **(c)** The Attorney General and the Secretary may, to the extent necessary to help carry out their respective strategic restructuring plan described in subsection (b), make voluntary separation incentive payments to employees. Any such payment—
+- **(c)** The Attorney General and the Secretary may, to the extent necessary to help carry out their respective strategic restructuring plan described in subsection (b) of this section, make voluntary separation incentive payments to employees. Any such payment—
   - **(1)** shall be paid to the employee, in a lump sum, after the employee has separated from service;
   - **(2)** shall be paid from appropriations or funds available for the payment of basic pay of the employee;
   - **(3)** shall be equal to the lesser of—

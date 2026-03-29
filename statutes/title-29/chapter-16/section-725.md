@@ -3,9 +3,9 @@ title: "Section 725 - State Rehabilitation Council"
 usc_title: 29
 usc_section: "725"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 725"
-generated_at: "2026-03-29T02:14:09.385Z"
+generated_at: "2026-03-29T17:52:18.782Z"
 ---
 
 # § 725. State Rehabilitation Council
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:14:09.385Z"
   - **(2)** A State that designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind under section 721(a)(2)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
 - **(b)**
   - **(1)**
-    - **(A)** Except in the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
+    - **(A)** Except in the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
       - **(i)** at least one representative of the Statewide Independent Living Council established under section 796d of this title , which representative may be the chairperson or other designee of the Council;
       - **(ii)** at least one representative of a parent training and information center established pursuant to section 671 of the Individuals with Disabilities Education Act [ 20 U.S.C. 1471 ];
       - **(iii)** at least one representative of the client assistance program established under section 732 of this title ;
@@ -26,10 +26,10 @@ generated_at: "2026-03-29T02:14:09.385Z"
         - **(I)** individuals with physical, cognitive, sensory, and mental disabilities; and
         - **(II)** individuals’ representatives of individuals with disabilities who have difficulty in representing themselves or are unable due to their disabilities to represent themselves;
       - **(viii)** current or former applicants for, or recipients of, vocational rehabilitation services;
-      - **(ix)** in a State in which one or more projects are funded under section 741 of this title , at least one representative of the directors of the projects located in such State;
+      - **(ix)** in a State in which one or more projects are carried out under section 741 of this title , at least one representative of the directors of the projects;
       - **(x)** at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act [ 20 U.S.C. 1411 et seq.]; and
-      - **(xi)** at least one representative of the State workforce development board.
-    - **(B)** In the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
+      - **(xi)** at least one representative of the State workforce investment board.
+    - **(B)** In the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
       - **(i)** at least one representative described in subparagraph (A)(i);
       - **(ii)** at least one representative described in subparagraph (A)(ii);
       - **(iii)** at least one representative described in subparagraph (A)(iii);
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T02:14:09.385Z"
       - **(x)** in a State described in subparagraph (A)(ix), at least one representative described in such subparagraph;
       - **(xi)** at least one representative described in subparagraph (A)(x); and
       - **(xii)** at least one representative described in subparagraph (A)(xi).
-    - **(C)** In the case of a separate Council established under subsection (a)(2), any Council that is required by State law, as in effect on October 29, 1992 , to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
+    - **(C)** In the case of a separate Council established under subsection (a)(2) of this section, any Council that is required by State law, as in effect on October 29, 1992 , to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
       - **(i)** meets the requirements of subparagraph (B), other than the requirements of clauses (vi) and (ix) of such subparagraph; and
       - **(ii)** includes at least—
         - **(I)** one representative described in subparagraph (B)(vi); and
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T02:14:09.385Z"
     - **(A)** A majority of Council members shall be persons who are—
       - **(i)** individuals with disabilities described in section 705(20)(B) of this title ; and
       - **(ii)** not employed by the designated State unit.
-    - **(B)** In the case of a separate Council established under subsection (a)(2), a majority of Council members shall be persons who are—
+    - **(B)** In the case of a separate Council established under subsection (a)(2) of this section, a majority of Council members shall be persons who are—
       - **(i)** blind; and
       - **(ii)** not employed by the designated State unit.
   - **(5)**
@@ -69,7 +69,7 @@ generated_at: "2026-03-29T02:14:09.385Z"
   - **(7)**
     - **(A)** Except as provided in subparagraph (B), any vacancy occurring in the membership of the Council shall be filled in the same manner as the original appointment. The vacancy shall not affect the power of the remaining members to execute the duties of the Council.
     - **(B)** The appointing authority described in paragraph (3) may delegate the authority to fill such a vacancy to the remaining members of the Council after making the original appointment.
-- **(c)** The Council shall, after consulting with the State workforce development board—
+- **(c)** The Council shall, after consulting with the State workforce investment board—
   - **(1)** review, analyze, and advise the designated State unit regarding the performance of the responsibilities of the unit under this subchapter, particularly responsibilities relating to—
     - **(A)** eligibility (including order of selection);
     - **(B)** the extent, scope, and effectiveness of services provided; and
@@ -83,7 +83,7 @@ generated_at: "2026-03-29T02:14:09.385Z"
     - **(B)** vocational rehabilitation services provided by State agencies and other public and private entities responsible for providing vocational rehabilitation services to individuals with disabilities under this chapter; and
     - **(C)** employment outcomes achieved by eligible individuals receiving services under this subchapter, including the availability of health and other employment benefits in connection with such employment outcomes;
   - **(5)** prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
-  - **(6)** to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title , the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act [ 20 U.S.C. 1412(a)(20) ], the State Council on Developmental Disabilities established under section 15025 of title 42 , the State mental health planning council established under section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 ( 29 U.S.C. 3001 et seq.);
+  - **(6)** to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title , the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act [ 20 U.S.C. 1412(a)(20) ], the State Council on Developmental Disabilities established under section 15025 of title 42 , the State mental health planning council established under section 300x–3(a) of title 42 , and the State workforce investment board;
   - **(7)** provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
   - **(8)** perform such other functions, consistent with the purpose of this subchapter, as the State Rehabilitation Council determines to be appropriate, that are comparable to the other functions performed by the Council.
 - **(d)**
@@ -93,5 +93,5 @@ generated_at: "2026-03-29T02:14:09.385Z"
   - **(4)** While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State unit or any other agency or office of the State, that would create a conflict of interest.
 - **(e)** No member of the Council shall cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest under State law.
 - **(f)** The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
-- **(g)** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
+- **(g)** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C of this subchapter) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
 - **(h)** The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.

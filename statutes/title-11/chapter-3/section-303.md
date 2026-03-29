@@ -3,17 +3,17 @@ title: "Section 303 - Involuntary cases"
 usc_title: 11
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 303"
-generated_at: "2026-03-29T02:10:54.309Z"
+generated_at: "2026-03-29T17:51:02.130Z"
 ---
 
 # § 303. Involuntary cases
 
 - **(a)** An involuntary case may be commenced only under chapter 7 or 11 of this title, and only against a person, except a farmer, family farmer, or a corporation that is not a moneyed, business, or commercial corporation, that may be a debtor under the chapter under which such case is commenced.
 - **(b)** An involuntary case against a person is commenced by the filing with the bankruptcy court of a petition under chapter 7 or 11 of this title—
-  - **(1)** by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 1 1 See Adjustment of Dollar Amounts notes below. more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
-  - **(2)** if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 1 of such claims;
+  - **(1)** by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
+  - **(2)** if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 of such claims;
   - **(3)** if such person is a partnership—
     - **(A)** by fewer than all of the general partners in such partnership; or
     - **(B)** if relief has been ordered under this title with respect to all of the general partners in such partnership, by a general partner in such partnership, the trustee of such a general partner, or a holder of a claim against such partnership; or

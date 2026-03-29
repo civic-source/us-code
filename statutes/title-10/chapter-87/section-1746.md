@@ -3,29 +3,18 @@ title: "Section 1746 - Defense Acquisition University"
 usc_title: 10
 usc_section: "1746"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1746"
-generated_at: "2026-03-29T02:10:45.046Z"
+generated_at: "2026-03-29T17:50:57.062Z"
 ---
 
 # § 1746. Defense Acquisition University
 
-- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish and maintain a defense acquisition university structure to provide for—
+- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
   - **(1)** the professional educational development and training of the acquisition workforce; and
   - **(2)** research and analysis of defense acquisition policy issues from an academic perspective.
 - **(b)**
   - **(1)** The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers in the defense acquisition university structure as the Secretary considers necessary.
-  - **(2)** The Secretary of Defense shall ensure the defense acquisition university structure includes relevant expert lecturers from extramural institutions (as defined in section 1746a(g) of this title ), industry, or federally funded research and development centers to advance acquisition workforce competence regarding commercial business interests, acquisition process-related innovations, and other relevant leading practices of the private sector.
-  - **(3)** The compensation of persons employed under this subsection shall be as prescribed by the Secretary.
-  - **(4)** In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
-- **(c)** The President of the Defense Acquisition University shall work with the relevant professional schools and degree-granting institutions of the Department of Defense and military departments, and with extramural institutions (as defined in section 1746a(g) of this title ), to ensure that best practices are used in curriculum development to support acquisition workforce positions.
-- **(d)**
-  - **(1)** In engaging in research and development projects pursuant to subsection (a) of section 4001 of this title by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the Defense Acquisition University.
-  - **(2)** The Defense Acquisition University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a ).
-- **(e)**
-  - **(1)** The Under Secretary of Defense for Acquisition and Sustainment shall appoint the President of the Defense Acquisition University.
-  - **(2)** When determining who to appoint under paragraph (1), the Under Secretary of Defense for Acquisition and Sustainment shall, in consultation with the Under Secretary of Defense for Research and Engineering and the service acquisition executives, prioritize highly qualified candidates who demonstrate a combination of the following:
-    - **(A)** Leadership abilities.
-    - **(B)** Experience using leading practices to develop talent in the private sector.
-    - **(C)** Other qualifying factors, including experience with and an understanding of the defense acquisition system (as defined in section 3001 of this title ), an understanding of emerging technologies and the defense applications of such technologies, experience partnering with States, national associations, and academia, and experience with learning technologies.
-  - **(3)** The tenure of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the tenure for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025 , who shall serve a maximum tenure of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such tenure.
+  - **(2)** The compensation of persons employed under this subsection shall be as prescribed by the Secretary.
+  - **(3)** In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
+- **(c)** The President of the Defense Acquisition University shall work with the relevant professional schools and degree-granting institutions of the Department of Defense and military departments to ensure that best practices are used in curriculum development to support acquisition workforce positions.

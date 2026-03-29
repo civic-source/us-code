@@ -3,20 +3,19 @@ title: "Section 849 - Art. 49. Depositions"
 usc_title: 10
 usc_section: "849"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 849"
-generated_at: "2026-03-29T02:10:44.916Z"
+generated_at: "2026-03-29T17:50:56.973Z"
 ---
 
 # § 849. Art. 49. Depositions
 
-- **(a)**
-  - **(1)** Subject to paragraph (2), a convening authority or a military judge may order depositions at the request of any party.
-  - **(2)** A deposition may be ordered under paragraph (1) only if the requesting party demonstrates that, due to exceptional circumstances, it is in the interest of justice that the testimony of a prospective witness be preserved for use at a court-martial, military commission, court of inquiry, or other military court or board.
-  - **(3)** A party who requests a deposition under this section shall give to every other party reasonable written notice of the time and place for the deposition.
-  - **(4)** A deposition under this section shall be taken before, and authenticated by, an impartial officer, as follows:
-    - **(A)** Whenever practicable, by an impartial judge advocate certified under section 827(b) of this title (article 27(b)).
-    - **(B)** In exceptional circumstances, by an impartial military or civil officer authorized to administer oaths by (i) the laws of the United States or (ii) the laws of the place where the deposition is taken.
-- **(b)** Representation of the parties with respect to a deposition shall be by counsel detailed in the same manner as trial counsel and defense counsel are detailed under section 827 of this title (article 27). In addition, the accused shall have the right to be represented by civilian or military counsel in the same manner as such counsel are provided for in section 838(b) of this title (article 38(b)).
-- **(c)** A deposition order under subsection (a) does not control the admissibility of the deposition in a court-martial or other proceeding under this chapter. Except as provided by subsection (d), a party may use all or part of a deposition as provided by the rules of evidence.
-- **(d)** Testimony by deposition may be presented in capital cases only by the defense.
+- **(a)** At any time after charges have been signed as provided in section 830 of this title (article 30), any party may take oral or written depositions unless the military judge or court-martial without a military judge hearing the case or, if the case is not being heard, an authority competent to convene a court-martial for the trial of those charges forbids it for good cause. If a deposition is to be taken before charges are referred for trial, such an authority may designate commissioned officers to represent the prosecution and the defense and may authorize those officers to take the deposition of any witness.
+- **(b)** The party at whose instance a deposition is to be taken shall give to every other party reasonable written notice of the time and place for taking the deposition.
+- **(c)** Depositions may be taken before and authenticated by any military or civil officer authorized by the laws of the United States or by the laws of the place where the deposition is taken to administer oaths.
+- **(d)** A duly authenticated deposition taken upon reasonable notice to the other parties, so far as otherwise admissible under the rules of evidence, may be read in evidence or, in the case of audiotape, videotape, or similar material, may be played in evidence before any military court or commission in any case not capital, or in any proceeding before a court of inquiry or military board, if it appears—
+  - **(1)** that the witness resides or is beyond the State, Commonwealth, or District of Columbia in which the court, commission, or board is ordered to sit, or beyond 100 miles from the place of trial or hearing;
+  - **(2)** that the witness by reason of death, age, sickness, bodily infirmity, imprisonment, military necessity, nonamenability to process, or other reasonable cause, is unable or refuses to appear and testify in person at the place of trial or hearing; or
+  - **(3)** that the present whereabouts of the witness is unknown.
+- **(e)** Subject to subsection (d), testimony by deposition may be presented by the defense in capital cases.
+- **(f)** Subject to subsection (d), a deposition may be read in evidence or, in the case of audiotape, videotape, or similar material, may be played in evidence in any case in which the death penalty is authorized but is not mandatory, whenever the convening authority directs that the case be treated as not capital, and in such a case a sentence of death may not be adjudged by the court-martial.

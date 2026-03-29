@@ -3,9 +3,9 @@ title: "Section 206 - Advisory Council"
 usc_title: 39
 usc_section: "206"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 206"
-generated_at: "2026-03-29T02:14:53.114Z"
+generated_at: "2026-03-29T17:52:57.898Z"
 ---
 
 # § 206. Advisory Council

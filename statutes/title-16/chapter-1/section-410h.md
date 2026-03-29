@@ -3,12 +3,13 @@ title: "Section 410h - Ascertainment of owners’ election regarding reservation
 usc_title: 16
 usc_section: "410h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 410h"
-generated_at: "2026-03-29T02:11:53.383Z"
+generated_at: "2026-03-29T17:51:56.507Z"
 ---
 
 # § 410h. Ascertainment of owners’ election regarding reservation rights
 
-In any action caused by the Secretary of the Interior to be commenced for the acquisition of lands under the provisions hereof, reasonable diligence shall be exercised by him to ascertain whether owners elect to retain reservations in accordance with the provisions of sections 410e to 410h of this title. If, after the exercise of such reasonable diligence, owners cannot be located, or do not appear in judicial proceedings to acquire the lands, so that it may be ascertained whether they desire to retain reservations in accordance with the provisions hereof, the Secretary may acquire the fee simple title to their lands free and clear of reservations as set forth in subsections (1) and (2) of section 410e of this title .
+  - **(1)** and
+  - **(2)** of section 410e of this title .
 

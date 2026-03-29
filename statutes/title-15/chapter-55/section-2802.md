@@ -3,14 +3,14 @@ title: "Section 2802 - Franchise relationship"
 usc_title: 15
 usc_section: "2802"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2802"
-generated_at: "2026-03-29T02:11:34.318Z"
+generated_at: "2026-03-29T17:51:36.337Z"
 ---
 
 # § 2802. Franchise relationship
 
-- **(a)** Except as provided in subsection (b) and section 2803 of this title , no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
+- **(a)** Except as provided in subsection (b) of this section and section 2803 of this title , no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
   - **(1)** terminate any franchise (entered into or renewed on or after June 19, 1978 ) prior to the conclusion of the term, or the expiration date, stated in the franchise; or
   - **(2)** fail to renew any franchise relationship (without regard to the date on which the relevant franchise was entered into or renewed).
 - **(b)**
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T02:11:34.318Z"
       - **(iii)** in the case of leased marketing premises such franchisor, during the 90-day period after notification was given pursuant to section 2804 of this title , either—
         - **(I)** made a bona fide offer to sell, transfer, or assign to the franchisee such franchisor’s interests in such premises; or
         - **(II)** if applicable, offered the franchisee a right of first refusal of at least 45-days duration of an offer, made by another, to purchase such franchisor’s interest in such premises.
-- **(c)** As used in subsection (b)(2)(C), the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
+- **(c)** As used in subsection (b)(2)(C) of this section, the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
   - **(1)** fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;
   - **(2)** declaration of bankruptcy or judicial determination of insolvency of the franchisee;
   - **(3)** continuing severe physical or mental disability of the franchisee of at least 3 months duration which renders the franchisee unable to provide for the continued proper operation of the marketing premises;
@@ -85,5 +85,5 @@ generated_at: "2026-03-29T02:11:34.318Z"
   - **(11)** knowing failure of the franchisee to comply with Federal, State, or local laws or regulations relevant to the operation of the marketing premises; and
   - **(12)** conviction of the franchisee of any felony involving moral turpitude.
 - **(d)** In the case of any termination of a franchise (entered into or renewed on or after June 19, 1978 ), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
-  - **(1)** if such termination or nonrenewal is based upon an event described in subsection (c)(5), the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
-  - **(2)** if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
+  - **(1)** if such termination or nonrenewal is based upon an event described in subsection (c)(5) of this section, the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
+  - **(2)** if such termination or nonrenewal is based upon an event described in subsection (c)(7) of this section and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.

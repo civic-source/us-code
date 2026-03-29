@@ -1,42 +1,28 @@
 ---
-title: "Section 3 - Administration of National Preserve"
+title: "Section 3 - The Valles Caldera National Preserve"
 usc_title: 16
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T02:11:53.651Z"
+generated_at: "2026-03-29T17:51:56.757Z"
 ---
 
-# § 698u–3. Administration of National Preserve
+# § 698v–3. The Valles Caldera National Preserve
 
-- **(a)** The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1), and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 16 U.S.C. 1 , 2 through 4) 1 1 See References in Text note below. and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461 et seq.). 1
-- **(b)** With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning the National Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
-- **(c)** For purposes of carrying out the duties of the Secretary under sections 698u to 698u–7 of this title relating to the Preserve, the Secretary may, with the consent of a landowner, directly or by contract, construct, reconstruct, rehabilitate, or develop essential buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property that is not owned by the Federal Government and is located within the Preserve.
-- **(d)**
-  - **(1)** Except as otherwise provided in this subsection, the liability of the United States is subject to the terms and conditions of the Federal Tort Claims Act, as amended, 28 U.S.C. 2671 et seq., with respect to the claims arising by virtue of the Secretary’s administration of the Preserve pursuant to sections 698u to 698u–7 of this title.
-  - **(2)**
-    - **(A)** The Secretary of the Interior is authorized, under such terms and conditions as he deems appropriate, to include in any cooperative agreement entered into in accordance with subsection (f)(1) an indemnification provision by which the United States agrees to hold harmless, defend and indemnify the landowner in full from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim of personal injury or property damage that occurs in connection with the operation of the Preserve under the agreement: Provided however , That indemnification shall not exceed $3 million per claimant per occurrence.
-    - **(B)** The indemnification provision authorized by subparagraph (A) shall not include claims for personal injury or property damage proximately caused by the wanton or willful misconduct of the landowner.
-- **(e)** The Preserve shall be a unit of the National Park System for all purposes, including the purpose of exercising authority to charge entrance and admission fees under section 100904 of title 54 .
-- **(f)**
-  - **(1)** The Secretary may expend Federal funds for the cooperative management of private property within the Preserve for research, resource management (including pest control and noxious weed control, fire protection, and the restoration of buildings), and visitor protection and use.
-  - **(2)** The Secretary may accept, retain, and expend donations of funds, property (other than real property), or services from individuals, foundations, corporations, or public entities for the purposes of providing programs, services, facilities, or technical assistance that further the purposes of sections 698u to 698u–7 of this title.
+- **(a)** Upon the date of acquisition of the Baca ranch under section 698v–2(a) of this title , there is hereby established the Valles Caldera National Preserve as a unit of the National Forest System which shall include all Federal lands and interests in land acquired under sections 698v–2(a) and 698v–2(e) of this title, except those lands and interests in land administered or held in trust by the Secretary of the Interior under sections 698v–2(b) and 698v–2(g) of this title, and shall be managed in accordance with the purposes and requirements of sections 698v to 698v–10 of this title.
+- **(b)** The purposes for which the Preserve is established are to protect and preserve the scientific, scenic, geologic, watershed, fish, wildlife, historic, cultural, and recreational values of the Preserve, and to provide for multiple use and sustained yield of renewable resources within the Preserve, consistent with sections 698v to 698v–10 of this title.
+- **(c)** Except for the powers of the Secretary enumerated in sections 698v to 698v–10 of this title, the Preserve shall be managed by the Valles Caldera Trust established by section 698v–4 of this title .
+- **(d)** Lands acquired by the United States under section 698v–2(a) of this title shall constitute entitlement lands for purposes of the Payment in Lieu of Taxes Act ( 31 U.S.C. 6901–690 4).
+- **(e)**
+  - **(1)** Upon acquisition of all interests in minerals within the boundaries of the Baca ranch under section 698v–2(e) of this title , subject to valid existing rights, the lands comprising the Preserve are thereby withdrawn from disposition under all laws pertaining to mineral leasing, including geothermal leasing.
+  - **(2)** Nothing in sections 698v to 698v–10 of this title shall preclude the Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, from allowing the utilization of common varieties of mineral materials such as sand, stone, and gravel as necessary for construction and maintenance of roads and facilities within the Preserve.
+- **(f)** Nothing in sections 698v to 698v–10 of this title shall be construed as affecting the responsibilities of the State of New Mexico with respect to fish and wildlife, including the regulation of hunting, fishing, and trapping within the Preserve, except that the Trust may, in consultation with the Secretary and the State of New Mexico, designate zones where and establish periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, the protection of nongame species and their habitats, or public use and enjoyment.
 - **(g)**
-  - **(1)** Not later than the end of the third full fiscal year beginning after November 12, 1996 , the Secretary shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a general management plan for the Preserve.
-  - **(2)** In preparing the general management plan, the Secretary, acting through the Director of the National Park Service, shall consult with—
-    - **(A)**
-      - **(i)** appropriate officials of the Trust; and
-      - **(ii)** the Advisory Committee; and
-    - **(B)** adjacent landowners, appropriate officials of nearby communities, the Kansas Department of Wildlife and Parks, the Kansas Historical Society, and other interested parties.
-  - **(3)** The general management plan shall provide for the following:
-    - **(A)** Maintaining and enhancing the tallgrass prairie within the boundaries of the Preserve.
-    - **(B)** Public access and enjoyment of the property that is consistent with the conservation and proper management of the historical, cultural, and natural resources of the ranch.
-    - **(C)** Interpretive and educational programs covering the natural history of the prairie, the cultural history of Native Americans, and the legacy of ranching in the Flint Hills region.
-    - **(D)** Provisions requiring the application of applicable State law concerning the maintenance of adequate fences within the boundaries of the Preserve. In any case in which an activity of the National Park Service requires fences that exceed the legal fence standard otherwise applicable to the Preserve, the National Park Service shall pay the additional cost of constructing and maintaining the fences to meet the applicable requirements for that activity.
-    - **(E)** Provisions requiring the Secretary to comply with applicable State noxious weed, pesticide, and animal health laws.
-    - **(F)** Provisions requiring compliance with applicable State water laws and Federal and State waste disposal laws (including regulations) and any other applicable law.
-    - **(G)** Provisions requiring the Secretary to honor each valid existing oil and gas lease for lands within the boundaries of the Preserve (as described in section 698u–2(b) of this title ) that is in effect on November 12, 1996 .
-    - **(H)** Provisions requiring the Secretary to offer to enter into an agreement with each individual who, as of November 12, 1996 , holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title ).
-  - **(4)** The Secretary may allow hunting and fishing on Federal lands within the Preserve.
-  - **(5)** As part of the development of the general management plan, the Secretary shall prepare a financial analysis indicating how the management of the Preserve may be fully supported through fees, private donations, and other forms of non-Federal funding.
+  - **(1)** For the purposes of preserving the natural, cultural, religious, and historic resources on Redondo Peak upon acquisition of the Baca ranch under section 698v–2(a) of this title , except as provided in paragraph (2), within the area of Redondo Peak above 10,000 feet in elevation—
+    - **(A)** no roads, structures, or facilities shall be constructed; and
+    - **(B)** no motorized access shall be allowed.
+  - **(2)** Nothing in this subsection shall preclude—
+    - **(A)** the use and maintenance of roads and trails existing as of July 25, 2000 ;
+    - **(B)** the construction, use and maintenance of new trails, and the relocation of existing roads, if located to avoid Native American religious and cultural sites; and
+    - **(C)** motorized access necessary to administer the area by the Trust (including measures required in emergencies involving the health or safety of persons within the area).

@@ -3,9 +3,9 @@ title: "Section 2504 - Taxable gifts for preceding calendar periods"
 usc_title: 26
 usc_section: "2504"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2504"
-generated_at: "2026-03-29T02:14:01.170Z"
+generated_at: "2026-03-29T17:52:39.412Z"
 ---
 
 # § 2504. Taxable gifts for preceding calendar periods

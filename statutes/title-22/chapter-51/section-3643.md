@@ -3,9 +3,9 @@ title: "Section 3643 - Transfer of Federal employees"
 usc_title: 22
 usc_section: "3643"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3643"
-generated_at: "2026-03-29T02:12:40.294Z"
+generated_at: "2026-03-29T17:52:10.587Z"
 ---
 
 # § 3643. Transfer of Federal employees

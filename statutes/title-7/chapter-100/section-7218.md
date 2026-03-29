@@ -3,14 +3,14 @@ title: "Section 7218 - Planting flexibility"
 usc_title: 7
 usc_section: "7218"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7218"
-generated_at: "2026-03-29T02:10:17.116Z"
+generated_at: "2026-03-29T17:50:48.841Z"
 ---
 
 # § 7218. Planting flexibility
 
-- **(a)** Subject to subsection (b), any commodity or crop may be planted on contract acreage on a farm.
+- **(a)** Subject to subsection (b) of this section, any commodity or crop may be planted on contract acreage on a farm.
 - **(b)**
   - **(1)** The planting of fruits and vegetables (other than lentils, mung beans, and dry peas) shall be prohibited on contract acreage.
   - **(2)** Paragraph (1) shall not limit the planting of a fruit or vegetable—

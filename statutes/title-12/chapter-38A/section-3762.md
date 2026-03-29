@@ -3,9 +3,9 @@ title: "Section 3762 - Disposition of sale proceeds"
 usc_title: 12
 usc_section: "3762"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3762"
-generated_at: "2026-03-29T02:11:21.177Z"
+generated_at: "2026-03-29T17:51:13.210Z"
 ---
 
 # § 3762. Disposition of sale proceeds
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:11:21.177Z"
   - **(6)** To pay the principal outstanding balance secured by the mortgage (including expenditures for the necessary protection, preservation, and repair of the security property as authorized under the mortgage agreement and interest thereon if provided for in the mortgage agreement).
   - **(7)** To pay any late charges or fees.
 - **(b)**
-  - **(1)** Any surplus of proceeds from a foreclosure sale, after payment of the items described in subsection (a) shall be paid in the following order:
+  - **(1)** Any surplus of proceeds from a foreclosure sale, after payment of the items described in subsection (a) of this section shall be paid in the following order:
     - **(A)** First, to holders of liens recorded after the mortgage in the order of priority under Federal law or the law of the State in which the security property is located.
     - **(B)** Second, to the appropriate mortgagor.
   - **(2)** If the person to whom such surplus is to be paid cannot be located, or if the surplus available is insufficient to pay all claimants and the claimants cannot agree on the allocation of the surplus, or if any person claiming an interest in the mortgage proceeds does not agree that some or all of the sale proceeds should be paid to a claimant as provided in this section, that part of the sale proceeds in question may be deposited by the foreclosure commissioner with an appropriate official or court authorized under law to receive disputed funds in such circumstances. If a procedure for the deposit of disputed funds is not available, and the foreclosure commissioner files a bill of interpleader or is sued as a stakeholder to determine entitlement to such funds, the foreclosure commissioner’s necessary costs incurred in taking or defending such action shall be deductible from the disputed funds.

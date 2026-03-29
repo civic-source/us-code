@@ -3,9 +3,9 @@ title: "Section 7272 - Sugar program"
 usc_title: 7
 usc_section: "7272"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7272"
-generated_at: "2026-03-29T02:10:17.121Z"
+generated_at: "2026-03-29T17:50:48.846Z"
 ---
 
 # § 7272. Sugar program
@@ -13,14 +13,11 @@ generated_at: "2026-03-29T02:10:17.121Z"
 - **(a)** The Secretary shall make loans available to processors of domestically grown sugarcane at a rate equal to—
   - **(1)** 18.00 cents per pound for raw cane sugar for the 2008 crop year;
   - **(2)** 18.25 cents per pound for raw cane sugar for the 2009 crop year;
-  - **(3)** 18.50 cents per pound for raw cane sugar for the 2010 crop year;
-  - **(4)** 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years;
-  - **(5)** 19.75 cents per pound for raw cane sugar for each of the 2019 through 2024 crop years; and
-  - **(6)** 24.00 cents per pound for raw cane sugar for each of the 2025 through 2031 crop years.
+  - **(3)** 18.50 cents per pound for raw cane sugar for the 2010 crop year; and
+  - **(4)** 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years.
 - **(b)** The Secretary shall make loans available to processors of domestically grown sugar beets at a rate equal to—
-  - **(1)** 22.9 cents per pound for refined beet sugar for the 2008 crop year;
-  - **(2)** a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2024 crop years; and
-  - **(3)** a rate that is equal to 136.55 percent of the loan rate per pound of raw cane sugar under subsection (a)(6) for each of the 2025 through 2031 crop years.
+  - **(1)** 22.9 cents per pound for refined beet sugar for the 2008 crop year; and
+  - **(2)** a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2018 crop years.
 - **(c)**
   - **(1)** A loan under this section during any fiscal year shall be made available not earlier than the beginning of the fiscal year and shall mature at the earlier of—
     - **(A)** the end of the 9-month period beginning on the first day of the first month after the month in which the loan is made; or
@@ -72,4 +69,4 @@ generated_at: "2026-03-29T02:10:17.121Z"
   - **(5)** Any person willfully failing or refusing to furnish the information required to be reported by paragraph (1), (2), or (3), or furnishing willfully false information, shall be subject to a civil penalty of not more than $10,000 for each such violation.
   - **(6)** Taking into consideration the information received under this subsection, the Secretary shall publish on a monthly basis composite data on production, imports, distribution, and stock levels of sugar.
 - **(h)** For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
-- **(i)** This section shall be effective only for the 2008 through 2031 crops of sugar beets and sugarcane.
+- **(i)** This section shall be effective only for the 2008 through 2018 crops of sugar beets and sugarcane.

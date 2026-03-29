@@ -3,9 +3,9 @@ title: "Section 2411 - Joint funding"
 usc_title: 20
 usc_section: "2411"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 2411"
-generated_at: "2026-03-29T02:12:17.390Z"
+generated_at: "2026-03-29T17:51:48.537Z"
 ---
 
 # § 2411. Joint funding
@@ -16,6 +16,6 @@ generated_at: "2026-03-29T02:12:17.390Z"
   - **(3)** such program provides services in a coordinated manner with services provided under this chapter; and
   - **(4)** such funds are used to supplement, and not supplant, funds provided from non-Federal sources.
 - **(b)** For the purposes of this section, the term “applicable program” means any program under any of the following provisions of law:
-  - **(1)** Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3161 et seq., 3171 et seq.].
+  - **(1)** Chapters 4 and 5 of subtitle B of title I of Public Law 105–220 [ 29 U.S.C. 2851 et seq., 2861 et seq.].
   - **(2)** The Wagner-Peyser Act [ 29 U.S.C. 49 et seq.].
 - **(c)** For the purposes of this section, the term “additional funds” does not include funds used as matching funds.

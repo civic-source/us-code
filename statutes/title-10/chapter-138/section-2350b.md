@@ -3,19 +3,19 @@ title: "Section 2350b - Cooperative projects under Arms Export Control Act: acqu
 usc_title: 10
 usc_section: "2350b"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2350b"
-generated_at: "2026-03-29T02:10:45.094Z"
+generated_at: "2026-03-29T17:50:57.110Z"
 ---
 
 # § 2350b. Cooperative projects under Arms Export Control Act: acquisition of defense equipment
 
 - **(a)**
   - **(1)** If the President delegates to the Secretary of Defense the authority to carry out section 27(d) of the Arms Export Control Act ( 22 U.S.C. 2767(d) ), relating to cooperative projects (as defined in such section), the Secretary may utilize his authority under this title in carrying out contracts or obligations incurred under such section.
-  - **(2)** Except as provided in subsection (c), chapter 137 1 1 See References in Text note below. of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
+  - **(2)** Except as provided in subsection (c), chapter 137 of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 - **(b)** When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 - **(c)**
-  - **(1)** Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 1 of this title, that specifically prescribes—
+  - **(1)** Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 of this title , that specifically prescribes—
     - **(A)** procedures to be followed in the formation of contracts;
     - **(B)** terms and conditions to be included in contracts;
     - **(C)** requirements for or preferences to be given to goods grown, produced, or manufactured in the United States or in United States Government-owned facilities or for services to be performed in the United States; or

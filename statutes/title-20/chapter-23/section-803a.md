@@ -3,9 +3,9 @@ title: "Section 803a - Project grants and contracts"
 usc_title: 20
 usc_section: "803a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 803a"
-generated_at: "2026-03-29T02:12:17.157Z"
+generated_at: "2026-03-29T17:51:48.301Z"
 ---
 
 # § 803a. Project grants and contracts
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T02:12:17.157Z"
     - **(A)** sets forth programs, activities, research, or development for which a grant is authorized under this section;
     - **(B)** provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the applicant under this subsection; and
     - **(C)** provides for making such reports, in such form and containing such information, as the Secretary may require to carry out his functions under this subsection, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
-  - **(2)** Payments under this section may be used, in accordance with regulations of the Secretary, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in professions referred to in subsection (a)(1), except students employed in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this subsection.
+  - **(2)** Payments under this section may be used, in accordance with regulations of the Secretary, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in professions referred to in subsection (a)(1) of this section, except students employed in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this subsection.

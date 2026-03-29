@@ -3,9 +3,9 @@ title: "Section 209 - Salary of Government officials and employees payable only 
 usc_title: 18
 usc_section: "209"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 209"
-generated_at: "2026-03-29T02:12:02.361Z"
+generated_at: "2026-03-29T17:53:15.548Z"
 ---
 
 # § 209. Salary of Government officials and employees payable only by United States
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T02:12:02.361Z"
 - **(g)**
   - **(1)** This section does not prohibit an employee of a private sector organization, while assigned to an agency under chapter 37 of title 5, from continuing to receive pay and benefits from such organization in accordance with such chapter.
   - **(2)** For purposes of this subsection, the term “agency” means an agency (as defined by section 3701 of title 5 ) and the Office of the Chief Technology Officer of the District of Columbia.
-- **(h)** This section does not prohibit a member of the reserve components of the armed forces, or a member of the Space Force, on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member’s employment had not been interrupted by such call or order to active duty.
+- **(h)** This section does not prohibit a member of the reserve components of the armed forces on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member’s employment had not been interrupted by such call or order to active duty.

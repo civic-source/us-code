@@ -3,9 +3,9 @@ title: "Section 1443 - Destruction or loss of, or injury to, sanctuary resources
 usc_title: 16
 usc_section: "1443"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1443"
-generated_at: "2026-03-29T02:11:53.789Z"
+generated_at: "2026-03-29T17:51:56.878Z"
 ---
 
 # § 1443. Destruction or loss of, or injury to, sanctuary resources
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:11:53.789Z"
   - **(1)** The Secretary may undertake or authorize all necessary actions to prevent or minimize the destruction or loss of, or injury to, sanctuary resources, or to minimize the imminent risk of such destruction, loss, or injury.
   - **(2)** The Secretary shall assess damages to sanctuary resources in accordance with section 1432(6) of this title .
 - **(c)**
-  - **(1)** The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+  - **(1)** The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
   - **(2)** An action under this subsection may be brought in the United States district court for any district in which—
     - **(A)** the defendant is located, resides, or is doing business, in the case of an action against a person;
     - **(B)** the vessel is located, in the case of an action against a vessel; or
@@ -38,4 +38,4 @@ generated_at: "2026-03-29T02:11:53.789Z"
     - **(B)** to restore degraded sanctuary resources of the national marine sanctuary that was the subject of the action, giving priority to sanctuary resources and habitats that are comparable to the sanctuary resources that were the subject of the action; and
     - **(C)** to restore degraded sanctuary resources of other national marine sanctuaries.
   - **(3)** Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance with the court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
-- **(e)** An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
+- **(e)** An action for response costs or damages under subsection (c) of this section shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.

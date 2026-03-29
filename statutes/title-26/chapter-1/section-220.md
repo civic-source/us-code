@@ -3,9 +3,9 @@ title: "Section 220 - Archer MSAs"
 usc_title: 26
 usc_section: "220"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 220"
-generated_at: "2026-03-29T02:14:00.863Z"
+generated_at: "2026-03-29T17:52:39.171Z"
 ---
 
 # § 220. Archer MSAs
@@ -84,7 +84,7 @@ generated_at: "2026-03-29T02:14:00.863Z"
     - **(D)** The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
     - **(E)** The interest of an individual in the balance in his account is nonforfeitable.
   - **(2)**
-    - **(A)** The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.
+    - **(A)** The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
     - **(B)**
       - **(i)** Subparagraph (A) shall not apply to any payment for insurance.
       - **(ii)** Clause (i) shall not apply to any expense for coverage under—
@@ -118,7 +118,7 @@ generated_at: "2026-03-29T02:14:00.863Z"
     - **(A)** Paragraph (2) shall not apply to any amount paid or distributed from an Archer MSA to the account holder to the extent the amount received is paid into an Archer MSA or a health savings account (as defined in section 223(d)) for the benefit of such holder not later than the 60th day after the day on which the holder receives the payment or distribution.
     - **(B)** This paragraph shall not apply to any amount described in subparagraph (A) received by an individual from an Archer MSA if, at any time during the 1-year period ending on the day of such receipt, such individual received any other amount described in subparagraph (A) from an Archer MSA which was not includible in the individual’s gross income because of the application of this paragraph.
   - **(6)** For purposes of determining the amount of the deduction under section 213, any payment or distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
-  - **(7)** The transfer of an individual’s interest in an Archer MSA to an individual’s spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.
+  - **(7)** The transfer of an individual’s interest in an Archer MSA to an individual’s spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.
   - **(8)**
     - **(A)** If the account holder’s surviving spouse acquires such holder’s interest in an Archer MSA by reason of being the designated beneficiary of such account at the death of the account holder, such Archer MSA shall be treated as if the spouse were the account holder.
     - **(B)**
@@ -130,7 +130,7 @@ generated_at: "2026-03-29T02:14:00.863Z"
         - **(II)** An appropriate deduction shall be allowed under section 691(c) to any person (other than the decedent or the decedent’s spouse) with respect to amounts included in gross income under clause (i) by such person.
 - **(g)** In the case of any taxable year beginning in a calendar year after 1998, each dollar amount in subsection (c)(2) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
 - **(h)** The Secretary may require the trustee of an Archer MSA to make such reports regarding such account to the Secretary and to the account holder with respect to contributions, distributions, and such other matters as the Secretary determines appropriate. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(i)**
   - **(1)** Except as provided in paragraph (5), no individual shall be treated as an eligible individual for any taxable year beginning after the cut-off year unless—

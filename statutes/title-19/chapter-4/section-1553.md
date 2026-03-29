@@ -3,12 +3,12 @@ title: "Section 1553 - Entry for transportation and exportation; lottery materia
 usc_title: 19
 usc_section: "1553"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1553"
-generated_at: "2026-03-29T02:12:08.623Z"
+generated_at: "2026-03-29T17:51:51.226Z"
 ---
 
 # § 1553. Entry for transportation and exportation; lottery material from Canada
 
 - **(a)** Any merchandise, other than explosives and merchandise the importation of which is prohibited, shown by the manifest, bill of lading, shipping receipt, or other document to be destined to a foreign country, may be entered for transportation in bond through the United States by a bonded carrier without appraisement or the payment of duties and exported under such regulations as the Secretary of the Treasury shall prescribe; and any baggage or personal effects not containing merchandise the importation of which is prohibited arriving in the United States destined to a foreign country may, upon the request of the owner or carrier having the same in possession for transportation, be entered for transportation in bond through the United States by a bonded carrier without appraisement or the payment of duty, under such regulations as the Secretary of the Treasury may prescribe. In places where no bonded common-carrier facilities are reasonably available, such merchandise may be so transported otherwise than by a bonded common carrier under such regulations as the Secretary of the Treasury shall prescribe.
-- **(b)** Notwithstanding subsection (a), the entry for transportation in bond through the United States of any lottery ticket, printed paper that may be used as a lottery ticket, or any advertisement of any lottery, that is printed in Canada, shall be permitted without appraisement or the payment of duties under such regulations as the Secretary of the Treasury may prescribe, except that such regulations shall not permit the transportation of lottery materials in the personal baggage of a traveler.
+- **(b)** Notwithstanding subsection (a) of this section, the entry for transportation in bond through the United States of any lottery ticket, printed paper that may be used as a lottery ticket, or any advertisement of any lottery, that is printed in Canada, shall be permitted without appraisement or the payment of duties under such regulations as the Secretary of the Treasury may prescribe, except that such regulations shall not permit the transportation of lottery materials in the personal baggage of a traveler.

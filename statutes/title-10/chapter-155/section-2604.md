@@ -3,9 +3,9 @@ title: "Section 2604 - United Seamen’s Service: cooperation and assistance"
 usc_title: 10
 usc_section: "2604"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2604"
-generated_at: "2026-03-29T02:10:45.118Z"
+generated_at: "2026-03-29T17:50:57.143Z"
 ---
 
 # § 2604. United Seamen’s Service: cooperation and assistance

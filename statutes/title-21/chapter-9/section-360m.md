@@ -3,9 +3,9 @@ title: "Section 360m - Accredited persons"
 usc_title: 21
 usc_section: "360m"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 360m"
-generated_at: "2026-03-29T02:12:28.036Z"
+generated_at: "2026-03-29T17:52:03.863Z"
 ---
 
 # § 360m. Accredited persons
@@ -19,25 +19,19 @@ generated_at: "2026-03-29T02:12:28.036Z"
   - **(3)**
     - **(A)** An accredited person may not be used to perform a review of—
       - **(i)** a class III device;
-      - **(ii)** a device classified under section 360c(f)(2) of this title or designated under section 360e–3(d) 1 1 See References in Text note below. of this title;
-      - **(iii)** a device that is intended to be permanently implantable, life sustaining, or life supporting, unless otherwise determined by the Secretary in accordance with subparagraph (B)(i)(II) and listed as eligible for review under subparagraph (B)(iii); or
-      - **(iv)** a device that is of a type, or subset of a type, listed as not eligible for review under subparagraph (B)(iii).
-    - **(B)** The Secretary shall—
-      - **(i)** issue draft guidance on the factors the Secretary will use in determining whether a class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
-        - **(I)** the risk of the device type, or subset of such device type; and
-        - **(II)** whether the device type, or subset of such device type, is permanently implantable, life sustaining, or life supporting, and whether there is a detailed public health justification for permitting the review by an accredited person of such device type or subset;
-      - **(ii)** not later than 24 months after the date on which the Secretary issues such draft guidance, finalize such guidance; and
-      - **(iii)** beginning on the date such guidance is finalized, designate and post on the internet website of the Food and Drug Administration, an updated list of class I and class II device types, or subsets of such device types, and the Secretary’s determination with respect to whether each such device type, or subset of a device type, is eligible or not eligible for review by an accredited person under this section based on the factors described in clause (i).
-    - **(C)** Until the date on which the updated list is designated and posted in accordance with subparagraph (B)(iii), the list in effect on August 18, 2017 , shall be in effect.
+      - **(ii)** a class II device which is intended to be permanently implantable or life sustaining or life supporting; or
+      - **(iii)** a class II device which requires clinical data in the report submitted under section 360(k) of this title for the device, except that the number of class II devices to which the Secretary applies this clause for a year, less the number of such reports to which clauses (i) and (ii) apply, may not exceed 6 percent of the number that is equal to the total number of reports submitted to the Secretary under such section for such year less the number of such reports to which such clauses apply for such year.
+    - **(B)** In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted by reason of the operation of section 360(m) of this title .
 - **(b)**
   - **(1)** The Secretary shall provide for such accreditation through programs administered by the Food and Drug Administration, other government agencies, or by other qualified nongovernment organizations.
   - **(2)**
-    - **(A)** Not later than 180 days after November 21, 1997 , the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a). The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) for which such person is accredited.
+    - **(A)** Not later than 180 days after November 21, 1997 , the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
     - **(B)** The Secretary may suspend or withdraw accreditation of any person accredited under this paragraph, after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the requirements of this section or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this section.
     - **(C)** To ensure that persons accredited under this section will continue to meet the standards of accreditation, the Secretary shall—
       - **(i)** make onsite visits on a periodic basis to each accredited person to audit the performance of such person; and
       - **(ii)** take such additional measures as the Secretary determines to be appropriate.
-    - **(D)**
+    - **(D)** The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
+    - **(E)**
       - **(i)** Subject to suspension or withdrawal under subparagraph (B), any accreditation under this section shall be valid for a period of 3 years after its issuance.
       - **(ii)** Upon the submission of a request by an accredited person for reaccreditation under this section, the Secretary shall approve or deny such request not later than 60 days after receipt of the request.
       - **(iii)** Not later than 120 days after July 9, 2012 , the Secretary shall establish and publish in the Federal Register criteria to reaccredit or deny reaccreditation to persons under this section. The reaccreditation of persons under this section shall specify the particular activities under subsection (a), and the devices, for which such persons are reaccredited.
@@ -46,13 +40,24 @@ generated_at: "2026-03-29T02:12:28.036Z"
     - **(B)** Such person shall be an independent organization which is not owned or controlled by a manufacturer, supplier, or vendor of devices and which has no organizational, material, or financial affiliation with such a manufacturer, supplier, or vendor.
     - **(C)** Such person shall be a legally constituted entity permitted to conduct the activities for which it seeks accreditation.
     - **(D)** Such person shall not engage in the design, manufacture, promotion, or sale of devices.
-    - **(E)** The operations of such person shall be in accordance with generally accepted professional and ethical business practices.
-    - **(F)** Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section—
+    - **(E)** The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will—
       - **(i)** certify that reported information accurately reflects data reviewed;
       - **(ii)** limit work to that for which competence and capacity are available;
       - **(iii)** treat information received, records, reports, and recommendations as proprietary information;
       - **(iv)** promptly respond and attempt to resolve complaints regarding its activities for which it is accredited; and
-      - **(v)** protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
+      - **(v)** protect against the use, in carrying out subsection (a) of this section with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
   - **(4)** The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
   - **(5)** Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
-- **(c)** The authority provided by this section terminates on October 1, 2027 .
+- **(c)** The authority provided by this section terminates October 1, 2017 .
+- **(d)** Not later than January 10, 2007 , the Secretary shall conduct a study based on the experience under the program under this section and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings of the study. The objectives of the study shall include determining—
+  - **(1)** the number of devices reviewed under this section;
+  - **(2)** the number of devices reviewed under this section that were ultimately cleared by the Secretary;
+  - **(3)** the number of devices reviewed under this section that were ultimately not cleared by the Secretary;
+  - **(4)** the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
+  - **(5)** the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title ;
+  - **(6)** if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
+  - **(7)** whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
+  - **(8)** whether the quality of reviews under this section of devices for which no guidance has been issued is qualitatively inferior to reviews under this section of devices for which guidance has been issued;
+  - **(9)** whether this section has in any way jeopardized or improved the public health;
+  - **(10)** any impact of this section on resources available to the Secretary to review reports under section 360(k) of this title ; and
+  - **(11)** any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.

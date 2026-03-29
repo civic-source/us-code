@@ -3,9 +3,9 @@ title: "Section 1565 - DNA identification information: collection from certain o
 usc_title: 10
 usc_section: "1565"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1565"
-generated_at: "2026-03-29T02:10:45.033Z"
+generated_at: "2026-03-29T17:50:57.054Z"
 ---
 
 # § 1565. DNA identification information: collection from certain offenders; use
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:10:45.033Z"
   - **(2)** The term “DNA analysis” means analysis of the deoxyribonucleic acid (DNA) identification information in a bodily sample.
 - **(d)** The offenses that shall be treated for purposes of this section as qualifying military offenses are the following offenses, as determined by the Secretary of Defense, in consultation with the Attorney General:
   - **(1)** Any offense under the Uniform Code of Military Justice for which a sentence of confinement for more than one year may be imposed.
-  - **(2)** Any other offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a(d) )). 1 1 See References in Text note below.
+  - **(2)** Any other offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 ( 42 U.S.C. 14135a(d) )).
 - **(e)**
   - **(1)** The Secretary of Defense shall promptly expunge, from the index described in subsection (a) of section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, the DNA analysis of a person included in the index on the basis of a qualifying military offense if the Secretary receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.
   - **(2)** For purposes of paragraph (1), the term “qualifying offense” means any of the following offenses:

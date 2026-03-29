@@ -1,12 +1,14 @@
 ---
-title: "Section 584 - Omitted"
+title: "Section 584 - Apportionment of remaining funds; Shoshone-Bannock Tribes of the Fort Hall Reservation and the Shoshone Tribe of the Wind River Reservation"
 usc_title: 25
 usc_section: "584"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 584"
-generated_at: "2026-03-29T02:13:20.865Z"
+generated_at: "2026-03-29T17:52:05.998Z"
 ---
 
-# § 584. Omitted
+# § 584. Apportionment of remaining funds; Shoshone-Bannock Tribes of the Fort Hall Reservation and the Shoshone Tribe of the Wind River Reservation
+
+The remainder of the award shall be apportioned between the Shoshone-Bannock Tribes of the Fort Hall Reservation and the Shoshone Tribe of the Wind River Reservation in accordance with an agreement entered into between the Shoshone-Bannock Tribes and the Shoshone Tribe of the Wind River Reservation in May 1965, approved by the Associate Commissioner of Indian Affairs in December 1965.
 

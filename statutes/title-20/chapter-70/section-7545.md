@@ -3,12 +3,14 @@ title: "Section 7545 - Administrative provisions"
 usc_title: 20
 usc_section: "7545"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7545"
-generated_at: "2026-03-29T02:12:17.490Z"
+generated_at: "2026-03-29T17:51:48.668Z"
 ---
 
 # § 7545. Administrative provisions
 
-Not more than 5 percent of funds provided to an award recipient under this part for any fiscal year may be used for administrative purposes.
-
+- **(a)** No grant may be made under this part, and no contract may be entered into under this part, unless the entity seeking the grant or contract submits an application to the Secretary in such form, in such manner, and containing such information as the Secretary may determine necessary to carry out the provisions of this part.
+- **(b)** A State educational agency or local educational agency may apply for an award under this part only as part of a consortium involving an Alaska Native organization. The consortium may include other eligible applicants.
+- **(c)** Each applicant for an award under this part shall provide for ongoing advice from and consultation with representatives of the Alaska Native community.
+- **(d)** Each applicant for an award under this part shall inform each local educational agency serving students who would participate in the program to be carried out under the grant or contract about the application.

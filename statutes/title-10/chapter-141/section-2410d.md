@@ -1,12 +1,19 @@
 ---
-title: "Section 2410d - Renumbered § 3903]"
+title: "Section 2410d - Subcontracting plans: credit for certain purchases"
 usc_title: 10
 usc_section: "2410d"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2410d"
-generated_at: "2026-03-29T02:10:45.101Z"
+generated_at: "2026-03-29T17:50:57.120Z"
 ---
 
-# [§ 2410d. Renumbered § 3903]
+# § 2410d. Subcontracting plans: credit for certain purchases
 
+- **(a)** In the case of a business concern that has negotiated a small business subcontracting plan with a military department or a Defense Agency, purchases made by that business concern from qualified nonprofit agencies for the blind or other severely handicapped shall count toward meeting the subcontracting goal provided in that plan.
+- **(b)** In this section:
+  - **(1)** The term “small business subcontracting plan” means a plan negotiated pursuant to section 8(d) of the Small Business Act ( 15 U.S.C. 637(d) ) that establishes a goal for the participation of small business concerns as subcontractors under a contract.
+  - **(2)** The term “qualified nonprofit agency for the blind or other severely handicapped” means—
+    - **(A)** a qualified nonprofit agency for the blind, as defined in section 8501(7) of title 41 ;
+    - **(B)** a qualified nonprofit agency for other severely disabled, as defined in section 8501(6) of title 41 ; and
+    - **(C)** a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 8503(c) of title 41 .

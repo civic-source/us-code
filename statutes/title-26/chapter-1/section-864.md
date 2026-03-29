@@ -3,9 +3,9 @@ title: "Section 864 - Definitions and special rules"
 usc_title: 26
 usc_section: "864"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-29T02:14:01.059Z"
+generated_at: "2026-03-29T17:52:39.310Z"
 ---
 
 # § 864. Definitions and special rules
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T02:14:01.059Z"
     - **(C)** Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
 - **(c)**
   - **(1)** For purposes of this title—
-    - **(A)** In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), (7), and (8) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
-    - **(B)** Except as provided in paragraph (6) 1 1 So in original. Probably should be followed by a comma. (7), or (8) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
+    - **(A)** In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+    - **(B)** Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
   - **(2)** In determining whether income from sources within the United States of the types described in section 871(a)(1), section 871(h), section 881(a), or section 881(c), or whether gain or loss from sources within the United States from the sale or exchange of capital assets, is effectively connected with the conduct of a trade or business within the United States, the factors taken into account shall include whether—
     - **(A)** the income, gain, or loss is derived from assets used in or held for use in the conduct of such trade or business, or
     - **(B)** the activities of such trade or business were a material factor in the realization of the income, gain, or loss.
@@ -52,18 +52,6 @@ generated_at: "2026-03-29T02:14:01.059Z"
   - **(7)** For purposes of this title, if—
     - **(A)** any property ceases to be used or held for use in connection with the conduct of a trade or business within the United States, and
     - **(B)** such property is disposed of within 10 years after such cessation,
-  - **(8)**
-    - **(A)** Notwithstanding any other provision of this subtitle, if a nonresident alien individual or foreign corporation owns, directly or indirectly, an interest in a partnership which is engaged in any trade or business within the United States, gain or loss on the sale or exchange of all (or any portion of) such interest shall be treated as effectively connected with the conduct of such trade or business to the extent such gain or loss does not exceed the amount determined under subparagraph (B).
-    - **(B)** The amount determined under this subparagraph with respect to any partnership interest sold or exchanged—
-      - **(i)** in the case of any gain on the sale or exchange of the partnership interest, is—
-        - **(I)** the portion of the partner’s distributive share of the amount of gain which would have been effectively connected with the conduct of a trade or business within the United States if the partnership had sold all of its assets at their fair market value as of the date of the sale or exchange of such interest, or
-        - **(II)** zero if no gain on such deemed sale would have been so effectively connected, and
-      - **(ii)** in the case of any loss on the sale or exchange of the partnership interest, is—
-        - **(I)** the portion of the partner’s distributive share of the amount of loss on the deemed sale described in clause (i)(I) which would have been so effectively connected, or
-        - **(II)** zero if no loss on such deemed sale would be have been so effectively connected.
-    - **(C)** If a partnership described in subparagraph (A) holds any United States real property interest (as defined in section 897(c)) at the time of the sale or exchange of the partnership interest, then the gain or loss treated as effectively connected income under subparagraph (A) shall be reduced by the amount so treated with respect to such United States real property interest under section 897.
-    - **(D)** For purposes of this paragraph, the term “sale or exchange” means any sale, exchange, or other disposition.
-    - **(E)** The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application of this paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
 - **(d)**
   - **(1)** For purposes of the provisions set forth in paragraph (2), if any person acquires (directly or indirectly) a trade or service receivable from a related person, any income of such person from the trade or service receivable so acquired shall be treated as if it were interest on a loan to the obligor under the receivable.
   - **(2)** The provisions set forth in this paragraph are as follows:
@@ -75,21 +63,23 @@ generated_at: "2026-03-29T02:14:01.059Z"
   - **(4)** For purposes of this subsection, the term “related person” means—
     - **(A)** any person who is a related person (within the meaning of section 267(b)), and
     - **(B)** any United States shareholder (as defined in section 951(b)) and any person who is a related person (within the meaning of section 267(b)) to such a shareholder.
-  - **(5)** The following provisions shall not apply to any amount treated as interest under paragraph (1) or (6):
-    - **(A)** Section 904(d)(2)(B)(iii)(I) (relating to exceptions for export financing interest).
-    - **(B)** Subparagraph (A) of section 954(b)(3) (relating to exception where foreign base company income is less than 5 percent or $1,000,000).
-    - **(C)** Subparagraph (B) of section 954(c)(2) (relating to certain export financing).
-    - **(D)** Clause (i) of section 954(c)(3)(A) (relating to certain income received from related persons).
+  - **(5)**
+    - **(A)** The following provisions shall not apply to any amount treated as interest under paragraph (1) or (6):
+      - **(i)** Subparagraphs (A)(iii)(II), (B)(ii), and (C)(iii)(II) of section 904(d)(2) (relating to exceptions for export financing interest).
+      - **(ii)** Subparagraph (A) of section 954(b)(3) (relating to exception where foreign base company income is less than 5 percent or $1,000,000).
+      - **(iii)** Subparagraph (B) of section 954(c)(2) (relating to certain export financing).
+      - **(iv)** Clause (i) of section 954(c)(3)(A) (relating to certain income received from related persons).
+    - **(B)** An amount treated as interest under paragraph (1) shall not be treated as income described in subparagraph (A) or (B) of section 936(a)(1) unless such amount is from sources within a possession of the United States (determined after the application of paragraph (1)).
   - **(6)** Any income of a controlled foreign corporation (within the meaning of section 957(a)) from a loan to a person for the purpose of financing—
     - **(A)** the purchase of property described in section 1221(a)(1) of a related person, or
     - **(B)** the payment for the performance of services by a related person,
   - **(7)** Paragraph (1) shall not apply to any trade or service receivable acquired by any person from a related person if—
     - **(A)** the person acquiring such receivable and such related person are created or organized under the laws of the same foreign country and such related person has a substantial part of its assets used in its trade or business located in such same foreign country, and
     - **(B)** such related person would not have derived any foreign base company income (as defined in section 954(a), determined without regard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
-  - **(8)** The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the provisions of this subsection or section 956(c)(3).
+  - **(8)** The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the provisions of this subsection or section 956(b)(3). 1 1 See References in Text note below.
 - **(e)** For purposes of this subchapter—
   - **(1)** The taxable income of each member of an affiliated group shall be determined by allocating and apportioning interest expense of each member as if all members of such group were a single corporation.
-  - **(2)** All allocations and apportionments of interest expense shall be determined using the adjusted bases of assets rather than on the basis of the fair market value of the assets or gross income.
+  - **(2)** All allocations and apportionments of interest expense shall be made on the basis of assets rather than gross income.
   - **(3)** For purposes of allocating and apportioning any deductible expense, any tax-exempt asset (and any income from such an asset) shall not be taken into account. A similar rule shall apply in the case of the portion of any dividend (other than a qualifying dividend as defined in section 243(b)) equal to the deduction allowable under section 243 or 245(a) with respect to such dividend and in the case of a like portion of any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined).
   - **(4)**
     - **(A)** For purposes of allocating and apportioning expenses on the basis of assets, the adjusted basis of any stock in a nonaffiliated 10-percent owned corporation shall be—
@@ -104,7 +94,7 @@ generated_at: "2026-03-29T02:14:01.059Z"
       - **(iii)** For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
     - **(D)** For purposes of this paragraph, proper adjustment shall be made to the earnings and profits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
   - **(5)** For purposes of this subsection—
-    - **(A)** Except as provided in subparagraph (B), the term “affiliated group” has the meaning given such term by section 1504. Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—
+    - **(A)** Except as provided in subparagraph (B), the term “affiliated group” has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)). Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—
       - **(i)** more than 50 percent of the gross income of such foreign corporation for the taxable year is effectively connected with the conduct of a trade or business within the United States, and
       - **(ii)** at least 80 percent of either the vote or value of all outstanding stock of such foreign corporation is owned directly or indirectly by members of the affiliated group (determined with regard to this sentence).
     - **(B)** For purposes of subparagraph (A), any corporation described in subparagraph (C) shall be treated as an includible corporation for purposes of section 1504 only for purposes of applying such section separately to corporations so described. This subparagraph shall not apply for purposes of paragraph (6).
@@ -124,7 +114,46 @@ generated_at: "2026-03-29T02:14:01.059Z"
     - **(E)** for appropriate adjustments in the application of paragraph (3) in the case of an insurance company,
     - **(F)** preventing assets or interest expense from being taken into account more than once, and
     - **(G)** that this subsection shall not apply for purposes of any provision of this subchapter to the extent the Secretary determines that the application of this subsection for such purposes would not be appropriate.
-- **[(f)**
+- **(f)** For purposes of this subchapter, at the election of the worldwide affiliated group—
+  - **(1)**
+    - **(A)** The taxable income of each domestic corporation which is a member of a worldwide affiliated group shall be determined by allocating and apportioning interest expense of each member as if all members of such group were a single corporation.
+    - **(B)** The taxable income of the domestic members of a worldwide affiliated group from sources outside the United States shall be determined by allocating and apportioning the interest expense of such domestic members to such income in an amount equal to the excess (if any) of—
+      - **(i)** the total interest expense of the worldwide affiliated group multiplied by the ratio which the foreign assets of the worldwide affiliated group bears to all the assets of the worldwide affiliated group, over
+      - **(ii)** the interest expense of all foreign corporations which are members of the worldwide affiliated group to the extent such interest expense of such foreign corporations would have been allocated and apportioned to foreign source income if this subsection were applied to a group consisting of all the foreign corporations in such worldwide affiliated group.
+    - **(C)** For purposes of this paragraph, the term “worldwide affiliated group” means a group consisting of—
+      - **(i)** the includible members of an affiliated group (as defined in section 1504(a), determined without regard to paragraphs (2) and (4) of section 1504(b)), and
+      - **(ii)** all controlled foreign corporations in which such members in the aggregate meet the ownership requirements of section 1504(a)(2) either directly or indirectly through applying paragraph (2) of section 958(a) or through applying rules similar to the rules of such paragraph to stock owned directly or indirectly by domestic partnerships, trusts, or estates.
+  - **(2)** Expenses other than interest which are not directly allocable or apportioned to any specific income producing activity shall be allocated and apportioned as if all members of the affiliated group were a single corporation. For purposes of the preceding sentence, the term “affiliated group” has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)).
+  - **(3)** The rules of paragraphs (3) and (4) of subsection (e) shall apply for purposes of this subsection, except that paragraph (4) shall be applied on a worldwide affiliated group basis.
+  - **(4)**
+    - **(A)** For purposes of paragraph (1), any corporation described in subparagraph (B) shall be treated as an includible corporation for purposes of section 1504 only for purposes of applying this subsection separately to corporations so described.
+    - **(B)** A corporation is described in this subparagraph if—
+      - **(i)** such corporation is a financial institution described in section 581 or 591,
+      - **(ii)** the business of such financial institution is predominantly with persons other than related persons (within the meaning of subsection (d)(4)) or their customers, and
+      - **(iii)** such financial institution is required by State or Federal law to be operated separately from any other entity which is not such an institution.
+    - **(C)** To the extent provided in regulations—
+      - **(i)** a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841(a) ),
+      - **(ii)** a financial holding company (within the meaning of section 2(p) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841(p) ), and
+      - **(iii)** any subsidiary of a financial institution described in section 581 or 591, or of any such bank or financial holding company, if such subsidiary is predominantly engaged (directly or indirectly) in the active conduct of a banking, financing, or similar business,
+  - **(5)**
+    - **(A)** If a worldwide affiliated group elects the application of this subsection, all financial corporations which—
+      - **(i)** are members of such worldwide affiliated group, but
+      - **(ii)** are not corporations described in paragraph (4)(B),
+    - **(B)** For purposes of this paragraph, the term “financial corporation” means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii) and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
+    - **(C)** In the case of a corporation which is a member of an electing financial institution group, to the extent that such corporation—
+      - **(i)** distributes dividends or makes other distributions with respect to its stock after the date of the enactment of this paragraph to any member of the pre-election worldwide affiliated group (other than to a member of the electing financial institution group) in excess of the greater of—
+        - **(I)** its average annual dividend (expressed as a percentage of current earnings and profits) during the 5-taxable-year period ending with the taxable year preceding the taxable year, or
+        - **(II)** 25 percent of its average annual earnings and profits for such 5-taxable-year period, or
+      - **(ii)** deals with any person in any manner not clearly reflecting the income of the corporation (as determined under principles similar to the principles of section 482),
+    - **(D)** An election under this paragraph with respect to any financial institution group may be made only by the common parent of the pre-election worldwide affiliated group and may be made only for the first taxable year beginning after December 31, 2020 , in which such affiliated group includes 1 or more financial corporations. Such an election, once made, shall apply to all financial corporations which are members of the electing financial institution group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
+    - **(E)** For purposes of this paragraph—
+      - **(i)** The term “pre-election worldwide affiliated group” means, with respect to a corporation, the worldwide affiliated group of which such corporation would (but for an election under this paragraph) be a member for purposes of applying paragraph (1).
+      - **(ii)** The term “electing financial institution group” means the group of corporations to which this subsection applies separately by reason of the application of paragraph (4)(A) and which includes financial corporations by reason of an election under subparagraph (A).
+    - **(F)** The Secretary shall prescribe such regulations as may be appropriate to carry out this subsection, including regulations—
+      - **(i)** providing for the direct allocation of interest expense in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
+      - **(ii)** preventing assets or interest expense from being taken into account more than once, and
+      - **(iii)** dealing with changes in members of any group (through acquisitions or otherwise) treated under this paragraph as an affiliated group for purposes of this subsection.
+  - **(6)** An election to have this subsection apply with respect to any worldwide affiliated group may be made only by the common parent of the domestic affiliated group referred to in paragraph (1)(C) and may be made only for the first taxable year beginning after December 31, 2020 , in which a worldwide affiliated group exists which includes such affiliated group and at least 1 foreign corporation. Such an election, once made, shall apply to such common parent and all other corporations which are members of such worldwide affiliated group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
 - **(g)**
   - **(1)** For purposes of sections 861(b), 862(b), and 863(b), qualified research and experimental expenditures shall be allocated and apportioned as follows:
     - **(A)** Any qualified research and experimental expenditures expended solely to meet legal requirements imposed by a political entity with respect to the improvement or marketing of specific products or processes for purposes not reasonably expected to generate gross income (beyond de minimis amounts) outside the jurisdiction of the political entity shall be allocated only to gross income from sources within such jurisdiction.
@@ -132,7 +161,7 @@ generated_at: "2026-03-29T02:14:01.059Z"
       - **(i)** that such expenditures are attributable to activities conducted in the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
       - **(ii)** that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
     - **(C)** The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
-  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are foreign research or experimental expenditures within the meaning of section 174 or domestic research or experimental expenditures within the meaning of section 174A. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures allowed as an amortization deduction under section 174(a) or section 174A(c), shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such section (as the case may be).
+  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
   - **(3)**
     - **(A)** Any qualified research and experimental expenditures described in subparagraph (B)—
       - **(i)** if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and
@@ -144,9 +173,9 @@ generated_at: "2026-03-29T02:14:01.059Z"
   - **(4)**
     - **(A)** Except as provided in subparagraph (B), the allocation and apportionment required by paragraph (1) shall be determined as if all members of the affiliated group (as defined in subsection (e)(5)) were a single corporation.
     - **(B)** For purposes of the allocation and apportionment required by paragraph (1)—
-      - **(i)** sales and gross income from products produced in whole or in part in a possession by an electing corporation (within the meaning of section 936(h)(5)(E)), 2 2 See References in Text note below. and
+      - **(i)** sales and gross income from products produced in whole or in part in a possession by an electing corporation (within the meaning of section 936(h)(5)(E)), and
       - **(ii)** dividends from an electing corporation,
-    - **(C)** The qualified research and experimental expenditures taken into account for purposes of paragraph (1) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I)). 2
+    - **(C)** The qualified research and experimental expenditures taken into account for purposes of paragraph (1) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I)).
     - **(D)** The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by subparagraph (B) or (C).
     - **(E)** Paragraph (6) of subsection (e) shall not apply to qualified research and experimental expenditures.
   - **(5)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whether any expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.

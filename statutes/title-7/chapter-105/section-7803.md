@@ -3,15 +3,15 @@ title: "Section 7803 - Issuance of orders"
 usc_title: 7
 usc_section: "7803"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7803"
-generated_at: "2026-03-29T02:10:17.168Z"
+generated_at: "2026-03-29T17:50:48.873Z"
 ---
 
 # § 7803. Issuance of orders
 
 - **(a)**
-  - **(1)** To effectuate the policy of this chapter specified in section 7801(b) of this title , the Secretary, subject to the procedures provided in subsection (b), shall issue orders under this chapter applicable to producers, importers, and first handlers of Hass avocados.
+  - **(1)** To effectuate the policy of this chapter specified in section 7801(b) of this title , the Secretary, subject to the procedures provided in subsection (b) of this section, shall issue orders under this chapter applicable to producers, importers, and first handlers of Hass avocados.
   - **(2)** Any order shall be national in scope.
   - **(3)** Not more than one order shall be in effect at any one time.
 - **(b)**

@@ -3,9 +3,9 @@ title: "Section 1961 - Authority for higher interest rates for amounts payable t
 usc_title: 38
 usc_section: "1961"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 1961"
-generated_at: "2026-03-29T02:14:50.378Z"
+generated_at: "2026-03-29T17:52:53.715Z"
 ---
 
 # § 1961. Authority for higher interest rates for amounts payable to beneficiaries

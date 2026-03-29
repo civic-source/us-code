@@ -3,9 +3,9 @@ title: "Section 2223 - Information technology: additional responsibilities of Ch
 usc_title: 10
 usc_section: "2223"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2223"
-generated_at: "2026-03-29T02:10:45.083Z"
+generated_at: "2026-03-29T17:50:57.085Z"
 ---
 
 # § 2223. Information technology: additional responsibilities of Chief Information Officers
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T02:10:45.083Z"
 - **(c)** In this section:
   - **(1)** The term “Chief Information Officer” means the senior official designated by the Secretary of Defense or a Secretary of a military department pursuant to section 3506 of title 44 .
   - **(2)** The term “information technology” has the meaning given that term by section 11101 of title 40 .
-  - **(3)** The term “national security system” has the meaning given that term by section 3552(b)(6) of title 44 .
+  - **(3)** The term “national security system” has the meaning given that term by section 3542(b)(2) of title 44 .

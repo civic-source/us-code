@@ -1,17 +1,14 @@
 ---
-title: "Section 8023 - Office of Naval Research: appropriations; time limit"
+title: "Section 8023 - Chief of Legislative Liaison"
 usc_title: 10
 usc_section: "8023"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 8023"
-generated_at: "2026-03-29T02:10:45.292Z"
+generated_at: "2026-03-29T17:50:57.239Z"
 ---
 
-# § 8023. Office of Naval Research: appropriations; time limit
+# § 8023. Chief of Legislative Liaison
 
-- **(a)** Sums appropriated for the Office of Naval Research may be used to pay the cost of performing its duties under section 8022 of this title including the cost of—
-  - **(1)** administration;
-  - **(2)** conduct of research and development work in Government facilities; and
-  - **(3)** conduct of research and development work under contracts with individuals, corporations, and educational or scientific institutions.
-- **(b)** Sums appropriated for the purposes of this section, if obligated during the fiscal year for which appropriated, remain available for expenditure for four years after the end of that fiscal year. Any balance not spent after that four-year period shall be carried to the surplus fund and covered into the Treasury.
+- **(a)** There is a Chief of Legislative Liaison in the Department of the Air Force. An officer assigned to that position shall be an officer in the grade of major general.
+- **(b)** The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Air Force by section 8014(c)(1)(F) of this title .

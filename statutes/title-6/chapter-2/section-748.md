@@ -3,9 +3,9 @@ title: "Section 748 - Training and exercises"
 usc_title: 6
 usc_section: "748"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 748"
-generated_at: "2026-03-29T02:10:05.057Z"
+generated_at: "2026-03-29T17:50:39.364Z"
 ---
 
 # § 748. Training and exercises
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:10:05.057Z"
   - **(1)** Beginning not later than 180 days after October 4, 2006 , the Administrator, in coordination with the heads of appropriate Federal agencies, the National Council on Disability, and the National Advisory Council, shall carry out a national exercise program to test and evaluate the national preparedness goal, National Incident Management System, National Response Plan, and other related plans and strategies.
   - **(2)** The national exercise program—
     - **(A)** shall be—
-      - **(i)** as realistic as practicable, based on current risk assessments, including credible and emerging threats, vulnerabilities, and consequences, and designed to stress the national preparedness system;
+      - **(i)** as realistic as practicable, based on current risk assessments, including credible threats, vulnerabilities, and consequences, and designed to stress the national preparedness system;
       - **(ii)** designed, as practicable, to simulate the partial or complete incapacitation of a State, local, or tribal government;
       - **(iii)** carried out, as appropriate, with a minimum degree of notice to involved parties regarding the timing and details of such exercises, consistent with safety considerations;
       - **(iv)** designed to provide for the systematic evaluation of readiness and enhance operational understanding of the incident command system and relevant mutual aid agreements;

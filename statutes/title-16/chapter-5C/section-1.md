@@ -3,9 +3,9 @@ title: "Section 1 - Federal enforcement of other laws"
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T02:11:53.639Z"
+generated_at: "2026-03-29T17:51:56.745Z"
 ---
 
 # § 670e–1. Federal enforcement of other laws

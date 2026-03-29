@@ -3,9 +3,9 @@ title: "Section 10 - Special committee to review inventory, identification, and 
 usc_title: 20
 usc_section: "10"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 10"
-generated_at: "2026-03-29T02:12:17.142Z"
+generated_at: "2026-03-29T17:51:48.292Z"
 ---
 
 # § 80q–10. Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects
@@ -25,5 +25,5 @@ generated_at: "2026-03-29T02:12:17.142Z"
   - **(2)** be entitled (to the same extent as provided in section 5703 of such title, with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses;
 - **(e)** The Secretary shall prescribe regulations and provide administrative support for the committee.
 - **(f)** At the conclusion of the work of the committee, the Secretary shall be so 1 1 So in original. Probably should be “shall so”. certify by report to the Congress. The committee shall cease to exist 120 days after the submission of the report.
-- **(g)** Chapter 10 of title 5 shall not apply to the committee.
+- **(g)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.
 - **(h)** There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.

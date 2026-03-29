@@ -1,12 +1,14 @@
 ---
-title: "Section 442 - Transferred"
+title: "Section 442 - Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges"
 usc_title: 7
 usc_section: "442"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 442"
-generated_at: "2026-03-29T02:10:16.722Z"
+generated_at: "2026-03-29T17:50:48.516Z"
 ---
 
-# § 442. Transferred
+# § 442. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges
+
+For the purpose of preventing crop damage by migratory waterfowl, the Commodity Credit Corporation shall make available to the Secretary of the Interior such wheat, corn, or other grains, acquired through price support operations and certified by the Commodity Credit Corporation to be available for purposes of sections 442 to 445 of this title or in such condition through spoilage or deterioration as not to be desirable for human consumption, as the Secretary of the Interior shall requisition pursuant to section 443 of this title . With respect to any grain thus made available, the Commodity Credit Corporation may pay packaging, transporting, handling, and other charges up to the time of delivery to one or more designated locations in each State.
 

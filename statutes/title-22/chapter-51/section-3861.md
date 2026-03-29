@@ -3,9 +3,9 @@ title: "Section 3861 - Procurement system"
 usc_title: 22
 usc_section: "3861"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3861"
-generated_at: "2026-03-29T02:12:40.301Z"
+generated_at: "2026-03-29T17:52:10.595Z"
 ---
 
 # § 3861. Procurement system
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:12:40.301Z"
     - **(B)** uses efficient commercial standards of practice; and
     - **(C)** is suitable for adoption and uninterrupted use by the Republic of Panama after the Canal Transfer Date.
   - **(2)** The Regulation shall contain provisions regarding the establishment of the Panama Canal Board of Contract Appeals described in section 3862 of this title .
-- **(b)** The Commission shall develop a Supplement to the Regulation (in this section referred to as the “Supplement”) that identifies both the provisions of Federal law applicable to procurement of goods and services by the Commission and the provisions of Federal law waived by the Commission under subsection (c).
+- **(b)** The Commission shall develop a Supplement to the Regulation (in this section referred to as the “Supplement”) that identifies both the provisions of Federal law applicable to procurement of goods and services by the Commission and the provisions of Federal law waived by the Commission under subsection (c) of this section.
 - **(c)**
   - **(1)** Subject to paragraph (2), the Commission shall determine which provisions of Federal law should not apply to procurement by the Commission and may waive those laws for purposes of the Regulation and Supplement.
   - **(2)** For purposes of paragraph (1), the Commission may not waive—

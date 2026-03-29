@@ -1,12 +1,14 @@
 ---
-title: "Section 22 - Omitted"
+title: "Section 22 - Distribution to, and use of certain funds by, the Sisseton and Wahpeton Tribes of Sioux Indians"
 usc_title: 25
 usc_section: "22"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 22"
-generated_at: "2026-03-29T02:13:20.872Z"
+generated_at: "2026-03-29T17:52:06.043Z"
 ---
 
-# § 1300d–22. Omitted
+# § 1300d–22. Distribution to, and use of certain funds by, the Sisseton and Wahpeton Tribes of Sioux Indians
+
+Notwithstanding any other provision of law, including part A of this subchapter, any funds made available by appropriations under chapter II of Public Law 90–352 ( 82 Stat. 239 ) to the Sisseton and Wahpeton Tribes of Sioux Indians to pay a judgment in favor of those Indian tribes in Indian Claims Commission dockets numbered 142 and 359, including interest, that, as of November 13, 1998 , have not been distributed, shall be distributed and used in accordance with this part.
 

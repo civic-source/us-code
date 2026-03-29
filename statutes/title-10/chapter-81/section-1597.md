@@ -3,9 +3,9 @@ title: "Section 1597 - Civilian positions: guidelines for reductions"
 usc_title: 10
 usc_section: "1597"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1597"
-generated_at: "2026-03-29T02:10:45.037Z"
+generated_at: "2026-03-29T17:50:57.057Z"
 ---
 
 # § 1597. Civilian positions: guidelines for reductions
@@ -16,6 +16,23 @@ generated_at: "2026-03-29T02:10:45.037Z"
   - **(2)** All other positions filled by civilian employees overseas.
   - **(3)** Overhead, indirect, and administrative positions in headquarters or field operating agencies in the United States.
   - **(4)** Direct operating or production positions in the United States.
-- **(c)** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
-- **(d)** The Secretary of Defense may not implement any involuntary reduction 1 1 So in original. Probably should be followed by a comma. furlough, or significant reduction of over 50 civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs. The Secretary shall notify the congressional defense committees and each Member of Congress representing the area in which reductions are ordered. Such notification shall include billet, activity name, number of employees at the location, number of employees involuntarily separated by billet, reason for the personnel action, actions to mitigate reductions, and savings and costs.
-- **(e)** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.
+- **(c)**
+  - **(1)** The Secretary of Defense shall include in the materials submitted to Congress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
+  - **(2)** The master plan referred to in paragraph (1) shall include the information described in paragraph (3). Such information shall include information for each of the two fiscal years immediately preceding such fiscal year and projected information for such fiscal year and each of the two fiscal years immediately following such fiscal year.
+  - **(3)** The information referred to in paragraph (2) is the following:
+    - **(A)** A profile of the levels of civilian positions sufficient to establish and maintain a baseline for tracking annual accessions and losses of civilian positions and to provide for the analysis of trends in the levels of civilian positions within the Department of Defense as a whole and for each military department, major subordinate command of each military department, Defense Agency, and other principal component of the Department of Defense. The profile shall include information on the following:
+      - **(i)** The total number of civilian employees.
+      - **(ii)** Of the total number of civilian employees, the number of civilian employees in the United States, the number of civilian employees overseas, and the number of foreign national employees overseas.
+      - **(iii)** Of the total number of civilian employees at the end of each fiscal year covered by the master plan, the number of full-time employees, the number of part-time employees, and the number of temporary and on-call employees.
+      - **(iv)** Accessions and losses of civilian positions, shown in the aggregate and by the number of full-time employees, the number of part-time employees, and the number of temporary and on-call employees.
+      - **(v)** The number of losses of civilian positions, by appropriation account, due to reductions in force, furloughs, or functional transfers or other significant transfers of work away from the military department, Defense Agency, or other component.
+      - **(vi)** The extent to which accessions and losses of civilian positions are due to functional transfers or competitive actions that are related to the Department of Defense management review initiatives of the Secretary of Defense.
+      - **(vii)** The total number of individuals employed by contractors and subcontractors of the Department of Defense under a contract or subcontract entered into pursuant to Office of Management and Budget Circular A–76 to perform commercial activities for the Department of Defense, a military department, a defense agency, or other component.
+    - **(B)** For industrial-type and commercial-type activities funded through the Defense Business Operations Fund, the following information:
+      - **(i)** Annual trends in the amount of funded workload for each activity, based upon the average number of months of accumulated, funded workload to be performed, or projected to be performed, by the activity.
+      - **(ii)** The extent to which such workload is funded by funds that are appropriated from appropriation accounts and managed through the Defense Business Operations Fund.
+    - **(C)** Information that indicates trends in the extent to which the military department, Defense Agency, or other component enters into contracts with persons outside of the Department of Defense, rather than uses civilian positions, to perform work for the military department, Defense Agency, or other component.
+    - **(D)** Information that indicates the extent to which the Department of Defense management review initiatives of the Secretary of Defense and other productivity enhancement programs of the Department of Defense significantly affect the number of losses of civilian positions, particularly administrative and management positions.
+  - **(4)** The Secretary of Defense shall include in the materials referred to in paragraph (1) a report on the implementation of the master plan for the fiscal year immediately preceding the fiscal year for which such materials are submitted.
+- **(d)** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) or a master plan prepared under subsection (c) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
+- **(e)** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.

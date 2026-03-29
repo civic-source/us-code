@@ -3,16 +3,16 @@ title: "Section 201 - Certain intelligence officials: consultation and concurren
 usc_title: 10
 usc_section: "201"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 201"
-generated_at: "2026-03-29T02:10:44.842Z"
+generated_at: "2026-03-29T17:50:56.935Z"
 ---
 
 # § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance
 
 - **(a)** Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
 - **(b)**
-  - **(1)** In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ( 50 U.S.C. 3041(b) ).
+  - **(1)** In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ( 50 U.S.C. 403–6(b) ). 1 1 See References in Text note below.
   - **(2)** Paragraph (1) applies to the following positions:
     - **(A)** The Director of the National Security Agency.
     - **(B)** The Director of the National Reconnaissance Office.

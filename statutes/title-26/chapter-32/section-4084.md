@@ -3,9 +3,9 @@ title: "Section 4084 - Cross references"
 usc_title: 26
 usc_section: "4084"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4084"
-generated_at: "2026-03-29T02:14:01.207Z"
+generated_at: "2026-03-29T17:52:39.444Z"
 ---
 
 # § 4084. Cross references

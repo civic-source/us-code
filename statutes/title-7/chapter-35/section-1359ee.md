@@ -3,9 +3,9 @@ title: "Section 1359ee - Reassignment of deficits"
 usc_title: 7
 usc_section: "1359ee"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1359ee"
-generated_at: "2026-03-29T02:10:16.779Z"
+generated_at: "2026-03-29T17:50:48.573Z"
 ---
 
 # § 1359ee. Reassignment of deficits
@@ -17,12 +17,8 @@ generated_at: "2026-03-29T02:10:16.779Z"
     - **(B)** if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit proportionately to the allotments for other cane sugar States, depending on the capacity of each other State to fill the portion of the deficit to be assigned to it, with the reassigned quantity to each State to be allocated among processors in that State in proportion to the allocations of the processors;
     - **(C)** if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
     - **(D)** if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
-  - **(2)**
-    - **(A)** If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
-      - **(i)** the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
-      - **(ii)** if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
-      - **(iii)** if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
-    - **(B)** In carrying out subparagraph (A), the Secretary shall—
-      - **(i)** make an initial determination based on the World Agricultural Supply and Demand Estimates approved by the World Agricultural Outlook Board for January that shall be applicable to the crop year for which allotments are required; and
-      - **(ii)** provide for an initial reassignment under subparagraph (A)(i) not later than 30 days after the date on which the World Agricultural Supply and Demand Estimates described in clause (i) is released.
+  - **(2)** If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
+    - **(A)** the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
+    - **(B)** if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
+    - **(C)** if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
   - **(3)** The allocation of each processor receiving a reassigned quantity of an allotment under this subsection for a crop year shall be increased to reflect the reassignment.

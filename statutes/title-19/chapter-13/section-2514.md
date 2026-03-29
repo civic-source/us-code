@@ -3,15 +3,15 @@ title: "Section 2514 - Expansion of the coverage of the Agreement"
 usc_title: 19
 usc_section: "2514"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2514"
-generated_at: "2026-03-29T02:12:08.706Z"
+generated_at: "2026-03-29T17:51:51.298Z"
 ---
 
 # § 2514. Expansion of the coverage of the Agreement
 
 - **(a)** The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) 1 1 See References in Text note below. of this title.
-- **(b)** The President shall seek, consistent with the overall objective set forth in subsection (a) and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
+- **(b)** The President shall seek, consistent with the overall objective set forth in subsection (a) of this section and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
 - **(c)** The President shall seek to establish in the renegotiation provided for in article XXIV(7) of the Agreement a system for independent verification of information provided by parties to the Agreement to the Committee on Government Procurement pursuant to article XIX(5) of the Agreement.
 - **(d)**
   - **(1)** If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title . Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title , the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.

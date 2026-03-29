@@ -3,9 +3,9 @@ title: "Section 1693f - Error resolution"
 usc_title: 15
 usc_section: "1693f"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1693f"
-generated_at: "2026-03-29T02:11:34.234Z"
+generated_at: "2026-03-29T17:51:36.278Z"
 ---
 
 # § 1693f. Error resolution
@@ -15,10 +15,10 @@ generated_at: "2026-03-29T02:11:34.234Z"
   - **(2)** indicates the consumer’s belief that the documentation, or, in the case of notification pursuant to section 1693d(b) of this title , the consumer’s account, contains an error and the amount of such error; and
   - **(3)** sets forth the reasons for the consumer’s belief (where applicable) that an error has occurred,
 - **(b)** If the financial institution determines that an error did occur, it shall promptly, but in no event more than one business day after such determination, correct the error, subject to section 1693g of this title , including the crediting of interest where applicable.
-- **(c)** If a financial institution receives notice of an error in the manner and within the time period specified in subsection (a), it may, in lieu of the requirements of subsections (a) and (b), within ten business days after receiving such notice provisionally recredit the consumer’s account for the amount alleged to be in error, subject to section 1693g of this title , including interest where applicable, pending the conclusion of its investigation and its determination of whether an error has occurred. Such investigation shall be concluded not later than forty-five days after receipt of notice of the error. During the pendency of the investigation, the consumer shall have full use of the funds provisionally recredited.
-- **(d)** If the financial institution determines after its investigation pursuant to subsection (a) or (c) that an error did not occur, it shall deliver or mail to the consumer an explanation of its findings within 3 business days after the conclusion of its investigation, and upon request of the consumer promptly deliver or mail to the consumer reproductions of all documents which the financial institution relied on to conclude that such error did not occur. The financial institution shall include notice of the right to request reproductions with the explanation of its findings.
+- **(c)** If a financial institution receives notice of an error in the manner and within the time period specified in subsection (a) of this section, it may, in lieu of the requirements of subsections (a) and (b) of this section, within ten business days after receiving such notice provisionally recredit the consumer’s account for the amount alleged to be in error, subject to section 1693g of this title , including interest where applicable, pending the conclusion of its investigation and its determination of whether an error has occurred. Such investigation shall be concluded not later than forty-five days after receipt of notice of the error. During the pendency of the investigation, the consumer shall have full use of the funds provisionally recredited.
+- **(d)** If the financial institution determines after its investigation pursuant to subsection (a) or (c) of this section that an error did not occur, it shall deliver or mail to the consumer an explanation of its findings within 3 business days after the conclusion of its investigation, and upon request of the consumer promptly deliver or mail to the consumer reproductions of all documents which the financial institution relied on to conclude that such error did not occur. The financial institution shall include notice of the right to request reproductions with the explanation of its findings.
 - **(e)** If in any action under section 1693m 1 1 See References in Text note below. of this title, the court finds that—
-  - **(1)** the financial institution did not provisionally recredit a consumer’s account within the ten-day period specified in subsection (c), and the financial institution (A) did not make a good faith investigation of the alleged error, or (B) did not have a reasonable basis for believing that the consumer’s account was not in error; or
+  - **(1)** the financial institution did not provisionally recredit a consumer’s account within the ten-day period specified in subsection (c) of this section, and the financial institution (A) did not make a good faith investigation of the alleged error, or (B) did not have a reasonable basis for believing that the consumer’s account was not in error; or
   - **(2)** the financial institution knowingly and willfully concluded that the consumer’s account was not in error when such conclusion could not reasonably have been drawn from the evidence available to the financial institution at the time of its investigation,
 - **(f)** For the purpose of this section, an error consists of—
   - **(1)** an unauthorized electronic fund transfer;

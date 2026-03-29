@@ -3,9 +3,9 @@ title: "Section 24 - Subpoenas, witnesses"
 usc_title: 35
 usc_section: "24"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "35 U.S.C. § 24"
-generated_at: "2026-03-29T02:14:28.401Z"
+generated_at: "2026-03-29T17:52:44.600Z"
 ---
 
 # § 24. Subpoenas, witnesses

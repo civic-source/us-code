@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-29T02:12:17.254Z"
+generated_at: "2026-03-29T17:51:48.393Z"
 ---
 
 # § 1087e. Terms and conditions of loans
@@ -18,42 +18,10 @@ generated_at: "2026-03-29T02:12:17.254Z"
     - **(C)** section 1078–3 of this title shall be known as “Federal Direct Consolidation Loans”; and
     - **(D)** section 1078–8 of this title shall be known as “Federal Direct Unsubsidized Stafford Loans”.
   - **(3)**
-    - **(A)** Subject to subparagraph (B), and notwithstanding any provision of this part or part B—
-      - **(i)** for any period of instruction beginning on or after July 1, 2012 , a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
-      - **(ii)** for any period of instruction beginning on July 1, 2012 , and ending on June 30, 2026 , the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title ) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title , plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+    - **(A)** Subject to subparagraph (B) and notwithstanding any provision of this part or part B, for any period of instruction beginning on or after July 1, 2012 —
+      - **(i)** a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
+      - **(ii)** the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in section 1088(a)(2) of this title ) or its equivalent shall be the maximum annual amount for such student determined under section 1078–8 of this title , plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
     - **(B)** Subparagraph (A) shall not apply to an individual enrolled in course work specified in paragraph (3)(B) or (4)(B) of section 1091(b) of this title .
-    - **(C)** Subject to paragraph (8) and notwithstanding any provision of this part or part B, for any period of instruction beginning on or after July 1, 2026 , a graduate or professional student shall not be eligible to receive a Federal Direct PLUS Loan under this part.
-  - **(4)**
-    - **(A)** Subject to paragraphs (7)(A) and (8), beginning on July 1, 2026 , the maximum annual amount of Federal Direct Unsubsidized Stafford loans—
-      - **(i)** a graduate student, who is not a professional student, may borrow in any academic year or its equivalent shall be $20,500; and
-      - **(ii)** a professional student may borrow in any academic year or its equivalent shall be $50,000.
-    - **(B)** Subject to paragraphs (6), (7)(A), and (8), beginning on July 1, 2026 , the maximum aggregate amount of Federal Direct Unsubsidized Stafford loans, in addition to the amount borrowed for undergraduate education, that—
-      - **(i)** a graduate student—
-        - **(I)** who is not (and has not been) a professional student, may borrow for programs of study described in subparagraph (C)(i) shall be $100,000; or
-        - **(II)** who is (or has been) a professional student, may borrow for programs of study described in subparagraph (C)(i) shall be an amount equal to—
-      - **(ii)** a professional student—
-        - **(I)** who is not (and has not been) a graduate student, may borrow for programs of study described in subparagraph (C)(ii) shall be $200,000; or
-        - **(II)** who is (or has been) a graduate student, may borrow for programs of study described in subparagraph (C)(ii) shall be an amount equal to—
-    - **(C)**
-      - **(i)** The term “graduate student” means a student enrolled in a program of study that awards a graduate credential (other than a professional degree) upon completion of the program.
-      - **(ii)** In this paragraph, the term “professional student” means a student enrolled in a program of study that awards a professional degree, as defined under section 668.2 of title 34, Code of Federal Regulations (as in effect on July 4, 2025 ), upon completion of the program.
-  - **(5)**
-    - **(A)** Subject to paragraph (8) and notwithstanding any provision of this part or part B, beginning on July 1, 2026 , for each dependent student, the total maximum annual amount of Federal Direct PLUS loans that may be borrowed on behalf of that dependent student by all parents of that dependent student shall be $20,000.
-    - **(B)** Subject to paragraph (8) and notwithstanding any provision of this part or part B, beginning on July 1, 2026 , for each dependent student, the total maximum aggregate amount of Federal Direct PLUS loans that may be borrowed on behalf of that dependent student by all parents of that dependent student shall be $65,000, without regard to any amounts repaid, forgiven, canceled, or otherwise discharged on any such loan.
-  - **(6)** Subject to paragraph (8) and notwithstanding any provision of this part or part B, beginning on July 1, 2026 , the maximum aggregate amount of loans made, insured, or guaranteed under this subchapter that a student may borrow (other than a Federal Direct PLUS loan, or loan under section 1078–2 of this title , made to the student as a parent borrower on behalf of a dependent student) shall be $257,500, without regard to any amounts repaid, forgiven, canceled, or otherwise discharged on any such loan.
-  - **(7)**
-    - **(A)** Notwithstanding any provision of this part or part B, in any case in which a student is enrolled in a program of study of an institution of higher education on less than a full-time basis during any academic year, the amount of a loan that student may borrow for an academic year or its equivalent shall be reduced in direct proportion to the degree to which that student is not so enrolled on a full-time basis, rounded to the nearest whole percentage point, as provided in a schedule of reductions published by the Secretary computed for purposes of this subparagraph.
-    - **(B)** Notwithstanding the annual loan limits established under this section and, for undergraduate students, under this part and part B, beginning on July 1, 2026 , an institution of higher education (at the discretion of a financial aid administrator at the institution) may limit the total amount of loans made under this part for a program of study for an academic year that a student may borrow, and that a parent may borrow on behalf of such student, as long as any such limit is applied consistently to all students enrolled in such program of study.
-  - **(8)**
-    - **(A)** Paragraphs (3)(C), (4), (5), and (6) shall not apply, and paragraph (3)(A)(ii) shall apply as such paragraph was in effect for periods of instruction ending before June 30, 2026 , during the expected time to credential described in subparagraph (B), with respect to an individual who, as of June 30, 2026 —
-      - **(i)** is enrolled in a program of study at an institution of higher education; and
-      - **(ii)** has received a loan (or on whose behalf a loan was made) under this part for such program of study.
-    - **(B)** For purposes of this paragraph, the expected time to credential of an individual shall be equal to the lesser of—
-      - **(i)** three academic years; or
-      - **(ii)** the period determined by calculating the difference between—
-        - **(I)** the program length for the program of study in which the individual is enrolled; and
-        - **(II)** the period of such program of study that such individual has completed as of the date of the determination under this subparagraph.
-    - **(C)** In this paragraph, the term “program length” means the minimum amount of time in weeks, months, or years that is specified in the catalog, marketing materials, or other official publications of an institution of higher education for a full-time student to complete the requirements for a specific program of study.
 - **(b)**
   - **(1)** For Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 1994 , the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
     - **(A)** the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
@@ -144,50 +112,28 @@ generated_at: "2026-03-29T02:12:17.254Z"
     - **(D)** by substituting “1.5 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2009 , and before July 1, 2010 ; and
     - **(E)** by substituting “1.0 percent” for “4.0 percent” with respect to loans for which the first disbursement of principal is made on or after July 1, 2010 .
 - **(d)**
-  - **(1)** Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part before July 1, 2026 , who has not received a loan made under this part on or after July 1, 2026 , a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower’s loans under this part. The borrower may choose—
+  - **(1)** Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower’s loans under this part. The borrower may choose—
     - **(A)** a standard repayment plan, consistent with subsection (a)(1) of this section and with section 1078(b)(9)(A)(i) of this title ;
     - **(B)** a graduated repayment plan, consistent with section 1078(b)(9)(A)(ii) of this title ;
     - **(C)** an extended repayment plan, consistent with section 1078(b)(9)(A)(iv) of this title , except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title ;
-    - **(D)** before June 30, 2028 , an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student;
-    - **(E)** beginning on July 1, 2009 , an income-based repayment plan in accordance with section 1098e of this title , except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or an excepted Consolidation Loan (as defined in section 1098e(a)(2) of this title ); and
-    - **(F)** beginning on July 1, 2026 , the income-based Repayment Assistance Plan under subsection (q), provided that—
-      - **(i)** such Plan shall not be available for the repayment of excepted loans (as defined in paragraph (7)(E)); and
-      - **(ii)** the borrower is required to pay each outstanding loan of the borrower made under this part under such Repayment Assistance Plan, except that a borrower of an excepted loan (as defined in paragraph (7)(E)) may repay the excepted loan separately from other loans under this part obtained by the borrower.
+    - **(D)** an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
+    - **(E)** beginning on July 1, 2009 , an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title , except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
   - **(2)** If a borrower of a loan made under this part does not select a repayment plan described in paragraph (1), the Secretary may provide the borrower with a repayment plan described in subparagraph (A), (B), or (C) of paragraph (1).
   - **(3)** The borrower of a loan made under this part may change the borrower’s selection of a repayment plan under paragraph (1), or the Secretary’s selection of a plan for the borrower under paragraph (2), as the case may be, under such terms and conditions as may be established by the Secretary.
   - **(4)** The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower’s exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
   - **(5)** The Secretary may require any borrower who has defaulted on a loan made under this part to—
     - **(A)** pay all reasonable collection costs associated with such loan; and
-    - **(B)** repay the loan pursuant to an income-based repayment plan under subsection (q) or section 1098e of this title , as applicable.
-  - **(6)**
-    - **(A)** Paragraphs (1) through (4) of this subsection shall only apply to loans made under this part before July 1, 2026 .
-    - **(B)** The Secretary may not, for any loan made under this part on or after July 1, 2026 —
-      - **(i)** authorize a borrower of such a loan to repay such loan pursuant to a repayment plan that is not described in paragraph (7)(A); or
-      - **(ii)** carry out or modify a repayment plan that is not described in such paragraph.
-  - **(7)**
-    - **(A)** Beginning on July 1, 2026 , the Secretary shall offer a borrower of a loan made under this part on or after such date (including such a borrower who also has a loan made under this part before such date) two plans for repayment of the borrower’s loans under this part, including principal and interest on such loans. The borrower shall be entitled to accelerate, without penalty, repayment on such loans. The borrower may choose—
-      - **(i)** a standard repayment plan—
-        - **(I)** with a fixed monthly repayment amount paid over a fixed period of time equal to the applicable period determined under subclause (II); and
-        - **(II)** with the applicable period of time for repayment determined based on the total outstanding principal of all loans of the borrower made under this part before, on, or after July 1, 2026 , at the time the borrower is entering repayment under such plan, as follows—
-      - **(ii)** the income-based Repayment Assistance Plan under subsection (q).
-    - **(B)** If a borrower of a loan made under this part on or after July 1, 2026 , does not select a repayment plan described in subparagraph (A), the Secretary shall provide the borrower with the standard repayment plan described in subparagraph (A)(i).
-    - **(C)** A borrower is required to pay each outstanding loan of the borrower made under this part under the same selected repayment plan, except that a borrower who selects the Repayment Assistance Plan and also has an excepted loan that is not eligible for repayment under such Repayment Assistance Plan shall repay the excepted loan separately from other loans under this part obtained by the borrower.
-    - **(D)** A borrower may change the borrower’s selection of—
-      - **(i)** the standard repayment plan under subparagraph (A)(i), or the Secretary’s selection of such plan for the borrower under subparagraph (B), as the case may be, to the Repayment Assistance Plan under subparagraph (A)(ii) at any time; and
-      - **(ii)** the Repayment Assistance Plan under subparagraph (A)(ii) to the standard repayment plan under subparagraph (A)(i) at any time.
-    - **(E)**
-      - **(i)** Notwithstanding subparagraphs (A) through (D), beginning on July 1, 2026 , the Secretary shall require a borrower who has received an excepted loan made on or after such date (including such a borrower who also has an excepted loan made before such date) to repay each excepted loan, including principal and interest on those excepted loans, under the standard repayment plan under subparagraph (A)(i). The borrower shall be entitled to accelerate, without penalty, repayment on such loans.
-      - **(ii)** For the purposes of this paragraph, the term “excepted loan” means a loan with an outstanding balance that is—
-        - **(I)** a Federal Direct PLUS Loan that is made on behalf of a dependent student; or
-        - **(II)** a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on—
+    - **(B)** repay the loan pursuant to an income contingent repayment plan.
 - **(e)**
   - **(1)** The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower’s spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26 ) may be obtained under the preceding sentence only to the extent authorized by section 6103( l )(13) of title 26. The Secretary shall establish procedures for determining the borrower’s repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
   - **(2)** A repayment schedule for a loan made under this part and repaid pursuant to income contingent repayment shall be based on the adjusted gross income (as defined in section 62 of title 26 ) of the borrower or, if the borrower is married and files a Federal income tax return jointly with the borrower’s spouse, on the adjusted gross income of the borrower and the borrower’s spouse.
   - **(3)** A borrower who chooses, or is required, to repay a loan made under this part pursuant to income contingent repayment, and for whom adjusted gross income is unavailable or does not reasonably reflect the borrower’s current income, shall provide to the Secretary other documentation of income satisfactory to the Secretary, which documentation the Secretary may use to determine an appropriate repayment schedule.
   - **(4)** Income contingent repayment schedules shall be established by regulations promulgated by the Secretary and shall require payments that vary in relation to the appropriate portion of the annual income of the borrower (and the borrower’s spouse, if applicable) as determined by the Secretary.
   - **(5)** The balance due on a loan made under this part that is repaid pursuant to income contingent repayment shall equal the unpaid principal amount of the loan, any accrued interest, and any fees, such as late charges, assessed on such loan. The Secretary may promulgate regulations limiting the amount of interest that may be capitalized on such loan, and the timing of any such capitalization.
-  - **(6)** The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower, that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment, the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
-  - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part D, or part E—
+  - **(6)** The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
+    - **(A)** that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103( l )(13) of title 26; and
+    - **(B)** that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+  - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part C, or part D—
     - **(A)** is not in default on any loan that is included in the income contingent repayment plan; and
     - **(B)**
       - **(i)** is in deferment due to an economic hardship described in section 1085( o ) of this title;
@@ -195,14 +141,6 @@ generated_at: "2026-03-29T02:12:17.254Z"
       - **(iii)** makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first made the election described in section 1098e(b)(1) of this title ;
       - **(iv)** makes payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A) with a repayment period of 10 years; or
       - **(v)** makes payments under an income contingent repayment plan under subsection (d)(1)(D).
-  - **(8)**
-    - **(A)** The Secretary shall establish and implement, with respect to any borrower described in subparagraph (B), procedures to—
-      - **(i)** use return information disclosed under section 6103( l )(13) of title 26, pursuant to approval provided under section 1098h of this title , to determine the repayment obligation of the borrower without further action by the borrower;
-      - **(ii)** allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103( l )(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this subsection); and
-      - **(iii)** provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
-    - **(B)** Subparagraph (A) shall apply to each borrower of a loan made under this part who, on or after the date on which the Secretary establishes procedures under such subparagraph—
-      - **(i)** selects, or is required to repay such loan pursuant to, an income-contingent repayment plan; or
-      - **(ii)** recertifies income or family size under such plan.
 - **(f)**
   - **(1)** A borrower of a loan made under this part who meets the requirements described in paragraph (2) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest—
     - **(A)** shall not accrue, in the case of a—
@@ -213,58 +151,14 @@ generated_at: "2026-03-29T02:12:17.254Z"
     - **(A)** during which the borrower—
       - **(i)** is carrying at least one-half the normal full-time work load for the course of study that the borrower is pursuing, as determined by the eligible institution (as such term is defined in section 1085(a) of this title ) the borrower is attending; or
       - **(ii)** is pursuing a course of study pursuant to a graduate fellowship program approved by the Secretary, or pursuant to a rehabilitation training program for individuals with disabilities approved by the Secretary,
-    - **(B)** subject to paragraph (7), not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
+    - **(B)** not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
     - **(C)** during which the borrower—
       - **(i)** is serving on active duty during a war or other military operation or national emergency; or
       - **(ii)** is performing qualifying National Guard duty during a war or other military operation or national emergency,
-    - **(D)** subject to paragraph (7), not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085( o ) of this title, that the borrower has experienced or will experience an economic hardship.
-  - **(3)**
-    - **(A)** A borrower of a loan made under this part who meets the requirements of subparagraph (B) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest shall not accrue.
-    - **(B)** A borrower of a loan made under this part shall be eligible for a deferment during—
-      - **(i)** any period in which such borrower is receiving treatment for cancer; and
-      - **(ii)** the 6 months after such period.
-    - **(C)** This paragraph shall apply with respect to loans—
-      - **(i)** made on or after September 28, 2018 ; or
-      - **(ii)** in repayment on September 28, 2018 .
-  - **(4)**
-    - **(A)** A borrower of a loan made under this part who meets the requirements of subparagraph (B) shall be eligible for a deferment for an aggregate period of 180 days, during which periodic installments of principal need not be paid, and interest—
-      - **(i)** shall not accrue, in the case of a—
-        - **(I)** Federal Direct Stafford Loan; or
-        - **(II)** a Federal Direct Consolidation Loan that consolidated only Federal Direct Stafford Loans, or a combination of such loans and Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title ; or
-      - **(ii)** shall accrue and be capitalized or paid by the borrower, in the case of a Federal Direct PLUS Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct Consolidation Loan not described in clause (i)(II).
-    - **(B)** A borrower of a loan made under this part shall be eligible for a deferment under subparagraph (A) if the borrower—
-      - **(i)** is the spouse of a member of the Armed Forces serving on active duty; and
-      - **(ii)** has experienced a loss of employment as a result of relocation to accommodate a permanent change in duty station of such member.
-    - **(C)**
-      - **(i)** A borrower may establish eligibility for a deferment under subparagraph (A) by providing to the Secretary—
-        - **(I)** the documentation described in clause (ii); or
-        - **(II)** such other documentation as the Secretary determines appropriate.
-      - **(ii)** The documentation described in this clause is—
-        - **(I)** evidence that the borrower is the spouse of a member of the Armed Forces serving on active duty;
-        - **(II)** evidence that a military permanent change of station order was issued to such member; and
-        - **(III)**
-  - **(5)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
-  - **(6)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
-  - **(7)** A borrower who receives a loan made under this part on or after July 1, 2027 , shall not be eligible to defer such loan under subparagraph (B) or (D) of paragraph (2).
-  - **(8)** A borrower who receives a loan made under this part on or after July 1, 2027 , may only be eligible for a forbearance on such loan pursuant to section 1078(c)(3)(B) of this title that does not exceed 9 months during any 24-month period.
-- **(g)**
-  - **(1)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
-  - **(2)**
-    - **(A)**
-      - **(i)** A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of section 1078–3(a)(3) of this title (as such subparagraph was in effect on June 30, 2006 ), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
-      - **(ii)** Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
-    - **(B)** Notwithstanding section 1078–3(a)(3)(A) of this title or any other provision of law, for each individual borrower who applies under subparagraph (A), the Secretary shall—
-      - **(i)** make a separate Federal Direct Consolidation Loan under this part that—
-        - **(I)** shall be for an amount equal to the product of—
-        - **(II)** has the same rate of interest as the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
-      - **(ii)** in a timely manner, notify each individual borrower that the joint consolidation loan had been repaid and of the terms and conditions of their new loans.
-    - **(C)**
-      - **(i)** Except as provided in clause (ii), to receive separate consolidation loans under this part, both individual borrowers in a married couple (or previously married couple) shall jointly apply under subparagraph (A).
-      - **(ii)** An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
-        - **(I)** the individual borrower certifies to the Secretary that such borrower—
-        - **(II)** the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
-      - **(iii)** In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
-  - **(3)** A Federal Direct Consolidation Loan offered to a borrower under this part on or after July 1, 2026 , may only be repaid pursuant to a repayment plan described in clause (i) or (ii) of subsection (d)(7)(A) of this section, as applicable, and the repayment schedule of such a Consolidation Loan shall be determined in accordance with such repayment plan.
+    - **(D)** not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085( o ) of this title, that the borrower has experienced or will experience an economic hardship.
+  - **(3)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
+  - **(4)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
+- **(g)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
 - **(h)** Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 - **(i)** The common financial reporting form required in section 1090(a)(1) of this title shall constitute the application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
 - **(j)**
@@ -274,19 +168,18 @@ generated_at: "2026-03-29T02:12:17.254Z"
   - **(1)**
     - **(A)** An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
     - **(B)** Except as otherwise required by regulations of the Secretary 1 an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
-  - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+  - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
   - **(3)** All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 - **(l)**
-  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
 - **(m)**
   - **(1)** The Secretary shall cancel the balance of interest and principal due, in accordance with paragraph (2), on any eligible Federal Direct Loan not in default for a borrower who—
     - **(A)** has made 120 monthly payments on the eligible Federal Direct Loan after October 1, 2007 , pursuant to any one or a combination of the following—
       - **(i)** payments under an income-based repayment plan under section 1098e of this title ;
       - **(ii)** payments under a standard repayment plan under subsection (d)(1)(A), based on a 10-year repayment period;
-      - **(iii)** monthly payments under a repayment plan under subsection (d)(1) or (g) of not less than the monthly amount calculated under subsection (d)(1)(A), based on a 10-year repayment period;
-      - **(iv)** payments under an income contingent repayment plan under subsection (d)(1)(D) (as in effect on the day before the date of the repeal of subsection (e) of this section); or
-      - **(v)** on-time payments under the Repayment Assistance Plan under subsection (q); and
+      - **(iii)** monthly payments under a repayment plan under subsection (d)(1) or (g) of not less than the monthly amount calculated under subsection (d)(1)(A), based on a 10-year repayment period; or
+      - **(iv)** payments under an income contingent repayment plan under subsection (d)(1)(D); and
     - **(B)**
       - **(i)** is employed in a public service job at the time of such forgiveness; and
       - **(ii)** has been employed in a public service job during the period in which the borrower makes each of the 120 payments described in subparagraph (A).
@@ -305,59 +198,18 @@ generated_at: "2026-03-29T02:12:17.254Z"
     - **(A)**
       - **(i)** is serving on active duty during a war or other military operation or national emergency; or
       - **(ii)** is performing qualifying National Guard duty during a war or other military operation or national emergency; and
-    - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37.
+    - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310 of title 37 .
   - **(4)** An individual who qualifies as an eligible military borrower under this subsection may receive the benefit of this subsection for not more than 60 months.
 - **(p)** Each institution of higher education with which the Secretary has an agreement under section 1087c of this title , and each contractor with which the Secretary has a contract under section 1087f of this title , shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 - **(q)**
-  - **(1)** Notwithstanding any other provision of this chapter, beginning on July 1, 2026 , the Secretary shall carry out an income-based repayment plan (to be known as the “Repayment Assistance Plan”), that shall have the following terms and conditions:
-    - **(A)** The total monthly repayment amount owed by a borrower for all of the loans of the borrower that are repaid pursuant to the Repayment Assistance Plan shall be equal to the applicable monthly payment of a borrower calculated under paragraph (4)(B), except that the borrower may not be precluded from repaying an amount that exceeds such amount for any month.
-    - **(B)** The Secretary shall apply the borrower’s applicable monthly payment under this paragraph first toward interest due on each such loan, next toward any fees due on each loan, and then toward the principal of each loan.
-    - **(C)** Any principal due and not paid under subparagraph (B) or paragraph (2)(B) shall be deferred.
-    - **(D)** A borrower who is not in a period of deferment or forbearance shall make an applicable monthly payment for each month until the earlier of—
-      - **(i)** the date on which the outstanding balance of principal and interest due on all of the loans of the borrower that are repaid pursuant to the Repayment Assistance Plan is $0; or
-      - **(ii)** the date on which the borrower has made 360 qualifying monthly payments.
-    - **(E)** The Secretary shall cancel any outstanding balance of principal and interest due on a loan made under this part to a borrower—
-      - **(i)** who, for any period of time, participated in the Repayment Assistance Plan under this subsection;
-      - **(ii)** whose most recent payment for such loan prior to the loan cancellation under this subparagraph was made under such Repayment Assistance Plan; and
-      - **(iii)** who has made 360 qualifying monthly payments on such loan.
-    - **(F)** For the purposes of this subsection, the term “qualifying monthly payment” means any of the following:
-      - **(i)** An on-time applicable monthly payment under this subsection.
-      - **(ii)** An on-time monthly payment under the standard repayment plan under subsection (d)(7)(A)(i) of not less than the monthly payment required under such plan.
-      - **(iii)** A monthly payment under any repayment plan (excluding the Repayment Assistance Plan under this subsection) of not less than the monthly payment that would be required under a standard repayment plan under subsection (d)(1)(A) with a repayment period of 10 years.
-      - **(iv)** A monthly payment under section 1098e of this title of not less than the monthly payment required under such section, including a monthly payment equal to the minimum payment amount permitted under such section.
-      - **(v)** A monthly payment made before July 1, 2028 , under an income contingent repayment plan carried out under subsection (d)(1)(D) (or under an alternative repayment plan in lieu of repayment under such an income contingent repayment plan, if placed in such an alternative repayment plan by the Secretary) of not less than the monthly payment required under such a plan, including a monthly payment equal to the minimum payment amount permitted under such a plan.
-      - **(vi)** A month when the borrower did not make a payment because the borrower was in deferment under subsection (f)(2)(B) or due to an economic hardship described in subsection (f)(2)(D).
-      - **(vii)** A month that ended before July 4, 2025 , when the borrower did not make a payment because the borrower was in a period of deferment or forbearance described in section 685.209(k)(4)(iv) of title 34, Code of Federal Regulations (as in effect on July 4, 2025 ).
-    - **(G)** The procedures established by the Secretary under section 1098e(c) of this title shall apply for annually determining the borrower’s eligibility for the Repayment Assistance Plan, including verification of a borrower’s annual income and the annual amount due on the total amount of loans eligible to be repaid under this subsection, and such other procedures as are necessary to effectively implement income-based repayment under this subsection. With respect to carrying out section 1098h(a)(2) of this title for the Repayment Assistance Plan, an individual may elect to opt out of the disclosures required under section 1098h(a)(2)(A)(ii) of this title in accordance with the procedures established under section 1098e(c)(2) of this title .
-  - **(2)**
-    - **(A)** With respect to a borrower of a loan made under this part, for each month for which such a borrower makes an on-time applicable monthly payment required under paragraph (1)(A) and such monthly payment is insufficient to pay the total amount of interest that accrues for the month on all loans of the borrower repaid pursuant to the Repayment Assistance Plan under this subsection, the amount of interest accrued and not paid for the month shall not be charged to the borrower.
-    - **(B)** With respect to a borrower of a loan made under this part and not in a period of deferment or forbearance, for each month for which a borrower makes an on-time applicable monthly payment required under paragraph (1)(A) and such monthly payment reduces the total outstanding principal balance of all loans of the borrower repaid pursuant to the Repayment Assistance Plan under this subsection by less than $50, the Secretary shall reduce such total outstanding principal balance of the borrower by an amount that is equal to—
-      - **(i)** the amount that is the lesser of—
-        - **(I)** $50; or
-        - **(II)** the total amount paid by the borrower for such month pursuant to paragraph (1)(A); minus
-      - **(ii)** the total amount paid by the borrower for such month pursuant to paragraph (1)(A) that is applied to such total outstanding principal balance.
-  - **(3)** A borrower who chooses, or is required, to repay a loan under this subsection, and for whom adjusted gross income is unavailable or does not reasonably reflect the borrower’s current income, shall provide to the Secretary other documentation of income satisfactory to the Secretary, which documentation the Secretary may use to determine repayment under this subsection.
-  - **(4)** In this subsection:
-    - **(A)** The term “adjusted gross income”, when used with respect to a borrower, means the adjusted gross income (as such term is defined in section 62 of title 26 ) of the borrower (and the borrower’s spouse, as applicable) for the most recent taxable year, except that, in the case of a married borrower who files a separate Federal income tax return, the term does not include the adjusted gross income of the borrower’s spouse.
-    - **(B)**
-      - **(i)** Except as provided in clause (ii), (iii), or (vi), the term “applicable monthly payment” means, when used with respect to a borrower, the amount equal to—
-        - **(I)** the applicable base payment of the borrower, divided by 12; minus
-        - **(II)** $50 for each dependent of the borrower (which, in the case of a married borrower filing a separate Federal income tax return, shall include only each dependent that the borrower claims on that return).
-      - **(ii)** In the case of a borrower with an applicable monthly payment amount calculated under clause (i) that is less than $10, the applicable monthly payment of the borrower shall be $10.
-      - **(iii)** In the case of a borrower whose total outstanding balance of principal and interest on all of the loans of the borrower that are repaid pursuant to the Repayment Assistance Plan is less than the applicable monthly payment calculated pursuant to clause (i) or (ii), as applicable, then the applicable monthly payment of the borrower shall be the total outstanding balance of principal and interest on all such loans.
-      - **(iv)** The amount of the applicable base payment for a borrower with an adjusted gross income of—
-        - **(I)** not more than $10,000, is $120;
-        - **(II)** more than $10,000 and not more than $20,000, is 1 percent of such adjusted gross income;
-        - **(III)** more than $20,000 and not more than $30,000, is 2 percent of such adjusted gross income;
-        - **(IV)** more than $30,000 and not more than $40,000, is 3 percent of such adjusted gross income;
-        - **(V)** more than $40,000 and not more than $50,000, is 4 percent of such adjusted gross income;
-        - **(VI)** more than $50,000 and not more than $60,000, is 5 percent of such adjusted gross income;
-        - **(VII)** more than $60,000 and not more than $70,000, is 6 percent of such adjusted gross income;
-        - **(VIII)** more than $70,000 and not more than $80,000, is 7 percent of such adjusted gross income;
-        - **(IX)** more than $80,000 and not more than $90,000, is 8 percent of such adjusted gross income;
-        - **(X)** more than $90,000 and not more than $100,000, is 9 percent of such adjusted gross income; and
-        - **(XI)** more than $100,000, is 10 percent of such adjusted gross income.
-      - **(v)** For the purposes of this paragraph, the term “dependent” means an individual who is a dependent under section 152 of title 26 .
-      - **(vi)** In the case of a borrower who is required by the Secretary to provide information to the Secretary to determine the applicable monthly payment of the borrower under this subparagraph, and who does not comply with such requirement, the applicable monthly payment of the borrower shall be—
-        - **(I)** the sum of the monthly payment amounts the borrower would have paid for each of the borrower’s loans made under this part under a standard repayment plan with a fixed monthly repayment amount, paid over a period of 10 years, based on the outstanding principal due on such loan when such loan entered repayment; and
-        - **(II)** determined pursuant to this clause until the date on which the borrower provides such information to the Secretary.
+  - **(1)** Notwithstanding subsection (a) or any other provision of this subchapter, any borrower who was a new borrower on or after July 1, 2013 , shall not be eligible for a Federal Direct Stafford Loan if the period of time for which the borrower has received Federal Direct Stafford Loans, in the aggregate, exceeds the period of enrollment described in paragraph (3). Such borrower may still receive any Federal Direct Unsubsidized Stafford Loan for which such borrower is otherwise eligible.
+  - **(2)** Notwithstanding subsection (f)(1)(A) or any other provision of this subchapter and beginning on the date upon which a borrower who is enrolled in a program of education or training (including a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title ) for which borrowers are otherwise eligible to receive Federal Direct Stafford Loans, becomes ineligible for such loan as a result of paragraph (1), interest on all Federal Direct Stafford Loans that were disbursed to such borrower on or after July 1, 2013 , shall accrue. Such interest shall be paid or capitalized in the same manner as interest on a Federal Direct Unsubsidized Stafford Loan is paid or capitalized under section 1078–8(e)(2) of this title .
+  - **(3)**
+    - **(A)** The aggregate period of enrollment referred to in paragraph (1) shall not exceed the lesser of—
+      - **(i)** a period equal to 150 percent of the published length of the educational program in which the student is enrolled; or
+      - **(ii)** in the case of a borrower who was previously enrolled in one or more other educational programs that began on or after July 1, 2013 , and subject to subparagraph (B), a period of time equal to the difference between—
+        - **(I)** 150 percent of the published length of the longest educational program in which the borrower was, or is, enrolled; and
+        - **(II)** any periods of enrollment in which the borrower received a Federal Direct Stafford Loan.
+    - **(B)** The Secretary shall specify in regulation—
+      - **(i)** how the aggregate period described in subparagraph (A) shall be calculated with respect to a borrower who was or is enrolled on less than a full-time basis; and
+      - **(ii)** how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title , respectively.

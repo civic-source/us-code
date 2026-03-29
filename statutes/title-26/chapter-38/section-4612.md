@@ -3,9 +3,9 @@ title: "Section 4612 - Definitions and special rules"
 usc_title: 26
 usc_section: "4612"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4612"
-generated_at: "2026-03-29T02:14:01.219Z"
+generated_at: "2026-03-29T17:52:39.455Z"
 ---
 
 # § 4612. Definitions and special rules
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T02:14:01.219Z"
         - **(I)** the amount determined under clause (ii), over
         - **(II)** the aggregate amount of the credit determined under this subsection for prior taxable years with respect to such taxpayer.
       - **(ii)** The amount determined under this clause with respect to any taxpayer is the excess of—
-        - **(I)** the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were transferred on January 1, 1990 , and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
+        - **(I)** the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were tranferred 1 1 So in original. Probably should be “transferred”. on January 1, 1990 , and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
         - **(II)** the aggregate amount of the credit allowed under subsection (d) to the taxpayer.
   - **(3)**
     - **(A)** The Secretary shall from time to time transfer from the Oil Spill Liability Trust Fund to the general fund of the Treasury amounts equal to the credits allowed by reason of this subsection.

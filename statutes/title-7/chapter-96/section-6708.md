@@ -1,12 +1,14 @@
 ---
-title: "Section 6708 - Repealed. Pub. L. 115–334, title VIII, § 8301(a) , Dec. 20, 2018 , 132 Stat. 4840"
+title: "Section 6708 - Biomass energy demonstration projects"
 usc_title: 7
 usc_section: "6708"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6708"
-generated_at: "2026-03-29T02:10:17.086Z"
+generated_at: "2026-03-29T17:50:48.824Z"
 ---
 
-# § 6708. Repealed. Pub. L. 115–334, title VIII, § 8301(a) , Dec. 20, 2018 , 132 Stat. 4840
+# § 6708. Biomass energy demonstration projects
+
+The Secretary, in consultation with the Secretary of Energy, may carry out projects that demonstrate the potential of short-rotation silvicultural methods to produce wood for electricity production and industrial energy needs. In carrying out such projects, the Secretary shall cooperate with private industries, Federal and State agencies, and other organizations.
 

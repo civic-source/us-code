@@ -3,12 +3,13 @@ title: "Section 1024 - Inclusion of geothermal leasing under certain other laws"
 usc_title: 30
 usc_section: "1024"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1024"
-generated_at: "2026-03-29T02:14:11.240Z"
+generated_at: "2026-03-29T17:52:16.744Z"
 ---
 
 # § 1024. Inclusion of geothermal leasing under certain other laws
 
-As to any land subject to geothermal leasing under section 1002 of this title , all laws which either (a) provide for the disposal of land by patent or other form of conveyance or by grant or by operation of law subject to a reservation of any mineral or (b) prevent or restrict the disposal of such land because of the mineral character of the land, shall hereafter be deemed to embrace geothermal resources as a substance which either must be reserved or must prevent or restrict the disposal of such land, as the case may be. This section shall not be construed to affect grants, patents, or other forms of conveyances made prior to December 24, 1970 .
+- **(a)** provide for the disposal of land by patent or other form of conveyance or by grant or by operation of law subject to a reservation of any mineral or
+- **(b)** prevent or restrict the disposal of such land because of the mineral character of the land, shall hereafter be deemed to embrace geothermal resources as a substance which either must be reserved or must prevent or restrict the disposal of such land, as the case may be. This section shall not be construed to affect grants, patents, or other forms of conveyances made prior to December 24, 1970 .
 

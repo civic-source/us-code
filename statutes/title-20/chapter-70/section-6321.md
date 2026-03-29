@@ -3,24 +3,17 @@ title: "Section 6321 - Fiscal requirements"
 usc_title: 20
 usc_section: "6321"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6321"
-generated_at: "2026-03-29T02:12:17.441Z"
+generated_at: "2026-03-29T17:51:48.592Z"
 ---
 
 # § 6321. Fiscal requirements
 
 - **(a)** A local educational agency may receive funds under this part for any fiscal year only if the State educational agency involved finds that the local educational agency has maintained the agency’s fiscal effort in accordance with section 7901 of this title .
 - **(b)**
-  - **(1)** A State educational agency or local educational agency shall use Federal funds received under this part only to supplement the funds that would, in the absence of such Federal funds, be made available from State and local sources for the education of students participating in programs assisted under this part, and not to supplant such funds.
-  - **(2)** To demonstrate compliance with paragraph (1), a local educational agency shall demonstrate that the methodology used to allocate State and local funds to each school receiving assistance under this part ensures that such school receives all of the State and local funds it would otherwise receive if it were not receiving assistance under this part.
-  - **(3)** No local educational agency shall be required to—
-    - **(A)** identify that an individual cost or service supported under this part is supplemental; or
-    - **(B)** provide services under this part through a particular instructional method or in a particular instructional setting in order to demonstrate such agency’s compliance with paragraph (1).
-  - **(4)** Nothing in this section shall be construed to authorize or permit the Secretary to prescribe the specific methodology a local educational agency uses to allocate State and local funds to each school receiving assistance under this part.
-  - **(5)** A local educational agency—
-    - **(A)** shall meet the compliance requirement under paragraph (2) not later than 2 years after December 10, 2015 ; and
-    - **(B)** may demonstrate compliance with the requirement under paragraph (1) before the end of such 2-year period using the method such local educational agency used on the day before December 10, 2015 .
+  - **(1)** A State educational agency or local educational agency shall use Federal funds received under this part only to supplement the funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of pupils participating in programs assisted under this part, and not to supplant such funds.
+  - **(2)** No local educational agency shall be required to provide services under this part through a particular instructional method or in a particular instructional setting in order to demonstrate such agency’s compliance with paragraph (1).
 - **(c)**
   - **(1)**
     - **(A)** Except as provided in paragraphs (4) and (5), a local educational agency may receive funds under this part only if State and local funds will be used in schools served under this part to provide services that, taken as a whole, are at least comparable to services in schools that are not receiving funds under this part.
@@ -40,4 +33,4 @@ generated_at: "2026-03-29T02:12:17.441Z"
   - **(5)** For the purpose of determining compliance with paragraph (1), a local educational agency may exclude State and local funds expended for—
     - **(A)** language instruction educational programs; and
     - **(B)** the excess costs of providing services to children with disabilities as determined by the local educational agency.
-- **(d)** For the purpose of complying with subsections (b) and (c), a State educational agency or local educational agency may exclude supplemental State or local funds expended in any school attendance area or school for programs that meet the intent and purposes of this part.
+- **(d)** For the purpose of complying with subsections (b) and (c) of this section, a State educational agency or local educational agency may exclude supplemental State or local funds expended in any school attendance area or school for programs that meet the intent and purposes of this part.

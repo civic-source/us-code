@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-29T02:12:28.137Z"
+generated_at: "2026-03-29T17:52:03.945Z"
 ---
 
 # § 802. Definitions
@@ -33,11 +33,7 @@ As used in this subchapter:
   - **(13)** The term “felony” means any Federal or State offense classified by applicable Federal or State law as a felony.
   - **(14)** The term “isomer” means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term “isomer” means any optical, positional, or geometric isomer. As used in schedule II(a)(4), the term “isomer” means any optical or geometric isomer.
   - **(15)** The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
-  - **(16)**
-    - **(A)** Subject to subparagraph (B), the terms “marihuana” and “marijuana” mean all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
-    - **(B)** The terms “marihuana” and “marijuana” do not include—
-      - **(i)** hemp, as defined in section 1639 o of title 7; or
-      - **(ii)** the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+  - **(16)** The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
   - **(17)** The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
     - **(A)** Opium, opiates, derivatives of opium and opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation. Such term does not include the isoquinoline alkaloids of opium.
     - **(B)** Poppy straw and concentrate of poppy straw.
@@ -45,7 +41,7 @@ As used in this subchapter:
     - **(D)** Cocaine, its salts, optical and geometric isomers, and salts of isomers.
     - **(E)** Ecgonine, its derivatives, their salts, isomers, and salts of isomers.
     - **(F)** Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
-  - **(18)** The term “opiate” or “opioid” means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+  - **(18)** The term “opiate” means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
   - **(19)** The term “opium poppy” means the plant of the species Papaver somniferum L., except the seed thereof.
   - **(20)** The term “poppy straw” means all parts, except the seeds, of the opium poppy, after mowing.
   - **(21)** The term “practitioner” means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
@@ -121,12 +117,12 @@ As used in this subchapter:
     - **(A)** a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of a listed chemical, except that such term does not include—
       - **(i)** a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
       - **(ii)** a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title ;
-      - **(iii)** any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II;
+      - **(iii)** any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
       - **(iv)** any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], subject to clause (v), unless—
         - **(I)** the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
         - **(II)** the quantity of the listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General;
       - **(v)** any transaction in a scheduled listed chemical product that is a sale at retail by a regulated seller or a distributor required to submit reports under section 830(b)(3) of this title ; or
-      - **(vi)** any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
+      - **(vi)** any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
     - **(B)** a distribution, importation, or exportation of a tableting machine or encapsulating machine.
   - **(40)** The term “chemical mixture” means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
   - **(41)**
@@ -194,45 +190,10 @@ As used in this subchapter:
       - **(xlvi)** testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone);
       - **(xlvii)** testosterone (17β-hydroxyandrost-4-en-3-one);
       - **(xlviii)** tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
-      - **(xlix)** trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
-      - **(l)** 5α-Androstan-3,6,17-trione;
-      - **(li)** 6-bromo-androstan-3,17-dione;
-      - **(lii)** 6-bromo-androsta-1,4-diene-3,17-dione;
-      - **(liii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
-      - **(liv)** 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
-      - **(lv)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
-      - **(lvi)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
-      - **(lvii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
-      - **(lviii)** 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
-      - **(lix)** 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
-      - **(lx)** 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
-      - **(lxi)** [3,2-c]-furazan-5α-androstan-17β-ol;
-      - **(lxii)** 3β-hydroxy-estra-4,9,11-trien-17-one;
-      - **(lxiii)** 17α-methyl-androst-2-ene-3,17β-diol;
-      - **(lxiv)** 17α-methyl-androsta-1,4-diene-3,17β-diol;
-      - **(lxv)** Estra-4,9,11-triene-3,17-dione;
-      - **(lxvi)** 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
-      - **(lxvii)** 6α-Methyl-androst-4-ene-3,17-dione;
-      - **(lxviii)** 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
-      - **(lxix)** 17α-Methyl-5α-androstan-17β-ol;
-      - **(lxx)** 17β-Hydroxy-androstano[2,3-d]isoxazole;
-      - **(lxxi)** 17β-Hydroxy-androstano[3,2-c]isoxazole;
-      - **(lxxii)** 4-Hydroxy-androst-4-ene-3,17-dione[3,2-c]pyrazole-5α-androstan-17β-ol;
-      - **(lxxiii)** [3,2-c]pyrazole-androst-4-en-17β-ol;
-      - **(lxxiv)** [3,2-c]pyrazole-5α-androstan-17β-ol; and
-      - **(lxxv)** any salt, ester, or ether of a drug or substance described in this paragraph.
+      - **(xlix)** trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and (xlx) 1 1 So in original. Probably should be “(l)”. any salt, ester, or ether of a drug or substance described in this paragraph.
     - **(B)**
       - **(i)** Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
       - **(ii)** If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
-    - **(C)**
-      - **(i)** Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
-        - **(I)** the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
-        - **(II)** the drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
-      - **(ii)** A substance shall not be considered to be a drug or hormonal substance for purposes of this subparagraph if it—
-        - **(I)** is—
-        - **(II)** is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.); and
-        - **(III)** is not anabolic or androgenic.
-      - **(iii)** In accordance with section 885(a) of this title , any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
   - **(42)** The term “international transaction” means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
   - **(43)** The terms “broker” and “trader” mean a person that assists in arranging an international transaction in a listed chemical by—
     - **(A)** negotiating contracts;
@@ -258,33 +219,33 @@ As used in this subchapter:
   - **(52)** The term “online pharmacy”—
     - **(A)** means a person, entity, or Internet site, whether in the United States or abroad, that knowingly or intentionally delivers, distributes, or dispenses, or offers or attempts to deliver, distribute, or dispense, a controlled substance by means of the Internet; and
     - **(B)** does not include—
-      - **(i)** manufacturers or distributors registered under subsection (a), (b), (e), or (f) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
-      - **(ii)** nonpharmacy practitioners who are registered under section 823(g) of this title and whose activities are authorized by that registration;
-      - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(g) of this title ;
-      - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
+      - **(i)** manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
+      - **(ii)** nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
+      - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title ;
+      - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.];
       - **(v)** any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
       - **(vi)** mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
       - **(vii)** a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
-      - **(viii)** a pharmacy registered under section 823(g) of this title whose dispensing of controlled substances via the Internet consists solely of—
+      - **(viii)** a pharmacy registered under section 823(f) of this title whose dispensing of controlled substances via the Internet consists solely of—
         - **(I)** refilling prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (55); or
         - **(II)** filling new prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (56); or
       - **(ix)** any other persons for whom the Attorney General and the Secretary have jointly, by regulation, found it to be consistent with effective controls against diversion and otherwise consistent with the public health and safety to exempt from the definition of an “online pharmacy”.
   - **(53)** The term “homepage” means the opening or main page or screen of the website of an online pharmacy that is viewable on the Internet.
   - **(54)** The term “practice of telemedicine” means, for purposes of this subchapter, the practice of medicine in accordance with applicable Federal and State laws by a practitioner (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1395m(m) of title 42 , which practice—
     - **(A)** is being conducted—
-      - **(i)** while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(g) of this title ; and
+      - **(i)** while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(f) of this title ; and
       - **(ii)** by a practitioner—
         - **(I)** acting in the usual course of professional practice;
         - **(II)** acting in accordance with applicable State law; and
-        - **(III)** registered under section 823(g) of this title in the State in which the patient is located, unless the practitioner—
+        - **(III)** registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
     - **(B)** is being conducted while the patient is being treated by, and in the physical presence of, a practitioner—
       - **(i)** acting in the usual course of professional practice;
       - **(ii)** acting in accordance with applicable State law; and
-      - **(iii)** registered under section 823(g) of this title in the State in which the patient is located, unless the practitioner—
+      - **(iii)** registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
         - **(I)** is exempted from such registration in all States under section 822(d) of this title ; or
         - **(II)** is—
     - **(C)** is being conducted by a practitioner—
-      - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
+      - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.];
       - **(ii)** acting within the scope of the employment, contract, or compact described in clause (i); and
       - **(iii)** who is designated as an Internet Eligible Controlled Substances Provider by the Secretary under section 831(g)(2) of this title ;
     - **(D)**
@@ -293,13 +254,13 @@ As used in this subchapter:
     - **(E)** is being conducted by a practitioner who has obtained from the Attorney General a special registration under section 831(h) of this title ;
     - **(F)** is being conducted—
       - **(i)** in a medical emergency situation—
-        - **(I)** that prevents the patient from being in the physical presence of a practitioner registered under section 823(g) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
-        - **(II)** that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title ;
+        - **(I)** that prevents the patient from being in the physical presence of a practitioner registered under section 823(f) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
+        - **(II)** that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title ;
         - **(III)** during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
         - **(IV)** that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
       - **(ii)** by a practitioner that—
         - **(I)** is an employee or contractor of the Veterans Health Administration acting within the scope of that employment or contract;
-        - **(II)** is registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title ; and
+        - **(II)** is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title ; and
         - **(III)** issues a controlled substance prescription in this emergency context that is limited to a maximum of a 5-day supply which may not be extended or refilled; or
     - **(G)** is being conducted under any other circumstances that the Attorney General and the Secretary have jointly, by regulation, determined to be consistent with effective controls against diversion and otherwise consistent with the public health and safety.
   - **(55)** The term “refilling prescriptions for controlled substances in schedule III, IV, or V”—
@@ -309,14 +270,3 @@ As used in this subchapter:
     - **(A)** the pharmacy dispensing that prescription has previously dispensed to the patient a controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of subsections (b) and (c) of section 829 of this title (in this paragraph referred to as the “original prescription”);
     - **(B)** the pharmacy contacts the practitioner who issued the original prescription at the request of that individual to determine whether the practitioner will authorize the issuance of a new prescription for that individual for the controlled substance described in subparagraph (A); and
     - **(C)** the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
-  - **(57)** The term “suspicious order” may include, but is not limited to—
-    - **(A)** an order of a controlled substance of unusual size;
-    - **(B)** an order of a controlled substance deviating substantially from a normal pattern; and
-    - **(C)** orders of controlled substances of unusual frequency.
-  - **(58)** The term “serious drug felony” means an offense described in section 924(e)(2) of title 18 for which—
-    - **(A)** the offender served a term of imprisonment of more than 12 months; and
-    - **(B)** the offender’s release from any term of imprisonment was within 15 years of the commencement of the instant offense.
-  - **(59)** The term “serious violent felony” means—
-    - **(A)** an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
-    - **(B)** any offense that would be a felony violation of section 113 of title 18 , if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
-  - **(60)** The term “fentanyl-related substance” has the meaning given the term in subsection (e)(2) of schedule I of section 812(c) of this title .

@@ -1,0 +1,18 @@
+---
+title: "Section 6911 - Financial assistance for language instruction educational programs"
+usc_title: 20
+usc_section: "6911"
+chapter: 70
+current_through: "PL 113-100"
+classification: "20 U.S.C. § 6911"
+generated_at: "2026-03-29T17:51:48.623Z"
+---
+
+# § 6911. Financial assistance for language instruction educational programs
+
+The purpose of this subpart is to assist local educational agencies, institutions of higher education, and community-based organizations, through the grants authorized under sections 6912 and 6913 of this title—
+
+  - **(1)** to develop and enhance their capacity to provide high-quality instruction through language instruction educational programs or special alternative instruction programs to limited English proficient children; and
+  - **(2)** to help such children—
+    - **(A)** develop English proficiency and, to the extent possible, proficiency in their native language; and
+    - **(B)** meet the same challenging State academic content and student academic achievement standards as all children are expected to meet under section 6311(b)(1) of this title .

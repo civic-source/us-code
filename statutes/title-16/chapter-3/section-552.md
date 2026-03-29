@@ -3,9 +3,9 @@ title: "Section 552 - Consent to agreement by States for conservation of forests
 usc_title: 16
 usc_section: "552"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 552"
-generated_at: "2026-03-29T02:11:53.605Z"
+generated_at: "2026-03-29T17:51:56.718Z"
 ---
 
 # § 552. Consent to agreement by States for conservation of forests and water supply

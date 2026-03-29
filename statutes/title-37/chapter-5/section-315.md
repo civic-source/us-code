@@ -3,9 +3,9 @@ title: "Section 315 - Special pay: engineering and scientific career continuatio
 usc_title: 37
 usc_section: "315"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 315"
-generated_at: "2026-03-29T02:14:43.126Z"
+generated_at: "2026-03-29T17:52:59.089Z"
 ---
 
 # § 315. Special pay: engineering and scientific career continuation pay
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:14:43.126Z"
 - **(a)** In this section, the term “engineering or scientific duty” means service performed by an officer—
   - **(1)** that requires an engineering or science degree; and
   - **(2)** that requires a skill designated (under regulations prescribed by the Secretary of Defense for the armed forces, by the Secretary of Commerce for the National Oceanic and Atmospheric Administration, or by the Secretary of Health and Human Services for the Public Health Service) as critical and as a skill in which there is a critical shortage of officers in the uniformed service concerned.
-- **(b)** Under regulations prescribed by the Secretary concerned, an officer of a uniformed service who—
+- **(b)** Under regulations prescribed by the Secretary concerned, an officer of a 1 1 So in original. Probably should be “an”. uniformed service who—
   - **(1)** is entitled to basic pay;
   - **(2)** is below the pay grade of O–7;
   - **(3)** holds a degree in engineering or science from an accredited college or university;

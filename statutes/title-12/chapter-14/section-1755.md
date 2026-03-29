@@ -3,9 +3,9 @@ title: "Section 1755 - Fees"
 usc_title: 12
 usc_section: "1755"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 1755"
-generated_at: "2026-03-29T02:11:21.001Z"
+generated_at: "2026-03-29T17:51:13.091Z"
 ---
 
 # § 1755. Fees
@@ -15,6 +15,6 @@ generated_at: "2026-03-29T02:11:21.001Z"
 - **(c)** If the annual operating fee is composed of separate charges, no supervision charge shall be payable by a Federal credit union, and the Board may waive payment of any or all other charges comprising the fee, with respect to the year in which its charter is issued, or in which final distribution is made in its liquidation or the charter is canceled.
 - **(d)** All operating fees shall be deposited with the Treasurer of the United States for the account of the Administration and may be expended by the Board to defray the expenses incurred in carrying out the provisions of this chapter including the examination and supervision of Federal credit unions.
 - **(e)**
-  - **(1)** Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) as the Board determines are not needed for current operations.
+  - **(1)** Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) of this section as the Board determines are not needed for current operations.
   - **(2)** Such investments may be made only in interest bearing securities of the United States with maturities requested by the Board bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
-  - **(3)** All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d).
+  - **(3)** All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d) of this section.

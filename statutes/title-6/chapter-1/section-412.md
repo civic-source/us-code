@@ -3,9 +3,9 @@ title: "Section 412 - Labor-management relations"
 usc_title: 6
 usc_section: "412"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 412"
-generated_at: "2026-03-29T02:10:05.005Z"
+generated_at: "2026-03-29T17:50:39.343Z"
 ---
 
 # § 412. Labor-management relations
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:10:05.005Z"
     - **(B)** a majority of the employees within such agency (or subdivision) have as their primary duty intelligence, counterintelligence, or investigative work directly related to terrorism investigation.
   - **(2)** Nothing in paragraph (1) shall affect the effectiveness of any order to the extent that such order excludes any portion of an agency or subdivision of an agency as to which—
     - **(A)** recognition as an appropriate unit has never been conferred for purposes of chapter 71 of such title 5; or
-    - **(B)** any such recognition has been revoked or otherwise terminated as a result of a determination under subsection (b)(1).
+    - **(B)** any such recognition has been revoked or otherwise terminated as a result of a determination under subsection (b)(1) of this section.
 - **(b)**
   - **(1)** Each unit which is recognized as an appropriate unit for purposes of chapter 71 of title 5 as of the day before the effective date of this chapter (and any subdivision of any such unit) shall, if such unit (or subdivision) is transferred to the Department pursuant to this chapter, continue to be so recognized for such purposes, unless—
     - **(A)** the mission and responsibilities of such unit (or subdivision) materially change; and
@@ -24,6 +24,6 @@ generated_at: "2026-03-29T02:10:05.005Z"
   - **(2)** No position or employee within a unit (or subdivision of a unit) as to which continued recognition is given in accordance with paragraph (1) shall be excluded from such unit (or subdivision), for purposes of chapter 71 of such title 5, unless the primary job duty of such position or employee—
     - **(A)** materially changes; and
     - **(B)** consists of intelligence, counterintelligence, or investigative work directly related to terrorism investigation.
-- **(c)** If the President determines that the application of subsections (a), (b), and (d) would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
+- **(c)** If the President determines that the application of subsections (a), (b), and (d) of this section would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
 - **(d)** No other provision of this chapter or of any amendment made by this chapter may be construed or applied in a manner so as to limit, supersede, or otherwise affect the provisions of this section, except to the extent that it does so by specific reference to this section.
 - **(e)** Nothing in section 9701(e) of title 5 shall be considered to apply with respect to any agency or subdivision of any agency, which is excluded from the coverage of chapter 71 of title 5 by virtue of an order issued in accordance with section 7103(b) of such title 5 and the preceding provisions of this section (as applicable), or to any employees of any such agency or subdivision or to any individual or entity representing any such employees or any representatives thereof.

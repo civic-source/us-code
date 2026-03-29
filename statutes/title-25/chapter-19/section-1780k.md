@@ -1,12 +1,18 @@
 ---
-title: "Section 1780k - Omitted"
+title: "Section 1780k - Inter-Pueblo cooperation"
 usc_title: 25
 usc_section: "1780k"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1780k"
-generated_at: "2026-03-29T02:13:20.914Z"
+generated_at: "2026-03-29T17:52:06.102Z"
 ---
 
-# § 1780k. Omitted
+# § 1780k. Inter-Pueblo cooperation
 
+- **(a)** The Pueblo of Santa Clara and the Pueblo may, by agreement, demarcate a boundary between their respective tribal land within Township 20 North, Range 7 East, in Rio Arriba County, New Mexico, and may exchange or otherwise convey land between them in that township.
+- **(b)** In accordance with any agreement under subsection (a), the Secretary of the Interior shall, without further administrative procedures or environmental or other analyses—
+  - **(1)** recognize a boundary between the Pueblo of Santa Clara and the Pueblo;
+  - **(2)** provide for a boundary survey;
+  - **(3)** approve land exchanges and conveyances as agreed upon by the Pueblo of Santa Clara and the Pueblo; and
+  - **(4)** accept conveyances of exchanged lands into trust for the benefit of the grantee tribe.

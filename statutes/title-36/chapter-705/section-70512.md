@@ -3,14 +3,12 @@ title: "Section 70512 - Deposit of assets on dissolution or final liquidation"
 usc_title: 36
 usc_section: "70512"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 70512"
-generated_at: "2026-03-29T02:14:41.353Z"
+generated_at: "2026-03-29T17:52:49.357Z"
 ---
 
 # § 70512. Deposit of assets on dissolution or final liquidation
 
-On dissolution or final liquidation of the corporation, any assets of the corporation remaining after the discharge of all liabilities shall be distributed—
+On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be deposited in the Treasury of the United States as a miscellaneous receipt.
 
-- **(a)** as provided by the board of directors; and
-- **(b)** in compliance with the charter and bylaws.

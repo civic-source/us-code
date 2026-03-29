@@ -3,9 +3,9 @@ title: "Section 4481 - Imposition of tax"
 usc_title: 26
 usc_section: "4481"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4481"
-generated_at: "2026-03-29T02:14:01.215Z"
+generated_at: "2026-03-29T17:52:39.452Z"
 ---
 
 # § 4481. Imposition of tax
@@ -17,6 +17,8 @@ generated_at: "2026-03-29T02:14:01.215Z"
   - **(2)**
     - **(A)** If in any taxable period a highway motor vehicle is sold, destroyed, or stolen before the first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was sold, destroyed, or stolen.
     - **(B)** For purposes of subparagraph (A), a highway motor vehicle is destroyed if such vehicle is damaged by reason of an accident or other casualty to such an extent that it is not economic to rebuild.
-- **(d)** To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
+- **(d)**
+  - **(1)** To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
+  - **(2)** For privilege of paying tax imposed by this section in installments, see section 6156. 1 1 See References in Text note below.
 - **(e)** Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
-- **(f)** The tax imposed by this section shall apply only to use before October 1, 2029 .
+- **(f)** The tax imposed by this section shall apply only to use before October 1, 2017 .

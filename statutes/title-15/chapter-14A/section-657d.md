@@ -3,9 +3,9 @@ title: "Section 657d - Federal and State Technology Partnership Program"
 usc_title: 15
 usc_section: "657d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 657d"
-generated_at: "2026-03-29T02:11:34.092Z"
+generated_at: "2026-03-29T17:51:36.167Z"
 ---
 
 # § 657d. Federal and State Technology Partnership Program
@@ -13,14 +13,13 @@ generated_at: "2026-03-29T02:11:34.092Z"
 - **(a)** In this section and section 657e of this title , the following definitions apply:
   - **(1)** The term “applicant” means an entity, organization, or individual that submits a proposal for an award or a cooperative agreement under this section.
   - **(2)** The term “business advice and counseling” means providing advice and assistance on matters described in section 657e(c)(2)(B) of this title to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
-  - **(3)** The term “catastrophic incident” means a major disaster that is comparable to the description of a catastrophic incident in the National Response Plan of the Administration, or any successor thereto.
-  - **(4)** The term “FAST program” means the Federal and State Technology Partnership Program established under this section.
-  - **(5)** The term “mentor” means an individual described in section 657e(c)(2) of this title .
-  - **(6)** The term “Mentoring Network” means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title .
-  - **(7)** The term “recipient” means a person that receives an award or becomes party to a cooperative agreement under this section.
-  - **(8)** The term “SBIR program” has the same meaning as in section 638(e)(4) of this title .
-  - **(9)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
-  - **(10)** The term “STTR program” has the same meaning as in section 638(e)(6) of this title .
+  - **(3)** The term “FAST program” means the Federal and State Technology Partnership Program established under this section.
+  - **(4)** The term “mentor” means an individual described in section 657e(c)(2) of this title .
+  - **(5)** The term “Mentoring Network” means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title .
+  - **(6)** The term “recipient” means a person that receives an award or becomes party to a cooperative agreement under this section.
+  - **(7)** The term “SBIR program” has the same meaning as in section 638(e)(4) of this title .
+  - **(8)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+  - **(9)** The term “STTR program” has the same meaning as in section 638(e)(6) of this title .
 - **(b)** The Administrator shall establish a program to be known as the Federal and State Technology Partnership Program, the purpose of which shall be to strengthen the technological competitiveness of small business concerns in the States.
 - **(c)**
   - **(1)** In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forth in paragraph (2), in order to enhance or develop in a State—
@@ -39,7 +38,7 @@ generated_at: "2026-03-29T02:11:34.092Z"
       - **(iii)** to create or participate in a training program for individuals providing SBIR outreach and assistance at the State and local levels; and
       - **(iv)** to encourage the commercialization of technology developed through SBIR program funding.
   - **(2)** In making awards or entering into cooperative agreements under this section, the Administrator and the SBIR program managers referred to in paragraph (1)—
-    - **(A)** may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program;
+    - **(A)** may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
     - **(B)** shall consider, at a minimum—
       - **(i)** whether the applicant has demonstrated that the assistance to be provided would address unmet needs of small business concerns in the community, and whether it is important to use Federal funding for the proposed activities;
       - **(ii)** whether the applicant has demonstrated that a need exists to increase the number or success of small high-technology businesses in the State, as measured by the number of first phase and second phase SBIR awards that have historically been received by small business concerns in the State;
@@ -49,13 +48,9 @@ generated_at: "2026-03-29T02:11:34.092Z"
       - **(vi)** whether the proposal addresses the needs of small business concerns—
         - **(I)** owned and controlled by women;
         - **(II)** owned and controlled by minorities; and
-        - **(III)** located in areas that have historically not participated in the SBIR and STTR programs; and
-    - **(C)** shall give special consideration to an applicant that is located in an area affected by a catastrophic incident.
+        - **(III)** located in areas that have historically not participated in the SBIR and STTR programs.
   - **(3)** Not more than one proposal may be submitted for inclusion in the FAST program under this section to provide services in any one State in any 1 fiscal year.
   - **(4)** Proposals and applications for assistance under this section shall be in such form and subject to such procedures as the Administrator shall establish. The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).
-  - **(5)** Upon application by an applicant that receives an award or has in effect a cooperative agreement under this section and that is located in an area affected by a catastrophic incident, the Administrator may—
-    - **(A)** provide additional assistance to the applicant; and
-    - **(B)** waive the matching requirements under subsection (e)(2).
 - **(d)** In carrying out the FAST program under this section, the Administrator shall cooperate and coordinate with—
   - **(1)** Federal agencies required by section 638 of this title to have an SBIR program; and
   - **(2)** entities, organizations, and individuals actively engaged in enhancing or developing the technological capabilities of small business concerns, including—

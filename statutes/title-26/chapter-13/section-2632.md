@@ -3,9 +3,9 @@ title: "Section 2632 - Special rules for allocation of GST exemption"
 usc_title: 26
 usc_section: "2632"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2632"
-generated_at: "2026-03-29T02:14:01.174Z"
+generated_at: "2026-03-29T17:52:39.416Z"
 ---
 
 # § 2632. Special rules for allocation of GST exemption

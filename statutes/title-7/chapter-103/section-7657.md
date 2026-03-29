@@ -3,9 +3,9 @@ title: "Section 7657 - Senior Scientific Research Service"
 usc_title: 7
 usc_section: "7657"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7657"
-generated_at: "2026-03-29T02:10:17.159Z"
+generated_at: "2026-03-29T17:50:48.867Z"
 ---
 
 # § 7657. Senior Scientific Research Service
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:10:17.159Z"
     - **(C)** meet qualification standards prescribed by the Director of the Office of Personnel Management for appointment to a position at level GS–15 of the General Schedule.
   - **(3)** Not more than 100 individuals may serve as members of the Service at any 1 time.
   - **(4)**
-    - **(A)** Subject to subparagraph (B) and subsection (d)(2), the Secretary may appoint and employ a member of the Service without regard to—
+    - **(A)** Subject to subparagraph (B) and subsection (d)(2) of this section, the Secretary may appoint and employ a member of the Service without regard to—
       - **(i)** the provisions of title 5 governing appointments in the competitive service;
       - **(ii)** the provisions of subchapter I of chapter 35 of title 5 relating to retention preference;
       - **(iii)** the provisions of chapter 43 of title 5 relating to performance appraisal and performance actions;

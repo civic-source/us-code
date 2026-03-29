@@ -3,17 +3,17 @@ title: "Section 2717 - Litigation, jurisdiction, and venue"
 usc_title: 33
 usc_section: "2717"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2717"
-generated_at: "2026-03-29T02:14:18.641Z"
+generated_at: "2026-03-29T17:52:45.997Z"
 ---
 
 # § 2717. Litigation, jurisdiction, and venue
 
 - **(a)** Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
-- **(b)** Except as provided in subsections (a) and (c), the United States district courts shall have exclusive original jurisdiction over all controversies arising under this Act, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the discharge or injury or damages occurred, or in which the defendant resides, may be found, has its principal office, or has appointed an agent for service of process. For the purposes of this section, the Fund shall reside in the District of Columbia.
+- **(b)** Except as provided in subsections (a) and (c) of this section, the United States district courts shall have exclusive original jurisdiction over all controversies arising under this Act, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the discharge or injury or damages occurred, or in which the defendant resides, may be found, has its principal office, or has appointed an agent for service of process. For the purposes of this section, the Fund shall reside in the District of Columbia.
 - **(c)** A State trial court of competent jurisdiction over claims for removal costs or damages, as defined under this Act, may consider claims under this Act or State law and any final judgment of such court (when no longer subject to ordinary forms of review) shall be recognized, valid, and enforceable for all purposes of this Act.
-- **(d)** The provisions of subsections (a), (b), and (c) shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
+- **(d)** The provisions of subsections (a), (b), and (c) of this section shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
 - **(e)** Nothing in this subchapter shall apply to any cause of action or right of recovery arising from any incident which occurred prior to August 18, 1990 . Such claims shall be adjudicated pursuant to the law applicable on the date of the incident.
 - **(f)**
   - **(1)** Except as provided in paragraphs (3) and (4), an action for damages under this Act shall be barred unless the action is brought within 3 years after—
@@ -27,4 +27,3 @@ generated_at: "2026-03-29T02:14:18.641Z"
   - **(5)** The time limitations contained herein shall not begin to run—
     - **(A)** against a minor until the earlier of the date when such minor reaches 18 years of age or the date on which a legal representative is duly appointed for such minor, or
     - **(B)** against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for such incompetent.
-- **(g)** Before the date of completion of a removal action, no person may bring an action under this Act, section 1321 of this title , or chapter 7 of title 5 challenging any decision relating to such removal action that is made by an on-scene coordinator appointed under the National Contingency Plan.

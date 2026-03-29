@@ -3,9 +3,9 @@ title: "Section 45R - Employee health insurance expenses of small employers"
 usc_title: 26
 usc_section: "45R"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 45R"
-generated_at: "2026-03-29T02:14:00.750Z"
+generated_at: "2026-03-29T17:52:39.100Z"
 ---
 
 # § 45R. Employee health insurance expenses of small employers
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:14:00.750Z"
       - **(ii)** the number of full-time equivalent employees of the employee determined under paragraph (2) for the taxable year.
     - **(B)** For purposes of paragraph (1)(B) and subsection (c)(2)—
       - **(i)** The dollar amount in effect under this paragraph for taxable years beginning in 2010, 2011, 2012, or 2013 is $25,000.
-      - **(ii)** In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2012” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2012” for “calendar year 1992” in subparagraph (B) thereof.
   - **(4)** An arrangement is described in this paragraph if it requires an eligible small employer to make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan.
   - **(5)** For purposes of this subsection—
     - **(A)** The number of hours of service worked by, and wages paid to, a seasonal worker of an employer shall not be taken into account in determining the full-time equivalent employees and average annual wages of the employer unless the worker works for the employer on more than 120 days during the taxable year.

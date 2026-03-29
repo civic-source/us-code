@@ -3,15 +3,15 @@ title: "Section 4701 - Definitions"
 usc_title: 5
 usc_section: "4701"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 4701"
-generated_at: "2026-03-29T02:10:01.840Z"
+generated_at: "2026-03-29T17:50:36.469Z"
 ---
 
 # § 4701. Definitions
 
 - **(a)** For the purpose of this chapter—
-  - **(1)** “agency” means an Executive agency and the Government Publishing Office, but does not include—
+  - **(1)** “agency” means an Executive agency and the Government Printing Office, but does not include—
     - **(A)** a Government corporation;
     - **(B)** the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
     - **(C)** the Government Accountability Office;

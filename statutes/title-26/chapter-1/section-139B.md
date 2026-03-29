@@ -3,9 +3,9 @@ title: "Section 139B - Benefits provided to volunteer firefighters and emergency
 usc_title: 26
 usc_section: "139B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 139B"
-generated_at: "2026-03-29T02:14:00.804Z"
+generated_at: "2026-03-29T17:52:39.130Z"
 ---
 
 # § 139B. Benefits provided to volunteer firefighters and emergency medical responders
@@ -20,7 +20,8 @@ generated_at: "2026-03-29T02:14:00.804Z"
   - **(1)** The term “qualified state and local tax benefit” means any reduction or rebate of a tax described in paragraph (1), (2), or (3) of section 164(a) provided by a State or political division thereof on account of services performed as a member of a qualified volunteer emergency response organization.
   - **(2)**
     - **(A)** The term “qualified payment” means any payment (whether reimbursement or otherwise) provided by a State or political division thereof on account of the performance of services as a member of a qualified volunteer emergency response organization.
-    - **(B)** The amount determined under subparagraph (A) for any taxable year shall not exceed $50 multiplied by the number of months during such year that the taxpayer performs such services.
+    - **(B)** The amount determined under subparagraph (A) for any taxable year shall not exceed $30 multiplied by the number of months during such year that the taxpayer performs such services.
   - **(3)** The term “qualified volunteer emergency response organization” means any volunteer organization—
     - **(A)** which is organized and operated to provide firefighting or emergency medical services for persons in the State or political subdivision, as the case may be, and
     - **(B)** which is required (by written agreement) by the State or political subdivision to furnish firefighting or emergency medical services in such State or political subdivision.
+- **(d)** This section shall not apply with respect to taxable years beginning after December 31, 2010 .

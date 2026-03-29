@@ -3,12 +3,14 @@ title: "Section 5513 - Proposal for consideration by International Civil Aviatio
 usc_title: 22
 usc_section: "5513"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5513"
-generated_at: "2026-03-29T02:12:40.361Z"
+generated_at: "2026-03-29T17:52:10.644Z"
 ---
 
 # § 5513. Proposal for consideration by International Civil Aviation Organization
 
-Not later than 60 days after November 16, 1990 , the Secretary of State, in consultation with the Secretary of Transportation, shall propose to the International Civil Aviation Organization the establishment of a comprehensive aviation security program which shall include (1) training for airport security personnel, (2) grants for security equipment acquisition for certain nations, and (3) expansion of the appropriate utilization of canine teams in the detection of explosive devices in all airport areas, including use in passenger screening areas and nonpublic baggage assembly and processing areas.
+  - **(1)** training for airport security personnel,
+  - **(2)** grants for security equipment acquisition for certain nations, and
+  - **(3)** expansion of the appropriate utilization of canine teams in the detection of explosive devices in all airport areas, including use in passenger screening areas and nonpublic baggage assembly and processing areas.
 

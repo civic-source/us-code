@@ -3,9 +3,9 @@ title: "Section 2132 - Replacement of statue in Statuary Hall"
 usc_title: 2
 usc_section: "2132"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 2132"
-generated_at: "2026-03-29T02:09:53.758Z"
+generated_at: "2026-03-29T17:50:24.103Z"
 ---
 
 # § 2132. Replacement of statue in Statuary Hall
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:09:53.758Z"
   - **(2)** A request shall be considered under paragraph (1) only if—
     - **(A)** the request has been approved by a resolution adopted by the legislature of the State and the request has been approved by the Governor of the State, and
     - **(B)** the statue to be replaced has been displayed in the Capitol of the United States for at least 10 years as of the time the request is made, except that the Joint Committee may waive this requirement for cause at the request of a State.
-- **(b)** If the Joint Committee on the Library of Congress approves a request under subsection (a), the Architect of the Capitol shall enter into an agreement with the State to carry out the replacement in accordance with the request and any conditions the Joint Committee may require for its approval. Such agreement shall provide that—
+- **(b)** If the Joint Committee on the Library of Congress approves a request under subsection (a) of this section, the Architect of the Capitol shall enter into an agreement with the State to carry out the replacement in accordance with the request and any conditions the Joint Committee may require for its approval. Such agreement shall provide that—
   - **(1)** the new statue shall be subject to the same conditions and restrictions as apply to any statue provided by a State under section 2131 of this title , and
   - **(2)** the State shall pay any costs related to the replacement, including costs in connection with the design, construction, transportation, and placement of the new statue, the removal and transportation of the statue being replaced, and any unveiling ceremony.
 - **(c)** Nothing in this section shall be interpreted to permit a State to have more than two statues on display in the Capitol of the United States.

@@ -3,12 +3,13 @@ title: "Section 1642h - Prohibition against payment of award to certain persons"
 usc_title: 22
 usc_section: "1642h"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1642h"
-generated_at: "2026-03-29T02:12:40.005Z"
+generated_at: "2026-03-29T17:52:10.461Z"
 ---
 
 # § 1642h. Prohibition against payment of award to certain persons
 
-No award shall be made on any claim under section 1642c of this title to or for the benefit of (1) any person who has been convicted of a violation of any provision of chapter 115 of title 18, or of any other crime involving disloyalty to the United States, or (2) any claimant whose claim under this subchapter is within the scope of subchapter III of this chapter.
+  - **(1)** any person who has been convicted of a violation of any provision of chapter 115 of title 18, or of any other crime involving disloyalty to the United States, or
+  - **(2)** any claimant whose claim under this subchapter is within the scope of subchapter III of this chapter.
 

@@ -1,12 +1,13 @@
 ---
-title: "Section 565a - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393"
+title: "Section 565a - Distribution to persons on final roll; payment of shares due living adults, deceased enrollees, adults under legal disabilities, persons in need of assistance, and minors"
 usc_title: 25
 usc_section: "565a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 565a"
-generated_at: "2026-03-29T02:13:20.865Z"
+generated_at: "2026-03-29T17:52:05.997Z"
 ---
 
-# § 565a. Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393
+# § 565a. Distribution to persons on final roll; payment of shares due living adults, deceased enrollees, adults under legal disabilities, persons in need of assistance, and minors
 
+- **(a)** A distribution shall be made of the funds resulting from docket numbered 100, including interest, after deducting litigation expenses and estimated costs of distribution to all persons whose names appear on the final roll of the Klamath Tribe, which roll was closed and made final as of August 13, 1954 ( 68 Stat. 718 ). Except as provided in subsections (b), (c), (d), and (e) of this section, a share or portion of a share payable to a living adult shall be paid directly to such adult; (b) a share payable to a deceased enrollee shall be paid to his heirs or legatees upon the filing of proof of death and inheritance satisfactory to the Secretary of the Interior, whose findings and determinations upon such proof shall be final and conclusive: Provided , That amounts payable to deceased heirs amounting to $5 or less shall not be paid, and such amounts shall remain in the United States Treasury to the credit of the Klamath Tribe; (c) a share payable to an adult under legal disability shall be paid to his legal representative; (d) a share payable to a person previously found to be in need of assistance under the provisions of section 564n of this title , may be paid directly to the individual or, if the Secretary deems it in the best interest of the individual, it may be added to the trust now in force on behalf of the said individual, with concurrence of the trustee; and (e) a share or portion of a share payable to a person under age of majority as determined by the laws of the State of residence shall be paid to a parent, legal guardian, or trustee of such minor.

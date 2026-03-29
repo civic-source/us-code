@@ -3,9 +3,9 @@ title: "Section 355 - Distribution of stock and securities of a controlled corpo
 usc_title: 26
 usc_section: "355"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 355"
-generated_at: "2026-03-29T02:14:00.892Z"
+generated_at: "2026-03-29T17:52:39.193Z"
 ---
 
 # § 355. Distribution of stock and securities of a controlled corporation
@@ -67,12 +67,12 @@ generated_at: "2026-03-29T02:14:00.892Z"
     - **(A)** any person holds disqualified stock in the distributing corporation which constitutes a 50-percent or greater interest in such corporation, or
     - **(B)** any person holds disqualified stock in the controlled corporation (or, if stock of more than 1 controlled corporation is distributed, in any controlled corporation) which constitutes a 50-percent or greater interest in such corporation.
   - **(3)** For purposes of this subsection, the term “disqualified stock” means—
-    - **(A)** any stock in the distributing corporation acquired by purchase during the 5-year period ending on the date of the distribution, and
+    - **(A)** any stock in the distributing corporation acquired by purchase after October 9, 1990 , and during the 5-year period ending on the date of the distribution, and
     - **(B)** any stock in any controlled corporation—
-      - **(i)** acquired by purchase during the 5-year period ending on the date of the distribution, or
+      - **(i)** acquired by purchase after October 9, 1990 , and during the 5-year period ending on the date of the distribution, or
       - **(ii)** received in the distribution to the extent attributable to distributions on—
         - **(I)** stock described in subparagraph (A), or
-        - **(II)** any securities in the distributing corporation acquired by purchase during the 5-year period ending on the date of the distribution.
+        - **(II)** any securities in the distributing corporation acquired by purchase after October 9, 1990 , and during the 5-year period ending on the date of the distribution.
   - **(4)** For purposes of this subsection, the term “50-percent or greater interest” means stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote or at least 50 percent of the total value of shares of all classes of stock.
   - **(5)** For purposes of this subsection—
     - **(A)** Except as otherwise provided in this paragraph, the term “purchase” means any acquisition but only if—
@@ -173,11 +173,3 @@ generated_at: "2026-03-29T02:14:00.892Z"
       - **(ii)** the treatment of assets unrelated to the trade or business of a corporation as investment assets if, prior to the distribution, investment assets were used to acquire such unrelated assets,
     - **(B)** which in appropriate cases exclude from the application of this subsection a distribution which does not have the character of a redemption which would be treated as a sale or exchange under section 302, and
     - **(C)** which modify the application of the attribution rules applied for purposes of this subsection.
-- **(h)**
-  - **(1)** This section (and so much of section 356 as relates to this section) shall not apply to any distribution if either the distributing corporation or controlled corporation is a real estate investment trust.
-  - **(2)**
-    - **(A)** Paragraph (1) shall not apply to any distribution if, immediately after the distribution, the distributing corporation and the controlled corporation are both real estate investment trusts.
-    - **(B)** Paragraph (1) shall not apply to any distribution if—
-      - **(i)** the distributing corporation has been a real estate investment trust at all times during the 3-year period ending on the date of such distribution,
-      - **(ii)** the controlled corporation has been a taxable REIT subsidiary (as defined in section 856( l )) of the distributing corporation at all times during such period, and
-      - **(iii)** the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.

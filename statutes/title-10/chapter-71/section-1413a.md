@@ -3,9 +3,9 @@ title: "Section 1413a - Combat-related special compensation"
 usc_title: 10
 usc_section: "1413a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1413a"
-generated_at: "2026-03-29T02:10:45.008Z"
+generated_at: "2026-03-29T17:50:57.037Z"
 ---
 
 # § 1413a. Combat-related special compensation
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:10:45.008Z"
   - **(2)** The amount paid to an eligible combat-related disabled uniformed services retiree for any month under paragraph (1) may not exceed the amount of the reduction in retired pay that is applicable to the retiree for that month under sections 5304 and 5305 of title 38.
   - **(3)**
     - **(A)** In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
-    - **(B)** In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under section 1409(b) of this title ) of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+    - **(B)** In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 - **(c)** For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services who—
   - **(1)** is entitled to retired pay (other than by reason of section 12731b of this title ); and
   - **(2)** has a combat-related disability.
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:10:45.008Z"
     - **(D)** through an instrumentality of war.
 - **(f)** Subsection (d) of section 1414 of this title provides for coordination between benefits under that section and under this section.
 - **(g)** Payments under this section are not retired pay.
-- **(h)** Payments under this section for a member of the Army, Navy, Air Force, Marine Corps, or Space Force shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
+- **(h)** Payments under this section for a member of the Army, Navy, Air Force, or Marine Corps shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
 - **(i)** In this section:
   - **(1)** The term “service-connected” has the meaning given such term in section 101 of title 38 .
   - **(2)** The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.

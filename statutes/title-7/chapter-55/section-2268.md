@@ -3,12 +3,13 @@ title: "Section 2268 - Public lands; relinquishment"
 usc_title: 7
 usc_section: "2268"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2268"
-generated_at: "2026-03-29T02:10:16.956Z"
+generated_at: "2026-03-29T17:50:48.727Z"
 ---
 
 # § 2268. Public lands; relinquishment
 
-Notwithstanding any other provision of law, the Secretary of Agriculture may, whenever he considers it desirable, relinquish to a State all or part of the legislative jurisdiction of the United States over lands or interests under his control in that State. Relinquishment of legislative jurisdiction under this section may be accomplished (1) by filing with the Governor of the State concerned a notice of relinquishment to take effect upon acceptance thereof, or (2) as the laws of the State may otherwise provide.
+  - **(1)** by filing with the Governor of the State concerned a notice of relinquishment to take effect upon acceptance thereof, or
+  - **(2)** as the laws of the State may otherwise provide.
 

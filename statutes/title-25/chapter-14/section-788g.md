@@ -1,12 +1,14 @@
 ---
-title: "Section 788g - Omitted"
+title: "Section 788g - Heirs of deceased enrollees"
 usc_title: 25
 usc_section: "788g"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 788g"
-generated_at: "2026-03-29T02:13:20.868Z"
+generated_at: "2026-03-29T17:52:06.025Z"
 ---
 
-# § 788g. Omitted
+# § 788g. Heirs of deceased enrollees
+
+The Secretary shall distribute a share payable to a living enrollee directly to such enrollee or in such manner as is deemed by the Secretary to be in the enrollee’s best interest and the per capita share of a deceased enrollee shall be paid to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under legal disability shall be paid to the persons whom the Secretary of the Interior determines will best protect their interests.
 

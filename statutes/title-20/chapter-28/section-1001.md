@@ -3,9 +3,9 @@ title: "Section 1001 - General definition of institution of higher education"
 usc_title: 20
 usc_section: "1001"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1001"
-generated_at: "2026-03-29T02:12:17.169Z"
+generated_at: "2026-03-29T17:51:48.312Z"
 ---
 
 # § 1001. General definition of institution of higher education
@@ -17,8 +17,8 @@ generated_at: "2026-03-29T02:12:17.169Z"
   - **(4)** is a public or other nonprofit institution; and
   - **(5)** is accredited by a nationally recognized accrediting agency or association, or if not so accredited, is an institution that has been granted preaccreditation status by such an agency or association that has been recognized by the Secretary for the granting of preaccreditation status, and the Secretary has determined that there is satisfactory assurance that the institution will meet the accreditation standards of such an agency or association within a reasonable time.
 - **(b)** For purposes of this chapter, other than subchapter IV, the term “institution of higher education” also includes—
-  - **(1)** any school that provides not less than a 1-year program of training to prepare students for gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a); and
+  - **(1)** any school that provides not less than a 1-year program of training to prepare students for gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a) of this section; and
   - **(2)** a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1), admits as regular students individuals—
     - **(A)** who are beyond the age of compulsory school attendance in the State in which the institution is located; or
     - **(B)** who will be dually or concurrently enrolled in the institution and a secondary school.
-- **(c)** For purposes of this section and section 1002 of this title , the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
+- **(c)** For purposes of this section and section 1002 of this title , the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part G of subchapter IV of this chapter, to be reliable authority as to the quality of the education or training offered.

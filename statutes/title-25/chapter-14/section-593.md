@@ -1,12 +1,14 @@
 ---
-title: "Section 593 - Omitted"
+title: "Section 593 - Exchanges of allotted, restricted, and tribal lands for Chippewa National Forest lands"
 usc_title: 25
 usc_section: "593"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 593"
-generated_at: "2026-03-29T02:13:20.865Z"
+generated_at: "2026-03-29T17:52:05.999Z"
 ---
 
-# § 593. Omitted
+# § 593. Exchanges of allotted, restricted, and tribal lands for Chippewa National Forest lands
+
+Exchanges of Indian allotted, restricted, and tribal lands for lands in the Chippewa National Forest are hereby authorized. In order to consummate exchanges involving allotted and restricted Indian lands, the Secretary of the Interior is hereby authorized to accept relinquishments or conveyances of Indian lands, which lands shall thereupon become a part of the Chippewa National Forest, and to issue trust patents to the Indians for the lands received by them in exchange: Provided , That with the consent of the Indians involved title to the lands received in any such exchange may be taken in the name of the tribe, in which case the transfer of title shall be evidenced by an order of the Secretary of Agriculture transferring the lands to the Secretary of the Interior in trust for the Minnesota Chippewa Tribe: Provided further , That exchanges involving tribal lands shall be made only with the consent of the Indians and shall be evidenced by appropriate orders of transfer executed by the Secretary of Agriculture and the Secretary of the Interior: And provided further , That the land exchanges authorized herein shall be made on the basis of lands of equal value, and no exchange shall be made unless it is first approved by the Secretary of Agriculture.
 

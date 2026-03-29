@@ -3,9 +3,9 @@ title: "Section 7911 - Establishment of base acres and payment acres for a farm"
 usc_title: 7
 usc_section: "7911"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7911"
-generated_at: "2026-03-29T02:10:17.173Z"
+generated_at: "2026-03-29T17:50:48.876Z"
 ---
 
 # § 7911. Establishment of base acres and payment acres for a farm
@@ -27,12 +27,12 @@ generated_at: "2026-03-29T02:10:17.173Z"
   - **(3)** For the purpose of determining a 4-year acreage average under this subsection for a farm, the Secretary shall not exclude any crop year in which a covered commodity was not planted.
   - **(4)** For the purpose of determining under paragraph (1)(A) the acreage on a farm that producers planted or were prevented from planting during the 1998 through 2001 crop years to covered commodities, if the acreage that was planted or prevented from being planted was devoted to another covered commodity in the same crop year (other than a covered commodity produced under an established practice of double cropping), the owner may elect the commodity to be used for that crop year in determining the 4-year average, but may not include both the initial commodity and the subsequent commodity.
 - **(b)**
-  - **(1)** As soon as practicable after May 13, 2002 , the Secretary shall provide notice to owners of farms regarding their opportunity to make the election described in subsection (a). The notice shall include the following:
+  - **(1)** As soon as practicable after May 13, 2002 , the Secretary shall provide notice to owners of farms regarding their opportunity to make the election described in subsection (a) of this section. The notice shall include the following:
     - **(A)** Notice that the opportunity of an owner to make the election is being provided only once.
     - **(B)** Information regarding the manner in which the election must be made and the time periods and manner in which notice of the election must be submitted to the Secretary.
-  - **(2)** Within the time period and in the manner prescribed pursuant to paragraph (1), the owner of a farm shall submit to the Secretary notice of the election made by the owner under subsection (a).
-- **(c)** If the owner of a farm fails to make the election under subsection (a) or fails to timely notify the Secretary of the election made, as required by subsection (b), the owner shall be deemed to have made the election described in subsection (a)(1)(B) to determine base acres for all covered commodities on the farm.
-- **(d)** The election made under subparagraph (A) or (B) of subsection (a)(1), or deemed to be made under subsection (c), with respect to a farm shall apply to all of the covered commodities on the farm.
+  - **(2)** Within the time period and in the manner prescribed pursuant to paragraph (1), the owner of a farm shall submit to the Secretary notice of the election made by the owner under subsection (a) of this section.
+- **(c)** If the owner of a farm fails to make the election under subsection (a) of this section or fails to timely notify the Secretary of the election made, as required by subsection (b) of this section, the owner shall be deemed to have made the election described in subsection (a)(1)(B) of this section to determine base acres for all covered commodities on the farm.
+- **(d)** The election made under subparagraph (A) or (B) of subsection (a)(1) of this section, or deemed to be made under subsection (c) of this section, with respect to a farm shall apply to all of the covered commodities on the farm.
 - **(e)**
   - **(1)** The Secretary shall provide for an adjustment, as appropriate, in the base acres for covered commodities for a farm whenever either of the following circumstances occurs:
     - **(A)** A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 ( 16 U.S.C. 3831 ) with respect to the farm expires or is voluntarily terminated.
@@ -40,12 +40,12 @@ generated_at: "2026-03-29T02:10:17.173Z"
   - **(2)** For the crop year in which a base acres adjustment under paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
 - **(f)** The payment acres for a covered commodity on a farm shall be equal to 85 percent of the base acres for the covered commodity.
 - **(g)**
-  - **(1)** If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+  - **(1)** If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
   - **(2)** For purposes of paragraph (1), the Secretary shall include the following:
-    - **(A)** Any base acres for peanuts for the farm under subchapter III.
+    - **(A)** Any base acres for peanuts for the farm under subchapter III of this chapter.
     - **(B)** Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3830 et seq.).
     - **(C)** Any other acreage on the farm enrolled in a conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
-  - **(3)** The Secretary shall give the owner of the farm the opportunity to select the base acres or the base acres for peanuts for the farm under subchapter III against which the reduction required by paragraph (1) will be made.
+  - **(3)** The Secretary shall give the owner of the farm the opportunity to select the base acres or the base acres for peanuts for the farm under subchapter III of this chapter against which the reduction required by paragraph (1) will be made.
   - **(4)** In applying paragraph (1), the Secretary shall make an exception in the case of double cropping, as determined by the Secretary.
   - **(5)** The Secretary shall take into account section 7952(f) of this title when applying the requirements of this subsection.
 - **(h)** The owner of a farm may reduce, at any time, the base acres for any covered commodity for the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.

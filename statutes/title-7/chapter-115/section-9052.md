@@ -3,9 +3,9 @@ title: "Section 9052 - Calculation of average feed cost and actual dairy product
 usc_title: 7
 usc_section: "9052"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 9052"
-generated_at: "2026-03-29T02:10:17.226Z"
+generated_at: "2026-03-29T17:50:48.917Z"
 ---
 
 # § 9052. Calculation of average feed cost and actual dairy production margins
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:10:17.226Z"
   - **(2)** The price of soybean meal for a month shall be the central Illinois price for soybean meal, as reported in the Market News–Monthly Soybean Meal Price Report by the Secretary.
   - **(3)** The price of alfalfa hay for a month shall be the price received during that month by farmers in the United States for alfalfa hay, as reported in the monthly Agricultural Prices report by the Secretary.
 - **(b)**
-  - **(1)** For use in dairy margin coverage, the Secretary shall calculate the actual dairy production margin for each month by subtracting—
-    - **(A)** the average feed cost for that month, determined in accordance with subsection (a); from
-    - **(B)** the all-milk price for that month.
+  - **(1)** For use in the margin protection program, the Secretary shall calculate the actual dairy production margin for each consecutive 2-month period by subtracting—
+    - **(A)** the average feed cost for that consecutive 2-month period, determined in accordance with subsection (a); from
+    - **(B)** the all-milk price for that consecutive 2-month period.
   - **(2)** The calculation required by this subsection shall be made as soon as practicable using the full-month price of the applicable reference month.

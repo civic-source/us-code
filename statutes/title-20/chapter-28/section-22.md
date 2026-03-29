@@ -3,9 +3,9 @@ title: "Section 22 - Requirements"
 usc_title: 20
 usc_section: "22"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 22"
-generated_at: "2026-03-29T02:12:17.207Z"
+generated_at: "2026-03-29T17:51:48.346Z"
 ---
 
 # § 1070a–22. Requirements

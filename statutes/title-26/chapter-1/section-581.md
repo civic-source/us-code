@@ -3,12 +3,12 @@ title: "Section 581 - Definition of bank"
 usc_title: 26
 usc_section: "581"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 581"
-generated_at: "2026-03-29T02:14:01.014Z"
+generated_at: "2026-03-29T17:52:39.276Z"
 ---
 
 # § 581. Definition of bank
 
-For purposes of sections 582 and 584, the term “bank” means a bank or trust company incorporated and doing business under the laws of the United States (including laws relating to the District of Columbia) or of any State, a substantial part of the business of which consists of receiving deposits and making loans and discounts, or of exercising fiduciary powers similar to those permitted to national banks under authority of the Comptroller of the Currency, and which is subject by law to supervision and examination by State or Federal authority having supervision over banking institutions. Such term also means a domestic building and loan association.
+For purposes of sections 582 and 584, the term “bank” means a bank or trust company incorporated and doing business under the laws of the United States (including laws relating to the District of Columbia) or of any State, a substantial part of the business of which consists of receiving deposits and making loans and discounts, or of exercising fiduciary powers similar to those permitted to national banks under authority of the Comptroller of the Currency, and which is subject by law to supervision and examination by State, Territorial, or Federal authority having supervision over banking institutions. Such term also means a domestic building and loan association.
 

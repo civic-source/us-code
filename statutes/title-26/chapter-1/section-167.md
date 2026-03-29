@@ -3,9 +3,9 @@ title: "Section 167 - Depreciation"
 usc_title: 26
 usc_section: "167"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 167"
-generated_at: "2026-03-29T02:14:00.832Z"
+generated_at: "2026-03-29T17:52:39.148Z"
 ---
 
 # § 167. Depreciation
@@ -93,7 +93,7 @@ generated_at: "2026-03-29T02:14:00.832Z"
       - **(i)** The term “applicable musical property” means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
       - **(ii)** Such term shall not include any property—
         - **(I)** with respect to which expenses are treated as qualified creative expenses to which section 263A(h) applies,
-        - **(II)** to which a simplified procedure established under section 263A(i)(2) 1 1 See References in Text note below. applies, or
+        - **(II)** to which a simplified procedure established under section 263A(i)(2) applies, or
         - **(III)** which is an amortizable section 197 intangible (as defined in section 197(c)).
     - **(D)** An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply to all applicable musical property placed in service during the taxable year for which the election applies.
     - **(E)** An election may not be made under this paragraph for any taxable year beginning after December 31, 2010 .

@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 7
 usc_section: "8101"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 8101"
-generated_at: "2026-03-29T02:10:17.184Z"
+generated_at: "2026-03-29T17:50:48.886Z"
 ---
 
 # § 8101. Definitions
@@ -25,7 +25,7 @@ Except as otherwise provided, in this chapter:
       - **(vi)** butanol or other alcohols produced through the conversion of organic matter from renewable biomass; and
       - **(vii)** other fuel derived from cellulosic biomass.
   - **(4)** The term “biobased product” means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is—
-    - **(A)** composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials, renewable chemicals, and forestry materials; or
+    - **(A)** composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials; or
     - **(B)** an intermediate ingredient or feedstock.
   - **(5)** The term “biofuel” means a fuel derived from renewable biomass.
   - **(6)** The term “biomass conversion facility” means a facility that converts or proposes to convert renewable biomass into—
@@ -34,10 +34,7 @@ Except as otherwise provided, in this chapter:
     - **(C)** biobased products; or
     - **(D)** advanced biofuels.
   - **(7)** The term “biorefinery” means a facility (including equipment and processes) that—
-    - **(A)** converts renewable biomass or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—
-      - **(i)** biofuels;
-      - **(ii)** renewable chemicals; or
-      - **(iii)** biobased products; and
+    - **(A)** converts renewable biomass into biofuels and biobased products; and
     - **(B)** may produce electricity.
   - **(8)** The term “Board” means the Biomass Research and Development Board established by section 8108(c) of this title .
   - **(9)**
@@ -45,7 +42,7 @@ Except as otherwise provided, in this chapter:
     - **(B)** The term “forest product” includes—
       - **(i)** pulp, paper, paperboard, pellets, lumber, and other wood products; and
       - **(ii)** any recycled products derived from forest materials.
-  - **(10)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(10)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
   - **(11)** The term “institution of higher education” has the meaning given the term in section 1002(a) of title 20 .
   - **(12)** The term “intermediate ingredient or feedstock” means a material or compound made in whole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
   - **(13)** The term “renewable biomass” means—
@@ -74,9 +71,8 @@ Except as otherwise provided, in this chapter:
     - **(A)** a wind, solar, renewable biomass, ocean (including tidal, wave, current, and thermal), geothermal, or hydroelectric source; or
     - **(B)** hydrogen derived from renewable biomass or water using an energy source described in subparagraph (A).
   - **(16)**
-    - **(A)** Subject to subparagraph (C), the term “renewable energy system” means a system that produces usable energy from a renewable energy source.
-    - **(B)** The term “renewable energy system” includes—
-      - **(i)** distribution components necessary to move energy produced by a system described in subparagraph (A) to the initial point of sale; and
-      - **(ii)** other components and ancillary infrastructure of a system described in subparagraph (A), such as a storage system.
-    - **(C)** A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
+    - **(A)** Subject to subparagraph (B), the term “renewable energy system” means a system that—
+      - **(i)** produces usable energy from a renewable energy source; and
+      - **(ii)** may include distribution components necessary to move energy produced by such system to the initial point of sale.
+    - **(B)** A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
   - **(17)** The term “Secretary” means the Secretary of Agriculture.

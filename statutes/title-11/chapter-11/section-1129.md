@@ -3,9 +3,9 @@ title: "Section 1129 - Confirmation of plan"
 usc_title: 11
 usc_section: "1129"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 1129"
-generated_at: "2026-03-29T02:10:54.346Z"
+generated_at: "2026-03-29T17:51:02.156Z"
 ---
 
 # § 1129. Confirmation of plan

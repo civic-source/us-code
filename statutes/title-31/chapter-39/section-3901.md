@@ -3,9 +3,9 @@ title: "Section 3901 - Definitions and application"
 usc_title: 31
 usc_section: "3901"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 3901"
-generated_at: "2026-03-29T02:14:14.081Z"
+generated_at: "2026-03-29T17:52:44.178Z"
 ---
 
 # § 3901. Definitions and application
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:14:14.081Z"
       - **(i)** the date on which the place or person designated by the agency to first receive such invoice actually receives a proper invoice; or
       - **(ii)** on the 7th day after the date on which, in accordance with the terms and conditions of the contract, the property is actually delivered or performance of the services is actually completed, as the case may be, unless—
         - **(I)** the agency has actually accepted such property or services before such 7th day; or
-        - **(II)** the contract (except in the case of a contract for the procurement of a brand-name commercial product for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
+        - **(II)** the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
     - **(B)** on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
   - **(5)** a payment is deemed to be made on the date a check for payment is dated or an electronic fund transfer is made.
   - **(6)** a contract to rent property is deemed to be a contract to acquire the property.

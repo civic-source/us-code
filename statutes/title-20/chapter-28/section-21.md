@@ -3,9 +3,9 @@ title: "Section 21 - Early intervention and college awareness program authorized
 usc_title: 20
 usc_section: "21"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 21"
-generated_at: "2026-03-29T02:12:17.207Z"
+generated_at: "2026-03-29T17:51:48.346Z"
 ---
 
 # § 1070a–21. Early intervention and college awareness program authorized
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:12:17.207Z"
     - **(B)** the need for remedial education for such students at the postsecondary level; and
   - **(2)** information to students and their families about the advantages of obtaining a postsecondary education and, college financing options for the students and their families.
 - **(b)**
-  - **(1)** From funds appropriated under section 1070a–28 of this title for each fiscal year, the Secretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) to enable the entities to carry out the program authorized under subsection (a).
+  - **(1)** From funds appropriated under section 1070a–28 of this title for each fiscal year, the Secretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) of this section to enable the entities to carry out the program authorized under subsection (a) of this section.
   - **(2)** The Secretary may award a grant under this division to an eligible entity described in paragraphs (1) and (2) of subsection (c) for—
     - **(A)** six years; or
     - **(B)** in the case of an eligible entity that applies for a grant under this division for seven years to enable the eligible entity to provide services to a student through the student’s first year of attendance at an institution of higher education, seven years.

@@ -1,16 +1,39 @@
 ---
-title: "Section 7271 - Purposes"
+title: "Section 7271 - Assistance for arts education"
 usc_title: 20
 usc_section: "7271"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7271"
-generated_at: "2026-03-29T02:12:17.477Z"
+generated_at: "2026-03-29T17:51:48.653Z"
 ---
 
-# § 7271. Purposes
+# § 7271. Assistance for arts education
 
-The purposes of this subpart are to—
-
-  - **(1)** significantly improve the academic and developmental outcomes of children living in the most distressed communities of the United States, including ensuring school readiness, high school graduation, and access to a community-based continuum of high-quality services; and
-  - **(2)** provide support for the planning, implementation, and operation of full-service community schools that improve the coordination and integration, accessibility, and effectiveness of services for children and families, particularly for children attending high-poverty schools, including high-poverty rural schools.
+- **(a)** The purposes of this subpart are the following:
+  - **(1)** To support systemic education reform by strengthening arts education as an integral part of the elementary school and secondary school curriculum.
+  - **(2)** To help ensure that all students meet challenging State academic content standards and challenging State student academic achievement standards in the arts.
+  - **(3)** To support the national effort to enable all students to demonstrate competence in the arts.
+- **(b)** The Secretary is authorized to make grants to, or enter into contracts or cooperative agreements with, eligible entities described in subsection (c) of this section.
+- **(c)** The Secretary may make assistance available under subsection (b) of this section to each of the following eligible entities:
+  - **(1)** State educational agencies.
+  - **(2)** Local educational agencies.
+  - **(3)** Institutions of higher education.
+  - **(4)** Museums or other cultural institutions.
+  - **(5)** Any other public or private agencies, institutions, or organizations.
+- **(d)** Assistance made available under this subpart may be used for any of the following:
+  - **(1)** Research on arts education.
+  - **(2)** Planning, developing, acquiring, expanding, improving, or disseminating information about model school-based arts education programs.
+  - **(3)** The development of model State arts education assessments based on State academic achievement standards.
+  - **(4)** The development and implementation of curriculum frameworks for arts education.
+  - **(5)** The development of model inservice professional development programs for arts educators and other instructional staff.
+  - **(6)** Supporting collaborative activities with Federal agencies or institutions involved in arts education, arts educators, and organizations representing the arts, including State and local arts agencies involved in arts education.
+  - **(7)** Supporting model projects and programs in the performing arts for children and youth through arrangements made with the John F. Kennedy Center for the Performing Arts.
+  - **(8)** Supporting model projects and programs by Very Special Arts which assure the participation in mainstream settings in arts and education programs of individuals with disabilities.
+  - **(9)** Supporting model projects and programs to integrate arts education into the regular elementary school and secondary school curriculum.
+  - **(10)** Other activities that further the purposes of this subpart.
+- **(e)** If the amount made available to the Secretary to carry out this subpart for any fiscal year is $15,000,000 or less, then such amount shall only be available to carry out the activities described in paragraphs (7) and (8) of subsection (d) of this section.
+- **(f)** As conditions of receiving assistance made available under this subpart, the Secretary shall require each entity receiving such assistance—
+  - **(1)** to coordinate, to the extent practicable, each project or program carried out with such assistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
+  - **(2)** to use such assistance only to supplement, and not to supplant, any other assistance or funds made available from non-Federal sources for the activities assisted under this subpart.
+- **(g)** In carrying out this subpart, the Secretary shall consult with Federal agencies or institutions, arts educators (including professional arts education associations), and organizations representing the arts (including State and local arts agencies involved in arts education).

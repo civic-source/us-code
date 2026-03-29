@@ -3,9 +3,9 @@ title: "Section 508 - Notification of filing and determination of actions"
 usc_title: 17
 usc_section: "508"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "17 U.S.C. § 508"
-generated_at: "2026-03-29T02:11:57.624Z"
+generated_at: "2026-03-29T17:51:39.291Z"
 ---
 
 # § 508. Notification of filing and determination of actions

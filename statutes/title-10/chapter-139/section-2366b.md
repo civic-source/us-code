@@ -1,12 +1,53 @@
 ---
-title: "Section 2366b - Renumbered § 4252]"
+title: "Section 2366b - Major defense acquisition programs: certification required before Milestone B approval"
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-29T02:10:45.098Z"
+generated_at: "2026-03-29T17:50:57.114Z"
 ---
 
-# [§ 2366b. Renumbered § 4252]
+# § 2366b. Major defense acquisition programs: certification required before Milestone B approval
 
+- **(a)** A major defense acquisition program may not receive Milestone B approval until the milestone decision authority—
+  - **(1)** has received a business case analysis and certifies on the basis of the analysis that—
+    - **(A)** the program is affordable when considering the ability of the Department of Defense to accomplish the program’s mission using alternative systems;
+    - **(B)** appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
+    - **(C)** reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program; and
+    - **(D)** funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
+  - **(2)** has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission; and
+  - **(3)** further certifies that—
+    - **(A)** appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
+    - **(B)** the Department of Defense has completed an analysis of alternatives with respect to the program;
+    - **(C)** the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title , including an analysis of the operational requirements for the program;
+    - **(D)** the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
+    - **(E)** life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
+    - **(F)** an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements; and
+    - **(G)** the program complies with all relevant policies, regulations, and directives of the Department of Defense.
+- **(b)**
+  - **(1)** The program manager for a major defense acquisition program that has received certification under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
+    - **(A)** alter the substantive basis for the certification of the milestone decision authority relating to any component of such certification specified in paragraph (1) or (2) of subsection (a); or
+    - **(B)** otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certification.
+  - **(2)** Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescind Milestone B approval if the milestone decision authority determines that such certification or approval is no longer valid.
+- **(c)**
+  - **(1)** The certification required under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
+  - **(2)** A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under section 2432 of this title after receipt of such information by the milestone decision authority.
+- **(d)**
+  - **(1)** The milestone decision authority may, at the time of Milestone B approval or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
+  - **(2)** Whenever the milestone decision authority makes such a determination and authorizes such a waiver—
+    - **(A)** the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized; and
+    - **(B)** the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification components specified in paragraphs (1), (2), and (3) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification components.
+  - **(3)** The requirement in paragraph (2)(B) shall not apply to a program for which a certification was required pursuant to section 2433a(c) of this title if the milestone decision authority—
+    - **(A)** determines in writing that—
+      - **(i)** the program has reached a stage in the acquisition process at which it would not be practicable to meet the certification component that was waived; and
+      - **(ii)** the milestone decision authority has taken appropriate alternative actions to address the underlying purposes of such certification component; and
+    - **(B)** submits the written determination, and an explanation of the basis for the determination, to the congressional defense committees.
+- **(e)** Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification components.
+- **(f)** The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).
+- **(g)** In this section:
+  - **(1)** The term “major defense acquisition program” means a Department of Defense acquisition program that is a major defense acquisition program for purposes of section 2430 of this title .
+  - **(2)** The term “designated major subprogram” means a major subprogram of a major defense acquisition program designated under section 2430a(a)(1) of this title .
+  - **(3)** The term “milestone decision authority”, with respect to a major defense acquisition program, means the individual within the Department of Defense designated with overall responsibility for the program.
+  - **(4)** The term “Milestone B approval” has the meaning provided that term in section 2366(e)(7) of this title .
+  - **(5)** The term “core logistics capabilities” means the core logistics capabilities identified under section 2464(a) of this title .

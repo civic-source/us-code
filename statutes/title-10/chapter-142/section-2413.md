@@ -1,12 +1,16 @@
 ---
-title: "Section 2413 - Renumbered § 4954]"
+title: "Section 2413 - Cooperative agreements"
 usc_title: 10
 usc_section: "2413"
 chapter: 142
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2413"
-generated_at: "2026-03-29T02:10:45.101Z"
+generated_at: "2026-03-29T17:50:57.122Z"
 ---
 
-# [§ 2413. Renumbered § 4954]
+# § 2413. Cooperative agreements
 
+- **(a)** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
+- **(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than one-half of the eligible entity’s cost of furnishing such assistance under such programs, except that in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than one-half, but not more than three-fourths, of such cost with respect to such program.
+- **(c)** In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
+- **(d)** In conducting a competition for the award of a cooperative agreement under subsection (a), and in determining the level of funding to provide under an agreement under subsection (b), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.

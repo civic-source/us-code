@@ -3,9 +3,9 @@ title: "Section 1034 - Persons to whom mineral interests sold; conveyances"
 usc_title: 7
 usc_section: "1034"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1034"
-generated_at: "2026-03-29T02:10:16.762Z"
+generated_at: "2026-03-29T17:50:48.558Z"
 ---
 
 # § 1034. Persons to whom mineral interests sold; conveyances

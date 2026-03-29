@@ -3,9 +3,9 @@ title: "Section 1441 - Omitted"
 usc_title: 22
 usc_section: "1441"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1441"
-generated_at: "2026-03-29T02:12:39.992Z"
+generated_at: "2026-03-29T17:52:10.448Z"
 ---
 
 # § 1441. Omitted

@@ -3,28 +3,28 @@ title: "Section 1431a - Documentation of waterborne cargo"
 usc_title: 19
 usc_section: "1431a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1431a"
-generated_at: "2026-03-29T02:12:08.605Z"
+generated_at: "2026-03-29T17:51:51.213Z"
 ---
 
 # § 1431a. Documentation of waterborne cargo
 
 - **(a)** This section shall apply to all cargo to be exported that is moved by a vessel carrier from a port in the United States.
 - **(b)**
-  - **(1)** No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B) 1 1 See References in Text note below. ) 2 2 So in original. Probably should be “1702(17)(B))))”. may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
+  - **(1)** No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 40102(16) of title 46 ) may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
   - **(2)** For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
   - **(3)** A complete set of shipping documents shall include—
     - **(A)** for shipments for which a shipper’s export declaration is required, a copy of the export declaration or, if the shipper files such declarations electronically in the Automated Export System, the complete bill of lading, and the master or equivalent shipping instructions, including the Internal Transaction Number (ITN); or
     - **(B)** for shipments for which a shipper’s export declaration is not required, a shipper’s export declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
   - **(4)** The Secretary shall by regulation prescribe the time, manner, and form by which shippers shall transmit documents or information required under this subsection to the Customs Service.
 - **(c)**
-  - **(1)** No marine terminal operator (as defined in section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14))) 1 may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
+  - **(1)** No marine terminal operator (as defined in section 40102(14) of title 46 ) may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
   - **(2)** When cargo is booked by 1 vessel carrier to be transported on the vessel of another vessel carrier, the booking carrier shall notify the operator of the vessel that the cargo has been properly documented in accordance with this section. The operator of the vessel may rely on such notification in releasing the cargo for loading aboard the vessel.
 - **(d)**
   - **(1)** A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal.
   - **(2)** For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier’s vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.
-  - **(3)** For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
+  - **(3)** For purposes of this subsection and subsection (f) of this section, if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b) of this section. Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
   - **(4)** If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipment consists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
 - **(e)** Whoever is found to have violated subsection (b) of this section shall be liable to the United States for civil penalties in a monetary amount up to the value of the cargo, or the actual cost of the transportation, whichever is greater.
 - **(f)**

@@ -3,9 +3,9 @@ title: "Section 1924 - Conservation loan and loan guarantee program"
 usc_title: 7
 usc_section: "1924"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1924"
-generated_at: "2026-03-29T02:10:16.865Z"
+generated_at: "2026-03-29T17:50:48.649Z"
 ---
 
 # § 1924. Conservation loan and loan guarantee program
@@ -34,4 +34,4 @@ generated_at: "2026-03-29T02:10:16.865Z"
   - **(2)** in the case of a producer that is a qualified socially disadvantaged farmer or rancher or a beginning farmer or rancher, 90 percent of the principal amount of the loan.
 - **(f)** The Secretary shall ensure, to the maximum extent practicable, that loans made or guaranteed under this section are distributed across diverse geographic regions.
 - **(g)** The provisions of paragraphs (1) and (3) of section 1983 of this title shall not apply to loans made or guaranteed under this section.
-- **(h)** There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2023.
+- **(h)** There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2018.

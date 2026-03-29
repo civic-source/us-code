@@ -3,14 +3,14 @@ title: "Section 941 - Strategic plan to enhance the security of the internationa
 usc_title: 6
 usc_section: "941"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 941"
-generated_at: "2026-03-29T02:10:05.064Z"
+generated_at: "2026-03-29T17:50:39.370Z"
 ---
 
 # § 941. Strategic plan to enhance the security of the international supply chain
 
-- **(a)** The Secretary, in consultation with appropriate Federal, State, local, and tribal government agencies and private sector stakeholders responsible for security matters that affect or relate to the movement of containers through the international supply chain, shall develop, implement, and update, triennially, a strategic plan to enhance the security of the international supply chain.
+- **(a)** The Secretary, in consultation with appropriate Federal, State, local, and tribal government agencies and private sector stakeholders responsible for security matters that affect or relate to the movement of containers through the international supply chain, shall develop, implement, and update, as appropriate, a strategic plan to enhance the security of the international supply chain.
 - **(b)** The strategic plan required under subsection (a) shall—
   - **(1)** describe the roles, responsibilities, and authorities of Federal, State, local, and tribal government agencies and private-sector stakeholders that relate to the security of the movement of containers through the international supply chain;
   - **(2)** identify and address gaps and unnecessary overlaps in the roles, responsibilities, or authorities described in paragraph (1);
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T02:10:05.064Z"
 - **(f)** In furtherance of the strategic plan required under subsection (a), the Secretary is encouraged to consider proposed or established standards and practices of foreign governments and international organizations, including the International Maritime Organization, the World Customs Organization, the International Labor Organization, and the International Organization for Standardization, as appropriate, to establish standards and best practices for the security of containers moving through the international supply chain.
 - **(g)**
   - **(1)** Not later than 270 days after October 13, 2006 , the Secretary shall submit to the appropriate congressional committees a report that contains the strategic plan required by subsection (a).
-  - **(2)** Not later than 270 days after October 5, 2018 , and triennially thereafter, the Secretary shall submit to the appropriate congressional committees a report that contains any updates to the strategic plan under subsection (a) since the prior report.
+  - **(2)** Not later than 3 years after the date on which the strategic plan is submitted under paragraph (1), the Secretary shall submit a report to the appropriate congressional committees that contains an update of the strategic plan.

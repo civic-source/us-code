@@ -1,14 +1,69 @@
 ---
-title: "Section 6 - Restriction on authority"
+title: "Section 6 - Resource management"
 usc_title: 16
 usc_section: "6"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T02:11:53.652Z"
+generated_at: "2026-03-29T17:51:56.758Z"
 ---
 
-# § 698u–6. Restriction on authority
+# § 698v–6. Resource management
 
-Nothing in sections 698u to 698u–7 of this title shall give the Secretary authority to regulate lands outside the land area acquired by the Secretary under section 698u–4(a) of this title .
-
+- **(a)** The Trust shall assume all authority provided by sections 698v to 698v–10 of this title to manage the Preserve upon a determination by the Secretary, which to the maximum extent practicable shall be made within 60 days after the appointment of the Board, that—
+  - **(1)** the Board is duly appointed, and able to conduct business; and
+  - **(2)** provision has been made for essential management services.
+- **(b)** Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of the Preserve and the use thereof including, but not limited to such activities as—
+  - **(1)** administration of the operations of the Preserve;
+  - **(2)** preservation and development of the land and resources of the Preserve;
+  - **(3)** interpretation of the Preserve and its history for the public;
+  - **(4)** management of public use and occupancy of the Preserve; and
+  - **(5)** maintenance, rehabilitation, repair, and improvement of property within the Preserve.
+- **(c)**
+  - **(1)** The Trust shall develop programs and activities at the Preserve, and shall have the authority to negotiate directly and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including without limitation, entities of Federal, State, and local governments, and consultation with Indian tribes and Pueblos, as are necessary and appropriate to carry out its authorized activities or fulfill the purposes of sections 698v to 698v–10 of this title. Any such agreements may be entered into without regard to section 1302 of title 40 .
+  - **(2)** The Trust shall establish procedures for entering into lease agreements and other agreements for the use and occupancy of facilities of the Preserve. The procedures shall ensure reasonable competition, and set guidelines for determining reasonable fees, terms, and conditions for such agreements.
+  - **(3)**
+    - **(A)** The Trust may not dispose of any real property in, or convey any water rights appurtenant to the Preserve.
+    - **(B)** The Trust may not convey any easement, or enter into any contract, lease, or other agreement related to use and occupancy of property within the Preserve for a period greater than 10 years.
+    - **(C)** The easement, contract, lease, or other agreement shall provide that, upon termination of the Trust, such easement, contract, lease or agreement is terminated.
+    - **(D)** For the purposes of this paragraph, the disposal of real property does not include the sale or other disposal of forage, forest products, or marketable renewable resources.
+  - **(4)**
+    - **(A)** Notwithstanding any other provision of law, Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal Government contracts governing health and safety requirements, wage rates, and civil rights.
+    - **(B)** The Trust, in consultation with the Administrator of Federal Procurement Policy, Office of Management and Budget, shall establish and adopt procedures applicable to the Trust’s procurement of goods and services, including the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition.
+- **(d)** Within two years after assumption of management responsibilities for the Preserve, the Trust shall, in accordance with subsection (f) of this section, develop a comprehensive program for the management of lands, resources, and facilities within the Preserve to carry out the purposes under section 698v–3(b) of this title . To the extent consistent with such purposes, such program shall provide for—
+  - **(1)** operation of the Preserve as a working ranch, consistent with paragraphs (2) through (4);
+  - **(2)** the protection and preservation of the scientific, scenic, geologic, watershed, fish, wildlife, historic, cultural and recreational values of the Preserve;
+  - **(3)** multiple use and sustained yield of renewable resources within the Preserve;
+  - **(4)** public use of and access to the Preserve for recreation;
+  - **(5)** renewable resource utilization and management alternatives that, to the extent practicable—
+    - **(A)** benefit local communities and small businesses;
+    - **(B)** enhance coordination of management objectives with those on surrounding National Forest System land; and
+    - **(C)** provide cost savings to the Trust through the exchange of services, including but not limited to labor and maintenance of facilities, for resources or services provided by the Trust; and
+  - **(6)** optimizing the generation of income based on existing market conditions, to the extent that it does not unreasonably diminish the long-term scenic and natural values of the area, or the multiple use and sustained yield capability of the land.
+- **(e)**
+  - **(1)** The Trust shall give thorough consideration to the provision of appropriate opportunities for public use and recreation that are consistent with the other purposes under section 698v–3(b) of this title . The Trust is expressly authorized to construct and upgrade roads and bridges, and provide other facilities for activities including, but not limited to camping and picnicking, hiking, and cross country skiing. Roads, trails, bridges, and recreational facilities constructed within the Preserve shall meet public safety standards applicable to units of the National Forest System and the State of New Mexico.
+  - **(2)** Notwithstanding any other provision of law, the Trust is authorized to assess reasonable fees for admission to, and the use and occupancy of, the Preserve: Provided , That admission fees and any fees assessed for recreational activities shall be implemented only after public notice and a period of not less than 60 days for public comment.
+  - **(3)** Upon the acquisition of the Baca ranch under section 698v–2(a) of this title , and after an interim planning period of no more than two years, the public shall have reasonable access to the Preserve for recreation purposes. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may reasonably limit the number and types of recreational admissions to the Preserve, or any part thereof, based on the capability of the land, resources, and facilities. The use of reservation or lottery systems is expressly authorized to implement this paragraph.
+- **(f)**
+  - **(1)** The Trust, and the Secretary in accordance with section 698v–7(b) of this title , shall administer the Preserve in conformity with sections 698v to 698v–10 of this title and all laws pertaining to the National Forest System, except the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended ( 16 U.S.C. 1600 et seq.).
+  - **(2)** The Trust shall be deemed a Federal agency for the purposes of compliance with Federal environmental laws.
+  - **(3)** All criminal laws relating to Federal property shall apply to the same extent as on adjacent units of the National Forest System.
+  - **(4)** The Trust may submit to the Secretary and the Committees of Congress a compilation of applicable rules and regulations which in the view of the Trust are inappropriate, incompatible with sections 698v to 698v–10 of this title, or unduly burdensome.
+  - **(5)** The Trust is authorized and directed to cooperate and consult with Indian tribes and Pueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act [ 42 U.S.C. 1996 , 1996a] and other applicable statutes.
+  - **(6)** The administrative appeals regulations of the Secretary shall not apply to activities of the Trust and decisions of the Board.
+- **(g)**
+  - **(1)**
+    - **(A)** The Secretary shall provide law enforcement services under a cooperative agreement with the Trust to the extent generally authorized in other units of the National Forest System.
+    - **(B)** The Trust shall be deemed a Federal agency for purposes of the law enforcement authorities of the Secretary (within the meaning of section 559g of this title ).
+  - **(2)**
+    - **(A)**
+      - **(i)** The Secretary shall, in consultation with the Trust, develop a plan to carry out fire preparedness, suppression, and emergency rehabilitation services on the Preserve.
+      - **(ii)** The plan shall be consistent with the management program developed pursuant to subsection (d) of this section.
+      - **(iii)** To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
+    - **(B)** To the extent generally authorized at other units of the National Forest System, the Secretary may provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
+  - **(2)**
+    - **(A)**
+      - **(i)** Subject to the availability of appropriations under section 698v–9(a) of this title , the Secretary shall, in consultation with the Trust, develop a plan to carry out fire preparedness, suppression, and emergency rehabilitation services on the Preserve.
+      - **(ii)** The plan shall be consistent with the management program developed pursuant to subsection (d) of this section.
+      - **(iii)** To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
+    - **(B)** To the extent generally authorized at other units of the National Forest System and subject to the availability of appropriations under section 698v–9(a) of this title , the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.

@@ -1,12 +1,14 @@
 ---
-title: "Section 2151 - Repealed. Pub. L. 115–334, title V, § 5411(17) , Dec. 20, 2018 , 132 Stat. 4680"
+title: "Section 2151 - Revolving fund"
 usc_title: 12
 usc_section: "2151"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2151"
-generated_at: "2026-03-29T02:11:21.114Z"
+generated_at: "2026-03-29T17:51:13.162Z"
 ---
 
-# § 2151. Repealed. Pub. L. 115–334, title V, § 5411(17) , Dec. 20, 2018 , 132 Stat. 4680
+# § 2151. Revolving fund
+
+The revolving fund established by this section (in effect immediately before January 6, 1988 ) shall be available to the Farm Credit Administration and the Assistance Board during the periods, and for the purposes, provided for in sections 2278a–13 and 2278a–7 of this title, respectively.
 

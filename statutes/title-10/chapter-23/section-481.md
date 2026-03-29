@@ -3,9 +3,9 @@ title: "Section 481 - Racial and ethnic issues; gender issues: surveys"
 usc_title: 10
 usc_section: "481"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 481"
-generated_at: "2026-03-29T02:10:44.871Z"
+generated_at: "2026-03-29T17:50:56.944Z"
 ---
 
 # § 481. Racial and ethnic issues; gender issues: surveys
@@ -23,19 +23,14 @@ generated_at: "2026-03-29T02:10:44.871Z"
   - **(1)** Indicators of positive and negative trends for professional and personal relationships among members of all racial and ethnic groups.
   - **(2)** The effectiveness of Department of Defense policies designed to improve relationships among all racial and ethnic groups.
   - **(3)** The effectiveness of current processes for complaints on and investigations into racial and ethnic discrimination.
-- **(c)** The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault (including unwanted sexual contact), and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
+- **(c)** The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault, and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
   - **(1)** Indicators of positive and negative trends for professional and personal relationships between male and female members of the armed forces.
-  - **(2)** The specific types of assault (including unwanted sexual contact) that have occurred, and the number of times each respondent has been assaulted during the preceding year.
-  - **(3)** Indicators of the assault (including unwanted sexual contact) that give reason to believe that the victim was targeted, or discriminated against, or both, for a status in a group.
-  - **(4)** The effectiveness of Department of Defense policies designed to improve professional relationships between male and female members of the armed forces.
-  - **(5)** The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault (including unwanted sexual contact).
-  - **(6)** Any other issues relating to discrimination, harassment, or assault (including unwanted sexual contact) as the Secretary of Defense considers appropriate.
+  - **(2)** The specific types of assault that have occurred, and the number of times each respondent has been assaulted during the preceding year.
+  - **(3)** The effectiveness of Department of Defense policies designed to improve professional relationships between male and female members of the armed forces.
+  - **(4)** The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault.
+  - **(5)** Any other issues relating to discrimination, harassment, or assault as the Secretary of Defense considers appropriate.
 - **(d)**
-  - **(1)** The Armed Forces Workplace and Gender Relations Surveys of the Active Duty and the Armed Forces Workplace and Gender Relations Survey of the Reserve Components shall each be conducted once every two years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
-  - **(2)** The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
-  - **(3)**
-    - **(A)** The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
-    - **(B)** The Secretary shall ensure that a survey postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
-    - **(C)** The Secretary shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
+  - **(1)** One of the two Armed Forces Workplace and Gender Relations Surveys shall be conducted in 2014 and then every second year thereafter and the other Armed Forces Workplace and Gender Relations Survey shall be conducted in 2015 and then every second year thereafter, so that one of the two surveys is being conducted each year.
+  - **(2)** The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The two surveys may not be conducted in the same year.
 - **(e)** Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 - **(f)** This section does not apply to the Coast Guard.

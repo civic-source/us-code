@@ -3,9 +3,9 @@ title: "Section 3504 - Acts to be performed by agents"
 usc_title: 26
 usc_section: "3504"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 3504"
-generated_at: "2026-03-29T02:14:01.201Z"
+generated_at: "2026-03-29T17:52:39.437Z"
 ---
 
 # § 3504. Acts to be performed by agents

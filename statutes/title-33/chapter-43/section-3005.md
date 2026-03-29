@@ -3,14 +3,18 @@ title: "Section 3005 - Number of authorized commissioned officers"
 usc_title: 33
 usc_section: "3005"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 3005"
-generated_at: "2026-03-29T02:14:18.648Z"
+generated_at: "2026-03-29T17:52:46.002Z"
 ---
 
 # § 3005. Number of authorized commissioned officers
 
-- **(a)** The total number of authorized commissioned officers on the lineal list of the commissioned officer corps of the Administration shall not exceed 500.
-- **(b)** Officers serving in positions designated under section 3028 of this title and officers recalled from retired status or detailed to an agency other than the Administration—
-  - **(1)** may not be counted in determining the total number of authorized officers on the lineal list under this section; and
-  - **(2)** may not count against such number.
+Effective October 1, 2009 , the total number of authorized commissioned officers on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration shall be increased from 321 to 379 if—
+
+  - **(1)** the Secretary has submitted to the Congress—
+    - **(A)** the Administration’s ship recapitalization plan for fiscal years 2010 through 2024;
+    - **(B)** the Administration’s aircraft remodernization plan; and
+    - **(C)** supporting workforce management plans;
+  - **(2)** appropriated funding is available; and
+  - **(3)** the Secretary has justified organizational needs for the commissioned corps for each such fiscal year.

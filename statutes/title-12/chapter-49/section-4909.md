@@ -3,9 +3,9 @@ title: "Section 4909 - Enforcement"
 usc_title: 12
 usc_section: "4909"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4909"
-generated_at: "2026-03-29T02:11:21.234Z"
+generated_at: "2026-03-29T17:51:13.257Z"
 ---
 
 # § 4909. Enforcement
@@ -19,9 +19,9 @@ generated_at: "2026-03-29T02:11:21.234Z"
   - **(3)** part C of title V of the Farm Credit Act of 1971 ( 12 U.S.C. 2261 et seq.), by the Farm Credit Administration in the case of an institution that is a member of the Farm Credit System; and
   - **(4)** subtitle E of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5561 et seq.], by the Bureau of Consumer Financial Protection, with respect to any person subject to this chapter.
 - **(b)**
-  - **(1)** For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
-  - **(2)** In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.].
-- **(c)** In carrying out its enforcement activities under this section, each agency referred to in subsection (a) shall—
+  - **(1)** For purposes of the exercise by any agency referred to in subsection (a) of this section of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+  - **(2)** In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.].
+- **(c)** In carrying out its enforcement activities under this section, each agency referred to in subsection (a) of this section shall—
   - **(1)** notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;
   - **(2)** with respect to each such failure to comply, require the mortgagee or servicer, as applicable, to correct the account of the mortgagor to reflect the date on which the mortgage insurance should have been canceled or terminated under this chapter; and
   - **(3)** require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.

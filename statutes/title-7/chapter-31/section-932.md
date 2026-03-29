@@ -3,9 +3,9 @@ title: "Section 932 - Liabilities and uses of Rural Electrification and Telephon
 usc_title: 7
 usc_section: "932"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 932"
-generated_at: "2026-03-29T02:10:16.749Z"
+generated_at: "2026-03-29T17:50:48.544Z"
 ---
 
 # § 932. Liabilities and uses of Rural Electrification and Telephone Revolving Fund
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T02:10:16.749Z"
     - **(B)** The Secretary shall account for the assets, liabilities, income, expenses, and equity of the fund attributable to telephone loan operations in the telephone account.
   - **(3)**
     - **(A)** The assets accounted for in the electric account shall be available solely for electrification loan operations under this chapter.
-    - **(B)** The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV).
+    - **(B)** The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV of this chapter).

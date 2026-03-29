@@ -1,0 +1,14 @@
+---
+title: "Section 830 - Availability of appropriations"
+usc_title: 14
+usc_section: "830"
+chapter: 23
+current_through: "PL 113-100"
+classification: "14 U.S.C. § 830"
+generated_at: "2026-03-29T17:51:01.013Z"
+---
+
+# § 830. Availability of appropriations
+
+- **(a)** Appropriations of the Coast Guard shall be available for the payment of actual necessary traveling expense and subsistence, or commutation of ration allowance in lieu of subsistence, of members of the Auxiliary assigned to authorized duties and for actual necessary expenses of operation of any motorboat, yacht, aircraft, radio station, or motorized vehicle utilized under section 826(b) when assigned to Coast Guard duty, but shall not be available for the payment of compensation for personal services, incident to such operation, other than to personnel of the Coast Guard or the Reserve. The term “actual necessary expenses of operation,” as used in this section, shall include payment for fuel, oil, power, water, supplies, provisions, replacement or repair of equipment, repair of any damaged motorboat, yacht, aircraft, radio station, or motorized vehicle utilized under section 826(b) and for the constructive or actual loss of any motorboat, yacht, aircraft, radio station, or motorized vehicle utilized under section 826(b) where it is determined, under applicable regulations, that responsibility for the loss or damage necessitating such replacement or repair of equipment, or for the damage or loss, constructive or actual, of such motorboat, yacht, aircraft, radio station, or motorized vehicle utilized under section 826(b) rests with the Coast Guard.
+- **(b)** The Secretary may pay interest on a claim under this section in any case in which a payment authorized under this section is not made within 60 days after the submission of the claim in a manner prescribed by the Secretary. The rate of interest for purposes of this section shall be the annual rate established under section 6621 of the Internal Revenue Code of 1954. 1 1 See References in Text note below.

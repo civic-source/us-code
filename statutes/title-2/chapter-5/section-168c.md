@@ -3,9 +3,9 @@ title: "Section 168c - Printing and distribution of decennial editions and suppl
 usc_title: 2
 usc_section: "168c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 168c"
-generated_at: "2026-03-29T02:09:53.656Z"
+generated_at: "2026-03-29T17:50:24.009Z"
 ---
 
 # § 168c. Printing and distribution of decennial editions and supplements to Constitution Annotated

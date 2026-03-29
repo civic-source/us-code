@@ -3,23 +3,23 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-29T02:11:34.029Z"
+generated_at: "2026-03-29T17:51:36.135Z"
 ---
 
 # § 632. Definitions
 
 - **(a)**
-  - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
+  - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation: Provided , That notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it (including its affiliates) has annual receipts not in excess of $750,000.
   - **(2)**
-    - **(A)** In addition to the criteria specified in paragraph (1) and subject to the requirements specified under subparagraph (C), the Administrator may specify detailed definitions or standards by which a business concern may be determined to be a small business concern for the purposes of this chapter or any other Act.
+    - **(A)** In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards by which a business concern may be determined to be a small business concern for the purposes of this chapter or any other Act.
     - **(B)** The standards described in paragraph (1) may utilize number of employees, dollar volume of business, net worth, net income, a combination thereof, or other appropriate factors.
-    - **(C)** Unless specifically authorized by statute, no Federal department (including the Administration when acting pursuant to subparagraph (A)) or agency may prescribe a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
+    - **(C)** Unless specifically authorized by statute, no Federal department or agency may prescribe a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
       - **(i)** is proposed after an opportunity for public notice and comment;
       - **(ii)** provides for determining—
-        - **(I)** the size of a manufacturing concern as measured by the manufacturing concern’s average employment based upon employment during each of the manufacturing concern’s pay periods for the preceding 24 months;
-        - **(II)** the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 5 years;
+        - **(I)** the size of a manufacturing concern as measured by the manufacturing concern’s average employment based upon employment during each of the manufacturing concern’s pay periods for the preceding 12 months;
+        - **(II)** the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 3 years;
         - **(III)** the size of other business concerns on the basis of data over a period of not less than 3 years; or
         - **(IV)** other appropriate factors; and
       - **(iii)** is approved by the Administrator.
@@ -45,19 +45,13 @@ generated_at: "2026-03-29T02:11:34.029Z"
     - **(D)** the anticipated effect of the proposed rulemaking on the industry, including the number of concerns not currently considered small that would be considered small under the proposed rule making and the number of concerns currently considered small that would be deemed other than small under the proposed rulemaking.
   - **(7)** In carrying out this subsection, the Administrator may establish or approve a single size standard for a grouping of 4-digit North American Industry Classification System codes only if the Administrator makes publicly available, not later than the date on which such size standard is established or approved, a justification demonstrating that such size standard is appropriate for each individual industry classification included in the grouping.
   - **(8)** The Administrator shall not limit the number of size standards established pursuant to paragraph (2), and shall assign the appropriate size standard to each North American Industry Classification System Code.
-  - **(9)**
-    - **(A)** A person may file a petition for reconsideration with the Office of Hearings and Appeals (as established under section 634(i) of this title ) of a size standard revised, modified, or established by the Administrator pursuant to this subsection.
-    - **(B)** A person filing a petition for reconsideration described in subparagraph (A) shall file such petition not later than 30 days after the publication in the Federal Register of the notice of final rule to revise, modify, or establish size standards described in paragraph (6).
-    - **(C)** The Office of Hearings and Appeals shall use the same process it uses to decide challenges to the size of a small business concern to decide a petition for review pursuant to this paragraph.
-    - **(D)** The publication of a final rule in the Federal Register described in subparagraph (B) shall be considered final agency action for purposes of seeking judicial review. Filing a petition for reconsideration under subparagraph (A) shall not be a condition precedent to judicial review of any such size standard.
-    - **(E)** The Office of Hearings and Appeals shall begin accepting petitions for reconsideration described in subparagraph (A) after the date on which the Administration issues a rule or other guidance implementing this paragraph. Notwithstanding the provisions of subparagraph (B), petitions for reconsideration of size standards revised, modified, or established in a Federal Register final rule published between November 25, 2015 , and the effective date of such rule or other guidance shall be considered timely if filed within 30 days of such effective date.
 - **(b)** For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5 , but does not include the United States Postal Service or the Government Accountability Office.
 - **(c)**
   - **(1)** For purposes of this chapter, a qualified employee trust shall be eligible for any loan guarantee under section 636(a) of this title with respect to a small business concern on the same basis as if such trust were the same legal entity as such concern.
   - **(2)** For purposes of this chapter, the term “qualified employee trust” means, with respect to a small business concern, a trust—
     - **(A)** which forms part of an employee stock ownership plan (as defined in section 4975(e)(7) of title 26 )—
       - **(i)** which is maintained by such concern, and
-      - **(ii)** which provides that each participant is entitled to direct the plan trustee as to the manner of how to vote the qualified employer securities (as defined in section 4975(e)(8) of title 26 ), which are allocated to the account of such participant with respect to a corporate matter which (by law or charter) must be decided by a vote conducted in accordance with section 409(e) of the title 26; and
+      - **(ii)** which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26 ) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
     - **(B)** in the case of any loan guarantee under section 636(a) of this title , the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
       - **(i)** the loan guaranteed under section 636(a) of this title shall be used solely for the purchase of qualifying employer securities of such concern,
       - **(ii)** all funds acquired by the concern in such purchase shall be used by such concern solely for the purposes for which such loan was guaranteed,
@@ -71,7 +65,7 @@ generated_at: "2026-03-29T02:11:34.029Z"
       - **(iii)** which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
       - **(iv)** which meets such other requirements (similar to requirements applicable to employee stock ownership plans as defined in section 4975(e)(7) of title 26 ) as the Administrator may prescribe, and
     - **(C)** in the case of a loan guarantee under section 636(a) of this title , such organization enters into an agreement with the Administration which is described in paragraph (2)(B).
-- **(d)** For purposes of section 636 of this title , the term “qualified Indian tribe” means an Indian tribe as defined in section 5304(a) 1 1 So in original. Probably should be a reference to subsec. “(e)” of section 5304, which defines Indian tribe. of title 25, which owns and controls 100 per centum of a small business concern.
+- **(d)** For purposes of section 636 of this title , the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25 , which owns and controls 100 per centum of a small business concern.
 - **(e)** For purposes of section 636 of this title , the term “public or private organization for the handicapped” means one—
   - **(1)** which is organized under the laws of the United States or of any State, operated in the interest of handicapped individuals, the net income of which does not inure in whole or in part to the benefit of any shareholder or other individuals;
   - **(2)** which complies with any applicable occupational health and safety standard prescribed by the Secretary of Labor; and
@@ -88,34 +82,22 @@ generated_at: "2026-03-29T02:11:34.029Z"
   - **(6)** hydroelectric power equipment;
   - **(7)** wind energy conversion equipment; and
   - **(8)** engineering, architectural, consulting, or other professional services which are necessary or appropriate to aid citizens in using any of the measures described in paragraph (1) through (7).
-- **(h)** The term “credit elsewhere” means—
-  - **(1)** for the purposes of this chapter (except as used in section 636(b) of this title ), the availability of credit on reasonable terms and conditions to the individual loan applicant from non-Federal, non-State, or non-local government sources, considering factors associated with conventional lending practices, including—
-    - **(A)** the business industry in which the loan applicant operates;
-    - **(B)** whether the loan applicant is an enterprise that has been in operation for a period of not more than 2 years;
-    - **(C)** the adequacy of the collateral available to secure the requested loan;
-    - **(D)** the loan term necessary to reasonably assure the ability of the loan applicant to repay the debt from the actual or projected cash flow of the business; and
-    - **(E)** any other factor relating to the particular credit application, as documented in detail by the lender, that cannot be overcome except through obtaining a Federal loan guarantee under prudent lending standards; and
-  - **(2)** for the purposes of section 636(b) of this title , the availability of credit on reasonable terms and conditions from non-Federal sources taking into consideration the prevailing rates and terms in the community in or near where the applicant business concern transacts business, or the applicant homeowner resides, for similar purposes and periods of time.
+- **(h)** For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
 - **(i)** For purposes of section 636 of this title , the term “homeowners” includes owners and lessees of residential property and also includes personal property.
 - **(j)** For the purposes of this chapter, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act ( 12 U.S.C. 1141j ), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
 - **(k)**
-  - **(1)** For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+  - **(1)** For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16 ), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
   - **(2)** For purposes of section 636(b)(2) of this title , the term “disaster” includes—
     - **(A)** drought;
     - **(B)** below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns; and
     - **(C)** ice storms and blizzards.
 - **(l)** For purposes of this chapter—
-  - **(1)** 2 2 So in original. No par. (2) has been enacted. the term “computer crime” means—
+  - **(1)** 1 1 So in original. No par. (2) has been enacted. the term “computer crime” means—
     - **(A)** any crime committed against a small business concern by means of the use of a computer; and
     - **(B)** any crime involving the illegal use of, or tampering with, a computer owned or utilized by a small business concern.
-- **(m)** In this chapter:
-  - **(1)** The term “prime contract” has the meaning given such term in section 8701(4) of title 41 .
-  - **(2)** The term “prime contractor” has the meaning given such term in section 8701(5) of title 41 .
-  - **(3)** The term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41 .
-  - **(4)** The term “micro-purchase threshold” has the meaning given such term in section 1902 of title 41 .
-  - **(5)** The term “total purchases and contracts for property and services” shall mean total number and total dollar amount of contracts and orders for property and services.
+- **(m)** For purposes of this chapter, the term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41 .
 - **(n)** For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
-  - **(1)** at least 51 percent of small 3 3 So in original. Probably should be preceded by “the”. business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+  - **(1)** at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
   - **(2)** the management and daily business operations of the business are controlled by one or more women.
 - **(o)** In this chapter:
   - **(1)** The term “bundled contract” means a contract that is entered into to meet requirements that are consolidated in a bundling of contract requirements.
@@ -125,25 +107,74 @@ generated_at: "2026-03-29T02:11:34.029Z"
     - **(C)** the geographical dispersion of the contract performance sites; or
     - **(D)** any combination of the factors described in subparagraphs (A), (B), and (C).
   - **(3)** The term “separate smaller contract”, with respect to a bundling of contract requirements, means a contract that has been performed by 1 or more small business concerns or was suitable for award to 1 or more small business concerns.
-- **(p)** In this chapter, the term “qualified HUBZone small business concern” has the meaning given such term in section 657a(b) of this title .
+- **(p)** In this chapter:
+  - **(1)** The term “historically underutilized business zone” means any area located within 1 or more—
+    - **(A)** qualified census tracts;
+    - **(B)** qualified nonmetropolitan counties;
+    - **(C)** lands within the external boundaries of an Indian reservation;
+    - **(D)** redesignated areas; or
+    - **(E)** base closure areas.
+  - **(2)** The term “HUBZone” means a historically underutilized business zone.
+  - **(3)** The term “HUBZone small business concern” means—
+    - **(A)** a small business concern that is at least 51 percent owned and controlled by United States citizens;
+    - **(B)** a small business concern that is—
+      - **(i)** an Alaska Native Corporation owned and controlled by Natives (as determined pursuant to section 1626(e)(1) of title 43 ); or
+      - **(ii)** a direct or indirect subsidiary corporation, joint venture, or partnership of an Alaska Native Corporation qualifying pursuant to section 1626(e)(1) of title 43 , if that subsidiary, joint venture, or partnership is owned and controlled by Natives (as determined pursuant to section 1626(e)(2) of title 43 );
+    - **(C)** a small business concern—
+      - **(i)** that is wholly owned by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments; or
+      - **(ii)** that is owned in part by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments, if all other owners are either United States citizens or small business concerns;
+    - **(D)** a small business concern that is—
+      - **(i)** wholly owned by a community development corporation that has received financial assistance under part 1 of subchapter A of the Community Economic Development Act of 1981 ( 42 U.S.C. 9805 et seq.); or
+      - **(ii)** owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns; or
+    - **(E)** a small business concern that is—
+      - **(i)** a small agricultural cooperative organized or incorporated in the United States;
+      - **(ii)** wholly owned by 1 or more small agricultural cooperatives organized or incorporated in the United States; or
+      - **(iii)** owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all owners are small business concerns or United States citizens.
+  - **(4)**
+    - **(A)** The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii) 2 2 See References in Text note below. of title 26.
+    - **(B)** The term “qualified nonmetropolitan county” means any county—
+      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 2 of title 26; and
+      - **(ii)** in which—
+        - **(I)** the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
+        - **(II)** the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
+        - **(III)** there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) 2 of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
+    - **(C)** The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only until the later of—
+      - **(i)** the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
+      - **(ii)** 3 years after the date on which the census tract or nonmetropolitan county ceased to be so qualified.
+    - **(D)** The term “base closure area” means lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
+      - **(i)** the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of Public Law 101–510 ; 10 U.S.C. 2687 note);
+      - **(ii)** title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note);
+      - **(iii)** section 2687 of title 10 ; or
+      - **(iv)** any other provision of law authorizing or directing the Secretary of Defense or the Secretary of a military department to dispose of real property at the military installation for purposes relating to base closures of redevelopment, while retaining the authority to enter into a leaseback of all or a portion of the property for military use.
+  - **(5)**
+    - **(A)** A HUBZone small business concern is “qualified”, if—
+      - **(i)** the small business concern has certified in writing to the Administrator (or the Administrator otherwise determines, based on information submitted to the Administrator by the small business concern, or based on certification procedures, which shall be established by the Administration by regulation) that—
+        - **(I)** it is a HUBZone small business concern—
+        - **(II)** the small business concern will attempt to maintain the applicable employment percentage under subclause (I) during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title ; and
+        - **(III)** with respect to any subcontract entered into by the small business concern pursuant to a contract awarded to the small business concern under section 657a of this title , the small business concern will ensure that the requirements of section 657s of this title are satisfied; and
+      - **(ii)** no certification made or information provided by the small business concern under clause (i) has been, in accordance with the procedures established under section 657a(c)(1) of this title —
+        - **(I)** successfully challenged by an interested party; or
+        - **(II)** otherwise determined by the Administrator to be materially false.
+    - **(B)** The Administrator shall establish and maintain a list of qualified HUBZone small business concerns, which list shall, to the extent practicable—
+      - **(i)** once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern, include the name, address, and type of business with respect to each such small business concern;
+      - **(ii)** be updated by the Administrator not less than annually; and
+      - **(iii)** be provided upon request to any Federal agency or other entity.
+  - **(6)**
+    - **(A)** The term “Alaska Native Corporation” has the same meaning as the term “Native Corporation” in section 1602 of title 43 .
+    - **(B)** The term “Alaska Native Village” has the same meaning as the term “Native village” in section 1602 of title 43 .
+    - **(C)** The term “Indian reservation”—
+      - **(i)** has the same meaning as the term “Indian country” in section 1151 of title 18 , except that such term does not include—
+        - **(I)** any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000 , unless that tribe is recognized after December 21, 2000 , by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
+        - **(II)** lands taken into trust or acquired by an Indian tribe after December 21, 2000 , if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000 ; and
+      - **(ii)** in the State of Oklahoma, means lands that—
+        - **(I)** are within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
+        - **(II)** are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on December 21, 2000 ).
+  - **(7)** The term “agricultural commodity” has the same meaning as in section 5602 of title 7 .
 - **(q)** In this chapter, the following definitions apply:
   - **(1)** The term “service-disabled veteran” means a veteran with a disability that is service-connected (as defined in section 101(16) of title 38 ).
-  - **(2)** The term “small business concern owned and controlled by service-disabled veterans” means any of the following:
-    - **(A)** A small business concern—
-      - **(i)** not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more service-disabled veterans; and
-      - **(ii)** the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
-    - **(B)** A small business concern—
-      - **(i)** not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable to manage the daily business operations of such concern; or
-      - **(ii)** in the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more such veterans.
-    - **(C)**
-      - **(i)** During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—
-        - **(I)** the surviving spouse of the deceased veteran acquires such veteran’s ownership interest in such concern;
-        - **(II)** such veteran had a service-connected disability (as defined in section 101(16) of title 38 ); and
-        - **(III)** immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 657f of this title .
-      - **(ii)** The time period described in this clause is the time period beginning on the date of the veteran’s death and ending on the earlier of—
-        - **(I)** the date on which the surviving spouse remarries;
-        - **(II)** the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
-        - **(III)** the date that—
+  - **(2)** The term “small business concern owned and controlled by service-disabled veterans” means a small business concern—
+    - **(A)** not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+    - **(B)** the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
   - **(3)** The term “small business concern owned and controlled by veterans” means a small business concern—
     - **(A)** not less than 51 percent of which is owned by one or more veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
     - **(B)** the management and daily business operations of which are controlled by one or more veterans.
@@ -156,11 +187,9 @@ generated_at: "2026-03-29T02:11:34.029Z"
       - **(ii)** was subject to the time limitation during such period of active duty.
     - **(B)** Upon submission of proper documentation to the Administrator, the extension of a time limitation under subparagraph (A) shall be equal to the period of time that such veteran who owned or controlled such a concern was on active duty as described in that subparagraph.
     - **(C)** The provisions of subparagraphs (A) and (B) shall not apply to any programs subject to the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
-  - **(6)** The term “ESOP” has the meaning given the term “employee stock ownership plan” in section 4975(e)(7) of title 26 .
-  - **(7)** The term “surviving spouse” has the meaning given such term in section 101(3) of title 38 .
 - **(r)** As used in section 650 of this title :
   - **(1)** The term “small business lending company” means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
-  - **(2)** The term “non-Federally regulated lender” means a business concern if—
+  - **(2)** The term “non-Federally regulated SBA lender” means a business concern if—
     - **(A)** such concern is authorized by the Administrator to make loans under section 636 of this title ;
     - **(B)** such concern is subject to regulation by a State; and
     - **(C)** the lending activities of such concern are not regulated by any Federal banking authority.
@@ -190,13 +219,3 @@ generated_at: "2026-03-29T02:11:34.029Z"
 - **(aa)** In this chapter, the term “venture capital operating company” means an entity described in clause (i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal Regulations (or any successor thereto).
 - **(bb)** In this chapter, the term “hedge fund” has the meaning given that term in section 1851(h)(2) of title 12 .
 - **(cc)** In this chapter, the term “private equity firm” has the meaning given the term “private equity fund” in section 1851(h)(2) of title 12 .
-- **(dd)** In this chapter:
-  - **(1)** The term “subcontract” means a legally binding agreement between a contractor that is already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
-  - **(2)** The term “first tier subcontractor” means a subcontractor who has a subcontract directly with the prime contractor.
-  - **(3)** The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.
-- **(ee)** In this chapter, the term “Puerto Rico business” means a small business concern that has its principal office located in the Commonwealth of Puerto Rico.
-- **(ff)** In this chapter, the term “covered territory business” means a small business concern that has its principal office located in one of the following:
-  - **(1)** The United States Virgin Islands.
-  - **(2)** American Samoa.
-  - **(3)** Guam.
-  - **(4)** The Northern Mariana Islands.

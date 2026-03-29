@@ -3,9 +3,9 @@ title: "Section 4014 - Financial assistance"
 usc_title: 20
 usc_section: "4014"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 4014"
-generated_at: "2026-03-29T02:12:17.404Z"
+generated_at: "2026-03-29T17:51:48.554Z"
 ---
 
 # § 4014. Financial assistance
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:17.404Z"
 - **(a)** There is hereby established within the Environmental Protection Agency an Asbestos Hazards Abatement Assistance Program (hereinafter in this chapter referred to as the “Assistance Program”), which shall be administered in accordance with this section.
 - **(b)**
   - **(1)** Applications for financial assistance shall be submitted by a local educational agency to the Governor, or the Governor’s designee, who shall establish a priority list based on the criteria of section 4013(b)(2) of this title .
-  - **(2)** Pursuant to section 4013 of this title , the Governor shall submit applications, together with the Governor’s report and priority list, to the Administrator who shall review and rank such applications pursuant to subsection (c)(2) and propose financing pursuant to the criteria of section 4013(b)(4) of this title . The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.
+  - **(2)** Pursuant to section 4013 of this title , the Governor shall submit applications, together with the Governor’s report and priority list, to the Administrator who shall review and rank such applications pursuant to subsection (c)(2) of this section and propose financing pursuant to the criteria of section 4013(b)(4) of this title . The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.
 - **(c)**
   - **(1)** The Administrator shall provide financial assistance on a school-by-school basis to local educational agencies in accordance with other provisions of this section to carry out projects for—
     - **(A)** abating the threat posed by materials containing asbestos to the health and safety of children or employees;
@@ -52,5 +52,5 @@ generated_at: "2026-03-29T02:12:17.404Z"
       - **(i)** the local educational agency has prepared and is implementing an asbestos management plan, as required under title II of the Toxic Substances Control Act ( 15 U.S.C. 2641 et seq.); and
       - **(ii)** all activities to be conducted with the financial assistance will be performed by individuals trained and accredited in conformance with title II of the Toxic Substances Control Act ( 15 U.S.C. 2641 et seq.) and regulations promulgated under that title;
     - **(C)** the application contains assurances that the local educational agency will furnish such information as is necessary for the Administrator to make the report required by section 4016 of this title .
-  - **(3)** No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) on which abatement action was completed prior to January 1, 1984 .
+  - **(3)** No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) of this section on which abatement action was completed prior to January 1, 1984 .
   - **(4)** Except as provided in section 4021(b)(1) of this title , in approving applications the Administrator shall provide assistance to the local educational agencies having the highest priority among applications being considered in order of ranking until the appropriated funds are expended.

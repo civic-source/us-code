@@ -1,20 +1,16 @@
 ---
-title: "Section 12 - Seventh capital increase"
+title: "Section 12 - Additional authorization for payment of United States contribution"
 usc_title: 22
 usc_section: "12"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 12"
-generated_at: "2026-03-29T02:12:39.975Z"
+generated_at: "2026-03-29T17:52:10.428Z"
 ---
 
-# § 290i–12. Seventh capital increase
+# § 290g–12. Additional authorization for payment of United States contribution
 
 - **(a)**
-  - **(1)** The United States Governor of the Bank may subscribe on behalf of the United States to 532,023 additional shares of the capital stock of the Bank.
-  - **(2)** Any subscription by the United States to the capital stock of the Bank shall be effective only to such extent and in such amounts as are provided in advance in appropriations Acts.
-- **(b)**
-  - **(1)** In order to pay for the increase in the United States subscription to the Bank under subsection (a), there are authorized to be appropriated, without fiscal year limitation, $7,286,587,008 for payment by the Secretary of the Treasury.
-  - **(2)** Of the amount authorized to be appropriated under paragraph (1)—
-    - **(A)** $437,190,016 shall be for paid in shares of the Bank; and
-    - **(B)** $6,849,396,992 shall be for callable shares of the Bank.
+  - **(1)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $150,000,000 to the Fund as the United States contribution to the third replenishment of the resources of the Fund.
+  - **(2)** Any commitment to make the contribution authorized in paragraph (1) shall be made subject to obtaining the necessary appropriations.
+- **(b)** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $150,000,000 for payment by the Secretary of the Treasury.

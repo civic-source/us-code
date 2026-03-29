@@ -3,9 +3,9 @@ title: "Section 77eee - Securities required to be registered under Securities Ac
 usc_title: 15
 usc_section: "77eee"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 77eee"
-generated_at: "2026-03-29T02:11:33.891Z"
+generated_at: "2026-03-29T17:51:36.014Z"
 ---
 
 # § 77eee. Securities required to be registered under Securities Act

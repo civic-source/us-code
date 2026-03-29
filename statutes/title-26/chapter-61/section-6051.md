@@ -3,16 +3,16 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-29T02:14:01.296Z"
+generated_at: "2026-03-29T17:52:39.528Z"
 ---
 
 # § 6051. Receipts for employees
 
 - **(a)** Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or, if his employment is terminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
   - **(1)** the name of such person,
-  - **(2)** the name of the employee (and an identifying number for the employee if wages as defined in section 3121(a) have been paid),
+  - **(2)** the name of the employee (and his social security account number if wages as defined in section 3121(a) have been paid),
   - **(3)** the total amount of wages as defined in section 3401(a),
   - **(4)** the total amount deducted and withheld as tax under section 3402,
   - **(5)** the total amount of wages as defined in section 3121(a),
@@ -23,15 +23,10 @@ generated_at: "2026-03-29T02:14:01.296Z"
   - **(10)** in the case of an employee who is a member of the Armed Forces of the United States, such employee’s earned income as determined for purposes of section 32 (relating to earned income credit),
   - **(11)** the amount contributed to any Archer MSA (as defined in section 220(d)) of such employee or such employee’s spouse,
   - **(12)** the amount contributed to any health savings account (as defined in section 223(d)) of such employee or such employee’s spouse,
-  - **(13)** the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)),
-  - **(14)** the aggregate cost (determined under rules similar to the rules of section 4980B(f)(4)) of applicable employer-sponsored coverage (as defined in subsection (g)), except that this paragraph shall not apply to—
+  - **(13)** the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)), and
+  - **(14)** the aggregate cost (determined under rules similar to the rules of section 4980B(f)(4)) of applicable employer-sponsored coverage (as defined in section 4980I(d)(1)), except that this paragraph shall not apply to—
     - **(A)** coverage to which paragraphs (11) and (12) apply, or
-    - **(B)** the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125),
-  - **(15)** the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee,
-  - **(16)** the amount includible in gross income under subparagraph (A) of section 83(i)(1) with respect to an event described in subparagraph (B) of such section which occurs in such calendar year,
-  - **(17)** the aggregate amount of income which is being deferred pursuant to elections under section 83(i), determined as of the close of the calendar year,
-  - **(18)** the total amount of cash tips reported by the employee under section 6053(a) and the occupation described in section 224(d)(1) such person, and
-  - **(19)** the total amount of qualified overtime compensation (as defined in section 225(c)).
+    - **(B)** the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125).
 - **(b)** In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendar year any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
 - **(c)** The statements required to be furnished pursuant to this section in respect of any remuneration shall be furnished at such other times, shall contain such other information, and shall be in such form as the Secretary may by regulations prescribe. The statements required under this section shall also show the proportion of the total amount withheld as tax under section 3101 which is for financing the cost of hospital insurance benefits under part A of title XVIII of the Social Security Act.
 - **(d)** A duplicate of any statement made pursuant to this section and in accordance with regulations prescribed by the Secretary shall, when required by such regulations, be filed with the Secretary.
@@ -53,11 +48,3 @@ generated_at: "2026-03-29T02:14:01.296Z"
   - **(2)** Every employer who receives a statement under paragraph (1)(A) with respect to sick pay paid to any employee during any calendar year shall, on or before January 31 of the succeeding year, furnish a written statement to such employee showing—
     - **(A)** the information shown on the statement furnished under paragraph (1)(A), and
     - **(B)** if any portion of the sick pay is excludable from gross income under section 104(a)(3), the portion which is not so excludable and the portion which is so excludable.
-- **(g)** For purposes of subsection (a)(14)—
-  - **(1)** The term “applicable employer-sponsored coverage” means, with respect to any employee, coverage under any group health plan made available to the employee by an employer which is excludable from the employee’s gross income under section 106, or would be so excludable if it were employer-provided coverage (within the meaning of such section 106).
-  - **(2)** The term “applicable employer-sponsored coverage” shall not include—
-    - **(A)** any coverage (whether through insurance or otherwise) described in section 9832(c)(1) (other than subparagraph (G) thereof) or for long-term care,
-    - **(B)** any coverage under a separate policy, certificate, or contract of insurance which provides benefits substantially all of which are for treatment of the mouth (including any organ or structure within the mouth) or for treatment of the eye, or
-    - **(C)** any coverage described in section 9832(c)(3) the payment for which is not excludable from gross income and for which a deduction under section 162( l ) is not allowable.
-  - **(3)** Coverage shall be treated as applicable employer-sponsored coverage without regard to whether the employer or employee pays for the coverage.
-  - **(4)** Applicable employer-sponsored coverage shall include coverage under any group health plan established and maintained primarily for its civilian employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any such government.

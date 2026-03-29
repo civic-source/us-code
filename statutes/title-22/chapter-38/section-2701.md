@@ -3,12 +3,13 @@ title: "Section 2701 - Educational facilities"
 usc_title: 22
 usc_section: "2701"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2701"
-generated_at: "2026-03-29T02:12:40.238Z"
+generated_at: "2026-03-29T17:52:10.555Z"
 ---
 
 # § 2701. Educational facilities
 
-Whenever the Secretary of State determines that educational facilities are not available, or that existing educational facilities are inadequate, to meet the needs of children of United States citizens stationed outside the United States who are engaged in carrying out Government activities, the Secretary may, in such manner as he deems appropriate and under such regulations as he may prescribe, establish, operate, and maintain primary schools, and school dormitories and related educational facilities for primary and secondary schools, outside the United States, make grants of funds for such purposes, or otherwise provide for such educational facilities. The authorities of the Foreign Service Buildings Act, 1926 [ 22 U.S.C. 292 et seq.], and of paragraphs (h) and (i) of section 2670 of this title , may be utilized by the Secretary in providing assistance for educational facilities. Such assistance may include physical security enhancements and hiring, transporting, and payment of teachers and other necessary personnel. Notwithstanding any other provision of law, where the child of a United States citizen employee of an agency of the United States Government who is stationed outside the United States attends an educational facility assisted by the Secretary of State under this section, the head of that agency is authorized to reimburse, or credit with advance payment, the Department of State for funds used in providing assistance to such educational facilities, by grant or otherwise, under this section.
+- **(h)** and
+      - **(i)** of section 2670 of this title , may be utilized by the Secretary in providing assistance for educational facilities. Such assistance may include hiring, transporting, and payment of teachers and other necessary personnel. Notwithstanding any other provision of law, where the child of a United States citizen employee of an agency of the United States Government who is stationed outside the United States attends an educational facility assisted by the Secretary of State under this section, the head of that agency is authorized to reimburse, or credit with advance payment, the Department of State for funds used in providing assistance to such educational facilities, by grant or otherwise, under this section.
 

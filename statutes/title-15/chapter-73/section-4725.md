@@ -3,9 +3,9 @@ title: "Section 4725 - United States and Foreign Commercial Service Pacific Rim 
 usc_title: 15
 usc_section: "4725"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 4725"
-generated_at: "2026-03-29T02:11:34.373Z"
+generated_at: "2026-03-29T17:51:36.376Z"
 ---
 
 # § 4725. United States and Foreign Commercial Service Pacific Rim initiative
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:11:34.373Z"
   - **(3)** present, periodically, a list of the goods and services identified under paragraph (1), together with a list of any impediments to the export of such goods and services, to appropriate authorities in Japan, South Korea, and Taiwan, with a view toward liberalizing markets to such goods and services;
   - **(4)** facilitate the entrance into such markets by United States persons identified and notified under paragraph (2); and
   - **(5)** monitor and evaluate the results of efforts to increase the sale of goods and services in such markets.
-- **(b)** The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a).
+- **(b)** The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a) of this section.
 - **(c)** As used in this section, the term “United States person” means—
   - **(1)** a United States citizen; or
   - **(2)** a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).

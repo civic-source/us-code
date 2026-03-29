@@ -3,9 +3,9 @@ title: "Section 1278 - Restrictions on water resources projects"
 usc_title: 16
 usc_section: "1278"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1278"
-generated_at: "2026-03-29T02:11:53.762Z"
+generated_at: "2026-03-29T17:51:56.856Z"
 ---
 
 # § 1278. Restrictions on water resources projects
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T02:11:53.762Z"
       - **(ii)** during such interim period from the date a report is due and the time a report is actually submitted to the Congress; and
       - **(iii)** during such additional period thereafter as, in the case of any river the report for which is submitted to the President and the Congress, is necessary for congressional consideration thereof or, in the case of any river recommended to the Secretary of the Interior for inclusion in the national wild and scenic rivers system under section 1273(a)(ii) of this title , is necessary for the Secretary’s consideration thereof, which additional period, however, shall not exceed three years in the first case and one year in the second.
 - **(c)** The Federal Energy Regulatory Commission and all other Federal agencies shall, promptly upon enactment of this chapter, inform the Secretary of the Interior and, where national forest lands are involved, the Secretary of Agriculture, of any proceedings, studies, or other activities within their jurisdiction which are now in progress and which affect or may affect any of the rivers specified in section 1276(a) of this title . They shall likewise inform him of any such proceedings, studies, or other activities which are hereafter commenced or resumed before they are commenced or resumed.
-- **(d)** Nothing in this section with respect to the making of a loan or grant shall apply to grants made under chapter 2003 of title 54.
+- **(d)** Nothing in this section with respect to the making of a loan or grant shall apply to grants made under the Land and Water Conservation Fund Act of 1965 [ 16 U.S.C. 460 l –4 et seq.].

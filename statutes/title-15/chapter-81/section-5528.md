@@ -1,12 +1,28 @@
 ---
-title: "Section 5528 - Repealed. Pub. L. 114–329, title I, § 105(q) , Jan. 6, 2017 , 130 Stat. 2984"
+title: "Section 5528 - Fostering United States competitiveness in high-performance computing and related activities"
 usc_title: 15
 usc_section: "5528"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 5528"
-generated_at: "2026-03-29T02:11:34.384Z"
+generated_at: "2026-03-29T17:51:36.384Z"
 ---
 
-# § 5528. Repealed. Pub. L. 114–329, title I, § 105(q) , Jan. 6, 2017 , 130 Stat. 2984
+# § 5528. Fostering United States competitiveness in high-performance computing and related activities
 
+- **(a)** The Congress finds the following:
+  - **(1)** High-performance computing and associated technologies are critical to the United States economy.
+  - **(2)** While the United States has led the development of high-performance computing, United States industry is facing increasing global competition.
+  - **(3)** Despite existing international agreements on fair competition and nondiscrimination in government procurements, there is increasing concern that such agreements are not being honored, that more aggressive enforcement of such agreements is needed, and that additional steps may be required to ensure fair global competition, particularly in high-technology fields such as high-performance computing and associated technologies.
+  - **(4)** It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner which most effectively fosters the maintenance and development of United States leadership in high-performance computers and associated technologies in and for the benefit of the United States.
+  - **(5)** It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner, consistent with the Trade Agreements Act of 1979 ( 19 U.S.C. 2501 et seq.), which most effectively fosters reciprocal competitive procurement treatment by foreign governments for United States high-performance computing and associated technology products and suppliers.
+- **(b)**
+  - **(1)** The Director shall submit an annual report to Congress that identifies—
+    - **(A)** any grant, contract, cooperative agreement, or cooperative research and development agreement (as defined under section 3710a(d)(1) of this title ) made or entered into by any Federal agency or department for research and development under the Program with—
+      - **(i)** any company other than a company that is either incorporated or located in the United States, and that has majority ownership by individuals who are citizens of the United States; or
+      - **(ii)** any educational institution or nonprofit institution located outside the United States; and
+    - **(B)** any procurement exceeding $1,000,000 by any Federal agency or department under the Program for—
+      - **(i)** unmanufactured articles, materials, or supplies mined or produced outside the United States; or
+      - **(ii)** manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
+  - **(2)** The report required by this subsection may be included with the report required by section 5511(a)(3)(A) 1 1 See References in Text note below. of this title.
+- **(c)** This chapter does not affect the applicability of chapter 83 of title 41 to procurements by Federal agencies and departments undertaken as a part of the Program.

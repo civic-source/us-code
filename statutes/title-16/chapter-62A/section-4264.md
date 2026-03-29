@@ -3,9 +3,9 @@ title: "Section 4264 - Asian elephant conservation assistance"
 usc_title: 16
 usc_section: "4264"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 4264"
-generated_at: "2026-03-29T02:11:53.934Z"
+generated_at: "2026-03-29T17:51:56.990Z"
 ---
 
 # § 4264. Asian elephant conservation assistance
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:11:53.934Z"
   - **(6)** Information regarding the source and amount of matching funding available to the applicant.
   - **(7)** Any other information the Secretary considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
 - **(c)**
-  - **(1)** Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d).
+  - **(1)** Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section.
   - **(2)** Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall—
     - **(A)** request written comments on the proposal from each country within which the project is to be conducted;
     - **(B)** after requesting those comments, approve or disapprove the proposal; and
@@ -35,6 +35,3 @@ generated_at: "2026-03-29T02:11:53.934Z"
 - **(f)** Each person who receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information required by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
 - **(g)** In determining whether to approve project proposals under this section, the Secretary shall give priority to those projects for which there exists some measure of matching funds.
 - **(h)** Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
-- **(i)**
-  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
-  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

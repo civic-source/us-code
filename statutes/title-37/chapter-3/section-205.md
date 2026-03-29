@@ -3,9 +3,9 @@ title: "Section 205 - Computation: service creditable"
 usc_title: 37
 usc_section: "205"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 205"
-generated_at: "2026-03-29T02:14:43.116Z"
+generated_at: "2026-03-29T17:52:59.074Z"
 ---
 
 # § 205. Computation: service creditable
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T02:14:43.116Z"
   - **(1)** all periods of active service as an officer, Army field clerk, flight officer, aviation midshipman, or enlisted member of a uniformed service;
   - **(2)** all periods during which he was enlisted or held an appointment as an officer, Army field clerk, or flight officer of—
     - **(A)** a regular component of a uniformed service;
-    - **(B)** a reserve component of a uniformed service;
-    - **(C)** the Space Force;
-    - **(D)** the Regular Army Reserve;
-    - **(E)** the National Guard;
-    - **(F)** the National Guard Reserve;
+    - **(B)** the Regular Army Reserve;
+    - **(C)** the Organized Militia before July 1, 1916 ;
+    - **(D)** the National Guard;
+    - **(E)** the National Guard Reserve;
+    - **(F)** a reserve component of a uniformed service;
     - **(G)** the Naval Militia;
     - **(H)** the National Naval Volunteers;
     - **(I)** the Navy Reserve Force;

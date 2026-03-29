@@ -3,9 +3,9 @@ title: "Section 1389 - Pacific Coast Task Force; Gulf of Maine"
 usc_title: 16
 usc_section: "1389"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1389"
-generated_at: "2026-03-29T02:11:53.778Z"
+generated_at: "2026-03-29T17:51:56.870Z"
 ---
 
 # § 1389. Pacific Coast Task Force; Gulf of Maine
@@ -35,37 +35,13 @@ generated_at: "2026-03-29T02:11:53.778Z"
   - **(2)** depleted under this chapter; or
   - **(3)** a strategic stock.
 - **(f)**
-  - **(1)** Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a population or stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
-    - **(A)** species of salmon, steelhead, or eulachon that are listed as endangered species or threatened species under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.); and
-    - **(B)** species of lamprey or sturgeon that are not so listed as endangered or threatened but are listed as a species of concern.
-  - **(2)**
-    - **(A)** An eligible entity may apply to the Secretary for a permit under this subsection.
-    - **(B)** The timelines and procedures described in subsection (c) shall apply to applications for permits under this subsection in the same manner such timelines apply to applications under subsection (b).
-    - **(C)** The Secretary shall establish procedures to coordinate issuance of permits under this subsection, including application procedures and timelines, delegation and revocation of permits to and between eligible entities, monitoring, periodic review, and geographic, seasonal take, and species-specific considerations.
-    - **(D)** A permit under this subsection shall be effective for a period of not more than 5 years, and may be renewed by the Secretary.
-  - **(3)** The Secretary shall apply the process for determining limitations on annual take of sea lions under subsection (c) to determinations on limitations under this subsection, and the cumulative number of sea lions authorized to be taken each year under all permits in effect under this subsection shall not exceed 10 percent of the annual potential biological removal level for sea lions.
-  - **(4)** Intentional lethal takings under this subsection shall—
-    - **(A)** be humane within the meaning of such term under section 1362(4) of this title ;
-    - **(B)** require that capture, husbandry, transportation, and euthanasia protocols are based on standards propagated by an Institutional Animal Care and Use Committee and that primary euthanasia be limited to humane chemical methods; and
-    - **(C)** be implemented by agencies or qualified individuals described in subsection (c)(4), or by individuals employed by the eligible entities described in paragraph (6).
-  - **(5)** If, 5 years after December 18, 2018 , the Secretary, after consulting with State and tribal fishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sea lion predation, the Secretary shall suspend the issuance of permits under this subsection.
-  - **(6)**
-    - **(A)** In this subsection, the term “eligible entity” means—
-      - **(i)** with respect to removal in the mainstem of the Columbia River, from river mile 112 to the McNary Dam and its tributaries in the State of Washington, and its tributaries in the State of Oregon above Bonneville Dam, the State of Washington, the State of Oregon, and the State of Idaho;
-      - **(ii)** with respect to removal in the mainstem Columbia River from river mile 112 to the McNary Dam and its tributaries within the State of Washington and in any of its tributaries above Bonneville Dam within the State of Oregon, the Nez Perce Tribe, the Confederated Tribes of the Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation; and
-      - **(iii)** with respect to removal in the Willamette River and other tributaries of the Columbia River within the State of Oregon below Bonneville Dam, a committee recognized by the Secretary under subparagraph (D).
-    - **(B)** The Secretary may allow eligible entities described in clause (i) or (ii) of subparagraph (A) to delegate their authority under a permit under this subsection to the Columbia River Intertribal Fish Commission for removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries within the State of Oregon above Bonneville Dam and below McNary Dam.
-    - **(C)** The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegate its authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect to removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
-    - **(D)**
-      - **(i)** The Secretary shall recognize a committee established in accordance with this subparagraph as being eligible for a permit under this subsection, for purposes of subparagraph (A)(iii).
-      - **(ii)** A committee established under this subparagraph shall consist of the State of Oregon and each of the following:
-        - **(I)** The Confederated Tribes of Siletz Indians or the Confederated Tribes of the Grand Ronde Community, or both.
-        - **(II)** The Confederated Tribes of the Warm Springs or the Confederated Tribes of the Umatilla Reservation, or both.
-      - **(iii)** A committee established under this subparagraph may take action with respect to a permit application and removal under this subsection only with majority agreement by the committee members.
-      - **(iv)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to a committee established under this subparagraph.
-  - **(7)** For purposes of this subsection, any sea lion located upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be individually identifiable.
-  - **(8)** For purposes of this subsection, any sea lion located in the mainstem of the Columbia River upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be having a significant negative impact, within the meaning of subsection (b)(1).
-  - **(9)** In this subsection, the term “Indian tribe” has the meaning given such term in section 5304 of title 25 .
+  - **(1)** The Secretary shall engage in a scientific investigation to determine whether California sea lions and Pacific harbor seals—
+    - **(A)** are having a significant negative impact on the recovery of salmonid fishery stocks which have been listed as endangered species or threatened species under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.), or which the Secretary finds are approaching such endangered species or threatened species status; or
+    - **(B)** are having broader impacts on the coastal ecosystems of Washington, Oregon, and California.
+  - **(2)** Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, on behalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+  - **(3)** The Secretary shall make the report and the recommendations submitted under paragraph (2) available to the public for review and comment for a period of 90 days.
+  - **(4)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out the provisions of this subsection.
+  - **(5)** The amounts appropriated under section 4107(c) of this title and allocated to the Pacific States Marine Fisheries Commission may be used by the Commission to participate in discussions with the Secretary under paragraph (2).
 - **(g)**
   - **(1)** The Secretary may conduct a study, of not less than three high predation areas in anadromous fish migration corridors within the Northwest Region of the National Marine Fisheries Service, on the interaction between fish and pinnipeds. In conducting the study, the Secretary shall consult with other State and Federal agencies with expertise in pinniped-fishery interaction. The study shall evaluate—
     - **(A)** fish behavior in the presence of predators generally;
@@ -73,12 +49,12 @@ generated_at: "2026-03-29T02:11:53.778Z"
     - **(C)** whether additional facilities exist, or could be reasonably developed, that could improve escapement for anadromous fish; and
     - **(D)** other issues the Secretary considers relevant.
   - **(2)** Subject to the availability of appropriations, the Secretary may, not later than 18 months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
-  - **(3)** The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d).
+  - **(3)** The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d) of this section.
 - **(h)** The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advise the Secretary on issues or problems regarding pinnipeds interacting in a dangerous or damaging manner with aquaculture resources in the Gulf of Maine. No later than 2 years from April 30, 1994 , the Secretary shall after notice and opportunity for public comment submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing recommended available alternatives to mitigate such interactions.
 - **(i)**
   - **(1)** Any task force established under this section—
     - **(A)** shall to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests; and
-    - **(B)** shall not be subject to chapter 10 of title 5.
+    - **(B)** shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
   - **(2)** Meetings of any task force established under this section shall be open to the public, and prior notice of those meetings shall be given to the public by the task force in a timely fashion.
 - **(j)**
   - **(1)** Nothing in section 1386 of this title shall prevent the Secretary from publishing a stock assessment for Gulf of Maine harbor porpoise in an expedited fashion.

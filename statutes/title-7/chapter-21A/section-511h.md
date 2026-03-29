@@ -3,9 +3,9 @@ title: "Section 511h - Publication of information relating to tobacco"
 usc_title: 7
 usc_section: "511h"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 511h"
-generated_at: "2026-03-29T02:10:16.731Z"
+generated_at: "2026-03-29T17:50:48.525Z"
 ---
 
 # § 511h. Publication of information relating to tobacco

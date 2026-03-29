@@ -3,9 +3,9 @@ title: "Section 6695 - Other assessable penalties with respect to the preparatio
 usc_title: 26
 usc_section: "6695"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6695"
-generated_at: "2026-03-29T02:14:01.365Z"
+generated_at: "2026-03-29T17:52:39.590Z"
 ---
 
 # § 6695. Other assessable penalties with respect to the preparation of tax returns for other persons
@@ -18,11 +18,4 @@ generated_at: "2026-03-29T02:14:01.365Z"
   - **(1)** each failure to file a return as required under such section, and
   - **(2)** each failure to set forth an item in the return as required under section,
 - **(f)** Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer’s account in such bank for the benefit of the taxpayer.
-- **(g)** Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining—
-  - **(1)** eligibility to file as a head of household (as defined in section 2(b)) on the return, or
-  - **(2)** eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32,
-- **(h)**
-  - **(1)** In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(2)** If any amount adjusted under paragraph (1)—
-    - **(A)** is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
-    - **(B)** is not described in subparagraph (A) and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
+- **(g)** Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 32 shall pay a penalty of $500 for each such failure.

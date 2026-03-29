@@ -3,12 +3,24 @@ title: "Section 6301 - Statement of purpose"
 usc_title: 20
 usc_section: "6301"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6301"
-generated_at: "2026-03-29T02:12:17.428Z"
+generated_at: "2026-03-29T17:51:48.579Z"
 ---
 
 # § 6301. Statement of purpose
 
-The purpose of this subchapter is to provide all children significant opportunity to receive a fair, equitable, and high-quality education, and to close educational achievement gaps.
+The purpose of this subchapter is to ensure that all children have a fair, equal, and significant opportunity to obtain a high-quality education and reach, at a minimum, proficiency on challenging State academic achievement standards and state 1 1 So in original. Probably should be capitalized. academic assessments. This purpose can be accomplished by—
 
+  - **(1)** ensuring that high-quality academic assessments, accountability systems, teacher preparation and training, curriculum, and instructional materials are aligned with challenging State academic standards so that students, teachers, parents, and administrators can measure progress against common expectations for student academic achievement;
+  - **(2)** meeting the educational needs of low-achieving children in our Nation’s highest-poverty schools, limited English proficient children, migratory children, children with disabilities, Indian children, neglected or delinquent children, and young children in need of reading assistance;
+  - **(3)** closing the achievement gap between high- and low-performing children, especially the achievement gaps between minority and nonminority students, and between disadvantaged children and their more advantaged peers;
+  - **(4)** holding schools, local educational agencies, and States accountable for improving the academic achievement of all students, and identifying and turning around low-performing schools that have failed to provide a high-quality education to their students, while providing alternatives to students in such schools to enable the students to receive a high-quality education;
+  - **(5)** distributing and targeting resources sufficiently to make a difference to local educational agencies and schools where needs are greatest;
+  - **(6)** improving and strengthening accountability, teaching, and learning by using State assessment systems designed to ensure that students are meeting challenging State academic achievement and content standards and increasing achievement overall, but especially for the disadvantaged;
+  - **(7)** providing greater decisionmaking authority and flexibility to schools and teachers in exchange for greater responsibility for student performance;
+  - **(8)** providing children an enriched and accelerated educational program, including the use of schoolwide programs or additional services that increase the amount and quality of instructional time;
+  - **(9)** promoting schoolwide reform and ensuring the access of children to effective, scientifically based instructional strategies and challenging academic content;
+  - **(10)** significantly elevating the quality of instruction by providing staff in participating schools with substantial opportunities for professional development;
+  - **(11)** coordinating services under all parts of this subchapter with each other, with other educational services, and, to the extent feasible, with other agencies providing services to youth, children, and families; and
+  - **(12)** affording parents substantial and meaningful opportunities to participate in the education of their children.

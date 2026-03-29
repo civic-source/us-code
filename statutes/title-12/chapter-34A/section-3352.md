@@ -3,9 +3,9 @@ title: "Section 3352 - Emergency exceptions for disaster areas"
 usc_title: 12
 usc_section: "3352"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3352"
-generated_at: "2026-03-29T02:11:21.166Z"
+generated_at: "2026-03-29T17:51:13.201Z"
 ---
 
 # § 3352. Emergency exceptions for disaster areas
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:11:21.166Z"
   - **(2)** determines that the exception—
     - **(A)** would facilitate recovery from the major disaster; and
     - **(B)** is consistent with safety and soundness.
-- **(b)** Any exception made under this section shall expire not later than 3 years after the date of the determination referred to in subsection (a)(1).
+- **(b)** Any exception made under this section shall expire not later than 3 years after the date of the determination referred to in subsection (a)(1) of this section.
 - **(c)** Any Federal financial institutions regulatory agency shall publish in the Federal Register a statement that—
   - **(1)** describes any exception made under this section; and
   - **(2)** explains how the exception—

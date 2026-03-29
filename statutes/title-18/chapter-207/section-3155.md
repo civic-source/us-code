@@ -3,12 +3,12 @@ title: "Section 3155 - Annual reports"
 usc_title: 18
 usc_section: "3155"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 3155"
-generated_at: "2026-03-29T02:12:02.476Z"
+generated_at: "2026-03-29T17:53:15.719Z"
 ---
 
 # § 3155. Annual reports
 
-Each chief pretrial services officer in districts in which pretrial services are established under section 3152(b) of this title , and each chief probation officer in all other districts, shall prepare an annual report to the chief judge of the district court concerning the administration and operation of pretrial services and shall ensure that case file, statistical, and other information concerning the work of pretrial services is provided to the Director. The Director shall be required to include in the Director’s annual report to the Judicial Conference under section 604 of title 28 a report on the administration and operation of the pretrial services for the previous year.
+Each chief pretrial services officer in districts in which pretrial services are established under section 3152(b) of this title , and each chief probation officer in all other districts, shall prepare an annual report to the chief judge of the district court and the Director concerning the administration and operation of pretrial services. The Director shall be required to include in the Director’s annual report to the Judicial Conference under section 604 of title 28 a report on the administration and operation of the pretrial services for the previous year.
 

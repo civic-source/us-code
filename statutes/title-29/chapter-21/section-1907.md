@@ -3,16 +3,16 @@ title: "Section 1907 - Helen Keller National Center Federal Endowment Fund"
 usc_title: 29
 usc_section: "1907"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1907"
-generated_at: "2026-03-29T02:14:09.487Z"
+generated_at: "2026-03-29T17:52:18.888Z"
 ---
 
 # § 1907. Helen Keller National Center Federal Endowment Fund
 
 - **(a)** The Secretary and the Board of Directors of the Helen Keller National Center are authorized to establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the “Endowment Fund”) in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
 - **(b)**
-  - **(1)** The Secretary shall make payments to the Endowment Fund from amounts appropriated pursuant to subsection (h), consistent with the provisions of this section.
+  - **(1)** The Secretary shall make payments to the Endowment Fund from amounts appropriated pursuant to subsection (h) of this section, consistent with the provisions of this section.
   - **(2)** Subject to the availability of appropriations, the Secretary shall make payments to the Endowment Fund in amounts equal to sums contributed to the Endowment Fund from non-Federal sources (excluding transfers from other endowment funds of the Center).
 - **(c)**
   - **(1)** The Center, in investing the Endowment Fund corpus and income, shall exercise the judgment and care, under the prevailing circumstances, which a person of prudence, discretion, and intelligence would exercise in the management of that person’s own business affairs.

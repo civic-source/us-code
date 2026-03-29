@@ -3,9 +3,9 @@ title: "Section 3945 - Senior Foreign Service"
 usc_title: 22
 usc_section: "3945"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 3945"
-generated_at: "2026-03-29T02:12:40.305Z"
+generated_at: "2026-03-29T17:52:10.598Z"
 ---
 
 # § 3945. Senior Foreign Service
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:40.305Z"
 - **(a)** Appointment to the Senior Foreign Service shall be to a salary class established under section 3962 of this title , and not to a position.
 - **(b)** An individual may not be given a limited appointment in the Senior Foreign Service if that appointment would cause the number of members of the Senior Foreign Service serving under limited appointments to exceed 5 percent of the total number of members of the Senior Foreign Service, except that (1) members of the Senior Foreign Service assigned to the Peace Corps shall be excluded in the calculation and application of this limitation, and (2) members of the Senior Foreign Service serving under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service shall be considered to be career members of the Senior Foreign Service for purposes of this subsection.
 - **(c)**
-  - **(1)** Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b).
+  - **(1)** Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b) of this section.
   - **(2)** Except as provided in paragraph (3), no more than one individual (other than an individual with reemployment rights under section 3950 of this title as a career appointee in the Senior Executive Service) may serve under a limited appointment in the Senior Foreign Service in the Department of Commerce at any time.
   - **(3)** The Secretary of Commerce may appoint an individual to a limited appointment in the Senior Foreign Service for a specific position abroad if—
     - **(A)** no career member of the Service who has the necessary qualifications is available to serve in the position; and

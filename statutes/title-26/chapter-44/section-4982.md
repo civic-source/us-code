@@ -3,9 +3,9 @@ title: "Section 4982 - Excise tax on undistributed income of regulated investmen
 usc_title: 26
 usc_section: "4982"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4982"
-generated_at: "2026-03-29T02:14:01.245Z"
+generated_at: "2026-03-29T17:52:39.482Z"
 ---
 
 # § 4982. Excise tax on undistributed income of regulated investment companies
@@ -66,12 +66,12 @@ generated_at: "2026-03-29T02:14:01.245Z"
     - **(C)** In the case of any company making an election under paragraph (4), subparagraph (A) shall be applied by substituting the last day of the company’s taxable year for October 31.
   - **(6)**
     - **(A)** For purposes of determining a regulated investment company’s ordinary income, notwithstanding paragraph (1)(C), each specified mark to market provision shall be applied as if such company’s taxable year ended on October 31. In the case of a company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company’s taxable year for October 31.
-    - **(B)** For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year or which determines income by reference to the value of an item on the last day of the taxable year.
+    - **(B)** For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year.
   - **(7)** Except as provided in regulations prescribed by the Secretary, in the case of a regulated investment company which has a taxable year other than the calendar year—
-    - **(A)** such company may elect to determine its ordinary income and net ordinary loss (as defined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
+    - **(A)** such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
     - **(B)** any amount of net ordinary loss not taken into account for a calendar year by reason of subparagraph (A) shall be treated as arising on the 1st day of the following calendar year.
 - **(f)** This section shall not apply to any regulated investment company for any calendar year if at all times during such calendar year each shareholder in such company was—
   - **(1)** a trust described in section 401(a) and exempt from tax under section 501(a),
-  - **(2)** a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)),
+  - **(2)** a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)) 1 1 So in original. Probably should be followed by a comma.
   - **(3)** any other tax-exempt entity whose ownership of beneficial interests in the company would not preclude the application of section 817(h)(4), or
   - **(4)** another regulated investment company described in this subsection.

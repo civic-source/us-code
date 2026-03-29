@@ -3,9 +3,9 @@ title: "Section 5104 - Basis for grading positions"
 usc_title: 5
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5104"
-generated_at: "2026-03-29T02:10:01.843Z"
+generated_at: "2026-03-29T17:50:36.471Z"
 ---
 
 # § 5104. Basis for grading positions
@@ -46,7 +46,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
   - **(7)** Grade GS–7 includes those classes of positions the duties of which are—
     - **(A)** to perform, under general supervision, work of considerable difficulty and responsibility along special technical or supervisory lines in office, business, or fiscal administration, or comparable subordinate technical work in a professional, scientific, or technical field, requiring in either case—
       - **(i)** considerable specialized or supervisory training and experience;
-      - **(ii)** comprehensive working knowledge of a special and complex subject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
+      - **(ii)** comprehensive working knowledge of a special and complex subject matter; procedure, or practice, or of the principles of the profession, art, or science involved; and
       - **(iii)** to a considerable extent the exercise of independent judgment;
     - **(B)** under immediate or general supervision, to perform somewhat difficult work requiring—
       - **(i)** professional, scientific, or technical training; and

@@ -3,9 +3,9 @@ title: "Section 2602 - Vessel permits and numbers"
 usc_title: 33
 usc_section: "2602"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2602"
-generated_at: "2026-03-29T02:14:18.635Z"
+generated_at: "2026-03-29T17:52:45.992Z"
 ---
 
 # § 2602. Vessel permits and numbers

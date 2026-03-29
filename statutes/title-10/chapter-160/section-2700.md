@@ -3,9 +3,9 @@ title: "Section 2700 - Definitions"
 usc_title: 10
 usc_section: "2700"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2700"
-generated_at: "2026-03-29T02:10:45.136Z"
+generated_at: "2026-03-29T17:50:57.157Z"
 ---
 
 # § 2700. Definitions
@@ -15,6 +15,3 @@ In this chapter:
   - **(1)** The term “CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 et seq.).
   - **(2)** The terms “environment”, “facility”, “hazardous substance”, “person”, “pollutant or contaminant”, “release”, “removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA ( 42 U.S.C. 9601 ).
   - **(3)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
-  - **(4)** The term “National Guard facility” includes land used for training the National Guard pursuant to chapter 5 of title 32 with funds provided by the Secretary of Defense or the Secretary of a military department, without regard to—
-    - **(A)** the owner or operator of the facility; or
-    - **(B)** whether the facility is under the jurisdiction of the Department of Defense or a military department.

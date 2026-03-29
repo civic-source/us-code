@@ -1,12 +1,14 @@
 ---
-title: "Section 441k - Transferred"
+title: "Section 441k - Prohibition of contributions by minors"
 usc_title: 2
 usc_section: "441k"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 441k"
-generated_at: "2026-03-29T02:09:53.674Z"
+generated_at: "2026-03-29T17:50:24.039Z"
 ---
 
-# § 441k. Transferred
+# § 441k. Prohibition of contributions by minors
+
+An individual who is 17 years old or younger shall not make a contribution to a candidate or a contribution or donation to a committee of a political party.
 

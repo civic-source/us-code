@@ -3,9 +3,9 @@ title: "Section 670a - Cooperative plan for conservation and rehabilitation"
 usc_title: 16
 usc_section: "670a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 670a"
-generated_at: "2026-03-29T02:11:53.638Z"
+generated_at: "2026-03-29T17:51:56.744Z"
 ---
 
 # § 670a. Cooperative plan for conservation and rehabilitation
@@ -20,16 +20,15 @@ generated_at: "2026-03-29T02:11:53.638Z"
   - **(3)**
     - **(A)** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, the Secretaries of the military departments shall carry out the program required by this subsection to provide for—
       - **(i)** the conservation and rehabilitation of natural resources on such installations;
-      - **(ii)** the use of natural and nature-based features to maintain or improve military installation resilience;
-      - **(iii)** the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
-      - **(iv)** subject to safety requirements and military security, public access to military installations to facilitate the use.
+      - **(ii)** the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+      - **(iii)** subject to safety requirements and military security, public access to military installations to facilitate the use.
     - **(B)** In the case of a State-owned National Guard installation, such program shall be carried out in coordination with the chief executive officer of the State in which the installation is located.
   - **(4)** Nothing in this subchapter—
     - **(A)**
       - **(i)** affects any provision of a Federal law governing the conservation or protection of fish and wildlife resources; or
       - **(ii)** enlarges or diminishes the responsibility and authority of any State for the protection and management of fish and resident wildlife; or
     - **(B)** except as specifically provided in the other provisions of this section and in section 670b of this title , authorizes the Secretary of a military department to require a Federal license or permit to hunt, fish, or trap on a military installation.
-- **(b)** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—
+- **(b)** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—
   - **(1)** shall, to the extent appropriate and applicable, provide for—
     - **(A)** fish and wildlife management, land management, forest management, and fish- and wildlife-oriented recreation;
     - **(B)** fish and wildlife habitat enhancement or modifications;
@@ -45,10 +44,10 @@ generated_at: "2026-03-29T02:11:53.638Z"
   - **(3)** may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
     - **(A)** the Commanding Officer of the installation or persons designated by that Officer are authorized to enforce such special hunting and fishing permits and to collect, spend, administer, and account for fees for the permits, acting as agent or agents for the State if the integrated natural resources management plan so provides, and
     - **(B)** the fees collected under this paragraph may not be expended with respect to other than the military installation on which collected, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes.
-- **(c)** After an integrated natural resources management plan is agreed to under subsection (a)—
+- **(c)** After an integrated natural resources management plan is agreed to under subsection (a) of this section—
   - **(1)** no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
   - **(2)** no leasing of land that is within the installation may be made under section 2667 of such title 10;
-- **(d)** With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a)—
+- **(d)** With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a) of this section—
   - **(1)** neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
   - **(2)** priority shall be given to the entering into of contracts for the procurement of such implementation and enforcement services with Federal and State agencies having responsibility for the conservation or management of fish or wildlife.
 - **(e)** Integrated natural resources management plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
@@ -62,7 +61,7 @@ generated_at: "2026-03-29T02:11:53.638Z"
     - **(A)** the Committee on Resources and the Committee on Armed Services of the House of Representatives; and
     - **(B)** the Committee on Armed Services and the Committee on Environment and Public Works of the Senate.
 - **(g)**
-  - **(1)** The Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations the management, control, and eradication of invasive species—
+  - **(1)** During fiscal years 2009 through 2014, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
     - **(A)** that are not native to the ecosystem of the military installation; and
     - **(B)** the introduction of which cause or may cause harm to military readiness, the environment, or human health and safety.
   - **(2)** The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.

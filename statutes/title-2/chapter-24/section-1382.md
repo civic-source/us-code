@@ -3,9 +3,9 @@ title: "Section 1382 - Officers, staff, and other personnel"
 usc_title: 2
 usc_section: "1382"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1382"
-generated_at: "2026-03-29T02:09:53.720Z"
+generated_at: "2026-03-29T17:50:24.075Z"
 ---
 
 # § 1382. Officers, staff, and other personnel
@@ -17,7 +17,9 @@ generated_at: "2026-03-29T02:09:53.720Z"
     - **(C)** The disqualifications in section 1381(d)(2) of this title shall apply to the appointment of the Executive Director.
   - **(2)**
     - **(A)** The Chair may fix the compensation of the Executive Director.
-    - **(B)** The rate of pay for the Executive Director may not exceed the maximum rate of pay in effect under section 4575(f) of this title .
+    - **(B)** The rate of pay for the Executive Director may not exceed the lesser of—
+      - **(i)** the highest annual rate of compensation of any officer of the Senate; or
+      - **(ii)** the highest annual rate of compensation of any officer of the House of Representatives.
   - **(3)** The term of office of the Executive Director shall be not more than 2 terms of 5 years, except that the first Executive Director shall have a single term of 7 years.
   - **(4)** The Executive Director shall serve as the chief operating officer of the Office. Except as otherwise specified in this chapter, the Executive Director shall carry out all of the responsibilities of the Office under this chapter.
 - **(b)**
@@ -49,33 +51,6 @@ generated_at: "2026-03-29T02:09:53.720Z"
       - **(iv)** malfeasance, including a felony or conduct involving moral turpitude, or
       - **(v)** holding an office or employment or engaging in an activity that disqualifies the individual from service as the General Counsel under paragraph (1).
     - **(B)** In removing the General Counsel, the Speaker of the House of Representatives and the President pro tempore of the Senate shall state in writing to the General Counsel the specific reasons for the removal.
-- **(d)**
-  - **(1)** The Executive Director shall—
-    - **(A)** appoint, and fix the compensation of, and may remove, 1 or more confidential advisors to carry out the duties described in this subsection; or
-    - **(B)** designate 1 or more employees of the Office to serve as a confidential advisor.
-  - **(2)**
-    - **(A)** A confidential advisor appointed or designated under paragraph (1) shall offer to provide to covered employees described in paragraph (4) the services described in subparagraph (B), which a covered employee may accept or decline.
-    - **(B)** The services referred to in subparagraph (A) are—
-      - **(i)** informing, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II about the employee’s rights under this chapter;
-      - **(ii)** consulting, on a privileged and confidential basis, with a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding—
-        - **(I)** the roles, responsibilities, and authority of the Office; and
-        - **(II)** the relative merits of securing private counsel, designating a non-attorney representative, or proceeding without representation for proceedings before the Office;
-      - **(iii)** advising and consulting with, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
-      - **(iv)** assisting, on a privileged and confidential basis, a covered employee who seeks consideration under title IV of an allegation of a violation of part A of subchapter II in understanding the procedures, and the significance of the procedures, described in subchapter IV, including—
-        - **(I)** assisting or consulting with the covered employee regarding the drafting of a claim to be filed under section 1402(a) of this title ; and
-        - **(II)** consulting with the covered employee regarding the procedural options available to the covered employee after a claim is filed, and the relative merits of each option; and
-      - **(v)** informing, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II about the option of pursuing, in appropriate circumstances, a complaint with the Committee on Ethics of the House of Representatives or the Select Committee on Ethics of the Senate.
-    - **(C)** Once a covered employee has accepted and received any services offered under this section from a confidential advisor appointed or designated under paragraph (1), any other services requested under this subsection by the covered employee shall be provided, to the extent practicable, by the same confidential advisor.
-  - **(3)** A confidential advisor appointed or designated under paragraph (1) shall be a lawyer who—
-    - **(A)** is admitted to practice before, and is in good standing with, the bar of a State of the United States, the District of Columbia, or a territory of the United States; and
-    - **(B)** has experience representing clients in cases involving the workplace laws incorporated by part A of subchapter II.
-  - **(4)** The services described in paragraph (2) are available to any covered employee (which, for purposes of this subsection, shall include any staff member described in section 1311(d) of this title and any former covered employee (including any such former staff member)), except that—
-    - **(A)** a former covered employee may only request such services if the practice that may be a violation of part A of subchapter II occurred during the employment or service of the employee; and
-    - **(B)** a covered employee described in this paragraph may only request such services before the expiration of the 180-day period described in section 1402(d) of this title .
-  - **(5)** A confidential advisor appointed or designated under paragraph (1)—
-    - **(A)** shall not act as the designated representative for any covered employee in connection with the covered employee’s participation in any proceeding, including any proceeding under this chapter, any judicial proceeding, or any proceeding before any committee of Congress;
-    - **(B)** shall not offer or provide services described in paragraph (2)(B) to a covered employee if the covered employee has designated an attorney representative in connection with the covered employee’s participation in any proceeding under this chapter, except that a confidential advisor may provide general assistance and information to such attorney representative regarding this chapter and the role of the Office as the confidential advisor determines appropriate; and
-    - **(C)** shall not serve as a mediator in any mediation conducted pursuant to section 1403 of this title .
-- **(e)** The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
-- **(f)** The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the Government Accountability Office Personnel Appeals Board.
-- **(g)** In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
+- **(d)** The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
+- **(e)** The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the Government Accountability Office Personnel Appeals Board.
+- **(f)** In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.

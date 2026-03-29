@@ -3,9 +3,9 @@ title: "Section 7937 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "7937"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7937"
-generated_at: "2026-03-29T02:10:17.177Z"
+generated_at: "2026-03-29T17:50:48.879Z"
 ---
 
 # § 7937. Special marketing loan provisions for upland cotton
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:10:17.177Z"
     - **(E)** Through July 31, 2006 , the Secretary shall make the calculation under subparagraph (B) without regard to the 1.25 cent threshold provided under that subparagraph.
   - **(2)** The quota shall be equal to one week’s consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the most recent three months for which data are available.
   - **(3)** The quota shall apply to upland cotton purchased not later than 90 days after the date of the Secretary’s announcement under paragraph (1) and entered into the United States not later than 180 days after the date.
-  - **(4)** A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c).
+  - **(4)** A special quota period may be established that overlaps any existing quota period if required by paragraph (1), except that a special quota period may not be established under this subsection if a quota period has been established under subsection (c) of this section.
   - **(5)** The quantity under a special import quota shall be considered to be an in-quota quantity for purposes of—
     - **(A)** section 2703(d) of title 19 ;
     - **(B)** section 3203 of title 19 ;
@@ -47,4 +47,4 @@ generated_at: "2026-03-29T02:10:17.177Z"
         - **(II)** the larger of—
       - **(iii)** The term “limited global import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
     - **(E)** When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
-  - **(2)** Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
+  - **(2)** Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.

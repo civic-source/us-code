@@ -3,9 +3,9 @@ title: "Section 6305 - Referenda"
 usc_title: 7
 usc_section: "6305"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6305"
-generated_at: "2026-03-29T02:10:17.072Z"
+generated_at: "2026-03-29T17:50:48.814Z"
 ---
 
 # § 6305. Referenda
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T02:10:17.072Z"
     - **(D)** As soon as practicable following the submission of requests for a reconsideration referendum, the Secretary shall determine whether a sufficient number of producers have requested an additional referendum, and take other steps to conduct an additional referendum, as are required under paragraph (1).
     - **(E)** Any additional referendum requested under the procedures provided in this paragraph shall be conducted not later than 1 year after the Secretary determines that a representative group of producers, as described in paragraph (1)(B), have requested the conduct of such referendum.
 - **(c)**
-  - **(1)** The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b).
+  - **(1)** The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of any activity required under this section, except for the salaries of Government employees associated with the conduct of a referendum under subsections (a) and (b) of this section.
   - **(2)** Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure whereby producers intending to vote in the referendum shall certify that they were engaged in the production of soybeans during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
   - **(3)** Referenda shall be conducted at county extension offices and provision shall be made for absentee mail ballots to be provided on request. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.

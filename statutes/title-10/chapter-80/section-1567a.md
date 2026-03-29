@@ -3,21 +3,16 @@ title: "Section 1567a - Mandatory notification of issuance of military protectiv
 usc_title: 10
 usc_section: "1567a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1567a"
-generated_at: "2026-03-29T02:10:45.035Z"
+generated_at: "2026-03-29T17:50:57.055Z"
 ---
 
 # § 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement
 
-- **(a)** In the event a military protective order is issued against a member of the armed forces, the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify the appropriate civilian authorities of—
+- **(a)** In the event a military protective order is issued against a member of the armed forces and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify the appropriate civilian authorities of—
   - **(1)** the issuance of the protective order; and
   - **(2)** the individuals involved in the order.
-- **(b)** In the event that a member of the armed forces against whom a military protective order is issued is transferred to another unit—
-  - **(1)** not later than the date of the transfer, the commander of the unit from which the member is transferred shall notify the commander of the unit to which the member is transferred of—
-    - **(A)** the issuance of the protective order; and
-    - **(B)** the individuals involved in the order; and
-  - **(2)** not later than seven days after receiving the notice under paragraph (1), the commander of the unit to which the member is transferred shall provide notice of the order to the appropriate civilian authorities in accordance with subsection (a).
-- **(c)** The commander of the unit to which the member is assigned also shall notify the appropriate civilian authorities of—
+- **(b)** The commander of the military installation also shall notify the appropriate civilian authorities of—
   - **(1)** any change made in a protective order covered by subsection (a); and
   - **(2)** the termination of the protective order.

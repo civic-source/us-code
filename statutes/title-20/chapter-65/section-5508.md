@@ -3,9 +3,9 @@ title: "Section 5508 - Environmental Education Advisory Council and Task Force"
 usc_title: 20
 usc_section: "5508"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 5508"
-generated_at: "2026-03-29T02:12:17.419Z"
+generated_at: "2026-03-29T17:51:48.568Z"
 ---
 
 # § 5508. Environmental Education Advisory Council and Task Force
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:12:17.419Z"
     - **(A)** any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
     - **(B)** the terms of the members first taking office shall expire as follows: four shall expire 3 years after November 16, 1990 , four shall expire 2 years after November 16, 1990 , and three shall expire 1 year after November 16, 1990 , as designated by the Administrator at the time of appointment.
   - **(5)** Members of the Advisory Council appointed under this section shall, while attending meetings of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1 1 See References in Text note below. of title 5.
-  - **(6)** Section 1013(a) of title 5 , relating to termination, shall not apply to the Advisory Council.
+  - **(6)** Section 14(a) of the Federal Advisory Committee Act relating to termination, shall not apply to the Advisory Council.
 - **(c)**
   - **(1)** The Federal Task Force on Environmental Education shall advise, consult with and make recommendations to the Administrator on matters relating to implementation of this chapter and assure the coordination of such implementation activities with related activities of other Federal agencies.
   - **(2)** Membership of the Task Force shall include the—

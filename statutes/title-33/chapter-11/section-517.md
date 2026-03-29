@@ -3,12 +3,12 @@ title: "Section 517 - Payment of share of United States"
 usc_title: 33
 usc_section: "517"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 517"
-generated_at: "2026-03-29T02:14:18.493Z"
+generated_at: "2026-03-29T17:52:45.895Z"
 ---
 
 # § 517. Payment of share of United States
 
-Following service of the order requiring alteration of the bridge, the Secretary of the department in which the Coast Guard is operating may make partial payments as the work progresses to the extent that funds have been appropriated. The total payments out of Federal funds shall not exceed the proportionate share of the United States of the total cost of the project paid or incurred by the bridge owner, and, if such total cost exceeds the cost guaranteed by the bridge owner, shall not exceed the proportionate share of the United States of such guaranteed cost, except that if the cost of the work exceeds the guaranteed cost by reason of emergencies, conditions beyond the control of the owner, or unforeseen or undetermined conditions, the Secretary of the department in which the Coast Guard is operating may, after full review of all the circumstances, provide for additional payments by the United States to help defray such excess cost to the extent he deems to be reasonable and proper, and shall certify such additional payments to the Secretary of the Treasury for payment. All payments to any bridge owner herein provided for shall be made by the Secretary of the Treasury through the Fiscal Service upon certifications of the Secretary of the department in which the Coast Guard is operating.
+Following service of the order requiring alteration of the bridge, the Secretary of Transportation may make partial payments as the work progresses to the extent that funds have been appropriated. The total payments out of Federal funds shall not exceed the proportionate share of the United States of the total cost of the project paid or incurred by the bridge owner, and, if such total cost exceeds the cost guaranteed by the bridge owner, shall not exceed the proportionate share of the United States of such guaranteed cost, except that if the cost of the work exceeds the guaranteed cost by reason of emergencies, conditions beyond the control of the owner, or unforeseen or undetermined conditions, the Secretary of Transportation may, after full review of all the circumstances, provide for additional payments by the United States to help defray such excess cost to the extent he deems to be reasonable and proper, and shall certify such additional payments to the Secretary of the Treasury for payment. All payments to any bridge owner herein provided for shall be made by the Secretary of the Treasury through the Fiscal Service upon certifications of the Secretary of Transportation.
 

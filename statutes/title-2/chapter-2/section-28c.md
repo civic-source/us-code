@@ -1,18 +1,18 @@
 ---
-title: "Section 28c - Distribution of Precedents by Director of the Government Publishing Office"
+title: "Section 28c - Distribution of Precedents by Public Printer"
 usc_title: 2
 usc_section: "28c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 28c"
-generated_at: "2026-03-29T02:09:53.625Z"
+generated_at: "2026-03-29T17:50:23.979Z"
 ---
 
-# § 28c. Distribution of Precedents by Director of the Government Publishing Office
+# § 28c. Distribution of Precedents by Public Printer
 
-- **(a)** The Director of the Government Publishing Office shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
+- **(a)** The Public Printer shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
 - **(b)** Each Senator or Representative in, or Delegate or Resident Commissioner to, each Congress following the Ninety-fifth Congress who has not theretofore received a set of the Precedents shall be entitled to receive one set of the Precedents, upon transmitting a written request for such set to the Superintendent of Documents.
-- **(c)** The Director of the Government Publishing Office shall make the following distribution of sets of the Precedents:
+- **(c)** The Public Printer shall make the following distribution of sets of the Precedents:
   - **(1)** to the office of the Vice President, to the office of the speaker of the House of Representatives, and to the office of the President pro tempore of the Senate, each, five sets;
   - **(2)** to the office of the majority leader of the House of Representatives and to the office of the minority leader of the House of Representatives, each, three sets;
   - **(3)** to the Parliamentarian of the House of Representatives, sixty sets;

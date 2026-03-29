@@ -3,12 +3,12 @@ title: "Section 4 - Vacancies in electoral college"
 usc_title: 3
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "3 U.S.C. § 4"
-generated_at: "2026-03-29T02:09:54.800Z"
+generated_at: "2026-03-29T17:50:17.431Z"
 ---
 
 # § 4. Vacancies in electoral college
 
-Each State may, by law enacted prior to election day, provide for the filling of any vacancies which may occur in its college of electors when such college meets to give its electoral vote.
+Each State may, by law, provide for the filling of any vacancies which may occur in its college of electors when such college meets to give its electoral vote.
 

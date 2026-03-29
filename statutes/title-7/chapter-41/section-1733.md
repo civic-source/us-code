@@ -3,17 +3,17 @@ title: "Section 1733 - General provisions"
 usc_title: 7
 usc_section: "1733"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1733"
-generated_at: "2026-03-29T02:10:16.850Z"
+generated_at: "2026-03-29T17:50:48.636Z"
 ---
 
 # § 1733. General provisions
 
-- **(a)** No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
-  - **(1)** in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
-  - **(2)** the distribution of the agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
-- **(b)** The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities, the use of food procured outside of the United States, food vouchers, and cash transfers for food, and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy within the recipient country.
+- **(a)** No agricultural commodity shall be made available under this chapter unless it is determined that—
+  - **(1)** adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
+  - **(2)** the distribution of the commodity in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
+- **(b)** The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.
 - **(c)** The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments designed to prevent or restrict the resale or transshipment to other countries, or use for other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
 - **(d)** Private trade channels shall be used under this chapter to the maximum extent practicable in the United States and in the recipient countries with respect to—
   - **(1)** sales from privately owned stocks;
@@ -43,8 +43,19 @@ generated_at: "2026-03-29T02:10:16.850Z"
   - **(2)** Paragraph (1) shall not prohibit the provision of assistance to such a country if the assistance is targeted to the most needy people in such country and is made available in such country through channels other than the government.
 - **(k)** Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 - **(l)**
-  - **(1)** Subsections (b) and (h) shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
-    - **(A)** subchapters II and III;
+  - **(1)** Subsections (b) and (h) of this section shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
+    - **(A)** subchapters II and III of this chapter;
     - **(B)** section 1431(b) of this title ; and
     - **(C)** the Food for Progress Act of 1985 ( 7 U.S.C. 1736 o ).
   - **(2)** A sale described in paragraph (1) may be made in United States dollars or other currencies.
+- **(m)**
+  - **(1)** Not later than 180 days after February 7, 2014 , and annually thereafter, the Administrator shall submit to Congress a report that—
+    - **(A)** specifies the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage, and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter in the previous fiscal year;
+    - **(B)** describes how those funds were used by the eligible organization;
+    - **(C)** describes the actual rate of return for each commodity made available under this chapter, including—
+      - **(i)** factors that influenced the rate of return; and
+      - **(ii)** for the commodity, the costs of bagging or further processing, ocean transportation, inland transportation in the recipient country, storage costs, and any other information that the Administrator determines to be necessary; and
+    - **(D)** for each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, describes the reasons for the rate of return realized.
+  - **(2)** For purposes of applying paragraph (1)(C), the rate of return for a commodity shall be equal to the proportion that—
+    - **(A)** the proceeds the implementing partners generate through monetization; bears to
+    - **(B)** the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.

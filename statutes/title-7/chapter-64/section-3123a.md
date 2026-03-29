@@ -3,9 +3,9 @@ title: "Section 3123a - Specialty crop committee"
 usc_title: 7
 usc_section: "3123a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3123a"
-generated_at: "2026-03-29T02:10:16.983Z"
+generated_at: "2026-03-29T17:50:48.747Z"
 ---
 
 # § 3123a. Specialty crop committee
@@ -13,19 +13,19 @@ generated_at: "2026-03-29T02:10:16.983Z"
 - **(a)**
   - **(1)** Not later than 90 days after December 21, 2004 , the executive committee of the Advisory Board shall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
   - **(2)**
-    - **(A)** Not later than 45 days after February 7, 2014 , the Secretary shall establish within the specialty crops committee, and appoint the initial members of, a citrus disease subcommittee to carry out the responsibilities of the subcommittee described in subsection (g) in accordance with subsection (j)(3) of section 7632 of this title .
-    - **(B)** The citrus disease subcommittee shall be composed of 11 members, each of whom is a domestic producer of citrus in a State, represented as follows:
-      - **(i)** Five of such members shall represent Arizona or California.
+    - **(A)** Not later than 45 days after February 7, 2014 , the Secretary shall establish within the speciality crops committee, and appoint the initial members of, a citrus disease subcommittee to carry out the responsibilities of the subcommittee described in subsection (g) in accordance with subsection (j)(3) of section 7632 of this title .
+    - **(B)** The citrus disease subcommittee shall be composed of 9 members, each of whom is a domestic producer of citrus in a State, represented as follows:
+      - **(i)** Three of such members shall represent Arizona or California.
       - **(ii)** Five of such members shall represent Florida.
       - **(iii)** One of such members shall represent Texas.
     - **(C)** The Secretary may appoint individuals who are not members of the specialty crops committee or the Advisory Board established under section 3123 of this title as members of the citrus disease subcommittee 1 1 So in original. Probably should be followed by a period.
-    - **(D)** The subcommittee established under subparagraph (A) shall terminate on September 30, 2023 .
-    - **(E)** The subcommittee established under subparagraph (A) shall be covered by the exemption to section 1008(c) of title 5 applicable to the Advisory Board under section 3123(f) of this title .
+    - **(D)** The subcommittee established under subparagraph (A) shall terminate on September 30, 2018 .
+    - **(E)** The subcommittee established under subparagraph (A) shall be covered by the exemption to section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.) applicable to the Advisory Board under section 3123(f) of this title .
 - **(b)**
   - **(1)** Individuals who are not members of the Advisory Board may be appointed as members of the specialty crops committee.
   - **(2)** Members of the specialty crops committee shall serve at the discretion of the executive committee.
   - **(3)** Membership of the specialty crops committee shall reflect diversity in the specialty crops represented.
-- **(c)** Not later than 180 days after the establishment of the specialty crops committee, and annually thereafter, the specialty crops committee shall submit to the Advisory Board a report containing the findings of its study under subsection (a). The specialty crops committee shall include in each report recommendations regarding the following:
+- **(c)** Not later than 180 days after the establishment of the specialty crops committee, and annually thereafter, the specialty crops committee shall submit to the Advisory Board a report containing the findings of its study under subsection (a) of this section. The specialty crops committee shall include in each report recommendations regarding the following:
   - **(1)** Programs designed to improve the efficiency, productivity, and profitability of specialty crop production in the United States.
   - **(2)** Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would—
     - **(A)** enhance the quality and shelf-life of fresh fruits and vegetables, including their taste and appearance;
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T02:10:16.983Z"
   - **(5)** Analysis of the alignment of specialty crops committee recommendations with grants awarded through the specialty crop research initiative established under section 7632 of this title .
 - **(d)** In studying the scope and effectiveness of programs under subsection (a), the specialty crops committee shall consult on an ongoing basis with diverse sectors of the specialty crop industry.
 - **(e)** In preparing the annual budget recommendations for the Department of Agriculture, the Secretary shall take into consideration those findings and recommendations contained in the most-recent report of the specialty crops committee that are adopted by the Advisory Board.
-- **(f)** In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to section 1105 of title 31 for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (e).
+- **(f)** In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to section 1105 of title 31 for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (e) of this section.
 - **(g)** For the purposes of subsection (j) of section 7632 of this title , the citrus disease subcommittee shall—
   - **(1)** advise the Secretary on citrus research, extension, and development needs;
   - **(2)** propose, by a favorable vote of two-thirds of the members of the subcommittee, a research and extension agenda and annual budgets for the funds made available to carry out such subsection;

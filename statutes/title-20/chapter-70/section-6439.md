@@ -1,14 +1,16 @@
 ---
-title: "Section 6439 - Technical assistance"
+title: "Section 6439 - Evaluation; technical assistance; annual model program"
 usc_title: 20
 usc_section: "6439"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6439"
-generated_at: "2026-03-29T02:12:17.451Z"
+generated_at: "2026-03-29T17:51:48.604Z"
 ---
 
-# § 6439. Technical assistance
+# § 6439. Evaluation; technical assistance; annual model program
 
-The Secretary may reserve not more than 2.5 percent of the amount made available to carry out this subpart for a fiscal year to provide technical assistance to and support the capacity building of State agency programs assisted under this subpart.
+The Secretary may reserve not more than 2.5 percent of the amount made available to carry out this subpart for a fiscal year—
 
+  - **(1)** to develop a uniform model to evaluate the effectiveness of programs assisted under this subpart; and
+  - **(2)** to provide technical assistance to and support the capacity building of State agency programs assisted under this subpart.

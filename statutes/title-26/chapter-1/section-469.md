@@ -3,9 +3,9 @@ title: "Section 469 - Passive activity losses and credits limited"
 usc_title: 26
 usc_section: "469"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 469"
-generated_at: "2026-03-29T02:14:00.988Z"
+generated_at: "2026-03-29T17:52:39.257Z"
 ---
 
 # § 469. Passive activity losses and credits limited
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T02:14:00.988Z"
   - **(2)** Except as provided in paragraph (7), the term “passive activity” includes any rental activity.
   - **(3)**
     - **(A)** The term “passive activity” shall not include any working interest in any oil or gas property which the taxpayer holds directly or through an entity which does not limit the liability of the taxpayer with respect to such interest.
-    - **(B)** If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
+    - **(B)** If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
   - **(4)** Paragraphs (2) and (3) shall be applied without regard to whether or not the taxpayer materially participates in the activity.
   - **(5)** For purposes of paragraph (1)(A), the term “trade or business” includes any activity involving research or experimentation (within the meaning of section 174).
   - **(6)** To the extent provided in regulations, for purposes of paragraph (1)(A), the term “trade or business” includes—
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T02:14:00.988Z"
   - **(2)** The term “passive activity credit” means the amount (if any) by which—
     - **(A)** the sum of the credits from all passive activities allowable for the taxable year under—
       - **(i)** subpart D of part IV of subchapter A, or
-      - **(ii)** subpart B (other than section 27) of such part IV, exceeds
+      - **(ii)** subpart B (other than section 27(a)) of such part IV, exceeds
     - **(B)** the regular tax liability of the taxpayer for the taxable year allocable to all passive activities.
 - **(e)** For purposes of this section—
   - **(1)** In determining the income or loss from any activity—
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T02:14:00.988Z"
       - **(i)** any income or loss from a passive activity, and
       - **(ii)** any item of gross income, expense, gain, or loss described in paragraph (1)(A).
   - **(3)** Earned income (within the meaning of section 911(d)(2)(A)) shall not be taken into account in computing the income or loss from a passive activity for any taxable year.
-  - **(4)** For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243 or 245.
+  - **(4)** For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243, 244, or 245.
 - **(f)** For purposes of this section—
   - **(1)** If an activity is a former passive activity for any taxable year—
     - **(A)** any unused deduction allocable to such activity under subsection (b) shall be offset against the income from such activity for the taxable year,
@@ -111,16 +111,18 @@ generated_at: "2026-03-29T02:14:00.988Z"
   - **(3)**
     - **(A)** In the case of any taxpayer, the $25,000 amount under paragraph (2) shall be reduced (but not below zero) by 50 percent of the amount by which the adjusted gross income of the taxpayer for the taxable year exceeds $100,000.
     - **(B)** In the case of any portion of the passive activity credit for any taxable year which is attributable to the rehabilitation credit determined under section 47, subparagraph (A) shall be applied by substituting “$200,000” for “$100,000”.
-    - **(C)** Subparagraph (A) shall not apply to any portion of the passive activity credit for any taxable year which is attributable to any credit determined under section 42.
-    - **(D)** Paragraph (1) shall be applied for any taxable year—
-      - **(i)** first, to the passive activity loss,
-      - **(ii)** second, to the portion of the passive activity credit to which subparagraph (B) and 1 1 So in original. Probably should be “or”. (C) does not apply,
-      - **(iii)** third, to the portion of such credit to which subparagraph (B) applies, and
-      - **(iv)** then, to the portion of such credit to which subparagraph (C) applies.
-    - **(E)** For purposes of this paragraph, adjusted gross income shall be determined without regard to—
+    - **(C)** Subparagraph (A) shall not apply to any portion of the passive activity loss for any taxable year which is attributable to the commercial revitalization deduction under section 1400I.
+    - **(D)** Subparagraph (A) shall not apply to any portion of the passive activity credit for any taxable year which is attributable to any credit determined under section 42.
+    - **(E)** If subparagraph (B), (C), or (D) applies for a taxable year, paragraph (1) shall be applied—
+      - **(i)** first to the portion of the passive activity loss to which subparagraph (C) does not apply,
+      - **(ii)** second to the portion of such loss to which subparagraph (C) applies,
+      - **(iii)** third to the portion of the passive activity credit to which subparagraph (B) or (D) does not apply,
+      - **(iv)** fourth to the portion of such credit to which subparagraph (B) applies, and
+      - **(v)** then to the portion of such credit to which subparagraph (D) applies.
+    - **(F)** For purposes of this paragraph, adjusted gross income shall be determined without regard to—
       - **(i)** any amount includible in gross income under section 86,
-      - **(ii)** the amounts excludable from gross income under sections 85(c), 135, and 137,
-      - **(iii)** the amounts allowable as a deduction under sections 219, 221, and 250, and
+      - **(ii)** the amounts excludable from gross income under sections 135 and 137,
+      - **(iii)** the amounts allowable as a deduction under sections 199, 219, 221, and 222, and
       - **(iv)** any passive activity loss or any loss allowable by reason of subsection (c)(7).
   - **(4)**
     - **(A)** In the case of taxable years of an estate ending less than 2 years after the date of the death of the decedent, this subsection shall apply to all rental real estate activities with respect to which such decedent actively participated before his death.
@@ -136,8 +138,9 @@ generated_at: "2026-03-29T02:14:00.988Z"
   - **(6)**
     - **(A)** An individual shall not be treated as actively participating with respect to any interest in any rental real estate activity for any period if, at any time during such period, such interest (including any interest of the spouse of the individual) is less than 10 percent (by value) of all interests in such activity.
     - **(B)** Paragraphs (1) and (4)(A) shall be applied without regard to the active participation requirement in the case of—
-      - **(i)** any credit determined under section 42 for any taxable year, or
-      - **(ii)** any rehabilitation credit determined under section 47, 2 2 So in original. The comma probably should be a period.
+      - **(i)** any credit determined under section 42 for any taxable year,
+      - **(ii)** any rehabilitation credit determined under section 47, or
+      - **(iii)** any deduction under section 1400I (relating to commercial revitalization deduction).
     - **(C)** Except as provided in regulations, no interest as a limited partner in a limited partnership shall be treated as an interest with respect to which the taxpayer actively participates.
     - **(D)** In determining whether a taxpayer actively participates, the participation of the spouse of the taxpayer shall be taken into account.
 - **(j)** For purposes of this section—
@@ -172,3 +175,16 @@ generated_at: "2026-03-29T02:14:00.988Z"
   - **(3)** requiring net income or gain from a limited partnership or other passive activity to be treated as not from a passive activity,
   - **(4)** which provide for the determination of the allocation of interest expense for purposes of this section, and
   - **(5)** which deal with changes in marital status and changes between joint returns and separate returns.
+- **(m)**
+  - **(1)** In the case of any passive activity loss or passive activity credit for any taxable year beginning in calendar years 1987 through 1990, subsection (a) shall not apply to the applicable percentage of that portion of such loss (or such credit) which is attributable to pre-enactment interests.
+  - **(2)** For purposes of this subsection, the applicable percentage shall be determined in accordance with the following table: In the case of taxable years beginning in: The applicable percentage is: 1987 65 1988 40 1989 20 1990 10.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
+      - **(i)** the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
+      - **(ii)** the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
+    - **(B)**
+      - **(i)** The term “pre-enactment interest” means any interest in a passive activity held by a taxpayer on the date of the enactment of the Tax Reform Act of 1986, and at all times thereafter.
+      - **(ii)** For purposes of clause (i), any interest acquired after such date of enactment pursuant to a written binding contract in effect on such date, and at all times thereafter, shall be treated as held on such date.
+      - **(iii)** The term “pre-enactment interest” shall not include an interest in a passive activity unless such activity was being conducted on such date of enactment. The preceding sentence shall not apply to an activity commencing after such date if—
+        - **(I)** the property used in such activity is acquired pursuant to a written binding contract in effect on August 16, 1986 , and at all times thereafter, or
+        - **(II)** construction of property used in such activity began on or before August 16, 1986 .

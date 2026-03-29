@@ -3,14 +3,14 @@ title: "Section 207 - Conditions of lease"
 usc_title: 30
 usc_section: "207"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 207"
-generated_at: "2026-03-29T02:14:11.201Z"
+generated_at: "2026-03-29T17:52:16.709Z"
 ---
 
 # § 207. Conditions of lease
 
-- **(a)** A coal lease shall be for a term of twenty years and for so long thereafter as coal is produced annually in commercial quantities from that lease. Any lease which is not producing in commercial quantities at the end of ten years shall be terminated. The Secretary shall by regulation prescribe annual rentals on leases. A lease shall require payment of a royalty in such amount as the Secretary shall determine of not less than 12½ percent, except such amount shall be not more than 7 percent during the period that begins on July 4, 2025 , and ends September 30, 2034 , of the value of coal as defined by regulation, except the Secretary may determine a lesser amount in the case of coal recovered by underground mining operations. The lease shall include such other terms and conditions as the Secretary shall determine. Such rentals and royalties and other terms and conditions of the lease will be subject to readjustment at the end of its primary term of twenty years and at the end of each ten-year period thereafter if the lease is extended.
+- **(a)** A coal lease shall be for a term of twenty years and for so long thereafter as coal is produced annually in commercial quantities from that lease. Any lease which is not producing in commercial quantities at the end of ten years shall be terminated. The Secretary shall by regulation prescribe annual rentals on leases. A lease shall require payment of a royalty in such amount as the Secretary shall determine of not less than 12½ per centum of the value of coal as defined by regulation, except the Secretary may determine a lesser amount in the case of coal recovered by underground mining operations. The lease shall include such other terms and conditions as the Secretary shall determine. Such rentals and royalties and other terms and conditions of the lease will be subject to readjustment at the end of its primary term of twenty years and at the end of each ten-year period thereafter if the lease is extended.
 - **(b)**
   - **(1)** Each lease shall be subject to the conditions of diligent development and continued operation of the mine or mines, except where operations under the lease are interrupted by strikes, the elements, or casualties not attributable to the lessee.
   - **(2)** The Secretary of the Interior, upon determining that the public interest will be served thereby, may suspend the condition of continued operation upon the payment of advance royalties.
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T02:14:11.201Z"
   - **(5)** The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed 20 years.
   - **(6)** 1 1 So in original. Two pars. (6) have been enacted. The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under a lease described in paragraph (5) to the extent that the advance royalties have not been used to reduce production royalties for a prior year.
   - **(6)** 1 The Secretary may, upon six months’ notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
-  - **(7)** Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) relating to commencement of production at the end of ten years.
+  - **(7)** Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) of this section relating to commencement of production at the end of ten years.
 - **(c)** Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary’s approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.

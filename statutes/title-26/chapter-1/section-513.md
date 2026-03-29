@@ -3,9 +3,9 @@ title: "Section 513 - Unrelated trade or business"
 usc_title: 26
 usc_section: "513"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 513"
-generated_at: "2026-03-29T02:14:01.003Z"
+generated_at: "2026-03-29T17:52:39.268Z"
 ---
 
 # § 513. Unrelated trade or business
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T02:14:01.003Z"
     - **(B)** If more than 1 item is distributed by or on behalf of an organization to a single distributee in any calendar year, the aggregate of the items so distributed in such calendar year to such distributee shall be treated as 1 article for purposes of subparagraph (A).
     - **(C)** In the case of any taxable year beginning in a calendar year after 1987, the $5 amount in subparagraph (A) shall be increased by an amount equal to—
       - **(i)** $5, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1987” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1987” for “calendar year 1992” in subparagraph (B) thereof.
   - **(3)** For purposes of this subsection, any distribution of low cost articles by an organization shall be treated as a distribution incidental to the solicitation of charitable contributions only if—
     - **(A)** such distribution is not made at the request of the distributee,
     - **(B)** such distribution is made without the express consent of the distributee, and

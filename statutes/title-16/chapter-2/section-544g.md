@@ -3,9 +3,9 @@ title: "Section 544g - Land acquisition"
 usc_title: 16
 usc_section: "544g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 544g"
-generated_at: "2026-03-29T02:11:53.596Z"
+generated_at: "2026-03-29T17:51:56.711Z"
 ---
 
 # § 544g. Land acquisition
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T02:11:53.596Z"
   - **(2)** Notwithstanding any other provision of law—
     - **(A)** any exchange described in paragraph (1) for which an agreement to initiate has been executed as of September 30, 2000 , shall continue; and
     - **(B)** any timber stumpage proceeds collected under the exchange shall be retained by the Forest Service to complete the exchange.
-- **(g)** For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965 .
+- **(g)** For the purposes of section 460 l –9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965 .

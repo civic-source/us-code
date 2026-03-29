@@ -1,12 +1,18 @@
 ---
-title: "Section 1701 - Omitted"
+title: "Section 1701 - Congressional findings and declaration of policy"
 usc_title: 25
 usc_section: "1701"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1701"
-generated_at: "2026-03-29T02:13:20.912Z"
+generated_at: "2026-03-29T17:52:06.081Z"
 ---
 
-# § 1701. Omitted
+# § 1701. Congressional findings and declaration of policy
 
+Congress finds and declares that—
+
+- **(a)** there are pending before the United States District Court for the District of Rhode Island two consolidated actions that involve Indian claims to certain public and private lands within the town of Charlestown, Rhode Island;
+- **(b)** the pendency of these lawsuits has resulted in severe economic hardships for the residents of the town of Charlestown by clouding the titles to much of the land in the town, including lands not involved in the lawsuits;
+- **(c)** the Congress shares with the State of Rhode Island and the parties to the lawsuits a desire to remove all clouds on titles resulting from such Indian land claims within the State of Rhode Island; and
+- **(d)** the parties to the lawsuits and others interested in the settlement of Indian land claims within the State of Rhode Island have executed a Settlement Agreement which requires implementing legislation by the Congress of the United States and the legislature of the State of Rhode Island.

@@ -1,21 +1,14 @@
 ---
-title: "Section 81a - Transfer of land to Anza-Borrego Desert State Park"
+title: "Section 81a - Location and boundaries"
 usc_title: 16
 usc_section: "81a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 81a"
-generated_at: "2026-03-29T02:11:53.410Z"
+generated_at: "2026-03-29T17:51:56.454Z"
 ---
 
-# § 410aaa–81a. Transfer of land to Anza-Borrego Desert State Park
+# § 81a. Location and boundaries
 
-- **(a)** On termination of all mining claims to the land described in subsection (b), the Secretary shall transfer the land described in that subsection to the State of California.
-- **(b)** The land referred to in subsection (a) is certain Bureau of Land Management land in San Diego County, California, comprising approximately 934 acres, as generally depicted on the map entitled “Proposed Table Mountain Wilderness Study Area Transfer to the State” and dated November 7, 2018 .
-- **(c)**
-  - **(1)** The land transferred under subsection (a) shall be managed in accordance with the provisions of the California Wilderness Act (California Public Resources Code sections 5093.30–5093.40).
-  - **(2)** Subject to valid existing rights, the land transferred under subsection (a) is withdrawn from—
-    - **(A)** all forms of entry, appropriation, or disposal under the public land laws;
-    - **(B)** location, entry, and patent under the mining laws; and
-    - **(C)** disposition under all laws relating to mineral and geothermal leasing.
-  - **(3)** If the State ceases to manage the land transferred under subsection (a) as part of the State Park System or in a manner inconsistent with the California Wilderness Act (California Public Resources Code sections 5093.30–5093.40), the land shall revert to the Secretary at the discretion of the Secretary, to be managed as a Wilderness Study Area.
+The Secretary of the Interior is authorized and directed to make an examination of Jamestown Island, parts of the city of Williamsburg, and the Yorktown battlefield, all in the State of Virginia, and areas for highways to connect said island, city, and battlefield with a view to determining the area or areas thereof desirable for inclusion in the said Colonial National Historical Park, not to exceed two thousand five hundred acres of the said battlefield or five hundred feet in width as to such connecting areas, and upon completion thereof he shall make appropriate recommendations to the President, who shall establish the boundaries of said national park by proclamation: Provided , That the boundaries so established may be enlarged or diminished by subsequent proclamation or proclamations of the President upon the recommendations of the Secretary of the Interior, any such enlargement only to include lands donated to the United States or purchased by the United States without resort to condemnation.
+

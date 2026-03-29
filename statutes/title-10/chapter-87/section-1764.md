@@ -3,9 +3,9 @@ title: "Section 1764 - Authority to establish different minimum requirements"
 usc_title: 10
 usc_section: "1764"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1764"
-generated_at: "2026-03-29T02:10:45.047Z"
+generated_at: "2026-03-29T17:50:57.062Z"
 ---
 
 # § 1764. Authority to establish different minimum requirements
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:10:45.047Z"
   - **(2)** Any requirement prescribed under paragraph (1) for a position referred to in any paragraph of subsection (b) shall be applied uniformly to all positions referred to in such paragraph.
 - **(b)** This section applies to the following acquisition positions in the Department of Defense:
   - **(1)** Contracting officer, except a position referred to in paragraph (6).
-  - **(2)** Portfolio acquisition executive.
+  - **(2)** Program executive officer.
   - **(3)** Senior contracting official.
   - **(4)** Program manager.
   - **(5)** Deputy program manager.

@@ -1,27 +1,37 @@
 ---
-title: "Section 7251 - Authorization of appropriations; reservations"
+title: "Section 7251 - Inexpensive book distribution program for reading motivation"
 usc_title: 20
 usc_section: "7251"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7251"
-generated_at: "2026-03-29T02:12:17.475Z"
+generated_at: "2026-03-29T17:51:48.646Z"
 ---
 
-# § 7251. Authorization of appropriations; reservations
+# § 7251. Inexpensive book distribution program for reading motivation
 
-- **(a)** There are authorized to be appropriated to carry out this part—
-  - **(1)** $200,741,000 for each of fiscal years 2017 and 2018; and
-  - **(2)** $220,741,000 for each of fiscal years 2019 and 2020.
-- **(b)** From the amounts appropriated under subsection (a) for a fiscal year, the Secretary shall—
-  - **(1)** reserve $5,000,000 to carry out activities authorized under subpart 3; and
-  - **(2)** from the amounts remaining after the reservation under paragraph (1)—
-    - **(A)** carry out activities authorized under subpart 1 using—
-      - **(i)** 36 percent of such remainder for each of fiscal years 2017 and 2018; and
-      - **(ii)** 42 percent of such remainder for each of fiscal years 2019 and 2020;
-    - **(B)** carry out activities authorized under subpart 2 using—
-      - **(i)** 36 percent of such remainder for each of fiscal years 2017 and 2018; and
-      - **(ii)** 32 percent of such remainder for each of fiscal years 2019 and 2020; and
-    - **(C)** to carry out activities authorized under subpart 4— 1 1 So in original. Probably should be “(C) carry out activities authorized under subpart 4 using—”.
-      - **(i)** 28 percent of such remainder for each of fiscal years 2017 and 2018; and
-      - **(ii)** 26 percent of such remainder for each of fiscal years 2019 and 2020.
+- **(a)** The purpose of this subpart is to establish and implement a model partnership between a governmental entity and a private entity, to help prepare young children for reading and to motivate older children to read, through the distribution of inexpensive books. Local reading motivation programs assisted under this section shall use such assistance to provide books, training for volunteers, motivational activities, and other essential literacy resources and shall assign the highest priority to serving the youngest and neediest children in the United States.
+- **(b)** The Secretary is authorized to enter into a contract with Reading Is Fundamental (RIF) (hereafter in this section referred to as the “contractor”) to support and promote programs, which include the distribution of inexpensive books to young and school-age children, that motivate children to read.
+- **(c)** Any contract entered into under subsection (b) of this section shall contain each of the following:
+  - **(1)** A provision that the contractor will enter into subcontracts with local private nonprofit groups or organizations, or with public agencies, under which each subcontractor will agree to establish, operate, and provide the non-Federal share of the cost of reading motivation programs that include the distribution of books, by gift (to the extent feasible) or by loan, to children from birth through secondary school age, including children in family literacy programs.
+  - **(2)** A provision that funds made available to subcontractors will be used only to pay the Federal share of the cost of such programs.
+  - **(3)** A provision that, in selecting subcontractors for initial funding, the contractor will give priority to programs that will serve a substantial number or percentage of children with special needs, such as the following:
+    - **(A)** Low-income children, particularly in high-poverty areas.
+    - **(B)** Children at risk of school failure.
+    - **(C)** Children with disabilities.
+    - **(D)** Foster children.
+    - **(E)** Homeless children.
+    - **(F)** Migrant children. ildren 1 1 So in original. Probably should be “(G) Children”. without access to libraries.
+    - **(H)** Institutionalized or incarcerated children.
+    - **(I)** Children whose parents are institutionalized or incarcerated.
+  - **(4)** A provision that the contractor will provide such training and technical assistance to subcontractors as may be necessary to carry out the purpose of this subpart.
+  - **(5)** A provision that the contractor will annually report to the Secretary the number, and a description, of programs funded under paragraph (3).
+  - **(6)** Such other terms and conditions as the Secretary determines to be appropriate to ensure the effectiveness of such programs.
+- **(d)** The Secretary shall make no payment of the Federal share of the cost of acquiring and distributing books under any contract under this section unless the Secretary determines that the contractor or subcontractor, as the case may be, has made arrangements with book publishers or distributors to obtain books at discounts at least as favorable as discounts that are customarily given by such publisher or distributor for book purchases made under similar circumstances in the absence of Federal assistance.
+- **(e)**
+  - **(1)** Subcontractors operating programs under this section in low-income communities with a substantial number or percentage of children with special needs, as described in subsection (c)(3) of this section, may use funds from other Federal sources to pay the non-Federal share of the cost of the program, if those funds do not comprise more than 50 percent of the non-Federal share of the funds used for the cost of acquiring and distributing books.
+  - **(2)** Notwithstanding subsection (c) of this section, the contractor may waive, in whole or in part, the requirement in subsection (c)(1) of this section for a subcontractor, if the subcontractor demonstrates that it would otherwise not be able to participate in the program, and enters into an agreement with the contractor with respect to the amount of the non-Federal share to which the waiver will apply. In a case in which such a waiver is granted, the requirement in subsection (c)(2) of this section shall not apply.
+- **(f)** The contractor may enter into a multi-year subcontract under this section, if—
+  - **(1)** the contractor believes that such subcontract will provide the subcontractor with additional leverage in seeking local commitments; and
+  - **(2)** the subcontract does not undermine the finances of the national program.
+- **(g)** In this section, the term “Federal share” means, with respect to the cost to a subcontractor of purchasing books to be paid for under this section, 75 percent of such costs to the subcontractor, except that the Federal share for programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.

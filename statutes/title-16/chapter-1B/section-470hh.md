@@ -3,17 +3,17 @@ title: "Section 470hh - Confidentiality of information concerning nature and loc
 usc_title: 16
 usc_section: "470hh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 470hh"
-generated_at: "2026-03-29T02:11:53.565Z"
+generated_at: "2026-03-29T17:51:56.686Z"
 ---
 
 # § 470hh. Confidentiality of information concerning nature and location of archaeological resources
 
 - **(a)** Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or under any other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
-  - **(1)** further the purposes of this chapter or chapter 3125 of title 54, and
+  - **(1)** further the purposes of this chapter or the Act of June 27, 1960 ( 16 U.S.C. 469–469c ) [ 16 U.S.C. 469–469c –1], and
   - **(2)** not create a risk of harm to such resources or to the site at which such resources are located.
-- **(b)** Notwithstanding the provisions of subsection (a), upon the written request of the Governor of any State, which request shall state—
+- **(b)** Notwithstanding the provisions of subsection (a) of this section, upon the written request of the Governor of any State, which request shall state—
   - **(1)** the specific site or area for which information is sought,
   - **(2)** the purpose for which such information is sought,
   - **(3)** a commitment by the Governor to adequately protect the confidentiality of such information to protect the resource from commercial exploitation,

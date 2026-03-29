@@ -3,14 +3,14 @@ title: "Section 1681t - Relation to State laws"
 usc_title: 15
 usc_section: "1681t"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1681t"
-generated_at: "2026-03-29T02:11:34.226Z"
+generated_at: "2026-03-29T17:51:36.272Z"
 ---
 
 # § 1681t. Relation to State laws
 
-- **(a)** Except as provided in subsections (b) and (c), this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
+- **(a)** Except as provided in subsections (b) and (c) of this section, this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
 - **(b)** No requirement or prohibition may be imposed under the laws of any State—
   - **(1)** with respect to any subject matter regulated under—
     - **(A)** subsection (c) or (e) of section 1681b of this title , relating to the prescreening of consumer reports;
@@ -22,10 +22,8 @@ generated_at: "2026-03-29T02:11:34.226Z"
       - **(i)** with respect to section 54A(a) of chapter 93 of the Massachusetts Annotated Laws (as in effect on September 30, 1996 ); or
       - **(ii)** with respect to section 1785.25(a) of the California Civil Code (as in effect on September 30, 1996 );
     - **(G)** section 1681g(e) of this title , relating to information available to victims under section 1681g(e) of this title ;
-    - **(H)** section 1681s–3 of this title , relating to the exchange and use of information to make a solicitation for marketing purposes;
+    - **(H)** section 1681s–3 of this title , relating to the exchange and use of information to make a solicitation for marketing purposes; or
     - **(I)** section 1681m(h) of this title , relating to the duties of users of consumer reports to provide notice with respect to terms in certain credit transactions;
-    - **(J)** subsections (i) and (j) of section 1681c–1 of this title relating to security freezes; or
-    - **(K)** subsection (k) of section 1681c–1 of this title , relating to credit monitoring for active duty military consumers, as defined in that subsection;
   - **(2)** with respect to the exchange of information among persons affiliated by common ownership or common corporate control, except that this paragraph shall not apply with respect to subsection (a) or (c)(1) of section 2480e of title 9 , Vermont Statutes Annotated (as in effect on September 30, 1996 );
   - **(3)** with respect to the disclosures required to be made under subsection (c), (d), (e), or (g) of section 1681g of this title , or subsection (f) of section 1681g of this title relating to the disclosure of credit scores for credit granting purposes, except that this paragraph—
     - **(A)** shall not apply with respect to sections 1785.10, 1785.16, and 1785.20.2 of the California Civil Code (as in effect on December 4, 2003 ) and section 1785.15 through section 1785.15.2 of such Code (as in effect on such date);
@@ -50,4 +48,4 @@ generated_at: "2026-03-29T02:11:34.226Z"
     - **(H)** section 1681s–2(a)(6) of this title ; or
     - **(I)** section 1681w of this title .
 - **(c)** Notwithstanding any definition of the term “firm offer of credit or insurance” (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a( l ) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
-- **(d)** Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996 .
+- **(d)** Subsections (b) and (c) of this section do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996 .

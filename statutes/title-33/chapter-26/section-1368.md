@@ -3,9 +3,9 @@ title: "Section 1368 - Federal procurement"
 usc_title: 33
 usc_section: "1368"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1368"
-generated_at: "2026-03-29T02:14:18.581Z"
+generated_at: "2026-03-29T17:52:45.964Z"
 ---
 
 # § 1368. Federal procurement
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T02:14:18.581Z"
 - **(d)** The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
 - **(e)** The President shall annually report to the Congress on measures taken in compliance with the purpose and intent of this section, including, but not limited to, the progress and problems associated with such compliance.
 - **(f)**
-  - **(1)** No certification by a contractor, and no contract clause, may be required in the case of a contract for the acquisition of commercial products or commercial services in order to implement a prohibition or requirement of this section or a prohibition or requirement issued in the implementation of this section.
-  - **(2)** In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.
+  - **(1)** No certification by a contractor, and no contract clause, may be required in the case of a contract for the acquisition of commercial items in order to implement a prohibition or requirement of this section or a prohibition or requirement issued in the implementation of this section.
+  - **(2)** In paragraph (1), the term “commercial item” has the meaning given such term in section 103 of title 41 .

@@ -3,35 +3,27 @@ title: "Section 2322 - Within State allocation"
 usc_title: 20
 usc_section: "2322"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 2322"
-generated_at: "2026-03-29T02:12:17.379Z"
+generated_at: "2026-03-29T17:51:48.528Z"
 ---
 
 # § 2322. Within State allocation
 
 - **(a)** From the amount allotted to each State under section 2321 of this title for a fiscal year, the eligible agency shall make available—
-  - **(1)** not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 15 percent of the 85 percent may be used in accordance with subsection (c);
+  - **(1)** not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 10 percent of the 85 percent may be used in accordance with subsection (c);
   - **(2)** not more than 10 percent to carry out State leadership activities described in section 2344 of this title , of which—
-    - **(A)** an amount equal to not more than 2 percent of the amount allotted to the State under section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions, juvenile justice facilities, and educational institutions that serve individuals with disabilities;
+    - **(A)** an amount equal to not more than 1 percent of the amount allotted to the State under section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions and institutions that serve individuals with disabilities; and
     - **(B)** not less than $60,000 and not more than $150,000 shall be available for services that prepare individuals for non-traditional fields; and
-    - **(C)** an amount shall be made available for the recruitment of special populations to enroll in career and technical education programs, which shall be not less than the lesser of—
-      - **(i)** an amount equal to 0.1 percent; or
-      - **(ii)** $50,000; and
   - **(3)** an amount equal to not more than 5 percent, or $250,000, whichever is greater, for administration of the State plan, which may be used for the costs of—
     - **(A)** developing the State plan;
-    - **(B)** reviewing local applications;
+    - **(B)** reviewing a local plan;
     - **(C)** monitoring and evaluating program effectiveness;
     - **(D)** assuring compliance with all applicable Federal laws;
     - **(E)** providing technical assistance; and
     - **(F)** supporting and developing State data systems relevant to the provisions of this chapter.
 - **(b)** Each eligible agency receiving funds made available under subsection (a)(3) shall match, from non-Federal sources and on a dollar-for-dollar basis, the funds received under subsection (a)(3).
-- **(c)** From amounts made available under subsection (a)(1) to carry out this subsection, an eligible agency may award grants to eligible recipients for career and technical education activities described in section 2355 of this title —
-  - **(1)** in—
-    - **(A)** rural areas;
-    - **(B)** areas with high percentages of CTE concentrators or CTE participants;
-    - **(C)** areas with high numbers of CTE concentrators or CTE participants; and
-    - **(D)** areas with disparities or gaps in performance as described in section 2323(b)(3)(C)(ii)(II) of this title ; and
-  - **(2)** in order to—
-    - **(A)** foster innovation through the identification and promotion of promising and proven career and technical education programs, practices, and strategies, which may include programs, practices, and strategies that prepare individuals for nontraditional fields; or
-    - **(B)** promote the development, implementation, and adoption of programs of study or career pathways aligned with State-identified high-skill, high-wage, or in-demand occupations or industries.
+- **(c)** From amounts made available under subsection (a)(1) to carry out this subsection, an eligible agency may award grants to eligible recipients for career and technical education activities described in section 2355 of this title in—
+  - **(1)** rural areas;
+  - **(2)** areas with high percentages of career and technical education students; and
+  - **(3)** areas with high numbers of career and technical education students.

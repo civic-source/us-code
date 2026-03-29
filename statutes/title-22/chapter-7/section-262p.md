@@ -3,9 +3,9 @@ title: "Section 262p - Impact adjustment lending programs"
 usc_title: 22
 usc_section: "262p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 262p"
-generated_at: "2026-03-29T02:12:39.929Z"
+generated_at: "2026-03-29T17:52:10.388Z"
 ---
 
 # § 262p. Impact adjustment lending programs
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:39.929Z"
 - **(a)** The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development and the International Development Association to initiate discussions with other directors of the respective institutions and to propose that—
   - **(1)** guidelines be established which reflect clear and tangible concern for the impact adjustment lending programs, and the activities in support of which such lending is made, have and will have on human welfare; and
   - **(2)** impact statements be required which assess the effect an adjustment lending program, and the activities in support of which such lending is made, will have on the poor of the country to which such lending is made.
-- **(b)** In the discussions referred to in subsection (a) with respect to the impact statement described in paragraph (2) of such subsection, the United States Executive Director should propose that such impact statements—
+- **(b)** In the discussions referred to in subsection (a) of this section with respect to the impact statement described in paragraph (2) of such subsection, the United States Executive Director should propose that such impact statements—
   - **(1)** specify what the projected effects of the adjustment loan will be on the poor;
   - **(2)** explain what procedures have been or will be taken to strengthen the in-country capacity of the borrower to—
     - **(A)** monitor nutrition levels in a timely manner; and

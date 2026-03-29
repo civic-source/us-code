@@ -3,9 +3,9 @@ title: "Section 1124 - Undergraduate international studies and foreign language 
 usc_title: 20
 usc_section: "1124"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1124"
-generated_at: "2026-03-29T02:12:17.304Z"
+generated_at: "2026-03-29T17:51:48.445Z"
 ---
 
 # § 1124. Undergraduate international studies and foreign language programs
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:12:17.304Z"
     - **(A)** may be provided in cash from the private sector corporations or foundations in an amount equal to one-third of the total cost of the programs assisted under this section; or
     - **(B)** may be provided as an in-cash or in-kind contribution from institutional and noninstitutional funds, including State and private sector corporation or foundation contributions, equal to one-half of the total cost of the programs assisted under this section.
   - **(4)** The Secretary may waive or reduce the required non-Federal share for institutions that—
-    - **(A)** are eligible to receive assistance under part A or B of subchapter III or under subchapter V; and
+    - **(A)** are eligible to receive assistance under part A or B of subchapter III of this chapter or under subchapter V of this chapter; and
     - **(B)** have submitted a grant application under this section that demonstrates a need for a waiver or reduction.
   - **(5)** In awarding grants under this section, the Secretary shall give priority to applications from institutions of higher education, consortia or partnerships that require entering students to have successfully completed at least 2 years of secondary school foreign language instruction or that require each graduating student to earn 2 years of postsecondary credit in a foreign language (or have demonstrated equivalent competence in the foreign language) or, in the case of a 2-year degree granting institution, offer 2 years of postsecondary credit in a foreign language.
   - **(6)** Grants under this subsection shall reflect the purposes of this part and be made on such conditions as the Secretary determines to be necessary to carry out this subsection.

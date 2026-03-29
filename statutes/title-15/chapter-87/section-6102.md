@@ -3,9 +3,9 @@ title: "Section 6102 - Telemarketing rules"
 usc_title: 15
 usc_section: "6102"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 6102"
-generated_at: "2026-03-29T02:11:34.387Z"
+generated_at: "2026-03-29T17:51:36.387Z"
 ---
 
 # § 6102. Telemarketing rules
@@ -24,16 +24,16 @@ generated_at: "2026-03-29T02:11:34.387Z"
   - **(2)** that is committed by a person subject to the Consumer Financial Protection Act of 2010 shall be treated as a violation of a rule under section 1031 of that Act [ 12 U.S.C. 5531 ] regarding unfair, deceptive, or abusive acts or practices.
 - **(d)**
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a), the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
+    - **(A)** Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a) of this section, the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
     - **(B)** The Securities and Exchange Commission is not required to promulgate a rule under subparagraph (A) if it determines that—
-      - **(i)** Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a); or
+      - **(i)** Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a) of this section; or
       - **(ii)** such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
   - **(2)**
-    - **(A)** The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in the preceding sentence.
+    - **(A)** The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in the preceding sentence.
     - **(B)** For purposes of subparagraph (A)—
       - **(i)** the terms “broker”, “dealer”, “transfer agent”, “municipal securities dealer”, “municipal securities broker”, “government securities broker”, and “government securities dealer” have the meanings given such terms by paragraphs (4), (5), (25), (30), (31), (43), and (44) of section 78c(a) of this title ;
       - **(ii)** the term “investment adviser” has the meaning given such term by section 80b–2(a)(11) of this title ; and
       - **(iii)** the term “investment company” has the meaning given such term by section 80a–3(a) of this title .
 - **(e)**
-  - **(1)** The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in section 9b(1) of title 7 .
+  - **(1)** The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in section 9b(1) of title 7 .
   - **(2)**

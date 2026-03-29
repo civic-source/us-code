@@ -3,16 +3,14 @@ title: "Section 3151 - Grants to enhance research capacity in schools of veterin
 usc_title: 7
 usc_section: "3151"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 3151"
-generated_at: "2026-03-29T02:10:16.985Z"
+generated_at: "2026-03-29T17:50:48.749Z"
 ---
 
 # § 3151. Grants to enhance research capacity in schools of veterinary medicine
 
-- **(a)**
-  - **(1)** The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis.
-  - **(2)** A State receiving a grant under paragraph (1) shall provide State matching funds equal to not less than the amount of the grant.
+- **(a)** The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis.
 - **(b)** Except with respect to the States of Alaska and Hawaii, the Secretary shall give preference in awarding grants to States which file, with their application for funds under this section, assurances satisfactory to the Secretary that—
   - **(1)** the State has established a veterinary medical training program with one or more States without colleges of veterinary medicine which consists of appropriate cooperative agreements providing for a sharing of curriculum and costs by the individual States;
   - **(2)** the clinical training of the school to be improved shall emphasize care and preventive medical programs for food animals and companion animals (including horses) which support industries of major economic importance; and

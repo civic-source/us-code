@@ -3,17 +3,17 @@ title: "Section 2378 - Prohibition on assistance to countries that provide milit
 usc_title: 22
 usc_section: "2378"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2378"
-generated_at: "2026-03-29T02:12:40.072Z"
+generated_at: "2026-03-29T17:52:10.522Z"
 ---
 
 # § 2378. Prohibition on assistance to countries that provide military equipment to terrorist states
 
 - **(a)**
-  - **(1)** The President shall withhold assistance under this chapter to the government of any country that provides lethal military equipment to a country the government of which the Secretary of State has determined is a terrorist government for the purposes of section 4605(j) 1 1 See References in Text note below. of title 50, or 2371 of this title.
+  - **(1)** The President shall withhold assistance under this chapter to the government of any country that provides lethal military equipment to a country the government of which the Secretary of State has determined is a terrorist government for the purposes of section 2405(j) of title 50 , Appendix, or 2371 of this title.
   - **(2)** The prohibition under this section with respect to a foreign government shall terminate 1 year after that government ceases to provide lethal military equipment. This section applies with respect to lethal military equipment provided under a contract entered into after April 24, 1996 .
-- **(b)** Notwithstanding any other provision of law, assistance may be furnished to a foreign government described in subsection (a) if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
+- **(b)** Notwithstanding any other provision of law, assistance may be furnished to a foreign government described in subsection (a) of this section if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
   - **(1)** a statement of the determination;
   - **(2)** a detailed explanation of the assistance to be provided;
   - **(3)** the estimated dollar amount of the assistance; and

@@ -3,9 +3,9 @@ title: "Section 22501 - Organization"
 usc_title: 36
 usc_section: "22501"
 chapter: 225
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 22501"
-generated_at: "2026-03-29T02:14:41.343Z"
+generated_at: "2026-03-29T17:52:49.348Z"
 ---
 
 # § 22501. Organization

@@ -3,9 +3,9 @@ title: "Section 77r - Exemption from State regulation of securities offerings"
 usc_title: 15
 usc_section: "77r"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 77r"
-generated_at: "2026-03-29T02:11:33.883Z"
+generated_at: "2026-03-29T17:51:36.006Z"
 ---
 
 # § 77r. Exemption from State regulation of securities offerings
@@ -15,42 +15,42 @@ generated_at: "2026-03-29T02:11:33.883Z"
     - **(A)** is a covered security; or
     - **(B)** will be a covered security upon completion of the transaction;
   - **(2)** shall directly or indirectly prohibit, limit, or impose any conditions upon the use of—
-    - **(A)** with respect to a covered security described in subsection (b), any offering document that is prepared by or on behalf of the issuer; or
+    - **(A)** with respect to a covered security described in subsection (b) of this section, any offering document that is prepared by or on behalf of the issuer; or
     - **(B)** any proxy statement, report to shareholders, or other disclosure document relating to a covered security or the issuer thereof that is required to be and is filed with the Commission or any national securities organization registered under section 78 o –3 of this title, except that this subparagraph does not apply to the laws, rules, regulations, or orders, or other administrative actions of the State of incorporation of the issuer; or
   - **(3)** shall directly or indirectly prohibit, limit, or impose conditions, based on the merits of such offering or issuer, upon the offer or sale of any security described in paragraph (1).
 - **(b)** For purposes of this section, the following are covered securities:
   - **(1)** A security is a covered security if such security is—
-    - **(A)** a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is listed, or authorized for listing, on a national securities exchange (or tier or segment thereof); or
-    - **(B)** a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A).
+    - **(A)** listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
+    - **(B)** listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
+    - **(C)** a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
   - **(2)** A security is a covered security if such security is a security issued by an investment company that is registered, or that has filed a registration statement, under the Investment Company Act of 1940 [ 15 U.S.C. 80a–1 et seq.].
   - **(3)** A security is a covered security with respect to the offer or sale of the security to qualified purchasers, as defined by the Commission by rule. In prescribing such rule, the Commission may define the term “qualified purchaser” differently with respect to different categories of securities, consistent with the public interest and the protection of investors.
   - **(4)** A security is a covered security with respect to a transaction that is exempt from registration under this subchapter pursuant to—
     - **(A)** paragraph (1) or (3) of section 77d 1 1 See References in Text note below. of this title, and the issuer of such security files reports with the Commission pursuant to section 78m or 78 o (d) of this title;
     - **(B)** section 77d(4) 1 of this title;
     - **(C)** section 77d(6) 1 of this title;
-    - **(D)** a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
+    - **(D)** 2 2 So in original. There are two subpars. (D). a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
       - **(i)** offered or sold on a national securities exchange; or
       - **(ii)** offered or sold to a qualified purchaser, as defined by the Commission pursuant to paragraph (3) with respect to that purchase or sale;
-    - **(E)** section 77c(a) of this title , other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
-    - **(F)** Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996 ; or
-    - **(G)** section 77d(a)(7) of this title .
+    - **(D)** 2 section 77c(a) of this title , other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
+    - **(E)** Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996 .
 - **(c)**
-  - **(1)** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 2 2 So in original. The comma after “enforcement actions” probably should be a hyphen and the words “in connection with securities or securities transactions” probably should be part of subpar. (A).
+  - **(1)** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 3 3 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A).
     - **(A)** with respect to—
       - **(i)** fraud or deceit; or
       - **(ii)** unlawful conduct by a broker, dealer, or funding portal; and
-    - **(B)** in connection to 3 3 So in original. Probably should be “with”. a transaction described under section 77d(6) 1 of this title, with respect to—
+    - **(B)** in connection to 4 4 So in original. Probably should be “with”. a transaction described under section 77d(6) 1 of this title, with respect to—
       - **(i)** fraud or deceit; or
       - **(ii)** unlawful conduct by a broker, dealer, funding portal, or issuer.
   - **(2)**
     - **(A)** Nothing in this section prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any document filed with the Commission pursuant to this subchapter, together with annual or periodic reports of the value of securities sold or offered to be sold to persons located in the State (if such sales data is not included in documents filed with the Commission), solely for notice purposes and the assessment of any fee, together with a consent to service of process and any required fee.
     - **(B)**
       - **(i)** Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof, adopted after October 11, 1996 , filing or registration fees with respect to securities or securities transactions shall continue to be collected in amounts determined pursuant to State law as in effect on the day before October 11, 1996 .
-      - **(ii)** The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a).
+      - **(ii)** The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
     - **(C)**
       - **(i)** During the period beginning on October 11, 1996 , and ending 3 years after October 11, 1996 , the securities commission (or any agency or office performing like functions) of any State may require the registration of securities issued by any issuer who refuses to pay the fees required by subparagraph (B).
       - **(ii)** For purposes of this subparagraph, delays in payment of fees or underpayments of fees that are promptly remedied shall not constitute a refusal to pay fees.
-    - **(D)** Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
+    - **(D)** Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1) of this section, or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1) of this section.
     - **(F)** Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term “State” includes the District of Columbia and the territories of the United States.
   - **(3)** Nothing in this section shall prohibit the securities commission (or any agency or office performing like functions) of any State from suspending the offer or sale of securities within such State as a result of the failure to submit any filing or fee required under law and permitted under this section.
 - **(d)** For purposes of this section, the following definitions shall apply:

@@ -1,0 +1,12 @@
+---
+title: "Section 403h5to403h9 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948"
+usc_title: 16
+usc_section: "403h5to403h9"
+chapter: 1
+current_through: "PL 113-100"
+classification: "16 U.S.C. § 403h5to403h9"
+generated_at: "2026-03-29T17:51:56.499Z"
+---
+
+# §§ 403h–5 to 403h–9. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948
+

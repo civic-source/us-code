@@ -3,9 +3,9 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-03-29T02:13:20.926Z"
+generated_at: "2026-03-29T17:52:06.113Z"
 ---
 
 # § 2010. Uniform direct funding and support
@@ -51,14 +51,14 @@ generated_at: "2026-03-29T02:13:20.926Z"
     - **(A)** A copy of each statement filed under paragraph (4)(C) shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
     - **(B)** After reviewing such written appeal and response, the appropriate education line officer may, for good cause, overturn the action of the local school board.
     - **(C)** The appropriate education line officer shall transmit the determination of such appeal in the form of a written opinion to such board and to such supervisor identifying the reasons for overturning such action.
-- **(c)** The Secretary may approve applications for funding tribal divisions of education and developing tribal codes of education, from funds made available pursuant to section 5322(a) of this title .
+- **(c)** The Secretary may approve applications for funding tribal divisions of education and developing tribal codes of education, from funds made available pursuant to section 450h(a) of this title .
 - **(d)** In carrying out this section, a local school board may request technical assistance and training from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
 - **(e)**
   - **(1)**
-    - **(A)** A financial plan under subsection (b) for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
+    - **(A)** A financial plan under subsection (b) of this section for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
     - **(B)** Any such program may include activities related to the prevention of alcohol and substance abuse.
     - **(C)** The Assistant Secretary for Indian Affairs shall provide for the use of any such school facility during any summer in which such use is requested.
-  - **(2)** Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 [ 25 U.S.C. 5342 et seq.], and this Act may be used to augment the services provided in each summer program at the option, and under the control, of the tribe or Indian controlled school receiving such funds.
+  - **(2)** Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 [ 25 U.S.C. 452 et seq.], and this Act may be used to augment the services provided in each summer program at the option, and under the control, of the tribe or Indian controlled school receiving such funds.
   - **(3)** The Assistant Secretary for Indian Affairs, acting through the Director of the Office, shall—
     - **(A)** provide technical assistance and coordination for any program described in paragraph (1); and
     - **(B)** to the extent practicable, encourage the coordination of such programs with any other summer programs that might benefit Indian youth, regardless of the funding source or administrative entity of any such program.

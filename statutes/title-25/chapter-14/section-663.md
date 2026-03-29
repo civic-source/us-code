@@ -1,12 +1,14 @@
 ---
-title: "Section 663 - Omitted"
+title: "Section 663 - Rules and regulations; filing deadline"
 usc_title: 25
 usc_section: "663"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 663"
-generated_at: "2026-03-29T02:13:20.866Z"
+generated_at: "2026-03-29T17:52:06.009Z"
 ---
 
-# § 663. Omitted
+# § 663. Rules and regulations; filing deadline
+
+The Secretary is authorized to prescribe rules and regulations to carry out the provisions of sections 659 to 663 of this title, which rules and regulations shall include an appropriate deadline for the filing of applications for enrollment under section 659 of this title . The determinations of the Secretary regarding eligibility for enrollment, the affiliation of an applicant’s ancestors, and the shares of the cost of roll preparation to be charged to each of the two funds referred to in sections 660 and 661 of this title shall be final. Not more than $325,000 in all shall be available under sections 659 to 663 of this title for the costs of roll preparation and of the distribution of shares.
 

@@ -3,18 +3,18 @@ title: "Section 7846 - Other general assurances"
 usc_title: 20
 usc_section: "7846"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7846"
-generated_at: "2026-03-29T02:12:17.503Z"
+generated_at: "2026-03-29T17:51:48.679Z"
 ---
 
 # § 7846. Other general assurances
 
-- **(a)** Any applicant, other than a State educational agency that submits a plan or application under this chapter, shall have on file with the State educational agency a single set of assurances, applicable to each program for which a plan or application is submitted, that provides that—
+- **(a)** Any applicant, other than a State educational agency that submits a plan or application under this chapter, whether separately or pursuant to section 7845 of this title , shall have on file with the State educational agency a single set of assurances, applicable to each program for which a plan or application is submitted, that provides that—
   - **(1)** each such program will be administered in accordance with all applicable statutes, regulations, program plans, and applications;
   - **(2)**
-    - **(A)** the control of funds provided under each such program and title to property acquired with program funds will be in a public agency or in a 1 1 So in original. Probably should be “an”. eligible private agency, institution, organization, or Indian tribe, if the law authorizing the program provides for assistance to those entities; and
-    - **(B)** the public agency, eligible private agency, institution, or organization, or Indian tribe will administer the funds and property to the extent required by the authorizing statutes;
+    - **(A)** the control of funds provided under each such program and title to property acquired with program funds will be in a public agency or in a nonprofit private agency, institution, organization, or Indian tribe, if the law authorizing the program provides for assistance to those entities; and
+    - **(B)** the public agency, nonprofit private agency, institution, or organization, or Indian tribe will administer the funds and property to the extent required by the authorizing statutes;
   - **(3)** the applicant will adopt and use proper methods of administering each such program, including—
     - **(A)** the enforcement of any obligations imposed by law on agencies, institutions, organizations, and other recipients responsible for carrying out each program; and
     - **(B)** the correction of deficiencies in program operations that are identified through audits, monitoring, or evaluation;

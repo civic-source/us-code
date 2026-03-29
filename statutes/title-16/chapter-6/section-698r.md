@@ -3,16 +3,16 @@ title: "Section 698r - Administration"
 usc_title: 16
 usc_section: "698r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 698r"
-generated_at: "2026-03-29T02:11:53.650Z"
+generated_at: "2026-03-29T17:51:56.753Z"
 ---
 
 # § 698r. Administration
 
 - **(a)** The Preserve shall be administered by the Secretary in accordance with sections 698q to 698t of this title and in accordance with the laws generally applicable to units of the National Park System, including—
-  - **(1)** the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 16 U.S.C. 1 et seq.); 1 1 See References in Text note below. and
-  - **(2)** the Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935 ( 16 U.S.C. 461 et seq.). 1
+  - **(1)** sections 1, 2, 3, and 4 of this title; and
+  - **(2)** sections 461 to 467 of this title.
 - **(b)**
   - **(1)** Subject to paragraphs (2) and (3), the Secretary shall permit hunting, trapping, and fishing on lands and waters under the jurisdiction of the Secretary within the Preserve in accordance with applicable Federal and State laws.
   - **(2)** Subject to such terms and conditions as the Secretary considers necessary in furtherance of sections 698q to 698t of this title, and after consultation with the Department of Conservation and Natural Resources of the State of Alabama and owners of lands adjacent to the Preserve, the Secretary may designate zones where, and establish periods when, the activities described in paragraph (1) will not be permitted within the Preserve for reasons of public safety, administration, fish and wildlife habitat, or public use and enjoyment.

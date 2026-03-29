@@ -3,9 +3,9 @@ title: "Section 7621 - Internal revenue districts"
 usc_title: 26
 usc_section: "7621"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7621"
-generated_at: "2026-03-29T02:14:01.402Z"
+generated_at: "2026-03-29T17:52:39.625Z"
 ---
 
 # § 7621. Internal revenue districts

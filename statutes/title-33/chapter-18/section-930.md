@@ -3,16 +3,16 @@ title: "Section 930 - Reports to Secretary"
 usc_title: 33
 usc_section: "930"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 930"
-generated_at: "2026-03-29T02:14:18.530Z"
+generated_at: "2026-03-29T17:52:45.927Z"
 ---
 
 # § 930. Reports to Secretary
 
 - **(a)** Within ten days from the date of any injury, which causes loss of one or more shifts of work, or death or from the date that the employer has knowledge of a disease or infection in respect of such injury, the employer shall send to the Secretary a report setting forth (1) the name, address, and business of the employer; (2) the name, address, and occupation of the employee; (3) the cause and nature of the injury or death; (4) the year, month, day, and hour when and the particular locality where the injury or death occurred; and (5) such other information as the Secretary may require. A copy of such report shall be sent at the same time to the deputy commissioner in the compensation district in which the injury occurred. Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.
 - **(b)** Additional reports in respect of such injury and of the condition of such employee shall be sent by the employer to the Secretary and to such deputy commissioner at such times and in such manner as the Secretary may prescribe.
-- **(c)** Any report provided for in subsection (a) or (b) shall not be evidence of any fact stated in such report in any proceeding in respect of such injury or death on account of which the report is made.
-- **(d)** The mailing of any such report and copy in a stamped envelope, within the time prescribed in subsections (a) or (b), to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
+- **(c)** Any report provided for in subsection (a) or (b) of this section shall not be evidence of any fact stated in such report in any proceeding in respect of such injury or death on account of which the report is made.
+- **(d)** The mailing of any such report and copy in a stamped envelope, within the time prescribed in subsections (a) or (b) of this section, to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
 - **(e)** Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required by this section or knowingly or willfully makes a false statement or misrepresentation in any such report shall be subject to a civil penalty not to exceed $10,000 for each such failure, refusal, false statement, or misrepresentation.
 - **(f)** Where the employer or the carrier has been given notice, or the employer (or his agent in charge of the business in the place where the injury occurred) or the carrier has knowledge, of any injury or death of an employee and fails, neglects, or refuses to file report thereof as required by the provisions of subsection (a) of this section, the limitations in subsection (a) of section 913 of this title shall not begin to run against the claim of the injured employee or his dependents entitled to compensation, or in favor of either the employer or the carrier, until such report shall have been furnished as required by the provisions of subsection (a) of this section.

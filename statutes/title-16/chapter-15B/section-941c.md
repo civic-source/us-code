@@ -3,9 +3,9 @@ title: "Section 941c - Identification, review, and implementation of proposals a
 usc_title: 16
 usc_section: "941c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 941c"
-generated_at: "2026-03-29T02:11:53.722Z"
+generated_at: "2026-03-29T17:51:56.821Z"
 ---
 
 # § 941c. Identification, review, and implementation of proposals and regional projects
@@ -22,10 +22,8 @@ generated_at: "2026-03-29T02:11:53.722Z"
       - **(ii)** the 1954 Great Lakes Fisheries Convention;
       - **(iii)** the 1980 Joint Strategic Plan for Management of Great Lakes Fisheries, as revised in 1997, and Fish Community Objectives for each Great Lake and connecting water as established under the Joint Strategic Plan;
       - **(iv)** the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ( 16 U.S.C. 4701 et seq.);
-      - **(v)** the North American Waterfowl Management Plan and joint ventures established under the plan;
-      - **(vi)** the strategies outlined through the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force);
-      - **(vii)** the strategic action plan of the Great Lakes Restoration Initiative; and
-      - **(viii)** each applicable State wildlife action plan.
+      - **(v)** the North American Waterfowl Management Plan and joint ventures established under the plan; and
+      - **(vi)** the strategies outlined through the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force).
   - **(3)** The Great Lakes Fishery Commission shall retain authority and responsibility to formulate and implement a comprehensive program to eradicate or minimize sea lamprey populations in the Great Lakes Basin.
 - **(c)**
   - **(1)** There is established the Great Lakes Fish and Wildlife Restoration Proposal Review Committee, which shall operate under the guidance of the United States Fish and Wildlife Service.
@@ -34,7 +32,7 @@ generated_at: "2026-03-29T02:11:53.722Z"
       - **(i)** 1 representative shall be the individual appointed by the State Director or Indian Tribe to the Council of Lake Committees of the Great Lakes Fishery Commission; and
       - **(ii)** 1 representative shall have expertise in wildlife management.
     - **(B)** Each representative shall serve at the pleasure of the appointing State Director or Tribal Chair.
-    - **(C)** The United States Fish and Wildlife Service shall participate as an observer of the Committee.
+    - **(C)** The Great Lakes Coordinator of the United States Fish and Wildlife Service shall participate as an observer of the Committee.
     - **(D)** A member of the Committee shall recuse himself or herself from consideration of proposals that the member, or the entity that the member represents, has submitted.
   - **(3)** The Committee shall—
     - **(A)** meet at least annually;
@@ -46,29 +44,7 @@ generated_at: "2026-03-29T02:11:53.722Z"
     - **(B)** subject to the availability of appropriations and subsection (e), fund implementation of the proposals and regional projects.
   - **(2)** In selecting and funding proposals and regional projects, the Director shall take into account the effectiveness and appropriateness of the proposals and regional projects in fulfilling the purposes of other laws applicable to restoration of the fish and wildlife resources and habitat of the Great Lakes Basin.
 - **(e)**
-  - **(1)**
-    - **(A)** Except as provided in paragraphs (3) and (5) and subject to paragraph (2), not less than 25 percent of the cost of implementing a proposal or regional project selected under subsection (d) (excluding the cost of establishing sea lamprey barriers) shall be paid in cash or in-kind contributions by non-Federal sources.
-    - **(B)** The non-Federal share of the cost of implementing a proposal or regional project required under subparagraph (A) may be provided at any time during the 2-year period preceding January 1 of the year in which the Director receives the application for the proposal or regional project.
-  - **(2)**
-    - **(A)** The Director may determine the non-Federal share under paragraph (1) by taking into account—
-      - **(i)** the appraised value of land or a conservation easement as described in subparagraph (B); or
-      - **(ii)** as described in subparagraph (C), the costs associated with—
-        - **(I)** securing a conservation easement; and
-        - **(II)** restoration or enhancement of the conservation easement.
-    - **(B)**
-      - **(i)** The value of a conservation easement may be used to satisfy the non-Federal share of the cost of implementing a proposal or regional project required under paragraph (1)(A) if the Director determines that the conservation easement—
-        - **(I)** meets the requirements of subsection (b)(2);
-        - **(II)** is acquired before the end of the grant period of the proposal or regional project;
-        - **(III)** is held in perpetuity for the conservation purposes of the programs of the United States Fish and Wildlife Service related to the Great Lakes Basin, as described in section 941d of this title , by an accredited land trust or conservancy or a Federal, State, or tribal agency;
-        - **(IV)** is connected either physically or through a conservation planning process to the proposal or regional project; and
-        - **(V)** is appraised in accordance with clause (ii).
-      - **(ii)** With respect to the appraisal of a conservation easement described in clause (i)—
-        - **(I)** the appraisal valuation date shall be not later than 1 year after the price of the conservation easement was set under a contract; and
-        - **(II)** the appraisal shall—
-    - **(C)**
-      - **(i)** All costs associated with securing a conservation easement and restoration or enhancement of that conservation easement may be used to satisfy the non-Federal share of the cost of implementing a proposal or regional project required under paragraph (1)(A) if the activities and expenses associated with securing the conservation easement and restoration or enhancement of that conservation easement meet the requirements of subparagraph (B)(i).
-      - **(ii)** The costs referred to in clause (i) may include cash, in-kind contributions, and indirect costs.
-      - **(iii)** The costs referred to in clause (i) may not be costs associated with mitigation or litigation (other than costs associated with the Natural Resource Damage Assessment program).
-  - **(3)** Regional projects selected under subsection (d) shall be exempt from cost sharing if the Director determines that the authorization for the project does not require a non-Federal cost-share.
-  - **(4)** The Director may not consider the expenditure, directly or indirectly, of Federal funds received by any entity to be a contribution by a non-Federal source for purposes of this subsection.
-  - **(5)** Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
+  - **(1)** Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal selected under subsection (d) (excluding the cost of establishing sea lamprey barriers) shall be paid in cash or in-kind contributions by non-Federal sources.
+  - **(2)** Regional projects selected under subsection (d) shall be exempt from cost sharing if the Director determines that the authorization for the project does not require a non-Federal cost-share.
+  - **(3)** The Director may not consider the expenditure, directly or indirectly, of Federal funds received by any entity to be a contribution by a non-Federal source for purposes of this subsection.
+  - **(4)** Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).

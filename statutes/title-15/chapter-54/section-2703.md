@@ -3,9 +3,9 @@ title: "Section 2703 - Advanced systems program implementation by Secretary of E
 usc_title: 15
 usc_section: "2703"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2703"
-generated_at: "2026-03-29T02:11:34.316Z"
+generated_at: "2026-03-29T17:51:36.336Z"
 ---
 
 # § 2703. Advanced systems program implementation by Secretary of Energy

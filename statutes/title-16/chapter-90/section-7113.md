@@ -3,9 +3,9 @@ title: "Section 7113 - Transition payments to States"
 usc_title: 16
 usc_section: "7113"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 7113"
-generated_at: "2026-03-29T02:11:53.991Z"
+generated_at: "2026-03-29T17:51:57.032Z"
 ---
 
 # § 7113. Transition payments to States
@@ -26,5 +26,5 @@ generated_at: "2026-03-29T02:11:53.991Z"
 - **(c)** Except as provided in subsection (d), it is the intent of Congress that the method of distributing the payments under subsection (b) among the counties in the covered States for each of fiscal years 2008 through 2010 be in the same proportion that the payments were distributed to the eligible counties in fiscal year 2006.
 - **(d)** The following payments shall be distributed among the eligible counties in the State of California in the same proportion that payments under section 102(a)(2) 1 (as in effect on September 29, 2006 ) were distributed to the eligible counties for fiscal year 2006:
   - **(1)** Payments to the State of California under subsection (b).
-  - **(2)** The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2026.
+  - **(2)** The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 through 2013.
 - **(e)** For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under section 7112(a) of this title .

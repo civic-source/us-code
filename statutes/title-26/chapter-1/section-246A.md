@@ -3,18 +3,18 @@ title: "Section 246A - Dividends received deduction reduced where portfolio stoc
 usc_title: 26
 usc_section: "246A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 246A"
-generated_at: "2026-03-29T02:14:00.869Z"
+generated_at: "2026-03-29T17:52:39.175Z"
 ---
 
 # § 246A. Dividends received deduction reduced where portfolio stock is debt financed
 
-- **(a)** In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243 or 245(a) a percentage equal to the product of—
-  - **(1)** 50 percent (65 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
+- **(a)** In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243, 244, or 245(a) a percentage equal to the product of—
+  - **(1)** 70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
   - **(2)** 100 percent minus the average indebtedness percentage.
 - **(b)** Subsection (a) shall not apply to—
-  - **(1)** qualifying dividends (as defined in section 243(b)), and
+  - **(1)** qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)), and
   - **(2)** dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 - **(c)** For purposes of this section—
   - **(1)** The term “debt financed portfolio stock” means any portfolio stock if at some time during the base period there is portfolio indebtedness with respect to such stock.
@@ -42,5 +42,5 @@ generated_at: "2026-03-29T02:14:00.869Z"
   - **(4)** The term “base period” means, with respect to any dividend, the shorter of—
     - **(A)** the period beginning on the ex-dividend date for the most recent previous dividend on the stock and ending on the day before the ex-dividend date for the dividend involved, or
     - **(B)** the 1-year period ending on the day before the ex-dividend date for the dividend involved.
-- **(e)** Under regulations prescribed by the Secretary, any reduction under this section in the amount allowable as a deduction under section 243 or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
+- **(e)** Under regulations prescribed by the Secretary, any reduction under this section in the amount allowable as a deduction under section 243, 244, or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
 - **(f)** The regulations prescribed for purposes of this section under section 7701(f) shall include regulations providing for the disallowance of interest deductions or other appropriate treatment (in lieu of reducing the dividend received deduction) where the obligor of the indebtedness is a person other than the person receiving the dividend.

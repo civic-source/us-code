@@ -3,9 +3,9 @@ title: "Section 2812 - Indian Law and Order Commission"
 usc_title: 25
 usc_section: "2812"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2812"
-generated_at: "2026-03-29T02:13:20.955Z"
+generated_at: "2026-03-29T17:52:06.136Z"
 ---
 
 # § 2812. Indian Law and Order Commission
@@ -99,4 +99,4 @@ generated_at: "2026-03-29T02:13:20.955Z"
     - **(B)** provide to the Commission advice and recommendations, submit materials, documents, testimony, and such other information as the Commission determines to be necessary to carry out the duties of the Commission under this section.
 - **(k)** For the fiscal year after July 29, 2010 , out of any unobligated amounts available to the Secretary of the Interior or the Attorney General, the Secretary or the Attorney General may use to carry out this section not more than $2,000,000.
 - **(l)** The Commission shall terminate 90 days after the date on which the Commission submits the report of the Commission under subsection (f).
-- **(m)** Chapter 10 of title 5 shall not apply to the Commission.
+- **(m)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.

@@ -3,9 +3,9 @@ title: "Section 552a - Records maintained on individuals"
 usc_title: 5
 usc_section: "552a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 552a"
-generated_at: "2026-03-29T02:10:01.776Z"
+generated_at: "2026-03-29T17:50:36.428Z"
 ---
 
 # § 552a. Records maintained on individuals
@@ -34,9 +34,8 @@ generated_at: "2026-03-29T02:10:01.776Z"
         - **(II)** conducted by an agency using only records from systems of records maintained by that agency;
       - **(vi)** matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel;
       - **(vii)** matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986;
-      - **(viii)** matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act ( 42 U.S.C. 402(x)(3) , 1382(e)(1));
-      - **(ix)** matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records; or
-      - **(x)** matches performed pursuant to section 3(d)(4) of the Achieving a Better Life Experience Act of 2014; 1
+      - **(viii)** matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act ( 42 U.S.C. 402(x)(3) , 1382(e)(1)); or
+      - **(ix)** matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records;
   - **(9)** the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
   - **(10)** the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in a system of records from a source agency for use in a matching program;
   - **(11)** the term “source agency” means any agency which discloses records contained in a system of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
@@ -53,9 +52,8 @@ generated_at: "2026-03-29T02:10:01.776Z"
   - **(8)** to a person pursuant to a showing of compelling circumstances affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of such individual;
   - **(9)** to either House of Congress, or, to the extent of matter within its jurisdiction, any committee or subcommittee thereof, any joint committee of Congress or subcommittee of any such joint committee;
   - **(10)** to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the Government Accountability Office;
-  - **(11)** to the Director of the Congressional Budget Office, or any authorized representative of the Director, in the course of performance of the duties of the Congressional Budget Office;
-  - **(12)** pursuant to the order of a court of competent jurisdiction; or
-  - **(13)** to a consumer reporting agency in accordance with section 3711(e) of title 31 .
+  - **(11)** pursuant to the order of a court of competent jurisdiction; or
+  - **(12)** to a consumer reporting agency in accordance with section 3711(e) of title 31 .
 - **(c)** Each agency, with respect to each system of records under its control, shall—
   - **(1)** except for disclosures made under subsections (b)(1) or (b)(2) of this section, keep an accurate accounting of—
     - **(A)** the date, nature, and purpose of each disclosure of a record to any person or to another agency made under subsection (b) of this section; and

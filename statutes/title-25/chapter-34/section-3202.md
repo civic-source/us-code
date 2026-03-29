@@ -3,9 +3,9 @@ title: "Section 3202 - Definitions"
 usc_title: 25
 usc_section: "3202"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 3202"
-generated_at: "2026-03-29T02:13:20.965Z"
+generated_at: "2026-03-29T17:52:06.143Z"
 ---
 
 # § 3202. Definitions
@@ -17,11 +17,9 @@ For the purposes of this chapter, the term—
     - **(A)** is not married, and
     - **(B)** has not attained 18 years of age;
   - **(3)** “child abuse” includes but is not limited to—
-    - **(A)** in any case in which—
-      - **(i)**
-        - **(I)** a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling; and
-        - **(II)** such condition is not justifiably explained or may not be the product of an accidental occurrence; or
-      - **(ii)** a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution; and
+    - **(A)** any case in which—
+      - **(i)** a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling, and
+      - **(ii)** such condition is not justifiably explained or may not be the product of an accidental occurrence; and
     - **(B)** any case in which a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution;
   - **(4)** “child neglect” includes but is not limited to, negligent treatment or maltreatment of a child by a person, including a person responsible for the child’s welfare, under circumstances which indicate that the child’s health or welfare is harmed or threatened thereby;
   - **(5)** “family violence” means any act, or threatened act, of violence, including any forceful detention of an individual, which—
@@ -33,7 +31,7 @@ For the purposes of this chapter, the term—
   - **(7)** “Indian child” has the meaning given to such term by section 1903(4) of this title ;
   - **(8)** “Indian country” has the meaning given to such term by section 1151 of title 18 ;
   - **(9)** “Indian reservation” means any Indian reservation, public domain Indian allotment, former Indian reservation in Oklahoma, or lands held by incorporated Native groups, regional corporations, or village corporations under the provisions of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.);
-  - **(10)** “Indian tribe” and “tribal organization” have the respective meanings given to each of such terms under section 5304 of this title ;
+  - **(10)** “Indian tribe” and “tribal organization” have the respective meanings given to each of such terms under section 450b of this title ;
   - **(11)** “inter-tribal consortium” means a partnership between—
     - **(A)** an Indian tribe or tribal organization of an Indian tribe, and
     - **(B)** one or more Indian tribes or tribal organizations of one or more other Indian tribes;

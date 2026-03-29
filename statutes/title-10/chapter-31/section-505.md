@@ -3,9 +3,9 @@ title: "Section 505 - Regular components: qualifications, term, grade"
 usc_title: 10
 usc_section: "505"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 505"
-generated_at: "2026-03-29T02:10:44.878Z"
+generated_at: "2026-03-29T17:50:56.947Z"
 ---
 
 # § 505. Regular components: qualifications, term, grade
@@ -20,4 +20,3 @@ generated_at: "2026-03-29T02:10:44.878Z"
     - **(A)** a specified period of at least two years but not more than eight years; or
     - **(B)** an unspecified period.
   - **(4)** No enlisted member is entitled to be reenlisted for a period that would expire before the end of the member’s current enlistment.
-- **(e)** For enlistments in the Space Force, see sections 20301 and 20302 of this title.

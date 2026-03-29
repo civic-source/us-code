@@ -3,19 +3,19 @@ title: "Section 9092 - Suspension of permanent price support authority"
 usc_title: 7
 usc_section: "9092"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 9092"
-generated_at: "2026-03-29T02:10:17.230Z"
+generated_at: "2026-03-29T17:50:48.919Z"
 ---
 
 # § 9092. Suspension of permanent price support authority
 
-- **(a)** The following provisions of the Agricultural Adjustment Act of 1938 [ 7 U.S.C. 1281 et seq.] shall not be applicable to the 2014 through 2023 crops of covered commodities (as defined in section 9011 of this title ), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014 , through December 31, 2023 :
+- **(a)** The following provisions of the Agricultural Adjustment Act of 1938 [ 7 U.S.C. 1281 et seq.] shall not be applicable to the 2014 through 2018 crops of covered commodities (as defined in section 9011 of this title ), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014 , through December 31, 2018 :
   - **(1)** Parts II through V of subtitle B of title III ( 7 U.S.C. 1326 et seq.) [ 7 U.S.C. 1321 et seq., 1331 et seq., 1341 et seq., 1351].
   - **(2)** In the case of upland cotton, section 377 ( 7 U.S.C. 1377 ).
   - **(3)** Subtitle D of title III ( 7 U.S.C. 1379a et seq.).
   - **(4)** Title IV ( 7 U.S.C. 1401 et seq.).
-- **(b)** The following provisions of the Agricultural Act of 1949 [ 7 U.S.C. 1421 et seq.] shall not be applicable to the 2014 through 2023 crops of covered commodities (as defined in section 9011 of this title ), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014 , and through December 31, 2023 :
+- **(b)** The following provisions of the Agricultural Act of 1949 [ 7 U.S.C. 1421 et seq.] shall not be applicable to the 2014 through 2018 crops of covered commodities (as defined in section 9011 of this title ), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014 , and through December 31, 2018 :
   - **(1)** Section 101 ( 7 U.S.C. 1441 ).
   - **(2)** Section 103(a) ( 7 U.S.C. 1444(a) ).
   - **(3)** Section 105 ( 7 U.S.C. 1444b ).
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T02:10:17.230Z"
   - **(10)** Title IV ( 7 U.S.C. 1421 et seq.), other than sections 404, 412, and 416 ( 7 U.S.C. 1424 , 1429, and 1431).
   - **(11)** Title V ( 7 U.S.C. 1461 et seq.).
   - **(12)** Title VI ( 7 U.S.C. 1471 et seq.).
-- **(c)** The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved May 26, 1941 ( 7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2014 through 2023.
+- **(c)** The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved May 26, 1941 ( 7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2014 through 2018.

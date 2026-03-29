@@ -3,9 +3,9 @@ title: "Section 1130b - Authorization of appropriations"
 usc_title: 20
 usc_section: "1130b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1130b"
-generated_at: "2026-03-29T02:12:17.306Z"
+generated_at: "2026-03-29T17:51:48.447Z"
 ---
 
 # § 1130b. Authorization of appropriations

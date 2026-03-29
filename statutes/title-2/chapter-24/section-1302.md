@@ -3,9 +3,9 @@ title: "Section 1302 - Application of laws"
 usc_title: 2
 usc_section: "1302"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1302"
-generated_at: "2026-03-29T02:09:53.712Z"
+generated_at: "2026-03-29T17:50:24.070Z"
 ---
 
 # § 1302. Application of laws
@@ -22,15 +22,9 @@ generated_at: "2026-03-29T02:09:53.712Z"
   - **(9)** The Worker Adjustment and Retraining Notification Act ( 29 U.S.C. 2101 et seq.).
   - **(10)** The Rehabilitation Act of 1973 ( 29 U.S.C. 701 et seq.).
   - **(11)** Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
-  - **(12)** Section 9202 of title 5 . 1 1 See Effective Date of 2019 Amendment note below.
 - **(b)**
   - **(1)** The Board shall review provisions of Federal law (including regulations) relating to (A) the terms and conditions of employment (including hiring, promotion, demotion, termination, salary, wages, overtime compensation, benefits, work assignments or reassignments, grievance and disciplinary procedures, protection from discrimination in personnel actions, occupational health and safety, and family and medical and other leave) of employees, and (B) access to public services and accommodations.
   - **(2)** Beginning on December 31, 1996 , and every 2 years thereafter, the Board shall report on (A) whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the Congressional Record and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
   - **(3)** Each report accompanying any bill or joint resolution relating to terms and conditions of employment or access to public services or accommodations reported by a committee of the House of Representatives or the Senate shall—
     - **(A)** describe the manner in which the provisions of the bill or joint resolution apply to the legislative branch; or
     - **(B)** in the case of a provision not applicable to the legislative branch, include a statement of the reasons the provision does not apply.
-- **(c)**
-  - **(1)** The provisions of this chapter that apply to a violation of section 1311(a)(1) of this title shall be considered to apply to a violation of title II of the Genetic Information Nondiscrimination Act of 2008 ( 42 U.S.C. 2000ff et seq.), consistent with section 207(c) of that Act ( 42 U.S.C. 2000ff–6(c) ).
-  - **(2)**
-    - **(A)** Nothing in this section limits the provisions of this chapter that apply to a violation of a law described in subparagraph (B).
-    - **(B)** A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.

@@ -3,9 +3,9 @@ title: "Section 2412 - Initiation of investigations"
 usc_title: 19
 usc_section: "2412"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2412"
-generated_at: "2026-03-29T02:12:08.692Z"
+generated_at: "2026-03-29T17:51:51.285Z"
 ---
 
 # § 2412. Initiation of investigations
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T02:12:08.692Z"
       - **(i)** the reasons for the determination, and
       - **(ii)** the United States economic interests that would be adversely affected by the investigation.
     - **(D)** The Trade Representative shall, from time to time, consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
-- **(c)** In determining whether to initiate an investigation under subsection (a) or (b) of any act, policy, or practice that is enumerated in any provision of section 2411(d) of this title , the Trade Representative shall have discretion to determine whether action under section 2411 of this title would be effective in addressing such act, policy, or practice.
+- **(c)** In determining whether to initiate an investigation under subsection (a) or (b) of this section of any act, policy, or practice that is enumerated in any provision of section 2411(d) of this title , the Trade Representative shall have discretion to determine whether action under section 2411 of this title would be effective in addressing such act, policy, or practice.

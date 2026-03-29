@@ -3,16 +3,16 @@ title: "Section 1401 - Rate of tax"
 usc_title: 26
 usc_section: "1401"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1401"
-generated_at: "2026-03-29T02:14:01.147Z"
+generated_at: "2026-03-29T17:52:39.391Z"
 ---
 
 # § 1401. Rate of tax
 
-- **(a)** In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 12.4 percent of the amount of the self-employment income for such taxable year.
+- **(a)** In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year: In the case of a taxable year Beginning after: And before: Percent: December 31, 1983 January 1, 1988 11.40 December 31, 1987 January 1, 1990 12.12 December 31, 1989 12.40
 - **(b)**
-  - **(1)** In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 2.9 percent of the amount of the self-employment income for such taxable year.
+  - **(1)** In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year: In the case of a taxable year Beginning after: And before: Percent: December 31, 1983 January 1, 1985 2.60 December 31, 1984 January 1, 1986 2.70 December 31, 1985 2.90.
   - **(2)**
     - **(A)** In addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) for each taxable year beginning after December 31, 2012 , a tax equal to 0.9 percent of the self-employment income for such taxable year which is in excess of—
       - **(i)** in the case of a joint return, $250,000,

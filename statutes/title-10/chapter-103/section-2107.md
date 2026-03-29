@@ -3,29 +3,29 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-03-29T02:10:45.059Z"
+generated_at: "2026-03-29T17:50:57.070Z"
 ---
 
 # § 2107. Financial assistance program for specially selected members
 
-- **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, Marine Corps, or Space Force.
+- **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, or Marine Corps, as the case may be.
 - **(b)** To be eligible for appointment as a cadet or midshipman under this section a member must—
   - **(1)** be a citizen or national of the United States;
   - **(2)** be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;
-  - **(3)** enlist in the reserve component of an armed force for the period prescribed by the Secretary of the military department concerned;
+  - **(3)** enlist in the reserve component of the armed force in which he is appointed as a cadet or midshipman for the period prescribed by the Secretary of the military department concerned;
   - **(4)** contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program; and
   - **(5)** agree in writing that, at the discretion of the Secretary of the military department concerned, he will—
     - **(A)**
-      - **(i)** accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that, if he is commissioned as a regular officer and his regular commission is terminated before the sixth anniversary of his date of rank, he will accept an appointment, if offered, in the reserve component of an armed force and not resign before that anniversary or before such other date, not beyond the eighth anniversary of the midshipman’s date of rank, that the Secretary of Defense may prescribe; and
+      - **(i)** accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and that, if he is commissioned as a regular officer and his regular commission is terminated before the sixth anniversary of his date of rank, he will accept an appointment, if offered, in the reserve component of that armed force and not resign before that anniversary or before such other date, not beyond the eighth anniversary of the midshipman’s date of rank, that the Secretary of Defense may prescribe; and
       - **(ii)** serve on active duty for four or more years;
     - **(B)**
-      - **(i)** accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be; and
-      - **(ii)** serve in a reserve component of an armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of section 2108 of this title , under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
+      - **(i)** accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
+      - **(ii)** serve in a reserve component of that armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of section 2108 of this title , under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
     - **(C)**
-      - **(i)** accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be; and
-      - **(ii)** serve in a reserve component of an armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of section 2108 of this title , under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
+      - **(i)** accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
+      - **(ii)** serve in a reserve component of that armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of section 2108 of this title , under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
 - **(c)**
   - **(1)** The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
   - **(2)** The Secretary of the military department concerned may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
@@ -59,6 +59,3 @@ generated_at: "2026-03-29T02:10:45.059Z"
     - **(E)** Requirements for—
       - **(i)** one or more health-care professionals to review, in the case of such a response of a cadet or midshipman, each health-related condition and prognosis addressed in the response, taking into consideration the matters submitted in such response; and
       - **(ii)** the Secretary concerned to take into consideration the determinations made under clause (i) with respect to such condition in making a final decision regarding whether to suspend payment in the case of such cadet or midshipman on the basis of that condition, and the conditions under which such suspension may be lifted.
-- **(k)**
-  - **(1)** Provisions of this section referring to a regular commission, regular officer, or a commission in a regular component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force serving on active duty pursuant to section 20105(b) of this title .
-  - **(2)** Provisions of this section referring to a reserve commission, reserve officer, or a commission in a reserve component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force not serving on active duty pursuant to section 20105(b) of this title .

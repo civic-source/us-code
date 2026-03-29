@@ -3,9 +3,9 @@ title: "Section 2148 - Transactions to accomplish merger"
 usc_title: 12
 usc_section: "2148"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2148"
-generated_at: "2026-03-29T02:11:21.113Z"
+generated_at: "2026-03-29T17:51:13.161Z"
 ---
 
 # § 2148. Transactions to accomplish merger

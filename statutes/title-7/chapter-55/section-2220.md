@@ -3,12 +3,12 @@ title: "Section 2220 - Certain officials and employees of Department and others 
 usc_title: 7
 usc_section: "2220"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2220"
-generated_at: "2026-03-29T02:10:16.953Z"
+generated_at: "2026-03-29T17:50:48.724Z"
 ---
 
 # § 2220. Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees
 
-The officials and the employees of the Department of Agriculture engaged in the activities described in section 2279i of this title and paid in whole or in part out of funds contributed as provided therein, and the persons, corporations, or associations making contributions as therein provided, shall not be subject to the provisions of section 209 of title 18 ; nor shall any official or employee engaged in the cooperative activities of the Forest Service, or the persons, corporations, or associations contributing to such activities be subject to such section.
+The officials and the employees of the Department of Agriculture engaged in the activities described in section 450b of this title and paid in whole or in part out of funds contributed as provided therein, and the persons, corporations, or associations making contributions as therein provided, shall not be subject to the provisions of section 209 of title 18 ; nor shall any official or employee engaged in the cooperative activities of the Forest Service, or the persons, corporations, or associations contributing to such activities be subject to such section.
 

@@ -3,9 +3,9 @@ title: "Section 1980a - Reimbursement of owner for fee paid to navigate foreign 
 usc_title: 22
 usc_section: "1980a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1980a"
-generated_at: "2026-03-29T02:12:40.017Z"
+generated_at: "2026-03-29T17:52:10.470Z"
 ---
 
 # § 1980a. Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law
@@ -16,6 +16,6 @@ generated_at: "2026-03-29T02:12:40.017Z"
   - **(2)** an affidavit attesting that the owner or the owner’s agent paid the fee under protest; and
   - **(3)** a copy of the vessel’s certificate of documentation.
 - **(c)** Requests for reimbursement shall be made to the Secretary of State within 120 days after the date of payment of the fee, or within 90 days after November 3, 1995 , whichever is later.
-- **(d)** Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under section 1979 of this title . To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a), which shall be deposited in the Fishermen’s Protective Fund established under section 1979 of this title .
+- **(d)** Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under section 1979 of this title . To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a) of this section, which shall be deposited in the Fishermen’s Protective Fund established under section 1979 of this title .
 - **(e)** The Secretary of State shall take such action as the Secretary deems appropriate to make and collect claims against the foreign country imposing such fee for any amounts reimbursed under this section.
 - **(f)** For purposes of this section, the term “owner” includes any charterer of a vessel of the United States.

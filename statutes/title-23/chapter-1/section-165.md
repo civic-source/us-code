@@ -3,26 +3,16 @@ title: "Section 165 - Territorial and Puerto Rico highway program"
 usc_title: 23
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 165"
-generated_at: "2026-03-29T02:13:00.942Z"
+generated_at: "2026-03-29T17:52:01.436Z"
 ---
 
 # § 165. Territorial and Puerto Rico highway program
 
 - **(a)** Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
-  - **(1)** for the Puerto Rico highway program under subsection (b)—
-    - **(A)** $173,010,000 shall be for fiscal year 2022;
-    - **(B)** $176,960,000 shall be for fiscal year 2023;
-    - **(C)** $180,120,000 shall be for fiscal year 2024;
-    - **(D)** $183,675,000 shall be for fiscal year 2025; and
-    - **(E)** $187,230,000 shall be for fiscal year 2026; and
-  - **(2)** for the territorial highway program under subsection (c)—
-    - **(A)** $45,990,000 shall be for fiscal year 2022;
-    - **(B)** $47,040,000 shall be for fiscal year 2023;
-    - **(C)** $47,880,000 shall be for fiscal year 2024;
-    - **(D)** $48,825,000 shall be for fiscal year 2025; and
-    - **(E)** $49,770,000 shall be for fiscal year 2026.
+  - **(1)** $150,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+  - **(2)** $40,000,000 shall be for the territorial highway program under subsection (c).
 - **(b)**
   - **(1)** The Secretary shall allocate funds made available to carry out this subsection to the Commonwealth of Puerto Rico to carry out a highway program in the Commonwealth.
   - **(2)** Amounts made available to carry out this subsection for a fiscal year shall be administered as follows:
@@ -30,12 +20,12 @@ generated_at: "2026-03-29T02:13:00.942Z"
       - **(i)** For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections 104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
         - **(I)** the aggregate of the amounts for the fiscal year; by
         - **(II)** the proportion that—
-      - **(ii)** Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation block grant program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
+      - **(ii)** Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
     - **(B)** The amounts treated as being apportioned to Puerto Rico under each section referred to in subparagraph (A) shall be deemed to be required to be apportioned to Puerto Rico under that section for purposes of the imposition of any penalty under this title or title 49.
     - **(C)** Of amounts allocated to Puerto Rico for the Puerto Rico Highway Program for a fiscal year—
       - **(i)** at least 50 percent shall be available only for purposes eligible under section 119;
       - **(ii)** at least 25 percent shall be available only for purposes eligible under section 148; and
-      - **(iii)** any remaining funds may be obligated for activities eligible under chapter 1 and preventative maintenance on the National Highway System.
+      - **(iii)** any remaining funds may be obligated for activities eligible under chapter 1.
   - **(3)** Except as otherwise specifically provided, Puerto Rico shall not be eligible to receive funds apportioned to States under this title.
 - **(c)**
   - **(1)** In this subsection, the term “territory” means any of the following territories of the United States:
@@ -76,7 +66,7 @@ generated_at: "2026-03-29T02:13:00.942Z"
       - **(ii)** amounts made available under this subsection under the existing agreement shall be available for obligation or expenditure so long as the agreement, or the existing agreement entered into under subparagraph (A), is in effect.
   - **(6)**
     - **(A)** Funds made available under this subsection may be used only for the following projects and activities carried out in a territory:
-      - **(i)** Eligible surface transportation block grant program projects described in section 133(b).
+      - **(i)** Eligible surface transportation program projects described in section 133(b).
       - **(ii)** Cost-effective, preventive maintenance consistent with section 116(e).
       - **(iii)** Ferry boats, terminal facilities, and approaches, in accordance with subsections (b) and (c) of section 129.
       - **(iv)** Engineering and economic surveys and investigations for the planning, and the financing, of future highway programs.
@@ -84,4 +74,4 @@ generated_at: "2026-03-29T02:13:00.942Z"
       - **(vi)** The regulation and equitable taxation of highway use.
       - **(vii)** Such research and development as are necessary in connection with the planning, design, and maintenance of the highway system.
     - **(B)** None of the funds made available under this subsection shall be obligated or expended for routine maintenance.
-  - **(7)** Territorial highway program projects (other than those described in paragraphs (1), (2), (3), and (5) of section 133(c) and section 133(b)(13)) may not be undertaken on roads functionally classified as local.
+  - **(7)** Territorial highway program projects (other than those described in paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)) may not be undertaken on roads functionally classified as local.

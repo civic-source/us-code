@@ -3,9 +3,9 @@ title: "Section 4603 - Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 4603"
-generated_at: "2026-03-29T02:11:34.365Z"
+generated_at: "2026-03-29T17:51:36.373Z"
 ---
 
 # § 4603. Semiconductor Technology Council
@@ -38,12 +38,12 @@ generated_at: "2026-03-29T02:11:34.365Z"
     - **(B)** Two individuals who are eminent in the semiconductor equipment and materials industry.
     - **(C)** Three individuals who are eminent in the semiconductor user industry, including representatives from the telecommunications and computer industries.
     - **(D)** One individual who is eminent in an academic institution.
-- **(d)** Each member of the Council appointed under subsection (c)(7) shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
-- **(e)** A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7), shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
+- **(d)** Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
+- **(e)** A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7) of this section, shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
 - **(f)** Eleven members of the Council shall constitute a quorum.
 - **(g)** The Council shall meet at the call of a Cochairman.
 - **(h)**
   - **(1)** Each member of the Council shall serve without compensation.
   - **(2)** While away from their homes or regular places of business in the performance of duties for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under sections 5702 and 5703 of title 5.
-- **(i)** Section 1013 of title 5 shall not apply to the Council.
+- **(i)** Section 14 of the Federal Advisory Committee Act shall not apply to the Council.
 - **(j)** The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council’s purposes.

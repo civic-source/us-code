@@ -3,9 +3,9 @@ title: "Section 901 - Wartime pay of officer of armed force exercising command h
 usc_title: 37
 usc_section: "901"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 901"
-generated_at: "2026-03-29T02:14:43.145Z"
+generated_at: "2026-03-29T17:52:59.116Z"
 ---
 
 # § 901. Wartime pay of officer of armed force exercising command higher than his grade

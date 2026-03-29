@@ -3,18 +3,18 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-29T02:12:40.240Z"
+generated_at: "2026-03-29T17:52:10.556Z"
 ---
 
 # § 2708. Department of State rewards program
 
 - **(a)**
   - **(1)** There is established a program for the payment of rewards to carry out the purposes of this section.
-  - **(2)** The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, foreign election interference, transnational organized crime, and other related criminal acts.
+  - **(2)** The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, transnational organized crime, and other related criminal acts.
   - **(3)** The rewards program shall be administered by the Secretary of State, in consultation, as appropriate, with the Attorney General.
-- **(b)** In the sole discretion of the Secretary (except as provided in subsection (c)(2)) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
+- **(b)** In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
   - **(1)** the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
   - **(2)** the arrest or conviction in any country of any individual conspiring or attempting to commit an act of international terrorism against a United States person or United States property;
   - **(3)** the arrest or conviction in any country of any individual for committing, primarily outside the territorial jurisdiction of the United States, any narcotics-related offense if that offense involves or is a significant part of conduct that involves—
@@ -23,22 +23,15 @@ generated_at: "2026-03-29T02:12:40.240Z"
       - **(i)** any officer, employee, or contract employee of the United States Government while such individual is engaged in official duties, or on account of that individual’s official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
       - **(ii)** a member of the immediate family of any such individual on account of that individual’s official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
     - **(C)** an attempt or conspiracy to commit any act described in subparagraph (A) or (B);
-  - **(4)** the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), (10), or (14);
-  - **(5)** the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), (10), or (13), including by dismantling an organization in whole or significant part;
+  - **(4)** the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), or (9);
+  - **(5)** the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), or (9), including by dismantling an organization in whole or significant part;
   - **(6)** the identification or location of an individual who holds a key leadership position in a terrorist organization or transnational organized crime group;
   - **(7)** the disruption of financial mechanisms of a foreign terrorist organization or transnational organized crime group, including the use by such organization or group of illicit narcotics production or international narcotics trafficking—
     - **(A)** to finance acts of international terrorism or transnational organized crime; or
     - **(B)** to sustain or support any terrorist organization or transnational organized crime group;
   - **(8)** the arrest or conviction in any country of any individual for participating in, primarily outside the United States, transnational organized crime;
-  - **(9)** the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime;
-  - **(10)** the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under—
-    - **(A)** the statute of such country or tribunal, as the case may be; or
-    - **(B)** United States law;
-  - **(11)** the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18 ;
-  - **(12)** the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title;
-  - **(13)** the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference;
-  - **(14)** the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country; or
-  - **(15)** the restraining, seizing, forfeiting, or repatriating of stolen assets linked to foreign government corruption and the proceeds of such corruption.
+  - **(9)** the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime; or
+  - **(10)** the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide, as defined under the statute of such tribunal.
 - **(c)**
   - **(1)** To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining of evidence or information, as authorized to the Department of Justice, the offering, administration, and payment of rewards under this section, including procedures for—
     - **(A)** identifying individuals, organizations, and offenses with respect to which rewards will be offered;
@@ -56,13 +49,12 @@ generated_at: "2026-03-29T02:12:40.240Z"
   - **(3)** Any reward granted under this section shall be approved and certified for payment by the Secretary.
   - **(4)** The authority to approve rewards of more than $100,000 set forth in paragraph (2) may not be delegated.
   - **(5)** If the Secretary determines that the identity of the recipient of a reward or of the members of the recipient’s immediate family must be protected, the Secretary may take such measures in connection with the payment of the reward as he considers necessary to effect such protection.
-  - **(6)** The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof. Not later than 15 days before making a reward in a form that includes cryptocurrency, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such form for the reward.
-- **(f)** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
+  - **(6)** The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof.
+- **(f)** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) of this section shall not be eligible for a reward under this section.
 - **(g)**
   - **(1)** Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
   - **(2)** Not later than 60 days after the end of each fiscal year, the Secretary shall submit a report to the appropriate congressional committees with respect to the operation of the rewards program. The report shall provide information on the total amounts expended during the fiscal year ending in that year to carry out this section, including amounts expended to publicize the availability of rewards.
   - **(3)** Not less than 15 days before publicly announcing that a reward may be offered for a particular foreign national accused of war crimes, crimes against humanity, or genocide, the Secretary of State shall submit to the appropriate congressional committees a report, which may be submitted in classified form if necessary, setting forth the reasons why the arrest or conviction of such foreign national is in the national interests of the United States.
-  - **(4)** Not less than 15 days after a reward is authorized under this section, the Secretary of State shall submit to the appropriate congressional committees a report, which may be submitted in classified form if necessary to protect intelligence sources and methods, detailing information about the reward, including the identity of the individual for whom the reward is being made, the amount of the reward, the acts with respect to which the reward is being made, and how the reward is being publicized.
 - **(h)** Notwithstanding any other provision of this section, in the sole discretion of the Secretary, the resources of the rewards program shall be available for the publication of rewards offered by foreign governments regarding acts of international terrorism which do not involve United States persons or property or a violation of the narcotics laws of the United States.
 - **(i)**
   - **(1)** For the purpose of more effectively disseminating information about the rewards program, the Secretary may use the resources of the rewards program to conduct media surveys, including analyses of media markets, means of communication, and levels of literacy, in countries determined by the Secretary to be associated with acts of international terrorism.
@@ -71,30 +63,18 @@ generated_at: "2026-03-29T02:12:40.240Z"
 - **(k)** As used in this section:
   - **(1)** The term “act of international terrorism” includes—
     - **(A)** any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title ) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
-    - **(B)** any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) 1 1 See References in Text note below. of title 50.
-  - **(2)** The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
-  - **(3)** The term “foreign person” means—
-    - **(A)** an individual who is not a United States person; or
-    - **(B)** a foreign entity.
-  - **(4)** The term “foreign election interference” means conduct by a foreign person that—
-    - **(A)**
-      - **(i)** violates Federal criminal, voting rights, or campaign finance law; or
-      - **(ii)** is performed by any person acting as an agent of or on behalf of, or in coordination with, a foreign government or criminal enterprise; and
-    - **(B)** includes any covert, fraudulent, deceptive, or unlawful act or attempted act, or knowing use of information acquired by theft, undertaken with the specific intent to significantly influence voters, undermine public confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of, a general or primary Federal, State, or local election or caucus, including—
-      - **(i)** the campaign of a candidate; or
-      - **(ii)** a ballot measure, including an amendment, a bond issue, an initiative, a recall, a referral, or a referendum.
-  - **(5)** The term “member of the immediate family”, with respect to an individual, includes—
+    - **(B)** any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50 , Appendix.
+  - **(2)** The term “appropriate congressional committees” means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
+  - **(3)** The term “member of the immediate family”, with respect to an individual, includes—
     - **(A)** a spouse, parent, brother, sister, or child of the individual;
     - **(B)** a person with respect to whom the individual stands in loco parentis; and
     - **(C)** any person not covered by subparagraph (A) or (B) who is living in the individual’s household and is related to the individual by blood or marriage.
-  - **(6)** The term “rewards program” means the program established in subsection (a)(1).
-  - **(7)** The term “transnational organized crime”—
-    - **(A)** means—
-      - **(i)** racketeering activity (as such term is defined in section 1961 of title 18 ) that involves at least one jurisdiction outside the United States; or
-      - **(ii)** any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit; and
-    - **(B)** includes wildlife trafficking (as defined by section 7601(12) of title 16 ) and severe forms of trafficking in persons (as defined in section 7102 of this title ) involving at least 1 jurisdiction outside of the United States.
-  - **(8)** The term “transnational organized crime group” means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concert with the aim of engaging in transnational organized crime.
-  - **(9)** The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21 ).
-  - **(10)** The term “United States person” means—
-    - **(A)** a citizen or national of the United States; or
+  - **(4)** The term “rewards program” means the program established in subsection (a)(1) of this section.
+  - **(5)** The term “transnational organized crime” means—
+    - **(A)** racketeering activity (as such term is defined in section 1961 of title 18 ) that involves at least one jurisdiction outside the United States; or
+    - **(B)** any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit.
+  - **(6)** The term “transnational organized crime group” means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concert with the aim of engaging in transnational organized crime.
+  - **(7)** The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21 ).
+  - **(8)** The term “United States person” means—
+    - **(A)** a citizen or national of the United States; and
     - **(B)** an alien lawfully present in the United States.

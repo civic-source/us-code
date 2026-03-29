@@ -3,9 +3,9 @@ title: "Section 2909 - Disclaimers"
 usc_title: 16
 usc_section: "2909"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2909"
-generated_at: "2026-03-29T02:11:53.870Z"
+generated_at: "2026-03-29T17:51:56.942Z"
 ---
 
 # § 2909. Disclaimers
@@ -14,4 +14,4 @@ Nothing in this chapter shall be construed as affecting—
 
   - **(1)** the authority, jurisdiction, or responsibility of the States to manage, control, or regulate fish and resident wildlife under State law;
   - **(2)** any requirement under State law that lands, waters, and interests therein may only be acquired for conservation purposes if the owner thereof is a willing seller; and
-  - **(3)** the authority of the Secretary of Agriculture under the Act of March 2, 1931 ( 46 Stat. 1468–1469 , 7 U.S.C. 426–426b ). 1 1 See References in Text note below.
+  - **(3)** the authority of the Secretary of Agriculture under the Act of March 2, 1931 ( 46 Stat. 1468–1469 , 7 U.S.C. 426–426b ).

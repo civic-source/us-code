@@ -3,9 +3,9 @@ title: "Section 2106 - Definitions"
 usc_title: 15
 usc_section: "2106"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2106"
-generated_at: "2026-03-29T02:11:34.270Z"
+generated_at: "2026-03-29T17:51:36.302Z"
 ---
 
 # § 2106. Definitions
@@ -19,5 +19,3 @@ For purposes of this chapter:
   - **(5)** The term “commerce” has the same meaning as such term has under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.].
   - **(6)** The term “Commission” means the Federal Trade Commission.
   - **(7)** The term “United States” means the States, the District of Columbia, and the Commonwealth of Puerto Rico.
-  - **(8)** The term “collectibles certification service” means a person recognized by collectors for providing independent certification that collectible items are genuine.
-  - **(9)** The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 ( 15 U.S.C. 1051 et seq.).

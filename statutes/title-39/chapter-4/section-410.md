@@ -3,9 +3,9 @@ title: "Section 410 - Application of other laws"
 usc_title: 39
 usc_section: "410"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 410"
-generated_at: "2026-03-29T02:14:53.116Z"
+generated_at: "2026-03-29T17:52:57.900Z"
 ---
 
 # § 410. Application of other laws
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:14:53.116Z"
   - **(7)** section 19 of the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 668 );
   - **(8)** the provisions of the Act of August 12, 1968 ( 42 U.S.C. 4151–415 6);
   - **(9)** chapter 39 of title 31;
-  - **(10)** chapter 4 of title 5; and
+  - **(10)** the Inspector General Act of 1978; and
   - **(11)** section 5520a of title 5 .
 - **(c)** Subsection (b)(1) of this section shall not require the disclosure of—
   - **(1)** the name or address, past or present, of any postal patron;

@@ -3,9 +3,9 @@ title: "Section 2432 - Freedom of emigration in East-West trade"
 usc_title: 19
 usc_section: "2432"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2432"
-generated_at: "2026-03-29T02:12:08.694Z"
+generated_at: "2026-03-29T17:51:51.286Z"
 ---
 
 # § 2432. Freedom of emigration in East-West trade
@@ -14,20 +14,20 @@ generated_at: "2026-03-29T02:12:08.694Z"
   - **(1)** denies its citizens the right or opportunity to emigrate;
   - **(2)** imposes more than a nominal tax on emigration or on the visas or other documents required for emigration, for any purpose or cause whatsoever; or
   - **(3)** imposes more than a nominal tax, levy, fine, fee, or other charge on any citizen as a consequence of the desire of such citizen to emigrate to the country of his choice,
-- **(b)** After January 3, 1975 , (A) products of a nonmarket economy country may be eligible to receive nondiscriminatory treatment (normal trade relations), (B) such country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (C) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a). Such report with respect to such country shall include information as to the nature and implementation of emigration laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter so long as such treatment is received, such credits or guarantees are extended, or such agreement is in effect.
+- **(b)** After January 3, 1975 , (A) products of a nonmarket economy country may be eligible to receive nondiscriminatory treatment (normal trade relations), (B) such country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (C) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of emigration laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter so long as such treatment is received, such credits or guarantees are extended, or such agreement is in effect.
 - **(c)**
-  - **(1)** During the 18-month period beginning on January 3, 1975 , the President is authorized to waive by Executive order the application of subsections (a) and (b) with respect to any country, if he reports to the Congress that—
+  - **(1)** During the 18-month period beginning on January 3, 1975 , the President is authorized to waive by Executive order the application of subsections (a) and (b) of this section with respect to any country, if he reports to the Congress that—
     - **(A)** he has determined that such waiver will substantially promote the objectives of this section; and
     - **(B)** he has received assurances that the emigration practices of that country will henceforth lead substantially to the achievement of the objectives of this section.
-  - **(2)** During any period subsequent to the 18-month period referred to in paragraph (1), the President is authorized to waive by Executive order the application of subsections (a) and (b) with respect to any country, if the waiver authority granted by this subsection continues to apply to such country pursuant to subsection (d), and if he reports to the Congress that—
+  - **(2)** During any period subsequent to the 18-month period referred to in paragraph (1), the President is authorized to waive by Executive order the application of subsections (a) and (b) of this section with respect to any country, if the waiver authority granted by this subsection continues to apply to such country pursuant to subsection (d) of this section, and if he reports to the Congress that—
     - **(A)** he has determined that such waiver will substantially promote the objectives of this section; and
     - **(B)** he has received assurances that the emigration practices of that country will henceforth lead substantially to the achievement of the objectives of this section.
-  - **(3)** A waiver with respect to any country shall terminate on the day after the waiver authority granted by this subsection ceases to be effective with respect to such country pursuant to subsection (d). The President may, at any time, terminate by Executive order any waiver granted under this subsection.
+  - **(3)** A waiver with respect to any country shall terminate on the day after the waiver authority granted by this subsection ceases to be effective with respect to such country pursuant to subsection (d) of this section. The President may, at any time, terminate by Executive order any waiver granted under this subsection.
 - **(d)**
-  - **(1)** If the President determines that the further extension of the waiver authority granted under subsection (c) will substantially promote the objectives of this section, he may recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
+  - **(1)** If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will substantially promote the objectives of this section, he may recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
     - **(A)** be made not later than 30 days before the expiration of such authority;
     - **(B)** be made in a document transmitted to the House of Representatives and the Senate setting forth his reasons for recommending the extension of such authority; and
-    - **(C)** include, for each country with respect to which a waiver granted under subsection (c) is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
+    - **(C)** include, for each country with respect to which a waiver granted under subsection (c) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
   - **(2)**
     - **(A)** The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title , and—
       - **(i)** the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and

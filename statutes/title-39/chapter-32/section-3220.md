@@ -3,9 +3,9 @@ title: "Section 3220 - Use of official mail in the location and recovery of miss
 usc_title: 39
 usc_section: "3220"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 3220"
-generated_at: "2026-03-29T02:14:53.131Z"
+generated_at: "2026-03-29T17:52:57.914Z"
 ---
 
 # § 3220. Use of official mail in the location and recovery of missing children
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T02:14:53.131Z"
     - **(C)** the procedures by which such materials and information may be obtained; and
     - **(D)** any other matter which the Office considers appropriate.
   - **(2)** Each executive department and independent establishment of the Government of the United States shall prescribe regulations under which penalty mail sent by such department or establishment may be used in conformance with the guidelines prescribed under paragraph (1).
-- **(b)** The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
+- **(b)** The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.
 - **(c)** As used in this section, “Office of Juvenile Justice and Delinquency Prevention” and “Office” each means the Office of Juvenile Justice and Delinquency Prevention within the Department of Justice, as established by section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974.

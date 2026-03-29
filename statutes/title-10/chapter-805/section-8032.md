@@ -1,19 +1,19 @@
 ---
-title: "Section 8032 - Office of the Chief of Naval Operations: general duties"
+title: "Section 8032 - The Air Staff: general duties"
 usc_title: 10
 usc_section: "8032"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 8032"
-generated_at: "2026-03-29T02:10:45.292Z"
+generated_at: "2026-03-29T17:50:57.239Z"
 ---
 
-# § 8032. Office of the Chief of Naval Operations: general duties
+# § 8032. The Air Staff: general duties
 
-- **(a)** The Office of the Chief of Naval Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Navy and to the Chief of Naval Operations.
-- **(b)** Under the authority, direction, and control of the Secretary of the Navy, the Office of the Chief of Naval Operations shall—
-  - **(1)** subject to subsections (c) and (d) of section 8014 of this title , prepare for such employment of the Navy, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Navy), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Navy, as will assist in the execution of any power, duty, or function of the Secretary or the Chief of Naval Operations;
-  - **(2)** investigate and report upon the efficiency of the Navy and its preparation to support military operations by combatant commands;
+- **(a)** The Air Staff shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force, and the Chief of Staff of the Air Force.
+- **(b)** Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff shall—
+  - **(1)** subject to subsections (c) and (d) of section 8014 of this title , prepare for such employment of the Air Force, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Air Force, as will assist in the execution of any power, duty, or function of the Secretary or the Chief of Staff;
+  - **(2)** investigate and report upon the efficiency of the Air Force and its preparation to support military operations by combatant commands;
   - **(3)** prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
-  - **(4)** as directed by the Secretary or the Chief of Naval Operations, coordinate the action of organizations of the Navy; and
+  - **(4)** as directed by the Secretary or the Chief of Staff, coordinate the action of organizations of the Air Force; and
   - **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.

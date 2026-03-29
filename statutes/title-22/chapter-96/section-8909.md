@@ -1,42 +1,31 @@
 ---
-title: "Section 8909 - Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation"
+title: "Section 8909 - Annual report on military and security developments involving the Russian Federation"
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-29T02:12:40.476Z"
+generated_at: "2026-03-29T17:52:10.733Z"
 ---
 
-# § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation
+# § 8909. Annual report on military and security developments involving the Russian Federation
 
-- **(a)** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person knowingly, on or after August 2, 2017 —
-  - **(1)** materially violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition contained in or issued pursuant to any covered Executive order, this chapter, or the Ukraine Freedom Support Act of 2014 ( 22 U.S.C. 8921 et seq.); or
-  - **(2)** facilitates a significant transaction or transactions, including deceptive or structured transactions, for or on behalf of—
-    - **(A)** any person subject to sanctions imposed by the United States with respect to the Russian Federation; or
-    - **(B)** any child, spouse, parent, or sibling of an individual described in subparagraph (A).
-- **(b)** The sanctions described in this subsection are the exercise of all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-- **(c)**
-  - **(1)** The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out subsection (b).
-  - **(2)** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
-- **(d)** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
-  - **(1)** a written determination that the waiver—
-    - **(A)** is in the vital national security interests of the United States; or
-    - **(B)** will further the enforcement of this chapter;
-  - **(2)** in the case of sanctions imposed under this section in connection with a covered Executive order described in subparagraph (A), (B), (C), or (D) of subsection (f)(1), a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015 , by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014 , and any successor agreements that are agreed to by the Government of Ukraine; and
-  - **(3)** in the case of sanctions imposed under this section in connection with a covered Executive order described in subparagraphs (E) or (F) of subsection (f)(1), a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
-- **(e)** Subject to section 9511 of this title , the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees—
-  - **(1)** a notice of and justification for the termination; and
-  - **(2)** a notice that—
-    - **(A)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
-    - **(B)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
-- **(f)** In this section:
-  - **(1)** The term “covered Executive order” means any of the following:
-    - **(A)** Executive Order No. 13660 (79 Fed. Reg. 13493; relating to blocking property of certain persons contributing to the situation in Ukraine).
-    - **(B)** Executive Order No. 13661 (79 Fed. Reg. 15535; relating to blocking property of additional persons contributing to the situation in Ukraine).
-    - **(C)** Executive Order No. 13662 (79 Fed. Reg. 16169; relating to blocking property of additional persons contributing to the situation in Ukraine).
-    - **(D)** Executive Order No. 13685 (79 Fed. Reg. 77357; relating to blocking property of certain persons and prohibiting certain transactions with respect to the Crimea region of Ukraine).
-    - **(E)** Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), relating to the Russian Federation.
-    - **(F)** Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), relating to the Russian Federation.
-  - **(2)** The term “foreign person” has the meaning given such term in section 595.304 of title 31, Code of Federal Regulations (as in effect on August 2, 2017 ).
-  - **(3)** The term “structured”, with respect to a transaction, has the meaning given the term “structure” in paragraph (xx) of section 1010.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+- **(a)** Not later than June 1, 2015 , and June 1 of each year thereafter through 2020, the Secretary of Defense shall submit to the specified congressional committees a report, in both classified and unclassified form, on the current and future military power of the Russian Federation (in this section referred to as “Russia”). The report shall address the current and probable future course of military-technological development of the Russian military, the tenets and probable development of the security strategy and military strategy of the Government of Russia, and military organizations and operational concepts, for the 20-year period following submission of such report.
+- **(b)** The report required under subsection (a) shall include the following:
+  - **(1)** An assessment of the security situation in regions neighboring Russia.
+  - **(2)** The goals and factors shaping the security strategy and military strategy of the Government of Russia.
+  - **(3)** Trends in Russian security and military behavior that would be designed to achieve, or that are consistent with, the goals described in paragraph (2).
+  - **(4)** An assessment of the global and regional security objectives of the Government of Russia, including objectives that would affect the North Atlantic Treaty Organization, the Middle East, or the People’s Republic of China.
+  - **(5)** A detailed assessment of the sizes, locations, and capabilities of the nuclear, special operations, land, sea, and air forces of the Government of Russia.
+  - **(6)** Developments in Russian military doctrine and training.
+  - **(7)** An assessment of the proliferation activities of the Government of Russia and Russian entities, as a supplier of materials, technologies, or expertise relating to nuclear weapons or other weapons of mass destruction or missile systems.
+  - **(8)** Developments in the asymmetric capabilities of the Government of Russia, including its strategy and efforts to develop and deploy cyberwarfare and electronic warfare capabilities, details on the number of malicious cyber incidents originating from Russia against Department of Defense infrastructure, and associated activities originating or suspected of originating from Russia.
+  - **(9)** The strategy and capabilities of space and counterspace programs in Russia, including trends, global and regional activities, the involvement of military and civilian organizations, including state-owned enterprises, academic institutions, and commercial entities, and efforts to develop, acquire, or gain access to advanced technologies that would enhance Russian military capabilities.
+  - **(10)** Developments in Russia’s nuclear program, including the size and state of Russia’s stockpile, its nuclear strategy and associated doctrines, its civil and military production capacities, and projections of its future arsenals.
+  - **(11)** A description of the anti-access and area denial capabilities of the Government of Russia.
+  - **(12)** A description of Russia’s command, control, communications, computers, intelligence, surveillance, and reconnaissance modernization program and its applications for Russia’s precision guided weapons.
+  - **(13)** In consultation with the Secretary of Energy and the Secretary of State, developments regarding United States-Russian engagement and cooperation on security matters.
+  - **(14)** Other military and security developments involving Russia that the Secretary of Defense considers relevant to United States national security.
+- **(c)** In this section, the term “specified congressional committees” means—
+  - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, the Select Committee on Intelligence, and the majority leader and minority leader of the Senate; and
+  - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Speaker and minority leader of the House of Representatives.

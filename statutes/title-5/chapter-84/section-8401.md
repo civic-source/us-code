@@ -3,9 +3,9 @@ title: "Section 8401 - Definitions"
 usc_title: 5
 usc_section: "8401"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8401"
-generated_at: "2026-03-29T02:10:01.954Z"
+generated_at: "2026-03-29T17:50:36.537Z"
 ---
 
 # § 8401. Definitions
@@ -102,11 +102,10 @@ For the purpose of this chapter—
       - **(i)** is not an employee or Member covered under this chapter;
       - **(ii)** is not performing civilian service which is creditable service under section 8411; and
       - **(iii)** has less than 5 years of creditable civilian service under section 8411; and
-    - **(B)** after December 31, 2012 , and before January 1, 2014 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411;
+    - **(B)** after December 31, 2012 , and before January 1, 2014 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
   - **(38)** the term “further revised annuity employee” means any individual who—
     - **(A)** on December 31, 2013 —
       - **(i)** is not an employee or Member covered under this chapter;
       - **(ii)** is not performing civilian service which is creditable service under section 8411; and
       - **(iii)** has less than 5 years of creditable civilian service under section 8411; and
-    - **(B)** after December 31, 2013 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
-  - **(39)** “representative payee” means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
+    - **(B)** after December 31, 2013 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.

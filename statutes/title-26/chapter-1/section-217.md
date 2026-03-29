@@ -3,9 +3,9 @@ title: "Section 217 - Moving expenses"
 usc_title: 26
 usc_section: "217"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 217"
-generated_at: "2026-03-29T02:14:00.860Z"
+generated_at: "2026-03-29T17:52:39.170Z"
 ---
 
 # § 217. Moving expenses
@@ -58,6 +58,3 @@ generated_at: "2026-03-29T02:14:00.860Z"
     - **(A)** which are paid or incurred by the spouse or any dependent of any decedent who (as of the time of his death) had a principal place of work outside the United States, and
     - **(B)** which are incurred for a move which begins within 6 months after the death of such decedent and which is to a residence in the United States from a former residence outside the United States which (as of the time of the decedent’s death) was the residence of such decedent and the individual paying or incurring the expense.
 - **(j)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
-- **(k)**
-  - **(1)** Except in the case of an individual to whom subsection (g) applies, this section shall not apply to any taxable year beginning after December 31, 2017 .
-  - **(2)** An employee or new appointee of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )) (other than a member of the Armed Forces of the United States) who moves pursuant to a change in assignment which requires relocation shall be treated for purposes of this section in the same manner as an individual to whom subsection (g) applies.

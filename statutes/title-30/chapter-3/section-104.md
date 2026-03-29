@@ -3,9 +3,9 @@ title: "Section 104 - Agreements with applicants for patents as to disposition o
 usc_title: 30
 usc_section: "104"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 104"
-generated_at: "2026-03-29T02:14:11.195Z"
+generated_at: "2026-03-29T17:52:16.702Z"
 ---
 
 # § 104. Agreements with applicants for patents as to disposition of oil or gas, or proceeds thereof, pending determination of title; Navy Petroleum Fund

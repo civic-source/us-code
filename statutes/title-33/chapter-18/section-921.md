@@ -3,9 +3,9 @@ title: "Section 921 - Review of compensation orders"
 usc_title: 33
 usc_section: "921"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 921"
-generated_at: "2026-03-29T02:14:18.529Z"
+generated_at: "2026-03-29T17:52:45.926Z"
 ---
 
 # § 921. Review of compensation orders

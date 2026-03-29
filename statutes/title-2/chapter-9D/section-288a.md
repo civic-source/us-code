@@ -3,9 +3,9 @@ title: "Section 288a - Senate Joint Leadership Group"
 usc_title: 2
 usc_section: "288a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 288a"
-generated_at: "2026-03-29T02:09:53.666Z"
+generated_at: "2026-03-29T17:50:24.021Z"
 ---
 
 # § 288a. Senate Joint Leadership Group

@@ -3,9 +3,9 @@ title: "Section 1206a - Reserve component members unable to perform duties when 
 usc_title: 10
 usc_section: "1206a"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1206a"
-generated_at: "2026-03-29T02:10:44.994Z"
+generated_at: "2026-03-29T17:50:57.028Z"
 ---
 
 # § 1206a. Reserve component members unable to perform duties when ordered to active duty: disability system processing

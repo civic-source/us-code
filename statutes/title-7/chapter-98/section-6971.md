@@ -3,9 +3,9 @@ title: "Section 6971 - Under Secretary of Agriculture for Research, Education, a
 usc_title: 7
 usc_section: "6971"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6971"
-generated_at: "2026-03-29T02:10:17.101Z"
+generated_at: "2026-03-29T17:50:48.832Z"
 ---
 
 # § 6971. Under Secretary of Agriculture for Research, Education, and Economics
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T02:10:17.101Z"
     - **(D)** foster communication among agricultural research, education, and extension beneficiaries, including the public, to ensure the delivery of agricultural research, education, and extension knowledge.
   - **(3)** The Under Secretary shall perform such other functions and duties as may be required by law or prescribed by the Secretary.
 - **(e)**
-  - **(1)** The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the “Office of the Chief Scientist”, which shall coordinate the research programs and activities of the Department.
-  - **(2)** The Divisions within the Office of the Chief Scientist shall be as follows:
+  - **(1)** The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the “Research, Education, and Extension Office”, which shall coordinate the research programs and activities of the Department.
+  - **(2)** The Divisions within the Research, Education, and Extension Office shall be as follows:
     - **(A)** Renewable energy, natural resources, and environment.
     - **(B)** Food safety, nutrition, and health.
     - **(C)** Plant health and production and plant products.
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T02:10:17.101Z"
       - **(i)** promotes leadership and professional development;
       - **(ii)** enables personnel to interact with other agencies of the Department; and
       - **(iii)** maximizes the ability of the Under Secretary to allow for rotations of Department personnel into the position of Division Chief.
-    - **(C)** Notwithstanding title 5, the maximum length of service for an individual selected as a Division Chief under clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years.
+    - **(C)** Notwithstanding title 5, the maximum length of service for an individual selected as a Division Chief under subparagraph (A) shall not exceed 4 years.
     - **(D)** To be eligible for selection as a Division Chief, an individual shall have—
       - **(i)** conducted exemplary research, education, or extension in the field of agriculture or forestry; and
       - **(ii)** earned an advanced degree at an institution of higher education (as defined in section 1001 of title 20 ).
@@ -58,25 +58,15 @@ generated_at: "2026-03-29T02:10:17.101Z"
       - **(iv)** communicate with research, education, and extension beneficiaries, including the public, and representatives of the research, education, and extension system, including the National Agricultural Research, Extension, Education, and Economics Advisory Board, to promote the benefits of agricultural research, education, and extension;
       - **(v)** assist the Under Secretary in preparing and implementing the roadmap for agricultural research, education, and extension, as described in section 7614a of this title ; and
       - **(vi)** perform such other duties as the Under Secretary may determine.
-  - **(4)** In addition to selecting the Division Chiefs under paragraph (3), using available personnel authority under title 5, the Under Secretary shall select personnel—
-    - **(A)** to oversee implementation, training, and compliance with the scientific integrity policy of the Department;
-    - **(B)**
-      - **(i)** to integrate strategic program planning and evaluation functions across the programs of the Department; and
-      - **(ii)** to help prepare the annual report to Congress on the relevance and adequacy of programs under the jurisdiction of the Under Secretary;
-    - **(C)** to assist the Chief Scientist in coordinating the international engagements of the Department with the Department of State and other international agencies and offices of the Federal Government; and
-    - **(D)** to oversee other duties as may be required by Federal law or Department policy.
-  - **(5)**
-    - **(A)**
-      - **(i)** There is authorized to be appropriated such sums as are necessary to fund the costs of Division personnel.
-      - **(ii)** In addition to amounts made available under clause (i), notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
+  - **(4)**
+    - **(A)** Notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
     - **(B)** To the maximum extent practicable—
       - **(i)** the Under Secretary shall minimize the number of full-time equivalent positions in the Divisions; and
       - **(ii)** at no time shall the aggregate number of staff for all Divisions exceed 30 full-time equivalent positions.
     - **(C)** To the maximum extent practicable, and using the authority described in paragraph (3)(A), the Under Secretary shall rotate personnel among the Divisions, and between the Divisions and agencies of the Department, in a manner that—
-      - **(i)** promotes leadership and professional development;
-      - **(ii)** enables personnel to interact with other agencies of the Department; and
-      - **(iii)** provides strong staff continuity to the Office of the Chief Scientist.
-  - **(6)** The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Office of the Chief Scientist in such form as is required to ensure that administrative duplication does not occur.
+      - **(i)** promotes leadership and professional development; and
+      - **(ii)** enables personnel to interact with other agencies of the Department.
+  - **(5)** The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
 - **(f)**
   - **(1)** In this subsection:
     - **(A)** The term “Advisory Board” means the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 1408 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3123 ).
@@ -99,10 +89,10 @@ generated_at: "2026-03-29T02:10:17.101Z"
       - **(xv)** The program providing capacity grants to NLGCA Institutions under section 1473F of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 [ 7 U.S.C. 3319i ].
       - **(xvi)** Other programs that are capacity and infrastructure programs, as determined by the Secretary.
     - **(D)** The term “competitive program” means each of the following agricultural research, extension, education, and related programs for which the Secretary has administrative or other authority as of the day before the date of enactment of the Food, Conservation, and Energy Act of 2008:
-      - **(i)** The Agriculture and Food Research Initiative established under section 3157(b) of this title .
-      - **(ii)** The program providing competitive grants for risk management education established under section 1524(a) of this title .
+      - **(i)** The Agriculture and Food Research Initiative established under section 450i(b) of this title .
+      - **(ii)** The program providing competitive grants for risk management education established under section 1524(a)(3) of this title .
       - **(iii)** The program providing community food project competitive grants established under section 2034 of this title .
-      - **(iv)** The beginning farmer and rancher development grant program established under subsection (d) of section 2279 of this title .
+      - **(iv)** The program providing grants for beginning farmer and rancher development established under section 3319f of this title .
       - **(v)** The program providing grants under section 1417(j) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3152(j) ).
       - **(vi)** The program providing grants for Hispanic-serving institutions established under section 1455 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3241 ).
       - **(vii)** The program providing competitive grants for international agricultural science and education programs under section 1459A of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3292b ).
@@ -144,7 +134,7 @@ generated_at: "2026-03-29T02:10:17.101Z"
   - **(4)** The Institute shall have such authority as is necessary to carry out this subsection, including the authority to promulgate such regulations as the Institute considers to be necessary for governance of operations, organization, and personnel.
   - **(5)**
     - **(A)** The Director shall organize offices and functions within the Institute to administer fundamental and applied research and extension and education programs.
-    - **(B)** The Director shall ensure the research priorities established by the Under Secretary through the Office of the Chief Scientist are carried out by the offices and functions of the Institute, where applicable.
+    - **(B)** The Director shall ensure the research priorities established by the Under Secretary through the Research, Education and Extension Office are carried out by the offices and functions of the Institute, where applicable.
     - **(C)** The Director shall—
       - **(i)** determine an appropriate balance between fundamental and applied research programs and functions to ensure future research needs are met; and
       - **(ii)** designate staff, as appropriate, to assist in carrying out this subparagraph.

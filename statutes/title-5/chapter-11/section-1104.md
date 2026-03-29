@@ -3,9 +3,9 @@ title: "Section 1104 - Delegation of authority for personnel management"
 usc_title: 5
 usc_section: "1104"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 1104"
-generated_at: "2026-03-29T02:10:01.797Z"
+generated_at: "2026-03-29T17:50:36.440Z"
 ---
 
 # § 1104. Delegation of authority for personnel management

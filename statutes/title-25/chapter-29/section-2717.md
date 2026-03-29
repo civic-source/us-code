@@ -3,9 +3,9 @@ title: "Section 2717 - Commission funding"
 usc_title: 25
 usc_section: "2717"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2717"
-generated_at: "2026-03-29T02:13:20.952Z"
+generated_at: "2026-03-29T17:52:06.133Z"
 ---
 
 # § 2717. Commission funding
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T02:13:20.952Z"
   - **(6)** For purposes of this section, gross revenues shall constitute the annual total amount of money wagered, less any amounts paid out as prizes or paid for prizes awarded and less allowance for amortization of capital expenditures for structures.
 - **(b)**
   - **(1)** The Commission, in coordination with the Secretary and in conjunction with the fiscal year of the United States, shall adopt an annual budget for the expenses and operation of the Commission.
-  - **(2)** The budget of the Commission may include a request for appropriations, as authorized by section 2718 of this title , in an amount equal the amount of funds derived from assessments authorized by subsection (a) for the fiscal year preceding the fiscal year for which the appropriation request is made.
+  - **(2)** The budget of the Commission may include a request for appropriations, as authorized by section 2718 of this title , in an amount equal the amount of funds derived from assessments authorized by subsection (a) of this section for the fiscal year preceding the fiscal year for which the appropriation request is made.
   - **(3)** The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.

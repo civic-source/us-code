@@ -3,9 +3,9 @@ title: "Section 1427 - Commodity Credit Corporation sales price restrictions"
 usc_title: 7
 usc_section: "1427"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1427"
-generated_at: "2026-03-29T02:10:16.788Z"
+generated_at: "2026-03-29T17:50:48.579Z"
 ---
 
 # § 1427. Commodity Credit Corporation sales price restrictions
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T02:10:16.788Z"
     - **(A)** make available any farm commodity or product thereof owned or controlled by the Corporation for use in relieving distress—
       - **(i)** in any area in the United States (including the Virgin Islands) declared by the President to be an acute distress area because of unemployment or other economic cause, if the President finds that the use will not displace or interfere with normal marketing of agricultural commodities; and
       - **(ii)** in connection with any major disaster determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.); and
-    - **(B)** donate or sell commodities in accordance with subchapter V.
+    - **(B)** donate or sell commodities in accordance with subchapter V of this chapter.
   - **(2)** Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available under this subsection beyond the cost of the commodities to the Corporation in—
     - **(A)** the storage of the commodity; and
     - **(B)** the handling and transportation costs in making delivery of the commodity to designated agencies at one or more central locations in each State or other area.

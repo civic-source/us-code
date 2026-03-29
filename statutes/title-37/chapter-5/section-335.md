@@ -3,9 +3,9 @@ title: "Section 335 - Special bonus and incentive pay authorities for officers i
 usc_title: 37
 usc_section: "335"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 335"
-generated_at: "2026-03-29T02:14:43.130Z"
+generated_at: "2026-03-29T17:52:59.095Z"
 ---
 
 # § 335. Special bonus and incentive pay authorities for officers in health professions
@@ -24,13 +24,13 @@ generated_at: "2026-03-29T02:14:43.130Z"
 - **(d)** The Secretary concerned may impose such additional criteria for the receipt of a bonus or incentive pay under this section as the Secretary determines to be appropriate.
 - **(e)**
   - **(1)** The Secretary concerned shall determine the amounts of a bonus or incentive pay to be paid under this section, except that—
-    - **(A)** a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
-    - **(B)** a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $200,000 for each 12-month period of obligated service agreed to under subsection (f);
-    - **(C)** a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $150,000 for each 12-month period of obligated service agreed to under subsection (f);
+    - **(A)** a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $30,000 for each 12-month period of obligated service agreed to under subsection (f);
+    - **(B)** a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
+    - **(C)** a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $75,000 for each 12-month period of obligated service agreed to under subsection (f);
     - **(D)** health professions incentive pay under subsection (b) may be paid monthly and may not exceed, in any 12-month period—
-      - **(i)** $200,000 for medical officers and dental officers; and
-      - **(ii)** $50,000 for officers in other health professions; and
-    - **(E)** board certification incentive pay under subsection (c) may not exceed $15,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
+      - **(i)** $100,000 for medical officers and dental officers; and
+      - **(ii)** $15,000 for officers in other health professions; and
+    - **(E)** board certification incentive pay under subsection (c) may not exceed $6,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
   - **(2)** A health professions bonus under subsection (a) may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned. Board certification incentive pay under subsection (c) may be paid monthly, in a lump sum at the beginning of the certification period, or in periodic installments during the certification period, as determined by the Secretary concerned.
   - **(3)** Upon acceptance by the Secretary concerned of the written agreement required by subsection (f), the total amount of the health professions bonus to be paid under the agreement shall be fixed.
 - **(f)** To receive a bonus under this section, an officer determined to be eligible for the bonus shall enter into a written agreement with the Secretary concerned that specifies—
@@ -53,5 +53,5 @@ generated_at: "2026-03-29T02:14:43.130Z"
   - **(5)** Any health profession performed by officers of the Nurse Corps of a uniformed service or by officers designated as a nurse.
   - **(6)** Any health profession performed by officers in the Veterinary Corps of a uniformed service or by officers designated as a veterinary officer.
   - **(7)** Any health profession performed by officers designated as a physician assistant.
-  - **(8)** Any health profession performed by officers in the regular or reserve corps 1 1 See Change of Name note below. of the Public Health Service.
-- **(k)** No agreement may be entered into under this section after December 31, 2026 .
+  - **(8)** Any health profession performed by officers in the regular or reserve corps of the Public Health Service.
+- **(k)** No agreement may be entered into under this section after December 31, 2013 .

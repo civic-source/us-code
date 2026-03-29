@@ -3,16 +3,16 @@ title: "Section 3 - Streamlined hiring authority"
 usc_title: 21
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 3"
-generated_at: "2026-03-29T02:12:28.070Z"
+generated_at: "2026-03-29T17:52:03.889Z"
 ---
 
 # § 379d–3. Streamlined hiring authority
 
 - **(a)** In addition to any other personnel authorities under other provisions of law, the Secretary may, without regard to the provisions of title 5 governing appointments in the competitive service, appoint employees to positions in the Food and Drug Administration to perform, administer, or support activities described in subsection (b), if the Secretary determines that such appointments are needed to achieve the objectives specified in subsection (c).
 - **(b)** The activities described in this subsection are—
-  - **(1)** activities under this chapter related to the process for the review of device applications (as defined in section 379i(9) of this title ); and
+  - **(1)** activities under this chapter related to the process for the review of device applications (as defined in section 379i(8) of this title ); and
   - **(2)** activities under this chapter related to human generic drug activities (as defined in section 379j–41 of this title ).
 - **(c)** The objectives specified in this subsection are—
   - **(1)** with respect to the activities under subsection (b)(1), the goals referred to in section 379j–1(a)(1) of this title ; and

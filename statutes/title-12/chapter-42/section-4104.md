@@ -3,9 +3,9 @@ title: "Section 4104 - Annual authorized return and preservation rents"
 usc_title: 12
 usc_section: "4104"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4104"
-generated_at: "2026-03-29T02:11:21.183Z"
+generated_at: "2026-03-29T17:51:13.216Z"
 ---
 
 # § 4104. Annual authorized return and preservation rents
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:11:21.183Z"
 - **(a)** Pursuant to an appraisal under section 4103 of this title , the Secretary shall determine the annual authorized return on the appraised housing, which shall be equal to 8 percent of the preservation equity (as such term is defined in section 4119(8) of this title ).
 - **(b)** The Secretary shall also determine the aggregate preservation rents under this subsection for each project appraised under section 4103 of this title . The aggregate preservation rents shall be used solely for the purposes of comparison with Federal cost limits under section 4105 of this title . Actual rents received by an owner (or a qualified purchaser) shall be determined pursuant to section 4109, 4110, or 4111 of this title. The aggregate preservation rents shall be established as follows:
   - **(1)** The aggregate preservation rent for purposes of receiving incentives pursuant to extension of the low-income affordability restrictions under section 4109 of this title shall be the gross potential income for the project, determined by the Secretary, that would be required to support the following costs:
-    - **(A)** The annual authorized return determined under subsection (a).
+    - **(A)** The annual authorized return determined under subsection (a) of this section.
     - **(B)** Debt service on any rehabilitation loan for the housing.
     - **(C)** Debt service on the federally-assisted mortgage for the housing.
     - **(D)** Project operating expenses.
@@ -24,11 +24,3 @@ generated_at: "2026-03-29T02:11:21.183Z"
     - **(C)** Debt service on the federally-assisted mortgage for the housing.
     - **(D)** Project operating expenses.
     - **(E)** Adequate reserves.
-- **(c)** Neither this section, nor any plan of action or use agreement implementing this section, shall restrict an owner from obtaining a new loan or refinancing an existing loan secured by the project, or from distributing the proceeds of such a loan; except that, in conjunction with such refinancing—
-  - **(1)** the owner shall provide for adequate rehabilitation pursuant to a capital needs assessment to ensure long-term sustainability of the property satisfactory to the lender or bond issuance agency;
-  - **(2)** any resulting budget-based rent increase shall include debt service on the new financing, commercially reasonable debt service coverage, and replacement reserves as required by the lender; and
-  - **(3)** for tenants of dwelling units not covered by a project- or tenant-based rental subsidy, any rent increases resulting from the refinancing transaction may not exceed 10 percent per year, except that—
-    - **(A)** any tenant occupying a dwelling unit as of time of the refinancing may not be required to pay for rent and utilities, for the duration of such tenancy, an amount that exceeds the greater of—
-      - **(i)** 30 percent of the tenant’s income; or
-      - **(ii)** the amount paid by the tenant for rent and utilities immediately before such refinancing; and
-    - **(B)** this paragraph shall not apply to any tenant who does not provide the owner with proof of income.

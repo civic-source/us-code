@@ -3,12 +3,13 @@ title: "Section 594 - Exemption of minimum quantities"
 usc_title: 7
 usc_section: "594"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 594"
-generated_at: "2026-03-29T02:10:16.736Z"
+generated_at: "2026-03-29T17:50:48.530Z"
 ---
 
 # § 594. Exemption of minimum quantities
 
-The Secretary may, by regulation, exempt from compliance with the provisions of this chapter (1) any variety or varieties of grapes and plums, and (2) the shipment of such minimum quantities of grapes and plums to any foreign country as he may prescribe.
+  - **(1)** any variety or varieties of grapes and plums, and
+  - **(2)** the shipment of such minimum quantities of grapes and plums to any foreign country as he may prescribe.
 

@@ -3,16 +3,16 @@ title: "Section 4229 - Eligible affordable housing activities"
 usc_title: 25
 usc_section: "4229"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 4229"
-generated_at: "2026-03-29T02:13:20.995Z"
+generated_at: "2026-03-29T17:52:06.165Z"
 ---
 
 # § 4229. Eligible affordable housing activities
 
 - **(a)** Affordable housing activities under this section are activities conducted in accordance with the requirements of section 4230 of this title to—
   - **(1)** develop or to support affordable housing for rental or homeownership; or
-  - **(2)** provide housing services with respect to affordable housing, through the activities described in subsection (b).
+  - **(2)** provide housing services with respect to affordable housing, through the activities described in subsection (b) of this section.
 - **(b)** The activities described in this subsection are the following:
   - **(1)** The acquisition, new construction, reconstruction, or moderate or substantial rehabilitation of affordable housing, which may include—
     - **(A)** real property acquisition;

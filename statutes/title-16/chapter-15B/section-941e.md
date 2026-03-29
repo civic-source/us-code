@@ -3,18 +3,27 @@ title: "Section 941e - Establishment of offices"
 usc_title: 16
 usc_section: "941e"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 941e"
-generated_at: "2026-03-29T02:11:53.723Z"
+generated_at: "2026-03-29T17:51:56.821Z"
 ---
 
 # § 941e. Establishment of offices
 
 - **(a)**
-  - **(1)** The Director shall establish an office with necessary administrative and technical support services to carry out all United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes.
-  - **(2)** The office shall be known as the “Lower Great Lakes Fish and Wildlife Conservation Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
-  - **(3)** The responsibilities of the Lower Great Lakes Fish and Wildlife Conservation Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
+  - **(1)** The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the “Great Lakes Coordination Office”.
+  - **(2)** The functional responsibilities of the Great Lakes Coordination Office shall include—
+    - **(A)** intra- and interagency coordination;
+    - **(B)** information distribution; and
+    - **(C)** public outreach.
+  - **(3)** The Great Lakes Coordination Office shall—
+    - **(A)** ensure that information acquired under this chapter is made available to the public; and
+    - **(B)** report to the Director of Region 3, Great Lakes Big Rivers.
 - **(b)**
+  - **(1)** The Director shall establish an office with necessary administrative and technical support services to carry out all United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes.
+  - **(2)** The office shall be known as the “Lower Great Lakes Fishery Resources Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
+  - **(3)** The responsibilities of the Lower Great Lakes Fishery Resources Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
+- **(c)**
   - **(1)** The Director shall establish one or more offices with necessary administrative and technical support services to carry out United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the upper Great Lakes.
-  - **(2)** Each of the offices shall be known as an “Upper Great Lakes Fish and Wildlife Conservation Office”, and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
-  - **(3)** The responsibilities of the Upper Great Lakes Fish and Wildlife Conservation Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
+  - **(2)** Each of the offices shall be known as an “Upper Great Lakes Fishery Resources Office”, and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
+  - **(3)** The responsibilities of the Upper Great Lakes Fishery Resources Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.

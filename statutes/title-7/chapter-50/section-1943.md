@@ -3,25 +3,25 @@ title: "Section 1943 - Limitations on amount of operating loans"
 usc_title: 7
 usc_section: "1943"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1943"
-generated_at: "2026-03-29T02:10:16.874Z"
+generated_at: "2026-03-29T17:50:48.659Z"
 ---
 
 # § 1943. Limitations on amount of operating loans
 
 - **(a)** The Secretary shall make or insure no loan under this subchapter—
-  - **(1)** that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $400,000, or, in the case of a loan guaranteed by the Secretary, $1,750,000 (increased, beginning with fiscal year 2019, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or
+  - **(1)** that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or
   - **(2)** for the purchasing or leasing of land other than for cash rent, or for carrying on any land leasing or land purchasing program.
 - **(b)** For purposes of this section, the inflation percentage applicable to a fiscal year is the percentage (if any) by which—
-  - **(1)** the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on July 31 of the immediately preceding fiscal year; exceeds
-  - **(2)** the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
+  - **(1)** the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on August 31 of the immediately preceding fiscal year; exceeds
+  - **(2)** the average of such index (as so defined) for the 12-month period ending on August 31, 1996 .
 - **(c)**
   - **(1)** Subject to paragraph (2), the Secretary may establish a program to make or guarantee microloans.
-  - **(2)** The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this subsection to any 1 borrower to exceed $50,000.
+  - **(2)** The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this chapter to any 1 borrower to exceed $50,000.
   - **(3)** To the maximum extent practicable, the Secretary shall limit the administrative burdens and streamline the application and approval process for microloans under this subsection.
   - **(4)**
-    - **(A)** Subject to subparagraph (B), during each of the 2014 through 2023 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
+    - **(A)** Subject to subparagraph (B), during each of the 2014 through 2018 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
       - **(i)** to make or guarantee microloans consistent with the terms provided under this subsection; and
       - **(ii)** to provide business, financial, marketing, and credit management services to microloan borrowers.
     - **(B)** Prior to making a loan to an institution described in subparagraph (A), the Secretary shall—

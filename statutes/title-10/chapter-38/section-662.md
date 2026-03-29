@@ -3,14 +3,14 @@ title: "Section 662 - Promotion policy objectives for joint officers"
 usc_title: 10
 usc_section: "662"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 662"
-generated_at: "2026-03-29T02:10:44.898Z"
+generated_at: "2026-03-29T17:50:56.962Z"
 ---
 
 # § 662. Promotion policy objectives for joint officers
 
-The Secretary of Defense shall ensure that the qualifications of officers assigned to joint duty assignments are such that—
-
+- **(a)** The Secretary of Defense shall ensure that the qualifications of officers assigned to joint duty assignments are such that—
   - **(1)** officers who are serving on, or have served on, the Joint Staff are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
   - **(2)** officers in the grade of major (or in the case of the Navy, lieutenant commander) or above who have been designated as a joint qualified officer are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
+- **(b)** Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments or on the Joint Staff, and officers who have been designated as a joint qualified officer in the grades of major (or in the case of the Navy, lieutenant commander) through colonel (or in the case of the Navy, captain), especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1) and (2) of subsection (a). If such promotion rates fail to meet such objectives for any fiscal year, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.

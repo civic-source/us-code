@@ -3,22 +3,22 @@ title: "Section 1627b - National Sheep Industry Improvement Center"
 usc_title: 7
 usc_section: "1627b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1627b"
-generated_at: "2026-03-29T02:10:16.830Z"
+generated_at: "2026-03-29T17:50:48.620Z"
 ---
 
 # § 1627b. National Sheep Industry Improvement Center
 
 - **(a)** In this section:
-  - **(1)** The term “Board” means the Board of Directors established under subsection (f).
-  - **(2)** The term “Center” means the National Sheep Industry Improvement Center established under subsection (b).
+  - **(1)** The term “Board” means the Board of Directors established under subsection (f) of this section.
+  - **(2)** The term “Center” means the National Sheep Industry Improvement Center established under subsection (b) of this section.
   - **(3)** The term “eligible entity” means an entity that promotes the betterment of the United States sheep or goat industries and that is—
     - **(A)** a public, private, or cooperative organization;
     - **(B)** an association, including a corporation not operated for profit;
     - **(C)** a federally recognized Indian Tribe; or
     - **(D)** a public or quasi-public agency.
-  - **(4)** The term “Fund” means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e).
+  - **(4)** The term “Fund” means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e) of this section.
   - **(5)** The term “intermediary” means a financial institution receiving Center funds for establishing a revolving fund and relending to an eligible entity.
 - **(b)** The Secretary shall establish a National Sheep Industry Improvement Center.
 - **(c)** The purposes of the Center shall be to—
@@ -45,8 +45,8 @@ generated_at: "2026-03-29T02:10:16.830Z"
     - **(E)** donations or contributions accepted by the Center to support authorized programs and activities; and
     - **(F)** any other funds acquired by the Center.
   - **(3)**
-    - **(A)** The Center may use amounts in the Fund to make direct loans, loan guarantees, cooperative agreements, equity interests, investments, repayable grants, and grants to eligible entities, either directly or through an intermediary, in accordance with a strategic plan submitted under subsection (d).
-    - **(B)** The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c). The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.
+    - **(A)** The Center may use amounts in the Fund to make direct loans, loan guarantees, cooperative agreements, equity interests, investments, repayable grants, and grants to eligible entities, either directly or through an intermediary, in accordance with a strategic plan submitted under subsection (d) of this section.
+    - **(B)** The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c) of this section. The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.
     - **(C)** The Center shall, to the maximum extent practicable, use the Fund to serve broad geographic areas and regions of diverse production.
     - **(D)** The Center may not use more than 10 percent of the amounts in the portfolio of the Center for each fiscal year for the administration of the Center. The portfolio shall be calculated at the beginning of each fiscal year and shall include a total of—
       - **(i)** all outstanding loan balances;
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T02:10:16.830Z"
     - **(E)** None of the amounts in the Fund may be used to influence legislation.
     - **(F)** To be eligible to receive amounts from the Fund, an entity must agree to account for the amounts using generally accepted accounting principles.
     - **(G)** The Center may use amounts in the Fund to—
-      - **(i)** participate with Federal and State agencies in financing activities that are in accordance with a strategic plan submitted under subsection (d), including participation with several States in a regional effort;
+      - **(i)** participate with Federal and State agencies in financing activities that are in accordance with a strategic plan submitted under subsection (d) of this section, including participation with several States in a regional effort;
       - **(ii)** participate with other public and private funding sources in financing activities that are in accordance with the strategic plan, including participation in a regional effort;
       - **(iii)** provide security for, or make principal or interest payments on, revenue or general obligation bonds issued by a State, if the proceeds from the sale of the bonds are deposited in the Fund;
       - **(iv)** accrue interest;
@@ -102,7 +102,7 @@ generated_at: "2026-03-29T02:10:16.830Z"
     - **(A)** The Board shall select a chairperson from among the voting members of the Board.
     - **(B)** The term of office of the chairperson shall be 2 years.
   - **(8)**
-    - **(A)** The Board shall meet not less than once each fiscal year at the call of the chairperson or at the request of the executive director appointed under subsection (g)(1).
+    - **(A)** The Board shall meet not less than once each fiscal year at the call of the chairperson or at the request of the executive director appointed under subsection (g)(1) of this section.
     - **(B)** The location of a meeting of the Board shall be established by the Board.
   - **(9)**
     - **(A)** A quorum of the Board shall consist of a majority of the voting members.
@@ -121,7 +121,7 @@ generated_at: "2026-03-29T02:10:16.830Z"
       - **(i)** If a member of the Board makes a full disclosure of an interest and, prior to any participation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
       - **(ii)** A member that discloses an interest under clause (i) shall not vote on a determination of whether the member may participate in the matter relating to the interest.
     - **(E)**
-      - **(i)** The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
+      - **(i)** The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) of this section if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
       - **(ii)** In the case of any violation and remand of a funding decision to the Board under clause (i), the Secretary shall inform the Board of the reasons for the remand.
       - **(iii)** If a decision with respect to a matter is remanded to the Board by reason of a conflict of interest faced by a Board member, the member may not participate in any subsequent decision with respect to the matter.
   - **(11)**

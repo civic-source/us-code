@@ -3,9 +3,9 @@ title: "Section 157 - Funds of Library of Congress Trust Fund Board; management 
 usc_title: 2
 usc_section: "157"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 157"
-generated_at: "2026-03-29T02:09:53.649Z"
+generated_at: "2026-03-29T17:50:24.006Z"
 ---
 
 # § 157. Funds of Library of Congress Trust Fund Board; management of

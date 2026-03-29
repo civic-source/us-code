@@ -3,20 +3,20 @@ title: "Section 4507 - Longevity compensation"
 usc_title: 2
 usc_section: "4507"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4507"
-generated_at: "2026-03-29T02:09:53.771Z"
+generated_at: "2026-03-29T17:50:24.114Z"
 ---
 
 # § 4507. Longevity compensation
 
-- **(a)** This section shall apply 1 1 See Inapplicability of Section to Certain Employees note below. to—
+- **(a)** This section shall apply to—
   - **(1)** each employee of the Senate whose compensation is paid from the appropriation for Salaries, Officers and Employees under the following headings:
     - **(A)** Office of the Secretary, including individuals employed under authority of section 6538 of this title ;
     - **(B)** Office of the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
     - **(C)** Offices of the Secretaries for the Majority and the Minority;
   - **(2)** each employee of the Senate authorized by Senate resolution to be appointed by the Secretary of the Senate or the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
-  - **(3)** each employee of the Capitol Guide Service established under section 2166 2 2 See References in Text note below. of this title.
+  - **(3)** each employee of the Capitol Guide Service established under section 2166 1 1 See References in Text note below. of this title.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), an employee to whom this section applies shall be paid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as “longevity compensation”) at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
   - **(2)** The amount of longevity compensation which may be paid to an employee, when added to his regular annual compensation, shall not exceed the maximum annual compensation which may be paid to Senate employees generally as prescribed by law or orders of the President pro tempore issued under authority of section 4571 of this title .

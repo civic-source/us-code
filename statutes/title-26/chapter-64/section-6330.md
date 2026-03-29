@@ -3,9 +3,9 @@ title: "Section 6330 - Notice and opportunity for hearing before levy"
 usc_title: 26
 usc_section: "6330"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6330"
-generated_at: "2026-03-29T02:14:01.330Z"
+generated_at: "2026-03-29T17:52:39.560Z"
 ---
 
 # § 6330. Notice and opportunity for hearing before levy
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T02:14:01.330Z"
       - **(iv)** the alternatives available to taxpayers which could prevent levy on property (including installment agreements under section 6159); and
       - **(v)** the provisions of this title and procedures relating to redemption of property and release of liens on property.
 - **(b)**
-  - **(1)** If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Independent Office of Appeals.
+  - **(1)** If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Office of Appeals.
   - **(2)** A person shall be entitled to only one hearing under this section with respect to the taxable period to which the unpaid tax specified in subsection (a)(3)(A) relates.
   - **(3)** The hearing under this subsection shall be conducted by an officer or employee who has had no prior involvement with respect to the unpaid tax specified in subsection (a)(3)(A) before the first hearing under this section or section 6320. A taxpayer may waive the requirement of this paragraph.
 - **(c)** In the case of any hearing conducted under this section—
@@ -44,13 +44,11 @@ generated_at: "2026-03-29T02:14:01.330Z"
   - **(4)** An issue may not be raised at the hearing if—
     - **(A)**
       - **(i)** the issue was raised and considered at a previous hearing under section 6320 or in any other previous administrative or judicial proceeding; and
-      - **(ii)** the person seeking to raise the issue participated meaningfully in such hearing or proceeding;
-    - **(B)** the issue meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A); or
-    - **(C)** a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.
+      - **(ii)** the person seeking to raise the issue participated meaningfully in such hearing or proceeding; or
+    - **(B)** the issue meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A).
 - **(d)**
-  - **(1)** The person may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).
-  - **(2)** In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter.
-  - **(3)** The Internal Revenue Service Independent Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
+  - **(1)** The person may, within 30 days of a determination under this section, appeal such determination to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
+  - **(2)** The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
     - **(A)** collection actions taken or proposed with respect to such determination; and
     - **(B)** after the person has exhausted all administrative remedies, a change in circumstances with respect to such person which affects such determination.
 - **(e)**

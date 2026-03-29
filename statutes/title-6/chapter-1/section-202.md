@@ -1,16 +1,16 @@
 ---
-title: "Section 202 - Border, maritime, and transportation responsibilities"
+title: "Section 202 - Responsibilities"
 usc_title: 6
 usc_section: "202"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 202"
-generated_at: "2026-03-29T02:10:04.967Z"
+generated_at: "2026-03-29T17:50:39.328Z"
 ---
 
-# § 202. Border, maritime, and transportation responsibilities
+# § 202. Responsibilities
 
-The Secretary shall be responsible for the following:
+The Secretary, acting through the Under Secretary for Border and Transportation Security, shall be responsible for the following:
 
   - **(1)** Preventing the entry of terrorists and the instruments of terrorism into the United States.
   - **(2)** Securing the borders, territorial waters, ports, terminals, waterways, and air, land, and sea transportation systems of the United States, including managing and coordinating those functions transferred to the Department at ports of entry.

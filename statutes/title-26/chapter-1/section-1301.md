@@ -3,9 +3,9 @@ title: "Section 1301 - Averaging of farm income"
 usc_title: 26
 usc_section: "1301"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1301"
-generated_at: "2026-03-29T02:14:01.132Z"
+generated_at: "2026-03-29T17:52:39.367Z"
 ---
 
 # § 1301. Averaging of farm income

@@ -3,19 +3,15 @@ title: "Section 5315 - Interest and administrative cost charges on delinquent pa
 usc_title: 38
 usc_section: "5315"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 5315"
-generated_at: "2026-03-29T02:14:50.456Z"
+generated_at: "2026-03-29T17:52:53.806Z"
 ---
 
 # § 5315. Interest and administrative cost charges on delinquent payments of certain amounts due the United States
 
 - **(a)** Notwithstanding any other provision of this title or of any other law and subject to sections 3485(e) and 5302 of this title, interest and administrative costs (as described in subsections (b) and (c) of this section) shall be charged, under regulations which the Secretary shall prescribe, on any amount owed to the United States—
-  - **(1)** for an indebtedness resulting from a person’s participation in a benefits program administered by the Secretary other than—
-    - **(A)** a loan, loan-guaranty, or loan-insurance program;
-    - **(B)** a disability compensation program;
-    - **(C)** a pension program; or
-    - **(D)** an educational assistance program.
+  - **(1)** for an indebtedness resulting from a person’s participation in a benefits program administered by the Secretary other than a loan, loan-guaranty, or loan-insurance program;
   - **(2)** for an indebtedness resulting from the provision of care or services under chapter 17 of this title; or
   - **(3)** to the extent not precluded by the terms of the loan instruments concerned, for an indebtedness resulting from a person’s participation in a program of loans, loan guaranties, or loan insurance administered by the Secretary under this title.
 - **(b)**

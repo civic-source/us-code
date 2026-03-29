@@ -3,9 +3,9 @@ title: "Section 3531 - Definitions"
 usc_title: 19
 usc_section: "3531"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3531"
-generated_at: "2026-03-29T02:12:08.732Z"
+generated_at: "2026-03-29T17:51:51.335Z"
 ---
 
 # § 3531. Definitions

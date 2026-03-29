@@ -3,9 +3,9 @@ title: "Section 39 - Hidalgo-Reynosa lands; administration; part of national wil
 usc_title: 22
 usc_section: "39"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 39"
-generated_at: "2026-03-29T02:12:39.947Z"
+generated_at: "2026-03-29T17:52:10.402Z"
 ---
 
 # § 277d–39. Hidalgo-Reynosa lands; administration; part of national wildlife refuge system

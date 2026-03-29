@@ -3,9 +3,9 @@ title: "Section 2523 - Gift to spouse"
 usc_title: 26
 usc_section: "2523"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 2523"
-generated_at: "2026-03-29T02:14:01.171Z"
+generated_at: "2026-03-29T17:52:39.415Z"
 ---
 
 # § 2523. Gift to spouse
@@ -42,8 +42,8 @@ generated_at: "2026-03-29T02:14:01.171Z"
     - **(C)** paragraph (5) and section 2519 shall not apply to the donor spouse’s interest in the annuity, and
     - **(D)** if the donee spouse dies before the donor spouse, no amount shall be includible in the gross estate of the donee spouse under section 2044 with respect to such annuity.
 - **(g)**
-  - **(1)** If, after the transfer, the donee spouse is the only beneficiary who is not a charitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
-  - **(2)** For purposes of paragraph (1), the term “charitable beneficiary” and “qualified charitable remainder trust” have the meanings given to such terms by section 2056(b)(8)(B).
+  - **(1)** If, after the transfer, the donee spouse is the only noncharitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
+  - **(2)** For purposes of paragraph (1), the term “noncharitable beneficiary” and “qualified charitable remainder trust” have the meanings given to such terms by section 2056(b)(8)(B). 1 1 See References in Text note below.
 - **(h)** Nothing in this section or any other provision of this chapter shall allow the value of any interest in property to be deducted under this chapter more than once with respect to the same donor.
 - **(i)** If the spouse of the donor is not a citizen of the United States—
   - **(1)** no deduction shall be allowed under this section,

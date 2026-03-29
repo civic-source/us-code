@@ -1,14 +1,14 @@
 ---
-title: "Section 3 - Coastal storm damage reduction contracts"
+title: "Section 3 - Transfer of functions of Beach Erosion Board"
 usc_title: 33
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-29T02:14:18.481Z"
+generated_at: "2026-03-29T17:52:45.887Z"
 ---
 
-# § 426e–3. Coastal storm damage reduction contracts
+# § 426–3. Transfer of functions of Beach Erosion Board
 
-For any project for coastal storm damage reduction, the Secretary may seek input from a non-Federal interest for a project that may be affected by the timing of the coastal storm damage reduction activities under the project, in order to minimize, to the maximum extent practicable, any negative effects resulting from the timing of those activities.
+All functions of the Beach Erosion Board pertaining to review of reports of investigations made concerning erosion of the shores of coastal and lake waters, and the protection of such shores, are hereby transferred to the Board established by section 541 of this title , referred to as the Board of Engineers for Rivers and Harbors.
 

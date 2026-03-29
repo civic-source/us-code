@@ -1,0 +1,14 @@
+---
+title: "Section 653 - Employment of draftsmen and engineers"
+usc_title: 14
+usc_section: "653"
+chapter: 17
+current_through: "PL 113-100"
+classification: "14 U.S.C. § 653"
+generated_at: "2026-03-29T17:51:01.010Z"
+---
+
+# § 653. Employment of draftsmen and engineers
+
+The Coast Guard may employ temporarily, at the seat of government, draftsmen and engineers for the preparation of plans and specifications for vessels, lighthouses, aids to navigation, and other projects for the Coast Guard that may be authorized or appropriated for by Congress, to be paid from the appropriations applicable to such projects.
+

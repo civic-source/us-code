@@ -3,9 +3,9 @@ title: "Section 6506 - General requirements"
 usc_title: 7
 usc_section: "6506"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6506"
-generated_at: "2026-03-29T02:10:17.077Z"
+generated_at: "2026-03-29T17:50:48.818Z"
 ---
 
 # § 6506. General requirements
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:10:17.077Z"
     - **(C)** appropriate physical facilities, machinery, and management practices are established to prevent the possibility of a mixing of organic and nonorganic products or a penetration of prohibited chemicals or other substances on the certified area; and
   - **(2)** provide for reasonable exemptions from specific requirements of this chapter (except the provisions of section 6511 of this title ) with respect to agricultural products produced on certified organic farms if such farms are subject to a Federal or State emergency pest or disease treatment program.
 - **(c)**
-  - **(1)** Notwithstanding the requirement of subsection (a)(1)(A) requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
+  - **(1)** Notwithstanding the requirement of subsection (a)(1)(A) of this section requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
   - **(2)** In carrying out paragraph (1), the Secretary shall—
     - **(A)** consult with—
       - **(i)** the Secretary of Commerce;
@@ -41,5 +41,5 @@ generated_at: "2026-03-29T02:10:17.077Z"
     - **(B)** to the maximum extent practicable, accommodate the unique characteristics of the industries in the United States that harvest and process wild seafood.
 - **(d)** A State organic certification program approved under this chapter may contain additional guidelines governing the production or handling of products sold or labeled as organically produced in such State as required in section 6507 of this title .
 - **(e)**
-  - **(1)** Fees collected under subsection (a)(10) (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
+  - **(1)** Fees collected under subsection (a)(10) of this section (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
   - **(2)** The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.

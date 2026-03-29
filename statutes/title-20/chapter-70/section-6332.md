@@ -3,17 +3,17 @@ title: "Section 6332 - Allocations to States"
 usc_title: 20
 usc_section: "6332"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 6332"
-generated_at: "2026-03-29T02:12:17.442Z"
+generated_at: "2026-03-29T17:51:48.592Z"
 ---
 
 # § 6332. Allocations to States
 
-- **(a)** Of the amount appropriated under section 6302(a) of this title to carry out this part for each of fiscal years 2017–2020 (referred to in this subsection as the current fiscal year)—
+- **(a)** Of the amount appropriated under section 6302(a) of this title to carry out this part for each of fiscal years 2002–2007 (referred to in this subsection as the current fiscal year)—
   - **(1)** an amount equal to the amount made available to carry out section 6333 of this title for fiscal year 2001 shall be allocated in accordance with section 6333 of this title ;
   - **(2)** an amount equal to the amount made available to carry out section 6334 of this title for fiscal year 2001 shall be allocated in accordance with section 6334 of this title ; and
-  - **(3)** an amount equal to 100 percent of the amount, if any, by which the total amount made available under this subsection for the current fiscal year for which the determination is made exceeds the total amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be used to carry out sections 6335 and 6337 of this title and such amount shall be divided equally between sections 6335 and 6337 of this title.
+  - **(3)** an amount equal to 100 percent of the amount, if any, by which the amount made available to carry out sections 6333, 6334, and 6335 of this title for the current fiscal year for which the determination is made exceeds the amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be allocated in accordance with section 6335 of this title .
 - **(b)**
   - **(1)** If the sums available under this subpart for any fiscal year are insufficient to pay the full amounts that all local educational agencies in States are eligible to receive under sections 6333, 6334, and 6335 of this title for such year, the Secretary shall ratably reduce the allocations to such local educational agencies, subject to subsections (c) and (d) of this section.
   - **(2)** If additional funds become available for making payments under sections 6333, 6334, and 6335 of this title for such fiscal year, allocations that were reduced under paragraph (1) shall be increased on the same basis as they were reduced.
@@ -26,6 +26,6 @@ generated_at: "2026-03-29T02:12:17.442Z"
   - **(3)** Notwithstanding any other provision of law, the Secretary shall not take into consideration the hold-harmless provisions of this subsection for any fiscal year for purposes of calculating State or local allocations for the fiscal year under any program administered by the Secretary other than a program authorized under this part.
   - **(4)** For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs (1) and (2) to counties and, if the Secretary’s allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
 - **(d)**
-  - **(1)** If the sums made available under this subpart for any fiscal year are insufficient to pay the full amounts that local educational agencies in all States are eligible to receive under subsection (c) for such year, the Secretary shall ratably reduce such amounts for such year.
-  - **(2)** If additional funds become available for making payments under subsection (c) for such fiscal year, amounts that were reduced under paragraph (1) shall be increased on the same basis as such amounts were reduced.
+  - **(1)** If the sums made available under this subpart for any fiscal year are insufficient to pay the full amounts that local educational agencies in all States are eligible to receive under subsection (c) of this section for such year, the Secretary shall ratably reduce such amounts for such year.
+  - **(2)** If additional funds become available for making payments under subsection (c) of this section for such fiscal year, amounts that were reduced under paragraph (1) shall be increased on the same basis as such amounts were reduced.
 - **(e)** For the purpose of this section and sections 6333, 6334, 6335, and 6337 of this title, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.

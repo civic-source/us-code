@@ -3,15 +3,15 @@ title: "Section 8421 - Annuity supplement"
 usc_title: 5
 usc_section: "8421"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8421"
-generated_at: "2026-03-29T02:10:01.960Z"
+generated_at: "2026-03-29T17:50:36.542Z"
 ---
 
 # § 8421. Annuity supplement
 
 - **(a)**
-  - **(1)** Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d)(1), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
+  - **(1)** Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
   - **(2)** Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h).
   - **(3)**
     - **(A)** An individual whose entitlement to an annuity under section 8412 or 8414 does not commence before age 62 is not entitled to an annuity supplement under this section.

@@ -3,9 +3,9 @@ title: "Section 1203 - Chairman; Vice Chairman"
 usc_title: 5
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 1203"
-generated_at: "2026-03-29T02:10:01.797Z"
+generated_at: "2026-03-29T17:50:36.440Z"
 ---
 
 # § 1203. Chairman; Vice Chairman

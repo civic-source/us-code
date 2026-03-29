@@ -1,12 +1,14 @@
 ---
-title: "Section 426 - Transferred"
+title: "Section 426 - Predatory and other wild animals"
 usc_title: 7
 usc_section: "426"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 426"
-generated_at: "2026-03-29T02:10:16.722Z"
+generated_at: "2026-03-29T17:50:48.514Z"
 ---
 
-# § 426. Transferred
+# § 426. Predatory and other wild animals
+
+The Secretary of Agriculture may conduct a program of wildlife services with respect to injurious animal species and take any action the Secretary considers necessary in conducting the program. The Secretary shall administer the program in a manner consistent with all of the wildlife services authorities in effect on the day before October 28, 2000 .
 

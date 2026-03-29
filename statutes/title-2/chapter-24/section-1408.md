@@ -3,14 +3,14 @@ title: "Section 1408 - Civil action"
 usc_title: 2
 usc_section: "1408"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1408"
-generated_at: "2026-03-29T02:09:53.724Z"
+generated_at: "2026-03-29T17:50:24.077Z"
 ---
 
 # § 1408. Civil action
 
-- **(a)** The district courts of the United States shall have jurisdiction over any civil action commenced under section 1401 of this title and this section by a covered employee.
+- **(a)** The district courts of the United States shall have jurisdiction over any civil action commenced under section 1404 of this title and this section by a covered employee who has completed counseling under section 1402 of this title and mediation under section 1403 of this title . A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation.
 - **(b)** The defendant shall be the employing office alleged to have committed the violation, or in which the violation is alleged to have occurred.
 - **(c)** Any party may demand a jury trial where a jury trial would be available in an action against a private defendant under the relevant law made applicable by this chapter. In any case in which a violation of section 1311 of this title is alleged, the court shall not inform the jury of the maximum amount of compensatory damages available under section 1311(b)(1) or 1311(b)(3) of this title.
 - **(d)**

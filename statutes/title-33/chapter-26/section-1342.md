@@ -3,9 +3,9 @@ title: "Section 1342 - National pollutant discharge elimination system"
 usc_title: 33
 usc_section: "1342"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 1342"
-generated_at: "2026-03-29T02:14:18.576Z"
+generated_at: "2026-03-29T17:52:45.960Z"
 ---
 
 # § 1342. National pollutant discharge elimination system
@@ -40,8 +40,8 @@ generated_at: "2026-03-29T02:14:18.576Z"
   - **(2)** Any State permit program under this section shall at all times be in accordance with this section and guidelines promulgated pursuant to section 1314(i)(2) of this title .
   - **(3)** Whenever the Administrator determines after public hearing that a State is not administering a program approved under this section in accordance with requirements of this section, he shall so notify the State and, if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days, the Administrator shall withdraw approval of such program. The Administrator shall not withdraw approval of any such program unless he shall first have notified the State, and made public, in writing, the reasons for such withdrawal.
   - **(4)** A State may return to the Administrator administration, and the Administrator may withdraw under paragraph (3) of this subsection approval, of—
-    - **(A)** a State partial permit program approved under subsection (n)(3) only if the entire permit program being administered by the State department or agency at the time is returned or withdrawn; and
-    - **(B)** a State partial permit program approved under subsection (n)(4) only if an entire phased component of the permit program being administered by the State at the time is returned or withdrawn.
+    - **(A)** a State partial permit program approved under subsection (n)(3) of this section only if the entire permit program being administered by the State department or agency at the time is returned or withdrawn; and
+    - **(B)** a State partial permit program approved under subsection (n)(4) of this section only if an entire phased component of the permit program being administered by the State at the time is returned or withdrawn.
 - **(d)**
   - **(1)** Each State shall transmit to the Administrator a copy of each permit application received by such State and provide notice to the Administrator of every action related to the consideration of such permit application, including each permit proposed to be issued by such State.
   - **(2)** No permit shall issue (A) if the Administrator within ninety days of the date of his notification under subsection (b)(5) of this section objects in writing to the issuance of such permit, or (B) if the Administrator within ninety days of the date of transmittal of the proposed permit by the State objects in writing to the issuance of such permit as being outside the guidelines and requirements of this chapter. Whenever the Administrator objects to the issuance of a permit under this paragraph such written objection shall contain a statement of the reasons for such objection and the effluent limitations and conditions which such permit would include if it were issued by the Administrator.
@@ -64,20 +64,20 @@ generated_at: "2026-03-29T02:14:18.576Z"
 - **(m)** To the extent a treatment works (as defined in section 1292 of this title ) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title . Nothing in this subsection shall affect the Administrator’s authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
 - **(n)**
   - **(1)** The Governor of a State may submit under subsection (b) of this section a permit program for a portion of the discharges into the navigable waters in such State.
-  - **(2)** A partial permit program under this subsection shall cover, at a minimum, administration of a major category of the discharges into the navigable waters of the State or a major component of the permit program required by subsection (b).
+  - **(2)** A partial permit program under this subsection shall cover, at a minimum, administration of a major category of the discharges into the navigable waters of the State or a major component of the permit program required by subsection (b) of this section.
   - **(3)** The Administrator may approve a partial permit program covering administration of a major category of discharges under this subsection if—
     - **(A)** such program represents a complete permit program and covers all of the discharges under the jurisdiction of a department or agency of the State; and
-    - **(B)** the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b).
-  - **(4)** The Administrator may approve under this subsection a partial and phased permit program covering administration of a major component (including discharge categories) of a State permit program required by subsection (b) if—
-    - **(A)** the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b); and
-    - **(B)** the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
+    - **(B)** the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b) of this section.
+  - **(4)** The Administrator may approve under this subsection a partial and phased permit program covering administration of a major component (including discharge categories) of a State permit program required by subsection (b) of this section if—
+    - **(A)** the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b) of this section; and
+    - **(B)** the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) of this section by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
 - **(o)**
   - **(1)** In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title .
   - **(2)** A permit with respect to which paragraph (1) applies may be renewed, reissued, or modified to contain a less stringent effluent limitation applicable to a pollutant if—
     - **(A)** material and substantial alterations or additions to the permitted facility occurred after permit issuance which justify the application of a less stringent effluent limitation;
     - **(B)**
       - **(i)** information is available which was not available at the time of permit issuance (other than revised regulations, guidance, or test methods) and which would have justified the application of a less stringent effluent limitation at the time of permit issuance; or
-      - **(ii)** the Administrator determines that technical mistakes or mistaken interpretations of law were made in issuing the permit under subsection (a)(1)(B);
+      - **(ii)** the Administrator determines that technical mistakes or mistaken interpretations of law were made in issuing the permit under subsection (a)(1)(B) of this section;
     - **(C)** a less stringent effluent limitation is necessary because of events over which the permittee has no control and for which there is no reasonably available remedy;
     - **(D)** the permittee has received a permit modification under section 1311(c), 1311(g), 1311(h), 1311(i), 1311(k), 1311(n), or 1326(a) of this title; or
     - **(E)** the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect the level of pollutant control actually achieved (but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
@@ -109,28 +109,3 @@ generated_at: "2026-03-29T02:14:18.576Z"
   - **(2)** Not later than July 31, 2001 , and after providing notice and opportunity for public comment, the Administrator shall issue guidance to facilitate the conduct of water quality and designated use reviews for municipal combined sewer overflow receiving waters.
   - **(3)** Not later than September 1, 2001 , the Administrator shall transmit to Congress a report on the progress made by the Environmental Protection Agency, States, and municipalities in implementing and enforcing the CSO control policy.
 - **(r)** No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
-- **(s)**
-  - **(1)** In this subsection, the term “integrated plan” means a plan developed in accordance with the Integrated Municipal Stormwater and Wastewater Planning Approach Framework, issued by the Environmental Protection Agency and dated June 5, 2012 .
-  - **(2)** The Administrator (or a State, in the case of a permit program approved by the Administrator) shall inform municipalities of the opportunity to develop an integrated plan that may be incorporated into a permit under this section.
-  - **(3)**
-    - **(A)** A permit issued under this section that incorporates an integrated plan may integrate all requirements under this chapter addressed in the integrated plan, including requirements relating to—
-      - **(i)** a combined sewer overflow;
-      - **(ii)** a capacity, management, operation, and maintenance program for sanitary sewer collection systems;
-      - **(iii)** a municipal stormwater discharge;
-      - **(iv)** a municipal wastewater discharge; and
-      - **(v)** a water quality-based effluent limitation to implement an applicable wasteload allocation in a total maximum daily load.
-    - **(B)** An integrated plan incorporated into a permit issued under this section may include the implementation of—
-      - **(i)** projects, including innovative projects, to reclaim, recycle, or reuse water; and
-      - **(ii)** green infrastructure.
-  - **(4)**
-    - **(A)** A permit issued under this section that incorporates an integrated plan may include a schedule of compliance, under which actions taken to meet any applicable water quality-based effluent limitation may be implemented over more than 1 permit term if the schedule of compliance—
-      - **(i)** is authorized by State water quality standards; and
-      - **(ii)** meets the requirements of section 122.47 of title 40, Code of Federal Regulations (as in effect on January 14, 2019 ).
-    - **(B)** For purposes of subparagraph (A)(ii), the requirement of section 122.47 of title 40, Code of Federal Regulations, for compliance by an applicable statutory deadline under this chapter does not prohibit implementation of an applicable water quality-based effluent limitation over more than 1 permit term.
-    - **(C)** A schedule of compliance incorporated into a permit issued under this section may be reviewed at the time the permit is renewed to determine whether the schedule should be modified.
-  - **(5)**
-    - **(A)** Nothing in this subsection modifies any obligation to comply with applicable technology and water quality-based effluent limitations under this chapter.
-    - **(B)** Nothing in this subsection reduces or eliminates any flexibility available under this chapter, including the authority of a State to revise a water quality standard after a use attainability analysis under section 131.10(g) of title 40, Code of Federal Regulations (or a successor regulation), subject to the approval of the Administrator under section 1313(c) of this title .
-  - **(6)**
-    - **(A)** Nothing in section 1311(b)(1)(C) of this title precludes a State from authorizing in the water quality standards of the State the issuance of a schedule of compliance to meet water quality-based effluent limitations in permits that incorporate provisions of an integrated plan.
-    - **(B)** In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019 , resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.

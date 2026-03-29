@@ -3,9 +3,9 @@ title: "Section 1066a - Definitions"
 usc_title: 20
 usc_section: "1066a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1066a"
-generated_at: "2026-03-29T02:12:17.195Z"
+generated_at: "2026-03-29T17:51:48.337Z"
 ---
 
 # § 1066a. Definitions
@@ -23,7 +23,7 @@ For the purposes of this part:
     - **(D)** a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property or an interest therein, described in this paragraph;
     - **(E)** a facility designed to provide primarily outpatient health care for students or faculty;
     - **(F)** physical infrastructure essential to support the projects authorized under this paragraph, including roads, sewer and drainage systems, and water, power, lighting, telecommunications, and other utilities;
-    - **(G)** any other facility, equipment or fixture which is essential to the maintaining of accreditation of the member institution by an accrediting agency or association recognized by the Secretary under subpart 2 of part H of subchapter IV; and
+    - **(G)** any other facility, equipment or fixture which is essential to the maintaining of accreditation of the member institution by an accrediting agency or association recognized by the Secretary under subpart 2 of part G of subchapter IV; and
     - **(H)** any real property or interest therein underlying facilities described in subparagraph (A) or (G).
   - **(6)** The term “interest” includes accredited value or any other payment constituting interest on an obligation.
   - **(7)** The term “outstanding”, when used with respect to bonds, shall not include bonds the payment of which shall have been provided for by the irrevocable deposit in trust of obligations maturing as to principal and interest in such amounts and at such times as will ensure the availability of sufficient moneys to make payments on such bonds.

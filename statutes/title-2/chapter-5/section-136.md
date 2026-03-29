@@ -1,14 +1,14 @@
 ---
-title: "Section 136 - Librarian of Congress; rules and regulations"
+title: "Section 136 - Librarian of Congress; appointment; rules and regulations"
 usc_title: 2
 usc_section: "136"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 136"
-generated_at: "2026-03-29T02:09:53.645Z"
+generated_at: "2026-03-29T17:50:24.001Z"
 ---
 
-# § 136. Librarian of Congress; rules and regulations
+# § 136. Librarian of Congress; appointment; rules and regulations
 
-The Librarian of Congress shall make rules and regulations for the government of the Library.
+The Librarian of Congress shall be appointed by the President, by and with the advice and consent of the Senate. He shall make rules and regulations for the government of the Library.
 

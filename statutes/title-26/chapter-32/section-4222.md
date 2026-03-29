@@ -3,9 +3,9 @@ title: "Section 4222 - Registration"
 usc_title: 26
 usc_section: "4222"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4222"
-generated_at: "2026-03-29T02:14:01.210Z"
+generated_at: "2026-03-29T17:52:39.447Z"
 ---
 
 # § 4222. Registration
@@ -20,5 +20,5 @@ generated_at: "2026-03-29T02:14:01.210Z"
 - **(c)** Under regulations prescribed by the Secretary, the registration of any person under this section may be denied, revoked, or suspended if the Secretary determines—
   - **(1)** that such person has used such registration to avoid the payment of any tax imposed by this chapter, or to postpone or in any manner to interfere with the collection of any such tax, or
   - **(2)** that such denial, revocation, or suspension is necessary to protect the revenue.
-- **(d)** The provisions of this section may be extended to, and made applicable with respect to, the exemptions provided by sections 4053(6), 4064(b)(1)(C), 4101, and 4182(b), and the exemptions authorized under section 4293 in respect of the taxes imposed by this chapter, to the extent provided by regulations prescribed by the Secretary.
+- **(d)** The provisions of this section may be extended to, and made applicable with respect to, the exemptions provided by sections 4001(c), 4001(d), 4053(6), 4064(b)(1)(C), 4101, and 4182(b), and the exemptions authorized under section 4293 in respect of the taxes imposed by this chapter, to the extent provided by regulations prescribed by the Secretary.
 - **(e)** Terms used in this section which are defined in section 4221(d) shall have the meaning given to them by section 4221(d).

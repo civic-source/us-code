@@ -3,9 +3,9 @@ title: "Section 5507 - Environmental education awards"
 usc_title: 20
 usc_section: "5507"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 5507"
-generated_at: "2026-03-29T02:12:17.419Z"
+generated_at: "2026-03-29T17:51:48.568Z"
 ---
 
 # § 5507. Environmental education awards
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:12:17.419Z"
   - **(2)** The “Henry David Thoreau Award” to be given in recognition of an outstanding contribution to literature on the natural environment and environmental pollution problems;
   - **(3)** The “Rachael Carson Award” to be given in recognition of an outstanding contribution in print, film, or broadcast media to public education and information on environmental issues or problems; and
   - **(4)** The “Gifford Pinchot Award” to be given in recognition of an outstanding contribution to education and training concerning forestry and natural resource management, including multiple use and sustained yield land management.
-- **(c)** Recipients of education awards provided for in subsection (b) shall be nominated by the Environmental Education Advisory Council provided for in section 5508 of this title .
+- **(c)** Recipients of education awards provided for in subsection (b) of this section shall be nominated by the Environmental Education Advisory Council provided for in section 5508 of this title .
 - **(d)** The Administrator may provide for the “President’s Environmental Youth Awards” to be given to young people in grades kindergarten through twelfth for an outstanding project to promote local environmental awareness.
 - **(e)**
   - **(1)** The Chairman of the Council on Environmental Quality, on behalf of the President, is authorized to develop and administer an awards program to recognize elementary and secondary education teachers and their local educational agencies who demonstrate excellence in advancing environmental education through innovative approaches. One teacher, and the local education agency employing such teacher, from each State, including the District of Columbia and the Commonwealth of Puerto Rico, are eligible to be selected for an award pursuant to this subsection.

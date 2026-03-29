@@ -3,14 +3,14 @@ title: "Section 7421 - Purpose"
 usc_title: 20
 usc_section: "7421"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7421"
-generated_at: "2026-03-29T02:12:17.482Z"
+generated_at: "2026-03-29T17:51:48.661Z"
 ---
 
 # § 7421. Purpose
 
-It is the purpose of this subpart to support the efforts of local educational agencies, Indian tribes and organizations, and other entities in developing elementary school and secondary school programs for Indian students that are designed to—
+It is the purpose of this subpart to support local educational agencies in their efforts to reform elementary school and secondary school programs that serve Indian students in order to ensure that such programs—
 
-  - **(1)** meet the unique cultural, language, and educational needs of such students; and
-  - **(2)** ensure that all students meet the challenging State academic standards.
+  - **(1)** are based on challenging State academic content and student academic achievement standards that are used for all students; and
+  - **(2)** are designed to assist Indian students in meeting those standards.

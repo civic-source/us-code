@@ -3,9 +3,9 @@ title: "Section 8351 - Participation in the Thrift Savings Plan"
 usc_title: 5
 usc_section: "8351"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8351"
-generated_at: "2026-03-29T02:10:01.954Z"
+generated_at: "2026-03-29T17:50:36.537Z"
 ---
 
 # § 8351. Participation in the Thrift Savings Plan
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:10:01.954Z"
   - **(1)** Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of this title shall apply with respect to employees and Members making contributions to the Thrift Savings Fund under subsection (a) of this section.
   - **(2)**
     - **(A)** An employee or Member may contribute to the Thrift Savings Fund in any pay period any amount not exceeding the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under subparagraph (B).
-    - **(B)** The maximum percentage allowable under this subparagraph shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year: The maximum percentage allowable is: 2001 6 2002 7 2003 8 2004 9 2005 10 2006 or thereafter 100.
+    - **(B)** The maximum percentage allowable under this subparagraph shall be determined in accordance with the following table: In the case of a pay period The maximum percent- beginning in fiscal year: age allowable is: 2001 6 2002 7 2003 8 2004 9 2005 10 2006 or thereafter 100.
     - **(C)** Notwithstanding any limitation under this paragraph, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
   - **(3)** No contributions may be made by an employing agency for the benefit of an employee or Member under section 8432(c) of this title .
   - **(4)** Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment.

@@ -3,9 +3,9 @@ title: "Section 164 - Taxes"
 usc_title: 26
 usc_section: "164"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 164"
-generated_at: "2026-03-29T02:14:00.830Z"
+generated_at: "2026-03-29T17:52:39.146Z"
 ---
 
 # § 164. Taxes
@@ -15,6 +15,8 @@ generated_at: "2026-03-29T02:14:00.830Z"
   - **(2)** State and local personal property taxes.
   - **(3)** State and local, and foreign, income, war profits, and excess profits taxes.
   - **(4)** The GST tax imposed on income distributions.
+  - **(5)** The environmental tax imposed by section 59A.
+  - **(6)** Qualified motor vehicle taxes.
 - **(b)** For purposes of this section—
   - **(1)** The term “personal property tax” means an ad valorem tax which is imposed on an annual basis in respect of personal property.
   - **(2)** A State or local tax includes only a tax imposed by a State, a possession of the United States, or a political subdivision of any of the foregoing, or by the District of Columbia.
@@ -22,7 +24,7 @@ generated_at: "2026-03-29T02:14:00.830Z"
   - **(4)**
     - **(A)** The GST tax imposed on income distributions is—
       - **(i)** the tax imposed by section 2601, and
-      - **(ii)** any State tax described in section 2604 (as in effect before its repeal),
+      - **(ii)** any State tax described in section 2604,
     - **(B)** Any tax referred to in subparagraph (A) imposed with respect to a transfer occurring during the taxable year of the distributee (or, in the case of a taxable termination, the trust) which is paid not later than the time prescribed by law (including extensions) for filing the return with respect to such transfer shall be treated as having been paid on the last day of the taxable year in which the transfer was made.
   - **(5)** For purposes of subsection (a)—
     - **(A)** At the election of the taxpayer for the taxable year, subsection (a) shall be applied—
@@ -45,24 +47,25 @@ generated_at: "2026-03-29T02:14:00.830Z"
       - **(ii)** The tables prescribed under clause (i)—
         - **(I)** shall reflect the provisions of this paragraph,
         - **(II)** shall be based on the average consumption by taxpayers on a State-by-State basis (as determined by the Secretary) of items to which clause (i)(I) does not apply, taking into account filing status, number of dependents, adjusted gross income, and rates of State and local general sales taxation, and
-        - **(III)** need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b) 1 1 See References in Text note below. ).
-  - **(6)** In the case of an individual and a taxable year beginning after December 31, 2017 , 2 2 So in original. The comma probably should not appear. —
-    - **(A)** foreign real property taxes shall not be taken into account under subsection (a)(1), and
-    - **(B)** the aggregate amount of taxes taken into account under paragraphs (1), (2), and (3) of subsection (a) and paragraph (5) of this subsection for any taxable year shall not exceed the applicable limitation amount (half the applicable limitation amount in the case of a married individual filing a separate return).
-  - **(7)**
-    - **(A)** For purposes of paragraph (6), the term “applicable limitation amount” means—
-      - **(i)** in the case of any taxable year beginning in calendar year 2025, $40,000,
-      - **(ii)** in the case of any taxable year beginning in calendar year 2026, $40,400,
-      - **(iii)** in the case of any taxable year beginning after calendar year 2026 and before 2030, 101 percent of the dollar amount in effect under this subparagraph for taxable years beginning in the preceding calendar year, and
-      - **(iv)** in the case of any taxable year beginning after calendar year 2029, $10,000.
-    - **(B)**
-      - **(i)** Except as provided in clause (iii), in the case of any taxable year beginning before January 1, 2030 , the applicable limitation amount shall be reduced by 30 percent of the excess (if any) of the taxpayer’s modified adjusted gross income over the threshold amount (half the threshold amount in the case of a married individual filing a separate return).
-      - **(ii)** For purposes of this subparagraph, the term “threshold amount” means—
-        - **(I)** in the case of any taxable year beginning in calendar year 2025, $500,000,
-        - **(II)** in the case of any taxable year beginning in calendar year 2026, $505,000, and
-        - **(III)** in the case of any taxable year beginning after calendar year 2026, 101 percent of the dollar amount in effect under this subparagraph for taxable years beginning in the preceding calendar year.
-      - **(iii)** The reduction under clause (i) shall not result in the applicable limitation amount being less than $10,000.
-      - **(iv)** For purposes of this paragraph, the term “modified adjusted gross income” means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
+        - **(III)** need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b)).
+    - **(I)** This paragraph shall apply to taxable years beginning after December 31, 2003 , and before January 1, 2014 .
+  - **(6)**
+    - **(A)** For purposes of this section, the term “qualified motor vehicle taxes” means any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle.
+    - **(B)** The amount of any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle taken into account under subparagraph (A) shall not exceed the portion of such tax attributable to so much of the purchase price as does not exceed $49,500.
+    - **(C)** The amount otherwise taken into account under subparagraph (A) (after the application of subparagraph (B)) for any taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so treated as—
+      - **(i)** the excess (if any) of—
+        - **(I)** the taxpayer’s modified adjusted gross income for such taxable year, over
+        - **(II)** $125,000 ($250,000 in the case of a joint return), bears to
+      - **(ii)** $10,000.
+    - **(D)** For purposes of this paragraph—
+      - **(i)** The term “qualified motor vehicle” means—
+        - **(I)** a passenger automobile or light truck which is treated as a motor vehicle for purposes of title II of the Clean Air Act, the gross vehicle weight rating of which is not more than 8,500 pounds, and the original use of which commences with the taxpayer,
+        - **(II)** a motorcycle the gross vehicle weight rating of which is not more than 8,500 pounds and the original use of which commences with the taxpayer, and
+        - **(III)** a motor home the original use of which commences with the taxpayer.
+      - **(ii)** The terms “motorcycle” and “motor home” have the meanings given such terms under section 571.3 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph).
+    - **(E)** The last sentence of subsection (a) shall not apply to any qualified motor vehicle taxes.
+    - **(F)** This paragraph shall not apply in the case of a taxpayer who makes an election under paragraph (5) for the taxable year.
+    - **(G)** This paragraph shall not apply to purchases after December 31, 2009 .
 - **(c)** No deduction shall be allowed for the following taxes:
   - **(1)** Taxes assessed against local benefits of a kind tending to increase the value of the property assessed; but this paragraph shall not prevent the deduction of so much of such taxes as is properly allocable to maintenance or interest charges.
   - **(2)** Taxes on real property, to the extent that subsection (d) requires such taxes to be treated as imposed on another taxpayer.
@@ -71,7 +74,7 @@ generated_at: "2026-03-29T02:14:00.830Z"
     - **(A)** so much of the real property tax as is properly allocable to that part of such year which ends on the day before the date of the sale shall be treated as a tax imposed on the seller, and
     - **(B)** so much of such tax as is properly allocable to that part of such year which begins on the date of the sale shall be treated as a tax imposed on the purchaser.
   - **(2)**
-    - **(A)** In the case of any sale of real property, if—
+    - **(A)** in the case of any sale of real property, if—
       - **(i)** a taxpayer may not, by reason of his method of accounting, deduct any amount for taxes unless paid, and
       - **(ii)** the other party to the sale is (under the law imposing the real property tax) liable for the real property tax for the real property tax year,
     - **(B)** In the case of any sale of real property, if the taxpayer’s taxable income for the taxable year during which the sale occurs is computed under an accrual method of accounting, and if no election under section 461(c) (relating to the accrual of real property taxes) applies, then, for purposes of subsection (a), that portion of such tax which—

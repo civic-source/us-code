@@ -1,0 +1,18 @@
+---
+title: "Section 7273a - Grants authorized"
+usc_title: 20
+usc_section: "7273a"
+chapter: 70
+current_through: "PL 113-100"
+classification: "20 U.S.C. § 7273a"
+generated_at: "2026-03-29T17:51:48.654Z"
+---
+
+# § 7273a. Grants authorized
+
+- **(a)** The Secretary is authorized to award grants in each fiscal year to nonprofit organizations (including statewide nonprofit organizations), and consortia of such organizations and local educational agencies, to establish school-linked or school-based parental information and resource centers that provide comprehensive training, information, and support to—
+  - **(1)** parents of children enrolled in elementary schools and secondary schools;
+  - **(2)** individuals who work with the parents of children enrolled in elementary schools and secondary schools;
+  - **(3)** State educational agencies, local educational agencies, schools, organizations that support family-school partnerships (such as parent-teacher associations and Parents as Teachers organizations), and other organizations that carry out parent education and family involvement programs; and
+  - **(4)** parents of children from birth through age 5.
+- **(b)** In awarding grants under this subpart, the Secretary shall, to the extent practicable, ensure that such grants are distributed in all geographic regions of the United States.

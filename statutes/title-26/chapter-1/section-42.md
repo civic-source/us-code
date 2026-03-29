@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-29T02:14:00.732Z"
+generated_at: "2026-03-29T17:52:39.089Z"
 ---
 
 # § 42. Low-income housing credit
@@ -14,24 +14,22 @@ generated_at: "2026-03-29T02:14:00.732Z"
   - **(1)** the applicable percentage of
   - **(2)** the qualified basis of each qualified low-income building.
 - **(b)**
-  - **(1)** For purposes of this section—
-    - **(A)** The term “applicable percentage” means, with respect to any building, the appropriate percentage prescribed by the Secretary for the earlier of—
-      - **(i)** the month in which such building is placed in service, or
-      - **(ii)** at the election of the taxpayer—
-        - **(I)** the month in which the taxpayer and the housing credit agency enter into an agreement with respect to such building (which is binding on such agency, the taxpayer, and all successors in interest) as to the housing credit dollar amount to be allocated to such building, or
-        - **(II)** in the case of any building to which subsection (h)(4)(B) applies, the month in which the tax-exempt obligations are issued.
+  - **(1)** For purposes of this section, the term “applicable percentage” means, with respect to any building, the appropriate percentage prescribed by the Secretary for the earlier of—
     - **(B)** The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
       - **(i)** 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
       - **(ii)** 30 percent of the qualified basis of a building not described in clause (i).
     - **(C)** The present value under subparagraph (B) shall be determined—
       - **(i)** as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
-      - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) and compounded annually, and
+      - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
       - **(iii)** by assuming that the credit allowable under this section for any year is received on the last day of such year.
+      - **(i)** the month in which such building is placed in service, or
+      - **(ii)** at the election of the taxpayer—
+        - **(I)** the month in which the taxpayer and the housing credit agency enter into an agreement with respect to such building (which is binding on such agency, the taxpayer, and all successors in interest) as to the housing credit dollar amount to be allocated to such building, or
+        - **(II)** in the case of any building to which subsection (h)(4)(B) applies, the month in which the tax-exempt obligations are issued.
   - **(2)** In the case of any new building—
-    - **(A)** which is placed in service by the taxpayer after the date of the enactment of this paragraph, and
+    - **(A)** which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2014 , and
     - **(B)** which is not federally subsidized for the taxable year,
-  - **(3)** In the case of any new or existing building to which paragraph (2) does not apply and which is placed in service by the taxpayer after December 31, 2020 , the applicable percentage shall not be less than 4 percent.
-  - **(4)**
+  - **(3)**
     - **(A)** For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).
     - **(B)** For determination of applicable percentage for increases in qualified basis after the 1st year of the credit period, see subsection (f)(3).
     - **(C)** For authority of housing credit agency to limit applicable percentage and qualified basis which may be taken into account under this section with respect to any building, see subsection (h)(7).
@@ -88,7 +86,7 @@ generated_at: "2026-03-29T02:14:00.732Z"
     - **(A)** Except as provided in subparagraphs (B) and (C), the adjusted basis of any building shall be determined without regard to the adjusted basis of any property which is not residential rental property.
     - **(B)** The adjusted basis of any building shall be determined by taking into account the adjusted basis of property (of a character subject to the allowance for depreciation) used in common areas or provided as comparable amenities to all residential rental units in such building.
     - **(C)**
-      - **(i)** The adjusted basis of any building located in a qualified census tract (as defined in paragraph (5)(B)(ii)) shall be determined by taking into account the adjusted basis of property (of a character subject to the allowance for depreciation and not otherwise taken into account) used throughout the taxable year in providing any community service facility.
+      - **(i)** The adjusted basis of any building located in a qualified census tract (as defined in paragraph (5)(C)) shall be determined by taking into account the adjusted basis of property (of a character subject to the allowance for depreciation and not otherwise taken into account) used throughout the taxable year in providing any community service facility.
       - **(ii)** The increase in the adjusted basis of any building which is taken into account by reason of clause (i) shall not exceed the sum of—
         - **(I)** 25 percent of so much of the eligible basis of the qualified low-income housing project of which it is a part as does not exceed $15,000,000, plus
         - **(II)** 10 percent of so much of the eligible basis of such project as is not taken into account under subclause (I).
@@ -141,7 +139,7 @@ generated_at: "2026-03-29T02:14:00.732Z"
     - **(C)** The determination under subparagraph (A) shall be made as of the close of the 1st taxable year in the credit period with respect to such expenditures.
     - **(D)** In the case of any expenditures which are treated under paragraph (4) as placed in service during any calendar year after 2009, the $6,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2008” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2008” for “calendar year 1992” in subparagraph (B) thereof.
   - **(4)** For purposes of applying this section with respect to expenditures which are treated as a separate building by reason of this subsection—
     - **(A)** such expenditures shall be treated as placed in service at the close of the 24-month period referred to in paragraph (3)(A), and
     - **(B)** the applicable fraction under subsection (c)(1) shall be the applicable fraction for the building (without regard to paragraph (1)) with respect to which the expenditures were incurred.
@@ -169,18 +167,12 @@ generated_at: "2026-03-29T02:14:00.732Z"
         - **(I)** subsection (d)(2)(B)(iv) shall not apply, and
         - **(II)** the credit period for such building shall not begin before the taxable year which would be the 1st taxable year of the credit period for rehabilitation expenditures with respect to the building under the modifications described in clause (ii)(II).
       - **(ii)** A building is described in this clause if—
-        - **(I)** a waiver is granted under subsection (d)(6)(B) with respect to the acquisition of the building, and
+        - **(I)** a waiver is granted under subsection (d)(6)(C) with respect to the acquisition of the building, and
         - **(II)** a credit would be allowed for rehabilitation expenditures with respect to such building if subsection (e)(3)(A)(ii)(I) did not apply and if the dollar amount in effect under subsection (e)(3)(A)(ii)(II) were two-thirds of such amount.
 - **(g)** For purposes of this section—
-  - **(1)** The term “qualified low-income housing project” means any project for residential rental property if the project meets the requirements of subparagraph (A), (B), or (C) whichever is elected by the taxpayer:
+  - **(1)** The term “qualified low-income housing project” means any project for residential rental property if the project meets the requirements of subparagraph (A) or (B) whichever is elected by the taxpayer:
     - **(A)** The project meets the requirements of this subparagraph if 20 percent or more of the residential units in such project are both rent-restricted and occupied by individuals whose income is 50 percent or less of area median gross income.
     - **(B)** The project meets the requirements of this subparagraph if 40 percent or more of the residential units in such project are both rent-restricted and occupied by individuals whose income is 60 percent or less of area median gross income.
-    - **(C)**
-      - **(i)** The project meets the minimum requirements of this subparagraph if 40 percent or more (25 percent or more in the case of a project described in section 142(d)(6)) of the residential units in such project are both rent-restricted and occupied by individuals whose income does not exceed the imputed income limitation designated by the taxpayer with respect to the respective unit.
-      - **(ii)** For purposes of clause (i)—
-        - **(I)** The taxpayer shall designate the imputed income limitation of each unit taken into account under such clause.
-        - **(II)** The average of the imputed income limitations designated under subclause (I) shall not exceed 60 percent of area median gross income.
-        - **(III)** The designated imputed income limitation of any unit under subclause (I) shall be 20 percent, 30 percent, 40 percent, 50 percent, 60 percent, 70 percent, or 80 percent of area median gross income.
   - **(2)**
     - **(A)** For purposes of paragraph (1), a residential unit is rent-restricted if the gross rent with respect to such unit does not exceed 30 percent of the imputed income limitation applicable to such unit. For purposes of the preceding sentence, the amount of the income limitation under paragraph (1) applicable for any period shall not be less than such limitation applicable for the earliest period the building (which contains the unit) was included in the determination of whether the project is a qualified low-income housing project.
     - **(B)** For purposes of subparagraph (A), gross rent—
@@ -192,17 +184,8 @@ generated_at: "2026-03-29T02:14:00.732Z"
       - **(i)** In the case of a unit which does not have a separate bedroom, 1 individual.
       - **(ii)** In the case of a unit which has 1 or more separate bedrooms, 1.5 individuals for each separate bedroom.
     - **(D)**
-      - **(i)** Except as provided in clauses (ii), (iii), and (iv), notwithstanding an increase in the income of the occupants of a low-income unit above the income limitation applicable under paragraph (1), such unit shall continue to be treated as a low-income unit if the income of such occupants initially met such income limitation and such unit continues to be rent-restricted.
-      - **(ii)** In the case of a project with respect to which the taxpayer elects the requirements of subparagraph (A) or (B) of paragraph (1), if the income of the occupants of the unit increases above 140 percent of the income limitation applicable under paragraph (1), clause (i) shall cease to apply to such unit if any residential rental unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation.
-      - **(iii)** In the case of a project with respect to which the taxpayer elects the requirements of subparagraph (C) of paragraph (1), if the income of the occupants of the unit increases above 140 percent of the greater of—
-        - **(I)** 60 percent of area median gross income, or
-        - **(II)** the imputed income limitation designated with respect to the unit under paragraph (1)(C)(ii)(I),
-      - **(iv)** In the case of a project described in section 142(d)(4)(B), clause (ii) or (iii), whichever is applicable, shall be applied by substituting “170 percent” for “140 percent”, and—
-        - **(I)** in the case of clause (ii), by substituting “any low-income unit in the building is occupied by a new resident whose income exceeds 40 percent of area median gross income” for “any residential rental unit” and all that follows in such clause, and
-        - **(II)** in the case of clause (iii), by substituting “any low-income unit in the building is occupied by a new resident whose income exceeds the lesser of 40 percent of area median gross income or the imputed income limitation designated with respect to such unit under paragraph (1)(C)(ii)(I)” for “any residential rental unit” and all that follows in such clause.
-      - **(v)** For purposes of clause (iii), the limitation described in this clause with respect to any unit is—
-        - **(I)** the imputed income limitation designated with respect to such unit under paragraph (1)(C)(ii)(I), in the case of a unit which was taken into account as a low-income unit prior to becoming vacant, and
-        - **(II)** the imputed income limitation which would have to be designated with respect to such unit under such paragraph in order for the project to continue to meet the requirements of paragraph (1)(C)(ii)(II), in the case of any other unit.
+      - **(i)** Except as provided in clause (ii), notwithstanding an increase in the income of the occupants of a low-income unit above the income limitation applicable under paragraph (1), such unit shall continue to be treated as a low-income unit if the income of such occupants initially met such income limitation and such unit continues to be rent-restricted.
+      - **(ii)** If the income of the occupants of the unit increases above 140 percent of the income limitation applicable under paragraph (1), clause (i) shall cease to apply to such unit if any residential rental unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation. In the case of a project described in section 142(d)(4)(B), the preceding sentence shall be applied by substituting “170 percent” for “140 percent” and by substituting “any low-income unit in the building is occupied by a new resident whose income exceeds 40 percent of area median gross income” for “any residential unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation”.
     - **(E)** If the gross rent with respect to a residential unit exceeds the limitation under subparagraph (A) by reason of the fact that the income of the occupants thereof exceeds the income limitation applicable under paragraph (1), such unit shall, nevertheless, be treated as a rent-restricted unit for purposes of paragraph (1) if—
       - **(i)** a Federal rental assistance payment described in subparagraph (B)(i) is made with respect to such unit or its occupants, and
       - **(ii)** the sum of such payment and the gross rent with respect to such unit does not exceed the sum of the amount of such payment which would be made and the gross rent which would be payable with respect to such unit if—
@@ -262,7 +245,7 @@ generated_at: "2026-03-29T02:14:00.732Z"
     - **(C)** The State housing credit ceiling applicable to any State for any calendar year shall be an amount equal to the sum of—
       - **(i)** the unused State housing credit ceiling (if any) of such State for the preceding calendar year,
       - **(ii)** the greater of—
-        - **(I)** $1.75 multiplied by the State population, or
+        - **(I)** $1.75 ($1.50 for 2001) multiplied by the State population, or
         - **(II)** $2,000,000,
       - **(iii)** the amount of State housing credit ceiling returned in the calendar year, plus
       - **(iv)** the amount (if any) allocated under subparagraph (D) to such State by the Secretary.
@@ -286,26 +269,24 @@ generated_at: "2026-03-29T02:14:00.732Z"
     - **(H)**
       - **(i)** In the case of a calendar year after 2002, the $2,000,000 and $1.75 amounts in subparagraph (C) shall each be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
       - **(ii)**
         - **(I)** In the case of the $2,000,000 amount, any increase under clause (i) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
         - **(II)** In the case of the $1.75 amount, any increase under clause (i) which is not a multiple of 5 cents shall be rounded to the next lowest multiple of 5 cents.
-    - **(I)** In the case of calendar years beginning after December 31, 2025 , each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.12.
+    - **(I)** In the case of calendar years 2008 and 2009—
+      - **(i)** the dollar amount in effect under subparagraph (C)(ii)(I) for such calendar year (after any increase under subparagraph (H)) shall be increased by $0.20, and
+      - **(ii)** the dollar amount in effect under subparagraph (C)(ii)(II) for such calendar year (after any increase under subparagraph (H)) shall be increased by an amount equal to 10 percent of such dollar amount (rounded to the next lowest multiple of $5,000).
   - **(4)**
     - **(A)** Paragraph (1) shall not apply to the portion of any credit allowable under subsection (a) which is attributable to eligible basis financed by any obligation the interest on which is exempt from tax under section 103 if—
       - **(i)** such obligation is taken into account under section 146, and
       - **(ii)** principal payments on such financing are applied within a reasonable period to redeem obligations the proceeds of which were used to provide such financing or such financing is refunded as described in section 146(i)(6).
-    - **(B)** For purposes of subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to a building if—
-      - **(i)** 50 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), or
-      - **(ii)**
-        - **(I)** 25 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), and
-        - **(II)** 1 or more of such obligations—
+    - **(B)** For purposes of subparagraph (A), if 50 percent or more of the aggregate basis of any building and the land on which the building is located is financed by any obligation described in subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to such building.
   - **(5)**
     - **(A)** Not more than 90 percent of the State housing credit ceiling for any State for any calendar year shall be allocated to projects other than qualified low-income housing projects described in subparagraph (B).
     - **(B)** For purposes of subparagraph (A), a qualified low-income housing project is described in this subparagraph if a qualified nonprofit organization is to own an interest in the project (directly or through a partnership) and materially participate (within the meaning of section 469(h)) in the development and operation of the project throughout the compliance period.
     - **(C)** For purposes of this paragraph, the term “qualified nonprofit organization” means any organization if—
       - **(i)** such organization is described in paragraph (3) or (4) of section 501(c) and is exempt from tax under section 501(a),
-      - **(ii)** such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization, and
+      - **(ii)** such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization; 3 3 So in original. The semicolon probably should be a comma. and
       - **(iii)** 1 of the exempt purposes of such organization includes the fostering of low-income housing.
     - **(D)**
       - **(i)** For purposes of this paragraph, a qualified nonprofit organization shall be treated as satisfying the ownership and material participation test of subparagraph (B) if any qualified corporation in which such organization holds stock satisfies such test.
@@ -344,8 +325,8 @@ generated_at: "2026-03-29T02:14:00.732Z"
     - **(G)**
       - **(i)** For purposes of subparagraph (E), the term “adjusted investor equity” means, with respect to any calendar year, the aggregate amount of cash taxpayers invested with respect to the project increased by the amount equal to—
         - **(I)** such amount, multiplied by
-        - **(II)** the cost-of-living adjustment for such calendar year, determined under section 1(f)(3) by substituting the base calendar year for “calendar year 2016” in subparagraph (A)(ii) thereof.
-      - **(ii)** Under regulations prescribed by the Secretary, if the C-CPI-U for any calendar year (as defined in section 1(f)(6)) exceeds the C-CPI-U for the preceding calendar year by more than 5 percent, the C-CPI-U for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i). In the case of a base calendar year before 2017, the C-CPI-U for such year shall be determined by multiplying the CPI for such year by the amount determined under section 1(f)(3)(B).
+        - **(II)** the cost-of-living adjustment for such calendar year, determined under section 1(f)(3) by substituting the base calendar year for “calendar year 1987”.
+      - **(ii)** Under regulations prescribed by the Secretary, if the CPI for any calendar year (as defined in section 1(f)(4)) exceeds the CPI for the preceding calendar year by more than 5 percent, the CPI for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i).
       - **(iii)** For purposes of this subparagraph, the term “base calendar year” means the calendar year with or within which the 1st taxable year of the credit period ends.
     - **(H)** For purposes of this paragraph, the low-income portion of a building is the portion of such building equal to the applicable fraction specified in the extended low-income housing commitment for the building.
     - **(I)** The period referred to in this subparagraph is the 1-year period beginning on the date (after the 14th year of the compliance period) the taxpayer submits a written request to the housing credit agency to find a person to acquire the taxpayer’s interest in the low-income portion of the building.
@@ -369,7 +350,7 @@ generated_at: "2026-03-29T02:14:00.732Z"
 - **(i)** For purposes of this section—
   - **(1)** The term “compliance period” means, with respect to any building, the period of 15 taxable years beginning with the 1st taxable year of the credit period with respect thereto.
   - **(2)**
-    - **(A)** Except as otherwise provided in this paragraph, for purposes of subsection (b)(1), a new building shall be treated as federally subsidized for any taxable year if, at any time during such taxable year or any prior taxable year, there is or was outstanding any obligation the interest on which is exempt from tax under section 103 the proceeds of which 1 1 So in original. See 2008 Amendment note below. are or were used (directly or indirectly) with respect to such building or the operation thereof.
+    - **(A)** Except as otherwise provided in this paragraph, for purposes of subsection (b)(1), a new building shall be treated as federally subsidized for any taxable year if, at any time during such taxable year or any prior taxable year, there is or was outstanding any obligation the interest on which is exempt from tax under section 103 the proceeds of which 4 4 So in original. See 2008 Amendment note below. are or were used (directly or indirectly) with respect to such building or the operation thereof.
     - **(B)** A tax-exempt obligation shall not be taken into account under subparagraph (A) if the taxpayer elects to exclude from the eligible basis of the building for purposes of subsection (d) the proceeds of such obligation.
     - **(C)** Subparagraph (A) shall not apply to any tax-exempt obligation used to provide construction financing for any building if—
       - **(i)** such obligation (when issued) identified the building for which the proceeds of such obligation would be used, and
@@ -394,7 +375,7 @@ generated_at: "2026-03-29T02:14:00.732Z"
         - **(II)** a student who was previously under the care and placement responsibility of the State agency responsible for administering a plan under part B or part E of title IV of the Social Security Act, or
         - **(III)** enrolled in a job training program receiving assistance under the Job Training Partnership Act or under other similar Federal, State, or local laws, or
       - **(ii)** entirely by full-time students if such students are—
-        - **(I)** single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or
+        - **(I)** single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or. 5 5 So in original. The period probably should not appear.
         - **(II)** married and file a joint return.
     - **(E)**
       - **(i)** Subparagraph (C) shall not apply to the acquisition or rehabilitation of a building pursuant to a development plan of action sponsored by a State or local government or a qualified nonprofit organization (as defined in subsection (h)(5)(C)).
@@ -452,9 +433,9 @@ generated_at: "2026-03-29T02:14:00.732Z"
     - **(A)** If the requirements of subparagraphs (B), (C), and (D) are met with respect to any financing borrowed from a qualified nonprofit organization (as defined in subsection (h)(5)), the determination of whether such financing is qualified commercial financing with respect to any qualified low-income building shall be made without regard to whether such organization—
       - **(i)** is actively and regularly engaged in the business of lending money, or
       - **(ii)** is a person described in section 49(a)(1)(D)(iv)(II).
-    - **(B)** The requirements of this subparagraph are met with respect to any financing if such financing is secured by the qualified low-income building, except that this subparagraph shall not apply in the case of a federally assisted building described in subsection (d)(6)(C) if—
+    - **(B)** The requirements of this subparagraph are met with respect to any financing if such financing is secured by the qualified low-income building, except that this subparagraph shall not apply in the case of a federally assisted building described in subsection (d)(6)(B) if—
       - **(i)** a security interest in such building is not permitted by a Federal agency holding or insuring the mortgage secured by such building, and
-      - **(ii)** the proceeds from the financing (if any) are applied to acquire or improve such building.
+      - **(ii)** the proceeds from the financing (if any) are applied to acquire or improve such building.. 6 6 So in original.
     - **(C)** The requirements of this subparagraph are met with respect to any financing for any taxable year in the compliance period if, as of the close of such taxable year, not more than 60 percent of the eligible basis of the qualified low-income building is attributable to such financing (reduced by the principal and interest of any governmental financing which is part of a wrap-around mortgage involving such financing).
     - **(D)** The requirements of this subparagraph are met with respect to any financing if such financing is fully repaid on or before the earliest of—
       - **(i)** the date on which such financing matures,
@@ -494,7 +475,7 @@ generated_at: "2026-03-29T02:14:00.732Z"
       - **(ii)** which also gives preference in allocating housing credit dollar amounts among selected projects to—
         - **(I)** projects serving the lowest income tenants,
         - **(II)** projects obligated to serve qualified tenants for the longest periods, and
-        - **(III)** projects which are located in qualified census tracts (as defined in subsection (d)(5)(B)(ii)) and the development of which contributes to a concerted community revitalization plan, and
+        - **(III)** projects which are located in qualified census tracts (as defined in subsection (d)(5)(C)) and the development of which contributes to a concerted community revitalization plan, and
       - **(iii)** which provides a procedure that the agency (or an agent or other private contractor of such agency) will follow in monitoring for noncompliance with the provisions of this section and in notifying the Internal Revenue Service of such noncompliance which such agency becomes aware of and in monitoring for noncompliance with habitability standards through regular site visits.
     - **(C)** The selection criteria set forth in a qualified allocation plan must include
       - **(i)** project location,

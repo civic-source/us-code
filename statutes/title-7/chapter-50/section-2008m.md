@@ -3,18 +3,18 @@ title: "Section 2008m - National Rural Development Partnership"
 usc_title: 7
 usc_section: "2008m"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2008m"
-generated_at: "2026-03-29T02:10:16.890Z"
+generated_at: "2026-03-29T17:50:48.672Z"
 ---
 
 # § 2008m. National Rural Development Partnership
 
 - **(a)** In this section:
   - **(1)** The term “agency with rural responsibilities” means any executive agency (as defined in section 105 of title 5 ) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
-  - **(2)** The term “Coordinating Committee” means the National Rural Development Coordinating Committee established by subsection (c).
-  - **(3)** The term “Partnership” means the National Rural Development Partnership continued by subsection (b).
-  - **(4)** The term “State rural development council” means a State rural development council that meets the requirements of subsection (d).
+  - **(2)** The term “Coordinating Committee” means the National Rural Development Coordinating Committee established by subsection (c) of this section.
+  - **(3)** The term “Partnership” means the National Rural Development Partnership continued by subsection (b) of this section.
+  - **(4)** The term “State rural development council” means a State rural development council that meets the requirements of subsection (d) of this section.
 - **(b)**
   - **(1)** The Secretary shall continue the National Rural Development Partnership composed of—
     - **(A)** the Coordinating Committee; and
@@ -72,15 +72,15 @@ generated_at: "2026-03-29T02:10:16.890Z"
   - **(2)** The Secretary may provide for any additional support staff to the Partnership as the Secretary determines to be necessary to carry out the duties of the Partnership.
   - **(3)** The Secretary may enter into a contract with a qualified intermediary under which the intermediary shall be responsible for providing administrative and technical assistance to a State rural development council, including administering the financial assistance available to the State rural development council.
 - **(f)**
-  - **(1)** Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2).
+  - **(1)** Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2) of this section.
   - **(2)** Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance received by a State rural development council from a Federal agency that are used—
     - **(A)** to support 1 or more specific program or project activities; or
     - **(B)** to reimburse the State rural development council for services provided to the Federal agency providing the funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance.
   - **(3)** The Secretary shall develop a plan to decrease, over time, the share of the Department of Agriculture of the cost of the core operations of State rural development councils.
 - **(g)**
-  - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2023.
+  - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2018.
   - **(2)**
     - **(A)** Notwithstanding any other provision of law limiting the ability of an agency, along with other agencies, to provide funds to the Coordinating Committee or a State rural development council in order to carry out the purposes of this section, a Federal agency may make grants, gifts, or contributions to, provide technical assistance to, or enter into contracts or cooperative agreements with, the Coordinating Committee or a State rural development council.
     - **(B)** Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, the Coordinating Committee or a State rural development council, as described in subparagraph (A).
   - **(3)** The Coordinating Committee and a State rural development council may accept private contributions.
-- **(h)** The authority provided under this section shall terminate on September 30, 2023 .
+- **(h)** The authority provided under this section shall terminate on September 30, 2018 .

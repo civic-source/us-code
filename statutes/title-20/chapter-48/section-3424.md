@@ -3,9 +3,9 @@ title: "Section 3424 - Federal Interagency Committee on Education"
 usc_title: 20
 usc_section: "3424"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 3424"
-generated_at: "2026-03-29T02:12:17.394Z"
+generated_at: "2026-03-29T17:51:48.542Z"
 ---
 
 # § 3424. Federal Interagency Committee on Education
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T02:12:17.394Z"
 - **(d)** The Director of the Office of Management and Budget, the Chairman of the Council of Economic Advisers, the Director of the Office of Science and Technology Policy, and the Executive Director of the Domestic Policy Staff may each designate a staff member to attend meetings of the Committee.
 - **(e)** The Committee shall conduct a study concerning the progress, effectiveness, and accomplishments of Federal vocational education and training programs, and the need for improved coordination between all federally funded vocational education and training programs. The Committee shall report the findings of such study to the Secretary and the Congress within two years of October 17, 1979 .
 - **(f)** The Committee shall meet at least twice each year. The Secretary may establish subcommittees of the Committee to facilitate coordination in important areas of Federal activity.
-- **(g)** The Secretary and the head of each agency represented on the Committee under subsection (c) shall furnish necessary assistance to the Committee.
+- **(g)** The Secretary and the head of each agency represented on the Committee under subsection (c) of this section shall furnish necessary assistance to the Committee.

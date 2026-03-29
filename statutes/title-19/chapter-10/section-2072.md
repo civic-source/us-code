@@ -3,17 +3,35 @@ title: "Section 2072 - Officers and employees"
 usc_title: 19
 usc_section: "2072"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2072"
-generated_at: "2026-03-29T02:12:08.667Z"
+generated_at: "2026-03-29T17:51:51.262Z"
 ---
 
 # § 2072. Officers and employees
 
 - **(a)** The Secretary of the Treasury is authorized to appoint, in the service established by section 2071 of this title , one assistant commissioner, three deputy commissioners, one chief clerk, and such attorneys and other officers and employees as he may deem necessary. One of the deputy commissioners of the United States Customs Service shall have charge of investigations. Appointments under this subsection shall be subject to the provisions of the civil service laws, and the salaries shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
-- **(b)** The Secretary of the Treasury is authorized to designate an officer of the United States Customs Service to act as Commissioner of Customs, 1 1 See Change of Name note below. during the absence or disability of the Commissioner of Customs, 1 or in the event that there is no Commissioner of Customs. 1
+- **(b)** The Secretary of the Treasury is authorized to designate an officer of the United States Customs Service to act as Commissioner of Customs, during the absence or disability of the Commissioner of Customs, or in the event that there is no Commissioner of Customs.
 - **(c)** The personnel of the United States Customs Service shall perform such duties as the Secretary of the Treasury may prescribe.
 - **(d)**
+  - **(1)** There is established within the United States Customs and Border Protection an Office of International Trade that shall be headed by an Assistant Commissioner.
+  - **(2)**
+    - **(A)**
+      - **(i)** Not later than 90 days after October 13, 2006 , the Commissioner shall transfer the assets, functions, and personnel of the Office of Strategic Trade to the Office of International Trade established pursuant to paragraph (1) and the Office of Strategic Trade shall be abolished.
+      - **(ii)** No funds appropriated to the United States Customs and Border Protection may be used to transfer the assets, functions, or personnel of the Office of Strategic Trade, to an office other than the office established pursuant to paragraph (1) of this subsection.
+    - **(B)**
+      - **(i)** Not later than 90 days after October 13, 2006 , the Commissioner shall transfer the assets, functions, and personnel of the Office of Regulations and Rulings to the Office of International Trade established pursuant to paragraph (1) and the Office of Regulations and Rulings shall be abolished.
+      - **(ii)** No funds appropriated to the United States Customs and Border Protection may be used to transfer the assets, functions, or personnel of the Office of Regulations and Rulings, to an office other than the office established pursuant to paragraph (1) of this subsection.
+    - **(C)** The Commissioner is authorized to transfer any other assets, functions, or personnel within the United States Customs and Border Protection to the Office of International Trade established pursuant to paragraph (1). Not less than 45 days prior to each such transfer, the Commissioner shall notify the Committee on Appropriations, the Committee on Finance, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Appropriations, the Committee on Homeland Security, and the Committee on Ways and Means of the House of Representatives of the specific assets, functions, or personnel to be transferred, and the reason for such transfer. Such notification shall also include—
+      - **(i)** an explanation of how trade enforcement functions will be impacted by the reorganization;
+      - **(ii)** an explanation of how the reorganization meets the requirements of section 212(b) of title 6 that the Department of Homeland Security not diminish the customs revenue and trade facilitation functions formerly performed by the United States Customs Service; and
+      - **(iii)** any comments or recommendations provided by the Commercial Operations Advisory Committee regarding such reorganization.
+    - **(D)** Not later than 1 year after any reorganization pursuant to subparagraph (C) takes place, the Commissioner, in consultation with the Commercial Operations Advisory Committee, shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
+    - **(E)** Notwithstanding any other provision of law, the Commissioner shall not transfer any assets, functions, or personnel from United States ports of entry, associated with the enforcement of laws relating to trade in textiles and apparel, to the Office of International Trade established pursuant to paragraph (1), until the following conditions are met:
+      - **(i)** The Commissioner submits the initial Resource Allocation Model required by section 2075(h) of this title and includes in such Resource Allocation Model a section addressing the allocation of assets, functions, and personnel associated with the enforcement of laws relating to trade in textiles and apparel.
+      - **(ii)** The Commissioner consults with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding any subsequent transfer of assets, functions, or personnel associated with the enforcement of laws relating to trade in textiles and apparel, not less than 45 days prior to such transfer.
+    - **(F)** No funds appropriated to the United States Customs and Border Protection may be used to transfer the assets, functions, or personnel associated with the enforcement of laws relating to trade in textiles and apparel, before the Commissioner consults with the congressional committees pursuant to subparagraph (E)(ii).
+- **(e)**
   - **(1)** The Commissioner shall establish an International Trade Committee, to be chaired by the Commissioner, and to include the Deputy Commissioner, the Assistant Commissioner in the Office of Field Operations, the Assistant Commissioner in the Office of Finance, the Assistant Commissioner in the Office of International Affairs, the Assistant Commissioner in the Office of International Trade, the Director of the Office of Trade Relations, and any other official determined by the Commissioner to be important to the work of the Committee.
   - **(2)** The International Trade Committee shall—
     - **(A)** be responsible for advising the Commissioner with respect to the commercial customs and trade facilitation functions of the United States Customs and Border Protection;
@@ -22,6 +40,6 @@ generated_at: "2026-03-29T02:12:08.667Z"
   - **(3)** Not later than 30 days after the end of each fiscal year, the International Trade Committee shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The report shall—
     - **(A)** detail the activities of the International Trade Committee during the preceding fiscal year; and
     - **(B)** identify the priorities of the International Trade Committee for the fiscal year in which the report is filed.
-- **(e)** In this section:
+- **(f)** In this section:
   - **(1)** The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
-  - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) 2 2 See References in Text note below. or any successor committee.
+  - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) or any successor committee.

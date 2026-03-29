@@ -3,9 +3,9 @@ title: "Section 1352 - Limitation on use of appropriated funds to influence cert
 usc_title: 31
 usc_section: "1352"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 1352"
-generated_at: "2026-03-29T02:14:14.050Z"
+generated_at: "2026-03-29T17:52:44.158Z"
 ---
 
 # § 1352. Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions
@@ -80,4 +80,4 @@ generated_at: "2026-03-29T02:14:14.050Z"
   - **(8)** The term “reasonable payment” means, with respect to professional and other technical services, a payment in an amount that is consistent with the amount normally paid for such services in the private sector.
   - **(9)** The term “reasonable compensation” means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
   - **(10)** The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
-  - **(11)** The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ). 1 1 See References in Text note below.
+  - **(11)** The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ).

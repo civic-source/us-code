@@ -3,9 +3,9 @@ title: "Section 228 - Authority of Secretary"
 usc_title: 7
 usc_section: "228"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 228"
-generated_at: "2026-03-29T02:10:16.711Z"
+generated_at: "2026-03-29T17:50:48.498Z"
 ---
 
 # § 228. Authority of Secretary
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T02:10:16.711Z"
   - **(1)** if such hearing concerns a single unit of local government or the residents thereof, be held within the boundaries of such unit;
   - **(2)** if such hearing concerns a single geographic area within a State or the residents thereof, be held within the boundaries of such area; or
   - **(3)** if such hearing concerns a single State or the residents thereof, be held within such State.
-- **(e)** For the purposes of subsection (d)—
+- **(e)** For the purposes of subsection (d) of this section—
   - **(1)** the term “unit of local government” means a county, municipality, town, township, village, or other unit of general government below the State level; and
   - **(2)** the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.

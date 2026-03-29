@@ -1,12 +1,14 @@
 ---
-title: "Section 1759 - Omitted"
+title: "Section 1759 - General discharge and release of State of Connecticut"
 usc_title: 25
 usc_section: "1759"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1759"
-generated_at: "2026-03-29T02:13:20.913Z"
+generated_at: "2026-03-29T17:52:06.088Z"
 ---
 
-# § 1759. Omitted
+# § 1759. General discharge and release of State of Connecticut
+
+Except as expressly provided herein, this subchapter shall constitute a general discharge and release of all obligations of the State of Connecticut and all of its political subdivisions, agencies, departments, and all of the officers or employees thereof arising from any treaty or agreement with, or on behalf of the Tribe or the United States as trustee therefor.
 

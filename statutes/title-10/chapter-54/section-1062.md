@@ -1,15 +1,14 @@
 ---
-title: "Section 1062 - Certain former spouses and surviving spouses"
+title: "Section 1062 - Certain former spouses"
 usc_title: 10
 usc_section: "1062"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1062"
-generated_at: "2026-03-29T02:10:44.956Z"
+generated_at: "2026-03-29T17:50:57.001Z"
 ---
 
-# § 1062. Certain former spouses and surviving spouses
+# § 1062. Certain former spouses
 
-- **(a)** The Secretary of Defense shall prescribe such regulations as may be necessary to provide that an unremarried former spouse described in subparagraph (F)(i) of section 1072(2) of this title is entitled to use commissary stores and MWR retail facilities to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services.
-- **(b)** The Secretary of Defense shall prescribe such regulations as may be necessary to provide that a surviving spouse of a deceased member of the armed forces, regardless of the marital status of the surviving spouse, is entitled to use commissary stores and MWR retail facilities to the same extent and on the same basis as an unremarried surviving spouse of a member of the uniformed services.
-- **(c)** In this section, the term “MWR retail facilities” has the meaning given that term in section 1063 of this title .
+The Secretary of Defense shall prescribe such regulations as may be necessary to provide that an unremarried former spouse described in subparagraph (F)(i) of section 1072(2) of this title is entitled to commissary and exchange privileges to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services.
+

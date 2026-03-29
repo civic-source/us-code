@@ -3,9 +3,9 @@ title: "Section 2295b - Authorities relating to assistance and other provisions"
 usc_title: 22
 usc_section: "2295b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2295b"
-generated_at: "2026-03-29T02:12:40.055Z"
+generated_at: "2026-03-29T17:52:10.507Z"
 ---
 
 # § 2295b. Authorities relating to assistance and other provisions
@@ -26,9 +26,9 @@ generated_at: "2026-03-29T02:12:40.055Z"
     - **(B)** the President determines, on a case-by-case basis, that procurement in such other country is necessary—
       - **(i)** to meet unforseen 1 1 So in original. Probably should be “unforeseen”. circumstances, such as emergency situations, where it is important to permit procurement in a country not specified in paragraph (1), or
       - **(ii)** to promote efficiency in the use of United States foreign assistance resources, including to avoid impairment of foreign assistance objectives.
-- **(i)** Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j)).
+- **(i)** Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j) of this section).
 - **(j)**
-  - **(1)** Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under this part notwithstanding any other provision of law, except for—
+  - **(1)** Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistance under this part notwithstanding any other provision of law, except for—
     - **(A)** this part;
     - **(B)** section 2394–1 of this title and comparable notification requirements contained in sections of the annual foreign operations, export financing, and related programs Act;
     - **(C)** sections 2799aa and 2799aa–1 of this title and sections 5604 and 5605 of this title, to the extent that they apply to assistance to governments; and

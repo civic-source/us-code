@@ -3,12 +3,12 @@ title: "Section 777b - Authorization of appropriations"
 usc_title: 16
 usc_section: "777b"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 777b"
-generated_at: "2026-03-29T02:11:53.668Z"
+generated_at: "2026-03-29T17:51:56.772Z"
 ---
 
 # § 777b. Authorization of appropriations
 
-To carry out the provisions of this chapter for fiscal years after September 30, 1984 , there are authorized to be appropriated from the Sport Fish Restoration and Boating Trust Fund established by section 9504(a) of title 26 the amounts paid, transferred, or otherwise credited to that Trust Fund, except as provided in section 9504(c) of title 26 . For purposes of the provision of the Act of August 31, 1951 , which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section. The appropriation made under the provisions of this section for each fiscal year shall continue available during succeeding fiscal years. So much of such appropriation apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligated at the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior to supplement the 58.012 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in section 777c(c) of this title .
+To carry out the provisions of this chapter for fiscal years after September 30, 1984 , there are authorized to be appropriated from the Sport Fish Restoration and Boating Trust Fund established by section 9504(a) of title 26 the amounts paid, transferred, or otherwise credited to that Trust Fund, except as provided in section 9504(c) of title 26 . For purposes of the provision of the Act of August 31, 1951 , which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section. The appropriation made under the provisions of this section for each fiscal year shall continue available during succeeding fiscal years. So much of such appropriation apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligated at the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in section 777c(c) of this title .
 

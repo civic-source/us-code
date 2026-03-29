@@ -3,9 +3,9 @@ title: "Section 8439 - Accounting and information"
 usc_title: 5
 usc_section: "8439"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 8439"
-generated_at: "2026-03-29T02:10:01.970Z"
+generated_at: "2026-03-29T17:50:36.550Z"
 ---
 
 # § 8439. Accounting and information
@@ -29,6 +29,4 @@ generated_at: "2026-03-29T02:10:01.970Z"
     - **(A)** a periodic statement relating to the individual’s account; and
     - **(B)** a summary description of the investment options under section 8438 of this title covering, and an evaluation of, each such option the 5-year period preceding the date as of which such evaluation is made.
   - **(2)** Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
-- **(d)**
-  - **(1)** Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
-  - **(2)** Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
+- **(d)** Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.

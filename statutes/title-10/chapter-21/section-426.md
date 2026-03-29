@@ -3,51 +3,23 @@ title: "Section 426 - Integration of Department of Defense intelligence, surveil
 usc_title: 10
 usc_section: "426"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 426"
-generated_at: "2026-03-29T02:10:44.867Z"
+generated_at: "2026-03-29T17:50:56.942Z"
 ---
 
 # § 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
 
 - **(a)**
-  - **(1)** The Under Secretary of Defense for Intelligence and Security shall establish an Intelligence, Surveillance, and Reconnaissance Integration Council—
-    - **(A)** to assist the Secretary of Defense in carrying out the responsibilities of the Secretary under section 105(a) of the National Security Act of 1947 ( 50 U.S.C. 3038(a) );
-    - **(B)** to assist the Under Secretary with respect to matters relating to—
-      - **(i)** integration of intelligence and counterintelligence capabilities and activities under section 137(b) of this title of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands; and
-      - **(ii)** coordination of related developmental activities of such departments, agencies, and combatant commands; and
-    - **(C)** to otherwise provide a means to facilitate such integration and coordination.
+  - **(1)** The Under Secretary of Defense for Intelligence shall establish an Intelligence, Surveillance, and Reconnaissance Integration Council—
+    - **(A)** to assist the Under Secretary with respect to matters relating to the integration of intelligence, surveillance, and reconnaissance capabilities, and coordination of related developmental activities, of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands; and
+    - **(B)** otherwise to provide a means to facilitate the integration of such capabilities and the coordination of such developmental activities.
   - **(2)** The Council shall be composed of—
-    - **(A)** the Under Secretary, who shall chair the Council;
-    - **(B)** the directors of the intelligence agencies of the Department of Defense;
-    - **(C)** the senior intelligence officers of the armed forces and the regional and functional combatant commands;
-    - **(D)** the Director for Intelligence of the Joint Chiefs of Staff; and
-    - **(E)** the Director for Operations of the Joint Chiefs of Staff.
-  - **(3)** The Under Secretary shall invite the participation of the Director of National Intelligence (or a representative of the Director) in the proceedings of the Council.
-  - **(4)** The Under Secretary may designate additional participants to attend the proceedings of the Council, as the Under Secretary determines appropriate.
+    - **(A)** the senior intelligence officers of the armed forces and the United States Special Operations Command;
+    - **(B)** the Director of Operations of the Joint Staff; and
+    - **(C)** the directors of the intelligence agencies of the Department of Defense.
+  - **(3)** The Under Secretary of Defense for Intelligence shall invite the participation of the Director of National Intelligence (or that Director’s representative) in the proceedings of the Council.
+  - **(4)** Each Secretary of a military department may designate an officer or employee of such military department to attend the proceedings of the Council as a representative of such military department.
 - **(b)**
-  - **(1)** The Chairman of the Joint Chiefs of Staff shall provide to the congressional defense committees and the congressional intelligence committees a briefing on the following:
-    - **(A)** The intelligence and counterintelligence requirements, by specific intelligence capability type, of each of the relevant combatant commands.
-    - **(B)** For the year preceding the year in which the briefing is provided, the fulfillment rate for each of the relevant combatant commands of the validated intelligence and counterintelligence requirements, by specific intelligence capability type, of such combatant command.
-    - **(C)** A risk analysis identifying the critical gaps and shortfalls in efforts to address operational and strategic requirements of the Department of Defense that would result from the failure to fulfill the validated intelligence and counterintelligence requirements of the relevant combatant commands.
-    - **(D)** A mitigation plan to balance and offset the gaps and shortfalls identified under subparagraph (C), including with respect to spaceborne, airborne, ground, maritime, and cyber intelligence, surveillance, and reconnaissance capabilities.
-    - **(E)** For the year preceding the year in which the briefing is provided—
-      - **(i)** the number of intelligence and counterintelligence requests of each commander of a relevant combatant command determined by the Joint Chiefs of Staff to be a validated requirement, and the total of capacity of such requests provided to each such commander;
-      - **(ii)** with respect to such validated requirements—
-        - **(I)** the quantity of intelligence and counterintelligence capabilities or activities, by specific intelligence capability type, that the Joint Chiefs of Staff requested each military department to provide; and
-        - **(II)** the total of capacity of such requests so provided by each such military department; and
-      - **(iii)** a qualitative assessment of the alignment of intelligence and counterintelligence capabilities and activities with the program of analysis for each combat support agency and intelligence center of a military service that is part of—
-        - **(I)** the Defense Intelligence Enterprise; and
-        - **(II)** the intelligence community.
-  - **(2)** The Under Secretary of Defense for Intelligence and Security shall provide to the congressional defense committees and the congressional intelligence committees a briefing on short-, mid-, and long-term strategies to address the validated intelligence and counterintelligence requirements of the relevant combatant commands, including with respect to spaceborne, airborne, ground, maritime, and cyber intelligence, surveillance, and reconnaissance capabilities.
-  - **(3)** The briefings required by paragraphs (1) and (2) shall be provided at the same time that the President’s budget is submitted pursuant to section 1105(a) of title 31 for each of fiscal years 2021 through 2025.
-  - **(4)** In this subsection:
-    - **(A)** The term “congressional intelligence committees” has the meaning given that term in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).
-    - **(B)** The term “Defense Intelligence Enterprise” means the organizations, infrastructure, and measures, including policies, processes, procedures, and products, of the intelligence, counterintelligence, and security components of each of the following:
-      - **(i)** The Department of Defense.
-      - **(ii)** The Joint Staff.
-      - **(iii)** The combatant commands.
-      - **(iv)** The military departments.
-      - **(v)** Other elements of the Department of Defense that perform national intelligence, defense intelligence, intelligence-related, counterintelligence, or security functions.
-    - **(C)** The term “fulfillment rate” means the percentage of combatant command intelligence and counterintelligence requirements satisfied by available, acquired, or realigned intelligence and counterintelligence capabilities or activities.
-    - **(D)** The term “intelligence community” has the meaning given that term in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).
+  - **(1)** The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
+  - **(2)** The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.

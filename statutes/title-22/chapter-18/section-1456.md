@@ -3,9 +3,9 @@ title: "Section 1456 - Utilization of facilities and personnel of other Governme
 usc_title: 22
 usc_section: "1456"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1456"
-generated_at: "2026-03-29T02:12:39.993Z"
+generated_at: "2026-03-29T17:52:10.449Z"
 ---
 
 # § 1456. Utilization of facilities and personnel of other Government agencies; reimbursement to agencies; report to Congress

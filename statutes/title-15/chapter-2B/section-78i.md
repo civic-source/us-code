@@ -3,9 +3,9 @@ title: "Section 78i - Manipulation of security prices"
 usc_title: 15
 usc_section: "78i"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 78i"
-generated_at: "2026-03-29T02:11:33.911Z"
+generated_at: "2026-03-29T17:51:36.035Z"
 ---
 
 # § 78i. Manipulation of security prices
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:11:33.911Z"
 - **(d)** It shall be unlawful for any person, directly or indirectly, by the use of the mails or any means or instrumentality of interstate commerce, or of any facility of any national securities exchange, or for any member of a national securities exchange to effect, alone or with one or more other persons, a manipulative short sale of any security. The Commission shall issue such other rules as are necessary or appropriate to ensure that the appropriate enforcement options and remedies are available for violations of this subsection in the public interest or for the protection of investors.
 - **(e)** The terms “put”, “call”, “straddle”, “option”, or “privilege” as used in this section shall not include any registered warrant, right, or convertible security.
 - **(f)** Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys’ fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
-- **(g)** The provisions of subsection (a) shall not apply to an exempted security.
+- **(g)** The provisions of subsection (a) of this section shall not apply to an exempted security.
 - **(h)**
   - **(1)** Notwithstanding any other provision of law, the Commission shall have the authority to regulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery other than a security futures product).
   - **(2)** Notwithstanding the Commodity Exchange Act [ 7 U.S.C. 1 et seq.], the Commission shall have the authority to regulate the trading of any security futures product to the extent provided in the securities laws.

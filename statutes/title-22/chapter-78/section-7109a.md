@@ -3,9 +3,9 @@ title: "Section 7109a - Research on domestic and international trafficking in pe
 usc_title: 22
 usc_section: "7109a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 7109a"
-generated_at: "2026-03-29T02:12:40.416Z"
+generated_at: "2026-03-29T17:52:10.688Z"
 ---
 
 # § 7109a. Research on domestic and international trafficking in persons
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:12:40.416Z"
   - **(1)** The economic causes and consequences of trafficking in persons.
   - **(2)** The effectiveness of programs and initiatives funded or administered by Federal agencies to prevent trafficking in persons and to protect and assist victims of trafficking.
   - **(3)** The interrelationship between trafficking in persons and global health risks, particularly HIV/AIDS.
-  - **(4)** Subject to subsection (b), the interrelationship between trafficking in persons and terrorism, including the use of profits from trafficking in persons to finance terrorism.
+  - **(4)** Subject to subsection (b) of this section, the interrelationship between trafficking in persons and terrorism, including the use of profits from trafficking in persons to finance terrorism.
   - **(5)** An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis, which shall include, not later than 2 years after December 23, 2008 , the establishment and maintenance of an integrated database within the Human Smuggling and Trafficking Center.
   - **(6)** The abduction and enslavement of children for use as soldiers, including steps taken to eliminate the abduction and enslavement of children for use as soldiers and recommendations for such further steps as may be necessary to rapidly end the abduction and enslavement of children for use as soldiers.
 - **(b)**
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T02:12:40.416Z"
     - **(D)** identify emerging issues in human trafficking and establishing integrated methods to combat them; and
     - **(E)** identify research priorities to respond to global patterns and emerging issues.
   - **(3)** The database established in accordance with paragraph (2) shall be maintained in consultation with the Director of the Office to Monitor and Combat Trafficking in Persons of the Department of State.
-  - **(4)** There are authorized to be appropriated $1,000,000 to the Human Smuggling and Trafficking Center for each of the fiscal years 2022 through 2027 to carry out the activities described in this subsection.
+  - **(4)** There are authorized to be appropriated $1,000,000 to the Human Smuggling and Trafficking Center for each of the fiscal years 2014 through 2017 to carry out the activities described in this subsection.
 - **(c)** In this section:
   - **(1)** The term “AIDS” means the acquired immune deficiency syndrome.
   - **(2)** The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.

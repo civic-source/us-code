@@ -3,9 +3,9 @@ title: "Section 731 - General"
 usc_title: 31
 usc_section: "731"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 731"
-generated_at: "2026-03-29T02:14:14.034Z"
+generated_at: "2026-03-29T17:52:44.148Z"
 ---
 
 # § 731. General
@@ -33,8 +33,7 @@ generated_at: "2026-03-29T02:14:14.034Z"
   - **(2)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
   - **(3)** sections 1343, 1344, and 1349(b) of this title;
   - **(4)** chapter 171 of title 28 (commonly referred to as the “Federal Tort Claims Act”) and any other Federal tort liability statute;
-  - **(5)** chapter 131 of title 5;
+  - **(5)** the Ethics in Government Act of 1978 (5 U.S.C. App.);
   - **(6)** section 1043 of the Internal Revenue Code of 1986; and
   - **(7)** chapter 21 of title 41.
 - **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
-- **(k)** The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.

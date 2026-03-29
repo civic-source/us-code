@@ -1,31 +1,47 @@
 ---
-title: "Section 3a - Hiring authority for scientific, technical, and professional personnel"
+title: "Section 3a - Emergency use of medical products"
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-03-29T02:12:28.070Z"
+generated_at: "2026-03-29T17:52:03.871Z"
 ---
 
-# § 379d–3a. Hiring authority for scientific, technical, and professional personnel
+# § 360bbb–3a. Emergency use of medical products
 
-- **(a)** The Secretary may, notwithstanding title 5, governing appointments in the competitive service, appoint outstanding and qualified candidates to scientific, technical, or professional positions, including cross-cutting operational positions, that support the development, review, and regulation of medical products and the regulation of food and cosmetics. Such positions shall be within the competitive service.
+- **(a)** In this section:
+  - **(1)** The term “eligible product” means a product that—
+    - **(A)** is approved or cleared under this subchapter or licensed under section 351 of the Public Health Service Act [ 42 U.S.C. 262 ];
+    - **(B)**
+      - **(i)** is intended for use to prevent, diagnose, or treat a disease or condition involving a biological, chemical, radiological, or nuclear agent or agents; or
+      - **(ii)** is intended for use to prevent, diagnose, or treat a serious or life-threatening disease or condition caused by a product described in clause (i); and
+    - **(C)** is intended for use during the circumstances under which—
+      - **(i)** a determination described in subparagraph (A), (B), or (C) of section 360bbb–3(b)(1) of this title has been made by the Secretary of Homeland Security, the Secretary of Defense, or the Secretary, respectively; or
+      - **(ii)** the identification of a material threat described in subparagraph (D) of section 360bbb–3(b)(1) of this title has been made pursuant to section 319F–2 of the Public Health Service Act [ 42 U.S.C. 247d–6b ].
+  - **(2)** The term “product” means a drug, device, or biological product.
 - **(b)**
-  - **(1)** Notwithstanding any other provision of law, including any requirement with respect to General Schedule pay rates under subchapter III of chapter 53 of title 5, and consistent with the requirements of paragraph (2), the Commissioner of Food and Drugs may determine and set—
-    - **(A)** the annual rate of pay of any individual appointed under subsection (a); and
-    - **(B)** for purposes of retaining qualified employees, the annual rate of pay for any qualified scientific, technical, or professional personnel appointed to a position described in subsection (a) before December 13, 2016 .
-  - **(2)** The annual rate of pay established pursuant to paragraph (1) may not exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3 .
-  - **(3)** The annual rate of pay provided to an individual in accordance with this section shall be publicly available information.
-- **(c)** The authorities under this section shall not be construed to affect the authority provided under section 379d–3 of this title .
-- **(d)**
-  - **(1)** Not later than 18 months after December 29, 2022 , the Secretary shall submit a report on workforce planning to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives that includes—
-    - **(A)** an updated analysis of the workforce needs at the Food and Drug Administration and the Secretary’s strategic plan for addressing such needs, including through use of the authority under this section;
-    - **(B)** an analysis of how the Secretary has used the authorities provided under this section, and a plan for how the Secretary will use the authority under this section, and other applicable hiring authorities, for employees of the Food and Drug Administration; and
-    - **(C)** an updated recruitment and retention plan for hiring qualified scientific, technical, and professional candidates, which may include the use of—
-      - **(i)** recruitment through nongovernmental recruitment or placement agencies;
-      - **(ii)** recruitment through academic institutions;
-      - **(iii)** recruitment or hiring bonuses, if applicable;
-      - **(iv)** recruitment using targeted direct hiring authorities; and
-      - **(v)** retention of qualified scientific, technical, and professional employees using the authority under this section, or other applicable authorities of the Secretary.
-  - **(2)** The report under paragraph (1) may include the recommendations of the Commissioner of Food and Drugs that would help the Food and Drug Administration to better recruit and retain qualified individuals for scientific, technical, or professional positions at the agency.
+  - **(1)** The Secretary may extend the expiration date and authorize the introduction or delivery for introduction into interstate commerce of an eligible product after the expiration date provided by the manufacturer if—
+    - **(A)** the expiration date extension is intended to support the United States ability to protect—
+      - **(i)** the public health; or
+      - **(ii)** military preparedness and effectiveness; and
+    - **(B)** the expiration date extension is supported by an appropriate scientific evaluation that is conducted or accepted by the Secretary.
+  - **(2)** Any extension of an expiration date under paragraph (1) shall, as part of the extension, identify—
+    - **(A)** each specific lot, batch, or other unit of the product for which extended expiration is authorized;
+    - **(B)** the duration of the extension; and
+    - **(C)** any other requirements or conditions as the Secretary may deem appropriate for the protection of the public health, which may include requirements for, or conditions on, product sampling, storage, packaging or repackaging, transport, labeling, notice to product recipients, recordkeeping, periodic testing or retesting, or product disposition.
+  - **(3)** Notwithstanding any other provision of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title ) and shall not be deemed adulterated or misbranded under this chapter because, with respect to such product, the Secretary has, under paragraph (1), extended the expiration date and authorized the introduction or delivery for introduction into interstate commerce of such product after the expiration date provided by the manufacturer.
+  - **(4)** For purposes of this subsection, the term “expiration date” means the date established through appropriate stability testing required by the regulations issued by the Secretary to ensure that the product meets applicable standards of identity, strength, quality, and purity at the time of use.
+- **(c)**
+  - **(1)** The Secretary may, when the circumstances of a domestic, military, or public health emergency or material threat described in subsection (a)(1)(C) so warrant, authorize, with respect to an eligible product, deviations from current good manufacturing practice requirements otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including requirements under section 351 or 360j(f)(1) of this title or applicable conditions prescribed with respect to the eligible product by an order under section 360j(f)(2) of this title .
+  - **(2)** Notwithstanding any other provision of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title ) and shall not be deemed adulterated or misbranded under this chapter because, with respect to such product, the Secretary has authorized deviations from current good manufacturing practices under paragraph (1).
+- **(d)** The requirements of sections 353(b) and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title ) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
+  - **(1)** the product is dispensed during the circumstances described in subsection (a)(1)(C); and
+  - **(2)** such dispensing without an individual prescription occurs—
+    - **(A)** as permitted under the law of the State in which the product is dispensed; or
+    - **(B)** in accordance with an order issued by the Secretary, for the purposes and duration of the circumstances described in subsection (a)(1)(C).
+- **(e)**
+  - **(1)** The Secretary, acting through an appropriate official within the Department of Health and Human Services, may create and issue emergency use instructions to inform health care providers or individuals to whom an eligible product is to be administered concerning such product’s approved, licensed, or cleared conditions of use.
+  - **(2)** Notwithstanding any other provisions of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.], a product shall not be considered an unapproved product and shall not be deemed adulterated or misbranded under this chapter because of the issuance of emergency use instructions under paragraph (1) with respect to such product or the introduction or delivery for introduction of such product into interstate commerce accompanied by such instructions—
+    - **(A)** during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C)(i); or
+    - **(B)** by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.

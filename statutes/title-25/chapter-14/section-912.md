@@ -1,12 +1,14 @@
 ---
-title: "Section 912 - Omitted"
+title: "Section 912 - Per capita payments to enrollees, heirs or legatees; tax exemption"
 usc_title: 25
 usc_section: "912"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 912"
-generated_at: "2026-03-29T02:13:20.869Z"
+generated_at: "2026-03-29T17:52:06.027Z"
 ---
 
-# § 912. Omitted
+# § 912. Per capita payments to enrollees, heirs or legatees; tax exemption
+
+The Secretary shall distribute on a pro rata basis to the persons whose names appear on the roll prepared pursuant to section 911 of this title , or their heirs or legatees, the balance of the funds on deposit in the Treasury of the United States to the credit of the Quapaw Indians that were appropriated by the Act of August 26, 1954 ( 68 Stat. 801 ), in satisfaction of a judgment against the United States that was obtained by the tribe in the Indian Claims Commission on May 7, 1954 , and accrued interest thereon. The funds so distributed shall not be subject to Federal or State income tax.
 

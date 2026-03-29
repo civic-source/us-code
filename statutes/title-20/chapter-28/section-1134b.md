@@ -3,14 +3,14 @@ title: "Section 1134b - Stipends"
 usc_title: 20
 usc_section: "1134b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1134b"
-generated_at: "2026-03-29T02:12:17.308Z"
+generated_at: "2026-03-29T17:51:48.452Z"
 ---
 
 # § 1134b. Stipends
 
-- **(a)** The Secretary shall pay to individuals awarded fellowships under this subpart such stipends as the Secretary may establish, reflecting the purpose of this program to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual’s first stipend under this subpart in academic year 2009–2010 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation Graduate Research Fellowship Program for such academic year, except such amount shall be adjusted as necessary so as not to exceed the fellow’s demonstrated level of need determined in accordance with part F of subchapter IV.
+- **(a)** The Secretary shall pay to individuals awarded fellowships under this subpart such stipends as the Secretary may establish, reflecting the purpose of this program to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual’s first stipend under this subpart in academic year 2009–2010 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation Graduate Research Fellowship Program for such academic year, except such amount shall be adjusted as necessary so as not to exceed the fellow’s demonstrated level of need determined in accordance with part E of subchapter IV of this chapter.
 - **(b)**
   - **(1)**
     - **(A)** The Secretary shall (in addition to stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship under this subpart at such institution, an institutional allowance. Except as provided in subparagraph (B), such allowance shall be, for academic year 2009–2010 and succeeding academic years, the same amount as the institutional payment made for academic year 2008–2009, adjusted for academic year 2009–2010 and annually thereafter in accordance with inflation as determined by the Department of Labor’s Consumer Price Index for the previous calendar year.

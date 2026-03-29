@@ -1,12 +1,14 @@
 ---
-title: "Section 128 - Repealed. Pub. L. 117–317, § 2(3) , Dec. 27, 2022 , 136 Stat. 4419"
+title: "Section 128 - Appropriations not paid to Indians at war with United States"
 usc_title: 25
 usc_section: "128"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 128"
-generated_at: "2026-03-29T02:13:20.839Z"
+generated_at: "2026-03-29T17:52:05.887Z"
 ---
 
-# § 128. Repealed. Pub. L. 117–317, § 2(3) , Dec. 27, 2022 , 136 Stat. 4419
+# § 128. Appropriations not paid to Indians at war with United States
+
+None of the appropriations made for the Indian Service shall be paid to any band of Indians or any portion of any band while at war with the United States or with the white citizens of any of the States or Territories.
 

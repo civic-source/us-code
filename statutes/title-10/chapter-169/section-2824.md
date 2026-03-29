@@ -3,9 +3,9 @@ title: "Section 2824 - Authorization for acquisition of existing family housing 
 usc_title: 10
 usc_section: "2824"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2824"
-generated_at: "2026-03-29T02:10:45.150Z"
+generated_at: "2026-03-29T17:50:57.166Z"
 ---
 
 # § 2824. Authorization for acquisition of existing family housing in lieu of construction

@@ -3,73 +3,68 @@ title: "Section 1018 - Performance-Based Organization for delivery of Federal st
 usc_title: 20
 usc_section: "1018"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1018"
-generated_at: "2026-03-29T02:12:17.176Z"
+generated_at: "2026-03-29T17:51:48.319Z"
 ---
 
 # § 1018. Performance-Based Organization for delivery of Federal student financial assistance
 
 - **(a)**
-  - **(1)** There is established in the Department a Performance-Based Organization (hereafter referred to as the “PBO”) which shall be a discrete management unit responsible for managing the administrative and oversight functions supporting the programs authorized under subchapter IV of this chapter, as specified in subsection (b).
+  - **(1)** There is established in the Department a Performance-Based Organization (hereafter referred to as the “PBO”) which shall be a discrete management unit responsible for managing the administrative and oversight functions supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as specified in subsection (b) of this section.
   - **(2)** The purposes of the PBO are—
-    - **(A)** to improve service to students and other participants in the student financial assistance programs authorized under subchapter IV, including making those programs more understandable to students and their parents;
+    - **(A)** to improve service to students and other participants in the student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents;
     - **(B)** to reduce the costs of administering those programs;
     - **(C)** to increase the accountability of the officials responsible for administering the operational aspects of these programs;
     - **(D)** to provide greater flexibility in the management and administration of the Federal student financial assistance programs;
     - **(E)** to integrate the information systems supporting the Federal student financial assistance programs;
-    - **(F)** to implement an open, common, integrated system for the delivery of student financial assistance under subchapter IV; and
+    - **(F)** to implement an open, common, integrated system for the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
     - **(G)** to develop and maintain a student financial assistance system that contains complete, accurate, and timely data to ensure program integrity.
 - **(b)**
-  - **(1)** Notwithstanding any other provision of this part, the Secretary shall maintain responsibility for the development and promulgation of policy and regulations relating to the programs of student financial assistance under subchapter IV. In the exercise of its functions, the PBO shall be subject to the direction of the Secretary. The Secretary shall—
-    - **(A)** request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV;
+  - **(1)** Notwithstanding any other provision of this part, the Secretary shall maintain responsibility for the development and promulgation of policy and regulations relating to the programs of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42. In the exercise of its functions, the PBO shall be subject to the direction of the Secretary. The Secretary shall—
+    - **(A)** request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
     - **(B)** request cost estimates from the Chief Operating Officer for system changes required by specific policies proposed by the Secretary; and
     - **(C)** assist the Chief Operating Officer in identifying goals for—
-      - **(i)** the administration of the systems used to administer the Federal student financial assistance programs authorized under subchapter IV; and
+      - **(i)** the administration of the systems used to administer the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
       - **(ii)** the updating of such systems to current technology.
-  - **(2)** Subject to paragraph (1), the PBO shall be responsible for the administration of Federal student financial assistance programs authorized under subchapter IV, excluding the development of policy relating to such programs but including the following:
-    - **(A)** The administrative, accounting, and financial management functions for the Federal student financial assistance programs authorized under subchapter IV, including—
+  - **(2)** Subject to paragraph (1), the PBO shall be responsible for the administration of Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, excluding the development of policy relating to such programs but including the following:
+    - **(A)** The administrative, accounting, and financial management functions for the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including—
       - **(i)** the collection, processing, and transmission of data to students, institutions, lenders, State agencies, and other authorized parties;
-      - **(ii)** the design and technical specifications for software development and procurement for systems supporting the Federal student financial assistance programs authorized under subchapter IV;
-      - **(iii)** all software and hardware acquisitions and all information technology contracts related to the administration and management of student financial assistance under subchapter IV;
-      - **(iv)** all aspects of contracting for the information and financial systems supporting the Federal student financial assistance programs authorized under subchapter IV;
-      - **(v)** providing all customer service, training, and user support related to the administration of the Federal student financial assistance programs authorized under subchapter IV; and
-      - **(vi)** ensuring the integrity of the Federal student financial assistance programs authorized under subchapter IV.
+      - **(ii)** the design and technical specifications for software development and procurement for systems supporting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+      - **(iii)** all software and hardware acquisitions and all information technology contracts related to the administration and management of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+      - **(iv)** all aspects of contracting for the information and financial systems supporting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+      - **(v)** providing all customer service, training, and user support related to the administration of the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+      - **(vi)** ensuring the integrity of the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
     - **(B)** Annual development of a budget for the activities and functions of the PBO, in consultation with the Secretary, and for consideration and inclusion in the Department’s annual budget submission.
-    - **(C)** Taking action to prevent and address the improper use of access devices, as described in section 1092b(d)(7) of this title , including by—
-      - **(i)** detecting common patterns of improper use of any system that processes payments on Federal Direct Loans or other Department information technology systems;
-      - **(ii)** maintaining a reporting system for contractors involved in the processing of payments on Federal Direct Loans in order to allow those contractors to alert the Secretary of potentially improper use of Department information technology systems;
-      - **(iii)** proactively contacting Federal student loan borrowers whose Federal student loan accounts demonstrate a likelihood of improper use in order to warn those borrowers of suspicious activity or potential fraud regarding their Federal student loan accounts; and
-      - **(iv)** providing clear and simple disclosures in communications with borrowers who are applying for or requesting assistance with Federal Direct Loan programs (including assistance or applications regarding income-driven repayment, forbearance, deferment, consolidation, rehabilitation, cancellation, and forgiveness) to ensure that borrowers are aware that the Department will never require borrowers to pay for such assistance or applications.
   - **(3)** The Secretary may allocate to the PBO such additional functions as the Secretary and the Chief Operating Officer determine are necessary or appropriate to achieve the purposes of the PBO.
   - **(4)** Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
   - **(5)** The PBO shall be subject to the usual and customary Federal audit procedures and to review by the Inspector General of the Department.
   - **(6)**
-    - **(A)** The Secretary and the Chief Operating Officer shall consult concerning the effects of policy, market, or other changes on the ability of the PBO to achieve the goals and objectives established in the performance plan described in subsection (c).
-    - **(B)** The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
+    - **(A)** The Secretary and the Chief Operating Officer shall consult concerning the effects of policy, market, or other changes on the ability of the PBO to achieve the goals and objectives established in the performance plan described in subsection (c) of this section.
+    - **(B)** The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) of this section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
 - **(c)**
   - **(1)**
     - **(A)** Each year, the Secretary and Chief Operating Officer shall agree on, and make available to the public, a performance plan for the PBO for the succeeding 5 years that establishes measurable goals and objectives for the organization.
     - **(B)** In developing the 5-year performance plan and any revision to the plan, the Secretary and the Chief Operating Officer shall consult with students, institutions of higher education, Congress, lenders, the Advisory Committee on Student Financial Assistance, and other interested parties not less than 30 days prior to the implementation of the performance plan or revision.
-    - **(C)** The plan shall include a concise statement of the goals for a modernized system for the delivery of student financial assistance under subchapter IV and identify action steps necessary to achieve such goals. The plan shall address the PBO’s responsibilities in the following areas:
-      - **(i)** Improving service to students and other participants in student financial aid programs authorized under under 1 1 So in original. subchapter IV, including making those programs more understandable to students and their parents.
+    - **(C)** The plan shall include a concise statement of the goals for a modernized system for the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 and identify action steps necessary to achieve such goals. The plan shall address the PBO’s responsibilities in the following areas:
+      - **(i)** Improving service to students and other participants in student financial aid programs authorized under under 1 1 So in original. subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents.
       - **(ii)** Reducing the costs of administering those programs.
       - **(iii)** Improving and integrating the systems that support those programs.
-      - **(iv)** Developing open, common, and integrated systems for programs authorized under under 1 subchapter IV.
+      - **(iv)** Developing open, common, and integrated systems for programs authorized under under 1 subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
       - **(v)** Any other areas identified by the Secretary.
   - **(2)** Each year, the Chief Operating Officer shall prepare and submit to Congress, through the Secretary, an annual report on the performance of the PBO, including an evaluation of the extent to which the PBO met the goals and objectives contained in the 5-year performance plan described in paragraph (1) for the preceding year. The annual report shall include the following:
     - **(A)** An independent financial audit of the expenditures of both the PBO and the programs administered by the PBO.
     - **(B)** Financial and performance requirements applicable to the PBO under the Chief Financial Officers Act of 1990 and the Government Performance and Results Act of 1993.
     - **(C)** The results achieved by the PBO during the year relative to the goals established in the organization’s performance plan.
-    - **(D)** The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2), including the amounts of bonus compensation awarded to these individuals.
+    - **(D)** The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2) of this section, including the amounts of bonus compensation awarded to these individuals.
     - **(E)** Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
     - **(F)** Other such information as the Director of the Office of Management and Budget shall prescribe for performance based organizations.
-  - **(3)** The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under subchapter IV—
+  - **(3)** The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42—
     - **(A)** regarding the degree of satisfaction with the delivery system; and
     - **(B)** to seek suggestions on means to improve the delivery system.
   - **(4)** The Secretary shall, upon request, provide a briefing to the members of the authorizing committees on the steps the Department has taken to ensure—
     - **(A)** the integrity of the student loan programs; and
-    - **(B)** that lenders and guaranty agencies are adhering to the requirements of subchapter IV.
+    - **(B)** that lenders and guaranty agencies are adhering to the requirements of subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 - **(d)**
   - **(1)** The management of the PBO shall be vested in a Chief Operating Officer who shall be appointed by the Secretary to a term of not less than 3 and not more than 5 years, and compensated without regard to chapters 33, 51, and 53 of title 5. The appointment shall be made on the basis of demonstrated management ability and expertise in information technology, including experience with financial systems, and without regard to political affiliation or activity.
   - **(2)** The Secretary may reappoint the Chief Operating Officer to subsequent terms of not less than 3 and not more than 5 years, so long as the performance of the Chief Operating Officer, as set forth in the performance agreement described in paragraph (4), is satisfactory.
@@ -93,12 +88,12 @@ generated_at: "2026-03-29T02:12:17.176Z"
     - **(B)** In addition, a senior manager may receive a bonus in an amount such that the manager’s total annual compensation does not exceed 125 percent of the maximum rate of basic pay for the Senior Executive Service, including any applicable locality-based comparability payment, based upon the Chief Operating Officer’s evaluation of the manager’s performance in relation to the goals set forth in the performance agreement described in paragraph (2).
   - **(4)** A senior manager shall be removable by the Chief Operating Officer, or by the Secretary if the position of Chief Operating Officer is vacant.
 - **(f)**
-  - **(1)** The Chief Operating Officer, in consultation with the Secretary, shall appoint a Student Loan Ombudsman to provide timely assistance to borrowers of loans made, insured, or guaranteed under subchapter IV by performing the functions described in paragraph (3).
+  - **(1)** The Chief Operating Officer, in consultation with the Secretary, shall appoint a Student Loan Ombudsman to provide timely assistance to borrowers of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 by performing the functions described in paragraph (3).
   - **(2)** The Chief Operating Officer shall disseminate information about the availability and functions of the Ombudsman to students, borrowers, and potential borrowers, as well as institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in those student loan programs.
   - **(3)** The Ombudsman shall—
     - **(A)** in accordance with regulations of the Secretary, receive, review, and attempt to resolve informally complaints from borrowers of loans described in paragraph (1), including, as appropriate, attempts to resolve such complaints within the Department of Education and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in the loan programs described in paragraph (1); and
     - **(B)** compile and analyze data on borrower complaints and make appropriate recommendations.
-  - **(4)** Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2), that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
+  - **(4)** Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
 - **(g)**
   - **(1)** The PBO shall not be subject to any ceiling relating to the number or grade of employees.
   - **(2)** The Chief Operating Officer shall work with the Office of Personnel Management to develop and implement personnel flexibilities in staffing, classification, and pay that meet the needs of the PBO, subject to compliance with title 5.

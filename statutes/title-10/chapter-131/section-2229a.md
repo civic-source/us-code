@@ -3,9 +3,9 @@ title: "Section 2229a - Annual report on prepositioned materiel and equipment"
 usc_title: 10
 usc_section: "2229a"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2229a"
-generated_at: "2026-03-29T02:10:45.085Z"
+generated_at: "2026-03-29T17:50:57.088Z"
 ---
 
 # § 2229a. Annual report on prepositioned materiel and equipment
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:10:45.085Z"
   - **(5)** An estimate of the amount of funds required to completely reconstitute any shortfall in the prepositioned stocks and a description of the Secretary’s plan for carrying out such complete reconstitution.
   - **(6)** A list of any operations plan affected by any shortfall in the prepositioned stocks and a description of any action taken to mitigate any risk that such a shortfall may create.
   - **(7)** A list of any non-standard items slated for inclusion in the prepositioned stocks and a plan for funding the inclusion and sustainment of such items.
-  - **(8)** A list of any equipment used in support of contingency operations slated for retrograde and subsequent inclusion in the prepositioned stocks.
+  - **(8)** A list of any equipment used in support of Operation Iraqi Freedom, Operation New Dawn, or Operation Enduring Freedom slated for retrograde and subsequent inclusion in the prepositioned stocks.
   - **(9)** An efficiency strategy for limited shelf-life medical stock replacement.
   - **(10)** The status of efforts to develop a joint strategy, integrate service requirements, and eliminate redundancies.
   - **(11)** The operational planning assumptions used in the formulation of prepositioned stock levels and composition.

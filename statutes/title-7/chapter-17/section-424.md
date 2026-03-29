@@ -1,12 +1,14 @@
 ---
-title: "Section 424 - Transferred"
+title: "Section 424 - Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies"
 usc_title: 7
 usc_section: "424"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 424"
-generated_at: "2026-03-29T02:10:16.722Z"
+generated_at: "2026-03-29T17:50:48.514Z"
 ---
 
-# § 424. Transferred
+# § 424. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies
+
+The Secretary of Agriculture is authorized to investigate the ginning of cotton; to establish and maintain experimental ginning plants and laboratories; and to make such tests, demonstrations, and experiments, and such technical and scientific studies in relation to cotton ginning as he shall deem necessary and to publish the results thereof, with a view to developing improved ginning equipment and encouraging the use of improved methods, and he may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person, as he shall find to be necessary.
 

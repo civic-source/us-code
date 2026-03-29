@@ -1,12 +1,61 @@
 ---
-title: "Section 13 - Repealed. Pub. L. 113–121, title I, § 1014(c)(3) , June 10, 2014 , 128 Stat. 1222"
+title: "Section 13 - Construction of flood control projects by non-Federal interests"
 usc_title: 33
 usc_section: "13"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 13"
-generated_at: "2026-03-29T02:14:18.510Z"
+generated_at: "2026-03-29T17:52:45.909Z"
 ---
 
-# § 701b–13. Repealed. Pub. L. 113–121, title I, § 1014(c)(3) , June 10, 2014 , 128 Stat. 1222
+# § 701b–13. Construction of flood control projects by non-Federal interests
 
+- **(a)** Non-Federal interests are authorized to undertake flood control projects in the United States, subject to obtaining any permits required pursuant to Federal and State laws in advance of actual construction.
+- **(b)**
+  - **(1)** A non-Federal interest may prepare, for review and approval by the Secretary, the necessary studies and design documents for any construction to be undertaken pursuant to subsection (a) of this section.
+  - **(2)** Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant to subsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
+- **(c)** In the case of any study or design documents for a flood control project that were initiated before October 12, 1996 , the Secretary may complete and transmit to the appropriate non-Federal interests the study or design documents or, upon the request of such non-Federal interests, terminate the study or design activities and transmit the partially completed study or design documents to such non-Federal interests for completion. Studies and design documents subject to this subsection shall be completed without regard to the requirements of subsection (b) of this section.
+- **(d)**
+  - **(1)**
+    - **(A)**
+      - **(i)** A non-Federal interest may carry out construction for which studies and design documents are prepared under subsection (b) of this section only if the Secretary approves the project for construction.
+      - **(ii)** The Secretary shall approve a project for construction if the Secretary determines that the project is technically sound, economically justified, and environmentally acceptable and meets the requirements for obtaining the appropriate permits required under the authority of the Secretary.
+      - **(iii)** The Secretary shall not unreasonably withhold approval of a project for construction.
+      - **(iv)** Nothing in this subparagraph affects any regulatory authority of the Secretary.
+    - **(B)** Any non-Federal interest that has received from the Secretary under subsection (c) of this section a favorable recommendation to carry out a flood control project, or separable element of a flood control project, based on the results of completed studies and design documents for the project or element may carry out the project or element if a final environmental impact statement under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) has been filed for the project or element.
+  - **(2)** Any plan of improvement proposed to be implemented in accordance with this subsection (other than paragraph (1)(A)) shall be deemed to satisfy the requirements for obtaining the appropriate permits required under the Secretary’s authority. Such permits shall be granted subject to the non-Federal interest’s acceptance of the terms and conditions of such permits if the Secretary determines that the applicable regulatory criteria and procedures have been satisfied.
+  - **(3)** The Secretary shall monitor any project for which a permit is granted under this subsection in order to ensure that such project is constructed, operated, and maintained in accordance with the terms and conditions of such permit.
+- **(e)**
+  - **(1)** Subject to appropriations Acts, the Secretary may reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized flood control project, or separable element of a flood control project, constructed pursuant to this section and provide credit for the non-Federal share of the project—
+    - **(A)** if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by the non-Federal interest;
+    - **(B)** if the Secretary finds, after a review of studies and design documents prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable; and
+    - **(C)** if the construction work is substantially in accordance with plans prepared under subsection (b) of this section.
+  - **(2)**
+    - **(A)** For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection (f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
+    - **(B)** If the non-Federal interest for a project described in subsection (f) of this section carries out work before completion of a reconnaissance study by the Secretary and if such work is determined by the Secretary to be compatible with the project later recommended by the Secretary, the Secretary shall credit the non-Federal interest for its share of the cost of the project for such work.
+  - **(3)** In reviewing plans under this subsection, the Secretary shall consider budgetary and programmatic priorities and other factors that the Secretary considers appropriate.
+  - **(4)** The Secretary shall regularly monitor and audit any project for flood control approved for construction under this section by a non-Federal interest to ensure that such construction is in compliance with the plans approved by the Secretary and that the costs are reasonable.
+  - **(5)** The Secretary may not make any reimbursement under this section until the Secretary determines that the work for which reimbursement is requested has been performed in accordance with applicable permits and approved plans.
+  - **(6)**
+    - **(A)** The Secretary shall budget and request appropriations for reimbursements under this section on a schedule that is consistent with a Federal construction schedule.
+    - **(B)** Reimbursements under this section may commence on approval of a project by the Secretary.
+    - **(C)** At the request of a non-Federal interest, the Secretary may reimburse the non-Federal interest by providing credit toward future non-Federal costs of the project.
+    - **(D)** Nothing in this paragraph affects the discretion of the President to schedule new construction starts.
+- **(f)** For the purpose of demonstrating the potential advantages and effectiveness of non-Federal implementation of flood control projects, the Secretary shall enter into agreements pursuant to this section with non-Federal interests for development of the following flood control projects by such interests:
+  - **(1)** The Berryessa Creek element of the project for flood control, Coyote and Berryessa Creeks, California, authorized by section 101(a)(5) of the Water Resources Development Act of 1990 ( 104 Stat. 4606 ); except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to such element.
+  - **(2)** The project for flood control, Los Angeles County Drainage Area, California, authorized by section 101(b) of the Water Resources Development Act of 1990 ( 104 Stat. 4611 ).
+  - **(3)** The project for flood control, Stockton Metropolitan Area, California.
+  - **(4)** The project for flood control, Upper Guadalupe River, California.
+  - **(5)** The project for flood control, Las Vegas Wash and Tributaries (Flamingo and Tropicana Washes), Nevada, authorized by section 101(13) of the Water Resources Development Act of 1992 ( 106 Stat. 4803 ).
+  - **(6)** Flood control components comprising the Brays Bayou element of the project for flood control, Buffalo Bayou and tributaries, Texas, authorized by section 101(a)(21) of the Water Resources Development Act of 1990 ( 104 Stat. 4610 ); except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to the diversion component of such element.
+  - **(7)** The Hunting Bayou element of the project for flood control, Buffalo Bayou and tributaries, Texas, authorized by such section; except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to such element.
+  - **(8)** The project for flood control, White Oak Bayou watershed, Texas.
+  - **(12)** The project for flood control, Perris, California.
+  - **(13)** An element of the project for flood control, Chicagoland Underflow Plan, Illinois.
+  - **(14)** The project for flood control, Larose to Golden Meadow, Louisiana.
+  - **(15)** A project for flood control, Buffalo Bayou, Texas, to provide an alternative to the project authorized by the first section of the River and Harbor Act of June 20, 1938 ( 52 Stat. 804 ) and modified by section 3a of the Flood Control Act of August 11, 1939 ( 53 Stat. 1414 ).
+  - **(16)** A project for flood control, Halls Bayou, Texas, to provide an alternative to the project for flood control, Buffalo Bayou and tributaries, Texas, authorized by section 101(a)(21) of the Water Resources Development Act of 1990 ( 104 Stat. 4610 ).
+  - **(17)** The project for the Menomonee River Watershed, Wisconsin, including—
+    - **(A)** the Underwood Creek diversion facility project (Milwaukee County Grounds); and
+    - **(B)** the Greater Milwaukee Rivers watershed project.
+- **(g)** For the purposes of this section, flood damage prevention measures at or in the vicinity of Morgan City and Berwick, Louisiana, shall be treated as an authorized separable element of the Atchafalaya Basin feature of the project for flood control, Mississippi River and Tributaries.

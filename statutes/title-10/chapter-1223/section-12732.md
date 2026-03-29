@@ -3,9 +3,9 @@ title: "Section 12732 - Entitlement to retired pay: computation of years of serv
 usc_title: 10
 usc_section: "12732"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 12732"
-generated_at: "2026-03-29T02:10:45.376Z"
+generated_at: "2026-03-29T17:50:57.277Z"
 ---
 
 # § 12732. Entitlement to retired pay: computation of years of service
@@ -35,11 +35,6 @@ generated_at: "2026-03-29T02:10:45.376Z"
       - **(iii)** in any other category covered by subsection (a)(1) except a regular component.
     - **(D)** Points credited for the year under section 2126(b) of this title .
     - **(E)** One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32 , unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
-    - **(F)**
-      - **(i)** Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each drill or period of equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
-      - **(ii)** A person may not be credited more than 35 points in a one-year period under this subparagraph.
-      - **(iii)** In this subparagraph, the term “covered emergency period” means the period beginning on March 1, 2020 , and ending on the day that is 60 days after the date on which the travel or duty restriction applicable to the person concerned is lifted.
-    - **(G)** Points at the rate of 1 per inactive-duty training period, under section 206 of title 37 , during which the member is on parental leave under section 711 of this title .
   - **(3)** The person’s years of active service in the Commissioned Corps of the Public Health Service.
   - **(4)** The person’s years of active commissioned service in the National Oceanic and Atmospheric Administration (including active commissioned service in the Environmental Science Services Administration and in the Coast and Geodetic Survey).
 - **(b)** The following service may not be counted under subsection (a):

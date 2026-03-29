@@ -3,9 +3,9 @@ title: "Section 6005 - Required terms in plans"
 usc_title: 7
 usc_section: "6005"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 6005"
-generated_at: "2026-03-29T02:10:17.060Z"
+generated_at: "2026-03-29T17:50:48.804Z"
 ---
 
 # § 6005. Required terms in plans
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T02:10:17.060Z"
     - **(A)** The Board shall give reasonable publicity to the industry for nomination of persons interested in being nominated for Board membership.
     - **(B)** Each grower and sheller shall be eligible to vote for the nomination of members who represent that class of members on the Board. Growers shall be eligible to vote for the nomination of the first handler members on the Board.
     - **(C)** Each person referred to in subparagraph (B) shall have one vote. The 2 eligible candidates receiving the largest number of votes cast for each Board position for each class of members shall be the nominees for such position.
-    - **(D)** Except for the establishment of the initial Board, the nominations made under subparagraph (C) and subsections (b)(3)(D) and (b)(3)(E) shall be certified by the Board and submitted to the Secretary no later than May 1 or such other date recommended by the Board and approved by the Secretary preceding the commencement of the term of office for Board membership, as established in paragraph (9).
+    - **(D)** Except for the establishment of the initial Board, the nominations made under subparagraph (C) and subsections (b)(3)(D) and (b)(3)(E) of this section shall be certified by the Board and submitted to the Secretary no later than May 1 or such other date recommended by the Board and approved by the Secretary preceding the commencement of the term of office for Board membership, as established in paragraph (9).
     - **(E)** To each vacant Board position, the Secretary shall appoint 1 individual from among the nominees certified and submitted under subparagraph (D).
     - **(F)** The Secretary may reject any nominee submitted under subparagraph (D). If there are insufficient nominees from which to appoint members to the Board as a result of the Secretary’s rejecting such nominees, additional nominees shall be submitted to the Secretary in the same manner.
     - **(G)** The Secretary shall establish an initial Board from among nominations solicited by the Secretary. For the purpose of obtaining nominations for the members of the initial Board described in subparagraphs (A), (B), and (C) of paragraph (3), the Secretary shall perform the functions of the Board under this subsection as the Secretary determines necessary and appropriate. Nominations for those members of the initial Board described in subparagraphs (D) and (E) of paragraph (3) shall be made in accordance with paragraph (3).
@@ -58,8 +58,8 @@ generated_at: "2026-03-29T02:10:17.060Z"
   - **(4)** to establish working committees of persons other than Board members;
   - **(5)** to employ such persons, other than Board members, as the Board considers necessary and to determine the compensation and define the duties of such persons;
   - **(6)** to prepare and submit for the approval of the Secretary, prior to the beginning of each fiscal period, a recommended rate of assessment under section 6007 of this title , and a fiscal period budget of the anticipated expenses in the administration of the plan, including the probable costs of all programs and projects;
-  - **(7)** to develop programs and projects, subject to subsection (d);
-  - **(8)** to enter into contracts or agreements, subject to subsection (e), to develop and carry out programs or projects of promotion, research, industry information and consumer information;
+  - **(7)** to develop programs and projects, subject to subsection (d) of this section;
+  - **(8)** to enter into contracts or agreements, subject to subsection (e) of this section, to develop and carry out programs or projects of promotion, research, industry information and consumer information;
   - **(9)** to carry out research, promotion, industry information, and consumer information, and to pay the costs of such projects with assessments collected pursuant to section 6007 of this title ;
   - **(10)** to keep minutes, books, and records that reflect the actions and transactions of the Board, and promptly report minutes of each Board meeting to the Secretary;
   - **(11)** to appoint and convene, from time to time, working committees comprised of growers, grower-shellers, first handlers, shellers, importers, and the public to assist in the development of research, promotion, industry information, and consumer information programs for pecans;
@@ -74,7 +74,7 @@ generated_at: "2026-03-29T02:10:17.060Z"
   - **(16)** to develop and recommend to the Secretary for approval such regulations as may be necessary for the development and execution of programs or projects, or as may otherwise be necessary, to carry out the plan.
 - **(d)**
   - **(1)** The plan shall provide that the Board shall submit to the Secretary for approval any program or project of promotion, research, consumer information, or industry information. No program or project shall be implemented prior to its approval by the Secretary.
-  - **(2)** The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10)) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
+  - **(2)** The plan shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of such fiscal year, to submit to the Secretary for approval budgets of its anticipated expenses (including reimbursements under subsection (b)(10) of this section) and disbursements in the implementation of the plan, including projected costs of promotion, research, consumer information, and industry information programs and projects.
   - **(3)** The Board may incur such expenses for programs or projects of research, promotion, consumer information, or industry information, and other expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary, including any implementation, administrative, and referendum costs incurred by the Department.
   - **(4)** The funds to cover the expenses referred to in paragraph (3) shall be paid by the Board from assessments collected under section 6007 of this title or funds borrowed pursuant to paragraph (5).
   - **(5)** In order to meet the expenses referred to in paragraph (3), the Board shall have the authority to borrow funds, as approved by the Secretary, for capital outlays and startup costs.

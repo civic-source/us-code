@@ -3,14 +3,14 @@ title: "Section 955b - National Medal of Arts"
 usc_title: 20
 usc_section: "955b"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 955b"
-generated_at: "2026-03-29T02:12:17.165Z"
+generated_at: "2026-03-29T17:51:48.307Z"
 ---
 
 # § 955b. National Medal of Arts
 
-- **(a)** There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b).
+- **(a)** There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b) of this section.
 - **(b)**
   - **(1)** The President shall from time to time award the National Medal of Arts, on the basis of recommendations from the National Council on the Arts, to individuals or groups who in the President’s judgment are deserving of special recognition by reason of their outstanding contributions to the excellence, growth, support, and availability of the arts in the United States.
   - **(2)** Not more than twelve of such medals may be awarded in any calendar year.

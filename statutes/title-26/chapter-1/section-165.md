@@ -3,9 +3,9 @@ title: "Section 165 - Losses"
 usc_title: 26
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 165"
-generated_at: "2026-03-29T02:14:00.831Z"
+generated_at: "2026-03-29T17:52:39.147Z"
 ---
 
 # § 165. Losses
@@ -16,11 +16,7 @@ generated_at: "2026-03-29T02:14:00.831Z"
   - **(1)** losses incurred in a trade or business;
   - **(2)** losses incurred in any transaction entered into for profit, though not connected with a trade or business; and
   - **(3)** except as provided in subsection (h), losses of property not connected with a trade or business or a transaction entered into for profit, if such losses arise from fire, storm, shipwreck, or other casualty, or from theft.
-- **(d)**
-  - **(1)** For purposes of losses from wagering transactions, the amount allowed as a deduction for any taxable year—
-    - **(A)** shall be equal to 90 percent of the amount of such losses during such taxable year, and
-    - **(B)** shall be allowed only to the extent of the gains from such transactions during such taxable year.
-  - **(2)** For purposes of paragraph (1), the term “losses from wagering transactions” includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction.
+- **(d)** Losses from wagering transactions shall be allowed only to the extent of the gains from such transactions.
 - **(e)** For purposes of subsection (a), any loss arising from theft shall be treated as sustained during the taxable year in which the taxpayer discovers such loss.
 - **(f)** Losses from sales or exchanges of capital assets shall be allowed only to the extent allowed in sections 1211 and 1212.
 - **(g)**
@@ -41,31 +37,32 @@ generated_at: "2026-03-29T02:14:00.831Z"
     - **(B)** If the personal casualty gains for any taxable year exceed the personal casualty losses for such taxable year—
       - **(i)** all such gains shall be treated as gains from sales or exchanges of capital assets, and
       - **(ii)** all such losses shall be treated as losses from sales or exchanges of capital assets.
-  - **(3)** For purposes of this subsection—
+  - **(3)**
+    - **(A)** If an individual has a net disaster loss for any taxable year, the amount determined under paragraph (2)(A)(ii) shall be the sum of—
+      - **(i)** such net disaster loss, and
+      - **(ii)** so much of the excess referred to in the matter preceding clause (i) of paragraph (2)(A) (reduced by the amount in clause (i) of this subparagraph) as exceeds 10 percent of the adjusted gross income of the individual.
+    - **(B)** For purposes of subparagraph (A), the term “net disaster loss” means the excess of—
+      - **(i)** the personal casualty losses—
+        - **(I)** attributable to a federally declared disaster occurring before January 1, 2010 , and
+        - **(II)** occurring in a disaster area, over
+      - **(ii)** personal casualty gains.
+    - **(C)** For purposes of this paragraph—
+      - **(i)** The term “federally declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+      - **(ii)** The term “disaster area” means the area so determined to warrant such assistance.
+  - **(4)** For purposes of this subsection—
     - **(A)** The term “personal casualty gain” means the recognized gain from any involuntary conversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
-    - **(B)** The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraph (2), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
-  - **(4)**
+    - **(B)** The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraphs (2) and (3), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
+  - **(5)**
     - **(A)** In any case to which paragraph (2)(A) applies, the deduction for personal casualty losses for any taxable year shall be treated as a deduction allowable in computing adjusted gross income to the extent such losses do not exceed the personal casualty gains for the taxable year.
     - **(B)** For purposes of this subsection, a husband and wife making a joint return for the taxable year shall be treated as 1 individual.
     - **(C)** For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
     - **(D)** No loss described in subsection (c)(3) shall be allowed if, at the time of filing the return, such loss has been claimed for estate tax purposes in the estate tax return.
     - **(E)** Any loss of an individual described in subsection (c)(3) to the extent covered by insurance shall be taken into account under this section only if the individual files a timely insurance claim with respect to such loss.
-  - **(5)**
-    - **(A)** In the case of an individual, except as provided in subparagraph (B), any personal casualty loss which (but for this paragraph) would be deductible in a taxable year beginning after December 31, 2017 , shall be allowed as a deduction under subsection (a) only to the extent it is attributable to a Federally declared disaster (as defined in subsection (i)(5)) or a State declared disaster.
-    - **(B)** If a taxpayer has personal casualty gains for any taxable year to which subparagraph (A) applies—
-      - **(i)** subparagraph (A) shall not apply to the portion of the personal casualty loss not attributable to a Federally declared disaster (as so defined) or a State declared disaster to the extent such loss does not exceed such gains, and
-      - **(ii)** in applying paragraph (2) for purposes of subparagraph (A) to the portion of personal casualty loss which is so attributable to such a disaster, the amount of personal casualty gains taken into account under paragraph (2)(A) shall be reduced by the portion of such gains taken into account under clause (i).
-    - **(C)** For purposes of this paragraph—
-      - **(i)** The term “State declared disaster” means, with respect to any State, any natural catastrophe (including any hurricane, tornado, storm, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the State, which in the determination of the Governor of such State (or the Mayor, in the case of the District of Columbia) and the Secretary causes damage of sufficient severity and magnitude to warrant the application of the rules of this section.
-      - **(ii)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(i)**
-  - **(1)** Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area and attributable to a federally declared disaster may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
+  - **(1)** Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area (as defined by clause (ii) of subsection (h)(3)(C)) and attributable to a federally declared disaster (as defined by clause (i) of such subsection) may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
   - **(2)** If an election is made under this subsection, the casualty resulting in the loss shall be treated for purposes of this title as having occurred in the taxable year for which the deduction is claimed.
   - **(3)** The amount of the loss taken into account in the preceding taxable year by reason of paragraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
-  - **(4)** Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster may be used to establish the amount of any loss described in paragraph (1) or (2).
-  - **(5)** For purposes of this subsection—
-    - **(A)** The term “Federally 1 1 So in original. Probably should not be capitalized. declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
-    - **(B)** The term “disaster area” means the area so determined to warrant such assistance.
+  - **(4)** Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster (as defined by subsection (h)(3)(C)(i) 1 1 So in original. Probably should be followed by a second closing parenthesis. may be used to establish the amount of any loss described in paragraph (1) or (2).
 - **(j)**
   - **(1)** Nothing in subsection (a) or in any other provision of law shall be construed to provide a deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
   - **(2)** For purposes of this subsection—

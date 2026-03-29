@@ -3,9 +3,9 @@ title: "Section 2 - Prohibited foreign trade practices by domestic concerns"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T02:11:33.959Z"
+generated_at: "2026-03-29T17:51:36.077Z"
 ---
 
 # § 78dd–2. Prohibited foreign trade practices by domestic concerns
@@ -23,8 +23,8 @@ generated_at: "2026-03-29T02:11:33.959Z"
     - **(A)**
       - **(i)** influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or (iii) securing any improper advantage; or
     - **(B)** inducing such foreign official, political party, party official, or candidate to use his or its influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
-- **(b)** Subsections (a) and (i) shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
-- **(c)** It shall be an affirmative defense to actions under subsection (a) or (i) that—
+- **(b)** Subsections (a) and (i) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
+- **(c)** It shall be an affirmative defense to actions under subsection (a) or (i) of this section that—
   - **(1)** the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official’s, political party’s, party official’s, or candidate’s country; or
   - **(2)** the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
     - **(A)** the promotion, demonstration, or explanation of products or services; or
@@ -75,5 +75,5 @@ generated_at: "2026-03-29T02:11:33.959Z"
     - **(A)** a telephone or other interstate means of communication, or
     - **(B)** any other interstate instrumentality.
 - **(i)**
-  - **(1)** It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a), for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
+  - **(1)** It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
   - **(2)** As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8 ) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.

@@ -3,31 +3,36 @@ title: "Section 1524 - Education and risk management assistance"
 usc_title: 7
 usc_section: "1524"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 1524"
-generated_at: "2026-03-29T02:10:16.821Z"
+generated_at: "2026-03-29T17:50:48.611Z"
 ---
 
 # § 1524. Education and risk management assistance
 
 - **(a)**
-  - **(1)** Subject to the amounts made available under paragraph (4), the Secretary, acting through the National Institute of Food and Agriculture, shall carry out the program established under paragraph (2).
-  - **(2)**
-    - **(A)** The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers and providing technical assistance to agricultural producers on a full range of farm viability and risk management activities, including futures, options, agricultural trade options, crop insurance, business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, conservation activities, and other risk management strategies.
+  - **(1)** Subject to the amounts made available under paragraph (5)—
+    - **(A)** the Corporation shall carry out the program established under paragraph (2); and
+    - **(B)** the Secretary, acting through the National Institute of Food and Agriculture, shall carry out the program established under paragraph (3).
+  - **(2)** The Corporation shall establish a program under which crop insurance education and information is provided to producers in States in which (as determined by the Secretary)—
+    - **(A)** there is traditionally, and continues to be, a low level of Federal crop insurance participation and availability; and
+    - **(B)** producers are underserved by the Federal crop insurance program.
+  - **(3)**
+    - **(A)** The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, and other risk management strategies.
     - **(B)** A grant under this paragraph shall be awarded on the basis of merit and shall be subject to peer or merit review.
     - **(C)** Funds for a grant under this paragraph shall be available to the Secretary for obligation for a 2-year period.
     - **(D)** The Secretary may use not more than 4 percent of the funds made available for grants under this paragraph for administrative costs incurred by the Secretary in carrying out this paragraph.
-  - **(3)** In carrying out the program established under paragraph (2), the Secretary shall place special emphasis on farm viability and risk management strategies (including farm financial benchmarking, business planning and technical assistance, market assessment, transfer and succession planning, and crop insurance participation), education, and outreach specifically targeted at—
+  - **(4)** In carrying out the programs established under paragraphs (2) and (3), the Secretary shall place special emphasis on risk management strategies (including farm financial benchmarking), education, and outreach specifically targeted at—
     - **(A)** beginning farmers or ranchers;
     - **(B)** legal immigrant farmers or ranchers that are attempting to become established producers in the United States;
     - **(C)** socially disadvantaged farmers or ranchers;
     - **(D)** farmers or ranchers that—
-      - **(i)** are preparing to retire;
-      - **(ii)** are using transition strategies to help new farmers or ranchers get started; 1 1 So in original. Probably should be followed by “and”.
-      - **(iii)** are converting production and marketing systems to pursue new markets; and 2 2 So in original. The word “and” probably should not appear.
-    - **(E)** producers that are underserved by the Federal crop insurance program established under this subchapter, as determined by the Corporation; and
-    - **(F)** veteran farmers or ranchers.
-  - **(4)** From the insurance fund established under section 1516(c) of this title , there is transferred for the partnerships for risk management education program established under paragraph (2), $10,000,000 for fiscal year 2019 and each subsequent fiscal year, of which not less than $5,000,000 shall be used to carry out paragraph (3)(E).
+      - **(i)** are preparing to retire; and
+      - **(ii)** are using transition strategies to help new farmers or ranchers get started; and
+    - **(E)** new or established farmers or ranchers that are converting production and marketing systems to pursue new markets.
+  - **(5)** From the insurance fund established under section 1516(c) of this title , there is transferred—
+    - **(A)** for the education and information program established under paragraph (2), $5,000,000 for fiscal year 2001 and each subsequent fiscal year; and
+    - **(B)** for the partnerships for risk management education program established under paragraph (3), $5,000,000 for fiscal year 2001 and each subsequent fiscal year.
 - **(b)**
   - **(1)** The Secretary shall provide financial assistance to producers in the States of Connecticut, Delaware, Hawaii, Maryland, Massachusetts, Maine, Nevada, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Utah, Vermont, West Virginia, and Wyoming.
   - **(2)** A producer may use financial assistance provided under this subsection to—
@@ -43,7 +48,7 @@ generated_at: "2026-03-29T02:10:16.821Z"
     - **(D)** enter into futures, hedging, or options contracts in a manner designed to help reduce production, price, or revenue risk;
     - **(E)** enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
     - **(F)** conduct any other activity relating to an activity described in subparagraphs (A) through (E), as determined by the Secretary.
-  - **(3)** The total amount of payments made to a person (as defined in section 1308(5) 3 3 See References in Text note below. of this title) (before the amendment made by section 1603(a) 3 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
+  - **(3)** The total amount of payments made to a person (as defined in section 1308(5) 1 1 See References in Text note below. of this title) (before the amendment made by section 1603(a) 1 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
   - **(4)**
     - **(A)** The Secretary shall carry out this subsection through the Commodity Credit Corporation.
     - **(B)**

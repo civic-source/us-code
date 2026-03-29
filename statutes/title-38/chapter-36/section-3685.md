@@ -3,23 +3,15 @@ title: "Section 3685 - Overpayments to eligible persons or veterans"
 usc_title: 38
 usc_section: "3685"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 3685"
-generated_at: "2026-03-29T02:14:50.421Z"
+generated_at: "2026-03-29T17:52:53.764Z"
 ---
 
 # § 3685. Overpayments to eligible persons or veterans
 
-- **(a)** Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person relating to educational assistance under a law administered by the Secretary, the amount of such overpayment shall constitute a liability of such veteran or eligible person to the United States.
-- **(b)** Any overpayment to a veteran or eligible person with respect to pursuit by the veteran or eligible person of a program of education at an educational institution shall constitute a liability of the educational institution to the United States if—
-  - **(1)** the Secretary finds that the overpayment has been made as the result of—
-    - **(A)** the willful or negligent failure of an educational institution to report, as required under this chapter or chapter 34 or 35 of this title, to the Department of Veterans Affairs excessive absences from a course, or discontinuance or interruption of a course by the veteran or eligible person; or
-    - **(B)** the willful or negligent false certification by an educational institution; or
-  - **(2)** the benefit payment sent to an educational institution on behalf of an eligible veteran or person is made pursuant to—
-    - **(A)** section 3313(h) of this title ;
-    - **(B)** section 3317 of this title ; or
-    - **(C)** section 3680(d) of this title ; or
-    - **(D)** section 3320(d) of this title .
+- **(a)** Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person, the amount of such overpayment shall constitute a liability of such veteran or eligible person to the United States.
+- **(b)** Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person as the result of (1) the willful or negligent failure of an educational institution to report, as required under this chapter or chapter 34 or 35 of this title, to the Department of Veterans Affairs excessive absences from a course, or discontinuance or interruption of a course by the veteran or eligible person, or (2) the willful or negligent false certification by an educational institution, the amount of such overpayment shall constitute a liability of the educational institution to the United States.
 - **(c)** Any overpayment referred to in subsection (a) or (b) of this section may be recovered, except as otherwise provided in the last sentence of section 3684(c) of this title , in the same manner as any other debt due the United States.
 - **(d)** Any overpayment referred to in subsection (a) or (b) of this section may be waived as to a veteran or eligible person as provided in section 5302 of this title . Waiver of any such overpayment as to a veteran or eligible person shall in no way release any educational institution from liability under subsection (b) of this section.
 - **(e)**

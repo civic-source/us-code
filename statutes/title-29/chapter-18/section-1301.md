@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 29
 usc_section: "1301"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1301"
-generated_at: "2026-03-29T02:14:09.458Z"
+generated_at: "2026-03-29T17:52:18.858Z"
 ---
 
 # § 1301. Definitions
@@ -29,12 +29,12 @@ generated_at: "2026-03-29T02:14:09.458Z"
   - **(6)** “basic benefits” means benefits guaranteed under section 1322 of this title (other than under section 1322(c) 1 1 See References in Text note below. of this title), or under section 1322a of this title (other than under section 1322a(g) of this title );
   - **(7)** “non-basic benefits” means benefits guaranteed under section 1322(c) 1 of this title or 1322a(g) of this title;
   - **(8)** “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant’s accumulated mandatory employee contributions upon the participant’s death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
-  - **(9)** Repealed. Pub. L. 113–235, div. O, title I, § 108(a)(3)(A) , Dec. 16, 2014 , 128 Stat. 2787 .
+  - **(9)** “reorganization index” means the amount determined under section 1421(b) of this title ;
   - **(10)** “plan sponsor” means, with respect to a multiemployer plan—
     - **(A)** the plan’s joint board of trustees, or
     - **(B)** if the plan has no joint board of trustees, the plan administrator;
   - **(11)** “contribution base unit” means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan, as defined in regulations prescribed by the Secretary of the Treasury;
-  - **(12)** “outstanding claim for withdrawal liability” means a plan’s claim for the unpaid balance of the liability determined under part 1 of subtitle E for which demand has been made, valued in accordance with regulations prescribed by the corporation;
+  - **(12)** “outstanding claim for withdrawal liability” means a plan’s claim for the unpaid balance of the liability determined under part 1 of subtitle E of this subchapter for which demand has been made, valued in accordance with regulations prescribed by the corporation;
   - **(13)** “contributing sponsor”, of a single-employer plan, means a person described in section 1082(b)(1) of this title (without regard to section 1082(b)(2) of this title ) or section 412(b)(1) of title 26 (without regard to section 412(b)(2) of such title). 2 2 So in original. The period probably should be a semicolon.
   - **(14)** in the case of a single-employer plan—
     - **(A)** “controlled group” means, in connection with any person, a group consisting of such person and all other persons under common control with such person;
@@ -66,6 +66,6 @@ generated_at: "2026-03-29T02:14:09.458Z"
     - **(D)** the corporation,
 - **(b)**
   - **(1)** An individual who owns the entire interest in an unincorporated trade or business is treated as his own employer, and a partnership is treated as the employer of each partner who is an employee within the meaning of section 401(c)(1) of title 26 . For purposes of this subchapter, under regulations prescribed by the corporation, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer and all such trades and businesses as a single employer. The regulations prescribed under the preceding sentence shall be consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under section 414(c) of title 26 .
-  - **(2)** For purposes of subtitle E—
-    - **(A)** except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) 3 3 See References in Text note below. of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+  - **(2)** For purposes of subtitle E of this subchapter—
+    - **(A)** except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) 3 3 See References in Text note below. of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
     - **(B)** the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary’s delegate.

@@ -3,9 +3,9 @@ title: "Section 27d - Administration of the predominance test"
 usc_title: 7
 usc_section: "27d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 27d"
-generated_at: "2026-03-29T02:10:16.644Z"
+generated_at: "2026-03-29T17:50:48.445Z"
 ---
 
 # § 27d. Administration of the predominance test
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:10:16.644Z"
   - **(1)** the nature of the hybrid instrument; and
   - **(2)** the history, purpose, extent, and appropriateness of the regulation of the hybrid instrument under the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] and under appropriate banking laws.
 - **(c)**
-  - **(1)** The Board of Governors of the Federal Reserve System may obtain review of any rule or determination referred to in subsection (a) in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the rule or determination, a written petition requesting that the rule or determination be set aside. Any proceeding to challenge any such rule or determination shall be expedited by the court.
+  - **(1)** The Board of Governors of the Federal Reserve System may obtain review of any rule or determination referred to in subsection (a) of this section in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the rule or determination, a written petition requesting that the rule or determination be set aside. Any proceeding to challenge any such rule or determination shall be expedited by the court.
   - **(2)** A copy of a petition described in paragraph (1) shall be transmitted as soon as possible by the Clerk of the court to an officer or employee of the Commodity Futures Trading Commission designated for that purpose. Upon receipt of the petition, the Commission shall file with the court the rule or determination under review and any documents referred to therein, and any other relevant materials prescribed by the court.
   - **(3)** On the date of the filing of a petition under paragraph (1), the court shall have jurisdiction, which shall become exclusive on the filing of the materials set forth in paragraph (2), to affirm and enforce or to set aside the rule or determination at issue.
   - **(4)** The court shall determine to affirm and enforce or set aside a rule or determination of the Commodity Futures Trading Commission under this section, based on the determination of the court as to whether—

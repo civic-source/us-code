@@ -3,9 +3,9 @@ title: "Section 1641 - Definitions"
 usc_title: 8
 usc_section: "1641"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1641"
-generated_at: "2026-03-29T02:10:21.489Z"
+generated_at: "2026-03-29T17:50:41.396Z"
 ---
 
 # § 1641. Definitions
@@ -17,17 +17,16 @@ generated_at: "2026-03-29T02:10:21.489Z"
   - **(3)** a refugee who is admitted to the United States under section 207 of such Act [ 8 U.S.C. 1157 ],
   - **(4)** an alien who is paroled into the United States under section 212(d)(5) of such Act [ 8 U.S.C. 1182(d)(5) ] for a period of at least 1 year,
   - **(5)** an alien whose deportation is being withheld under section 243(h) of such Act [ 8 U.S.C. 1253 ] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208 ) or section 241(b)(3) of such Act [ 8 U.S.C. 1231(b)(3) ] (as amended by section 305(a) of division C of Public Law 104–208 ),
-  - **(6)** an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act [ 8 U.S.C. 1153(a)(7) ] as in effect prior to April 1, 1980 ,
-  - **(7)** an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980), or
-  - **(8)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of this title .
+  - **(6)** an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act [ 8 U.S.C. 1153(a)(7) ] as in effect prior to April 1, 1980 ; 1 1 So in original. The semicolon probably should be a comma. or
+  - **(7)** an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).
 - **(c)** For purposes of this chapter, the term “qualified alien” includes—
   - **(1)** an alien who—
     - **(A)** has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent’s family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
     - **(B)** has been approved or has a petition pending which sets forth a prima facie case for—
       - **(i)** status as a spouse or a child of a United States citizen pursuant to clause (ii), (iii), or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act [ 8 U.S.C. 1154(a)(1)(A)(ii) , (iii), (iv)],
       - **(ii)** classification pursuant to clause (ii) or (iii) of section 204(a)(1)(B) of the Act [ 8 U.S.C. 1154(a)(1)(B)(ii) , (iii)],
-      - **(iii)** suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act [ 8 U.S.C. 1254(a)(3) ] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996). 1 1 So in original. The period probably should be a comma.
-      - **(iv)** status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [ 8 U.S.C. 1154(a)(1)(A)(i) ], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [ 8 U.S.C. 1154(a)(1)(B)(i) ]; 2 2 So in original. The semicolon probably should be “, or”.
+      - **(iii)** suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act [ 8 U.S.C. 1254(a)(3) ] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996). 2 2 So in original. The period probably should be a comma.
+      - **(iv)** status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [ 8 U.S.C. 1154(a)(1)(A)(i) ], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [ 8 U.S.C. 1154(a)(1)(B)(i) ]; 3 3 So in original. The semicolon probably should be “, or”.
       - **(v)** cancellation of removal pursuant to section 240A(b)(2) of such Act [ 8 U.S.C. 1229b(b)(2) ];
   - **(2)** an alien—
     - **(A)** whose child has been battered or subjected to extreme cruelty in the United States by a spouse or a parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse or parent’s family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, and the alien did not actively participate in such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and

@@ -3,9 +3,9 @@ title: "Section 2221 - Arson prevention grants"
 usc_title: 15
 usc_section: "2221"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 2221"
-generated_at: "2026-03-29T02:11:34.275Z"
+generated_at: "2026-03-29T17:51:36.305Z"
 ---
 
 # § 2221. Arson prevention grants
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:11:34.275Z"
   - **(10)** To improve the capability of firefighters to identify and combat arson through expanded training programs, including—
     - **(A)** training courses at the State fire academies; and
     - **(B)** innovative courses developed with the Academy and made available to volunteer firefighters through regional delivery methods, including teleconferencing and satellite delivered television programs.
-- **(d)** The Administrator shall assist grant applicants in structuring their applications so as to ensure that at least one grant is awarded for each goal described in subsection (c).
+- **(d)** The Administrator shall assist grant applicants in structuring their applications so as to ensure that at least one grant is awarded for each goal described in subsection (c) of this section.
 - **(e)** In order to qualify for a grant under this section, a State, or consortium of States, shall provide assurances adequate to the Administrator that the State or consortium—
   - **(1)** will obtain at least 25 percent of the cost of programs funded by the grant, in cash or in kind, from non-Federal sources;
   - **(2)** will not as a result of receiving the grant decrease the prior level of spending of funds of the State or consortium from non-Federal sources for arson research, prevention, and control programs;

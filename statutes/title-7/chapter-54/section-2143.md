@@ -3,9 +3,9 @@ title: "Section 2143 - Standards and certification process for humane handling, 
 usc_title: 7
 usc_section: "2143"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 2143"
-generated_at: "2026-03-29T02:10:16.942Z"
+generated_at: "2026-03-29T17:50:48.718Z"
 ---
 
 # § 2143. Standards and certification process for humane handling, care, treatment, and transportation of animals
@@ -64,13 +64,13 @@ generated_at: "2026-03-29T02:10:16.942Z"
     - **(B)** Such report shall remain on file for at least three years at the research facility and shall be available for inspection by the Animal and Plant Health Inspection Service and any funding Federal agency.
     - **(C)** In order to give the research facility an opportunity to correct any deficiencies or deviations discovered by reason of paragraph (3), the Committee shall notify the administrative representative of the research facility of any deficiencies or deviations from the provisions of this chapter. If, after notification and an opportunity for correction, such deficiencies or deviations remain uncorrected, the Committee shall notify (in writing) the Animal and Plant Health Inspection Service and the funding Federal agency of such deficiencies or deviations.
   - **(5)** The inspection results shall be available to Department of Agriculture inspectors for review during inspections. Department of Agriculture inspectors shall forward any Committee inspection records which include reports of uncorrected deficiencies or deviations to the Animal and Plant Health Inspection Service and any funding Federal agency of the project with respect to which such uncorrected deficiencies and deviations occurred.
-- **(c)** In the case of Federal research facilities, a Federal Committee shall be established and shall have the same composition and responsibilities provided in subsection (b), except that the Federal Committee shall report deficiencies or deviations to the head of the Federal agency conducting the research rather than to the Animal and Plant Health Inspection Service. The head of the Federal agency conducting the research shall be responsible for—
+- **(c)** In the case of Federal research facilities, a Federal Committee shall be established and shall have the same composition and responsibilities provided in subsection (b) of this section, except that the Federal Committee shall report deficiencies or deviations to the head of the Federal agency conducting the research rather than to the Animal and Plant Health Inspection Service. The head of the Federal agency conducting the research shall be responsible for—
   - **(1)** all corrective action to be taken at the facility; and
   - **(2)** the granting of all exceptions to inspection protocol.
 - **(d)** Each research facility shall provide for the training of scientists, animal technicians, and other personnel involved with animal care and treatment in such facility as required by the Secretary. Such training shall include instruction on—
   - **(1)** the humane practice of animal maintenance and experimentation;
   - **(2)** research or testing methods that minimize or eliminate the use of animals or limit animal pain or distress;
-  - **(3)** utilization of the information service at the National Agricultural Library, established under subsection (e); and
+  - **(3)** utilization of the information service at the National Agricultural Library, established under subsection (e) of this section; and
   - **(4)** methods whereby deficiencies in animal care and treatment should be reported.
 - **(e)** The Secretary shall establish an information service at the National Agricultural Library. Such service shall, in cooperation with the National Library of Medicine, provide information—
   - **(1)** pertinent to employee training;

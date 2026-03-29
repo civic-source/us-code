@@ -1,15 +1,14 @@
 ---
-title: "Section 7 - Authorization of appropriations"
+title: "Section 7 - Congressional Budget Act compliance"
 usc_title: 20
 usc_section: "7"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-29T02:12:17.146Z"
+generated_at: "2026-03-29T17:51:48.294Z"
 ---
 
-# § 80t–7. Authorization of appropriations
+# § 80r–7. Congressional Budget Act compliance
 
-- **(a)** There are authorized to be appropriated to the Smithsonian Institution to carry out this subchapter, 1 1 See References in Text note below. including the planning, design, construction, and operation of the Museum established under section 80t–1 of this title , such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
-- **(b)** Amounts appropriated pursuant to the authorization under this section shall remain available until expended.
-- **(c)** Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
+Authority under this subchapter to enter into contracts or to make payments shall be effective in any fiscal year only to the extent provided in advance in an appropriations Act, except as provided under section 80r–9(b) of this title .
+

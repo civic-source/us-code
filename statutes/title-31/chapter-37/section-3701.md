@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions and application"
 usc_title: 31
 usc_section: "3701"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 3701"
-generated_at: "2026-03-29T02:14:14.070Z"
+generated_at: "2026-03-29T17:52:44.168Z"
 ---
 
 # § 3701. Definitions and application
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:14:14.070Z"
   - **(4)** “executive, judicial, or legislative agency” means a department, agency, court, court administrative office, or instrumentality in the executive, judicial, or legislative branch of Government, including government corporations.
   - **(5)** “military department” means the Departments of the Army, Navy, and Air Force.
   - **(6)** “system of records” has the same meaning given that term in section 552a(a)(5) of title 5 .
-  - **(7)** “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+  - **(7)** “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
   - **(8)** “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 - **(b)**
   - **(1)** In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—

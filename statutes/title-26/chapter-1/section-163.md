@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-29T02:14:00.826Z"
+generated_at: "2026-03-29T17:52:39.144Z"
 ---
 
 # § 163. Interest
@@ -38,6 +38,7 @@ generated_at: "2026-03-29T02:14:00.826Z"
       - **(iii)** so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
     - **(C)** The term “investment expenses” means the deductions allowed under this chapter (other than for interest) which are directly connected with the production of investment income.
     - **(D)** Investment income and investment expenses shall not include any income or expenses taken into account under section 469 in computing income or loss from a passive activity.
+    - **(E)** Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
   - **(5)** For purposes of this subsection—
     - **(A)** The term “property held for investment” shall include—
       - **(i)** any property which produces income of a type described in section 469(e)(1), and
@@ -46,8 +47,21 @@ generated_at: "2026-03-29T02:14:00.826Z"
         - **(II)** with respect to which the taxpayer does not materially participate.
     - **(B)** In the case of property described in subparagraph (A)(i), expenses shall be allocated to such property in the same manner as under section 469.
     - **(C)** For purposes of this paragraph, the terms “activity”, “passive activity”, and “materially participate” have the meanings given such terms by section 469.
+  - **(6)** In the case of any taxable year beginning in calendar years 1987 through 1990—
+    - **(A)** The amount of interest paid or accrued during any such taxable year which is disallowed under this subsection shall not exceed the sum of—
+      - **(i)** the amount which would be disallowed under this subsection if—
+        - **(I)** paragraph (1) were applied by substituting “the sum of the ceiling amount and the net investment income” for “the net investment income”, and
+        - **(II)** paragraphs (4)(E) and (5)(A)(ii) did not apply, and
+      - **(ii)** the applicable percentage of the excess of—
+        - **(I)** the amount which (without regard to this paragraph) is not allowable as a deduction under this subsection for the taxable year, over
+        - **(II)** the amount described in clause (i).
+    - **(B)** For purposes of this paragraph, the applicable percentage shall be determined in accordance with the following table: In the case of taxable years beginning in: The applicable percentage is: 1987 35 1988 60 1989 80 1990 90.
+    - **(C)** For purposes of this paragraph, the term “ceiling amount” means—
+      - **(i)** $10,000 in the case of a taxpayer not described in clause (ii) or (iii),
+      - **(ii)** $5,000 in the case of a married individual filing a separate return, and
+      - **(iii)** zero in the case of a trust.
 - **(e)**
-  - **(1)** The portion of the original issue discount with respect to any debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
+  - **(1)** In the case of any debt instrument issued after July 1, 1982 , the portion of the original issue discount with respect to such debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “debt instrument” has the meaning given such term by section 1275(a)(1).
     - **(B)** The daily portion of the original issue discount for any day shall be determined under section 1272(a) (without regard to paragraph (7) thereof and without regard to section 1273(a)(3)).
@@ -60,7 +74,9 @@ generated_at: "2026-03-29T02:14:00.826Z"
     - **(C)** For purposes of subparagraph (A), the term “related foreign person” means any person—
       - **(i)** who is not a United States person, and
       - **(ii)** who is related (within the meaning of section 267(b)) to the issuer.
-  - **(4)** This subsection shall not apply to any debt instrument described in section 1272(a)(2)(D) (relating to loans between natural persons).
+  - **(4)** This subsection shall not apply to any debt instrument described in—
+    - **(A)** subparagraph (D) of section 1272(a)(2) (relating to obligations issued by natural persons before March 2, 1984 ), and
+    - **(B)** subparagraph (E) of section 1272(a)(2) (relating to loans between natural persons).
   - **(5)**
     - **(A)** In the case of an applicable high yield discount obligation issued by a corporation—
       - **(i)** no deduction shall be allowed under this chapter for the disqualified portion of the original issue discount on such obligation, and
@@ -74,7 +90,7 @@ generated_at: "2026-03-29T02:14:00.826Z"
       - **(i)** For purposes of this paragraph, the disqualified portion of the original issue discount on any applicable high yield discount obligation is the lesser of—
         - **(I)** the amount of such original issue discount, or
         - **(II)** the portion of the total return on such obligation which bears the same ratio to such total return as the disqualified yield on such obligation bears to the yield to maturity on such obligation.
-      - **(ii)** For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to in subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
+      - **(ii)** For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to 1 1 So in original. Probably should be followed by “in”. subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
     - **(D)** This paragraph shall not apply to any obligation issued by any corporation for any period for which such corporation is an S corporation.
     - **(E)** This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining the dividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
     - **(F)**
@@ -134,47 +150,9 @@ generated_at: "2026-03-29T02:14:00.826Z"
       - **(ii)** The amount otherwise treated as interest under clause (i) shall be reduced (but not below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer’s adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
       - **(iii)** Clause (i) shall not apply with respect to any mortgage insurance contracts issued before January 1, 2007 .
       - **(iv)** Clause (i) shall not apply to amounts—
-        - **(I)** paid or accrued after December 31, 2021 , or
+        - **(I)** paid or accrued after December 31, 2013 , or
         - **(II)** properly allocable to any period after such date.
-    - **(F)**
-      - **(i)** In the case of taxable years beginning after December 31, 2017 —
-        - **(I)** Subparagraph (A)(ii) shall not apply.
-        - **(II)** Subparagraph (B)(ii) shall be applied by substituting “$750,000 ($375,000” for “$1,000,000 ($500,000”.
-        - **(III)** Clause (iv) of subparagraph (E) shall not apply.
-        - **(IV)** Subclause (II) shall not apply to any indebtedness incurred on or before December 15, 2017 , and, in applying such subclause to any indebtedness incurred after such date, the limitation under such subclause shall be reduced (but not below zero) by the amount of any indebtedness incurred on or before December 15, 2017 , which is treated as acquisition indebtedness for purposes of this subsection for the taxable year.
-        - **(V)** In the case of a taxpayer who enters into a written binding contract before December 15, 2017 , to close on the purchase of a principal residence before January 1, 2018 , and who purchases such residence before April 1, 2018 , subclause (IV) shall be applied by substituting “ April 1, 2018 ” for “ December 15, 2017 ”.
-      - **(ii)**
-        - **(I)** In the case of any indebtedness which is incurred to refinance indebtedness, such refinanced indebtedness shall be treated for purposes of clause (i)(III) as incurred on the date that the original indebtedness was incurred to the extent the amount of the indebtedness resulting from such refinancing does not exceed the amount of the refinanced indebtedness.
-        - **(II)** Subclause (I) shall not apply to any indebtedness after the expiration of the term of the original indebtedness or, if the principal of such original indebtedness is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
-      - **(iii)** Section 108(h)(2) shall be applied without regard to this subparagraph.
-  - **(4)**
-    - **(A)** In the case of taxable years beginning after December 31, 2024 , and before January 1, 2029 , for purposes of this subsection the term “personal interest” shall not include qualified passenger vehicle loan interest.
-    - **(B)**
-      - **(i)** For purposes of this paragraph, the term “qualified passenger vehicle loan interest” means any interest which is paid or accrued during the taxable year on indebtedness incurred by the taxpayer after December 31, 2024 , for the purchase of, and that is secured by a first lien on, an applicable passenger vehicle for personal use.
-      - **(ii)** Such term shall not include any amount paid or incurred on any of the following:
-        - **(I)** A loan to finance fleet sales.
-        - **(II)** A loan incurred for the purchase of a commercial vehicle that is not used for personal purposes.
-        - **(III)** Any lease financing.
-        - **(IV)** A loan to finance the purchase of a vehicle with a salvage title.
-        - **(V)** A loan to finance the purchase of a vehicle intended to be used for scrap or parts.
-      - **(iii)** Interest shall not be treated as qualified passenger vehicle loan interest under this paragraph unless the taxpayer includes the vehicle identification number of the applicable passenger vehicle described in clause (i) on the return of tax for the taxable year.
-    - **(C)**
-      - **(i)** The amount of interest taken into account by a taxpayer under subparagraph (B) for any taxable year shall not exceed $10,000.
-      - **(ii)**
-        - **(I)** The amount which is otherwise allowable as a deduction under subsection (a) as qualified passenger vehicle loan interest (determined without regard to this clause and after the application of clause (i)) shall be reduced (but not below zero) by $200 for each $1,000 (or portion thereof) by which the modified adjusted gross income of the taxpayer for the taxable year exceeds $100,000 ($200,000 in the case of a joint return).
-        - **(II)** For purposes of this clause, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
-    - **(D)** The term “applicable passenger vehicle” means any vehicle—
-      - **(i)** the original use of which commences with the taxpayer,
-      - **(ii)** which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails),
-      - **(iii)** which has at least 2 wheels,
-      - **(iv)** which is a car, minivan, van, sport utility vehicle, pickup truck, or motorcycle,
-      - **(v)** which is treated as a motor vehicle for purposes of title II of the Clean Air Act, and
-      - **(vi)** which has a gross vehicle weight rating of less than 14,000 pounds.
-    - **(E)** For purposes of this paragraph—
-      - **(i)** For purposes of subparagraph (D), the term “final assembly” means the process by which a manufacturer produces a vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
-      - **(ii)** Indebtedness described in subparagraph (B) shall include indebtedness that results from refinancing any indebtedness described in such subparagraph, and that is secured by a first lien on the applicable passenger vehicle with respect to which the refinanced indebtedness was incurred, but only to the extent the amount of such resulting indebtedness does not exceed the amount of such refinanced indebtedness.
-      - **(iii)** Indebtedness described in subparagraph (B) shall not include any indebtedness owed to a person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
-  - **(5)** For purposes of this subsection—
+  - **(4)** For purposes of this subsection—
     - **(A)**
       - **(i)** The term “qualified residence” means—
         - **(I)** the principal residence (within the meaning of section 121) of the taxpayer, and
@@ -189,7 +167,8 @@ generated_at: "2026-03-29T02:14:00.826Z"
     - **(E)** The term “qualified mortgage insurance” means—
       - **(i)** mortgage insurance provided by the Department of Veterans Affairs, the Federal Housing Administration, or the Rural Housing Service, and
       - **(ii)** private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 ( 12 U.S.C. 4901 ), as in effect on the date of the enactment of this subparagraph).
-    - **(F)** Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Department of Veterans Affairs or the Rural Housing Service.
+    - **(F)** Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Veterans Administration or the Rural Housing Administration.
+  - **(5)** In the case of any taxable year beginning in calendar years 1987 through 1990, the amount of interest with respect to which a deduction is disallowed under this subsection shall be equal to the applicable percentage (within the meaning of subsection (d)(6)(B)) of the amount which (but for this paragraph) would have been so disallowed.
 - **(i)**
   - **(1)** For purposes of this section, the term “applicable high yield discount obligation” means any debt instrument if—
     - **(A)** the maturity date of such instrument is more than 5 years from the date of issue,
@@ -210,92 +189,74 @@ generated_at: "2026-03-29T02:14:00.826Z"
     - **(A)** regulations providing for modifications to the provisions of this subsection and subsection (e)(5) in the case of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, conversion rights, or other circumstances where such modifications are appropriate to carry out the purposes of this subsection and subsection (e)(5), and
     - **(B)** regulations to prevent avoidance of the purposes of this subsection and subsection (e)(5) through the use of issuers other than C corporations, agreements to borrow amounts due under the debt instrument, or other arrangements.
 - **(j)**
-  - **(1)** The amount allowed as a deduction under this chapter for any taxable year for business interest shall not exceed the sum of—
-    - **(A)** the business interest income of such taxpayer for such taxable year,
-    - **(B)** 30 percent of the adjusted taxable income of such taxpayer for such taxable year, plus
-    - **(C)** the floor plan financing interest of such taxpayer for such taxable year.
-  - **(2)** The amount of any business interest not allowed as a deduction for any taxable year by reason of paragraph (1) shall be treated as business interest paid or accrued in the succeeding taxable year.
-  - **(3)** In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, paragraph (1) shall not apply to such taxpayer for such taxable year. In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if such taxpayer were a corporation or partnership.
-  - **(4)**
-    - **(A)** In the case of any partnership—
-      - **(i)** this subsection shall be applied at the partnership level and any deduction for business interest shall be taken into account in determining the non-separately stated taxable income or loss of the partnership, and
-      - **(ii)** the adjusted taxable income of each partner of such partnership—
-        - **(I)** shall be determined without regard to such partner’s distributive share of any items of income, gain, deduction, or loss of such partnership, and
-        - **(II)** shall be increased by such partner’s distributive share of such partnership’s excess taxable income.
+  - **(1)**
+    - **(A)** If this subsection applies to any corporation for any taxable year, no deduction shall be allowed under this chapter for disqualified interest paid or accrued by such corporation during such taxable year. The amount disallowed under the preceding sentence shall not exceed the corporation’s excess interest expense for the taxable year.
+    - **(B)** Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued in the succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
+  - **(2)**
+    - **(A)** This subsection shall apply to any corporation for any taxable year if—
+      - **(i)** such corporation has excess interest expense for such taxable year, and
+      - **(ii)** the ratio of debt to equity of such corporation as of the close of such taxable year (or on any other day during the taxable year as the Secretary may by regulations prescribe) exceeds 1.5 to 1.
     - **(B)**
-      - **(i)** The amount of any business interest not allowed as a deduction to a partnership for any taxable year by reason of paragraph (1) for any taxable year—
-        - **(I)** shall not be treated under paragraph (2) as business interest paid or accrued by the partnership in the succeeding taxable year, and
-        - **(II)** shall, subject to clause (ii), be treated as excess business interest which is allocated to each partner in the same manner as the non-separately stated taxable income or loss of the partnership.
-      - **(ii)** If a partner is allocated any excess business interest from a partnership under clause (i) for any taxable year—
-        - **(I)** such excess business interest shall be treated as business interest paid or accrued by the partner in the next succeeding taxable year in which the partner is allocated excess taxable income from such partnership, but only to the extent of such excess taxable income, and
-        - **(II)** any portion of such excess business interest remaining after the application of subclause (I) shall, subject to the limitations of subclause (I), be treated as business interest paid or accrued in succeeding taxable years.
-      - **(iii)**
-        - **(I)** The adjusted basis of a partner in a partnership interest shall be reduced (but not below zero) by the amount of excess business interest allocated to the partner under clause (i)(II).
-        - **(II)** If a partner disposes of a partnership interest, the adjusted basis of the partner in the partnership interest shall be increased immediately before the disposition by the amount of the excess (if any) of the amount of the basis reduction under subclause (I) over the portion of any excess business interest allocated to the partner under clause (i)(II) which has previously been treated under clause (ii) as business interest paid or accrued by the partner. The preceding sentence shall also apply to transfers of the partnership interest (including by reason of death) in a transaction in which gain is not recognized in whole or in part. No deduction shall be allowed to the transferor or transferee under this chapter for any excess business interest resulting in a basis increase under this subclause.
-    - **(C)** The term “excess taxable income” means, with respect to any partnership, the amount which bears the same ratio to the partnership’s adjusted taxable income as—
-      - **(i)** the excess (if any) of—
-        - **(I)** the amount determined for the partnership under paragraph (1)(B), over
-        - **(II)** the amount (if any) by which the business interest of the partnership, reduced by the floor plan financing interest, exceeds the business interest income of the partnership, bears to
-      - **(ii)** the amount determined for the partnership under paragraph (1)(B).
-    - **(D)** Rules similar to the rules of subparagraphs (A) and (C) shall apply with respect to any S corporation and its shareholders.
-  - **(5)** For purposes of this subsection, the term “business interest” means any interest paid or accrued on indebtedness properly allocable to a trade or business. Such term shall not include investment interest (within the meaning of subsection (d)). Such term shall not include any interest which is capitalized under section 263(g) or 263A(f).
-  - **(6)** For purposes of this subsection, the term “business interest income” means the amount of interest includible in the gross income of the taxpayer for the taxable year which is properly allocable to a trade or business. Such term shall not include investment income (within the meaning of subsection (d)).
-  - **(7)** For purposes of this subsection—
-    - **(A)** The term “trade or business” shall not include—
-      - **(i)** the trade or business of performing services as an employee,
-      - **(ii)** any electing real property trade or business,
-      - **(iii)** any electing farming business, or
-      - **(iv)** the trade or business of the furnishing or sale of—
-        - **(I)** electrical energy, water, or sewage disposal services,
-        - **(II)** gas or steam through a local distribution system, or
-        - **(III)** transportation of gas or steam by pipeline,
-    - **(B)** For purposes of this paragraph, the term “electing real property trade or business” means any trade or business which is described in section 469(c)(7)(C) and which makes an election under this subparagraph. Any such election shall be made at such time and in such manner as the Secretary shall prescribe, and, once made, shall be irrevocable.
-    - **(C)** For purposes of this paragraph, the term “electing farming business” means—
-      - **(i)** a farming business (as defined in section 263A(e)(4)) which makes an election under this subparagraph, or
-      - **(ii)** any trade or business of a specified agricultural or horticultural cooperative (as defined in section 199A(g)(2)) 1 1 See References in Text note below. with respect to which the cooperative makes an election under this subparagraph.
-  - **(8)** For purposes of this subsection, the term “adjusted taxable income” means the taxable income of the taxpayer—
-    - **(A)** computed without regard to—
-      - **(i)** any item of income, gain, deduction, or loss which is not properly allocable to a trade or business,
-      - **(ii)** any business interest or business interest income,
-      - **(iii)** the amount of any net operating loss deduction under section 172,
-      - **(iv)** the amount of any deduction allowed under section 199A,
-      - **(v)** any deduction allowable for depreciation, amortization, or depletion, and
-      - **(vi)** the amounts included in gross income under sections 951(a), 951A(a), and 78 (and the portion of the deductions allowed under sections 245A(a) (by reason of section 964(e)(4)) and 250(a)(1)(B) by reason of such inclusions), and
-    - **(B)** computed with such other adjustments as provided by the Secretary.
-  - **(9)** For purposes of this subsection—
-    - **(A)** The term “floor plan financing interest” means interest paid or accrued on floor plan financing indebtedness.
-    - **(B)** The term “floor plan financing indebtedness” means indebtedness—
-      - **(i)** used to finance the acquisition of motor vehicles held for sale or lease, and
-      - **(ii)** secured by the inventory so acquired.
-    - **(C)** The term “motor vehicle” means a motor vehicle that is any of the following:
-      - **(i)** Any self-propelled vehicle designed for transporting persons or property on a public street, highway, or road.
-      - **(ii)** A boat.
-      - **(iii)** Farm machinery or equipment.
-  - **(10)**
-    - **(A)** In applying this subsection—
-      - **(i)** the limitation under paragraph (1) shall apply to business interest without regard to whether the taxpayer would otherwise deduct such business interest or capitalize such business interest under an interest capitalization provision, and
-      - **(ii)** any reference in this subsection to a deduction for business interest shall be treated as including a reference to the capitalization of business interest.
-    - **(B)** The amount allowed after taking into account the limitation described in paragraph (1)—
-      - **(i)** shall be applied first to the aggregate amount of business interest which would otherwise be capitalized, and
-      - **(ii)** the remainder (if any) shall be applied to the aggregate amount of business interest which would be deducted.
-    - **(C)** No portion of any business interest carried forward under paragraph (2) from any taxable year to any succeeding taxable year shall, for purposes of this title (including any interest capitalization provision which previously applied to such portion) be treated as interest to which an interest capitalization provision applies.
-    - **(D)** For purposes of this section, the term “interest capitalization provision” means any provision of this subtitle under which interest—
-      - **(i)** is required to be charged to capital account, or
-      - **(ii)** may be deducted or charged to capital account.
-  - **(11)** The Secretary shall issue such regulations or guidance as may be necessary or appropriate to carry out the purposes of this subsection, including regulations or guidance to determine which business interest is taken into account under this subsection and section 59A(c)(3).
-  - **(12)**
-    - **(A)**
-      - **(i)** Except as provided in clause (ii) or (iii), in the case of any taxable year beginning in 2019 or 2020, paragraph (1)(B) shall be applied by substituting “50 percent” for “30 percent”.
-      - **(ii)** In the case of a partnership—
-        - **(I)** clause (i) shall not apply to any taxable year beginning in 2019, but
-        - **(II)** unless a partner elects not to have this subclause apply, in the case of any excess business interest of the partnership for any taxable year beginning in 2019 which is allocated to the partner under paragraph (4)(B)(i)(II)—
-      - **(iii)** A taxpayer may elect, at such time and in such manner as the Secretary may prescribe, not to have clause (i) apply to any taxable year. Such an election, once made, may be revoked only with the consent of the Secretary. In the case of a partnership, any such election shall be made by the partnership and may be made only for taxable years beginning in 2020.
+      - **(i)** For purposes of this subsection, the term “excess interest expense” means the excess (if any) of—
+        - **(I)** the corporation’s net interest expense, over
+        - **(II)** the sum of 50 percent of the adjusted taxable income of the corporation plus any excess limitation carryforward under clause (ii).
+      - **(ii)** If a corporation has an excess limitation for any taxable year, the amount of such excess limitation shall be an excess limitation carryforward to the 1st succeeding taxable year and to the 2nd and 3rd succeeding taxable years to the extent not previously taken into account under this clause. The amount of such a carryforward taken into account for any such succeeding taxable year shall not exceed the excess interest expense for such succeeding taxable year (determined without regard to the carryforward from the taxable year of such excess limitation).
+      - **(iii)** For purposes of clause (ii), the term “excess limitation” means the excess (if any) of—
+        - **(I)** 50 percent of the adjusted taxable income of the corporation, over
+        - **(II)** the corporation’s net interest expense.
+    - **(C)** For purposes of this paragraph, the term “ratio of debt to equity” means the ratio which the total indebtedness of the corporation bears to the sum of its money and all other assets reduced (but not below zero) by such total indebtedness. For purposes of the preceding sentence—
+      - **(i)** the amount taken into account with respect to any asset shall be the adjusted basis thereof for purposes of determining gain,
+      - **(ii)** the amount taken into account with respect to any indebtedness with original issue discount shall be its issue price plus the portion of the original issue discount previously accrued as determined under the rules of section 1272 (determined without regard to subsection (a)(7) or (b)(4) thereof), and
+      - **(iii)** there shall be such other adjustments as the Secretary may by regulations prescribe.
+  - **(3)** For purposes of this subsection, the term “disqualified interest” means—
+    - **(A)** any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest,
+    - **(B)** any interest paid or accrued by the taxpayer with respect to any indebtedness to a person who is not a related person if—
+      - **(i)** there is a disqualified guarantee of such indebtedness, and
+      - **(ii)** no gross basis tax is imposed by this subtitle with respect to such interest, and
+    - **(C)** any interest paid or accrued (directly or indirectly) by a taxable REIT subsidiary (as defined in section 856( l )) of a real estate investment trust to such trust.
+  - **(4)** For purposes of this subsection—
+    - **(A)** Except as provided in subparagraph (B), the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
     - **(B)**
-      - **(i)** Subject to clause (ii), in the case of any taxable year beginning in 2020, the taxpayer may elect to apply this subsection by substituting the adjusted taxable income of the taxpayer for the last taxable year beginning in 2019 for the adjusted taxable income for such taxable year. In the case of a partnership, any such election shall be made by the partnership.
-      - **(ii)** If an election is made under clause (i) for a taxable year which is a short taxable year, the adjusted taxable income for the taxpayer’s last taxable year beginning in 2019 which is substituted under clause (i) shall be equal to the amount which bears the same ratio to such adjusted taxable income determined without regard to this clause as the number of months in the short taxable year bears to 12 2 2 So in original. Probably should be followed by a period.
-  - **(13)**
-    - **(A)** For requirement that an electing real property trade or business use the alternative depreciation system, see section 168(g)(1)(F).
-    - **(B)** For requirement that an electing farming business use the alternative depreciation system, see section 168(g)(1)(G).
+      - **(i)** Any interest paid or accrued to a partnership which (without regard to this subparagraph) is a related person shall not be treated as paid or accrued to a related person if less than 10 percent of the profits and capital interests in such partnership are held by persons with respect to whom no tax is imposed by this subtitle on such interest. The preceding sentence shall not apply to any interest allocable to any partner in such partnership who is a related person to the taxpayer.
+      - **(ii)** If any treaty between the United States and any foreign country reduces the rate of tax imposed by this subtitle on a partner’s share of any interest paid or accrued to a partnership, such partner’s interests in such partnership shall, for purposes of clause (i), be treated as held in part by a tax-exempt person and in part by a taxable person under rules similar to the rules of paragraph (5)(B).
+  - **(5)**
+    - **(A)** In the case of any interest paid or accrued to a partnership, the determination of whether any tax is imposed by this subtitle on such interest shall be made at the partner level. Rules similar to the rules of the preceding sentence shall apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
+    - **(B)** If any treaty between the United States and any foreign country reduces the rate of tax imposed by this subtitle on any interest paid or accrued by the taxpayer, such interest shall be treated as interest on which no tax is imposed by this subtitle to the extent of the same proportion of such interest as—
+      - **(i)** the rate of tax imposed without regard to such treaty, reduced by the rate of tax imposed under the treaty, bears to
+      - **(ii)** the rate of tax imposed without regard to the treaty.
+  - **(6)** For purposes of this subsection—
+    - **(A)** The term “adjusted taxable income” means the taxable income of the taxpayer—
+      - **(i)** computed without regard to—
+        - **(I)** any deduction allowable under this chapter for the net interest expense,
+        - **(II)** the amount of any net operating loss deduction under section 172,
+        - **(III)** any deduction allowable under section 199, and
+        - **(IV)** any deduction allowable for depreciation, amortization, or depletion, and
+      - **(ii)** computed with such other adjustments as the Secretary may by regulations prescribe.
+    - **(B)** The term “net interest expense” means the excess (if any) of—
+      - **(i)** the interest paid or accrued by the taxpayer during the taxable year, over
+      - **(ii)** the amount of interest includible in the gross income of such taxpayer for such taxable year.
+    - **(C)** All members of the same affiliated group (within the meaning of section 1504(a)) shall be treated as 1 taxpayer.
+    - **(D)**
+      - **(i)** Except as provided in clause (ii), the term “disqualified guarantee” means any guarantee by a related person which is—
+        - **(I)** an organization exempt from taxation under this subtitle, or
+        - **(II)** a foreign person.
+      - **(ii)** The term “disqualified guarantee” shall not include a guarantee—
+        - **(I)** in any circumstances identified by the Secretary by regulation, where the interest on the indebtedness would have been subject to a net basis tax if the interest had been paid to the guarantor, or
+        - **(II)** if the taxpayer owns a controlling interest in the guarantor.
+      - **(iii)** Except as provided in regulations, the term “guarantee” includes any arrangement under which a person (directly or indirectly through an entity or otherwise) assures, on a conditional or unconditional basis, the payment of another person’s obligation under any indebtedness.
+    - **(E)**
+      - **(i)** The term “gross basis tax” means any tax imposed by this subtitle which is determined by reference to the gross amount of any item of income without any reduction for any deduction allowed by this subtitle.
+      - **(ii)** The term “net basis tax” means any tax imposed by this subtitle which is not a gross basis tax.
+  - **(7)** This subsection shall be applied before sections 465 and 469.
+  - **(8)** Except to the extent provided by regulations, in applying this subsection to a corporation which owns (directly or indirectly) an interest in a partnership—
+    - **(A)** such corporation’s distributive share of interest income paid or accrued to such partnership shall be treated as interest income paid or accrued to such corporation,
+    - **(B)** such corporation’s distributive share of interest paid or accrued by such partnership shall be treated as interest paid or accrued by such corporation, and
+    - **(C)** such corporation’s share of the liabilities of such partnership shall be treated as liabilities of such corporation.
+  - **(9)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including—
+    - **(A)** such regulations as may be appropriate to prevent the avoidance of the purposes of this subsection,
+    - **(B)** regulations providing such adjustments in the case of corporations which are members of an affiliated group as may be appropriate to carry out the purposes of this subsection,
+    - **(C)** regulations for the coordination of this subsection with section 884, and
+    - **(D)** regulations providing for the reallocation of shares of partnership indebtedness, or distributive shares of the partnership’s interest income or interest expense.
 - **(k)** No deduction shall be allowed under this section for any interest payable under section 6601 on any unpaid portion of the tax imposed by section 2001 for the period during which an extension of time for payment of such tax is in effect under section 6166.
 - **(l)**
   - **(1)** No deduction shall be allowed under this chapter for any interest paid or accrued on a disqualified debt instrument.
@@ -308,7 +269,7 @@ generated_at: "2026-03-29T02:14:00.826Z"
   - **(5)** For purposes of this subsection, the term “disqualified debt instrument” does not include indebtedness issued by a dealer in securities (or a related party) which is payable in, or by reference to, equity (other than equity of the issuer or a related party) held by such dealer in its capacity as a dealer in securities. For purposes of this paragraph, the term “dealer in securities” has the meaning given such term by section 475.
   - **(6)** For purposes of this subsection, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).
   - **(7)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through the use of an issuer other than a corporation.
-- **(m)** No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) 1 is not met.
+- **(m)** No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) 2 2 See References in Text note below. is not met.
 - **(n)**
   - **(1)** For disallowance of certain amounts paid in connection with insurance, endowment, or annuity contracts, see section 264.
   - **(2)** For disallowance of deduction for interest relating to tax-exempt income, see section 265(a)(2).

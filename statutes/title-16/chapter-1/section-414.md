@@ -1,12 +1,14 @@
 ---
-title: "Section 414 - Omitted"
+title: "Section 414 - Trespassing for hunting, or shooting"
 usc_title: 16
 usc_section: "414"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 414"
-generated_at: "2026-03-29T02:11:53.441Z"
+generated_at: "2026-03-29T17:51:56.551Z"
 ---
 
-# § 414. Omitted
+# § 414. Trespassing for hunting, or shooting
+
+Every person who shall trespass upon any national military parks for the purpose of hunting or shooting, or who shall hunt any kind of game thereon with gun or dog, or shall set trap or net or other device whatsoever thereon for the purpose of hunting or catching game of any kind, shall be guilty of a misdemeanor, punishable by a fine of not more than $1,000 or by imprisonment for not less than five days or more than thirty days, or by both fine and imprisonment.
 

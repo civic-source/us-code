@@ -3,14 +3,14 @@ title: "Section 7608 - Authority of internal revenue enforcement officers"
 usc_title: 26
 usc_section: "7608"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 7608"
-generated_at: "2026-03-29T02:14:01.400Z"
+generated_at: "2026-03-29T17:52:39.622Z"
 ---
 
 # § 7608. Authority of internal revenue enforcement officers
 
-- **(a)** Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible, may—
+- **(a)** Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible may—
   - **(1)** carry firearms;
   - **(2)** execute and serve search warrants and arrest warrants, and serve subpoenas and summonses issued under authority of the United States;
   - **(3)** in respect to the performance of such duty, make arrests without warrant for any offense against the United States committed in his presence, or for any felony cognizable under the laws of the United States if he has reasonable grounds to believe that the person to be arrested has committed, or is committing, such felony; and

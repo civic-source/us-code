@@ -3,12 +3,16 @@ title: "Section 283j - Increased United States participation in Bank activities"
 usc_title: 22
 usc_section: "283j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 283j"
-generated_at: "2026-03-29T02:12:39.951Z"
+generated_at: "2026-03-29T17:52:10.406Z"
 ---
 
 # § 283j. Increased United States participation in Bank activities
 
-The United States Governor of the Bank is hereby authorized (1) to vote (A) for the increases in the authorized capital stock of the Bank under article II, Section 2, of the agreement, and (B) for an increase in the resources of the Fund for Special Operations under article IV, section 3, of the agreement, all as recommended by the Executive Directors in a report dated March 18, 1963 , to the Board of Governors of the Bank; (2) to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the Bank; and (3) to vote for an amendment to article VIII, section 3, of the agreement to provide that the Board of Governors may, upon certain conditions, increase by one the number of Executive Directors.
+  - **(1)** to vote
+    - **(A)** for the increases in the authorized capital stock of the Bank under article II, Section 2, of the agreement, and
+    - **(B)** for an increase in the resources of the Fund for Special Operations under article IV, section 3, of the agreement, all as recommended by the Executive Directors in a report dated March 18, 1963 , to the Board of Governors of the Bank;
+  - **(2)** to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the Bank; and
+  - **(3)** to vote for an amendment to article VIII, section 3, of the agreement to provide that the Board of Governors may, upon certain conditions, increase by one the number of Executive Directors.
 

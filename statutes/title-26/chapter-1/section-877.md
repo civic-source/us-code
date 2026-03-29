@@ -3,9 +3,9 @@ title: "Section 877 - Expatriation to avoid tax"
 usc_title: 26
 usc_section: "877"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 877"
-generated_at: "2026-03-29T02:14:01.066Z"
+generated_at: "2026-03-29T17:52:39.314Z"
 ---
 
 # § 877. Expatriation to avoid tax
@@ -63,7 +63,7 @@ generated_at: "2026-03-29T02:14:01.066Z"
       - **(i)** an individual losing United States citizenship contributes property during the 10-year period beginning on the date the individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
       - **(ii)** income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
     - **(B)** A corporation is described in this subparagraph with respect to an individual if, were such individual a United States citizen—
-      - **(i)** such corporation would be a controlled foreign corporation (as defined in section 957), and
+      - **(i)** such corporation would be a controlled foreign corporation (as defined in 1 1 So in original. Probably should be followed by “section”. 957), and
       - **(ii)** such individual would be a United States shareholder (as defined in section 951(b)) with respect to such corporation.
     - **(C)** If stock in the corporation referred to in subparagraph (A) (or any other stock which has a basis determined in whole or part by reference to such stock) is disposed of during the 10-year period referred to in subsection (a) and while the property referred to in subparagraph (A) is held by such corporation, a pro rata share of such property (determined on the basis of the value of such stock) shall be treated as sold by the corporation immediately before such disposition.
     - **(D)** The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the purposes of this paragraph, including where—
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T02:14:01.066Z"
     - **(E)** The Secretary shall require such information reporting as is necessary to carry out the purposes of this paragraph.
 - **(e)**
   - **(1)** Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
-  - **(2)** For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+  - **(2)** For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
   - **(3)**
     - **(A)** Subsection (c) shall not apply to an individual who is treated as provided in paragraph (1).
     - **(B)** Solely for purposes of determining any tax imposed by reason of this subsection, property which was held by the long-term resident on the date the individual first became a resident of the United States shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.

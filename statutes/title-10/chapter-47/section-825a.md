@@ -1,16 +1,14 @@
 ---
-title: "Section 825a - Art. 25a. Number of court-martial members in capital cases"
+title: "Section 825a - Art. 25a. Number of members in capital cases"
 usc_title: 10
 usc_section: "825a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 825a"
-generated_at: "2026-03-29T02:10:44.913Z"
+generated_at: "2026-03-29T17:50:56.971Z"
 ---
 
-# § 825a. Art. 25a. Number of court-martial members in capital cases
+# § 825a. Art. 25a. Number of members in capital cases
 
-- **(a)** In a case in which the accused may be sentenced to death, the number of members shall be 12.
-- **(b)** Subject to section 829 of this title (article 29)—
-  - **(1)** if a case is referred for trial as a capital case and, before the members are impaneled, the accused may no longer be sentenced to death, the number of members shall be eight; and
-  - **(2)** if a case is referred for trial as a capital case and, after the members are impaneled, the accused may no longer be sentenced to death, the number of members shall remain 12.
+In a case in which the accused may be sentenced to a penalty of death, the number of members shall be not less than 12, unless 12 members are not reasonably available because of physical conditions or military exigencies, in which case the convening authority shall specify a lesser number of members not less than five, and the court may be assembled and the trial held with not less than the number of members so specified. In such a case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of members were not reasonably available.
+

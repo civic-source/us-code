@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-29T02:14:00.865Z"
+generated_at: "2026-03-29T17:52:39.173Z"
 ---
 
 # § 223. Health savings accounts
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:14:00.865Z"
     - **(B)** in the case of an eligible individual who has family coverage under a high deductible health plan as of the first day of such month, $4,500.
   - **(3)**
     - **(A)** In the case of an individual who has attained age 55 before the close of the taxable year, the applicable limitation under subparagraphs (A) and (B) of paragraph (2) shall be increased by the additional contribution amount.
-    - **(B)** For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table: For taxable years beginning in: The additional contribution amount is: 2004 $500 2005 $600 2006 $700 2007 $800 2008 $900 2009 and thereafter $1,000.
+    - **(B)** For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table: For taxable years The additional beginning in: contribution amount is: 2004 $500 2005 $600 2006 $700 2007 $800 2008 $900 2009 and thereafter $1,000.
   - **(4)** The limitation which would (but for this paragraph) apply under this subsection to an individual for any taxable year shall be reduced (but not below zero) by the sum of—
     - **(A)** the aggregate amount paid for such taxable year to Archer MSAs of such individual,
     - **(B)** the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer’s gross income for such taxable year under section 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
@@ -49,21 +49,10 @@ generated_at: "2026-03-29T02:14:00.865Z"
         - **(II)** which provides coverage for any benefit which is covered under the high deductible health plan.
     - **(B)** Subparagraph (A)(ii) shall be applied without regard to—
       - **(i)** coverage for any benefit provided by permitted insurance,
-      - **(ii)** coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or telehealth and other remote care, and
+      - **(ii)** coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, or long-term care, and
       - **(iii)** for taxable years beginning after December 31, 2006 , coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
         - **(I)** the balance in such arrangement at the end of such plan year is zero, or
         - **(II)** the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
-    - **(C)** An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of section 101(16) of title 38 , United States Code).
-    - **(D)** An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives benefits for medical care subject to and in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to such individual.
-    - **(E)**
-      - **(i)** A direct primary care service arrangement shall not be treated as a health plan for purposes of subparagraph (A)(ii).
-      - **(ii)** For purposes of this subparagraph—
-        - **(I)** The term “direct primary care service arrangement” means, with respect to any individual, an arrangement under which such individual is provided medical care (as defined in section 213(d)) consisting solely of primary care services provided by primary care practitioners (as defined in section 1833(x)(2)(A) of the Social Security Act, determined without regard to clause (ii) thereof), if the sole compensation for such care is a fixed periodic fee.
-        - **(II)** With respect to any individual for any month, such term shall not include any arrangement if the aggregate fees for all direct primary care service arrangements (determined without regard to this subclause) with respect to such individual for such month exceed $150 (twice such dollar amount in the case of an individual with any direct primary care service arrangement (as so determined) that covers more than one individual).
-      - **(iii)** For purposes of this subparagraph, the term “primary care services” shall not include—
-        - **(I)** procedures that require the use of general anesthesia,
-        - **(II)** prescription drugs (other than vaccines), and
-        - **(III)** laboratory services not typically administered in an ambulatory primary care setting.
   - **(2)**
     - **(A)** The term “high deductible health plan” means a health plan—
       - **(i)** which has an annual deductible which is not less than—
@@ -73,20 +62,10 @@ generated_at: "2026-03-29T02:14:00.865Z"
         - **(I)** $5,000 for self-only coverage, and
         - **(II)** twice the dollar amount in subclause (I) for family coverage.
     - **(B)** Such term does not include a health plan if substantially all of its coverage is coverage described in paragraph (1)(B).
-    - **(C)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
+    - **(C)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
     - **(D)** In the case of a plan using a network of providers—
       - **(i)** Such plan shall not fail to be treated as a high deductible health plan by reason of having an out-of-pocket limitation for services provided outside of such network which exceeds the applicable limitation under subparagraph (A)(ii).
       - **(ii)** Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
-    - **(E)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
-    - **(F)** A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
-    - **(G)**
-      - **(i)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for selected insulin products.
-      - **(ii)** For purposes of this subparagraph—
-        - **(I)** The term “selected insulin products” means any dosage form (such as vial, pump, or inhaler dosage forms) of any different type (such as rapid-acting, short-acting, intermediate-acting, long-acting, ultra long-acting, and premixed) of insulin.
-        - **(II)** The term “insulin” means insulin that is licensed under subsection (a) or (k) of section 351 of the Public Health Service Act ( 42 U.S.C. 262 ) and continues to be marketed under such section, including any insulin product that has been deemed to be licensed under section 351(a) of such Act pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 ( Public Law 111–148 ) and continues to be marketed pursuant to such licensure.
-    - **(H)** The term “high deductible health plan” shall include any plan which is—
-      - **(i)** available as individual coverage through an Exchange established under section 1311 or 1321 of the Patient Protection and Affordable Care Act, and
-      - **(ii)** described in subsection (d)(1)(A) or (e) of section 1302 of such Act.
   - **(3)** The term “permitted insurance” means—
     - **(A)** insurance if substantially all of the coverage provided under such insurance relates to—
       - **(i)** liabilities incurred under workers’ compensation laws,
@@ -109,15 +88,13 @@ generated_at: "2026-03-29T02:14:00.865Z"
     - **(D)** The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
     - **(E)** The interest of an individual in the balance in his account is nonforfeitable.
   - **(2)**
-    - **(A)** The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.
+    - **(A)** The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) 1 1 So in original. Probably should be followed by a second closing parenthesis. for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
     - **(B)** Subparagraph (A) shall not apply to any payment for insurance.
     - **(C)** Subparagraph (B) shall not apply to any expense for coverage under—
       - **(i)** a health plan during any period of continuation coverage required under any Federal law,
       - **(ii)** a qualified long-term care insurance contract (as defined in section 7702B(b)),
       - **(iii)** a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
       - **(iv)** in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
-      - **(v)** any direct primary care service arrangement.
-    - **(D)** For purposes of this paragraph, the term “menstrual care product” means a tampon, pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation or other genital-tract secretions.
   - **(3)** The term “account beneficiary” means the individual on whose behalf the health savings account was established.
   - **(4)** Rules similar to the following rules shall apply for purposes of this section:
     - **(A)** Section 219(d)(2) (relating to no deduction for rollovers).
@@ -144,7 +121,7 @@ generated_at: "2026-03-29T02:14:00.865Z"
     - **(A)** Paragraph (2) shall not apply to any amount paid or distributed from a health savings account to the account beneficiary to the extent the amount received is paid into a health savings account for the benefit of such beneficiary not later than the 60th day after the day on which the beneficiary receives the payment or distribution.
     - **(B)** This paragraph shall not apply to any amount described in subparagraph (A) received by an individual from a health savings account if, at any time during the 1-year period ending on the day of such receipt, such individual received any other amount described in subparagraph (A) from a health savings account which was not includible in the individual’s gross income because of the application of this paragraph.
   - **(6)** For purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
-  - **(7)** The transfer of an individual’s interest in a health savings account to an individual’s spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
+  - **(7)** The transfer of an individual’s interest in a health savings account to an individual’s spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
   - **(8)**
     - **(A)** If the account beneficiary’s surviving spouse acquires such beneficiary’s interest in a health savings account by reason of being the designated beneficiary of such account at the death of the account beneficiary, such health savings account shall be treated as if the spouse were the account beneficiary.
     - **(B)**
@@ -155,12 +132,11 @@ generated_at: "2026-03-29T02:14:00.865Z"
         - **(I)** The amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent’s death and paid by such person within 1 year after such date.
         - **(II)** An appropriate deduction shall be allowed under section 691(c) to any person (other than the decedent or the decedent’s spouse) with respect to amounts included in gross income under clause (i) by such person.
 - **(g)**
-  - **(1)** Each dollar amount in subsections (b)(2), (c)(2)(A), and in the case of taxable years beginning after 2026, (c)(1)(E)(ii)(II) shall be increased by an amount equal to—
+  - **(1)** Each dollar amount in subsections (b)(2) and (c)(2)(A) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for “calendar year 2016” in subparagraph (A)(ii) thereof—
-      - **(i)** except as provided in clauses (ii) and (iii), “calendar year 1997”,
-      - **(ii)** in the case of each dollar amount in subsection (c)(2)(A), “calendar year 2003”, and
-      - **(iii)** in the case of the dollar amount in subsection (c)(1)(E)(ii)(II), “calendar year 2025”.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for “calendar year 1992” in subparagraph (B) thereof—
+      - **(i)** except as provided in clause (ii), “calendar year 1997”, and
+      - **(ii)** in the case of each dollar amount in subsection (c)(2)(A), “calendar year 2003”.
   - **(2)** If any increase under paragraph (1) is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 - **(h)** The Secretary may require—
   - **(1)** the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiary with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and

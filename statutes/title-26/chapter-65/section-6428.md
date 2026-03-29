@@ -1,68 +1,55 @@
 ---
-title: "Section 6428 - 2020 recovery rebates for individuals"
+title: "Section 6428 - 2008 recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6428"
-generated_at: "2026-03-29T02:14:01.344Z"
+generated_at: "2026-03-29T17:52:39.573Z"
 ---
 
-# § 6428. 2020 recovery rebates for individuals
+# § 6428. 2008 recovery rebates for individuals
 
-- **(a)** In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2020 an amount equal to the sum of—
-  - **(1)** $1,200 ($2,400 in the case of eligible individuals filing a joint return), plus
-  - **(2)** an amount equal to the product of $500 multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.
-- **(b)** The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
-- **(c)** The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (e)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer’s adjusted gross income as exceeds—
-  - **(1)** $150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
-  - **(2)** $112,500 in the case of a head of household, and
-  - **(3)** $75,000 in the case of a taxpayer not described in paragraph (1) or (2).
-- **(d)** For purposes of this section, the term “eligible individual” means any individual other than—
-  - **(1)** any nonresident alien individual,
-  - **(2)** any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and
-  - **(3)** an estate or trust.
-- **(e)**
-  - **(1)** The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (f). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
-  - **(2)** In the case of a refund or credit made or allowed under subsection (f) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+- **(a)** In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2008 an amount equal to the lesser of—
+  - **(1)** net income tax liability, or
+  - **(2)** $600 ($1,200 in the case of a joint return).
+- **(b)**
+  - **(1)** In the case of a taxpayer described in paragraph (2)—
+    - **(A)** the amount determined under subsection (a) shall not be less than $300 ($600 in the case of a joint return), and
+    - **(B)** the amount determined under subsection (a) (after the application of subparagraph (A)) shall be increased by the product of $300 multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.
+  - **(2)** A taxpayer is described in this paragraph if the taxpayer—
+    - **(A)** has qualifying income of at least $3,000, or
+    - **(B)** has—
+      - **(i)** net income tax liability which is greater than zero, and
+      - **(ii)** gross income which is greater than the sum of the basic standard deduction plus the exemption amount (twice the exemption amount in the case of a joint return).
+- **(c)** The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+- **(d)** The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (f)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer’s adjusted gross income as exceeds $75,000 ($150,000 in the case of a joint return).
+- **(e)** For purposes of this section—
+  - **(1)** The term “qualifying income” means—
+    - **(A)** earned income,
+    - **(B)** social security benefits (within the meaning of section 86(d)), and
+    - **(C)** any compensation or pension received under chapter 11, chapter 13, or chapter 15 of title 38, United States Code.
+  - **(2)** The term “net income tax liability” means the excess of—
+    - **(A)** the sum of the taxpayer’s regular tax liability (within the meaning of section 26(b)) and the tax imposed by section 55 for the taxable year, over
+    - **(B)** the credits allowed by part IV (other than section 24 and subpart C thereof) of subchapter A of chapter 1.
+  - **(3)** The term “eligible individual” means any individual other than—
+    - **(A)** any nonresident alien individual,
+    - **(B)** any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and
+    - **(C)** an estate or trust.
+  - **(4)** The term “earned income” has the meaning set forth in section 32(c)(2) except that such term shall not include net earnings from self-employment which are not taken into account in computing taxable income.
+  - **(5)** The terms “basic standard deduction” and “exemption amount” shall have the same respective meanings as when used in section 6012(a).
 - **(f)**
-  - **(1)** Subject to paragraph (5), each individual who was an eligible individual for such individual’s first taxable year beginning in 2019 shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the advance refund amount for such taxable year.
-  - **(2)** For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such taxable year if this section (other than subsection (e) and this subsection) had applied to such taxable year.
-  - **(3)**
-    - **(A)** The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this subsection as rapidly as possible. No refund or credit shall be made or allowed under this subsection after December 31, 2020 .
-    - **(B)** Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this subsection electronically to any account to which the payee authorized, on or after January 1, 2018 , the delivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31 , United States Code).
-    - **(C)** Notwithstanding section 3325 of title 31 , United States Code, or any other provision of law, with respect to any payment of a refund under this subsection, a disbursing official in the executive branch of the United States Government may modify payment information received from an officer or employee described in section 3325(a)(1)(B) of such title for the purpose of facilitating the accurate and efficient delivery of such payment. Except in cases of fraud or reckless neglect, no liability under sections 3325, 3527, 3528, or 3529 of title 31, United States Code, shall be imposed with respect to payments made under this subparagraph.
-  - **(4)** No interest shall be allowed on any overpayment attributable to this subsection.
-  - **(5)** In the case of an individual who, at the time of any determination made pursuant to paragraph (3), has not filed a tax return for the year described in paragraph (1), the Secretary may—
-    - **(A)** apply such paragraph by substituting “2018” for “2019”, and
-    - **(B)** if the individual has not filed a tax return for such individual’s first taxable year beginning in 2018, use information with respect to such individual for calendar year 2019 provided in—
-      - **(i)** Form SSA–1099, Social Security Benefit Statement, or
-      - **(ii)** Form RRB–1099, Social Security Equivalent Benefit Statement.
-  - **(6)**
-    - **(A)** In the case of any individual for which payment information is provided to the Secretary by the Commissioner of Social Security, the Railroad Retirement Board, or the Secretary of Veterans Affairs, the payment by the Secretary under paragraph (3) with respect to such individual may be made to such individual’s representative payee or fiduciary and the entire payment shall be—
-      - **(i)** provided to the individual who is entitled to the payment, or
-      - **(ii)** used only for the benefit of the individual who is entitled to the payment.
-    - **(B)**
-      - **(i)** In the case of a payment described in subparagraph (A) which is made with respect to a social security beneficiary or a supplemental security income recipient, section 1129(a)(3) of the Social Security Act ( 42 U.S.C. 1320a–8(a)(3) ) shall apply to such payment in the same manner as such section applies to a payment under title II or XVI of such Act.
-      - **(ii)** In the case of a payment described in subparagraph (A) which is made with respect to a railroad retirement beneficiary, section 13 of the Railroad Retirement Act ( 45 U.S.C. 231 l ) shall apply to such payment in the same manner as such section applies to a payment under such Act.
-      - **(iii)** In the case of a payment described in subparagraph (A) which is made with respect to a veterans beneficiary, sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to such payment in the same manner as such sections apply to a payment under such title.
-  - **(7)** Not later than 15 days after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, notice shall be sent by mail to such taxpayer’s last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
+  - **(1)** The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (g). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+  - **(2)** In the case of a refund or credit made or allowed under subsection (g) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
 - **(g)**
-  - **(1)** Subject to paragraph (2), with respect to the credit allowed under subsection (a), the following provisions shall apply:
-    - **(A)** In the case of a return other than a joint return, the $1,200 amount in subsection (a)(1) shall be treated as being zero unless the taxpayer includes the valid identification number of the taxpayer on the return of tax for the taxable year.
-    - **(B)** In the case of a joint return, the $2,400 amount in subsection (a)(1) shall be treated as being—
-      - **(i)** $1,200 if the valid identification number of only 1 spouse is included on the return of tax for the taxable year, and
-      - **(ii)** zero if the valid identification number of neither spouse is so included.
-    - **(C)** A qualifying child of a taxpayer shall not be taken into account under subsection (a)(2) unless—
-      - **(i)** the taxpayer includes the valid identification number of such taxpayer (or, in the case of a joint return, the valid identification number of at least 1 spouse) on the return of tax for the taxable year, and
-      - **(ii)** the valid identification number of such qualifying child is included on the return of tax for the taxable year.
-  - **(2)** No refund shall be payable under subsection (f) to an eligible individual who does not include on the return of tax for the taxable year—
+  - **(1)** Each individual who was an eligible individual for such individual’s first taxable year beginning in 2007 shall be treated as having made a payment against the tax imposed by chapter 1 for such first taxable year in an amount equal to the advance refund amount for such taxable year.
+  - **(2)** For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (f) and this subsection) had applied to such taxable year.
+  - **(3)** The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this section as rapidly as possible. No refund or credit shall be made or allowed under this subsection after December 31, 2008 .
+  - **(4)** No interest shall be allowed on any overpayment attributable to this section.
+- **(h)**
+  - **(1)** No credit shall be allowed under subsection (a) to an eligible individual who does not include on the return of tax for the taxable year—
     - **(A)** such individual’s valid identification number,
     - **(B)** in the case of a joint return, the valid identification number of such individual’s spouse, and
-    - **(C)** in the case of any qualifying child taken into account under subsection (a)(2), the valid identification number of such qualifying child.
-  - **(3)**
-    - **(A)** For purposes of this subsection, the term “valid identification number” means a social security number (as such term is defined in section 24(h)(7)).
-    - **(B)** For purposes of paragraphs (1)(C) and (2)(C), in the case of a qualifying child who is adopted or placed for adoption, the term “valid identification number” shall include the adoption taxpayer identification number of such child.
-  - **(4)** Paragraphs (1)(B) and (2)(B) shall not apply in the case where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year and the valid identification number of at least 1 spouse is included on the return of tax for the taxable year.
-  - **(5)** Any omission of a correct valid identification number required under this subsection shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.
-- **(h)** The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.
+    - **(C)** in the case of any qualifying child taken into account under subsection (b)(1)(B), the valid identification number of such qualifying child.
+  - **(2)** For purposes of paragraph (1), the term “valid identification number” means a social security number issued to an individual by the Social Security Administration. Such term shall not include a TIN issued by the Internal Revenue Service.
+  - **(3)** Paragraph (1) shall not apply to a joint return where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year.

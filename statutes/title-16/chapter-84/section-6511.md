@@ -3,9 +3,9 @@ title: "Section 6511 - Definitions"
 usc_title: 16
 usc_section: "6511"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6511"
-generated_at: "2026-03-29T02:11:53.966Z"
+generated_at: "2026-03-29T17:51:57.021Z"
 ---
 
 # § 6511. Definitions
@@ -18,11 +18,7 @@ In this subchapter:
       - **(ii)** a group of homes and other structures with basic infrastructure and services (such as utilities and collectively maintained transportation routes) within or adjacent to Federal land;
     - **(B)** in which conditions are conducive to a large-scale wildland fire disturbance event; and
     - **(C)** for which a significant threat to human life or property exists as a result of a wildland fire disturbance event.
-  - **(2)**
-    - **(A)** The term “authorized hazardous fuel reduction project” means the measures and methods described in the definition of “appropriate tools” contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
-    - **(B)** The term “authorized hazardous fuel reduction project” includes, using the measures and methods described in subparagraph (A), the installation of—
-      - **(i)** a natural or manmade change in fuel characteristics that affects fire behavior such that a fire can be more readily controlled (commonly known as a “fuel break”); and
-      - **(ii)** a natural or constructed barrier used to stop or check a fire or to provide a control line from which to work to stop or check a fire (commonly known as a “firebreak”).
+  - **(2)** The term “authorized hazardous fuel reduction project” means the measures and methods described in the definition of “appropriate tools” contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
   - **(3)** The term “community wildfire protection plan” means a plan for an at-risk community that—
     - **(A)** is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable local government, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
     - **(B)** identifies and prioritizes areas for hazardous fuel reduction treatments and recommends the types and methods of treatment on Federal and non-Federal land that will protect 1 or more at-risk communities and essential infrastructure; and
@@ -57,7 +53,7 @@ In this subchapter:
   - **(10)** The term “fire regime III” means an area—
     - **(A)** in which historically there are mixed severity fires with a frequency of 35 through 100 years; and
     - **(B)** that is located primarily in forests of mixed conifer, dry Douglas fir, or wet Ponderosa pine.
-  - **(11)** The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) 1 1 See References in Text note below. (and subsequent revisions).
+  - **(11)** The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) (and subsequent revisions).
   - **(12)** The term “municipal water supply system” means the reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, and other surface facilities and systems constructed or installed for the collection, impoundment, storage, transportation, or distribution of drinking water.
   - **(13)** The term “resource management plan” means—
     - **(A)** a land and resource management plan prepared for 1 or more units of land of the National Forest System described in section 6502(1)(A) of this title under section 1604 of this title ; or

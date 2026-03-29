@@ -3,9 +3,9 @@ title: "Section 202 - Ownership of copyright as distinct from ownership of mater
 usc_title: 17
 usc_section: "202"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "17 U.S.C. § 202"
-generated_at: "2026-03-29T02:11:57.620Z"
+generated_at: "2026-03-29T17:51:39.288Z"
 ---
 
 # § 202. Ownership of copyright as distinct from ownership of material object

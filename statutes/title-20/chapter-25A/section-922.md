@@ -3,9 +3,9 @@ title: "Section 922 - Administration of defense dependents’ education system"
 usc_title: 20
 usc_section: "922"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 922"
-generated_at: "2026-03-29T02:12:17.160Z"
+generated_at: "2026-03-29T17:51:48.303Z"
 ---
 
 # § 922. Administration of defense dependents’ education system
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:12:17.160Z"
   - **(3)** prepare a unified budget for each fiscal year, which shall include necessary funds for construction and operation and maintenance of facilities, for the defense dependents’ education system for inclusion in the Department of Defense budget for that year,
   - **(4)** have authority to establish, in accordance with section 928 of this title , local school advisory committees,
   - **(5)** have authority to arrange for inservice and other training programs for employees in the defense dependents’ education system, and
-  - **(6)** perform such other functions as may be required or delegated by the Secretary of Defense or the Assistant Secretary of Defense designated under subsection (a).
+  - **(6)** perform such other functions as may be required or delegated by the Secretary of Defense or the Assistant Secretary of Defense designated under subsection (a) of this section.
 - **(d)**
   - **(1)** The Director shall establish appropriate regional or area offices in order to provide for thorough and efficient administration of the defense dependents’ education system.
   - **(2)** Whenever the Department of Defense Education Activity is reorganized in a manner that affects the defense dependents’ education system, the Secretary of Defense shall submit a report to the Congress describing the reorganization.

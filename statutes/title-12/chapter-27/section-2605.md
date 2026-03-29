@@ -3,9 +3,9 @@ title: "Section 2605 - Servicing of mortgage loans and administration of escrow 
 usc_title: 12
 usc_section: "2605"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 2605"
-generated_at: "2026-03-29T02:11:21.145Z"
+generated_at: "2026-03-29T17:51:13.184Z"
 ---
 
 # § 2605. Servicing of mortgage loans and administration of escrow accounts
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T02:11:21.145Z"
       - **(ii)** commencement of proceedings for bankruptcy of the servicer; or
       - **(iii)** commencement of proceedings by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation for conservatorship or receivership of the servicer (or an entity by which the servicer is owned or controlled).
     - **(C)** The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale, or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
-  - **(3)** Any notice required under paragraph (1) shall include the information described in subsection (b)(3).
+  - **(3)** Any notice required under paragraph (1) shall include the information described in subsection (b)(3) of this section.
 - **(d)** During the 60-day period beginning on the effective date of transfer of the servicing of any federally related mortgage loan, a late fee may not be imposed on the borrower with respect to any payment on such loan and no such payment may be treated as late for any other purposes, if the payment is received by the transferor servicer (rather than the transferee servicer who should properly receive payment) before the due date applicable to such payment.
 - **(e)**
   - **(1)**
@@ -78,9 +78,9 @@ generated_at: "2026-03-29T02:11:21.145Z"
       - **(iii)** commencement of proceedings by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation for conservatorship or receivership of the servicer (or an entity by which the servicer is owned or controlled).
   - **(3)** The term “servicing” means receiving any scheduled periodic payments from a borrower pursuant to the terms of any loan, including amounts for escrow accounts described in section 2609 of this title , and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.
 - **(j)**
-  - **(1)** A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
-  - **(2)** A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) that arises before the regulations referred to in paragraph (3) take effect.
-  - **(3)** The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2).
+  - **(1)** A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) of this section with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
+  - **(2)** A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) of this section that arises before the regulations referred to in paragraph (3) take effect.
+  - **(3)** The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
 - **(k)**
   - **(1)** A servicer of a federally related mortgage shall not—
     - **(A)** obtain force-placed hazard insurance unless there is a reasonable basis to believe the borrower has failed to comply with the loan contract’s requirements to maintain property insurance;

@@ -3,9 +3,9 @@ title: "Section 842 - Foreign companies carrying on insurance business"
 usc_title: 26
 usc_section: "842"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 842"
-generated_at: "2026-03-29T02:14:01.044Z"
+generated_at: "2026-03-29T17:52:39.299Z"
 ---
 
 # § 842. Foreign companies carrying on insurance business
@@ -38,12 +38,13 @@ generated_at: "2026-03-29T02:14:01.044Z"
     - **(A)** gross investment income (within the meaning of section 834(b)), reduced by
     - **(B)** expenses allocable to such income.
 - **(c)**
-  - **(1)**
+  - **(1)** In the case of a foreign company taxable under part I, subsection (b) shall be applied before computing the small life insurance company deduction.
+  - **(2)**
     - **(A)** The tax under section 881 (determined without regard to this paragraph) shall be reduced (but not below zero) by an amount which bears the same ratio to such tax as—
       - **(i)** the amount of the increase in effectively connected income of the company resulting from subsection (b), bears to
       - **(ii)** the amount which would be subject to tax under section 881 if the amount taxable under such section were determined without regard to sections 103 and 894.
     - **(B)** The reduction under subparagraph (A) shall not exceed the increase in taxes under part I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
-  - **(2)** Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
+  - **(3)** Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
 - **(d)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
   - **(1)** providing for the proper treatment of segregated asset accounts,
   - **(2)** providing for proper adjustments in succeeding taxable years where the company’s actual net investment income for any taxable year which is effectively connected with the conduct of an insurance business within the United States exceeds the amount required under subsection (b)(1),

@@ -1,12 +1,14 @@
 ---
-title: "Section 2514 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 2514 - Sunset and reporting provisions; reports to Congress"
 usc_title: 16
 usc_section: "2514"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2514"
-generated_at: "2026-03-29T02:11:53.862Z"
+generated_at: "2026-03-29T17:51:56.934Z"
 ---
 
-# § 2514. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 2514. Sunset and reporting provisions; reports to Congress
 
+- **(a)** Within ninety days of the expiration of this authority, the Secretary shall report to the Congress on the overall impact of the urban park and recreation recovery program.
+- **(b)** Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M) , Nov. 12, 1996 , 110 Stat. 4196 .

@@ -3,9 +3,9 @@ title: "Section 7419 - Enforcement"
 usc_title: 7
 usc_section: "7419"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 7419"
-generated_at: "2026-03-29T02:10:17.132Z"
+generated_at: "2026-03-29T17:50:48.853Z"
 ---
 
 # § 7419. Enforcement
@@ -17,9 +17,9 @@ generated_at: "2026-03-29T02:10:17.132Z"
   - **(2)** Each violation and each day during which there is a failure to comply with an order or regulation issued by the Secretary shall be considered to be a separate offense.
   - **(3)** In addition to, or in lieu of, a civil penalty, the Secretary may issue an order requiring a person to cease and desist from violating the order or regulation.
   - **(4)** No order assessing a penalty or cease-and-desist order may be issued by the Secretary under this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
-  - **(5)** An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d).
+  - **(5)** An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the United States court of appeals, as provided in subsection (d) of this section.
 - **(d)**
-  - **(1)** A person against whom an order is issued under subsection (c) may obtain review of the order by—
+  - **(1)** A person against whom an order is issued under subsection (c) of this section may obtain review of the order by—
     - **(A)** filing, not later than 30 days after the person receives notice of the order, a notice of appeal in—
       - **(i)** the United States court of appeals for the circuit in which the person resides or carries on business; or
       - **(ii)** the United States Court of Appeals for the District of Columbia Circuit; and

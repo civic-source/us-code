@@ -3,9 +3,9 @@ title: "Section 3374 - Clauses prohibiting certain sales, transportation, and co
 usc_title: 15
 usc_section: "3374"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 3374"
-generated_at: "2026-03-29T02:11:34.337Z"
+generated_at: "2026-03-29T17:51:36.351Z"
 ---
 
 # § 3374. Clauses prohibiting certain sales, transportation, and commingling
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:11:34.337Z"
   - **(1)** prohibits the commingling of natural gas subject to such contract with natural gas subject to the jurisdiction of the Commission under the provisions of the Natural Gas Act [ 15 U.S.C. 717 et seq.];
   - **(2)** prohibits the sale of any natural gas subject to such contract to, or transportation of any such natural gas by, any person subject to the jurisdiction of the Commission under the Natural Gas Act [ 15 U.S.C. 717 et seq.], or otherwise prohibits the sale or transportation in interstate commerce (within the meaning of the Natural Gas Act) of natural gas subject to such contract; or
   - **(3)** terminates, or grants any party the option to terminate, any obligation under any such contract as a result of such commingling, sale, or transportation.
-- **(b)** For purposes of subsection (a), the term “natural gas covered by this chapter” means—
+- **(b)** For purposes of subsection (a) of this section, the term “natural gas covered by this chapter” means—
   - **(1)** natural gas which is not committed or dedicated to interstate commerce as of November 8, 1978 ;
   - **(2)** natural gas, the sale in interstate commerce of which—
     - **(A)** is authorized under section 3362(a) or 3371(b) of this title; or

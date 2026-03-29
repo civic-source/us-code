@@ -3,9 +3,9 @@ title: "Section 1232 - Enhancing efforts to combat the trafficking of children"
 usc_title: 8
 usc_section: "1232"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1232"
-generated_at: "2026-03-29T02:10:21.436Z"
+generated_at: "2026-03-29T17:50:41.348Z"
 ---
 
 # § 1232. Enhancing efforts to combat the trafficking of children
@@ -84,9 +84,9 @@ generated_at: "2026-03-29T02:10:21.436Z"
         - **(II)** the Committee on Health, Education, Labor, and Pensions of the Senate;
         - **(III)** the Committee on the Judiciary of the House of Representatives; and
         - **(IV)** the Committee on Education and the Workforce of the House of Representatives.
-    - **(F)** There are authorized to be appropriated to the Secretary of Health and Human Services to carry out this subsection—
+    - **(F)** There are authorized to be appropriated to the Secretary and Human Services to carry out this subsection—
       - **(i)** $1,000,000 for each of the fiscal years 2014 and 2015; and
-      - **(ii)** $2,000,000 for each of fiscal years 2018 through 2021.
+      - **(ii)** $2,000,000 for each of the fiscal years 2016 and 2017.
 - **(d)**
   - **(1)**
   - **(2)** All applications for special immigrant status under section 101(a)(27)(J) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(27)(J) ) shall be adjudicated by the Secretary of Homeland Security not later than 180 days after the date on which the application is filed.

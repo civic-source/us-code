@@ -3,9 +3,9 @@ title: "Section 360eee - Definitions"
 usc_title: 21
 usc_section: "360eee"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "21 U.S.C. § 360eee"
-generated_at: "2026-03-29T02:12:28.052Z"
+generated_at: "2026-03-29T17:52:03.876Z"
 ---
 
 # § 360eee. Definitions
@@ -92,7 +92,7 @@ In this part:
       - **(xvii)** the distribution of a medical gas (as defined in section 360ddd of this title ); or
       - **(xviii)** the distribution or sale of any licensed product under section 262 of title 42 that meets the definition of a device under section 321(h) of this title .
   - **(25)** The term “transaction history” means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product.
-  - **(26)** The term “transaction information” means—
+  - **(26)** The term“transaction information” means—
     - **(A)** the proprietary or established name or names of the product;
     - **(B)** the strength and dosage form of the product;
     - **(C)** the National Drug Code number of the product;

@@ -3,23 +3,19 @@ title: "Section 118 - Contributions to the capital of a corporation"
 usc_title: 26
 usc_section: "118"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 118"
-generated_at: "2026-03-29T02:14:00.796Z"
+generated_at: "2026-03-29T17:52:39.124Z"
 ---
 
 # § 118. Contributions to the capital of a corporation
 
 - **(a)** In the case of a corporation, gross income does not include any contribution to the capital of the taxpayer.
-- **(b)** For purposes of subsection (a), except as provided in subsection (c), the term “contribution to the capital of the taxpayer” does not include—
-  - **(1)** any contribution in aid of construction or any other contribution as a customer or potential customer, and
-  - **(2)** any contribution by any governmental entity or civic group (other than a contribution made by a shareholder as such).
+- **(b)** For purposes of subsection (a), except as provided in subsection (c), the term “contribution to the capital of the taxpayer” does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
 - **(c)**
   - **(1)** For purposes of this section, the term “contribution to the capital of the taxpayer” includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
-    - **(A)** such amount is—
-      - **(i)** a contribution in aid of construction, or
-      - **(ii)** a contribution to the capital of such utility by a governmental entity providing for the protection, preservation, or enhancement of drinking water or sewerage disposal services,
-    - **(B)** in the case of a contribution in aid of construction which is property other than water or sewerage disposal facilities, such amount meets the requirements of the expenditure rule of paragraph (2), and
+    - **(A)** such amount is a contribution in aid of construction,
+    - **(B)** in the case of contribution of property other than water or sewerage disposal facilities, such amount meets the requirements of the expenditure rule of paragraph (2), and
     - **(C)** such amount (or any property acquired or constructed with such amount) is not included in the taxpayer’s rate base for ratemaking purposes.
   - **(2)** An amount meets the requirements of this paragraph if—
     - **(A)** an amount equal to such amount is expended for the acquisition or construction of tangible property described in section 1231(b)—
@@ -32,7 +28,7 @@ generated_at: "2026-03-29T02:14:00.796Z"
     - **(B)** The term “predominantly” means 80 percent or more.
     - **(C)** The term “regulated public utility” has the meaning given such term by section 7701(a)(33), except that such term shall not include any utility which is not required to provide water or sewerage disposal services to members of the general public in its service area.
   - **(4)** Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed for, or by reason of, any expenditure which constitutes a contribution in aid of construction to which this subsection applies. The adjusted basis of any property acquired with contributions in aid of construction to which this subsection applies shall be zero.
-- **(d)** If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (c)(1)(A)(i), then—
+- **(d)** If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (c), then—
   - **(1)** the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
     - **(A)** the amount of the expenditure referred to in subparagraph (A) of subsection (c)(2),
     - **(B)** the taxpayer’s intention not to make the expenditures referred to in such subparagraph, or

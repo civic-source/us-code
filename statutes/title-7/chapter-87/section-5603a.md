@@ -3,9 +3,9 @@ title: "Section 5603a - Global market strategy"
 usc_title: 7
 usc_section: "5603a"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5603a"
-generated_at: "2026-03-29T02:10:17.042Z"
+generated_at: "2026-03-29T17:50:48.789Z"
 ---
 
 # § 5603a. Global market strategy
@@ -14,6 +14,6 @@ generated_at: "2026-03-29T02:10:17.042Z"
   - **(1)** identifies opportunities for the growth of agricultural exports to overseas markets;
   - **(2)** ensures that the resources, programs, and policies of the Department are coordinated with those of other agencies; and
   - **(3)** remove 1 1 So in original. Probably should be “removes”. barriers to agricultural trade in overseas markets.
-- **(b)** The consultations under subsection (a) shall include a review of—
+- **(b)** The consultations under subsection (a) of this section shall include a review of—
   - **(1)** the strategic goals of the Department; and
   - **(2)** the progress of the Department in implementing the strategic goals through the global market strategy.

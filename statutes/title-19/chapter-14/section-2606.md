@@ -3,29 +3,29 @@ title: "Section 2606 - Import restrictions"
 usc_title: 19
 usc_section: "2606"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2606"
-generated_at: "2026-03-29T02:12:08.711Z"
+generated_at: "2026-03-29T17:51:51.303Z"
 ---
 
 # § 2606. Import restrictions
 
 - **(a)** No designated archaeological or ethnological material that is exported (whether or not such exportation is to the United States) from the State Party after the designation of such material under section 2604 of this title may be imported into the United States unless the State Party issues a certification or other documentation which certifies that such exportation was not in violation of the laws of the State Party.
 - **(b)** If the consignee of any designated archaeological or ethnological material is unable to present to the customs officer concerned at the time of making entry of such material—
-  - **(1)** the certificate or other documentation of the State Party required under subsection (a); or
+  - **(1)** the certificate or other documentation of the State Party required under subsection (a) of this section; or
   - **(2)** satisfactory evidence that such material was exported from the State Party—
     - **(A)** not less than ten years before the date of such entry and that neither the person for whose account the material is imported (or any related person) contracted for or acquired an interest, directly or indirectly, in such material more than one year before that date of entry, or
     - **(B)** on or before the date on which such material was designated under section 2604 of this title ,
 - **(c)** The term “satisfactory evidence” means—
-  - **(1)** for purposes of subsection (b)(2)(A)—
+  - **(1)** for purposes of subsection (b)(2)(A) of this section—
     - **(A)** one or more declarations under oath by the importer, or the person for whose account the material is imported, stating that, to the best of his knowledge—
       - **(i)** the material was exported from the State Party not less than ten years before the date of entry into the United States, and
       - **(ii)** neither such importer or person (or any related person) contracted for or acquired an interest, directly or indirectly, in such material more than one year before the date of entry of the material; and
     - **(B)** a statement provided by the consignor, or person who sold the material to the importer, which states the date, or, if not known, his belief, that the material was exported from the State Party not less than ten years before the date of entry into the United States, and the reasons on which the statement is based; and
-  - **(2)** for purposes of subsection (b)(2)(B)—
+  - **(2)** for purposes of subsection (b)(2)(B) of this section—
     - **(A)** one or more declarations under oath by the importer or the person for whose account the material is to be imported, stating that, to the best of his knowledge, the material was exported from the State Party on or before the date such material was designated under section 2604 of this title , and
     - **(B)** a statement by the consignor or person who sold the material to the importer which states the date, or if not known, his belief, that the material was exported from the State Party on or before the date such material was designated under section 2604 of this title , and the reasons on which the statement is based.
-- **(d)** For purposes of subsections (b) and (c), a person shall be treated as a related person to an importer, or to a person for whose account material is imported, if such person—
+- **(d)** For purposes of subsections (b) and (c) of this section, a person shall be treated as a related person to an importer, or to a person for whose account material is imported, if such person—
   - **(1)** is a member of the same family as the importer or person of account, including, but not limited to, membership as a brother or sister (whether by whole or half blood), spouse, ancestor, or lineal descendant;
   - **(2)** is a partner or associate with the importer or person of account in any partnership, association, or other venture; or
   - **(3)** is a corporation or other legal entity in which the importer or person of account directly or indirectly owns, controls, or holds power to vote 20 percent or more of the outstanding voting stock or shares in the entity.

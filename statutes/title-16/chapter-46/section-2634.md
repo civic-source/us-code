@@ -3,12 +3,15 @@ title: "Section 2634 - Prior and pending proceedings"
 usc_title: 16
 usc_section: "2634"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2634"
-generated_at: "2026-03-29T02:11:53.866Z"
+generated_at: "2026-03-29T17:51:56.938Z"
 ---
 
 # § 2634. Prior and pending proceedings
 
-For purposes of subchapters I and II, and this subchapter, proceedings commenced by State regulatory authorities (with respect to electric utilities for which it has ratemaking authority) and nonregulated electric utilities before November 9, 1978 , and actions taken before such date in such proceedings shall be treated as complying with the requirements of subchapters I and II, and this subchapter if such proceedings and actions substantially conform to such requirements. For purposes of subchapters I and II, and this subchapter, any such proceeding or action commenced before November 9, 1978 , but not completed before such date, shall comply with the requirements of subchapters I and II, and this subchapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date, except as otherwise provided in section 2631(c) of this title . In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title , the reference contained in this section to November 9, 1978 , shall be deemed to be a reference to August 8, 2005 . In the case of the standard established by paragraph (14) of section 2621(d) of this title , the reference contained in this section to November 9, 1978 , shall be deemed to be a reference to August 8, 2005 . In the case of each standard established by paragraph (15) of section 2621(d) of this title , the reference contained in this section to November 9, 1978 , shall be deemed to be a reference to August 8, 2005 . In the case of the standard established by paragraph (20) of section 2621(d) of this title , the reference contained in this section to November 9, 1978 , shall be deemed to be a reference to November 15, 2021 . In the case of the standard established by paragraph (21) of section 2621(d) of this title , the reference contained in this section to November 9, 1978 , shall be deemed to be a reference to November 15, 2021 .
+  - **(11)** through
+  - **(13)** of section 2621(d) of this title , the reference contained in this subsection 1 1 So in original. Probably should be “section”. to November 9, 1978 , shall be deemed to be a reference to August 8, 2005 . In the case of the standard established by paragraph
+  - **(14)** of section 2621(d) of this title , the reference contained in this subsection 1 to November 9, 1978 , shall be deemed to be a reference to August 8, 2005 . In the case of each standard established by paragraph
+  - **(15)** of section 2621(d) of this title , the reference contained in this subsection 1 to November 9, 1978 , shall be deemed to be a reference to August 8, 2005 .
 

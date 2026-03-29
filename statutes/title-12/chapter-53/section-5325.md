@@ -3,9 +3,9 @@ title: "Section 5325 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5325"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 5325"
-generated_at: "2026-03-29T02:11:21.254Z"
+generated_at: "2026-03-29T17:51:13.272Z"
 ---
 
 # § 5325. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:11:21.254Z"
     - **(B)** increase in stringency, based on the considerations identified in subsection (b)(3).
   - **(2)** In making recommendations under this section, the Council may—
     - **(A)** differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Council deems appropriate; or
-    - **(B)** recommend an asset threshold that is higher than the applicable threshold for the application of any standard described in subsections (c) through (g).
+    - **(B)** recommend an asset threshold that is higher than $50,000,000,000 for the application of any standard described in subsections (c) through (g).
 - **(b)**
   - **(1)** The recommendations of the Council under subsection (a) may include—
     - **(A)** risk-based capital requirements;

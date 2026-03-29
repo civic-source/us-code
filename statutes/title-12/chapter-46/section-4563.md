@@ -3,9 +3,9 @@ title: "Section 4563 - Multifamily special affordable housing goal"
 usc_title: 12
 usc_section: "4563"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4563"
-generated_at: "2026-03-29T02:11:21.203Z"
+generated_at: "2026-03-29T17:51:13.233Z"
 ---
 
 # § 4563. Multifamily special affordable housing goal

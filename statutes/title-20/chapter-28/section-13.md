@@ -3,9 +3,9 @@ title: "Section 13 - Upward bound"
 usc_title: 20
 usc_section: "13"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-29T02:12:17.205Z"
+generated_at: "2026-03-29T17:51:48.344Z"
 ---
 
 # § 1070a–13. Upward bound
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:12:17.205Z"
   - **(3)** require that there be a determination by the institution, with respect to each participant in such project that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school;
   - **(4)** require that such participants be persons who have completed 8 years of elementary education and are at least 13 years of age but not more than 19 years of age, unless the imposition of any such limitation would defeat the purposes of this section; and
   - **(5)** require an assurance that no student will be denied participation in a project assisted under this section because the student will enter the project after the 9th grade.
-- **(f)** Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during the summer school recess, for a period not to exceed three months, except that youth participating in a work-study position under subsection (d)(5) may be paid a stipend of $300 per month during the summer school recess, for a period not to exceed three months. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
+- **(f)** Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during the summer school recess, for a period not to exceed three months, except that youth participating in a work-study position under subsection (d)(5) of this section may be paid a stipend of $300 per month during the summer school recess, for a period not to exceed three months. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
 - **(g)**
   - **(1)** There are authorized to be appropriated, and there are appropriated to the Secretary, from funds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
   - **(2)** The amounts made available by paragraph (1) shall be available to provide assistance to all Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.

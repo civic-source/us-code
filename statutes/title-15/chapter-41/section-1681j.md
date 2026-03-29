@@ -3,9 +3,9 @@ title: "Section 1681j - Charges for certain disclosures"
 usc_title: 15
 usc_section: "1681j"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 1681j"
-generated_at: "2026-03-29T02:11:34.220Z"
+generated_at: "2026-03-29T17:51:36.266Z"
 ---
 
 # § 1681j. Charges for certain disclosures
@@ -21,8 +21,8 @@ generated_at: "2026-03-29T02:11:34.220Z"
         - **(II)** appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
         - **(III)** the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
       - **(iii)** The Commission 2 shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003 .
-      - **(iv)** The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) 1 of this title) shall be required to comply with subsection (a), which effective date—
-        - **(I)** shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and
+      - **(iv)** The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) 1 of this title) shall be required to comply with subsection (a) of this section, which effective date—
+        - **(I)** shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a) of this section; and
         - **(II)** shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
   - **(2)** A consumer reporting agency shall provide a consumer report under paragraph (1) not later than 15 days after the date on which the request is received under paragraph (1).
   - **(3)** Notwithstanding the time periods specified in section 1681i(a)(1) of this title , a reinvestigation under that section by a consumer reporting agency upon a request of a consumer that is made after receiving a consumer report under this subsection shall be completed not later than 45 days after the date on which the request is received.
@@ -33,9 +33,9 @@ generated_at: "2026-03-29T02:11:34.220Z"
   - **(2)** is a recipient of public welfare assistance; or
   - **(3)** has reason to believe that the file on the consumer at the agency contains inaccurate information due to fraud.
 - **(d)** Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title , as applicable.
-- **(e)** A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f).
+- **(e)** A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f) of this section.
 - **(f)**
-  - **(1)** In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
+  - **(1)** In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
     - **(A)** for making a disclosure to the consumer pursuant to section 1681g of this title , which charge—
       - **(i)** shall not exceed $8; and
       - **(ii)** shall be indicated to the consumer before making the disclosure; and

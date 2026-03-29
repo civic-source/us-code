@@ -3,12 +3,12 @@ title: "Section 451 - Advisory committees"
 usc_title: 6
 usc_section: "451"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 451"
-generated_at: "2026-03-29T02:10:05.008Z"
+generated_at: "2026-03-29T17:50:39.345Z"
 ---
 
 # § 451. Advisory committees
 
-- **(a)** The Secretary may establish, appoint members of, and use the services of, advisory committees, as the Secretary may deem necessary. An advisory committee established under this section may be exempted by the Secretary from chapter 10 of title 5, but the Secretary shall publish notice in the Federal Register announcing the establishment of such a committee and identifying its purpose and membership. Notwithstanding the preceding sentence, members of an advisory committee that is exempted by the Secretary under the preceding sentence who are special Government employees (as that term is defined in section 202 of title 18 ) shall be eligible for certifications under subsection (b)(3) of section 208 of title 18 for official actions taken as a member of such advisory committee.
+- **(a)** The Secretary may establish, appoint members of, and use the services of, advisory committees, as the Secretary may deem necessary. An advisory committee established under this section may be exempted by the Secretary from Public Law 92–463 , but the Secretary shall publish notice in the Federal Register announcing the establishment of such a committee and identifying its purpose and membership. Notwithstanding the preceding sentence, members of an advisory committee that is exempted by the Secretary under the preceding sentence who are special Government employees (as that term is defined in section 202 of title 18 ) shall be eligible for certifications under subsection (b)(3) of section 208 of title 18 for official actions taken as a member of such advisory committee.
 - **(b)** Any advisory committee established by the Secretary shall terminate 2 years after the date of its establishment, unless the Secretary makes a written determination to extend the advisory committee to a specified date, which shall not be more than 2 years after the date on which such determination is made. The Secretary may make any number of subsequent extensions consistent with this subsection.

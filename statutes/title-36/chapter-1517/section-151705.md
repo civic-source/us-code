@@ -3,9 +3,9 @@ title: "Section 151705 - Powers"
 usc_title: 36
 usc_section: "151705"
 chapter: 1517
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "36 U.S.C. § 151705"
-generated_at: "2026-03-29T02:14:41.367Z"
+generated_at: "2026-03-29T17:52:49.367Z"
 ---
 
 # § 151705. Powers
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:14:41.367Z"
   - **(1)** adopt a constitution and bylaws;
   - **(2)** adopt a seal which shall be judicially noticed; and
   - **(3)** do any other act necessary to carry out this chapter.
-- **(b)** To carry out its purposes, the corporation has the usual powers of a corporation acting as a trustee in the jurisdiction in which the principal office of the corporation is located, including the power—
+- **(b)** To carry out its purposes, the corporation has the usual powers of a corporation acting as a trustee in the the 1 1 So in original. jurisdiction in which the principal office of the corporation is located, including the power—
   - **(1)** to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of property or any income from or other interest in property;
   - **(2)** to acquire property or an interest in property by purchase or exchange;
   - **(3)** unless otherwise required by an instrument of transfer, to sell, donate, lease, invest, or otherwise dispose of any property or income from property;

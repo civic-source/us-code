@@ -3,14 +3,14 @@ title: "Section 572 - National Emergency Communications Plan"
 usc_title: 6
 usc_section: "572"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "6 U.S.C. § 572"
-generated_at: "2026-03-29T02:10:05.024Z"
+generated_at: "2026-03-29T17:50:39.354Z"
 ---
 
 # § 572. National Emergency Communications Plan
 
-- **(a)** The Secretary, acting through the Assistant Director for Emergency Communications, and in cooperation with the Department of National Communications System (as appropriate), shall, in cooperation with State, local, and tribal governments, Federal departments and agencies, emergency response providers, and the private sector, develop not later than 180 days after the completion of the baseline assessment under section 573 of this title , and periodically update, a National Emergency Communications Plan to provide recommendations regarding how the United States should—
+- **(a)** The Secretary, acting through the Director for Emergency Communications, and in cooperation with the Department of National Communications System (as appropriate), shall, in cooperation with State, local, and tribal governments, Federal departments and agencies, emergency response providers, and the private sector, develop not later than 180 days after the completion of the baseline assessment under section 573 of this title , and periodically update, a National Emergency Communications Plan to provide recommendations regarding how the United States should—
   - **(1)** support and promote the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters; and
   - **(2)** ensure, accelerate, and attain interoperable emergency communications nationwide.
 - **(b)** The Emergency Communications Preparedness Center under section 576 of this title shall coordinate the development of the Federal aspects of the National Emergency Communications Plan.

@@ -3,12 +3,12 @@ title: "Section 2303 - Transition provisions"
 usc_title: 20
 usc_section: "2303"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 2303"
-generated_at: "2026-03-29T02:12:17.378Z"
+generated_at: "2026-03-29T17:51:48.527Z"
 ---
 
 # § 2303. Transition provisions
 
-The Secretary shall take such steps as are necessary to provide for the orderly transition to the authority of this chapter (as amended by the Strengthening Career and Technical Education for the 21st Century Act) from any authority under the provisions of the Carl D. Perkins Vocational and Technical Education Act of 2006, 1 1 See References in Text note below. as in effect on the day before July 31, 2018 . The Secretary shall give each eligible agency the opportunity to submit a transition plan for the first fiscal year following July 31, 2018 .
+The Secretary shall take such steps as the Secretary determines to be appropriate to provide for the orderly transition to the authority of this chapter (as amended by the Carl D. Perkins Career and Technical Education Improvement Act of 2006) from any authority under the provisions of the Carl D. Perkins Vocational and Technical Education Act of 1998, as in effect on the day before August 12, 2006 . The Secretary shall give each eligible agency the opportunity to submit a transition plan for the first fiscal year following August 12, 2006 .
 

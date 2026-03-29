@@ -1,12 +1,14 @@
 ---
-title: "Section 9013 - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(8) , Mar. 23, 2018 , 132 Stat. 1212 ]"
+title: "Section 9013 - Effective date of chapter"
 usc_title: 26
 usc_section: "9013"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 9013"
-generated_at: "2026-03-29T02:14:01.423Z"
+generated_at: "2026-03-29T17:52:39.644Z"
 ---
 
-# [§ 9013. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(8) , Mar. 23, 2018 , 132 Stat. 1212 ]
+# § 9013. Effective date of chapter
+
+The provisions of this chapter shall take effect on January 1, 1973 .
 

@@ -1,12 +1,15 @@
 ---
-title: "Section 1300f - Omitted"
+title: "Section 1300f - Status of Pascua Yaqui Indian people"
 usc_title: 25
 usc_section: "1300f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1300f"
-generated_at: "2026-03-29T02:13:20.873Z"
+generated_at: "2026-03-29T17:52:06.045Z"
 ---
 
-# § 1300f. Omitted
+# § 1300f. Status of Pascua Yaqui Indian people
 
+- **(a)** The Pascua Yaqui Indian people who are members of the Pascua Yaqui Association, Incorporated, an Arizona corporation, or who hereafter become members of the Pascua Yaqui Tribe in accordance with section 1300f–2 of this title , are recognized as, and declared to be, eligible, on and after September 18, 1978 , for the services and assistance provided to Indians because of their status as Indians by or through any department, agency, or instrumentality of the United States, or under any statute of the United States. The Pascua Yaqui Tribe, a historic Indian tribe, is acknowledged as a federally recognized Indian tribe possessing all the attributes of inherent sovereignty which have not been specifically taken away by Acts of Congress and which are not inconsistent with such tribal status. For the purposes of section 2005a of title 42 , the Pascua Yaqui Indians are to be considered as if they were being provided hospital and medical care by or at the expense of the Public Health Service on August 16, 1957 .
+- **(b)** The provisions of the Act of June 18, 1934 ( 48 Stat. 484 1 1 So in original. Probably should be “984”. ), as amended [ 25 U.S.C. 461 et seq.], are extended to such members described in subsection (a) of this section.
+- **(c)** The Secretary of the Interior is directed, upon request of the Pascua Yaqui Association, Incorporated, and without monetary consideration, to accept on behalf of the United States and in trust for the Pascua Yaqui Tribe, the title to the real property conveyed by the United States to such association under the Act of October 8, 1964 ( 78 Stat. 1197 ), and such lands shall be held as Indian lands are held: Provided , That the State of Arizona shall exercise criminal and civil jurisdiction over such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 ( 67 Stat. 588 ), as amended by the Act of April 11, 1968 ( 82 Stat. 79 ).

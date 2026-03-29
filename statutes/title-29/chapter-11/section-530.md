@@ -3,9 +3,9 @@ title: "Section 530 - Deprivation of rights by violence; penalty"
 usc_title: 29
 usc_section: "530"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 530"
-generated_at: "2026-03-29T02:14:09.373Z"
+generated_at: "2026-03-29T17:52:18.765Z"
 ---
 
 # § 530. Deprivation of rights by violence; penalty

@@ -3,9 +3,9 @@ title: "Section 2330a - Monitoring ecosystem restoration"
 usc_title: 33
 usc_section: "2330a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2330a"
-generated_at: "2026-03-29T02:14:18.627Z"
+generated_at: "2026-03-29T17:52:45.989Z"
 ---
 
 # § 2330a. Monitoring ecosystem restoration
@@ -15,10 +15,3 @@ generated_at: "2026-03-29T02:14:18.627Z"
   - **(1)** include a description of the monitoring activities to be carried out, the criteria for ecosystem restoration success, and the estimated cost and duration of the monitoring; and
   - **(2)** specify that the monitoring shall continue until such time as the Secretary determines that the criteria for ecosystem restoration success will be met.
 - **(c)** For a period of 10 years from completion of construction of a project (or a component of a project) for ecosystem restoration, the Secretary shall consider the cost of carrying out the monitoring as a project cost. If the monitoring plan under subsection (b) requires monitoring beyond the 10-year period, the cost of monitoring shall be a non-Federal responsibility.
-- **(d)** A monitoring plan under subsection (b) shall include a description of—
-  - **(1)** the types and number of restoration activities to be conducted;
-  - **(2)** the physical action to be undertaken to achieve the restoration objectives of the project;
-  - **(3)** the functions and values that will result from the restoration plan; and
-  - **(4)** a contingency plan for taking corrective actions in cases in which monitoring demonstrates that restoration measures are not achieving ecological success in accordance with criteria described in the monitoring plan.
-- **(e)** The responsibility of a non-Federal interest for operation and maintenance of the nonstructural and nonmechanical elements of a project, or a component of a project, for ecosystem restoration shall cease 10 years after the date on which the Secretary makes a determination of success under subsection (b)(2).
-- **(f)** The Secretary is not responsible for the operation or maintenance of any components of a project with respect to which a non-Federal interest is released from obligations under subsection (e).

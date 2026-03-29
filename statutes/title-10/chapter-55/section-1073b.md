@@ -1,18 +1,20 @@
 ---
-title: "Section 1073b - Recurring reports and publication of certain data"
+title: "Section 1073b - Recurring reports"
 usc_title: 10
 usc_section: "1073b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1073b"
-generated_at: "2026-03-29T02:10:44.957Z"
+generated_at: "2026-03-29T17:50:57.002Z"
 ---
 
-# § 1073b. Recurring reports and publication of certain data
+# § 1073b. Recurring reports
 
-- **(a)** The Secretary of Defense shall issue each year a report on the compliance by the military departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with section 1074f(c) of this title . The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.
-- **(b)**
-  - **(1)** The Secretary of Defense shall publish on a publically available Internet website of the Department of Defense data on all measures that the Secretary considers appropriate that are used by the Department to assess patient safety, quality of care, patient satisfaction, and health outcomes for health care provided under the TRICARE program at each military medical treatment facility. Such data shall include the core quality performance metrics adopted by the Secretary under section 728 of the National Defense Authorization Act for Fiscal Year 2017.
-  - **(2)** The Secretary shall publish an update to the data published under paragraph (1) not less frequently than once each quarter during each fiscal year.
-  - **(3)** The Secretary may not include data relating to risk management activities of the Department in any publication under paragraph (1) or update under paragraph (2).
-  - **(4)** The Secretary shall ensure that the data published under paragraph (1) and updated under paragraph (2) is accessible to the public through the primary Internet website of the Department and the primary Internet website of the military medical treatment facility with respect to which such data applies.
+- **(a)**
+  - **(1)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives each year a report on the Force Health Protection Quality Assurance Program of the Department of Defense. The report shall cover the calendar year preceding the year in which the report is submitted and include the following matters:
+    - **(A)** The results of an audit conducted during the calendar year covered by the report of the extent to which the blood samples required to be obtained as described in section 733(b) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 from members of the armed forces before and after a deployment are stored in the blood serum repository of the Department of Defense.
+    - **(B)** The results of an audit conducted during the calendar year covered by the report of the extent to which the records of the health assessments required under section 1074f of this title for members of the armed forces before and after a deployment are being maintained in the electronic database of the Defense Medical Surveillance System.
+    - **(C)** An analysis of the actions taken by Department of Defense personnel to respond to health concerns expressed by members of the armed forces upon return from a deployment.
+    - **(D)** An analysis of the actions taken by Department of Defense personnel to evaluate or treat members of the armed forces who are confirmed to have been exposed to occupational or environmental hazards deleterious to their health during a deployment.
+  - **(2)** The Secretary of Defense shall act through the Assistant Secretary of Defense for Health Affairs in carrying out this subsection.
+- **(b)** The Secretary of Defense shall issue each year a report on the compliance by the military departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with section 1074f(c) of this title . The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.

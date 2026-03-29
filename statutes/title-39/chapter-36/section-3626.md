@@ -3,9 +3,9 @@ title: "Section 3626 - Reduced rates"
 usc_title: 39
 usc_section: "3626"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "39 U.S.C. § 3626"
-generated_at: "2026-03-29T02:14:53.133Z"
+generated_at: "2026-03-29T17:52:57.916Z"
 ---
 
 # § 3626. Reduced rates
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T02:14:53.133Z"
     - **(A)** In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
     - **(B)** The rates of postage applicable to mail under this paragraph shall be established in accordance with section 3622.
     - **(C)** This paragraph shall not apply with respect to an issue of a publication unless the total paid circulation of such issue outside the county of publication (not counting recipients of copies subject to paragraph (3)) is less than 5,000.
-- **(h)** In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 50 percent of the number of copies of such publication mailed at such rates to subscribers.
+- **(h)** In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
 - **[(i)** Repealed. Pub. L. 103–123, title VII, § 704(a)(3)(A) , Oct. 28, 1993 , 107 Stat. 1269 .]
 - **(j)**
   - **(1)** In the administration of this section, the rates for mail under former section 4452(b) or 4452(c) of this title shall not apply to mail which advertises, promotes, offers, or, for a fee or consideration, recommends, describes, or announces the availability of—

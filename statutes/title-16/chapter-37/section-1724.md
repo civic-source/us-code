@@ -3,9 +3,9 @@ title: "Section 1724 - Conservation centers and program support"
 usc_title: 16
 usc_section: "1724"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 1724"
-generated_at: "2026-03-29T02:11:53.818Z"
+generated_at: "2026-03-29T17:51:56.898Z"
 ---
 
 # § 1724. Conservation centers and program support
@@ -22,4 +22,3 @@ generated_at: "2026-03-29T02:11:53.818Z"
 - **(b)** The Secretary may make arrangements with the Secretary of Defense to have logistical support provided by the Armed Forces to the Corps and any conservation center established under this section, where feasible. Logistical support may include the provision of temporary tent shelters where needed, transportation, and residential supervision.
 - **(c)** The Secretary may make arrangements with the Secretary of Defense to identify military installations and other facilities of the Department of Defense and, in consultation with the adjutant generals of the State National Guards, National Guard facilities that may be used, in whole or in part, by the Corps for training or housing Corps participants.
 - **(d)** The Secretary may provide any services, facilities, equipment, supplies, technical assistance, oversight, monitoring, or evaluations that are appropriate to carry out this subchapter.
-- **(e)** The Secretary may provide to Corps participants who reside in their own homes transportation to and from appropriate conservation project sites.

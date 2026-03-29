@@ -3,9 +3,9 @@ title: "Section 1304 - Judgments, awards, and compromise settlements"
 usc_title: 31
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 1304"
-generated_at: "2026-03-29T02:14:14.047Z"
+generated_at: "2026-03-29T17:52:44.156Z"
 ---
 
 # § 1304. Judgments, awards, and compromise settlements
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:14:14.047Z"
     - **(A)** under section 2414, 2517, 2672, or 2677 of title 28;
     - **(B)** under section 3723 of this title ;
     - **(C)** under a decision of a board of contract appeals; or
-    - **(D)** in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733, 2733a, or 2734 of title 10, section 715 of title 32 , or section 20113 of title 51 .
+    - **(D)** in excess of an amount payable from the appropriations of an agency for a meritorious claim under section 2733 or 2734 of title 10, section 715 of title 32 , or section 20113 of title 51 .
 - **(b)**
   - **(1)** Interest may be paid from the appropriation made by this section—
     - **(A)** on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United States Government, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or
@@ -31,10 +31,3 @@ generated_at: "2026-03-29T02:14:14.047Z"
     - **(D)** the Coast Guard Exchanges; or
     - **(E)** the Exchange Councils of the National Aeronautics and Space Administration.
   - **(2)** The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
-- **(d)** Beginning not later than the date that is 60 days after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and unless the disclosure of such information is otherwise prohibited by law or a court order, the Secretary of the Treasury shall make available to the public on a website, as soon as practicable, but not later than 30 days after the date on which a payment under this section is tendered, the following information with regard to that payment:
-  - **(1)** The name of the specific agency or entity whose actions gave rise to the claim or judgment.
-  - **(2)** The name of the plaintiff or claimant.
-  - **(3)** The name of counsel for the plaintiff or claimant.
-  - **(4)** The amount paid representing principal liability, and any amounts paid representing any ancillary liability, including attorney fees, costs, and interest.
-  - **(5)** A brief description of the facts that gave rise to the claim.
-  - **(6)** The name of the agency that submitted the claim.

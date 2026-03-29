@@ -3,9 +3,9 @@ title: "Section 2025 - Effect of employment on retirement, insurance, and other 
 usc_title: 22
 usc_section: "2025"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 2025"
-generated_at: "2026-03-29T02:12:40.018Z"
+generated_at: "2026-03-29T17:52:10.471Z"
 ---
 
 # § 2025. Effect of employment on retirement, insurance, and other civil service rights and privileges

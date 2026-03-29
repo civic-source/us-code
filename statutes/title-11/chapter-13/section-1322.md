@@ -3,9 +3,9 @@ title: "Section 1322 - Contents of plan"
 usc_title: 11
 usc_section: "1322"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "11 U.S.C. § 1322"
-generated_at: "2026-03-29T02:10:54.352Z"
+generated_at: "2026-03-29T17:51:02.162Z"
 ---
 
 # § 1322. Contents of plan
@@ -34,10 +34,10 @@ generated_at: "2026-03-29T02:10:54.352Z"
   - **(1)** If the current monthly income of the debtor and the debtor’s spouse combined, when multiplied by 12, is not less than—
     - **(A)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
     - **(B)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 1 See Adjustment of Dollar Amounts notes below. per month for each individual in excess of 4,
+    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
   - **(2)** If the current monthly income of the debtor and the debtor’s spouse combined, when multiplied by 12, is less than—
     - **(A)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
     - **(B)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4,
+    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
 - **(e)** Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1325(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 - **(f)** A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute “disposable income” under section 1325.

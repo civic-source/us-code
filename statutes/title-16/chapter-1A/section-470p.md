@@ -1,12 +1,14 @@
 ---
-title: "Section 470p - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 470p - Rights, benefits, and privileges of transferred employees"
 usc_title: 16
 usc_section: "470p"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 470p"
-generated_at: "2026-03-29T02:11:53.563Z"
+generated_at: "2026-03-29T17:51:56.683Z"
 ---
 
-# § 470p. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 470p. Rights, benefits, and privileges of transferred employees
+
+Any employee in the competitive service of the United States transferred to the Council under the provisions of this section shall retain all the rights, benefits, and privileges pertaining thereto held prior to such transfer.
 

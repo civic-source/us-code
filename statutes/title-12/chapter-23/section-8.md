@@ -3,9 +3,9 @@ title: "Section 8 - Standards for qualified loans"
 usc_title: 12
 usc_section: "8"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-29T02:11:21.139Z"
+generated_at: "2026-03-29T17:51:13.180Z"
 ---
 
 # § 2279aa–8. Standards for qualified loans
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:11:21.139Z"
   - **(1)** The Corporation shall establish underwriting, security appraisal, and repayment standards for qualified loans taking into account the nature, risk profile, and other differences between different categories of qualified loans.
   - **(2)** The standards shall be subject to the authorities of the Farm Credit Administration under section 2279aa–11 of this title .
   - **(3)** In establishing standards for qualified loans, the Corporation shall confine corporate operations, so far as practicable, to mortgage loans that are deemed by the Board to be of such quality so as to meet, substantially and generally, the purchase standards imposed by private institutional mortgage investors.
-- **(b)** To further the purpose of this subchapter to provide a new source of long-term fixed rate financing to assist farmers and ranchers to purchase agricultural real estate, the standards established by the Board pursuant to subsection (a) with respect to loans secured by agricultural real estate shall, at a minimum—
+- **(b)** To further the purpose of this subchapter to provide a new source of long-term fixed rate financing to assist farmers and ranchers to purchase agricultural real estate, the standards established by the Board pursuant to subsection (a) of this section with respect to loans secured by agricultural real estate shall, at a minimum—
   - **(1)** provide that no agricultural mortgage loan with a loan-to-value ratio in excess of 80 percent may be treated as a qualified loan;
   - **(2)** require each borrower to demonstrate sufficient cash-flow to adequately service the agricultural mortgage loan;
   - **(3)** contain sufficient documentation standards;
@@ -24,5 +24,5 @@ generated_at: "2026-03-29T02:11:21.139Z"
   - **(7)** in establishing the value of agricultural real estate, consider the purpose for which the real estate is taxed.
 - **(c)**
   - **(1)** A loan secured by agricultural real estate may not be treated as a qualified loan if the principal amount of such loan exceeds $2,500,000, adjusted for inflation, except as provided in paragraph (2).
-  - **(2)** Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 2,000 acres.
-- **(d)** The standards established under subsection (a) shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
+  - **(2)** Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 1,000 acres.
+- **(d)** The standards established under subsection (a) of this section shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.

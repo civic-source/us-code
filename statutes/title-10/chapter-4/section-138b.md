@@ -1,12 +1,16 @@
 ---
-title: "Section 138b - Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4) , Dec. 19, 2014 , 128 Stat. 3467 ]"
+title: "Section 138b - Assistant Secretary of Defense for Research and Engineering"
 usc_title: 10
 usc_section: "138b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 138b"
-generated_at: "2026-03-29T02:10:44.824Z"
+generated_at: "2026-03-29T17:50:56.924Z"
 ---
 
-# [§§ 138a, 138b. Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4) , Dec. 19, 2014 , 128 Stat. 3467 ]
+# § 138b. Assistant Secretary of Defense for Research and Engineering
 
+- **(a)** Except as otherwise prescribed by the Secretary of Defense, the Assistant Secretary of Defense for Research and Engineering shall perform such duties relating to research and engineering as the Under Secretary of Defense for Acquisition, Technology, and Logistics may prescribe.
+- **(b)**
+  - **(1)** The Assistant Secretary of Defense for Research and Engineering, in consultation with the Director of Developmental Test and Evaluation, shall periodically review and assess the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense and report on the findings of such reviews and assessments to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+  - **(2)** The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall submit to the Secretary of Defense and to the congressional defense committees by March 1 of each year a report on the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense.

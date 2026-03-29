@@ -3,9 +3,9 @@ title: "Section 1615 - Requirements relating to provision of benefits based on c
 usc_title: 8
 usc_section: "1615"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1615"
-generated_at: "2026-03-29T02:10:21.487Z"
+generated_at: "2026-03-29T17:50:41.394Z"
 ---
 
 # § 1615. Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts

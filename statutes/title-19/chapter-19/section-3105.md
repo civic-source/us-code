@@ -3,18 +3,18 @@ title: "Section 3105 - Actions to be taken if no agreement obtained"
 usc_title: 19
 usc_section: "3105"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3105"
-generated_at: "2026-03-29T02:12:08.725Z"
+generated_at: "2026-03-29T17:51:51.318Z"
 ---
 
 # § 3105. Actions to be taken if no agreement obtained
 
 - **(a)**
-  - **(1)** If the President is unable, before the close of the negotiating period, to enter into an agreement under subtitle A with any priority foreign country identified under section 3103 of this title which achieves the general negotiating objectives described in section 3104(b) of this title as defined by the specific objectives established by the President for that country, the President shall take whatever actions authorized under subsection (b) that are appropriate and most likely to achieve such general negotiating objectives.
+  - **(1)** If the President is unable, before the close of the negotiating period, to enter into an agreement under subtitle A with any priority foreign country identified under section 3103 of this title which achieves the general negotiating objectives described in section 3104(b) of this title as defined by the specific objectives established by the President for that country, the President shall take whatever actions authorized under subsection (b) of this section that are appropriate and most likely to achieve such general negotiating objectives.
   - **(2)** In taking actions under paragraph (1), the President shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the President determines that actions against other economic sectors would be more effective in achieving the general negotiating objectives referred to in paragraph (1).
 - **(b)**
-  - **(1)** The President is authorized to take any of the following actions under subsection (a) with respect to any priority foreign country:
+  - **(1)** The President is authorized to take any of the following actions under subsection (a) of this section with respect to any priority foreign country:
     - **(A)** termination, withdrawal, or suspension of any portion of any trade agreement entered into with such country under—
       - **(i)** the Trade Act of 1974 [ 19 U.S.C. 2101 et seq.],
       - **(ii)** section 1821 of this title , or
@@ -35,5 +35,5 @@ generated_at: "2026-03-29T02:12:08.725Z"
     - **(B)** By no later than the date that is 15 days after the date on which the President extends the negotiating period with respect to any priority foreign country, the President shall submit to appropriate committees of the Congress a report on the status of negotiations with such country that includes—
       - **(i)** a finding by the President that substantial progress is being made in negotiations with such country, and
       - **(ii)** a statement detailing the reasons why an extension of such negotiating period is necessary.
-- **(d)** The President may modify or terminate any action taken under subsection (a) if, after taking into consideration the factors described in section 3103(b) of this title , the President determines that changed circumstances warrant such modification or termination.
-- **(e)** The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) or of the modification or termination of any such action under subsection (d).
+- **(d)** The President may modify or terminate any action taken under subsection (a) of this section if, after taking into consideration the factors described in section 3103(b) of this title , the President determines that changed circumstances warrant such modification or termination.
+- **(e)** The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) of this section or of the modification or termination of any such action under subsection (d) of this section.

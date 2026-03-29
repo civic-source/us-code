@@ -3,9 +3,9 @@ title: "Section 9402 - Definitions"
 usc_title: 20
 usc_section: "9402"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 9402"
-generated_at: "2026-03-29T02:12:17.518Z"
+generated_at: "2026-03-29T17:51:48.694Z"
 ---
 
 # § 9402. Definitions
@@ -18,7 +18,7 @@ In this chapter:
   - **(4)** The term “early learning program” means—
     - **(A)** a program of services or activities that helps parents, caregivers, and child care providers incorporate early learning into the daily lives of young children; or
     - **(B)** a program that directly provides early learning to young children.
-  - **(5)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(5)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
   - **(6)** The term “Local Council” means a Local Council established or designated under section 9413(a) of this title that serves one or more localities.
   - **(7)** The term “locality” means a city, county, borough, township, or area served by another general purpose unit of local government, an Indian tribe, a Regional Corporation, or a Native Hawaiian entity.
   - **(8)** The term “parent” means a biological parent, an adoptive parent, a stepparent, a foster parent, or a legal guardian of, or a person standing in loco parentis to, a child.

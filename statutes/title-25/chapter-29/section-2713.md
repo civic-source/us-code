@@ -3,9 +3,9 @@ title: "Section 2713 - Civil penalties"
 usc_title: 25
 usc_section: "2713"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 2713"
-generated_at: "2026-03-29T02:13:20.951Z"
+generated_at: "2026-03-29T17:52:06.133Z"
 ---
 
 # § 2713. Civil penalties
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:13:20.951Z"
 - **(a)**
   - **(1)** Subject to such regulations as may be prescribed by the Commission, the Chairman shall have authority to levy and collect appropriate civil fines, not to exceed $25,000 per violation, against the tribal operator of an Indian game or a management contractor engaged in gaming for any violation of any provision of this chapter, any regulation prescribed by the Commission pursuant to this chapter, or tribal regulations, ordinances, or resolutions approved under section 2710 or 2712 of this title.
   - **(2)** The Commission shall, by regulation, provide an opportunity for an appeal and hearing before the Commission on fines levied and collected by the Chairman.
-  - **(3)** Whenever the Commission has reason to believe that the tribal operator of an Indian game or a management contractor is engaged in activities regulated by this chapter, by regulations prescribed under this chapter, or by tribal regulations, ordinances, or resolutions, approved under section 2710 or 2712 of this title, that may result in the imposition of a fine under subsection (a)(1), the permanent closure of such game, or the modification or termination of any management contract, the Commission shall provide such tribal operator or management contractor with a written complaint stating the acts or omissions which form the basis for such belief and the action or choice of action being considered by the Commission. The allegation shall be set forth in common and concise language and must specify the statutory or regulatory provisions alleged to have been violated, but may not consist merely of allegations stated in statutory or regulatory language.
+  - **(3)** Whenever the Commission has reason to believe that the tribal operator of an Indian game or a management contractor is engaged in activities regulated by this chapter, by regulations prescribed under this chapter, or by tribal regulations, ordinances, or resolutions, approved under section 2710 or 2712 of this title, that may result in the imposition of a fine under subsection (a)(1) of this section, the permanent closure of such game, or the modification or termination of any management contract, the Commission shall provide such tribal operator or management contractor with a written complaint stating the acts or omissions which form the basis for such belief and the action or choice of action being considered by the Commission. The allegation shall be set forth in common and concise language and must specify the statutory or regulatory provisions alleged to have been violated, but may not consist merely of allegations stated in statutory or regulatory language.
 - **(b)**
   - **(1)** The Chairman shall have power to order temporary closure of an Indian game for substantial violation of the provisions of this chapter, of regulations prescribed by the Commission pursuant to this chapter, or of tribal regulations, ordinances, or resolutions approved under section 2710 or 2712 of this title.
   - **(2)** Not later than thirty days after the issuance by the Chairman of an order of temporary closure, the Indian tribe or management contractor involved shall have a right to a hearing before the Commission to determine whether such order should be made permanent or dissolved. Not later than sixty days following such hearing, the Commission shall, by a vote of not less than two of its members, decide whether to order a permanent closure of the gaming operation.

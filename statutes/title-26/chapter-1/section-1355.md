@@ -3,9 +3,9 @@ title: "Section 1355 - Definitions and special rules"
 usc_title: 26
 usc_section: "1355"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1355"
-generated_at: "2026-03-29T02:14:01.134Z"
+generated_at: "2026-03-29T17:52:39.369Z"
 ---
 
 # § 1355. Definitions and special rules
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T02:14:01.134Z"
     - **(A)** that it temporarily operates or has operated in the United States domestic trade a qualifying vessel which had been used in the United States foreign trade, and
     - **(B)** its intention to resume operation of the vessel in the United States foreign trade.
   - **(2)** Notice shall be deemed timely if given not later than the due date (including extensions) for the corporation’s tax return for the taxable year in which the temporary cessation begins.
-  - **(3)** The period of temporary use under paragraph (1) continues until the earlier of the date on which—
+  - **(3)** The period of temporary use under paragraph (1) continues until the earlier of the date of 1 1 So in original. which—
     - **(A)** the electing corporation abandons its intention to resume operations of the vessel in the United States foreign trade, or
     - **(B)** the electing corporation resumes operation of the vessel in the United States foreign trade.
   - **(4)** Paragraph (1) shall not apply to any qualifying vessel which is operated in the United States domestic trade for more than 30 days during the taxable year.

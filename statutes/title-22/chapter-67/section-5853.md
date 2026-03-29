@@ -3,9 +3,9 @@ title: "Section 5853 - Nonproliferation and disarmament activities in independen
 usc_title: 22
 usc_section: "5853"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 5853"
-generated_at: "2026-03-29T02:12:40.366Z"
+generated_at: "2026-03-29T17:52:10.648Z"
 ---
 
 # § 5853. Nonproliferation and disarmament activities in independent states
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:12:40.366Z"
   - **(4)** by establishing programs for preventing diversion of weapons-related scientific and technical expertise of the independent states to terrorist groups or to third countries;
   - **(5)** by establishing science and technology centers in the independent states for the purpose of engaging weapons scientists and engineers of the independent states (in particular those who were previously involved in the design and production of nuclear, biological, and chemical weapons) in productive, nonmilitary undertakings; and
   - **(6)** by establishing programs for facilitating the conversion of military technologies and capabilities and defense industries of the former Soviet Union into civilian activities.
-- **(b)** Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
+- **(b)** Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
 - **(c)**
-  - **(1)** In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
-  - **(2)** Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 1 1 See References in Text note below. of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 900 et seq.].
+  - **(1)** In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
+  - **(2)** Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 1 1 See References in Text note below. of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 900 et seq.].

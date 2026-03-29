@@ -1,12 +1,14 @@
 ---
-title: "Section 1071 - Omitted"
+title: "Section 1071 - Per capita payments to enrolled tribal members; tax exemption"
 usc_title: 25
 usc_section: "1071"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 1071"
-generated_at: "2026-03-29T02:13:20.871Z"
+generated_at: "2026-03-29T17:52:06.036Z"
 ---
 
-# § 1071. Omitted
+# § 1071. Per capita payments to enrolled tribal members; tax exemption
+
+The funds on deposit in the Treasury of the United States to the credit of the Colville Tribe, San Poeils-Nespelem Tribe, Okanogan Tribe, Methow Tribe, and Lake Tribe (certain constituent groups of the Confederated Tribes of the Colville Reservation) that were appropriated to pay a judgment of the Indian Claims Commission dated March 1, 1960 , in docket numbered 181, and the funds which may be deposited in the Treasury of the United States to the credit of the said constituent groups or any other constituent groups of the Confederated Tribes of the Colville Reservation to pay any judgments arising out of claims presently pending before the Indian Claims Commission and the interest on said judgments, after payment of attorney fees and expenses, shall be credited to the account of the Confederated Tribes of the Colville Reservation and the Secretary of the Interior is authorized and directed to make a per capita distribution from such funds of $350, to the extent that such funds are available, to each enrolled member of the Confederated Tribes of the Colville Reservation. Any part of such funds distributed per capita to the members of the tribes shall not be subject to Federal or State income tax.
 

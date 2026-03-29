@@ -3,9 +3,9 @@ title: "Section 76 - Standards and procedures; establishment, amendment, and rev
 usc_title: 7
 usc_section: "76"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 76"
-generated_at: "2026-03-29T02:10:16.646Z"
+generated_at: "2026-03-29T17:50:48.447Z"
 ---
 
 # § 76. Standards and procedures; establishment, amendment, and revocation
@@ -29,6 +29,6 @@ generated_at: "2026-03-29T02:10:16.646Z"
       - **(ii)** Following the phase-in period referred to in clause (i)(III), subsequent revision of cleanliness requirements shall be conducted consistent with the schedule of the Secretary for reviewing grain standards.
     - **(C)** If the Secretary determines to establish requirements for cleanliness characteristics under this section, the Secretary shall ensure that such requirements are fully implemented not later than 6 years after November 28, 1990 .
 - **(c)**
-  - **(1)** In establishing standards under subsection (a) for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
+  - **(1)** In establishing standards under subsection (a) of this section for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
   - **(2)** In establishing factors and factor limits under paragraph (1), the Secretary shall provide for notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
 - **(d)** If the Government of any country requests that moisture content remain a criterion in the official grade designations of grain, such criterion shall be included in determining the official grade designation of grain shipped to such country.

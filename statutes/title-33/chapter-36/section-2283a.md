@@ -3,9 +3,9 @@ title: "Section 2283a - Status report"
 usc_title: 33
 usc_section: "2283a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2283a"
-generated_at: "2026-03-29T02:14:18.616Z"
+generated_at: "2026-03-29T17:52:45.984Z"
 ---
 
 # § 2283a. Status report
@@ -15,8 +15,4 @@ generated_at: "2026-03-29T02:14:18.616Z"
     - **(A)** all projects that are under construction as of the date of the report;
     - **(B)** all projects for which the President requests funding for the next fiscal year; and
     - **(C)** all projects that have undergone or completed construction, but have not completed the mitigation required under section 2283 of this title .
-  - **(3)** In reporting the status of all projects included in the report, the Secretary shall—
-    - **(A)** use a uniform methodology for determining the status of all projects included in the report;
-    - **(B)** use a methodology that describes both a qualitative and quantitative status for all projects in the report; and
-    - **(C)** provide specific dates for participation in the consultations required under section 2283(d)(4)(B) of this title .
-  - **(4)** The Secretary shall make information contained in the status report available to the public, including on the Internet.
+  - **(3)** The Secretary shall make information contained in the status report available to the public, including on the Internet.

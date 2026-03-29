@@ -3,9 +3,9 @@ title: "Section 2611 - Definitions"
 usc_title: 29
 usc_section: "2611"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 2611"
-generated_at: "2026-03-29T02:14:09.491Z"
+generated_at: "2026-03-29T17:52:18.891Z"
 ---
 
 # § 2611. Definitions
@@ -29,7 +29,6 @@ As used in this subchapter:
       - **(iii)** In this subparagraph, the term “applicable monthly guarantee” means—
         - **(I)** for an employee described in clause (i) other than an employee on reserve status, the minimum number of hours for which an employer has agreed to schedule such employee for any given month; and
         - **(II)** for an employee described in clause (i) who is on reserve status, the number of hours for which an employer has agreed to pay such employee on reserve status for any given month,
-    - **(E)** In the case of an employee of the Government Accountability Office, the requirements of subparagraph (A) shall not apply with respect to leave under section 2612(a)(1)(A) or (B) of this title.
   - **(3)** The terms “employ”, “employee”, and “State” have the same meanings given such terms in subsections (c), (e), and (g) of section 203 of this title .
   - **(4)**
     - **(A)** The term “employer”—

@@ -3,9 +3,9 @@ title: "Section 7253 - Composition"
 usc_title: 38
 usc_section: "7253"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-29T02:14:50.465Z"
+generated_at: "2026-03-29T17:52:53.818Z"
 ---
 
 # § 7253. Composition
@@ -15,12 +15,9 @@ generated_at: "2026-03-29T02:14:50.465Z"
 - **(c)** The term of office of the judges of the Court of Appeals for Veterans Claims shall be 15 years. A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.
 - **(d)**
   - **(1)** The chief judge of the Court is the head of the Court. The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
-    - **(A)** have served for one or more years as judges of the Court;
-    - **(B)** have at least 3 years remaining in term of office; and
-    - **(C)** have not previously served as chief judge.
-  - **(2)**
-    - **(A)** In any case in which there is no judge of the Court in regular active service who meets the requirements under paragraph (1), the judge of the Court in regular active service who is senior in commission and meets subparagraph (A) or (B) and subparagraph (C) of paragraph (1) shall act as the chief judge.
-    - **(B)** In any case under subparagraph (A) of this paragraph in which there is no judge of the Court in regular active service who meets subparagraph (A) or (B) and subparagraph (C) of paragraph (1), the judge of the Court in regular active service who is senior in commission and meets subparagraph (C) shall act as the chief judge.
+    - **(A)** have served for one or more years as judges of the Court; and
+    - **(B)** have not previously served as chief judge.
+  - **(2)** In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.
   - **(3)** Except as provided in paragraph (4), a judge of the Court shall serve as the chief judge under paragraph (1) for a term of five years or until the judge becomes age 70, whichever occurs first. If no other judge is eligible under paragraph (1) to serve as chief judge upon the expiration of that term, that judge shall continue to serve as chief judge until another judge becomes eligible under that paragraph to serve as chief judge.
   - **(4)**
     - **(A)** The term of a chief judge shall be terminated before the end of the term prescribed by paragraph (3) if—
@@ -50,7 +47,5 @@ generated_at: "2026-03-29T02:14:50.465Z"
   - **(4)** A judge of the Court as of December 27, 2001 , who was appointed to the Court before January 1, 1991 , may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
   - **(5)** Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997 . For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 - **(i)**
-  - **(1)**
-    - **(A)** Subject to paragraph (2), effective during the period beginning on December 31, 2009 , and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by two.
-    - **(B)** Subject to paragraph (2), effective as of the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by three.
-  - **(2)** Effective as of January 1, 2028 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+  - **(1)** Subject to paragraph (2), effective as of December 31, 2009 , the authorized number of judges of the Court specified in subsection (a) is increased by two.
+  - **(2)** Effective as of January 1, 2013 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).

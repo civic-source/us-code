@@ -3,14 +3,14 @@ title: "Section 4940 - Excise tax based on investment income"
 usc_title: 26
 usc_section: "4940"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 4940"
-generated_at: "2026-03-29T02:14:01.224Z"
+generated_at: "2026-03-29T17:52:39.460Z"
 ---
 
 # § 4940. Excise tax based on investment income
 
-- **(a)** There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to 1.39 percent of the net investment income of such foundation for the taxable year.
+- **(a)** There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on its activities, a tax equal to 2 percent of the net investment income of such foundation for the taxable year.
 - **(b)** There is hereby imposed on each private foundation which is not exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to—
   - **(1)** the amount (if any) by which the sum of (A) the tax imposed under subsection (a) (computed as if such subsection applied to such private foundation for the taxable year), plus (B) the amount of the tax which would have been imposed under section 511 for the taxable year if such private foundation had been exempt from taxation under section 501(a), exceeds
   - **(2)** the tax imposed under subtitle A on such private foundation for the taxable year.
@@ -49,3 +49,25 @@ generated_at: "2026-03-29T02:14:01.224Z"
     - **(C)** The term “substantial contributor” means a person who is described in section 507(d)(2).
     - **(D)** The term “family” has the meaning given to such term by section 4946(d).
     - **(E)** The rules of paragraphs (3) and (4) of section 4946(a) shall apply for purposes of subparagraph (B)(ii).
+- **(e)**
+  - **(1)** In the case of any private foundation which meets the requirements of paragraph (2) for any taxable year, subsection (a) shall be applied with respect to such taxable year by substituting “1 percent” for “2 percent”.
+  - **(2)** A private foundation meets the requirements of this paragraph for any taxable year if—
+    - **(A)** the amount of the qualifying distributions made by the private foundation during such taxable year equals or exceeds the sum of—
+      - **(i)** an amount equal to the assets of such foundation for such taxable year multiplied by the average percentage payout for the base period, plus
+      - **(ii)** 1 percent of the net investment income of such foundation for such taxable year, and
+    - **(B)** such private foundation was not liable for tax under section 4942 with respect to any year in the base period.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The average percentage payout for the base period is the average of the percentage payouts for taxable years in the base period.
+    - **(B)** The term “percentage payout” means, with respect to any taxable year, the percentage determined by dividing—
+      - **(i)** the amount of the qualifying distributions made by the private foundation during the taxable year, by
+      - **(ii)** the assets of the private foundation for the taxable year.
+    - **(C)** For purposes of this paragraph, if the amount of the tax imposed by this section for any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
+  - **(4)** For purposes of this subsection—
+    - **(A)** The term “base period” means, with respect to any taxable year, the 5 taxable years preceding such taxable year.
+    - **(B)** If an organization has not been a private foundation throughout the base period referred to in subparagraph (A), the base period shall consist of the taxable years during which such foundation has been in existence.
+  - **(5)** For purposes of this subsection—
+    - **(A)** The term “qualifying distribution” has the meaning given such term by section 4942(g).
+    - **(B)** The assets of a private foundation for any taxable year shall be treated as equal to the excess determined under section 4942(e)(1).
+  - **(6)** In the case of—
+    - **(A)** a private foundation which is a successor to another private foundation, this subsection shall be applied with respect to such successor by taking into account the experience of such other foundation, and
+    - **(B)** a merger, reorganization, or division of a private foundation, this subsection shall be applied under regulations prescribed by the Secretary.

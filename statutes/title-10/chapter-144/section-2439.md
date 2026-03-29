@@ -1,12 +1,12 @@
 ---
-title: "Section 2439 - Renumbered § 4236]"
+title: "Section 2439 - Repealed. Pub. L. 103–355, title III, § 3007(a) , Oct. 13, 1994 , 108 Stat. 3331 ]"
 usc_title: 10
 usc_section: "2439"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2439"
-generated_at: "2026-03-29T02:10:45.102Z"
+generated_at: "2026-03-29T17:50:57.125Z"
 ---
 
-# [§ 2439. Renumbered § 4236]
+# [§ 2439. Repealed. Pub. L. 103–355, title III, § 3007(a) , Oct. 13, 1994 , 108 Stat. 3331 ]
 

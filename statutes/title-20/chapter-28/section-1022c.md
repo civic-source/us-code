@@ -3,9 +3,9 @@ title: "Section 1022c - Accountability and evaluation"
 usc_title: 20
 usc_section: "1022c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1022c"
-generated_at: "2026-03-29T02:12:17.186Z"
+generated_at: "2026-03-29T17:51:48.326Z"
 ---
 
 # § 1022c. Accountability and evaluation
@@ -15,11 +15,11 @@ generated_at: "2026-03-29T02:12:17.186Z"
   - **(2)** teacher retention in the first three years of a teacher’s career;
   - **(3)** improvement in the pass rates and scaled scores for initial State certification or licensure of teachers; and
   - **(4)**
-    - **(A)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , hired by the high-need local educational agency participating in the eligible partnership;
-    - **(B)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , hired by the high-need local educational agency who are members of underrepresented groups;
-    - **(C)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
-    - **(D)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
-    - **(E)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
+    - **(A)** the percentage of highly qualified teachers hired by the high-need local educational agency participating in the eligible partnership;
+    - **(B)** the percentage of highly qualified teachers hired by the high-need local educational agency who are members of underrepresented groups;
+    - **(C)** the percentage of highly qualified teachers hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
+    - **(D)** the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
+    - **(E)** the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
     - **(F)** as applicable, the percentage of early childhood education program classes in the geographic area served by the eligible partnership taught by early childhood educators who are highly competent; and
     - **(G)** as applicable, the percentage of teachers trained—
       - **(i)** to integrate technology effectively into curricula and instruction, including technology consistent with the principles of universal design for learning; and

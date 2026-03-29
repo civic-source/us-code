@@ -1,12 +1,26 @@
 ---
-title: "Section 2378 - Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(3)(A) , Dec. 23, 2016 , 130 Stat. 2284 ]"
+title: "Section 2378 - Procurement of copier paper containing specified percentages of post-consumer recycled content"
 usc_title: 10
 usc_section: "2378"
 chapter: 140
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2378"
-generated_at: "2026-03-29T02:10:45.099Z"
+generated_at: "2026-03-29T17:50:57.116Z"
 ---
 
-# [§ 2378. Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(3)(A) , Dec. 23, 2016 , 130 Stat. 2284 ]
+# § 2378. Procurement of copier paper containing specified percentages of post-consumer recycled content
 
+- **(a)**
+  - **(1)** Except as provided in subsections (b) and (c), a department or agency of the Department of Defense may not procure copying machine paper after the applicable date specified in paragraph (2) unless the percentage of post-consumer recycled content of the paper meets the percentage then in effect under such paragraph.
+  - **(2)** The percentage of post-consumer recycled content of paper required under paragraph (1) is as follows:
+    - **(A)** 20 percent as of January 1, 1998 .
+    - **(B)** 30 percent as of January 1, 1999 .
+    - **(C)** 50 percent as of January 1, 2004 .
+- **(b)** A department or agency of the Department of Defense is not required to procure copying machine paper containing a percentage of post-consumer recycled content that meets the applicable requirement in subsection (a) if the Secretary concerned determines that one or more of the following circumstances apply with respect to that procurement:
+  - **(1)** The cost of procuring copying machine paper satisfying the applicable requirement significantly exceeds the cost of procuring copying machine paper containing a percentage of post-consumer recycled content that does not meet such requirement. The Secretary concerned shall establish the cost differential to be applied under this paragraph.
+  - **(2)** Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement is not reasonably available within a reasonable period of time.
+  - **(3)** Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement does not meet performance standards of the department or agency for copying machine paper.
+- **(c)**
+  - **(1)** In the case of the requirement that will take effect on January 1, 2004 , pursuant to subsection (a)(2)(C), the requirement shall not take effect with respect to a military department or Defense Agency if the Secretary of Defense determines that the department or agency will be unable to meet such requirement by that date.
+  - **(2)** The Secretary shall submit to Congress written notice of any determination made under paragraph (1) and the reasons for the determination. The Secretary shall submit such notice, if at all, not later than January 1, 2003 .
+- **(d)** In this section, the term “Secretary concerned” means the Secretary of each military department and the Secretary of Defense with respect to the Defense Agencies.

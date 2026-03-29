@@ -3,9 +3,9 @@ title: "Section 1103 - Establishment of John C. Stennis Center for Public Servic
 usc_title: 2
 usc_section: "1103"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 1103"
-generated_at: "2026-03-29T02:09:53.709Z"
+generated_at: "2026-03-29T17:50:24.068Z"
 ---
 
 # § 1103. Establishment of John C. Stennis Center for Public Service Training and Development
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:09:53.709Z"
   - **(3)** Two members to be appointed by the Speaker of the House of Representatives.
   - **(4)** One member to be appointed by the minority leader of the House of Representatives.
   - **(5)** The Executive Director of the Center, who shall serve as an ex officio member of the Board.
-- **(c)** The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) shall be six years, except that—
+- **(c)** The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) of this section shall be six years, except that—
   - **(1)** the members first appointed under paragraphs (1) and (2) shall serve, as designated by the majority leader of the Senate, one for a term of two years, one for a term of four years, and one for a term of six years;
   - **(2)** the members first appointed under paragraphs (3) and (4) shall serve, as designated by the Speaker of the House of Representatives, one for a term of two years, one for a term of four years, and one for a term of six years; and
   - **(3)** a member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made.

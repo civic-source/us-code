@@ -3,9 +3,9 @@ title: "Section 6707 - Failure to furnish information regarding reportable trans
 usc_title: 26
 usc_section: "6707"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6707"
-generated_at: "2026-03-29T02:14:01.367Z"
+generated_at: "2026-03-29T17:52:39.592Z"
 ---
 
 # § 6707. Failure to furnish information regarding reportable transactions

@@ -3,9 +3,9 @@ title: "Section 992 - Requirements of a domestic international sales corporation
 usc_title: 26
 usc_section: "992"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 992"
-generated_at: "2026-03-29T02:14:01.095Z"
+generated_at: "2026-03-29T17:52:39.338Z"
 ---
 
 # § 992. Requirements of a domestic international sales corporation
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T02:14:01.095Z"
     - **(C)** if neither of such conditions is satisfied, the sum of the amounts required by subparagraphs (A) and (B).
   - **(2)** The conditions under paragraph (1) shall be deemed satisfied in the case of a distribution made under such paragraph—
     - **(A)** if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failure to make such distribution prior to the date on which made, are due to reasonable cause; and
-    - **(B)** the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th month after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 4½ percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
+    - **(B)** the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th months after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 4½ percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
   - **(3)** A distribution made on or before the 15th day of the 9th month after the close of the taxable year shall be deemed for reasonable cause for purposes of paragraph (2)(A) if—
     - **(A)** at least 70 percent of the gross receipts of such corporation for such taxable year consist of qualified export receipts, and
     - **(B)** the adjusted basis of the qualified export assets held by the corporation on the last day of each month of the taxable year equals or exceeds 70 percent of the sum of the adjusted basis of all assets held by the corporation on such day.
@@ -44,8 +44,9 @@ generated_at: "2026-03-29T02:14:01.095Z"
   - **(2)** a personal holding company (as defined in section 542),
   - **(3)** a financial institution to which section 581 applies,
   - **(4)** an insurance company subject to the tax imposed by subchapter L,
-  - **(5)** a regulated investment company (as defined in section 851(a)), or
-  - **(6)** an S corporation.
+  - **(5)** a regulated investment company (as defined in section 851(a)),
+  - **(6)** a China Trade Act corporation receiving the special deduction provided in section 941(a), 1 1 See References in Text note below. or
+  - **(7)** an S corporation.
 - **(e)** If—
   - **(1)** a corporation (hereinafter in this subsection referred to as “subsidiary”) was established to take advantage of the provisions of this part, and
   - **(2)** a second corporation (hereinafter in this subsection referred to as “parent”) throughout the taxable year owns directly at least 80 percent of the stock of the subsidiary,

@@ -3,9 +3,9 @@ title: "Section 6303 - Using procurement contracts"
 usc_title: 31
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "31 U.S.C. § 6303"
-generated_at: "2026-03-29T02:14:14.109Z"
+generated_at: "2026-03-29T17:52:44.195Z"
 ---
 
 # § 6303. Using procurement contracts

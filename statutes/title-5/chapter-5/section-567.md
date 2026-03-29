@@ -3,9 +3,9 @@ title: "Section 567 - Termination of committee"
 usc_title: 5
 usc_section: "567"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 567"
-generated_at: "2026-03-29T02:10:01.786Z"
+generated_at: "2026-03-29T17:50:36.433Z"
 ---
 
 # § 567. Termination of committee

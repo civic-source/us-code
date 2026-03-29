@@ -3,16 +3,16 @@ title: "Section 47 - Rehabilitation credit"
 usc_title: 26
 usc_section: "47"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 47"
-generated_at: "2026-03-29T02:14:00.758Z"
+generated_at: "2026-03-29T17:52:39.101Z"
 ---
 
 # § 47. Rehabilitation credit
 
-- **(a)**
-  - **(1)** For purposes of section 46, for any taxable year during the 5-year period beginning in the taxable year in which a qualified rehabilitated building is placed in service, the rehabilitation credit for such year is an amount equal to the ratable share for such year.
-  - **(2)** For purposes of paragraph (1), the ratable share for any taxable year during the period described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.
+- **(a)** For purposes of section 46, the rehabilitation credit for any taxable year is the sum of—
+  - **(1)** 10 percent of the qualified rehabilitation expenditures with respect to any qualified rehabilitated building other than a certified historic structure, and
+  - **(2)** 20 percent of the qualified rehabilitation expenditures with respect to any certified historic structure.
 - **(b)**
   - **(1)** Qualified rehabilitation expenditures with respect to any qualified rehabilitated building shall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.
   - **(2)** The amount which would (but for this paragraph) be taken into account under paragraph (1) with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection (d) by the taxpayer or a predecessor of the taxpayer (or, in the case of a sale and leaseback described in section 50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section 50(a).
@@ -21,15 +21,19 @@ generated_at: "2026-03-29T02:14:00.758Z"
     - **(A)** The term “qualified rehabilitated building” means any building (and its structural components) if—
       - **(i)** such building has been substantially rehabilitated,
       - **(ii)** such building was placed in service before the beginning of the rehabilitation,
-      - **(iii)** such building is a certified historic structure, and
+      - **(iii)** in the case of any building other than a certified historic structure, in the rehabilitation process—
+        - **(I)** 50 percent or more of the existing external walls of such building are retained in place as external walls,
+        - **(II)** 75 percent or more of the existing external walls of such building are retained in place as internal or external walls, and
+        - **(III)** 75 percent or more of the existing internal structural framework of such building is retained in place, and
       - **(iv)** depreciation (or amortization in lieu of depreciation) is allowable with respect to such building.
-    - **(B)**
+    - **(B)** In the case of a building other than a certified historic structure, a building shall not be a qualified rehabilitated building unless the building was first placed in service before 1936.
+    - **(C)**
       - **(i)** For purposes of subparagraph (A)(i), a building shall be treated as having been substantially rehabilitated only if the qualified rehabilitation expenditures during the 24-month period selected by the taxpayer (at the time and in the manner prescribed by regulation) and ending with or within the taxable year exceed the greater of—
         - **(I)** the adjusted basis of such building (and its structural components), or
         - **(II)** $5,000.
       - **(ii)** In the case of any rehabilitation which may reasonably be expected to be completed in phases set forth in architectural plans and specifications completed before the rehabilitation begins, clause (i) shall be applied by substituting “60-month period” for “24-month period”.
       - **(iii)** The Secretary shall prescribe by regulation rules for applying this subparagraph to lessees.
-    - **(C)** Rehabilitation includes reconstruction.
+    - **(D)** Rehabilitation includes reconstruction.
   - **(2)**
     - **(A)** The term “qualified rehabilitation expenditure” means any amount properly chargeable to capital account—
       - **(i)** for property for which depreciation is allowable under section 168 and which is—
@@ -42,7 +46,10 @@ generated_at: "2026-03-29T02:14:00.758Z"
       - **(i)** Any expenditure with respect to which the taxpayer does not use the straight line method over a recovery period determined under subsection (c) or (g) of section 168. The preceding sentence shall not apply to any expenditure to the extent the alternative depreciation system of section 168(g) applies to such expenditure by reason of subparagraph (B) or (C) of section 168(g)(1).
       - **(ii)** The cost of acquiring any building or interest therein.
       - **(iii)** Any expenditure attributable to the enlargement of an existing building.
-      - **(iv)** Any expenditure attributable to the rehabilitation of a qualified rehabilitated building unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)).
+      - **(iv)** Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
+        - **(I)** such building was not a certified historic structure,
+        - **(II)** the Secretary of the Interior certified to the Secretary that such building is not of historic significance to the district, and
+        - **(III)** if the certification referred to in subclause (II) occurs after the beginning of the rehabilitation of such building, the taxpayer certifies to the Secretary that, at the beginning of such rehabilitation, he in good faith was not aware of the requirements of subclause (II).
       - **(v)**
         - **(I)** Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h), except that “50 percent” shall be substituted for “35 percent” in paragraph (1)(B)(iii) thereof).
         - **(II)** This clause shall not apply for purposes of determining under paragraph (1)(C) whether a building has been substantially rehabilitated.

@@ -3,9 +3,9 @@ title: "Section 1594 - Seizure of conveyances"
 usc_title: 19
 usc_section: "1594"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1594"
-generated_at: "2026-03-29T02:12:08.629Z"
+generated_at: "2026-03-29T17:51:51.231Z"
 ---
 
 # § 1594. Seizure of conveyances
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:12:08.629Z"
     - **(A)** on the person;
     - **(B)** in baggage belonging to and accompanying a passenger being lawfully transported on such conveyance; or
     - **(C)** in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outer packages or containers agree with the manifest;
-  - **(2)** Except as provided in paragraph (1) or subsection (c), no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
+  - **(2)** Except as provided in paragraph (1) or subsection (c) of this section, no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
 - **(c)** If any merchandise the importation of which is prohibited is found to be, or to have been—
   - **(1)** on board a conveyance used as a common carrier in the transaction of business as a common carrier in one or more packages or containers—
     - **(A)** that are not manifested (or not shown on bills of lading or airway bills); or
@@ -33,4 +33,4 @@ generated_at: "2026-03-29T02:12:08.629Z"
     - **(E)** representatives of the owner or operator in charge of the passenger or cargo operations at a particular location; and
     - **(F)** and other persons with similar responsibilities.
   - **(2)** The term “master” and similar terms relating to the person in charge of a conveyance includes the purser or other person on the conveyance who is responsible for maintaining records relating to the cargo transported in the conveyance.
-- **(e)** When a common carrier has been seized in accordance with the provisions of subsection (c) and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
+- **(e)** When a common carrier has been seized in accordance with the provisions of subsection (c) of this section and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.

@@ -3,9 +3,9 @@ title: "Section 851 - Definition of regulated investment company"
 usc_title: 26
 usc_section: "851"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 851"
-generated_at: "2026-03-29T02:14:01.046Z"
+generated_at: "2026-03-29T17:52:39.301Z"
 ---
 
 # § 851. Definition of regulated investment company
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:14:01.046Z"
 - **(d)**
   - **(1)** A corporation which meets the requirements of subsections (b)(3) and (c) at the close of any quarter shall not lose its status as a regulated investment company because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A corporation which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a regulated investment company if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
   - **(2)** If paragraph (1) does not preserve a corporation’s status as a regulated investment company for any particular quarter—
-    - **(A)** A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
+    - **(A)** A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i)) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
       - **(i)** following the corporation’s identification of the failure to satisfy the requirements of such subsection for such quarter, a description of each asset that causes the corporation to fail to satisfy the requirements of such subsection at the close of such quarter is set forth in a schedule for such quarter filed in the manner provided by the Secretary,
       - **(ii)** the failure to meet the requirements of such subsection for such quarter is due to reasonable cause and not due to willful neglect, and
       - **(iii)**

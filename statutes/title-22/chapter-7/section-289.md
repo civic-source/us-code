@@ -3,12 +3,13 @@ title: "Section 289 - Acceptance of membership by the United States; conditions"
 usc_title: 22
 usc_section: "289"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 289"
-generated_at: "2026-03-29T02:12:39.970Z"
+generated_at: "2026-03-29T17:52:10.426Z"
 ---
 
 # § 289. Acceptance of membership by the United States; conditions
 
-The President is hereby authorized to accept membership for the United States in the International Refugee Organization (hereinafter referred to as the “Organization”), the constitution of which was approved in New York on December 15, 1946 , by the General Assembly of the United Nations, and deposited in the archives of the United Nations: Provided, however , That this authority is granted and the approval of the Congress of the acceptance of membership of the United States in the International Refugee Organization is given upon condition and with the reservation that no agreement shall be concluded on behalf of the United States and no action shall be taken by any officer, agency, or any other person and acceptance of the constitution of the Organization by or on behalf of the Government of the United States shall not constitute or authorize action (1) whereby any person shall be admitted to or settled or resettled in the United States or any of its Territories or possessions without prior approval thereof by the Congress, and this subchapter shall not be construed as such prior approval, or (2) which will have the effect of abrogating, suspending, modifying, adding to, or superseding any of the immigration laws or any other laws of the United States.
+  - **(1)** whereby any person shall be admitted to or settled or resettled in the United States or any of its Territories or possessions without prior approval thereof by the Congress, and this subchapter shall not be construed as such prior approval, or
+  - **(2)** which will have the effect of abrogating, suspending, modifying, adding to, or superseding any of the immigration laws or any other laws of the United States.
 

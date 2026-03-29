@@ -3,9 +3,9 @@ title: "Section 1087ee - Cancellation of loans for certain public service"
 usc_title: 20
 usc_section: "1087ee"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 1087ee"
-generated_at: "2026-03-29T02:12:17.265Z"
+generated_at: "2026-03-29T17:51:48.404Z"
 ---
 
 # § 1087ee. Cancellation of loans for certain public service
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:12:17.265Z"
       - **(ii)** in one or more public, or nonprofit private, elementary schools or secondary schools or locations operated by an educational service agency that have been determined by the Secretary (pursuant to regulations of the Secretary and after consultation with the State educational agency of the State in which the educational service agency operates) to be a school or location at which the number of children taught who meet a measure of poverty under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6313(a)(5) ], exceeds 30 percent of the total number of children taught at such school or location;
     - **(B)** as a full-time staff member in a preschool program carried on under the Head Start Act [ 42 U.S.C. 9831 et seq.], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
     - **(C)** as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title ;
-    - **(D)** as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37 as an area of hostilities;
+    - **(D)** as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310 of title 37 as an area of hostilities;
     - **(E)** as a volunteer under the Peace Corps Act [ 22 U.S.C. 2501 et seq.] or a volunteer under the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 4950 et seq.];
     - **(F)** as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies, or as a full-time attorney employed in a defender organization established in accordance with section 3006A(g)(2) of title 18 ;
     - **(G)** as a full-time teacher of mathematics, science, foreign languages, bilingual education, or any other field of expertise where the State educational agency determines there is a shortage of qualified teachers;
@@ -43,9 +43,9 @@ generated_at: "2026-03-29T02:12:17.265Z"
   - **(5)** The amount of a loan, and interest on a loan, which is canceled under this section shall not be considered income for purposes of title 26.
   - **(6)** No borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12601 et seq.).
   - **(7)** An individual with an outstanding loan obligation under this part who performs service of any type that is described in paragraph (2) as in effect on October 7, 1998 , shall be eligible for cancellation under this section for such service notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such service.
-- **(b)** The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title . None of the funds appropriated pursuant to section 1087aa(b) 1 1 See References in Text note below. of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
+- **(b)** The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title . None of the funds appropriated pursuant to section 1087aa(b) of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
 - **(c)**
-  - **(1)** If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+  - **(1)** If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
   - **(2)** Any teacher who performs service in a school which—
-    - **(A)** meets the requirements of subsection (a)(2)(A) in any year; and
+    - **(A)** meets the requirements of subsection (a)(2)(A) of this section in any year; and
     - **(B)** in a subsequent year fails to meet the requirements of such subsection,

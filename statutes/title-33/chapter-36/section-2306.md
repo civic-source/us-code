@@ -3,9 +3,9 @@ title: "Section 2306 - Reports"
 usc_title: 33
 usc_section: "2306"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "33 U.S.C. § 2306"
-generated_at: "2026-03-29T02:14:18.618Z"
+generated_at: "2026-03-29T17:52:45.985Z"
 ---
 
 # § 2306. Reports

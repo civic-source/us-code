@@ -3,9 +3,9 @@ title: "Section 1916 - Administration of financial assistance; recording of mort
 usc_title: 19
 usc_section: "1916"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 1916"
-generated_at: "2026-03-29T02:12:08.666Z"
+generated_at: "2026-03-29T17:51:51.261Z"
 ---
 
 # § 1916. Administration of financial assistance; recording of mortgages
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T02:12:08.666Z"
   - **(3)** renovate, improve, modernize, complete, insure, rent, sell, or otherwise deal with, upon such terms and conditions and for such consideration as he shall determine to be reasonable, any real or personal property conveyed to or otherwise acquired by him in connection with such guarantees, agreements, or loans;
   - **(4)** acquire, hold, transfer, release, or convey any real or personal property or any interest therein whenever deemed necessary or appropriate, and execute all legal documents for such purposes; and
   - **(5)** exercise all such other powers and take all such other acts as may be necessary or incidental to the carrying out of functions pursuant to section 1914 of this title .
-- **(b)** Any mortgage acquired as security under subsection (a) shall be recorded under applicable State law.
+- **(b)** Any mortgage acquired as security under subsection (a) of this section shall be recorded under applicable State law.

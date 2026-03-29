@@ -3,9 +3,9 @@ title: "Section 824v - Prohibition of energy market manipulation"
 usc_title: 16
 usc_section: "824v"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 824v"
-generated_at: "2026-03-29T02:11:53.691Z"
+generated_at: "2026-03-29T17:51:56.793Z"
 ---
 
 # § 824v. Prohibition of energy market manipulation

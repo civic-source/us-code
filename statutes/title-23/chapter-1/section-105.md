@@ -1,12 +1,12 @@
 ---
-title: "Section 105 - Repealed. Pub. L. 117–58, div. A, title I, § 11501(a) , Nov. 15, 2021 , 135 Stat. 578 ]"
+title: "Section 105 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A) , July 6, 2012 , 126 Stat. 575 ]"
 usc_title: 23
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "23 U.S.C. § 105"
-generated_at: "2026-03-29T02:13:00.904Z"
+generated_at: "2026-03-29T17:52:01.416Z"
 ---
 
-# [§ 105. Repealed. Pub. L. 117–58, div. A, title I, § 11501(a) , Nov. 15, 2021 , 135 Stat. 578 ]
+# [§ 105. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A) , July 6, 2012 , 126 Stat. 575 ]
 

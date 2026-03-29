@@ -1,12 +1,17 @@
 ---
-title: "Section 955 - Omitted"
+title: "Section 955 - Tax exemption"
 usc_title: 25
 usc_section: "955"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 955"
-generated_at: "2026-03-29T02:13:20.870Z"
+generated_at: "2026-03-29T17:52:06.032Z"
 ---
 
-# § 955. Omitted
+# § 955. Tax exemption
 
+- **(a)** The right to an equalization allotment or to a cash payment in lieu thereof pursuant to section 953(d) of this title , shall be transferable by will or descent in the same manner as are trust payments under existing law and shall not be subject to State or Federal inheritance, estate, legacy, or succession taxes.
+- **(b)** A cash payment made in lieu of an equalization allotment pursuant to section 953(d) of this title shall not be regarded as income or capital gain for purposes of Federal or State income taxation and shall not, as long as it remains in the form of cash or a bank deposit in the ownership of the allottee, be subject to taxation as personal property. A payment and the income derived therefrom heretofore or hereafter made to an allottee as compensation for the acquisition of part or all of the allottee’s allotment for a public purpose is—
+  - **(1)** deemed a cash payment in lieu of an allotment for purposes of this subsection;
+  - **(2)** deemed a right under subsection (a) of this section; and
+  - **(3)** subject to sections 409a and 410 of this title.

@@ -3,9 +3,9 @@ title: "Section 5540 - Disposal of used or surplus furniture and equipment by Ch
 usc_title: 2
 usc_section: "5540"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 5540"
-generated_at: "2026-03-29T02:09:53.786Z"
+generated_at: "2026-03-29T17:50:24.127Z"
 ---
 
 # § 5540. Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:09:53.786Z"
     - **(A)** In the case of computer-related equipment, during fiscal year 1998 the Chief Administrative Officer may donate directly the equipment to a public elementary or secondary school of the District of Columbia without regard to whether the donation meets the requirements of the second sentence of paragraph (2), except that the total number of workstations donated as a result of this paragraph may not exceed 1,000.
     - **(B)** In this paragraph—
       - **(i)** the term “computer-related equipment” includes desktops, laptops, printers, file servers, and peripherals which are appropriate for use in public school education;
-      - **(ii)** the terms “public elementary school” and “public secondary school” have the meaning given the terms elementary school and secondary school in section 7801 of title 20 ; and
+      - **(ii)** the terms “public elementary school” and “public secondary school” have the meaning given such terms in section 7801 of title 20 ; and
       - **(iii)** the term “workstation” includes desktops and peripherals, file servers and peripherals, laptops and peripherals, printers and peripherals, and workstations and peripherals.
     - **(C)** The Committee on House Oversight shall have authority to issue regulations to carry out this paragraph.
   - **(4)** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this subsection.

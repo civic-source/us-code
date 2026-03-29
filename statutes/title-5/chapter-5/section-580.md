@@ -3,9 +3,9 @@ title: "Section 580 - Arbitration awards"
 usc_title: 5
 usc_section: "580"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 580"
-generated_at: "2026-03-29T02:10:01.788Z"
+generated_at: "2026-03-29T17:50:36.434Z"
 ---
 
 # § 580. Arbitration awards

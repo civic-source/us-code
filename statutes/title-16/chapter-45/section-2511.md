@@ -1,12 +1,14 @@
 ---
-title: "Section 2511 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 2511 - Recordkeeping; audit and examination; access to books and records"
 usc_title: 16
 usc_section: "2511"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 2511"
-generated_at: "2026-03-29T02:11:53.861Z"
+generated_at: "2026-03-29T17:51:56.934Z"
 ---
 
-# § 2511. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 2511. Recordkeeping; audit and examination; access to books and records
+
+Each recipient of assistance under this chapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition of project undertakings in connection with which assistance under this chapter is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary, and the Comptroller General of the United States, or their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this chapter.
 

@@ -3,9 +3,9 @@ title: "Section 1255 - Gain from disposition of section 126 property"
 usc_title: 26
 usc_section: "1255"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 1255"
-generated_at: "2026-03-29T02:14:01.119Z"
+generated_at: "2026-03-29T17:52:39.359Z"
 ---
 
 # § 1255. Gain from disposition of section 126 property
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T02:14:01.119Z"
   - **(3)** For purposes of this section, if section 126 property is disposed of less than 10 years after the date of receipt of payments excluded from gross income under section 126, the applicable percentage is 100 percent. If section 126 property is disposed of more than 10 years after such date, the applicable percentage is 100 percent reduced (but not below zero) by 10 percent for each year or part thereof in excess of 10 years such property was held after the date of receipt of the payments.
 - **(b)** Under regulations prescribed by the Secretary—
   - **(1)** rules similar to the rules applicable under section 1245 shall be applied for purposes of this section, and
-  - **(2)** for purposes of sections 170(e) and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245.
+  - **(2)** for purposes of sections 170(e), 1 1 So in original. The comma probably should not appear. and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245.

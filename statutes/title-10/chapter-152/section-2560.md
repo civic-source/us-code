@@ -3,9 +3,9 @@ title: "Section 2560 - Aircraft and vehicles: limitation on leasing to non-Feder
 usc_title: 10
 usc_section: "2560"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2560"
-generated_at: "2026-03-29T02:10:45.114Z"
+generated_at: "2026-03-29T17:50:57.140Z"
 ---
 
 # § 2560. Aircraft and vehicles: limitation on leasing to non-Federal agencies

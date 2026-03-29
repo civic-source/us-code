@@ -3,9 +3,9 @@ title: "Section 1231 - Abandoned Mine Reclamation Fund"
 usc_title: 30
 usc_section: "1231"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "30 U.S.C. § 1231"
-generated_at: "2026-03-29T02:14:11.242Z"
+generated_at: "2026-03-29T17:52:16.750Z"
 ---
 
 # § 1231. Abandoned Mine Reclamation Fund
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:14:11.242Z"
   - **(2)** any user charge imposed on or for land reclaimed pursuant to this subchapter after expenditures for maintenance have been deducted;
   - **(3)** donations by persons, corporations, associations, and foundations for the purposes of this subchapter;
   - **(4)** recovered moneys as provided for in this subchapter; and
-  - **(5)** interest credited to the fund under subsection (e).
+  - **(5)** interest credited to the fund under subsection (e) of this section.
 - **(c)** Moneys in the fund may be used for the following purposes:
   - **(1)** reclamation and restoration of land and water resources adversely affected by past coal mining, including but not limited to reclamation and restoration of abandoned surface mine areas, abandoned coal processing areas, and abandoned coal refuse disposal areas; sealing and filling abandoned deep mine entries and voids; planting of land adversely affected by past coal mining to prevent erosion and sedimentation; prevention, abatement, treatment, and control of water pollution created by coal mine drainage including restoration of stream beds, and construction and operation of water treatment plants; prevention, abatement, and control of burning coal refuse disposal areas and burning coal in situ; prevention, abatement, and control of coal mine subsidence; and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title : Provided , That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(1) of this title ;
   - **(2)** acquisition and filling of voids and sealing of tunnels, shafts, and entryways under section 1239 of this title ;
@@ -37,10 +37,10 @@ generated_at: "2026-03-29T02:14:11.242Z"
 - **(f)**
   - **(1)** From amounts deposited into the fund under subsection (b), the Secretary shall distribute during each fiscal year beginning after September 30, 2007 , an amount determined under paragraph (2).
   - **(2)**
-    - **(A)** For each of fiscal years 2008 through 2035, the amount distributed by the Secretary under this subsection shall be equal to—
+    - **(A)** For each of fiscal years 2008 through 2022, the amount distributed by the Secretary under this subsection shall be equal to—
       - **(i)** the amounts deposited into the fund under paragraphs (1), (2), and (4) of subsection (b) for the preceding fiscal year that were allocated under paragraphs (1) and (5) of section 1232(g) of this title ; plus
       - **(ii)** the amount needed for the adjustment under section 1232(g)(8) of this title for the current fiscal year.
-    - **(B)** For fiscal year 2036 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2035.
+    - **(B)** For fiscal year 2023 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2022.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), for each fiscal year, of the amount to be distributed to States and Indian tribes pursuant to paragraph (2), the Secretary shall distribute—
       - **(i)** the amounts allocated under paragraph (1) of section 1232(g) of this title , the amounts allocated under paragraph (5) of section 1232(g) of this title , and any amount reallocated under section 1240a(h)(3) of this title in accordance with section 1240a(h)(2) of this title , for grants to States and Indian tribes under section 1232(g)(5) of this title ; and

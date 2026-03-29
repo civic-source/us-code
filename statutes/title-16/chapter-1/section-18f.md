@@ -1,12 +1,19 @@
 ---
-title: "Section 18f - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 18f - Management of museum properties"
 usc_title: 16
 usc_section: "18f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 18f"
-generated_at: "2026-03-29T02:11:53.323Z"
+generated_at: "2026-03-29T17:51:56.439Z"
 ---
 
-# § 18f. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 18f. Management of museum properties
 
+The purpose of this section and sections 18f–2 and 18f–3 of this title shall be to increase the public benefits from museums established within the individual areas administered by the Secretary of the Interior through the National Park Service as a means of informing the public concerning the areas and preserving valuable objects and relics relating thereto. The Secretary of the Interior, notwithstanding other provisions or limitations of law, may perform the following functions in such manner as he shall consider to be in the public interest:
+
+- **(a)** Accept donations and bequests of money or other personal property, and hold, use, expend, and administer the same for purposes of this section and sections 18f–2 and 18f–3 of this title;
+- **(b)** Purchase museum objects, museum collections, and other personal properties at prices he considers to be reasonable;
+- **(c)** Make exchanges by accepting museum objects, museum collections, and other personal properties, and by granting in exchange therefor museum property under the administrative jurisdiction of the Secretary which is no longer needed or which may be held in duplicate among the museum properties administered by the Secretary, such exchanges to be consummated on a basis which the Secretary considers to be equitable and in the public interest;
+- **(d)** Accept the loan of museum objects, museum collections, and other personal properties and pay transportation costs incidental thereto, such loans to be accepted upon terms and conditions which he shall consider necessary; and
+- **(e)** Loan to responsible public or private organizations, institutions, or agencies, without cost to the United States, such museum objects, museum collections, and other personal property as he shall consider advisable, such loans to be made upon terms and conditions which he shall consider necessary to protect the public interest in such properties.

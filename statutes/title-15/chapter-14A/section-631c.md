@@ -3,9 +3,9 @@ title: "Section 631c - Small Business Manufacturing Task Force"
 usc_title: 15
 usc_section: "631c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 631c"
-generated_at: "2026-03-29T02:11:34.028Z"
+generated_at: "2026-03-29T17:51:36.135Z"
 ---
 
 # § 631c. Small Business Manufacturing Task Force

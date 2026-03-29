@@ -3,9 +3,9 @@ title: "Section 4101 - Authority of officers of Congress over Congressional empl
 usc_title: 2
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 4101"
-generated_at: "2026-03-29T02:09:53.764Z"
+generated_at: "2026-03-29T17:50:24.110Z"
 ---
 
 # § 4101. Authority of officers of Congress over Congressional employees

@@ -3,9 +3,9 @@ title: "Section 143 - Appropriations for Library Building and Grounds"
 usc_title: 2
 usc_section: "143"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 143"
-generated_at: "2026-03-29T02:09:53.648Z"
+generated_at: "2026-03-29T17:50:24.004Z"
 ---
 
 # § 143. Appropriations for Library Building and Grounds

@@ -3,12 +3,13 @@ title: "Section 1462 - Policies governing information activities"
 usc_title: 22
 usc_section: "1462"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 1462"
-generated_at: "2026-03-29T02:12:39.994Z"
+generated_at: "2026-03-29T17:52:10.449Z"
 ---
 
 # § 1462. Policies governing information activities
 
-In authorizing international information activities under this chapter, it is the sense of the Congress (1) that the Secretary and the Broadcasting Board of Governors shall reduce such Government information activities whenever corresponding private information dissemination is found to be adequate; (2) that nothing in this chapter shall be construed to give the Department or the Broadcasting Board of Governors a monopoly in the production or sponsorship on the air of short-wave broadcasting programs, or a monopoly in any other medium of information.
+  - **(1)** that the Secretary and the Broadcasting Board of Governors shall reduce such Government information activities whenever corresponding private information dissemination is found to be adequate;
+  - **(2)** that nothing in this chapter shall be construed to give the Department or the Broadcasting Board of Governors a monopoly in the production or sponsorship on the air of short-wave broadcasting programs, or a monopoly in any other medium of information.
 

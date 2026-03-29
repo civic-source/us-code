@@ -1,12 +1,14 @@
 ---
-title: "Section 486 - Omitted"
+title: "Section 486 - Regulations"
 usc_title: 25
 usc_section: "486"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 486"
-generated_at: "2026-03-29T02:13:20.864Z"
+generated_at: "2026-03-29T17:52:05.990Z"
 ---
 
-# § 486. Omitted
+# § 486. Regulations
+
+The Secretary of the Interior is authorized to prescribe such regulations as may be necessary to carry out the provisions of sections 484 to 486 of this title.
 

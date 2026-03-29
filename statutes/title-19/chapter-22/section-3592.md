@@ -3,14 +3,14 @@ title: "Section 3592 - Rules of origin for textile and apparel products"
 usc_title: 19
 usc_section: "3592"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 3592"
-generated_at: "2026-03-29T02:12:08.736Z"
+generated_at: "2026-03-29T17:51:51.338Z"
 ---
 
 # § 3592. Rules of origin for textile and apparel products
 
-- **(a)** The Secretary of the Treasury shall prescribe rules implementing the principles contained in subsection (b) for determining the origin of textiles and apparel products. Such rules shall be promulgated in final form not later than July 1, 1995 .
+- **(a)** The Secretary of the Treasury shall prescribe rules implementing the principles contained in subsection (b) of this section for determining the origin of textiles and apparel products. Such rules shall be promulgated in final form not later than July 1, 1995 .
 - **(b)**
   - **(1)** Except as otherwise provided for by statute, a textile or apparel product, for purposes of the customs laws and the administration of quantitative restrictions, originates in a country, territory, or insular possession, and is the growth, product, or manufacture of that country, territory, or insular possession, if—
     - **(A)** the product is wholly obtained or produced in that country, territory, or possession;
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T02:12:08.736Z"
     - **(B)** No article (except a textile or apparel product) assembled in whole of components described in subparagraph (A), or of such components and components that are products of the United States, in a beneficiary country as defined in General Note 7(a) of the HTS shall be treated as a foreign article, or as subject to duty if—
       - **(i)** the components after exportation from the United States, and
       - **(ii)** the article itself before importation into the United States
-  - **(5)** This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994 , would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987 . For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994 , to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994 , and on and after the effective date described in subsection (c), unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
+  - **(5)** This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994 , would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987 . For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994 , to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994 , and on and after the effective date described in subsection (c) of this section, unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
 - **(c)** This section shall apply to goods entered, or withdrawn from warehouse, for consumption on or after July 1, 1996 , except that this section shall not apply to goods if—
   - **(1)** the contract for the sale of such goods to the United States is entered into before July 20, 1994 ;
   - **(2)** all of the material terms of sale in such contract, including the price and quantity of the goods, are fixed and determinable before July 20, 1994 ;

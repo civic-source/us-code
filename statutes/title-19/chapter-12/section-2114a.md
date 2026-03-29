@@ -3,9 +3,9 @@ title: "Section 2114a - Negotiating objectives with respect to trade in services
 usc_title: 19
 usc_section: "2114a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "19 U.S.C. § 2114a"
-generated_at: "2026-03-29T02:12:08.671Z"
+generated_at: "2026-03-29T17:51:51.265Z"
 ---
 
 # § 2114a. Negotiating objectives with respect to trade in services, foreign direct investment, and high technology products
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:12:08.671Z"
     - **(A)** foster the pursuit of joint scientific cooperation between companies, institutions or governmental entities of the United States and those of the trading partners of the United States in areas of mutual interest through such measures as financial participation and technical and personnel exchanges, and
     - **(B)** ensure that access by all participants to the results of any such cooperative efforts should not be impaired; and
   - **(7)** to provide effective minimum safeguards for the acquisition and enforcement of intellectual property rights and the property value of proprietary data.
-- **(d)** For purposes of subsection (a), the term “barriers to, or other distortions of, international trade in services” includes, but is not limited to—
+- **(d)** For purposes of subsection (a) of this section, the term “barriers to, or other distortions of, international trade in services” includes, but is not limited to—
   - **(1)** barriers to establishment in foreign markets, and
   - **(2)** restrictions on the operation of enterprises in foreign markets, including—
     - **(A)** direct or indirect restrictions on the transfer of information into, or out of, the country or instrumentality concerned, and

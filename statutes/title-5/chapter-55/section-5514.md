@@ -3,9 +3,9 @@ title: "Section 5514 - Installment deduction for indebtedness to the United Stat
 usc_title: 5
 usc_section: "5514"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "5 U.S.C. § 5514"
-generated_at: "2026-03-29T02:10:01.863Z"
+generated_at: "2026-03-29T17:50:36.482Z"
 ---
 
 # § 5514. Installment deduction for indebtedness to the United States
@@ -25,6 +25,6 @@ generated_at: "2026-03-29T02:10:01.863Z"
 - **(b)**
   - **(1)** The head of each agency shall prescribe regulations, subject to the approval of the President, to carry out this section and section 3530(d) of title 31 . Regulations prescribed by the Secretaries of the military departments shall be uniform for the military services insofar as practicable.
   - **(2)** For purposes of section 7117(a) of this title , no regulation prescribed to carry out subsection (a)(2) of this section shall be considered to be a Government-wide rule or regulation.
-- **(c)** Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and section 3530(d) of title 31 do not repeal, modify, or amend section 7837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
+- **(c)** Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and section 3530(d) of title 31 do not repeal, modify, or amend section 4837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
 - **(d)** A levy pursuant to the Internal Revenue Code of 1986 shall take precedence over other deductions under this section.
 - **(e)** An employee of a nonappropriated fund instrumentality described in section 2105(c) of this title is deemed an employee covered by this section.

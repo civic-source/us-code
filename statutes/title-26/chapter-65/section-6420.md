@@ -3,9 +3,9 @@ title: "Section 6420 - Gasoline used on farms"
 usc_title: 26
 usc_section: "6420"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6420"
-generated_at: "2026-03-29T02:14:01.340Z"
+generated_at: "2026-03-29T17:52:39.569Z"
 ---
 
 # § 6420. Gasoline used on farms
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T02:14:01.340Z"
   - **(1)** For exemption from tax in case of special fuels used on a farm for farming purposes, see section 4041(f).
   - **(2)** For civil penalty for excessive claim under this section, see section 6675.
   - **(3)** For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
-  - **(4)** For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+  - **(4)** For treatment of an Indian tribal government as a State and 1 1 So in original. Probably should be “(and”. a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.

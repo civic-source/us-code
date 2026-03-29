@@ -3,9 +3,9 @@ title: "Section 789 - Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(
 usc_title: 15
 usc_section: "789"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "15 U.S.C. § 789"
-generated_at: "2026-03-29T02:11:34.139Z"
+generated_at: "2026-03-29T17:51:36.203Z"
 ---
 
 # § 789. Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(b)(2) , Feb. 10, 1996 , 110 Stat. 664

@@ -1,0 +1,14 @@
+---
+title: "Section 4801 - Definition"
+usc_title: 10
+usc_section: "4801"
+chapter: 451
+current_through: "PL 113-100"
+classification: "10 U.S.C. § 4801"
+generated_at: "2026-03-29T17:50:57.200Z"
+---
+
+# § 4801. Definition
+
+In this chapter, the term “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
+

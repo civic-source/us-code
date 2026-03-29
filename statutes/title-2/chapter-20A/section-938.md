@@ -3,9 +3,9 @@ title: "Section 938 - Determinations and points of order"
 usc_title: 2
 usc_section: "938"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "2 U.S.C. § 938"
-generated_at: "2026-03-29T02:09:53.708Z"
+generated_at: "2026-03-29T17:50:24.067Z"
 ---
 
 # § 938. Determinations and points of order

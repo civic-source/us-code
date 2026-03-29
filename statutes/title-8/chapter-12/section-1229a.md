@@ -3,9 +3,9 @@ title: "Section 1229a - Removal proceedings"
 usc_title: 8
 usc_section: "1229a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "8 U.S.C. § 1229a"
-generated_at: "2026-03-29T02:10:21.431Z"
+generated_at: "2026-03-29T17:50:41.343Z"
 ---
 
 # § 1229a. Removal proceedings
@@ -29,10 +29,10 @@ generated_at: "2026-03-29T02:10:21.431Z"
     - **(B)** the alien shall have a reasonable opportunity to examine the evidence against the alien, to present evidence on the alien’s own behalf, and to cross-examine witnesses presented by the Government but these rights shall not entitle the alien to examine such national security information as the Government may proffer in opposition to the alien’s admission to the United States or to an application by the alien for discretionary relief under this chapter, and
     - **(C)** a complete record shall be kept of all testimony and evidence produced at the proceeding.
   - **(5)**
-    - **(A)** Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien’s counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2)). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title .
+    - **(A)** Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien’s counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title .
     - **(B)** No written notice shall be required under subparagraph (A) if the alien has failed to provide the address required under section 1229(a)(1)(F) of this title .
     - **(C)** Such an order may be rescinded only—
-      - **(i)** upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1)), or
+      - **(i)** upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1) of this section), or
       - **(ii)** upon a motion to reopen filed at any time if the alien demonstrates that the alien did not receive notice in accordance with paragraph (1) or (2) of section 1229(a) of this title or the alien demonstrates that the alien was in Federal or State custody and the failure to appear was through no fault of the alien.
     - **(D)** Any petition for review under section 1252 of this title of an order entered in absentia under this paragraph shall (except in cases described in section 1252(b)(5) of this title ) be confined to (i) the validity of the notice provided to the alien, (ii) the reasons for the alien’s not attending the proceeding, and (iii) whether or not the alien is removable.
     - **(E)** The preceding provisions of this paragraph shall apply to all aliens placed in proceedings under this section, including any alien who remains in a contiguous foreign territory pursuant to section 1225(b)(2)(C) of this title .
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:10:21.431Z"
     - **(A)** define in a proceeding before an immigration judge or before an appellate administrative body under this subchapter, frivolous behavior for which attorneys may be sanctioned,
     - **(B)** specify the circumstances under which an administrative appeal of a decision or ruling will be considered frivolous and will be summarily dismissed, and
     - **(C)** impose appropriate sanctions (which may include suspension and disbarment) in the case of frivolous behavior.
-  - **(7)** Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of section 1229(a) of this title , was provided oral notice, either in the alien’s native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1)) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
+  - **(7)** Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of section 1229(a) of this title , was provided oral notice, either in the alien’s native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1) of this section) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
 - **(c)**
   - **(1)**
     - **(A)** At the conclusion of the proceeding the immigration judge shall decide whether an alien is removable from the United States. The determination of the immigration judge shall be based only on the evidence produced at the hearing.
@@ -78,7 +78,7 @@ generated_at: "2026-03-29T02:10:21.431Z"
     - **(C)**
       - **(i)** Except as provided in this subparagraph, the motion to reopen shall be filed within 90 days of the date of entry of a final administrative order of removal.
       - **(ii)** There is no time limit on the filing of a motion to reopen if the basis of the motion is to apply for relief under sections 1 1 So in original. 1158 or 1231(b)(3) of this title and is based on changed country conditions arising in the country of nationality or the country to which removal has been ordered, if such evidence is material and was not available and would not have been discovered or presented at the previous proceeding.
-      - **(iii)** The filing of a motion to reopen an order entered pursuant to subsection (b)(5) is subject to the deadline specified in subparagraph (C) of such subsection.
+      - **(iii)** The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
       - **(iv)** Any limitation under this section on the deadlines for filing such motions shall not apply—
         - **(I)** if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title , clause (ii) or (iii) of section 1154(a)(1)(B) of this title ,, 1 section 1229b(b) of this title , or section 1254(a)(3) of this title (as in effect on March 31, 1997 );
         - **(II)** if the motion is accompanied by a cancellation of removal application to be filed with the Attorney General or by a copy of the self-petition that has been or will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen;

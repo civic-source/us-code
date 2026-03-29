@@ -3,25 +3,14 @@ title: "Section 5843 - Advisory council"
 usc_title: 7
 usc_section: "5843"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "7 U.S.C. § 5843"
-generated_at: "2026-03-29T02:10:17.050Z"
+generated_at: "2026-03-29T17:50:48.796Z"
 ---
 
 # § 5843. Advisory council
 
-- **(a)**
-  - **(1)** The Secretary shall establish an advisory council for the program for the purpose of advising, assisting, consulting with, and making recommendations to, the Secretary and Director concerning matters related to the activities, policies and operations of the program.
-  - **(2)** The advisory council shall consist of ex officio members and not more than 13 members appointed by the Secretary.
-  - **(3)**
-    - **(A)** In making recommendations under paragraph (1), the advisory council shall include recommendations on—
-      - **(i)** the state of public cultivar development, including—
-        - **(I)** an analysis of existing cultivar research investments;
-        - **(II)** the research gaps relating to the development of cultivars across a diverse range of crops; and
-        - **(III)** an assessment of the state of commercialization of federally funded cultivars;
-      - **(ii)** the training and resources needed to meet future breeding challenges;
-      - **(iii)** the appropriate levels of Federal funding for cultivar development for underserved crops and geographic areas; and
-      - **(iv)** the development of the plan described in section 5841(d)(6) of this title .
+- **(a)** The Secretary shall establish an advisory council for the program for the purpose of advising, assisting, consulting with, and making recommendations to, the Secretary and Director concerning matters related to the activities, policies and operations of the program. The advisory council shall consist of ex officio members and not more than nine members appointed by the Secretary.
 - **(b)** The ex officio members of the advisory council shall consist of the following persons (or their designees):
   - **(1)** The Director.
   - **(2)** The Assistant Secretary of Agriculture for Science and Education.
@@ -32,21 +21,15 @@ generated_at: "2026-03-29T02:10:17.050Z"
   - **(7)** The Director of the Office of Science and Technology Policy.
   - **(8)** Such additional officers and employees of the United States as the Secretary determines are necessary for the advisory council to effectively carry out its functions.
 - **(c)** The members of the advisory council who are not ex officio members shall be appointed by the Secretary as follows:
-  - **(1)** 6 of the members shall be appointed from among the leading representatives of the scientific disciplines relevant to the activities of the program, including agricultural sciences, economics and policy, environmental sciences, natural resource sciences, health sciences, and nutritional sciences.
-  - **(2)** 3 of the members shall be appointed from the general public and shall include leaders in fields of public policy, community development, trade, international development, law, or management.
-  - **(3)** 4 of the members shall be appointed from among individuals with expertise in public cultivar and animal breed development.
-  - **(4)** 4 of the members shall be appointed from among individuals representing—
-    - **(A)** 1862 Institutions (as defined in section 7601 of this title );
-    - **(B)** 1890 Institutions (as defined in section 7601 of this title );
-    - **(C)** Hispanic-serving institutions (as defined in section 3103 of this title ); or
-    - **(D)** 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ( 7 U.S.C. 301 note; Public Law 103–382 )).
+  - **(1)** Two-thirds of the members shall be appointed from among the leading representatives of the scientific disciplines relevant to the activities of the program, including agricultural sciences, environmental sciences, natural resource sciences, health sciences, and nutritional sciences.
+  - **(2)** One-third of the members shall be appointed from the general public and shall include leaders in fields of public policy, trade, international development, law, or management.
 - **(d)** Members of the advisory council shall serve without compensation, if not otherwise officers or employees of the United States, except that they shall, while away from their homes or regular places of business in the performance of services for the advisory council, be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under sections 5701 through 5707 of title 5.
 - **(e)**
-  - **(1)** The term of office of a member appointed under subsection (c) is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
-  - **(2)** The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) do not all expire in the same year. A member may serve after the expiration of the member’s term until a successor takes office.
+  - **(1)** The term of office of a member appointed under subsection (c) of this section is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
+  - **(2)** The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) of this section do not all expire in the same year. A member may serve after the expiration of the member’s term until a successor takes office.
   - **(3)** A member who is appointed for a term of four years may not be reappointed to the advisory council before two years after the date of expiration of such term of office.
-  - **(4)** If a vacancy occurs in the advisory council among the members appointed under subsection (c), the Secretary shall make an appointment to fill such vacancy within 90 days after the date such vacancy occurs.
-- **(f)** The Secretary shall select as the chair of the advisory council one of the members appointed under subsection (c). The term of office of the chair shall be two years.
+  - **(4)** If a vacancy occurs in the advisory council among the members appointed under subsection (c) of this section, the Secretary shall make an appointment to fill such vacancy within 90 days after the date such vacancy occurs.
+- **(f)** The Secretary shall select as the chair of the advisory council one of the members appointed under subsection (c) of this section. The term of office of the chair shall be two years.
 - **(g)** The advisory council shall meet at the call of the chair or on the request of the Director, but at least two times each fiscal year. The location of the meetings of the advisory council shall be subject to the approval of the Director.
 - **(h)** The Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions.
 - **(i)** The Director shall provide such orientation and training for new members of the advisory council as may be appropriate for their effective participation in the functions of the advisory council.
@@ -55,4 +38,4 @@ generated_at: "2026-03-29T02:10:17.050Z"
   - **(2)** comments on the progress of the program in meeting its objectives; and
   - **(3)** recommendations respecting the future directions, program, and policy emphasis of the program.
 - **(k)** The advisory council may prepare such reports as the advisory council determines to be appropriate.
-- **(l)** Section 1013(a) of title 5 relating to the termination of an advisory committee shall not apply to the advisory council established under this section.
+- **(l)** Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.) relating to the termination of an advisory committee shall not apply to the advisory council established under this section.

@@ -1,12 +1,43 @@
 ---
-title: "Section 6213 - Repealed. Pub. L. 113–291, div. B, title XXX, § 3024(k) , Dec. 19, 2014 , 128 Stat. 3766"
+title: "Section 6213 - Transition provisions"
 usc_title: 16
 usc_section: "6213"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "16 U.S.C. § 6213"
-generated_at: "2026-03-29T02:11:53.958Z"
+generated_at: "2026-03-29T17:51:57.017Z"
 ---
 
-# §§ 6201 to 6213. Repealed. Pub. L. 113–291, div. B, title XXX, § 3024(k) , Dec. 19, 2014 , 128 Stat. 3766
+# § 6213. Transition provisions
 
+- **(a)** For the period of time determined under subsection (b) of this section, the Secretary shall charge each cabin owner an annual fee as follows:
+  - **(1)** For a lot that has not been appraised since September 30, 1995 , the annual fee shall be equal to the amount of the annual fee in effect on October 11, 2000 , adjusted annually to reflect changes in the Implicit Price Deflator-Gross National Product Index.
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B), for a lot that has been appraised on or after September 30, 1995 , the annual fee shall be equal to the amount of the fee in effect on October 11, 2000 , adjusted annually to reflect changes in the Implicit Price Deflator-Gross National Product Index.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), for a lot that has been appraised on or after September 30, 1995 , for which the appraisal resulted in an increase of the base fee by an amount greater than $3,000, the annual fee shall be equal to the sum of $3,000 plus the amount of the annual fee in effect on October 1, 1996 , adjusted annually to reflect the percentage change in the Implicit Price Deflator-Gross National Product Index.
+      - **(ii)** If—
+        - **(I)** the cabin owner of a lot described in clause (i) requests a new appraisal or peer review under subsection (c) of this section; and
+        - **(II)** the base cabin user fee established as a result of the appraisal or peer review is determined to be an amount that is 90 percent or more of the fee in effect for the lot as determined by an appraisal conducted on or after September 30, 1995 ,
+- **(b)**
+  - **(1)** For a lot that has not been appraised since September 30, 1995 , the Secretary shall charge fees in accordance with subsection (a)(2)(A) of this section until—
+    - **(A)** a base cabin user fee is determined in accordance with—
+      - **(i)** this chapter; or
+      - **(ii)** regulations and policies in effect on October 11, 2000 ; and
+    - **(B)** the right of the cabin owner to a second appraisal under section 6209 of this title is exhausted.
+  - **(2)** For a lot that has been appraised on or after September 30, 1995 , the Secretary shall charge fees under subsection (a)(2) of this section until—
+    - **(A)** the cabin owner requests a new appraisal or peer review, and a base cabin user fee is established, under subsection (c) of this section; or
+    - **(B)** in the absence of a request for a peer review or a new appraisal under subsection (c) of this section, the date that is 2 years after the date on which the Forest Service promulgates regulations and policies and develops appraisal guidelines under this chapter.
+- **(c)**
+  - **(1)** Not later than 2 years after the promulgation of final regulations and policies and the development of appraisal guidelines in accordance with section 6205(a)(5) of this title , cabin owners that are subject to appraisals completed after September 30, 1995 , but before the date of promulgation of final regulations under section 6212 of this title , may request, in accordance with paragraph (2), that the Secretary—
+    - **(A)** conduct a new appraisal and determine a new base cabin user fee in accordance with this chapter; or
+    - **(B)** commission a peer review of the existing appraisals in accordance with paragraph (4).
+  - **(2)** A request for a new appraisal or for a peer review of existing appraisals under paragraph (1) shall be made by a majority of the cabin owners in a group of cabins represented in the appraisal process by a typical lot.
+  - **(3)** On receipt of a request for an appraisal and fee determination in accordance with paragraph (2), the Secretary shall conduct the new appraisal and fee determination in accordance with this chapter.
+  - **(4)**
+    - **(A)** On receipt of a request for peer review in accordance with paragraph (2), the Secretary shall obtain from an independent professional appraisal organization a review of the appraisal (including any report on the appraisal) that was used to establish the estimated fee simple value of the lots within the subject grouping.
+    - **(B)** If peer review described in subparagraph (A) results in a determination that an appraisal or appraisal report includes provisions or procedures that were implemented or conducted in a manner inconsistent with this chapter, the Secretary shall, as appropriate and in accordance with this chapter—
+      - **(i)** revise an existing base cabin user fee; or
+      - **(ii)** subject to an agreement with the cabin owners, conduct a new appraisal and fee determination.
+  - **(5)** Cabin owners and the Secretary shall share, in equal proportion, the payment of all reasonable costs of any new appraisal or peer review.
+- **(d)** In the absence of a request under subsection (c) of this section for a new appraisal and fee determination from a cabin owner whose cabin user fee was determined as a result of an appraisal conducted after September 30, 1995 , but before the date of promulgation of final regulations under section 6212 of this title , the Secretary may consider the base cabin user fee resulting from the appraisal conducted between September 30, 1995 and the date of promulgation of the final regulations under section 6212 of this title , to be the base cabin user fee that complies with this section.

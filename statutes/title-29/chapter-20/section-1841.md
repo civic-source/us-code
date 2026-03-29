@@ -3,9 +3,9 @@ title: "Section 1841 - Motor vehicle safety"
 usc_title: 29
 usc_section: "1841"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "29 U.S.C. § 1841"
-generated_at: "2026-03-29T02:14:09.486Z"
+generated_at: "2026-03-29T17:52:18.886Z"
 ---
 
 # § 1841. Motor vehicle safety
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:14:09.486Z"
     - **(C)** Standards prescribed by the Secretary under subparagraph (A) shall be in addition to, and shall not supersede or modify, any standard under part B of subtitle IV of title 49, or regulations issued thereunder, which is independently applicable to transportation to which this section applies. A violation of any such standard shall also constitute a violation under this chapter.
     - **(D)** In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49 , relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
   - **(3)** The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forth in paragraph (2)(B) and similar farmworker transportation requirements under State law.
-- **(c)** If an agricultural employer, agricultural association, or farm labor contractor is the employer of any migrant or seasonal agricultural worker for purposes of a State workers’ compensation law and such employer provides workers’ compensation coverage for such worker in the case of bodily injury or death as provided by such State law, the following adjustments in the requirements of subsection (b)(1)(C) relating to having an insurance policy or liability bond apply:
+- **(c)** If an agricultural employer, agricultural association, or farm labor contractor is the employer of any migrant or seasonal agricultural worker for purposes of a State workers’ compensation law and such employer provides workers’ compensation coverage for such worker in the case of bodily injury or death as provided by such State law, the following adjustments in the requirements of subsection (b)(1)(C) of this section relating to having an insurance policy or liability bond apply:
   - **(1)** No insurance policy or liability bond shall be required of the employer, if such workers are transported only under circumstances for which there is coverage under such State law.
   - **(2)** An insurance policy or liability bond shall be required of the employer for circumstances under which coverage for the transportation of such workers is not provided under such State law.
 - **(d)** The Secretary shall, by regulations promulgated in accordance with section 1861 of this title not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.

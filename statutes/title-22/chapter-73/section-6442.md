@@ -3,9 +3,9 @@ title: "Section 6442 - Presidential actions in response to particularly severe v
 usc_title: 22
 usc_section: "6442"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "22 U.S.C. § 6442"
-generated_at: "2026-03-29T02:12:40.390Z"
+generated_at: "2026-03-29T17:52:10.668Z"
 ---
 
 # § 6442. Presidential actions in response to particularly severe violations of religious freedom
@@ -13,26 +13,19 @@ generated_at: "2026-03-29T02:12:40.390Z"
 - **(a)**
   - **(1)** It shall be the policy of the United States—
     - **(A)** to oppose particularly severe violations of religious freedom that are or have been engaged in or tolerated by the governments of foreign countries; and
-    - **(B)** to promote the right to freedom of religion in those countries through the actions described in subsection (c).
-  - **(2)** Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
+    - **(B)** to promote the right to freedom of religion in those countries through the actions described in subsection (c) of this section.
+  - **(2)** Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c) of this section.
 - **(b)**
   - **(1)**
-    - **(A)** Not later than 90 days after the date on which each Annual Report is submitted under section 6412(b) of this title , the President shall—
-      - **(i)** review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in each such country during the preceding 12 months or longer;
-      - **(ii)** designate each country the government of which has engaged in or tolerated violations described in clause (i) as a country of particular concern for religious freedom; and
-      - **(iii)** designate each country that engaged in or tolerated severe violations of religious freedom during the previous year, but does not meet, in the opinion of the President at the time of publication of the Annual Report, all of the criteria described in section 6402(15) of this title for designation under clause (ii) as being placed on a “Special Watch List”.
+    - **(A)** Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or tolerated violations described in this subparagraph as a country of particular concern for religious freedom.
     - **(B)** Each review conducted under subparagraph (A) shall be based upon information contained in the latest Country Reports on Human Rights Practices, the Annual Report, and on any other evidence available and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
-    - **(C)** Any review under subparagraph (A) of a foreign country may take place singly or jointly with the review of one or more countries and may take place at any time before the date on which each Annual Report is submitted under section 6412(b) of this title .
+    - **(C)** Any review under subparagraph (A) of a foreign country may take place singly or jointly with the review of one or more countries and may take place at any time prior to September 1 of the respective year.
   - **(2)** For the government of each country designated as a country of particular concern for religious freedom under paragraph (1)(A), the President shall seek to determine the agency or instrumentality thereof and the specific officials thereof that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by that government in order to appropriately target Presidential actions under this section in response.
-  - **(3)**
-    - **(A)** Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A)(ii), the President, not later than 90 days after such designation, shall submit to the appropriate congressional committees—
-      - **(i)** the designation of the country, signed by the President;
-      - **(ii)** the identification, if any, of responsible parties determined under paragraph (2); and
-      - **(iii)** a description of the actions taken under subsection (c), the purposes of the actions taken, and the effectiveness of the actions taken.
-    - **(B)** A country that is designated as a country of particular concern for religious freedom under paragraph (1)(A)(ii) shall retain such designation until the President determines and reports to the appropriate congressional committees that the country should no longer be so designated.
-  - **(4)** The presence or absence of a country from the Special Watch List in any given year shall not preclude the designation of such country as a country of particular concern for religious freedom under paragraph (1)(A)(ii) in any such year.
+  - **(3)** Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A), the President shall, as soon as practicable after the designation is made, transmit to the appropriate congressional committees—
+    - **(A)** the designation of the country, signed by the President; and
+    - **(B)** the identification, if any, of responsible parties determined under paragraph (2).
 - **(c)**
-  - **(1)** Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A), the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
+  - **(1)** Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A) of this section, the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
     - **(A)** One or more of the Presidential actions described in paragraphs (9) through (15) of section 6445(a) of this title , as determined by the President.
     - **(B)** Commensurate action in substitution to any action described in subparagraph (A).
   - **(2)**
@@ -48,5 +41,5 @@ generated_at: "2026-03-29T02:12:40.390Z"
     - **(A)** the President has taken action pursuant to this chapter in a preceding year;
     - **(B)** such action is in effect at the time the country is designated as a country of particular concern for religious freedom under this section; and
     - **(C)** the President reports to Congress the information described in section 6444(a)(1), (2), (3), and (4) of this title regarding the actions in effect with respect to the country.
-  - **(5)** At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title , the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country. The sanctions so designated shall remain in effect subject to section 6449 of this title .
+  - **(5)** At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title , the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title .
 - **(d)** A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.

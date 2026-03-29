@@ -3,9 +3,9 @@ title: "Section 1402a - Recomputation of retired or retainer pay to reflect late
 usc_title: 10
 usc_section: "1402a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 1402a"
-generated_at: "2026-03-29T02:10:45.000Z"
+generated_at: "2026-03-29T17:50:57.033Z"
 ---
 
 # § 1402a. Recomputation of retired or retainer pay to reflect later active duty of members who first became members after September 7, 1980
@@ -24,6 +24,6 @@ generated_at: "2026-03-29T02:10:45.000Z"
   - **(1)** computed according to the formula set forth in subsection (a) but using the monthly retired pay base under which his retired pay or retainer pay was computed when he entered on that active duty; and
   - **(2)** increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay.
 - **(f)**
-  - **(1)** In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 7314 or 9314 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
+  - **(1)** In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
   - **(2)** The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the retired pay base upon which the recomputation of such retired pay is based.
   - **(3)** The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.

@@ -3,9 +3,9 @@ title: "Section 4223 - Confidentiality of declarations"
 usc_title: 12
 usc_section: "4223"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 4223"
-generated_at: "2026-03-29T02:11:21.190Z"
+generated_at: "2026-03-29T17:51:13.222Z"
 ---
 
 # § 4223. Confidentiality of declarations
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T02:11:21.190Z"
   - **(3)** the declarant is granted a contract to pursue an action under section 4225(b) or 4227 of this title.
 - **(b)**
   - **(1)** Notwithstanding any other law, the contents of a declaration shall not be disclosed by the declarant if the disclosure would prejudice or compromise in any way the completion of any government investigation or any criminal or civil case that may arise out of, or make use of, information contained in a declaration, but information contained in a declaration may be disclosed as required by duly issued and authorized legal process.
-  - **(2)** The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a).
+  - **(2)** The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a) of this section.
 - **(c)** A declarant who discloses, except as provided by this subchapter, the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.

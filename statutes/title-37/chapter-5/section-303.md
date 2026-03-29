@@ -3,9 +3,9 @@ title: "Section 303 - Special pay: veterinarians"
 usc_title: 37
 usc_section: "303"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 303"
-generated_at: "2026-03-29T02:14:43.122Z"
+generated_at: "2026-03-29T17:52:59.080Z"
 ---
 
 # § 303. Special pay: veterinarians
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T02:14:43.122Z"
     - **(B)** of a reserve component of the Air Force, of the Army or the Air Force without specification of component, or of the National Guard, who—
       - **(i)** is designated as a veterinary officer; or
       - **(ii)** is an officer in the Biomedical Sciences Corps of the Air Force and holds a degree in veterinary medicine; or
-    - **(C)** who is a veterinary officer of the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service,
+    - **(C)** who is a veterinary officer of the Reserve Corps of the Public Health Service,
   - **(3)** A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, the Air Force, or the National Guard, as the case may be.
 - **(b)** A commissioned officer entitled to special pay under subsection (a) who has been certified as a Diplomate in a specialty recognized by the American Veterinarian Medical Association is entitled to special pay (in addition to the special pay under subsection (a)) at the same rate as is provided under section 302c(b) of this title for an officer referred to in that section who has the same number of years of creditable service as the commissioned officer.

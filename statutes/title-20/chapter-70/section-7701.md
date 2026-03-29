@@ -3,14 +3,14 @@ title: "Section 7701 - Purpose"
 usc_title: 20
 usc_section: "7701"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "20 U.S.C. § 7701"
-generated_at: "2026-03-29T02:12:17.490Z"
+generated_at: "2026-03-29T17:51:48.668Z"
 ---
 
 # § 7701. Purpose
 
-In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 4001 of title 50 , place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet the same challenging State academic standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
+In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 571 of title 50 , Appendix, place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet challenging State standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
 
   - **(1)** experience a substantial and continuing financial burden due to the acquisition of real property by the United States;
   - **(2)** educate children who reside on Federal property and whose parents are employed on Federal property;

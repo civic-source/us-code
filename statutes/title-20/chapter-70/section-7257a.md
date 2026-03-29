@@ -1,0 +1,20 @@
+---
+title: "Section 7257a - Application required"
+usc_title: 20
+usc_section: "7257a"
+chapter: 70
+current_through: "PL 113-100"
+classification: "20 U.S.C. § 7257a"
+generated_at: "2026-03-29T17:51:48.648Z"
+---
+
+# § 7257a. Application required
+
+- **(a)**
+  - **(1)** To be eligible to receive a grant under section 7257(a) of this title , a nonprofit telecommunications entity, or partnership of such entities shall submit an application to the Secretary. Each such application shall—
+    - **(A)** demonstrate that the applicant will use the public broadcasting infrastructure, the Internet, and school digital networks, where available, to deliver video and data in an integrated service to train teachers in the use of materials and learning technologies for achieving challenging State academic content and student academic achievement standards;
+    - **(B)** ensure that the project for which assistance is sought will be conducted in cooperation with appropriate State educational agencies, local educational agencies, and State or local nonprofit public telecommunications entities;
+    - **(C)** ensure that a significant portion of the benefits available for elementary schools and secondary schools from the project for which assistance is sought will be available to schools of local educational agencies that have a high percentage of children counted for the purpose of part A of subchapter I of this chapter; and
+    - **(D)** contain such additional assurances as the Secretary may reasonably require.
+  - **(2)** In approving applications under paragraph (1), the Secretary shall ensure that the program authorized by section 7257(a) of this title is conducted at elementary school and secondary school sites throughout the United States.
+- **(b)** To be eligible to receive a grant under section 7257(b) of this title , an entity shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.

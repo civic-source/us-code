@@ -3,15 +3,15 @@ title: "Section 302h - Special pay: accession bonus for dental officers"
 usc_title: 37
 usc_section: "302h"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "37 U.S.C. § 302h"
-generated_at: "2026-03-29T02:14:43.121Z"
+generated_at: "2026-03-29T17:52:59.080Z"
 ---
 
 # § 302h. Special pay: accession bonus for dental officers
 
 - **(a)**
-  - **(1)** A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996 , and ending on December 31, 2018 , executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+  - **(1)** A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996 , and ending on December 31, 2013 , executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
   - **(2)** The amount of an accession bonus under paragraph (1) may not exceed $200,000.
 - **(b)** A person may not be paid a bonus under subsection (a) if—
   - **(1)** the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a course of study in dentistry; or

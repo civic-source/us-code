@@ -1,12 +1,24 @@
 ---
-title: "Section 2313a - Renumbered § 3847]"
+title: "Section 2313a - Defense Contract Audit Agency: annual report"
 usc_title: 10
 usc_section: "2313a"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "10 U.S.C. § 2313a"
-generated_at: "2026-03-29T02:10:45.091Z"
+generated_at: "2026-03-29T17:50:57.100Z"
 ---
 
-# [§ 2313a. Renumbered § 3847]
+# § 2313a. Defense Contract Audit Agency: annual report
 
+- **(a)** The Director of the Defense Contract Audit Agency shall prepare an annual report of the activities of the Agency during the previous fiscal year. The report shall include, at a minimum—
+  - **(1)** a description of significant problems, abuses, and deficiencies encountered during the conduct of contractor audits;
+  - **(2)** statistical tables showing—
+    - **(A)** the total number of audit reports completed and pending;
+    - **(B)** the priority given to each type of audit;
+    - **(C)** the length of time taken for each type of audit;
+    - **(D)** the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and
+    - **(E)** an assessment of the number and types of audits pending for a period longer than allowed pursuant to guidance of the Defense Contract Audit Agency;
+  - **(3)** a summary of any recommendations of actions or resources needed to improve the audit process; and
+  - **(4)** any other matters the Director considers appropriate.
+- **(b)** Not later than March 30 of each year, the Director shall submit to the congressional defense committees the report required by subsection (a).
+- **(c)** Not later than 60 days after the submission of an annual report to the congressional defense committees under subsection (b), the Director shall make the report available on the publicly available website of the Agency or such other publicly available website as the Director considers appropriate.

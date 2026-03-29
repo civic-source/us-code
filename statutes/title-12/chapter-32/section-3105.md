@@ -3,9 +3,9 @@ title: "Section 3105 - Authority of Federal Reserve System"
 usc_title: 12
 usc_section: "3105"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "12 U.S.C. § 3105"
-generated_at: "2026-03-29T02:11:21.159Z"
+generated_at: "2026-03-29T17:51:13.195Z"
 ---
 
 # § 3105. Authority of Federal Reserve System
@@ -71,11 +71,11 @@ generated_at: "2026-03-29T02:11:21.159Z"
   - **(7)** Not later than 1 year after December 19, 1991 , the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation on a consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
 - **(f)**
   - **(1)** Any foreign bank—
-    - **(A)** whose application under subsection (d) or section 3107(a) of this title has been disapproved by the Board;
-    - **(B)** against which the Board has issued an order under subsection (e) or section 3107(b) of this title ; or
+    - **(A)** whose application under subsection (d) of this section or section 3107(a) of this title has been disapproved by the Board;
+    - **(B)** against which the Board has issued an order under subsection (e) of this section or section 3107(b) of this title ; or
     - **(C)** against which the Comptroller of the Currency has issued an order under section 3102(i) of this title ,
   - **(2)** Section 706 of title 5 (other than paragraph (2)(F) of such section) shall apply with respect to any review under paragraph (1).
-- **(g)** The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e).
+- **(g)** The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e) of this section.
 - **(h)**
   - **(1)** After the end of the 1-year period beginning on December 19, 1991 , a State branch or State agency may not engage in any type of activity that is not permissible for a Federal branch unless—
     - **(A)** the Board has determined that such activity is consistent with sound banking practice; and

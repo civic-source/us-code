@@ -3,9 +3,9 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-29T02:14:00.945Z"
+generated_at: "2026-03-29T17:52:39.227Z"
 ---
 
 # § 415. Limitations on benefits and contribution under qualified plans
@@ -81,14 +81,6 @@ generated_at: "2026-03-29T02:14:00.945Z"
       - **(i)** This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989 , to have this subsection (other than paragraph (2)(G)).
       - **(ii)** An election under clause (i) may be revoked not later than the last day of the third plan year beginning after the date of the enactment of this clause. The revocation shall apply to all plan years to which the election applied and to all subsequent plan years. Any amount paid by a plan in a taxable year ending after the revocation shall be includible in income in such taxable year under the rules of this chapter in effect for such taxable year, except that, for purposes of applying the limitations imposed by this section, any portion of such amount which is attributable to any taxable year during which the election was in effect shall be treated as received in such taxable year.
   - **(11)** In the case of a governmental plan (as defined in section 414(d)) or a multiemployer plan (as defined in section 414(f)), subparagraph (B) of paragraph (1) shall not apply. Subparagraph (B) of paragraph (1) shall not apply to a plan maintained by an organization described in section 3121(w)(3)(A) except with respect to highly compensated benefits. For purposes of this paragraph, the term “highly compensated benefits” means any benefits accrued for an employee in any year on or after the first year in which such employee is a highly compensated employee (as defined in section 414(q)) of the organization described in section 3121(w)(3)(A). For purposes of applying paragraph (1)(B) to highly compensated benefits, all benefits of the employee otherwise taken into account (without regard to this paragraph) shall be taken into account.
-  - **(12)**
-    - **(A)** Subparagraph (B) of paragraph (1) shall not apply to a participant in an eligible rural electric cooperative plan, except in the case of a participant who was a highly compensated employee (as defined in section 414(q)) of an employer maintaining such plan for the earlier of—
-      - **(i)** the plan year in which the participant terminated employment with such employer, or
-      - **(ii)** the plan year in which distributions commence under the plan with respect to the participant, or
-    - **(B)** For purposes of this paragraph—
-      - **(i)** The term “eligible rural electric cooperative plan” means a plan maintained by more than 1 employer, with respect to which at least 85 percent of the employers maintaining the plan are rural cooperatives described in clause (i) or (ii) of section 401(k)(7)(B) or are a national association of such a rural cooperative.
-      - **(ii)** An employer maintaining an eligible rural cooperative plan may elect not to have subparagraph (A) apply to its employees.
-    - **(C)** The Secretary shall prescribe such regulations and other guidance as are necessary to limit the application of subparagraph (A) such that it does not result in increased benefits for highly compensated employees.
 - **(c)**
   - **(1)** Contributions and other additions with respect to a participant exceed the limitation of this subsection if, when expressed as an annual addition (within the meaning of paragraph (2)) to the participant’s account, such annual addition is greater than the lesser of—
     - **(A)** $40,000, or
@@ -125,11 +117,6 @@ generated_at: "2026-03-29T02:14:00.945Z"
     - **(C)** In the case of any individual described in subparagraph (B) performing services outside the United States, contributions and other additions for an annuity contract or retirement income account described in section 403(b) with respect to such employee, when expressed as an annual addition to such employee’s account, shall not be treated as exceeding the limitation of paragraph (1) if such annual addition is not in excess of $3,000. This subparagraph shall not apply with respect to any taxable year to any individual whose adjusted gross income for such taxable year (determined separately and without regard to community property laws) exceeds $17,000.
     - **(D)** For purposes of this paragraph, the term “annual addition” has the meaning given such term by paragraph (2).
     - **(E)** For purposes of this paragraph, the terms “church” and “convention or association of churches” have the same meaning as when used in section 414(e).
-  - **(8)**
-    - **(A)** For purposes of paragraph (1)(B), in the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, the participant’s compensation, or earned income, as the case may be, shall be increased by the amount so excluded.
-    - **(B)** Any contribution by the participant which is allowable due to such increase—
-      - **(i)** shall be treated for purposes of this title as investment in the contract, and
-      - **(ii)** shall not cause a plan (and any arrangement which is part of such plan) to be treated as failing to meet any requirements of this chapter solely by reason of allowing any such contributions.
 - **(d)**
   - **(1)** The Secretary shall adjust annually—
     - **(A)** the $160,000 amount in subsection (b)(1)(A),
@@ -154,7 +141,7 @@ generated_at: "2026-03-29T02:14:00.945Z"
   - **(2)** Notwithstanding paragraph (1) and subsection (g), a multiemployer plan (as defined in section 414(f)) shall not be combined or aggregated—
     - **(A)** with any other plan which is not a multiemployer plan for purposes of applying subsection (b)(1)(B) to such other plan, or
     - **(B)** with any other multiemployer plan for purposes of applying the limitations established in this section.
-- **(g)** Except as provided in subsection (f)(2), the Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
+- **(g)** Except as provided in subsection (f)(3), 1 1 See References in Text note below. the Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
 - **(h)** For purposes of applying subsections (b) and (c) of section 414 to this section, the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” each place it appears in section 1563(a)(1).
 - **(i)** Where for the period before January 1, 1976 , or (if later) the first day of the first plan year of the plan, the records necessary for the application of this section are not available, the Secretary may by regulations prescribe alternate methods for determining the amounts to be taken into account for such period.
 - **(j)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including, but not limited to, regulations defining the term “year” for purposes of any provision of this section.

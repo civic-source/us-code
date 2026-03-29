@@ -1,12 +1,14 @@
 ---
-title: "Section 501 - Transferred"
+title: "Section 501 - Acquisition of agricultural and grazing lands for Indians; title to lands; tax exemption"
 usc_title: 25
 usc_section: "501"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "25 U.S.C. § 501"
-generated_at: "2026-03-29T02:13:20.864Z"
+generated_at: "2026-03-29T17:52:05.992Z"
 ---
 
-# § 501. Transferred
+# § 501. Acquisition of agricultural and grazing lands for Indians; title to lands; tax exemption
+
+The Secretary of the Interior is authorized, in his discretion, to acquire by purchase, relinquishment, gift, exchange, or assignment, any interest in lands, water rights, or surface rights to lands, within or without existing Indian reservations, including trust or otherwise restricted lands now in Indian ownership: Provided , That such lands shall be agricultural and grazing lands of good character and quality in proportion to the respective needs of the particular Indian or Indians for whom such purchases are made. Title to all lands so acquired shall be taken in the name of the United States, in trust for the tribe, band, group, or individual Indian for whose benefit such land is so acquired, and while the title thereto is held by the United States said lands shall be free from any and all taxes, save that the State of Oklahoma is authorized to levy and collect a gross-production tax, not in excess of the rate applied to production from lands in private ownership, upon all oil and gas produced from said lands, which said tax the Secretary of the Interior is authorized and directed to cause to be paid.
 

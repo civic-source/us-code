@@ -3,9 +3,9 @@ title: "Section 6664 - Definitions and special rules"
 usc_title: 26
 usc_section: "6664"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "26 U.S.C. § 6664"
-generated_at: "2026-03-29T02:14:01.362Z"
+generated_at: "2026-03-29T17:52:39.587Z"
 ---
 
 # § 6664. Definitions and special rules
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:14:01.362Z"
 - **(b)** The penalties provided in this part shall apply only in cases where a return of tax is filed (other than a return prepared by the Secretary under the authority of section 6020(b)).
 - **(c)**
   - **(1)** No penalty shall be imposed under section 6662 or 6663 with respect to any portion of an underpayment if it is shown that there was a reasonable cause for such portion and that the taxpayer acted in good faith with respect to such portion.
-  - **(2)** Paragraph (1) shall not apply to any portion of an underpayment which is attributable to one or more transactions described in section 6662(b)(6) or to any disallowance of a deduction described in section 6662(b)(10).
+  - **(2)** Paragraph (1) shall not apply to any portion of an underpayment which is attributable to one or more transactions described in section 6662(b)(6).
   - **(3)** In the case of any underpayment attributable to a substantial or gross valuation overstatement under chapter 1 with respect to charitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
     - **(A)** the claimed value of the property was based on a qualified appraisal made by a qualified appraiser, and
     - **(B)** in addition to obtaining such appraisal, the taxpayer made a good faith investigation of the value of the contributed property.
