@@ -3,9 +3,9 @@ title: "Section 3909 - Program administration"
 usc_title: 33
 usc_section: "3909"
 chapter: 52
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 3909"
-generated_at: "2026-03-29T20:33:34.340Z"
+generated_at: "2026-03-29T20:39:21.079Z"
 ---
 
 # § 3909. Program administration

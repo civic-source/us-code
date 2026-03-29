@@ -3,9 +3,9 @@ title: "Section 267b - International Joint Commission; invitation to establish; 
 usc_title: 22
 usc_section: "267b"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 267b"
-generated_at: "2026-03-29T20:32:59.856Z"
+generated_at: "2026-03-29T20:38:29.575Z"
 ---
 
 # § 267b. International Joint Commission; invitation to establish; personnel; duties

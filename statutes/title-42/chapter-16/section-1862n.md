@@ -3,9 +3,9 @@ title: "Section 1862n - Mathematics and science education partnerships"
 usc_title: 42
 usc_section: "1862n"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 1862n"
-generated_at: "2026-03-29T20:34:53.438Z"
+generated_at: "2026-03-29T20:40:42.362Z"
 ---
 
 # § 1862n. Mathematics and science education partnerships

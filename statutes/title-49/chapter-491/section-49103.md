@@ -3,9 +3,9 @@ title: "Section 49103 - Definitions"
 usc_title: 49
 usc_section: "49103"
 chapter: 491
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 49103"
-generated_at: "2026-03-29T20:35:10.969Z"
+generated_at: "2026-03-29T20:41:16.393Z"
 ---
 
 # § 49103. Definitions

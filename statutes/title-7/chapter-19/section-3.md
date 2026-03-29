@@ -3,9 +3,9 @@ title: "Section 3 - Liability of principal for act of agent"
 usc_title: 7
 usc_section: "3"
 chapter: 19
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-29T20:31:41.916Z"
+generated_at: "2026-03-29T20:37:01.665Z"
 ---
 
 # § 473c–3. Liability of principal for act of agent

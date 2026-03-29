@@ -3,9 +3,9 @@ title: "Section 8321 - Liability of accountable employees"
 usc_title: 5
 usc_section: "8321"
 chapter: 83
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 8321"
-generated_at: "2026-03-29T20:31:26.815Z"
+generated_at: "2026-03-29T20:35:49.202Z"
 ---
 
 # § 8321. Liability of accountable employees

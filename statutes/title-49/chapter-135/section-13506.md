@@ -3,9 +3,9 @@ title: "Section 13506 - Miscellaneous motor carrier transportation exemptions"
 usc_title: 49
 usc_section: "13506"
 chapter: 135
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 13506"
-generated_at: "2026-03-29T20:35:10.800Z"
+generated_at: "2026-03-29T20:41:16.235Z"
 ---
 
 # § 13506. Miscellaneous motor carrier transportation exemptions

@@ -3,9 +3,9 @@ title: "Section 71101 - Reaffirmation of policy"
 usc_title: 51
 usc_section: "71101"
 chapter: 711
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "51 U.S.C. § 71101"
-generated_at: "2026-03-29T20:35:13.957Z"
+generated_at: "2026-03-29T20:41:32.736Z"
 ---
 
 # § 71101. Reaffirmation of policy

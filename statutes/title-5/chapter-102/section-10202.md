@@ -3,9 +3,9 @@ title: "Section 10202 - Authorities"
 usc_title: 5
 usc_section: "10202"
 chapter: 102
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 10202"
-generated_at: "2026-03-29T20:31:26.965Z"
+generated_at: "2026-03-29T20:35:49.251Z"
 ---
 
 # § 10202. Authorities

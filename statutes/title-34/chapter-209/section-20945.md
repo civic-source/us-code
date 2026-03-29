@@ -3,9 +3,9 @@ title: "Section 20945 - Office of Sex Offender Sentencing, Monitoring, Apprehend
 usc_title: 34
 usc_section: "20945"
 chapter: 209
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "34 U.S.C. § 20945"
-generated_at: "2026-03-29T20:33:40.371Z"
+generated_at: "2026-03-29T20:39:11.634Z"
 ---
 
 # § 20945. Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking

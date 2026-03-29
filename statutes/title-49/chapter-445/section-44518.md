@@ -3,9 +3,9 @@ title: "Section 44518 - Advanced Materials Center of Excellence"
 usc_title: 49
 usc_section: "44518"
 chapter: 445
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 44518"
-generated_at: "2026-03-29T20:35:10.917Z"
+generated_at: "2026-03-29T20:41:16.338Z"
 ---
 
 # § 44518. Advanced Materials Center of Excellence

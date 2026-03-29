@@ -3,9 +3,9 @@ title: "Section 2536 - Award of certain contracts to entities controlled by a fo
 usc_title: 10
 usc_section: "2536"
 chapter: 148
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2536"
-generated_at: "2026-03-29T20:31:54.623Z"
+generated_at: "2026-03-29T20:36:24.327Z"
 ---
 
 # § 2536. Award of certain contracts to entities controlled by a foreign government: prohibition

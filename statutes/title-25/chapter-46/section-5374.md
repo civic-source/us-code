@@ -3,9 +3,9 @@ title: "Section 5374 - Effect of circulars, policies, manuals, guidance, and rul
 usc_title: 25
 usc_section: "5374"
 chapter: 46
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "25 U.S.C. § 5374"
-generated_at: "2026-03-29T20:32:54.799Z"
+generated_at: "2026-03-29T20:38:41.022Z"
 ---
 
 # § 5374. Effect of circulars, policies, manuals, guidance, and rules

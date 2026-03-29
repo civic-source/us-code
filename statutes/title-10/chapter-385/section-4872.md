@@ -3,9 +3,9 @@ title: "Section 4872 - Award of certain contracts to entities controlled by a fo
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-29T20:31:54.705Z"
+generated_at: "2026-03-29T20:36:24.425Z"
 ---
 
 # § 4872. Award of certain contracts to entities controlled by a foreign government: prohibition

@@ -3,9 +3,9 @@ title: "Section 2091 - Determination of source material"
 usc_title: 42
 usc_section: "2091"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 2091"
-generated_at: "2026-03-29T20:34:53.490Z"
+generated_at: "2026-03-29T20:40:42.416Z"
 ---
 
 # § 2091. Determination of source material

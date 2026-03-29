@@ -3,9 +3,9 @@ title: "Section 2593b - Public annual report on world military expenditures and 
 usc_title: 22
 usc_section: "2593b"
 chapter: 35
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 2593b"
-generated_at: "2026-03-29T20:32:59.994Z"
+generated_at: "2026-03-29T20:38:29.724Z"
 ---
 
 # § 2593b. Public annual report on world military expenditures and arms transfers

@@ -3,9 +3,9 @@ title: "Section 3343 - Check forgery insurance fund"
 usc_title: 31
 usc_section: "3343"
 chapter: 33
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "31 U.S.C. § 3343"
-generated_at: "2026-03-29T20:33:31.769Z"
+generated_at: "2026-03-29T20:39:09.964Z"
 ---
 
 # § 3343. Check forgery insurance fund

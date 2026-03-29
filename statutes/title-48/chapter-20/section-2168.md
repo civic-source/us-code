@@ -3,9 +3,9 @@ title: "Section 2168 - Selection of presiding judge"
 usc_title: 48
 usc_section: "2168"
 chapter: 20
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "48 U.S.C. § 2168"
-generated_at: "2026-03-29T20:34:59.113Z"
+generated_at: "2026-03-29T20:40:48.372Z"
 ---
 
 # § 2168. Selection of presiding judge

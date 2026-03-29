@@ -3,9 +3,9 @@ title: "Section 657k - Disaster processing redundancy"
 usc_title: 15
 usc_section: "657k"
 chapter: 14
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 657k"
-generated_at: "2026-03-29T20:32:09.804Z"
+generated_at: "2026-03-29T20:37:42.248Z"
 ---
 
 # § 657k. Disaster processing redundancy

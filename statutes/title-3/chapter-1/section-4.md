@@ -3,9 +3,9 @@ title: "Section 4 - Vacancies in electoral college"
 usc_title: 3
 usc_section: "4"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "3 U.S.C. § 4"
-generated_at: "2026-03-29T20:31:19.807Z"
+generated_at: "2026-03-29T20:35:44.136Z"
 ---
 
 # § 4. Vacancies in electoral college

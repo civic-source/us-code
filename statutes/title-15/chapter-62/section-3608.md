@@ -3,9 +3,9 @@ title: "Section 3608 - Judicial determinations respecting uncon­scionable lease
 usc_title: 15
 usc_section: "3608"
 chapter: 62
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 3608"
-generated_at: "2026-03-29T20:32:10.006Z"
+generated_at: "2026-03-29T20:37:42.477Z"
 ---
 
 # § 3608. Judicial determinations respecting uncon­scionable leases

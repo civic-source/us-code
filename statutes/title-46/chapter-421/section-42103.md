@@ -3,9 +3,9 @@ title: "Section 42103 - No preference to Government-owned vessels"
 usc_title: 46
 usc_section: "42103"
 chapter: 421
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "46 U.S.C. § 42103"
-generated_at: "2026-03-29T20:35:02.407Z"
+generated_at: "2026-03-29T20:40:51.624Z"
 ---
 
 # § 42103. No preference to Government-owned vessels

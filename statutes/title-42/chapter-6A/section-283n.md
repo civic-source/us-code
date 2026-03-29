@@ -3,9 +3,9 @@ title: "Section 283n - Shared Instrumentation Grant Program"
 usc_title: 42
 usc_section: "283n"
 chapter: 6
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 283n"
-generated_at: "2026-03-29T20:34:52.639Z"
+generated_at: "2026-03-29T20:40:41.510Z"
 ---
 
 # § 283n. Shared Instrumentation Grant Program

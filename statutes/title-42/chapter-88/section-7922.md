@@ -3,9 +3,9 @@ title: "Section 7922 - Termination of authority of Secretary"
 usc_title: 42
 usc_section: "7922"
 chapter: 88
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 7922"
-generated_at: "2026-03-29T20:34:53.909Z"
+generated_at: "2026-03-29T20:40:42.843Z"
 ---
 
 # § 7922. Termination of authority of Secretary

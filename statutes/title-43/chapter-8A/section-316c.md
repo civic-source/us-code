@@ -3,9 +3,9 @@ title: "Section 316c - Alteration of grazing districts"
 usc_title: 43
 usc_section: "316c"
 chapter: 8
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "43 U.S.C. § 316c"
-generated_at: "2026-03-29T20:34:16.678Z"
+generated_at: "2026-03-29T20:39:58.686Z"
 ---
 
 # § 316c. Alteration of grazing districts

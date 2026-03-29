@@ -3,9 +3,9 @@ title: "Section 2 - Penalties for offenses relating to sampling of cotton"
 usc_title: 7
 usc_section: "2"
 chapter: 19
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T20:31:41.916Z"
+generated_at: "2026-03-29T20:37:01.665Z"
 ---
 
 # § 473c–2. Penalties for offenses relating to sampling of cotton

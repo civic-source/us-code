@@ -3,9 +3,9 @@ title: "Section 4 - Delegation of functions under other laws as unaffected"
 usc_title: 7
 usc_section: "4"
 chapter: 55
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T20:31:42.095Z"
+generated_at: "2026-03-29T20:37:01.855Z"
 ---
 
 # § 2204–4. Delegation of functions under other laws as unaffected

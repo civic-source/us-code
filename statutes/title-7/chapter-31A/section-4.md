@@ -3,9 +3,9 @@ title: "Section 4 - Regulations"
 usc_title: 7
 usc_section: "4"
 chapter: 31
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T20:31:41.949Z"
+generated_at: "2026-03-29T20:37:01.698Z"
 ---
 
 # § 950aaa–4. Regulations

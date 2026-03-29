@@ -3,9 +3,9 @@ title: "Section 88 - Certain amounts with respect to nuclear decommissioning cos
 usc_title: 26
 usc_section: "88"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 88"
-generated_at: "2026-03-29T20:33:26.819Z"
+generated_at: "2026-03-29T20:39:04.635Z"
 ---
 
 # § 88. Certain amounts with respect to nuclear decommissioning costs

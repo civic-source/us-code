@@ -3,9 +3,9 @@ title: "Section 10807 - Legal actions"
 usc_title: 42
 usc_section: "10807"
 chapter: 114
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 10807"
-generated_at: "2026-03-29T20:34:54.051Z"
+generated_at: "2026-03-29T20:40:42.991Z"
 ---
 
 # § 10807. Legal actions

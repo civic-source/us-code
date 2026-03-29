@@ -3,9 +3,9 @@ title: "Section 1543 - Reporting requirement"
 usc_title: 50
 usc_section: "1543"
 chapter: 33
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 1543"
-generated_at: "2026-03-29T20:35:05.133Z"
+generated_at: "2026-03-29T20:40:58.251Z"
 ---
 
 # § 1543. Reporting requirement

@@ -3,9 +3,9 @@ title: "Section 2240 - Licensee incident reports as evidence"
 usc_title: 42
 usc_section: "2240"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 2240"
-generated_at: "2026-03-29T20:34:53.512Z"
+generated_at: "2026-03-29T20:40:42.438Z"
 ---
 
 # § 2240. Licensee incident reports as evidence

@@ -3,9 +3,9 @@ title: "Section 14507 - Removal from the reserve active-status list for years of
 usc_title: 10
 usc_section: "14507"
 chapter: 1407
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 14507"
-generated_at: "2026-03-29T20:31:54.787Z"
+generated_at: "2026-03-29T20:36:24.514Z"
 ---
 
 # § 14507. Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy

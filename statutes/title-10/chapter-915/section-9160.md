@@ -3,9 +3,9 @@ title: "Section 9160 - Warrant officers: original appointment; qualifications"
 usc_title: 10
 usc_section: "9160"
 chapter: 915
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 9160"
-generated_at: "2026-03-29T20:31:54.753Z"
+generated_at: "2026-03-29T20:36:24.478Z"
 ---
 
 # § 9160. Warrant officers: original appointment; qualifications

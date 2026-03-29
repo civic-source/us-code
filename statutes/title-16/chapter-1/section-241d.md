@@ -3,9 +3,9 @@ title: "Section 241d - Exclusion of lands"
 usc_title: 16
 usc_section: "241d"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 241d"
-generated_at: "2026-03-29T20:32:44.989Z"
+generated_at: "2026-03-29T20:38:03.297Z"
 ---
 
 # § 241d. Exclusion of lands

@@ -3,9 +3,9 @@ title: "Section 3443 - Transfers from Department of Labor"
 usc_title: 20
 usc_section: "3443"
 chapter: 48
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "20 U.S.C. § 3443"
-generated_at: "2026-03-29T20:32:28.922Z"
+generated_at: "2026-03-29T20:37:54.739Z"
 ---
 
 # § 3443. Transfers from Department of Labor

@@ -3,9 +3,9 @@ title: "Section 15002 - Definitions"
 usc_title: 42
 usc_section: "15002"
 chapter: 144
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 15002"
-generated_at: "2026-03-29T20:34:54.190Z"
+generated_at: "2026-03-29T20:40:43.133Z"
 ---
 
 # § 15002. Definitions

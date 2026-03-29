@@ -3,9 +3,9 @@ title: "Section 1123 - Rules and regulations for conduct of proceedings in Paten
 usc_title: 15
 usc_section: "1123"
 chapter: 22
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 1123"
-generated_at: "2026-03-29T20:32:09.850Z"
+generated_at: "2026-03-29T20:37:42.299Z"
 ---
 
 # § 1123. Rules and regulations for conduct of proceedings in Patent and Trademark Office

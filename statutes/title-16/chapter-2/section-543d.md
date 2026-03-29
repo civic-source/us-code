@@ -3,9 +3,9 @@ title: "Section 543d - Ecological studies; reports to Congressional committees a
 usc_title: 16
 usc_section: "543d"
 chapter: 2
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 543d"
-generated_at: "2026-03-29T20:32:45.210Z"
+generated_at: "2026-03-29T20:38:03.524Z"
 ---
 
 # § 543d. Ecological studies; reports to Congressional committees and to Chief of Forest Service; progress reports

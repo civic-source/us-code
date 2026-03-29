@@ -3,9 +3,9 @@ title: "Section 2103 - Authority of President"
 usc_title: 22
 usc_section: "2103"
 chapter: 30
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 2103"
-generated_at: "2026-03-29T20:32:59.927Z"
+generated_at: "2026-03-29T20:38:29.652Z"
 ---
 
 # § 2103. Authority of President

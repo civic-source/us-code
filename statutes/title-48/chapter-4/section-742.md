@@ -3,9 +3,9 @@ title: "Section 742 - Acknowledgment of deeds"
 usc_title: 48
 usc_section: "742"
 chapter: 4
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "48 U.S.C. § 742"
-generated_at: "2026-03-29T20:34:59.065Z"
+generated_at: "2026-03-29T20:40:48.317Z"
 ---
 
 # § 742. Acknowledgment of deeds

@@ -3,9 +3,9 @@ title: "Section 1204 - Coordination between the Department of the Treasury and t
 usc_title: 29
 usc_section: "1204"
 chapter: 18
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "29 U.S.C. § 1204"
-generated_at: "2026-03-29T20:33:05.764Z"
+generated_at: "2026-03-29T20:38:49.735Z"
 ---
 
 # § 1204. Coordination between the Department of the Treasury and the Department of Labor

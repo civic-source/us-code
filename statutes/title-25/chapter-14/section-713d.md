@@ -3,9 +3,9 @@ title: "Section 713d - Omitted"
 usc_title: 25
 usc_section: "713d"
 chapter: 14
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "25 U.S.C. § 713d"
-generated_at: "2026-03-29T20:32:54.676Z"
+generated_at: "2026-03-29T20:38:40.892Z"
 ---
 
 # § 713d. Omitted

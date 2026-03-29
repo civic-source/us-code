@@ -3,9 +3,9 @@ title: "Section 725 - Statement of appropriations; “usual number”"
 usc_title: 44
 usc_section: "725"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "44 U.S.C. § 725"
-generated_at: "2026-03-29T20:34:08.926Z"
+generated_at: "2026-03-29T20:39:49.845Z"
 ---
 
 # § 725. Statement of appropriations; “usual number”

@@ -3,9 +3,9 @@ title: "Section 7474 - Fee for transcript of record"
 usc_title: 26
 usc_section: "7474"
 chapter: 76
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 7474"
-generated_at: "2026-03-29T20:33:27.374Z"
+generated_at: "2026-03-29T20:39:05.137Z"
 ---
 
 # § 7474. Fee for transcript of record

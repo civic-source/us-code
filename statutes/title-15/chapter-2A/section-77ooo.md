@@ -3,9 +3,9 @@ title: "Section 77ooo - Duties and responsibility of the trustee"
 usc_title: 15
 usc_section: "77ooo"
 chapter: 2
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 77ooo"
-generated_at: "2026-03-29T20:32:09.648Z"
+generated_at: "2026-03-29T20:37:42.063Z"
 ---
 
 # § 77ooo. Duties and responsibility of the trustee

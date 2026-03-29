@@ -3,9 +3,9 @@ title: "Section 955 - Limitation on use of statistical information"
 usc_title: 7
 usc_section: "955"
 chapter: 32
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 955"
-generated_at: "2026-03-29T20:31:41.949Z"
+generated_at: "2026-03-29T20:37:01.698Z"
 ---
 
 # § 955. Limitation on use of statistical information

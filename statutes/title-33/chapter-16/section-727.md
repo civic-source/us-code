@@ -3,9 +3,9 @@ title: "Section 727 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "727"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 727"
-generated_at: "2026-03-29T20:33:34.197Z"
+generated_at: "2026-03-29T20:39:20.917Z"
 ---
 
 # § 727. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(2), Jan. 1, 2021 , 134 Stat. 4759

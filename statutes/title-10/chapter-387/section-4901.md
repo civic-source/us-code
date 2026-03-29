@@ -3,9 +3,9 @@ title: "Section 4901 - Department of Defense small business strategy"
 usc_title: 10
 usc_section: "4901"
 chapter: 387
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 4901"
-generated_at: "2026-03-29T20:31:54.706Z"
+generated_at: "2026-03-29T20:36:24.425Z"
 ---
 
 # § 4901. Department of Defense small business strategy

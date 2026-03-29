@@ -3,9 +3,9 @@ title: "Section 5780a - Transferred"
 usc_title: 42
 usc_section: "5780a"
 chapter: 72
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 5780a"
-generated_at: "2026-03-29T20:34:53.689Z"
+generated_at: "2026-03-29T20:40:42.629Z"
 ---
 
 # § 5780a. Transferred

@@ -3,9 +3,9 @@ title: "Section 1594 - General provisions"
 usc_title: 18
 usc_section: "1594"
 chapter: 77
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "18 U.S.C. § 1594"
-generated_at: "2026-03-29T20:32:21.380Z"
+generated_at: "2026-03-29T20:37:48.556Z"
 ---
 
 # § 1594. General provisions

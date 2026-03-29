@@ -3,9 +3,9 @@ title: "Section 1467 - Security for loan; assignment of securities; reasonable a
 usc_title: 25
 usc_section: "1467"
 chapter: 17
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "25 U.S.C. § 1467"
-generated_at: "2026-03-29T20:32:54.685Z"
+generated_at: "2026-03-29T20:38:40.902Z"
 ---
 
 # § 1467. Security for loan; assignment of securities; reasonable assurance of repayment

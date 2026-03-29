@@ -3,9 +3,9 @@ title: "Section 8783 - Availability of quality incentive payments for covered oi
 usc_title: 7
 usc_section: "8783"
 chapter: 113
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 8783"
-generated_at: "2026-03-29T20:31:42.287Z"
+generated_at: "2026-03-29T20:37:02.046Z"
 ---
 
 # § 8783. Availability of quality incentive payments for covered oilseed producers

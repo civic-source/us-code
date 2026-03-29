@@ -3,9 +3,9 @@ title: "Section 950 - Separability"
 usc_title: 33
 usc_section: "950"
 chapter: 18
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 950"
-generated_at: "2026-03-29T20:33:34.211Z"
+generated_at: "2026-03-29T20:39:20.935Z"
 ---
 
 # § 950. Separability

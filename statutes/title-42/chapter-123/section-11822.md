@@ -3,9 +3,9 @@ title: "Section 11822 - Annual report"
 usc_title: 42
 usc_section: "11822"
 chapter: 123
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 11822"
-generated_at: "2026-03-29T20:34:54.084Z"
+generated_at: "2026-03-29T20:40:43.029Z"
 ---
 
 # § 11822. Annual report

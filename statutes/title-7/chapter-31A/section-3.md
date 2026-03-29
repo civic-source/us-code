@@ -3,9 +3,9 @@ title: "Section 3 - Administration"
 usc_title: 7
 usc_section: "3"
 chapter: 31
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-29T20:31:41.949Z"
+generated_at: "2026-03-29T20:37:01.697Z"
 ---
 
 # § 950aaa–3. Administration

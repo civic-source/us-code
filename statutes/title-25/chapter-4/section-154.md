@@ -3,9 +3,9 @@ title: "Section 154 - Proceeds of sales of lands not subject to certain deductio
 usc_title: 25
 usc_section: "154"
 chapter: 4
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "25 U.S.C. § 154"
-generated_at: "2026-03-29T20:32:54.649Z"
+generated_at: "2026-03-29T20:38:40.866Z"
 ---
 
 # § 154. Proceeds of sales of lands not subject to certain deductions

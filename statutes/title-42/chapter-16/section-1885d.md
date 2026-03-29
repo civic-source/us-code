@@ -3,9 +3,9 @@ title: "Section 1885d - Biennial reports"
 usc_title: 42
 usc_section: "1885d"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 1885d"
-generated_at: "2026-03-29T20:34:53.451Z"
+generated_at: "2026-03-29T20:40:42.378Z"
 ---
 
 # § 1885d. Biennial reports

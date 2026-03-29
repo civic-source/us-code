@@ -3,9 +3,9 @@ title: "Section 3935 - Financing the corporation"
 usc_title: 42
 usc_section: "3935"
 chapter: 49
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 3935"
-generated_at: "2026-03-29T20:34:53.596Z"
+generated_at: "2026-03-29T20:40:42.525Z"
 ---
 
 # § 3935. Financing the corporation

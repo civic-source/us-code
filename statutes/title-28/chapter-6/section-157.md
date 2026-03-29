@@ -3,9 +3,9 @@ title: "Section 157 - Procedures"
 usc_title: 28
 usc_section: "157"
 chapter: 6
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "28 U.S.C. § 157"
-generated_at: "2026-03-29T20:33:11.447Z"
+generated_at: "2026-03-29T20:38:47.172Z"
 ---
 
 # § 157. Procedures

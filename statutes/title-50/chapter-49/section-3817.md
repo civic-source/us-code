@@ -3,9 +3,9 @@ title: "Section 3817 - Savings provision"
 usc_title: 50
 usc_section: "3817"
 chapter: 49
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 3817"
-generated_at: "2026-03-29T20:35:05.268Z"
+generated_at: "2026-03-29T20:40:58.367Z"
 ---
 
 # § 3817. Savings provision

@@ -3,9 +3,9 @@ title: "Section 6623 - Report on telecommunications to Committee on Rules and Ad
 usc_title: 2
 usc_section: "6623"
 chapter: 65
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "2 U.S.C. § 6623"
-generated_at: "2026-03-29T20:31:22.577Z"
+generated_at: "2026-03-29T20:36:02.769Z"
 ---
 
 # § 6623. Report on telecommunications to Committee on Rules and Administration

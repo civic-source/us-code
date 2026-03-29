@@ -3,9 +3,9 @@ title: "Section 690g - Violation of laws and regulations; penalties"
 usc_title: 16
 usc_section: "690g"
 chapter: 6
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 690g"
-generated_at: "2026-03-29T20:32:45.255Z"
+generated_at: "2026-03-29T20:38:03.571Z"
 ---
 
 # § 690g. Violation of laws and regulations; penalties

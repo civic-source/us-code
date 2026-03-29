@@ -3,9 +3,9 @@ title: "Section 2170 - Battery recharging stations for privately owned vehicles 
 usc_title: 2
 usc_section: "2170"
 chapter: 30
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "2 U.S.C. § 2170"
-generated_at: "2026-03-29T20:31:22.546Z"
+generated_at: "2026-03-29T20:36:02.738Z"
 ---
 
 # § 2170. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government

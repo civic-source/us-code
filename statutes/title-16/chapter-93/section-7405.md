@@ -3,9 +3,9 @@ title: "Section 7405 - Inspections"
 usc_title: 16
 usc_section: "7405"
 chapter: 93
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 7405"
-generated_at: "2026-03-29T20:32:45.517Z"
+generated_at: "2026-03-29T20:38:03.863Z"
 ---
 
 # § 7405. Inspections

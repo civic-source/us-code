@@ -3,9 +3,9 @@ title: "Section 7617 - Economic impact assessment"
 usc_title: 42
 usc_section: "7617"
 chapter: 85
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 7617"
-generated_at: "2026-03-29T20:34:53.879Z"
+generated_at: "2026-03-29T20:40:42.814Z"
 ---
 
 # § 7617. Economic impact assessment

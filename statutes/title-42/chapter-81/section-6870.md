@@ -3,9 +3,9 @@ title: "Section 6870 - Prohibition against discrimination; notification to funde
 usc_title: 42
 usc_section: "6870"
 chapter: 81
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 6870"
-generated_at: "2026-03-29T20:34:53.756Z"
+generated_at: "2026-03-29T20:40:42.700Z"
 ---
 
 # § 6870. Prohibition against discrimination; notification to funded project of violation; penalties for failure to comply

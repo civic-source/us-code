@@ -3,9 +3,9 @@ title: "Section 3452 - Relationship of other provisions of law to procurement of
 usc_title: 10
 usc_section: "3452"
 chapter: 247
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 3452"
-generated_at: "2026-03-29T20:31:54.673Z"
+generated_at: "2026-03-29T20:36:24.386Z"
 ---
 
 # § 3452. Relationship of other provisions of law to procurement of commercial products and commercial services

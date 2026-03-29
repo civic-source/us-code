@@ -3,9 +3,9 @@ title: "Section 7384f - Legislative proposal"
 usc_title: 42
 usc_section: "7384f"
 chapter: 84
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 7384f"
-generated_at: "2026-03-29T20:34:53.806Z"
+generated_at: "2026-03-29T20:40:42.749Z"
 ---
 
 # § 7384f. Legislative proposal

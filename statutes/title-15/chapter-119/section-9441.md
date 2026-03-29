@@ -3,9 +3,9 @@ title: "Section 9441 - Stakeholder outreach"
 usc_title: 15
 usc_section: "9441"
 chapter: 119
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 9441"
-generated_at: "2026-03-29T20:32:10.139Z"
+generated_at: "2026-03-29T20:37:42.614Z"
 ---
 
 # § 9441. Stakeholder outreach

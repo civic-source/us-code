@@ -3,9 +3,9 @@ title: "Section 674 - White Horse Hill National Game Preserve"
 usc_title: 16
 usc_section: "674"
 chapter: 6
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 674"
-generated_at: "2026-03-29T20:32:45.253Z"
+generated_at: "2026-03-29T20:38:03.569Z"
 ---
 
 # § 674. White Horse Hill National Game Preserve

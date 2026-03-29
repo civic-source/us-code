@@ -3,9 +3,9 @@ title: "Section 47131 - Annual report"
 usc_title: 49
 usc_section: "47131"
 chapter: 471
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 47131"
-generated_at: "2026-03-29T20:35:10.961Z"
+generated_at: "2026-03-29T20:41:16.380Z"
 ---
 
 # § 47131. Annual report

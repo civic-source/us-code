@@ -3,9 +3,9 @@ title: "Section 60101 - Definition"
 usc_title: 36
 usc_section: "60101"
 chapter: 601
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "36 U.S.C. § 60101"
-generated_at: "2026-03-29T20:33:50.627Z"
+generated_at: "2026-03-29T20:39:42.205Z"
 ---
 
 # § 60101. Definition

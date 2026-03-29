@@ -3,9 +3,9 @@ title: "Section 2008a - Equitable relief"
 usc_title: 7
 usc_section: "2008a"
 chapter: 50
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 2008a"
-generated_at: "2026-03-29T20:31:42.051Z"
+generated_at: "2026-03-29T20:37:01.807Z"
 ---
 
 # § 2008a. Equitable relief

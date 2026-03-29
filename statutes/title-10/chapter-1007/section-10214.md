@@ -3,9 +3,9 @@ title: "Section 10214 - Adjutants general and assistant adjutants general: refer
 usc_title: 10
 usc_section: "10214"
 chapter: 1007
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 10214"
-generated_at: "2026-03-29T20:31:54.767Z"
+generated_at: "2026-03-29T20:36:24.491Z"
 ---
 
 # § 10214. Adjutants general and assistant adjutants general: reference to other officers of National Guard

@@ -3,9 +3,9 @@ title: "Section 1603 - Definitions"
 usc_title: 28
 usc_section: "1603"
 chapter: 97
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "28 U.S.C. § 1603"
-generated_at: "2026-03-29T20:33:11.489Z"
+generated_at: "2026-03-29T20:38:47.210Z"
 ---
 
 # § 1603. Definitions

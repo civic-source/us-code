@@ -3,9 +3,9 @@ title: "Section 288d - Privileges, exemptions, and immunities of officers, emplo
 usc_title: 22
 usc_section: "288d"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 288d"
-generated_at: "2026-03-29T20:32:59.883Z"
+generated_at: "2026-03-29T20:38:29.606Z"
 ---
 
 # § 288d. Privileges, exemptions, and immunities of officers, employees, and their families; waiver

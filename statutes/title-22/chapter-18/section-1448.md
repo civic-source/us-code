@@ -3,9 +3,9 @@ title: "Section 1448 - Assistance to certain institutions abroad founded or spon
 usc_title: 22
 usc_section: "1448"
 chapter: 18
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 1448"
-generated_at: "2026-03-29T20:32:59.904Z"
+generated_at: "2026-03-29T20:38:29.628Z"
 ---
 
 # § 1448. Assistance to certain institutions abroad founded or sponsored by United States citizens

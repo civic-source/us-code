@@ -3,9 +3,9 @@ title: "Section 1 - Protection of United States Government personnel engaged in 
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T20:34:53.472Z"
+generated_at: "2026-03-29T20:40:42.401Z"
 ---
 
 # § 2000dd–1. Protection of United States Government personnel engaged in authorized interrogations

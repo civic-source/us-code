@@ -3,9 +3,9 @@ title: "Section 3 - Number of electors"
 usc_title: 3
 usc_section: "3"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "3 U.S.C. § 3"
-generated_at: "2026-03-29T20:31:19.807Z"
+generated_at: "2026-03-29T20:35:44.136Z"
 ---
 
 # § 3. Number of electors

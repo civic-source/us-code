@@ -3,9 +3,9 @@ title: "Section 282o - Selective capital increase and amendment of the Articles 
 usc_title: 22
 usc_section: "282o"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 282o"
-generated_at: "2026-03-29T20:32:59.866Z"
+generated_at: "2026-03-29T20:38:29.586Z"
 ---
 
 # § 282o. Selective capital increase and amendment of the Articles of Agreement

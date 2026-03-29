@@ -3,9 +3,9 @@ title: "Section 12651c - Chief Executive Officer"
 usc_title: 42
 usc_section: "12651c"
 chapter: 129
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 12651c"
-generated_at: "2026-03-29T20:34:54.123Z"
+generated_at: "2026-03-29T20:40:43.068Z"
 ---
 
 # § 12651c. Chief Executive Officer

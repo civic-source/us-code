@@ -3,9 +3,9 @@ title: "Section 1414 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1414"
 chapter: 28
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 1414"
-generated_at: "2026-03-29T20:35:05.129Z"
+generated_at: "2026-03-29T20:40:58.246Z"
 ---
 
 # §§ 1411 to 1414. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1570

@@ -3,9 +3,9 @@ title: "Section 1305 - Renewal or extension of agreement; participation of subse
 usc_title: 16
 usc_section: "1305"
 chapter: 29
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 1305"
-generated_at: "2026-03-29T20:32:45.353Z"
+generated_at: "2026-03-29T20:38:03.677Z"
 ---
 
 # § 1305. Renewal or extension of agreement; participation of subsequent owner or operator in program

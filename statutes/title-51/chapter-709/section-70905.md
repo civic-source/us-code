@@ -3,9 +3,9 @@ title: "Section 70905 - National laboratory designation"
 usc_title: 51
 usc_section: "70905"
 chapter: 709
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "51 U.S.C. § 70905"
-generated_at: "2026-03-29T20:35:13.957Z"
+generated_at: "2026-03-29T20:41:32.736Z"
 ---
 
 # § 70905. National laboratory designation

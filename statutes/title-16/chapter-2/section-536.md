@@ -3,9 +3,9 @@ title: "Section 536 - Recording of instruments; furnishing of instruments affect
 usc_title: 16
 usc_section: "536"
 chapter: 2
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 536"
-generated_at: "2026-03-29T20:32:45.198Z"
+generated_at: "2026-03-29T20:38:03.510Z"
 ---
 
 # § 536. Recording of instruments; furnishing of instruments affecting public domain lands to Secretary of the Interior

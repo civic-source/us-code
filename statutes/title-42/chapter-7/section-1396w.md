@@ -3,9 +3,9 @@ title: "Section 1396w - Asset verification through access to information held by
 usc_title: 42
 usc_section: "1396w"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 1396w"
-generated_at: "2026-03-29T20:34:53.304Z"
+generated_at: "2026-03-29T20:40:42.226Z"
 ---
 
 # § 1396w. Asset verification through access to information held by financial institutions

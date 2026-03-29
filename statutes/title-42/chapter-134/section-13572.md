@@ -3,9 +3,9 @@ title: "Section 13572 - Authorization of program"
 usc_title: 42
 usc_section: "13572"
 chapter: 134
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 13572"
-generated_at: "2026-03-29T20:34:54.176Z"
+generated_at: "2026-03-29T20:40:43.120Z"
 ---
 
 # § 13572. Authorization of program

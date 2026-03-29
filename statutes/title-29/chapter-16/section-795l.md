@@ -3,9 +3,9 @@ title: "Section 795l - Restriction"
 usc_title: 29
 usc_section: "795l"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "29 U.S.C. § 795l"
-generated_at: "2026-03-29T20:33:05.699Z"
+generated_at: "2026-03-29T20:38:49.675Z"
 ---
 
 # § 795l. Restriction

@@ -3,9 +3,9 @@ title: "Section 3842 - Investigations and inspections by Secretary"
 usc_title: 33
 usc_section: "3842"
 chapter: 51
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 3842"
-generated_at: "2026-03-29T20:33:34.338Z"
+generated_at: "2026-03-29T20:39:21.076Z"
 ---
 
 # § 3842. Investigations and inspections by Secretary

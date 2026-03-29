@@ -3,9 +3,9 @@ title: "Section 1701 - Unusual and extraordinary threat; declaration of national
 usc_title: 50
 usc_section: "1701"
 chapter: 35
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 1701"
-generated_at: "2026-03-29T20:35:05.135Z"
+generated_at: "2026-03-29T20:40:58.253Z"
 ---
 
 # § 1701. Unusual and extraordinary threat; declaration of national emergency; exercise of Presidential authorities

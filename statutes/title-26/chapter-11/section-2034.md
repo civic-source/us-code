@@ -3,9 +3,9 @@ title: "Section 2034 - Dower or curtesy interests"
 usc_title: 26
 usc_section: "2034"
 chapter: 11
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 2034"
-generated_at: "2026-03-29T20:33:27.161Z"
+generated_at: "2026-03-29T20:39:04.957Z"
 ---
 
 # § 2034. Dower or curtesy interests

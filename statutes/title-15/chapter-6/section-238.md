@@ -3,9 +3,9 @@ title: "Section 238 - Penalty for selling in barrels not marked"
 usc_title: 15
 usc_section: "238"
 chapter: 6
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 238"
-generated_at: "2026-03-29T20:32:09.738Z"
+generated_at: "2026-03-29T20:37:42.168Z"
 ---
 
 # § 238. Penalty for selling in barrels not marked

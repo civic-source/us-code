@@ -3,9 +3,9 @@ title: "Section 3242 - Supplies: economic order quantities"
 usc_title: 10
 usc_section: "3242"
 chapter: 223
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 3242"
-generated_at: "2026-03-29T20:31:54.670Z"
+generated_at: "2026-03-29T20:36:24.383Z"
 ---
 
 # § 3242. Supplies: economic order quantities

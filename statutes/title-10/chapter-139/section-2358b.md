@@ -3,9 +3,9 @@ title: "Section 2358b - Joint reserve detachment of the Defense Innovation Unit"
 usc_title: 10
 usc_section: "2358b"
 chapter: 139
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2358b"
-generated_at: "2026-03-29T20:31:54.594Z"
+generated_at: "2026-03-29T20:36:24.298Z"
 ---
 
 # § 2358b. Joint reserve detachment of the Defense Innovation Unit

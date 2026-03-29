@@ -3,9 +3,9 @@ title: "Section 2362 - Transfers of allocations among cooperative threat reducti
 usc_title: 50
 usc_section: "2362"
 chapter: 40
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 2362"
-generated_at: "2026-03-29T20:35:05.176Z"
+generated_at: "2026-03-29T20:40:58.287Z"
 ---
 
 # § 2362. Transfers of allocations among cooperative threat reduction programs

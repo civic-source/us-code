@@ -3,9 +3,9 @@ title: "Section 50314 - Presentation of Federal Law Enforcement Badges"
 usc_title: 34
 usc_section: "50314"
 chapter: 503
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "34 U.S.C. § 50314"
-generated_at: "2026-03-29T20:33:40.402Z"
+generated_at: "2026-03-29T20:39:11.667Z"
 ---
 
 # § 50314. Presentation of Federal Law Enforcement Badges

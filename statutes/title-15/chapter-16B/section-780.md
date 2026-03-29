@@ -3,9 +3,9 @@ title: "Section 780 - Office of Private Grievances and Redress"
 usc_title: 15
 usc_section: "780"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 780"
-generated_at: "2026-03-29T20:32:09.838Z"
+generated_at: "2026-03-29T20:37:42.283Z"
 ---
 
 # § 780. Office of Private Grievances and Redress

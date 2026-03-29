@@ -3,9 +3,9 @@ title: "Section 3336 - Special provision"
 usc_title: 16
 usc_section: "3336"
 chapter: 52
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 3336"
-generated_at: "2026-03-29T20:32:45.429Z"
+generated_at: "2026-03-29T20:38:03.781Z"
 ---
 
 # § 3336. Special provision

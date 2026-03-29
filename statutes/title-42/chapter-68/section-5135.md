@@ -3,9 +3,9 @@ title: "Section 5135 - Grants to entities for establishment of hazard mitigation
 usc_title: 42
 usc_section: "5135"
 chapter: 68
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 5135"
-generated_at: "2026-03-29T20:34:53.655Z"
+generated_at: "2026-03-29T20:40:42.589Z"
 ---
 
 # § 5135. Grants to entities for establishment of hazard mitigation revolving loan funds

@@ -3,9 +3,9 @@ title: "Section 6939f - Long-term storage"
 usc_title: 42
 usc_section: "6939f"
 chapter: 82
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 6939f"
-generated_at: "2026-03-29T20:34:53.770Z"
+generated_at: "2026-03-29T20:40:42.714Z"
 ---
 
 # § 6939f. Long-term storage

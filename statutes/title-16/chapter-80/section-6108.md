@@ -3,9 +3,9 @@ title: "Section 6108 - Neotropical Migratory Bird Conservation Fund"
 usc_title: 16
 usc_section: "6108"
 chapter: 80
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 6108"
-generated_at: "2026-03-29T20:32:45.493Z"
+generated_at: "2026-03-29T20:38:03.840Z"
 ---
 
 # § 6108. Neotropical Migratory Bird Conservation Fund

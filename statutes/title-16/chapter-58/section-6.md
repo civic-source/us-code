@@ -3,9 +3,9 @@ title: "Section 6 - Terminal lakes assistance"
 usc_title: 16
 usc_section: "6"
 chapter: 58
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T20:32:45.453Z"
+generated_at: "2026-03-29T20:38:03.804Z"
 ---
 
 # § 3839bb–6. Terminal lakes assistance

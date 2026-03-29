@@ -3,9 +3,9 @@ title: "Section 339 - Participation by State member banks in lotteries and relat
 usc_title: 12
 usc_section: "339"
 chapter: 3
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 339"
-generated_at: "2026-03-29T20:32:14.848Z"
+generated_at: "2026-03-29T20:37:23.903Z"
 ---
 
 # § 339. Participation by State member banks in lotteries and related activities

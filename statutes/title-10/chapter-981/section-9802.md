@@ -3,9 +3,9 @@ title: "Section 9802 - Admiralty claims against the United States"
 usc_title: 10
 usc_section: "9802"
 chapter: 981
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 9802"
-generated_at: "2026-03-29T20:31:54.765Z"
+generated_at: "2026-03-29T20:36:24.489Z"
 ---
 
 # § 9802. Admiralty claims against the United States

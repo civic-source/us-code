@@ -3,9 +3,9 @@ title: "Section 6553 - Accelerated information gathering regarding forest-damagi
 usc_title: 16
 usc_section: "6553"
 chapter: 84
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 6553"
-generated_at: "2026-03-29T20:32:45.500Z"
+generated_at: "2026-03-29T20:38:03.846Z"
 ---
 
 # § 6553. Accelerated information gathering regarding forest-damaging insects

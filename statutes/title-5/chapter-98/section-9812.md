@@ -3,9 +3,9 @@ title: "Section 9812 - Annual leave enhancements"
 usc_title: 5
 usc_section: "9812"
 chapter: 98
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 9812"
-generated_at: "2026-03-29T20:31:26.963Z"
+generated_at: "2026-03-29T20:35:49.248Z"
 ---
 
 # § 9812. Annual leave enhancements

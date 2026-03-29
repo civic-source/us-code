@@ -3,9 +3,9 @@ title: "Section 3381 - Coordination of counterintelligence activities"
 usc_title: 50
 usc_section: "3381"
 chapter: 45
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 3381"
-generated_at: "2026-03-29T20:35:05.248Z"
+generated_at: "2026-03-29T20:40:58.352Z"
 ---
 
 # § 3381. Coordination of counterintelligence activities

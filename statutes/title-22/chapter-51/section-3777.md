@@ -3,9 +3,9 @@ title: "Section 3777 - Investigation of accident or injury giving rise to claim"
 usc_title: 22
 usc_section: "3777"
 chapter: 51
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 3777"
-generated_at: "2026-03-29T20:33:00.041Z"
+generated_at: "2026-03-29T20:38:29.780Z"
 ---
 
 # § 3777. Investigation of accident or injury giving rise to claim

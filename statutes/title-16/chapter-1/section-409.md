@@ -3,9 +3,9 @@ title: "Section 409 - Establishment; acquisition of land"
 usc_title: 16
 usc_section: "409"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 409"
-generated_at: "2026-03-29T20:32:45.014Z"
+generated_at: "2026-03-29T20:38:03.324Z"
 ---
 
 # § 409. Establishment; acquisition of land

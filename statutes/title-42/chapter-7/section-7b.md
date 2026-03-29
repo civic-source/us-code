@@ -3,9 +3,9 @@ title: "Section 7b - Criminal penalties for acts involving Federal health care p
 usc_title: 42
 usc_section: "7b"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 7b"
-generated_at: "2026-03-29T20:34:52.988Z"
+generated_at: "2026-03-29T20:40:41.885Z"
 ---
 
 # § 1320a–7b. Criminal penalties for acts involving Federal health care programs

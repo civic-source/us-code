@@ -3,9 +3,9 @@ title: "Section 2522 - Notice of appeal"
 usc_title: 28
 usc_section: "2522"
 chapter: 165
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "28 U.S.C. § 2522"
-generated_at: "2026-03-29T20:33:11.511Z"
+generated_at: "2026-03-29T20:38:47.232Z"
 ---
 
 # § 2522. Notice of appeal

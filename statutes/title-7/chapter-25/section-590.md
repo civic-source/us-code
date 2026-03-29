@@ -3,9 +3,9 @@ title: "Section 590 - Authorization of appropriations"
 usc_title: 7
 usc_section: "590"
 chapter: 25
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 590"
-generated_at: "2026-03-29T20:31:41.927Z"
+generated_at: "2026-03-29T20:37:01.676Z"
 ---
 
 # § 590. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2305 - Voluntary retirement after thirty years’ service"
 usc_title: 14
 usc_section: "2305"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "14 U.S.C. § 2305"
-generated_at: "2026-03-29T20:32:03.598Z"
+generated_at: "2026-03-29T20:37:10.917Z"
 ---
 
 # § 2305. Voluntary retirement after thirty years’ service

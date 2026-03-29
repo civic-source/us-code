@@ -3,9 +3,9 @@ title: "Section 2661a - Repealed. Pub. L. 97–295, § 1(31)(A) , Oct. 12, 1982 
 usc_title: 10
 usc_section: "2661a"
 chapter: 159
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2661a"
-generated_at: "2026-03-29T20:31:54.634Z"
+generated_at: "2026-03-29T20:36:24.339Z"
 ---
 
 # [§ 2661a. Repealed. Pub. L. 97–295, § 1(31)(A) , Oct. 12, 1982 , 96 Stat. 1296 ]

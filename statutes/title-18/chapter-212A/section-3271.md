@@ -3,9 +3,9 @@ title: "Section 3271 - Trafficking in persons offenses committed by persons empl
 usc_title: 18
 usc_section: "3271"
 chapter: 212
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "18 U.S.C. § 3271"
-generated_at: "2026-03-29T20:32:21.436Z"
+generated_at: "2026-03-29T20:37:48.609Z"
 ---
 
 # § 3271. Trafficking in persons offenses committed by persons employed by or accompanying the Federal Government outside the United States

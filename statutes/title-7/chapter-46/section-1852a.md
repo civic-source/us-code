@@ -3,9 +3,9 @@ title: "Section 1852a - Repealed. Pub. L. 90–475, § 8 , Aug. 11, 1968 , 82 St
 usc_title: 7
 usc_section: "1852a"
 chapter: 46
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 1852a"
-generated_at: "2026-03-29T20:31:42.030Z"
+generated_at: "2026-03-29T20:37:01.785Z"
 ---
 
 # § 1852a. Repealed. Pub. L. 90–475, § 8 , Aug. 11, 1968 , 82 Stat. 703

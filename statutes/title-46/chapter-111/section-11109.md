@@ -3,9 +3,9 @@ title: "Section 11109 - Attachment of wages"
 usc_title: 46
 usc_section: "11109"
 chapter: 111
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "46 U.S.C. § 11109"
-generated_at: "2026-03-29T20:35:02.383Z"
+generated_at: "2026-03-29T20:40:51.602Z"
 ---
 
 # § 11109. Attachment of wages

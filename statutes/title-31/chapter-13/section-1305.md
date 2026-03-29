@@ -3,9 +3,9 @@ title: "Section 1305 - Miscellaneous permanent appropriations"
 usc_title: 31
 usc_section: "1305"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "31 U.S.C. § 1305"
-generated_at: "2026-03-29T20:33:31.758Z"
+generated_at: "2026-03-29T20:39:09.953Z"
 ---
 
 # § 1305. Miscellaneous permanent appropriations

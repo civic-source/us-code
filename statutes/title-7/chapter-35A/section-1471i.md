@@ -3,9 +3,9 @@ title: "Section 1471i - Administration"
 usc_title: 7
 usc_section: "1471i"
 chapter: 35
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 1471i"
-generated_at: "2026-03-29T20:31:41.981Z"
+generated_at: "2026-03-29T20:37:01.733Z"
 ---
 
 # § 1471i. Administration

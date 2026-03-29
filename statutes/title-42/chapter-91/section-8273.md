@@ -3,9 +3,9 @@ title: "Section 8273 - Purpose of program"
 usc_title: 42
 usc_section: "8273"
 chapter: 91
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 8273"
-generated_at: "2026-03-29T20:34:53.928Z"
+generated_at: "2026-03-29T20:40:42.863Z"
 ---
 
 # § 8273. Purpose of program

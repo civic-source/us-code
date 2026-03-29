@@ -3,9 +3,9 @@ title: "Section 714p - Release of innocent purchasers of converted goods"
 usc_title: 15
 usc_section: "714p"
 chapter: 15
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 714p"
-generated_at: "2026-03-29T20:32:09.824Z"
+generated_at: "2026-03-29T20:37:42.270Z"
 ---
 
 # § 714p. Release of innocent purchasers of converted goods

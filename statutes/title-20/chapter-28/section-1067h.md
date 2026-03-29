@@ -3,9 +3,9 @@ title: "Section 1067h - Grant application"
 usc_title: 20
 usc_section: "1067h"
 chapter: 28
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "20 U.S.C. § 1067h"
-generated_at: "2026-03-29T20:32:28.764Z"
+generated_at: "2026-03-29T20:37:54.567Z"
 ---
 
 # § 1067h. Grant application

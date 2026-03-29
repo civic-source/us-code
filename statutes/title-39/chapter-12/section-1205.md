@@ -3,9 +3,9 @@ title: "Section 1205 - Deductions of dues"
 usc_title: 39
 usc_section: "1205"
 chapter: 12
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "39 U.S.C. § 1205"
-generated_at: "2026-03-29T20:33:51.061Z"
+generated_at: "2026-03-29T20:39:30.576Z"
 ---
 
 # § 1205. Deductions of dues

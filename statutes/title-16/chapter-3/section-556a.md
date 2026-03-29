@@ -3,9 +3,9 @@ title: "Section 556a - Omitted"
 usc_title: 16
 usc_section: "556a"
 chapter: 3
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 556a"
-generated_at: "2026-03-29T20:32:45.221Z"
+generated_at: "2026-03-29T20:38:03.534Z"
 ---
 
 # § 556a. Omitted

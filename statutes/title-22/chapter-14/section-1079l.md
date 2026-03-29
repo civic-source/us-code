@@ -3,9 +3,9 @@ title: "Section 1079l - Repealed. Pub. L. 96–465, title II, § 2205(15) , Oct.
 usc_title: 22
 usc_section: "1079l"
 chapter: 14
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 1079l"
-generated_at: "2026-03-29T20:32:59.901Z"
+generated_at: "2026-03-29T20:38:29.625Z"
 ---
 
 # § 1079l. Repealed. Pub. L. 96–465, title II, § 2205(15) , Oct. 17, 1980 , 94 Stat. 2160

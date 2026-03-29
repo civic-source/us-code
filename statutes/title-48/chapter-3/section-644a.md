@@ -3,9 +3,9 @@ title: "Section 644a - Jurisdiction of district court of cases arising on or wit
 usc_title: 48
 usc_section: "644a"
 chapter: 3
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "48 U.S.C. § 644a"
-generated_at: "2026-03-29T20:34:59.064Z"
+generated_at: "2026-03-29T20:40:48.315Z"
 ---
 
 # § 644a. Jurisdiction of district court of cases arising on or within Midway, Wake, Johnston, Sand, etc., Islands; laws applicable to jury trials

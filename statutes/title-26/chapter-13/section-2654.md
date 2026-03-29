@@ -3,9 +3,9 @@ title: "Section 2654 - Special rules"
 usc_title: 26
 usc_section: "2654"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 2654"
-generated_at: "2026-03-29T20:33:27.174Z"
+generated_at: "2026-03-29T20:39:04.968Z"
 ---
 
 # § 2654. Special rules

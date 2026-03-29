@@ -3,9 +3,9 @@ title: "Section 2422 - Content of application"
 usc_title: 7
 usc_section: "2422"
 chapter: 57
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 2422"
-generated_at: "2026-03-29T20:31:42.111Z"
+generated_at: "2026-03-29T20:37:01.870Z"
 ---
 
 # § 2422. Content of application

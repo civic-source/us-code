@@ -3,9 +3,9 @@ title: "Section 2249 - Administrative expenses"
 usc_title: 12
 usc_section: "2249"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 2249"
-generated_at: "2026-03-29T20:32:15.088Z"
+generated_at: "2026-03-29T20:37:24.156Z"
 ---
 
 # § 2249. Administrative expenses

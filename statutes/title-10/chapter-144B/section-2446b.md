@@ -3,9 +3,9 @@ title: "Section 2446b - Requirement to address modular open system approach in p
 usc_title: 10
 usc_section: "2446b"
 chapter: 144
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2446b"
-generated_at: "2026-03-29T20:31:54.611Z"
+generated_at: "2026-03-29T20:36:24.316Z"
 ---
 
 # § 2446b. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design

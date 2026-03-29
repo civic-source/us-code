@@ -3,9 +3,9 @@ title: "Section 1137 - Omitted"
 usc_title: 7
 usc_section: "1137"
 chapter: 34
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 1137"
-generated_at: "2026-03-29T20:31:41.951Z"
+generated_at: "2026-03-29T20:37:01.700Z"
 ---
 
 # §§ 1131 to 1137. Omitted

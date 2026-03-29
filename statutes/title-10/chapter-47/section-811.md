@@ -3,9 +3,9 @@ title: "Section 811 - Art. 11. Reports and receiving of prisoners"
 usc_title: 10
 usc_section: "811"
 chapter: 47
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 811"
-generated_at: "2026-03-29T20:31:54.443Z"
+generated_at: "2026-03-29T20:36:24.139Z"
 ---
 
 # § 811. Art. 11. Reports and receiving of prisoners

@@ -3,9 +3,9 @@ title: "Section 1695 - Stockholder’s derivative action"
 usc_title: 28
 usc_section: "1695"
 chapter: 113
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "28 U.S.C. § 1695"
-generated_at: "2026-03-29T20:33:11.492Z"
+generated_at: "2026-03-29T20:38:47.214Z"
 ---
 
 # § 1695. Stockholder’s derivative action

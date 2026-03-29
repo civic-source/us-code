@@ -3,9 +3,9 @@ title: "Section 544c - Minority group participation in construction of the Tenne
 usc_title: 33
 usc_section: "544c"
 chapter: 12
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 544c"
-generated_at: "2026-03-29T20:33:34.174Z"
+generated_at: "2026-03-29T20:39:20.892Z"
 ---
 
 # § 544c. Minority group participation in construction of the Tennessee-Tombigbee Waterway project; annual report to Congress

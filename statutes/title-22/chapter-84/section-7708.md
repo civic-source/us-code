@@ -3,9 +3,9 @@ title: "Section 7708 - Millennium Challenge Compact"
 usc_title: 22
 usc_section: "7708"
 chapter: 84
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 7708"
-generated_at: "2026-03-29T20:33:00.159Z"
+generated_at: "2026-03-29T20:38:29.902Z"
 ---
 
 # § 7708. Millennium Challenge Compact

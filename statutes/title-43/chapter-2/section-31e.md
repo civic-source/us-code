@@ -3,9 +3,9 @@ title: "Section 31e - Geologic mapping program 5-year plan"
 usc_title: 43
 usc_section: "31e"
 chapter: 2
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "43 U.S.C. § 31e"
-generated_at: "2026-03-29T20:34:16.667Z"
+generated_at: "2026-03-29T20:39:58.674Z"
 ---
 
 # § 31e. Geologic mapping program 5-year plan

@@ -3,9 +3,9 @@ title: "Section 5102 - Appointment of consultants by Speaker, Majority Leader, a
 usc_title: 2
 usc_section: "5102"
 chapter: 51
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "2 U.S.C. § 5102"
-generated_at: "2026-03-29T20:31:22.562Z"
+generated_at: "2026-03-29T20:36:02.755Z"
 ---
 
 # § 5102. Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation

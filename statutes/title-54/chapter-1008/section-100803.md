@@ -3,9 +3,9 @@ title: "Section 100803 - Interpretation and education evaluation and quality imp
 usc_title: 54
 usc_section: "100803"
 chapter: 1008
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "54 U.S.C. § 100803"
-generated_at: "2026-03-29T20:35:14.749Z"
+generated_at: "2026-03-29T20:41:25.017Z"
 ---
 
 # § 100803. Interpretation and education evaluation and quality improvement

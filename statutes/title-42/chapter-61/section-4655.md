@@ -3,9 +3,9 @@ title: "Section 4655 - Requirements for uniform land acquisition policies; payme
 usc_title: 42
 usc_section: "4655"
 chapter: 61
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 4655"
-generated_at: "2026-03-29T20:34:53.625Z"
+generated_at: "2026-03-29T20:40:42.560Z"
 ---
 
 # § 4655. Requirements for uniform land acquisition policies; payments of expenses incidental to transfer of real property to State; payment of litigation expenses in certain cases

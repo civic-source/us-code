@@ -3,9 +3,9 @@ title: "Section 9031 - Availability of nonrecourse marketing assistance loans fo
 usc_title: 7
 usc_section: "9031"
 chapter: 115
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 9031"
-generated_at: "2026-03-29T20:31:42.293Z"
+generated_at: "2026-03-29T20:37:02.054Z"
 ---
 
 # § 9031. Availability of nonrecourse marketing assistance loans for loan commodities

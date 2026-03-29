@@ -3,9 +3,9 @@ title: "Section 14906 - Officers eligible to serve on boards"
 usc_title: 10
 usc_section: "14906"
 chapter: 1411
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 14906"
-generated_at: "2026-03-29T20:31:54.789Z"
+generated_at: "2026-03-29T20:36:24.518Z"
 ---
 
 # § 14906. Officers eligible to serve on boards

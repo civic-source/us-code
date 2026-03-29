@@ -3,9 +3,9 @@ title: "Section 2911 - Study on most equitable and effective mechanism for fundi
 usc_title: 16
 usc_section: "2911"
 chapter: 49
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 2911"
-generated_at: "2026-03-29T20:32:45.419Z"
+generated_at: "2026-03-29T20:38:03.769Z"
 ---
 
 # § 2911. Study on most equitable and effective mechanism for funding State conservation plans; report to Congressional committees

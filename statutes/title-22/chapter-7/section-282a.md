@@ -3,9 +3,9 @@ title: "Section 282a - Governor, executive director, and alternates of Corporati
 usc_title: 22
 usc_section: "282a"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 282a"
-generated_at: "2026-03-29T20:32:59.865Z"
+generated_at: "2026-03-29T20:38:29.585Z"
 ---
 
 # § 282a. Governor, executive director, and alternates of Corporation

@@ -3,9 +3,9 @@ title: "Section 6345 - CHP Technical Assistance Partnership Program"
 usc_title: 42
 usc_section: "6345"
 chapter: 77
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 6345"
-generated_at: "2026-03-29T20:34:53.732Z"
+generated_at: "2026-03-29T20:40:42.675Z"
 ---
 
 # § 6345. CHP Technical Assistance Partnership Program

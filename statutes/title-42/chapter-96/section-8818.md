@@ -3,9 +3,9 @@ title: "Section 8818 - Reports"
 usc_title: 42
 usc_section: "8818"
 chapter: 96
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 8818"
-generated_at: "2026-03-29T20:34:53.947Z"
+generated_at: "2026-03-29T20:40:42.881Z"
 ---
 
 # § 8818. Reports

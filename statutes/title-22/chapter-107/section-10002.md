@@ -3,9 +3,9 @@ title: "Section 10002 - Statement of policy"
 usc_title: 22
 usc_section: "10002"
 chapter: 107
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 10002"
-generated_at: "2026-03-29T20:33:00.219Z"
+generated_at: "2026-03-29T20:38:29.969Z"
 ---
 
 # § 10002. Statement of policy

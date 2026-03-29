@@ -3,9 +3,9 @@ title: "Section 1129 - Center of excellence in contracting for services"
 usc_title: 41
 usc_section: "1129"
 chapter: 11
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "41 U.S.C. § 1129"
-generated_at: "2026-03-29T20:34:07.726Z"
+generated_at: "2026-03-29T20:39:46.704Z"
 ---
 
 # § 1129. Center of excellence in contracting for services

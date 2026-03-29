@@ -3,9 +3,9 @@ title: "Section 104909 - Wildlife management in parks"
 usc_title: 54
 usc_section: "104909"
 chapter: 1049
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "54 U.S.C. § 104909"
-generated_at: "2026-03-29T20:35:14.758Z"
+generated_at: "2026-03-29T20:41:25.028Z"
 ---
 
 # § 104909. Wildlife management in parks

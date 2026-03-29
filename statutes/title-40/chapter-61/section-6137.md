@@ -3,9 +3,9 @@ title: "Section 6137 - Penalties"
 usc_title: 40
 usc_section: "6137"
 chapter: 61
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "40 U.S.C. § 6137"
-generated_at: "2026-03-29T20:33:44.479Z"
+generated_at: "2026-03-29T20:39:32.168Z"
 ---
 
 # § 6137. Penalties

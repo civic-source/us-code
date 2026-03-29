@@ -3,9 +3,9 @@ title: "Section 47f - Inapplicability of certain laws to lands acquired under se
 usc_title: 16
 usc_section: "47f"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 47f"
-generated_at: "2026-03-29T20:32:44.963Z"
+generated_at: "2026-03-29T20:38:03.268Z"
 ---
 
 # § 47f. Inapplicability of certain laws to lands acquired under section 47e

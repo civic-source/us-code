@@ -3,9 +3,9 @@ title: "Section 170 - Funding flexibility for transportation emergencies"
 usc_title: 23
 usc_section: "170"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "23 U.S.C. § 170"
-generated_at: "2026-03-29T20:32:49.828Z"
+generated_at: "2026-03-29T20:38:31.797Z"
 ---
 
 # § 170. Funding flexibility for transportation emergencies

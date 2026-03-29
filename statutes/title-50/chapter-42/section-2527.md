@@ -3,9 +3,9 @@ title: "Section 2527 - Nuclear test ban readiness program"
 usc_title: 50
 usc_section: "2527"
 chapter: 42
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 2527"
-generated_at: "2026-03-29T20:35:05.183Z"
+generated_at: "2026-03-29T20:40:58.296Z"
 ---
 
 # § 2527. Nuclear test ban readiness program

@@ -3,9 +3,9 @@ title: "Section 1828a - Prudential safeguards"
 usc_title: 12
 usc_section: "1828a"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 1828a"
-generated_at: "2026-03-29T20:32:15.040Z"
+generated_at: "2026-03-29T20:37:24.103Z"
 ---
 
 # § 1828a. Prudential safeguards

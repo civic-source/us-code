@@ -3,9 +3,9 @@ title: "Section 10301 - Purposes"
 usc_title: 34
 usc_section: "10301"
 chapter: 101
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "34 U.S.C. § 10301"
-generated_at: "2026-03-29T20:33:40.305Z"
+generated_at: "2026-03-29T20:39:11.548Z"
 ---
 
 # § 10301. Purposes

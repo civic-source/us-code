@@ -3,9 +3,9 @@ title: "Section 2379 - Procurement of a major weapon system as a commercial prod
 usc_title: 10
 usc_section: "2379"
 chapter: 140
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2379"
-generated_at: "2026-03-29T20:31:54.600Z"
+generated_at: "2026-03-29T20:36:24.303Z"
 ---
 
 # § 2379. Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress

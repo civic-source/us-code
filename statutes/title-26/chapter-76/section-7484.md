@@ -3,9 +3,9 @@ title: "Section 7484 - Change of incumbent in office"
 usc_title: 26
 usc_section: "7484"
 chapter: 76
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 7484"
-generated_at: "2026-03-29T20:33:27.375Z"
+generated_at: "2026-03-29T20:39:05.140Z"
 ---
 
 # § 7484. Change of incumbent in office

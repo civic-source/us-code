@@ -3,9 +3,9 @@ title: "Section 1841 - Single per annum gross rates of pay"
 usc_title: 2
 usc_section: "1841"
 chapter: 28
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "2 U.S.C. § 1841"
-generated_at: "2026-03-29T20:31:22.530Z"
+generated_at: "2026-03-29T20:36:02.721Z"
 ---
 
 # § 1841. Single per annum gross rates of pay

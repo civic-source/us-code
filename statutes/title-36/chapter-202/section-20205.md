@@ -3,9 +3,9 @@ title: "Section 20205 - Governing body"
 usc_title: 36
 usc_section: "20205"
 chapter: 202
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "36 U.S.C. § 20205"
-generated_at: "2026-03-29T20:33:50.613Z"
+generated_at: "2026-03-29T20:39:42.189Z"
 ---
 
 # § 20205. Governing body

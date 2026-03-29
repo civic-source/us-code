@@ -3,9 +3,9 @@ title: "Section 1453 - Definitions"
 usc_title: 16
 usc_section: "1453"
 chapter: 33
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 1453"
-generated_at: "2026-03-29T20:32:45.371Z"
+generated_at: "2026-03-29T20:38:03.699Z"
 ---
 
 # § 1453. Definitions

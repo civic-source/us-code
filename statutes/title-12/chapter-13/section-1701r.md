@@ -3,9 +3,9 @@ title: "Section 1701r - Congressional findings respecting housing for senior cit
 usc_title: 12
 usc_section: "1701r"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 1701r"
-generated_at: "2026-03-29T20:32:14.909Z"
+generated_at: "2026-03-29T20:37:23.966Z"
 ---
 
 # § 1701r. Congressional findings respecting housing for senior citizens

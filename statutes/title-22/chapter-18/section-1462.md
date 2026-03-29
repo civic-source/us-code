@@ -3,9 +3,9 @@ title: "Section 1462 - Policies governing information activities"
 usc_title: 22
 usc_section: "1462"
 chapter: 18
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 1462"
-generated_at: "2026-03-29T20:32:59.905Z"
+generated_at: "2026-03-29T20:38:29.629Z"
 ---
 
 # § 1462. Policies governing information activities

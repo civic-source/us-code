@@ -3,9 +3,9 @@ title: "Section 2074 - Foreign distribution of special nuclear material"
 usc_title: 42
 usc_section: "2074"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 2074"
-generated_at: "2026-03-29T20:34:53.489Z"
+generated_at: "2026-03-29T20:40:42.413Z"
 ---
 
 # § 2074. Foreign distribution of special nuclear material

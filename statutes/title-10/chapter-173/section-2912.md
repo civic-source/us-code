@@ -3,9 +3,9 @@ title: "Section 2912 - Availability and use of energy cost savings"
 usc_title: 10
 usc_section: "2912"
 chapter: 173
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2912"
-generated_at: "2026-03-29T20:31:54.661Z"
+generated_at: "2026-03-29T20:36:24.370Z"
 ---
 
 # § 2912. Availability and use of energy cost savings

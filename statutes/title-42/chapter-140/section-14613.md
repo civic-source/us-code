@@ -3,9 +3,9 @@ title: "Section 14613 - Transferred"
 usc_title: 42
 usc_section: "14613"
 chapter: 140
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 14613"
-generated_at: "2026-03-29T20:34:54.186Z"
+generated_at: "2026-03-29T20:40:43.129Z"
 ---
 
 # § 14613. Transferred

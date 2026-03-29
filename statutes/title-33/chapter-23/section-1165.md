@@ -3,9 +3,9 @@ title: "Section 1165 - Omitted"
 usc_title: 33
 usc_section: "1165"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 1165"
-generated_at: "2026-03-29T20:33:34.215Z"
+generated_at: "2026-03-29T20:39:20.939Z"
 ---
 
 # §§ 1151 to 1165. Omitted

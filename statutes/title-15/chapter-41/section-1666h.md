@@ -3,9 +3,9 @@ title: "Section 1666h - Offset of cardholder’s indebtedness by issuer of credi
 usc_title: 15
 usc_section: "1666h"
 chapter: 41
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 1666h"
-generated_at: "2026-03-29T20:32:09.895Z"
+generated_at: "2026-03-29T20:37:42.351Z"
 ---
 
 # § 1666h. Offset of cardholder’s indebtedness by issuer of credit card with funds deposited with issuer by cardholder; remedies of creditors under State law not affected

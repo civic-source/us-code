@@ -3,9 +3,9 @@ title: "Section 9808 - Authorization of appropriations"
 usc_title: 22
 usc_section: "9808"
 chapter: 105
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 9808"
-generated_at: "2026-03-29T20:33:00.218Z"
+generated_at: "2026-03-29T20:38:29.967Z"
 ---
 
 # § 9808. Authorization of appropriations

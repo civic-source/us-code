@@ -3,9 +3,9 @@ title: "Section 1211 - Establishment"
 usc_title: 5
 usc_section: "1211"
 chapter: 12
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 1211"
-generated_at: "2026-03-29T20:31:26.735Z"
+generated_at: "2026-03-29T20:35:49.125Z"
 ---
 
 # § 1211. Establishment

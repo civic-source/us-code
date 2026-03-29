@@ -3,9 +3,9 @@ title: "Section 3001 - Short title"
 usc_title: 50
 usc_section: "3001"
 chapter: 44
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 3001"
-generated_at: "2026-03-29T20:35:05.204Z"
+generated_at: "2026-03-29T20:40:58.314Z"
 ---
 
 # § 3001. Short title

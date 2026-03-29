@@ -3,9 +3,9 @@ title: "Section 3902 - Severable services contracts for periods crossing fiscal 
 usc_title: 41
 usc_section: "3902"
 chapter: 39
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "41 U.S.C. § 3902"
-generated_at: "2026-03-29T20:34:07.744Z"
+generated_at: "2026-03-29T20:39:46.721Z"
 ---
 
 # § 3902. Severable services contracts for periods crossing fiscal years

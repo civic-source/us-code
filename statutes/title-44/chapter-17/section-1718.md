@@ -3,9 +3,9 @@ title: "Section 1718 - Distribution of Government publications to the Library of
 usc_title: 44
 usc_section: "1718"
 chapter: 17
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "44 U.S.C. § 1718"
-generated_at: "2026-03-29T20:34:08.935Z"
+generated_at: "2026-03-29T20:39:49.852Z"
 ---
 
 # § 1718. Distribution of Government publications to the Library of Congress

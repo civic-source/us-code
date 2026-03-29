@@ -3,9 +3,9 @@ title: "Section 6631 - Transfer of excess or surplus educationally useful equipm
 usc_title: 2
 usc_section: "6631"
 chapter: 65
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "2 U.S.C. § 6631"
-generated_at: "2026-03-29T20:31:22.578Z"
+generated_at: "2026-03-29T20:36:02.770Z"
 ---
 
 # § 6631. Transfer of excess or surplus educationally useful equipment to public schools

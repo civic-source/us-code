@@ -3,9 +3,9 @@ title: "Section 3376 - Administration"
 usc_title: 16
 usc_section: "3376"
 chapter: 53
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 3376"
-generated_at: "2026-03-29T20:32:45.431Z"
+generated_at: "2026-03-29T20:38:03.783Z"
 ---
 
 # § 3376. Administration

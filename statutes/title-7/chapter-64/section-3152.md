@@ -3,9 +3,9 @@ title: "Section 3152 - Grants and fellowships for food and agricultural sciences
 usc_title: 7
 usc_section: "3152"
 chapter: 64
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 3152"
-generated_at: "2026-03-29T20:31:42.128Z"
+generated_at: "2026-03-29T20:37:01.884Z"
 ---
 
 # § 3152. Grants and fellowships for food and agricultural sciences education

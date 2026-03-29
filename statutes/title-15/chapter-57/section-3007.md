@@ -3,9 +3,9 @@ title: "Section 3007 - Jurisdiction and venue"
 usc_title: 15
 usc_section: "3007"
 chapter: 57
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 3007"
-generated_at: "2026-03-29T20:32:09.993Z"
+generated_at: "2026-03-29T20:37:42.460Z"
 ---
 
 # § 3007. Jurisdiction and venue

@@ -3,9 +3,9 @@ title: "Section 130501 - Organization"
 usc_title: 36
 usc_section: "130501"
 chapter: 1305
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "36 U.S.C. § 130501"
-generated_at: "2026-03-29T20:33:50.634Z"
+generated_at: "2026-03-29T20:39:42.214Z"
 ---
 
 # § 130501. Organization

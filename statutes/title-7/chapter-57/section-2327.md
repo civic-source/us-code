@@ -3,9 +3,9 @@ title: "Section 2327 - Plant Variety Protection Board"
 usc_title: 7
 usc_section: "2327"
 chapter: 57
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 2327"
-generated_at: "2026-03-29T20:31:42.109Z"
+generated_at: "2026-03-29T20:37:01.869Z"
 ---
 
 # § 2327. Plant Variety Protection Board

@@ -3,9 +3,9 @@ title: "Section 4011 - Inappropriate use of chapter"
 usc_title: 50
 usc_section: "4011"
 chapter: 50
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 4011"
-generated_at: "2026-03-29T20:35:05.277Z"
+generated_at: "2026-03-29T20:40:58.371Z"
 ---
 
 # § 4011. Inappropriate use of chapter

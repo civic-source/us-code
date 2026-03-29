@@ -3,9 +3,9 @@ title: "Section 8262 - Definitions"
 usc_title: 42
 usc_section: "8262"
 chapter: 91
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 8262"
-generated_at: "2026-03-29T20:34:53.927Z"
+generated_at: "2026-03-29T20:40:42.859Z"
 ---
 
 # § 8262. Definitions

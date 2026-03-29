@@ -3,9 +3,9 @@ title: "Section 5901 - Demilitarization of independent states of former Soviet U
 usc_title: 22
 usc_section: "5901"
 chapter: 68
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 5901"
-generated_at: "2026-03-29T20:33:00.102Z"
+generated_at: "2026-03-29T20:38:29.846Z"
 ---
 
 # § 5901. Demilitarization of independent states of former Soviet Union

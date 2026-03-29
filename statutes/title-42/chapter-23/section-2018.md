@@ -3,9 +3,9 @@ title: "Section 2018 - Agency jurisdiction"
 usc_title: 42
 usc_section: "2018"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 2018"
-generated_at: "2026-03-29T20:34:53.482Z"
+generated_at: "2026-03-29T20:40:42.407Z"
 ---
 
 # § 2018. Agency jurisdiction

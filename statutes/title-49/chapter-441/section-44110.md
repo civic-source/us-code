@@ -3,9 +3,9 @@ title: "Section 44110 - Information about aircraft ownership and rights"
 usc_title: 49
 usc_section: "44110"
 chapter: 441
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 44110"
-generated_at: "2026-03-29T20:35:10.913Z"
+generated_at: "2026-03-29T20:41:16.334Z"
 ---
 
 # § 44110. Information about aircraft ownership and rights

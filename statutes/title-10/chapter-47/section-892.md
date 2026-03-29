@@ -3,9 +3,9 @@ title: "Section 892 - Art. 92. Failure to obey order or regulation"
 usc_title: 10
 usc_section: "892"
 chapter: 47
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 892"
-generated_at: "2026-03-29T20:31:54.453Z"
+generated_at: "2026-03-29T20:36:24.150Z"
 ---
 
 # § 892. Art. 92. Failure to obey order or regulation

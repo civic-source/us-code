@@ -3,9 +3,9 @@ title: "Section 614 - Notice of convening of selection boards"
 usc_title: 10
 usc_section: "614"
 chapter: 36
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 614"
-generated_at: "2026-03-29T20:31:54.428Z"
+generated_at: "2026-03-29T20:36:24.121Z"
 ---
 
 # § 614. Notice of convening of selection boards

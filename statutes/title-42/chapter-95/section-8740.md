@@ -3,9 +3,9 @@ title: "Section 8740 - Omitted"
 usc_title: 42
 usc_section: "8740"
 chapter: 95
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 8740"
-generated_at: "2026-03-29T20:34:53.943Z"
+generated_at: "2026-03-29T20:40:42.878Z"
 ---
 
 # §§ 8731 to 8740. Omitted

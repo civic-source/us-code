@@ -3,9 +3,9 @@ title: "Section 8412 - Authorization of appropriations"
 usc_title: 22
 usc_section: "8412"
 chapter: 91
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 8412"
-generated_at: "2026-03-29T20:33:00.171Z"
+generated_at: "2026-03-29T20:38:29.916Z"
 ---
 
 # § 8412. Authorization of appropriations

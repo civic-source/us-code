@@ -3,9 +3,9 @@ title: "Section 79g - Contract authorization within prescribed cost limits; inst
 usc_title: 16
 usc_section: "79g"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 79g"
-generated_at: "2026-03-29T20:32:44.965Z"
+generated_at: "2026-03-29T20:38:03.271Z"
 ---
 
 # § 79g. Contract authorization within prescribed cost limits; installments: duration, interest; provisions for payment of judgments and compromise settlements applicable to judgments against United States

@@ -3,9 +3,9 @@ title: "Section 2713 - Claims procedure"
 usc_title: 33
 usc_section: "2713"
 chapter: 40
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 2713"
-generated_at: "2026-03-29T20:33:34.314Z"
+generated_at: "2026-03-29T20:39:21.046Z"
 ---
 
 # § 2713. Claims procedure

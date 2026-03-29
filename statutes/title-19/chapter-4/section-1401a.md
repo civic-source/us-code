@@ -3,9 +3,9 @@ title: "Section 1401a - Value"
 usc_title: 19
 usc_section: "1401a"
 chapter: 4
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "19 U.S.C. § 1401a"
-generated_at: "2026-03-29T20:32:31.709Z"
+generated_at: "2026-03-29T20:38:07.320Z"
 ---
 
 # § 1401a. Value

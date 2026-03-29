@@ -3,9 +3,9 @@ title: "Section 2373 - Procurement for experimental purposes"
 usc_title: 10
 usc_section: "2373"
 chapter: 139
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2373"
-generated_at: "2026-03-29T20:31:54.599Z"
+generated_at: "2026-03-29T20:36:24.303Z"
 ---
 
 # § 2373. Procurement for experimental purposes

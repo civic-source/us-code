@@ -3,9 +3,9 @@ title: "Section 284c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "284c"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 284c"
-generated_at: "2026-03-29T20:32:59.869Z"
+generated_at: "2026-03-29T20:38:29.593Z"
 ---
 
 # § 284c. Congressional authorization needed for certain actions

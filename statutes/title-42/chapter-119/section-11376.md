@@ -3,9 +3,9 @@ title: "Section 11376 - Administrative provisions"
 usc_title: 42
 usc_section: "11376"
 chapter: 119
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 11376"
-generated_at: "2026-03-29T20:34:54.069Z"
+generated_at: "2026-03-29T20:40:43.013Z"
 ---
 
 # § 11376. Administrative provisions

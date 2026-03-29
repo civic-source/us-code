@@ -3,9 +3,9 @@ title: "Section 13041 - Transferred"
 usc_title: 42
 usc_section: "13041"
 chapter: 132
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 13041"
-generated_at: "2026-03-29T20:34:54.153Z"
+generated_at: "2026-03-29T20:40:43.095Z"
 ---
 
 # § 13041. Transferred

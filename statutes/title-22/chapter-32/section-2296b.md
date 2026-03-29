@@ -3,9 +3,9 @@ title: "Section 2296b - Development of infrastructure"
 usc_title: 22
 usc_section: "2296b"
 chapter: 32
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 2296b"
-generated_at: "2026-03-29T20:32:59.958Z"
+generated_at: "2026-03-29T20:38:29.685Z"
 ---
 
 # § 2296b. Development of infrastructure

@@ -3,9 +3,9 @@ title: "Section 588 - Movement and supply of office furniture"
 usc_title: 40
 usc_section: "588"
 chapter: 5
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "40 U.S.C. § 588"
-generated_at: "2026-03-29T20:33:44.468Z"
+generated_at: "2026-03-29T20:39:32.155Z"
 ---
 
 # § 588. Movement and supply of office furniture

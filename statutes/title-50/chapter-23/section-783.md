@@ -3,9 +3,9 @@ title: "Section 783 - Offenses"
 usc_title: 50
 usc_section: "783"
 chapter: 23
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "50 U.S.C. § 783"
-generated_at: "2026-03-29T20:35:05.127Z"
+generated_at: "2026-03-29T20:40:58.243Z"
 ---
 
 # § 783. Offenses

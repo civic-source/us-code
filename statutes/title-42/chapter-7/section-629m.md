@@ -3,9 +3,9 @@ title: "Section 629m - Data exchange standards for improved interoperability"
 usc_title: 42
 usc_section: "629m"
 chapter: 7
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 629m"
-generated_at: "2026-03-29T20:34:52.924Z"
+generated_at: "2026-03-29T20:40:41.818Z"
 ---
 
 # § 629m. Data exchange standards for improved interoperability

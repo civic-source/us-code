@@ -3,9 +3,9 @@ title: "Section 11001 - Enhanced personnel security programs"
 usc_title: 5
 usc_section: "11001"
 chapter: 110
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 11001"
-generated_at: "2026-03-29T20:31:26.966Z"
+generated_at: "2026-03-29T20:35:49.252Z"
 ---
 
 # § 11001. Enhanced personnel security programs

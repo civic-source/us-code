@@ -3,9 +3,9 @@ title: "Section 6971 - Under Secretary of Agriculture for Research, Education, a
 usc_title: 7
 usc_section: "6971"
 chapter: 98
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 6971"
-generated_at: "2026-03-29T20:31:42.215Z"
+generated_at: "2026-03-29T20:37:01.966Z"
 ---
 
 # § 6971. Under Secretary of Agriculture for Research, Education, and Economics

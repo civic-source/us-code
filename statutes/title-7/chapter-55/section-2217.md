@@ -3,9 +3,9 @@ title: "Section 2217 - Oaths, affirmations, and affidavits taken by officers, ag
 usc_title: 7
 usc_section: "2217"
 chapter: 55
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 2217"
-generated_at: "2026-03-29T20:31:42.100Z"
+generated_at: "2026-03-29T20:37:01.860Z"
 ---
 
 # § 2217. Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect

@@ -3,9 +3,9 @@ title: "Section 3702 - Organization of Commission"
 usc_title: 20
 usc_section: "3702"
 chapter: 50
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "20 U.S.C. § 3702"
-generated_at: "2026-03-29T20:32:28.927Z"
+generated_at: "2026-03-29T20:37:54.744Z"
 ---
 
 # § 3702. Organization of Commission

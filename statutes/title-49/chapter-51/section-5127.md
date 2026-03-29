@@ -3,9 +3,9 @@ title: "Section 5127 - Judicial review"
 usc_title: 49
 usc_section: "5127"
 chapter: 51
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 5127"
-generated_at: "2026-03-29T20:35:10.764Z"
+generated_at: "2026-03-29T20:41:16.197Z"
 ---
 
 # § 5127. Judicial review

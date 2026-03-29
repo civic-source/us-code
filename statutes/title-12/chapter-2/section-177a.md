@@ -3,9 +3,9 @@ title: "Section 177a - Funds available for cost of transporting and redeeming na
 usc_title: 12
 usc_section: "177a"
 chapter: 2
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 177a"
-generated_at: "2026-03-29T20:32:14.836Z"
+generated_at: "2026-03-29T20:37:23.890Z"
 ---
 
 # § 177a. Funds available for cost of transporting and redeeming national and Federal Reserve bank notes

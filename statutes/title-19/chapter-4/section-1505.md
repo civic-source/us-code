@@ -3,9 +3,9 @@ title: "Section 1505 - Payment of duties and fees"
 usc_title: 19
 usc_section: "1505"
 chapter: 4
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "19 U.S.C. § 1505"
-generated_at: "2026-03-29T20:32:31.723Z"
+generated_at: "2026-03-29T20:38:07.331Z"
 ---
 
 # § 1505. Payment of duties and fees

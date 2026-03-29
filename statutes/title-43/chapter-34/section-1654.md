@@ -3,9 +3,9 @@ title: "Section 1654 - Antitrust laws"
 usc_title: 43
 usc_section: "1654"
 chapter: 34
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "43 U.S.C. § 1654"
-generated_at: "2026-03-29T20:34:16.785Z"
+generated_at: "2026-03-29T20:39:58.796Z"
 ---
 
 # § 1654. Antitrust laws

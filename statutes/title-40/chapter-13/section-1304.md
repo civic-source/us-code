@@ -3,9 +3,9 @@ title: "Section 1304 - Transfer of federal property to States"
 usc_title: 40
 usc_section: "1304"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "40 U.S.C. § 1304"
-generated_at: "2026-03-29T20:33:44.472Z"
+generated_at: "2026-03-29T20:39:32.158Z"
 ---
 
 # § 1304. Transfer of federal property to States

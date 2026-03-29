@@ -3,9 +3,9 @@ title: "Section 2433a - Critical cost growth in major defense acquisition progra
 usc_title: 10
 usc_section: "2433a"
 chapter: 144
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2433a"
-generated_at: "2026-03-29T20:31:54.609Z"
+generated_at: "2026-03-29T20:36:24.312Z"
 ---
 
 # § 2433a. Critical cost growth in major defense acquisition programs

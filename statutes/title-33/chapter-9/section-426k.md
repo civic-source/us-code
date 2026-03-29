@@ -3,9 +3,9 @@ title: "Section 426k - Five year demonstration program to temporarily increase d
 usc_title: 33
 usc_section: "426k"
 chapter: 9
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 426k"
-generated_at: "2026-03-29T20:33:34.162Z"
+generated_at: "2026-03-29T20:39:20.880Z"
 ---
 
 # § 426k. Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois

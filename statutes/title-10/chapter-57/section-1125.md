@@ -3,9 +3,9 @@ title: "Section 1125 - Recognition for accomplishments: award of trophies"
 usc_title: 10
 usc_section: "1125"
 chapter: 57
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 1125"
-generated_at: "2026-03-29T20:31:54.494Z"
+generated_at: "2026-03-29T20:36:24.197Z"
 ---
 
 # § 1125. Recognition for accomplishments: award of trophies

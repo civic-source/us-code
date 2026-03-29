@@ -3,9 +3,9 @@ title: "Section 10262 - State and local governments to consider courts"
 usc_title: 34
 usc_section: "10262"
 chapter: 101
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "34 U.S.C. § 10262"
-generated_at: "2026-03-29T20:33:40.303Z"
+generated_at: "2026-03-29T20:39:11.545Z"
 ---
 
 # § 10262. State and local governments to consider courts

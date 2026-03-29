@@ -3,9 +3,9 @@ title: "Section 220311 - Records and inspection"
 usc_title: 36
 usc_section: "220311"
 chapter: 2203
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "36 U.S.C. § 220311"
-generated_at: "2026-03-29T20:33:50.652Z"
+generated_at: "2026-03-29T20:39:42.234Z"
 ---
 
 # § 220311. Records and inspection

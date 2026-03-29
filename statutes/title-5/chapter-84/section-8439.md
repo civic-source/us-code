@@ -3,9 +3,9 @@ title: "Section 8439 - Accounting and information"
 usc_title: 5
 usc_section: "8439"
 chapter: 84
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 8439"
-generated_at: "2026-03-29T20:31:26.937Z"
+generated_at: "2026-03-29T20:35:49.226Z"
 ---
 
 # § 8439. Accounting and information

@@ -3,9 +3,9 @@ title: "Section 10907 - Railroad development"
 usc_title: 49
 usc_section: "10907"
 chapter: 109
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 10907"
-generated_at: "2026-03-29T20:35:10.791Z"
+generated_at: "2026-03-29T20:41:16.229Z"
 ---
 
 # § 10907. Railroad development

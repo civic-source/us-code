@@ -3,9 +3,9 @@ title: "Section 5701 - Definitions"
 usc_title: 12
 usc_section: "5701"
 chapter: 54
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 5701"
-generated_at: "2026-03-29T20:32:15.261Z"
+generated_at: "2026-03-29T20:37:24.337Z"
 ---
 
 # § 5701. Definitions

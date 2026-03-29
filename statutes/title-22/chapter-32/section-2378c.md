@@ -3,9 +3,9 @@ title: "Section 2378c - Limitation on assistance for the West Bank and Gaza"
 usc_title: 22
 usc_section: "2378c"
 chapter: 32
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 2378c"
-generated_at: "2026-03-29T20:32:59.970Z"
+generated_at: "2026-03-29T20:38:29.699Z"
 ---
 
 # § 2378c. Limitation on assistance for the West Bank and Gaza

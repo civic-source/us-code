@@ -3,9 +3,9 @@ title: "Section 828b - Exemption from formula, books and records, and project co
 usc_title: 16
 usc_section: "828b"
 chapter: 12
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "16 U.S.C. § 828b"
-generated_at: "2026-03-29T20:32:45.301Z"
+generated_at: "2026-03-29T20:38:03.617Z"
 ---
 
 # § 828b. Exemption from formula, books and records, and project cost statement requirements; annual charges

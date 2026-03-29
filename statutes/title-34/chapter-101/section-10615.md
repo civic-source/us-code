@@ -3,9 +3,9 @@ title: "Section 10615 - Applications"
 usc_title: 34
 usc_section: "10615"
 chapter: 101
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "34 U.S.C. § 10615"
-generated_at: "2026-03-29T20:33:40.319Z"
+generated_at: "2026-03-29T20:39:11.565Z"
 ---
 
 # § 10615. Applications

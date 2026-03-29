@@ -3,9 +3,9 @@ title: "Section 7442 - Definitions"
 usc_title: 7
 usc_section: "7442"
 chapter: 101
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 7442"
-generated_at: "2026-03-29T20:31:42.234Z"
+generated_at: "2026-03-29T20:37:01.986Z"
 ---
 
 # § 7442. Definitions

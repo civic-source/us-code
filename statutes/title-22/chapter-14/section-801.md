@@ -3,9 +3,9 @@ title: "Section 801 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17
 usc_title: 22
 usc_section: "801"
 chapter: 14
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 801"
-generated_at: "2026-03-29T20:32:59.899Z"
+generated_at: "2026-03-29T20:38:29.623Z"
 ---
 
 # § 801. Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17, 1980 , 94 Stat. 2159

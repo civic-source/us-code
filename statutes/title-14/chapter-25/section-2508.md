@@ -3,9 +3,9 @@ title: "Section 2508 - Emergency leave retention authority"
 usc_title: 14
 usc_section: "2508"
 chapter: 25
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "14 U.S.C. § 2508"
-generated_at: "2026-03-29T20:32:03.599Z"
+generated_at: "2026-03-29T20:37:10.919Z"
 ---
 
 # § 2508. Emergency leave retention authority

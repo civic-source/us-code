@@ -3,9 +3,9 @@ title: "Section 719m - Authorization of appropriations"
 usc_title: 15
 usc_section: "719m"
 chapter: 15
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "15 U.S.C. § 719m"
-generated_at: "2026-03-29T20:32:09.833Z"
+generated_at: "2026-03-29T20:37:42.278Z"
 ---
 
 # § 719m. Authorization of appropriations

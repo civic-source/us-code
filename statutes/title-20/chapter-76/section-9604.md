@@ -3,9 +3,9 @@ title: "Section 9604 - Existing technical assistance providers"
 usc_title: 20
 usc_section: "9604"
 chapter: 76
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "20 U.S.C. § 9604"
-generated_at: "2026-03-29T20:32:29.054Z"
+generated_at: "2026-03-29T20:37:54.852Z"
 ---
 
 # § 9604. Existing technical assistance providers

@@ -3,9 +3,9 @@ title: "Section 200505 - State action"
 usc_title: 54
 usc_section: "200505"
 chapter: 2005
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "54 U.S.C. § 200505"
-generated_at: "2026-03-29T20:35:14.761Z"
+generated_at: "2026-03-29T20:41:25.031Z"
 ---
 
 # § 200505. State action

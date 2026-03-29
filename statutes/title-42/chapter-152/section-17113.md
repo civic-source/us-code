@@ -3,9 +3,9 @@ title: "Section 17113 - Industrial emissions reduction technology development pr
 usc_title: 42
 usc_section: "17113"
 chapter: 152
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "42 U.S.C. § 17113"
-generated_at: "2026-03-29T20:34:54.269Z"
+generated_at: "2026-03-29T20:40:43.218Z"
 ---
 
 # § 17113. Industrial emissions reduction technology development program

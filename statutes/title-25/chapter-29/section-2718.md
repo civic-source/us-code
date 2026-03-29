@@ -3,9 +3,9 @@ title: "Section 2718 - Authorization of appropriations"
 usc_title: 25
 usc_section: "2718"
 chapter: 29
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "25 U.S.C. § 2718"
-generated_at: "2026-03-29T20:32:54.747Z"
+generated_at: "2026-03-29T20:38:40.970Z"
 ---
 
 # § 2718. Authorization of appropriations

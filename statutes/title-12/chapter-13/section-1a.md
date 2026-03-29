@@ -3,9 +3,9 @@ title: "Section 1a - Assistance for troubled multifamily housing projects"
 usc_title: 12
 usc_section: "1a"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "12 U.S.C. § 1a"
-generated_at: "2026-03-29T20:32:14.947Z"
+generated_at: "2026-03-29T20:37:24.005Z"
 ---
 
 # § 1715z–1a. Assistance for troubled multifamily housing projects

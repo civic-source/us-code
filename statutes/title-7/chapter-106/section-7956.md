@@ -3,9 +3,9 @@ title: "Section 7956 - Planting flexibility"
 usc_title: 7
 usc_section: "7956"
 chapter: 106
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 7956"
-generated_at: "2026-03-29T20:31:42.264Z"
+generated_at: "2026-03-29T20:37:02.018Z"
 ---
 
 # § 7956. Planting flexibility

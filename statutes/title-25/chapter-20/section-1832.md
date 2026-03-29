@@ -3,9 +3,9 @@ title: "Section 1832 - Establishment of program; program agreements"
 usc_title: 25
 usc_section: "1832"
 chapter: 20
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "25 U.S.C. § 1832"
-generated_at: "2026-03-29T20:32:54.717Z"
+generated_at: "2026-03-29T20:38:40.936Z"
 ---
 
 # § 1832. Establishment of program; program agreements

@@ -3,9 +3,9 @@ title: "Section 47305 - Administrative"
 usc_title: 49
 usc_section: "47305"
 chapter: 473
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 47305"
-generated_at: "2026-03-29T20:35:10.964Z"
+generated_at: "2026-03-29T20:41:16.388Z"
 ---
 
 # § 47305. Administrative

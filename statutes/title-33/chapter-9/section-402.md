@@ -3,9 +3,9 @@ title: "Section 402 - Construction of bridges, etc., over Illinois and Mississip
 usc_title: 33
 usc_section: "402"
 chapter: 9
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 402"
-generated_at: "2026-03-29T20:33:34.158Z"
+generated_at: "2026-03-29T20:39:20.872Z"
 ---
 
 # § 402. Construction of bridges, etc., over Illinois and Mississippi Canal

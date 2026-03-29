@@ -3,9 +3,9 @@ title: "Section 1766c - Allowances and benefits"
 usc_title: 7
 usc_section: "1766c"
 chapter: 43
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "7 U.S.C. § 1766c"
-generated_at: "2026-03-29T20:31:42.029Z"
+generated_at: "2026-03-29T20:37:01.784Z"
 ---
 
 # § 1766c. Allowances and benefits

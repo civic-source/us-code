@@ -3,9 +3,9 @@ title: "Section 422 - Procurements for defense against or recovery from terroris
 usc_title: 6
 usc_section: "422"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "6 U.S.C. § 422"
-generated_at: "2026-03-29T20:31:30.634Z"
+generated_at: "2026-03-29T20:36:08.758Z"
 ---
 
 # § 422. Procurements for defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack

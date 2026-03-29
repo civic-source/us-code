@@ -3,9 +3,9 @@ title: "Section 3134 - Employee retention credit for employers subject to closur
 usc_title: 26
 usc_section: "3134"
 chapter: 21
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 3134"
-generated_at: "2026-03-29T20:33:27.186Z"
+generated_at: "2026-03-29T20:39:04.978Z"
 ---
 
 # § 3134. Employee retention credit for employers subject to closure due to COVID–19

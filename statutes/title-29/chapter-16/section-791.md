@@ -3,9 +3,9 @@ title: "Section 791 - Employment of individuals with disabilities"
 usc_title: 29
 usc_section: "791"
 chapter: 16
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "29 U.S.C. § 791"
-generated_at: "2026-03-29T20:33:05.695Z"
+generated_at: "2026-03-29T20:38:49.671Z"
 ---
 
 # § 791. Employment of individuals with disabilities

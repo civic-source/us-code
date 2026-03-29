@@ -3,9 +3,9 @@ title: "Section 5339 - Grants for buses and bus facilities"
 usc_title: 49
 usc_section: "5339"
 chapter: 53
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "49 U.S.C. § 5339"
-generated_at: "2026-03-29T20:35:10.781Z"
+generated_at: "2026-03-29T20:41:16.216Z"
 ---
 
 # § 5339. Grants for buses and bus facilities

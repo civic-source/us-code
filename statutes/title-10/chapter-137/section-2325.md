@@ -3,9 +3,9 @@ title: "Section 2325 - Restructuring costs"
 usc_title: 10
 usc_section: "2325"
 chapter: 137
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2325"
-generated_at: "2026-03-29T20:31:54.584Z"
+generated_at: "2026-03-29T20:36:24.287Z"
 ---
 
 # § 2325. Restructuring costs

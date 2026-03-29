@@ -3,9 +3,9 @@ title: "Section 952 - Importation of controlled substances"
 usc_title: 21
 usc_section: "952"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "21 U.S.C. § 952"
-generated_at: "2026-03-29T20:32:52.629Z"
+generated_at: "2026-03-29T20:38:14.377Z"
 ---
 
 # § 952. Importation of controlled substances

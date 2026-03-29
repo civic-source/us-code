@@ -3,9 +3,9 @@ title: "Section 425 - Omitted"
 usc_title: 33
 usc_section: "425"
 chapter: 9
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "33 U.S.C. § 425"
-generated_at: "2026-03-29T20:33:34.160Z"
+generated_at: "2026-03-29T20:39:20.876Z"
 ---
 
 # § 425. Omitted

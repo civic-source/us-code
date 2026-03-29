@@ -3,9 +3,9 @@ title: "Section 2357 - Technology protection features activities"
 usc_title: 10
 usc_section: "2357"
 chapter: 139
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2357"
-generated_at: "2026-03-29T20:31:54.593Z"
+generated_at: "2026-03-29T20:36:24.297Z"
 ---
 
 # § 2357. Technology protection features activities

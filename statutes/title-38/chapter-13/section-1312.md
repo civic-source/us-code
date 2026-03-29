@@ -3,9 +3,9 @@ title: "Section 1312 - Benefits in certain cases of in-service or service-connec
 usc_title: 38
 usc_section: "1312"
 chapter: 13
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "38 U.S.C. § 1312"
-generated_at: "2026-03-29T20:34:04.879Z"
+generated_at: "2026-03-29T20:39:27.709Z"
 ---
 
 # § 1312. Benefits in certain cases of in-service or service-connected deaths

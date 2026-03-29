@@ -3,9 +3,9 @@ title: "Section 6902 - Provisions of special application to transferees"
 usc_title: 26
 usc_section: "6902"
 chapter: 71
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "26 U.S.C. § 6902"
-generated_at: "2026-03-29T20:33:27.358Z"
+generated_at: "2026-03-29T20:39:05.123Z"
 ---
 
 # § 6902. Provisions of special application to transferees

@@ -3,9 +3,9 @@ title: "Section 2659 - State statutes to be procured"
 usc_title: 22
 usc_section: "2659"
 chapter: 38
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "22 U.S.C. § 2659"
-generated_at: "2026-03-29T20:32:59.999Z"
+generated_at: "2026-03-29T20:38:29.730Z"
 ---
 
 # § 2659. State statutes to be procured

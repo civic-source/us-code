@@ -3,9 +3,9 @@ title: "Section 2333 - Joint policies on requirements definition, contingency pr
 usc_title: 10
 usc_section: "2333"
 chapter: 137
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2333"
-generated_at: "2026-03-29T20:31:54.586Z"
+generated_at: "2026-03-29T20:36:24.289Z"
 ---
 
 # § 2333. Joint policies on requirements definition, contingency program management, and contingency contracting

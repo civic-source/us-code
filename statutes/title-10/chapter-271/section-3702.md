@@ -3,9 +3,9 @@ title: "Section 3702 - Required cost or pricing data and certification"
 usc_title: 10
 usc_section: "3702"
 chapter: 271
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 3702"
-generated_at: "2026-03-29T20:31:54.676Z"
+generated_at: "2026-03-29T20:36:24.390Z"
 ---
 
 # § 3702. Required cost or pricing data and certification

@@ -3,9 +3,9 @@ title: "Section 25 - Oleomargarine, butterine, or imitation butter or cheese tra
 usc_title: 21
 usc_section: "25"
 chapter: 1
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "21 U.S.C. § 25"
-generated_at: "2026-03-29T20:32:52.446Z"
+generated_at: "2026-03-29T20:38:14.184Z"
 ---
 
 # § 25. Oleomargarine, butterine, or imitation butter or cheese transported into a State subject to its police powers

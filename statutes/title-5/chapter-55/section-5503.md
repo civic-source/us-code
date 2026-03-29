@@ -3,9 +3,9 @@ title: "Section 5503 - Recess appointments"
 usc_title: 5
 usc_section: "5503"
 chapter: 55
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "5 U.S.C. § 5503"
-generated_at: "2026-03-29T20:31:26.773Z"
+generated_at: "2026-03-29T20:35:49.161Z"
 ---
 
 # § 5503. Recess appointments

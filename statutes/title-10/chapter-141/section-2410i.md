@@ -3,9 +3,9 @@ title: "Section 2410i - Prohibition on contracting with entities that comply wit
 usc_title: 10
 usc_section: "2410i"
 chapter: 141
-current_through: "PL 117-24"
+current_through: "PL 117-26"
 classification: "10 U.S.C. § 2410i"
-generated_at: "2026-03-29T20:31:54.605Z"
+generated_at: "2026-03-29T20:36:24.308Z"
 ---
 
 # § 2410i. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
