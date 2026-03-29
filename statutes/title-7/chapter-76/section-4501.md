@@ -3,9 +3,9 @@ title: "Section 4501 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "4501"
 chapter: 76
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 4501"
-generated_at: "2026-03-29T21:32:53.201Z"
+generated_at: "2026-03-29T21:36:46.981Z"
 ---
 
 # § 4501. Congressional findings and declaration of policy

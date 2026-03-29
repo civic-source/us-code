@@ -3,14 +3,14 @@ title: "Section 146 - Office of Local Defense Community Cooperation"
 usc_title: 10
 usc_section: "146"
 chapter: 4
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 146"
-generated_at: "2026-03-29T21:33:08.930Z"
+generated_at: "2026-03-29T21:36:56.224Z"
 ---
 
 # § 146. Office of Local Defense Community Cooperation
 
-- **(a)** There is in the Office of the Secretary of Defense an office to be known as the Office of Local Defense Community Cooperation (in this section referred to as the ‘Office’).
+- **(a)** There is in the Office of the Secretary of Defense an office to be known as the Office of Local Defense Community Cooperation (in this section referred to as the “Office”).
 - **(b)** The Office shall be headed by the Director of the Office of Local Defense Community Cooperation, who shall be appointed by the Under Secretary of Defense for Acquisition and Sustainment from among civilian employees of the Federal Government or private individuals who have the following:
   - **(1)** Experience in the interagency in the Executive Branch.
   - **(2)** Experience in the administration and management of Federal grants programs.

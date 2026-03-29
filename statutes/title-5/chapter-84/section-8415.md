@@ -3,9 +3,9 @@ title: "Section 8415 - Computation of basic annuity"
 usc_title: 5
 usc_section: "8415"
 chapter: 84
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "5 U.S.C. § 8415"
-generated_at: "2026-03-29T21:32:36.145Z"
+generated_at: "2026-03-29T21:36:35.904Z"
 ---
 
 # § 8415. Computation of basic annuity

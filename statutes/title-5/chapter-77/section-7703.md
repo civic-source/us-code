@@ -3,9 +3,9 @@ title: "Section 7703 - Judicial review of decisions of the Merit Systems Protect
 usc_title: 5
 usc_section: "7703"
 chapter: 77
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "5 U.S.C. § 7703"
-generated_at: "2026-03-29T21:32:36.116Z"
+generated_at: "2026-03-29T21:36:35.885Z"
 ---
 
 # § 7703. Judicial review of decisions of the Merit Systems Protection Board

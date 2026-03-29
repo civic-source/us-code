@@ -3,9 +3,9 @@ title: "Section 3001 - Applicability of chapter"
 usc_title: 28
 usc_section: "3001"
 chapter: 176
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "28 U.S.C. § 3001"
-generated_at: "2026-03-29T21:34:28.087Z"
+generated_at: "2026-03-29T21:37:43.095Z"
 ---
 
 # § 3001. Applicability of chapter

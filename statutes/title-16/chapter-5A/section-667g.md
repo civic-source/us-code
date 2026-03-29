@@ -3,9 +3,9 @@ title: "Section 667g - Requisition of surplus grain; prevention of starvation of
 usc_title: 16
 usc_section: "667g"
 chapter: 5
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 667g"
-generated_at: "2026-03-29T21:33:47.345Z"
+generated_at: "2026-03-29T21:37:25.827Z"
 ---
 
 # § 667g. Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting

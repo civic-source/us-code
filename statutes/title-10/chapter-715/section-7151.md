@@ -3,9 +3,9 @@ title: "Section 7151 - Commissioned officer grades"
 usc_title: 10
 usc_section: "7151"
 chapter: 715
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 7151"
-generated_at: "2026-03-29T21:33:09.326Z"
+generated_at: "2026-03-29T21:36:56.520Z"
 ---
 
 # § 7151. Commissioned officer grades

@@ -3,9 +3,9 @@ title: "Section 4883 - Industrial mobilization: plants; lists"
 usc_title: 10
 usc_section: "4883"
 chapter: 385
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4883"
-generated_at: "2026-03-29T21:33:09.321Z"
+generated_at: "2026-03-29T21:36:56.516Z"
 ---
 
 # § 4883. Industrial mobilization: plants; lists

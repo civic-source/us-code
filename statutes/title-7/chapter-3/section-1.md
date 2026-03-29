@@ -3,9 +3,9 @@ title: "Section 1 - Registration requirements"
 usc_title: 7
 usc_section: "1"
 chapter: 3
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T21:32:52.864Z"
+generated_at: "2026-03-29T21:36:46.691Z"
 ---
 
 # § 87f–1. Registration requirements

@@ -3,9 +3,9 @@ title: "Section 9804 - Salvage claims by United States"
 usc_title: 10
 usc_section: "9804"
 chapter: 981
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 9804"
-generated_at: "2026-03-29T21:33:09.383Z"
+generated_at: "2026-03-29T21:36:56.568Z"
 ---
 
 # § 9804. Salvage claims by United States

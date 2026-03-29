@@ -3,9 +3,9 @@ title: "Section 4801 - Definitions"
 usc_title: 10
 usc_section: "4801"
 chapter: 381
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4801"
-generated_at: "2026-03-29T21:33:09.312Z"
+generated_at: "2026-03-29T21:36:56.511Z"
 ---
 
 # § 4801. Definitions
@@ -20,7 +20,7 @@ In this subpart:
   - **(6)** The term “critical technology” means a technology that is—
     - **(A)** a national critical technology; or
     - **(B)** a defense critical technology.
-  - **(7)** The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ( 42 U.S.C. 6683(d) ).
+  - **(7)** The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) 1 1 See References in Text note below. of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ( 42 U.S.C. 6683(d) ).
   - **(8)** The term “defense critical technology” means a technology that is identified under section 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title .
   - **(9)** The term “eligible firm” means a company or other business entity that, as determined by the Secretary of Commerce—
     - **(A)** conducts a significant level of its research, development, engineering, manufacturing, integration, services, and information technology activities in the United States; and

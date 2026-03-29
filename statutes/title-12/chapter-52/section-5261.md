@@ -3,9 +3,9 @@ title: "Section 5261 - Gain or loss from sale or exchange of certain preferred s
 usc_title: 12
 usc_section: "5261"
 chapter: 52
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "12 U.S.C. § 5261"
-generated_at: "2026-03-29T21:33:20.848Z"
+generated_at: "2026-03-29T21:37:05.720Z"
 ---
 
 # § 5261. Gain or loss from sale or exchange of certain preferred stock

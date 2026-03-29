@@ -3,9 +3,9 @@ title: "Section 1134 - Acquisition, production, deployment, and support"
 usc_title: 14
 usc_section: "1134"
 chapter: 11
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "14 U.S.C. § 1134"
-generated_at: "2026-03-29T21:33:13.511Z"
+generated_at: "2026-03-29T21:36:59.904Z"
 ---
 
 # § 1134. Acquisition, production, deployment, and support

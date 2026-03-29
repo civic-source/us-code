@@ -3,9 +3,9 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-03-29T21:34:12.813Z"
+generated_at: "2026-03-29T21:37:38.167Z"
 ---
 
 # § 2680b. Special rules for certain monthly workers’ compensation payments and other payments for Department of State personnel under chief of mission authority
@@ -40,12 +40,27 @@ generated_at: "2026-03-29T21:34:12.813Z"
       - **(i)** during a period of assignment to a duty station in the Republic of Cuba, the People’s Republic of China, or another country designated by the Secretary of State pursuant to subsection (f);
       - **(ii)** in connection with war, insurgency, hostile act, terrorist activity, or other incident designated by the Secretary of State; and
       - **(iii)** that was not the result of the willful misconduct of the covered employee or the covered individual.
-- **(f)** The Secretary of State may designate another foreign country for the purposes of this section, provided that the Secretary reports such designation to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and includes in such report a rationale for each such designation. The Secretary of State may not designate an added foreign country or duty station for purposes of providing additional monetary benefit pursuant to subsection (a) or (b) for a qualifying injury to covered employees, covered dependents, or covered individuals under this section unless the Secretary of State—
+- **(f)** The Secretary of State may designate another foreign country for the purposes of this section, provided that the Secretary reports such designation to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and includes in such report a rationale for each such designation. The Secretary of State may not designate an added foreign country or duty station for purposes of providing additional monetary benefit pursuant to subsection (a), (b), or (i) for a qualifying injury to covered employees, covered dependents, or covered individuals under this section unless the Secretary of State—
   - **(1)** provides to the Committees on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives 30 days’ notice of the designation of a particular additional country or duty station and the rationale for such addition; and
-  - **(2)** provides no such additional monetary benefit pursuant to subsection (a) or (b) to covered employees, covered dependents, or covered individuals for a qualifying injury until the 30-day notice period expires, unless there is written agreement by both the Chair and Ranking Members of both the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that there is no objection to proceeding with provision of such monetary benefit compensation in less than 30 days.
+  - **(2)** provides no such additional monetary benefit pursuant to subsection (a), (b), or (i) to covered employees, covered dependents, or covered individuals for a qualifying injury until the 30-day notice period expires, unless there is written agreement by both the Chair and Ranking Members of both the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that there is no objection to proceeding with provision of such monetary benefit compensation in less than 30 days.
 - **(g)** For purposes of section 104 of title 26 , amounts paid pursuant to this section shall be treated as amounts described in subsection (a)(5) of such section.
 - **(h)**
-  - **(1)** This section shall apply with respect to—
+  - **(1)** Subsections (a) and (b) shall apply with respect to—
     - **(A)** payments made to covered employees (as defined in such section) under section 8105 or 8106 of title 5 beginning on or after January 1, 2016 ; and
     - **(B)** diagnosis or treatment described in subsection (b) occurring on or after January 1, 2016 .
-  - **(2)** Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act ( 42 U.S.C. 1651 et seq.), or section 3519b of title 50 . Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers’ compensation law.
+  - **(2)** Payment under subsection (i) may be made available for a qualifying injury (as defined in such subsection) that occurs before, on, or after October 8, 2021 .
+  - **(3)** Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act ( 42 U.S.C. 1651 et seq.), or section 3519b of title 50 . Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers’ compensation law.
+- **(i)**
+  - **(1)** In this subsection:
+    - **(A)** The term “covered dependent” has the meaning given such term in subsection (e), except that the assigned duty station need not be in the Republic of Cuba, the People’s Republic of China, or another foreign country.
+    - **(B)** The term “covered employee” has the meaning given such term in subsection (e), except that the assigned duty station need not be in the Republic of Cuba, the People’s Republic of China, or another foreign country.
+    - **(C)** The term “covered individual” has the meaning given such term in subsection (e), except that the assigned duty station need not be in the Republic of Cuba, the People’s Republic of China, or another foreign country.
+    - **(D)** The term “qualifying injury” has the meaning given such term in subsection (e), except that the assigned duty station need not be in the Republic of Cuba, the People’s Republic of China, or another foreign country.
+  - **(2)** Notwithstanding any other provision of law but subject to paragraph (3), the Secretary of State or other agency head with an employee may provide payment to a covered dependent, a dependent of a former employee, a covered employee, a former employee, and a covered individual for a qualifying injury to the brain.
+  - **(3)**
+    - **(A)** Payment under paragraph (2) in a fiscal year may only be made using amounts appropriated in advance specifically for payments under such paragraph in such fiscal year.
+    - **(B)** Payments under paragraph (2) using amounts appropriated for such purpose shall be made on a first come, first serve, or pro rata basis.
+    - **(C)** The total amount of funding obligated for payments under paragraph (2) may not exceed the amount specifically appropriated for providing payments under such paragraph during its period of availability.
+  - **(4)**
+    - **(A)** The Secretary or other agency head described in paragraph (2) that provides payment under such paragraph shall prescribe regulations to carry out this subsection.
+    - **(B)** The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).

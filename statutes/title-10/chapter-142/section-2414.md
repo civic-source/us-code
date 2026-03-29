@@ -3,9 +3,9 @@ title: "Section 2414 - Funding"
 usc_title: 10
 usc_section: "2414"
 chapter: 142
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2414"
-generated_at: "2026-03-29T21:33:09.189Z"
+generated_at: "2026-03-29T21:36:56.434Z"
 ---
 
 # § 2414. Funding

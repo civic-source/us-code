@@ -3,9 +3,9 @@ title: "Section 4816 - National technology and industrial base: periodic defense
 usc_title: 10
 usc_section: "4816"
 chapter: 382
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4816"
-generated_at: "2026-03-29T21:33:09.314Z"
+generated_at: "2026-03-29T21:36:56.512Z"
 ---
 
 # § 4816. National technology and industrial base: periodic defense capability assessments
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:33:09.314Z"
   - **(3)** determine the extent to which the requirements associated with defense acquisition programs can be satisfied by the present and projected performance capacities of industries supporting the sectors or capabilities in the assessment, evaluate the reasons for any variance from applicable preceding determinations, and identify the extent to which those industries are comprised of only one potential source in the national technology and industrial base or have multiple potential sources;
   - **(4)** determine the extent to which the requirements associated with defense acquisition programs can be satisfied by the present and projected performance capacities of industries that do not actively support Department of Defense acquisition programs and identify the barriers to the participation of those industries;
   - **(5)** identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
-  - **(6)** consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 1 1 Amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as section 2430 was transferred to multiple sections. of this title) or major automated information system programs (as defined in section 2445a 2 2 Section 2445a was repealed by Pub. L. 114–328 . of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
+  - **(6)** consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 1 1 See References in Text note below. of this title) or major automated information system programs (as defined in section 2445a 1 of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
 - **(c)** Each assessment under subsection (a) shall include a separate discussion and presentation regarding the extent to which the national technology and industrial base is dependent on items for which the source of supply, manufacture, or technology is outside of the United States and Canada and for which there is no immediately available source in the United States or Canada. The discussion and presentation regarding foreign dependency shall—
   - **(1)** identify cases that pose an unacceptable risk of foreign dependency, as determined by the Secretary; and
   - **(2)** present actions being taken or proposed to be taken to remedy the risk posed by the cases identified under paragraph (1), including efforts to develop a domestic source for the item in question.

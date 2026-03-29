@@ -3,9 +3,9 @@ title: "Section 2347h - Human rights report"
 usc_title: 22
 usc_section: "2347h"
 chapter: 32
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 2347h"
-generated_at: "2026-03-29T21:34:12.766Z"
+generated_at: "2026-03-29T21:37:38.132Z"
 ---
 
 # § 2347h. Human rights report

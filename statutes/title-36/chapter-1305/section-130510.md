@@ -3,9 +3,9 @@ title: "Section 130510 - Statement required in audit report"
 usc_title: 36
 usc_section: "130510"
 chapter: 1305
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 130510"
-generated_at: "2026-03-29T21:34:57.386Z"
+generated_at: "2026-03-29T21:38:10.848Z"
 ---
 
 # § 130510. Statement required in audit report

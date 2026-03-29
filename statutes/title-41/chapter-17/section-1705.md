@@ -3,9 +3,9 @@ title: "Section 1705 - Advocates for competition"
 usc_title: 41
 usc_section: "1705"
 chapter: 17
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "41 U.S.C. § 1705"
-generated_at: "2026-03-29T21:35:02.735Z"
+generated_at: "2026-03-29T21:38:13.166Z"
 ---
 
 # § 1705. Advocates for competition

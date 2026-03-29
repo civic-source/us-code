@@ -3,9 +3,9 @@ title: "Section 1599h - Personnel management authority to attract experts in sci
 usc_title: 10
 usc_section: "1599h"
 chapter: 81
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 1599h"
-generated_at: "2026-03-29T21:33:09.110Z"
+generated_at: "2026-03-29T21:36:56.379Z"
 ---
 
 # § 1599h. Personnel management authority to attract experts in science and engineering
@@ -28,8 +28,8 @@ generated_at: "2026-03-29T21:33:09.110Z"
     - **(D)** in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office;
     - **(E)** in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
     - **(F)** in the case of the Joint Artificial Intelligence Center, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Center;
-    - **(G)** 3 3 So in original. Two subpars. (G) have been enacted. in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
-    - **(G)** 3 in the case of the Space Development Agency, appoint individuals to a total of not more than 10 positions in the Agency, of which not more than 3 such positions may be positions of administration or management of the Agency; and
+    - **(G)** 2 2 So in original. Two subpars. (G) have been enacted. in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
+    - **(G)** 2 in the case of the Space Development Agency, appoint individuals to a total of not more than 10 positions in the Agency, of which not more than 3 such positions may be positions of administration or management of the Agency; and
     - **(H)** in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command;
   - **(2)** notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
     - **(A)** in the case of employees appointed pursuant to paragraph (1)(B) to any of 5 positions designated by the Director of the Defense Advanced Research Projects Agency for purposes of this subparagraph, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under section 5312 of title 5 ; and

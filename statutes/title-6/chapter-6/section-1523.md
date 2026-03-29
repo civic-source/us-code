@@ -3,9 +3,9 @@ title: "Section 1523 - Federal cybersecurity requirements"
 usc_title: 6
 usc_section: "1523"
 chapter: 6
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "6 U.S.C. § 1523"
-generated_at: "2026-03-29T21:32:45.147Z"
+generated_at: "2026-03-29T21:36:39.041Z"
 ---
 
 # § 1523. Federal cybersecurity requirements

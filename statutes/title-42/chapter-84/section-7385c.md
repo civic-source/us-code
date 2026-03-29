@@ -3,9 +3,9 @@ title: "Section 7385c - Exclusivity of remedy against the United States and agai
 usc_title: 42
 usc_section: "7385c"
 chapter: 84
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 7385c"
-generated_at: "2026-03-29T21:35:47.388Z"
+generated_at: "2026-03-29T21:38:40.230Z"
 ---
 
 # § 7385c. Exclusivity of remedy against the United States and against contractors and subcontractors

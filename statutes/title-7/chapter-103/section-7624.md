@@ -3,9 +3,9 @@ title: "Section 7624 - Biobased products"
 usc_title: 7
 usc_section: "7624"
 chapter: 103
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 7624"
-generated_at: "2026-03-29T21:32:53.310Z"
+generated_at: "2026-03-29T21:36:47.064Z"
 ---
 
 # § 7624. Biobased products

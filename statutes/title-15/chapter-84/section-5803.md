@@ -3,9 +3,9 @@ title: "Section 5803 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5803"
 chapter: 84
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 5803"
-generated_at: "2026-03-29T21:33:27.404Z"
+generated_at: "2026-03-29T21:37:09.938Z"
 ---
 
 # §§ 5802, 5803. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

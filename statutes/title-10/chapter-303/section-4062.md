@@ -3,9 +3,9 @@ title: "Section 4062 - Defense Acquisition Challenge Program"
 usc_title: 10
 usc_section: "4062"
 chapter: 303
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4062"
-generated_at: "2026-03-29T21:33:09.290Z"
+generated_at: "2026-03-29T21:36:56.498Z"
 ---
 
 # § 4062. Defense Acquisition Challenge Program
@@ -20,8 +20,8 @@ generated_at: "2026-03-29T21:33:09.290Z"
   - **(3)** The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs or functions that will be given priority in the evaluation of challenge proposals.
   - **(4)**
     - **(A)** The Under Secretary shall establish procedures for the prompt issuance of a solicitation for challenge proposals addressing—
-      - **(i)** any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 4374 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title that the program’s acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a “critical cost growth threshold breach”);
-      - **(ii)** any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by section 2433(e)(2)(A) 2 2 Amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as there was no section 2433(e)(2)(A) of this title after amendment by Pub. L. 111–23 . Section 2433(e)(2) was transferred to section 4375(b) by Pub. L. 116–283 . of this title, that have contributed significantly to the cost growth of such program; and
+      - **(i)** any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 4374 of this title that the program’s acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a “critical cost growth threshold breach”);
+      - **(ii)** any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by section 2433(e)(2)(A) 1 1 Amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as there was no section 2433(e)(2)(A) of this title after amendment by Pub. L. 111–23 . Section 2433(e)(2) was transferred to section 4375(b) by Pub. L. 116–283 . of this title, that have contributed significantly to the cost growth of such program; and
       - **(iii)** any functional challenges of importance to Department of Defense missions.
     - **(B)** A solicitation under this paragraph may be included in a broad agency announcement issued pursuant to paragraph (3) as long as the broad agency announcement is released in an expeditious manner following the determination of the Secretary concerned that a critical cost growth threshold breach has occurred with respect to a major defense acquisition program.
   - **(5)** Under procedures established by the Under Secretary, a Panel shall carry out a preliminary evaluation of each challenge proposal submitted in response to a broad agency announcement, or submitted through the unsolicited proposal process and identified as a challenge proposal in accordance with paragraph (2), to determine each of the following:
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T21:33:09.290Z"
   - **(1)** means—
     - **(A)** the organization of hardware, software, material, facilities, personnel, data, and services needed to perform a designated function with specified results (such as the gathering of specified data, its processing, and its delivery to users); or
     - **(B)** a combination of two or more interrelated pieces (or sets) of equipment arranged in a functional package to perform an operational function or to satisfy a requirement; and
-  - **(2)** includes a major system (as defined in section 3041 1 of this title).
+  - **(2)** includes a major system (as defined in section 3041 of this title ).
 - **(l)**
   - **(1)** The Under Secretary of Defense for Research and Engineering shall carry out a pilot program to expand the use of the authority provided in this section to provide opportunities for the introduction of innovative and cost-saving approaches to programs other than major defense acquisition programs through the submission, review, and implementation, where appropriate, of qualifying proposals.
   - **(2)** For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—

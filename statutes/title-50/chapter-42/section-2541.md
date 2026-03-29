@@ -3,9 +3,9 @@ title: "Section 2541 - Tritium production program"
 usc_title: 50
 usc_section: "2541"
 chapter: 42
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 2541"
-generated_at: "2026-03-29T21:36:05.721Z"
+generated_at: "2026-03-29T21:38:47.368Z"
 ---
 
 # § 2541. Tritium production program

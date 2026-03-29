@@ -3,9 +3,9 @@ title: "Section 3056 - National Counterterrorism Center"
 usc_title: 50
 usc_section: "3056"
 chapter: 44
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3056"
-generated_at: "2026-03-29T21:36:05.744Z"
+generated_at: "2026-03-29T21:38:47.391Z"
 ---
 
 # § 3056. National Counterterrorism Center

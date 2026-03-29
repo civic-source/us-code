@@ -3,9 +3,9 @@ title: "Section 1733 - Information"
 usc_title: 30
 usc_section: "1733"
 chapter: 29
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "30 U.S.C. § 1733"
-generated_at: "2026-03-29T21:34:22.896Z"
+generated_at: "2026-03-29T21:37:41.538Z"
 ---
 
 # § 1733. Information

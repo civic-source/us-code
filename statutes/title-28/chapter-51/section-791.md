@@ -3,9 +3,9 @@ title: "Section 791 - Clerk"
 usc_title: 28
 usc_section: "791"
 chapter: 51
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "28 U.S.C. § 791"
-generated_at: "2026-03-29T21:34:28.048Z"
+generated_at: "2026-03-29T21:37:43.067Z"
 ---
 
 # § 791. Clerk

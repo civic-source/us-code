@@ -3,9 +3,9 @@ title: "Section 364 - International stage: Procedure"
 usc_title: 35
 usc_section: "364"
 chapter: 36
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "35 U.S.C. § 364"
-generated_at: "2026-03-29T21:34:46.563Z"
+generated_at: "2026-03-29T21:37:57.629Z"
 ---
 
 # § 364. International stage: Procedure

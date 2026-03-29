@@ -3,9 +3,9 @@ title: "Section 4147 - Use of federally funded research and development centers"
 usc_title: 10
 usc_section: "4147"
 chapter: 307
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4147"
-generated_at: "2026-03-29T21:33:09.293Z"
+generated_at: "2026-03-29T21:36:56.501Z"
 ---
 
 # § 4147. Use of federally funded research and development centers
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T21:33:09.293Z"
   - **(1)** The head of an agency may not obligate or expend amounts appropriated to the Department of Defense for purposes of operating a federally funded research center that was not in existence before June 2, 1986 , until—
     - **(A)** the head of the agency submits to Congress a report with respect to such center that describes the purpose, mission, and general scope of effort of the center; and
     - **(B)** a period of 60 days beginning on the date such report is received by Congress has elapsed.
-  - **(2)** In this subsection, the term “head of an agency” has the meaning given such term in section 3004 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
+  - **(2)** In this subsection, the term “head of an agency” has the meaning given such term in section 3004 of this title .
 - **(d)** After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.

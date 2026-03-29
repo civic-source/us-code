@@ -3,9 +3,9 @@ title: "Section 410d - Acceptance and protection of property pending establishme
 usc_title: 16
 usc_section: "410d"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 410d"
-generated_at: "2026-03-29T21:33:47.061Z"
+generated_at: "2026-03-29T21:37:25.666Z"
 ---
 
 # § 410d. Acceptance and protection of property pending establishment of park; publication of establishment order

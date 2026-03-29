@@ -3,9 +3,9 @@ title: "Section 352 - Membership"
 usc_title: 2
 usc_section: "352"
 chapter: 11
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 352"
-generated_at: "2026-03-29T21:32:30.428Z"
+generated_at: "2026-03-29T21:36:32.929Z"
 ---
 
 # § 352. Membership

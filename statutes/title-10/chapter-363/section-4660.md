@@ -3,9 +3,9 @@ title: "Section 4660 - Prohibition on collection of political information"
 usc_title: 10
 usc_section: "4660"
 chapter: 363
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4660"
-generated_at: "2026-03-29T21:33:09.310Z"
+generated_at: "2026-03-29T21:36:56.510Z"
 ---
 
 # § 4660. Prohibition on collection of political information
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T21:33:09.310Z"
 - **(b)** The prohibition under this section applies to the procurement of commercial products and commercial services, the procurement of commercial-off-the-shelf-items, and the non-commercial procurement of supplies, property, services, and manufactured items, irrespective of contract vehicle, including contracts, purchase orders, task or deliver orders under indefinite delivery/indefinite quantity contracts, blanket purchase agreements, and basic ordering agreements.
 - **(c)** Nothing in this section shall be construed as—
   - **(1)** waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 ( 52 U.S.C. 30101 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
-  - **(2)** precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to section 2324 1 1 Amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as section 2324 was transferred to multiple sections. of this title.
+  - **(2)** precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to section 2324 1 1 See References in Text note below. of this title.
 - **(d)** In this section:
   - **(1)** The term “contractor” includes contractors, bidders, and offerors, and individuals and legal entities who would reasonably be expected to submit offers or bids for Federal Government contracts.
   - **(2)** The term “political information” means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history.

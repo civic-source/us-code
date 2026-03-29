@@ -3,9 +3,9 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-29T21:33:09.319Z"
+generated_at: "2026-03-29T21:36:56.515Z"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T21:33:09.319Z"
     - **(C)** Steering controls.
     - **(D)** Propulsion and machinery control systems.
     - **(E)** Totally enclosed lifeboats.
-  - **(3)** Subject to subsection (j), 1 1 So in original. Probably should refer to subsec. ( l ). large medium-speed diesel engines.
+  - **(3)** Subject to subsection (j), 1 1 See References in Text note below. large medium-speed diesel engines.
   - **(4)** The following components of T–AO 205 class vessels:
     - **(A)** Auxiliary equipment, including pumps, for all shipboard services.
     - **(B)** Propulsion system components, including engines, reduction gears, and propellers.
@@ -31,8 +31,8 @@ generated_at: "2026-03-29T21:33:09.319Z"
   - **(1)** Application of the limitation would cause unreasonable costs or delays to be incurred.
   - **(2)** United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
   - **(3)** Application of the limitation would impede cooperative programs entered into between the Department of Defense and a foreign country, or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items that is entered into under section 4851 of this title , and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
-  - **(4)** Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 4801(1) 2 2 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title) are not available.
-  - **(5)** Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 4801(1) 2 of this title).
+  - **(4)** Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 4801(1) of this title ) are not available.
+  - **(5)** Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 4801(1) of this title ).
   - **(6)** The procurement is for an amount less than the simplified acquisition threshold and simplified purchase procedures are being used.
   - **(7)** Application of the limitation is not in the national security interests of the United States.
   - **(8)** Application of the limitation would adversely affect a United States company.

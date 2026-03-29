@@ -3,9 +3,9 @@ title: "Section 4819 - Modernization of acquisition processes to ensure integrit
 usc_title: 10
 usc_section: "4819"
 chapter: 382
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4819"
-generated_at: "2026-03-29T21:33:09.315Z"
+generated_at: "2026-03-29T21:36:56.513Z"
 ---
 
 # § 4819. Modernization of acquisition processes to ensure integrity of industrial base
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T21:33:09.315Z"
       - **(viii)** contract audit for closeout;
       - **(ix)** suspension and debarment activities and administrative appeals activities;
       - **(x)** contractor business system reviews;
-      - **(xi)** processes and procedures related to supply chain risk management and processes and procedures implemented pursuant to section 3252 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title; and
+      - **(xi)** processes and procedures related to supply chain risk management and processes and procedures implemented pursuant to section 3252 of this title ; and
       - **(xii)** other relevant processes and procedures.
     - **(D)** Characterization and monitoring of the health and activities of the defense industrial base, including those relating to—
       - **(i)** balance sheets, revenues, profitability, and debt;
@@ -51,11 +51,11 @@ generated_at: "2026-03-29T21:33:09.315Z"
       - **(iv)** corporate governance, leadership, and culture of performance; and
       - **(v)** history of performance on past Department of Defense and government contracts.
     - **(E)** Characterization and assessment of industrial base support policies, programs, and procedures, including—
-      - **(i)** limitations and acquisition guidance relevant to the national technology and industrial base (as defined in section 4801(1) 1 of this title);
-      - **(ii)** limitations and acquisition guidance relevant to section 4862 1 of this title;
+      - **(i)** limitations and acquisition guidance relevant to the national technology and industrial base (as defined in section 4801(1) of this title );
+      - **(ii)** limitations and acquisition guidance relevant to section 4862 of this title ;
       - **(iii)** the Industrial Base Analysis and Sustainment program of the Department, including direct support and common design activities;
       - **(iv)** the Small Business Innovation Research Program (as defined in section 9(e) of the Small Business Act ( 15 U.S.C. 638(e) );
-      - **(v)** the Manufacturing Technology Program established under section 4841 1 of this title;
+      - **(v)** the Manufacturing Technology Program established under section 4841 of this title ;
       - **(vi)** programs relating to the Defense Production Act of 1950 ( 50 U.S.C. 4511 et seq.); and
       - **(vii)** programs operating in each military department.
 - **(c)** The Secretary of Defense shall designate the roles and responsibilities of organizations and individuals to execute activities under this section, including—

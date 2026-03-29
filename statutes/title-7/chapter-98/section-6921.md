@@ -3,9 +3,9 @@ title: "Section 6921 - Office of Tribal Relations"
 usc_title: 7
 usc_section: "6921"
 chapter: 98
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 6921"
-generated_at: "2026-03-29T21:32:53.268Z"
+generated_at: "2026-03-29T21:36:47.033Z"
 ---
 
 # § 6921. Office of Tribal Relations

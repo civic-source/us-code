@@ -3,9 +3,9 @@ title: "Section 47 - Reference of suits under antitrust statutes to Commission"
 usc_title: 15
 usc_section: "47"
 chapter: 2
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 47"
-generated_at: "2026-03-29T21:33:26.890Z"
+generated_at: "2026-03-29T21:37:09.624Z"
 ---
 
 # § 47. Reference of suits under antitrust statutes to Commission

@@ -3,9 +3,9 @@ title: "Section 657 - Prohibition on service in the armed forces by individuals 
 usc_title: 10
 usc_section: "657"
 chapter: 37
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 657"
-generated_at: "2026-03-29T21:33:08.985Z"
+generated_at: "2026-03-29T21:36:56.269Z"
 ---
 
 # § 657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses

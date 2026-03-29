@@ -3,9 +3,9 @@ title: "Section 7915 - Identifying opportunities for recreation, hunting, and fi
 usc_title: 16
 usc_section: "7915"
 chapter: 98
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 7915"
-generated_at: "2026-03-29T21:33:47.757Z"
+generated_at: "2026-03-29T21:37:26.059Z"
 ---
 
 # § 7915. Identifying opportunities for recreation, hunting, and fishing on Federal land

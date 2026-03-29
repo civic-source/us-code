@@ -3,9 +3,9 @@ title: "Section 391b - Extension of boundaries"
 usc_title: 16
 usc_section: "391b"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 391b"
-generated_at: "2026-03-29T21:33:47.044Z"
+generated_at: "2026-03-29T21:37:25.656Z"
 ---
 
 # § 391b. Extension of boundaries

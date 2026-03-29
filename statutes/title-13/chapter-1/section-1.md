@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 13
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "13 U.S.C. § 1"
-generated_at: "2026-03-29T21:33:12.482Z"
+generated_at: "2026-03-29T21:36:59.127Z"
 ---
 
 # § 1. Definitions

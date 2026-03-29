@@ -3,9 +3,9 @@ title: "Section 2320 - Protection of recreational and commercial uses"
 usc_title: 33
 usc_section: "2320"
 chapter: 36
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "33 U.S.C. § 2320"
-generated_at: "2026-03-29T21:34:49.140Z"
+generated_at: "2026-03-29T21:38:02.720Z"
 ---
 
 # § 2320. Protection of recreational and commercial uses

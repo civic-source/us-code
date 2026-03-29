@@ -3,9 +3,9 @@ title: "Section 515k - Repealed. Pub. L. 108–357, title VI, § 611(c) , Oct. 2
 usc_title: 7
 usc_section: "515k"
 chapter: 21
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 515k"
-generated_at: "2026-03-29T21:32:52.936Z"
+generated_at: "2026-03-29T21:36:46.755Z"
 ---
 
 # §§ 515 to 515k. Repealed. Pub. L. 108–357, title VI, § 611(c) , Oct. 22, 2004 , 118 Stat. 1522

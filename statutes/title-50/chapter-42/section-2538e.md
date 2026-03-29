@@ -1,14 +1,14 @@
 ---
-title: "Section 2538e - W93 Nuclear warhead acquisition process"
+title: "Section 2538e - W93 nuclear warhead acquisition process"
 usc_title: 50
 usc_section: "2538e"
 chapter: 42
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 2538e"
-generated_at: "2026-03-29T21:36:05.721Z"
+generated_at: "2026-03-29T21:38:47.368Z"
 ---
 
-# § 2538e. W93 Nuclear warhead acquisition process
+# § 2538e. W93 nuclear warhead acquisition process
 
 - **(a)**
   - **(1)** Upon receiving a concept definition study under phase 1 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Nuclear Weapons Council shall submit to the congressional defense committees a report that includes the following:

@@ -3,9 +3,9 @@ title: "Section 6511 - Liquidation from appropriations of any unpaid obligations
 usc_title: 2
 usc_section: "6511"
 chapter: 65
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 6511"
-generated_at: "2026-03-29T21:32:30.539Z"
+generated_at: "2026-03-29T21:36:33.006Z"
 ---
 
 # § 6511. Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds

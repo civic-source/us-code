@@ -3,9 +3,9 @@ title: "Section 825 - Art. 25. Who may serve on courts-martial"
 usc_title: 10
 usc_section: "825"
 chapter: 47
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 825"
-generated_at: "2026-03-29T21:33:08.997Z"
+generated_at: "2026-03-29T21:36:56.280Z"
 ---
 
 # § 825. Art. 25. Who may serve on courts-martial

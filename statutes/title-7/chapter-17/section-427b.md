@@ -3,9 +3,9 @@ title: "Section 427b - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674"
 usc_title: 7
 usc_section: "427b"
 chapter: 17
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 427b"
-generated_at: "2026-03-29T21:32:52.928Z"
+generated_at: "2026-03-29T21:36:46.747Z"
 ---
 
 # § 427b. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674

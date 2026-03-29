@@ -3,9 +3,9 @@ title: "Section 36 - Repealed. June 7, 1956, ch. 374, § 306(2) , 70 Stat. 254"
 usc_title: 24
 usc_section: "36"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "24 U.S.C. § 36"
-generated_at: "2026-03-29T21:33:58.538Z"
+generated_at: "2026-03-29T21:37:28.834Z"
 ---
 
 # § 36. Repealed. June 7, 1956, ch. 374, § 306(2) , 70 Stat. 254

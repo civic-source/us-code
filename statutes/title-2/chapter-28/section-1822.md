@@ -3,9 +3,9 @@ title: "Section 1822 - Leasing of space"
 usc_title: 2
 usc_section: "1822"
 chapter: 28
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 1822"
-generated_at: "2026-03-29T21:32:30.486Z"
+generated_at: "2026-03-29T21:36:32.971Z"
 ---
 
 # § 1822. Leasing of space

@@ -3,9 +3,9 @@ title: "Section 6973 - Imminent hazard"
 usc_title: 42
 usc_section: "6973"
 chapter: 82
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 6973"
-generated_at: "2026-03-29T21:35:47.365Z"
+generated_at: "2026-03-29T21:38:40.209Z"
 ---
 
 # § 6973. Imminent hazard

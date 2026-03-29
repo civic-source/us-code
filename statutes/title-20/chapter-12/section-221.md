@@ -3,9 +3,9 @@ title: "Section 221 - Instructions of citizens from American republics; Governme
 usc_title: 20
 usc_section: "221"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 221"
-generated_at: "2026-03-29T21:33:39.021Z"
+generated_at: "2026-03-29T21:37:21.082Z"
 ---
 
 # § 221. Instructions of citizens from American republics; Government maintained professional educational institutions

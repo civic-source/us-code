@@ -3,9 +3,9 @@ title: "Section 8743 - Identification of, and imposition of measures with respec
 usc_title: 22
 usc_section: "8743"
 chapter: 94
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 8743"
-generated_at: "2026-03-29T21:34:13.015Z"
+generated_at: "2026-03-29T21:37:38.328Z"
 ---
 
 # § 8743. Identification of, and imposition of measures with respect to, foreign government agencies carrying out activities or transactions with certain Iran-affiliated persons

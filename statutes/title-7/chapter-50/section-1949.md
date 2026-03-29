@@ -3,9 +3,9 @@ title: "Section 1949 - Graduation of borrowers with operating loans or guarantee
 usc_title: 7
 usc_section: "1949"
 chapter: 50
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 1949"
-generated_at: "2026-03-29T21:32:53.072Z"
+generated_at: "2026-03-29T21:36:46.876Z"
 ---
 
 # § 1949. Graduation of borrowers with operating loans or guarantees to private commercial credit

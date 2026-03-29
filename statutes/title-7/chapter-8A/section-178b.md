@@ -3,9 +3,9 @@ title: "Section 178b - Joint Commission on Research and Development of Critical 
 usc_title: 7
 usc_section: "178b"
 chapter: 8
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 178b"
-generated_at: "2026-03-29T21:32:52.909Z"
+generated_at: "2026-03-29T21:36:46.731Z"
 ---
 
 # § 178b. Joint Commission on Research and Development of Critical Agricultural Materials

@@ -3,9 +3,9 @@ title: "Section 3937 - Maximum rate of interest on debts incurred before militar
 usc_title: 50
 usc_section: "3937"
 chapter: 50
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3937"
-generated_at: "2026-03-29T21:36:05.797Z"
+generated_at: "2026-03-29T21:38:47.433Z"
 ---
 
 # § 3937. Maximum rate of interest on debts incurred before military service

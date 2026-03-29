@@ -3,9 +3,9 @@ title: "Section 10288 - Due diligence in paying benefit claims"
 usc_title: 34
 usc_section: "10288"
 chapter: 101
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "34 U.S.C. § 10288"
-generated_at: "2026-03-29T21:34:44.268Z"
+generated_at: "2026-03-29T21:38:00.596Z"
 ---
 
 # § 10288. Due diligence in paying benefit claims

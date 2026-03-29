@@ -3,9 +3,9 @@ title: "Section 3754 - Congressional restraints on property transfers and tax ex
 usc_title: 22
 usc_section: "3754"
 chapter: 51
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 3754"
-generated_at: "2026-03-29T21:34:12.857Z"
+generated_at: "2026-03-29T21:37:38.205Z"
 ---
 
 # § 3754. Congressional restraints on property transfers and tax expenditures; formal apprisal of Panama

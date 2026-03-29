@@ -3,9 +3,9 @@ title: "Section 80101 - Organization"
 usc_title: 36
 usc_section: "80101"
 chapter: 801
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 80101"
-generated_at: "2026-03-29T21:34:57.383Z"
+generated_at: "2026-03-29T21:38:10.844Z"
 ---
 
 # § 80101. Organization

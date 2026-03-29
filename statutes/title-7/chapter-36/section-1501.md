@@ -3,9 +3,9 @@ title: "Section 1501 - Short title and application of other provisions"
 usc_title: 7
 usc_section: "1501"
 chapter: 36
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 1501"
-generated_at: "2026-03-29T21:32:53.002Z"
+generated_at: "2026-03-29T21:36:46.815Z"
 ---
 
 # § 1501. Short title and application of other provisions

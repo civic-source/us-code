@@ -3,9 +3,9 @@ title: "Section 81s - Offenses"
 usc_title: 19
 usc_section: "81s"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "19 U.S.C. § 81s"
-generated_at: "2026-03-29T21:33:54.556Z"
+generated_at: "2026-03-29T21:37:17.630Z"
 ---
 
 # § 81s. Offenses

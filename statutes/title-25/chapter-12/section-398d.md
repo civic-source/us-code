@@ -3,9 +3,9 @@ title: "Section 398d - Changes in boundaries of Executive order reservations"
 usc_title: 25
 usc_section: "398d"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "25 U.S.C. § 398d"
-generated_at: "2026-03-29T21:34:01.755Z"
+generated_at: "2026-03-29T21:37:31.714Z"
 ---
 
 # § 398d. Changes in boundaries of Executive order reservations

@@ -3,9 +3,9 @@ title: "Section 5303B - Character of service determinations"
 usc_title: 38
 usc_section: "5303B"
 chapter: 53
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "38 U.S.C. § 5303B"
-generated_at: "2026-03-29T21:34:55.995Z"
+generated_at: "2026-03-29T21:38:09.531Z"
 ---
 
 # § 5303B. Character of service determinations

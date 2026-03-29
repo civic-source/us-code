@@ -3,9 +3,9 @@ title: "Section 402 - Repealed. Pub. L. 91–230, title IV, § 401(f)(2) , Apr. 
 usc_title: 20
 usc_section: "402"
 chapter: 17
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 402"
-generated_at: "2026-03-29T21:33:39.023Z"
+generated_at: "2026-03-29T21:37:21.083Z"
 ---
 
 # § 402. Repealed. Pub. L. 91–230, title IV, § 401(f)(2) , Apr. 13, 1970 , 84 Stat. 173

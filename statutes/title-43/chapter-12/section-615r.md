@@ -3,9 +3,9 @@ title: "Section 615r - Omitted"
 usc_title: 43
 usc_section: "615r"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "43 U.S.C. § 615r"
-generated_at: "2026-03-29T21:35:10.718Z"
+generated_at: "2026-03-29T21:38:15.506Z"
 ---
 
 # §§ 615o to 615r. Omitted

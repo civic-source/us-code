@@ -3,9 +3,9 @@ title: "Section 10707 - Determination of market dominance in rail rate proceedin
 usc_title: 49
 usc_section: "10707"
 chapter: 107
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 10707"
-generated_at: "2026-03-29T21:35:58.221Z"
+generated_at: "2026-03-29T21:38:51.390Z"
 ---
 
 # § 10707. Determination of market dominance in rail rate proceedings

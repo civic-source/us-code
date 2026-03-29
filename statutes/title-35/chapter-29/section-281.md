@@ -3,9 +3,9 @@ title: "Section 281 - Remedy for infringement of patent"
 usc_title: 35
 usc_section: "281"
 chapter: 29
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "35 U.S.C. § 281"
-generated_at: "2026-03-29T21:34:46.559Z"
+generated_at: "2026-03-29T21:37:57.627Z"
 ---
 
 # § 281. Remedy for infringement of patent

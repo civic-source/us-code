@@ -3,9 +3,9 @@ title: "Section 40106 - Powers"
 usc_title: 36
 usc_section: "40106"
 chapter: 401
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 40106"
-generated_at: "2026-03-29T21:34:57.378Z"
+generated_at: "2026-03-29T21:38:10.840Z"
 ---
 
 # § 40106. Powers

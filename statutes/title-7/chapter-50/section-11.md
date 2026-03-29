@@ -3,9 +3,9 @@ title: "Section 11 - Examinations"
 usc_title: 7
 usc_section: "11"
 chapter: 50
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 11"
-generated_at: "2026-03-29T21:32:53.100Z"
+generated_at: "2026-03-29T21:36:46.899Z"
 ---
 
 # § 2009cc–11. Examinations

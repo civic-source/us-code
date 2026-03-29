@@ -3,9 +3,9 @@ title: "Section 3506 - Department of defense contracts: acquisition of weapon sy
 usc_title: 10
 usc_section: "3506"
 chapter: 249
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3506"
-generated_at: "2026-03-29T21:33:09.276Z"
+generated_at: "2026-03-29T21:36:56.490Z"
 ---
 
 # § 3506. Department of defense contracts: acquisition of weapon systems

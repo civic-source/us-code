@@ -3,9 +3,9 @@ title: "Section 91 - Definitions"
 usc_title: 42
 usc_section: "91"
 chapter: 6
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 91"
-generated_at: "2026-03-29T21:35:46.609Z"
+generated_at: "2026-03-29T21:38:39.485Z"
 ---
 
 # § 300gg–91. Definitions

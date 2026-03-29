@@ -3,9 +3,9 @@ title: "Section 9531 - Exception relating to activities of the National Aeronaut
 usc_title: 22
 usc_section: "9531"
 chapter: 102
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9531"
-generated_at: "2026-03-29T21:34:13.043Z"
+generated_at: "2026-03-29T21:37:38.354Z"
 ---
 
 # § 9531. Exception relating to activities of the National Aeronautics and Space Administration

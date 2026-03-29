@@ -3,9 +3,9 @@ title: "Section 178j - Laws governing inventions under this subchapter"
 usc_title: 7
 usc_section: "178j"
 chapter: 8
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 178j"
-generated_at: "2026-03-29T21:32:52.910Z"
+generated_at: "2026-03-29T21:36:46.732Z"
 ---
 
 # § 178j. Laws governing inventions under this subchapter

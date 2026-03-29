@@ -3,9 +3,9 @@ title: "Section 1208 - Future rights-of-way"
 usc_title: 45
 usc_section: "1208"
 chapter: 21
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "45 U.S.C. § 1208"
-generated_at: "2026-03-29T21:35:03.574Z"
+generated_at: "2026-03-29T21:38:16.114Z"
 ---
 
 # § 1208. Future rights-of-way

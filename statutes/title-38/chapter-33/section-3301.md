@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions"
 usc_title: 38
 usc_section: "3301"
 chapter: 33
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "38 U.S.C. § 3301"
-generated_at: "2026-03-29T21:34:55.954Z"
+generated_at: "2026-03-29T21:38:09.498Z"
 ---
 
 # § 3301. Definitions

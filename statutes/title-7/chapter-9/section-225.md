@@ -3,9 +3,9 @@ title: "Section 225 - Laws unaffected"
 usc_title: 7
 usc_section: "225"
 chapter: 9
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 225"
-generated_at: "2026-03-29T21:32:52.915Z"
+generated_at: "2026-03-29T21:36:46.736Z"
 ---
 
 # § 225. Laws unaffected

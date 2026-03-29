@@ -3,9 +3,9 @@ title: "Section 2330 - Aquatic ecosystem restoration"
 usc_title: 33
 usc_section: "2330"
 chapter: 36
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "33 U.S.C. § 2330"
-generated_at: "2026-03-29T21:34:49.145Z"
+generated_at: "2026-03-29T21:38:02.723Z"
 ---
 
 # § 2330. Aquatic ecosystem restoration

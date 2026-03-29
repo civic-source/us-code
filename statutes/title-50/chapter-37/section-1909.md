@@ -3,9 +3,9 @@ title: "Section 1909 - Fiscal year 1992 funding"
 usc_title: 50
 usc_section: "1909"
 chapter: 37
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 1909"
-generated_at: "2026-03-29T21:36:05.701Z"
+generated_at: "2026-03-29T21:38:47.347Z"
 ---
 
 # § 1909. Fiscal year 1992 funding

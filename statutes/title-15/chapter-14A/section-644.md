@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-29T21:33:27.099Z"
+generated_at: "2026-03-29T21:37:09.750Z"
 ---
 
 # § 644. Awards or contracts

@@ -3,9 +3,9 @@ title: "Section 402g - Elimination of lands"
 usc_title: 16
 usc_section: "402g"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 402g"
-generated_at: "2026-03-29T21:33:47.049Z"
+generated_at: "2026-03-29T21:37:25.660Z"
 ---
 
 # § 402g. Elimination of lands

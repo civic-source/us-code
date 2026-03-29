@@ -3,9 +3,9 @@ title: "Section 3005 - Number of authorized commissioned officers"
 usc_title: 33
 usc_section: "3005"
 chapter: 43
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "33 U.S.C. § 3005"
-generated_at: "2026-03-29T21:34:49.172Z"
+generated_at: "2026-03-29T21:38:02.740Z"
 ---
 
 # § 3005. Number of authorized commissioned officers

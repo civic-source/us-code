@@ -3,9 +3,9 @@ title: "Section 3334 - Review of State program by Secretary"
 usc_title: 16
 usc_section: "3334"
 chapter: 52
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 3334"
-generated_at: "2026-03-29T21:33:47.630Z"
+generated_at: "2026-03-29T21:37:25.990Z"
 ---
 
 # § 3334. Review of State program by Secretary

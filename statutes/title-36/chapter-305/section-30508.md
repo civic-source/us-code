@@ -3,9 +3,9 @@ title: "Section 30508 - Restrictions"
 usc_title: 36
 usc_section: "30508"
 chapter: 305
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 30508"
-generated_at: "2026-03-29T21:34:57.377Z"
+generated_at: "2026-03-29T21:38:10.838Z"
 ---
 
 # § 30508. Restrictions

@@ -3,9 +3,9 @@ title: "Section 32501 - Purpose"
 usc_title: 49
 usc_section: "32501"
 chapter: 325
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 32501"
-generated_at: "2026-03-29T21:35:58.279Z"
+generated_at: "2026-03-29T21:38:51.460Z"
 ---
 
 # § 32501. Purpose

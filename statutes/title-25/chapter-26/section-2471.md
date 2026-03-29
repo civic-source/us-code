@@ -3,9 +3,9 @@ title: "Section 2471 - Transferred"
 usc_title: 25
 usc_section: "2471"
 chapter: 26
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "25 U.S.C. § 2471"
-generated_at: "2026-03-29T21:34:01.844Z"
+generated_at: "2026-03-29T21:37:31.778Z"
 ---
 
 # § 2471. Transferred

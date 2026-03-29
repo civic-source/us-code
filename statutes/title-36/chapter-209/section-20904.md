@@ -3,9 +3,9 @@ title: "Section 20904 - Membership"
 usc_title: 36
 usc_section: "20904"
 chapter: 209
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 20904"
-generated_at: "2026-03-29T21:34:57.369Z"
+generated_at: "2026-03-29T21:38:10.832Z"
 ---
 
 # § 20904. Membership

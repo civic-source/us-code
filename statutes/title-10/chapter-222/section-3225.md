@@ -3,9 +3,9 @@ title: "Section 3225 - Discussion of risk in cost estimates"
 usc_title: 10
 usc_section: "3225"
 chapter: 222
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3225"
-generated_at: "2026-03-29T21:33:09.270Z"
+generated_at: "2026-03-29T21:36:56.486Z"
 ---
 
 # § 3225. Discussion of risk in cost estimates
@@ -16,4 +16,4 @@ The Director of Cost Assessment and Program Evaluation, and the Secretary of the
   - **(2)** ensure that cost estimates are developed, to the extent practicable, based on historical actual cost information that is based on demonstrated contractor and Government performance and that such estimates provide a high degree of confidence that the program or subprogram can be completed without the need for significant adjustment to program budgets; and
   - **(3)** include the information required in the guidance under paragraph (1)—
     - **(A)** in any decision documentation approving a cost estimate within the baseline description or any other cost estimate for use at any event specified in section 3221(b)(6) of this title ; and
-    - **(B)** in the next Selected Acquisition Report pursuant to sections 4351 through 4358 of this title in the case of a major defense acquisition program or major subprogram, or the next quarterly report pursuant to section 2445c of this title in the case of a major automated information system program.
+    - **(B)** in the next Selected Acquisition Report pursuant to sections 4351 through 4358 of this title in the case of a major defense acquisition program or major subprogram, or the next quarterly report pursuant to section 2445c 1 1 See References in Text note below. of this title in the case of a major automated information system program.

@@ -3,9 +3,9 @@ title: "Section 9655 - Engagement with investors"
 usc_title: 22
 usc_section: "9655"
 chapter: 103
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9655"
-generated_at: "2026-03-29T21:34:13.049Z"
+generated_at: "2026-03-29T21:37:38.359Z"
 ---
 
 # § 9655. Engagement with investors

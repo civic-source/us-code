@@ -3,9 +3,9 @@ title: "Section 20961 - Technical Guidelines Development Committee"
 usc_title: 52
 usc_section: "20961"
 chapter: 209
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "52 U.S.C. § 20961"
-generated_at: "2026-03-29T21:36:09.229Z"
+generated_at: "2026-03-29T21:39:04.003Z"
 ---
 
 # § 20961. Technical Guidelines Development Committee

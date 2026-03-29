@@ -3,9 +3,9 @@ title: "Section 4171 - Operational test and evaluation of defense acquisition pr
 usc_title: 10
 usc_section: "4171"
 chapter: 309
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4171"
-generated_at: "2026-03-29T21:33:09.294Z"
+generated_at: "2026-03-29T21:36:56.501Z"
 ---
 
 # § 4171. Operational test and evaluation of defense acquisition programs
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T21:33:09.294Z"
 - **(a)**
   - **(1)** The Secretary of Defense shall provide that a covered major defense acquisition program, a covered designated major subprogram, or an element of the ballistic missile defense system may not proceed beyond low-rate initial production until initial operational test and evaluation of the program, subprogram, or element is completed.
   - **(2)** In this subsection:
-    - **(A)** The term “covered major defense acquisition program” means a major defense acquisition program that involves the acquisition of a weapon system that is a major system within the meaning of that term in section 3041 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
-    - **(B)** The term “covered designated major subprogram” means a major subprogram designated under section 4203(a)(1) 1 of this title that is a major subprogram of a covered major defense acquisition program.
+    - **(A)** The term “covered major defense acquisition program” means a major defense acquisition program that involves the acquisition of a weapon system that is a major system within the meaning of that term in section 3041 of this title .
+    - **(B)** The term “covered designated major subprogram” means a major subprogram designated under section 4203(a)(1) of this title that is a major subprogram of a covered major defense acquisition program.
 - **(b)**
   - **(1)** Operational testing of a major defense acquisition program may not be conducted until the Director of Operational Test and Evaluation of the Department of Defense approves (in writing) the adequacy of the plans (including the projected level of funding) for operational test and evaluation to be conducted in connection with that program.
   - **(2)** The Director shall analyze the results of the operational test and evaluation conducted for each major defense acquisition program. At the conclusion of such testing, the Director shall prepare a report stating—

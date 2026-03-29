@@ -3,9 +3,9 @@ title: "Section 360nn - Inspection, records, and reports"
 usc_title: 21
 usc_section: "360nn"
 chapter: 9
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "21 U.S.C. § 360nn"
-generated_at: "2026-03-29T21:34:05.684Z"
+generated_at: "2026-03-29T21:37:33.510Z"
 ---
 
 # § 360nn. Inspection, records, and reports

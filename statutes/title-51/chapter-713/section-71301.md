@@ -3,9 +3,9 @@ title: "Section 71301 - Common docking system standard to enable rescue"
 usc_title: 51
 usc_section: "71301"
 chapter: 713
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "51 U.S.C. § 71301"
-generated_at: "2026-03-29T21:36:09.775Z"
+generated_at: "2026-03-29T21:39:03.719Z"
 ---
 
 # § 71301. Common docking system standard to enable rescue

@@ -3,9 +3,9 @@ title: "Section 14516 - Separation to be considered involuntary"
 usc_title: 10
 usc_section: "14516"
 chapter: 1407
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 14516"
-generated_at: "2026-03-29T21:33:09.410Z"
+generated_at: "2026-03-29T21:36:56.589Z"
 ---
 
 # § 14516. Separation to be considered involuntary

@@ -3,9 +3,9 @@ title: "Section 3251 - State legislative authority"
 usc_title: 29
 usc_section: "3251"
 chapter: 32
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "29 U.S.C. § 3251"
-generated_at: "2026-03-29T21:34:26.028Z"
+generated_at: "2026-03-29T21:37:44.987Z"
 ---
 
 # § 3251. State legislative authority

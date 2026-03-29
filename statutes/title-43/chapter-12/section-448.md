@@ -3,9 +3,9 @@ title: "Section 448 - Desert-land entries within reclamation project generally"
 usc_title: 43
 usc_section: "448"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "43 U.S.C. § 448"
-generated_at: "2026-03-29T21:35:10.705Z"
+generated_at: "2026-03-29T21:38:15.494Z"
 ---
 
 # § 448. Desert-land entries within reclamation project generally

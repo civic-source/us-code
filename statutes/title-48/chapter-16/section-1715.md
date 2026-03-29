@@ -3,9 +3,9 @@ title: "Section 1715 - Operation of Office; House privileges; compensation, allo
 usc_title: 48
 usc_section: "1715"
 chapter: 16
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "48 U.S.C. § 1715"
-generated_at: "2026-03-29T21:36:03.181Z"
+generated_at: "2026-03-29T21:38:44.614Z"
 ---
 
 # § 1715. Operation of Office; House privileges; compensation, allowances, and benefits; privileges and immunities; voting in committee

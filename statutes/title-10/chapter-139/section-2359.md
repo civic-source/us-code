@@ -3,9 +3,9 @@ title: "Section 2359 - Science and technology programs to be conducted so as to 
 usc_title: 10
 usc_section: "2359"
 chapter: 139
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2359"
-generated_at: "2026-03-29T21:33:09.175Z"
+generated_at: "2026-03-29T21:36:56.424Z"
 ---
 
 # § 2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation

@@ -3,9 +3,9 @@ title: "Section 3507 - Department of defense contracts: defense acquisitions spe
 usc_title: 10
 usc_section: "3507"
 chapter: 249
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3507"
-generated_at: "2026-03-29T21:33:09.276Z"
+generated_at: "2026-03-29T21:36:56.490Z"
 ---
 
 # § 3507. Department of defense contracts: defense acquisitions specifically authorized by law
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T21:33:09.276Z"
   - **(2)** Confirmation that the preliminary findings of the agency head under paragraph (1) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.
 - **(c)** A multiyear contract may not be entered into under this subchapter for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
   - **(1)** The Secretary has determined that each of the requirements in paragraphs (1) through (6) of section 3501(a) of this title will be met by such contract and has provided the basis for such determination to the congressional defense committees.
-  - **(2)** The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 3226(b) of this title , and the analysis supports the determination.
+  - **(2)** The Secretary’s determination under subparagraph (A) 1 1 See References in Text note below. was made after completion of a cost analysis conducted on the basis of section 3226(b) of this title , and the analysis supports the determination.
   - **(3)** The system being acquired pursuant to such contract has not been determined to have experienced cost growth in excess of the critical cost growth threshold pursuant to section 4374 of this title within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
   - **(4)** A sufficient number of end items of the system being acquired under such contract have been delivered at or within the most current estimates of the program acquisition unit cost or procurement unit cost for such system to determine that current estimates of such unit costs are realistic.
   - **(5)** During the fiscal year in which such contract is to be awarded, sufficient funds will be available to perform the contract in such fiscal year, and the future-years defense program for such fiscal year will include the funding required to execute the program without cancellation.

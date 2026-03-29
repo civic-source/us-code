@@ -3,9 +3,9 @@ title: "Section 4 - Accounting and use of appropriations"
 usc_title: 16
 usc_section: "4"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T21:33:47.373Z"
+generated_at: "2026-03-29T21:37:25.844Z"
 ---
 
 # § 715k–4. Accounting and use of appropriations

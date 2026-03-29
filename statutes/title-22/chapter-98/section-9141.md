@@ -3,9 +3,9 @@ title: "Section 9141 - Authorization for judicial training on international pare
 usc_title: 22
 usc_section: "9141"
 chapter: 98
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9141"
-generated_at: "2026-03-29T21:34:13.030Z"
+generated_at: "2026-03-29T21:37:38.341Z"
 ---
 
 # § 9141. Authorization for judicial training on international parental child abduction

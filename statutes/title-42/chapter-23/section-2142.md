@@ -3,9 +3,9 @@ title: "Section 2142 - Domestic medical isotope production"
 usc_title: 42
 usc_section: "2142"
 chapter: 23
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 2142"
-generated_at: "2026-03-29T21:35:47.137Z"
+generated_at: "2026-03-29T21:38:39.983Z"
 ---
 
 # § 2142. Domestic medical isotope production

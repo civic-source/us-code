@@ -3,9 +3,9 @@ title: "Section 2 - Jurisdiction of States"
 usc_title: 7
 usc_section: "2"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T21:32:52.847Z"
+generated_at: "2026-03-29T21:36:46.679Z"
 ---
 
 # § 13a–2. Jurisdiction of States

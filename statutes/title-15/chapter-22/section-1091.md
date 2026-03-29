@@ -3,9 +3,9 @@ title: "Section 1091 - Supplemental register"
 usc_title: 15
 usc_section: "1091"
 chapter: 22
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 1091"
-generated_at: "2026-03-29T21:33:27.173Z"
+generated_at: "2026-03-29T21:37:09.798Z"
 ---
 
 # § 1091. Supplemental register

@@ -3,9 +3,9 @@ title: "Section 11 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-29T21:35:47.126Z"
+generated_at: "2026-03-29T21:38:39.971Z"
 ---
 
 # § 2000ff–11. Authorization of appropriations

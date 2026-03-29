@@ -3,9 +3,9 @@ title: "Section 6916 - Testimony of witnesses, production of evidence; issuance 
 usc_title: 22
 usc_section: "6916"
 chapter: 77
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 6916"
-generated_at: "2026-03-29T21:34:12.957Z"
+generated_at: "2026-03-29T21:37:38.282Z"
 ---
 
 # § 6916. Testimony of witnesses, production of evidence; issuance of subpoenas; administration of oaths

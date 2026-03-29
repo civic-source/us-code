@@ -3,9 +3,9 @@ title: "Section 2439 - Enforcement"
 usc_title: 16
 usc_section: "2439"
 chapter: 44
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 2439"
-generated_at: "2026-03-29T21:33:47.603Z"
+generated_at: "2026-03-29T21:37:25.974Z"
 ---
 
 # § 2439. Enforcement

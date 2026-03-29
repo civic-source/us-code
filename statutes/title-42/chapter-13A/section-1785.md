@@ -3,9 +3,9 @@ title: "Section 1785 - Accounts and records; availability for inspection; author
 usc_title: 42
 usc_section: "1785"
 chapter: 13
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 1785"
-generated_at: "2026-03-29T21:35:47.087Z"
+generated_at: "2026-03-29T21:38:39.931Z"
 ---
 
 # § 1785. Accounts and records; availability for inspection; authority to settle, adjust, or waive claims

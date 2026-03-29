@@ -3,9 +3,9 @@ title: "Section 26 - Effect of defective execution"
 usc_title: 35
 usc_section: "26"
 chapter: 2
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "35 U.S.C. § 26"
-generated_at: "2026-03-29T21:34:46.547Z"
+generated_at: "2026-03-29T21:37:57.619Z"
 ---
 
 # § 26. Effect of defective execution

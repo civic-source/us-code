@@ -3,9 +3,9 @@ title: "Section 5101 - Definition"
 usc_title: 40
 usc_section: "5101"
 chapter: 51
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "40 U.S.C. § 5101"
-generated_at: "2026-03-29T21:35:00.248Z"
+generated_at: "2026-03-29T21:38:05.868Z"
 ---
 
 # § 5101. Definition

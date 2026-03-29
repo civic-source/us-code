@@ -3,9 +3,9 @@ title: "Section 2358c - Enhanced pay authority for certain research and technolo
 usc_title: 10
 usc_section: "2358c"
 chapter: 139
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2358c"
-generated_at: "2026-03-29T21:33:09.175Z"
+generated_at: "2026-03-29T21:36:56.424Z"
 ---
 
 # § 2358c. Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories

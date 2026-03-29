@@ -3,9 +3,9 @@ title: "Section 449 - American republics"
 usc_title: 22
 usc_section: "449"
 chapter: 9
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 449"
-generated_at: "2026-03-29T21:34:12.684Z"
+generated_at: "2026-03-29T21:37:38.074Z"
 ---
 
 # § 449. American republics

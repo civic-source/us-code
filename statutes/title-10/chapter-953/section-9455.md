@@ -3,9 +3,9 @@ title: "Section 9455 - Board of Visitors"
 usc_title: 10
 usc_section: "9455"
 chapter: 953
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 9455"
-generated_at: "2026-03-29T21:33:09.377Z"
+generated_at: "2026-03-29T21:36:56.563Z"
 ---
 
 # § 9455. Board of Visitors

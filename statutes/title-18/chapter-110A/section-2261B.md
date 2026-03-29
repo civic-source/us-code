@@ -3,9 +3,9 @@ title: "Section 2261B - Enhanced penalty for stalkers of children"
 usc_title: 18
 usc_section: "2261B"
 chapter: 110
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "18 U.S.C. § 2261B"
-generated_at: "2026-03-29T21:33:51.320Z"
+generated_at: "2026-03-29T21:37:14.973Z"
 ---
 
 # § 2261B. Enhanced penalty for stalkers of children

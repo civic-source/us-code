@@ -3,9 +3,9 @@ title: "Section 3775 - Settlement of claims"
 usc_title: 22
 usc_section: "3775"
 chapter: 51
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 3775"
-generated_at: "2026-03-29T21:34:12.858Z"
+generated_at: "2026-03-29T21:37:38.206Z"
 ---
 
 # § 3775. Settlement of claims

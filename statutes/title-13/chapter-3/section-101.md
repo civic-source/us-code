@@ -3,9 +3,9 @@ title: "Section 101 - Defective, dependent, and delinquent classes; crime"
 usc_title: 13
 usc_section: "101"
 chapter: 3
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "13 U.S.C. § 101"
-generated_at: "2026-03-29T21:33:12.489Z"
+generated_at: "2026-03-29T21:36:59.131Z"
 ---
 
 # § 101. Defective, dependent, and delinquent classes; crime

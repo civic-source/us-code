@@ -3,9 +3,9 @@ title: "Section 3704 - Assignment of employees from private sector organizations
 usc_title: 5
 usc_section: "3704"
 chapter: 37
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "5 U.S.C. § 3704"
-generated_at: "2026-03-29T21:32:36.057Z"
+generated_at: "2026-03-29T21:36:35.846Z"
 ---
 
 # § 3704. Assignment of employees from private sector organizations

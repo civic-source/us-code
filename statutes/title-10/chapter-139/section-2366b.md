@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-29T21:33:09.178Z"
+generated_at: "2026-03-29T21:36:56.426Z"
 ---
 
 # § 2366b. Major defense acquisition programs: certification required before Milestone B approval
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T21:33:09.178Z"
     - **(M)** the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
     - **(N)** the requirements of section 2446b(e) of this title are met;
     - **(O)** appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
-    - **(P)** has approved the life cycle sustainment plan required under section 2337(b) of this title .
+    - **(P)** has approved the life cycle sustainment plan required under section 2337(b) of this title . 1 1 So in original. Subpar. (P) does not follow the pattern of other subpars. in this par. and the period at end probably should be a semicolon.
   - **(4)** in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019 ; and
   - **(5)** in the case of a naval vessel program, certifies compliance with the requirements of section 8669b of this title .
 - **(b)**

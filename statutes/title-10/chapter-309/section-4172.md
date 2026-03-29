@@ -3,9 +3,9 @@ title: "Section 4172 - Major systems and munitions programs: survivability testi
 usc_title: 10
 usc_section: "4172"
 chapter: 309
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4172"
-generated_at: "2026-03-29T21:33:09.294Z"
+generated_at: "2026-03-29T21:36:56.501Z"
 ---
 
 # § 4172. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production
@@ -38,11 +38,11 @@ generated_at: "2026-03-29T21:33:09.294Z"
   - **(1)** The term “covered system” means—
     - **(A)** a vehicle, weapon platform, or conventional weapon system that—
       - **(i)** includes features designed to provide some degree of protection to users in combat; and
-      - **(ii)** is a major system as defined in section 3041 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title; or
+      - **(ii)** is a major system as defined in section 3041 of this title ; or
     - **(B)** any other system or program designated by the Secretary of Defense for purposes of this section.
   - **(2)** The term “major munitions program” means—
     - **(A)** a munition program for which more than 1,000,000 rounds are planned to be acquired; or
-    - **(B)** a conventional munitions program that is a major system within the meaning of that term in section 3041 1 of this title.
+    - **(B)** a conventional munitions program that is a major system within the meaning of that term in section 3041 of this title .
   - **(3)** The term “realistic survivability testing” means, in the case of a covered system (or a covered product improvement program for a covered system), testing for vulnerability of the system in combat by firing munitions likely to be encountered in combat (or munitions with a capability similar to such munitions) at the system configured for combat, with the primary emphasis on testing vulnerability with respect to potential user casualties and taking into equal consideration the susceptibility to attack and combat performance of the system.
   - **(4)** The term “realistic lethality testing” means, in the case of a major munitions program or a missile program (or a covered product improvement program for such a program), testing for lethality by firing the munition or missile concerned at appropriate targets configured for combat.
   - **(5)** The term “configured for combat”, with respect to a weapon system, platform, or vehicle, means loaded or equipped with all dangerous materials (including all flammables and explosives) that would normally be on board in combat.

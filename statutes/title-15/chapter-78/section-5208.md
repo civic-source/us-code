@@ -3,9 +3,9 @@ title: "Section 5208 - International cooperation"
 usc_title: 15
 usc_section: "5208"
 chapter: 78
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 5208"
-generated_at: "2026-03-29T21:33:27.399Z"
+generated_at: "2026-03-29T21:37:09.934Z"
 ---
 
 # § 5208. International cooperation

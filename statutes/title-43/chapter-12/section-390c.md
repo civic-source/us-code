@@ -3,9 +3,9 @@ title: "Section 390c - Water reservoirs; interests of States and local agencies 
 usc_title: 43
 usc_section: "390c"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "43 U.S.C. § 390c"
-generated_at: "2026-03-29T21:35:10.687Z"
+generated_at: "2026-03-29T21:38:15.480Z"
 ---
 
 # § 390c. Water reservoirs; interests of States and local agencies in storage space

@@ -3,9 +3,9 @@ title: "Section 7270 - Insurance policies"
 usc_title: 26
 usc_section: "7270"
 chapter: 75
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "26 U.S.C. § 7270"
-generated_at: "2026-03-29T21:34:40.101Z"
+generated_at: "2026-03-29T21:37:55.174Z"
 ---
 
 # § 7270. Insurance policies

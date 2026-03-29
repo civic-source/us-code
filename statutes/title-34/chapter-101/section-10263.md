@@ -3,9 +3,9 @@ title: "Section 10263 - Oversight and accountability"
 usc_title: 34
 usc_section: "10263"
 chapter: 101
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "34 U.S.C. § 10263"
-generated_at: "2026-03-29T21:34:44.264Z"
+generated_at: "2026-03-29T21:38:00.594Z"
 ---
 
 # § 10263. Oversight and accountability

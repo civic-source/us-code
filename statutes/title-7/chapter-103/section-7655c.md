@@ -3,9 +3,9 @@ title: "Section 7655c - Clarification of research and development program for wo
 usc_title: 7
 usc_section: "7655c"
 chapter: 103
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 7655c"
-generated_at: "2026-03-29T21:32:53.314Z"
+generated_at: "2026-03-29T21:36:47.067Z"
 ---
 
 # § 7655c. Clarification of research and development program for wood building construction

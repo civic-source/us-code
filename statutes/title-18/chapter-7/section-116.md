@@ -3,9 +3,9 @@ title: "Section 116 - Female genital mutilation"
 usc_title: 18
 usc_section: "116"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "18 U.S.C. § 116"
-generated_at: "2026-03-29T21:33:51.224Z"
+generated_at: "2026-03-29T21:37:14.910Z"
 ---
 
 # § 116. Female genital mutilation

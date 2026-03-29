@@ -3,9 +3,9 @@ title: "Section 21101 - Adoption of voluntary guidance by Commission"
 usc_title: 52
 usc_section: "21101"
 chapter: 209
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "52 U.S.C. § 21101"
-generated_at: "2026-03-29T21:36:09.236Z"
+generated_at: "2026-03-29T21:39:04.008Z"
 ---
 
 # § 21101. Adoption of voluntary guidance by Commission

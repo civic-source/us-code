@@ -3,9 +3,9 @@ title: "Section 5623 - Effective date"
 usc_title: 2
 usc_section: "5623"
 chapter: 55
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 5623"
-generated_at: "2026-03-29T21:32:30.533Z"
+generated_at: "2026-03-29T21:36:33.002Z"
 ---
 
 # § 5623. Effective date

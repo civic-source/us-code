@@ -3,9 +3,9 @@ title: "Section 7313 - Comprehensive review of past and future of production agr
 usc_title: 7
 usc_section: "7313"
 chapter: 100
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 7313"
-generated_at: "2026-03-29T21:32:53.289Z"
+generated_at: "2026-03-29T21:36:47.050Z"
 ---
 
 # § 7313. Comprehensive review of past and future of production agriculture

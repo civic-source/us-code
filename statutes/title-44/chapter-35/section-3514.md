@@ -3,9 +3,9 @@ title: "Section 3514 - Responsiveness to Congress"
 usc_title: 44
 usc_section: "3514"
 chapter: 35
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "44 U.S.C. § 3514"
-generated_at: "2026-03-29T21:35:04.094Z"
+generated_at: "2026-03-29T21:38:13.729Z"
 ---
 
 # § 3514. Responsiveness to Congress

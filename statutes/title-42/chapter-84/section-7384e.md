@@ -3,9 +3,9 @@ title: "Section 7384e - Establishment of Energy Employees Occupational Illness C
 usc_title: 42
 usc_section: "7384e"
 chapter: 84
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 7384e"
-generated_at: "2026-03-29T21:35:47.386Z"
+generated_at: "2026-03-29T21:38:40.228Z"
 ---
 
 # § 7384e. Establishment of Energy Employees Occupational Illness Compensation Fund

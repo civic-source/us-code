@@ -3,9 +3,9 @@ title: "Section 7330B - Annual report on Veterans Health Administration and furn
 usc_title: 38
 usc_section: "7330B"
 chapter: 73
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "38 U.S.C. § 7330B"
-generated_at: "2026-03-29T21:34:56.019Z"
+generated_at: "2026-03-29T21:38:09.547Z"
 ---
 
 # § 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care

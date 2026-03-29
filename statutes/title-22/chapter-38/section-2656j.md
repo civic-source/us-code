@@ -3,9 +3,9 @@ title: "Section 2656j - Countering white identity terrorism globally"
 usc_title: 22
 usc_section: "2656j"
 chapter: 38
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 2656j"
-generated_at: "2026-03-29T21:34:12.809Z"
+generated_at: "2026-03-29T21:37:38.164Z"
 ---
 
 # § 2656j. Countering white identity terrorism globally
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T21:34:12.809Z"
   - **(7)** A description of the Department’s plans, in consultation with the Department of the Treasury, to work with foreign governments, financial institutions, and other related entities to counter the financing of white identity terrorists within the parameters of current law, or if no such plans exist, a description of why.
   - **(8)** A description of how the Department plans to implement the strategy in conjunction with ongoing efforts to counter the Islamic State, al-Qaeda, and other terrorist threats to the United States.
   - **(9)** A description of how the Department will integrate into the strategy lessons learned in the ongoing efforts to counter the Islamic State, al-Qaeda, and other terrorist threats to the United States.
-  - **(10)** A identification of any additional resources or staff needed to implement the strategy.
+  - **(10)** A 1 1 So in original. Probably should be “An”. identification of any additional resources or staff needed to implement the strategy.
 - **(c)** The Secretary of State shall develop the strategy in coordination with the Director of the National Counterterrorism Center and in consultation with the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies.
 - **(d)** The strategy shall be developed in consultation with representatives of United States and international civil society and academic entities with experience researching or implementing programs to counter white identity terrorism.
 - **(e)** The strategy shall be submitted in unclassified form that can be made available to the public, but may include a classified annex if the Secretary of State determines such is appropriate.

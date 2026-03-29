@@ -3,9 +3,9 @@ title: "Section 3613 - Enforcement by private persons"
 usc_title: 42
 usc_section: "3613"
 chapter: 45
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 3613"
-generated_at: "2026-03-29T21:35:47.205Z"
+generated_at: "2026-03-29T21:38:40.065Z"
 ---
 
 # § 3613. Enforcement by private persons

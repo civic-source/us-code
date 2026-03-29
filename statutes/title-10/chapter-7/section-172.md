@@ -3,9 +3,9 @@ title: "Section 172 - Explosive safety board"
 usc_title: 10
 usc_section: "172"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 172"
-generated_at: "2026-03-29T21:33:08.935Z"
+generated_at: "2026-03-29T21:36:56.228Z"
 ---
 
 # § 172. Explosive safety board
@@ -17,15 +17,15 @@ generated_at: "2026-03-29T21:33:08.935Z"
   - **(2)** To perform the hazard classification approval duties assigned to the chair.
   - **(3)** To preside over meetings of the explosive safety board.
   - **(4)** To direct the staff of the explosive safety board.
-  - **(5)** To performs other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
+  - **(5)** To performs 1 1 So in original. other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
   - **(6)** To provide impartial and objective advice related to explosives safety management to the Secretary of Defense and the heads of the military departments.
   - **(7)** To serve as the principal representative and advisor of the Department of Defense on matters relating to explosives safety management.
   - **(8)** To provide assistance and advice to the Under Secretary of Defense for Acquisition and Sustainment and the Deputy Director of Land Warfare and Munitions in munitions acquisition oversight and technology advancement for Department of Defense military munitions, especially in the areas of explosives and chemical agent safety and demilitarization.
   - **(9)** To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives and chemical agent safety, storage, transportation, and demilitarization.
   - **(10)** To develop and recommend issuances to define the functions of the explosive safety board.
-  - **(11)** To establishes joint hazard classification procedures with covered components of the Department.
+  - **(11)** To establishes 1 joint hazard classification procedures with covered components of the Department.
   - **(12)** To make recommendations to the Under Secretary of Defense for Acquisition and Sustainment with respect to explosives and chemical agent safety tenets and requirements.
-  - **(13)** To conducts oversight of Department of Defense explosive safety management programs.
+  - **(13)** To conducts 1 oversight of Department of Defense explosive safety management programs.
   - **(14)** To carry out such other responsibilities as the Secretary of Defense determines appropriate.
 - **(d)** The executive director and civilian members of the explosive safety board shall—
   - **(1)** provide assistance to the chair in carrying out the responsibilities specified in subsection (c); and

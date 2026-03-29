@@ -3,9 +3,9 @@ title: "Section 91 - Wildlands Juniper Management Area"
 usc_title: 16
 usc_section: "91"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 91"
-generated_at: "2026-03-29T21:33:47.248Z"
+generated_at: "2026-03-29T21:37:25.774Z"
 ---
 
 # § 460nnn–91. Wildlands Juniper Management Area

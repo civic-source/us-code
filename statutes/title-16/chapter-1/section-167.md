@@ -3,9 +3,9 @@ title: "Section 167 - Removal of timber"
 usc_title: 16
 usc_section: "167"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 167"
-generated_at: "2026-03-29T21:33:47.013Z"
+generated_at: "2026-03-29T21:37:25.637Z"
 ---
 
 # § 167. Removal of timber

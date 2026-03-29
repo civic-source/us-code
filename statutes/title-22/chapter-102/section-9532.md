@@ -3,9 +3,9 @@ title: "Section 9532 - Rule of construction"
 usc_title: 22
 usc_section: "9532"
 chapter: 102
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9532"
-generated_at: "2026-03-29T21:34:13.043Z"
+generated_at: "2026-03-29T21:37:38.354Z"
 ---
 
 # § 9532. Rule of construction

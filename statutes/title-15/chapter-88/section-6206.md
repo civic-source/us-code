@@ -3,9 +3,9 @@ title: "Section 6206 - Publication requirements applicable to antitrust mutual a
 usc_title: 15
 usc_section: "6206"
 chapter: 88
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 6206"
-generated_at: "2026-03-29T21:33:27.407Z"
+generated_at: "2026-03-29T21:37:09.940Z"
 ---
 
 # § 6206. Publication requirements applicable to antitrust mutual assistance agreements

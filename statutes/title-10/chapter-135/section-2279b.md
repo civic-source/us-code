@@ -3,9 +3,9 @@ title: "Section 2279b - Council on Oversight of the Department of Defense Positi
 usc_title: 10
 usc_section: "2279b"
 chapter: 135
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2279b"
-generated_at: "2026-03-29T21:33:09.148Z"
+generated_at: "2026-03-29T21:36:56.407Z"
 ---
 
 # § 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T21:33:09.148Z"
   - **(8)** The Commander of United States Cyber Command.
   - **(9)** The Director of the National Security Agency.
   - **(10)** The Chief Information Officer of the Department of Defense.
-  - **(11)** 1 1 So in original. Two pars. (11) have been enacted. The Secretaries of the military departments, who shall be ex officio members.
+  - **(11)** 1 1 So in original. There are two pars. (11). The Secretaries of the military departments, who shall be ex officio members.
   - **(11)** 1 Such other officers of the Department of Defense as the Secretary may designate.
 - **(c)** The Council shall be co-chaired by the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff.
 - **(d)**

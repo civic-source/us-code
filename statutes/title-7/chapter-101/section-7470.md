@@ -3,9 +3,9 @@ title: "Section 7470 - Referenda"
 usc_title: 7
 usc_section: "7470"
 chapter: 101
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 7470"
-generated_at: "2026-03-29T21:32:53.300Z"
+generated_at: "2026-03-29T21:36:47.058Z"
 ---
 
 # § 7470. Referenda

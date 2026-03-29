@@ -3,9 +3,9 @@ title: "Section 103 - Enacting or resolving words after first section"
 usc_title: 1
 usc_section: "103"
 chapter: 2
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "1 U.S.C. § 103"
-generated_at: "2026-03-29T21:32:24.279Z"
+generated_at: "2026-03-29T21:36:30.872Z"
 ---
 
 # § 103. Enacting or resolving words after first section

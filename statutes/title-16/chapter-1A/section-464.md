@@ -3,9 +3,9 @@ title: "Section 464 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "464"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 464"
-generated_at: "2026-03-29T21:33:47.261Z"
+generated_at: "2026-03-29T21:37:25.782Z"
 ---
 
 # § 464. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

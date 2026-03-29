@@ -3,9 +3,9 @@ title: "Section 324 - Members of the armed forces"
 usc_title: 49
 usc_section: "324"
 chapter: 3
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 324"
-generated_at: "2026-03-29T21:35:58.185Z"
+generated_at: "2026-03-29T21:38:51.351Z"
 ---
 
 # § 324. Members of the armed forces

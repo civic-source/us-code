@@ -3,9 +3,9 @@ title: "Section 2503 - National defense program for analysis of the technology a
 usc_title: 10
 usc_section: "2503"
 chapter: 148
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2503"
-generated_at: "2026-03-29T21:33:09.205Z"
+generated_at: "2026-03-29T21:36:56.444Z"
 ---
 
 # § 2503. National defense program for analysis of the technology and industrial base

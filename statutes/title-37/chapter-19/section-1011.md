@@ -3,9 +3,9 @@ title: "Section 1011 - Mess operation: reimbursement of expenses"
 usc_title: 37
 usc_section: "1011"
 chapter: 19
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "37 U.S.C. § 1011"
-generated_at: "2026-03-29T21:34:52.609Z"
+generated_at: "2026-03-29T21:38:06.676Z"
 ---
 
 # § 1011. Mess operation: reimbursement of expenses

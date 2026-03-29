@@ -3,9 +3,9 @@ title: "Section 1119 - Accident and safety data classification and publication"
 usc_title: 49
 usc_section: "1119"
 chapter: 11
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 1119"
-generated_at: "2026-03-29T21:35:58.191Z"
+generated_at: "2026-03-29T21:38:51.358Z"
 ---
 
 # § 1119. Accident and safety data classification and publication

@@ -3,9 +3,9 @@ title: "Section 3364 - Assignment of responsibilities relating to analytic integ
 usc_title: 50
 usc_section: "3364"
 chapter: 45
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3364"
-generated_at: "2026-03-29T21:36:05.772Z"
+generated_at: "2026-03-29T21:38:47.414Z"
 ---
 
 # § 3364. Assignment of responsibilities relating to analytic integrity

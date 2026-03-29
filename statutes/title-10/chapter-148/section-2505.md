@@ -3,9 +3,9 @@ title: "Section 2505 - National technology and industrial base: periodic defense
 usc_title: 10
 usc_section: "2505"
 chapter: 148
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2505"
-generated_at: "2026-03-29T21:33:09.205Z"
+generated_at: "2026-03-29T21:36:56.445Z"
 ---
 
 # § 2505. National technology and industrial base: periodic defense capability assessments

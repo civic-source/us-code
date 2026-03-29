@@ -3,9 +3,9 @@ title: "Section 7514 - Regulations"
 usc_title: 5
 usc_section: "7514"
 chapter: 75
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "5 U.S.C. § 7514"
-generated_at: "2026-03-29T21:32:36.115Z"
+generated_at: "2026-03-29T21:36:35.884Z"
 ---
 
 # § 7514. Regulations

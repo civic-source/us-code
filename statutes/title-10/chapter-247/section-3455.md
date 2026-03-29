@@ -3,9 +3,9 @@ title: "Section 3455 - Procurement of a major weapon system as a commercial prod
 usc_title: 10
 usc_section: "3455"
 chapter: 247
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3455"
-generated_at: "2026-03-29T21:33:09.275Z"
+generated_at: "2026-03-29T21:36:56.489Z"
 ---
 
 # § 3455. Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress
@@ -37,4 +37,4 @@ generated_at: "2026-03-29T21:33:09.275Z"
   - **(2)** An offeror may submit information or analysis relating to the value of a commercial product to aid in the determination of the reasonableness of the price of such item. A contracting officer may consider such information or analysis in addition to the information submitted pursuant to paragraphs (1)(A) and (1)(B).
   - **(3)** An offeror may not be required to submit information described in paragraph (1)(C) with regard to a commercially available off-the-shelf item and may be required to submit such information with regard to any other item that was developed exclusively at private expense only after the head of the contracting activity determines in writing that the information submitted pursuant to paragraphs (1)(A) and (1)(B) is not sufficient to determine the reasonableness of price.
 - **(e)** The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
-- **(f)** In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 1 1 Probably refers to section 4201 of this title , but amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as section 2430 was transferred to multiple sections. of this title).
+- **(f)** In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 1 1 See References in Text note below. of this title).

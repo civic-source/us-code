@@ -3,9 +3,9 @@ title: "Section 2359a - Defense Research and Development Rapid Innovation Progra
 usc_title: 10
 usc_section: "2359a"
 chapter: 139
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2359a"
-generated_at: "2026-03-29T21:33:09.175Z"
+generated_at: "2026-03-29T21:36:56.424Z"
 ---
 
 # § 2359a. Defense Research and Development Rapid Innovation Program

@@ -3,9 +3,9 @@ title: "Section 6578 - Senate Leader’s Lecture Series"
 usc_title: 2
 usc_section: "6578"
 chapter: 65
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 6578"
-generated_at: "2026-03-29T21:32:30.541Z"
+generated_at: "2026-03-29T21:36:33.008Z"
 ---
 
 # § 6578. Senate Leader’s Lecture Series

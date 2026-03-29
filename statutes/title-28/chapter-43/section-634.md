@@ -3,9 +3,9 @@ title: "Section 634 - Compensation"
 usc_title: 28
 usc_section: "634"
 chapter: 43
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "28 U.S.C. § 634"
-generated_at: "2026-03-29T21:34:28.044Z"
+generated_at: "2026-03-29T21:37:43.062Z"
 ---
 
 # § 634. Compensation

@@ -3,9 +3,9 @@ title: "Section 505 - Additional requirements for organizations described in par
 usc_title: 26
 usc_section: "505"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "26 U.S.C. § 505"
-generated_at: "2026-03-29T21:34:39.762Z"
+generated_at: "2026-03-29T21:37:54.850Z"
 ---
 
 # § 505. Additional requirements for organizations described in paragraph (9) or (17) of section 501(c)

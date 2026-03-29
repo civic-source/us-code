@@ -3,9 +3,9 @@ title: "Section 44106 - Revocation of aircraft certificates for controlled subst
 usc_title: 49
 usc_section: "44106"
 chapter: 441
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 44106"
-generated_at: "2026-03-29T21:35:58.304Z"
+generated_at: "2026-03-29T21:38:51.484Z"
 ---
 
 # § 44106. Revocation of aircraft certificates for controlled substance violations

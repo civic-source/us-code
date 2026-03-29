@@ -3,9 +3,9 @@ title: "Section 411 - Rights and protections under title VII of the Civil Rights
 usc_title: 3
 usc_section: "411"
 chapter: 5
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "3 U.S.C. § 411"
-generated_at: "2026-03-29T21:32:24.502Z"
+generated_at: "2026-03-29T21:36:31.072Z"
 ---
 
 # § 411. Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990

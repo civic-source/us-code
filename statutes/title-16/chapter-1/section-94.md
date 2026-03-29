@@ -3,9 +3,9 @@ title: "Section 94 - Location of mining claims"
 usc_title: 16
 usc_section: "94"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 94"
-generated_at: "2026-03-29T21:33:47.005Z"
+generated_at: "2026-03-29T21:37:25.632Z"
 ---
 
 # § 94. Location of mining claims

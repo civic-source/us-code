@@ -3,9 +3,9 @@ title: "Section 80111 - Liability for delivery of goods"
 usc_title: 49
 usc_section: "80111"
 chapter: 801
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 80111"
-generated_at: "2026-03-29T21:35:58.364Z"
+generated_at: "2026-03-29T21:38:51.540Z"
 ---
 
 # § 80111. Liability for delivery of goods

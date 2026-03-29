@@ -3,9 +3,9 @@ title: "Section 272d - Administration, protection, and development; report to Pr
 usc_title: 16
 usc_section: "272d"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 272d"
-generated_at: "2026-03-29T21:33:47.034Z"
+generated_at: "2026-03-29T21:37:25.650Z"
 ---
 
 # § 272d. Administration, protection, and development; report to President

@@ -3,9 +3,9 @@ title: "Section 1383 - Water pollution control revolving loan funds"
 usc_title: 33
 usc_section: "1383"
 chapter: 26
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "33 U.S.C. § 1383"
-generated_at: "2026-03-29T21:34:49.103Z"
+generated_at: "2026-03-29T21:38:02.690Z"
 ---
 
 # § 1383. Water pollution control revolving loan funds

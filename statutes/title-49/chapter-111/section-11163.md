@@ -3,9 +3,9 @@ title: "Section 11163 - Cost availability"
 usc_title: 49
 usc_section: "11163"
 chapter: 111
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 11163"
-generated_at: "2026-03-29T21:35:58.224Z"
+generated_at: "2026-03-29T21:38:51.393Z"
 ---
 
 # § 11163. Cost availability

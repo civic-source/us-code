@@ -3,9 +3,9 @@ title: "Section 3496 - Regulations by President as to commissions, fees of witne
 usc_title: 18
 usc_section: "3496"
 chapter: 223
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "18 U.S.C. § 3496"
-generated_at: "2026-03-29T21:33:51.364Z"
+generated_at: "2026-03-29T21:37:15.005Z"
 ---
 
 # § 3496. Regulations by President as to commissions, fees of witnesses, counsel and interpreters

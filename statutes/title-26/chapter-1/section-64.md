@@ -3,9 +3,9 @@ title: "Section 64 - Ordinary income defined"
 usc_title: 26
 usc_section: "64"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "26 U.S.C. § 64"
-generated_at: "2026-03-29T21:34:39.563Z"
+generated_at: "2026-03-29T21:37:54.715Z"
 ---
 
 # § 64. Ordinary income defined

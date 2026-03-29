@@ -3,9 +3,9 @@ title: "Section 4061 - Defense Research and Development Rapid Innovation Program
 usc_title: 10
 usc_section: "4061"
 chapter: 303
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4061"
-generated_at: "2026-03-29T21:33:09.290Z"
+generated_at: "2026-03-29T21:36:56.498Z"
 ---
 
 # § 4061. Defense Research and Development Rapid Innovation Program
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T21:33:09.290Z"
   - **(2)** The review of candidate proposals by the Department of Defense and by each military department and the merit-based selection of the most promising cost-effective proposals for funding through contracts, cooperative agreements, and other transactions for the purposes of carrying out the program.
   - **(3)** The total amount of funding provided to any project under the program from funding provided under subsection (d) shall not exceed $6,000,000.
   - **(4)** No project shall receive more than a total of two years of funding under the program from funding provided under subsection (d), unless the Secretary, or the Secretary’s designee, approves funding for any additional year.
-  - **(5)** Mechanisms to facilitate transition of follow-on or current projects carried out under the program into defense acquisition programs, through the use of the authorities of section 3345 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title or such other authorities as may be appropriate to conduct further testing, low rate production, or full rate production of technologies developed under the program.
+  - **(5)** Mechanisms to facilitate transition of follow-on or current projects carried out under the program into defense acquisition programs, through the use of the authorities of section 3345 of this title or such other authorities as may be appropriate to conduct further testing, low rate production, or full rate production of technologies developed under the program.
   - **(6)** Projects are selected using merit-based selection procedures and the selection of projects is not subject to undue influence by Congress or other Federal agencies.
   - **(7)** A preference under the program for funding small business concerns.
 - **(c)** Nothing in this section shall be interpreted to require or enable any official of the Department of Defense to provide funding under this section to any earmark as defined pursuant to House Rule XXI, clause 9, or any congressionally directed spending item as defined pursuant to Senate Rule XLIV, paragraph 5.

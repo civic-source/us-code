@@ -3,9 +3,9 @@ title: "Section 2532 - Retirement of employees"
 usc_title: 14
 usc_section: "2532"
 chapter: 25
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "14 U.S.C. § 2532"
-generated_at: "2026-03-29T21:33:13.522Z"
+generated_at: "2026-03-29T21:36:59.914Z"
 ---
 
 # § 2532. Retirement of employees

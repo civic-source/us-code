@@ -3,9 +3,9 @@ title: "Section 2102B - Adaptations to residences of veterans in rehabilitation 
 usc_title: 38
 usc_section: "2102B"
 chapter: 21
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "38 U.S.C. § 2102B"
-generated_at: "2026-03-29T21:34:55.939Z"
+generated_at: "2026-03-29T21:38:09.485Z"
 ---
 
 # § 2102B. Adaptations to residences of veterans in rehabilitation programs

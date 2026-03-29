@@ -3,9 +3,9 @@ title: "Section 1129 - Purple Heart: members killed or wounded in action by frie
 usc_title: 10
 usc_section: "1129"
 chapter: 57
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 1129"
-generated_at: "2026-03-29T21:33:09.057Z"
+generated_at: "2026-03-29T21:36:56.337Z"
 ---
 
 # § 1129. Purple Heart: members killed or wounded in action by friendly fire

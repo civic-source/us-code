@@ -3,9 +3,9 @@ title: "Section 3811 - Offenses and penalties"
 usc_title: 50
 usc_section: "3811"
 chapter: 49
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3811"
-generated_at: "2026-03-29T21:36:05.794Z"
+generated_at: "2026-03-29T21:38:47.430Z"
 ---
 
 # § 3811. Offenses and penalties

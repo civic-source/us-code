@@ -3,9 +3,9 @@ title: "Section 1 - Free exercise of religion protected"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T21:35:47.122Z"
+generated_at: "2026-03-29T21:38:39.966Z"
 ---
 
 # § 2000bb–1. Free exercise of religion protected

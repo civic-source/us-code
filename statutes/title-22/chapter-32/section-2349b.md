@@ -3,9 +3,9 @@ title: "Section 2349b - Waiver authorities"
 usc_title: 22
 usc_section: "2349b"
 chapter: 32
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 2349b"
-generated_at: "2026-03-29T21:34:12.767Z"
+generated_at: "2026-03-29T21:37:38.132Z"
 ---
 
 # § 2349b. Waiver authorities

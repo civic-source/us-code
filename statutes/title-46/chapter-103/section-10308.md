@@ -3,9 +3,9 @@ title: "Section 10308 - Foreign engagements"
 usc_title: 46
 usc_section: "10308"
 chapter: 103
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "46 U.S.C. § 10308"
-generated_at: "2026-03-29T21:35:53.014Z"
+generated_at: "2026-03-29T21:39:01.197Z"
 ---
 
 # § 10308. Foreign engagements

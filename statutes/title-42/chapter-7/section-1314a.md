@@ -3,9 +3,9 @@ title: "Section 1314a - Measurement and reporting of welfare receipt"
 usc_title: 42
 usc_section: "1314a"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 1314a"
-generated_at: "2026-03-29T21:35:46.748Z"
+generated_at: "2026-03-29T21:38:39.591Z"
 ---
 
 # § 1314a. Measurement and reporting of welfare receipt

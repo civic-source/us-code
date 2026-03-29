@@ -3,9 +3,9 @@ title: "Section 50109 - Records and inspection"
 usc_title: 36
 usc_section: "50109"
 chapter: 501
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 50109"
-generated_at: "2026-03-29T21:34:57.380Z"
+generated_at: "2026-03-29T21:38:10.842Z"
 ---
 
 # § 50109. Records and inspection

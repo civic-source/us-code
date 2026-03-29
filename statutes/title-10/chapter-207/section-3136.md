@@ -3,9 +3,9 @@ title: "Section 3136 - Defense Modernization Account"
 usc_title: 10
 usc_section: "3136"
 chapter: 207
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3136"
-generated_at: "2026-03-29T21:33:09.267Z"
+generated_at: "2026-03-29T21:36:56.483Z"
 ---
 
 # § 3136. Defense Modernization Account
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T21:33:09.267Z"
       - **(i)** the savings to be derived from projects described in subsection (d)(1) that are to be funded out of the Defense Modernization Account; and
       - **(ii)** the amounts to be reimbursed to the Defense Modernization Account out of such savings pursuant to subsection (c)(1)(B)(ii).
 - **(i)** In this section:
-  - **(1)** The term “major defense acquisition program” has the meaning given the term in section 4201 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
+  - **(1)** The term “major defense acquisition program” has the meaning given the term in section 4201 of this title .
   - **(2)** The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
 - **(j)**
   - **(1)** The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2022 .

@@ -3,9 +3,9 @@ title: "Section 2107 - Conservation, restoration, replication, or replacement of
 usc_title: 2
 usc_section: "2107"
 chapter: 30
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 2107"
-generated_at: "2026-03-29T21:32:30.501Z"
+generated_at: "2026-03-29T21:36:32.982Z"
 ---
 
 # § 2107. Conservation, restoration, replication, or replacement of items in United States Senate Collection

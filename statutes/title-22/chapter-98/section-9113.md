@@ -3,9 +3,9 @@ title: "Section 9113 - Bilateral procedures, including memoranda of understandin
 usc_title: 22
 usc_section: "9113"
 chapter: 98
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9113"
-generated_at: "2026-03-29T21:34:13.028Z"
+generated_at: "2026-03-29T21:37:38.340Z"
 ---
 
 # § 9113. Bilateral procedures, including memoranda of understanding

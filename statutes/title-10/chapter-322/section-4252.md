@@ -3,9 +3,9 @@ title: "Section 4252 - Major defense acquisition programs: certification require
 usc_title: 10
 usc_section: "4252"
 chapter: 322
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4252"
-generated_at: "2026-03-29T21:33:09.297Z"
+generated_at: "2026-03-29T21:36:56.503Z"
 ---
 
 # § 4252. Major defense acquisition programs: certification required before Milestone B approval
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T21:33:09.297Z"
     - **(M)** the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
     - **(N)** the requirements of section 4402(e) of this title are met;
     - **(O)** appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
-    - **(P)** has approved the life cycle sustainment plan required under section 4324(b) 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title. 2 2 So in original. Does not fit with par. (3) introductory provisions and period at end probably should be a semicolon.
+    - **(P)** has approved the life cycle sustainment plan required under section 4324(b) of this title . 1 1 So in original. Does not fit with par. (3) introductory provisions and period at end probably should be a semicolon.
   - **(4)** in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019 ; and
   - **(5)** in the case of a naval vessel program, certifies compliance with the requirements of section 8669b of this title .
 - **(b)**
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T21:33:09.297Z"
     - **(E)** A summary of the independent technical risk assessment conducted or approved under section 4272 of this title , including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
     - **(F)** A statement of whether a modular open system approach is being used for the program.
     - **(G)** An assessment of the sufficiency of developmental test and evaluation plans, including the use of automated data analytics or modeling and simulation tools and methodologies.
-    - **(H)** A summary of the life cycle sustainment plan required under section 4324 1 of this title.
+    - **(H)** A summary of the life cycle sustainment plan required under section 4324 of this title .
     - **(I)** Any other information the milestone decision authority considers relevant.
   - **(2)**
     - **(A)** The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under sections 4351 through 4358 of this title after completion of the certification.

@@ -3,9 +3,9 @@ title: "Section 1665a - Use of annual percentage rate in oral disclosures; excep
 usc_title: 15
 usc_section: "1665a"
 chapter: 41
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 1665a"
-generated_at: "2026-03-29T21:33:27.228Z"
+generated_at: "2026-03-29T21:37:09.833Z"
 ---
 
 # § 1665a. Use of annual percentage rate in oral disclosures; exceptions

@@ -3,9 +3,9 @@ title: "Section 2922b - Procurement of energy systems using renewable forms of e
 usc_title: 10
 usc_section: "2922b"
 chapter: 173
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2922b"
-generated_at: "2026-03-29T21:33:09.262Z"
+generated_at: "2026-03-29T21:36:56.480Z"
 ---
 
 # § 2922b. Procurement of energy systems using renewable forms of energy

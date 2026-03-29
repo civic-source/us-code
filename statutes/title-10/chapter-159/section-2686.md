@@ -3,9 +3,9 @@ title: "Section 2686 - Utilities and services: sale; expansion and extension of 
 usc_title: 10
 usc_section: "2686"
 chapter: 159
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2686"
-generated_at: "2026-03-29T21:33:09.228Z"
+generated_at: "2026-03-29T21:36:56.461Z"
 ---
 
 # § 2686. Utilities and services: sale; expansion and extension of systems and facilities

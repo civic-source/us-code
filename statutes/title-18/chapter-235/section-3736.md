@@ -3,9 +3,9 @@ title: "Section 3736 - Certiorari—(Rule)"
 usc_title: 18
 usc_section: "3736"
 chapter: 235
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "18 U.S.C. § 3736"
-generated_at: "2026-03-29T21:33:51.383Z"
+generated_at: "2026-03-29T21:37:15.019Z"
 ---
 
 # § 3736. Certiorari—(Rule)

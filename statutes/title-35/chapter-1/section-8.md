@@ -3,9 +3,9 @@ title: "Section 8 - Classification of patents"
 usc_title: 35
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "35 U.S.C. § 8"
-generated_at: "2026-03-29T21:34:46.546Z"
+generated_at: "2026-03-29T21:37:57.618Z"
 ---
 
 # § 8. Classification of patents

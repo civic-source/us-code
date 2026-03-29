@@ -3,9 +3,9 @@ title: "Section 652a - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "652a"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "6 U.S.C. § 652a"
-generated_at: "2026-03-29T21:32:45.105Z"
+generated_at: "2026-03-29T21:36:39.013Z"
 ---
 
 # § 652a. Sector Risk Management Agencies
@@ -48,6 +48,6 @@ generated_at: "2026-03-29T21:32:45.105Z"
   - **(2)**
   - **(3)** Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—
     - **(A)** be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
-    - **(B)** have the meaning give such term in section 651(5) of this title .
+    - **(B)** have the meaning give 2 2 So in original. Probably should be “given”. such term in section 651(5) of this title .
   - **(4)**
 - **(d)** Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title .

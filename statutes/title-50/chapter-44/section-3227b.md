@@ -1,14 +1,18 @@
 ---
-title: "Section 3227b - Continued applicability of the Federal Advisory Committee Act to the Board of Visitors"
+title: "Section 3227b - Reporting"
 usc_title: 50
 usc_section: "3227b"
 chapter: 44
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3227b"
-generated_at: "2026-03-29T21:36:05.755Z"
+generated_at: "2026-03-29T21:38:47.400Z"
 ---
 
-# § 3227b. Continued applicability of the Federal Advisory Committee Act to the Board of Visitors
+# § 3227b. Reporting
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall continue to apply to the Board of Visitors of the National Intelligence University on and after the transfer date.
-
+- **(a)** Not less frequently than once each year, the Director of National Intelligence shall submit to the congressional intelligence committees a plan for employing professors, instructors, and lecturers at the National Intelligence University.
+- **(b)** Each plan submitted under subsection (a) shall include the following:
+  - **(1)** The total number of proposed personnel to be employed at the National Intelligence University.
+  - **(2)** The total annual compensation to be provided the personnel described in paragraph (1).
+  - **(3)** Such other matters as the Director considers appropriate.
+- **(c)** Each plan submitted by the Director to the congressional intelligence committees under subsection (a) shall be submitted as part of another annual submission from the Director to the congressional intelligence committees.

@@ -3,9 +3,9 @@ title: "Section 30901 - Organization"
 usc_title: 36
 usc_section: "30901"
 chapter: 309
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 30901"
-generated_at: "2026-03-29T21:34:57.377Z"
+generated_at: "2026-03-29T21:38:10.839Z"
 ---
 
 # § 30901. Organization

@@ -3,9 +3,9 @@ title: "Section 7627 - Coordinated program of research, extension, and education
 usc_title: 7
 usc_section: "7627"
 chapter: 103
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 7627"
-generated_at: "2026-03-29T21:32:53.311Z"
+generated_at: "2026-03-29T21:36:47.065Z"
 ---
 
 # § 7627. Coordinated program of research, extension, and education to improve viability of small and medium size dairy, livestock, and poultry operations

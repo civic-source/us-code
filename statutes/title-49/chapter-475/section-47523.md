@@ -3,9 +3,9 @@ title: "Section 47523 - National aviation noise policy"
 usc_title: 49
 usc_section: "47523"
 chapter: 475
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 47523"
-generated_at: "2026-03-29T21:35:58.348Z"
+generated_at: "2026-03-29T21:38:51.525Z"
 ---
 
 # § 47523. National aviation noise policy

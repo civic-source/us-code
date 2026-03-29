@@ -3,9 +3,9 @@ title: "Section 1734a - Availability of excess fees"
 usc_title: 43
 usc_section: "1734a"
 chapter: 35
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "43 U.S.C. § 1734a"
-generated_at: "2026-03-29T21:35:10.796Z"
+generated_at: "2026-03-29T21:38:15.566Z"
 ---
 
 # § 1734a. Availability of excess fees

@@ -3,9 +3,9 @@ title: "Section 6250d - Exemptions"
 usc_title: 42
 usc_section: "6250d"
 chapter: 77
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 6250d"
-generated_at: "2026-03-29T21:35:47.308Z"
+generated_at: "2026-03-29T21:38:40.154Z"
 ---
 
 # § 6250d. Exemptions

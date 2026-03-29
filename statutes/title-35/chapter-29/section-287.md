@@ -3,9 +3,9 @@ title: "Section 287 - Limitation on damages and other remedies; marking and noti
 usc_title: 35
 usc_section: "287"
 chapter: 29
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "35 U.S.C. § 287"
-generated_at: "2026-03-29T21:34:46.559Z"
+generated_at: "2026-03-29T21:37:57.627Z"
 ---
 
 # § 287. Limitation on damages and other remedies; marking and notice

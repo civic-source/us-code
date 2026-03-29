@@ -3,9 +3,9 @@ title: "Section 8372 - Regular Navy and Regular Marine Corps; officers designate
 usc_title: 10
 usc_section: "8372"
 chapter: 843
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 8372"
-generated_at: "2026-03-29T21:33:09.350Z"
+generated_at: "2026-03-29T21:36:56.539Z"
 ---
 
 # § 8372. Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T21:33:09.350Z"
   - **(4)** Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of captain shall, if not retired sooner, be retired on the last day of the month following the month in which the officer completes 38 years of active naval service, exclusive of active duty for training in a reserve component.
 - **(b)** Except as provided in subsections (f) and (k), each regular officer on the active-duty list of the Navy serving in the grade of lieutenant commander who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of major who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of commander or lieutenant colonel, respectively, for the second time and whose name is not on a promotion list shall be retired, if eligible to retire, or be discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of commander or lieutenant colonel for the second time.
 - **(c)** Each officer retired under subsection (a) or (b)—
-  - **(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 of this title ; and
+  - **(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1 1 See References in Text note below. of this title; and
   - **(2)** is entitled to retired pay computed under section 8333 of this title .
 - **(d)** Except as provided in subsections (f) and (k), each regular officer on the active-duty list of the Navy serving in the grade of lieutenant who is an officer designated for limited duty, and each regular officer on the active duty list of the Marine Corps serving in the grade of captain who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time and whose name is not on a list of officers recommended for promotion shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time.
 - **(e)**

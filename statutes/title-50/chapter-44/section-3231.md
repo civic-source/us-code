@@ -3,9 +3,9 @@ title: "Section 3231 - Applicability to United States intelligence activities of
 usc_title: 50
 usc_section: "3231"
 chapter: 44
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3231"
-generated_at: "2026-03-29T21:36:05.755Z"
+generated_at: "2026-03-29T21:38:47.400Z"
 ---
 
 # § 3231. Applicability to United States intelligence activities of Federal laws implementing international treaties and agreements

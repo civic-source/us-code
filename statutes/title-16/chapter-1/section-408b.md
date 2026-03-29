@@ -3,9 +3,9 @@ title: "Section 408b - Administration, protection, and development"
 usc_title: 16
 usc_section: "408b"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 408b"
-generated_at: "2026-03-29T21:33:47.060Z"
+generated_at: "2026-03-29T21:37:25.665Z"
 ---
 
 # § 408b. Administration, protection, and development

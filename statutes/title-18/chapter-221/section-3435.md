@@ -3,9 +3,9 @@ title: "Section 3435 - Receiver of stolen property triable before or after princ
 usc_title: 18
 usc_section: "3435"
 chapter: 221
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "18 U.S.C. § 3435"
-generated_at: "2026-03-29T21:33:51.362Z"
+generated_at: "2026-03-29T21:37:15.003Z"
 ---
 
 # § 3435. Receiver of stolen property triable before or after principal

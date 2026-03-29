@@ -3,9 +3,9 @@ title: "Section 350 - Vitamins and minerals"
 usc_title: 21
 usc_section: "350"
 chapter: 9
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "21 U.S.C. § 350"
-generated_at: "2026-03-29T21:34:05.603Z"
+generated_at: "2026-03-29T21:37:33.465Z"
 ---
 
 # § 350. Vitamins and minerals

@@ -3,9 +3,9 @@ title: "Section 6683 - Recognition program established"
 usc_title: 20
 usc_section: "6683"
 chapter: 70
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 6683"
-generated_at: "2026-03-29T21:33:39.342Z"
+generated_at: "2026-03-29T21:37:21.276Z"
 ---
 
 # § 6683. Recognition program established

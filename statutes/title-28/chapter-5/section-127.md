@@ -3,9 +3,9 @@ title: "Section 127 - Virginia"
 usc_title: 28
 usc_section: "127"
 chapter: 5
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "28 U.S.C. § 127"
-generated_at: "2026-03-29T21:34:28.013Z"
+generated_at: "2026-03-29T21:37:43.038Z"
 ---
 
 # § 127. Virginia

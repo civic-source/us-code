@@ -3,9 +3,9 @@ title: "Section 7709 - Study of effects of commercial electronic mail"
 usc_title: 15
 usc_section: "7709"
 chapter: 103
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 7709"
-generated_at: "2026-03-29T21:33:27.454Z"
+generated_at: "2026-03-29T21:37:09.969Z"
 ---
 
 # § 7709. Study of effects of commercial electronic mail

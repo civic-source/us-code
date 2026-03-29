@@ -3,9 +3,9 @@ title: "Section 9019 - Repealed. Pub. L. 115–334, title I, § 1108 , Dec. 20, 
 usc_title: 7
 usc_section: "9019"
 chapter: 115
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 9019"
-generated_at: "2026-03-29T21:32:53.372Z"
+generated_at: "2026-03-29T21:36:47.104Z"
 ---
 
 # § 9019. Repealed. Pub. L. 115–334, title I, § 1108 , Dec. 20, 2018 , 132 Stat. 4508

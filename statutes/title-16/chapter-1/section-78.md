@@ -3,9 +3,9 @@ title: "Section 78 - Access to private property"
 usc_title: 16
 usc_section: "78"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 78"
-generated_at: "2026-03-29T21:33:47.094Z"
+generated_at: "2026-03-29T21:37:25.685Z"
 ---
 
 # § 410aaa–78. Access to private property

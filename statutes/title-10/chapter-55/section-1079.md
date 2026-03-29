@@ -3,9 +3,9 @@ title: "Section 1079 - Contracts for medical care for spouses and children: plan
 usc_title: 10
 usc_section: "1079"
 chapter: 55
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 1079"
-generated_at: "2026-03-29T21:33:09.046Z"
+generated_at: "2026-03-29T21:36:56.326Z"
 ---
 
 # § 1079. Contracts for medical care for spouses and children: plans
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T21:33:09.046Z"
 - **(e)**
   - **(1)** Extended benefits for eligible dependents under subsection (d) may include comprehensive health care services (including services necessary to maintain, or minimize or prevent deterioration of, function of the patient) and case management services with respect to the qualifying condition of such a dependent, and include, to the extent such benefits are not provided under provisions of this chapter other than under this section, the following:
     - **(A)** Diagnosis and screening.
-    - **(B)** Inpatient, outpatient, and comprehensive home health care supplies and services which may include cost-effective and medically appropriate services other than part-time or intermittent services (within the meaning of such terms as used in the second sentence of section 1861(m) of the Social Security Act ( 42 U.S.C. 1395x [(m)])).
+    - **(B)** Inpatient, outpatient, and comprehensive home health care supplies and services which may include cost-effective and medically appropriate services other than part-time or intermittent services (within the meaning of such terms as used in the second sentence of section 1861(m) of the Social Security Act ( 42 U.S.C. 1395x )).
     - **(C)** Rehabilitation services and devices.
     - **(D)** In accordance with paragraph (2), respite care for the primary caregiver of the eligible dependent.
     - **(E)** In accordance with paragraph (3), service and modification of durable equipment and assistive technology devices.

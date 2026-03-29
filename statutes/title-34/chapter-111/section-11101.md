@@ -3,9 +3,9 @@ title: "Section 11101 - Findings"
 usc_title: 34
 usc_section: "11101"
 chapter: 111
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "34 U.S.C. § 11101"
-generated_at: "2026-03-29T21:34:44.290Z"
+generated_at: "2026-03-29T21:38:00.615Z"
 ---
 
 # § 11101. Findings

@@ -3,9 +3,9 @@ title: "Section 3743 - Severability"
 usc_title: 25
 usc_section: "3743"
 chapter: 39
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "25 U.S.C. § 3743"
-generated_at: "2026-03-29T21:34:01.878Z"
+generated_at: "2026-03-29T21:37:31.801Z"
 ---
 
 # § 3743. Severability

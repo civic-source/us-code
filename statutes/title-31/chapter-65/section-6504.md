@@ -3,9 +3,9 @@ title: "Section 6504 - Use of existing State or multimember agency to administer
 usc_title: 31
 usc_section: "6504"
 chapter: 65
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "31 U.S.C. § 6504"
-generated_at: "2026-03-29T21:34:46.147Z"
+generated_at: "2026-03-29T21:37:59.360Z"
 ---
 
 # § 6504. Use of existing State or multimember agency to administer grant programs

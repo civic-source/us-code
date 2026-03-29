@@ -3,9 +3,9 @@ title: "Section 572 - National Emergency Communications Plan"
 usc_title: 6
 usc_section: "572"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "6 U.S.C. § 572"
-generated_at: "2026-03-29T21:32:45.092Z"
+generated_at: "2026-03-29T21:36:39.003Z"
 ---
 
 # § 572. National Emergency Communications Plan

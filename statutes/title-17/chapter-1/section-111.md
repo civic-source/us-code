@@ -3,9 +3,9 @@ title: "Section 111 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "111"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "17 U.S.C. § 111"
-generated_at: "2026-03-29T21:33:39.958Z"
+generated_at: "2026-03-29T21:37:12.678Z"
 ---
 
 # § 111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable

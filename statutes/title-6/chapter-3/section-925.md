@@ -3,9 +3,9 @@ title: "Section 925 - Border Patrol unit for United States Virgin Islands"
 usc_title: 6
 usc_section: "925"
 chapter: 3
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "6 U.S.C. § 925"
-generated_at: "2026-03-29T21:32:45.121Z"
+generated_at: "2026-03-29T21:36:39.024Z"
 ---
 
 # § 925. Border Patrol unit for United States Virgin Islands

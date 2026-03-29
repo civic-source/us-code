@@ -3,9 +3,9 @@ title: "Section 2403 - Definitions"
 usc_title: 22
 usc_section: "2403"
 chapter: 32
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 2403"
-generated_at: "2026-03-29T21:34:12.782Z"
+generated_at: "2026-03-29T21:37:38.145Z"
 ---
 
 # § 2403. Definitions

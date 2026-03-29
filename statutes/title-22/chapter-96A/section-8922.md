@@ -3,9 +3,9 @@ title: "Section 8922 - Statement of policy regarding Ukraine"
 usc_title: 22
 usc_section: "8922"
 chapter: 96
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 8922"
-generated_at: "2026-03-29T21:34:13.023Z"
+generated_at: "2026-03-29T21:37:38.336Z"
 ---
 
 # § 8922. Statement of policy regarding Ukraine

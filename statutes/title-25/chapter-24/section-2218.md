@@ -3,9 +3,9 @@ title: "Section 2218 - Approval of leases, rights-of-way, and sales of natural r
 usc_title: 25
 usc_section: "2218"
 chapter: 24
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "25 U.S.C. § 2218"
-generated_at: "2026-03-29T21:34:01.839Z"
+generated_at: "2026-03-29T21:37:31.775Z"
 ---
 
 # § 2218. Approval of leases, rights-of-way, and sales of natural resources

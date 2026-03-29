@@ -3,9 +3,9 @@ title: "Section 151308 - Service of process"
 usc_title: 36
 usc_section: "151308"
 chapter: 1513
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 151308"
-generated_at: "2026-03-29T21:34:57.391Z"
+generated_at: "2026-03-29T21:38:10.853Z"
 ---
 
 # § 151308. Service of process

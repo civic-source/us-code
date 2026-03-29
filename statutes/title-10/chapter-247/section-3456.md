@@ -3,9 +3,9 @@ title: "Section 3456 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "3456"
 chapter: 247
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3456"
-generated_at: "2026-03-29T21:33:09.276Z"
+generated_at: "2026-03-29T21:36:56.489Z"
 ---
 
 # § 3456. Commercial product and commercial service determinations by Department of Defense
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T21:33:09.276Z"
   - **(2)**
     - **(A)** Except as provided under subparagraph (B), funds appropriated or otherwise made available to the Department of Defense may not be used for the procurement under part 15 of the Federal Acquisition Regulation of a product or service that was previously acquired under a contract using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation.
     - **(B)** The limitation under subparagraph (A) does not apply to the procurement of a product or service that was previously acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation following—
-      - **(i)** a written determination by the head of contracting activity pursuant to section 3703(d)(2) 1 1 Amendment by section 1821(b)(5) of Pub. L. 116–283 executed to reflect the probable intent of Congress. of this title that the use of such procedures was improper; or
+      - **(i)** a written determination by the head of contracting activity pursuant to section 3703(d)(2) of this title that the use of such procedures was improper; or
       - **(ii)** a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.

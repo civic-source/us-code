@@ -3,9 +3,9 @@ title: "Section 5117 - Indian preference laws applicable to Bureau of Indian Aff
 usc_title: 25
 usc_section: "5117"
 chapter: 45
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "25 U.S.C. § 5117"
-generated_at: "2026-03-29T21:34:01.899Z"
+generated_at: "2026-03-29T21:37:31.816Z"
 ---
 
 # § 5117. Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions

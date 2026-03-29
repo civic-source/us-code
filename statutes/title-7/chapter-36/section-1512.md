@@ -3,9 +3,9 @@ title: "Section 1512 - Corporation as fiscal agent of Government"
 usc_title: 7
 usc_section: "1512"
 chapter: 36
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 1512"
-generated_at: "2026-03-29T21:32:53.012Z"
+generated_at: "2026-03-29T21:36:46.825Z"
 ---
 
 # § 1512. Corporation as fiscal agent of Government

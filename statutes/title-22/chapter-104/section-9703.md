@@ -3,9 +3,9 @@ title: "Section 9703 - Advancing a negotiated solution to Venezuela’s crisis"
 usc_title: 22
 usc_section: "9703"
 chapter: 104
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9703"
-generated_at: "2026-03-29T21:34:13.052Z"
+generated_at: "2026-03-29T21:37:38.361Z"
 ---
 
 # § 9703. Advancing a negotiated solution to Venezuela’s crisis

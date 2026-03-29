@@ -3,9 +3,9 @@ title: "Section 3905 - Products of Federal Prison Industries: procedural require
 usc_title: 10
 usc_section: "3905"
 chapter: 287
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3905"
-generated_at: "2026-03-29T21:33:09.288Z"
+generated_at: "2026-03-29T21:36:56.497Z"
 ---
 
 # § 3905. Products of Federal Prison Industries: procedural requirements
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T21:33:09.288Z"
     - **(C)** other utilities; or
   - **(3)** any personal or financial information about any individual private citizen, including information relating to such person’s real property however described, without the prior consent of the individual.
 - **(g)** In this section:
-  - **(1)** The term “competitive procedures” has the meaning given such term in section 3012 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
+  - **(1)** The term “competitive procedures” has the meaning given such term in section 3012 of this title .
   - **(2)** The term “market research” means obtaining specific information about the price, quality, and time of delivery of products available in the private sector through a variety of means, which may include—
     - **(A)** contacting knowledgeable individuals in government and industry;
     - **(B)** interactive communication among industry, acquisition personnel, and customers; and

@@ -3,9 +3,9 @@ title: "Section 220105 - Powers"
 usc_title: 36
 usc_section: "220105"
 chapter: 2201
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "36 U.S.C. § 220105"
-generated_at: "2026-03-29T21:34:57.400Z"
+generated_at: "2026-03-29T21:38:10.861Z"
 ---
 
 # § 220105. Powers

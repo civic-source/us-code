@@ -3,9 +3,9 @@ title: "Section 4505 - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "4505"
 chapter: 341
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4505"
-generated_at: "2026-03-29T21:33:09.306Z"
+generated_at: "2026-03-29T21:36:56.508Z"
 ---
 
 # § 4505. Procurement of services: tracking of purchases
@@ -60,17 +60,17 @@ generated_at: "2026-03-29T21:33:09.306Z"
 - **(e)** The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
   - **(1)** provide for the use of the inventory by the military department or Defense Agency to implement the requirements of section 129a of this title ;
   - **(2)** ensure the inventory is used to inform strategic workforce planning;
-  - **(3)** facilitate use of the inventory for compliance with section 3137 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title; and
+  - **(3)** facilitate use of the inventory for compliance with section 3137 of this title ; and
   - **(4)** provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
 - **(f)** Not later than March 31, 2018 , the Comptroller General of the United States shall submit to the congressional defense committees a report on the status of the data collection required in subsection (a) and an assessment of the efforts by the Department of Defense to implement subsection (e).
 - **(g)** Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
 - **(h)** In this section:
   - **(1)** The term “performance-based”, with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
-  - **(2)** The term “function closely associated with inherently governmental functions” has the meaning given that term in section 4508(b)(3) 1 of this title.
+  - **(2)** The term “function closely associated with inherently governmental functions” has the meaning given that term in section 4508(b)(3) of this title .
   - **(3)** The term “inherently governmental functions” has the meaning given that term in section 4508(b)(2) of this title .
   - **(4)** The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
   - **(5)** The term “service acquisition portfolio groups” means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services ( January 5, 2016 ) or successor guidance.
-  - **(6)** The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts (as that term is defined in section 4505(g)(5) \1, 2\ of this title).
+  - **(6)** The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts (as that term is defined in section 4505(g)(5) 1 1 See References in Text note below. of this title).
   - **(7)** The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41 .
   - **(8)**
     - **(A)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).

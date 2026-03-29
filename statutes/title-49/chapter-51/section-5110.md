@@ -3,9 +3,9 @@ title: "Section 5110 - Shipping papers and disclosure"
 usc_title: 49
 usc_section: "5110"
 chapter: 51
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "49 U.S.C. § 5110"
-generated_at: "2026-03-29T21:35:58.196Z"
+generated_at: "2026-03-29T21:38:51.363Z"
 ---
 
 # § 5110. Shipping papers and disclosure

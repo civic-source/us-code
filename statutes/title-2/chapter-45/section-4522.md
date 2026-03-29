@@ -3,9 +3,9 @@ title: "Section 4522 - Deductions for withdrawal"
 usc_title: 2
 usc_section: "4522"
 chapter: 45
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "2 U.S.C. § 4522"
-generated_at: "2026-03-29T21:32:30.513Z"
+generated_at: "2026-03-29T21:36:32.990Z"
 ---
 
 # § 4522. Deductions for withdrawal

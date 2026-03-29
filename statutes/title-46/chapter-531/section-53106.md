@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-29T21:35:53.047Z"
+generated_at: "2026-03-29T21:39:01.230Z"
 ---
 
 # § 53106. Payments

@@ -3,9 +3,9 @@ title: "Section 3352b - Improving the process for security clearances"
 usc_title: 50
 usc_section: "3352b"
 chapter: 45
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 3352b"
-generated_at: "2026-03-29T21:36:05.770Z"
+generated_at: "2026-03-29T21:38:47.412Z"
 ---
 
 # § 3352b. Improving the process for security clearances

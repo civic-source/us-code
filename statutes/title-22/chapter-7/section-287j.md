@@ -3,9 +3,9 @@ title: "Section 287j - Participation in future United Nations borrowing; promoti
 usc_title: 22
 usc_section: "287j"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 287j"
-generated_at: "2026-03-29T21:34:12.671Z"
+generated_at: "2026-03-29T21:37:38.064Z"
 ---
 
 # § 287j. Participation in future United Nations borrowing; promotion of pattern of financing to avoid future large-scale deficits; report to Congress

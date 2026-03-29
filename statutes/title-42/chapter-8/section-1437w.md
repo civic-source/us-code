@@ -3,9 +3,9 @@ title: "Section 1437w - Transfer of management of certain housing to independent
 usc_title: 42
 usc_section: "1437w"
 chapter: 8
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 1437w"
-generated_at: "2026-03-29T21:35:47.037Z"
+generated_at: "2026-03-29T21:38:39.885Z"
 ---
 
 # § 1437w. Transfer of management of certain housing to independent manager at request of residents

@@ -3,9 +3,9 @@ title: "Section 10370 - Effect"
 usc_title: 42
 usc_section: "10370"
 chapter: 109
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 10370"
-generated_at: "2026-03-29T21:35:47.559Z"
+generated_at: "2026-03-29T21:38:40.389Z"
 ---
 
 # § 10370. Effect

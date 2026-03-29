@@ -3,9 +3,9 @@ title: "Section 7074 - Commands: territorial organization; engineer tactical uni
 usc_title: 10
 usc_section: "7074"
 chapter: 707
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 7074"
-generated_at: "2026-03-29T21:33:09.326Z"
+generated_at: "2026-03-29T21:36:56.519Z"
 ---
 
 # § 7074. Commands: territorial organization; engineer tactical units

@@ -3,9 +3,9 @@ title: "Section 3710d - Employee activities"
 usc_title: 15
 usc_section: "3710d"
 chapter: 63
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 3710d"
-generated_at: "2026-03-29T21:33:27.370Z"
+generated_at: "2026-03-29T21:37:09.916Z"
 ---
 
 # § 3710d. Employee activities

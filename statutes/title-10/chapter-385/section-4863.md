@@ -3,9 +3,9 @@ title: "Section 4863 - Requirement to buy strategic materials critical to nation
 usc_title: 10
 usc_section: "4863"
 chapter: 385
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4863"
-generated_at: "2026-03-29T21:33:09.318Z"
+generated_at: "2026-03-29T21:36:56.514Z"
 ---
 
 # § 4863. Requirement to buy strategic materials critical to national security from American sources; exceptions
@@ -18,14 +18,14 @@ generated_at: "2026-03-29T21:33:09.318Z"
   - **(2)** This subsection applies to prime contracts and subcontracts at any tier under such contracts.
 - **(c)** Subsection (a) does not apply to the following:
   - **(1)** Acquisitions outside the United States in support of combat operations or in support of contingency operations.
-  - **(2)** Acquisitions for which the use of procedures other than competitive procedures has been approved on the basis of section 3204(a)(2) 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title, relating to unusual and compelling urgency of need.
+  - **(2)** Acquisitions for which the use of procedures other than competitive procedures has been approved on the basis of section 3204(a)(2) of this title , relating to unusual and compelling urgency of need.
 - **(d)** Subsection (a)(1) does not preclude the acquisition of a specialty metal if—
   - **(1)** the acquisition is necessary—
     - **(A)** to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government or United States firms under approved programs serving defense requirements; or
     - **(B)** in furtherance of agreements with foreign governments in which both such governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country; and
   - **(2)** any such agreement with a foreign government complies, where applicable, with the requirements of section 36 of the Arms Export Control Act ( 22 U.S.C. 2776 ) and with section 2457 of this title .
 - **(e)** Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, and nonappropriated fund instrumentalities operated by the Department of Defense.
-- **(f)** Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in section 3205 1 of this title.
+- **(f)** Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in section 3205 of this title .
 - **(g)** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title , determines that the domestic availability of a particular electronic component is critical to national security.
 - **(h)**
   - **(1)** Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial products, notwithstanding sections 1906 and 1907 of title 41.

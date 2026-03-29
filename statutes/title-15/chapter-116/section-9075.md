@@ -3,9 +3,9 @@ title: "Section 9075 - Protection of collective bargaining agreement"
 usc_title: 15
 usc_section: "9075"
 chapter: 116
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 9075"
-generated_at: "2026-03-29T21:33:27.503Z"
+generated_at: "2026-03-29T21:37:10.006Z"
 ---
 
 # § 9075. Protection of collective bargaining agreement

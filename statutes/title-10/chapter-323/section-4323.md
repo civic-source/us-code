@@ -3,9 +3,9 @@ title: "Section 4323 - Sustainment reviews"
 usc_title: 10
 usc_section: "4323"
 chapter: 323
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4323"
-generated_at: "2026-03-29T21:33:09.299Z"
+generated_at: "2026-03-29T21:36:56.504Z"
 ---
 
 # § 4323. Sustainment reviews
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T21:33:09.299Z"
   - **(2)** Each submission under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
   - **(3)** For a covered system with critical operating and support cost growth, such submission shall include a remediation plan to reduce operating and support costs or a certification by the Secretary concerned that such critical operating and support cost growth is necessary to meet national security requirements.
 - **(e)** In this section:
-  - **(1)** The term “covered system” shall have the meaning given in section 4324 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
+  - **(1)** The term “covered system” shall have the meaning given in section 4324 of this title .
   - **(2)** The term “critical operating and support cost growth” means operating and support cost growth—
     - **(A)** of at least 25 percent more than the estimate documented in the most recent independent cost estimate for the covered system; or
-    - **(B)** of at least 50 percent more than the estimate documented in the original Baseline Estimate (as defined in section 4214(d) 1 of this title) for the covered system.
+    - **(B)** of at least 50 percent more than the estimate documented in the original Baseline Estimate (as defined in section 4214(d) of this title ) for the covered system.

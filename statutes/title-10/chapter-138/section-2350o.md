@@ -3,12 +3,12 @@ title: "Section 2350o - Participation in programs relating to coordination or ex
 usc_title: 10
 usc_section: "2350o"
 chapter: 138
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2350o"
-generated_at: "2026-03-29T21:33:09.173Z"
+generated_at: "2026-03-29T21:36:56.423Z"
 ---
 
-# § 2350 o . Participation in programs relating to coordination or exchange of air refueling and air transportation services
+# § 2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services
 
 - **(a)**
   - **(1)** The Secretary of Defense, with the concurrence of the Secretary of State, may authorize the participation of the Department of Defense in programs relating to the coordination or exchange of air refueling and air transportation services, including in the arrangement known as the Air Transport and Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the “ATARES program”).

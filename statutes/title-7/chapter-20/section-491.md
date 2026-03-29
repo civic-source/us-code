@@ -3,9 +3,9 @@ title: "Section 491 - Destruction or dumping of farm produce received in interst
 usc_title: 7
 usc_section: "491"
 chapter: 20
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 491"
-generated_at: "2026-03-29T21:32:52.930Z"
+generated_at: "2026-03-29T21:36:46.749Z"
 ---
 
 # § 491. Destruction or dumping of farm produce received in interstate commerce by commission merchants, etc.; penalty

@@ -3,9 +3,9 @@ title: "Section 1467 - Establishment of the Digital Coast"
 usc_title: 16
 usc_section: "1467"
 chapter: 33
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 1467"
-generated_at: "2026-03-29T21:33:47.538Z"
+generated_at: "2026-03-29T21:37:25.936Z"
 ---
 
 # § 1467. Establishment of the Digital Coast

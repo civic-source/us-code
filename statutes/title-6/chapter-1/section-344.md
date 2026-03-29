@@ -3,9 +3,9 @@ title: "Section 344 - Chief Human Capital Officer"
 usc_title: 6
 usc_section: "344"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "6 U.S.C. § 344"
-generated_at: "2026-03-29T21:32:45.071Z"
+generated_at: "2026-03-29T21:36:38.990Z"
 ---
 
 # § 344. Chief Human Capital Officer

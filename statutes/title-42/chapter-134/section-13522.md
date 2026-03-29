@@ -3,9 +3,9 @@ title: "Section 13522 - Energy Research, Development, Demonstration, and Commerc
 usc_title: 42
 usc_section: "13522"
 chapter: 134
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 13522"
-generated_at: "2026-03-29T21:35:47.672Z"
+generated_at: "2026-03-29T21:38:40.491Z"
 ---
 
 # § 13522. Energy Research, Development, Demonstration, and Commercial Application Advisory Board

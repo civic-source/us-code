@@ -3,9 +3,9 @@ title: "Section 1462 - Personnel development to improve services and results for
 usc_title: 20
 usc_section: "1462"
 chapter: 33
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 1462"
-generated_at: "2026-03-29T21:33:39.241Z"
+generated_at: "2026-03-29T21:37:21.214Z"
 ---
 
 # § 1462. Personnel development to improve services and results for children with disabilities

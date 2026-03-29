@@ -3,9 +3,9 @@ title: "Section 1092b - National Student Loan Data System"
 usc_title: 20
 usc_section: "1092b"
 chapter: 28
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 1092b"
-generated_at: "2026-03-29T21:33:39.156Z"
+generated_at: "2026-03-29T21:37:21.164Z"
 ---
 
 # § 1092b. National Student Loan Data System

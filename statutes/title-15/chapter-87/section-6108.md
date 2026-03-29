@@ -3,9 +3,9 @@ title: "Section 6108 - Review"
 usc_title: 15
 usc_section: "6108"
 chapter: 87
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 6108"
-generated_at: "2026-03-29T21:33:27.406Z"
+generated_at: "2026-03-29T21:37:09.939Z"
 ---
 
 # § 6108. Review

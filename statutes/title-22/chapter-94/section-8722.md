@@ -3,9 +3,9 @@ title: "Section 8722 - Imposition of sanctions with respect to provision of unde
 usc_title: 22
 usc_section: "8722"
 chapter: 94
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 8722"
-generated_at: "2026-03-29T21:34:13.013Z"
+generated_at: "2026-03-29T21:37:38.327Z"
 ---
 
 # § 8722. Imposition of sanctions with respect to provision of underwriting services or insurance or reinsurance for the National Iranian Oil Company or the National Iranian Tanker Company

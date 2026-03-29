@@ -3,9 +3,9 @@ title: "Section 521 - Fishing industry; associations authorized; “aquatic prod
 usc_title: 15
 usc_section: "521"
 chapter: 13
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 521"
-generated_at: "2026-03-29T21:33:27.056Z"
+generated_at: "2026-03-29T21:37:09.725Z"
 ---
 
 # § 521. Fishing industry; associations authorized; “aquatic products” defined; marketing agencies; requirements

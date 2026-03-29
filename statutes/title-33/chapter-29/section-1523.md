@@ -3,9 +3,9 @@ title: "Section 1523 - General procedures; issuance and enforcement of orders; s
 usc_title: 33
 usc_section: "1523"
 chapter: 29
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "33 U.S.C. § 1523"
-generated_at: "2026-03-29T21:34:49.114Z"
+generated_at: "2026-03-29T21:38:02.699Z"
 ---
 
 # § 1523. General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters

@@ -3,9 +3,9 @@ title: "Section 1484 - Interpretation and administration; other right, duty, pri
 usc_title: 33
 usc_section: "1484"
 chapter: 28
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "33 U.S.C. § 1484"
-generated_at: "2026-03-29T21:34:49.111Z"
+generated_at: "2026-03-29T21:38:02.695Z"
 ---
 
 # § 1484. Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected

@@ -3,9 +3,9 @@ title: "Section 8503 - Duties and powers of the Committee"
 usc_title: 41
 usc_section: "8503"
 chapter: 85
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "41 U.S.C. § 8503"
-generated_at: "2026-03-29T21:35:02.757Z"
+generated_at: "2026-03-29T21:38:13.283Z"
 ---
 
 # § 8503. Duties and powers of the Committee

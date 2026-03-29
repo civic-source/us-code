@@ -3,9 +3,9 @@ title: "Section 4375 - Breach of significant cost growth threshold or critical c
 usc_title: 10
 usc_section: "4375"
 chapter: 325
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4375"
-generated_at: "2026-03-29T21:33:09.301Z"
+generated_at: "2026-03-29T21:36:56.506Z"
 ---
 
 # § 4375. Breach of significant cost growth threshold or critical cost growth threshold: required action
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T21:33:09.301Z"
 - **(c)**
   - **(1)** If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under section 4374 of this title and a Selected Acquisition Report containing the information described in subsection (d) is not submitted to Congress under subsection (a), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under section 4374 of this title and the certification of the Secretary of Defense is not submitted to Congress under subsection (b), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program.
   - **(2)** The prohibition under paragraph (1) on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 8677(b)(2) of this title ) beginning on the date—
-    - **(A)** on which Congress receives the Selected Acquisition Report under subsection (a) or (b)(2) 1 1 So in original. Subsec. (b) does not contain paragraphs. with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in section 4374 of this title ); or
+    - **(A)** on which Congress receives the Selected Acquisition Report under subsection (a) or (b)(2) 1 1 See References in Text note below. with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in section 4374 of this title ); or
     - **(B)** on which Congress has received both the Selected Acquisition Report under subsection (a) or (b)(2) 1 and the certification of the Secretary of Defense under subsection (b)(1) 1 with respect to that program, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under section 4374 of this title ).
 - **(d)** Except as provided in subsection (e), each report under this section with respect to a major defense acquisition program shall include the following:
   - **(1)** The name of the major defense acquisition program.

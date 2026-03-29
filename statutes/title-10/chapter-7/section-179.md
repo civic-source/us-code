@@ -3,9 +3,9 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-29T21:33:08.936Z"
+generated_at: "2026-03-29T21:36:56.229Z"
 ---
 
 # § 179. Nuclear Weapons Council
@@ -68,10 +68,11 @@ generated_at: "2026-03-29T21:33:08.936Z"
   - **(6)** If a House of Congress adopts a bill authorizing or appropriating funds for the Department of Defense that, as determined by the Council, provides funds in an amount that will result in a delay in the nuclear certification or delivery of F–35A dual-capable aircraft, the Council shall notify the congressional defense committees of the determination.
   - **(7)** In this subsection:
     - **(A)** The term “budget” has the meaning given that term in section 231(f) of this title .
-    - **(B)** The term “defense budget materials” has the meaning given that term in section 231(f) of this title .e
+    - **(B)** The term “defense budget materials” has the meaning given that term in section 231(f) of this title .
     - **(C)** The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
 - **(g)**
-  - **(1)** Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a briefing on, with respect to the six-month period preceding the briefing—
+  - **(1)** Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a semiannual update including, with respect to the six-month period preceding the update—
     - **(A)** the dates on which the Council met; and
     - **(B)** except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
-  - **(2)** The Council shall not be required to include in a briefing under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the briefing.
+  - **(2)** The Council shall not be required to include in a semiannual update under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the semiannual update.
+  - **(3)** The Council may provide a semiannual update under paragraph (1) either in the form of a briefing or a written report.

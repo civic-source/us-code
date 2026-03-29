@@ -3,9 +3,9 @@ title: "Section 13456 - Improving efficiency in energy-intensive industries"
 usc_title: 42
 usc_section: "13456"
 chapter: 134
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 13456"
-generated_at: "2026-03-29T21:35:47.670Z"
+generated_at: "2026-03-29T21:38:40.488Z"
 ---
 
 # § 13456. Improving efficiency in energy-intensive industries

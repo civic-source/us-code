@@ -3,9 +3,9 @@ title: "Section 6041 - Information at source"
 usc_title: 26
 usc_section: "6041"
 chapter: 61
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "26 U.S.C. § 6041"
-generated_at: "2026-03-29T21:34:40.028Z"
+generated_at: "2026-03-29T21:37:55.103Z"
 ---
 
 # § 6041. Information at source

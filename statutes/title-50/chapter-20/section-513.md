@@ -3,9 +3,9 @@ title: "Section 513 - Expansion of existing facilities; appropriations; testing 
 usc_title: 50
 usc_section: "513"
 chapter: 20
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "50 U.S.C. § 513"
-generated_at: "2026-03-29T21:36:05.678Z"
+generated_at: "2026-03-29T21:38:47.323Z"
 ---
 
 # § 513. Expansion of existing facilities; appropriations; testing of models

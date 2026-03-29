@@ -3,9 +3,9 @@ title: "Section 873 - Art. 73. Petition for a new trial"
 usc_title: 10
 usc_section: "873"
 chapter: 47
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 873"
-generated_at: "2026-03-29T21:33:09.005Z"
+generated_at: "2026-03-29T21:36:56.288Z"
 ---
 
 # § 873. Art. 73. Petition for a new trial

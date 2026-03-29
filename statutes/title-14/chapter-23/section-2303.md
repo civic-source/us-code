@@ -3,9 +3,9 @@ title: "Section 2303 - Promotion"
 usc_title: 14
 usc_section: "2303"
 chapter: 23
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "14 U.S.C. § 2303"
-generated_at: "2026-03-29T21:33:13.519Z"
+generated_at: "2026-03-29T21:36:59.912Z"
 ---
 
 # § 2303. Promotion

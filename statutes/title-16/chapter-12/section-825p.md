@@ -3,9 +3,9 @@ title: "Section 825p - Jurisdiction of offenses; enforcement of liabilities and 
 usc_title: 16
 usc_section: "825p"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 825p"
-generated_at: "2026-03-29T21:33:47.416Z"
+generated_at: "2026-03-29T21:37:25.868Z"
 ---
 
 # § 825p. Jurisdiction of offenses; enforcement of liabilities and duties

@@ -3,9 +3,9 @@ title: "Section 8470a - Permanent professors: retirement for years of service; a
 usc_title: 10
 usc_section: "8470a"
 chapter: 853
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 8470a"
-generated_at: "2026-03-29T21:33:09.353Z"
+generated_at: "2026-03-29T21:36:56.542Z"
 ---
 
 # § 8470a. Permanent professors: retirement for years of service; authority for deferral
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T21:33:09.353Z"
   - **(2)** Subject to section 1252 of this title , the Secretary of the Navy shall determine the period of any continuation on active duty under this section.
 - **(c)** A permanent professor at the Naval Academy in the grade of commander or lieutenant colonel who is continued on active duty as a permanent professor under subsection (b) remains eligible for consideration for promotion to the grade of captain or colonel, as the case may be.
 - **(d)** Each officer retired under this section—
-  - **(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 of this title ; and
+  - **(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1 1 See References in Text note below. of this title; and
   - **(2)** is entitled to retired pay computed under section 8333 of this title .

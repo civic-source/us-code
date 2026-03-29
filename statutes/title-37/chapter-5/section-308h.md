@@ -3,9 +3,9 @@ title: "Section 308h - Special pay: bonus for reenlistment, enlistment, or volun
 usc_title: 37
 usc_section: "308h"
 chapter: 5
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "37 U.S.C. § 308h"
-generated_at: "2026-03-29T21:34:52.576Z"
+generated_at: "2026-03-29T21:38:06.651Z"
 ---
 
 # § 308h. Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve

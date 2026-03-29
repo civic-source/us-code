@@ -3,14 +3,14 @@ title: "Section 4971 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "4971"
 chapter: 389
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4971"
-generated_at: "2026-03-29T21:33:09.322Z"
+generated_at: "2026-03-29T21:36:56.517Z"
 ---
 
 # § 4971. Establishment of loan guarantee program
 
-- **(a)** In order to meet the national security objectives in section 4811(a) 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title, the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring a lender against losses of principal or interest, or both principal and interest, arising out of the financing of the sale or long-term lease of defense articles, defense services, or design and construction services to a country referred to in subsection (b).
+- **(a)** In order to meet the national security objectives in section 4811(a) of this title , the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring a lender against losses of principal or interest, or both principal and interest, arising out of the financing of the sale or long-term lease of defense articles, defense services, or design and construction services to a country referred to in subsection (b).
 - **(b)** The authority under subsection (a) applies with respect to the following countries:
   - **(1)** A member nation of the North Atlantic Treaty Organization (NATO).
   - **(2)** A country designated as of March 31, 1995 , as a major non-NATO ally pursuant to section 2350a(i)(3) of this title , as in effect on that date.

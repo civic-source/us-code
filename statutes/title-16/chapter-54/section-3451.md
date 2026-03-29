@@ -3,9 +3,9 @@ title: "Section 3451 - Definitions"
 usc_title: 16
 usc_section: "3451"
 chapter: 54
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 3451"
-generated_at: "2026-03-29T21:33:47.633Z"
+generated_at: "2026-03-29T21:37:25.992Z"
 ---
 
 # § 3451. Definitions

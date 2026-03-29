@@ -3,9 +3,9 @@ title: "Section 7808 - Territorial participation"
 usc_title: 16
 usc_section: "7808"
 chapter: 97
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 7808"
-generated_at: "2026-03-29T21:33:47.756Z"
+generated_at: "2026-03-29T21:37:26.059Z"
 ---
 
 # § 7808. Territorial participation

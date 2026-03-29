@@ -3,9 +3,9 @@ title: "Section 4003 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4003"
 chapter: 301
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4003"
-generated_at: "2026-03-29T21:33:09.289Z"
+generated_at: "2026-03-29T21:36:56.498Z"
 ---
 
 # § 4003. Authority of the Department of Defense to carry out certain prototype projects
@@ -45,11 +45,11 @@ generated_at: "2026-03-29T21:33:09.289Z"
       - **(i)** the party incurred the costs in anticipation of entering into the transaction; and
       - **(ii)** it was appropriate for the party to incur the costs before the transaction became effective in order to ensure the successful implementation of the transaction.
 - **(e)** In this section:
-  - **(1)** The term “nontraditional defense contractor” has the meaning given the term under section 3014 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
+  - **(1)** The term “nontraditional defense contractor” has the meaning given the term under section 3014 of this title .
   - **(2)** The term “small business” means a small business concern as defined under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
 - **(f)**
   - **(1)** A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.
-  - **(2)** A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 2 2 Amendment by section 1883(b)(2) of Pub. L. 116–283 was not executed as section 2304 was transferred to multiple sections. of this title, if—
+  - **(2)** A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 of this title , if—
     - **(A)** competitive procedures were used for the selection of parties for participation in the transaction; and
     - **(B)** the participants in the transaction successfully completed the prototype project provided for in the transaction.
   - **(3)** A follow-on production contract or transaction may be awarded, pursuant to this subsection, when the Department determines that an individual prototype or prototype subproject as part of a consortium is successfully completed by the participants.

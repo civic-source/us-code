@@ -3,9 +3,9 @@ title: "Section 3710a - Cooperative research and development agreements"
 usc_title: 15
 usc_section: "3710a"
 chapter: 63
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 3710a"
-generated_at: "2026-03-29T21:33:27.369Z"
+generated_at: "2026-03-29T21:37:09.914Z"
 ---
 
 # § 3710a. Cooperative research and development agreements

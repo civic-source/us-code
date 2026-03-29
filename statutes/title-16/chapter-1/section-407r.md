@@ -3,9 +3,9 @@ title: "Section 407r - Authorization of appropriations"
 usc_title: 16
 usc_section: "407r"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 407r"
-generated_at: "2026-03-29T21:33:47.059Z"
+generated_at: "2026-03-29T21:37:25.664Z"
 ---
 
 # § 407r. Authorization of appropriations

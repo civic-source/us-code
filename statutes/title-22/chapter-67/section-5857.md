@@ -3,9 +3,9 @@ title: "Section 5857 - Waiver of certain provisions"
 usc_title: 22
 usc_section: "5857"
 chapter: 67
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 5857"
-generated_at: "2026-03-29T21:34:12.921Z"
+generated_at: "2026-03-29T21:37:38.255Z"
 ---
 
 # § 5857. Waiver of certain provisions

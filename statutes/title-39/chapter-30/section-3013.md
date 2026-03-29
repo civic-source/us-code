@@ -3,9 +3,9 @@ title: "Section 3013 - Semiannual reports on investigative activities of the Pos
 usc_title: 39
 usc_section: "3013"
 chapter: 30
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "39 U.S.C. § 3013"
-generated_at: "2026-03-29T21:34:59.104Z"
+generated_at: "2026-03-29T21:38:04.887Z"
 ---
 
 # § 3013. Semiannual reports on investigative activities of the Postal Service

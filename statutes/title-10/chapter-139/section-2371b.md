@@ -3,9 +3,9 @@ title: "Section 2371b - Authority of the Department of Defense to carry out cert
 usc_title: 10
 usc_section: "2371b"
 chapter: 139
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2371b"
-generated_at: "2026-03-29T21:33:09.180Z"
+generated_at: "2026-03-29T21:36:56.427Z"
 ---
 
 # § 2371b. Authority of the Department of Defense to carry out certain prototype projects

@@ -3,9 +3,9 @@ title: "Section 1869 - Definitions"
 usc_title: 28
 usc_section: "1869"
 chapter: 121
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "28 U.S.C. § 1869"
-generated_at: "2026-03-29T21:34:28.069Z"
+generated_at: "2026-03-29T21:37:43.081Z"
 ---
 
 # § 1869. Definitions

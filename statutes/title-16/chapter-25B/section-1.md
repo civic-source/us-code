@@ -3,9 +3,9 @@ title: "Section 1 - Financial assistance to State to prepare transferred ship"
 usc_title: 16
 usc_section: "1"
 chapter: 25
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T21:33:47.471Z"
+generated_at: "2026-03-29T21:37:25.897Z"
 ---
 
 # § 1220c–1. Financial assistance to State to prepare transferred ship

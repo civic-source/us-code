@@ -3,9 +3,9 @@ title: "Section 4023 - Career development program"
 usc_title: 22
 usc_section: "4023"
 chapter: 52
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 4023"
-generated_at: "2026-03-29T21:34:12.868Z"
+generated_at: "2026-03-29T21:37:38.216Z"
 ---
 
 # § 4023. Career development program

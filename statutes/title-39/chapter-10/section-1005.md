@@ -3,9 +3,9 @@ title: "Section 1005 - Applicability of laws relating to Federal employees"
 usc_title: 39
 usc_section: "1005"
 chapter: 10
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "39 U.S.C. § 1005"
-generated_at: "2026-03-29T21:34:59.096Z"
+generated_at: "2026-03-29T21:38:04.880Z"
 ---
 
 # § 1005. Applicability of laws relating to Federal employees

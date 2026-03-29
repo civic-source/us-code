@@ -3,9 +3,9 @@ title: "Section 1525 - Cooperation and direct communication between the court an
 usc_title: 11
 usc_section: "1525"
 chapter: 15
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "11 U.S.C. § 1525"
-generated_at: "2026-03-29T21:33:14.451Z"
+generated_at: "2026-03-29T21:37:00.549Z"
 ---
 
 # § 1525. Cooperation and direct communication between the court and foreign courts or foreign representatives

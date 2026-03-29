@@ -3,9 +3,9 @@ title: "Section 701 - Game and wild birds; preservation"
 usc_title: 16
 usc_section: "701"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 701"
-generated_at: "2026-03-29T21:33:47.371Z"
+generated_at: "2026-03-29T21:37:25.842Z"
 ---
 
 # § 701. Game and wild birds; preservation

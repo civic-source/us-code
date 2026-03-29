@@ -3,9 +3,9 @@ title: "Section 3403 - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "3403"
 chapter: 245
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3403"
-generated_at: "2026-03-29T21:33:09.274Z"
+generated_at: "2026-03-29T21:36:56.488Z"
 ---
 
 # § 3403. Task and delivery order contracts: general authority
@@ -22,6 +22,7 @@ generated_at: "2026-03-29T21:33:09.274Z"
   - **(1)** The head of an agency may exercise the authority provided in this section—
     - **(A)** to award a single task or delivery order contract; or
     - **(B)** if the solicitation states that the head of the agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to two or more sources.
+  - **(2)** No determination under section 3203 of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
   - **(3)**
     - **(A)** Except as provided under subparagraph (B), no task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
       - **(i)** the task or delivery orders expected under the contract are so integrally related that only a single source can efficiently perform the work;

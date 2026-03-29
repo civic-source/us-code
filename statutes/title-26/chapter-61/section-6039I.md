@@ -3,9 +3,9 @@ title: "Section 6039I - Returns and records with respect to employer-owned life 
 usc_title: 26
 usc_section: "6039I"
 chapter: 61
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "26 U.S.C. § 6039I"
-generated_at: "2026-03-29T21:34:40.028Z"
+generated_at: "2026-03-29T21:37:55.103Z"
 ---
 
 # § 6039I. Returns and records with respect to employer-owned life insurance contracts

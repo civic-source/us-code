@@ -3,9 +3,9 @@ title: "Section 6861 - National professional development project"
 usc_title: 20
 usc_section: "6861"
 chapter: 70
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 6861"
-generated_at: "2026-03-29T21:33:39.345Z"
+generated_at: "2026-03-29T21:37:21.278Z"
 ---
 
 # § 6861. National professional development project

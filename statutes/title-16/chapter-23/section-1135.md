@@ -3,9 +3,9 @@ title: "Section 1135 - Gifts, bequests, and contributions"
 usc_title: 16
 usc_section: "1135"
 chapter: 23
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 1135"
-generated_at: "2026-03-29T21:33:47.467Z"
+generated_at: "2026-03-29T21:37:25.894Z"
 ---
 
 # § 1135. Gifts, bequests, and contributions

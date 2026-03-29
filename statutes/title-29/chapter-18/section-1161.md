@@ -3,9 +3,9 @@ title: "Section 1161 - Plans must provide continuation coverage to certain indiv
 usc_title: 29
 usc_section: "1161"
 chapter: 18
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "29 U.S.C. § 1161"
-generated_at: "2026-03-29T21:34:25.923Z"
+generated_at: "2026-03-29T21:37:44.920Z"
 ---
 
 # § 1161. Plans must provide continuation coverage to certain individuals

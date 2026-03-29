@@ -3,9 +3,9 @@ title: "Section 4146 - Centers for Science, Technology, and Engineering Partners
 usc_title: 10
 usc_section: "4146"
 chapter: 307
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 4146"
-generated_at: "2026-03-29T21:33:09.293Z"
+generated_at: "2026-03-29T21:36:56.500Z"
 ---
 
 # § 4146. Centers for Science, Technology, and Engineering Partnership
@@ -57,5 +57,5 @@ generated_at: "2026-03-29T21:33:09.293Z"
 - **(g)** Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center by personnel of the Department of Defense to performance by a contractor.
 - **(h)** In this section:
   - **(1)** The term “capabilities”, with respect to a Center for Science, Technology, and Engineering Partnership, means the facilities, equipment, personnel, intellectual property, and other assets that support the core competencies of the Center.
-  - **(2)** The term “national technology and industrial base” has the meaning given that term in section 4801 1 1 Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283 . of this title.
+  - **(2)** The term “national technology and industrial base” has the meaning given that term in section 4801 of this title .
   - **(3)** The term “science and technology reinvention laboratory” means a science and technology reinvention laboratory designated under section 1105 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111–84 ; 10 U.S.C. 2358 note).

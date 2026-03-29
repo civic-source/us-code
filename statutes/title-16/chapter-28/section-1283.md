@@ -3,9 +3,9 @@ title: "Section 1283 - Management policies"
 usc_title: 16
 usc_section: "1283"
 chapter: 28
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 1283"
-generated_at: "2026-03-29T21:33:47.502Z"
+generated_at: "2026-03-29T21:37:25.911Z"
 ---
 
 # § 1283. Management policies

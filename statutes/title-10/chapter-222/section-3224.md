@@ -3,9 +3,9 @@ title: "Section 3224 - Director: participation, concurrence, and approval in cos
 usc_title: 10
 usc_section: "3224"
 chapter: 222
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3224"
-generated_at: "2026-03-29T21:33:09.270Z"
+generated_at: "2026-03-29T21:36:56.485Z"
 ---
 
 # § 3224. Director: participation, concurrence, and approval in cost estimation

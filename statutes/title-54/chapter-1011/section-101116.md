@@ -3,9 +3,9 @@ title: "Section 101116 - Corporate powers"
 usc_title: 54
 usc_section: "101116"
 chapter: 1011
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "54 U.S.C. § 101116"
-generated_at: "2026-03-29T21:36:10.348Z"
+generated_at: "2026-03-29T21:39:23.751Z"
 ---
 
 # § 101116. Corporate powers

@@ -3,9 +3,9 @@ title: "Section 3204 - Use of procedures other than competitive procedures"
 usc_title: 10
 usc_section: "3204"
 chapter: 221
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3204"
-generated_at: "2026-03-29T21:33:09.268Z"
+generated_at: "2026-03-29T21:36:56.484Z"
 ---
 
 # § 3204. Use of procedures other than competitive procedures
@@ -37,9 +37,9 @@ generated_at: "2026-03-29T21:33:09.268Z"
       - **(ii)** for the agency to enter into another contract for the required goods or services through the use of competitive procedures; and
     - **(B)** may not exceed one year unless the head of the agency entering into such contract determines that exceptional circumstances apply.
   - **(2)** This subsection applies to any contract in an amount greater than the simplified acquisition threshold.
-- **(d)** The head of 3 3 Amendment by section 1811(d)(5)(A) of Pub. L. 116–283 executed to reflect the probable intent of Congress. an agency using procedures other than competitive procedures to procure property or services by reason of the application of paragraph (2) or (6) of subsection (a) shall request offers from as many potential sources as is practicable under the circumstances.
+- **(d)** The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of paragraph (2) or (6) of subsection (a) shall request offers from as many potential sources as is practicable under the circumstances.
 - **(e)**
-  - **(1)** Except as provided in paragraphs (3), (4), and (7),, 4 4 So in original. the head of an agency may not award a contract using procedures other than competitive procedures unless—
+  - **(1)** Except as provided in paragraphs (3), (4), and (7),, 3 3 So in original. the head of an agency may not award a contract using procedures other than competitive procedures unless—
     - **(A)** the contracting officer for the contract justifies the use of such procedures in writing and certifies the accuracy and completeness of the justification;
     - **(B)** the justification is approved—
       - **(i)** in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);

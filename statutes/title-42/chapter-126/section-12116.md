@@ -3,9 +3,9 @@ title: "Section 12116 - Regulations"
 usc_title: 42
 usc_section: "12116"
 chapter: 126
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 12116"
-generated_at: "2026-03-29T21:35:47.604Z"
+generated_at: "2026-03-29T21:38:40.426Z"
 ---
 
 # § 12116. Regulations

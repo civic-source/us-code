@@ -3,9 +3,9 @@ title: "Section 6106 - Definitions"
 usc_title: 15
 usc_section: "6106"
 chapter: 87
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 6106"
-generated_at: "2026-03-29T21:33:27.406Z"
+generated_at: "2026-03-29T21:37:09.939Z"
 ---
 
 # § 6106. Definitions

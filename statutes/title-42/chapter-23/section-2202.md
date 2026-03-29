@@ -3,9 +3,9 @@ title: "Section 2202 - Contracts"
 usc_title: 42
 usc_section: "2202"
 chapter: 23
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 2202"
-generated_at: "2026-03-29T21:35:47.146Z"
+generated_at: "2026-03-29T21:38:39.993Z"
 ---
 
 # § 2202. Contracts

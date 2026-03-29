@@ -3,9 +3,9 @@ title: "Section 3470 - Selection of program"
 usc_title: 38
 usc_section: "3470"
 chapter: 34
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "38 U.S.C. § 3470"
-generated_at: "2026-03-29T21:34:55.959Z"
+generated_at: "2026-03-29T21:38:09.502Z"
 ---
 
 # § 3470. Selection of program

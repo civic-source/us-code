@@ -3,9 +3,9 @@ title: "Section 1 - Emergency communication and tracking technologies research i
 usc_title: 15
 usc_section: "1"
 chapter: 7
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-29T21:33:27.046Z"
+generated_at: "2026-03-29T21:37:09.719Z"
 ---
 
 # § 278n–1. Emergency communication and tracking technologies research initiative

@@ -3,9 +3,9 @@ title: "Section 1338a - Moneys received as a result of forfeiture by Outer Conti
 usc_title: 43
 usc_section: "1338a"
 chapter: 29
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "43 U.S.C. § 1338a"
-generated_at: "2026-03-29T21:35:10.751Z"
+generated_at: "2026-03-29T21:38:15.534Z"
 ---
 
 # § 1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts

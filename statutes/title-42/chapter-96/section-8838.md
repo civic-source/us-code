@@ -3,9 +3,9 @@ title: "Section 8838 - Jurisdiction of Department of Energy and Environmental Pr
 usc_title: 42
 usc_section: "8838"
 chapter: 96
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 8838"
-generated_at: "2026-03-29T21:35:47.487Z"
+generated_at: "2026-03-29T21:38:40.320Z"
 ---
 
 # § 8838. Jurisdiction of Department of Energy and Environmental Protection Agency

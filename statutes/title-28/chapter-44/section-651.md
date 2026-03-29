@@ -3,9 +3,9 @@ title: "Section 651 - Authorization of alternative dispute resolution"
 usc_title: 28
 usc_section: "651"
 chapter: 44
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "28 U.S.C. § 651"
-generated_at: "2026-03-29T21:34:28.045Z"
+generated_at: "2026-03-29T21:37:43.063Z"
 ---
 
 # § 651. Authorization of alternative dispute resolution

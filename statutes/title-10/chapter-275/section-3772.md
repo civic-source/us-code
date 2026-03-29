@@ -3,9 +3,9 @@ title: "Section 3772 - Rights in technical data: provisions required in contract
 usc_title: 10
 usc_section: "3772"
 chapter: 275
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 3772"
-generated_at: "2026-03-29T21:33:09.284Z"
+generated_at: "2026-03-29T21:36:56.494Z"
 ---
 
 # § 3772. Rights in technical data: provisions required in contracts
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T21:33:09.284Z"
       - **(i)** pertains to an item or process developed in whole or in part with Federal funds; or
       - **(ii)** is described in paragraphs (4)(A)(ii), (6), and (7) of section 3771(b) of this title ; and
   - **(10)** providing that the United States is not foreclosed from requiring the delivery of the technical data by a failure to challenge, in accordance with the requirements of section 3782 of this title , the contractor’s assertion of a use or release restriction on the technical data.
-- **(b)** Nothing in this subchapter or in section 3208 1 1 Amendment by section 1833(c)(3)(A) of Pub. L. 116–283 executed to reflect the probable intent of Congress. of this title prohibits the Secretary of Defense from—
+- **(b)** Nothing in this subchapter or in section 3208 of this title prohibits the Secretary of Defense from—
   - **(1)** prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
   - **(2)** notwithstanding any limitation upon the license rights conveyed under section 3771 of this title , allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government’s management and oversight of the program or effort to which such technical data relates; or
   - **(3)** prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.

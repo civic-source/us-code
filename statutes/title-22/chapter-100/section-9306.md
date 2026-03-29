@@ -3,9 +3,9 @@ title: "Section 9306 - Emergency Food Security Program"
 usc_title: 22
 usc_section: "9306"
 chapter: 100
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 9306"
-generated_at: "2026-03-29T21:34:13.037Z"
+generated_at: "2026-03-29T21:37:38.348Z"
 ---
 
 # § 9306. Emergency Food Security Program

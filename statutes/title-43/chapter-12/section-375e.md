@@ -3,9 +3,9 @@ title: "Section 375e - Moneys from sale of small tracts covered into reclamation
 usc_title: 43
 usc_section: "375e"
 chapter: 12
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "43 U.S.C. § 375e"
-generated_at: "2026-03-29T21:35:10.684Z"
+generated_at: "2026-03-29T21:38:15.477Z"
 ---
 
 # § 375e. Moneys from sale of small tracts covered into reclamation fund; credit

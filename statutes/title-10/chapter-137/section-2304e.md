@@ -3,9 +3,9 @@ title: "Section 2304e - Contracts: prohibition on competition between Department
 usc_title: 10
 usc_section: "2304e"
 chapter: 137
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 2304e"
-generated_at: "2026-03-29T21:33:09.152Z"
+generated_at: "2026-03-29T21:36:56.410Z"
 ---
 
 # § 2304e. Contracts: prohibition on competition between Department of Defense and small businesses

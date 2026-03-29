@@ -3,9 +3,9 @@ title: "Section 3607 - Special probation and expungement procedures for drug pos
 usc_title: 18
 usc_section: "3607"
 chapter: 229
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "18 U.S.C. § 3607"
-generated_at: "2026-03-29T21:33:51.374Z"
+generated_at: "2026-03-29T21:37:15.013Z"
 ---
 
 # § 3607. Special probation and expungement procedures for drug possessors

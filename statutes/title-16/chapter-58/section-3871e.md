@@ -3,9 +3,9 @@ title: "Section 3871e - Administration"
 usc_title: 16
 usc_section: "3871e"
 chapter: 58
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 3871e"
-generated_at: "2026-03-29T21:33:47.676Z"
+generated_at: "2026-03-29T21:37:26.014Z"
 ---
 
 # § 3871e. Administration

@@ -3,9 +3,9 @@ title: "Section 18233a - Notice and wait requirements for certain projects"
 usc_title: 10
 usc_section: "18233a"
 chapter: 1803
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "10 U.S.C. § 18233a"
-generated_at: "2026-03-29T21:33:09.417Z"
+generated_at: "2026-03-29T21:36:56.594Z"
 ---
 
 # § 18233a. Notice and wait requirements for certain projects

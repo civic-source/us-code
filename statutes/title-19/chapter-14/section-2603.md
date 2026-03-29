@@ -3,9 +3,9 @@ title: "Section 2603 - Emergency implementation of import restrictions"
 usc_title: 19
 usc_section: "2603"
 chapter: 14
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "19 U.S.C. § 2603"
-generated_at: "2026-03-29T21:33:54.678Z"
+generated_at: "2026-03-29T21:37:17.716Z"
 ---
 
 # § 2603. Emergency implementation of import restrictions

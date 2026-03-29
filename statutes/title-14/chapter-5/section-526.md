@@ -3,9 +3,9 @@ title: "Section 526 - Stopping vessels; indemnity for firing at or into vessel"
 usc_title: 14
 usc_section: "526"
 chapter: 5
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "14 U.S.C. § 526"
-generated_at: "2026-03-29T21:33:13.499Z"
+generated_at: "2026-03-29T21:36:59.894Z"
 ---
 
 # § 526. Stopping vessels; indemnity for firing at or into vessel

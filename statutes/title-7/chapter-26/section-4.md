@@ -3,9 +3,9 @@ title: "Section 4 - Purchase of specialty crops"
 usc_title: 7
 usc_section: "4"
 chapter: 26
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T21:32:52.947Z"
+generated_at: "2026-03-29T21:36:46.766Z"
 ---
 
 # § 612c–4. Purchase of specialty crops

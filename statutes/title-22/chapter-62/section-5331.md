@@ -3,9 +3,9 @@ title: "Section 5331 - International initiative"
 usc_title: 22
 usc_section: "5331"
 chapter: 62
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "22 U.S.C. § 5331"
-generated_at: "2026-03-29T21:34:12.908Z"
+generated_at: "2026-03-29T21:37:38.246Z"
 ---
 
 # § 5331. International initiative

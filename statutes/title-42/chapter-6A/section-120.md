@@ -3,9 +3,9 @@ title: "Section 120 - Reporting on pharmacy benefits and drug costs"
 usc_title: 42
 usc_section: "120"
 chapter: 6
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "42 U.S.C. § 120"
-generated_at: "2026-03-29T21:35:46.617Z"
+generated_at: "2026-03-29T21:38:39.491Z"
 ---
 
 # § 300gg–120. Reporting on pharmacy benefits and drug costs

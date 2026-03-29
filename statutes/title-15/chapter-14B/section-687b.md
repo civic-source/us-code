@@ -3,9 +3,9 @@ title: "Section 687b - Investigations and examinations; power to subpena and tak
 usc_title: 15
 usc_section: "687b"
 chapter: 14
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "15 U.S.C. § 687b"
-generated_at: "2026-03-29T21:33:27.127Z"
+generated_at: "2026-03-29T21:37:09.769Z"
 ---
 
 # § 687b. Investigations and examinations; power to subpena and take oaths and affirmations; aid of courts; examiners; reports

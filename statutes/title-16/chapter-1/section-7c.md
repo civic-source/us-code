@@ -3,9 +3,9 @@ title: "Section 7c - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "7c"
 chapter: 1
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "16 U.S.C. § 7c"
-generated_at: "2026-03-29T21:33:46.985Z"
+generated_at: "2026-03-29T21:37:25.618Z"
 ---
 
 # § 7c. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

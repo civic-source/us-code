@@ -3,9 +3,9 @@ title: "Section 9 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9"
 chapter: 3
-current_through: "PL 117-44"
+current_through: "PL 117-47"
 classification: "20 U.S.C. § 9"
-generated_at: "2026-03-29T21:33:39.010Z"
+generated_at: "2026-03-29T21:37:21.077Z"
 ---
 
 # § 80r–9. Authorization of appropriations
