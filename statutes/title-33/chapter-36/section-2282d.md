@@ -3,9 +3,9 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-29T21:54:05.701Z"
+generated_at: "2026-03-29T21:59:51.480Z"
 ---
 
 # § 2282d. Annual report to Congress
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T21:54:05.701Z"
         - **(I)** that local support exists for the proposed feasibility study or proposed modification to an authorized water resources development project or feasibility study (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study); and
         - **(II)** the financial ability to provide the required non-Federal cost share.
     - **(D)**
-      - **(i)** With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the project and the justification for the modification is not the result of a change in the scope of the project.
+      - **(i)** With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the 1 1 So in original. Probably should be preceded by “of”. project and the justification for the modification is not the result of a change in the scope of the project.
       - **(ii)** For each proposed modification included in an annual report under clause (i), the Secretary shall include in the annual report—
         - **(I)** a justification of why the modification is necessary;
         - **(II)** an estimate of the total cost and timeline required to complete construction of the project; and

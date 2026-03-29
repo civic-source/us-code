@@ -3,9 +3,9 @@ title: "Section 1395 - Plan notification to corporation of potentially significa
 usc_title: 29
 usc_section: "1395"
 chapter: 18
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 1395"
-generated_at: "2026-03-29T21:53:12.381Z"
+generated_at: "2026-03-29T21:59:20.248Z"
 ---
 
 # § 1395. Plan notification to corporation of potentially significant withdrawals

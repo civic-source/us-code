@@ -3,9 +3,9 @@ title: "Section 1907 - Limitations"
 usc_title: 48
 usc_section: "1907"
 chapter: 18
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "48 U.S.C. § 1907"
-generated_at: "2026-03-29T21:56:02.534Z"
+generated_at: "2026-03-29T22:01:19.356Z"
 ---
 
 # § 1907. Limitations

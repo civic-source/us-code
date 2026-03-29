@@ -3,9 +3,9 @@ title: "Section 112 - Letting of contracts"
 usc_title: 23
 usc_section: "112"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 112"
-generated_at: "2026-03-29T21:52:38.499Z"
+generated_at: "2026-03-29T21:58:52.049Z"
 ---
 
 # § 112. Letting of contracts
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T21:52:38.499Z"
     - **(C)** Instead of performing its own audits, a recipient of funds under a contract or subcontract awarded in accordance with subparagraph (A) shall accept indirect cost rates established in accordance with the Federal Acquisition Regulations for 1-year applicable accounting periods by a cognizant Federal or State government agency, if such rates are not currently under dispute.
     - **(D)** Once a firm’s indirect cost rates are accepted under this paragraph, the recipient of the funds shall apply such rates for the purposes of contract estimation, negotiation, administration, reporting, and contract payment and shall not be limited by administrative or de facto ceilings of any kind.
     - **(E)** A recipient of funds requesting or using the cost and rate data described in subparagraph (D) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
-    - **(F)** (F) 1 1 So in original. Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.
+    - **(F)** Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.
   - **(3)**
     - **(A)** A State transportation department or local transportation agency may award a design-build contract for a qualified project described in subparagraph (C) using any procurement process permitted by applicable State and local law.
     - **(B)** Final design under a design-build contract referred to in subparagraph (A) shall not commence before compliance with section 102 of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332 ).

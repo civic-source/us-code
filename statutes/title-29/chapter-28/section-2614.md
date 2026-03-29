@@ -3,9 +3,9 @@ title: "Section 2614 - Employment and benefits protection"
 usc_title: 29
 usc_section: "2614"
 chapter: 28
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 2614"
-generated_at: "2026-03-29T21:53:12.400Z"
+generated_at: "2026-03-29T21:59:20.261Z"
 ---
 
 # § 2614. Employment and benefits protection

@@ -1,0 +1,45 @@
+---
+title: "Section 1704 - Broadband Deployment Locations Map"
+usc_title: 47
+usc_section: "1704"
+chapter: 16
+current_through: "PL 117-80"
+classification: "47 U.S.C. § 1704"
+generated_at: "2026-03-29T22:01:23.023Z"
+---
+
+# § 1704. Broadband Deployment Locations Map
+
+- **(a)** In this section:
+  - **(1)** The term “broadband infrastructure” means any cables, fiber optics, wiring, or other permanent (integral to the structure) infrastructure, including wireless infrastructure, that—
+    - **(A)** is capable of providing access to internet connections in individual locations; and
+    - **(B)** is an advanced telecommunications capability, as defined in section 1302(d) of this title .
+  - **(2)** The term “Commission” means the Federal Communications Commission.
+  - **(3)** The term “Deployment Locations Map” means the mapping tool required to be established under subsection (b).
+- **(b)** Not later than 18 months after November 15, 2021 , the Commission shall, in consultation with all relevant Federal agencies, establish an online mapping tool to provide a locations overview of the overall geographic footprint of each broadband infrastructure deployment project funded by the Federal Government.
+- **(c)** The Deployment Locations Map shall be—
+  - **(1)** the centralized, authoritative source of information on funding made available by the Federal Government for broadband infrastructure deployment in the United States; and
+  - **(2)** made publicly available on the website of the Commission.
+- **(d)** In establishing the Deployment Locations Map, the Commission shall ensure that the Deployment Locations Map—
+  - **(1)** compiles data related to Federal funding for broadband infrastructure deployment provided by the Commission, the National Telecommunications and Information Administration, the Department of Agriculture, the Department of Health and Human Services, the Department of the Treasury, the Department of Housing and Urban Development, the Institute of Museum and Library Sciences, and any other Federal agency that provides such data relating to broadband infrastructure deployment funding to the Commission, including funding under—
+    - **(A)** this Act;
+    - **(B)** the Coronavirus Aid, Relief, and Economic Security Act ( Public Law 116–136 );
+    - **(C)** the Consolidated Appropriations Act, 2021 ( Public Law 116–260 );
+    - **(D)** American Rescue Plan Act of 2021 ( Public Law 117–2 ); or
+    - **(E)** any Federal amounts appropriated or any Federal program authorized after November 15, 2021 , to fund broadband infrastructure deployment;
+  - **(2)** contains data, with respect to each broadband infrastructure deployment program, relating to—
+    - **(A)** the Federal agency of jurisdiction;
+    - **(B)** the program title; and
+    - **(C)** the network type, including wired, terrestrial fixed, wireless, mobile, and satellite broadband infrastructure deployment;
+  - **(3)** allows users to manipulate the Deployment Locations Map to identify, search, and filter broadband infrastructure deployment projects by—
+    - **(A)** company name;
+    - **(B)** duration timeline, including the dates of a project’s beginning and ending, or anticipated beginning or ending date;
+    - **(C)** total number of locations to which a project makes service available; and
+    - **(D)** relevant download and upload speeds; and
+  - **(4)** incorporates broadband service availability data as depicted in the Broadband Map created under section 642(c)(1) of this title .
+- **(e)**
+  - **(1)** The Commission shall, in consultation with relevant Federal agencies, ensure the Deployment Locations Map is maintained and up to date on a periodic basis, but not less frequently than once every 180 days.
+  - **(2)** Each Federal agency providing funding for broadband infrastructure deployment shall report relevant data to the Commission on a periodic basis.
+- **(f)** Nothing in this section shall be construed to affect the programmatic missions of Federal agencies providing funding for broadband infrastructure development.
+- **(g)** The requirements in this section shall be consistent with and avoid duplication with the provisions of section 903 of division FF of the Consolidated Appropriations Act, 2021 ( Public Law 116–260 ) [ 47 U.S.C. 1307 ].
+- **(h)** Of the amounts appropriated to carry out this division under this Act, $10,000,000 shall be made available to carry out this section.

@@ -3,9 +3,9 @@ title: "Section 1137 - Contracting for major acquisitions programs"
 usc_title: 14
 usc_section: "1137"
 chapter: 11
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "14 U.S.C. § 1137"
-generated_at: "2026-03-29T21:51:46.624Z"
+generated_at: "2026-03-29T21:57:13.763Z"
 ---
 
 # § 1137. Contracting for major acquisitions programs

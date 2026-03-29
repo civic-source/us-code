@@ -3,9 +3,9 @@ title: "Section 70504 - Governing body"
 usc_title: 36
 usc_section: "70504"
 chapter: 705
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "36 U.S.C. § 70504"
-generated_at: "2026-03-29T21:54:32.129Z"
+generated_at: "2026-03-29T22:00:07.832Z"
 ---
 
 # § 70504. Governing body

@@ -3,9 +3,9 @@ title: "Section 14303 - Functions"
 usc_title: 40
 usc_section: "14303"
 chapter: 143
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "40 U.S.C. § 14303"
-generated_at: "2026-03-29T21:54:22.349Z"
+generated_at: "2026-03-29T21:59:59.251Z"
 ---
 
 # § 14303. Functions
@@ -19,6 +19,7 @@ generated_at: "2026-03-29T21:54:22.349Z"
   - **(6)** encourage private investment in industrial, commercial, and recreational projects;
   - **(7)** serve as a focal point and coordinating unit for Appalachian programs;
   - **(8)** provide a forum for consideration of problems of the region and proposed solutions and establish and utilize, as appropriate, citizens and special advisory councils and public conferences;
-  - **(9)** encourage the use of eco-industrial development technologies and approaches; and
-  - **(10)** seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region.
+  - **(9)** encourage the use of eco-industrial development technologies and approaches;
+  - **(10)** seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region; and
+  - **(11)** support broadband access in the Appalachian region.
 - **(b)** In carrying out its functions under this section, the Commission shall identify the characteristics of, and may distinguish between the needs and goals of, appropriate subregional areas, including central, northern, and southern Appalachia.

@@ -3,9 +3,9 @@ title: "Section 12 - Seventh capital increase"
 usc_title: 22
 usc_section: "12"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 12"
-generated_at: "2026-03-29T21:53:05.626Z"
+generated_at: "2026-03-29T21:58:43.077Z"
 ---
 
 # § 290i–12. Seventh capital increase

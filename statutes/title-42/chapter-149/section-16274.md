@@ -3,9 +3,9 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-29T21:55:58.409Z"
+generated_at: "2026-03-29T22:01:08.545Z"
 ---
 
 # § 16274. Nuclear science and engineering support
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T21:55:58.409Z"
   - **(5)**
     - **(A)** The Secretary shall carry out a program under which the Secretary shall provide project management, technical support, quality engineering and inspection, and nuclear material handling support to research reactors located at universities.
     - **(B)** Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the program under this paragraph $20,000,000 for each of fiscal years 2021 through 2025.
-  - **(6)** In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
+  - **(6)** In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department, to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
   - **(7)** Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
   - **(8)** In this subsection, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
 - **(b)**

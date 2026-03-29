@@ -3,9 +3,9 @@ title: "Section 4602 - Contracted property and services: prompt payment of vouch
 usc_title: 10
 usc_section: "4602"
 chapter: 361
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 4602"
-generated_at: "2026-03-29T21:51:41.675Z"
+generated_at: "2026-03-29T21:57:04.937Z"
 ---
 
 # § 4602. Contracted property and services: prompt payment of vouchers

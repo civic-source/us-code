@@ -3,9 +3,9 @@ title: "Section 636m - Loan forgiveness"
 usc_title: 15
 usc_section: "636m"
 chapter: 14
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 636m"
-generated_at: "2026-03-29T21:51:59.855Z"
+generated_at: "2026-03-29T21:57:52.807Z"
 ---
 
 # § 636m. Loan forgiveness
@@ -129,7 +129,7 @@ generated_at: "2026-03-29T21:51:59.855Z"
     - **(A)** any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of title 26, and
     - **(B)** except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of title 26 with respect to any amount described in subparagraph (A) shall equal the partner’s distributive share of deductions resulting from costs giving rise to forgiveness described in subsection (b).
 - **(j)** The cancellation of indebtedness on a covered loan under this section shall not otherwise modify the terms and conditions of the covered loan.
-- **(k)** Not later than 30 days after March 27, 2020 , the Administrator shall issue guidance and regulations implementing this section.”
+- **(k)** Not later than 30 days after March 27, 2020 , the Administrator shall issue guidance and regulations implementing this section.
 - **(l)**
   - **(1)**
     - **(A)** With respect to a covered loan made to an eligible recipient that is not more than $150,000, the covered loan amount shall be forgiven under this section if the eligible recipient—

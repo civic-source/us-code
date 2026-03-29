@@ -3,9 +3,9 @@ title: "Section 16298a - Carbon utilization program"
 usc_title: 42
 usc_section: "16298a"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 16298a"
-generated_at: "2026-03-29T21:55:58.414Z"
+generated_at: "2026-03-29T22:01:08.552Z"
 ---
 
 # § 16298a. Carbon utilization program
@@ -15,11 +15,22 @@ generated_at: "2026-03-29T21:55:58.414Z"
     - **(A)** potential changes in lifecycle carbon dioxide and other greenhouse gas emissions; and
     - **(B)** other environmental safety indicators of new technologies, practices, processes, or methods used in enhanced hydrocarbon recovery as part of the activities authorized under section 16293 of this title ;
   - **(2)** to identify and assess novel uses for carbon, including the conversion of carbon and carbon oxides for commercial and industrial products and other products with potential market value;
-  - **(3)** to identify and assess carbon capture technologies for industrial systems; and
-  - **(4)** to identify and assess alternative uses for raw coal and processed coal products in all phases that result in no significant emissions of carbon dioxide or other pollutants, including products derived from carbon engineering, carbon fiber, and coal conversion methods.
+  - **(3)** to develop or obtain, in coordination with other applicable Federal agencies and standard-setting organizations, standards and certifications, as appropriate, to facilitate the commercialization of the products and technologies described in paragraph (2);
+  - **(4)** to identify and assess carbon capture technologies for industrial systems; and
+  - **(5)** to identify and assess alternative uses for raw coal and processed coal products in all phases that result in no significant emissions of carbon dioxide or other pollutants, including products derived from carbon engineering, carbon fiber, and coal conversion methods.
 - **(b)**
   - **(1)** Not later than 180 days after December 27, 2020 , as part of the program established under subsection (a), the Secretary shall establish a 2-year demonstration program in each of the 2 major coal-producing regions of the United States for the purpose of partnering with private institutions in coal mining regions to accelerate the commercial deployment of coal-carbon products.
-  - **(2)** Activities under paragraph (1) shall be subject to the cost-sharing requirements of section 16352 of this title .
+  - **(2)**
+    - **(A)** Not later than 1 year after November 15, 2021 , the Secretary shall establish a program to provide grants to eligible entities to use in accordance with subparagraph (D).
+    - **(B)** To be eligible to receive a grant under this paragraph, an entity shall be—
+      - **(i)** a State;
+      - **(ii)** a unit of local government; or
+      - **(iii)** a public utility or agency.
+    - **(C)** Eligible entities desiring a grant under this paragraph shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
+    - **(D)** An eligible entity shall use a grant received under this paragraph to procure and use commercial or industrial products that—
+      - **(i)** use or are derived from anthropogenic carbon oxides; and
+      - **(ii)** demonstrate significant net reductions in lifecycle greenhouse gas emissions compared to incumbent technologies, processes, and products.
+  - **(3)** Activities under this subsection shall be subject to the cost-sharing requirements of section 16352 of this title .
 - **(c)**
   - **(1)** In carrying out the program under subsection (a), the Secretary shall establish and operate a national Carbon Utilization Research Center (referred to in this subsection as the “Center”), which shall focus on early stage research and development activities including—
     - **(A)** post-combustion and pre-combustion capture of carbon dioxide;
@@ -34,9 +45,9 @@ generated_at: "2026-03-29T21:55:58.414Z"
   - **(5)** On the expiration of any period of support of the Center, the Secretary may renew support for the Center, on a merit-reviewed basis, for a period of not more than 5 years.
   - **(6)** Consistent with the existing authorities of the Department, the Secretary may terminate the Center for cause during the performance period.
 - **(d)** There are authorized to be appropriated to the Secretary to carry out this section—
-  - **(1)** $54,000,000 for fiscal year 2021;
-  - **(2)** $55,250,000 for fiscal year 2022;
-  - **(3)** $56,562,500 for fiscal year 2023;
-  - **(4)** $57,940,625 for fiscal year 2024; and
-  - **(5)** $59,387,656 for fiscal year 2025.
+  - **(1)** $41,000,000 for fiscal year 2022;
+  - **(2)** $65,250,000 for fiscal year 2023;
+  - **(3)** $66,562,500 for fiscal year 2024;
+  - **(4)** $67,940,625 for fiscal year 2025; and
+  - **(5)** $69,387,656 for fiscal year 2026.
 - **(e)** The Secretary shall coordinate the activities authorized in this section with the activities authorized in section 16298 of this title as part of one consolidated program at the Department. Nothing in section 16298 of this title shall be construed as limiting the authorities provided in this section.

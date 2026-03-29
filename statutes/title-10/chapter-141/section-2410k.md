@@ -3,9 +3,9 @@ title: "Section 2410k - Defense contractors: listing of suitable employment open
 usc_title: 10
 usc_section: "2410k"
 chapter: 141
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 2410k"
-generated_at: "2026-03-29T21:51:41.596Z"
+generated_at: "2026-03-29T21:57:04.859Z"
 ---
 
 # § 2410k. Defense contractors: listing of suitable employment openings with local employment service office

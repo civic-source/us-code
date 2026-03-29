@@ -3,9 +3,9 @@ title: "Section 1683d - Reconciliation"
 usc_title: 19
 usc_section: "1683d"
 chapter: 4
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "19 U.S.C. § 1683d"
-generated_at: "2026-03-29T21:52:20.690Z"
+generated_at: "2026-03-29T21:58:04.178Z"
 ---
 
 # § 1683d. Reconciliation

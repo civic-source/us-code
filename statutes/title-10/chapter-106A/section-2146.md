@@ -3,9 +3,9 @@ title: "Section 2146 - Right of member upon subsequent reenlistment to lump-sum 
 usc_title: 10
 usc_section: "2146"
 chapter: 106
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 2146"
-generated_at: "2026-03-29T21:51:41.556Z"
+generated_at: "2026-03-29T21:57:04.815Z"
 ---
 
 # § 2146. Right of member upon subsequent reenlistment to lump-sum payment in lieu of educational assistance

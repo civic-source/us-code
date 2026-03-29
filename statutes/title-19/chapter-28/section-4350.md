@@ -3,9 +3,9 @@ title: "Section 4350 - Information for travelers regarding violations of intelle
 usc_title: 19
 usc_section: "4350"
 chapter: 28
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "19 U.S.C. § 4350"
-generated_at: "2026-03-29T21:52:20.789Z"
+generated_at: "2026-03-29T21:58:04.257Z"
 ---
 
 # § 4350. Information for travelers regarding violations of intellectual property rights

@@ -3,9 +3,9 @@ title: "Section 1405 - Employment of individuals with disabilities"
 usc_title: 20
 usc_section: "1405"
 chapter: 33
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 1405"
-generated_at: "2026-03-29T21:52:09.674Z"
+generated_at: "2026-03-29T21:58:01.276Z"
 ---
 
 # § 1405. Employment of individuals with disabilities

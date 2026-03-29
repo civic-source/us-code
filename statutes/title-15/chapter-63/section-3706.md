@@ -3,9 +3,9 @@ title: "Section 3706 - Grants and cooperative agreements"
 usc_title: 15
 usc_section: "3706"
 chapter: 63
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 3706"
-generated_at: "2026-03-29T21:52:00.088Z"
+generated_at: "2026-03-29T21:57:52.983Z"
 ---
 
 # § 3706. Grants and cooperative agreements

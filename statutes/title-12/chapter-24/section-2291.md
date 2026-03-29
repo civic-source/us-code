@@ -3,9 +3,9 @@ title: "Section 2291 - Preparation of obligations"
 usc_title: 12
 usc_section: "2291"
 chapter: 24
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 2291"
-generated_at: "2026-03-29T21:51:52.924Z"
+generated_at: "2026-03-29T21:57:19.525Z"
 ---
 
 # § 2291. Preparation of obligations

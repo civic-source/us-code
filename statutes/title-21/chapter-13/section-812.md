@@ -3,9 +3,9 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-29T21:52:36.239Z"
+generated_at: "2026-03-29T21:58:50.996Z"
 ---
 
 # § 812. Schedules of controlled substances
@@ -188,7 +188,7 @@ generated_at: "2026-03-29T21:52:36.239Z"
   - **(4)** Methylphenidate.
 - **(b)** Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system:
   - **(1)** Any substance which contains any quantity of a derivative of barbituric acid, or any salt of a derivative of barbituric acid.
-  - **(2)** Chorhexadol.
+  - **(2)** Chorhexadol. 4 4 So in original. Probably should be “Chlorhexadol.”
   - **(3)** Glutethimide.
   - **(4)** Lysergic acid.
   - **(5)** Lysergic acid amide.

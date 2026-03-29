@@ -3,9 +3,9 @@ title: "Section 673c - Renumbered § 12305]"
 usc_title: 10
 usc_section: "673c"
 chapter: 39
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 673c"
-generated_at: "2026-03-29T21:51:41.452Z"
+generated_at: "2026-03-29T21:57:04.714Z"
 ---
 
 # [§ 673c. Renumbered § 12305]

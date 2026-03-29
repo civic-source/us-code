@@ -3,9 +3,9 @@ title: "Section 7401 - Restriction relating to United States accession to the In
 usc_title: 22
 usc_section: "7401"
 chapter: 81
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 7401"
-generated_at: "2026-03-29T21:53:05.900Z"
+generated_at: "2026-03-29T21:58:43.290Z"
 ---
 
 # § 7401. Restriction relating to United States accession to the International Criminal Court

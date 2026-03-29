@@ -3,9 +3,9 @@ title: "Section 6962 - Federal procurement"
 usc_title: 42
 usc_section: "6962"
 chapter: 82
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 6962"
-generated_at: "2026-03-29T21:55:58.080Z"
+generated_at: "2026-03-29T22:01:08.067Z"
 ---
 
 # § 6962. Federal procurement
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T21:55:58.080Z"
     - **(A)** any exclusion of recovered materials and
     - **(B)** any requirement that items be manufactured from virgin materials; and
   - **(2)** within one year after the date of publication of applicable guidelines under subsection (e), or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
-- **(e)** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+- **(e)** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021 , and thereafter, as appropriate, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
   - **(1)** designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
   - **(2)** set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
     - **(A)** the availability of such items;
@@ -57,3 +57,9 @@ generated_at: "2026-03-29T21:55:58.080Z"
   - **(3)** In developing the preference program, the following options shall be considered for adoption:
     - **(A)** Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C), a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1)). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
     - **(B)** Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1)) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C).
+- **(j)** The Administrator shall—
+  - **(1)** consult with each procuring agency, including contractors of the procuring agency, to clarify the responsibilities of the procuring agency under this section; and
+  - **(2)** provide to each procuring agency information on the requirements under this section and the responsibilities of the procuring agency under this section.
+- **(k)** The Administrator, in consultation with the Administrator of General Services, shall submit to Congress an annual report describing—
+  - **(1)** the quantity of federally procured recycled products listed in the guidelines under subsection (e); and
+  - **(2)** with respect to the products described in paragraph (1), the percentage of recycled material in each product.

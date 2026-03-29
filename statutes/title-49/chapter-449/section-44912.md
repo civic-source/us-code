@@ -3,9 +3,9 @@ title: "Section 44912 - Research and development"
 usc_title: 49
 usc_section: "44912"
 chapter: 449
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 44912"
-generated_at: "2026-03-29T21:56:12.721Z"
+generated_at: "2026-03-29T22:02:02.824Z"
 ---
 
 # § 44912. Research and development

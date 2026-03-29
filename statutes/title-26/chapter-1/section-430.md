@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-29T21:53:33.654Z"
+generated_at: "2026-03-29T21:59:41.389Z"
 ---
 
 # § 430. Minimum funding standards for single-employer defined benefit pension plans
@@ -211,7 +211,7 @@ generated_at: "2026-03-29T21:53:33.654Z"
       - **(iii)** The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
       - **(iv)**
         - **(I)** If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available. Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.
-        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: Any year in the period starting in 2012 and ending in 2019 90% 110% Any year in the period starting in 2020 and ending in 2025 95% 105% 2026 90% 110% 2027 85% 115% 2028 80% 120% 2029 75% 125% After 2029 70% 130%.
+        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: Any year in the period starting in 2012 and ending in 2019 90% 110% Any year in the period starting in 2020 and ending in 2030 95% 105% 2031 90% 110% 2032 85% 115% 2033 80% 120% 2034 75% 125% After 2034 70% 130%.
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary.

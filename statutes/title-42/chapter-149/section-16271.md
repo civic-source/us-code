@@ -3,9 +3,9 @@ title: "Section 16271 - Nuclear energy"
 usc_title: 42
 usc_section: "16271"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 16271"
-generated_at: "2026-03-29T21:55:58.408Z"
+generated_at: "2026-03-29T22:01:08.544Z"
 ---
 
 # § 16271. Nuclear energy
@@ -33,8 +33,9 @@ generated_at: "2026-03-29T21:55:58.408Z"
       - **(viii)** reduced consumption of cooling water and other environmental impacts;
       - **(ix)** the ability to integrate into electric applications and nonelectric applications;
       - **(x)** modular sizes to allow for deployment that corresponds with the demand for electricity or process heat; and
-      - **(xi)** operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage; and
-    - **(B)** a fusion reactor.
+      - **(xi)** operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage;
+    - **(B)** a fusion reactor; and
+    - **(C)** a radioisotope power system that utilizes heat from radioactive decay to generate energy.
   - **(2)** The term “Commission” means the Nuclear Regulatory Commission.
   - **(3)** The term “fast neutron” means a neutron with kinetic energy above 100 kiloelectron volts.
   - **(4)**

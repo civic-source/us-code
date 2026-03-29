@@ -3,9 +3,9 @@ title: "Section 1518 - Adverse personnel actions"
 usc_title: 31
 usc_section: "1518"
 chapter: 15
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "31 U.S.C. § 1518"
-generated_at: "2026-03-29T21:53:49.708Z"
+generated_at: "2026-03-29T21:59:46.273Z"
 ---
 
 # § 1518. Adverse personnel actions

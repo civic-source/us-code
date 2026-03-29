@@ -3,9 +3,9 @@ title: "Section 693a - Rules and regulations for administration of Ouachita Nati
 usc_title: 16
 usc_section: "693a"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 693a"
-generated_at: "2026-03-29T21:52:28.183Z"
+generated_at: "2026-03-29T21:58:32.770Z"
 ---
 
 # § 693a. Rules and regulations for administration of Ouachita National Forest; violations; penalties

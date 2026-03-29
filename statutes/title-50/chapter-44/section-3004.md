@@ -3,9 +3,9 @@ title: "Section 3004 - Definitions of military departments"
 usc_title: 50
 usc_section: "3004"
 chapter: 44
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "50 U.S.C. § 3004"
-generated_at: "2026-03-29T21:56:07.370Z"
+generated_at: "2026-03-29T22:01:35.025Z"
 ---
 
 # § 3004. Definitions of military departments

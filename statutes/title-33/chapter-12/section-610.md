@@ -3,9 +3,9 @@ title: "Section 610 - Control of aquatic plant growths and invasive species"
 usc_title: 33
 usc_section: "610"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 610"
-generated_at: "2026-03-29T21:54:05.612Z"
+generated_at: "2026-03-29T21:59:51.378Z"
 ---
 
 # § 610. Control of aquatic plant growths and invasive species
@@ -65,7 +65,7 @@ generated_at: "2026-03-29T21:54:05.612Z"
     - **(B)** In developing a management plan under subparagraph (A), the Secretary shall consider a management plan submitted by a participating State under section 4724(a) of title 16 .
   - **(4)** The authority provided under this subsection shall terminate on September 30, 2024 .
 - **(g)**
-  - **(1)** In this subsection, the term ‘invasive species’ has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species ( February 3, 1999 )) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species ( December 5, 2016 ))).
+  - **(1)** In this subsection, the term “invasive species” has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species ( February 3, 1999 )) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species ( December 5, 2016 ))).
   - **(2)**
     - **(A)** The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity or water quality in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, and the Upper Missouri River Basin.
     - **(B)** In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive ( Elaeagnus angustifolia ) or saltcedar (of the genus Tamarix ).

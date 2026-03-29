@@ -3,9 +3,9 @@ title: "Section 8322 - National aquatic animal health plan"
 usc_title: 7
 usc_section: "8322"
 chapter: 109
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 8322"
-generated_at: "2026-03-29T21:51:24.792Z"
+generated_at: "2026-03-29T21:57:09.398Z"
 ---
 
 # § 8322. National aquatic animal health plan

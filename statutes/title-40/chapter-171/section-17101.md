@@ -3,9 +3,9 @@ title: "Section 17101 - Definitions"
 usc_title: 40
 usc_section: "17101"
 chapter: 171
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "40 U.S.C. § 17101"
-generated_at: "2026-03-29T21:54:22.354Z"
+generated_at: "2026-03-29T21:59:59.263Z"
 ---
 
 # § 17101. Definitions

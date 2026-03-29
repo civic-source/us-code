@@ -3,9 +3,9 @@ title: "Section 3324 - Advances"
 usc_title: 31
 usc_section: "3324"
 chapter: 33
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "31 U.S.C. § 3324"
-generated_at: "2026-03-29T21:53:49.712Z"
+generated_at: "2026-03-29T21:59:46.277Z"
 ---
 
 # § 3324. Advances

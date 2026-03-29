@@ -3,9 +3,9 @@ title: "Section 3603 - Integrated Coastal and Ocean Observing System"
 usc_title: 33
 usc_section: "3603"
 chapter: 49
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 3603"
-generated_at: "2026-03-29T21:54:05.737Z"
+generated_at: "2026-03-29T21:59:51.521Z"
 ---
 
 # § 3603. Integrated Coastal and Ocean Observing System
@@ -96,7 +96,7 @@ generated_at: "2026-03-29T21:54:05.737Z"
       - **(vii)** complies with all financial oversight requirements established by the Administrator, including requirements relating to audits.
     - **(B)** For the purposes of this chapter, employees of Federal agencies are permitted to be members of the governing body for the regional coastal observing systems and may participate in the functions of the regional coastal observing systems.
 - **(d)**
-  - **(1)** The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter.
+  - **(1)** The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter 1 1 So in original. Probably should be followed by a period.
   - **(2)** The purpose of the System advisory committee is to advise the Administrator and the Interagency Ocean Observing Committee on—
     - **(A)** administration, operation, management, and maintenance of the System, including integration of Federal and non-Federal assets and data management, data sharing, and communication aspects of the System, and fulfillment of the purposes set forth in section 3601 of this title ;
     - **(B)** expansion and periodic modernization and upgrade of technology components of the System;

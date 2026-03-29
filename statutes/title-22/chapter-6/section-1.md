@@ -3,9 +3,9 @@ title: "Section 1 - Policy toward certain agents of foreign governments"
 usc_title: 22
 usc_section: "1"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T21:53:05.578Z"
+generated_at: "2026-03-29T21:58:43.041Z"
 ---
 
 # § 254c–1. Policy toward certain agents of foreign governments

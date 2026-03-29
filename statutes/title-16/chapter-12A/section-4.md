@@ -3,9 +3,9 @@ title: "Section 4 - Bonds for financing power program"
 usc_title: 16
 usc_section: "4"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T21:52:28.229Z"
+generated_at: "2026-03-29T21:58:32.806Z"
 ---
 
 # § 831n–4. Bonds for financing power program

@@ -3,9 +3,9 @@ title: "Section 115 - Funeral honors duty performed as a Federal function"
 usc_title: 32
 usc_section: "115"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "32 U.S.C. § 115"
-generated_at: "2026-03-29T21:53:47.331Z"
+generated_at: "2026-03-29T21:59:44.025Z"
 ---
 
 # § 115. Funeral honors duty performed as a Federal function

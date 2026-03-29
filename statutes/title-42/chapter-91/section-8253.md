@@ -3,9 +3,9 @@ title: "Section 8253 - Energy and water management requirements"
 usc_title: 42
 usc_section: "8253"
 chapter: 91
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 8253"
-generated_at: "2026-03-29T21:55:58.184Z"
+generated_at: "2026-03-29T22:01:08.198Z"
 ---
 
 # § 8253. Energy and water management requirements
@@ -208,8 +208,9 @@ generated_at: "2026-03-29T21:55:58.184Z"
     - **(C)** The Director may require Federal agencies to submit any information required to be submitted under this subsection though reporting structures in use as of December 27, 2020 .
 - **(i)**
   - **(1)** The Secretary shall carry out a program, to be known as the “Federal Energy Management Program” (referred to in this subsection as the “Program”), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
-    - **(A)** to coordinate and strengthen Federal energy and water resilience; and
-    - **(B)** to promote environmental stewardship.
+    - **(A)** to coordinate and strengthen Federal energy and water resilience;
+    - **(B)** to promote environmental stewardship; and
+    - **(C)** to reduce energy consumption during periods of unusually high electricity or natural gas demand.
   - **(2)** The Secretary shall appoint an individual to serve as the director of the Program (referred to in this subsection as the “Federal Director”), which shall be a career position in the Senior Executive service, to administer the Program.
   - **(3)**
     - **(A)** In administering the Program, the Federal Director shall—
@@ -217,8 +218,9 @@ generated_at: "2026-03-29T21:55:58.184Z"
       - **(ii)** in coordination with the Administrator of the General Services Administration, establish appropriate procedures, methods, and best practices for use by agencies to select, monitor, and terminate contracts entered into pursuant to a utility incentive program under section 8256(c) of this title with utilities;
       - **(iii)** carry out the responsibilities of the Secretary under section 8287 of this title , as determined appropriate by the Secretary;
       - **(iv)** establish and maintain internet-based information resources and project tracking systems and tools for energy and water management;
-      - **(v)** coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies; and
-      - **(vi)** establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements.
+      - **(v)** coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies;
+      - **(vi)** establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements; and
+      - **(vii)** promote the installation of demand-response technology and the use of demand-response practices in Federal buildings.
     - **(B)** In administering the Program, the Federal Director shall—
       - **(i)** track and report on the progress of agencies in meeting the requirements of the agency under this section;
       - **(ii)** make publicly available agency performance data required under—

@@ -3,9 +3,9 @@ title: "Section 2201 - Establishment of Department"
 usc_title: 7
 usc_section: "2201"
 chapter: 55
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 2201"
-generated_at: "2026-03-29T21:51:24.644Z"
+generated_at: "2026-03-29T21:57:09.261Z"
 ---
 
 # § 2201. Establishment of Department

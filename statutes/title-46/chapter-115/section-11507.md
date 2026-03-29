@@ -3,9 +3,9 @@ title: "Section 11507 - Surrender of offending officers"
 usc_title: 46
 usc_section: "11507"
 chapter: 115
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "46 U.S.C. § 11507"
-generated_at: "2026-03-29T21:56:05.076Z"
+generated_at: "2026-03-29T22:01:37.269Z"
 ---
 
 # § 11507. Surrender of offending officers

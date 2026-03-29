@@ -3,9 +3,9 @@ title: "Section 7675 - American innovation and manufacturing"
 usc_title: 42
 usc_section: "7675"
 chapter: 85
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 7675"
-generated_at: "2026-03-29T21:55:58.168Z"
+generated_at: "2026-03-29T22:01:08.179Z"
 ---
 
 # § 7675. American innovation and manufacturing
@@ -213,7 +213,7 @@ generated_at: "2026-03-29T21:55:58.168Z"
       - **(iii)** Not later than 30 days after the date on which the Administrator receives a petition under subparagraph (A), the Administrator shall make that petition available to the public in full.
   - **(4)** In carrying out a rulemaking using the procedure described in paragraph (2) or making a determination to grant or deny a petition submitted under paragraph (3), the Administrator shall, to the extent practicable, factor in—
     - **(A)** the best available data;
-    - **(B)** the availability of substitutes for use of the regulated substance that is the subject of the rulemaking or petition, as applicable, in a sector or subsector, taking into account technological achievability, commercial demands, affordability for residential and small business consumers, safety, consumer costs , building codes, appliance efficiency standards, contractor training costs, and other relevant factors, including the quantities of regulated substances available from reclaiming, prior production, or prior import;
+    - **(B)** the availability of substitutes for use of the regulated substance that is the subject of the rulemaking or petition, as applicable, in a sector or subsector, taking into account technological achievability, commercial demands, affordability for residential and small business consumers, safety, consumer costs, building codes, appliance efficiency standards, contractor training costs, and other relevant factors, including the quantities of regulated substances available from reclaiming, prior production, or prior import;
     - **(C)** overall economic costs and environmental impacts, as compared to historical trends; and
     - **(D)** the remaining phase-down period for regulated substances under the final rule issued under subsection (e)(3), if applicable.
   - **(5)** In carrying out this subsection, the Administrator shall—
@@ -234,7 +234,7 @@ generated_at: "2026-03-29T21:55:58.168Z"
       - **(i)** the maximum production level permitted for the applicable regulated substance in the year of the transfer under this section, less the production allowances transferred;
       - **(ii)** the maximum production level permitted for the applicable regulated substances in the transfer year under applicable law, less the production allowances transferred; and
       - **(iii)** the average of the actual national production level of the applicable regulated substances for the 3-year period ending on the date of the transfer, less the production allowances transferred; or
-    - **(B)** from a person in a foreign country if, at the time of the trade or transfer, the Administrator finds that the foreign country has revised the domestic production limits of the regulated substance in the same manner as provided with respect to transfers by a person in United States under this subsection.
+    - **(B)** from a person in a foreign country if, at the time of the trade or transfer, the Administrator finds that the foreign country has revised the domestic production limits of the regulated substance in the same manner as provided with respect to transfers by a person in United 2 2 So in original. Probably should be preceded by “the”. States under this subsection.
   - **(3)** The Administrator may—
     - **(A)** reduce the production limits established under subsection (e)(2)(B) as required as a prerequisite to a transfer described in paragraph (2)(A); or
     - **(B)** increase the production limits established under subsection (e)(2)(B) to reflect production allowances acquired under a trade or transfer described in paragraph (2)(B).

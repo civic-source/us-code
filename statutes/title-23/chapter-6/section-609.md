@@ -3,9 +3,9 @@ title: "Section 609 - Reports to Congress"
 usc_title: 23
 usc_section: "609"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 609"
-generated_at: "2026-03-29T21:52:38.557Z"
+generated_at: "2026-03-29T21:58:52.096Z"
 ---
 
 # § 609. Reports to Congress
@@ -24,3 +24,14 @@ generated_at: "2026-03-29T21:52:38.557Z"
       - **(iv)** the date on which a notification was provided to the project sponsor regarding whether the project was approved or disapproved; and
       - **(v)** if the project was not approved, the reason for the disapproval.
     - **(B)** Each report under paragraph (1) shall include copies of any correspondence provided to the project sponsor in accordance with section 602(d).
+- **(c)**
+  - **(1)** The Secretary shall publish on the website for the TIFIA program—
+    - **(A)** on a monthly basis, a current status report on all submitted letters of interest and applications received for assistance under the TIFIA program; and
+    - **(B)** on a quarterly basis, a current status report on all approved applications for assistance under the TIFIA program.
+  - **(2)** Each monthly and quarterly status report under paragraph (1) shall include, at a minimum, with respect to each project included in the status report—
+    - **(A)** the name of the party submitting the letter of interest or application;
+    - **(B)** the name of the project;
+    - **(C)** the date on which the letter of interest or application was received;
+    - **(D)** the estimated project eligible costs;
+    - **(E)** the type of credit assistance sought; and
+    - **(F)** the anticipated fiscal year and quarter for closing of the credit assistance.

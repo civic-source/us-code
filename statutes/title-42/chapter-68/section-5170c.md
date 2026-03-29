@@ -3,9 +3,9 @@ title: "Section 5170c - Hazard mitigation"
 usc_title: 42
 usc_section: "5170c"
 chapter: 68
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 5170c"
-generated_at: "2026-03-29T21:55:57.985Z"
+generated_at: "2026-03-29T22:01:07.945Z"
 ---
 
 # § 5170c. Hazard mitigation
@@ -52,7 +52,9 @@ generated_at: "2026-03-29T21:55:57.985Z"
   - **(9)** installing warning signs;
   - **(10)** establishing defensible space measures;
   - **(11)** reducing hazardous fuels;
-  - **(12)** mitigating windstorm damage, including replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location;
+  - **(12)** mitigating windstorm and wildfire damage, including—
+    - **(A)** replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind, wildfire, and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location; and
+    - **(B)** the installation of fire-resistant wires and infrastructure and the undergrounding of wires;
   - **(13)** removing standing burned trees; and
   - **(14)** replacing water systems that have been burned and have caused contamination.
 - **(g)** Recipients of hazard mitigation assistance provided under this section and section 5133 of this title may use the assistance to conduct activities to help reduce the risk of future damage, hardship, loss, or suffering in any area affected by earthquake hazards, including—

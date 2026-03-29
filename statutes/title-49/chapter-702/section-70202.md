@@ -3,9 +3,9 @@ title: "Section 70202 - State freight plans"
 usc_title: 49
 usc_section: "70202"
 chapter: 702
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 70202"
-generated_at: "2026-03-29T21:56:12.759Z"
+generated_at: "2026-03-29T22:02:02.875Z"
 ---
 
 # § 70202. State freight plans
@@ -22,12 +22,33 @@ generated_at: "2026-03-29T21:56:12.759Z"
   - **(6)** in the case of roadways on which travel by heavy vehicles (including mining, agricultural, energy cargo or equipment, and timber vehicles) is projected to substantially deteriorate the condition of the roadways, a description of improvements that may be required to reduce or impede the deterioration;
   - **(7)** an inventory of facilities with freight mobility issues, such as bottlenecks, within the State, and for those facilities that are State owned or operated, a description of the strategies the State is employing to address the freight mobility issues;
   - **(8)** consideration of any significant congestion or delay caused by freight movements and any strategies to mitigate that congestion or delay;
-  - **(9)** a freight investment plan that, subject to subsection (c)(2), includes a list of priority projects and describes how funds made available to carry out section 167 of title 23 would be invested and matched; and
-  - **(10)** consultation with the State freight advisory committee, if applicable.
+  - **(9)** a freight investment plan that, subject to subsection (c)(2), includes a list of priority projects and describes how funds made available to carry out section 167 of title 23 would be invested and matched;
+  - **(10)** the most recent commercial motor vehicle parking facilities assessment conducted by the State under subsection (f);
+  - **(11)** the most recent supply chain cargo flows in the State, expressed by mode of transportation;
+  - **(12)** an inventory of commercial ports in the State;
+  - **(13)** if applicable, consideration of the findings or recommendations made by any multi-State freight compact to which the State is a party under section 70204;
+  - **(14)** the impacts of e-commerce on freight infrastructure in the State;
+  - **(15)** considerations of military freight;
+  - **(16)** strategies and goals to decrease—
+    - **(A)** the severity of impacts of extreme weather and natural disasters on freight mobility;
+    - **(B)** the impacts of freight movement on local air pollution;
+    - **(C)** the impacts of freight movement on flooding and stormwater runoff; and
+    - **(D)** the impacts of freight movement on wildlife habitat loss; and
+  - **(17)** consultation with the State freight advisory committee, if applicable.
 - **(c)**
   - **(1)** A State freight plan described in subsection (a) may be developed separately from or incorporated into the statewide strategic long-range transportation plan required by section 135 of title 23 .
   - **(2)** The freight investment plan component of a freight plan shall include a project, or an identified phase of a project, only if funding for completion of the project can reasonably be anticipated to be available for the project within the time period identified in the freight investment plan.
-- **(d)** A State freight plan described in subsection (a) shall address a 5-year forecast period.
+- **(d)** A State freight plan described in subsection (a) shall address a 8-year forecast period.
 - **(e)**
-  - **(1)** A State shall update a State freight plan described in subsection (a) not less frequently than once every 5 years.
+  - **(1)** A State shall update a State freight plan described in subsection (a) not less frequently than once every 4 years.
   - **(2)** A State may update a freight investment plan described in subsection (b)(9) more frequently than is required under paragraph (1).
+- **(f)** As part of the development or updating, as applicable, of a State freight plan under this section, each State that receives funding under section 167 of title 23 , in consultation with relevant State motor carrier safety personnel, shall conduct an assessment of—
+  - **(1)** the capability of the State, together with the private sector in the State, to provide adequate parking facilities and rest facilities for commercial motor vehicles engaged in interstate transportation;
+  - **(2)** the volume of commercial motor vehicle traffic in the State; and
+  - **(3)** whether there exist any areas within the State with a shortage of adequate commercial motor vehicle parking facilities, including an analysis (economic or otherwise, as the State determines to be appropriate) of the underlying causes of such a shortage.
+- **(g)** Each State freight plan under this section shall include a requirement that the State, in carrying out activities under the State freight plan—
+  - **(1)** enhance reliability or redundancy of freight transportation; or
+  - **(2)** incorporate the ability to rapidly restore access and reliability with respect to freight transportation.
+- **(h)**
+  - **(1)** The Secretary of Transportation shall approve a State freight plan described in subsection (a) if the plan achieves compliance with the requirements of this section.
+  - **(2)** Nothing in this subsection establishes new procedural requirements for the approval of a State freight plan described in subsection (a).

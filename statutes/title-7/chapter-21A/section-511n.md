@@ -3,9 +3,9 @@ title: "Section 511n - Hearings; examination of witnesses; refusal to testify or
 usc_title: 7
 usc_section: "511n"
 chapter: 21
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 511n"
-generated_at: "2026-03-29T21:51:24.491Z"
+generated_at: "2026-03-29T21:57:09.115Z"
 ---
 
 # § 511n. Hearings; examination of witnesses; refusal to testify or produce evidence

@@ -3,9 +3,9 @@ title: "Section 1 - Summer fallow farms; upper limit on required set aside acrea
 usc_title: 7
 usc_section: "1"
 chapter: 35
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T21:51:24.518Z"
+generated_at: "2026-03-29T21:57:09.144Z"
 ---
 
 # § 1334a–1. Summer fallow farms; upper limit on required set aside acreage for 1971 through 1977 wheat, feed grain, and cotton crops

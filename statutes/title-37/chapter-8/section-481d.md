@@ -3,9 +3,9 @@ title: "Section 481d - Travel and transportation allowances: transportation inci
 usc_title: 37
 usc_section: "481d"
 chapter: 8
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "37 U.S.C. § 481d"
-generated_at: "2026-03-29T21:54:26.024Z"
+generated_at: "2026-03-29T22:00:09.579Z"
 ---
 
 # § 481d. Travel and transportation allowances: transportation incident to personal emergencies for certain members and dependents

@@ -3,9 +3,9 @@ title: "Section 7838 - Settlement of accounts: affidavit of company commander"
 usc_title: 10
 usc_section: "7838"
 chapter: 783
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 7838"
-generated_at: "2026-03-29T21:51:41.697Z"
+generated_at: "2026-03-29T21:57:04.958Z"
 ---
 
 # § 7838. Settlement of accounts: affidavit of company commander

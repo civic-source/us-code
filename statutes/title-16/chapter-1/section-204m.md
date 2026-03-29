@@ -3,9 +3,9 @@ title: "Section 204m - Vested rights"
 usc_title: 16
 usc_section: "204m"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 204m"
-generated_at: "2026-03-29T21:52:27.930Z"
+generated_at: "2026-03-29T21:58:32.565Z"
 ---
 
 # § 204m. Vested rights

@@ -3,9 +3,9 @@ title: "Section 9009b - Targeted EIDL advance for small business continuity, ada
 usc_title: 15
 usc_section: "9009b"
 chapter: 116
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 9009b"
-generated_at: "2026-03-29T21:52:00.189Z"
+generated_at: "2026-03-29T21:57:53.058Z"
 ---
 
 # § 9009b. Targeted EIDL advance for small business continuity, adaptation, and resiliency
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:52:00.189Z"
   - **(1)** The term “agricultural enterprise” has the meaning given the term in section 647(b) of this title .
   - **(2)** The term “covered entity”—
     - **(A)** means an eligible entity that—
-      - **(i)** applies for a loan under section 636(b)(2)of this title during the covered period, including before December 27, 2020 ;
+      - **(i)** applies for a loan under section 636(b)(2) of this title during the covered period, including before December 27, 2020 ;
       - **(ii)** is located in a low-income community;
       - **(iii)** has suffered an economic loss of greater than 30 percent; and
       - **(iv)** employs not more than 300 employees; and

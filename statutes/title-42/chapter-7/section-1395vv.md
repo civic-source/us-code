@@ -3,9 +3,9 @@ title: "Section 1395vv - Withholding payments from certain medicaid providers"
 usc_title: 42
 usc_section: "1395vv"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 1395vv"
-generated_at: "2026-03-29T21:55:57.642Z"
+generated_at: "2026-03-29T22:01:07.464Z"
 ---
 
 # § 1395vv. Withholding payments from certain medicaid providers

@@ -3,9 +3,9 @@ title: "Section 2 - Natural resources management services"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T21:52:28.179Z"
+generated_at: "2026-03-29T21:58:32.767Z"
 ---
 
 # § 670e–2. Natural resources management services

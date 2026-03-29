@@ -3,9 +3,9 @@ title: "Section 7409 - Coordination of Federal cyber security research and devel
 usc_title: 15
 usc_section: "7409"
 chapter: 100
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 7409"
-generated_at: "2026-03-29T21:52:00.157Z"
+generated_at: "2026-03-29T21:57:53.032Z"
 ---
 
 # § 7409. Coordination of Federal cyber security research and development

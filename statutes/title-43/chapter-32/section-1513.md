@@ -3,9 +3,9 @@ title: "Section 1513 - Importation of water; protection of exporting areas"
 usc_title: 43
 usc_section: "1513"
 chapter: 32
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "43 U.S.C. § 1513"
-generated_at: "2026-03-29T21:55:05.624Z"
+generated_at: "2026-03-29T22:01:10.421Z"
 ---
 
 # § 1513. Importation of water; protection of exporting areas

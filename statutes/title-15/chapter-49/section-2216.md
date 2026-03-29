@@ -3,9 +3,9 @@ title: "Section 2216 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2216"
 chapter: 49
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 2216"
-generated_at: "2026-03-29T21:52:00.032Z"
+generated_at: "2026-03-29T21:57:52.940Z"
 ---
 
 # § 2216. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 7471 - Employees"
 usc_title: 26
 usc_section: "7471"
 chapter: 76
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 7471"
-generated_at: "2026-03-29T21:53:34.066Z"
+generated_at: "2026-03-29T21:59:41.809Z"
 ---
 
 # § 7471. Employees

@@ -3,9 +3,9 @@ title: "Section 686 - Aggregate limitations on amount of assistance to any singl
 usc_title: 15
 usc_section: "686"
 chapter: 14
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 686"
-generated_at: "2026-03-29T21:51:59.890Z"
+generated_at: "2026-03-29T21:57:52.836Z"
 ---
 
 # § 686. Aggregate limitations on amount of assistance to any single enterprise

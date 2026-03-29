@@ -3,9 +3,9 @@ title: "Section 2122 - Removal of officer from list of selectees for promotion"
 usc_title: 14
 usc_section: "2122"
 chapter: 21
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "14 U.S.C. § 2122"
-generated_at: "2026-03-29T21:51:46.629Z"
+generated_at: "2026-03-29T21:57:13.766Z"
 ---
 
 # § 2122. Removal of officer from list of selectees for promotion

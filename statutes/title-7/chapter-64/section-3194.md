@@ -3,9 +3,9 @@ title: "Section 3194 - Repealed. Pub. L. 104–127, title VIII, § 854 , Apr. 4,
 usc_title: 7
 usc_section: "3194"
 chapter: 64
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 3194"
-generated_at: "2026-03-29T21:51:24.673Z"
+generated_at: "2026-03-29T21:57:09.291Z"
 ---
 
 # § 3194. Repealed. Pub. L. 104–127, title VIII, § 854 , Apr. 4, 1996 , 110 Stat. 1172

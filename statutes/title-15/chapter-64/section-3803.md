@@ -3,9 +3,9 @@ title: "Section 3803 - Duties of Secretary of Energy"
 usc_title: 15
 usc_section: "3803"
 chapter: 64
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 3803"
-generated_at: "2026-03-29T21:52:00.096Z"
+generated_at: "2026-03-29T21:57:52.988Z"
 ---
 
 # § 3803. Duties of Secretary of Energy

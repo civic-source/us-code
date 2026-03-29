@@ -3,9 +3,9 @@ title: "Section 9701 - Findings; sense of Congress in support of the Interim Pre
 usc_title: 22
 usc_section: "9701"
 chapter: 104
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 9701"
-generated_at: "2026-03-29T21:53:05.972Z"
+generated_at: "2026-03-29T21:58:43.344Z"
 ---
 
 # § 9701. Findings; sense of Congress in support of the Interim President of Venezuela

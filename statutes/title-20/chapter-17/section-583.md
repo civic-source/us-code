@@ -3,9 +3,9 @@ title: "Section 583 - Repealed. Pub. L. 91–230, title IV, § 401(h)(1) , Apr. 
 usc_title: 20
 usc_section: "583"
 chapter: 17
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 583"
-generated_at: "2026-03-29T21:52:09.501Z"
+generated_at: "2026-03-29T21:58:01.155Z"
 ---
 
 # §§ 582, 583. Repealed. Pub. L. 91–230, title IV, § 401(h)(1) , Apr. 13, 1970 , 84 Stat. 174

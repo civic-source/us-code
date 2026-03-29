@@ -3,9 +3,9 @@ title: "Section 7636 - Study on illegal diversions of prescription drugs"
 usc_title: 22
 usc_section: "7636"
 chapter: 83
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 7636"
-generated_at: "2026-03-29T21:53:05.910Z"
+generated_at: "2026-03-29T21:58:43.299Z"
 ---
 
 # § 7636. Study on illegal diversions of prescription drugs

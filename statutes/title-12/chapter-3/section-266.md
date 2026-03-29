@@ -3,9 +3,9 @@ title: "Section 266 - State-chartered banks and other institutions as depositari
 usc_title: 12
 usc_section: "266"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 266"
-generated_at: "2026-03-29T21:51:52.709Z"
+generated_at: "2026-03-29T21:57:19.313Z"
 ---
 
 # § 266. State-chartered banks and other institutions as depositaries of public money; fiscal agents; duties

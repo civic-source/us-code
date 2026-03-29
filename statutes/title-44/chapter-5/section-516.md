@@ -3,9 +3,9 @@ title: "Section 516 - Liability of defaulting contractor"
 usc_title: 44
 usc_section: "516"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "44 U.S.C. § 516"
-generated_at: "2026-03-29T21:54:37.243Z"
+generated_at: "2026-03-29T22:00:34.243Z"
 ---
 
 # § 516. Liability of defaulting contractor

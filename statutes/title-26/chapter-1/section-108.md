@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-29T21:53:33.505Z"
+generated_at: "2026-03-29T21:59:41.236Z"
 ---
 
 # § 108. Income from discharge of indebtedness
@@ -135,9 +135,9 @@ generated_at: "2026-03-29T21:53:33.505Z"
       - **(i)** the United States, or an instrumentality or agency thereof,
       - **(ii)** a State, territory, or possession of the United States, or the District of Columbia, or any political subdivision thereof, or
       - **(iii)** an eligible educational institution (as defined in section 25A),
-    - **(B)** any private education loan (as defined in section 140(a)(7) of the Truth in Lending Act,
+    - **(B)** any private education loan (as defined in section 140(a)(7) 1 1 So in original. Probably should be “140(a)(8)”. See References in Text note below. of the Truth in Lending Act),
     - **(C)** any loan made by any educational organization described in section 170(b)(1)(A)(ii) if such loan is made—
-      - **(i)** pursuant to an agreement with any entity described in subparagraph (A) or any private education lender (as defined in section 140(a) of the Truth in Lending Act under which the funds from which the loan was made were provided to such educational organization, or
+      - **(i)** pursuant to an agreement with any entity described in subparagraph (A) or any private education 2 2 So in original. Such section defines the term “private educational lender”. lender (as defined in section 140(a) of the Truth in Lending Act) under which the funds from which the loan was made were provided to such educational organization, or
       - **(ii)** pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a), or
     - **(D)** any loan made by an educational organization described in section 170(b)(1)(A)(ii) or by an organization exempt from tax under section 501(a) to refinance a loan to an individual to assist the individual in attending any such educational organization but only if the refinancing loan is pursuant to a program of the refinancing organization which is designed as described in subparagraph (C)(ii).
 - **(g)**

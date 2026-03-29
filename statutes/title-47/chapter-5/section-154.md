@@ -3,9 +3,9 @@ title: "Section 154 - Federal Communications Commission"
 usc_title: 47
 usc_section: "154"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "47 U.S.C. § 154"
-generated_at: "2026-03-29T21:56:03.443Z"
+generated_at: "2026-03-29T22:01:22.905Z"
 ---
 
 # § 154. Federal Communications Commission

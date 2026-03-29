@@ -3,9 +3,9 @@ title: "Section 1663a - Nevada Area Office"
 usc_title: 25
 usc_section: "1663a"
 chapter: 18
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "25 U.S.C. § 1663a"
-generated_at: "2026-03-29T21:52:54.529Z"
+generated_at: "2026-03-29T21:58:48.158Z"
 ---
 
 # § 1663a. Nevada Area Office

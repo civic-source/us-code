@@ -3,9 +3,9 @@ title: "Section 282c - Expenditures"
 usc_title: 2
 usc_section: "282c"
 chapter: 9
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "2 U.S.C. § 282c"
-generated_at: "2026-03-29T21:51:14.128Z"
+generated_at: "2026-03-29T21:56:43.330Z"
 ---
 
 # § 282c. Expenditures

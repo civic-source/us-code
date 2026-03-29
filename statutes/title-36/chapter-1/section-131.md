@@ -3,9 +3,9 @@ title: "Section 131 - National Safe Boating Week"
 usc_title: 36
 usc_section: "131"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "36 U.S.C. § 131"
-generated_at: "2026-03-29T21:54:32.113Z"
+generated_at: "2026-03-29T22:00:07.811Z"
 ---
 
 # § 131. National Safe Boating Week

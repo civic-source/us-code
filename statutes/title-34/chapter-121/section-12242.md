@@ -3,9 +3,9 @@ title: "Section 12242 - Definitions"
 usc_title: 34
 usc_section: "12242"
 chapter: 121
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "34 U.S.C. § 12242"
-generated_at: "2026-03-29T21:54:09.962Z"
+generated_at: "2026-03-29T21:59:56.066Z"
 ---
 
 # § 12242. Definitions

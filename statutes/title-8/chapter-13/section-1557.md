@@ -3,9 +3,9 @@ title: "Section 1557 - Prevention of transportation in foreign commerce of alien
 usc_title: 8
 usc_section: "1557"
 chapter: 13
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "8 U.S.C. § 1557"
-generated_at: "2026-03-29T21:51:25.971Z"
+generated_at: "2026-03-29T21:56:53.609Z"
 ---
 
 # § 1557. Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information

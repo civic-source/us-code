@@ -3,9 +3,9 @@ title: "Section 6712 - No abridgement of constitutional rights"
 usc_title: 22
 usc_section: "6712"
 chapter: 75
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 6712"
-generated_at: "2026-03-29T21:53:05.880Z"
+generated_at: "2026-03-29T21:58:43.275Z"
 ---
 
 # § 6712. No abridgement of constitutional rights

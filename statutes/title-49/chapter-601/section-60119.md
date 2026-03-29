@@ -3,9 +3,9 @@ title: "Section 60119 - Judicial review"
 usc_title: 49
 usc_section: "60119"
 chapter: 601
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 60119"
-generated_at: "2026-03-29T21:56:12.753Z"
+generated_at: "2026-03-29T22:02:02.870Z"
 ---
 
 # § 60119. Judicial review

@@ -3,9 +3,9 @@ title: "Section 765 - Real property transactions"
 usc_title: 6
 usc_section: "765"
 chapter: 2
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "6 U.S.C. § 765"
-generated_at: "2026-03-29T21:51:42.880Z"
+generated_at: "2026-03-29T21:56:51.800Z"
 ---
 
 # § 765. Real property transactions

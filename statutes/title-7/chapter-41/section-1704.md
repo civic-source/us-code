@@ -3,9 +3,9 @@ title: "Section 1704 - Use of local currency payment"
 usc_title: 7
 usc_section: "1704"
 chapter: 41
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 1704"
-generated_at: "2026-03-29T21:51:24.574Z"
+generated_at: "2026-03-29T21:57:09.194Z"
 ---
 
 # § 1704. Use of local currency payment

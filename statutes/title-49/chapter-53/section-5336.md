@@ -3,9 +3,9 @@ title: "Section 5336 - Apportionment of appropriations for formula grants"
 usc_title: 49
 usc_section: "5336"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 5336"
-generated_at: "2026-03-29T21:56:12.613Z"
+generated_at: "2026-03-29T22:02:02.673Z"
 ---
 
 # § 5336. Apportionment of appropriations for formula grants
@@ -43,10 +43,10 @@ generated_at: "2026-03-29T21:56:12.613Z"
 - **(d)** The Secretary shall—
   - **(1)** apportion amounts appropriated under section 5338(a)(2)(C) of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
   - **(2)** publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
-- **(e)** The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient, as defined in section 5302(4).
+- **(e)** The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient.
 - **(f)**
-  - **(1)** The Governor of a State may transfer any part of the State’s apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3). The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
-  - **(2)** The Governor of a State may transfer any part of the State’s apportionment under section 5311(c)(3) to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+  - **(1)** The Governor of a State may transfer any part of the State’s apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3). 1 1 See References in Text note below. The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
+  - **(2)** The Governor of a State may transfer any part of the State’s apportionment under section 5311(c)(3) 1 to supplement amounts apportioned to the State under subsection (a)(1) of this section.
   - **(3)** The Governor of a State may use throughout the State amounts of a State’s apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
   - **(4)** A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the Governor of a State. The Governor shall distribute the transferred amounts to urbanized areas under this section.
   - **(5)** Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
@@ -54,10 +54,8 @@ generated_at: "2026-03-29T21:56:12.613Z"
 - **(h)** Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
   - **(1)** $30,000,000 shall be set aside each fiscal year to carry out section 5307(h);
   - **(2)** 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
-  - **(3)** of amounts not apportioned under paragraphs (1) and (2)—
-    - **(A)** for fiscal years 2016 through 2018, 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i); and
-    - **(B)** for fiscal years 2019 and 2020, 2 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
-  - **(4)** 0.5 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
+  - **(3)** of amounts not apportioned under paragraphs (1) and (2), 3 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
+  - **(4)** 0.75 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
   - **(5)** any amount not apportioned under paragraphs (1), (2), (3), and (4) shall be apportioned to urbanized areas in accordance with subsections (a) through (c).
 - **(i)**
   - **(1)** In this subsection, the following definitions apply:

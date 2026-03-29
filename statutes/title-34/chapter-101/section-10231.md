@@ -3,9 +3,9 @@ title: "Section 10231 - Confidentiality of information"
 usc_title: 34
 usc_section: "10231"
 chapter: 101
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "34 U.S.C. § 10231"
-generated_at: "2026-03-29T21:54:09.924Z"
+generated_at: "2026-03-29T21:59:56.024Z"
 ---
 
 # § 10231. Confidentiality of information

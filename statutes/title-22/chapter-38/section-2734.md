@@ -3,9 +3,9 @@ title: "Section 2734 - Reconstruction and stabilization"
 usc_title: 22
 usc_section: "2734"
 chapter: 38
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 2734"
-generated_at: "2026-03-29T21:53:05.757Z"
+generated_at: "2026-03-29T21:58:43.182Z"
 ---
 
 # § 2734. Reconstruction and stabilization

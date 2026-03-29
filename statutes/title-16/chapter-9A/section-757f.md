@@ -3,9 +3,9 @@ title: "Section 757f - Studies on pollution; recommendations to Secretary of Hea
 usc_title: 16
 usc_section: "757f"
 chapter: 9
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 757f"
-generated_at: "2026-03-29T21:52:28.201Z"
+generated_at: "2026-03-29T21:58:32.784Z"
 ---
 
 # § 757f. Studies on pollution; recommendations to Secretary of Health and Human Services

@@ -3,18 +3,22 @@ title: "Section 24317 - Accounts"
 usc_title: 49
 usc_section: "24317"
 chapter: 243
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 24317"
-generated_at: "2026-03-29T21:56:12.654Z"
+generated_at: "2026-03-29T22:02:02.730Z"
 ---
 
 # § 24317. Accounts
 
 - **(a)** The purpose of this section is to—
   - **(1)** promote the effective use and stewardship by Amtrak of Amtrak revenues, Federal, State, and third party investments, appropriations, grants and other forms of financial assistance, and other sources of funds; and
-  - **(2)** enhance the transparency of the assignment of revenues and costs among Amtrak business lines while ensuring the health of the Northeast Corridor and National Network.
-- **(b)** Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultation with Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network.
-- **(c)** In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that Amtrak assigns the following:
+  - **(2)** enhance the transparency of the assignment of revenues, including Federal grant funds, and costs among Amtrak service lines while ensuring the health of the Northeast Corridor and National Network.
+- **(b)**
+  - **(1)** The Secretary of Transportation, in consultation with Amtrak, shall define, maintain, and periodically update an account structure and improvements to accounting methodologies, as necessary, to support the Northeast Corridor and the National Network.
+  - **(2)** The Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Appropriations of the House of Representatives regarding any substantive changes made to the account structure, including changes to—
+    - **(A)** the service lines described in section 24320(b)(1); and
+    - **(B)** the asset lines described in section 24320(c)(1).
+- **(c)** In defining, maintaining, and updating the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that Amtrak assigns the following:
   - **(1)** For the Northeast Corridor account, all revenues, appropriations, grants and other forms of financial assistance, compensation, and other sources of funds associated with the Northeast Corridor, including—
     - **(A)** grant funds appropriated for the Northeast Corridor pursuant to section 11101(a) of the Passenger Rail Reform and Investment Act of 2015 or any subsequent Act;
     - **(B)** compensation received from commuter rail passenger transportation providers for such providers’ share of capital and operating costs on the Northeast Corridor provided to Amtrak pursuant to section 24905(c); and
@@ -23,7 +27,7 @@ generated_at: "2026-03-29T21:56:12.654Z"
     - **(A)** grant funds appropriated for the National Network pursuant to section 11101(b) of the Passenger Rail Reform and Investment Act of 2015 or any subsequent Act;
     - **(B)** compensation received from States provided to Amtrak pursuant to section 209 of the Passenger Rail Investment and Improvement Act of 2008 ( 42 U.S.C. 24101 note); 1 1 See References in Text note below. and
     - **(C)** any operating surplus of the National Network, as allocated pursuant to section 24318.
-- **(d)** In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that amounts assigned to the Northeast Corridor and National Network accounts shall be used by Amtrak for the following:
+- **(d)** In defining, maintaining, and updating the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that amounts assigned to the Northeast Corridor and National Network accounts shall be used by Amtrak for the following:
   - **(1)** For the Northeast Corridor, all associated costs, including—
     - **(A)** operating activities;
     - **(B)** capital activities as described in section 24904(a)(2)(E);
@@ -36,11 +40,8 @@ generated_at: "2026-03-29T21:56:12.654Z"
     - **(B)** capital activities; and
     - **(C)** the payment of principal and interest on loans or capital leases attributable to the National Network.
 - **(e)**
-  - **(1)** Not later than 1 year after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak, in consultation with the Secretary, shall implement any account structures and improvements defined under subsection (b) so that Amtrak is able to produce profit and loss statements for each of the business lines described in section 24320(b)(1) and, as appropriate, each of the asset categories described in section 24320(c)(1) that identify sources and uses of—
-    - **(A)** revenues;
-    - **(B)** appropriations; and
-    - **(C)** transfers between business lines.
-  - **(2)** Not later than 1 month after the implementation under paragraph (1), and monthly thereafter, Amtrak shall submit updated profit and loss statements for each of the business lines and asset categories to the Secretary.
+  - **(1)** Amtrak, in consultation with the Secretary of Transportation, shall maintain and implement any account structures and improvements defined under subsection (b) to enable Amtrak to produce sources and uses statements for each of the service lines described in section 24320(b)(1) and, as appropriate, each of the asset lines described in section 24320(c)(1), that identify sources and uses of revenues, appropriations, and transfers between accounts.
+  - **(2)** Not later than 30 days after the implementation of subsection (b), and monthly thereafter, Amtrak shall submit to the Secretary of Transportation updated sources and uses statements for each of the service lines and asset lines referred to in paragraph (1). The Secretary and Amtrak may agree to a different frequency of reporting.
 - **(f)** For the purposes of account management, Amtrak may transfer funds between the Northeast Corridor account and National Network account without prior notification and approval under subsection (g) if such transfers—
   - **(1)** do not materially impact Amtrak’s ability to achieve its anticipated financial, capital, and operating performance goals for the fiscal year; and
   - **(2)** would not materially change any grant agreement entered into pursuant to section 24319(d), or other agreements made pursuant to applicable Federal law.
@@ -54,5 +55,4 @@ generated_at: "2026-03-29T21:56:12.654Z"
       - **(i)** the effects on Amtrak services funded by the account from which the transfer is drawn, in comparison to a scenario in which no transfer was made; and
       - **(ii)** the effects on Amtrak services funded by the account receiving the transfer, in comparison to a scenario in which no transfer was made.
   - **(3)** Not later than 5 days after the date that Amtrak notifies the Amtrak Board of Directors of a transfer under paragraph (1) to or from an account, Amtrak shall transmit to the State-Supported Route Committee and Northeast Corridor Commission a letter that includes the information described under subparagraphs (A) and (B) of paragraph (2).
-- **(h)** Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall submit to the Secretary a report assessing the account and reporting structure established under this section and providing any recommendations for further action. Not later than 180 days after the date of receipt of such report, the Secretary shall provide an assessment that supplements Amtrak’s report and submit the Amtrak report with the supplemental assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-- **(i)** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+- **(h)** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.

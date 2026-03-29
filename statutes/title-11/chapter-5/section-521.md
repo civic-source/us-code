@@ -3,9 +3,9 @@ title: "Section 521 - Debtor’s duties"
 usc_title: 11
 usc_section: "521"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "11 U.S.C. § 521"
-generated_at: "2026-03-29T21:51:53.801Z"
+generated_at: "2026-03-29T21:57:30.563Z"
 ---
 
 # § 521. Debtor’s duties

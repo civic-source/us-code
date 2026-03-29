@@ -3,9 +3,9 @@ title: "Section 1103 - Executive responsibilities; utilization of staff, interag
 usc_title: 33
 usc_section: "1103"
 chapter: 22
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 1103"
-generated_at: "2026-03-29T21:54:05.637Z"
+generated_at: "2026-03-29T21:59:51.408Z"
 ---
 
 # § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T21:54:05.637Z"
   - **(4)** insure cooperation and resolve differences arising among departments and agencies of the United States with respect to marine science activities under this subchapter, including differences as to whether a particular project is a marine science activity;
   - **(5)** undertake a comprehensive study, by contract or otherwise, of the legal problems arising out of the management, use, development, recovery, and control of the resources of the marine environment;
   - **(6)** establish long-range studies of the potential benefits to the United States economy, security, health, and welfare to be gained from marine resources, engineering, and science, and the costs involved in obtaining such benefits; and
-  - **(7)** review annually all marine science activities conducted by departments and agencies of the United States in light of the policies, plans, programs, and priorities developed pursuant to this chapter.
+  - **(7)** review annually all marine science activities conducted by departments and agencies of the United States in light of the policies, plans, programs, and priorities developed pursuant to this Act.
 - **(b)** In the planning and conduct of a coordinated Federal program the President and the Council shall utilize such staff, interagency, and non-Government advisory arrangements as they may find necessary and appropriate and shall consult with departments and agencies concerned with marine science activities and solicit the views of non-Federal organizations and individuals with capabilities in marine sciences.

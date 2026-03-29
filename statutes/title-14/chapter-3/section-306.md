@@ -3,9 +3,9 @@ title: "Section 306 - Retirement"
 usc_title: 14
 usc_section: "306"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "14 U.S.C. § 306"
-generated_at: "2026-03-29T21:51:46.613Z"
+generated_at: "2026-03-29T21:57:13.753Z"
 ---
 
 # § 306. Retirement

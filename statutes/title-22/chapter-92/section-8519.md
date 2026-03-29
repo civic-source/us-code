@@ -3,9 +3,9 @@ title: "Section 8519 - Reports on certain activities of foreign export credit ag
 usc_title: 22
 usc_section: "8519"
 chapter: 92
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 8519"
-generated_at: "2026-03-29T21:53:05.932Z"
+generated_at: "2026-03-29T21:58:43.316Z"
 ---
 
 # § 8519. Reports on certain activities of foreign export credit agencies and of the Export-Import Bank of the United States

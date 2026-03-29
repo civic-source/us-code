@@ -3,9 +3,9 @@ title: "Section 824w - Joint boards on economic dispatch"
 usc_title: 16
 usc_section: "824w"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 824w"
-generated_at: "2026-03-29T21:52:28.223Z"
+generated_at: "2026-03-29T21:58:32.801Z"
 ---
 
 # § 824w. Joint boards on economic dispatch

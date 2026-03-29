@@ -3,9 +3,9 @@ title: "Section 1963 - United Nations Emergency Force"
 usc_title: 22
 usc_section: "1963"
 chapter: 24
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 1963"
-generated_at: "2026-03-29T21:53:05.661Z"
+generated_at: "2026-03-29T21:58:43.103Z"
 ---
 
 # § 1963. United Nations Emergency Force

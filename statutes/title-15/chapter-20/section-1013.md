@@ -3,9 +3,9 @@ title: "Section 1013 - Suspension until June 30, 1948 , of application of certai
 usc_title: 15
 usc_section: "1013"
 chapter: 20
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 1013"
-generated_at: "2026-03-29T21:51:59.928Z"
+generated_at: "2026-03-29T21:57:52.860Z"
 ---
 
 # § 1013. Suspension until June 30, 1948 , of application of certain Federal laws; Sherman Act applicable to agreements to, or acts of, boycott, coercion, or intimidation
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T21:51:59.928Z"
     - **(C)** to perform actuarial services if such contract, combination, or conspiracy does not involve a restraint of trade; or
     - **(D)** to develop or disseminate a standard insurance policy form (including a standard addendum to an insurance policy form and standard terminology in an insurance policy form) if such contract, combination, or conspiracy is not to adhere to such standard form or require adherence to such standard form.
   - **(3)** For purposes of this subsection—
-    - **(A)** the term “antitrust laws” has the meaning given it in section 12(a) of this title , except that such term includes section 45 of this title to the extent that such section 45 applies to unfair methods of competition;
+    - **(A)** the term “antitrust laws” has the meaning given it in subsection (a) of section 12 of this title , except that such term includes section 45 of this title to the extent that such section 45 applies to unfair methods of competition;
     - **(B)** the term “business of health insurance (including the business of dental insurance and limited-scope dental benefits)” does not include—
       - **(i)** the business of life insurance (including annuities); or
       - **(ii)** the business of property or casualty insurance, including but not limited to—

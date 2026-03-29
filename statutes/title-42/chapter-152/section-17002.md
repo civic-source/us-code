@@ -3,9 +3,9 @@ title: "Section 17002 - Relationship to other law"
 usc_title: 42
 usc_section: "17002"
 chapter: 152
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 17002"
-generated_at: "2026-03-29T21:55:58.430Z"
+generated_at: "2026-03-29T22:01:08.580Z"
 ---
 
 # § 17002. Relationship to other law

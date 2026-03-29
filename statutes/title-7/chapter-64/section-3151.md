@@ -3,9 +3,9 @@ title: "Section 3151 - Grants to enhance research capacity in schools of veterin
 usc_title: 7
 usc_section: "3151"
 chapter: 64
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 3151"
-generated_at: "2026-03-29T21:51:24.670Z"
+generated_at: "2026-03-29T21:57:09.287Z"
 ---
 
 # § 3151. Grants to enhance research capacity in schools of veterinary medicine

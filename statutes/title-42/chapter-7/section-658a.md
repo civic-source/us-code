@@ -3,9 +3,9 @@ title: "Section 658a - Incentive payments to States"
 usc_title: 42
 usc_section: "658a"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 658a"
-generated_at: "2026-03-29T21:55:57.419Z"
+generated_at: "2026-03-29T22:01:07.207Z"
 ---
 
 # § 658a. Incentive payments to States

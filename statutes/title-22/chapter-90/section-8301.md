@@ -3,9 +3,9 @@ title: "Section 8301 - Findings"
 usc_title: 22
 usc_section: "8301"
 chapter: 90
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 8301"
-generated_at: "2026-03-29T21:53:05.924Z"
+generated_at: "2026-03-29T21:58:43.309Z"
 ---
 
 # § 8301. Findings

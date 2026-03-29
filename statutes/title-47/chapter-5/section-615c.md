@@ -3,9 +3,9 @@ title: "Section 615c - Emergency Access Advisory Committee"
 usc_title: 47
 usc_section: "615c"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "47 U.S.C. § 615c"
-generated_at: "2026-03-29T21:56:03.500Z"
+generated_at: "2026-03-29T22:01:22.985Z"
 ---
 
 # § 615c. Emergency Access Advisory Committee

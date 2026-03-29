@@ -3,9 +3,9 @@ title: "Section 6643 - Subgrants to eligible entities in support of birth throug
 usc_title: 20
 usc_section: "6643"
 chapter: 70
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 6643"
-generated_at: "2026-03-29T21:52:09.775Z"
+generated_at: "2026-03-29T21:58:01.351Z"
 ---
 
 # § 6643. Subgrants to eligible entities in support of birth through kindergarten entry literacy

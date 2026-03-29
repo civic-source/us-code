@@ -3,9 +3,9 @@ title: "Section 6904 - Additional payments"
 usc_title: 31
 usc_section: "6904"
 chapter: 69
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "31 U.S.C. § 6904"
-generated_at: "2026-03-29T21:53:49.750Z"
+generated_at: "2026-03-29T21:59:46.322Z"
 ---
 
 # § 6904. Additional payments

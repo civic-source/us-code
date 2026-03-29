@@ -3,9 +3,9 @@ title: "Section 715a - Migratory Bird Conservation Commission; creation; composi
 usc_title: 16
 usc_section: "715a"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 715a"
-generated_at: "2026-03-29T21:52:28.192Z"
+generated_at: "2026-03-29T21:58:32.777Z"
 ---
 
 # § 715a. Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or rental

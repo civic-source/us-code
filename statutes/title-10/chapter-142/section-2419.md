@@ -3,9 +3,9 @@ title: "Section 2419 - Advancing small business growth"
 usc_title: 10
 usc_section: "2419"
 chapter: 142
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 2419"
-generated_at: "2026-03-29T21:51:41.597Z"
+generated_at: "2026-03-29T21:57:04.861Z"
 ---
 
 # § 2419. Advancing small business growth

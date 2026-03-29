@@ -3,9 +3,9 @@ title: "Section 5111 - Providing loading information"
 usc_title: 46
 usc_section: "5111"
 chapter: 51
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "46 U.S.C. § 5111"
-generated_at: "2026-03-29T21:56:05.064Z"
+generated_at: "2026-03-29T22:01:37.251Z"
 ---
 
 # § 5111. Providing loading information

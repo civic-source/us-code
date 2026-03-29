@@ -3,9 +3,9 @@ title: "Section 7405 - Grants for support of air pollution planning and control 
 usc_title: 42
 usc_section: "7405"
 chapter: 85
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 7405"
-generated_at: "2026-03-29T21:55:58.110Z"
+generated_at: "2026-03-29T22:01:08.105Z"
 ---
 
 # § 7405. Grants for support of air pollution planning and control programs

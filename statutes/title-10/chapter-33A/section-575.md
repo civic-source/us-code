@@ -3,9 +3,9 @@ title: "Section 575 - Recommendations for promotion by selection boards"
 usc_title: 10
 usc_section: "575"
 chapter: 33
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 575"
-generated_at: "2026-03-29T21:51:41.441Z"
+generated_at: "2026-03-29T21:57:04.706Z"
 ---
 
 # § 575. Recommendations for promotion by selection boards

@@ -3,9 +3,9 @@ title: "Section 2132 - Balance-of-payments authority"
 usc_title: 19
 usc_section: "2132"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "19 U.S.C. § 2132"
-generated_at: "2026-03-29T21:52:20.699Z"
+generated_at: "2026-03-29T21:58:04.187Z"
 ---
 
 # § 2132. Balance-of-payments authority

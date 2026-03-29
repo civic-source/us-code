@@ -3,9 +3,9 @@ title: "Section 551 - Automatic preservation of avoided transfer"
 usc_title: 11
 usc_section: "551"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "11 U.S.C. § 551"
-generated_at: "2026-03-29T21:51:53.808Z"
+generated_at: "2026-03-29T21:57:30.570Z"
 ---
 
 # § 551. Automatic preservation of avoided transfer

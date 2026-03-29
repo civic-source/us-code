@@ -3,9 +3,9 @@ title: "Section 2346b - Emergency assistance"
 usc_title: 22
 usc_section: "2346b"
 chapter: 32
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 2346b"
-generated_at: "2026-03-29T21:53:05.703Z"
+generated_at: "2026-03-29T21:58:43.135Z"
 ---
 
 # § 2346b. Emergency assistance

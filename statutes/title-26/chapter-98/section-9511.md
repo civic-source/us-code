@@ -3,9 +3,9 @@ title: "Section 9511 - Patient-Centered Outcomes Research Trust Fund"
 usc_title: 26
 usc_section: "9511"
 chapter: 98
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 9511"
-generated_at: "2026-03-29T21:53:34.105Z"
+generated_at: "2026-03-29T21:59:41.854Z"
 ---
 
 # § 9511. Patient-Centered Outcomes Research Trust Fund

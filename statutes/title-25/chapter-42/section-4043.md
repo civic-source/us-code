@@ -3,9 +3,9 @@ title: "Section 4043 - Authorities and functions of Special Trustee"
 usc_title: 25
 usc_section: "4043"
 chapter: 42
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "25 U.S.C. § 4043"
-generated_at: "2026-03-29T21:52:54.605Z"
+generated_at: "2026-03-29T21:58:48.214Z"
 ---
 
 # § 4043. Authorities and functions of Special Trustee

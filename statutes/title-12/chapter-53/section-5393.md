@@ -3,9 +3,9 @@ title: "Section 5393 - Ban on certain activities by senior executives and direct
 usc_title: 12
 usc_section: "5393"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 5393"
-generated_at: "2026-03-29T21:51:53.022Z"
+generated_at: "2026-03-29T21:57:19.619Z"
 ---
 
 # § 5393. Ban on certain activities by senior executives and directors

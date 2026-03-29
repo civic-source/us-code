@@ -3,14 +3,14 @@ title: "Section 9442 - National Oceanic and Atmospheric Administration Artificia
 usc_title: 15
 usc_section: "9442"
 chapter: 119
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 9442"
-generated_at: "2026-03-29T21:52:00.211Z"
+generated_at: "2026-03-29T21:57:53.076Z"
 ---
 
 # § 9442. National Oceanic and Atmospheric Administration Artificial Intelligence Center
 
-- **(a)** The Administrator of the National Oceanic and Atmospheric Administration (hereafter referred to as “the Administrator”) shall establish, a Center for Artificial Intelligence (hereafter referred to as “the Center”).
+- **(a)** The Administrator of the National Oceanic and Atmospheric Administration (hereafter referred to as “the Administrator”) shall establish, 1 1 So in original. The comma probably should not appear. a Center for Artificial Intelligence (hereafter referred to as “the Center”).
 - **(b)** The goals of the Center shall be to—
   - **(1)** coordinate and facilitate the scientific and technological efforts related to artificial intelligence across the National Oceanic and Atmospheric Administration; and
   - **(2)** expand external partnerships, and build workforce proficiency to effectively transition artificial intelligence research and applications to operations.

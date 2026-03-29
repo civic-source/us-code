@@ -3,9 +3,9 @@ title: "Section 1386 - Exemption from laws prohibiting interest of Members of Co
 usc_title: 7
 usc_section: "1386"
 chapter: 35
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 1386"
-generated_at: "2026-03-29T21:51:24.529Z"
+generated_at: "2026-03-29T21:57:09.153Z"
 ---
 
 # § 1386. Exemption from laws prohibiting interest of Members of Congress in contracts

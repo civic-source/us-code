@@ -3,9 +3,9 @@ title: "Section 8905 - Democracy, civil society, governance, and technical assis
 usc_title: 22
 usc_section: "8905"
 chapter: 96
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 8905"
-generated_at: "2026-03-29T21:53:05.942Z"
+generated_at: "2026-03-29T21:58:43.323Z"
 ---
 
 # § 8905. Democracy, civil society, governance, and technical assistance for Ukraine and other states in Central and Eastern Europe

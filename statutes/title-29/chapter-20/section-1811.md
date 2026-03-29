@@ -3,9 +3,9 @@ title: "Section 1811 - Certificate of registration required"
 usc_title: 29
 usc_section: "1811"
 chapter: 20
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 1811"
-generated_at: "2026-03-29T21:53:12.390Z"
+generated_at: "2026-03-29T21:59:20.254Z"
 ---
 
 # § 1811. Certificate of registration required

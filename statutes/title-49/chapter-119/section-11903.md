@@ -3,9 +3,9 @@ title: "Section 11903 - Record keeping and reporting violations"
 usc_title: 49
 usc_section: "11903"
 chapter: 119
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 11903"
-generated_at: "2026-03-29T21:56:12.626Z"
+generated_at: "2026-03-29T22:02:02.692Z"
 ---
 
 # § 11903. Record keeping and reporting violations

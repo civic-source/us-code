@@ -3,9 +3,9 @@ title: "Section 201 - Omitted"
 usc_title: 22
 usc_section: "201"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 201"
-generated_at: "2026-03-29T21:53:05.576Z"
+generated_at: "2026-03-29T21:58:43.040Z"
 ---
 
 # § 201. Omitted

@@ -3,9 +3,9 @@ title: "Section 4046 - Computation of annuities"
 usc_title: 22
 usc_section: "4046"
 chapter: 52
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 4046"
-generated_at: "2026-03-29T21:53:05.806Z"
+generated_at: "2026-03-29T21:58:43.219Z"
 ---
 
 # § 4046. Computation of annuities

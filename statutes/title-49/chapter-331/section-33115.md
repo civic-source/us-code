@@ -3,9 +3,9 @@ title: "Section 33115 - Civil penalties and enforcement"
 usc_title: 49
 usc_section: "33115"
 chapter: 331
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 33115"
-generated_at: "2026-03-29T21:56:12.688Z"
+generated_at: "2026-03-29T22:02:02.774Z"
 ---
 
 # § 33115. Civil penalties and enforcement

@@ -3,9 +3,9 @@ title: "Section 7251 - Authorization of appropriations; reservations"
 usc_title: 20
 usc_section: "7251"
 chapter: 70
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 7251"
-generated_at: "2026-03-29T21:52:09.789Z"
+generated_at: "2026-03-29T21:58:01.363Z"
 ---
 
 # § 7251. Authorization of appropriations; reservations

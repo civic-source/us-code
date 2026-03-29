@@ -3,9 +3,9 @@ title: "Section 7431 - Civil damages for unauthorized inspection or disclosure o
 usc_title: 26
 usc_section: "7431"
 chapter: 76
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 7431"
-generated_at: "2026-03-29T21:53:34.060Z"
+generated_at: "2026-03-29T21:59:41.800Z"
 ---
 
 # § 7431. Civil damages for unauthorized inspection or disclosure of returns and return information

@@ -3,9 +3,9 @@ title: "Section 740 - Duties and taxes to constitute fund for benefit of Puerto 
 usc_title: 48
 usc_section: "740"
 chapter: 4
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "48 U.S.C. § 740"
-generated_at: "2026-03-29T21:56:02.507Z"
+generated_at: "2026-03-29T22:01:19.316Z"
 ---
 
 # § 740. Duties and taxes to constitute fund for benefit of Puerto Rico; ports of entry

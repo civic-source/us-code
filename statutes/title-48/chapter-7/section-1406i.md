@@ -3,9 +3,9 @@ title: "Section 1406i - Taxes and fees; power to assess and collect; ports of en
 usc_title: 48
 usc_section: "1406i"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "48 U.S.C. § 1406i"
-generated_at: "2026-03-29T21:56:02.511Z"
+generated_at: "2026-03-29T22:01:19.321Z"
 ---
 
 # § 1406i. Taxes and fees; power to assess and collect; ports of entry; export duties

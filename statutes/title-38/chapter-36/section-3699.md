@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-29T21:54:35.000Z"
+generated_at: "2026-03-29T22:00:30.926Z"
 ---
 
 # § 3699. Effects of closure or disapproval of educational institution
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:54:35.000Z"
   - **(1)** be charged against any entitlement to educational assistance of the individual concerned; or
   - **(2)** be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
 - **(b)** Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
-  - **(1)** 1 1 See Prohibition of Charge to Entitlement of Students Unable to Pursue a Program of Education Due to an Emergency Situation note below. was unable to complete such course or program as a result of—
+  - **(1)** 1 1 See Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation note below. was unable to complete such course or program as a result of—
     - **(A)** the closure of the educational institution; or
     - **(B)** the disapproval of the course or a course that is a necessary part of that program under this chapter by reason of—
       - **(i)** a provision of law enacted after the date on which the individual enrolls at such institution affecting the approval or disapproval of courses under this chapter; or

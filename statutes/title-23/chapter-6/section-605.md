@@ -3,9 +3,9 @@ title: "Section 605 - Program administration"
 usc_title: 23
 usc_section: "605"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 605"
-generated_at: "2026-03-29T21:52:38.556Z"
+generated_at: "2026-03-29T21:58:52.096Z"
 ---
 
 # § 605. Program administration
@@ -21,5 +21,5 @@ generated_at: "2026-03-29T21:52:38.556Z"
 - **(d)** The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.
 - **(e)** The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under the TIFIA program.
 - **(f)**
-  - **(1)** Of the funds made available to carry out the TIFIA program for each fiscal year, and after the set aside under section 608(a)(5), not less than $2,000,000 shall be made available for the Secretary to use in lieu of fees collected under subsection (b) for projects under the TIFIA program having eligible project costs that are reasonably anticipated not to equal or exceed $75,000,000.
+  - **(1)** Of the funds made available to carry out the TIFIA program for each fiscal year, and after the set aside under section 608(a)(6), not less than $2,000,000 shall be made available for the Secretary to use in lieu of fees collected under subsection (b) for projects under the TIFIA program having eligible project costs that are reasonably anticipated not to equal or exceed $75,000,000.
   - **(2)** Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.

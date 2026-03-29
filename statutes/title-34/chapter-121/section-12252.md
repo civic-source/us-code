@@ -3,9 +3,9 @@ title: "Section 12252 - Eligibility to receive grants"
 usc_title: 34
 usc_section: "12252"
 chapter: 121
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "34 U.S.C. § 12252"
-generated_at: "2026-03-29T21:54:09.962Z"
+generated_at: "2026-03-29T21:59:56.067Z"
 ---
 
 # § 12252. Eligibility to receive grants

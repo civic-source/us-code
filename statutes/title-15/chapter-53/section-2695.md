@@ -3,9 +3,9 @@ title: "Section 2695 - Grants for healthy school environments"
 usc_title: 15
 usc_section: "2695"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 2695"
-generated_at: "2026-03-29T21:52:00.063Z"
+generated_at: "2026-03-29T21:57:52.963Z"
 ---
 
 # § 2695. Grants for healthy school environments

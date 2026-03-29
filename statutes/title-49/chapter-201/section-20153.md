@@ -3,9 +3,9 @@ title: "Section 20153 - Audible warnings at highway-rail grade crossings"
 usc_title: 49
 usc_section: "20153"
 chapter: 201
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 20153"
-generated_at: "2026-03-29T21:56:12.643Z"
+generated_at: "2026-03-29T22:02:02.710Z"
 ---
 
 # § 20153. Audible warnings at highway-rail grade crossings

@@ -3,9 +3,9 @@ title: "Section 3734 - Repealed. Pub. L. 98–473, title II, § 605(c) , Oct. 12
 usc_title: 42
 usc_section: "3734"
 chapter: 46
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 3734"
-generated_at: "2026-03-29T21:55:57.928Z"
+generated_at: "2026-03-29T22:01:07.877Z"
 ---
 
 # § 3734. Repealed. Pub. L. 98–473, title II, § 605(c) , Oct. 12, 1984 , 98 Stat. 2080

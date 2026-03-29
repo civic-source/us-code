@@ -3,9 +3,9 @@ title: "Section 1533 - Removal court procedure"
 usc_title: 8
 usc_section: "1533"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "8 U.S.C. § 1533"
-generated_at: "2026-03-29T21:51:25.969Z"
+generated_at: "2026-03-29T21:56:53.608Z"
 ---
 
 # § 1533. Removal court procedure

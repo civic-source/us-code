@@ -3,9 +3,9 @@ title: "Section 1140 - Interference with protected rights"
 usc_title: 29
 usc_section: "1140"
 chapter: 18
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 1140"
-generated_at: "2026-03-29T21:53:12.339Z"
+generated_at: "2026-03-29T21:59:20.219Z"
 ---
 
 # § 1140. Interference with protected rights

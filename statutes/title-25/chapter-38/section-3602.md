@@ -3,9 +3,9 @@ title: "Section 3602 - Definitions"
 usc_title: 25
 usc_section: "3602"
 chapter: 38
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "25 U.S.C. § 3602"
-generated_at: "2026-03-29T21:52:54.597Z"
+generated_at: "2026-03-29T21:58:48.208Z"
 ---
 
 # § 3602. Definitions

@@ -3,9 +3,9 @@ title: "Section 2317a - Cooperative agreements"
 usc_title: 33
 usc_section: "2317a"
 chapter: 36
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 2317a"
-generated_at: "2026-03-29T21:54:05.707Z"
+generated_at: "2026-03-29T21:59:51.487Z"
 ---
 
 # § 2317a. Cooperative agreements

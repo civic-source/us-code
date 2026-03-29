@@ -3,9 +3,9 @@ title: "Section 1825 - Import prohibitions"
 usc_title: 16
 usc_section: "1825"
 chapter: 38
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 1825"
-generated_at: "2026-03-29T21:52:28.327Z"
+generated_at: "2026-03-29T21:58:32.886Z"
 ---
 
 # § 1825. Import prohibitions

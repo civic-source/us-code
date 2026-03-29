@@ -3,9 +3,9 @@ title: "Section 181 - Lands subject to disposition; persons entitled to benefits
 usc_title: 30
 usc_section: "181"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "30 U.S.C. § 181"
-generated_at: "2026-03-29T21:53:13.428Z"
+generated_at: "2026-03-29T21:59:13.758Z"
 ---
 
 # § 181. Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved

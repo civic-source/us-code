@@ -3,9 +3,9 @@ title: "Section 7317 - Personnel matters"
 usc_title: 7
 usc_section: "7317"
 chapter: 100
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 7317"
-generated_at: "2026-03-29T21:51:24.750Z"
+generated_at: "2026-03-29T21:57:09.361Z"
 ---
 
 # § 7317. Personnel matters

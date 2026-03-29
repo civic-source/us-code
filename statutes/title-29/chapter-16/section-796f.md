@@ -3,9 +3,9 @@ title: "Section 796f - Program authorization"
 usc_title: 29
 usc_section: "796f"
 chapter: 16
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 796f"
-generated_at: "2026-03-29T21:53:12.296Z"
+generated_at: "2026-03-29T21:59:20.184Z"
 ---
 
 # § 796f. Program authorization

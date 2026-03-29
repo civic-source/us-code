@@ -3,9 +3,9 @@ title: "Section 5334 - Administrative provisions"
 usc_title: 49
 usc_section: "5334"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 5334"
-generated_at: "2026-03-29T21:56:12.613Z"
+generated_at: "2026-03-29T22:02:02.673Z"
 ---
 
 # § 5334. Administrative provisions
@@ -48,8 +48,14 @@ generated_at: "2026-03-29T21:56:12.613Z"
   - **(3)** This subsection is in addition to any other law related to using and disposing of a facility or equipment under an assistance agreement.
   - **(4)**
     - **(A)** When real property, equipment, or supplies acquired with assistance under this chapter are no longer needed for public transportation purposes as determined under the applicable assistance agreement, the Secretary may authorize the sale, transfer, or lease of the assets under conditions determined by the Secretary and subject to the requirements of this subsection.
-    - **(B)** The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
-    - **(C)** The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
+    - **(B)**
+      - **(i)** With respect to rolling stock and equipment with a unit fair market value of $5,000 or less per unit and unused supplies with a total aggregate fair market value of $5,000 or less that was purchased using Federal financial assistance under this chapter, the rolling stock, equipment, and supplies may be retained, sold, or otherwise disposed of at the end of the service life of the rolling stock, equipment, or supplies without any obligation to reimburse the Federal Transit Administration.
+      - **(ii)**
+        - **(I)** With respect to rolling stock and equipment with a unit fair market value of more than $5,000 per unit and unused supplies with a total aggregate fair market value of more than $5,000 that was purchased using Federal financial assistance under this chapter, the rolling stock, equipment, and supplies may be retained or sold at the end of the service life of the rolling stock, equipment, or supplies.
+        - **(II)** If rolling stock, equipment, or supplies described in subclause (I) is sold, of the proceeds from the sale—
+      - **(iii)** Rolling stock, equipment, or supplies described in clause (i) or (ii) that is retained by a recipient under those clauses may be used by the recipient for other public transportation projects or programs with no obligation to reimburse the Federal Transit Administration, and no approval of the Secretary to retain that rolling stock, equipment, or supplies is required.
+    - **(C)** The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
+    - **(D)** The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
 - **(i)**
   - **(1)** Amounts made available for a public transportation project under title 23 may be transferred to and administered by the Secretary under this chapter. Amounts made available for a highway project under this chapter shall be transferred to and administered by the Secretary under title 23.
   - **(2)** The provisions of title 23 related to the non-Government share apply to amounts under title 23 used for public transportation projects. The provisions of this chapter related to the non-Government share apply to amounts under this chapter used for highway projects.

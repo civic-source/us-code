@@ -3,9 +3,9 @@ title: "Section 1556b - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(6)
 usc_title: 22
 usc_section: "1556b"
 chapter: 19
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 1556b"
-generated_at: "2026-03-29T21:53:05.646Z"
+generated_at: "2026-03-29T21:58:43.093Z"
 ---
 
 # §§ 1556 to 1556b. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(6), 68 Stat. 861

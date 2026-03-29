@@ -3,9 +3,9 @@ title: "Section 407o - Construction of buildings; acceptance of donations"
 usc_title: 16
 usc_section: "407o"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 407o"
-generated_at: "2026-03-29T21:52:27.960Z"
+generated_at: "2026-03-29T21:58:32.587Z"
 ---
 
 # § 407o. Construction of buildings; acceptance of donations

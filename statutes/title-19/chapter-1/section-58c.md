@@ -3,9 +3,9 @@ title: "Section 58c - Fees for certain customs services"
 usc_title: 19
 usc_section: "58c"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "19 U.S.C. § 58c"
-generated_at: "2026-03-29T21:52:20.616Z"
+generated_at: "2026-03-29T21:58:04.117Z"
 ---
 
 # § 58c. Fees for certain customs services
@@ -238,9 +238,9 @@ generated_at: "2026-03-29T21:52:20.616Z"
   - **(1)** Except as otherwise provided in this subsection, the provisions of this section, and the amendments and repeals made by this section, shall apply with respect to customs services rendered after the date that is 90 days after April 7, 1986 .
   - **(2)** Fees may be charged under subsection (a)(5) only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986 .
   - **(3)**
-    - **(A)** Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2030 .
+    - **(A)** Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2031 .
     - **(B)**
-      - **(i)** Subject to clause (ii), Fees 3 3 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2030 .
+      - **(i)** Subject to clause (ii), Fees 3 3 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2031 .
       - **(ii)** In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
         - **(I)** the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
         - **(II)** the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;

@@ -3,9 +3,9 @@ title: "Section 11501 - Authority to conduct pilot program"
 usc_title: 40
 usc_section: "11501"
 chapter: 115
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "40 U.S.C. § 11501"
-generated_at: "2026-03-29T21:54:22.348Z"
+generated_at: "2026-03-29T21:59:59.249Z"
 ---
 
 # § 11501. Authority to conduct pilot program

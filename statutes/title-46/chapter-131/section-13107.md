@@ -3,9 +3,9 @@ title: "Section 13107 - Authorization of appropriations"
 usc_title: 46
 usc_section: "13107"
 chapter: 131
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "46 U.S.C. § 13107"
-generated_at: "2026-03-29T21:56:05.081Z"
+generated_at: "2026-03-29T22:01:37.274Z"
 ---
 
 # § 13107. Authorization of appropriations
@@ -28,6 +28,6 @@ generated_at: "2026-03-29T21:56:05.081Z"
     - **(B)** Of the amounts used by the Secretary each fiscal year under subparagraph (A)—
       - **(i)** not less than $2,100,000 is available to ensure compliance with chapter 43 of this title; and
       - **(ii)** not more than $1,500,000 is available to conduct by grant or contract a survey of levels of recreational boating participation and related matters in the United States.
-  - **(2)** No funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
+  - **(2)** On or after October 1, 2024 , no funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
   - **(3)** Amounts made available by this subsection shall remain available during the 2 succeeding fiscal years. Any amount that is unexpended or unobligated at the end of the 3-year period during which it is available shall be withdrawn by the Secretary and allocated to the States in addition to any other amounts available for allocation in the fiscal year in which they are withdrawn or the following fiscal year.
   - **(4)** The Secretary shall publish annually in the Federal Register a detailed accounting of the projects, programs, and activities funded under this subsection.

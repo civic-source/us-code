@@ -3,9 +3,9 @@ title: "Section 4245 - Hospitalization of an imprisoned person suffering from me
 usc_title: 18
 usc_section: "4245"
 chapter: 313
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "18 U.S.C. § 4245"
-generated_at: "2026-03-29T21:52:13.625Z"
+generated_at: "2026-03-29T21:58:07.009Z"
 ---
 
 # § 4245. Hospitalization of an imprisoned person suffering from mental disease or defect

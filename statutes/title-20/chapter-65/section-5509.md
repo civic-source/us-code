@@ -3,9 +3,9 @@ title: "Section 5509 - National Environmental Education and Training Foundation"
 usc_title: 20
 usc_section: "5509"
 chapter: 65
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 5509"
-generated_at: "2026-03-29T21:52:09.740Z"
+generated_at: "2026-03-29T21:58:01.326Z"
 ---
 
 # § 5509. National Environmental Education and Training Foundation

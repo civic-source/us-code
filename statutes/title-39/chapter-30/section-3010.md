@@ -3,9 +3,9 @@ title: "Section 3010 - Mailing of sexually oriented advertisements"
 usc_title: 39
 usc_section: "3010"
 chapter: 30
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "39 U.S.C. § 3010"
-generated_at: "2026-03-29T21:54:28.556Z"
+generated_at: "2026-03-29T21:59:59.806Z"
 ---
 
 # § 3010. Mailing of sexually oriented advertisements

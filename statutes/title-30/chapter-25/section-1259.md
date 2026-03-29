@@ -3,9 +3,9 @@ title: "Section 1259 - Performance bonds"
 usc_title: 30
 usc_section: "1259"
 chapter: 25
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "30 U.S.C. § 1259"
-generated_at: "2026-03-29T21:53:13.477Z"
+generated_at: "2026-03-29T21:59:13.801Z"
 ---
 
 # § 1259. Performance bonds

@@ -3,9 +3,9 @@ title: "Section 7757 - Severability"
 usc_title: 7
 usc_section: "7757"
 chapter: 104
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 7757"
-generated_at: "2026-03-29T21:51:24.772Z"
+generated_at: "2026-03-29T21:57:09.379Z"
 ---
 
 # § 7757. Severability

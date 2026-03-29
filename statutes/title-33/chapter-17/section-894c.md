@@ -3,9 +3,9 @@ title: "Section 894c - Change of station"
 usc_title: 33
 usc_section: "894c"
 chapter: 17
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 894c"
-generated_at: "2026-03-29T21:54:05.630Z"
+generated_at: "2026-03-29T21:59:51.399Z"
 ---
 
 # § 894c. Change of station

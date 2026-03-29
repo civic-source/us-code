@@ -3,9 +3,9 @@ title: "Section 1306 - Connecting minority communities"
 usc_title: 47
 usc_section: "1306"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "47 U.S.C. § 1306"
-generated_at: "2026-03-29T21:56:03.515Z"
+generated_at: "2026-03-29T22:01:23.007Z"
 ---
 
 # § 1306. Connecting minority communities
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T21:56:03.515Z"
     - **(A)** An Alaska Native-serving institution, as that term is defined in section 1059d(b) of title 20 .
     - **(B)** A Native Hawaiian-serving institution, as that term is defined in section 1059d(b) of title 20 .
     - **(C)** A Hispanic-serving institution, as that term is defined in section 1101a(a) of title 20 .
-    - **(D)** A Predominantly Black institution, as that term is defined in section 1067q(c) of title 20 ).
+    - **(D)** A Predominantly Black institution, as that term is defined in section 1067q(c) of title 20 .
     - **(E)** An Asian American and Native American Pacific Islander-serving institution, as that term is defined in section 1059g(b) of title 20 .
     - **(F)** A Native American-serving, nontribal institution, as that term is defined in section 1059f(b) of title 20 .
   - **(11)** The term “minority business enterprise” has the meaning given the term in section 1400.2 of title 15, Code of Federal Regulations, or any successor regulation.

@@ -3,9 +3,9 @@ title: "Section 121a - Redemption of notes unidentifiable as to bank of issue"
 usc_title: 12
 usc_section: "121a"
 chapter: 2
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 121a"
-generated_at: "2026-03-29T21:51:52.697Z"
+generated_at: "2026-03-29T21:57:19.305Z"
 ---
 
 # § 121a. Redemption of notes unidentifiable as to bank of issue

@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-29T21:56:12.578Z"
+generated_at: "2026-03-29T22:02:02.622Z"
 ---
 
 # § 106. Federal Aviation Administration
@@ -292,12 +292,12 @@ generated_at: "2026-03-29T21:56:12.578Z"
     - **(B)** summaries of those submissions;
     - **(C)** summaries of the resolution of those submissions, including any further investigations and corrective actions recommended in response to the submissions;
     - **(D)** summaries of the responses of the Administrator to such recommendations; and
-    - **(E)** A summary of the activities of the Whistleblower Ombudsman, including—
+    - **(E)** A 1 1 So in original. Probably should not be capitalized. summary of the activities of the Whistleblower Ombudsman, including—
       - **(i)** the number of employee consultations conducted by the Whistleblower Ombudsman in the preceding 12-month period and a summary of such consultations and their resolution (in a de-identified or anonymized form); and
       - **(ii)** the number of reported incidents of retaliation during such period and, if applicable, a description of the disposition of such incidents during such period.
   - **(8)**
     - **(A)** Within the Office, there shall be established the position of Whistleblower Ombudsman.
-    - **(B)** The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management, and conflict resolution.
+    - **(B)** The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management, 2 2 So in original. The comma probably should not appear. and conflict resolution.
     - **(C)** The Ombudsman shall carry out the following duties:
       - **(i)** Educate Administration employees about prohibitions against materially adverse acts of retaliation and any specific rights or remedies with respect to those retaliatory actions.
       - **(ii)** Serve as an independent confidential resource for Administration employees to discuss any specific retaliation allegation and available rights or remedies based on the circumstances, as appropriate.

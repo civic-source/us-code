@@ -3,9 +3,9 @@ title: "Section 1920 - Taxation of costs"
 usc_title: 28
 usc_section: "1920"
 chapter: 123
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "28 U.S.C. § 1920"
-generated_at: "2026-03-29T21:53:45.161Z"
+generated_at: "2026-03-29T21:59:03.184Z"
 ---
 
 # § 1920. Taxation of costs

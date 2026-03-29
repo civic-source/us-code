@@ -3,9 +3,9 @@ title: "Section 2103d - Community forest and open space conservation program"
 usc_title: 16
 usc_section: "2103d"
 chapter: 41
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 2103d"
-generated_at: "2026-03-29T21:52:28.347Z"
+generated_at: "2026-03-29T21:58:32.901Z"
 ---
 
 # § 2103d. Community forest and open space conservation program

@@ -3,9 +3,9 @@ title: "Section 13e - Expenses of exhibits; advance payments for services; termi
 usc_title: 25
 usc_section: "13e"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "25 U.S.C. § 13e"
-generated_at: "2026-03-29T21:52:54.460Z"
+generated_at: "2026-03-29T21:58:48.107Z"
 ---
 
 # § 13e. Expenses of exhibits; advance payments for services; termination of Federal supervision; treaty expenses

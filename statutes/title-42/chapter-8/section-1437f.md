@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-29T21:55:57.746Z"
+generated_at: "2026-03-29T22:01:07.615Z"
 ---
 
 # § 1437f. Low-income housing assistance
@@ -212,7 +212,7 @@ generated_at: "2026-03-29T21:55:57.746Z"
     - **(B)**
       - **(i)** For assistance pursuant to this paragraph, the rent of the dwelling unit that is an assisted living facility with respect to which assistance payments are made shall include maintenance and management charges related to the dwelling unit and tenant-paid utilities. Such rent shall not include any charges attributable to services relating to assisted living.
       - **(ii)** In determining the monthly assistance that may be paid under this paragraph on behalf of any family residing in an assisted living facility, the public housing agency shall utilize the payment standard established under paragraph (1), for the market area in which the assisted living facility is located, for the applicable size dwelling unit.
-      - **(iii)** The monthly assistance payment for a family assisted under this paragraph shall be determined in accordance with paragraph (2) (using the rent and payment standard for the dwelling unit as determined in accordance with this subsection), except that a family may be required at the time the family initially receives such assistance to pay rent in an amount exceeding 40 percent of the monthly adjusted income of the family by such an amount or percentage that is reasonable given the services and amenities provided and as the Secretary deems appropriate.. 6 6 So in original.
+      - **(iii)** The monthly assistance payment for a family assisted under this paragraph shall be determined in accordance with paragraph (2) (using the rent and payment standard for the dwelling unit as determined in accordance with this subsection), except that a family may be required at the time the family initially receives such assistance to pay rent in an amount exceeding 40 percent of the monthly adjusted income of the family by such an amount or percentage that is reasonable given the services and amenities provided and as the Secretary deems appropriate.. 3
     - **(C)** For the purposes of this paragraph, the term “assisted living facility” has the meaning given that term in section 232(b) of the National Housing Act ( 12 U.S.C. 1715w(b) ), except that such a facility may be contained within a portion of a larger multifamily housing project.
   - **(19)**
     - **(A)** Subject to subparagraph (C), the Secretary shall set aside, from amounts made available for rental assistance under this subsection, the amounts specified in subparagraph (B) for use only for providing such assistance through a supported housing program administered in conjunction with the Department of Veterans Affairs. Such program shall provide rental assistance on behalf of homeless veterans who have chronic mental illnesses or chronic substance use disorders, shall require agreement of the veteran to continued treatment for such mental illness or substance use disorder as a condition of receipt of such rental assistance, and shall ensure such treatment and appropriate case management for each veteran receiving such rental assistance.
@@ -276,7 +276,7 @@ generated_at: "2026-03-29T21:55:57.746Z"
       - **(i)** the 10th, 11th, and 12th provisos under the “Preserving Existing Housing Investment” account in title II of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 ( Public Law 104–204 ; 110 Stat. 2884 ), pursuant to such provisos, the first proviso under the “Housing Certificate Fund” account in title II of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1998 ( Public Law 105–65 ; 111 Stat. 1351 ), or the first proviso under the “Housing Certificate Fund” account in title II of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999 ( Public Law 105–276 ; 112 Stat. 2469 ); and
       - **(ii)** paragraphs (3) and (4) of section 515(c) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 ( 42 U.S.C. 1437f note), as in effect before October 20, 1999 .
   - **(4)** There are authorized to be appropriated for each of fiscal years 2000, 2001, 2002, 2003, and 2004 such sums as may be necessary for enhanced voucher assistance under this subsection.
-- **(u)** In the case of low-income families living in rental projects rehabilitated under section 1437 o 7 7 See References in Text note below. of this title or section 1490m of this title before rehabilitation—
+- **(u)** In the case of low-income families living in rental projects rehabilitated under section 1437 o 6 6 See References in Text note below. of this title or section 1490m of this title before rehabilitation—
   - **(1)** vouchers under this section shall be made for families who are required to move out of their units because of the physical rehabilitation activities or because of overcrowding;
   - **(2)** at the discretion of each public housing agency or other agency administering the allocation of assistance or vouchers under this section may be made for families who would have to pay more than 30 percent of their adjusted income for rent after rehabilitation whether they choose to remain in, or to move from, the project; and
   - **(3)** the Secretary shall allocate assistance for vouchers under this section to ensure that sufficient resources are available to address the physical or economic displacement, or potential economic displacement, of existing tenants pursuant to paragraphs (1) and (2).
@@ -338,18 +338,18 @@ generated_at: "2026-03-29T21:55:57.746Z"
     - **(A)** Each contract for the purchase of a unit to be assisted under this section shall—
       - **(i)** provide for pre-purchase inspection of the unit by an independent professional; and
       - **(ii)** require that any cost of necessary repairs be paid by the seller.
-    - **(B)** The requirement under subsection ( o )(8)(A)(ii) 7 for annual inspections shall not apply to units assisted under this section.
+    - **(B)** The requirement under subsection ( o )(8)(A)(ii) 6 for annual inspections shall not apply to units assisted under this section.
   - **(4)** The Secretary may—
     - **(A)** limit the term of assistance for a family assisted under this subsection; and
     - **(B)** modify the requirements of this subsection as the Secretary determines to be necessary to make appropriate adaptations for lease-purchase agreements.
   - **(5)** Assistance under this subsection shall not be subject to the requirements of the following provisions:
-    - **(A)** Subsection (c)(3)(B) 7 of this section.
+    - **(A)** Subsection (c)(3)(B) 6 of this section.
     - **(B)** Subsection (d)(1)(B)(i) of this section.
     - **(C)** Any other provisions of this section governing maximum amounts payable to owners and amounts payable by assisted families.
     - **(D)** Any other provisions of this section concerning contracts between public housing agencies and owners.
     - **(E)** Any other provisions of this chapter that are inconsistent with the provisions of this subsection.
   - **(6)**
-    - **(A)** If a family receiving assistance under this subsection for occupancy of a dwelling defaults under a mortgage for the dwelling insured by the Secretary under the National Housing Act [ 12 U.S.C. 1701 et seq.], the family may not continue to receive rental assistance under this section unless the family (i) transfers to the Secretary marketable title to the dwelling, (ii) moves from the dwelling within the period established or approved by the Secretary, and (iii) agrees that any amounts the family is required to pay to reimburse the escrow account under section 1437u(d)(3) 7 of this title may be deducted by the public housing agency from the assistance payment otherwise payable on behalf of the family.
+    - **(A)** If a family receiving assistance under this subsection for occupancy of a dwelling defaults under a mortgage for the dwelling insured by the Secretary under the National Housing Act [ 12 U.S.C. 1701 et seq.], the family may not continue to receive rental assistance under this section unless the family (i) transfers to the Secretary marketable title to the dwelling, (ii) moves from the dwelling within the period established or approved by the Secretary, and (iii) agrees that any amounts the family is required to pay to reimburse the escrow account under section 1437u(d)(3) 6 of this title may be deducted by the public housing agency from the assistance payment otherwise payable on behalf of the family.
     - **(B)** If a family receiving assistance under this subsection defaults under a mortgage not insured under the National Housing Act [ 12 U.S.C. 1701 et seq.], the family may not continue to receive rental assistance under this section unless it complies with requirements established by the Secretary.
     - **(C)** A family receiving assistance under this subsection that defaults under a mortgage may not receive assistance under this subsection for occupancy of another dwelling owned by one or more members of the family.
   - **(7)**

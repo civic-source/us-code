@@ -3,9 +3,9 @@ title: "Section 1616 - Joint Federal-State Land Use Planning Commission for Alas
 usc_title: 43
 usc_section: "1616"
 chapter: 33
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "43 U.S.C. § 1616"
-generated_at: "2026-03-29T21:55:05.634Z"
+generated_at: "2026-03-29T22:01:10.436Z"
 ---
 
 # § 1616. Joint Federal-State Land Use Planning Commission for Alaska

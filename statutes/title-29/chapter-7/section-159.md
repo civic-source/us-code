@@ -3,9 +3,9 @@ title: "Section 159 - Representatives and elections"
 usc_title: 29
 usc_section: "159"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 159"
-generated_at: "2026-03-29T21:53:12.239Z"
+generated_at: "2026-03-29T21:59:20.139Z"
 ---
 
 # § 159. Representatives and elections

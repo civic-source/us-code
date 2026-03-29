@@ -3,9 +3,9 @@ title: "Section 5752 - Travel expenses of Senior Executive Service candidates"
 usc_title: 5
 usc_section: "5752"
 chapter: 57
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "5 U.S.C. § 5752"
-generated_at: "2026-03-29T21:50:39.292Z"
+generated_at: "2026-03-29T21:56:41.868Z"
 ---
 
 # § 5752. Travel expenses of Senior Executive Service candidates

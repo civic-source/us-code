@@ -3,9 +3,9 @@ title: "Section 467 - Definitions"
 usc_title: 33
 usc_section: "467"
 chapter: 9
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 467"
-generated_at: "2026-03-29T21:54:05.598Z"
+generated_at: "2026-03-29T21:59:51.364Z"
 ---
 
 # § 467. Definitions
@@ -29,9 +29,6 @@ In this subchapter, the following definitions apply:
     - **(A)** The term “eligible high hazard potential dam” means a non-Federal dam that—
       - **(i)** is located in a State with a State dam safety program;
       - **(ii)** is classified as “high hazard potential” by the State dam safety agency in the State in which the dam is located;
-      - **(iii)** has an emergency action plan that—
-        - **(I)** is approved by the relevant State dam safety agency; or
-        - **(II)** is in conformance with State law and pending approval by the relevant State dam safety agency;
       - **(iii)** has an emergency action plan that—
         - **(I)** is approved by the relevant State dam safety agency; or
         - **(II)** is in conformance with State law and pending approval by the relevant State dam safety agency;

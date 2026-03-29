@@ -3,9 +3,9 @@ title: "Section 3689 - Approval requirements for licensing and certification tes
 usc_title: 38
 usc_section: "3689"
 chapter: 36
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3689"
-generated_at: "2026-03-29T21:54:34.998Z"
+generated_at: "2026-03-29T22:00:30.923Z"
 ---
 
 # § 3689. Approval requirements for licensing and certification testing
@@ -39,6 +39,7 @@ generated_at: "2026-03-29T21:54:34.998Z"
       - **(i)** the test conducted by the organization or entity as compared to the level of knowledge or skills that a license or certificate attests; and
       - **(ii)** the applicability of the test over such periods of time as the Secretary determines appropriate.
   - **(2)** With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
+  - **(3)** Subparagraph (G) of paragraph (1) shall not apply with respect to an educational institution located in a foreign country.
 - **(d)** Except as otherwise specifically provided in this section or chapter 30, 32, 33, 34, or 35 of this title, in implementing this section and making payment under any such chapter for a licensing or certification test, the test is deemed to be a “course” and the organization or entity that offers such test is deemed to be an “institution” or “educational institution”, respectively, as those terms are applied under and for purposes of sections 3671, 3673, 3674, 3678, 3679, 3681, 3682, 3683, 3685, 3690, and 3696 of this title.
 - **(e)**
   - **(1)** There is established within the Department a committee to be known as the Professional Certification and Licensure Advisory Committee (hereinafter in this section referred to as the “Committee”).

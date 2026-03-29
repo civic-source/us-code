@@ -3,9 +3,9 @@ title: "Section 2255 - Conditions of other banks and lending institutions"
 usc_title: 12
 usc_section: "2255"
 chapter: 23
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 2255"
-generated_at: "2026-03-29T21:51:52.904Z"
+generated_at: "2026-03-29T21:57:19.508Z"
 ---
 
 # § 2255. Conditions of other banks and lending institutions

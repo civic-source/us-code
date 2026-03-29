@@ -3,9 +3,9 @@ title: "Section 60141 - Standards for underground natural gas storage facilities
 usc_title: 49
 usc_section: "60141"
 chapter: 601
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 60141"
-generated_at: "2026-03-29T21:56:12.756Z"
+generated_at: "2026-03-29T22:02:02.873Z"
 ---
 
 # § 60141. Standards for underground natural gas storage facilities

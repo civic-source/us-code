@@ -3,9 +3,9 @@ title: "Section 1671b - Preliminary determinations"
 usc_title: 19
 usc_section: "1671b"
 chapter: 4
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "19 U.S.C. § 1671b"
-generated_at: "2026-03-29T21:52:20.670Z"
+generated_at: "2026-03-29T21:58:04.161Z"
 ---
 
 # § 1671b. Preliminary determinations

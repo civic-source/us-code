@@ -3,9 +3,9 @@ title: "Section 16238 - Solar energy research and development"
 usc_title: 42
 usc_section: "16238"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 16238"
-generated_at: "2026-03-29T21:55:58.407Z"
+generated_at: "2026-03-29T22:01:08.542Z"
 ---
 
 # § 16238. Solar energy research and development
@@ -29,21 +29,24 @@ generated_at: "2026-03-29T21:55:58.407Z"
     - **(M)** a consortium of 2 or more entities described in subparagraphs (A) through (L).
   - **(4)** The term “Indian Tribe” has the meaning given the term in section 5304 of title 25 .
   - **(5)** The term “institution of higher education” has the meaning given the term in section 1001 of title 20 .
-  - **(6)** The term “minority-serving institution” has the meaning given the term “eligible institution” in section 1067q(a) of title 20 .
-  - **(7)** The term “National Laboratory” has the meaning given such term in section 15801(3) of this title .
-  - **(8)** The term “Native Hawaiian community-based organization” has the meaning given the term in section 7517 of title 20 .
-  - **(9)** The term “photovoltaic device” means—
+  - **(6)** The term “mine land” means—
+    - **(A)** land subject to titles IV and V of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1231 et seq.; 30 U.S.C. 1251 et seq.); and
+    - **(B)** land that has been claimed or patented subject to sections 2319 through 2344 of the Revised Statutes (commonly known as the “Mining Law of 1872”) ( 30 U.S.C. 22 et seq.).
+  - **(7)** The term “minority-serving institution” has the meaning given the term “eligible institution” in section 1067q(a) of title 20 .
+  - **(8)** The term “National Laboratory” has the meaning given such term in section 15801(3) of this title .
+  - **(9)** The term “Native Hawaiian community-based organization” has the meaning given the term in section 7517 of title 20 .
+  - **(10)** The term “photovoltaic device” means—
     - **(A)** a device that converts light directly into electricity through a solid-state, semiconductor process;
     - **(B)** the photovoltaic cells of a device described in subparagraph (A); and
     - **(C)** the electronic and electrical components of a device described in subparagraph (A).
-  - **(10)** The term “program” means the program established under subsection (b)(1)(A).
-  - **(11)** The term “Secretary” means the Secretary of Energy.
-  - **(12)** The term “solar energy” means—
+  - **(11)** The term “program” means the program established under subsection (b)(1)(A).
+  - **(12)** The term “Secretary” means the Secretary of Energy.
+  - **(13)** The term “solar energy” means—
     - **(A)** thermal or electric energy derived from radiation from the Sun; or
     - **(B)** energy resulting from a chemical reaction caused by radiation recently originated in the Sun.
-  - **(13)** The term “territory or freely associated state” has the meaning given the term “insular area” in section 3103 of title 7 .
-  - **(14)** The term “Tribal energy development organization” has the meaning given the term “tribal energy development organization” in section 3501 of title 25 .
-  - **(15)** The term “Tribal organization” has the meaning given the term in section 5304 of title 25 .
+  - **(14)** The term “territory or freely associated state” has the meaning given the term “insular area” in section 3103 of title 7 .
+  - **(15)** The term “Tribal energy development organization” has the meaning given the term “tribal energy development organization” in section 3501 of title 25 .
+  - **(16)** The term “Tribal organization” has the meaning given the term in section 5304 of title 25 .
 - **(b)**
   - **(1)**
     - **(A)** The Secretary shall establish a program to conduct research, development, demonstration, and commercialization of solar energy technologies in accordance with this subsection.
@@ -146,13 +149,14 @@ generated_at: "2026-03-29T21:55:58.407Z"
       - **(v)** relevant industry stakeholders, as determined by the Secretary.
   - **(6)**
     - **(A)** Not later than September 1, 2022 , and every 6 years thereafter, the Secretary shall submit to Congress a report on the strategic vision, progress, goals, and targets of the program, including assessments of solar energy markets and manufacturing.
-    - **(B)** As a part of the report described in subparagraph (A), the Secretary shall include a study that examines the viable market opportunities available for solar energy technology manufacturing in the United States, including—
+    - **(B)** As a part of the report described in subparagraph (A), the Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency for purposes of clause (iv), shall include a study that examines the viable market opportunities available for solar energy technology manufacturing in the United States, including—
       - **(i)** a description of—
         - **(I)** the ability to competitively manufacture solar technology in the United States, including the manufacture of—
         - **(II)** opportunities and barriers within the United States and international solar energy technology market;
       - **(ii)** policy recommendations for enhancing solar energy technology manufacturing in the United States;
-      - **(iii)** a 10-year target and plan to enhance the competitiveness of solar energy technology manufacturing in the United States; and
-      - **(iv)** any other research areas as determined by the Secretary.
+      - **(iii)** a 10-year target and plan to enhance the competitiveness of solar energy technology manufacturing in the United States;
+      - **(iv)** a description of the technical and economic viability of siting solar energy technologies on current and former mine land, including necessary interconnection and transmission siting and the impact on local job creation; and
+      - **(v)** any other research areas as determined by the Secretary.
     - **(C)** The Secretary shall coordinate the preparation of the report under subparagraph (A) with—
       - **(i)** existing peer review processes;
       - **(ii)** studies conducted by the National Laboratories; and

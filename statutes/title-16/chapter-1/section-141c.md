@@ -3,9 +3,9 @@ title: "Section 141c - Disposal of surplus buffalo and elk"
 usc_title: 16
 usc_section: "141c"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 141c"
-generated_at: "2026-03-29T21:52:27.922Z"
+generated_at: "2026-03-29T21:58:32.558Z"
 ---
 
 # § 141c. Disposal of surplus buffalo and elk

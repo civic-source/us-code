@@ -3,9 +3,9 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-29T21:54:05.721Z"
+generated_at: "2026-03-29T21:59:51.501Z"
 ---
 
 # § 2712. Uses of Fund
@@ -22,7 +22,9 @@ generated_at: "2026-03-29T21:54:05.721Z"
     - **(B)** not more than $15,000,000 in each fiscal year shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred by, and activities related to, response and damage assessment capabilities of the National Oceanic and Atmospheric Administration;
     - **(C)** not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title , including the purchase and prepositioning of oil spill removal equipment; and
     - **(D)** not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
-- **(b)** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+- **(b)**
+  - **(1)** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+  - **(2)** Except for a guarantor claim pursuant to a defense under section 2716(f)(1) of this title , Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
 - **(c)** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 - **(d)**
   - **(1)** In accordance with regulations promulgated under this section, the President, upon the request of the Governor of a State or pursuant to an agreement with a State under paragraph (2), may obligate the Fund for payment in an amount not to exceed $250,000 for removal costs consistent with the National Contingency Plan required for the immediate removal of a discharge, or the mitigation or prevention of a substantial threat of a discharge, of oil.

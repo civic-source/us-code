@@ -3,9 +3,9 @@ title: "Section 304 - Repealed. Pub. L. 109–8, title VIII, § 802(d)(3) , Apr.
 usc_title: 11
 usc_section: "304"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "11 U.S.C. § 304"
-generated_at: "2026-03-29T21:51:53.791Z"
+generated_at: "2026-03-29T21:57:30.557Z"
 ---
 
 # [§ 304. Repealed. Pub. L. 109–8, title VIII, § 802(d)(3) , Apr. 20, 2005 , 119 Stat. 146 ]

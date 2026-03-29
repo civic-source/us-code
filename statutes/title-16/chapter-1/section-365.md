@@ -3,9 +3,9 @@ title: "Section 365 - Taxation, under State laws"
 usc_title: 16
 usc_section: "365"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 365"
-generated_at: "2026-03-29T21:52:27.948Z"
+generated_at: "2026-03-29T21:58:32.578Z"
 ---
 
 # § 365. Taxation, under State laws

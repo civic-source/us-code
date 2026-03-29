@@ -3,9 +3,9 @@ title: "Section 7461 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "7461"
 chapter: 753
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 7461"
-generated_at: "2026-03-29T21:51:41.690Z"
+generated_at: "2026-03-29T21:57:04.953Z"
 ---
 
 # § 7461. Policy on sexual harassment and sexual violence

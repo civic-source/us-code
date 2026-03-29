@@ -3,9 +3,9 @@ title: "Section 0a - Transferred"
 usc_title: 42
 usc_section: "0a"
 chapter: 46
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 0a"
-generated_at: "2026-03-29T21:55:57.929Z"
+generated_at: "2026-03-29T22:01:07.878Z"
 ---
 
 # § 3796gg–0a. Transferred

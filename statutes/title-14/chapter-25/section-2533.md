@@ -3,9 +3,9 @@ title: "Section 2533 - Surviving spouses"
 usc_title: 14
 usc_section: "2533"
 chapter: 25
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "14 U.S.C. § 2533"
-generated_at: "2026-03-29T21:51:46.637Z"
+generated_at: "2026-03-29T21:57:13.772Z"
 ---
 
 # § 2533. Surviving spouses

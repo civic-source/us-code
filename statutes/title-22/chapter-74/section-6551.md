@@ -3,9 +3,9 @@ title: "Section 6551 - References"
 usc_title: 22
 usc_section: "6551"
 chapter: 74
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 6551"
-generated_at: "2026-03-29T21:53:05.877Z"
+generated_at: "2026-03-29T21:58:43.272Z"
 ---
 
 # § 6551. References

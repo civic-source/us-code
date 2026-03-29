@@ -3,9 +3,9 @@ title: "Section 12802 - Rental housing production"
 usc_title: 42
 usc_section: "12802"
 chapter: 130
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 12802"
-generated_at: "2026-03-29T21:55:58.343Z"
+generated_at: "2026-03-29T22:01:08.444Z"
 ---
 
 # § 12802. Rental housing production

@@ -3,9 +3,9 @@ title: "Section 558b - Incidental expenses of program volunteers"
 usc_title: 16
 usc_section: "558b"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 558b"
-generated_at: "2026-03-29T21:52:28.147Z"
+generated_at: "2026-03-29T21:58:32.745Z"
 ---
 
 # § 558b. Incidental expenses of program volunteers

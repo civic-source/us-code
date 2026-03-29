@@ -3,9 +3,9 @@ title: "Section 9058a - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058a"
 chapter: 116
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 9058a"
-generated_at: "2026-03-29T21:52:00.200Z"
+generated_at: "2026-03-29T21:57:53.066Z"
 ---
 
 # § 9058a. Emergency rental assistance
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T21:52:00.200Z"
         - **(IV)** in paragraph (4), by substituting “excluding the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa” for “excluding the District of Columbia and territories specified in subsection (a)(2)(A)”; and
         - **(V)** without regard to paragraph (6);
       - **(iv)** section 801(d) of such title shall not apply to such payments; and
-      - **(v)** section 801(e) of such title 2 2 See Codification note below. shall be applied —
+      - **(v)** section 801(e) of such title 2 2 See Codification note below. shall be applied—
         - **(I)** by substituting “under section 9058a of title 15 ” for “under this section”; and
         - **(II)** by substituting “local government elects to receive funds from the Secretary under section 9058a of title 15 and will use the funds in a manner consistent with such section” for “local government’s proposed uses of the funds are consistent with subsection (d)”.
     - **(B)** The eligible grantees described in this subparagraph are the following:
@@ -132,7 +132,7 @@ generated_at: "2026-03-29T21:52:00.200Z"
     - **(D)** The Department of Hawaiian Homelands.
   - **(3)**
     - **(A)** The term “eligible household” means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines—
-      - **(i)** that 1 or more individuals within the household has
+      - **(i)** that 1 or more individuals within the household has 3 3 So in original. Probably should be followed by a dash.
         - **(I)** qualified for unemployment benefits or
         - **(II)** experienced a reduction in household income, incurred significant costs, or experienced other financial hardship due, directly or indirectly, to the novel coronavirus disease (COVID–19) outbreak, which the applicant shall attest in writing;
       - **(ii)** that 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability, which may include—

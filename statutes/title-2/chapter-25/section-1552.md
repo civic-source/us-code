@@ -3,9 +3,9 @@ title: "Section 1552 - Report on Federal mandates by Advisory Commission on Inte
 usc_title: 2
 usc_section: "1552"
 chapter: 25
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "2 U.S.C. § 1552"
-generated_at: "2026-03-29T21:51:14.167Z"
+generated_at: "2026-03-29T21:56:43.369Z"
 ---
 
 # § 1552. Report on Federal mandates by Advisory Commission on Intergovernmental Relations

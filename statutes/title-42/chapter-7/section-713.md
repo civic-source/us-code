@@ -3,9 +3,9 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-29T21:55:57.441Z"
+generated_at: "2026-03-29T22:01:07.234Z"
 ---
 
 # § 713. Personal responsibility education
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T21:55:57.441Z"
     - **(B)** The number of individuals described in clauses (i) and (ii) of subparagraph (A) in a State shall be determined on the basis of the most recent Bureau of the Census data.
   - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year.
   - **(4)**
-    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
     - **(B)**
       - **(i)** The Secretary shall continue through the period described in paragraph (1)(A) grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
       - **(ii)** The Secretary may solicit and award grants under this paragraph to faith-based organizations or consortia.

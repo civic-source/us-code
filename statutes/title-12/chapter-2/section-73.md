@@ -3,9 +3,9 @@ title: "Section 73 - Oath"
 usc_title: 12
 usc_section: "73"
 chapter: 2
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 73"
-generated_at: "2026-03-29T21:51:52.694Z"
+generated_at: "2026-03-29T21:57:19.303Z"
 ---
 
 # § 73. Oath

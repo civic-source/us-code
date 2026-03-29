@@ -3,9 +3,9 @@ title: "Section 7221h - Paperwork reduction"
 usc_title: 20
 usc_section: "7221h"
 chapter: 70
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 7221h"
-generated_at: "2026-03-29T21:52:09.787Z"
+generated_at: "2026-03-29T21:58:01.362Z"
 ---
 
 # § 7221h. Paperwork reduction

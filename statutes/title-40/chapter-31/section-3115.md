@@ -3,9 +3,9 @@ title: "Section 3115 - Irrevocable commitment of Federal Government to pay ultim
 usc_title: 40
 usc_section: "3115"
 chapter: 31
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "40 U.S.C. § 3115"
-generated_at: "2026-03-29T21:54:22.334Z"
+generated_at: "2026-03-29T21:59:59.223Z"
 ---
 
 # § 3115. Irrevocable commitment of Federal Government to pay ultimate award when fixed

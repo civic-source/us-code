@@ -3,9 +3,9 @@ title: "Section 10501 - Application of prohibition to other States; “test or d
 usc_title: 52
 usc_section: "10501"
 chapter: 105
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "52 U.S.C. § 10501"
-generated_at: "2026-03-29T21:56:15.932Z"
+generated_at: "2026-03-29T22:02:05.493Z"
 ---
 
 # § 10501. Application of prohibition to other States; “test or device” defined

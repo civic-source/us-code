@@ -3,9 +3,9 @@ title: "Section 4237 - Remedies for noncompliance"
 usc_title: 25
 usc_section: "4237"
 chapter: 43
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "25 U.S.C. § 4237"
-generated_at: "2026-03-29T21:52:54.614Z"
+generated_at: "2026-03-29T21:58:48.223Z"
 ---
 
 # § 4237. Remedies for noncompliance

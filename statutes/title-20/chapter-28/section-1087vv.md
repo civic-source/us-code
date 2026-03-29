@@ -3,9 +3,9 @@ title: "Section 1087vv - Definitions"
 usc_title: 20
 usc_section: "1087vv"
 chapter: 28
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 1087vv"
-generated_at: "2026-03-29T21:52:09.615Z"
+generated_at: "2026-03-29T21:58:01.232Z"
 ---
 
 # § 1087vv. Definitions

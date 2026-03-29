@@ -3,9 +3,9 @@ title: "Section 1125 - Elimination of unnecessary agency reporting"
 usc_title: 31
 usc_section: "1125"
 chapter: 11
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "31 U.S.C. § 1125"
-generated_at: "2026-03-29T21:53:49.704Z"
+generated_at: "2026-03-29T21:59:46.266Z"
 ---
 
 # § 1125. Elimination of unnecessary agency reporting

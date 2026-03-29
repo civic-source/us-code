@@ -3,9 +3,9 @@ title: "Section 2116 - Marine safety strategy, goals, and performance assessment
 usc_title: 46
 usc_section: "2116"
 chapter: 21
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "46 U.S.C. § 2116"
-generated_at: "2026-03-29T21:56:05.053Z"
+generated_at: "2026-03-29T22:01:37.235Z"
 ---
 
 # § 2116. Marine safety strategy, goals, and performance assessments
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T21:56:05.053Z"
 - **(c)** Not later than 5 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, and every 5 years thereafter, the Secretary shall submit to Congress the strategy and plan not later than 60 days following the transmission of the President’s budget submission under section 1105 of title 31 .
 - **(d)**
   - **(1)** In conjunction with the submission of the 5-year strategy and plan, the Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant’s assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
-  - **(2)** The Secretary shall periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representative—
+  - **(2)** The Secretary shall periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
     - **(A)** on the performance of the marine safety program in achieving the goals of the marine safety strategy and plan under subsection (a) for the period covered by the briefing;
     - **(B)** on the program’s mission performance in achieving numerical measurable goals established under subsection (b), including—
       - **(i)** the number of civilian and military Coast Guard personnel assigned to marine safety positions; and

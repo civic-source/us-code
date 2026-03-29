@@ -3,9 +3,9 @@ title: "Section 5001 - Findings; purposes"
 usc_title: 12
 usc_section: "5001"
 chapter: 50
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 5001"
-generated_at: "2026-03-29T21:51:52.994Z"
+generated_at: "2026-03-29T21:57:19.590Z"
 ---
 
 # § 5001. Findings; purposes

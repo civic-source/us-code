@@ -3,9 +3,9 @@ title: "Section 1584 - Sale into involuntary servitude"
 usc_title: 18
 usc_section: "1584"
 chapter: 77
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "18 U.S.C. § 1584"
-generated_at: "2026-03-29T21:52:13.531Z"
+generated_at: "2026-03-29T21:58:06.941Z"
 ---
 
 # § 1584. Sale into involuntary servitude

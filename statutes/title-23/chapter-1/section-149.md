@@ -3,15 +3,15 @@ title: "Section 149 - Congestion mitigation and air quality improvement program"
 usc_title: 23
 usc_section: "149"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 149"
-generated_at: "2026-03-29T21:52:38.520Z"
+generated_at: "2026-03-29T21:58:52.067Z"
 ---
 
 # § 149. Congestion mitigation and air quality improvement program
 
 - **(a)** The Secretary shall establish and implement a congestion mitigation and air quality improvement program in accordance with this section.
-- **(b)** Except as provided in subsection (d), a State may obligate funds apportioned to it under section 104(b)(4) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act ( 42 U.S.C. 7407(d) ) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act ( 42 U.S.C. 7511(a) , 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997 , or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act ( 42 U.S.C. 7401 et seq.) and—
+- **(b)** Except as provided in subsections (d) and (m)(1)(B)(ii), a State may obligate funds apportioned to it under section 104(b)(4) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act ( 42 U.S.C. 7407(d) ) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act ( 42 U.S.C. 7511(a) , 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997 , or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act ( 42 U.S.C. 7401 et seq.) and—
   - **(1)**
     - **(A)**
       - **(i)** if the Secretary, after consultation with the Administrator determines, on the basis of information published by the Environmental Protection Agency pursuant to section 108(f)(1)(A) of the Clean Air Act (other than clause (xvi)) that the project or program is likely to contribute to—
@@ -24,19 +24,27 @@ generated_at: "2026-03-29T21:52:38.520Z"
   - **(4)** to establish or operate a traffic monitoring, management, and control facility or program, including advanced truck stop electrification systems, if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the facility or program is likely to contribute to the attainment or maintenance in the area of a national ambient air quality standard;
   - **(5)** if the program or project improves traffic flow, including projects to improve signalization, construct high occupancy vehicle lanes, improve intersections, add turning lanes, improve transportation systems management and operations that mitigate congestion and improve air quality, and implement intelligent transportation system strategies and such other projects that are eligible for assistance under this section on the day before the date of enactment of this paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;
   - **(6)** if the project or program involves the purchase of integrated, interoperable emergency communications equipment;
-  - **(7)** if the project or program shifts traffic demand to nonpeak hours or other transportation modes, increases vehicle occupancy rates, or otherwise reduces demand for roads through such means as telecommuting, ridesharing, carsharing, alternative work hours, and pricing;
+  - **(7)** if the project or program shifts traffic demand to nonpeak hours or other transportation modes, increases vehicle occupancy rates, or otherwise reduces demand for roads through such means as telecommuting, ridesharing, carsharing, shared micromobility (including bikesharing and shared scooter systems), alternative work hours, and pricing;
   - **(8)** if the project or program is for—
-    - **(A)** the purchase of diesel retrofits that are—
-      - **(i)** for motor vehicles (as defined in section 216 of the Clean Air Act ( 42 U.S.C. 7550 )); or
+    - **(A)** the purchase of diesel replacements or retrofits that are—
+      - **(i)** verified technologies (as defined in section 791 of the Energy Policy Act of 2005 ( 42 U.S.C. 16131 )) for motor vehicles (as defined in section 216 of the Clean Air Act ( 42 U.S.C. 7550 )); or
       - **(ii)** verified technologies (as defined in section 791 of the Energy Policy Act of 2005 ( 42 U.S.C. 16131 )) for non-road vehicles and non-road engines (as defined in section 216 of the Clean Air Act ( 42 U.S.C. 7550 )) that are used in construction projects or port-related freight operations that are—
         - **(I)** located in nonattainment or maintenance areas for ozone, PM 10 , or PM 2.5 (as defined under the Clean Air Act ( 42 U.S.C. 7401 et seq.)); and
-        - **(II)** funded, in whole or in part, under this title or chapter 53 of title 49; or
-    - **(B)** the conduct of outreach activities that are designed to provide information and technical assistance to the owners and operators of diesel equipment and vehicles regarding the purchase and installation of diesel retrofits; or
-  - **(9)** if the project or program is for the installation of vehicle-to-infrastructure communication equipment.
+        - **(II)** funded, in whole or in part, under this title or chapter 53 of title 49;
+    - **(B)** the conduct of outreach activities that are designed to provide information and technical assistance to the owners and operators of diesel equipment and vehicles regarding the purchase and installation of diesel replacements or retrofits; or
+    - **(C)** the purchase of medium- or heavy-duty zero emission vehicles and related charging equipment;
+  - **(9)** if the project or program is for the installation of vehicle-to-infrastructure communication equipment;
+  - **(10)** if the project is for the modernization or rehabilitation of a lock and dam that—
+    - **(A)** is functionally connected to the Federal-aid highway system; and
+    - **(B)** the Secretary determines is likely to contribute to the attainment or maintenance of a national ambient air quality standard; or
+  - **(11)** if the project is on a marine highway corridor, connector, or crossing designated by the Secretary under section 55601(c) of title 46 (including an inland waterway corridor, connector, or crossing) that—
+    - **(A)** is functionally connected to the Federal-aid highway system; and
+    - **(B)** the Secretary determines is likely to contribute to the attainment or maintenance of a national ambient air quality standard.
 - **(c)**
   - **(1)** A State may obligate funds apportioned to the State under section 104(b)(4) for a project or program for an area that is nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses.
   - **(2)** A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section 151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23 , United States Code.
   - **(3)** No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times.
+  - **(4)** For each fiscal year, a State may not obligate more than 10 percent of the funds apportioned to the State under section 104(b)(4) for projects described in paragraphs (10) and (11) of subsection (b).
 - **(d)**
   - **(1)** If a State does not have, and never has had, a nonattainment area designated under the Clean Air Act ( 42 U.S.C. 7401 et seq.), the State may use funds apportioned to the State under section 104(b)(4) for any project in the State that—
     - **(A)** would otherwise be eligible under subsection (b) as if the project were carried out in a nonattainment or maintenance area; or
@@ -59,19 +67,19 @@ generated_at: "2026-03-29T21:52:38.520Z"
     - **(D)** any other form of participation approved by the Secretary.
   - **(3)** A State may allocate funds apportioned under section 104(b)(4) to an entity described in paragraph (1).
   - **(4)** In the case of a project that will provide for the use of alternative fuels by privately owned vehicles or vehicle fleets, activities eligible for funding under this subsection—
-    - **(A)** may include the costs of vehicle refueling infrastructure, including infrastructure that would support the development, production, and use of emerging technologies that reduce emissions of air pollutants from motor vehicles, and other capital investments associated with the project;
+    - **(A)** may include the costs of vehicle refueling infrastructure, including infrastructure that would support the development, production, and use of emerging technologies that reduce emissions of air pollutants from motor vehicles and nonroad vehicles and nonroad engines used in construction projects or port-related freight operations, and other capital investments associated with the project;
     - **(B)** shall include only the incremental cost of an alternative fueled vehicle, as compared to a conventionally fueled vehicle, that would otherwise be borne by a private party; and
     - **(C)** shall apply other governmental financial purchase contributions in the calculation of net incremental cost.
   - **(5)** A Federal participation payment under this subsection may not be made to an entity to fund an obligation imposed under the Clean Air Act ( 42 U.S.C. 7401 et seq.) or any other Federal law.
 - **(g)**
   - **(1)** In this subsection, the following definitions apply:
     - **(A)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
-    - **(B)** The term “diesel retrofit” means a replacement, repowering, rebuilding, after treatment, or other technology, as determined by the Administrator.
-  - **(2)** The Administrator, in consultation with the Secretary, shall publish a list of diesel retrofit technologies and supporting technical information for—
+    - **(B)** The term “diesel replacement or retrofit” means a replacement or retrofit, repowering, rebuilding, after treatment, or other technology, as determined by the Administrator.
+  - **(2)** The Administrator, in consultation with the Secretary, shall publish a list of diesel replacement or retrofit technologies and supporting technical information for—
     - **(A)** diesel emission reduction technologies certified or verified by the Administrator, the California Air Resources Board, or any other entity recognized by the Administrator for the same purpose;
     - **(B)** diesel emission reduction technologies identified by the Administrator as having an application and approvable test plan for verification by the Administrator or the California Air Resources Board that is submitted not later than 18 months of the date of enactment of this subsection;
     - **(C)** available information regarding the emission reduction effectiveness and cost effectiveness of technologies identified in this paragraph, taking into consideration air quality and health effects.
-  - **(3)** States and metropolitan planning organizations shall give priority in areas designated as nonattainment or maintenance for PM2.5 under the Clean Air Act ( 42 U.S.C. 7401 et seq.) in distributing funds received for congestion mitigation and air quality projects and programs from apportionments under section 104(b)(4) to projects that are proven to reduce PM2.5, including diesel retrofits.
+  - **(3)** States and metropolitan planning organizations shall give priority in areas designated as nonattainment or maintenance for PM2.5 under the Clean Air Act ( 42 U.S.C. 7401 et seq.) in distributing funds received for congestion mitigation and air quality projects and programs from apportionments under section 104(b)(4) to projects that are proven to reduce PM2.5, including diesel replacements or retrofits.
   - **(4)** Nothing in this subsection modifies or otherwise affects any authority or restriction established under the Clean Air Act ( 42 U.S.C. 7401 et seq.) or any other law (other than provisions of this title relating to congestion mitigation and air quality).
 - **(h)** The Secretary shall encourage States and metropolitan planning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
 - **(i)**
@@ -86,7 +94,9 @@ generated_at: "2026-03-29T21:52:38.520Z"
   - **(1)** At the discretion of a metropolitan planning organization, a technical assessment of a selected program of projects may be conducted through modeling or other means to demonstrate the emissions reduction projection required under this section.
   - **(2)** If an assessment described in paragraph (1) successfully demonstrates an emissions reduction, all projects included in such assessment shall be eligible for obligation under this section without further demonstration of emissions reduction of individual projects included in such assessment.
 - **(k)**
-  - **(1)** For any State that has a nonattainment or maintenance area for fine particulate matter, an amount equal to 25 percent of the funds apportioned to each State under section 104(b)(4) for a nonattainment or maintenance area that are based all or in part on the weighted population of such area in fine particulate matter nonattainment shall be obligated to projects that reduce such fine particulate matter emissions in such area, including diesel retrofits.
+  - **(1)** For any State that has a nonattainment or maintenance area for fine particulate matter, an amount equal to 25 percent of the funds apportioned to each State under section 104(b)(4) for a nonattainment or maintenance area that are based all or in part on the weighted population of such area in fine particulate matter nonattainment shall be obligated to projects that—
+    - **(A)** reduce such fine particulate matter emissions in such area, including diesel replacements or retrofits; and
+    - **(B)** to the extent practicable, prioritize benefits to disadvantaged communities or low-income populations living in, or immediately adjacent to, such area.
   - **(2)** In order to meet the requirements of paragraph (1), a State or metropolitan planning organization may elect to obligate funds to install diesel emission control technology on nonroad diesel equipment or on-road diesel equipment that is operated on a highway construction project within a PM2.5 nonattainment or maintenance area.
   - **(3)**
     - **(A)** In any State with a population density of 80 or fewer persons per square mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
@@ -100,4 +110,19 @@ generated_at: "2026-03-29T21:52:38.520Z"
     - **(B)** describes progress made in achieving the air quality and traffic congestion performance targets described in section 150(d); and
     - **(C)** includes a description of projects identified for funding under this section and how such projects will contribute to achieving emission and traffic congestion reduction targets.
   - **(2)** Performance plans shall be updated biennially and include a separate report that assesses the progress of the program of projects under the previous plan in achieving the air quality and traffic congestion targets of the previous plan.
-- **(m)** A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported 1 1 So in original. Probably should be “State-supported”. Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation.
+  - **(3)**
+    - **(A)** On the request of a metropolitan planning organization, the Secretary may assist the metropolitan planning organization tracking progress made in minority or low-income populations as part of a performance plan under this subsection.
+    - **(B)** Nothing in this paragraph provides the Secretary the authority—
+      - **(i)** to change the performance measures under section 150(c)(5) or the performance targets established under section 134(h)(2) or 150(d); or
+      - **(ii)** to establish any other Federal requirement.
+- **(m)**
+  - **(1)** A State may obligate funds apportioned under section 104(b)(4) in an area of the State that is otherwise eligible for obligations of such funds for operating costs—
+    - **(A)** under chapter 53 of title 49; or
+    - **(B)** on—
+      - **(i)** a system for which CMAQ funding was eligible, made available, obligated, or expended in fiscal year 2012; or
+      - **(ii)** a State-supported Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 ( 49 U.S.C. 24101 note; Public Law 110–432 ) and no current nonattainment areas under subsection (d).
+  - **(2)** Operating assistance provided under paragraph (1) shall have no imposed time limitation if the operating assistance is for—
+    - **(A)** a route described in subparagraph (B) of that paragraph; or
+    - **(B)** a transit system that is located in—
+      - **(i)** a non-urbanized area; or
+      - **(ii)** an urbanized area with a population of 200,000 or fewer.

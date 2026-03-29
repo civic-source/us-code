@@ -3,9 +3,9 @@ title: "Section 669k - Reports and certifications"
 usc_title: 16
 usc_section: "669k"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 669k"
-generated_at: "2026-03-29T21:52:28.178Z"
+generated_at: "2026-03-29T21:58:32.766Z"
 ---
 
 # § 669k. Reports and certifications

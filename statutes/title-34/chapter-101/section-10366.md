@@ -3,9 +3,9 @@ title: "Section 10366 - Evaluation"
 usc_title: 34
 usc_section: "10366"
 chapter: 101
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "34 U.S.C. § 10366"
-generated_at: "2026-03-29T21:54:09.928Z"
+generated_at: "2026-03-29T21:59:56.029Z"
 ---
 
 # § 10366. Evaluation

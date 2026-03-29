@@ -3,9 +3,9 @@ title: "Section 777e - Submission and approval of plans and projects"
 usc_title: 16
 usc_section: "777e"
 chapter: 10
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 777e"
-generated_at: "2026-03-29T21:52:28.205Z"
+generated_at: "2026-03-29T21:58:32.787Z"
 ---
 
 # § 777e. Submission and approval of plans and projects

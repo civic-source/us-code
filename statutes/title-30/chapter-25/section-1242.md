@@ -3,9 +3,9 @@ title: "Section 1242 - Powers of Secretary or State"
 usc_title: 30
 usc_section: "1242"
 chapter: 25
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "30 U.S.C. § 1242"
-generated_at: "2026-03-29T21:53:13.475Z"
+generated_at: "2026-03-29T21:59:13.799Z"
 ---
 
 # § 1242. Powers of Secretary or State

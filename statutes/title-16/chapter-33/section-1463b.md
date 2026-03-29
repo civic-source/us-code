@@ -3,9 +3,9 @@ title: "Section 1463b - National Coastal Resources Research and Development Inst
 usc_title: 16
 usc_section: "1463b"
 chapter: 33
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 1463b"
-generated_at: "2026-03-29T21:52:28.309Z"
+generated_at: "2026-03-29T21:58:32.870Z"
 ---
 
 # § 1463b. National Coastal Resources Research and Development Institute

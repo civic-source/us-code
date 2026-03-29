@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-29T21:54:34.987Z"
+generated_at: "2026-03-29T22:00:30.908Z"
 ---
 
 # § 3313. Educational assistance: amount; payment
@@ -134,3 +134,4 @@ generated_at: "2026-03-29T21:54:34.987Z"
     - **(B)** each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
   - **(2)** Verification under this subsection shall be in an electronic form prescribed by the Secretary.
   - **(3)** If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly housing stipend payment to the individual under this section until the individual submits such verification.
+  - **(4)** The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.

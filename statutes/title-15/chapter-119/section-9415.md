@@ -3,9 +3,9 @@ title: "Section 9415 - National AI Research Resource Task Force"
 usc_title: 15
 usc_section: "9415"
 chapter: 119
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 9415"
-generated_at: "2026-03-29T21:52:00.211Z"
+generated_at: "2026-03-29T21:57:53.075Z"
 ---
 
 # § 9415. National AI Research Resource Task Force
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T21:52:00.211Z"
     - **(B)** Not later than 120 days after enactment of this Act, the co-chairpersons of the Task Force shall appoint members to the Task Force pursuant to subparagraph (A).
     - **(C)** Members of the Task Force shall be appointed for the life of the Task Force.
     - **(D)** Any vacancy occurring in the membership of the Task Force shall be filled in the same manner in which the original appointment was made.
-    - **(E)** The Director of the Office of Science and Technology Policy and the Director of the National Sciences 1 1 So in original. Probably should be “National Science Foundation”. Foundation, or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
+    - **(E)** The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation, 1 1 So in original. Probably should be “National Science Foundation,”. or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
     - **(F)**
       - **(i)** Except as provided in clause (ii), non-Federal Members of the Task Force shall not receive compensation for their participation on the Task Force.
       - **(ii)** Non-Federal Members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Task Force.

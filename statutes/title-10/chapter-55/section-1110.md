@@ -3,9 +3,9 @@ title: "Section 1110 - Anthrax vaccine immunization program; procedures for exem
 usc_title: 10
 usc_section: "1110"
 chapter: 55
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 1110"
-generated_at: "2026-03-29T21:51:41.505Z"
+generated_at: "2026-03-29T21:57:04.759Z"
 ---
 
 # § 1110. Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions

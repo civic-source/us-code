@@ -3,9 +3,9 @@ title: "Section 40303 - Content requirements"
 usc_title: 46
 usc_section: "40303"
 chapter: 403
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "46 U.S.C. § 40303"
-generated_at: "2026-03-29T21:56:05.088Z"
+generated_at: "2026-03-29T22:01:37.283Z"
 ---
 
 # § 40303. Content requirements

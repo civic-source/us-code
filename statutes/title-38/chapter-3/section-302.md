@@ -3,9 +3,9 @@ title: "Section 302 - Seal"
 usc_title: 38
 usc_section: "302"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 302"
-generated_at: "2026-03-29T21:54:34.933Z"
+generated_at: "2026-03-29T22:00:30.830Z"
 ---
 
 # § 302. Seal

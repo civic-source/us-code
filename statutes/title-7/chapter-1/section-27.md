@@ -3,9 +3,9 @@ title: "Section 27 - Definitions"
 usc_title: 7
 usc_section: "27"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 27"
-generated_at: "2026-03-29T21:51:24.430Z"
+generated_at: "2026-03-29T21:57:09.057Z"
 ---
 
 # § 27. Definitions

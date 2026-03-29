@@ -3,9 +3,9 @@ title: "Section 610 - State infrastructure bank program"
 usc_title: 23
 usc_section: "610"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 610"
-generated_at: "2026-03-29T21:52:38.557Z"
+generated_at: "2026-03-29T21:58:52.096Z"
 ---
 
 # § 610. State infrastructure bank program
@@ -36,10 +36,10 @@ generated_at: "2026-03-29T21:52:38.557Z"
   - **(2)** The right to alter, amend, or repeal interstate compacts entered into under this subsection is expressly reserved.
 - **(d)**
   - **(1)** Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the highway account of the bank not to exceed—
-    - **(A)** 10 percent of the funds apportioned to the State for each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and
+    - **(A)** 10 percent of the funds apportioned to the State for each of fiscal years 2022 through 2026 under each of paragraphs (1), (2), and (5) of section 104(b); and
     - **(B)** 10 percent of the funds allocated to the State for each of such fiscal years.
-  - **(2)** Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under each of such sections.
-  - **(3)** Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
+  - **(2)** Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2022 through 2026 for capital projects under each of such sections.
+  - **(3)** Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2022 through 2026 for capital projects under such subtitle.
   - **(4)** Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan made to the bank in accordance with sections 602 and 603.
   - **(5)**
     - **(A)** Federal funds deposited into a highway account of a State infrastructure bank under paragraph (1) shall constitute for purposes of this section a capitalization grant for the highway account of the bank.
@@ -75,4 +75,4 @@ generated_at: "2026-03-29T21:52:38.557Z"
   - **(2)** The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
 - **(i)** The deposit of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt-financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
 - **(j)** Sections 3335 and 6503 of title 31 shall not apply to funds deposited into an infrastructure bank under this section.
-- **(k)** For each of fiscal years 2016 through 2020, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
+- **(k)** For each of fiscal years 2022 through 2026, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.

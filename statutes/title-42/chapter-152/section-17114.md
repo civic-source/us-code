@@ -3,9 +3,9 @@ title: "Section 17114 - Industrial Technology Innovation Advisory Committee"
 usc_title: 42
 usc_section: "17114"
 chapter: 152
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 17114"
-generated_at: "2026-03-29T21:55:58.438Z"
+generated_at: "2026-03-29T22:01:08.591Z"
 ---
 
 # § 17114. Industrial Technology Innovation Advisory Committee
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T21:55:58.438Z"
     - **(C)** not less than 2 representatives of labor groups;
     - **(D)** not less than 3 representatives of the research community, which shall include academia and National Laboratories;
     - **(E)** not less than 2 representatives of nongovernmental organizations;
-    - **(F)** not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in section 17113(c) of this title ; and
-    - **(F)** not less than 1 representative of a State government; and
+    - **(F)** 1 1 So in original. There are two subpars. (F). not less than 6 representatives of small- and large-scale industry, the collective expertise of which shall cover every focus area described in section 17113(c) of this title ; and 2 2 So in original. The word “and” probably should not appear.
+    - **(F)** 1 not less than 1 representative of a State government; and
     - **(G)** any other individuals the Secretary, in coordination with the Director, determines to be necessary to ensure that the Committee is comprised of a diverse group of representatives of industry, academia, independent researchers, and public and private entities.
   - **(3)** The Secretary shall designate a member of the Committee to serve as Chair.
 - **(d)**

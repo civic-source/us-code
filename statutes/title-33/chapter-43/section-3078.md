@@ -3,9 +3,9 @@ title: "Section 3078 - Interest payment program"
 usc_title: 33
 usc_section: "3078"
 chapter: 43
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 3078"
-generated_at: "2026-03-29T21:54:05.731Z"
+generated_at: "2026-03-29T21:59:51.514Z"
 ---
 
 # § 3078. Interest payment program
@@ -24,6 +24,6 @@ generated_at: "2026-03-29T21:54:05.731Z"
 - **(e)**
   - **(1)** The Secretary shall consult with the Secretary of Education regarding the administration of this section.
   - **(2)** The Secretary is authorized to reimburse the Secretary of Education—
-    - **(A)** for the funds necessary to pay interest and special allowances on student loans under this section (in accordance with sections 428( o ), 455( l ), and 464(j) of the Higher Education Act of 1965 ( 20 U.S.C. 1078 ( o ), 1087e( l ), and 1087dd(j)); and
+    - **(A)** for the funds necessary to pay interest and special allowances on student loans under this section (in accordance with sections 428( o ), 455( l ), and 464(j) of the Higher Education Act of 1965 ( 20 U.S.C. 1078 ( o ), 1087e( l ), and 1087dd(j)); 1 1 So in original. The semicolon probably should be preceded by a third closing parenthesis. and
     - **(B)** for any reasonable administrative costs incurred by the Secretary of Education in coordinating the program under this section with the administration of the student loan programs under parts B, D, and E of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1071 et seq., 1087a et seq., 1087aa et seq.).
 - **(f)** In this section, the term ‘special allowance’ means a special allowance that is payable under section 438 of the Higher Education Act of 1965 ( 20 U.S.C. 1087–1 ).

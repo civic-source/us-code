@@ -3,9 +3,9 @@ title: "Section 1349 - Corporation organized under federal law as party"
 usc_title: 28
 usc_section: "1349"
 chapter: 85
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "28 U.S.C. § 1349"
-generated_at: "2026-03-29T21:53:45.148Z"
+generated_at: "2026-03-29T21:59:03.170Z"
 ---
 
 # § 1349. Corporation organized under federal law as party

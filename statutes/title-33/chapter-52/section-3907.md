@@ -3,9 +3,9 @@ title: "Section 3907 - Determination of eligibility and project selection"
 usc_title: 33
 usc_section: "3907"
 chapter: 52
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 3907"
-generated_at: "2026-03-29T21:54:05.742Z"
+generated_at: "2026-03-29T21:59:51.526Z"
 ---
 
 # § 3907. Determination of eligibility and project selection
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T21:54:05.742Z"
     - **(C)** The Secretary or the Administrator, as applicable, shall ensure that any financing for the project has appropriate security features, such as a rate covenant, supporting the project obligations to ensure repayment.
     - **(D)**
       - **(i)** The Secretary or the Administrator, as applicable, shall require each project applicant to provide, at the time of application, a preliminary rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project (which may be the Federal credit instrument) have the potential to achieve an investment-grade rating.
-      - **(ii)** The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, final rating opinion letters from at least 2 rating agencies indicating that the senior obligations of the project have an investment-grade rating.
+      - **(ii)** The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, a final rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project have an investment-grade rating.
     - **(E)** The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to—
       - **(i)** a State infrastructure financing authority for a project under section 3905(9) of this title , which may include requiring the provision of a final rating opinion letter from at least one rating agency; or
       - **(ii)** an entity for a project under section 3905(10) of this title , which may include requiring the provision of a final rating opinion letter from at least two rating agencies.

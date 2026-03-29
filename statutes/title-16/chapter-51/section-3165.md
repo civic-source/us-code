@@ -3,9 +3,9 @@ title: "Section 3165 - Standards for granting certain authorizations"
 usc_title: 16
 usc_section: "3165"
 chapter: 51
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 3165"
-generated_at: "2026-03-29T21:52:28.370Z"
+generated_at: "2026-03-29T21:58:32.918Z"
 ---
 
 # § 3165. Standards for granting certain authorizations

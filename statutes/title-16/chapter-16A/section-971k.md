@@ -3,9 +3,9 @@ title: "Section 971k - Savings clause"
 usc_title: 16
 usc_section: "971k"
 chapter: 16
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 971k"
-generated_at: "2026-03-29T21:52:28.248Z"
+generated_at: "2026-03-29T21:58:32.823Z"
 ---
 
 # § 971k. Savings clause

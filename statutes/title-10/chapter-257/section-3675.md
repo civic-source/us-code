@@ -3,9 +3,9 @@ title: "Section 3675 - Capital lease or lease-purchase treated as an acquisition
 usc_title: 10
 usc_section: "3675"
 chapter: 257
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 3675"
-generated_at: "2026-03-29T21:51:41.657Z"
+generated_at: "2026-03-29T21:57:04.918Z"
 ---
 
 # § 3675. Capital lease or lease-purchase treated as an acquisition

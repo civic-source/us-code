@@ -3,9 +3,9 @@ title: "Section 5391 - Exemption from distilled spirits taxes"
 usc_title: 26
 usc_section: "5391"
 chapter: 51
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 5391"
-generated_at: "2026-03-29T21:53:33.951Z"
+generated_at: "2026-03-29T21:59:41.685Z"
 ---
 
 # § 5391. Exemption from distilled spirits taxes

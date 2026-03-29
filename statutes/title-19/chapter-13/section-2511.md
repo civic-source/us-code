@@ -3,9 +3,9 @@ title: "Section 2511 - General authority to modify discriminatory purchasing req
 usc_title: 19
 usc_section: "2511"
 chapter: 13
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "19 U.S.C. § 2511"
-generated_at: "2026-03-29T21:52:20.732Z"
+generated_at: "2026-03-29T21:58:04.212Z"
 ---
 
 # § 2511. General authority to modify discriminatory purchasing requirements
@@ -20,5 +20,5 @@ generated_at: "2026-03-29T21:52:20.732Z"
   - **(4)** is a least developed country.
 - **(c)** The President may modify or withdraw any waiver granted pursuant to subsection (a) or designation made pursuant to subsection (b).
 - **(d)**
-- **(e)** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in section 4502 of this title ) to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
+- **(e)** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in section 4502 of this title ) to procure eligible products in compliance with the procedural provisions of chapter 13 of the USMCA.
 - **(f)** The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.

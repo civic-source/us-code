@@ -3,9 +3,9 @@ title: "Section 8 - Proceedings begun by libel in admiralty and seizure of vesse
 usc_title: 9
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "9 U.S.C. § 8"
-generated_at: "2026-03-29T21:51:18.276Z"
+generated_at: "2026-03-29T21:56:45.009Z"
 ---
 
 # § 8. Proceedings begun by libel in admiralty and seizure of vessel or property

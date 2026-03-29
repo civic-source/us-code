@@ -3,9 +3,9 @@ title: "Section 620c - Restriction on exports of unprocessed timber from State a
 usc_title: 16
 usc_section: "620c"
 chapter: 4
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 620c"
-generated_at: "2026-03-29T21:52:28.165Z"
+generated_at: "2026-03-29T21:58:32.758Z"
 ---
 
 # § 620c. Restriction on exports of unprocessed timber from State and other public lands

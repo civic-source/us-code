@@ -3,9 +3,9 @@ title: "Section 1905 - Renewal"
 usc_title: 38
 usc_section: "1905"
 chapter: 19
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 1905"
-generated_at: "2026-03-29T21:54:34.963Z"
+generated_at: "2026-03-29T22:00:30.874Z"
 ---
 
 # § 1905. Renewal

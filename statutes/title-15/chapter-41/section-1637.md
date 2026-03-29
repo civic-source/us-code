@@ -3,9 +3,9 @@ title: "Section 1637 - Open end consumer credit plans"
 usc_title: 15
 usc_section: "1637"
 chapter: 41
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 1637"
-generated_at: "2026-03-29T21:51:59.968Z"
+generated_at: "2026-03-29T21:57:52.889Z"
 ---
 
 # § 1637. Open end consumer credit plans

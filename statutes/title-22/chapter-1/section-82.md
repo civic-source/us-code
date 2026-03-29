@@ -3,9 +3,9 @@ title: "Section 82 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(9), (1
 usc_title: 22
 usc_section: "82"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 82"
-generated_at: "2026-03-29T21:53:05.576Z"
+generated_at: "2026-03-29T21:58:43.040Z"
 ---
 
 # §§ 80 to 82. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(9), (10), (22), 60 Stat. 1036

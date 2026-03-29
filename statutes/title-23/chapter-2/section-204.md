@@ -3,22 +3,25 @@ title: "Section 204 - Federal lands access program"
 usc_title: 23
 usc_section: "204"
 chapter: 2
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 204"
-generated_at: "2026-03-29T21:52:38.532Z"
+generated_at: "2026-03-29T21:58:52.078Z"
 ---
 
 # § 204. Federal lands access program
 
 - **(a)**
   - **(1)** Funds made available under the Federal lands access program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the cost of—
-    - **(A)** transportation planning, research, engineering, preventive maintenance, rehabilitation, restoration, construction, and reconstruction of Federal lands access transportation facilities located on or adjacent to, or that provide access to, Federal land, and—
-      - **(i)** adjacent vehicular parking areas;
+    - **(A)** transportation planning, research, engineering, preventive maintenance, rehabilitation, restoration, context-sensitive solutions, construction, and reconstruction of Federal lands access transportation facilities located on or adjacent to, or that provide access to, Federal land, and—
+      - **(i)** adjacent vehicular parking areas, including interpretive panels in or adjacent to those areas;
       - **(ii)** acquisition of necessary scenic easements and scenic or historic sites;
       - **(iii)** provisions for pedestrians and bicycles;
       - **(iv)** environmental mitigation in or adjacent to Federal land to improve public safety and reduce vehicle-caused wildlife mortality while maintaining habitat connectivity;
-      - **(v)** construction and reconstruction of roadside rest areas, including sanitary and water facilities; and
-      - **(vi)** other appropriate public road facilities, as determined by the Secretary;
+      - **(v)** construction and reconstruction of roadside rest areas, including sanitary and water facilities;
+      - **(vi)** contextual wayfinding markers;
+      - **(vii)** landscaping;
+      - **(viii)** cooperative mitigation of visual blight, including screening or removal; and
+      - **(ix)** other appropriate public road facilities, as determined by the Secretary;
     - **(B)** operation and maintenance of transit facilities; and
     - **(C)** any transportation project eligible for assistance under this title that is within or adjacent to, or that provides access to, Federal land.
   - **(2)** In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—
@@ -31,6 +34,9 @@ generated_at: "2026-03-29T21:52:38.532Z"
   - **(5)**
     - **(A)** Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
     - **(B)** Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
+  - **(6)** In carrying out an activity described in paragraph (1), the Secretary shall ensure that the entity carrying out the activity considers, to the maximum extent practicable—
+    - **(A)** the use of locally adapted native plant materials; and
+    - **(B)** designs that minimize runoff and heat generation.
 - **(b)**
   - **(1)** Funding made available to carry out the Federal lands access program shall be allocated among those States that have Federal land, in accordance with the following formula:
     - **(A)** 80 percent of the available funding for use in those States that contain at least 1 ½ percent of the total public land in the United States managed by the agencies described in paragraph (2), to be distributed as follows:

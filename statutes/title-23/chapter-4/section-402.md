@@ -3,9 +3,9 @@ title: "Section 402 - Highway safety programs"
 usc_title: 23
 usc_section: "402"
 chapter: 4
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 402"
-generated_at: "2026-03-29T21:52:38.540Z"
+generated_at: "2026-03-29T21:58:52.085Z"
 ---
 
 # § 402. Highway safety programs
@@ -127,3 +127,6 @@ generated_at: "2026-03-29T21:52:38.540Z"
         - **(I)** safe driving practices; and
         - **(II)** State graduated driving license requirements, including behind-the-wheel training required to meet those requirements.
 - **(n)** The Secretary shall publicly release on its website information that contains each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State’s highway safety plan.
+- **(o)**
+  - **(1)** Each State shall use a portion of the amounts received by the State under this section to carry out a program to educate the public regarding the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is deactivated by the operator.
+  - **(2)** Nothing in this subsection requires a State to carry out a program described in paragraph (1) through the State transportation or highway safety office.

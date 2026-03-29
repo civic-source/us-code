@@ -3,9 +3,9 @@ title: "Section 256 - Acceptance of land ceded by State of Washington; assumptio
 usc_title: 16
 usc_section: "256"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 256"
-generated_at: "2026-03-29T21:52:27.939Z"
+generated_at: "2026-03-29T21:58:32.572Z"
 ---
 
 # § 256. Acceptance of land ceded by State of Washington; assumption of jurisdiction

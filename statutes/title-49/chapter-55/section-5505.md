@@ -3,28 +3,28 @@ title: "Section 5505 - University transportation centers program"
 usc_title: 49
 usc_section: "5505"
 chapter: 55
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 5505"
-generated_at: "2026-03-29T21:56:12.615Z"
+generated_at: "2026-03-29T22:02:02.676Z"
 ---
 
 # § 5505. University transportation centers program
 
 - **(a)**
-  - **(1)** The Secretary shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
+  - **(1)** The Secretary of Transportation, acting through the Assistant Secretary for Research and Technology (referred to in this section as the “Secretary”), shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
   - **(2)** The role of each university transportation center referred to in paragraph (1) shall be—
     - **(A)** to advance transportation expertise and technology in the varied disciplines that comprise the field of transportation through education, research, and technology transfer activities;
-    - **(B)** to provide for a critical transportation knowledge base outside of the Department of Transportation; and
-    - **(C)** to address critical workforce needs and educate the next generation of transportation leaders.
+    - **(B)** to provide for a critical multimodal transportation knowledge base outside of the Department of Transportation; and
+    - **(C)** to address critical workforce needs and educate the next generation of transportation leaders with respect to the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
 - **(b)**
   - **(1)** To receive a grant under this section, a consortium of nonprofit institutions of higher education shall submit to the Secretary an application that is in such form and contains such information as the Secretary may require.
   - **(2)**
-    - **(A)** A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year for each of the transportation centers described under paragraphs (2), (3), and (4) of subsection (c).
+    - **(A)** A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year as a lead institution under this section, except as provided in subparagraph (B).
     - **(B)** Subparagraph (A) shall not apply to a nonprofit institution of higher education that is a member of a consortium of nonprofit institutions of higher education but not the lead institution of such consortium.
   - **(3)** The Secretary shall solicit grant applications for national transportation centers, regional transportation centers, and Tier 1 university transportation centers with identical advertisement schedules and deadlines.
   - **(4)**
-    - **(A)** Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities identified in chapter 65.
-    - **(B)** The Secretary, in consultation with the Assistant Secretary for Research and Technology and the Administrator of the Federal Highway Administration and other modal administrations as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
+    - **(A)** Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities described in subparagraphs (A) through (G) of section 6503(c)(1).
+    - **(B)** The Secretary, in consultation with the heads of the modal administrations of the Department of Transportation, as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
       - **(i)** the demonstrated ability of the recipient to address each specific topic area described in the research and strategic plans of the recipient;
       - **(ii)** the demonstrated research, technology transfer, and education resources available to the recipient to carry out this section;
       - **(iii)** the ability of the recipient to provide leadership in solving immediate and long-range national and regional transportation problems;
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T21:56:12.615Z"
       - **(ix)** the ability of the recipient to implement the proposed program in a cost-efficient manner, such as through cost sharing and overall reduced overhead, facilities, and administrative costs.
   - **(5)**
     - **(A)** The Secretary shall provide to each applicant, upon request, any materials, including copies of reviews (with any information that would identify a reviewer redacted), used in the evaluation process of the proposal of the applicant.
-    - **(B)** The Secretary shall submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the overall review process under paragraph (4) that includes—
+    - **(B)** The Secretary shall make available to the public on a website of the Department of Transportation a report describing the overall review process under paragraph (4) that includes—
       - **(i)** specific criteria of evaluation used in the review;
       - **(ii)** descriptions of the review process; and
       - **(iii)** explanations of the selected awards.
@@ -70,7 +70,9 @@ generated_at: "2026-03-29T21:56:12.615Z"
       - **(ii)** The matching amounts referred to in clause (i) may include amounts made available to the recipient under—
         - **(I)** section 504(b) of title 23 ; or
         - **(II)** section 505 of title 23 .
-    - **(E)** The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles.
+    - **(E)**
+      - **(i)** A regional university transportation center receiving a grant under this paragraph shall carry out research focusing on 1 or more of the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
+      - **(ii)** The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles, including the cybersecurity implications of technologies relating to connected vehicles, connected infrastructure, and autonomous vehicles.
   - **(4)**
     - **(A)** The Secretary shall provide grants of not greater than $2,000,000 and not less than $1,000,000 to not more than 20 recipients to carry out this paragraph.
     - **(B)**
@@ -83,9 +85,9 @@ generated_at: "2026-03-29T21:56:12.615Z"
   - **(1)** The Secretary shall—
     - **(A)** coordinate the research, education, and technology transfer activities carried out by grant recipients under this section; and
     - **(B)** disseminate the results of that research through the establishment and operation of a publicly accessible online information clearinghouse.
-  - **(2)** Not less frequently than annually, and consistent with the plan developed under section 6503, the Secretary shall—
+  - **(2)** Not less frequently than biennially, and consistent with the plan developed under section 6503, the Secretary shall—
     - **(A)** review and evaluate the programs carried out under this section by grant recipients; and
-    - **(B)** submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate a report describing that review and evaluation.
-  - **(3)** For each of fiscal years 2016 through 2020, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+    - **(B)** make available to the public on a website of the Department of Transportation a report describing that review and evaluation.
+  - **(3)** For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 - **(e)** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
 - **(f)** Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.

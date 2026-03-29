@@ -3,9 +3,9 @@ title: "Section 679 - Collection of data relating to adoption and foster care"
 usc_title: 42
 usc_section: "679"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 679"
-generated_at: "2026-03-29T21:55:57.436Z"
+generated_at: "2026-03-29T22:01:07.226Z"
 ---
 
 # § 679. Collection of data relating to adoption and foster care

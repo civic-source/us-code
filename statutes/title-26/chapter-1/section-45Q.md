@@ -3,9 +3,9 @@ title: "Section 45Q - Credit for carbon oxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-29T21:53:33.480Z"
+generated_at: "2026-03-29T21:59:41.204Z"
 ---
 
 # § 45Q. Credit for carbon oxide sequestration
@@ -106,6 +106,9 @@ generated_at: "2026-03-29T21:53:33.480Z"
   - **(7)** In the case of any taxable year beginning in a calendar year after 2009, there shall be substituted for each dollar amount contained in paragraphs (1) and (2) of subsection (a) an amount equal to the product of—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
+  - **(3)** The amount of the credit determined under subsection (a) with respect to any project for any taxable year shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
+    - **(A)** the numerator of which is the sum, for the taxable year and all prior taxable years, of the proceeds from an issue described in section 142(a)(17) used to provide financing for the project the interest on which is exempt from tax under section 103, and
+    - **(B)** the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
 - **(g)** In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008 , a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
   - **(1)** subsection (a) of this section, as in effect on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and
   - **(2)** paragraphs (1) and (2) of subsection (a) of this section.

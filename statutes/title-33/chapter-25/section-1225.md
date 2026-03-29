@@ -3,9 +3,9 @@ title: "Section 1225 - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4
 usc_title: 33
 usc_section: "1225"
 chapter: 25
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 1225"
-generated_at: "2026-03-29T21:54:05.640Z"
+generated_at: "2026-03-29T21:59:51.410Z"
 ---
 
 # §§ 1224, 1225. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264

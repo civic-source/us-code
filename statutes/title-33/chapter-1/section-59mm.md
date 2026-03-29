@@ -1,14 +1,14 @@
 ---
-title: "Section 59mm - Coalbank Slough Deemed not Navigable Waters of the United States for Certain Purposes"
+title: "Section 59mm - Coalbank Slough deemed not navigable waters of the United States for certain purposes"
 usc_title: 33
 usc_section: "59mm"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 59mm"
-generated_at: "2026-03-29T21:54:05.591Z"
+generated_at: "2026-03-29T21:59:51.355Z"
 ---
 
-# § 59mm. Coalbank Slough Deemed not Navigable Waters of the United States for Certain Purposes
+# § 59mm. Coalbank Slough deemed not navigable waters of the United States for certain purposes
 
 The Coalbank Slough in Coos Bay, Oregon, is deemed to not be navigable waters of the United States for all purposes of subchapter J of Chapter I of title 33, Code of Federal Regulations.
 

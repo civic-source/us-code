@@ -3,9 +3,9 @@ title: "Section 826 - Art. 26. Military judge of a general or special court-mart
 usc_title: 10
 usc_section: "826"
 chapter: 47
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 826"
-generated_at: "2026-03-29T21:51:41.462Z"
+generated_at: "2026-03-29T21:57:04.721Z"
 ---
 
 # § 826. Art. 26. Military judge of a general or special court-martial

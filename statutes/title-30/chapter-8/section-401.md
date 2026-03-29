@@ -3,9 +3,9 @@ title: "Section 401 - Establishment of research laboratory; duties"
 usc_title: 30
 usc_section: "401"
 chapter: 8
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "30 U.S.C. § 401"
-generated_at: "2026-03-29T21:53:13.441Z"
+generated_at: "2026-03-29T21:59:13.769Z"
 ---
 
 # § 401. Establishment of research laboratory; duties

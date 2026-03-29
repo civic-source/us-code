@@ -3,9 +3,9 @@ title: "Section 656 - Administration"
 usc_title: 29
 usc_section: "656"
 chapter: 15
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "29 U.S.C. § 656"
-generated_at: "2026-03-29T21:53:12.265Z"
+generated_at: "2026-03-29T21:59:20.158Z"
 ---
 
 # § 656. Administration

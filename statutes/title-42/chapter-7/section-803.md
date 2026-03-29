@@ -3,9 +3,9 @@ title: "Section 803 - Coronavirus local fiscal recovery fund"
 usc_title: 42
 usc_section: "803"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 803"
-generated_at: "2026-03-29T21:55:57.443Z"
+generated_at: "2026-03-29T22:01:07.236Z"
 ---
 
 # § 803. Coronavirus local fiscal recovery fund
@@ -47,6 +47,7 @@ generated_at: "2026-03-29T21:55:57.443Z"
   - **(2)** No metropolitan city, nonentitlement unit of local government, or county may use funds made available under this section for deposit into any pension fund.
   - **(3)** A metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360(17) 1 1 See References in Text note below. of this title, a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
   - **(4)** Notwithstanding paragraph (1), a metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer such funds to the State in which such entity is located.
+  - **(5)** Funds provided under this section for an authorized Bureau of Reclamation project may be used for purposes of satisfying any non-Federal matching requirement required for the project.
 - **(d)** Any metropolitan city, nonentitlement unit of local government, or county receiving funds provided under a payment made under this section shall provide to the Secretary periodic reports providing a detailed accounting of the uses of such funds by such metropolitan city, nonentitlement unit of local government, or county and including such other information as the Secretary may require for the administration of this section.
 - **(e)** Any metropolitan city, nonentitlement unit of local government, or county that has failed to comply with subsection (c) shall be required to repay to the Secretary an amount equal to the amount of funds used in violation of such subsection.
 - **(f)** The Secretary shall have the authority to issue such regulations as may be necessary or appropriate to carry out this section.

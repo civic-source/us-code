@@ -3,9 +3,9 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-29T21:55:58.418Z"
+generated_at: "2026-03-29T22:01:08.563Z"
 ---
 
 # § 16391. Improved technology transfer of energy technologies
@@ -57,10 +57,10 @@ generated_at: "2026-03-29T21:55:58.418Z"
     - **(A)** a summary, with supporting data, of how much Department program offices contribute to and use the Fund each year, including a list of current funding restrictions;
     - **(B)** recommendations on how to improve implementation and administration of the Fund; and
     - **(C)** an analysis on how to spend funds optimally on technology areas that have the greatest need and opportunity for commercial application, rather than spending funds at the programmatic level or under current funding restrictions.
-- **(f)**
+- **(h)**
   - **(1)** Not later than 180 days after August 8, 2005 , the Secretary shall submit to Congress a technology transfer execution plan.
   - **(2)** Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (c).
-- **(g)** The Secretary may develop additional programs to—
+- **(i)** The Secretary may develop additional programs to—
   - **(1)** support regional energy innovation systems;
   - **(2)** support clean energy incubators;
   - **(3)** provide small business vouchers;

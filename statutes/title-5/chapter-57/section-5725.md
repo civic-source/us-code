@@ -3,9 +3,9 @@ title: "Section 5725 - Transportation expenses; employees assigned to danger are
 usc_title: 5
 usc_section: "5725"
 chapter: 57
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "5 U.S.C. § 5725"
-generated_at: "2026-03-29T21:50:39.291Z"
+generated_at: "2026-03-29T21:56:41.867Z"
 ---
 
 # § 5725. Transportation expenses; employees assigned to danger areas

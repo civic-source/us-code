@@ -3,47 +3,60 @@ title: "Section 31104 - Authorization of appropriations"
 usc_title: 49
 usc_section: "31104"
 chapter: 311
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 31104"
-generated_at: "2026-03-29T21:56:12.669Z"
+generated_at: "2026-03-29T22:02:02.750Z"
 ---
 
 # § 31104. Authorization of appropriations
 
-- **(a)** The following sums are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account):
-  - **(1)** Subject to paragraph (2) and subsection (c), to carry out section 31102 (except subsection ( l ))—
-    - **(A)** $292,600,000 for fiscal year 2017;
-    - **(B)** $298,900,000 for fiscal year 2018;
-    - **(C)** $304,300,000 for fiscal year 2019; and
-    - **(D)** $308,700,000 for fiscal year 2020.
-  - **(2)** Subject to subsection (c), to carry out section 31102( l )—
-    - **(A)** $42,200,000 for fiscal year 2017;
-    - **(B)** $43,100,000 for fiscal year 2018;
-    - **(C)** $44,000,000 for fiscal year 2019; and
-    - **(D)** $44,900,000 for fiscal year 2020.
-  - **(3)** To carry out section 31103—
-    - **(A)** $1,000,000 for fiscal year 2017;
-    - **(B)** $1,000,000 for fiscal year 2018;
-    - **(C)** $1,000,000 for fiscal year 2019; and
-    - **(D)** $1,000,000 for fiscal year 2020.
-  - **(4)** Subject to subsection (c), to carry out section 31313—
-    - **(A)** $31,200,000 for fiscal year 2017;
-    - **(B)** $31,800,000 for fiscal year 2018;
-    - **(C)** $32,500,000 for fiscal year 2019; and
-    - **(D)** $33,200,000 for fiscal year 2020.
+- **(a)** There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account)—
+  - **(1)** subject to subsection (c), to carry out the motor carrier safety assistance program under section 31102 (other than the high priority program under subsection ( l ) of that section)—
+    - **(A)** $390,500,000 for fiscal year 2022;
+    - **(B)** $398,500,000 for fiscal year 2023;
+    - **(C)** $406,500,000 for fiscal year 2024;
+    - **(D)** $414,500,000 for fiscal year 2025; and
+    - **(E)** $422,500,000 for fiscal year 2026;
+  - **(2)** subject to subsection (c), to carry out the high priority program under section 31102( l ) (other than the commercial motor vehicle enforcement training and support grant program under paragraph (5) of that section)—
+    - **(A)** $57,600,000 for fiscal year 2022;
+    - **(B)** $58,800,000 for fiscal year 2023;
+    - **(C)** $60,000,000 for fiscal year 2024;
+    - **(D)** $61,200,000 for fiscal year 2025; and
+    - **(E)** $62,400,000 for fiscal year 2026;
+  - **(3)** to carry out the commercial motor vehicle enforcement training and support grant program under section 31102( l )(5), $5,000,000 for each of fiscal years 2022 through 2026;
+  - **(4)** to carry out the commercial motor vehicle operators grant program under section 31103—
+    - **(A)** $1,100,000 for fiscal year 2022;
+    - **(B)** $1,200,000 for fiscal year 2023;
+    - **(C)** $1,300,000 for fiscal year 2024;
+    - **(D)** $1,400,000 for fiscal year 2025; and
+    - **(E)** $1,500,000 for fiscal year 2026; and
+  - **(5)** subject to subsection (c), to carry out the financial assistance program for commercial driver’s license implementation under section 31313—
+    - **(A)** $41,800,000 for fiscal year 2022;
+    - **(B)** $42,650,000 for fiscal year 2023;
+    - **(C)** $43,500,000 for fiscal year 2024;
+    - **(D)** $44,350,000 for fiscal year 2025; and
+    - **(E)** $45,200,000 for fiscal year 2026.
 - **(b)**
   - **(1)** Amounts made available under subsection (a) shall be used to reimburse financial assistance recipients proportionally for the Federal Government’s share of the costs incurred.
-  - **(2)** The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102, 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections. The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement. The Secretary shall include a recipient’s in-kind contributions in determining the reimbursement.
+  - **(2)**
+    - **(A)**
+      - **(i)** The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102 (except subsection ( l )(5) of that section), 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections.
+      - **(ii)** The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102( l )(5), an amount that is equal to 100 percent of the costs incurred by the recipient in a fiscal year in developing and implementing a training program under that section.
+    - **(B)** The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement.
+    - **(C)** The Secretary shall include a recipient’s in-kind contributions in determining the reimbursement.
   - **(3)** Each recipient shall submit vouchers at least quarterly for costs the recipient incurs in developing and implementing programs under sections 31102, 31103, and 31313.
-- **(c)** On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (4) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for partner training and program support in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs.
+- **(c)** On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (5) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for program support in that fiscal year.
 - **(d)** The approval of a financial assistance agreement by the Secretary under section 31102, 31103, or 31313 is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs in carrying out the provisions of the grant or cooperative agreement.
 - **(e)** The Secretary shall establish criteria for eligible activities to be funded with financial assistance agreements under this section and publish those criteria in a notice of funding availability before the financial assistance program application period.
 - **(f)** The period of availability for a recipient to expend funds under a grant or cooperative agreement authorized under subsection (a) is as follows:
-  - **(1)** For grants made for carrying out section 31102, other than section 31102( l ), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+  - **(1)** For grants made for carrying out section 31102, other than section 31102( l ), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
   - **(2)** For grants made or cooperative agreements entered into for carrying out section 31102( l )(2), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
   - **(3)** For grants made for carrying out section 31102( l )(3), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
-  - **(4)** For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
-  - **(5)** For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
+  - **(4)** For grants made for carrying out section 31102( l )(5), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
+  - **(5)** For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
+  - **(6)** For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 - **(g)** Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 - **(h)** Amounts made available under this section shall remain available until expended.
-- **(i)** Amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+- **(i)**
+  - **(1)** Except as provided in paragraph (2), amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+  - **(2)** Amounts made available for the motor carrier safety assistance program established under section 31102 (other than amounts made available to carry out section 31102( l )) that are not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation under that program.

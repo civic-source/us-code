@@ -3,9 +3,9 @@ title: "Section 13502 - National Advanced Manufacturing Technologies Program"
 usc_title: 42
 usc_section: "13502"
 chapter: 134
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 13502"
-generated_at: "2026-03-29T21:55:58.365Z"
+generated_at: "2026-03-29T22:01:08.480Z"
 ---
 
 # § 13502. National Advanced Manufacturing Technologies Program

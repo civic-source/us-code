@@ -3,9 +3,9 @@ title: "Section 392 - Depositaries of Government funds as confined to banks in F
 usc_title: 12
 usc_section: "392"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 392"
-generated_at: "2026-03-29T21:51:52.719Z"
+generated_at: "2026-03-29T21:57:19.325Z"
 ---
 
 # § 392. Depositaries of Government funds as confined to banks in Federal reserve system; member banks as depositaries

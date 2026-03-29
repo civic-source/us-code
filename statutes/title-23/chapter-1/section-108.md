@@ -3,9 +3,9 @@ title: "Section 108 - Advance acquisition of real property"
 usc_title: 23
 usc_section: "108"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 108"
-generated_at: "2026-03-29T21:52:38.497Z"
+generated_at: "2026-03-29T21:58:52.048Z"
 ---
 
 # § 108. Advance acquisition of real property
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T21:52:38.497Z"
     - **(C)** the State has a mandatory comprehensive and coordinated land use, environment, and transportation planning process under State law and the acquisition is certified by the Governor as consistent with the State plans before the acquisition;
     - **(D)** the acquisition is determined in advance by the Governor to be consistent with the State transportation planning process pursuant to section 135 of this title ;
     - **(E)** the alternative for which the real property interest is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
-    - **(F)** before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this Act, 1 1 See References in Text note below. and in compliance with section 303 of title 49 , section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
+    - **(F)** before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this title, and in compliance with section 303 of title 49 , section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
     - **(G)** before the time that the cost incurred by a State is approved for Federal participation, the Secretary has determined that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
 - **(d)**
   - **(1)** In this subsection, the term “acquisition of a real property interest” includes the acquisition of—

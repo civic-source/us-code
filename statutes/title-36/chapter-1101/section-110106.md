@@ -3,9 +3,9 @@ title: "Section 110106 - Powers"
 usc_title: 36
 usc_section: "110106"
 chapter: 1101
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "36 U.S.C. § 110106"
-generated_at: "2026-03-29T21:54:32.132Z"
+generated_at: "2026-03-29T22:00:07.835Z"
 ---
 
 # § 110106. Powers

@@ -3,9 +3,9 @@ title: "Section 127 - Vehicle weight limitations—Interstate System"
 usc_title: 23
 usc_section: "127"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 127"
-generated_at: "2026-03-29T21:52:38.503Z"
+generated_at: "2026-03-29T21:58:52.054Z"
 ---
 
 # § 127. Vehicle weight limitations—Interstate System
@@ -74,11 +74,12 @@ generated_at: "2026-03-29T21:52:38.503Z"
     - **(A)** Interstate Route 69 in Kentucky (formerly the Wendell H. Ford (Western Kentucky) Parkway) from the Interstate Route 24 Interchange, near Eddyville, to the Edward T. Breathitt (Pennyrile) Parkway Interchange.
     - **(B)** The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
   - **(3)**
-    - **(A)** If any segment of highway described in clauses (i) through (iv) of this subparagraph is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
+    - **(A)** If any segment of highway described in clauses (i) through (v) is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
       - **(i)** The William H. Natcher Parkway (to be designated as a spur of Interstate Route 65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
       - **(ii)** The Julian M. Carroll (Purchase) Parkway (to be designated as Interstate Route 69) in Kentucky from the Tennessee state line to the interchange with Interstate Route 24, near Calvert City.
       - **(iii)** The Wendell H. Ford (Western Kentucky) Parkway (to be designated as a spur of Interstate Route 69) from the interchange with the William H. Natcher Parkway in Ohio County, Kentucky, west to the interchange of the Western Kentucky Parkway with the Edward T. Breathitt (Pennyrile) Parkway.
       - **(iv)** The Edward T. Breathitt (Pennyrile) Parkway (to be designated as a spur of Interstate Route 69) from Interstate 24, north to Interstate 69.
+      - **(v)** The Louie B. Nunn Cumberland Expressway (to be designated as a spur of Interstate Route 65) from the interchange with Interstate Route 65 in Barren County, Kentucky, east to the interchange with United States Highway 27 in Somerset, Kentucky.
     - **(B)** Nothing in this paragraph shall prohibit the State from issuing a permit for a nondivisible load or vehicle with a gross vehicle weight that exceeds 120,000 pounds.
 - **(m)**
   - **(1)** The vehicle weight limitations set forth in this section do not apply to a covered heavy-duty tow and recovery vehicle.
@@ -119,3 +120,5 @@ generated_at: "2026-03-29T21:52:38.503Z"
   - **(1)** has a gross vehicle weight of 129,000 pounds or less;
   - **(2)** other than gross vehicle weight, complies with the single axle, tandem axle, and bridge formula limits set forth in subsection (a); and
   - **(3)** is authorized to operate on such segment under North Dakota State law.
+- **(v)** If any segment in the State of North Carolina of United States Route 17, United States Route 29, United States Route 52, United States Route 64, United States Route 70, United States Route 74, United States Route 117, United States Route 220, United States Route 264, or United States Route 421 is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+- **(w)** If any segment of the highway referred to in paragraph (96) of section 1105(c) of the Intermodal Surface Transportation Efficiency Act of 1991 ( Public Law 102–240 ; 105 Stat. 2032 ) is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without any regard to any requirement under this section.

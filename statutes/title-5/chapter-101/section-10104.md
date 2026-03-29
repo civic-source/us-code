@@ -3,9 +3,9 @@ title: "Section 10104 - Recruitment bonuses"
 usc_title: 5
 usc_section: "10104"
 chapter: 101
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "5 U.S.C. § 10104"
-generated_at: "2026-03-29T21:50:39.357Z"
+generated_at: "2026-03-29T21:56:41.928Z"
 ---
 
 # § 10104. Recruitment bonuses

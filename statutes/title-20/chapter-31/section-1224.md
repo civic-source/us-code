@@ -3,9 +3,9 @@ title: "Section 1224 - Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Au
 usc_title: 20
 usc_section: "1224"
 chapter: 31
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 1224"
-generated_at: "2026-03-29T21:52:09.666Z"
+generated_at: "2026-03-29T21:58:01.269Z"
 ---
 
 # § 1224. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Aug. 21, 1974 , 88 Stat. 562

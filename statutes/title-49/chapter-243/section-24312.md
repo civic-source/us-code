@@ -3,12 +3,18 @@ title: "Section 24312 - Labor standards"
 usc_title: 49
 usc_section: "24312"
 chapter: 243
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 24312"
-generated_at: "2026-03-29T21:56:12.651Z"
+generated_at: "2026-03-29T22:02:02.730Z"
 ---
 
 # § 24312. Labor standards
 
 - **(a)** Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 3704 of title 40 apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 - **(b)** Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act ( 45 U.S.C. 151 et seq.) are deemed to comply with sections 3141–3144, 3146, and 3147 of title 40.
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), beginning on the date that is 1 year after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, Amtrak shall ensure that at least 1 Amtrak ticket agent is employed at each station building—
+    - **(A)** that Amtrak owns, or operates service through, as part of a long-distance or Northeast Corridor passenger service route;
+    - **(B)** where at least 1 Amtrak ticket agent was employed on or after October 1, 2017 ; and
+    - **(C)** for which an average of 40 passengers boarded or deboarded an Amtrak train per day during all of the days in fiscal year 2017 when the station was serviced by Amtrak, regardless of the number of Amtrak trains servicing the station per day.
+  - **(2)** Paragraph (1) shall not apply to any station building in which a commuter rail ticket agent has the authority to sell Amtrak tickets.

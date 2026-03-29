@@ -3,9 +3,9 @@ title: "Section 22905 - Grant conditions"
 usc_title: 49
 usc_section: "22905"
 chapter: 229
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 22905"
-generated_at: "2026-03-29T21:56:12.648Z"
+generated_at: "2026-03-29T22:02:02.725Z"
 ---
 
 # § 22905. Grant conditions
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T21:56:12.648Z"
     - **(D)** an assurance that an applicant complies with liability requirements consistent with section 28103 of this title ; and
   - **(2)** the applicant agrees to comply with—
     - **(A)** the standards of section 24312 of this title , as such section was in effect on September 1, 2003 , with respect to the project in the same manner that Amtrak is required to comply with those standards for construction work financed under an agreement made under section 24308(a) of this title ; and
-    - **(B)** the protective arrangements that are equivalent to the protective arrangements established under section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 836 ) with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
+    - **(B)** the protective arrangements that are equivalent to the protective arrangements established under section 22404 with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
 - **(d)**
   - **(1)** Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act 1 1 See References in Text note below. on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
     - **(A)** gives each such qualified employee of the predecessor provider priority in hiring according to the employee’s seniority on the predecessor provider for each position with the replacing entity that is in the employee’s craft or class and is available within 3 years after the termination of the service being replaced;

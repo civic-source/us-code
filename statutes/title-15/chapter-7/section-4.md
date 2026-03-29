@@ -3,9 +3,9 @@ title: "Section 4 - Information Security and Privacy Advisory Board"
 usc_title: 15
 usc_section: "4"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T21:51:59.828Z"
+generated_at: "2026-03-29T21:57:52.781Z"
 ---
 
 # § 278g–4. Information Security and Privacy Advisory Board

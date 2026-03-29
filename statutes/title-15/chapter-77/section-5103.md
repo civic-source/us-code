@@ -3,9 +3,9 @@ title: "Section 5103 - Establishment of scientific research and development prog
 usc_title: 15
 usc_section: "5103"
 chapter: 77
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 5103"
-generated_at: "2026-03-29T21:52:00.116Z"
+generated_at: "2026-03-29T21:57:53.002Z"
 ---
 
 # § 5103. Establishment of scientific research and development program to develop competitive manufacturing technologies and increase energy efficiency in steel and aluminum industries

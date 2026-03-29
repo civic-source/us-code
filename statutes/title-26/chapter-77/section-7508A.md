@@ -1,25 +1,25 @@
 ---
-title: "Section 7508A - Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions"
+title: "Section 7508A - Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions"
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-29T21:53:34.069Z"
+generated_at: "2026-03-29T21:59:41.813Z"
 ---
 
-# § 7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
+# § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
 
-- **(a)** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
-  - **(1)** whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
+- **(a)** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)), a significant fire, or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+  - **(1)** whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster, fire, or action),
   - **(2)** the amount of any interest, penalty, additional amount, or addition to the tax for periods after such date, and
   - **(3)** the amount of any credit or refund.
-- **(b)** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+- **(b)** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 - **(c)** The rules of section 7508(b) shall apply for purposes of this section.
 - **(d)**
   - **(1)** In the case of any qualified taxpayer, the period—
     - **(A)** beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
-    - **(B)** ending on the date which is 60 days after the latest incident date so specified,
+    - **(B)** ending on the date which is 60 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
   - **(2)** For purposes of this subsection, the term “qualified taxpayer” means—
     - **(A)** any individual whose principal residence (for purposes of section 1033(h)(4)) is located in a disaster area,
     - **(B)** any taxpayer if the taxpayer’s principal place of business (other than the business of performing services as an employee) is located in a disaster area,
@@ -27,10 +27,12 @@ generated_at: "2026-03-29T21:53:34.069Z"
     - **(D)** any taxpayer whose records necessary to meet a deadline for an act described in section 7508(a)(1) are maintained in a disaster area,
     - **(E)** any individual visiting a disaster area who was killed or injured as a result of the disaster, and
     - **(F)** solely with respect to a joint return, any spouse of an individual described in any preceding subparagraph of this paragraph.
-  - **(3)** For purposes of this subsection, the term “disaster area” has the meaning given such term under subparagraph (B) of section 165(i)(5) with respect to a Federally declared disaster (as defined in subparagraph (A) of such section).
+  - **(3)** For purposes of this subsection, the term “disaster area” means an area in which a major disaster for which the President provides financial assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5174 ) occurs.
   - **(4)** In the case of any person described in subsection (b), a rule similar to the rule of paragraph (1) shall apply for purposes of subsection (b) with respect to—
     - **(A)** making contributions to a qualified retirement plan (within the meaning of section 4974(c)) under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2),
     - **(B)** making distributions under section 408(d)(4),
     - **(C)** recharacterizing contributions under section 408A(d)(6), and
     - **(D)** making a rollover under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3).
   - **(5)** Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
+  - **(6)** For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
+- **(e)** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.

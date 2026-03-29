@@ -3,9 +3,9 @@ title: "Section 2 - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-29T21:54:05.610Z"
+generated_at: "2026-03-29T21:59:51.376Z"
 ---
 
 # § 579d–2. Deauthorization of inactive projects
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T21:54:05.610Z"
     - **(A)** The Secretary shall develop a preliminary list of each water resources development project, or separable element of a project, authorized for construction before November 8, 2007 , for which—
       - **(i)** planning, design, or construction was not initiated before December 27, 2020 ; or
       - **(ii)** planning, design, or construction was initiated before December 27, 2020 , but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
-    - **(B)** The Secretary may develop the preliminary list from the comprehensive construction backlog and operation and maintenance reports developed pursuant to section 1001(b)(2) of the Water Resources Development Act of 1986 ( 33 U.S.C. 579a [(b)(2)]).
+    - **(B)** The Secretary may develop the preliminary list from the comprehensive construction backlog and operation and maintenance reports developed pursuant to section 579a(b)(2) of this title .
     - **(C)** The Secretary shall not include on the preliminary list—
       - **(i)** an environmental infrastructure assistance project authorized to be carried out by the Secretary (including a project authorized pursuant to an environmental assistance program); or
       - **(ii)** a project or separable element of a project authorized as part of the Comprehensive Everglades Restoration Plan described in section 601 of the Water Resources Development Act of 2000 ( 114 Stat. 2680 ).
@@ -60,13 +60,13 @@ generated_at: "2026-03-29T21:54:05.610Z"
 - **(f)**
   - **(1)** Any water resources development project, or separable element of a project, authorized for construction prior to November 17, 1986 , for which construction has not been initiated prior to December 27, 2020 , or for which funds have not been obligated for construction in the 10-year period prior to December 27, 2020 , is hereby deauthorized.
   - **(2)** Not later than 60 days after December 27, 2020 , the Secretary shall issue to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that identifies—
-    - **(A)**
-    - **(B)**
+    - **(A)** the name of each project, or separable element of a project, deauthorized by paragraph (1); and
+    - **(B)** the estimated current value of each such project or separable element of a project.
 - **(g)** The Secretary or the non-Federal interest may not carry out any authorized water resources development project, or separable element of such project, for which construction has not been initiated in the 20-year period following the date of the authorization of such project or separable element, until—
   - **(1)** the Secretary provides to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a post-authorization change report that updates the economic and environmental analysis of the project or separable element; and
   - **(2)** the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate take appropriate action to address any modifications to the economic and environmental analysis for the project or separable element of the project contained in the post-authorization change report.
 - **(h)** In this section:
-  - **(1)** The term “post-authorization change report” has the meaning given such term in section 1132(d) of the Water Resources Development Act of 2016 ( 33 U.S.C. 2282e [d]).
+  - **(1)** The term “post-authorization change report” has the meaning given such term in section 2282e(d) of this title .
   - **(2)** The term “post-authorization study” means—
     - **(A)** a feasibility report developed under section 2282 of this title ;
     - **(B)** a feasibility study, as defined in section 2215(d) of this title ; or

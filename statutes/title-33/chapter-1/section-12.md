@@ -3,9 +3,9 @@ title: "Section 12 - Port Arthur Ship Canal"
 usc_title: 33
 usc_section: "12"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 12"
-generated_at: "2026-03-29T21:54:05.584Z"
+generated_at: "2026-03-29T21:59:51.347Z"
 ---
 
 # § 12. Port Arthur Ship Canal

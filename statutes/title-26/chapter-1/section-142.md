@@ -3,9 +3,9 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-29T21:53:33.519Z"
+generated_at: "2026-03-29T21:59:41.251Z"
 ---
 
 # § 142. Exempt facility bond
@@ -24,8 +24,10 @@ generated_at: "2026-03-29T21:53:33.519Z"
   - **(11)** high-speed intercity rail facilities,
   - **(12)** environmental enhancements of hydroelectric generating facilities,
   - **(13)** qualified public educational facilities,
-  - **(14)** qualified green building and sustainable design projects, or
-  - **(15)** qualified highway or surface freight transfer facilities.
+  - **(14)** qualified green building and sustainable design projects,
+  - **(15)** qualified highway or surface freight transfer facilities,
+  - **(16)** qualified broadband projects, or
+  - **(17)** qualified carbon dioxide capture facilities.
 - **(b)** For purposes of subsection (a)—
   - **(1)**
     - **(A)** A facility shall be treated as described in paragraph (1), (2), (3), or (12) of subsection (a) only if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit.
@@ -222,7 +224,7 @@ generated_at: "2026-03-29T21:53:33.519Z"
     - **(B)** any project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible and which receives Federal assistance under title 23, United States Code (as so in effect), or
     - **(C)** any facility for the transfer of freight from truck to rail or rail to truck (including any temporary storage facilities directly related to such transfers) which receives Federal assistance under either title 23 or title 49, United States Code (as so in effect).
   - **(2)**
-    - **(A)** The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $15,000,000,000.
+    - **(A)** The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $30,000,000,000.
     - **(B)** An issue shall not be treated as an issue described in subsection (a)(15) if the aggregate face amount of bonds issued pursuant to such issue for any qualified highway or surface freight transfer facility (when added to the aggregate face amount of bonds previously so issued for such facility) exceeds the amount allocated to such facility under subparagraph (C).
     - **(C)** The Secretary of Transportation shall allocate the amount described in subparagraph (A) among qualified highway or surface freight transfer facilities in such manner as the Secretary determines appropriate.
   - **(3)** An issue shall not be treated as an issue described in subsection (a)(15) unless at least 95 percent of the net proceeds of the issue is expended for qualified highway or surface freight transfer facilities within the 5-year period beginning on the date of issuance. If at least 95 percent of such net proceeds is not expended within such 5-year period, an issue shall be treated as continuing to meet the requirements of this paragraph if the issuer uses all unspent proceeds of the issue to redeem bonds of the issue within 90 days after the end of such 5-year period. The Secretary, at the request of the issuer, may extend such 5-year period if the issuer establishes that any failure to meet such period is due to circumstances beyond the control of the issuer.
@@ -230,3 +232,47 @@ generated_at: "2026-03-29T21:53:33.519Z"
     - **(A)** the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
     - **(B)** the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
     - **(C)** the refunded bond is redeemed not later than 90 days after the date of the issuance of the refunding bond.
+- **(n)**
+  - **(1)** For purposes of subsection (a)(16), the term “qualified broadband project” means any project which—
+    - **(A)** is designed to provide broadband service solely to 1 or more census block groups in which more than 50 percent of residential households do not have access to fixed, terrestrial broadband service which delivers at least 25 megabits per second downstream and at least 3 megabits service upstream, and
+    - **(B)** results in internet access to residential locations, commercial locations, or a combination of residential and commercial locations at speeds not less than 100 megabits per second for downloads and 20 megabits for second for uploads, but only if at least 90 percent of the locations provided such access under the project are locations where, before the project, a broadband service provider—
+      - **(i)** did not provide service, or
+      - **(ii)** did not provide service meeting the minimum speed requirements described in subparagraph (A).
+  - **(2)** A project shall not be treated as a qualified broadband project unless, before the issue date of any issue the proceeds of which are to be used to fund the project, the issuer—
+    - **(A)** notifies each broadband service provider providing broadband service in the area within which broadband services are to be provided under the project of the project and its intended scope,
+    - **(B)** includes in such notice a request for information from each such provider with respect to the provider’s ability to deploy, manage, and maintain a broadband network capable of providing gigabit capable Internet access to residential or commercial locations, and
+    - **(C)** allows each such provider at least 90 days to respond to such notice and request.
+- **(o)**
+  - **(1)** For purposes of subsection (a)(17), the term “qualified carbon dioxide capture facility” means—
+    - **(A)** the eligible components of an industrial carbon dioxide facility, and
+    - **(B)** a direct air capture facility (as defined in section 45Q(e)(1)).
+  - **(2)** For purposes of this subsection:
+    - **(A)**
+      - **(i)** The term “eligible component” means any equipment which is installed in an industrial carbon dioxide facility that satisfies the requirements under paragraph (3) and which is—
+        - **(I)** used for the purpose of capture, treatment and purification, compression, transportation, or on-site storage of carbon dioxide produced by the industrial carbon dioxide facility, or
+        - **(II)** integral or functionally related and subordinate to a process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon dioxide and hydrogen for direct use or subsequent chemical or physical conversion.
+      - **(ii)** For purposes of this subparagraph—
+        - **(I)**
+        - **(II)** The term “coal” means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), the term “industrial carbon dioxide facility” means a facility that emits carbon dioxide (including from any fugitive emissions source) that is created as a result of any of the following processes:
+        - **(I)** Fuel combustion.
+        - **(II)** Gasification.
+        - **(III)** Bioindustrial.
+        - **(IV)** Fermentation.
+        - **(V)** Any manufacturing industry relating to—
+      - **(ii)** For purposes of clause (i), an industrial carbon dioxide facility shall not include—
+        - **(I)** any geological gas facility, or
+        - **(II)** any air separation unit that—
+      - **(iii)** For purposes of this subparagraph—
+        - **(I)** The term “petroleum residue”means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
+        - **(II)** The term “geological gas facility” means a facility that—
+  - **(3)**
+    - **(A)** Subject to subparagraph (B), the eligible components of an industrial carbon dioxide facility satisfies the requirements of this paragraph if such eligible components are designed to have a capture and storage percentage (as determined under subparagraph (C)) that is equal to or greater than 65 percent.
+    - **(B)** In the case of an industrial carbon dioxide facility designed with a capture and storage percentage that is less than 65 percent, the percentage of the cost of the eligible components installed in such facility that may be financed with tax-exempt bonds may not be greater than the designed capture and storage percentage.
+    - **(C)**
+      - **(i)** Subject to clause (ii), the capture and storage percentage shall be an amount, expressed as a percentage, equal to the quotient of—
+        - **(I)** the total metric tons of carbon dioxide designed to be annually captured, transported, and injected into—
+        - **(II)** the total metric tons of carbon dioxide which would otherwise be released into the atmosphere each year as industrial emission of greenhouse gas if the eligible components were not installed in the industrial carbon dioxide facility.
+      - **(ii)** In the case of eligible components that are designed to capture carbon dioxide solely from specific sources of emissions or portions thereof within an industrial carbon dioxide facility, the capture and storage percentage under this subparagraph shall be determined based only on such specific sources of emissions or portions thereof.
+  - **(4)** The Secretary shall issue such regulations or other guidance as are necessary to carry out the provisions of this subsection, including methods for determining costs attributable to an eligible component for purposes of paragraph (3)(A).

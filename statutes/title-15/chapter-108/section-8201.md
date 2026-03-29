@@ -3,9 +3,9 @@ title: "Section 8201 - Reporting, payment, and allocation of premium taxes"
 usc_title: 15
 usc_section: "8201"
 chapter: 108
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 8201"
-generated_at: "2026-03-29T21:52:00.169Z"
+generated_at: "2026-03-29T21:57:53.042Z"
 ---
 
 # § 8201. Reporting, payment, and allocation of premium taxes

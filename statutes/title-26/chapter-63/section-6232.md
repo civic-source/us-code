@@ -3,9 +3,9 @@ title: "Section 6232 - Assessment, collection, and payment"
 usc_title: 26
 usc_section: "6232"
 chapter: 63
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 6232"
-generated_at: "2026-03-29T21:53:34.005Z"
+generated_at: "2026-03-29T21:59:41.742Z"
 ---
 
 # § 6232. Assessment, collection, and payment

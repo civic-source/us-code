@@ -3,9 +3,9 @@ title: "Section 252 - Establishment of Bureau of Border Security"
 usc_title: 6
 usc_section: "252"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "6 U.S.C. § 252"
-generated_at: "2026-03-29T21:51:42.823Z"
+generated_at: "2026-03-29T21:56:51.752Z"
 ---
 
 # § 252. Establishment of Bureau of Border Security

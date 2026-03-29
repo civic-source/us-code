@@ -3,9 +3,9 @@ title: "Section 50302 - Port development"
 usc_title: 46
 usc_section: "50302"
 chapter: 503
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "46 U.S.C. § 50302"
-generated_at: "2026-03-29T21:56:05.092Z"
+generated_at: "2026-03-29T22:01:37.293Z"
 ---
 
 # § 50302. Port development
@@ -114,7 +114,7 @@ generated_at: "2026-03-29T21:56:05.092Z"
   - **(4)** Funds provided under this subsection may not be used for—
     - **(A)** projects conducted on property outside the boundary of a port unless such property is directly related to port operations or to an intermodal connection to a port;
     - **(B)** any single grant award more than 10 percent of total allocation of funds to carry out this subsection per fiscal year appropriation; or
-    - **(C)** activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of the United States Army Corps of Engineers.
+    - **(C)** activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of 1 1 So in original. the United States Army Corps of Engineers.
   - **(5)**
     - **(A)** Any costs of the project to be paid by the recipient’s matching share pursuant to subsection (c)(8)(B) may—
       - **(i)** be incurred prior to the date on which assistance is provided; and

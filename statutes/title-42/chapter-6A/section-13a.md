@@ -3,9 +3,9 @@ title: "Section 13a - Screening and treatment for maternal depression"
 usc_title: 42
 usc_section: "13a"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 13a"
-generated_at: "2026-03-29T21:55:57.074Z"
+generated_at: "2026-03-29T22:01:06.836Z"
 ---
 
 # § 247b–13a. Screening and treatment for maternal depression

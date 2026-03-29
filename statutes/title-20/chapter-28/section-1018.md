@@ -3,9 +3,9 @@ title: "Section 1018 - Performance-Based Organization for delivery of Federal st
 usc_title: 20
 usc_section: "1018"
 chapter: 28
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 1018"
-generated_at: "2026-03-29T21:52:09.524Z"
+generated_at: "2026-03-29T21:58:01.169Z"
 ---
 
 # § 1018. Performance-Based Organization for delivery of Federal student financial assistance

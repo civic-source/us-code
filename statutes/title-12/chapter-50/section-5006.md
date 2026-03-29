@@ -3,9 +3,9 @@ title: "Section 5006 - Expedited recredit for consumers"
 usc_title: 12
 usc_section: "5006"
 chapter: 50
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "12 U.S.C. § 5006"
-generated_at: "2026-03-29T21:51:52.995Z"
+generated_at: "2026-03-29T21:57:19.591Z"
 ---
 
 # § 5006. Expedited recredit for consumers

@@ -3,9 +3,9 @@ title: "Section 490 - Travel and transportation: dependent children of members s
 usc_title: 37
 usc_section: "490"
 chapter: 8
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "37 U.S.C. § 490"
-generated_at: "2026-03-29T21:54:26.025Z"
+generated_at: "2026-03-29T22:00:09.581Z"
 ---
 
 # § 490. Travel and transportation: dependent children of members stationed overseas

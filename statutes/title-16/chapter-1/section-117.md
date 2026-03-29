@@ -3,9 +3,9 @@ title: "Section 117 - Exclusive jurisdiction ceded to United States by Colorado;
 usc_title: 16
 usc_section: "117"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 117"
-generated_at: "2026-03-29T21:52:27.920Z"
+generated_at: "2026-03-29T21:58:32.557Z"
 ---
 
 # § 117. Exclusive jurisdiction ceded to United States by Colorado; saving provisions; fugitives from justice

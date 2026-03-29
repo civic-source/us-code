@@ -3,9 +3,9 @@ title: "Section 911 - Civil actions"
 usc_title: 17
 usc_section: "911"
 chapter: 9
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "17 U.S.C. § 911"
-generated_at: "2026-03-29T21:52:03.157Z"
+generated_at: "2026-03-29T21:58:01.801Z"
 ---
 
 # § 911. Civil actions

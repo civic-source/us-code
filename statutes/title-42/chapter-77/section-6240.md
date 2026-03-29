@@ -3,9 +3,9 @@ title: "Section 6240 - Petroleum products for storage, transport, or exchange"
 usc_title: 42
 usc_section: "6240"
 chapter: 77
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 6240"
-generated_at: "2026-03-29T21:55:58.019Z"
+generated_at: "2026-03-29T22:01:07.987Z"
 ---
 
 # § 6240. Petroleum products for storage, transport, or exchange

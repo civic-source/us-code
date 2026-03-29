@@ -3,9 +3,9 @@ title: "Section 8151 - Statement of congressional purpose"
 usc_title: 38
 usc_section: "8151"
 chapter: 81
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 8151"
-generated_at: "2026-03-29T21:54:35.052Z"
+generated_at: "2026-03-29T22:00:30.979Z"
 ---
 
 # § 8151. Statement of congressional purpose

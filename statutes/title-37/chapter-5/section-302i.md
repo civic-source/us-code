@@ -3,9 +3,9 @@ title: "Section 302i - Special pay: pharmacy officers"
 usc_title: 37
 usc_section: "302i"
 chapter: 5
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "37 U.S.C. § 302i"
-generated_at: "2026-03-29T21:54:26.006Z"
+generated_at: "2026-03-29T22:00:09.560Z"
 ---
 
 # § 302i. Special pay: pharmacy officers

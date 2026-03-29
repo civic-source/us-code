@@ -3,9 +3,9 @@ title: "Section 2377 - Preference for commercial products and commercial service
 usc_title: 10
 usc_section: "2377"
 chapter: 140
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 2377"
-generated_at: "2026-03-29T21:51:41.591Z"
+generated_at: "2026-03-29T21:57:04.855Z"
 ---
 
 # § 2377. Preference for commercial products and commercial services

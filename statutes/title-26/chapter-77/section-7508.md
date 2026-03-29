@@ -3,9 +3,9 @@ title: "Section 7508 - Time for performing certain acts postponed by reason of s
 usc_title: 26
 usc_section: "7508"
 chapter: 77
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 7508"
-generated_at: "2026-03-29T21:53:34.069Z"
+generated_at: "2026-03-29T21:59:41.812Z"
 ---
 
 # § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation
@@ -14,14 +14,14 @@ generated_at: "2026-03-29T21:53:34.069Z"
   - **(1)** Whether any of the following acts was performed within the time prescribed therefor:
     - **(A)** Filing any return of income, estate, gift, employment, or excise tax;
     - **(B)** Payment of any income, estate, gift, employment, or excise tax or any installment thereof or of any other liability to the United States in respect thereof;
-    - **(C)** Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;
+    - **(C)** Filing a petition with the Tax Court, or filing a notice of appeal from a decision of the Tax Court;
     - **(D)** Allowance of a credit or refund of any tax;
     - **(E)** Filing a claim for credit or refund of any tax;
     - **(F)** Bringing suit upon any such claim for credit or refund;
     - **(G)** Assessment of any tax;
     - **(H)** Giving or making any notice or demand for the payment of any tax, or with respect to any liability to the United States in respect of any tax;
     - **(I)** Collection, by the Secretary, by levy or otherwise, of the amount of any liability in respect of any tax;
-    - **(J)** Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax; and
+    - **(J)** Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax or in respect of any erroneous refund; and
     - **(K)** Any other act required or permitted under the internal revenue laws specified by the Secretary;
   - **(2)** The amount of any credit or refund; and
   - **(3)** Any certification of a seriously delinquent tax debt under section 7345.

@@ -3,9 +3,9 @@ title: "Section 13381 - Report"
 usc_title: 42
 usc_section: "13381"
 chapter: 134
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 13381"
-generated_at: "2026-03-29T21:55:58.360Z"
+generated_at: "2026-03-29T22:01:08.470Z"
 ---
 
 # § 13381. Report

@@ -3,9 +3,9 @@ title: "Section 1283 - Hospital treatment of alien crewmen afflicted with certai
 usc_title: 8
 usc_section: "1283"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "8 U.S.C. § 1283"
-generated_at: "2026-03-29T21:51:25.949Z"
+generated_at: "2026-03-29T21:56:53.587Z"
 ---
 
 # § 1283. Hospital treatment of alien crewmen afflicted with certain diseases

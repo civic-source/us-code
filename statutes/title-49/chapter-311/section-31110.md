@@ -3,19 +3,19 @@ title: "Section 31110 - Authorization of appropriations"
 usc_title: 49
 usc_section: "31110"
 chapter: 311
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 31110"
-generated_at: "2026-03-29T21:56:12.670Z"
+generated_at: "2026-03-29T22:02:02.752Z"
 ---
 
 # § 31110. Authorization of appropriations
 
-- **(a)** There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
-  - **(1)** $267,400,000 for fiscal year 2016;
-  - **(2)** $277,200,000 for fiscal year 2017;
-  - **(3)** $283,000,000 for fiscal year 2018;
-  - **(4)** $284,000,000 for fiscal year 2019; and
-  - **(5)** $288,000,000 for fiscal year 2020.
+- **(a)** There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
+  - **(1)** $360,000,000 for fiscal year 2022;
+  - **(2)** $367,500,000 for fiscal year 2023;
+  - **(3)** $375,000,000 for fiscal year 2024;
+  - **(4)** $382,500,000 for fiscal year 2025; and
+  - **(5)** $390,000,000 for fiscal year 2026.
 - **(b)** The funds authorized by this section shall be used for—
   - **(1)** personnel costs;
   - **(2)** administrative infrastructure;

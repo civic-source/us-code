@@ -3,9 +3,9 @@ title: "Section 565b - Transfer of fire lookout towers and other improvements fo
 usc_title: 16
 usc_section: "565b"
 chapter: 3
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 565b"
-generated_at: "2026-03-29T21:52:28.148Z"
+generated_at: "2026-03-29T21:58:32.746Z"
 ---
 
 # § 565b. Transfer of fire lookout towers and other improvements for fire control to States, political subdivisions or agencies; reversion

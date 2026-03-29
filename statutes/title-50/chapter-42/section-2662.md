@@ -3,9 +3,9 @@ title: "Section 2662 - Reporting on penetrations of networks of contractors and 
 usc_title: 50
 usc_section: "2662"
 chapter: 42
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "50 U.S.C. § 2662"
-generated_at: "2026-03-29T21:56:07.360Z"
+generated_at: "2026-03-29T22:01:35.011Z"
 ---
 
 # § 2662. Reporting on penetrations of networks of contractors and subcontractors

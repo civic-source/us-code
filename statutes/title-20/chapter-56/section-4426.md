@@ -3,9 +3,9 @@ title: "Section 4426 - Provision of facilities"
 usc_title: 20
 usc_section: "4426"
 chapter: 56
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 4426"
-generated_at: "2026-03-29T21:52:09.733Z"
+generated_at: "2026-03-29T21:58:01.322Z"
 ---
 
 # § 4426. Provision of facilities

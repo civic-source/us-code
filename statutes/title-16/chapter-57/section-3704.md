@@ -3,9 +3,9 @@ title: "Section 3704 - Administrative services and support"
 usc_title: 16
 usc_section: "3704"
 chapter: 57
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "16 U.S.C. § 3704"
-generated_at: "2026-03-29T21:52:28.386Z"
+generated_at: "2026-03-29T21:58:32.930Z"
 ---
 
 # § 3704. Administrative services and support

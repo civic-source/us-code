@@ -3,9 +3,9 @@ title: "Section 1509 - Relationship to other district court actions"
 usc_title: 17
 usc_section: "1509"
 chapter: 15
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "17 U.S.C. § 1509"
-generated_at: "2026-03-29T21:52:03.166Z"
+generated_at: "2026-03-29T21:58:01.808Z"
 ---
 
 # § 1509. Relationship to other district court actions

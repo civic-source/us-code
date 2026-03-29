@@ -3,9 +3,9 @@ title: "Section 140301 - Organization"
 usc_title: 36
 usc_section: "140301"
 chapter: 1403
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "36 U.S.C. § 140301"
-generated_at: "2026-03-29T21:54:32.135Z"
+generated_at: "2026-03-29T22:00:07.841Z"
 ---
 
 # § 140301. Organization

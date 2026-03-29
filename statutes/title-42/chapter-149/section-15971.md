@@ -3,9 +3,9 @@ title: "Section 15971 - Integrated coal/renewable energy system"
 usc_title: 42
 usc_section: "15971"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 15971"
-generated_at: "2026-03-29T21:55:58.394Z"
+generated_at: "2026-03-29T22:01:08.522Z"
 ---
 
 # § 15971. Integrated coal/renewable energy system

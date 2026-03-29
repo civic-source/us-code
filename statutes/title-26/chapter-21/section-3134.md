@@ -3,9 +3,9 @@ title: "Section 3134 - Employee retention credit for employers subject to closur
 usc_title: 26
 usc_section: "3134"
 chapter: 21
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 3134"
-generated_at: "2026-03-29T21:53:33.877Z"
+generated_at: "2026-03-29T21:59:41.612Z"
 ---
 
 # § 3134. Employee retention credit for employers subject to closure due to COVID–19
@@ -53,9 +53,8 @@ generated_at: "2026-03-29T21:53:33.877Z"
       - **(i)** Such term shall include amounts paid by the eligible employer to provide and maintain a group health plan (as defined in section 5000(b)(1)), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a).
       - **(ii)** For purposes of this section, amounts treated as wages under clause (i) shall be treated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
   - **(5)** The term “recovery startup business” means any employer—
-    - **(A)** which began carrying on any trade or business after February 15, 2020 ,
-    - **(B)** for which the average annual gross receipts of such employer (as determined under rules similar to the rules under section 448(c)(3)) for the 3-taxable-year period ending with the taxable year which precedes the calendar quarter for which the credit is determined under subsection (a) does not exceed $1,000,000, and
-    - **(C)** which, with respect to such calendar quarter, is not described in subclause (I) or (II) of paragraph (2)(A)(ii).
+    - **(A)** which began carrying on any trade or business after February 15, 2020 , and
+    - **(B)** for which the average annual gross receipts of such employer (as determined under rules similar to the rules under section 448(c)(3)) for the 3-taxable-year period ending with the taxable year which precedes the calendar quarter for which the credit is determined under subsection (a) does not exceed $1,000,000.
   - **(6)** Any term used in this section which is also used in this chapter or chapter 22 shall have the same meaning as when used in such chapter.
 - **(d)** All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or ( o ) of section 414, shall be treated as one employer for purposes of this section.
 - **(e)** For purposes of this section, rules similar to the rules of sections 51(i)(1) and 280C(a) shall apply.
@@ -93,4 +92,4 @@ generated_at: "2026-03-29T21:53:33.877Z"
   - **(1)** to allow the advance payment of the credit under subsection (a) as provided in subsection (j)(2), subject to the limitations provided in this section, based on such information as the Secretary shall require,
   - **(2)** with respect to the application of the credit under subsection (a) to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
   - **(3)** to prevent the avoidance of the purposes of the limitations under this section, including through the leaseback of employees.
-- **(n)** This section shall only apply to wages paid after June 30, 2021 , and before January 1, 2022 .
+- **(n)** This section shall only apply to wages paid after June 30, 2021 , and before October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022 ).

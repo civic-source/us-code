@@ -3,9 +3,9 @@ title: "Section 3018B - Opportunity for certain persons to enroll"
 usc_title: 38
 usc_section: "3018B"
 chapter: 30
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3018B"
-generated_at: "2026-03-29T21:54:34.981Z"
+generated_at: "2026-03-29T22:00:30.899Z"
 ---
 
 # § 3018B. Opportunity for certain persons to enroll

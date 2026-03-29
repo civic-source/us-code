@@ -3,9 +3,9 @@ title: "Section 1062 - Cross references"
 usc_title: 26
 usc_section: "1062"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 1062"
-generated_at: "2026-03-29T21:53:33.804Z"
+generated_at: "2026-03-29T21:59:41.535Z"
 ---
 
 # § 1062. Cross references

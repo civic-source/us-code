@@ -3,9 +3,9 @@ title: "Section 6963 - Cooperation with Environmental Protection Agency"
 usc_title: 42
 usc_section: "6963"
 chapter: 82
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 6963"
-generated_at: "2026-03-29T21:55:58.081Z"
+generated_at: "2026-03-29T22:01:08.068Z"
 ---
 
 # § 6963. Cooperation with Environmental Protection Agency

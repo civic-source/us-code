@@ -3,9 +3,9 @@ title: "Section 645a - Annual report on suspensions and debarments proposed by S
 usc_title: 15
 usc_section: "645a"
 chapter: 14
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 645a"
-generated_at: "2026-03-29T21:51:59.872Z"
+generated_at: "2026-03-29T21:57:52.822Z"
 ---
 
 # § 645a. Annual report on suspensions and debarments proposed by Small Business Administration

@@ -3,9 +3,9 @@ title: "Section 2209k - Prohibition on payments to fossil fuel refiners and impo
 usc_title: 7
 usc_section: "2209k"
 chapter: 55
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 2209k"
-generated_at: "2026-03-29T21:51:24.648Z"
+generated_at: "2026-03-29T21:57:09.264Z"
 ---
 
 # § 2209k. Prohibition on payments to fossil fuel refiners and importers

@@ -3,9 +3,9 @@ title: "Section 262 - Duty to observe standard time of zones"
 usc_title: 15
 usc_section: "262"
 chapter: 6
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 262"
-generated_at: "2026-03-29T21:51:59.822Z"
+generated_at: "2026-03-29T21:57:52.777Z"
 ---
 
 # § 262. Duty to observe standard time of zones

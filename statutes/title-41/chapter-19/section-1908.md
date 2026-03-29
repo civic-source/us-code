@@ -3,9 +3,9 @@ title: "Section 1908 - Inflation adjustment of acquisition-related dollar thresh
 usc_title: 41
 usc_section: "1908"
 chapter: 19
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "41 U.S.C. § 1908"
-generated_at: "2026-03-29T21:55:04.278Z"
+generated_at: "2026-03-29T22:00:33.737Z"
 ---
 
 # § 1908. Inflation adjustment of acquisition-related dollar thresholds
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:55:04.278Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the requirement for adjustment under subsection (c) applies to a dollar threshold that is specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency, as the Council determines.
   - **(2)** Subsection (c) does not apply to dollar thresholds—
-    - **(A)** in chapter 67 of this title;
+    - **(A)** in chapters 67 and 83 of this title;
     - **(B)** in sections 3141 to 3144, 3146, and 3147 of title 40; or
     - **(C)** the United States Trade Representative establishes pursuant to title III of the Trade Agreements Act of 1979 ( 19 U.S.C. 2511 et seq.).
   - **(3)** This section supersedes the applicability of other provisions of law that provide for the adjustment of a dollar threshold that is adjustable under this section.

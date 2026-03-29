@@ -3,9 +3,9 @@ title: "Section 529 - Helium lands subject to entry"
 usc_title: 30
 usc_section: "529"
 chapter: 12
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "30 U.S.C. § 529"
-generated_at: "2026-03-29T21:53:13.443Z"
+generated_at: "2026-03-29T21:59:13.771Z"
 ---
 
 # § 529. Helium lands subject to entry

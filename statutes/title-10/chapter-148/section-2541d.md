@@ -3,9 +3,9 @@ title: "Section 2541d - Reports"
 usc_title: 10
 usc_section: "2541d"
 chapter: 148
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 2541d"
-generated_at: "2026-03-29T21:51:41.612Z"
+generated_at: "2026-03-29T21:57:04.876Z"
 ---
 
 # § 2541d. Reports

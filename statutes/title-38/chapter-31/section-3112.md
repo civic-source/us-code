@@ -3,9 +3,9 @@ title: "Section 3112 - Revolving fund loans"
 usc_title: 38
 usc_section: "3112"
 chapter: 31
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3112"
-generated_at: "2026-03-29T21:54:34.984Z"
+generated_at: "2026-03-29T22:00:30.904Z"
 ---
 
 # § 3112. Revolving fund loans

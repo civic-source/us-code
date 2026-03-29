@@ -3,9 +3,9 @@ title: "Section 3696 - Prohibition on certain advertising, sales, and enrollment
 usc_title: 38
 usc_section: "3696"
 chapter: 36
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3696"
-generated_at: "2026-03-29T21:54:34.999Z"
+generated_at: "2026-03-29T22:00:30.924Z"
 ---
 
 # § 3696. Prohibition on certain advertising, sales, and enrollment practices
@@ -49,7 +49,9 @@ generated_at: "2026-03-29T21:54:34.999Z"
     - **(A)** The term “misleading statement” includes any communication, action, omission, or intimation made in writing, visually, orally, or through other means, that has the likelihood or tendency to mislead the intended recipient of the communication under the circumstances in which the communication is made. Such term includes the use of student endorsements or testimonials for an educational institution that a student gives to the institution either under duress or because the institution required the student to make such an endorsement or testimonial to participate in a program of education.
     - **(B)** The term “misrepresentation” means any false, erroneous, or misleading statement, action, omission, or intimation made directly or indirectly to a student, a prospective student, the public, an accrediting agency, a State agency, or to the Secretary by an eligible institution, one of its representatives, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services.
     - **(C)** The term “substantial misrepresentation” means misrepresentation in which the person to whom it was made could reasonably be expected to rely, or has reasonably relied, to that person’s detriment.
-- **(c)** An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance.
+- **(c)**
+  - **(1)** An educational institution with a course or program of education approved under this chapter, and an entity that owns such an educational institution, shall not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+  - **(2)** In determining whether a violation of paragraph (1) has occurred, the Under Secretary for Benefits shall construe the requirements of this paragraph in accordance with the regulations and guidance prescribed by the Secretary of Education under section 487(a)(20) of the Higher Education Act of 1965 ( 20 U.S.C. 1094(a)(20) ).
 - **(d)**
   - **(1)** To ensure compliance with this section, any educational institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding two-year period. Such record shall be available for inspection by the State approving agency or the Secretary.
   - **(2)** Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print, digital, or electronic media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.

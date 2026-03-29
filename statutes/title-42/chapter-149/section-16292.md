@@ -3,9 +3,9 @@ title: "Section 16292 - Carbon capture technology program"
 usc_title: 42
 usc_section: "16292"
 chapter: 149
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 16292"
-generated_at: "2026-03-29T21:55:58.411Z"
+generated_at: "2026-03-29T22:01:08.549Z"
 ---
 
 # § 16292. Carbon capture technology program
@@ -49,8 +49,9 @@ generated_at: "2026-03-29T21:55:58.411Z"
   - **(2)** The program shall include—
     - **(A)** a research and development program;
     - **(B)** large-scale pilot projects;
-    - **(C)** demonstration projects, in accordance with paragraph (4); and
-    - **(D)** a front-end engineering and design program.
+    - **(C)** demonstration projects, in accordance with paragraph (4);
+    - **(D)** a front-end engineering and design program for carbon capture technologies; and
+    - **(E)** a front-end engineering and design program for carbon dioxide transport infrastructure necessary to enable deployment of carbon capture, utilization, and storage technologies.
   - **(3)** In consultation with the interested entities described in paragraph (6)(C), the Secretary shall develop goals and objectives for the program to be applied to the transformational technologies developed within the program, taking into consideration the following:
     - **(A)** Increasing the performance of coal electric generation facilities and natural gas electric generation facilities, including by—
       - **(i)** ensuring reliable, low-cost power from new and existing coal electric generation facilities and natural gas electric generation facilities;
@@ -137,8 +138,9 @@ generated_at: "2026-03-29T21:55:58.411Z"
       - **(iii)** $150,000,000 for fiscal year 2025;
     - **(C)** for activities under the demonstration projects program component described in subsection (b)(2)(C)—
       - **(i)** $500,000,000 for each of fiscal years 2021 though 2024; and
-      - **(ii)** $600,000,000 for fiscal year 2025; and
-    - **(D)** for activities under the front-end engineering and design program described in subsection (b)(2)(D), $50,000,000 for each of fiscal years 2021 through 2024.
+      - **(ii)** $600,000,000 for fiscal year 2025;
+    - **(D)** for activities under the front-end engineering and design program described in subsection (b)(2)(D), $50,000,000 for each of fiscal years 2021 through 2024; and
+    - **(E)** for activities under the front-end engineering and design program described in subsection (b)(2)(E), $100,000,000 for the period of fiscal years 2022 through 2026.
   - **(2)** Activities under subsection (b)(2)(B) shall be subject to the cost-sharing requirements of section 16352(b) of this title .
 - **(e)**
   - **(1)** Not later than 2 years after December 27, 2020 , the Secretary shall award grants to 1 or more entities for the operation of 1 or more test centers (referred to in this subsection as a “Center”) to provide distinct testing capabilities for innovative carbon capture technologies.

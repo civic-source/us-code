@@ -3,9 +3,9 @@ title: "Section 1680r - Tribal health program option for cost sharing"
 usc_title: 25
 usc_section: "1680r"
 chapter: 18
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "25 U.S.C. § 1680r"
-generated_at: "2026-03-29T21:52:54.537Z"
+generated_at: "2026-03-29T21:58:48.164Z"
 ---
 
 # § 1680r. Tribal health program option for cost sharing

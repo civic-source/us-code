@@ -3,9 +3,9 @@ title: "Section 5311 - Formula grants for rural areas"
 usc_title: 49
 usc_section: "5311"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 5311"
-generated_at: "2026-03-29T21:56:12.605Z"
+generated_at: "2026-03-29T22:02:02.663Z"
 ---
 
 # § 5311. Formula grants for rural areas
@@ -39,10 +39,13 @@ generated_at: "2026-03-29T21:56:12.605Z"
     - **(F)** vehicle revenue miles; and
     - **(G)** ridership.
 - **(c)**
-  - **(1)** Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
-    - **(A)** $5,000,000 for each fiscal year shall be distributed on a competitive basis by the Secretary.
-    - **(B)** $30,000,000 for each fiscal year shall be apportioned as formula grants, as provided in subsection (j).
-  - **(2)**
+  - **(1)** Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) to carry out this section—
+    - **(A)** an amount equal to 5 percent shall be available to carry out paragraph (2); and
+    - **(B)** 3 percent shall be available to carry out paragraph (3).
+  - **(2)** For each fiscal year, the amounts made available under paragraph (1)(A) shall be apportioned for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary, of which—
+    - **(A)** 20 percent shall be distributed by the Secretary on a competitive basis; and
+    - **(B)** 80 percent shall be apportioned as formula grants as provided in subsection (j).
+  - **(3)**
     - **(A)** In this paragraph—
       - **(i)** the term “Appalachian region” has the same meaning as in section 14102 of title 40 ; and
       - **(ii)** the term “eligible recipient” means a State that participates in a program established under subtitle IV of title 40.
@@ -51,7 +54,7 @@ generated_at: "2026-03-29T21:56:12.605Z"
     - **(D)** An eligible recipient may use amounts that cannot be used for operating expenses under this paragraph for a highway project if—
       - **(i)** that use is approved, in writing, by the eligible recipient after appropriate notice and an opportunity for comment and appeal are provided to affected public transportation providers; and
       - **(ii)** the eligible recipient, in approving the use of amounts under this subparagraph, determines that the local transit needs are being addressed.
-  - **(3)**
+  - **(4)**
     - **(A)** The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
     - **(B)**
       - **(i)** 83.15 percent of the amount described in subparagraph (A) shall be apportioned to the States in accordance with this subparagraph.
@@ -99,7 +102,7 @@ generated_at: "2026-03-29T21:56:12.605Z"
   - **(2)** This subsection does not affect or discharge a responsibility of the Secretary of Transportation under a law of the United States.
 - **(j)**
   - **(1)**
-    - **(A)** Of the amounts described in subsection (c)(1)(B)—
+    - **(A)** Of the amounts described in subsection (c)(2)(B)—
       - **(i)** 50 percent of the total amount shall be apportioned so that each Indian tribe providing public transportation service shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of vehicle revenue miles provided by an Indian tribe divided by the total number of vehicle revenue miles provided by all Indian tribes, as reported to the Secretary;
       - **(ii)** 25 percent of the total amount shall be apportioned equally among each Indian tribe providing at least 200,000 vehicle revenue miles of public transportation service annually, as reported to the Secretary; and
       - **(iii)** 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (American Indian Areas, Alaska Native Areas, and Hawaiian Home Lands, as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.

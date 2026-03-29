@@ -3,9 +3,9 @@ title: "Section 5367 - Circumventions prohibited"
 usc_title: 31
 usc_section: "5367"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "31 U.S.C. § 5367"
-generated_at: "2026-03-29T21:53:49.745Z"
+generated_at: "2026-03-29T21:59:46.315Z"
 ---
 
 # § 5367. Circumventions prohibited

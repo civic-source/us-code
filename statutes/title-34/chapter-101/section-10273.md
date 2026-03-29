@@ -3,9 +3,9 @@ title: "Section 10273 - Conspiracy to commit offense against United States"
 usc_title: 34
 usc_section: "10273"
 chapter: 101
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "34 U.S.C. § 10273"
-generated_at: "2026-03-29T21:54:09.926Z"
+generated_at: "2026-03-29T21:59:56.026Z"
 ---
 
 # § 10273. Conspiracy to commit offense against United States

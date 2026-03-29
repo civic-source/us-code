@@ -3,9 +3,9 @@ title: "Section 3319i - Capacity building grants for NLGCA Institutions"
 usc_title: 7
 usc_section: "3319i"
 chapter: 64
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 3319i"
-generated_at: "2026-03-29T21:51:24.680Z"
+generated_at: "2026-03-29T21:57:09.296Z"
 ---
 
 # § 3319i. Capacity building grants for NLGCA Institutions

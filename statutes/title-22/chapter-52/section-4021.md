@@ -3,9 +3,9 @@ title: "Section 4021 - Institution for training"
 usc_title: 22
 usc_section: "4021"
 chapter: 52
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 4021"
-generated_at: "2026-03-29T21:53:05.803Z"
+generated_at: "2026-03-29T21:58:43.216Z"
 ---
 
 # § 4021. Institution for training

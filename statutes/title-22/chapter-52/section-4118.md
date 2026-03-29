@@ -3,9 +3,9 @@ title: "Section 4118 - Administrative provisions"
 usc_title: 22
 usc_section: "4118"
 chapter: 52
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 4118"
-generated_at: "2026-03-29T21:53:05.819Z"
+generated_at: "2026-03-29T21:58:43.228Z"
 ---
 
 # § 4118. Administrative provisions

@@ -3,9 +3,9 @@ title: "Section 1639q - Department of Agriculture"
 usc_title: 7
 usc_section: "1639q"
 chapter: 38
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 1639q"
-generated_at: "2026-03-29T21:51:24.572Z"
+generated_at: "2026-03-29T21:57:09.193Z"
 ---
 
 # § 1639q. Department of Agriculture

@@ -3,9 +3,9 @@ title: "Section 9111 - Assistance for providers of transportation services affec
 usc_title: 15
 usc_section: "9111"
 chapter: 116
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 9111"
-generated_at: "2026-03-29T21:52:00.206Z"
+generated_at: "2026-03-29T21:57:53.071Z"
 ---
 
 # § 9111. Assistance for providers of transportation services affected by COVID–19
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T21:52:00.206Z"
         - **(II)** was not a subsidiary, parent, or affiliate of any other entity with a combined total workforce of more than 500 full-time, part-time, or temporary employees; or
       - **(ii)** a provider of transportation services that—
         - **(I)** on March 1, 2020 , had more than 500 full-time, part-time, or temporary employees; and
-        - **(II)** has not received assistance under paragraph (1), (2), or (3) of section 9042(b) of this title , or part B of this subchapter.
+        - **(II)** has not received assistance under paragraph (1), (2), or (3) of section 9042(b) of this title , or subtitle B of title IV of division A, of the Coronavirus Aid, Relief, and Economic Security Act ( Public Law 116–136 ; 134 Stat. 281 ) [ 15 U.S.C. 9071 et seq.].
     - **(B)**
       - **(i)** A provider of transportation services that has entered into or maintains a contract or agreement described in clause (ii) shall not be determined to be ineligible for assistance under this subsection on the basis of that contract or agreement, subject to clause (iv).
       - **(ii)** A contract or agreement referred to in clause (i) is a contract or agreement for transportation services that is supported by a public entity using funds received under the Emergency Appropriations for Coronavirus Health Response and Agency Operations (division B of Public Law 116–136 ; 134 Stat. 505 ).

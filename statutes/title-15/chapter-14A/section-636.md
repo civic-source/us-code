@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-29T21:51:59.844Z"
+generated_at: "2026-03-29T21:57:52.797Z"
 ---
 
 # § 636. Additional powers
@@ -18,7 +18,9 @@ generated_at: "2026-03-29T21:51:59.844Z"
     - **(B)** Prior to the approval of any loan made pursuant to this subsection, or section 503 of the Small Business Investment Act of 1958 [ 15 U.S.C. 697 ], the Administrator may verify the applicant’s criminal background, or lack thereof, through the best available means, including, if possible, use of the National Crime Information Center computer system at the Federal Bureau of Investigation.
     - **(C)** On and after October 1, 2015 , the Administrator may not guarantee a loan under this subsection if the sole purpose for requesting the guarantee is to allow the lender to exceed the legal lending limit of the lender.
   - **(2)**
-    - **(A)** Except as provided in subparagraphs (B), (D), (E), and (F), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program or the Community Advantage Pilot Program of the Administration), such participation by the Administration shall be equal to 90 percent of the balance of the financing outstanding at the time of disbursement of the loan.
+    - **(A)** Except as provided in subparagraphs (B), (D), (E), and (F), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program), such participation by the Administration shall be equal to—
+      - **(i)** 75 percent of the balance of the financing outstanding at the time of disbursement of the loan, if such balance exceeds $150,000; or
+      - **(ii)** 85 percent of the balance of the financing outstanding at the time of disbursement of the loan, if such balance is less than or equal to $150,000.
     - **(B)**
       - **(i)** The guarantee percentage specified by subparagraph (A) for any loan under this subsection may be reduced upon the request of the participating lender.
       - **(ii)** The Administration shall not use the guarantee percentage requested by a participating lender under clause (i) as a criterion for establishing priorities in approving loan guarantee requests under this subsection.
@@ -200,12 +202,10 @@ generated_at: "2026-03-29T21:51:59.844Z"
       - **(i)** The term “disaster area” means the area for which the President has declared a major disaster, during the 5-year period beginning on the date of the declaration.
       - **(ii)** The term “express lender” means any lender authorized by the Administration to participate in the Express Loan Program.
       - **(iii)** The term “express loan” means any loan made pursuant to this paragraph in which a lender utilizes to the maximum extent practicable its own loan analyses, procedures, and documentation.
-      - **(iv)** The term “Express Loan Program” means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004 , with a guarantee rate—
-        - **(I)** for a loan in an amount less than or equal to $350,000, of not more than 75 percent; and
-        - **(II)** for a loan in an amount greater than $350,000, of not more than 50 percent.
+      - **(iv)** The term “Express Loan Program” means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004 , with a guarantee rate of not more than 50 percent.
     - **(B)** The authority to make an express loan shall be limited to those lenders deemed qualified to make such loans by the Administration. Designation as an express lender for purposes of making an express loan shall not prohibit such lender from taking any other action authorized by the Administration for that lender pursuant to this subsection.
     - **(C)** Any express lender shall retain such designation unless the Administration determines that the express lender has violated the law or regulations promulgated by the Administration or modifies the requirements to be an express lender and the lender no longer satisfies those requirements.
-    - **(D)** The maximum loan amount under the Express Loan Program is $1,000,000.
+    - **(D)** The maximum loan amount under the Express Loan Program is $500,000.
     - **(E)** Except as otherwise provided in this paragraph, the Administration shall take no regulatory, policy, or administrative action, without regard to whether such action requires notification pursuant to paragraph (24), that has the effect of requiring a lender to make an express loan pursuant to subparagraph (D).
     - **(F)**
       - **(i)** In this subparagraph—
@@ -476,7 +476,7 @@ generated_at: "2026-03-29T21:51:59.844Z"
         - **(I)** means any business concern, nonprofit organization, housing cooperative, veterans organization, Tribal business concern, eligible self-employed individual, sole proprietor, independent contractor, or small agricultural cooperative that—
         - **(II)** includes a business concern or organization made eligible for a loan under paragraph (36) under subclause (II), (III), or (IV) of clause (iii), subclause (IV) or (V) of clause (iv), clause (vii), or clause (ix) of subparagraph (D) of paragraph (36) and that meets the requirements described in items (aa) and (bb) of subclause (I); and
         - **(III)** does not include—
-      - **(v)** the term “Tribal business concern”’ means a Tribal business concern described in section 657a(b)(2)(C) of this title .
+      - **(v)** the term “Tribal business concern” means a Tribal business concern described in section 657a(b)(2)(C) of this title .
     - **(B)** Except as otherwise provided in this paragraph, the Administrator may guarantee covered loans to eligible entities under the same terms, conditions, and processes as a loan made under paragraph (36).
     - **(C)**
       - **(i)** Except as otherwise provided in this subparagraph, the maximum amount of a covered loan made to an eligible entity is the lesser of—
@@ -973,7 +973,7 @@ generated_at: "2026-03-29T21:51:59.844Z"
         - **(VIII)** any plan to involve other technical assistance providers (such as counselors from the Service Corps of Retired Executives or small business development centers) or private sector lenders in assisting selected business concerns.
       - **(ii)** In selecting intermediaries to participate in the program established under this subsection, the Administration shall give priority to those applicants that provide loans in amounts averaging not more than $10,000.
     - **(B)** As a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
-    - **(C)** Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, $10,000,000 (in the aggregate) in the remaining years of the intermediary’s participation in the program, and $4,500,000 in any of those remaining years.
+    - **(C)** Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, $7,000,000 (in the aggregate) in the remaining years of the intermediary’s participation in the program, and $3,000,000 in any of those remaining years.
     - **(D)**
       - **(i)** The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
       - **(ii)**

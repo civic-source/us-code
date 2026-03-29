@@ -3,9 +3,9 @@ title: "Section 50101 - Application for assistance"
 usc_title: 34
 usc_section: "50101"
 chapter: 501
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "34 U.S.C. § 50101"
-generated_at: "2026-03-29T21:54:10.016Z"
+generated_at: "2026-03-29T21:59:56.132Z"
 ---
 
 # § 50101. Application for assistance

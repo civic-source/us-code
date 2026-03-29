@@ -3,9 +3,9 @@ title: "Section 655 - Designation of persons having interest in status of a miss
 usc_title: 10
 usc_section: "655"
 chapter: 37
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 655"
-generated_at: "2026-03-29T21:51:41.451Z"
+generated_at: "2026-03-29T21:57:04.713Z"
 ---
 
 # § 655. Designation of persons having interest in status of a missing member

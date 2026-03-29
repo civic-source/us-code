@@ -3,9 +3,9 @@ title: "Section 3079 - Student pre-commissioning education assistance program"
 usc_title: 33
 usc_section: "3079"
 chapter: 43
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "33 U.S.C. § 3079"
-generated_at: "2026-03-29T21:54:05.731Z"
+generated_at: "2026-03-29T21:59:51.514Z"
 ---
 
 # § 3079. Student pre-commissioning education assistance program
@@ -48,6 +48,6 @@ generated_at: "2026-03-29T21:54:05.731Z"
       - **(i)** not physically qualified for appointment; and
       - **(ii)** determined to be unqualified for service in the commissioned officer corps of the Administration because of a physical or medical condition that was not the result of the person’s own misconduct or grossly negligent conduct.
   - **(4)** An obligation to reimburse the Secretary imposed under paragraph (2) is, for all purposes, a debt owed to the United States.
-  - **(5)** A discharge in bankruptcy under title 11, that is entered less than five years after the termination of a written agreement entered into under subsection (b)(1)(C) does not discharge the person signing the agreement from a debt arising under such agreement or under paragraph (2).
+  - **(5)** A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a written agreement entered into under subsection (b)(1)(C) does not discharge the person signing the agreement from a debt arising under such agreement or under paragraph (2).
 - **(i)** The Secretary may prescribe such regulations and orders as the Secretary considers appropriate to carry out this section.
 - **(j)** A service obligation under this section may be completed concurrently with a service obligation under section 3006 of this title .

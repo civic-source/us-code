@@ -3,9 +3,9 @@ title: "Section 63 - Acquisition of stock of export trade corporation"
 usc_title: 15
 usc_section: "63"
 chapter: 2
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 63"
-generated_at: "2026-03-29T21:51:59.722Z"
+generated_at: "2026-03-29T21:57:52.671Z"
 ---
 
 # § 63. Acquisition of stock of export trade corporation

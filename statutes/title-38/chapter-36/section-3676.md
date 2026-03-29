@@ -3,9 +3,9 @@ title: "Section 3676 - Approval of nonaccredited courses"
 usc_title: 38
 usc_section: "3676"
 chapter: 36
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "38 U.S.C. § 3676"
-generated_at: "2026-03-29T21:54:34.995Z"
+generated_at: "2026-03-29T22:00:30.920Z"
 ---
 
 # § 3676. Approval of nonaccredited courses
@@ -34,7 +34,10 @@ generated_at: "2026-03-29T21:54:34.995Z"
   - **(7)** Adequate records as prescribed by the State approving agency are kept to show attendance and progress or grades, and satisfactory standards relating to attendance, progress, and conduct are enforced.
   - **(8)** The institution complies with all local, city, county, municipal, State, and Federal regulations, such as fire codes, building and sanitation codes. The State approving agency may require such evidence of compliance as is deemed necessary.
   - **(9)** The institution is financially sound and capable of fulfilling its commitments for training.
-  - **(10)** The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
+  - **(10)** The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) 1 1 See References in Text note below. of this title. The institution shall not be deemed to have met this requirement until the State approving agency—
+    - **(A)** has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;
+    - **(B)** has, if such an order has been issued, given due weight to that fact; and
+    - **(C)** has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.”; and
   - **(11)** The institution does not exceed its enrollment limitations as established by the State approving agency.
   - **(12)** The institution’s administrators, directors, owners, and instructors are of good reputation and character.
   - **(13)** The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time before completion and—
@@ -42,10 +45,10 @@ generated_at: "2026-03-29T21:54:34.995Z"
     - **(B)** in the case of an institution that is a nonaccredited public educational institution, the institution has and maintains a refund policy regarding the unused portion of tuition, fees, and other charges that is substantially the same as the refund policy followed by accredited public educational institutions located within the same State as such institution.
   - **(14)** In the case of a course designed to prepare an individual for licensure or certification in a State, the course—
     - **(A)** meets all instructional curriculum licensure or certification requirements of such State; and
-    - **(B)** in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b ).
+    - **(B)** in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b ), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
   - **(15)** In the case of a course designed to prepare an individual for employment pursuant to standards developed by a board or agency of a State in an occupation that requires approval, licensure, or certification, the course—
     - **(A)** meets such standards; and
-    - **(B)** in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b ).
+    - **(B)** in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1099b ), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
   - **(16)** Such additional criteria as may be deemed necessary by the State approving agency if the Secretary, in consultation with the State approving agency and pursuant to regulations prescribed to carry out this paragraph, determines such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably.
 - **(d)** The Secretary may waive, in whole or in part, the requirements of subsection (c)(13) of this section in the case of an educational institution which—
   - **(1)** is a college, university, or similar institution offering postsecondary level academic instruction that leads to an associate or higher degree,

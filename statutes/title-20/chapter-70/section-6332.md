@@ -3,9 +3,9 @@ title: "Section 6332 - Allocations to States"
 usc_title: 20
 usc_section: "6332"
 chapter: 70
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 6332"
-generated_at: "2026-03-29T21:52:09.759Z"
+generated_at: "2026-03-29T21:58:01.340Z"
 ---
 
 # § 6332. Allocations to States

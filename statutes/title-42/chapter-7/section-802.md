@@ -3,9 +3,9 @@ title: "Section 802 - Coronavirus State fiscal recovery fund"
 usc_title: 42
 usc_section: "802"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 802"
-generated_at: "2026-03-29T21:55:57.442Z"
+generated_at: "2026-03-29T22:01:07.235Z"
 ---
 
 # § 802. Coronavirus State fiscal recovery fund
@@ -58,6 +58,7 @@ generated_at: "2026-03-29T21:55:57.442Z"
     - **(A)** A State or territory shall not use the funds provided under this section or transferred pursuant to section 803(c)(4) of this title to either directly or indirectly offset a reduction in the net tax revenue of such State or territory resulting from a change in law, regulation, or administrative interpretation during the covered period that reduces any tax (by providing for a reduction in a rate, a rebate, a deduction, a credit, or otherwise) or delays the imposition of any tax or tax increase.
     - **(B)** No State or territory may use funds made available under this section for deposit into any pension fund.
   - **(3)** A State, territory, or Tribal government receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360(17) 1 1 See References in Text note below. of this title), a Tribal organization (as that term is defined in section 5304 of title 25 ), a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
+  - **(4)** Funds provided under this section for an authorized Bureau of Reclamation project may be used for purposes of satisfying any non-Federal matching requirement required for the project.
 - **(d)**
   - **(1)** In order for a State or territory to receive a payment under this section, or a transfer of funds under section 803(c)(4) of this title , the State or territory shall provide the Secretary with a certification, signed by an authorized officer of such State or territory, that such State or territory requires the payment or transfer to carry out the activities specified in subsection (c) of this section and will use any payment under this section, or transfer of funds under section 803(c)(4) of this title , in compliance with subsection (c) of this section.
   - **(2)** Any State, territory, or Tribal government receiving a payment under this section shall provide to the Secretary periodic reports providing a detailed accounting of—

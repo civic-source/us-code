@@ -3,9 +3,9 @@ title: "Section 231k - Incompetence"
 usc_title: 45
 usc_section: "231k"
 chapter: 9
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "45 U.S.C. § 231k"
-generated_at: "2026-03-29T21:54:41.856Z"
+generated_at: "2026-03-29T22:00:35.776Z"
 ---
 
 # § 231k. Incompetence

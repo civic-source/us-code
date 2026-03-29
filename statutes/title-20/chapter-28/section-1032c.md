@@ -3,9 +3,9 @@ title: "Section 1032c - Evaluation"
 usc_title: 20
 usc_section: "1032c"
 chapter: 28
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "20 U.S.C. § 1032c"
-generated_at: "2026-03-29T21:52:09.536Z"
+generated_at: "2026-03-29T21:58:01.175Z"
 ---
 
 # § 1032c. Evaluation

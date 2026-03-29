@@ -3,9 +3,9 @@ title: "Section 10747 - Designation of certain routes by shippers"
 usc_title: 49
 usc_section: "10747"
 chapter: 107
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "49 U.S.C. § 10747"
-generated_at: "2026-03-29T21:56:12.620Z"
+generated_at: "2026-03-29T22:02:02.687Z"
 ---
 
 # § 10747. Designation of certain routes by shippers

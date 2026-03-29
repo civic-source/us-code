@@ -3,9 +3,9 @@ title: "Section 657b - Veterans programs"
 usc_title: 15
 usc_section: "657b"
 chapter: 14
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "15 U.S.C. § 657b"
-generated_at: "2026-03-29T21:51:59.882Z"
+generated_at: "2026-03-29T21:57:52.829Z"
 ---
 
 # § 657b. Veterans programs

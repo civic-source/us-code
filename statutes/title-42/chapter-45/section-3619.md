@@ -3,9 +3,9 @@ title: "Section 3619 - Separability"
 usc_title: 42
 usc_section: "3619"
 chapter: 45
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 3619"
-generated_at: "2026-03-29T21:55:57.928Z"
+generated_at: "2026-03-29T22:01:07.876Z"
 ---
 
 # § 3619. Separability

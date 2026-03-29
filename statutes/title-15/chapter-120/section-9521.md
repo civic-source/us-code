@@ -1,0 +1,14 @@
+---
+title: "Section 9521 - Definition"
+usc_title: 15
+usc_section: "9521"
+chapter: 120
+current_through: "PL 117-80"
+classification: "15 U.S.C. § 9521"
+generated_at: "2026-03-29T21:57:53.078Z"
+---
+
+# § 9521. Definition
+
+In this part, the term “MBDA Business Center Program” means the program established under section ___113. 1 1 So in original. See References in Text note below.
+

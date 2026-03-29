@@ -3,9 +3,9 @@ title: "Section 1716B - Nonmailable plants"
 usc_title: 18
 usc_section: "1716B"
 chapter: 83
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "18 U.S.C. § 1716B"
-generated_at: "2026-03-29T21:52:13.536Z"
+generated_at: "2026-03-29T21:58:06.944Z"
 ---
 
 # § 1716B. Nonmailable plants

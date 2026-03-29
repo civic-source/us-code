@@ -3,9 +3,9 @@ title: "Section 17389 - Technology demonstration on the distribution grid"
 usc_title: 42
 usc_section: "17389"
 chapter: 152
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 17389"
-generated_at: "2026-03-29T21:55:58.454Z"
+generated_at: "2026-03-29T22:01:08.616Z"
 ---
 
 # § 17389. Technology demonstration on the distribution grid

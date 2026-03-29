@@ -3,9 +3,9 @@ title: "Section 358 - Authority to designate official names"
 usc_title: 21
 usc_section: "358"
 chapter: 9
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "21 U.S.C. § 358"
-generated_at: "2026-03-29T21:52:36.133Z"
+generated_at: "2026-03-29T21:58:50.898Z"
 ---
 
 # § 358. Authority to designate official names

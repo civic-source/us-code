@@ -3,9 +3,9 @@ title: "Section 704 - Purchase of substitute lands; limitations; conditions; pay
 usc_title: 30
 usc_section: "704"
 chapter: 20
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "30 U.S.C. § 704"
-generated_at: "2026-03-29T21:53:13.448Z"
+generated_at: "2026-03-29T21:59:13.775Z"
 ---
 
 # § 704. Purchase of substitute lands; limitations; conditions; payment; conveyance of less than a fee

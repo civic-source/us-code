@@ -3,9 +3,9 @@ title: "Section 2124 - Tourism Policy Council"
 usc_title: 22
 usc_section: "2124"
 chapter: 31
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 2124"
-generated_at: "2026-03-29T21:53:05.666Z"
+generated_at: "2026-03-29T21:58:43.107Z"
 ---
 
 # § 2124. Tourism Policy Council

@@ -3,9 +3,9 @@ title: "Section 2209i - Funding for preparation of final agency decisions regard
 usc_title: 7
 usc_section: "2209i"
 chapter: 55
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "7 U.S.C. § 2209i"
-generated_at: "2026-03-29T21:51:24.648Z"
+generated_at: "2026-03-29T21:57:09.264Z"
 ---
 
 # § 2209i. Funding for preparation of final agency decisions regarding discrimination complaints

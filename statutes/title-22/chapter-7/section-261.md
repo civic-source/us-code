@@ -3,9 +3,9 @@ title: "Section 261 - Policy as to settlement of disputes and disarmament"
 usc_title: 22
 usc_section: "261"
 chapter: 7
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 261"
-generated_at: "2026-03-29T21:53:05.579Z"
+generated_at: "2026-03-29T21:58:43.042Z"
 ---
 
 # § 261. Policy as to settlement of disputes and disarmament

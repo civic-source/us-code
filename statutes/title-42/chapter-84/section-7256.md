@@ -3,9 +3,9 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-29T21:55:58.096Z"
+generated_at: "2026-03-29T22:01:08.087Z"
 ---
 
 # § 7256. Contracts, leases, etc., with public agencies and private organizations and persons
@@ -35,7 +35,11 @@ generated_at: "2026-03-29T21:55:58.096Z"
   - **(4)**
     - **(A)** The Secretary shall use such competitive, merit-based selection procedures in entering into transactions under paragraph (1), as the Secretary determines in writing to be practicable.
     - **(B)** A transaction under paragraph (1) shall relate to a research, development, or demonstration project only if the Secretary determines in writing that the use of a standard contract, grant, or cooperative agreement for the project is not feasible or appropriate.
-  - **(5)** The Secretary may protect from disclosure, for up to 5 years after the date on which the information is developed, any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5 , if obtained from a person other than a Federal agency.
+  - **(5)**
+    - **(A)** The Secretary may protect from disclosure any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5 , if obtained from a person other than a Federal agency—
+      - **(i)** for up to 5 years after the date on which the information is developed; or
+      - **(ii)** for up to 30 years after the date on which the information is developed, if the Secretary determines that the nature of the technology under the transaction, including nuclear technology, could reasonably require an extended period of protection from disclosure to reach commercialization.
+    - **(B)** The Secretary may extend the period of protection from disclosure during the term of any transaction described in subparagraph (A) in accordance with that subparagraph.
   - **(6)**
     - **(A)** Not later than 90 days after August 8, 2005 , the Secretary shall issue guidelines for transactions under paragraph (1).
     - **(B)** The guidelines shall be published in the Federal Register for public comment in accordance with rulemaking procedures of the Department.

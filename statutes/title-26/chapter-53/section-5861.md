@@ -3,9 +3,9 @@ title: "Section 5861 - Prohibited acts"
 usc_title: 26
 usc_section: "5861"
 chapter: 53
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "26 U.S.C. § 5861"
-generated_at: "2026-03-29T21:53:33.961Z"
+generated_at: "2026-03-29T21:59:41.696Z"
 ---
 
 # § 5861. Prohibited acts

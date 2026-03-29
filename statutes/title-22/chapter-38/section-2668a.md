@@ -3,9 +3,9 @@ title: "Section 2668a - Disposition of trust funds received from foreign governm
 usc_title: 22
 usc_section: "2668a"
 chapter: 38
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "22 U.S.C. § 2668a"
-generated_at: "2026-03-29T21:53:05.743Z"
+generated_at: "2026-03-29T21:58:43.173Z"
 ---
 
 # § 2668a. Disposition of trust funds received from foreign governments for citizens of United States

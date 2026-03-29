@@ -3,9 +3,9 @@ title: "Section 147 - Construction of ferry boats and ferry terminal facilities"
 usc_title: 23
 usc_section: "147"
 chapter: 1
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "23 U.S.C. § 147"
-generated_at: "2026-03-29T21:52:38.518Z"
+generated_at: "2026-03-29T21:58:52.065Z"
 ---
 
 # § 147. Construction of ferry boats and ferry terminal facilities
@@ -32,6 +32,12 @@ generated_at: "2026-03-29T21:52:38.518Z"
     - **(A)** Amounts made available for a fiscal year under this section shall be allocated using the most recent data available, as collected and imputed in accordance with the national ferry database established under section 1801(e) of SAFETEA–LU ( 23 U.S.C. 129 note).
     - **(B)** To be eligible to receive funds under subsection (c), data shall have been submitted in the most recent collection of data for the national ferry database under section 1801(e) of SAFETEA–LU ( 23 U.S.C. 129 note) for at least 1 ferry service within the State.
   - **(2)** On review of the data submitted under paragraph (1)(B), the Secretary may make adjustments to the data as the Secretary determines necessary to correct misreported or inconsistent data.
-- **(h)** There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $80,000,000 for each of fiscal years 2016 through 2020.
+- **(h)** There are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section—
+  - **(1)** $110,000,000 for fiscal year 2022;
+  - **(2)** $112,000,000 for fiscal year 2023;
+  - **(3)** $114,000,000 for fiscal year 2024;
+  - **(4)** $116,000,000 for fiscal year 2025; and
+  - **(5)** $118,000,000 for fiscal year 2026.
 - **(i)** Notwithstanding section 118(b), funds made available to carry out this section shall remain available until expended.
 - **(j)** All provisions of this chapter that are applicable to the National Highway System, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
+- **(k)** Notwithstanding any other provision of law, in addition to other uses of funds under this section, an eligible entity may use amounts made available under this section to pay the operating costs of the eligible entity.

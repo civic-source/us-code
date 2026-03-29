@@ -3,9 +3,9 @@ title: "Section 3152 - Requirements definition matters covered"
 usc_title: 10
 usc_section: "3152"
 chapter: 209
-current_through: "PL 117-57"
+current_through: "PL 117-80"
 classification: "10 U.S.C. § 3152"
-generated_at: "2026-03-29T21:51:41.649Z"
+generated_at: "2026-03-29T21:57:04.911Z"
 ---
 
 # § 3152. Requirements definition matters covered
