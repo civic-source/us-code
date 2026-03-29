@@ -3,9 +3,9 @@ title: "Section 813 - Power entering into interstate commerce; regulation of rat
 usc_title: 16
 usc_section: "813"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 813"
-generated_at: "2026-03-29T19:29:27.366Z"
+generated_at: "2026-03-29T19:41:13.609Z"
 ---
 
 # § 813. Power entering into interstate commerce; regulation of rates, charges, etc.

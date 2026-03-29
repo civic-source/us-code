@@ -5,7 +5,7 @@ usc_section: "421"
 chapter: 13
 current_through: "PL 117-81"
 classification: "25 U.S.C. § 421"
-generated_at: "2026-03-29T18:44:25.036Z"
+generated_at: "2026-03-29T19:41:28.356Z"
 ---
 
 # § 421. Transferred

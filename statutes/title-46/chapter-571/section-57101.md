@@ -3,13 +3,13 @@ title: "Section 57101 - Placement of vessels in National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57101"
 chapter: 571
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 57101"
-generated_at: "2026-03-29T19:32:17.383Z"
+generated_at: "2026-03-29T19:44:39.476Z"
 ---
 
 # § 57101. Placement of vessels in National Defense Reserve Fleet
 
-- **(a)** Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744). 1 1 See References in Text note below.
+- **(a)** Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet.
 - **(b)** A vessel placed in the Fleet under subsection (a) may not be traded out or sold from the Fleet, except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title.
 - **(c)** All Federal entities are authorized to transfer vessels to the National Defense Reserve Fleet without reimbursement subject to the approval of the Secretary of Transportation and the Secretary of the Navy with respect to Ready Reserve Force vessels and the Secretary of Transportation with respect to all other vessels.

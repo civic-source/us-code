@@ -3,9 +3,9 @@ title: "Section 2641b - Space-available travel on Department of Defense aircraft
 usc_title: 10
 usc_section: "2641b"
 chapter: 157
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2641b"
-generated_at: "2026-03-29T19:27:25.627Z"
+generated_at: "2026-03-29T19:43:37.996Z"
 ---
 
 # § 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:25.627Z"
   - **(2)** If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation of the travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
   - **(3)** Not later than 30 days after making the determination to establish the travel program, the Secretary shall submit to the congressional defense committees an initial implementation report describing—
     - **(A)** the basis for the determination;
-    - **(B)** any additional categories of individuals to be eligible for the travel program under subsection (c)(5);
+    - **(B)** any additional categories of individuals to be eligible for the travel program under subsection (c)(6);
     - **(C)** how the Secretary will ensure that the travel program is established and operated in compliance with the conditions specified in subsection (b); and
     - **(D)** the metrics by which the Secretary will monitor the travel program to determine the efficient and effective execution of the travel program.
 - **(b)**
@@ -25,8 +25,9 @@ generated_at: "2026-03-29T19:27:25.627Z"
   - **(1)** Members of the armed forces on active duty.
   - **(2)** Members of the Selected Reserve who hold a valid Uniformed Services Identification and Privilege Card.
   - **(3)** Retired members of a regular or reserve component of the armed forces, including retired members of reserve components who, but for being under the eligibility age applicable under section 12731 of this title , would be eligible for retired pay under chapter 1223 of this title.
-  - **(4)** Such categories of dependents of individuals described in paragraphs (1) through (3) as the Secretary shall specify in the regulations under subsection (a), under such conditions and circumstances as the Secretary shall specify in such regulations.
-  - **(5)** Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
+  - **(4)** Subject to subsection (f), veterans with a permanent service-connected disability rated as total.
+  - **(5)** Such categories of dependents of individuals described in paragraphs (1) through (3) as the Secretary shall specify in the regulations under subsection (a), under such conditions and circumstances as the Secretary shall specify in such regulations.
+  - **(6)** Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
 - **(d)** In operating the travel program, the Secretary of Defense shall—
   - **(1)** in the sole discretion of the Secretary, establish an order of priority for transportation under the travel program for categories of eligible individuals that is based on considerations of military necessity, humanitarian concerns, and enhancement of morale;
   - **(2)** give priority in consideration of transportation under the travel program to the demands of members of the armed forces in the regular components and in the reserve components on active duty and to the need to provide such members, and their dependents, a means of respite from such demands; and
@@ -42,4 +43,8 @@ generated_at: "2026-03-29T19:27:25.627Z"
     - **(B)** the return travel.
   - **(5)** The requirement to provide transportation on Department of Defense aircraft on a space-available basis on the priority basis described in paragraph (1) to individuals covered by this subsection applies whether or not the travel program is established under this section.
   - **(6)** In this subsection, the terms “primary care provider” and “specialty care provider” refer to a medical or dental professional who provides health care services under chapter 55 of this title.
-- **(f)** The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
+- **(f)**
+  - **(1)** Travel may not be provided under this section to a veteran eligible for travel pursuant to subsection (c)(4) in priority over any member eligible for travel under subsection (c)(1) or any dependent of such a member eligible for travel under this section.
+  - **(2)** The authority in subsection (c)(4) may not be construed as affecting or in any way imposing on the Department of Defense, any armed force, or any commercial company with which they contract an obligation or expectation that they will retrofit or alter, in any way, military aircraft or commercial aircraft, or related equipment or facilities, used or leased by the Department or such armed force to accommodate passengers provided travel under such authority on account of disability.
+  - **(3)** The authority in subsection (c)(4) may not be construed as preempting the authority of a flight commander to determine who boards the aircraft and any other matters in connection with safe operation of the aircraft.
+- **(g)** The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.

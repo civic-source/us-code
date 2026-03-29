@@ -3,9 +3,9 @@ title: "Section 1111 - General organization"
 usc_title: 49
 usc_section: "1111"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 1111"
-generated_at: "2026-03-29T19:32:28.728Z"
+generated_at: "2026-03-29T19:44:57.828Z"
 ---
 
 # § 1111. General organization
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:32:28.728Z"
 - **(a)** The National Transportation Safety Board is an independent establishment of the United States Government.
 - **(b)** The Board is composed of 5 members appointed by the President, by and with the advice and consent of the Senate. Not more than 3 members may be appointed from the same political party. At least 3 members shall be appointed on the basis of technical qualification, professional standing, and demonstrated knowledge in accident reconstruction, safety engineering, human factors, transportation safety, or transportation regulation.
 - **(c)** The term of office of each member is 5 years. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, is appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
-- **(d)** The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
+- **(d)** The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 3 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
 - **(e)** The Chairman is the chief executive and administrative officer of the Board. Subject to the general policies and decisions of the Board, the Chairman shall—
   - **(1)** appoint and supervise officers and employees, other than regular and full-time employees in the immediate offices of another member, necessary to carry out this chapter;
   - **(2)** fix the pay of officers and employees necessary to carry out this chapter;
@@ -32,3 +32,20 @@ generated_at: "2026-03-29T19:32:28.728Z"
   - **(3)** review the fees, rents, and other charges imposed by the Board for services and things of value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
 - **(i)** Each member of the Board shall select and supervise regular and full-time employees in his or her immediate office as long as any such employee has been approved for employment by the designated agency ethics official under the same guidelines that apply to all employees of the Board. Except for the Chairman, the appointment authority provided by this subsection is limited to the number of full-time equivalent positions, in addition to 1 senior professional staff at a level not to exceed the GS 15 level and 1 administrative staff, allocated to each member through the Board’s annual budget and allocation process.
 - **(j)** The Board shall have a seal that shall be judicially recognized.
+- **(k)**
+  - **(1)** The Board shall be deemed to be an agency for purposes of section 552b of title 5 .
+  - **(2)**
+    - **(A)** Notwithstanding section 552b of title 5 , a majority of the members may hold a meeting that is not open to public observation to discuss official agency business if—
+      - **(i)** no formal or informal vote or other official agency action is taken at the meeting;
+      - **(ii)** each individual present at the meeting is a member or an employee of the Board;
+      - **(iii)** at least 1 member of the Board from each political party is present at the meeting, if applicable; and
+      - **(iv)** the General Counsel of the Board is present at the meeting.
+    - **(B)** Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion of a meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
+      - **(i)** a list of the individuals present at the meeting; and
+      - **(ii)** a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under section 552b(c) of title 5 .
+    - **(C)** If the Board properly determines a matter may be withheld from the public under section 552b(c) of title 5 , the Board shall provide a summary with as much general information as possible on each matter withheld from the public.
+    - **(D)** If a discussion under subparagraph (A) directly relates to an active investigation, the Board shall make the disclosure under subparagraph (B) on the date the Board adopts the final report.
+    - **(E)** Nothing in this paragraph may be construed to limit the applicability of section 552b of title 5 with respect to a meeting of the members other than that described in this paragraph.
+    - **(F)** Nothing in this paragraph may be construed—
+      - **(i)** to limit the applicability of section 552b of title 5 with respect to any information which is proposed to be withheld from the public under subparagraph (B)(ii); or
+      - **(ii)** to authorize the Board to withhold from any individual any record that is accessible to that individual under section 552a of title 5 .

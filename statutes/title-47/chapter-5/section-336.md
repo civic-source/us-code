@@ -3,9 +3,9 @@ title: "Section 336 - Broadcast spectrum flexibility"
 usc_title: 47
 usc_section: "336"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 336"
-generated_at: "2026-03-29T19:32:13.779Z"
+generated_at: "2026-03-29T19:44:37.198Z"
 ---
 
 # § 336. Broadcast spectrum flexibility
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:32:13.779Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), all proceeds obtained pursuant to the regulations required by this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
     - **(B)** Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this section and regulating and supervising advanced television services. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis.
-  - **(4)** Within 5 years after February 8, 1996 , the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
+  - **(4)** The Commission shall annually advise the Congress on the amounts collected pursuant to the program required by this subsection.
 - **(f)**
   - **(1)**
     - **(A)** Within 120 days after November 29, 1999 , the Commission shall prescribe regulations to establish a class A television license to be available to licensees of qualifying low-power television stations. Such regulations shall provide that—

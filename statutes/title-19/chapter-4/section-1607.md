@@ -1,14 +1,14 @@
 ---
-title: "Section 1607 - Seizure; value $500,000 or less, prohibited articles, transporting conveyances"
+title: "Section 1607 - Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances"
 usc_title: 19
 usc_section: "1607"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1607"
-generated_at: "2026-03-29T19:28:30.678Z"
+generated_at: "2026-03-29T19:41:21.571Z"
 ---
 
-# § 1607. Seizure; value $500,000 or less, prohibited articles, transporting conveyances
+# § 1607. Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances
 
 - **(a)** If—
   - **(1)** the value of such seized vessel, vehicle, aircraft, merchandise, or baggage does not exceed $500,000;

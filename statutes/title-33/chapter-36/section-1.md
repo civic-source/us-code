@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 36
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-29T18:45:43.489Z"
+generated_at: "2026-03-29T19:43:07.697Z"
 ---
 
 # § 2282d–1. Report to Congress on authorized studies and projects

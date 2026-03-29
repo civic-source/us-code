@@ -3,16 +3,16 @@ title: "Section 1314 - Rights and protections under Employee Polygraph Protectio
 usc_title: 2
 usc_section: "1314"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1314"
-generated_at: "2026-03-29T19:27:07.551Z"
+generated_at: "2026-03-29T19:42:59.644Z"
 ---
 
 # § 1314. Rights and protections under Employee Polygraph Protection Act of 1988
 
 - **(a)**
   - **(1)** No employing office, irrespective of whether a covered employee works in that employing office, may require a covered employee to take a lie detector test where such a test would be prohibited if required by an employer under paragraph (1), (2), or (3) of section 3 of the Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2002(1) , (2), or (3)). In addition, the waiver provisions of section 6(d) of such Act ( 29 U.S.C. 2005(d) ) shall apply to covered employees.
-  - **(2)** For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the Library of Congress and the term “employing office” shall include the Government Accountability Office and the Library of Congress.
+  - **(2)** For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the term “employing office” shall include the Government Accountability Office.
   - **(3)** Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c).
 - **(b)** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2005(c)(1) ).
 - **(c)**

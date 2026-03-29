@@ -1,14 +1,14 @@
 ---
-title: "Section 3031 - Time limitation for use of eligibility and entitlement"
+title: "Section 3031 - Time limitation for use of eligibility and entitlement 1 1 See Extension of Time Limitations for Use of Entitlement: Montgomery GI Bill note below."
 usc_title: 38
 usc_section: "3031"
 chapter: 30
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3031"
-generated_at: "2026-03-29T19:30:40.509Z"
+generated_at: "2026-03-29T19:43:27.004Z"
 ---
 
-# § 3031. Time limitation for use of eligibility and entitlement
+# § 3031. Time limitation for use of eligibility and entitlement 1 1 See Extension of Time Limitations for Use of Entitlement: Montgomery GI Bill note below.
 
 - **(a)** Except as provided in subsections (b) through (g), and subject to subsection (h), of this section, the period during which an individual entitled to educational assistance under this chapter may use such individual’s entitlement expires at the end of the 10-year period beginning on the date of such individual’s last discharge or release from active duty, except that such 10-year period shall begin—
   - **(1)** in the case of an individual who becomes entitled to such assistance under clause (A) or (B) of section 3012(a)(1) of this title , on the later of the date of such individual’s last discharge or release from active duty or the date on which the four-year requirement described in clause (A)(ii) or (B)(ii), respectively, of such section 3012(a)(1) is met;

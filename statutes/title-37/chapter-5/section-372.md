@@ -3,16 +3,16 @@ title: "Section 372 - Continuation of pays during hospitalization and rehabilita
 usc_title: 37
 usc_section: "372"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 372"
-generated_at: "2026-03-29T19:30:34.102Z"
+generated_at: "2026-03-29T19:43:17.249Z"
 ---
 
 # § 372. Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action
 
 - **(a)** If a member of a regular or reserve component of a uniformed service incurs a wound, injury, or illness in the line of duty while serving in a combat operation or a combat zone, while serving in a hostile fire area, or while exposed to a hostile fire event, as described under section 351 of this title , and is hospitalized for treatment of the wound, injury, or illness, the Secretary concerned may continue to pay to the member, notwithstanding any provision of this chapter to the contrary, all pay and allowances (including any bonus, incentive pay, or similar benefit) that were being paid to the member at the time the member incurred the wound, injury, or illness.
 - **(b)** The payment of pay and allowances to a member under subsection (a) may continue until the end of the first month beginning after the earliest of the following dates:
-  - **(1)** The date on which the member is returned for assignment to other than a medical or patient unit for duty.
+  - **(1)** The date on which the member is returned for assignment to other than a medical or patient unit for duty; however, in the case of a member under the jurisdiction of a Secretary of a military department, the date on which the member is determined fit for duty.
   - **(2)** One year after the date on which the member is first hospitalized for the treatment of the wound, injury, or illness, except that the Secretary concerned may extend the termination date in six-month increments.
   - **(3)** The date on which the member is discharged, separated, or retired (including temporary disability retirement) from the uniformed services.
 - **(c)** In this section, the term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment paid to a member of the uniformed services under this title or title 10.

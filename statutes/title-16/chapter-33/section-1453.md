@@ -3,9 +3,9 @@ title: "Section 1453 - Definitions"
 usc_title: 16
 usc_section: "1453"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1453"
-generated_at: "2026-03-29T19:29:27.471Z"
+generated_at: "2026-03-29T19:41:13.714Z"
 ---
 
 # § 1453. Definitions
@@ -23,6 +23,7 @@ For purposes of this chapter—
   - **(6)** The term “energy facilities” means any equipment or facility which is or will be used primarily—
     - **(A)** in the exploration for, or the development, production, conversion, storage, transfer, processing, or transportation of, any energy resource; or
     - **(B)** for the manufacture, production, or assembly of equipment, machinery, products, or devices which are involved in any activity described in subparagraph (A).
+  - **(6a)** The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
   - **(7)** The term “estuary” means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
   - **(8)** The term “estuarine sanctuary” means a research area which may include any part or all of an estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes to the extent feasible a natural unit, set aside to provide scientists and students the opportunity to examine over a period of time the ecological relationships within the area.
   - **(9)** The term “Fund” means the Coastal Zone Management Fund established under section 1456a(b) of this title .

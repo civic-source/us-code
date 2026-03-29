@@ -3,16 +3,16 @@ title: "Section 2082 - Prior service credit"
 usc_title: 50
 usc_section: "2082"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2082"
-generated_at: "2026-03-29T19:32:24.129Z"
+generated_at: "2026-03-29T19:44:52.789Z"
 ---
 
 # § 2082. Prior service credit
 
 - **(a)** A participant may, subject to the provisions of this section, include in the participant’s period of service—
   - **(1)** civilian service in the Government before becoming a participant that would be creditable toward retirement under subchapter III of chapter 83 of title 5 (as determined under section 8332(b) of such title); and
-  - **(2)** honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps of the Public Health Service after June 30, 1960 , or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961 .
+  - **(2)** honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service after June 30, 1960 , or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961 .
 - **(b)**
   - **(1)** Except as provided in paragraphs (2) and (3), the total service of any participant shall exclude—
     - **(A)** any period of civilian service on or after October 1, 1982 , for which retirement deductions or deposits have not been made,
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:32:24.129Z"
     - **(C)** any period of service for which contributions were not transferred pursuant to subsection (c)(1);
   - **(2)** If a participant has not paid a deposit for civilian service performed before October 1, 1982 , for which retirement deductions were not made, such participant’s annuity shall be reduced by 10 percent of the deposit described in paragraph (1) remaining unpaid, unless the participant elects to eliminate the service involved for the purpose of the annuity computation.
   - **(3)** A participant who received a refund of retirement contributions under this or any other retirement system for Government employees covering service for which the participant may be allowed credit under this subchapter may deposit the amount received, with interest computed under paragraph (1). Credit may not be allowed for the service covered by the refund until the deposit is made, except that a participant who—
-    - **(A)** separated from Government service before October 1, 1990 , and received a refund of the participant’s retirement contributions covering a period of service ending before October 1, 1990 ;
+    - **(A)** separated from Government service before March 31, 1991 , and received a refund of the participant’s retirement contributions covering a period of service ending before March 31, 1991 ;
     - **(B)** is entitled to an annuity under this subchapter (other than a disability annuity) which commences after December 1, 1992 ; and
     - **(C)** does not make the deposit required to receive credit for the service covered by the refund;
   - **(4)** Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c).
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:32:24.129Z"
     - **(A)** on account of a service-connected disability—
       - **(i)** incurred in combat with an enemy of the United States; or
       - **(ii)** caused by an instrumentality of war and incurred in the line of duty during a period of war (as defined in section 1101 of title 38 ); or
-    - **(B)** under chapter 67 1 1 See References in Text note below. of title 10.
+    - **(B)** under chapter 67 2 2 See References in Text note below. of title 10.
   - **(4)** Notwithstanding paragraph (3), the survivor annuity of a survivor of a participant—
     - **(A)** who was awarded retired pay based on any period of military service, and
     - **(B)** whose death occurs before separation from the Agency,
@@ -66,4 +66,4 @@ generated_at: "2026-03-29T19:32:24.129Z"
     - **(A)** October 1, 1983 , or
     - **(B)** the date on which the participant making the deposit first becomes an employee of the Federal Government,
   - **(3)** Any payment received by the Director under this subsection shall be deposited in the Treasury of the United States to the credit of the fund.
-  - **(4)** The provisions of section 2031(k) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
+  - **(4)** The provisions of section 2031( l ) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.

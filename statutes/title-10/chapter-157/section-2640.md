@@ -1,24 +1,24 @@
 ---
-title: "Section 2640 - Charter air transportation of members of the armed forces"
+title: "Section 2640 - Charter air transportation of members of the armed forces or cargo"
 usc_title: 10
 usc_section: "2640"
 chapter: 157
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2640"
-generated_at: "2026-03-29T19:27:25.627Z"
+generated_at: "2026-03-29T19:43:37.996Z"
 ---
 
-# § 2640. Charter air transportation of members of the armed forces
+# § 2640. Charter air transportation of members of the armed forces or cargo
 
 - **(a)**
-  - **(1)** The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces unless the air carrier—
+  - **(1)** The Secretary of Defense may not enter into a contract with an air carrier for the charter air transportation of members of the armed forces or cargo unless the air carrier—
     - **(A)** meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
     - **(B)** has at least 12 months of experience operating services in air transportation that are substantially equivalent to the service sought by the Department of Defense; and
     - **(C)** undergoes a technical safety evaluation.
   - **(2)** For purposes of paragraph (1)(C), a technical safety evaluation—
     - **(A)** shall include inspection of a representative number of aircraft; and
     - **(B)** shall be conducted in accordance with regulations prescribed by the Secretary, after consultation with the Secretary of Transportation.
-- **(b)** The Secretary shall provide for inspections of each air carrier that contracts with the Department of Defense for the charter air transportation of members of the armed forces. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
+- **(b)** The Secretary shall provide for inspections of each air carrier that contracts with the Department of Defense for the charter air transportation of members of the armed forces or cargo. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
   - **(1)** An on-site capability survey of the air carrier conducted at least once every two years.
   - **(2)** A performance evaluation of the air carrier conducted at least once every six months.
   - **(3)** A preflight safety inspection of each aircraft conducted at any time during the operation of, but not more than 72 hours before, each internationally scheduled charter mission departing the United States.
@@ -29,15 +29,15 @@ generated_at: "2026-03-29T19:27:25.627Z"
   - **(2)** to make recommendations to the Secretary on waivers under subsection (g); and
   - **(3)** to carry out such other duties and make recommendations on such other matters as the Secretary considers appropriate.
 - **(d)**
-  - **(1)** The Secretary shall establish guidelines for the suspension of air carriers under contract with the Department of Defense for the charter air transportation of members of the armed forces and for the reinstatement of air carriers that have been so suspended. The guidelines—
+  - **(1)** The Secretary shall establish guidelines for the suspension of air carriers under contract with the Department of Defense for the charter air transportation of members of the armed forces or cargo and for the reinstatement of air carriers that have been so suspended. The guidelines—
     - **(A)** shall require the immediate determination of whether to suspend an air carrier if an aircraft of the air carrier is involved in a fatal accident; and
     - **(B)** may require the suspension of an air carrier—
       - **(i)** if the carrier is in violation of any order, rule, regulation, or standard prescribed under chapter 447 of title 49; or
       - **(ii)** if an aircraft of the air carrier is involved in a serious accident.
   - **(2)** The Commercial Airlift Review Board shall make recommendations to the Secretary on suspension and reinstatement under this subsection.
   - **(3)** The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
-- **(e)** A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
-- **(f)** The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defense for the charter air transportation of members of the armed forces.
+- **(e)** A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces or cargo to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members or cargo.
+- **(f)** The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defense for the charter air transportation of members of the armed forces or cargo.
 - **(g)** After considering recommendations by the Commercial Airlift Review Board, the Secretary may waive any provision of this section in an emergency.
 - **(h)**
   - **(1)** Subject to paragraph (2), the Secretary of Defense may (notwithstanding any other provision of law) withhold from public disclosure safety-related information that is provided to the Secretary voluntarily by an air carrier for the purposes of this section.
@@ -47,5 +47,5 @@ generated_at: "2026-03-29T19:27:25.627Z"
   - **(3)** If the Secretary provides to the head of another agency safety-related information described in paragraph (1) with respect to which the Secretary has made a determination described in paragraph (2), the head of that agency shall (notwithstanding any other provision of law) withhold the information from public disclosure unless the disclosure is specifically authorized by the Secretary.
 - **(i)** The Secretary shall prescribe regulations to carry out this section, including requirements and identification of inspecting personnel with respect to preflight safety inspections required by subsection (b)(3).
 - **(j)** In this section:
-  - **(1)** The terms “air carrier”, “aircraft”, “air transportation”, and “charter air transportation” have the meanings given such terms by section 40102(a) of title 49 .
-  - **(2)** The term “members of the armed forces” means members of the Army, Navy, Air Force, and Marine Corps.
+  - **(1)** The terms “air carrier”, “aircraft”, “air transportation”, “cargo”, and “charter air transportation” have the meanings given such terms by section 40102(a) of title 49 .
+  - **(2)** The term “members of the armed forces” means members of the Army, Navy, Air Force, Marine Corps, and Space Force.

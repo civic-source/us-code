@@ -3,9 +3,9 @@ title: "Section 2761 - Sales from stocks"
 usc_title: 22
 usc_section: "2761"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2761"
-generated_at: "2026-03-29T19:29:46.813Z"
+generated_at: "2026-03-29T19:42:08.127Z"
 ---
 
 # § 2761. Sales from stocks
@@ -36,12 +36,12 @@ generated_at: "2026-03-29T19:29:46.813Z"
       - **(ii)** in the case of a sale of major defense equipment that is also being procured for the use of the Armed Forces, the waiver of the charge or charges would (through a resulting increase in the total quantity of the equipment purchased from the source of the equipment that causes a reduction in the unit cost of the equipment) result in a savings to the United States on the cost of the equipment procured for the use of the Armed Forces that substantially offsets the revenue foregone by reason of the waiver of the charge or charges.
     - **(C)** The President may waive, for particular sales of major defense equipment, any increase in a charge or charges previously considered appropriate under paragraph (1)(B) if the increase results from a correction of an estimate (reasonable when made) of the production quantity base that was used for calculating the charge or charges for purposes of such paragraph.
   - **(3)**
-    - **(A)** The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies in support of—
-      - **(i)** a support partnership agreement; or
+    - **(A)** The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the North Atlantic Treaty Organization (NATO) Support and Procurement Organization and its executive agencies in support of—
+      - **(i)** a support or procurement partnership agreement; or
       - **(ii)** a NATO/SHAPE project.
     - **(B)** The Secretary of Defense may reimburse the fund established to carry out section 2792(b) of this title in the amount of the charges waived under subparagraph (A) of this paragraph. Any such reimbursement may be made from any funds available to the Department of Defense.
     - **(C)** As used in this paragraph—
-      - **(i)** the term “weapon system partnership agreement” means an agreement between two or more member countries of the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies that—
+      - **(i)** the term “support or procurement partnership agreement” means an agreement between two or more member countries of the North Atlantic Treaty Organization (NATO) Support and Procurement Organization and its executive agencies that—
         - **(I)** is entered into pursuant to the terms of the charter of that organization; and
         - **(II)** is for the common logistic support of activities common to the participating countries; and
       - **(ii)** the term “NATO/SHAPE project” means a common-funded project supported by allocated credits from North Atlantic Treaty Organization bodies or by host nations with NATO Infrastructure funds.
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T19:29:46.813Z"
   - **(3)**
     - **(A)** The foreign government or international organization receiving a new or repaired defense article in exchange for a repairable defense article pursuant to paragraph (1) shall, upon the acceptance by the United States Government of the repairable defense article being returned, be charged the total cost associated with the repair and replacement transaction.
     - **(B)** The total cost charged pursuant to subparagraph (A) shall be the same as that charged the United States Armed Forces for a similar repair and replacement transaction, plus an administrative surcharge in accordance with subsection (e)(1)(A) of this section.
-  - **(4)** The authority of the President to accept the return of a repairable defense article as provided in subsection (a) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+  - **(4)** The authority of the President to accept the return of a repairable defense article as provided in subsection (a) shall not be subject to chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ) of title 10 or any other provision of law relating to the conclusion of contracts.
 - **(m)**
   - **(1)** The President may accept the return of a defense article from a foreign country or international organization if such defense article—
     - **(A)** previously was transferred to such country or organization under this chapter;
@@ -91,4 +91,4 @@ generated_at: "2026-03-29T19:29:46.813Z"
       - **(i)** is accepting the return of the defense article for subsequent transfer to another foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter; and
       - **(ii)** has available sufficient funds provided by or on behalf of such other foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter.
   - **(3)** Upon acquisition and acceptance by the United States Government of a defense article under paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
-  - **(4)** The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+  - **(4)** The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ) of title 10 or any other provision of law relating to the conclusion of contracts.

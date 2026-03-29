@@ -3,9 +3,9 @@ title: "Section 935 - Insured loans; interest rates and lending levels"
 usc_title: 7
 usc_section: "935"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 935"
-generated_at: "2026-03-29T19:27:31.702Z"
+generated_at: "2026-03-29T19:43:58.080Z"
 ---
 
 # § 935. Insured loans; interest rates and lending levels
@@ -52,8 +52,8 @@ generated_at: "2026-03-29T19:27:31.702Z"
       - **(i)** The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
       - **(ii)** The Secretary has approved a telecommunications modernization plan for the State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
     - **(B)** On request of any applicant for a loan under this paragraph during any fiscal year, the Secretary shall—
-      - **(i)** consider the application to be for a loan under this paragraph and a loan under section 948 of this title ; and
-      - **(ii)** if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph and under section 948 of this title , as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph and under section 948 of this title for the fiscal year.
+      - **(i)** consider the application to be for a loan under this paragraph; and
+      - **(ii)** if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph for the fiscal year.
     - **(C)** On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan guarantee under section 936 of this title .
   - **(3)**
     - **(A)** If, not later than 1 year after final regulations are promulgated to carry out this paragraph, any State, either by statute or through the public utility commission of the State, develops a telecommunications modernization plan that meets the requirements of subparagraph (B), the Secretary shall approve the plan for the State. If a State does not develop a plan in accordance with the requirements of the preceding sentence, the Secretary shall approve any telecommunications modernization plan for the State that meets the requirements that is developed by a majority of the borrowers of telephone loans made under this subchapter who are located in the State.
@@ -66,4 +66,4 @@ generated_at: "2026-03-29T19:27:31.702Z"
         - **(II)** the proper routing of information to subscribers.
       - **(v)** The plan must provide for uniform deployment schedules to ensure that advanced services are deployed at the same time in rural and nonrural areas.
       - **(vi)** The plan must provide for such additional requirements for service standards as may be required by the Secretary.
-    - **(C)** A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii), 1 1 So in original. Probably should be paragraph “(2)(A)(ii)”. and section 948(b)(4)(C) 2 2 So in original. Probably should be section “948(b)(4)(B)”. of this title, the Secretary and the Governor of the telephone bank may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.
+    - **(C)** A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii), 1 1 So in original. Probably should be paragraph “(2)(A)(ii)”. and the Secretary may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.

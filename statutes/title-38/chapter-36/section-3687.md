@@ -3,9 +3,9 @@ title: "Section 3687 - Apprenticeship or other on-job training"
 usc_title: 38
 usc_section: "3687"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3687"
-generated_at: "2026-03-29T19:30:40.528Z"
+generated_at: "2026-03-29T19:43:27.028Z"
 ---
 
 # § 3687. Apprenticeship or other on-job training
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:30:40.528Z"
   - **(1)** For each month that an individual (as defined in paragraph (3)) is paid a training assistance allowance under subsection (a), the entitlement of the individual shall be charged at a percentage rate (rounded to the nearest percent) that is equal to the ratio of—
     - **(A)** the training assistance allowance for the month involved, to
     - **(B)** the monthly educational assistance allowance otherwise payable for full-time enrollment in an educational institution.
-  - **(2)** For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
+  - **(2)** 1 1 See Apprenticeship or On-Job Training Requirements note below. For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
   - **(3)** In this section, the term “individual” means—
     - **(A)** an eligible veteran who is entitled to monthly educational assistance allowances payable under section 3015(e) of this title , or
     - **(B)** an eligible person who is entitled to monthly educational assistance allowances payable under section 3532(a) of this title ,

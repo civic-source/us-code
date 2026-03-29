@@ -3,9 +3,9 @@ title: "Section 2622 - Hanford waste tank cleanup program reforms"
 usc_title: 50
 usc_section: "2622"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2622"
-generated_at: "2026-03-29T19:32:24.203Z"
+generated_at: "2026-03-29T19:44:52.812Z"
 ---
 
 # § 2622. Hanford waste tank cleanup program reforms
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T19:32:24.203Z"
     - **(C)** The head of the Office shall, to the maximum extent possible, coordinate all activities of the Office with the manager of the Richland Operations Office of the Department of Energy.
 - **(c)** The Secretary shall provide the head of the Office with the resources and personnel necessary to carry out the responsibilities specified in subsection (b)(2).
 - **(d)** The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notification detailing any changes in the roles, responsibilities, and reporting relationships that involve the Office.
-- **(e)** The Office shall terminate on September 30, 2019 . The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
+- **(e)** The Office shall terminate on September 30, 2024 . The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.

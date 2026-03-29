@@ -3,9 +3,9 @@ title: "Section 11 - Supervision, examination, and report of condition"
 usc_title: 12
 usc_section: "11"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-29T19:28:17.752Z"
+generated_at: "2026-03-29T19:44:54.220Z"
 ---
 
 # § 2279aa–11. Supervision, examination, and report of condition
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:28:17.752Z"
     - **(B)** be afforded full access for verifying transactions with certified facilities and other entities with whom the Corporation conducts transactions.
 - **(c)** The Corporation shall make and publish an annual report of condition as prescribed by the Farm Credit Administration. Each report shall contain financial statements prepared in accordance with generally accepted accounting principles and contain such additional information as the Farm Credit Administration may by regulation prescribe. The financial statements of the Corporation shall be audited by an independent public accountant.
 - **(d)** The Farm Credit Administration shall assess the Corporation for the cost to the Administration of any regulatory activities conducted under this section, including the cost of any examination.
-- **(e)** As used in this subchapter, the term “affiliate” shall mean an entity effectively controlled or owned by the Corporation, except that such term shall not include an originator (as defined in section 2279aa(7) of this title ).
+- **(e)** As used in this subchapter, the term “affiliate” shall mean an entity effectively controlled or owned by the Corporation, except that such term shall not include an originator (as defined in section 2279aa of this title ).
 - **(f)** The Farm Credit Administration Board shall ensure that—
   - **(1)** the Office of Secondary Market Oversight has access to a sufficient number of qualified and trained employees to adequately supervise the secondary market activities of the Corporation; and
   - **(2)** the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.

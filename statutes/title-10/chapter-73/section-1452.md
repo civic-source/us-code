@@ -3,15 +3,15 @@ title: "Section 1452 - Reduction in retired pay"
 usc_title: 10
 usc_section: "1452"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1452"
-generated_at: "2026-03-29T19:27:25.534Z"
+generated_at: "2026-03-29T19:43:37.926Z"
 ---
 
 # § 1452. Reduction in retired pay
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b), the retired pay of a participant in the Plan who is providing spouse coverage (as described in paragraph (5)) shall be reduced as follows:
+  - **(1)** Except as provided in subsection (b), the retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title , of a participant in the Plan who is providing spouse coverage (as described in paragraph (5)) shall be reduced as follows:
     - **(A)** If the annuity coverage being provided is a standard annuity, the reduction shall be as follows:
       - **(i)** In the case of a person who is entitled to retired pay under chapter 61 or chapter 1223 of this title, the reduction shall be in whichever of the alternative reduction amounts is more favorable to that person.
       - **(ii)** In the case of a person who first became a member of a uniformed service before March 1, 1990 , the reduction shall be in whichever of the alternative reduction amounts is more favorable to that person.
@@ -31,29 +31,30 @@ generated_at: "2026-03-29T19:27:25.534Z"
     - **(A)** has (i) a spouse or former spouse, or (ii) a spouse or former spouse and a dependent child; and
     - **(B)** has not elected to provide an annuity to a person designated by him under section 1448(b)(1) of this title or, having made such an election, has changed his election in favor of his spouse under section 1450(f) of this title .
 - **(b)**
-  - **(1)** The retired pay of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
+  - **(1)** The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title , of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
   - **(2)** There shall be no reduction in retired pay under paragraph (1) for any month during which the participant has no eligible dependent child.
   - **(3)** In the case of a participant in the Plan who is participating in the Plan under an election under section 1448(a)(2)(B) of this title and who provided child-only coverage during a period before the participant becomes entitled to receive retired pay, the retired pay of the participant shall be reduced by an amount prescribed under regulations by the Secretary of Defense to reflect the coverage provided under the Plan during the period before the participant became entitled to receive retired pay. A reduction under this paragraph is in addition to any reduction under paragraph (1) and is made without regard to whether there is an eligible dependent child during a month for which the reduction is made.
   - **(4)** For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
     - **(A)** does not have an eligible spouse or former spouse; or
     - **(B)** has a spouse or former spouse but has elected to provide an annuity for dependent children only.
 - **(c)**
-  - **(1)** The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) 1 1 See References in Text note below. of this title shall be reduced as follows:
+  - **(1)** The retired pay, other than retired pay received as a lump sum under section 1415(b)(1)(A) of this title , of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(5) of this title shall be reduced as follows:
     - **(A)** In the case of a person providing a standard annuity, the reduction shall be by 10 percent plus 5 percent for each full five years the individual designated is younger than that person.
     - **(B)** In the case of a person providing a reserve-component annuity, the reduction shall be by an amount prescribed under regulations of the Secretary of Defense.
   - **(2)** The total reduction under paragraph (1) may not exceed 40 percent.
-  - **(3)** The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) 1 of this title or until the person receiving retired pay changes his election under section 1450(f) of this title .
-  - **(4)** Computation of a member’s retired pay for purposes of this subsection shall be made without regard to any reduction under section 1409(b)(2) of this title .
+  - **(3)** The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(5) of this title or until the person receiving retired pay changes his election under section 1450(f) of this title .
+  - **(4)** Computation of a member’s retired pay for purposes of this subsection shall be made without regard to any reduction under section 1409(b)(2) or 1415(b)(1)(B) of this title.
   - **(5)** The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
     - **(A)** The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
     - **(B)** Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
     - **(C)** Any additional amount that the Secretary determines necessary to protect the actuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
 - **(d)**
-  - **(1)** If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
-  - **(2)** Paragraph (1) does not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
+  - **(1)** If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period, except to the extent that the required deduction is made pursuant to paragraph (2).
+  - **(2)** In the case of a person who has elected to participate in the Plan and who has been awarded both retired pay and combat-related special compensation under section 1413a of this title , if a deduction from the person’s retired pay for any period cannot be made in the full amount required, there shall be deducted from the person’s combat-related special compensation in lieu of deduction from the person’s retired pay the amount that would otherwise have been deducted from the person’s retired pay for that period.
+  - **(3)** Paragraphs (1) and (2) do not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
 - **(e)** When a person who has elected to participate in the Plan waives that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or 8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
 - **(f)**
-  - **(1)** A person is not entitled to refund of any amount deducted from retired pay under this section.
+  - **(1)** A person is not entitled to refund of any amount deducted from retired pay or combat-related special compensation under this section.
   - **(2)** Paragraph (1) does not apply—
     - **(A)** in the case of a refund authorized by section 1450(e) of this title ; or
     - **(B)** in case of a deduction made through administrative error.
@@ -66,7 +67,7 @@ generated_at: "2026-03-29T19:27:25.534Z"
   - **(3)**
     - **(A)** The Secretary concerned shall furnish promptly to each person who files a request under paragraph (1) to discontinue participation in the Plan a written statement of the advantages of participating in the Plan and the possible disadvantages of discontinuing participation.
     - **(B)** A person may withdraw a request made under paragraph (1) if it is withdrawn within 30 days after having been submitted to the Secretary concerned.
-  - **(4)** Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person’s surviving spouse.
+  - **(4)** Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay or combat-related special compensation of that person under this section shall be refunded to the person’s surviving spouse.
   - **(5)**
     - **(A)** A person described in paragraph (1) who discontinued participation in the Plan may elect to participate again in the Plan if—
       - **(i)** after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person’s service-connected disability rating to a rating of less than total; and

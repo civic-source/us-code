@@ -3,9 +3,9 @@ title: "Section 1738B - Full faith and credit for child support orders"
 usc_title: 28
 usc_section: "1738B"
 chapter: 115
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 1738B"
-generated_at: "2026-03-29T19:30:04.385Z"
+generated_at: "2026-03-29T19:42:27.368Z"
 ---
 
 # § 1738B. Full faith and credit for child support orders
@@ -39,11 +39,11 @@ generated_at: "2026-03-29T19:30:04.385Z"
     - **(A)** has subject matter jurisdiction to hear the matter and enter such an order; and
     - **(B)** has personal jurisdiction over the contestants; and
   - **(2)** reasonable notice and opportunity to be heard is given to the contestants.
-- **(d)** A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
+- **(d)** A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order, unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 - **(e)** A court of a State may modify a child support order issued by a court of another State if—
   - **(1)** the court has jurisdiction to make such a child support order pursuant to subsection (i); and
   - **(2)**
-    - **(A)** the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant; or
+    - **(A)** the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order; or
     - **(B)** each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 - **(f)** If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
   - **(1)** If only 1 court has issued a child support order, the order of that court must be recognized.

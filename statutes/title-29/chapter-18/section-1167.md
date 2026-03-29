@@ -3,16 +3,16 @@ title: "Section 1167 - Definitions and special rules"
 usc_title: 29
 usc_section: "1167"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1167"
-generated_at: "2026-03-29T19:30:07.597Z"
+generated_at: "2026-03-29T19:42:21.515Z"
 ---
 
 # § 1167. Definitions and special rules
 
 For purposes of this part—
 
-  - **(1)** The term “group health plan” means an employee welfare benefit plan providing medical care (as defined in section 213(d) of title 26 ) to participants or beneficiaries directly or through insurance, reimbursement, or otherwise. Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26 ).
+  - **(1)** The term “group health plan” means an employee welfare benefit plan providing medical care (as defined in section 213(d) of title 26 ) to participants or beneficiaries directly or through insurance, reimbursement, or otherwise. Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26 ). Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26 ).
   - **(2)** The term “covered employee” means an individual who is (or was) provided coverage under a group health plan by virtue of the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26 ).
   - **(3)**
     - **(A)** The term “qualified beneficiary” means, with respect to a covered employee under a group health plan, any other individual who, on the day before the qualifying event for that employee, is a beneficiary under the plan—

@@ -3,9 +3,9 @@ title: "Section 6804 - Recreation passes"
 usc_title: 16
 usc_section: "6804"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 6804"
-generated_at: "2026-03-29T19:29:27.624Z"
+generated_at: "2026-03-29T19:41:13.880Z"
 ---
 
 # § 6804. Recreation passes
@@ -14,18 +14,26 @@ generated_at: "2026-03-29T19:29:27.624Z"
   - **(1)** The Secretaries shall establish, and may charge a fee for, an interagency national pass to be known as the “America the Beautiful—the National Parks and Federal Recreational Lands Pass”, which shall cover the entrance fee and standard amenity recreation fee for all Federal recreational lands and waters for which an entrance fee or a standard amenity recreation fee is charged.
   - **(2)** The Secretaries shall hold an annual competition to select the image to be used on the National Parks and Federal Recreational Lands Pass for a year. The competition shall be open to the public and used as a means to educate the American people about Federal recreational lands and waters.
   - **(3)** The Secretaries shall publish a notice in the Federal Register when the National Parks and Federal Recreational Lands Pass is first established and available for purchase.
-  - **(4)** The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age and disability discounted passes issued under subsection (b).
+  - **(4)** The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age discount and lifetime passes issued under subsection (b).
   - **(5)** The Secretaries shall establish the price at which the National Parks and Federal Recreational Lands Pass will be sold to the public.
   - **(6)**
     - **(A)** The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
     - **(B)** The Secretary may enter into fee management agreements as provided in section 6805 of this title .
     - **(C)** The Secretaries shall take such actions as are appropriate to provide for the active marketing of the National Parks and Federal Recreational Lands Pass.
-  - **(7)** The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for age and disability discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
+  - **(7)** The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
   - **(8)** The Secretaries may enter into cooperative agreements with governmental and nongovernmental entities for the development and implementation of the National Parks and Federal Recreational Lands Pass Program.
   - **(9)** The Secretary may not establish any national recreation pass, except as provided in this section.
 - **(b)**
-  - **(1)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
-  - **(2)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29 , if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
+  - **(1)**
+    - **(A)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this paragraph shall be available—
+      - **(i)** for a period of 12 months from the date of the issuance, at a cost of $20; and
+      - **(ii)** for the lifetime of the passholder, at a cost equal to the cost of the National Parks and Federal Recreational Lands Pass purchased under subsection (a).
+    - **(B)** The Secretary shall issue a pass under subparagraph (A)(ii), for no additional cost, to any individual who provides evidence, under policies and guidelines determined by the Secretary, that the individual has purchased a pass under subparagraph (A)(i) for each of the 4 years prior to being issued a pass under this subparagraph.
+  - **(2)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
+    - **(A)** Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term “disability” under section 12102 of title 42 , if the citizen or person provides adequate proof of the disability and such citizenship or residency.
+    - **(B)** Any veteran who provides adequate proof of military service as determined by the Secretary.
+    - **(C)** Any member of a Gold Star Family who meets the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).
+  - **(3)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.
 - **(c)** The Secretary may establish and charge a fee for a site-specific pass that will cover the entrance fee or standard amenity recreation fee for particular Federal recreational lands and waters for a specified period not to exceed 12 months.
 - **(d)**
   - **(1)** The Secretary may establish and charge a fee for a regional multientity pass that will be accepted by one or more Federal land management agencies or by one or more governmental or nongovernmental entities for a specified period not to exceed 12 months. To include a Federal land management agency or governmental or nongovernmental entity over which the Secretary does not have jurisdiction, the Secretary shall obtain the consent of the head of such agency or entity.

@@ -3,9 +3,9 @@ title: "Section 1085a - Minimum funding standards"
 usc_title: 29
 usc_section: "1085a"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1085a"
-generated_at: "2026-03-29T19:30:07.584Z"
+generated_at: "2026-03-29T19:42:21.502Z"
 ---
 
 # § 1085a. Minimum funding standards
@@ -148,7 +148,7 @@ generated_at: "2026-03-29T19:30:07.584Z"
   - **(4)**
     - **(A)** A person committing a failure described in paragraph (1) shall notify the Pension Benefit Guaranty Corporation of such failure within 10 days of the due date for the required installment or other payment.
     - **(B)** The lien imposed by paragraph (1) shall arise on the due date for the required installment or other payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
-    - **(C)** Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+    - **(C)** Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) 1 1 So in original. Probably should be “paragraph (1)”. and the amount with respect to such lien.
   - **(5)** Any lien created under paragraph (1) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Pension Benefit Guaranty Corporation, by any contributing employer (or any member of the controlled group of the contributing employer).
   - **(6)** For purposes of this subsection—
     - **(A)** The terms “due date” and “required installment” have the meanings given such terms by subsection (f), except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section.

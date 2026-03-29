@@ -1,14 +1,14 @@
 ---
-title: "Section 665g - State and Local Cybersecurity Grant Program"
+title: "Section 665g - State and local cybersecurity grant program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-29T18:47:07.408Z"
+generated_at: "2026-03-29T19:43:43.825Z"
 ---
 
-# § 665g. State and Local Cybersecurity Grant Program
+# § 665g. State and local cybersecurity grant program
 
 - **(a)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:47:07.408Z"
   - **(4)** The term “eligible entity” means a—
     - **(A)** State; or
     - **(B)** Tribal government.
-  - **(5)** The term “incident” has the meaning given the term in section 659 of this title .
+  - **(5)** The term “incident” has the meaning given the term in section 2209.
   - **(6)** The term “information sharing and analysis organization” has the meaning given the term in section 671 of this title .
   - **(7)** The term “information system” has the meaning given the term in section 1501 of this title .
   - **(8)** The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T18:47:07.408Z"
       - **(ii)** if the eligible entity is a State, consultation and feedback from local governments and associations of local governments within the jurisdiction of the eligible entity;
     - **(B)** describe, to the extent practicable, how the eligible entity will—
       - **(i)** manage, monitor, and track information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, and the information technology deployed on those information systems, including legacy information systems and information technology that are no longer supported by the manufacturer of the systems or technology;
-      - **(ii)** monitor, audit, and, 1 1 So in original. The comma probably should not appear. track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
+      - **(ii)** monitor, audit, and, track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
       - **(iii)** enhance the preparation, response, and resiliency of information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, against cybersecurity risks and cybersecurity threats;
       - **(iv)** implement a process of continuous cybersecurity vulnerability assessments and threat mitigation practices prioritized by degree of risk to address cybersecurity risks and cybersecurity threats on information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
       - **(v)** ensure that the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, adopt and use best practices and methodologies to enhance cybersecurity, such as—
@@ -221,7 +221,7 @@ generated_at: "2026-03-29T18:47:07.408Z"
       - **(ii)** reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, State, local, or Tribal governments as a result of the award of grants under this section.
   - **(3)**
     - **(A)** The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
-    - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”).
+    - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the ‘Freedom of Information Act’).
   - **(4)**
     - **(A)** Not later than September 30, 2024 , the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;

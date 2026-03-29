@@ -3,9 +3,9 @@ title: "Section 3222 - Agricultural research at 1890 land-grant colleges, includ
 usc_title: 7
 usc_section: "3222"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3222"
-generated_at: "2026-03-29T19:27:31.884Z"
+generated_at: "2026-03-29T19:43:58.293Z"
 ---
 
 # § 3222. Agricultural research at 1890 land-grant colleges, including Tuskegee University
@@ -20,20 +20,31 @@ generated_at: "2026-03-29T19:27:31.884Z"
     - **(B)**
       - **(i)** If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
       - **(ii)** Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
-- **(b)** Beginning with the fiscal year ending September 30, 1979 , the funds appropriated in each fiscal year under this section shall be distributed as follows:
-  - **(1)** Three per centum shall be available to the Secretary for administration of this section. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
-  - **(2)** The remainder shall be allotted among the eligible institutions as follows:
-    - **(A)** Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978 , under section 450i of this title , shall be allocated among the eligible institutions in the same proportion as funds made available under section 450i of this title , for the fiscal year ending September 30, 1978 , are allocated among the eligible institutions.
-    - **(B)** Of funds in excess of the amount allocated under subparagraph (A) of this paragraph, 20 per centum shall be allotted among eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated. In computing the distribution of funds allocated under this subparagraph, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall be determined as if each institution were in a separate State.
+- **(b)**
+  - **(1)** Funds made available under this section shall be distributed among eligible institutions in accordance with this subsection.
+  - **(2)** 3 percent shall be available to the Secretary for administration of this section. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
+  - **(3)**
+    - **(A)** After allocating amounts under paragraph (2), the remainder shall be allotted among the eligible institutions in accordance with this paragraph.
+    - **(B)** Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978 , under section 3157 of this title , shall be allocated among the eligible institutions in the same proportion as funds made available under section 3157 of this title , for the fiscal year ending September 30, 1978 , were allocated among the eligible institutions, as so designated as of that date.
+    - **(C)** Except as provided in subparagraph (D), of funds in excess of the amount allocated under subparagraph (A) of this paragraph, 20 per centum shall be allotted among eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated. In computing the distribution of funds allocated under this subparagraph, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall be determined as if each institution were in a separate State.
+    - **(D)**
+      - **(i)** In this subparagraph:
+        - **(I)** The term “covered fiscal year” means the fiscal year for which the qualified eligible institution first received an allocation of $3,000,000 under clause (ii)(I).
+        - **(II)** The term “other eligible institution” means an eligible institution, other than the qualified eligible institution, receiving an allocation of funds under this section.
+        - **(III)** The term “qualified eligible institution” means the eligible institution described in clause (ii)(I).
+      - **(ii)**
+        - **(I)** Subject to subclause (II), for 1 of fiscal year 2019, 2020, 2021, or 2022, if the calculation under subparagraph (C) would result in a distribution for a fiscal year of less than $3,000,000 to an eligible institution that first received funds under this section on a date occurring after February 7, 2014 , and before September 30, 2018 , that institution shall receive an allocation of $3,000,000 for that fiscal year.
+        - **(II)** Subclause (I) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable, receives not less than the amount of funds received by that other eligible institution under this section for the preceding fiscal year.
+      - **(iii)**
+        - **(I)** Subject to subclauses (II) and (III), for each fiscal year following the covered fiscal year—
+        - **(II)**
+        - **(III)** Subclauses (I) and (II) shall not apply in any fiscal year for which a shortfall in the minimum additional funding amounts described in subclause (I) is attributable to the incorporation of new census data into the calculation under paragraph (3)(C), as determined by the Secretary.
 - **(c)**
   - **(1)** The director of the State agricultural experiment station in each State where an eligible institution is located and the research director specified in subsection (d) of this section in each of the eligible institutions in such State shall jointly develop, by mutual agreement, a comprehensive program of agricultural research in such State, to be submitted for approval by the Secretary within one year after September 29, 1977 .
   - **(2)** Before funds may be provided to an eligible institution under this section for any fiscal year, a plan of work to be carried out under this section shall be submitted by the research director specified in subsection (d) and shall be approved by the Secretary.
   - **(3)** Each plan of work required under paragraph (2) shall contain descriptions of the following:
-    - **(A)** The critical short-term, intermediate, and long-term agricultural issues in the State in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
-    - **(B)** The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
-    - **(C)** Other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State.
-    - **(D)** The current and emerging efforts to work with those other institutions to build on each other’s experience and take advantage of each institution’s unique capacities.
-    - **(E)** The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
+    - **(A)** A summary of planned projects or programs in the State using formula funds.
+    - **(B)** A description of matching funds provided by the State with respect to the previous fiscal year.
   - **(4)**
     - **(A)** The Secretary shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under paragraph (2).
     - **(B)** The Secretary shall develop the protocols in consultation with the Advisory Board and land-grant colleges and universities.

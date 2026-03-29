@@ -3,9 +3,9 @@ title: "Section 2681 - Definitions"
 usc_title: 15
 usc_section: "2681"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 2681"
-generated_at: "2026-03-29T19:27:55.525Z"
+generated_at: "2026-03-29T19:44:42.841Z"
 ---
 
 # § 2681. Definitions
@@ -37,4 +37,4 @@ For the purposes of this subchapter:
     - **(C)** limited wipe sampling or other environmental sampling techniques;
     - **(D)** other activity as may be appropriate; and
     - **(E)** provision of a report explaining the results of the investigation.
-  - **(17)** The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities (unless any child who is less than 6 years of age resides or is expected to reside in such housing for the elderly or persons with disabilities) or any 0-bedroom dwelling. In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary’s discretion, may designate an earlier date.
+  - **(17)** The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary’s discretion, may designate an earlier date.

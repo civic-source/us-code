@@ -3,9 +3,9 @@ title: "Section 2 - Minimum capital level"
 usc_title: 12
 usc_section: "2"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T19:28:17.753Z"
+generated_at: "2026-03-29T19:44:54.222Z"
 ---
 
 # § 2279bb–2. Minimum capital level
@@ -34,5 +34,5 @@ generated_at: "2026-03-29T19:28:17.753Z"
       - **(ii)** if the Corporation’s core capital is less than $25,000,000 on January 1, 1998 , the amount determined under subsection (a); and
     - **(D)** on and after January 1, 1999 , shall be the amount determined under subsection (a).
   - **(2)** For purposes of this subsection, the designated on-balance sheet assets of the Corporation shall be—
-    - **(A)** the aggregate on-balance sheet assets of the Corporation acquired under section 2279aa–6(e) of this title ; and
+    - **(A)** the aggregate on-balance sheet assets of the Corporation acquired under section 2279aa–6(d) of this title ; and
     - **(B)** the aggregate amount of qualified loans purchased and held by the Corporation under section 2279aa–3(c)(13) of this title .

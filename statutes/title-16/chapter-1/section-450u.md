@@ -1,14 +1,12 @@
 ---
-title: "Section 450u - Homestead National Monument of America; establishment"
+title: "Section 450u - Transferred"
 usc_title: 16
 usc_section: "450u"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 450u"
-generated_at: "2026-03-29T19:29:27.157Z"
+generated_at: "2026-03-29T19:41:13.415Z"
 ---
 
-# § 450u. Homestead National Monument of America; establishment
-
-The Secretary of the Interior is authorized and directed to acquire, on behalf of the United States, by gift, purchase, or condemnation, the south half of the northwest quarter, the northeast quarter of the northwest quarter, and the southwest quarter of the northeast quarter section 26, township 4 north, range 5 east, of the sixth principal meridian, Gage County, Nebraska, the same being the first homestead entered upon under the General Homestead Act of May 20, 1862 , by Daniel Freeman, and that when so acquired, the said area be designated “The Homestead National Monument of America.”
+# § 450u. Transferred
 

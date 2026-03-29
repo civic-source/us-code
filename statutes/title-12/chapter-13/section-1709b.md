@@ -1,12 +1,12 @@
 ---
-title: "Section 1709b - Repealed. Pub. L. 85–364 , § 6, Apr. 1, 1958 , 72 Stat. 77"
+title: "Section 1709b - Repealed. Pub. L. 85–364, § 6 , Apr. 1, 1958 , 72 Stat. 77"
 usc_title: 12
 usc_section: "1709b"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1709b"
-generated_at: "2026-03-29T19:28:17.580Z"
+generated_at: "2026-03-29T19:44:54.029Z"
 ---
 
-# § 1709b. Repealed. Pub. L. 85–364 , § 6, Apr. 1, 1958 , 72 Stat. 77
+# § 1709b. Repealed. Pub. L. 85–364, § 6 , Apr. 1, 1958 , 72 Stat. 77
 

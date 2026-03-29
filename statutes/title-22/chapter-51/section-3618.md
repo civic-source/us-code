@@ -3,9 +3,9 @@ title: "Section 3618 - Defense of Panama Canal"
 usc_title: 22
 usc_section: "3618"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3618"
-generated_at: "2026-03-29T19:29:46.835Z"
+generated_at: "2026-03-29T19:42:08.150Z"
 ---
 
 # § 3618. Defense of Panama Canal

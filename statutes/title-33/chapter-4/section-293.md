@@ -1,12 +1,12 @@
 ---
-title: "Section 293 - Repealed. Pub. L. 96–591 , § 8(b), Dec. 24, 1980 , 94 Stat. 3435"
+title: "Section 293 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 , 94 Stat. 3435"
 usc_title: 33
 usc_section: "293"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 293"
-generated_at: "2026-03-29T19:30:28.702Z"
+generated_at: "2026-03-29T19:43:07.553Z"
 ---
 
-# §§ 281 to 293. Repealed. Pub. L. 96–591 , § 8(b), Dec. 24, 1980 , 94 Stat. 3435
+# §§ 281 to 293. Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 , 94 Stat. 3435
 

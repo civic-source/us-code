@@ -1,14 +1,14 @@
 ---
-title: "Section 3524 - Discontinuance for unsatisfactory prog­ress"
+title: "Section 3524 - Discontinuance for unsatisfactory progress"
 usc_title: 38
 usc_section: "3524"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3524"
-generated_at: "2026-03-29T19:30:40.523Z"
+generated_at: "2026-03-29T19:43:27.021Z"
 ---
 
-# § 3524. Discontinuance for unsatisfactory prog­ress
+# § 3524. Discontinuance for unsatisfactory progress
 
 The Secretary shall discontinue the educational assistance allowance on behalf of an eligible person if, at any time, the Secretary finds that according to the regularly prescribed standards and practices of the educational institution such person is attending, the person’s attendance, conduct, or progress is unsatisfactory. The Secretary may renew the payment of the educational assistance allowance only if the Secretary finds that—
 

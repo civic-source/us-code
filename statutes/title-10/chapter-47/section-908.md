@@ -3,9 +3,9 @@ title: "Section 908 - Art. 108. Military property of United States—Loss, damag
 usc_title: 10
 usc_section: "908"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 908"
-generated_at: "2026-03-29T19:27:25.476Z"
+generated_at: "2026-03-29T19:43:37.856Z"
 ---
 
 # § 908. Art. 108. Military property of United States—Loss, damage, destruction, or wrongful disposition

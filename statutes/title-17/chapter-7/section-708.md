@@ -3,9 +3,9 @@ title: "Section 708 - Copyright Office fees"
 usc_title: 17
 usc_section: "708"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "17 U.S.C. § 708"
-generated_at: "2026-03-29T19:28:20.877Z"
+generated_at: "2026-03-29T19:40:56.337Z"
 ---
 
 # § 708. Copyright Office fees
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:28:20.877Z"
   - **(2)** on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made;
   - **(3)** for the issuance of a receipt for a deposit under section 407;
   - **(4)** for the recordation, as provided by section 205, of a transfer of copyright ownership or other document;
-  - **(5)** for the filing, under section 115(b), of a notice of intention to obtain a compulsory license;
+  - **(5)** for the filing, under section 115(b), 1 1 See References in Text note below. of a notice of intention to obtain a compulsory license;
   - **(6)** for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;
   - **(7)** for the issuance, under section 706, of an additional certificate of registration;
   - **(8)** for the issuance of any other certification;

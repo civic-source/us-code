@@ -3,9 +3,9 @@ title: "Section 1116 - Presumptions of service connection for diseases associate
 usc_title: 38
 usc_section: "1116"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1116"
-generated_at: "2026-03-29T19:30:40.466Z"
+generated_at: "2026-03-29T19:43:26.948Z"
 ---
 
 # § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam
@@ -23,6 +23,9 @@ generated_at: "2026-03-29T19:30:40.466Z"
     - **(F)** Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree of disability of 10 percent or more.
     - **(G)** Multiple myeloma becoming manifest to a degree of disability of 10 percent or more.
     - **(H)** Diabetes Mellitus (Type 2).
+    - **(I)** Parkinsonism.
+    - **(J)** Bladder cancer.
+    - **(K)** Hypothyroidism.
   - **(3)** For purposes of this section, the term “herbicide agent” means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962 , and ending on May 7, 1975 .
 - **(b)**
   - **(1)** Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.

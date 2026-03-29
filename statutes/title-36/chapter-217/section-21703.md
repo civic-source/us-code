@@ -3,9 +3,9 @@ title: "Section 21703 - Membership"
 usc_title: 36
 usc_section: "21703"
 chapter: 217
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 21703"
-generated_at: "2026-03-29T19:30:42.059Z"
+generated_at: "2026-03-29T19:43:23.282Z"
 ---
 
 # § 21703. Membership
@@ -13,13 +13,8 @@ generated_at: "2026-03-29T19:30:42.059Z"
 An individual is eligible for membership in the corporation only if the individual—
 
   - **(1)** has served in the Armed Forces of—
-    - **(A)** the United States at any time during any period from—
-      - **(i)** April 6, 1917 , through November 11, 1918 ;
-      - **(ii)** December 7, 1941 , through December 31, 1946 ;
-      - **(iii)** June 25, 1950 , through January 31, 1955 ;
-      - **(iv)** February 28, 1961 , through May 7, 1975 ;
-      - **(v)** August 24, 1982 , through July 31, 1984 ;
-      - **(vi)** December 20, 1989 , through January 31, 1990 ; or
-      - **(vii)** August 2, 1990 , through the date of cessation of hostilities, as decided by the United States Government; or
-    - **(B)** a government associated with the United States during a period referred to in subclause (A) of this clause and was a citizen of the United States when the individual entered that service; and
-  - **(2)** was honorably discharged or separated from that service or continues to serve honorably during or after that period.
+    - **(A)** the United States at any time during—
+      - **(i)** the period from April 6, 1917 , through November 11, 1918 ; or
+      - **(ii)** any time after December 7, 1941 ; or
+    - **(B)** a government associated with the United States during a period or time referred to in subclause (A) of this clause and was a citizen of the United States when the individual entered that service; and
+  - **(2)** was honorably discharged or separated from that service or continues to serve honorably during or after that period or time.

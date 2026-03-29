@@ -3,9 +3,9 @@ title: "Section 825g - Hearings; rules of procedure"
 usc_title: 16
 usc_section: "825g"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 825g"
-generated_at: "2026-03-29T19:29:27.379Z"
+generated_at: "2026-03-29T19:41:13.622Z"
 ---
 
 # § 825g. Hearings; rules of procedure

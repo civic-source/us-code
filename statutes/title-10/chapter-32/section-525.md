@@ -3,16 +3,16 @@ title: "Section 525 - Distribution of commissioned officers on active duty in ge
 usc_title: 10
 usc_section: "525"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 525"
-generated_at: "2026-03-29T19:27:25.448Z"
+generated_at: "2026-03-29T19:43:37.820Z"
 ---
 
 # § 525. Distribution of commissioned officers on active duty in general officer and flag officer grades
 
 - **(a)** For purposes of the applicable limitation in section 526(a) of this title on general and flag officers on active duty, no appointment of an officer on the active duty list may be made as follows:
   - **(1)** in the Army, if that appointment would result in more than—
-    - **(A)** 7 officers in the grade of general;
+    - **(A)** 8 officers in the grade of general;
     - **(B)** 46 officers in a grade above the grade of major general; or
     - **(C)** 90 officers in the grade of major general;
   - **(2)** in the Air Force, if that appointment would result in more than—
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T19:27:25.448Z"
     - **(C)** 50 officers in the grade of rear admiral;
   - **(4)** in the Marine Corps, if that appointment would result in more than—
     - **(A)** 2 officers in the grade of general;
-    - **(B)** 15 officers in a grade above the grade of major general; or
-    - **(C)** 23 officers in the grade of major general.
+    - **(B)** 17 officers in a grade above the grade of major general; or
+    - **(C)** 22 officers in the grade of major general.
 - **(b)** The limitations of subsection (a) do not include the following:
   - **(1)** An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than three officers from each armed forces may be on active duty who are excluded under this paragraph.
   - **(2)** The number of officers required to serve in joint duty assignments as authorized by the Secretary of Defense under section 526(b) for each military service.

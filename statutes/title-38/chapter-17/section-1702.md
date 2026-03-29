@@ -3,9 +3,9 @@ title: "Section 1702 - Presumptions: psychosis after service in World War II and
 usc_title: 38
 usc_section: "1702"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1702"
-generated_at: "2026-03-29T19:30:40.471Z"
+generated_at: "2026-03-29T19:43:26.954Z"
 ---
 
 # § 1702. Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War

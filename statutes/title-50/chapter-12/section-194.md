@@ -1,14 +1,12 @@
 ---
-title: "Section 194 - Enforcement provisions"
+title: "Section 194 - Transferred"
 usc_title: 50
 usc_section: "194"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 194"
-generated_at: "2026-03-29T19:32:24.094Z"
+generated_at: "2026-03-29T19:44:52.746Z"
 ---
 
-# § 194. Enforcement provisions
-
-The President may employ such departments, agencies, officers, or instrumentalities of the United States as he may deem necessary to carry out the purpose of this title. 1 1 See References in Text note below.
+# § 194. Transferred
 

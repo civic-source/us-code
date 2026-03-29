@@ -3,15 +3,15 @@ title: "Section 5303 - Metropolitan transportation planning"
 usc_title: 49
 usc_section: "5303"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 5303"
-generated_at: "2026-03-29T19:32:28.739Z"
+generated_at: "2026-03-29T19:44:57.843Z"
 ---
 
 # § 5303. Metropolitan transportation planning
 
 - **(a)** It is in the national interest—
-  - **(1)** to encourage and promote the safe and efficient management, operation, and development of resilient surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
+  - **(1)** to encourage and promote the safe and efficient management, operation, and development of resilient surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas and better connect housing and employment, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
   - **(2)** to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
 - **(b)** In this section and section 5304, the following definitions apply:
   - **(1)** The term “metropolitan planning area” means the geographic area determined by agreement between the metropolitan planning organization for the area and the Governor under subsection (e).
@@ -37,6 +37,7 @@ generated_at: "2026-03-29T19:32:28.739Z"
     - **(A)** Designation or selection of officials or representatives under paragraph (2) shall be determined by the metropolitan planning organization according to the bylaws or enabling statute of the organization.
     - **(B)** Subject to the bylaws or enabling statute of the metropolitan planning organization, a representative of a provider of public transportation may also serve as a representative of a local municipality.
     - **(C)** An official described in paragraph (2)(B) shall have responsibilities, actions, duties, voting rights, and any other authority commensurate with other officials described in paragraph (2).
+    - **(D)** In designating officials or representatives under paragraph (2) for the first time, subject to the bylaws or enabling statute of the metropolitan planning organization, the metropolitan planning organization shall consider the equitable and proportional representation of the population of the metropolitan planning area.
   - **(4)** Nothing in this subsection shall be construed to interfere with the authority, under any State law in effect on December 18, 1991 , of a public agency with multimodal transportation responsibilities—
     - **(A)** to develop the plans and TIPs for adoption by a metropolitan planning organization; and
     - **(B)** to develop long-range capital plans, coordinate transit services and projects, and carry out other activities pursuant to State law.
@@ -44,7 +45,7 @@ generated_at: "2026-03-29T19:32:28.739Z"
   - **(6)**
     - **(A)** A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as determined by the Bureau of the Census) as appropriate to carry out this section.
     - **(B)** A metropolitan planning organization may be restructured to meet the requirements of paragraph (2) without undertaking a redesignation.
-  - **(7)** More than 1 metropolitan planning organization may be designated within an existing metropolitan planning area only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the existing metropolitan planning area make designation of more than 1 metropolitan planning organization for the area appropriate.
+  - **(7)** More than 1 metropolitan planning organization may be designated within an existing urbanized area (as defined by the Bureau of the Census) only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the area make designation of more than 1 metropolitan planning organization for the area appropriate.
 - **(e)**
   - **(1)** For the purposes of this section, the boundaries of a metropolitan planning area shall be determined by agreement between the metropolitan planning organization and the Governor.
   - **(2)** Each metropolitan planning area—
@@ -66,21 +67,23 @@ generated_at: "2026-03-29T19:32:28.739Z"
     - **(B)** to establish such agencies, joint or otherwise, as the States may determine desirable for making the agreements and compacts effective.
   - **(3)** The right to alter, amend, or repeal interstate compacts entered into under this subsection is expressly reserved.
 - **(g)**
-  - **(1)** If more than 1 metropolitan planning organization has authority within a metropolitan area or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act ( 42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
+  - **(1)** If more than 1 metropolitan planning organization has authority within an urbanized area (as defined by the Bureau of the Census) or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act ( 42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
   - **(2)** If a transportation improvement, funded under this chapter or title 23, is located within the boundaries of more than 1 metropolitan planning area, the metropolitan planning organizations shall coordinate plans and TIPs regarding the transportation improvement.
   - **(3)**
-    - **(A)** The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
+    - **(A)** The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, housing, tourism, natural disaster risk reduction, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
     - **(B)** Under the metropolitan planning process, transportation plans and TIPs shall be developed with due consideration of other related planning activities within the metropolitan area, and the process shall provide for the design and delivery of transportation services within the metropolitan area that are provided by—
       - **(i)** recipients of assistance under this chapter;
       - **(ii)** governmental agencies and nonprofit organizations (including representatives of the agencies and organizations) that receive Federal assistance from a source other than the Department of Transportation to provide nonemergency transportation services; and
       - **(iii)** recipients of assistance under section 204 of title 23 .
+  - **(4)** If more than 1 metropolitan planning organization is designated within an urbanized area (as defined by the Bureau of the Census) under subsection (d)(7), the metropolitan planning organizations designated within the area shall ensure, to the maximum extent practicable, the consistency of any data used in the planning process, including information used in forecasting travel demand.
+  - **(5)** Nothing in this subsection requires metropolitan planning organizations designated within a single urbanized area to jointly develop planning documents, including a unified long-range transportation plan or unified TIP.
 - **(h)**
   - **(1)** The metropolitan planning process for a metropolitan planning area under this section shall provide for consideration of projects and strategies that will—
     - **(A)** support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
     - **(B)** increase the safety of the transportation system for motorized and nonmotorized users;
     - **(C)** increase the security of the transportation system for motorized and nonmotorized users;
     - **(D)** increase the accessibility and mobility of people and for freight;
-    - **(E)** protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+    - **(E)** protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth, housing, and economic development patterns;
     - **(F)** enhance the integration and connectivity of the transportation system, across and between modes, for people and freight;
     - **(G)** promote efficient system management and operation;
     - **(H)** emphasize the preservation of the existing transportation system; and
@@ -130,10 +133,11 @@ generated_at: "2026-03-29T19:32:28.739Z"
     - **(B)** A metropolitan planning organization that chooses to develop multiple scenarios under subparagraph (A) shall be encouraged to consider—
       - **(i)** potential regional investment strategies for the planning horizon;
       - **(ii)** assumed distribution of population and employment;
-      - **(iii)** a scenario that, to the maximum extent practicable, maintains baseline conditions for the performance measures identified in subsection (h)(2);
-      - **(iv)** a scenario that improves the baseline conditions for as many of the performance measures identified in subsection (h)(2) as possible;
-      - **(v)** revenue constrained scenarios based on the total revenues expected to be available over the forecast period of the plan; and
-      - **(vi)** estimated costs and potential revenues available to support each scenario.
+      - **(iii)** assumed distribution of population and housing;
+      - **(iv)** a scenario that, to the maximum extent practicable, maintains baseline conditions for the performance measures identified in subsection (h)(2);
+      - **(v)** a scenario that improves the baseline conditions for as many of the performance measures identified in subsection (h)(2) as possible;
+      - **(vi)** revenue constrained scenarios based on the total revenues expected to be available over the forecast period of the plan; and
+      - **(vii)** estimated costs and potential revenues available to support each scenario.
     - **(C)** In addition to the performance measures identified in section 150(c) of title 23 , metropolitan planning organizations may evaluate scenarios developed under this paragraph using locally-developed measures.
   - **(5)**
     - **(A)** In each metropolitan area, the metropolitan planning organization shall consult, as appropriate, with State and local agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation concerning the development of a long-range transportation plan.
@@ -141,7 +145,7 @@ generated_at: "2026-03-29T19:32:28.739Z"
       - **(i)** comparison of transportation plans with State conservation plans or maps, if available; or
       - **(ii)** comparison of transportation plans to inventories of natural or historic resources, if available.
   - **(6)**
-    - **(A)** Each metropolitan planning organization shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, providers of freight transportation services, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the transportation plan.
+    - **(A)** Each metropolitan planning organization shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, providers of freight transportation services, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, affordable housing organizations, and other interested parties with a reasonable opportunity to comment on the transportation plan.
     - **(B)** A participation plan—
       - **(i)** shall be developed in consultation with all interested parties; and
       - **(ii)** shall provide that all interested parties have reasonable opportunities to comment on the contents of the transportation plan.
@@ -149,6 +153,9 @@ generated_at: "2026-03-29T19:32:28.739Z"
       - **(i)** hold any public meetings at convenient and accessible locations and times;
       - **(ii)** employ visualization techniques to describe plans; and
       - **(iii)** make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
+    - **(D)** A metropolitan planning organization may use social media and other web-based tools—
+      - **(i)** to further encourage public participation; and
+      - **(ii)** to solicit public feedback during the transportation planning process.
   - **(7)** A transportation plan involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planning organization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
   - **(8)** Notwithstanding paragraph (2)(E), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(E).
 - **(j)**
@@ -208,9 +215,22 @@ generated_at: "2026-03-29T19:32:28.739Z"
       - **(iii)** identify proposed projects and programs to reduce congestion and increase job access opportunities.
     - **(D)** In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and non-profit providers of public transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
   - **(4)**
+    - **(A)** Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section may address the integration of housing, transportation, and economic development strategies through a process that provides for effective integration, based on a cooperatively developed and implemented strategy, of new and existing transportation facilities eligible for funding under this chapter and title 23.
+    - **(B)** In carrying out the process described in subparagraph (A), a metropolitan planning organization may—
+      - **(i)** consult with—
+        - **(I)** State and local entities responsible for land use, economic development, housing, management of road networks, or public transportation; and
+        - **(II)** other appropriate public or private entities; and
+      - **(ii)** coordinate, to the extent practicable, with applicable State and local entities to align the goals of the process with the goals of any comprehensive housing affordability strategies established within the metropolitan planning area pursuant to section 105 of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12705 ) and plans developed under section 5A of the United States Housing Act of 1937 ( 42 U.S.C. 1437c–1 ).
+    - **(C)**
+      - **(i)** A metropolitan planning organization serving a transportation management area may develop a housing coordination plan that includes projects and strategies that may be considered in the metropolitan transportation plan of the metropolitan planning organization.
+      - **(ii)** A plan described in clause (i) may—
+        - **(I)** develop regional goals for the integration of housing, transportation, and economic development strategies to—
+        - **(II)** identify the location of existing and planned housing and employment, and transportation options that connect housing and employment; and
+        - **(III)** include a comparison of transportation plans to land use management plans, including zoning plans, that may affect road use, public transportation ridership and housing development.
+  - **(5)**
     - **(A)** All Federally funded projects carried out within the boundaries of a metropolitan planning area serving a transportation management area under title 23 (excluding projects carried out on the National Highway System) or under this chapter shall be selected for implementation from the approved TIP by the metropolitan planning organization designated for the area in consultation with the State and any affected public transportation operator.
     - **(B)** Projects carried out within the boundaries of a metropolitan planning area serving a transportation management area on the National Highway System shall be selected for implementation from the approved TIP by the State in cooperation with the metropolitan planning organization designated for the area.
-  - **(5)**
+  - **(6)**
     - **(A)** The Secretary shall—
       - **(i)** ensure that the metropolitan planning process of a metropolitan planning organization serving a transportation management area is being carried out in accordance with applicable provisions of Federal law; and
       - **(ii)** subject to subparagraph (B), certify, not less often than once every 4 years, that the requirements of this paragraph are met with respect to the metropolitan planning process.
@@ -236,11 +256,11 @@ generated_at: "2026-03-29T19:32:28.739Z"
   - **(1)** Notwithstanding any other provisions of this chapter or title 23, for transportation management areas classified as nonattainment for ozone or carbon monoxide pursuant to the Clean Air Act ( 42 U.S.C. 7401 et seq.), Federal funds may not be advanced in such area for any highway project that will result in a significant increase in the carrying capacity for single-occupant vehicles unless the project is addressed through a congestion management process.
   - **(2)** This subsection applies to a nonattainment area within the metropolitan planning area boundaries determined under subsection (e).
 - **(o)** Nothing in this section shall be construed to confer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
-- **(p)** Funds apportioned under section 104(b)(5) of title 23 or section 5305(g) shall be available to carry out this section.
+- **(p)** Funds apportioned under section 104(b)(6) of title 23 or section 5305(g) shall be available to carry out this section.
 - **(q)** Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under that Act as of January 1, 1997 , any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under that Act.
 - **(r)**
   - **(1)** In this subsection, the term “Bi-State Metropolitan Planning Organization” has the meaning given the term “region” in subsection (a) of Article II of the Lake Tahoe Regional Planning Compact ( Public Law 96–551 ; 94 Stat. 3234 ).
   - **(2)** For the purpose of this title, the Bi-State Metropolitan Planning Organization shall be treated as—
     - **(A)** a metropolitan planning organization;
     - **(B)** a transportation management area under subsection (k); and
-    - **(C)** an urbanized area, which is comprised of a population of 145,000 in the State of California and a population of 65,000 in the State of Nevada.
+    - **(C)** an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area and 25 square miles of land area 1 1 So in original. in the State of California and a population of 65,000 and 12 square miles of land area and 12 square miles of land area 1 in the State of Nevada.

@@ -3,12 +3,12 @@ title: "Section 2706 - Effective date"
 usc_title: 19
 usc_section: "2706"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2706"
-generated_at: "2026-03-29T19:28:30.756Z"
+generated_at: "2026-03-29T19:41:21.652Z"
 ---
 
 # § 2706. Effective date
 
 - **(a)** This chapter shall take effect on August 5, 1983 .
-- **(b)** Repealed. Pub. L. 101–382, title II , § 211, Aug. 20, 1990 , 104 Stat. 655 .
+- **(b)** Repealed. Pub. L. 101–382, title II, § 211 , Aug. 20, 1990 , 104 Stat. 655 .

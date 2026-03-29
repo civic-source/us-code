@@ -3,20 +3,20 @@ title: "Section 2031 - Junior Reserve Officers’ Training Corps"
 usc_title: 10
 usc_section: "2031"
 chapter: 102
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2031"
-generated_at: "2026-03-29T19:27:25.558Z"
+generated_at: "2026-03-29T19:43:37.955Z"
 ---
 
 # § 2031. Junior Reserve Officers’ Training Corps
 
 - **(a)**
   - **(1)** The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
-  - **(2)** It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
+  - **(2)** It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States (including an introduction to service opportunities in military, national, and public service), and personal responsibility and a sense of accomplishment.
 - **(b)** No unit may be established or maintained at an institution unless—
-  - **(1)** the number of physically fit students in such unit who are in a grade above the 8th grade and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 8th grade, or (B) 100, whichever is less;
+  - **(1)** the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (A) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (B) 100, whichever is less;
   - **(2)** the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
-  - **(3)** the institution provides a course of military instruction of not less than three academic years’ duration, as prescribed by the Secretary of the military department concerned;
+  - **(3)** the institution provides a course of military instruction of not less than three academic years’ duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned;
   - **(4)** the institution agrees to limit membership in the unit to students who maintain acceptable standards of academic achievement and conduct, as prescribed by the Secretary of the military department concerned; and
   - **(5)** the unit meets such other requirements as may be established by the Secretary of the military department concerned.
 - **(c)** The Secretary of the military department concerned shall, to support the Junior Reserve Officers’ Training Corps program—
@@ -42,3 +42,6 @@ generated_at: "2026-03-29T19:27:25.558Z"
   - **(3)** Any reimbursement provided to an instructor under paragraph (1) is in addition to the minimum instructor pay otherwise payable to the instructor.
   - **(4)** The Secretary concerned shall reimburse an institution providing reimbursement to an instructor under paragraph (1) in an amount equal to the amount of the reimbursement paid by the institution under that paragraph. Any reimbursement provided by the Secretary concerned shall be provided from funds appropriated for that purpose.
   - **(5)** The provision of reimbursement under paragraph (1) or (4) shall be subject to regulations prescribed by the Secretary of Defense for purposes of this subsection.
+- **(g)**
+  - **(1)** Each public secondary educational institution that maintains a unit under this section shall permit membership in the unit to homeschooled students residing in the area served by the institution who are qualified for membership in the unit (but for lack of enrollment in the institution).
+  - **(2)** A student who is a member of a unit pursuant to this subsection shall count toward the satisfaction by the institution concerned of the requirement in subsection (b)(1) relating to the minimum number of student members in the unit necessary for the continuing maintenance of the unit.

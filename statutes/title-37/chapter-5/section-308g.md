@@ -3,9 +3,9 @@ title: "Section 308g - Special pay: bonus for enlistment in elements of the Read
 usc_title: 37
 usc_section: "308g"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 308g"
-generated_at: "2026-03-29T19:30:34.096Z"
+generated_at: "2026-03-29T19:43:17.239Z"
 ---
 
 # § 308g. Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T19:30:34.096Z"
 - **(e)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 - **(f)** A bonus may not be paid under this section to any person for an enlistment—
   - **(1)** during the period beginning on October 1, 1992 , and ending on September 30, 2005 ; or
-  - **(2)** after December 31, 2016 .
+  - **(2)** after December 31, 2018 .

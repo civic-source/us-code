@@ -3,9 +3,9 @@ title: "Section 1313a - Revised water quality standards"
 usc_title: 33
 usc_section: "1313a"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1313a"
-generated_at: "2026-03-29T19:30:28.785Z"
+generated_at: "2026-03-29T19:43:07.639Z"
 ---
 
 # § 1313a. Revised water quality standards

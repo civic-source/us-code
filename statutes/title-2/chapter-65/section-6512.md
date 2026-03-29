@@ -3,9 +3,9 @@ title: "Section 6512 - Expense allowance for Secretary of Senate, Sergeant at Ar
 usc_title: 2
 usc_section: "6512"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 6512"
-generated_at: "2026-03-29T19:27:07.605Z"
+generated_at: "2026-03-29T19:42:59.717Z"
 ---
 
 # § 6512. Expense allowance for Secretary of Senate, Sergeant at Arms and Doorkeeper of Senate, and Secretaries for Senate Majority and Minority

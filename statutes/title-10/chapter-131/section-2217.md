@@ -1,20 +1,12 @@
 ---
-title: "Section 2217 - Comparable budgeting for common procurement weapon systems"
+title: "Section 2217 - Renumbered § 3135]"
 usc_title: 10
 usc_section: "2217"
 chapter: 131
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2217"
-generated_at: "2026-03-29T19:27:25.571Z"
+generated_at: "2026-03-29T19:43:37.966Z"
 ---
 
-# § 2217. Comparable budgeting for common procurement weapon systems
+# [§ 2217. Renumbered § 3135]
 
-- **(a)** In preparing the defense budget for any fiscal year, the Secretary of Defense shall—
-  - **(1)** specifically identify each common procurement weapon system included in the budget;
-  - **(2)** take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system; and
-  - **(3)** identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems.
-- **(b)** The Secretary shall carry out this section through the Under Secretary of Defense (Comptroller).
-- **(c)** In this section:
-  - **(1)** The term “defense budget” means the budget of the Department of Defense included in the President’s budget submitted to Congress under section 1105 of title 31 for a fiscal year.
-  - **(2)** The term “common procurement weapon system” means a weapon system for which two or more of the Army, Navy, Air Force, and Marine Corps request procurement funds in a defense budget.

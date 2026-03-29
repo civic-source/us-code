@@ -3,9 +3,9 @@ title: "Section 344 - Participation in multinational centers of excellence"
 usc_title: 10
 usc_section: "344"
 chapter: 16
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 344"
-generated_at: "2026-03-29T18:47:53.238Z"
+generated_at: "2026-03-29T19:43:37.801Z"
 ---
 
 # § 344. Participation in multinational centers of excellence

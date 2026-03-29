@@ -3,14 +3,16 @@ title: "Section 3842 - Delivery of technical assistance"
 usc_title: 16
 usc_section: "3842"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 3842"
-generated_at: "2026-03-29T19:29:27.573Z"
+generated_at: "2026-03-29T19:41:13.823Z"
 ---
 
 # § 3842. Delivery of technical assistance
 
-- **(a)** In this section, the term “eligible participant” means a producer, landowner, or entity that is participating in, or seeking to participate in, programs for which the producer, landowner, or entity is otherwise eligible to participate in under this chapter or the agricultural management assistance program under section 1524 of title 7 .
+- **(a)** In this section:
+  - **(1)** The term “eligible participant” means a producer, landowner, or entity that is participating in, or seeking to participate in, programs in which the producer, landowner, or entity is otherwise eligible to participate under this chapter or the agricultural management assistance program under section 1524(b) of title 7 .
+  - **(2)** The term “third-party provider” means a commercial entity (including a farmer cooperative, agriculture retailer, or other commercial entity (as defined by the Secretary)), a nonprofit entity, a State or local government (including a conservation district), or a Federal agency, that has expertise in the technical aspect of conservation planning, including nutrient management planning, watershed planning, or environmental engineering.
 - **(b)** The purpose of technical assistance authorized by this section is to provide eligible participants with consistent, science-based, site-specific practices designed to achieve conservation objectives on land active in agricultural, forestry, or related uses.
 - **(c)** The Secretary shall provide technical assistance under this chapter to an eligible participant—
   - **(1)** directly;
@@ -22,8 +24,12 @@ generated_at: "2026-03-29T19:29:27.573Z"
   - **(2)** Not later than 180 days after the date of the enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall promulgate such regulations as are necessary to carry out this section.
   - **(3)** In promulgating such regulations, the Secretary, to the maximum extent practicable, shall—
     - **(A)** ensure that persons with expertise in the technical aspects of conservation planning, watershed planning, and environmental engineering, including commercial entities, nonprofit entities, State or local governments or agencies, and other Federal agencies, are eligible to become approved providers of the technical assistance;
-    - **(B)** provide national criteria for the certification of third party 1 1 So in original. Probably should be “third-party”. providers; and
+    - **(B)** provide national criteria for the certification of third-party providers; and
     - **(C)** approve any unique certification standards established at the State level.
+  - **(4)** The Secretary shall certify a third-party provider through—
+    - **(A)** a certification process administered by the Secretary, acting through the Chief of the Natural Resources Conservation Service; or
+    - **(B)** a non-Federal entity approved by the Secretary to perform the certification.
+  - **(5)** The Secretary shall provide a streamlined certification process for a third-party provider that has an appropriate specialty certification, including a sustainability certification.
 - **(f)**
   - **(1)** Effective for fiscal year 2008 and each subsequent fiscal year, funds of the Commodity Credit Corporation made available to carry out technical assistance for each of the programs specified in section 3841 of this title shall be available for the provision of technical assistance from third-party providers under this section.
   - **(2)** An agreement with a third-party provider under this section shall have a term that—
@@ -34,21 +40,32 @@ generated_at: "2026-03-29T19:29:27.573Z"
     - **(A)** review certification requirements for third-party providers; and
     - **(B)** make any adjustments considered necessary by the Secretary to improve participation.
   - **(4)**
-    - **(A)** The Secretary may include as activities eligible for payments to a third party 1 provider—
+    - **(A)** The Secretary may include as activities eligible for payments to a third-party provider—
       - **(i)** technical services provided directly to eligible participants, such as conservation planning, education and outreach, and assistance with design and implementation of conservation practices; and
       - **(ii)** related technical assistance services that accelerate conservation program delivery.
-    - **(B)** The Secretary shall not designate as an activity eligible for payments to a third party 1 provider any service that is provided by a business, or equivalent, in connection with conducting business and that is customarily provided at no cost.
+    - **(B)** The Secretary shall not designate as an activity eligible for payments to a third-party provider any service that is provided by a business, or equivalent, in connection with conducting business and that is customarily provided at no cost.
   - **(5)** The Secretary shall establish fair and reasonable amounts of payments for technical services provided by third-party providers.
 - **(g)**
   - **(1)** In carrying out the programs under this chapter and the agricultural management assistance program under section 1524 of title 7 , the Secretary shall make technical services available to all eligible participants who are installing an eligible practice.
   - **(2)** In any case in which financial assistance is not provided under a program referred to in paragraph (1), the Secretary may enter into a technical service contract with the eligible participant for the purposes of assisting in the planning, design, or installation of an eligible practice.
 - **(h)**
   - **(1)** The Secretary shall—
-    - **(A)** review conservation practice standards, including engineering design specifications, in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008;
-    - **(B)** ensure, to the maximum extent practicable, the completeness and relevance of the standards to local agricultural, forestry, and natural resource needs, including specialty crops, native and managed pollinators, bioenergy crop production, forestry, and such other needs as are determined by the Secretary; and
-    - **(C)** ensure that the standards provide for the optimal balance between meeting site-specific conservation needs and minimizing risks of design failure and associated costs of construction and installation.
-  - **(2)** In conducting the review under paragraph (1), the Secretary shall consult with eligible participants, crop consultants, cooperative extension and land grant universities, nongovernmental organizations, and other qualified entities.
-  - **(3)** If the Secretary determines under paragraph (1) that revisions to the conservation practice standards, including engineering design specifications, are necessary, the Secretary shall establish an administrative process for expediting the revisions.
+    - **(A)** not later than 1 year after December 20, 2018 , complete a review of each conservation practice standard, including engineering design specifications, in effect on the day before December 20, 2018 ;
+    - **(B)** ensure, to the maximum extent practicable, the completeness and relevance of the standards to local agricultural, forestry, and natural resource needs, including specialty crops, native and managed pollinators, bioenergy crop production, forestry, and such other needs as are determined by the Secretary;
+    - **(C)** ensure that the standards provide for the optimal balance between meeting site-specific conservation needs and minimizing risks of design failure and associated costs of construction and installation; and
+    - **(D)** evaluate opportunities to increase flexibility in conservation practice standards in a manner that ensures equivalent natural resource benefits.
+  - **(2)** In conducting the review under paragraph (1), the Secretary shall consult with eligible participants, State technical committees established under section 3861(a) of this title , crop consultants, cooperative extension and land grant universities, nongovernmental organizations, and other qualified entities.
+  - **(3)** Not later than 1 year after December 20, 2018 , the Secretary shall develop for the programs under this chapter an administrative process for—
+    - **(A)** expediting the establishment and revision of conservation practice standards;
+    - **(B)** considering conservation innovations and scientific and technological advancements with respect to any establishment or revision under subparagraph (A);
+    - **(C)** allowing local flexibility in the creation of—
+      - **(i)** interim practice standards and supplements to existing practice standards to address the considerations described in subparagraph (B); and
+      - **(ii)** partnership-led proposals for new and innovative techniques to facilitate implementing agreements and grants under this title; and
+    - **(D)** soliciting regular input from State technical committees established under section 3861(a) of this title for recommendations that identify innovations or advancements described in subparagraph (B).
+  - **(4)** Not later than 2 years after December 20, 2018 , and every 2 years thereafter, the Secretary shall submit to Congress a report on—
+    - **(A)** the administrative process developed under paragraph (3);
+    - **(B)** conservation practice standards that were established or revised under that process; and
+    - **(C)** conservation innovations that were considered under that process.
 - **(i)**
   - **(1)** The Secretary shall—
     - **(A)** to the maximum extent practicable, fully incorporate specialty crop production, organic crop production, and precision agriculture into the conservation practice standards; and

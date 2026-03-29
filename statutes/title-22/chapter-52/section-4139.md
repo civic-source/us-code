@@ -3,9 +3,9 @@ title: "Section 4139 - Relationship to other remedies"
 usc_title: 22
 usc_section: "4139"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4139"
-generated_at: "2026-03-29T19:29:46.868Z"
+generated_at: "2026-03-29T19:42:08.182Z"
 ---
 
 # § 4139. Relationship to other remedies

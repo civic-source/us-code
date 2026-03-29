@@ -3,9 +3,9 @@ title: "Section 9551 - Definitions"
 usc_title: 15
 usc_section: "9551"
 chapter: 120
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 9551"
-generated_at: "2026-03-29T18:49:04.606Z"
+generated_at: "2026-03-29T19:44:43.013Z"
 ---
 
 # § 9551. Definitions

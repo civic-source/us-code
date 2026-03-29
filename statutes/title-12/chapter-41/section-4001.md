@@ -3,9 +3,9 @@ title: "Section 4001 - Definitions"
 usc_title: 12
 usc_section: "4001"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 4001"
-generated_at: "2026-03-29T19:28:17.788Z"
+generated_at: "2026-03-29T19:44:54.261Z"
 ---
 
 # § 4001. Definitions
@@ -47,9 +47,9 @@ For purposes of this chapter—
   - **(19)** The term “participant” means a depository institution which—
     - **(A)** is located in the same geographic area as that served by a check clearinghouse association; and
     - **(B)** exchanges checks through the check clearinghouse association, either directly or through an intermediary.
-  - **(20)** The term “receiving depository institution” means the branch of a depository institution or the proprietary ATM in which a check is first deposited.
-  - **(21)** The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands.
+  - **(20)** The term “receiving depository institution” means the branch of a depository institution or the proprietary ATM, located in the United States, in which a check is first deposited.
+  - **(21)** The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the Virgin Islands.
   - **(22)** The term “teller’s check” means any check issued by a depository institution and drawn on another depository institution.
-  - **(23)** The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
+  - **(23)** The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands.
   - **(24)** The term “unit of general local government” means any city, county, town, township, parish, village, or other general purpose political subdivision of a State.
   - **(25)** The term “wire transfer” has such meaning as the Board shall prescribe by regulations.

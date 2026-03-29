@@ -3,9 +3,9 @@ title: "Section 649 - Office of International Trade"
 usc_title: 15
 usc_section: "649"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 649"
-generated_at: "2026-03-29T19:27:55.351Z"
+generated_at: "2026-03-29T19:44:42.646Z"
 ---
 
 # § 649. Office of International Trade
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:55.351Z"
     - **(A)** the number of small business concerns that export; and
     - **(B)** the volume of exports by small business concerns.
   - **(2)** The head of the Office shall be the Associate Administrator for International Trade, who shall be responsible to the Administrator.
-- **(b)** The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the President of the Overseas Private Investment Corporation, Director 1 1 So in original. Probably should be preceded by “the”. of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
+- **(b)** The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the Board of Directors of the United States International Development Finance Corporation, the Director of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
   - **(1)** maintain a distribution network, using regional and district offices of the Administration, the small business development center network, networks of women’s business centers, the Service Corps of Retired Executives authorized by section 637(b)(1) of this title , and Export Assistance Centers, for programs relating to—
     - **(A)** trade promotion;
     - **(B)** trade finance;
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T19:27:55.351Z"
     - **(D)** provide advice to personnel of the Administration involved in making loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small business concerns engaged in exports;
     - **(E)** within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
     - **(F)** participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
-    - **(G)** develop and conduct training programs for exporters and lenders, in cooperation with the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women’s business centers, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, and other relevant Federal agencies;
+    - **(G)** develop and conduct training programs for exporters and lenders, in cooperation with the Export Assistance Centers, the Department of Commerce, the Department of Agriculture, small business development centers, women’s business centers, the Export-Import Bank of the United States, the United States International Development Finance Corporation, and other relevant Federal agencies;
   - **(10)** make available on the website of the Administration the name and contact information of each individual described in paragraph (9);
   - **(11)** carry out a nationwide marketing effort using technology, online resources, training, and other strategies to promote exporting as a business development opportunity for small business concerns;
   - **(12)** disseminate information to the small business community through regional and district offices of the Administration, the small business development center network, Export Assistance Centers, the network of women’s business centers, chapters of the Service Corps of Retired Executives authorized by section 637(b)(1) of this title , State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
@@ -117,7 +117,7 @@ generated_at: "2026-03-29T19:27:55.351Z"
     - **(C)** export revenues by small business concerns assisted by programs of the Administration;
     - **(D)** the number of small business concerns referred to an Export Assistance Center or a small business development center by the staff of the Office;
     - **(E)** the number of small business concerns referred to the Administration by an Export Assistance Center or a small business development center; and
-    - **(F)** the number of small business concerns referred to the Department of Commerce, the Department of Agriculture, the Department of State, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, or the United States Trade and Development Agency by the staff of the Office, an Export Assistance Center, or a small business development center.
+    - **(F)** the number of small business concerns referred to the Department of Commerce, the Department of Agriculture, the Department of State, the Export-Import Bank of the United States, the United States International Development Finance Corporation, or the United States Trade and Development Agency by the staff of the Office, an Export Assistance Center, or a small business development center.
   - **(2)** The Associate Administrator shall develop joint performance measures for the district offices of the Administration and the Export Assistance Centers that include the number of export loans made under—
     - **(A)** section 636(a)(16) of this title ;
     - **(B)** the Export Working Capital Program established under section 636(a)(14) of this title ;
@@ -134,7 +134,7 @@ generated_at: "2026-03-29T19:27:55.351Z"
       - **(ii)** has not had an Administration employee assigned to the Export Assistance Center during the period beginning January 2003, and ending on September 27, 2010 , either through retirement or reassignment.
     - **(B)** The Administrator shall, to the maximum extent practicable, strategically assign Administration employees to Export Assistance Centers, based on the needs of exporters.
     - **(C)** Nothing in this subsection may be construed to require the Administrator to reassign or remove an export finance specialist who is assigned to an Export Assistance Center on September 27, 2010 .
-  - **(3)** The Associate Administrator shall work with the Department of Commerce, the Export-Import Bank of the United States, and the Overseas Private Investment Corporation to establish shared annual goals for the Export Assistance Centers.
+  - **(3)** The Associate Administrator shall work with the Department of Commerce, the Export-Import Bank of the United States, and the United States International Development Finance Corporation to establish shared annual goals for the Export Assistance Centers.
   - **(4)** The Associate Administrator shall designate an individual within the Administration to oversee all activities conducted by Administration employees assigned to Export Assistance Centers.
 - **(l)**
   - **(1)** In this subsection—
@@ -179,6 +179,7 @@ generated_at: "2026-03-29T19:27:55.351Z"
     - **(D)**
       - **(i)** A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish.
       - **(ii)** A State desiring a grant under the program shall—
+        - **(I)** before submitting an application under clause (i), consult with applicable trade agencies of the Federal Government on the scope and mission of the activities the State proposes to carry out using the grant, to ensure proper coordination and reduce duplication in services; and
         - **(II)** document the consultation conducted under subclause (I) in the application submitted under clause (i).
   - **(4)** The Associate Administrator shall award grants under the program on a competitive basis.
   - **(5)** The Federal share of the cost of a trade expansion program carried out using a grant under the program shall be—

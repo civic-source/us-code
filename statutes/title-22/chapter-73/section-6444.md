@@ -3,9 +3,9 @@ title: "Section 6444 - Report to Congress"
 usc_title: 22
 usc_section: "6444"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6444"
-generated_at: "2026-03-29T19:29:46.922Z"
+generated_at: "2026-03-29T19:42:08.228Z"
 ---
 
 # § 6444. Report to Congress
@@ -17,8 +17,9 @@ generated_at: "2026-03-29T19:29:46.922Z"
   - **(4)**
     - **(A)** An evaluation, in consultation with the Secretary of State, the Ambassador at Large, the Commission, the Special Adviser, the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
       - **(i)** the impact upon the foreign government;
-      - **(ii)** the impact upon the population of the country; and
-      - **(iii)** the impact upon the United States economy and other interested parties.
+      - **(ii)** the impact upon the population of the country;
+      - **(iii)** the impact upon the United States economy and other interested parties; and
+      - **(iv)** the impact on the advancement of United States interests in democracy, human rights, and security, and a description of policy tools being applied in the country, including programs that target democratic stability, economic growth, and counterterrorism.
     - **(B)** The President may withhold part or all of such evaluation from the public but shall provide the entire evaluation to Congress.
   - **(5)** A statement that noneconomic policy options designed to bring about cessation of the particularly severe violations of religious freedom have reasonably been exhausted, including the consultations required in section 6443 of this title .
   - **(6)** A description of multilateral negotiations sought or carried out, if appropriate and applicable.

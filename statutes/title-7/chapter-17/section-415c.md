@@ -1,14 +1,12 @@
 ---
-title: "Section 415c - Use of funds for dissemination of information relating to standardization, grading, etc., of wool; charge for grading wool"
+title: "Section 415c - Omitted"
 usc_title: 7
 usc_section: "415c"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 415c"
-generated_at: "2026-03-29T19:27:31.676Z"
+generated_at: "2026-03-29T19:43:58.053Z"
 ---
 
-# § 415c. Use of funds for dissemination of information relating to standardization, grading, etc., of wool; charge for grading wool
-
-The funds referred to in section 415b of this title may be used for the purpose of acquiring and diffusing among the people of the United States useful information relative to the standardization, grading, preparation for market, marketing, utilization, transportation, handling, and distribution of wool, and of approved methods and practices relative thereto, including the demonstration and promotion of the use of grades for wool in accordance with standards therefor which the Secretary of Agriculture is hereby authorized to establish. Said funds may be used for the grading of wool, and for such grading or other service rendered under sections 415b to 415d of this title reasonable fees may be charged, and provided further that on and after May 17, 1928 , reasonable charges may be made for practical forms of grades for wool.
+# § 415c. Omitted
 

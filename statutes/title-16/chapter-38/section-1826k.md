@@ -3,9 +3,9 @@ title: "Section 1826k - Equivalent conservation measures"
 usc_title: 16
 usc_section: "1826k"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1826k"
-generated_at: "2026-03-29T19:29:27.500Z"
+generated_at: "2026-03-29T19:41:13.746Z"
 ---
 
 # § 1826k. Equivalent conservation measures
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:29:27.500Z"
     - **(B)** the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
     - **(C)** the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
   - **(2)** a nation if—
-    - **(A)** fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+    - **(A)** fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
     - **(B)** the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
 - **(b)** The Secretary, acting through the Secretary of State, shall—
   - **(1)** notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;

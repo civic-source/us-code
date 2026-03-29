@@ -3,9 +3,9 @@ title: "Section 130 - Railway-highway crossings"
 usc_title: 23
 usc_section: "130"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 130"
-generated_at: "2026-03-29T19:29:58.396Z"
+generated_at: "2026-03-29T19:41:42.995Z"
 ---
 
 # § 130. Railway-highway crossings
@@ -16,30 +16,32 @@ generated_at: "2026-03-29T19:29:58.396Z"
 - **(d)** Each State shall conduct and systematically maintain a survey of all highways to identify those railroad crossings which may require separation, relocation, or protective devices, and establish and implement a schedule of projects for this purpose. At a minimum, such a schedule shall provide signs for all railway-highway crossings.
 - **(e)**
   - **(1)**
-    - **(A)** Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, for the elimination of hazards and the installation of protective devices at railway-highway crossings at least—
-      - **(i)** $225,000,000 for fiscal year 2016;
-      - **(ii)** $230,000,000 for fiscal year 2017;
-      - **(iii)** $235,000,000 for fiscal year 2018;
-      - **(iv)** $240,000,000 for fiscal year 2019; and
-      - **(v)** $245,000,000 for fiscal year 2020.
-    - **(B)** At least ½ of the funds set aside each fiscal year under subparagraph (A) shall be available for the installation of protective devices at railway-highway crossings.
+    - **(A)** Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, for the elimination of hazards, the installation of protective devices at railway-highway crossings, the replacement of functionally obsolete warning devices, and as described in subparagraph (B), not less than $245,000,000 for each of fiscal years 2022 through 2026.
+    - **(B)** A State may use funds set aside under subparagraph (A) for projects to reduce pedestrian fatalities and injuries from trespassing at grade crossings.
     - **(C)** Sums set aside each fiscal year under subparagraph (A) shall be available for obligation in the same manner as funds apportioned under section 104(b)(1).
   - **(2)** If a State demonstrates to the satisfaction of the Secretary that the State has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other highway safety improvement program purposes.
 - **(f)**
   - **(1)** Fifty percent of the funds set aside to carry out this section pursuant to subsection (e)(1) shall be apportioned to the States in accordance with the formula set forth in section 104(b)(3)(A) as in effect on the day before the date of enactment of the MAP–21, and 50 percent of such funds shall be apportioned to the States in the ratio that total public railway-highway crossings in each State bears to the total of such crossings in all States.
   - **(2)** Notwithstanding paragraph (1), each State shall receive a minimum of one-half of 1 percent of the funds apportioned under paragraph (1).
-  - **(3)** The Federal share payable on account of any project financed with funds set aside to carry out this section shall be 90 percent of the cost thereof.
-- **(g)** Each State shall report to the Secretary not later than December 30 of each year on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements. Each State report shall contain an assessment of the costs of the various treatments employed and subsequent accident experience at improved locations. The Secretary shall submit a report to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation, 1 1 So in original. of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, not later than April 1, 2006 , and every 2 years thereafter,, 1 on the progress being made by the State in implementing projects to improve railway-highway crossings. The report shall include, but not be limited to, the number of projects undertaken, their distribution by cost range, road system, nature of treatment, and subsequent accident experience at improved locations. In addition, the Secretary’s report shall analyze and evaluate each State program, identify any State found not to be in compliance with the schedule of improvements required by subsection (d) and include recommendations for future implementation of the railroad highway 2 2 So in original. Probably should be “railroad-highway”. crossings program.
+  - **(3)** The Federal share payable on account of any project financed with funds set aside to carry out this section shall be 100 percent of the cost thereof.
+- **(g)**
+  - **(1)** Not later than August 31 of each year, each State shall submit a report to the Administrator of the Federal Highway Administration that describes—
+    - **(A)** the progress being made to implement the railway-highway crossings program authorized under this section; and
+    - **(B)** the effectiveness of the improvements made as a result of such implementation.
+  - **(2)** Each report submitted pursuant to paragraph (1) shall contain an assessment of—
+    - **(A)** the costs of the various treatments employed by the State to implement the railway-highway crossings program; and
+    - **(B)** the effectiveness of such treatments, as measured by the accident experience at the locations that received such treatments.
+  - **(3)** Not later than 30 days after the Federal Highway Administration’s acceptance of each report submitted pursuant to paragraph (1), the Administrator of the Federal Highway Administration shall make such report available to the Administrator of the Federal Railroad Administration.
 - **(h)** Funds authorized to be appropriated to carry out this section may be used to provide a local government with funds to be used on a matching basis when State funds are available which may only be spent when the local government produces matching funds for the improvement of railway-highway crossings.
 - **(i)**
   - **(1)** Notwithstanding any other provision of this section and subject to paragraphs (2) and (3), a State may, from sums available to the State under this section, make incentive payments to local governments in the State upon the permanent closure by such governments of public at-grade railway-highway crossings under the jurisdiction of such governments.
   - **(2)** A State may not make an incentive payment under paragraph (1) to a local government with respect to the closure of a crossing unless the railroad owning the tracks on which the crossing is located makes an incentive payment to the government with respect to the closure.
   - **(3)** The amount of the incentive payment payable to a local government by a State under paragraph (1) with respect to a crossing may not exceed the lesser of—
     - **(A)** the amount of the incentive payment paid to the government with respect to the crossing by the railroad concerned under paragraph (2); or
-    - **(B)** $7,500.
+    - **(B)** $100,000.
   - **(4)** A local government receiving an incentive payment from a State under paragraph (1) shall use the amount of the incentive payment for transportation safety improvements.
 - **(j)** In carrying out projects under this section, a State shall take into account bicycle safety.
-- **(k)** Not more than 2 percent of funds apportioned to a State to carry out this section may be used by the State for compilation and analysis of data in support of activities carried out under subsection (g).
+- **(k)** Not more than 8 percent of funds apportioned to a State to carry out this section may be used by the State for compilation and analysis of data in support of activities carried out under subsection (g).
 - **(l)**
   - **(1)** Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008 or within 6 months of a new crossing becoming operational, whichever occurs later, each State shall report to the Secretary of Transportation current information, including information about warning devices and signage, as specified by the Secretary, concerning each previously unreported public crossing located within its borders.
   - **(2)** On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.

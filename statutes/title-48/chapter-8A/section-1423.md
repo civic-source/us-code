@@ -3,9 +3,9 @@ title: "Section 1423 - Legislature of Guam"
 usc_title: 48
 usc_section: "1423"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1423"
-generated_at: "2026-03-29T19:31:53.954Z"
+generated_at: "2026-03-29T19:44:59.785Z"
 ---
 
 # § 1423. Legislature of Guam

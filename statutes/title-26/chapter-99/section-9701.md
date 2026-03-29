@@ -3,9 +3,9 @@ title: "Section 9701 - Definitions of general applicability"
 usc_title: 26
 usc_section: "9701"
 chapter: 99
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 9701"
-generated_at: "2026-03-29T19:30:20.292Z"
+generated_at: "2026-03-29T19:42:48.050Z"
 ---
 
 # § 9701. Definitions of general applicability
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:30:20.292Z"
     - **(C)** The term “1974 UMWA Benefit Plan” means a UMWA Benefit Plan, participation in which is substantially limited to individuals who retired on or after January 1, 1976 .
   - **(2)** The term “1950 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired before 1976.
   - **(3)** The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
-  - **(4)** The term “1992 UMWA Benefit Plan” means the plan referred to in section 9713A. 1 1 See References in Text note below.
+  - **(4)** The term “1992 UMWA Benefit Plan” means the plan referred to in section 9712.
   - **(5)** The term “Combined Fund” means the United Mine Workers of America Combined Benefit Fund established under section 9702.
 - **(b)** For purposes of this section—
   - **(1)** The term “coal wage agreement” means—

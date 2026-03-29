@@ -3,9 +3,9 @@ title: "Section 3151b - Veterinary services grant program"
 usc_title: 7
 usc_section: "3151b"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3151b"
-generated_at: "2026-03-29T19:27:31.879Z"
+generated_at: "2026-03-29T19:43:58.285Z"
 ---
 
 # § 3151b. Veterinary services grant program
@@ -42,6 +42,7 @@ generated_at: "2026-03-29T19:27:31.879Z"
     - **(C)** To establish or expand accredited veterinary education programs (including faculty recruitment and retention), veterinary residency and fellowship programs, or veterinary internship and externship programs carried out in coordination with accredited colleges of veterinary medicine.
     - **(D)** To provide continuing education and extension, including veterinary telemedicine and other distance-based education, for veterinarians, veterinary technicians, and other health professionals needed to strengthen veterinary programs and enhance food safety.
     - **(E)** To provide technical assistance for the preparation of applications submitted to the Secretary for designation as a veterinarian shortage situation under this section or section 3151a of this title .
+    - **(F)** To expose students in grades 11 and 12 to education and career opportunities in food animal medicine.
   - **(2)** A qualified entity described in subsection (a)(1)(A) may only use funds provided by a grant awarded under this section to establish or expand veterinary practices, including—
     - **(A)** equipping veterinary offices;
     - **(B)** sharing in the reasonable overhead costs of such veterinary practices, as determined by the Secretary; or
@@ -62,4 +63,6 @@ generated_at: "2026-03-29T19:27:31.879Z"
   - **(1)** to construct a new building or facility; or
   - **(2)** to acquire, expand, remodel, or alter an existing building or facility, including site grading and improvement and architect fees.
 - **(g)** Not later than 1 year after February 7, 2014 , the Secretary shall promulgate regulations to carry out this section.
-- **(h)** There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
+- **(h)**
+  - **(1)** There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
+  - **(2)** From amounts made available for grants under this section, the Secretary shall prioritize grant awards for programs or activities with a focus on the practice of food animal medicine.

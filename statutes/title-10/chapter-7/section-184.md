@@ -1,37 +1,63 @@
 ---
-title: "Section 184 - Regional Centers for Security Studies"
+title: "Section 184 - Joint Safety Council"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-29T19:27:25.432Z"
+generated_at: "2026-03-29T19:43:37.787Z"
 ---
 
-# § 184. Regional Centers for Security Studies
+# § 184. Joint Safety Council
 
-- **(a)** The Secretary of Defense shall administer the Department of Defense Regional Centers for Security Studies in accordance with this section as international venues for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
+- **(a)** There is established, within the Office of the Deputy Secretary of Defense, a Joint Safety Council (in this section referred to as the “Council”).
 - **(b)**
-  - **(1)** A Department of Defense Regional Center for Security Studies is a Department of Defense institution that—
-    - **(A)** is operated, and designated as such, by the Secretary of Defense for the study of security issues relating to a specified geographic region of the world; and
-    - **(B)** serves as a forum for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
-  - **(2)** The Department of Defense Regional Centers for Security Studies are the following:
-    - **(A)** The George C. Marshall European Center for Security Studies, established in 1993 and located in Garmisch-Partenkirchen, Germany.
-    - **(B)** The Daniel K. Inouye Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
-    - **(C)** The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
-    - **(D)** The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
-    - **(E)** The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.
-  - **(3)** No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after October 17, 2006 .
-- **(c)** The administration of the Regional Centers under this section shall be carried out under regulations prescribed by the Secretary.
-- **(d)** Participants in activities of the Regional Centers may include United States and foreign military, civilian, and nongovernmental personnel.
-- **(e)** At each Regional Center, the Secretary may, subject to the availability of appropriations—
-  - **(1)** employ a Director, a Deputy Director, and as many civilians as professors, instructors, and lecturers as the Secretary considers necessary; and
-  - **(2)** prescribe the compensation of such persons, in accordance with Federal guidelines.
+  - **(1)** The Council shall be composed of voting members as follows:
+    - **(A)** The Director of Safety for each military department.
+    - **(B)** An employee of the Department of Defense who is a career member of the Senior Executive Service and has a demonstrated record of success in the implementation of programs within the Department of Defense (as determined by the Deputy Secretary of Defense), appointed by the Deputy Secretary of Defense.
+    - **(C)** One member of the armed forces or civilian employee from each military department, appointed by the Secretary concerned.
+    - **(D)** Such additional members as may be determined by the Deputy Secretary of Defense.
+  - **(2)**
+    - **(A)** Each member of the Council shall serve at the will of the official who appointed that member.
+    - **(B)** Any vacancy on the Council shall be filled in the same manner as the original appointment.
+  - **(3)** Members of the Council may not receive additional pay, allowances, or benefits by reason of their service on the Council.
+- **(c)**
+  - **(1)**
+    - **(A)** The Secretary of Defense, or the designee of the Secretary, shall select one of the members of the Council who is a member of the armed forces to serve as the Chairperson of the Council.
+    - **(B)** The Chairperson shall serve for a term of two years and shall be responsible for—
+      - **(i)** serving as the Director of Safety for the Department of Defense;
+      - **(ii)** serving as principal advisor to the Secretary of Defense regarding military safety and related regulations and policy reforms, including issues regarding maintenance, supply chains, personnel management, and training;
+      - **(iii)** overseeing all duties and activities of the Council, including the conduct of military safety studies and the issuance of safety guidance to the military departments;
+      - **(iv)** working with, and advising, the Secretaries of the military departments through appointed safety chiefs to implement standardized safety guidance across the military departments;
+      - **(v)** submitting to the Secretary of Defense and Congress an annual report reviewing the compliance of each military department with the guidance described in clause (iv);
+      - **(vi)** advising Congress on issues relating to military safety and reforms; and
+      - **(vii)** overseeing coordination with other Federal agencies, including the Federal Aviation Administration, to inform military aviation safety guidance and reforms.
+  - **(2)** The individual appointed under subsection (b)(1)(B) shall serve as the Vice Chairperson. The Vice Chairperson shall report to the Chairperson and shall serve as Chairperson in the absence of the Chairperson.
+- **(d)** The Council shall carry out the following responsibilities:
+  - **(1)** Subject to subsection (e), issuing, publishing, and updating regulations related to joint safety, including regulations on the reporting and investigation of mishaps.
+  - **(2)** With respect to mishap data—
+    - **(A)** establishing uniform data collection standards and a repository, that is accessible Department-wide, of data for mishaps in the Department of Defense;
+    - **(B)** reviewing the compliance of each military department in adopting and using the uniform data collection standards established under subparagraph (A); and
+    - **(C)** reviewing mishap data to assess, identify, and prioritize risk mitigation efforts and safety improvement efforts across the Department.
+  - **(3)** With respect to non-mishap data—
+    - **(A)** establishing standards and requirements for the collection of aircraft, equipment, simulator, airfield, range, pilot, and operator data;
+    - **(B)** establishing standards and requirements for the collection of ground vehicle equipment and crew data; and
+    - **(C)** establishing requirements for each military department to collect and analyze any waivers issued relating to pilot or operator qualifications or standards.
+  - **(4)** Reviewing and assessing civil and commercial aviation safety programs and practices to determine the suitability of such programs and practices for implementation in the military departments.
+  - **(5)** Establishing, in consultation with the Administrator of the Federal Aviation Administration, a requirement for each military department to implement an aviation safety management system.
+  - **(6)** Establishing, in consultation with the heads of appropriate Federal departments and agencies, a requirement for each military department to implement a separate safety management program for ground vehicles and ships.
+  - **(7)** Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10). 1 1 So in original. No par. (10) has been enacted.
+  - **(8)** Reviewing the implementation of such systems by each military department.
+  - **(9)** Ensuring each military department has in place a system to monitor the implementation of recommendations made in safety and legal investigation reports of mishap incidents.
+- **(e)** The decisions and recommendations of the Council are subject to review and approval by the Deputy Secretary of Defense.
 - **(f)**
-  - **(1)** Participation in activities of a Regional Center shall be on a reimbursable basis (or by payment in advance), except in a case in which reimbursement is waived in accordance with paragraph (3).
-  - **(2)** For a foreign national participant, payment of costs may be made by the participant, the participant’s own government, by a Department or agency of the United States other than the Department of Defense, or by a gift or donation on behalf of one or more Regional Centers accepted under section 2611 of this title on behalf of the participant’s government.
-  - **(3)** The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security civilian government officials from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
-  - **(4)** Funds accepted for the payment of costs shall be credited to the appropriation then currently available to the Department of Defense for the Regional Center that incurred the costs. Funds so credited shall be merged with the appropriation to which credited and shall be available to that Regional Center for the same purposes and same period as the appropriation with which merged.
-  - **(5)** Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.
-  - **(6)** Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
-- **(g)** The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
+  - **(1)** The Council may appoint staff in accordance with section 3101 of title 5 .
+  - **(2)** The Council may accept persons on detail from within the Department of Defense and from other Federal departments or agencies on a reimbursable or non-reimbursable basis.
+- **(g)** The Council may enter into contracts for the acquisition of administrative supplies, equipment, and personnel services for use by the Council, to the extent that funds are available for such purposes.
+- **(h)** The Chairperson may procure temporary and intermittent services under section 3109(b) of title 5 at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+- **(i)**
+  - **(1)** Under regulations issued by the Secretary of Defense, the Council shall have access to Department of Defense databases necessary to carry out its responsibilities, including causal factors to be used for mishap reduction purposes.
+  - **(2)** Under regulations issued by the Secretary of Defense, the Council may enter into agreements with the Federal Aviation Administration, the National Transportation Safety Board, and any other Federal agency regarding the sharing of safety data.
+  - **(3)** Data collected by the Council pursuant to this subsection may include privileged safety information that is protected from disclosure or discovery to any person.
+- **(j)** The Council shall meet quarterly and at the call of the Chairperson.
+- **(k)** The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.

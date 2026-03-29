@@ -3,9 +3,9 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-29T19:30:19.790Z"
+generated_at: "2026-03-29T19:42:47.633Z"
 ---
 
 # § 402. Taxability of beneficiary of employees’ trust
@@ -30,8 +30,16 @@ generated_at: "2026-03-29T19:30:19.790Z"
     - **(A)** such portion is transferred in a direct trustee-to-trustee transfer to a qualified trust or to an annuity contract described in section 403(b) and such trust or contract provides for separate accounting for amounts so transferred (and earnings thereon), including separately accounting for the portion of such distribution which is includible in gross income and the portion of such distribution which is not so includible, or
     - **(B)** such portion is transferred to an eligible retirement plan described in clause (i) or (ii) of paragraph (8)(B).
   - **(3)**
-    - **(A)** Except as provided in subparagraph (B), paragraph (1) shall not apply to any transfer of a distribution made after the 60th day following the day on which the distributee received the property distributed.
+    - **(A)** Except as provided in subparagraphs (B) and (C), paragraph (1) shall not apply to any transfer of a distribution made after the 60th day following the day on which the distributee received the property distributed.
     - **(B)** The Secretary may waive the 60-day requirement under subparagraph (A) where the failure to waive such requirement would be against equity or good conscience, including casualty, disaster, or other events beyond the reasonable control of the individual subject to such requirement.
+    - **(C)**
+      - **(i)** In the case of a qualified plan loan offset amount, paragraph (1) shall not apply to any transfer of such amount made after the due date (including extensions) for filing the return of tax for the taxable year in which such amount is treated as distributed from a qualified employer plan.
+      - **(ii)** For purposes of this subparagraph, the term “qualified plan loan offset amount” means a plan loan offset amount which is treated as distributed from a qualified employer plan to a participant or beneficiary solely by reason of—
+        - **(I)** the termination of the qualified employer plan, or
+        - **(II)** the failure to meet the repayment terms of the loan from such plan because of the severance from employment of the participant.
+      - **(iii)** For purposes of clause (ii), the term “plan loan offset amount” means the amount by which the participant’s accrued benefit under the plan is reduced in order to repay a loan from the plan.
+      - **(iv)** This subparagraph shall not apply to any plan loan offset amount unless such plan loan offset amount relates to a loan to which section 72(p)(1) does not apply by reason of section 72(p)(2).
+      - **(v)** For purposes of this subsection, the term “qualified employer plan” has the meaning given such term by section 72(p)(4).
   - **(4)** For purposes of this subsection, the term “eligible rollover distribution” means any distribution to an employee of all or any portion of the balance to the credit of the employee in a qualified trust; except that such term shall not include—
     - **(A)** any distribution which is one of a series of substantially equal periodic payments (not less frequently than annually) made—
       - **(i)** for the life (or life expectancy) of the employee or the joint lives (or joint life expectancies) of the employee and the employee’s designated beneficiary, or
@@ -153,7 +161,7 @@ generated_at: "2026-03-29T19:30:19.790Z"
     - **(A)** 25 percent of the compensation (within the meaning of section 414(s)) from such employer includible in the employee’s gross income for the year (determined without regard to the employer contributions to the simplified employee pension), or
     - **(B)** the limitation in effect under section 415(c)(1)(A), reduced in the case of any highly compensated employee (within the meaning of section 414(q)) by the amount taken into account with respect to such employee under section 408(k)(3)(D).
   - **(3)** Any amount paid or distributed out of an individual retirement plan pursuant to a simplified employee pension shall be included in gross income by the payee or distributee, as the case may be, in accordance with the provisions of section 408(d).
-- **(i)** For purposes of this section, except as otherwise provided in subparagraph (A) of subsection (d)(4), 1 1 See References in Text note below. the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
+- **(i)** For purposes of this section, except as otherwise provided in subsection (e)(4)(D)(i), the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
 - **(j)**
   - **(1)** For purposes of subsection (e)(4), in the case of any transaction to which this subsection applies, the determination of net unrealized appreciation shall be made without regard to such transaction.
   - **(2)** This subsection shall apply to any transaction in which—
@@ -169,7 +177,7 @@ generated_at: "2026-03-29T19:30:19.790Z"
   - **(4)** For purposes of this subsection—
     - **(A)** For purposes of paragraph (1), the term “eligible retirement plan” means a governmental plan (within the meaning of section 414(d)) which is described in clause (iii), (iv), (v), or (vi) of subsection (c)(8)(B).
     - **(B)** The term “eligible retired public safety officer” means an individual who, by reason of disability or attainment of normal retirement age, is separated from service as a public safety officer with the employer who maintains the eligible retirement plan from which distributions subject to paragraph (1) are made.
-    - **(C)** The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b(9)(A) ), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+    - **(C)** The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b(9)(A) ), 1 1 See References in Text note below. as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
     - **(D)** The term “qualified health insurance premiums” means premiums for coverage for the eligible retired public safety officer, his spouse, and dependents (as defined in section 152), by an accident or health plan or qualified long-term care insurance contract (as defined in section 7702B(b)).
   - **(5)** For purposes of this subsection—
     - **(A)** Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.

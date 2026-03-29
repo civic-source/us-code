@@ -3,9 +3,9 @@ title: "Section 757b - Authority of the Secretary with regards to Anadromous and
 usc_title: 16
 usc_section: "757b"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 757b"
-generated_at: "2026-03-29T19:29:27.353Z"
+generated_at: "2026-03-29T19:41:13.597Z"
 ---
 
 # § 757b. Authority of the Secretary with regards to Anadromous and Great Lakes fisheries; development and management

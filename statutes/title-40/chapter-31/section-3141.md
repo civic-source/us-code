@@ -3,9 +3,9 @@ title: "Section 3141 - Definitions"
 usc_title: 40
 usc_section: "3141"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 3141"
-generated_at: "2026-03-29T19:30:36.686Z"
+generated_at: "2026-03-29T19:43:21.254Z"
 ---
 
 # § 3141. Definitions

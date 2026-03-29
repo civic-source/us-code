@@ -3,9 +3,9 @@ title: "Section 1112 - Presumptions relating to certain diseases and disabilitie
 usc_title: 38
 usc_section: "1112"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1112"
-generated_at: "2026-03-29T19:30:40.465Z"
+generated_at: "2026-03-29T19:43:26.947Z"
 ---
 
 # § 1112. Presumptions relating to certain diseases and disabilities
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T19:30:40.465Z"
   - **(5)** Hansen’s disease developing a 10 percent degree of disability or more within three years from the date of separation from such service;
 - **(b)**
   - **(1)** For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title , in the case of a veteran who is a former prisoner of war—
-    - **(A)** a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
-    - **(B)** if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
+    - **(A)** a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
+    - **(B)** if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
   - **(2)** The diseases specified in this paragraph are the following:
     - **(A)** Psychosis.
     - **(B)** Any of the anxiety states.
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:30:40.465Z"
     - **(L)** Atherosclerotic heart disease or hypertensive vascular disease (including hypertensive heart disease) and their complications (including myocardial infarction, congestive heart failure and arrhythmia).
     - **(M)** Stroke and its complications.
 - **(c)**
-  - **(1)** For the purposes of section 1110 of this title , and subject to the provisions of section 1113 of this title , a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such disease during a period of such service.
+  - **(1)** For the purposes of section 1110 of this title , and subject to the provisions of section 1113 of this title , a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, air, or space service, notwithstanding that there is no record of evidence of such disease during a period of such service.
   - **(2)** The diseases referred to in paragraph (1) of this subsection are the following:
     - **(A)** Leukemia (other than chronic lymphocytic leukemia).
     - **(B)** Cancer of the thyroid.

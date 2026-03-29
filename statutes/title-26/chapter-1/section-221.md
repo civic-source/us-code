@@ -3,9 +3,9 @@ title: "Section 221 - Interest on education loans"
 usc_title: 26
 usc_section: "221"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 221"
-generated_at: "2026-03-29T19:30:19.757Z"
+generated_at: "2026-03-29T19:42:47.598Z"
 ---
 
 # § 221. Interest on education loans
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:19.757Z"
         - **(II)** $50,000 ($100,000 in the case of a joint return), bears to
       - **(ii)** $15,000 ($30,000 in the case of a joint return).
     - **(C)** The term “modified adjusted gross income” means adjusted gross income determined—
-      - **(i)** without regard to this section and sections 199, 222, 911, 931, and 933, and
+      - **(i)** without regard to this section and sections 85(c) 1 1 So in original. Probably should be followed by a comma. 911, 931, and 933, and
       - **(ii)** after application of sections 86, 135, 137, 219, and 469.
 - **(c)** No deduction shall be allowed by this section to an individual for the taxable year if a deduction under section 151 with respect to such individual is allowed to another taxpayer for the taxable year beginning in the calendar year in which such individual’s taxable year begins.
 - **(d)** For purposes of this section—
@@ -35,11 +35,11 @@ generated_at: "2026-03-29T19:30:19.757Z"
   - **(3)** The term “eligible student” has the meaning given such term by section 25A(b)(3).
   - **(4)** The term “dependent” has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 - **(e)**
-  - **(1)** No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter.
+  - **(1)** No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter, or for which an exclusion is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer’s employer of any indebtedness on a qualified education loan of the taxpayer. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
   - **(2)** If the taxpayer is married at the close of the taxable year, the deduction shall be allowed under subsection (a) only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
   - **(3)** Marital status shall be determined in accordance with section 7703.
 - **(f)**
   - **(1)** In the case of a taxable year beginning after 2002, the $50,000 and $100,000 amounts in subsection (b)(2) shall each be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.

@@ -3,9 +3,9 @@ title: "Section 1508b - Stacked Income Protection Plan for producers of upland c
 usc_title: 7
 usc_section: "1508b"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1508b"
-generated_at: "2026-03-29T19:27:31.749Z"
+generated_at: "2026-03-29T19:43:58.136Z"
 ---
 
 # § 1508b. Stacked Income Protection Plan for producers of upland cotton
@@ -32,3 +32,6 @@ generated_at: "2026-03-29T19:27:31.749Z"
   - **(1)** 80 percent of the amount of the premium established under subsection (c) for the coverage level selected; and
   - **(2)** the amount determined under subsection (c)(2), subject to section 1508(k)(4)(F) of this title , for the coverage to cover administrative and operating expenses.
 - **(e)** The Stacked Income Protection Plan is in addition to all other coverages available to producers of upland cotton.
+- **(f)** Effective beginning with the 2019 crop year, a farm shall not be eligible for the Stacked Income Protection Plan for upland cotton for a crop year for which the farm is enrolled in coverage for seed cotton under—
+  - **(1)** price loss coverage under section 9016 of this title ; or
+  - **(2)** agriculture risk coverage under section 9017 of this title .

@@ -3,9 +3,9 @@ title: "Section 1146 - Commissary and exchange benefits"
 usc_title: 10
 usc_section: "1146"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1146"
-generated_at: "2026-03-29T19:27:25.515Z"
+generated_at: "2026-03-29T19:43:37.905Z"
 ---
 
 # § 1146. Commissary and exchange benefits
@@ -15,3 +15,4 @@ generated_at: "2026-03-29T19:27:25.515Z"
 - **(c)** A member of the armed forces who receives a sole survivorship discharge (as defined in section 1174(i) of this title ) is entitled to continue to use commissary and exchange stores and morale, welfare, and recreational facilities in the same manner as a member on active duty during the two-year period beginning on the later of the following dates:
   - **(1)** The date of the separation of the member.
   - **(2)** The date on which the member is first notified of the member’s entitlement to benefits under this section.
+- **(d)** The Secretary of Defense may prescribe regulations to allow an emergency response provider (as that term is defined in section 2 of the Homeland Security Act of 2002 ( Public Law 107–296 ; 6 U.S.C. 101 )) to use a mobile commissary or exchange store deployed to an area covered by a declaration of a major disaster or emergency under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5170 ).

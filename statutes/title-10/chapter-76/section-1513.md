@@ -3,9 +3,9 @@ title: "Section 1513 - Definitions"
 usc_title: 10
 usc_section: "1513"
 chapter: 76
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1513"
-generated_at: "2026-03-29T19:27:25.541Z"
+generated_at: "2026-03-29T19:43:37.935Z"
 ---
 
 # § 1513. Definitions
@@ -25,7 +25,7 @@ In this chapter:
     - **(G)** Detained in a foreign country against that person’s will.
   - **(3)** The term “accounted for”, with respect to a person in a missing status, means that—
     - **(A)** the person is returned to United States control alive;
-    - **(B)** the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
+    - **(B)** the remains of the person are recovered to the extent practicable and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
     - **(C)** credible evidence exists to support another determination of the person’s status.
   - **(4)** The term “primary next of kin”, in the case of a missing person, means the individual authorized to direct disposition of the remains of the person under section 1482(c) of this title .
   - **(5)** The term “member of the immediate family”, in the case of a missing person, means the following:

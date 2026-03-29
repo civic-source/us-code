@@ -1,14 +1,14 @@
 ---
-title: "Section 3330d - Appointment of certain military spouses"
+title: "Section 3330d - Appointment of military spouses"
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-29T19:27:05.255Z"
+generated_at: "2026-03-29T19:43:20.332Z"
 ---
 
-# § 3330d. Appointment of certain military spouses
+# § 3330d. Appointment of military spouses
 
 - **(a)** In this section:
   - **(1)** The term “active duty”—
@@ -18,16 +18,7 @@ generated_at: "2026-03-29T19:27:05.255Z"
   - **(2)** The term “agency”—
     - **(A)** has the meaning given the term “Executive agency” in section 105 of this title ; and
     - **(B)** does not include the Government Accountability Office.
-  - **(3)** The term “geographic area of the permanent duty station” means the area from which individuals reasonably can be expected to travel daily to and from work at the location of a member’s permanent duty station.
-  - **(4)** The term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces who is on active duty and serving at a permanent duty station under a competent authorization or order that does not—
-    - **(A)** specify the duty as temporary;
-    - **(B)** provide for assignment, detail, or transfer, after that different permanent duty station, to a further different permanent duty station; or
-    - **(C)** direct return to the initial permanent duty station.
-  - **(5)** The term “relocating spouse of a member of the Armed Forces” means an individual who—
-    - **(A)** is married to a member of the Armed Forces (on or prior to a permanent change of station of the member) who is ordered to active duty for a period of more than 180 consecutive days;
-    - **(B)** relocates to the member’s permanent duty station; and
-    - **(C)** before relocating as described in subparagraph (B), resided outside the geographic area of the permanent duty station.
-  - **(6)** The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
+  - **(3)** The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
     - **(A)** who is married to a member of the Armed Forces who—
       - **(i)** is retired, released, or discharged from the Armed Forces; and
       - **(ii)** on the date on which the member retires, is released, or is discharged, has a disability rating of 100 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs; or
@@ -35,11 +26,8 @@ generated_at: "2026-03-29T19:27:05.255Z"
       - **(i)** was married to a member of the Armed Forces on the date on which the member dies while on active duty in the Armed Forces; and
       - **(ii)** has not remarried.
 - **(b)** The head of an agency may appoint noncompetitively—
-  - **(1)** a relocating spouse of a member of the Armed Forces; or
+  - **(1)** a spouse of a member of the Armed Forces on active duty; or
   - **(2)** a spouse of a disabled or deceased member of the Armed Forces.
 - **(c)**
-  - **(1)** An appointment of a relocating spouse of a member of the Armed Forces under this section may only be to a position the duty station for which is within the geographic area of the permanent duty station of the member of the Armed Forces, unless there is no agency with a position with a duty station within the geographic area of the permanent duty station of the member of the Armed Forces.
-  - **(2)** A relocating spouse of a member of the Armed Forces may not receive more than 1 permanent appointment under this section for each time the spouse relocates as described in subparagraphs (B) and (C) of subsection (a)(5).
-- **(d)**
-  - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(6) is not restricted to a geographical area.
+  - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(3) is not restricted to a geographical area.
   - **(2)** A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.

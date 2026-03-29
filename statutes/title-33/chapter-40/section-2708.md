@@ -3,9 +3,9 @@ title: "Section 2708 - Recovery by responsible party"
 usc_title: 33
 usc_section: "2708"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2708"
-generated_at: "2026-03-29T19:30:28.865Z"
+generated_at: "2026-03-29T19:43:07.723Z"
 ---
 
 # § 2708. Recovery by responsible party

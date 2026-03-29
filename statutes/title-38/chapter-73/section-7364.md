@@ -3,9 +3,9 @@ title: "Section 7364 - General powers"
 usc_title: 38
 usc_section: "7364"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 7364"
-generated_at: "2026-03-29T19:30:40.573Z"
+generated_at: "2026-03-29T19:43:27.080Z"
 ---
 
 # § 7364. General powers
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:30:40.573Z"
   - **(2)** Fees charged pursuant to paragraph (1)(C) for education and training described in that paragraph to individuals who are officers or employees of the Department may not be paid for by any funds appropriated to the Department.
   - **(3)** Amounts reimbursed to the Office of General Counsel under paragraph (1)(D) shall be available for use by the Office of the General Counsel only for staff and training, and related travel, for the provision of legal services described in that paragraph and shall remain available for such use without fiscal year limitation.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes.
+  - **(1)** Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes. Any amounts so transferred after September 30, 2016 , shall be available without regard to fiscal year limitations, notwithstanding section 1535(d) of title 31 .
   - **(2)** A Department medical center may reimburse the corporation for all or a portion of the pay, benefits, or both of an employee of the corporation who is assigned to the Department medical center if the assignment is carried out pursuant to subchapter VI of chapter 33 of title 5.
   - **(3)** A Department medical center may retain and use funds provided to it by a corporation established under this subchapter. Such funds shall be credited to the applicable appropriation account of the Department and shall be available, without fiscal year limitation, for the purposes of that account.
 - **(c)** Except for reasonable and usual preliminary costs for project planning before its approval, a corporation established under this subchapter may not spend funds for a research project unless the project is approved in accordance with procedures prescribed by the Under Secretary for Health for research carried out with Department funds. Such procedures shall include a scientific review process.

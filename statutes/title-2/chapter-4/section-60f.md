@@ -1,12 +1,12 @@
 ---
-title: "Section 60f - Repealed. Pub. L. 90–57 , § 105(i)(2), July 28, 1967 , 81 Stat. 144"
+title: "Section 60f - Repealed. Pub. L. 90–57, § 105(i)(2) , July 28, 1967 , 81 Stat. 144"
 usc_title: 2
 usc_section: "60f"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 60f"
-generated_at: "2026-03-29T19:27:07.490Z"
+generated_at: "2026-03-29T19:42:59.573Z"
 ---
 
-# § 60f. Repealed. Pub. L. 90–57 , § 105(i)(2), July 28, 1967 , 81 Stat. 144
+# § 60f. Repealed. Pub. L. 90–57, § 105(i)(2) , July 28, 1967 , 81 Stat. 144
 

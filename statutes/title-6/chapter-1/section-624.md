@@ -3,9 +3,9 @@ title: "Section 624 - Civil enforcement"
 usc_title: 6
 usc_section: "624"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 624"
-generated_at: "2026-03-29T19:27:39.869Z"
+generated_at: "2026-03-29T19:43:43.816Z"
 ---
 
 # § 624. Civil enforcement
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:27:39.869Z"
     - **(B)** may order the facility, without notice or opportunity for a hearing, effective immediately or as soon as practicable, to—
       - **(i)** implement appropriate emergency security measures; or
       - **(ii)** cease or reduce some or all operations, in accordance with safe shutdown procedures, if the Secretary determines that such a cessation or reduction of operations is the most appropriate means to address the risk.
-  - **(2)** The Secretary may not delegate the authority under paragraph (1) to any official other than the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department appointed under section 113(a)(1)(H) of this title .
+  - **(2)** The Secretary may not delegate the authority under paragraph (1) to any official other than the Director of Cybersecurity and Infrastructure Security.
   - **(3)** The Secretary may exercise the authority under this subsection only to the extent necessary to abate the imminent threat determination under paragraph (1).
   - **(4)**
     - **(A)** An order issued by the Secretary under paragraph (1) shall be in the form of a written emergency order that—
@@ -34,5 +34,5 @@ generated_at: "2026-03-29T19:27:39.869Z"
       - **(ii)** states the security measures or order issued or imposed; and
       - **(iii)** describes the standards and procedures for obtaining relief from the order.
     - **(B)** After issuing an order under paragraph (1) with respect to a chemical facility of interest, the Secretary shall provide for review of the order under section 554 of title 5 if a petition for review is filed not later than 20 days after the date on which the Secretary issues the order.
-    - **(C)** If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
+    - **(C)** If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph 2 2 So in original. Probably should be “that subparagraph”. is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
 - **(d)** Nothing in this subchapter confers upon any person except the Secretary or his or her designee a right of action against an owner or operator of a covered chemical facility to enforce any provision of this subchapter.

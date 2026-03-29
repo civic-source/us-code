@@ -3,17 +3,21 @@ title: "Section 2208 - National Fire Data Center"
 usc_title: 15
 usc_section: "2208"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 2208"
-generated_at: "2026-03-29T19:27:55.494Z"
+generated_at: "2026-03-29T19:44:42.806Z"
 ---
 
 # § 2208. National Fire Data Center
 
 - **(a)** The Administrator shall operate, directly or through contracts or grants, an integrated, comprehensive National Fire Data Center for the selection, analysis, publication, and dissemination of information related to the prevention, occurrence, control, and results of fires of all types. The program of such Data Center shall be designed to (1) provide an accurate nationwide analysis of the fire problem, (2) identify major problem areas, (3) assist in setting priorities, (4) determine possible solutions to problems, and (5) monitor the progress of programs to reduce fire losses. To carry out these functions, the Data Center shall gather and analyze—
   - **(1)** information on the frequency, causes, spread, and extinguishment of fires;
-  - **(2)** information on the number of injuries and deaths resulting from fires, including the maximum available information on the specific causes and nature of such injuries and deaths, and information on property losses;
-  - **(3)** information on the occupational hazards faced by firefighters, including the causes of deaths and injuries arising, directly and indirectly, from firefighting activities;
+  - **(2)** information on the number of injuries and deaths resulting from fires, including the maximum available information on the specific causes and nature of such injuries and deaths, categorized by the type of fire, and information on property losses;
+  - **(3)** information on the occupational hazards faced by firefighters, including the causes of deaths and injuries arising, directly and indirectly, from firefighting activities, including—
+    - **(A)** all injuries sustained by a firefighter and treated by a doctor, categorized by the type of firefighter;
+    - **(B)** all deaths sustained while undergoing a pack test or preparing for a work capacity;
+    - **(C)** all injuries or deaths resulting from vehicle accidents; and
+    - **(D)** all injuries or deaths resulting from aircraft crashes;
   - **(4)** information on all types of firefighting activities, including inspection practices;
   - **(5)** technical information related to building construction, fire properties of materials, and similar information;
   - **(6)** information on fire prevention and control laws, systems, methods, techniques, and administrative structures used in foreign nations;
@@ -22,6 +26,9 @@ generated_at: "2026-03-29T19:27:55.494Z"
 - **(b)** In carrying out the program of the Data Center, the Administrator is authorized to—
   - **(1)** develop standardized data reporting methods;
   - **(2)** encourage and assist Federal, State, local, and other agencies, public and private, in developing and reporting information; and
-  - **(3)** make full use of existing data gathering and analysis organizations, both public and private.
+  - **(3)** make full use of existing data gathering and analysis organizations, both public and private, including the Center for Firefighter Injury Research and Safety Trends.
 - **(c)** The Administrator shall insure dissemination to the maximum extent possible of fire data collected and developed by the Data Center, and shall make such data, information, and analysis available in appropriate form to Federal agencies, State and local governments, private organizations, industry, business, and other interested persons.
 - **(d)** The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
+- **(e)** The collection, storage, and transfer of any medical data collected under this section shall be conducted in accordance with—
+  - **(1)** the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ( 42 U.S.C. 1320d–2 note; Public Law 104–191 ); and
+  - **(2)** other applicable regulations, including parts 160, 162, and 164 of title 45, Code of Federal Regulations (as in effect on March 12, 2019 ).

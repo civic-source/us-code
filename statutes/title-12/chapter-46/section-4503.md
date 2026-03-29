@@ -3,9 +3,9 @@ title: "Section 4503 - Protection of taxpayers against liability"
 usc_title: 12
 usc_section: "4503"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 4503"
-generated_at: "2026-03-29T19:28:17.805Z"
+generated_at: "2026-03-29T19:44:54.280Z"
 ---
 
 # § 4503. Protection of taxpayers against liability

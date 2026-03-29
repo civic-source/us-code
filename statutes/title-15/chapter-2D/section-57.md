@@ -3,9 +3,9 @@ title: "Section 57 - Changes in investment policy"
 usc_title: 15
 usc_section: "57"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 57"
-generated_at: "2026-03-29T19:27:55.287Z"
+generated_at: "2026-03-29T19:44:42.576Z"
 ---
 
 # § 80a–57. Changes in investment policy

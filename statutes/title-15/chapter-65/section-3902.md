@@ -3,9 +3,9 @@ title: "Section 3902 - Risk retention groups"
 usc_title: 15
 usc_section: "3902"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 3902"
-generated_at: "2026-03-29T19:27:55.555Z"
+generated_at: "2026-03-29T19:44:42.879Z"
 ---
 
 # § 3902. Risk retention groups
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T19:27:55.555Z"
       - **(ii)** in a voluntary dissolution proceeding;
     - **(G)** comply with any State law regarding deceptive, false, or fraudulent acts or practices, except that if the State seeks an injunction regarding the conduct described in this subparagraph, such injunction must be obtained from a court of competent jurisdiction;
     - **(H)** comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance commissioner alleging that the group is in hazardous financial condition or is financially impaired; and
-    - **(I)** provide the following notice, in 10-point type, in any insurance policy issued by such group: “notice “This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”
+    - **(I)** provide the following notice, in 10-point type, in any insurance policy issued by such group: “notice
   - **(2)** require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
   - **(3)** require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
   - **(4)** otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.

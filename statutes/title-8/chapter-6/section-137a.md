@@ -1,12 +1,12 @@
 ---
-title: "Section 137a - Repealed. May 24, 1934, ch. 344 , § 5, 48 Stat. 798"
+title: "Section 137a - Repealed. May 24, 1934, ch. 344, § 5 , 48 Stat. 798"
 usc_title: 8
 usc_section: "137a"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 137a"
-generated_at: "2026-03-29T19:27:14.425Z"
+generated_at: "2026-03-29T19:43:45.637Z"
 ---
 
-# § 137a. Repealed. May 24, 1934, ch. 344 , § 5, 48 Stat. 798
+# § 137a. Repealed. May 24, 1934, ch. 344, § 5 , 48 Stat. 798
 

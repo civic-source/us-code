@@ -3,14 +3,14 @@ title: "Section 5538 - Nonreduction in pay while serving in the uniformed servic
 usc_title: 5
 usc_section: "5538"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 5538"
-generated_at: "2026-03-29T19:27:05.292Z"
+generated_at: "2026-03-29T19:43:20.363Z"
 ---
 
 # § 5538. Nonreduction in pay while serving in the uniformed services or National Guard
 
-- **(a)** An employee who is absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10 shall be entitled, while serving on active duty, to receive, for each pay period described in subsection (b), an amount equal to the amount by which—
+- **(a)** An employee who is absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services pursuant to a call or order to active duty under section 12304b of title 10 or a provision of law referred to in section 101(a)(13)(B) of title 10 shall be entitled, while serving on active duty, to receive, for each pay period described in subsection (b), an amount equal to the amount by which—
   - **(1)** the amount of basic pay which would otherwise have been payable to such employee for such pay period if such employee’s civilian employment with the Government had not been interrupted by that service, exceeds (if at all)
   - **(2)** the amount of pay and allowances which (as determined under subsection (d))—
     - **(A)** is payable to such employee for that service; and

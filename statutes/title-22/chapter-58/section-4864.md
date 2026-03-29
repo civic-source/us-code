@@ -3,9 +3,9 @@ title: "Section 4864 - Increased participation of United States contractors in l
 usc_title: 22
 usc_section: "4864"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4864"
-generated_at: "2026-03-29T19:29:46.883Z"
+generated_at: "2026-03-29T19:42:08.197Z"
 ---
 
 # § 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program
@@ -46,3 +46,4 @@ generated_at: "2026-03-29T19:29:46.883Z"
 - **(e)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States minority small business contractors.
 - **(f)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
 - **(g)** With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
+- **(h)** In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in section 4803 of this title ), subject to congressional notification 15-days prior to any such award.

@@ -1,61 +1,12 @@
 ---
-title: "Section 3838c - Duties of the Secretary"
+title: "Section 3838c - Repealed. Pub. L. 115–334, title II, § 2301(c)(1) , Dec. 20, 2018 , 132 Stat. 4551"
 usc_title: 16
 usc_section: "3838c"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 3838c"
-generated_at: "2026-03-29T19:29:27.569Z"
+generated_at: "2026-03-29T19:41:13.815Z"
 ---
 
-# § 3838c. Duties of the Secretary
+# §§ 3838 to 3838c. Repealed. Pub. L. 115–334, title II, § 2301(c)(1) , Dec. 20, 2018 , 132 Stat. 4551
 
-- **(a)** The Secretary shall make payments under a conservation security contract as soon as practicable after October 1 of each fiscal year.
-- **(b)**
-  - **(1)**
-    - **(A)** A base payment under this paragraph shall be (as determined by the Secretary)—
-      - **(i)** the average national per-acre rental rate for a specific land use during the 2001 crop year; or
-      - **(ii)** another appropriate rate for the 2001 crop year that ensures regional equity.
-    - **(B)** A payment for a conservation practice under this paragraph shall be determined in accordance with subparagraphs (C) through (E).
-    - **(C)** The payment for a Tier I conservation security contract shall consist of the total of the following amounts:
-      - **(i)** An amount equal to 5 percent of the applicable base payment for land covered by the contract.
-      - **(ii)** An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county costs of practices for the 2001 crop year that are included in the conservation security contract, as determined by the Secretary, including the costs of—
-        - **(I)** the adoption of new management, vegetative, and land-based structural practices;
-        - **(II)** the maintenance of existing land management and vegetative practices; and
-        - **(III)** the maintenance of existing land-based structural practices that are approved by the Secretary but not already covered by a Federal or State maintenance requirement.
-      - **(iii)** An enhanced payment that is determined by the Secretary in a manner that ensures equity across regions of the United States, if the producer—
-        - **(I)** implements or maintains multiple conservation practices that exceed minimum requirements for the applicable tier of participation (including practices that involve a change in land use, such as resource-conserving crop rotation, managed rotational grazing, or conservation buffer practices);
-        - **(II)** addresses local conservation priorities in addition to resources of concern for the agricultural operation;
-        - **(III)** participates in an on-farm conservation research, demonstration, or pilot project;
-        - **(IV)** participates in a watershed or regional resource conservation plan that involves at least 75 percent of producers in a targeted area; or
-        - **(V)** carries out assessment and evaluation activities relating to practices included in a conservation security plan.
-    - **(D)** The payment for a Tier II conservation security contract shall consist of the total of the following amounts:
-      - **(i)** An amount equal to 10 percent of the applicable base payment for land covered by the conservation security contract.
-      - **(ii)** An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year that are included in the conservation security contract, as described in subparagraph (C)(ii).
-      - **(iii)** An enhanced payment that is determined in accordance with subparagraph (C)(iii).
-    - **(E)** The payment for a Tier III conservation security contract shall consist of the total of the following amounts:
-      - **(i)** An amount equal to 15 percent of the base payment for land covered by the conservation security contract.
-      - **(ii)** An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year that are included in the conservation security contract, as described in subparagraph (C)(ii).
-      - **(iii)** An enhanced payment that is determined in accordance with subparagraph (C)(iii).
-  - **(2)**
-    - **(A)** Subject to paragraphs (1) and (3), the Secretary shall make an annual payment, directly or indirectly, to an individual or entity covered by a conservation security contract in an amount not to exceed—
-      - **(i)** in the case of a Tier I conservation security contract, $20,000;
-      - **(ii)** in the case of a Tier II conservation security contract, $35,000; or
-      - **(iii)** in the case of a Tier III conservation security contract, $45,000.
-    - **(B)** In applying the payment limitation under each of clauses (i), (ii), and (iii) of subparagraph (A), an individual or entity may not receive, directly or indirectly, payments described in clause (i) of paragraph (1)(C), (1)(D), or (1)(E), as appropriate, in an amount that exceeds—
-      - **(i)** in the case of Tier I contracts, 25 percent of the applicable payment limitation; or
-      - **(ii)** in the case of Tier II contracts and Tier III contracts, 30 percent of the applicable payment limitation.
-    - **(C)** A producer shall not receive payments under the conservation security program and any other conservation program administered by the Secretary for the same practices on the same land.
-    - **(D)** To be eligible to receive a payment under this subpart, an individual or entity shall make contributions (including contributions of land, labor, management, equipment, or capital) to the operation of the farm that are at least commensurate with the share of the proceeds of the operation of the individual or entity.
-  - **(3)** A payment to a producer under this subpart shall not be provided for—
-    - **(A)** construction or maintenance of animal waste storage or treatment facilities or associated waste transport or transfer devices for animal feeding operations; or
-    - **(B)** the purchase or maintenance of equipment or a non-land based structure that is not integral to a land-based practice, as determined by the Secretary.
-- **(c)** In determining a payment under subsection (b) for a producer that receives a payment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
-- **(d)** The Secretary shall promulgate regulations that—
-  - **(1)** provide for adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing payments, on a fair and equitable basis; and
-  - **(2)** prescribe such other rules as the Secretary determines to be necessary to ensure a fair and reasonable application of the limitations established under subsection (b).
-- **(e)**
-  - **(1)** Except as provided in paragraph (2), the transfer, or change in the interest, of a producer in land subject to a conservation security contract shall result in the termination of the conservation security contract.
-  - **(2)** Paragraph (1) shall not apply if, not later than 60 days after the date of the transfer or change in the interest in land, the transferee of the land provides written notice to the Secretary that all duties and rights under the conservation security contract have been transferred to, and assumed by, the transferee.
-- **(f)** In entering into conservation security contracts with producers under this subpart, the Secretary shall not use competitive bidding or any similar procedure.
-- **(g)** For each of fiscal years 2003 through 2007, the Secretary shall provide technical assistance to producers for the development and implementation of conservation security contracts, in an amount not to exceed 15 percent of amounts expended for the fiscal year.

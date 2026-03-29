@@ -1,18 +1,18 @@
 ---
-title: "Section 571 - Office of Emergency Communications"
+title: "Section 571 - Emergency Communications Division"
 usc_title: 6
 usc_section: "571"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 571"
-generated_at: "2026-03-29T19:27:39.862Z"
+generated_at: "2026-03-29T19:43:43.805Z"
 ---
 
-# § 571. Office of Emergency Communications
+# § 571. Emergency Communications Division
 
-- **(a)** There is established in the Department an Office of Emergency Communications.
-- **(b)** The head of the office shall be the Director for Emergency Communications. The Director shall report to the Assistant Secretary for Cybersecurity and Communications.
-- **(c)** The Director for Emergency Communications shall—
+- **(a)** There is established in the Department an Emergency Communications Division. The Division shall be located in the Cybersecurity and Infrastructure Security Agency.
+- **(b)** The head of the Division shall be the Executive Assistant Director for Emergency Communications (in this section referred to as the “Executive Assistant Director”). The Executive Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Executive Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
+- **(c)** The Executive Assistant Director shall—
   - **(1)** assist the Secretary in developing and implementing the program described in section 194(a)(1) of this title , except as provided in section 195 of this title ;
   - **(2)** administer the Department’s responsibilities and authorities relating to the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards;
   - **(3)** administer the Department’s responsibilities and authorities relating to the Integrated Wireless Network program;
@@ -26,15 +26,17 @@ generated_at: "2026-03-29T19:27:39.862Z"
   - **(11)** establish, in coordination with the Director of the Office for Interoperability and Compatibility, requirements for interoperable emergency communications capabilities, which shall be nonproprietary where standards for such capabilities exist, for all public safety radio and data communications systems and equipment purchased using homeland security assistance administered by the Department, excluding any alert and warning device, technology, or system;
   - **(12)** review, in consultation with the Assistant Secretary for Grants and Training, all interoperable emergency communications plans of Federal, State, local, and tribal governments, including Statewide and tactical interoperability plans, developed pursuant to homeland security assistance administered by the Department, but excluding spectrum allocation and management related to such plans;
   - **(13)** develop and update periodically, as appropriate, a National Emergency Communications Plan under section 572 of this title ;
-  - **(14)** perform such other duties of the Department necessary to support and promote the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters; and
-  - **(15)** perform other duties of the Department necessary to achieve the goal of and maintain and enhance interoperable emergency communications capabilities.
-- **(d)** The Secretary shall transfer to, and administer through, the Director for Emergency Communications the following programs and responsibilities:
+  - **(14)** perform such other duties of the Department necessary to support and promote the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
+  - **(15)** perform other duties of the Department necessary to achieve the goal of and maintain and enhance interoperable emergency communications capabilities; and
+  - **(16)** fully participate in the mechanisms required under section 652(c)(7) of this title .
+- **(d)** The Secretary shall transfer to, and administer through, the Executive Assistant Director the following programs and responsibilities:
   - **(1)** The SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards.
   - **(2)** The responsibilities of the Chief Information Officer related to the implementation of the Integrated Wireless Network.
   - **(3)** The Interoperable Communications Technical Assistance Program.
-- **(e)** The Director for Emergency Communications shall coordinate—
+- **(e)** The Executive Assistant Director shall coordinate—
   - **(1)** as appropriate, with the Director of the Office for Interoperability and Compatibility with respect to the responsibilities described in section 195 of this title ; and
   - **(2)** with the Administrator of the Federal Emergency Management Agency with respect to the responsibilities described in this subchapter.
 - **(f)**
   - **(1)** Not later than 120 days after October 4, 2006 , the Secretary shall submit to Congress a report on the resources and staff necessary to carry out fully the responsibilities under this subchapter.
   - **(2)** The Comptroller General shall review the validity of the report submitted by the Secretary under paragraph (1). Not later than 60 days after the date on which such report is submitted, the Comptroller General shall submit to Congress a report containing the findings of such review.
+- **(g)** Any reference to the Assistant Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Emergency Communications.

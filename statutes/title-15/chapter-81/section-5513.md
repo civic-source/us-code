@@ -1,33 +1,12 @@
 ---
-title: "Section 5513 - Next Generation Internet"
+title: "Section 5513 - Repealed. Pub. L. 114–329, title I, § 105(h) , Jan. 6, 2017 , 130 Stat. 2982"
 usc_title: 15
 usc_section: "5513"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 5513"
-generated_at: "2026-03-29T19:27:55.573Z"
+generated_at: "2026-03-29T19:44:42.904Z"
 ---
 
-# § 5513. Next Generation Internet
+# § 5513. Repealed. Pub. L. 114–329, title I, § 105(h) , Jan. 6, 2017 , 130 Stat. 2982
 
-- **(a)** The National Science Foundation, the Department of Energy, the National Institutes of Health, the National Aeronautics and Space Administration, and the National Institute of Standards and Technology may support the Next Generation Internet program. The objectives of the Next Generation Internet program shall be to—
-  - **(1)** support research, development, and demonstration of advanced networking technologies to increase the capabilities and improve the performance of the Internet;
-  - **(2)** develop an advanced testbed network connecting a significant number of research sites, including universities, Federal research institutions, and other appropriate research partner institutions, to support networking research and to demonstrate new networking technologies; and
-  - **(3)** develop and demonstrate advanced Internet applications that meet important national goals or agency mission needs, and that are supported by the activities described in paragraphs (1) and (2).
-- **(b)** The President’s Information Technology Advisory Committee (established pursuant to section 5511(b) of this title by Executive Order No. 13035 of February 11, 1997 (62 F.R. 7131), as amended by Executive Order No. 13092 of July 24, 1998 ), in addition to its functions under section 5511(b) of this title , shall—
-  - **(1)** assess the extent to which the Next Generation Internet program—
-    - **(A)** carries out the purposes of this chapter; and
-    - **(B)** addresses concerns relating to, among other matters—
-      - **(i)** geographic penalties (as defined in section 7(1) of the Next Generation Internet Research Act of 1998); 1 1 See References in Text note below.
-      - **(ii)** the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a); and
-      - **(iii)** technology transfer to and from the private sector;
-  - **(2)** review the extent to which the role of each Federal agency and department involved in implementing the Next Generation Internet program is clear and complementary to, and non-duplicative of, the roles of other participating agencies and departments;
-  - **(3)** assess the extent to which Federal support of fundamental research in computing is sufficient to maintain the Nation’s critical leadership in this field; and
-  - **(4)** make recommendations relating to its findings under paragraphs (1), (2), and (3).
-- **(c)** The Advisory Committee shall review implementation of the Next Generation Internet program and shall report, not less frequently than annually, to the President, the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Armed Services of the Senate, and the Committee on Science, the Committee on Appropriations, and the Committee on Armed Services of the House of Representatives on its findings and recommendations for the preceding fiscal year. The first such report shall be submitted 6 months after October 28, 1998 , and the last report shall be submitted by September 30, 2000 .
-- **(d)** There are authorized to be appropriated for the purposes of this section—
-  - **(1)** for the Department of Energy, $22,000,000 for fiscal year 1999 and $25,000,000 for fiscal year 2000;
-  - **(2)** for the National Science Foundation, $25,000,000 for fiscal year 1999 and $25,000,000 for fiscal year 2000, as authorized in the National Science Foundation Authorization Act of 1998;
-  - **(3)** for the National Institutes of Health, $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000;
-  - **(4)** for the National Aeronautics and Space Administration, $10,000,000 for fiscal year 1999 and $10,000,000 for fiscal year 2000; and
-  - **(5)** for the National Institute of Standards and Technology, $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000.

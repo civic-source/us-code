@@ -3,9 +3,9 @@ title: "Section 2802 - Military construction projects"
 usc_title: 10
 usc_section: "2802"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2802"
-generated_at: "2026-03-29T19:27:25.641Z"
+generated_at: "2026-03-29T19:43:38.012Z"
 ---
 
 # § 2802. Military construction projects
@@ -18,17 +18,24 @@ generated_at: "2026-03-29T19:27:25.641Z"
   - **(4)** acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
   - **(5)** planning, supervision, administration, and overhead incident to the project.
 - **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
-- **(d)**
-  - **(1)** The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payments-in-kind or in-kind contributions pursuant to a bilateral agreement with a host country.
-  - **(2)** The Secretary of Defense or the Secretary concerned shall include military construction projects covered under paragraph (1) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31.
-  - **(3)** This subsection does not apply to a military construction project covered by one of the exceptions in section 2687a(f)(4) of this title .
-  - **(4)** In the case of a military construction project excluded pursuant to paragraph (3), by reference to section 2687a(f)(4)(D) of this title , whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
+- **[(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII, § 2811(b) , Dec. 23, 2016 , 130 Stat. 2716 .]
 - **(e)**
   - **(1)** If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall—
-    - **(A)** comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out; or
+    - **(A)** comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out and submit to the congressional defense committees any materials required to be submitted to Congress or any other congressional committees pursuant to the congressional notification requirement; or
     - **(B)** in the absence of such a congressional notification requirement, submit to the congressional defense committees, in an electronic medium pursuant to section 480 of this title , a report describing the construction project, land acquisition, or defense access road project at least 15 days before commencing the construction project, land acquisition, or defense access road project.
   - **(2)** Except as provided in paragraph (3), a construction project, land acquisition, or defense access road project subject to the notification requirement imposed by paragraph (1) is a construction project, land acquisition, or defense access road project that—
     - **(A)** is not specifically authorized in a Military Construction Authorization Act;
     - **(B)** will be carried out by a military department, Defense Agency, or Department of Defense Field Activity; and
     - **(C)** will be located on a military installation.
   - **(3)** This subsection does not apply to a construction project, land acquisition, or defense access road project described in paragraph (2) whose cost is less than or equal to the threshold amount specified in section 2805(b) of this title .
+- **(f)**
+  - **(1)** In addition to any other applicable consultation requirement pursuant to law or Department of Defense policy, if a proposed military construction project is likely to significantly impact tribal lands, known sacred sites, or tribal treaty rights, the Secretary concerned shall initiate consultation with the tribal government of each impacted Indian tribe—
+    - **(A)** to determine the nature and extent of such impact;
+    - **(B)** to determine whether such impact can be avoided or mitigated in the design and implementation of the project; and
+    - **(C)** if such impact cannot be avoided, to develop feasible measures consistent with applicable law to mitigate the impact and estimate the cost of the mitigation measures.
+  - **(2)** As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a military construction project covered by paragraph (1), the Secretary concerned, to the extent possible at the time of such submission, shall include a description of the current status of the consultation conducted under such paragraph and specifically address each of the items specified in subparagraphs (A), (B), and (C) of such paragraph.
+  - **(3)** The requirement under paragraph (1) does not affect the obligation of the Secretary concerned to comply with any other applicable consultation requirement pursuant to law or Department of Defense policy.
+  - **(4)** In this subsection:
+    - **(A)** The term “Indian tribe” has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+    - **(B)** The term “tribal government” means the recognized governing body of an Indian tribe.
+    - **(C)** The term “sacred site” has the meaning given that term in Executive Order No. 13007, as in effect on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020.

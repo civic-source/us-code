@@ -3,9 +3,9 @@ title: "Section 50910 - Preemption of scheduled launches or reentries"
 usc_title: 51
 usc_section: "50910"
 chapter: 509
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 50910"
-generated_at: "2026-03-29T19:32:32.743Z"
+generated_at: "2026-03-29T19:45:16.679Z"
 ---
 
 # § 50910. Preemption of scheduled launches or reentries

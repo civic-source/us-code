@@ -1,12 +1,12 @@
 ---
-title: "Section 5322 - Repealed. Pub. L. 114–94, div. A, title III , § 3030(d), Dec. 4, 2015 , 129 Stat. 1497 ]"
+title: "Section 5322 - Repealed. Pub. L. 114–94, div. A, title III, § 3030(d) , Dec. 4, 2015 , 129 Stat. 1497 ]"
 usc_title: 49
 usc_section: "5322"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 5322"
-generated_at: "2026-03-29T19:32:28.750Z"
+generated_at: "2026-03-29T19:44:57.855Z"
 ---
 
-# [§ 5322. Repealed. Pub. L. 114–94, div. A, title III , § 3030(d), Dec. 4, 2015 , 129 Stat. 1497 ]
+# [§ 5322. Repealed. Pub. L. 114–94, div. A, title III, § 3030(d) , Dec. 4, 2015 , 129 Stat. 1497 ]
 

@@ -3,9 +3,9 @@ title: "Section 1313 - Drawback and refunds"
 usc_title: 19
 usc_section: "1313"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1313"
-generated_at: "2026-03-29T19:28:30.646Z"
+generated_at: "2026-03-29T19:41:21.536Z"
 ---
 
 # § 1313. Drawback and refunds
@@ -61,7 +61,9 @@ generated_at: "2026-03-29T19:28:30.646Z"
     - **(A)** the imported merchandise itself in cases to which paragraph (1) applies, or
     - **(B)** merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise in cases to which paragraph (2) applies,
   - **(4)**
-    - **(A)** Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act [ 19 U.S.C. 3301(4) ], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act [ 19 U.S.C. 3333(a) ], shall not constitute an exportation for purposes of paragraph (2).
+    - **(A)**
+      - **(i)** Effective upon the entry into force of the USMCA, the exportation to a USMCA country of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 4534(a) of this title , shall not constitute an exportation for purposes of paragraph (2).
+      - **(ii)** In this subparagraph, the terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .
     - **(B)** Beginning on January 1, 2015 , the exportation to Chile of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, shall not constitute an exportation for purposes of paragraph (2). The preceding sentence shall not be construed to permit the substitution of unused drawback under paragraph (2) of this subsection with respect to merchandise described in paragraph (2) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
   - **(5)**
     - **(A)** For purposes of paragraph (2) and except as provided in subparagraph (B), merchandise may not be substituted for imported merchandise for drawback purposes based on the 8-digit HTS subheading number if the article description for the 8-digit HTS subheading number under which the imported merchandise is classified begins with the term “other”.
@@ -102,14 +104,14 @@ generated_at: "2026-03-29T19:28:30.646Z"
 - **(m)** Any drawback of duties that may be authorized under the provisions of this chapter shall be paid from the customs receipts of Puerto Rico, if the duties were originally paid into the Treasury of Puerto Rico.
 - **(n)**
   - **(1)** For purposes of this subsection and subsection ( o )—
-    - **(A)** the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act [ 19 U.S.C. 3301 et seq.];
-    - **(B)** the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act [ 19 U.S.C. 3301(4) , 3333(a)];
-    - **(C)** a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection ( o ) is subject to section 1508(b)(2)(B) of this title ; and
+    - **(A)** the term “USMCA country” has the meaning given that term in section 4502 of this title ;
+    - **(B)** the term “good subject to USMCA drawback” has the meaning given that term in section 4534(a) of this title ;
+    - **(C)** a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection ( o ) is subject to section 4534(e) of this title ; and
     - **(D)** the term “good subject to Chile FTA drawback” has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
-  - **(2)** For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
+  - **(2)** For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
     - **(A)** the total amount of customs duties paid or owed on the good on importation into the United States, or
-    - **(B)** the total amount of customs duties paid on the good to the NAFTA country.
-  - **(3)** If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+    - **(B)** the total amount of customs duties paid on the good to the USMCA country.
+  - **(3)** If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
   - **(4)**
     - **(A)** For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q), if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
     - **(B)** The customs duties referred to in subparagraph (A) may be refunded, waived, or reduced by—
@@ -119,9 +121,9 @@ generated_at: "2026-03-29T19:28:30.646Z"
       - **(iv)** 25 percent during the 1-year period beginning on January 1, 2014 .
 - **(o)**
   - **(1)** For purposes of subsection (g), if—
-    - **(A)** a vessel is built for the account and ownership of a resident of a NAFTA country or the government of a NAFTA country, and
-    - **(B)** imported materials that are used in the construction and equipment of the vessel are goods subject to NAFTA drawback,
-  - **(2)** If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+    - **(A)** a vessel is built for the account and ownership of a resident of a USMCA country or the government of a USMCA country, and
+    - **(B)** imported materials that are used in the construction and equipment of the vessel are goods subject to USMCA drawback,
+  - **(2)** If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
   - **(3)** For purposes of subsection (g), if—
     - **(A)** a vessel is built for the account and ownership of a resident of Chile or the Government of Chile, and
     - **(B)** imported materials that are used in the construction and equipment of the vessel are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act,
@@ -176,7 +178,7 @@ generated_at: "2026-03-29T19:28:30.646Z"
       - **(ii)** the claimant files a request for such extension with U.S. Customs and Border Protection—
         - **(I)** within 1 year from the last day of the 5-year period referred to in paragraph (1), or
         - **(II)** within 1 year after October 11, 1996 ,
-    - **(B)** If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+    - **(B)** If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(2) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
     - **(C)** For purposes of this paragraph, the term “major disaster” has the meaning given that term in section 5122(2) of title 42 .
   - **(4)** All drawback claims filed on and after the date that is 2 years after February 24, 2016 , shall be filed electronically.
 - **(s)**

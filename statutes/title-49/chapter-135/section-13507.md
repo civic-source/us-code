@@ -3,9 +3,9 @@ title: "Section 13507 - Mixed loads of regulated and unregulated property"
 usc_title: 49
 usc_section: "13507"
 chapter: 135
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 13507"
-generated_at: "2026-03-29T19:32:28.772Z"
+generated_at: "2026-03-29T19:44:57.883Z"
 ---
 
 # § 13507. Mixed loads of regulated and unregulated property

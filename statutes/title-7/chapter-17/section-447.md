@@ -1,14 +1,12 @@
 ---
-title: "Section 447 - Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting"
+title: "Section 447 - Transferred"
 usc_title: 7
 usc_section: "447"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 447"
-generated_at: "2026-03-29T19:27:31.679Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 447. Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting
-
-For the purpose of meeting emergency situations caused by adverse weather conditions or other factors destructive of important wildlife resources, the States are authorized, upon the request of the State fish and game authority or other State agency having similar authority and a finding by the Secretary of the Interior that any area of the United States is threatened with serious damage or loss to resident game birds and other resident wildlife from starvation, to requisition from the Commodity Credit Corporation grain acquired by the Corporation through price support operations. Such grain may thereafter be furnished to the particular State for direct and sole utilization by the appropriate State agencies for purposes of sections 447 to 449 of this title in such quantities as mutually agreed upon by the State and the Commodity Credit Corporation and subject to such regulations as may be considered desirable by the Corporation. The Corporation shall be reimbursed by the particular State in each instance for the expense of the Corporation in packaging and transporting such grain for purposes of sections 447 to 449 of this title.
+# § 447. Transferred
 

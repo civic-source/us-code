@@ -1,14 +1,12 @@
 ---
-title: "Section 450x - Authorization of annual appropriations"
+title: "Section 450x - Transferred"
 usc_title: 16
 usc_section: "450x"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 450x"
-generated_at: "2026-03-29T19:29:27.157Z"
+generated_at: "2026-03-29T19:41:13.415Z"
 ---
 
-# § 450x. Authorization of annual appropriations
-
-For the purpose of carrying out the suggestions and recommendations of the Secretary of the Interior, the necessary annual appropriations therefor are authorized.
+# §§ 450w, 450x. Transferred
 

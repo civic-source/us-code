@@ -1,12 +1,12 @@
 ---
-title: "Section 861a - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
+title: "Section 861a - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 33
 usc_section: "861a"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 861a"
-generated_at: "2026-03-29T19:30:28.746Z"
+generated_at: "2026-03-29T19:43:07.598Z"
 ---
 
-# § 861a. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641
+# § 861a. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641
 

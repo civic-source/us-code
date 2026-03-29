@@ -3,9 +3,9 @@ title: "Section 1785 - Subpoenas in multiparty, multiforum actions"
 usc_title: 28
 usc_section: "1785"
 chapter: 117
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 1785"
-generated_at: "2026-03-29T19:30:04.386Z"
+generated_at: "2026-03-29T19:42:27.370Z"
 ---
 
 # § 1785. Subpoenas in multiparty, multiforum actions

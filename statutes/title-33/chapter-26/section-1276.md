@@ -5,7 +5,7 @@ usc_section: "1276"
 chapter: 26
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 1276"
-generated_at: "2026-03-29T18:45:43.410Z"
+generated_at: "2026-03-29T19:43:07.625Z"
 ---
 
 # § 1276. Enhanced aquifer use and recharge

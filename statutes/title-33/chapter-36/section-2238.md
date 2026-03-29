@@ -3,15 +3,15 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-29T19:30:28.831Z"
+generated_at: "2026-03-29T19:43:07.689Z"
 ---
 
 # § 2238. Authorization of appropriations
 
 - **(a)** There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, established by section 9505 of title 26 , for each fiscal year such sums as may be necessary to pay—
-  - **(1)** 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Saint Lawrence Seaway Development Corporation for such fiscal year; and
+  - **(1)** 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Great Lakes St. Lawrence Seaway Development Corporation for such fiscal year; and
   - **(2)** up to 100 percent of the eligible operations and maintenance costs assigned to commercial navigation of all harbors and inland harbors within the United States.
 - **(b)** There are authorized to be appropriated out of the general fund of the Treasury of the United States for each fiscal year such sums as may be necessary to pay the balance of all eligible operations and maintenance costs not provided by payments from the Harbor Maintenance Trust Fund under this section.
 - **(c)**
@@ -22,14 +22,19 @@ generated_at: "2026-03-29T19:30:28.831Z"
       - **(ii)** consider the national and regional significance of harbor operations and maintenance; and
       - **(iii)** as appropriate, consider national security and military readiness needs.
     - **(B)** The Secretary shall not allocate funds under paragraph (1) based solely on the tonnage transiting through a harbor.
-  - **(3)** Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each of fiscal years 2015 through 2022, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+  - **(3)**
+    - **(A)** Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+    - **(B)**
+      - **(i)** In each fiscal year, the Secretary may use not more than $5,000,000 of funds allocated for emerging harbor projects under paragraph (1) to pay for the costs of up to 10 projects for maintenance dredging of a marina or berthing area, in an emerging harbor, that includes an area that is located adjacent to, or is accessible by, a Federal navigation project, subject to clauses (ii) and (iii) of this subparagraph.
+      - **(ii)** The Secretary may use funds as authorized under clause (i) at an emerging harbor that—
+        - **(I)** supports commercial activities, including commercial fishing operations, commercial fish processing operations, recreational and sport fishing, and commercial boat yards; or
+        - **(II)** supports activities of the Secretary of the department in which the Coast Guard is operating.
+      - **(iii)** The Secretary shall require a non-Federal interest to contribute not less than 25 percent of the costs for maintenance dredging of that portion of a maintenance dredging project described in clause (i) that is located outside of the Federal navigation project, which may be provided as an in-kind contribution, including through the use of dredge equipment owned by non-Federal interest to carry out such activities.
   - **(4)** To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of a single, comprehensive system, recognizing the interdependence of the projects.
 - **(d)**
   - **(1)**
-    - **(A)** For each of fiscal years 2015 through 2024, if priority funds are available, the Secretary shall use the priority funds as follows:
-      - **(i)** 90 percent of the priority funds shall be used for high- and moderate-use harbor projects.
-      - **(ii)** 10 percent of the priority funds shall be used for emerging harbor projects.
-    - **(B)** For each of fiscal years 2015 through 2024, of the priority funds available, the Secretary shall use—
+    - **(A)** For each fiscal year, if priority funds are available, the Secretary shall use at least 10 percent of such funds for emerging harbor projects.
+    - **(B)** For each fiscal year, of the priority funds available, the Secretary shall use—
       - **(i)** not less than 5 percent of such funds for underserved harbor projects; and
       - **(ii)** not less than 10 percent of such funds for projects that are located within the Great Lakes Navigation System.
     - **(C)** In determining which underserved harbor projects shall receive funds under this paragraph, the Secretary shall consider—
@@ -54,11 +59,11 @@ generated_at: "2026-03-29T19:30:28.831Z"
     - **(A)** the Secretary determines that the action is necessary to address the navigation needs of a harbor or inland harbor where safe navigation has been severely restricted due to an unforeseen event; and
     - **(B)** the Secretary provides within 90 days of the action notice and information on the need for the action to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 - **(e)**
-  - **(1)** Not later than 270 days after June 10, 2014 , and biennially thereafter, the Secretary shall assess the operation and maintenance needs and uses of the harbors and inland harbors referred to in subsection (a)(2).
+  - **(1)** Not later than 270 days after June 10, 2014 , and biennially thereafter, the Secretary shall assess, and issue a report to Congress on, the operation and maintenance needs and uses of the harbors and inland harbors referred to in subsection (a)(2).
   - **(2)**
     - **(A)** In carrying out paragraph (1), the Secretary shall identify—
       - **(i)** the total future costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2); and
-      - **(ii)** the total expected costs for expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
+      - **(ii)** the total expected costs for uses described in subsection (c)(3)(B) and expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
     - **(B)** In carrying out paragraph (1), the Secretary shall identify current uses (and, to the extent practicable, assess the national, regional, and local benefits of such uses) of harbors and inland harbors referred to in subsection (a)(2), including the use of those harbors for—
       - **(i)** commercial navigation, including the movement of goods;
       - **(ii)** domestic trade;
@@ -73,22 +78,30 @@ generated_at: "2026-03-29T19:30:28.831Z"
       - **(xi)** public health and safety related equipment for responding to coastal and inland emergencies;
       - **(xii)** recreation purposes; and
       - **(xiii)** other authorized purposes.
+    - **(C)** In carrying out paragraph (1), the Secretary shall identify potential opportunities for the beneficial use of dredged materials obtained from harbors and inland harbors referred to in subsection (a)(2), including projects eligible under section 1122 of the Water Resources Development Act of 2016 ( 130 Stat. 1645 ; 33 U.S.C. 2326 note).
   - **(3)**
     - **(A)** For fiscal year 2016, and biennially thereafter, in conjunction with the President’s annual budget submission to Congress under section 1105(a) of title 31 , the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that, with respect to harbors and inland harbors referred to in subsection (a)(2)—
       - **(i)** identifies the operation and maintenance costs associated with the harbors and inland harbors, including those costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors and the costs for expanded uses at eligible harbors and inland harbors, on a project-by-project basis;
       - **(ii)** identifies the amount of funding requested in the President’s budget for the operation and maintenance costs associated with the harbors and inland harbors, on a project-by-project basis;
       - **(iii)** identifies the unmet operation and maintenance needs associated with the harbors and inland harbors, on a project-by-project basis; and
       - **(iv)** identifies the harbors and inland harbors for which the President will allocate funding over the subsequent 5 fiscal years for operation and maintenance activities, on a project-by-project basis, including the amounts to be allocated for such purposes.
-    - **(B)** The Secretary shall make the report submitted under subparagraph (A) available to the public, including on the Internet.
+    - **(B)** In the first report submitted under subparagraph (A) following December 16, 2016 , the Secretary shall identify, to the maximum extent practicable, transportation cost savings realized by achieving and maintaining the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2), on a project-by-project basis.
+    - **(C)** The Secretary shall make the report submitted under subparagraph (A) available to the public, including on the Internet.
 - **(f)** In this section:
   - **(1)** The term “constructed width and depth” means the width and depth to which a project has been constructed, which may not exceed the authorized width and depth of the project.
-  - **(2)** The term “emerging harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
-  - **(3)** The term “expanded uses” means the following activities:
+  - **(2)** The term “emerging harbor” means a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
+  - **(3)** The term “emerging harbor project” means a project that is assigned to an emerging harbor.
+  - **(4)** The term “expanded uses” means the following activities:
     - **(A)** The maintenance dredging of a berth in a harbor that is accessible to a Federal navigation project and that benefits commercial navigation at the harbor.
     - **(B)** The maintenance dredging and disposal of legacy-contaminated sediment, and sediment unsuitable for open water disposal, if—
       - **(i)** such dredging and disposal benefits commercial navigation at the harbor; and
       - **(ii)** such sediment is located in and affects the maintenance of a Federal navigation project or is located in a berth that is accessible to a Federal navigation project.
-  - **(4)** The term “Great Lakes Navigation System” includes—
+    - **(C)** An in-water improvement, if the improvement—
+      - **(i)** is for the seismic reinforcement of a wharf or other berthing structure, or the repair or replacement of a deteriorating wharf or other berthing structure, at a port facility;
+      - **(ii)** benefits commercial navigation at the harbor; and
+      - **(iii)** is located in, or adjacent to, a berth that is accessible to a Federal navigation project.
+    - **(D)** An activity to maintain slope stability at a berth in a harbor that is accessible to a Federal navigation project if such activity benefits commercial navigation at the harbor.
+  - **(5)** The term “Great Lakes Navigation System” includes—
     - **(A)**
       - **(i)** Lake Superior;
       - **(ii)** Lake Huron;
@@ -98,8 +111,7 @@ generated_at: "2026-03-29T19:30:28.831Z"
     - **(B)** all connecting waters between the lakes referred to in subparagraph (A) used for commercial navigation;
     - **(C)** any navigation features in the lakes referred to in subparagraph (A) or waters described in subparagraph (B) that are a Federal operation or maintenance responsibility; and
     - **(D)** areas of the Saint Lawrence River that are operated or maintained by the Federal Government for commercial navigation.
-  - **(5)** The term “harbor maintenance tax” means the amounts collected under section 4461 of title 26 .
-  - **(6)** The term “high-use harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
+  - **(6)** The term “harbor maintenance tax” means the amounts collected under section 4461 of title 26 .
   - **(7)** The term “moderate-use harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits annually—
     - **(A)** more than 1,000,000 tons of cargo; but
     - **(B)** less than 10,000,000 tons of cargo.

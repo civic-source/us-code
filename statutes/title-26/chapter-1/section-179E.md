@@ -3,9 +3,9 @@ title: "Section 179E - Election to expense advanced mine safety equipment"
 usc_title: 26
 usc_section: "179E"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 179E"
-generated_at: "2026-03-29T19:30:19.747Z"
+generated_at: "2026-03-29T19:42:47.587Z"
 ---
 
 # § 179E. Election to expense advanced mine safety equipment
@@ -25,4 +25,4 @@ generated_at: "2026-03-29T19:30:19.747Z"
   - **(5)** Comprehensive atmospheric monitoring system which monitors the levels of carbon monoxide, methane, and oxygen that are present in all areas of the mine and which can detect smoke in the case of a fire in a mine.
 - **(e)** No expenditures shall be taken into account under subsection (a) with respect to the portion of the cost of any property specified in an election under section 179.
 - **(f)** No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the mines of the taxpayer as the Secretary shall require.
-- **(g)** This section shall not apply to property placed in service after December 31, 2016 .
+- **(g)** This section shall not apply to property placed in service after December 31, 2017 .

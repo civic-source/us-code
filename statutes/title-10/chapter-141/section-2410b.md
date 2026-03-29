@@ -1,17 +1,12 @@
 ---
-title: "Section 2410b - Contractor inventory accounting systems: standards"
+title: "Section 2410b - Renumbered § 3845]"
 usc_title: 10
 usc_section: "2410b"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2410b"
-generated_at: "2026-03-29T19:27:25.603Z"
+generated_at: "2026-03-29T19:43:37.980Z"
 ---
 
-# § 2410b. Contractor inventory accounting systems: standards
+# [§ 2410b. Renumbered § 3845]
 
-- **(a)** The Secretary of Defense shall prescribe in regulations—
-  - **(1)** standards for inventory accounting systems used by contractors under contract with the Department of Defense; and
-  - **(2)** appropriate enforcement requirements with respect to such standards.
-- **(b)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract that is for an amount not greater than the simplified acquisition threshold.
-- **(c)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial items (as defined in section 103 of title 41 ).

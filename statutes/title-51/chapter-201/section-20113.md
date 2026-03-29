@@ -3,9 +3,9 @@ title: "Section 20113 - Powers of the Administration in performance of functions
 usc_title: 51
 usc_section: "20113"
 chapter: 201
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 20113"
-generated_at: "2026-03-29T19:32:32.730Z"
+generated_at: "2026-03-29T19:45:16.666Z"
 ---
 
 # § 20113. Powers of the Administration in performance of functions
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T19:32:32.730Z"
   - **(3)** The concessioner shall be afforded a reasonable opportunity to make a profit commensurate with the capital invested and the obligations assumed. The consideration paid by the concessioner for the concession shall be based on the probable value of the opportunity and not on maximizing revenue to the United States.
   - **(4)** Each concession agreement shall specify the manner in which the concessioner’s records are to be maintained, and shall provide for access to the records by the Administration and the Comptroller General of the United States for a period of 5 years after the close of the business year to which the records relate.
   - **(5)** A concessioner may be accorded a possessory interest, consisting of all incidents of ownership except legal title (which shall vest in the United States), in any structure, fixture, or improvement the concessioner constructs or locates upon land owned by the United States. With the approval of the Administration, such possessory interest may be assigned, transferred, encumbered, or relinquished by the concessioner, and, unless otherwise provided by contract, shall not be extinguished by the expiration or other termination of the concession and may not be taken for public use without just compensation.
-- **(l)** In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
+- **(l)** In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, Marine Corps, and Space Force may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
 - **(m)** In the performance of its functions, the Administration is authorized—
   - **(1)** to consider, ascertain, adjust, determine, settle, and pay, on behalf of the United States, in full satisfaction thereof, any claim for $25,000 or less against the United States for bodily injury, death, or damage to or loss of real or personal property resulting from the conduct of the Administration’s functions as specified in section 20112(a) of this title , where such claim is presented to the Administration in writing within 2 years after the accident or incident out of which the claim arises; and
   - **(2)** if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.

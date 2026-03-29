@@ -1,12 +1,12 @@
 ---
-title: "Section 60n - Repealed. Pub. L. 104–1, title V , § 504(b), Jan. 23, 1995 , 109 Stat. 41"
+title: "Section 60n - Repealed. Pub. L. 104–1, title V, § 504(b) , Jan. 23, 1995 , 109 Stat. 41"
 usc_title: 2
 usc_section: "60n"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 60n"
-generated_at: "2026-03-29T19:27:07.490Z"
+generated_at: "2026-03-29T19:42:59.574Z"
 ---
 
-# §§ 60m, 60n. Repealed. Pub. L. 104–1, title V , § 504(b), Jan. 23, 1995 , 109 Stat. 41
+# §§ 60m, 60n. Repealed. Pub. L. 104–1, title V, § 504(b) , Jan. 23, 1995 , 109 Stat. 41
 

@@ -3,9 +3,9 @@ title: "Section 3903 - Limitations on assistance; special training courses"
 usc_title: 38
 usc_section: "3903"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3903"
-generated_at: "2026-03-29T19:30:40.540Z"
+generated_at: "2026-03-29T19:43:27.041Z"
 ---
 
 # § 3903. Limitations on assistance; special training courses
@@ -17,7 +17,9 @@ generated_at: "2026-03-29T19:30:40.540Z"
       - **(i)** as a result of a natural or other disaster, as determined by the Secretary; and
       - **(ii)** through no fault of the eligible person; and
     - **(B)** the eligible person does not otherwise receive from a property insurer compensation for the loss.
-- **(b)** Except as provided in subsection (d) of section 3902 of this title , no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to the satisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person’s own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person’s residency or other proper licensing authority.
+- **(b)**
+  - **(1)** Except as provided in subsection (d) of section 3902 of this title , no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to the satisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person’s own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person’s residency or other proper licensing authority.
+  - **(2)** The Secretary shall ensure that to the extent practicable an eligible person who is provided an automobile or other conveyance under this chapter is given the opportunity to make personal selections relating to such automobile or other conveyance.
 - **(c)**
   - **(1)** An eligible person shall not be entitled to adaptive equipment under this chapter for more than two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period.
   - **(2)** In a case in which the four-year limitation in paragraph (1) of this subsection precludes an eligible person from being entitled to adaptive equipment under this chapter, if the Secretary determines that, due to circumstances beyond the control of such person, one of the automobiles or other conveyances for which adaptive equipment was provided to such person during the applicable four-year period is no longer available for the use of such person, the Secretary may provide adaptive equipment to such person for an additional automobile or other conveyance during such period. Provision of adaptive equipment under this paragraph is within the discretion of the Secretary. Any action to provide adaptive equipment under this paragraph shall be made pursuant to regulations which the Secretary shall prescribe.

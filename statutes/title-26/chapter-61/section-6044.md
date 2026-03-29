@@ -3,15 +3,15 @@ title: "Section 6044 - Returns regarding payments of patronage dividends"
 usc_title: 26
 usc_section: "6044"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6044"
-generated_at: "2026-03-29T19:30:20.153Z"
+generated_at: "2026-03-29T19:42:47.941Z"
 ---
 
 # § 6044. Returns regarding payments of patronage dividends
 
 - **(a)**
-  - **(1)** Except as otherwise provided in this section, every cooperative to which part I of subchapter T of chapter 1 applies, which makes payments of amounts described in subsection (b) aggregating $10 or more to any person during any calendar year, shall make a return according to the forms of regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
+  - **(1)** Except as otherwise provided in this section, every cooperative to which part I of subchapter T of chapter 1 applies, which makes payments of amounts described in subsection (b) aggregating $10 or more to any person during any calendar year, shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
   - **(2)** Every such cooperative which makes payments of amounts described in subsection (b) aggregating less than $10 to any person during any calendar year shall, when required by the Secretary, make a return setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
 - **(b)**
   - **(1)** Except as otherwise provided in this section, the amounts subject to reporting under subsection (a) are—

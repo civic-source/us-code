@@ -3,9 +3,9 @@ title: "Section 212 - Interlocking directorates; officials dealing in securities
 usc_title: 47
 usc_section: "212"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 212"
-generated_at: "2026-03-29T19:32:13.748Z"
+generated_at: "2026-03-29T19:44:37.150Z"
 ---
 
 # § 212. Interlocking directorates; officials dealing in securities

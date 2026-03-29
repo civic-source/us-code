@@ -3,9 +3,9 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-03-29T19:30:19.942Z"
+generated_at: "2026-03-29T19:42:47.767Z"
 ---
 
 # § 911. Citizens or residents of the United States living abroad
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T19:30:19.942Z"
       - **(i)** The exclusion amount for any calendar year is $80,000.
       - **(ii)** In the case of any taxable year beginning in a calendar year after 2005, the $80,000 amount in clause (i) shall be increased by an amount equal to the product of—
         - **(I)** such dollar amount, and
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “2016” in subparagraph (A)(ii) thereof.
 - **(c)** For purposes of this section—
   - **(1)** The term “housing cost amount” means an amount equal to the excess of—
     - **(A)** the housing expenses of an individual for the taxable year to the extent such expenses do not exceed the amount determined under paragraph (2), over
@@ -69,7 +69,7 @@ generated_at: "2026-03-29T19:30:19.942Z"
   - **(2)**
     - **(A)** The term “earned income” means wages, salaries, or professional fees, and other amounts received as compensation for personal services actually rendered, but does not include that part of the compensation derived by the taxpayer for personal services rendered by him to a corporation which represents a distribution of earnings or profits rather than a reasonable allowance as compensation for the personal services actually rendered.
     - **(B)** In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
-  - **(3)** The term “tax home” means, with respect to any individual, such individual’s home for purposes of section 162(a)(2) (relating to traveling expenses while away from home). An individual shall not be treated as having a tax home in a foreign country for any period for which his abode is within the United States.
+  - **(3)** The term “tax home” means, with respect to any individual, such individual’s home for purposes of section 162(a)(2) (relating to traveling expenses while away from home). An individual shall not be treated as having a tax home in a foreign country for any period for which his abode is within the United States, unless such individual is serving in an area designated by the President of the United States by Executive order as a combat zone for purposes of section 112 in support of the Armed Forces of the United States.
   - **(4)** Notwithstanding paragraph (1), an individual who—
     - **(A)** is a bona fide resident of, or is present in, a foreign country for any period,
     - **(B)** leaves such foreign country after August 31, 1978 —
@@ -87,7 +87,7 @@ generated_at: "2026-03-29T19:30:19.942Z"
       - **(ii)** the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
       - **(iii)** an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
     - **(B)** For purposes of this paragraph, regulations are described in this subparagraph if such regulations—
-      - **(i)** have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), 1 1 See References in Text note below. or the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), and
+      - **(i)** have been adopted pursuant to the Trading With the Enemy Act ( 50 U.S.C. 4301 et seq.) or the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), and
       - **(ii)** include provisions generally prohibiting citizens and residents of the United States from engaging in transactions related to travel to, from, or within a foreign country.
     - **(C)** Subparagraph (A) shall not apply to any individual during any period in which such individual’s activities are not in violation of the regulations described in subparagraph (B).
   - **(9)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing rules—
@@ -101,7 +101,7 @@ generated_at: "2026-03-29T19:30:19.942Z"
     - **(A)** if such taxpayer has taxable income for such taxable year, the tax imposed by section 1 for such taxable year shall be equal to the excess (if any) of—
       - **(i)** the tax which would be imposed by section 1 for such taxable year if the taxpayer’s taxable income were increased by the amount excluded under subsection (a) for such taxable year, over
       - **(ii)** the tax which would be imposed by section 1 for such taxable year if the taxpayer’s taxable income were equal to the amount excluded under subsection (a) for such taxable year, and
-    - **(B)** if such taxpayer has a taxable excess (as defined in section 55(b)(1)(A)(ii)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A)(i) for such taxable year shall be equal to the excess (if any) of—
+    - **(B)** if such taxpayer has a taxable excess (as defined in section 55(b)(1)(B)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A) for such taxable year shall be equal to the excess (if any) of—
       - **(i)** the amount which would be determined under such sentence for such taxable year (subject to the limitation of section 55(b)(3)) if the taxpayer’s taxable excess (as so defined) were increased by the amount excluded under subsection (a) for such taxable year, over
       - **(ii)** the amount which would be determined under such sentence for such taxable year if the taxpayer’s taxable excess (as so defined) were equal to the amount excluded under subsection (a) for such taxable year.
   - **(2)**
@@ -109,8 +109,8 @@ generated_at: "2026-03-29T19:30:19.942Z"
       - **(i)** the taxpayer’s net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
       - **(ii)** the taxpayer’s qualified dividend income shall be reduced by so much of such capital gain excess as exceeds the taxpayer’s net capital gain (determined without regard to section 1(h)(11) and the reduction under clause (i)), and
       - **(iii)** adjusted net capital gain, unrecaptured section 1250 gain, and 28-percent rate gain shall each be determined after increasing the amount described in section 1(h)(4)(B) by such capital gain excess.
-    - **(B)** In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer’s net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(A)(ii))—
-      - **(i)** the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(A)(ii))” for “taxable income”, and
+    - **(B)** In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer’s net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(B))—
+      - **(i)** the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(B))” for “taxable income”, and
       - **(ii)** the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
     - **(C)** Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h), except that in applying subparagraph (B) the adjustments under part VI of subchapter A shall be taken into account.
 - **(g)** For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.

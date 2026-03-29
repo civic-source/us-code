@@ -3,9 +3,9 @@ title: "Section 2006 - Authorization of appropriations"
 usc_title: 30
 usc_section: "2006"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 2006"
-generated_at: "2026-03-29T19:30:05.315Z"
+generated_at: "2026-03-29T19:42:23.480Z"
 ---
 
 # § 2006. Authorization of appropriations

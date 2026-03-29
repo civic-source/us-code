@@ -3,9 +3,9 @@ title: "Section 762 - Emergency management performance grants program"
 usc_title: 6
 usc_section: "762"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 762"
-generated_at: "2026-03-29T19:27:39.872Z"
+generated_at: "2026-03-29T19:43:43.831Z"
 ---
 
 # § 762. Emergency management performance grants program
@@ -21,9 +21,4 @@ generated_at: "2026-03-29T19:27:39.872Z"
     - **(A)** the population of each State; bears to
     - **(B)** the population of all States.
 - **(e)** Notwithstanding subsection (d), in any fiscal year before fiscal year 2013 in which the appropriation for grants under this section is equal to or greater than the appropriation for emergency management performance grants in fiscal year 2007, no State shall receive an amount under this section for that fiscal year less than the amount that State received in fiscal year 2007.
-- **(f)** There is authorized to be appropriated to carry out the program—
-  - **(1)** for fiscal year 2008, $400,000,000;
-  - **(2)** for fiscal year 2009, $535,000,000;
-  - **(3)** for fiscal year 2010, $680,000,000;
-  - **(4)** for fiscal year 2011, $815,000,000; and
-  - **(5)** for fiscal year 2012, $950,000,000.
+- **(f)** There is authorized to be appropriated to carry out the program, for each of fiscal years 2018 through 2022, $950,000,000.

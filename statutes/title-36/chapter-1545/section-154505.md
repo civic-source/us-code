@@ -3,9 +3,9 @@ title: "Section 154505 - Governing body"
 usc_title: 36
 usc_section: "154505"
 chapter: 1545
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 154505"
-generated_at: "2026-03-29T19:30:42.088Z"
+generated_at: "2026-03-29T19:43:23.317Z"
 ---
 
 # § 154505. Governing body

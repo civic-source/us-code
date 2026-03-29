@@ -3,18 +3,18 @@ title: "Section 272 - Establishment, functions, and activities"
 usc_title: 15
 usc_section: "272"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 272"
-generated_at: "2026-03-29T19:27:55.301Z"
+generated_at: "2026-03-29T19:44:42.590Z"
 ---
 
 # § 272. Establishment, functions, and activities
 
 - **(a)** There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
-- **(b)** The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) is authorized to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
+- **(b)** The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) is authorized to serve as the President’s principal adviser on standards policy pertaining to the Nation’s technological competitiveness and innovation ability and to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
   - **(1)** to assist industry in the development of technology and procedures needed to improve quality, to modernize manufacturing processes, to ensure product reliability, manufacturability, functionality, and cost-effectiveness, and to facilitate the more rapid commercialization, especially by small- and medium-sized companies throughout the United States, of products based on new scientific discoveries in fields such as automation, electronics, advanced materials, biotechnology, and optical technologies;
   - **(2)** to develop, maintain, and retain custody of the national standards of measurement, and provide the means and methods for making measurements consistent with those standards;
-  - **(3)** to compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
+  - **(3)** to facilitate standards-related information sharing and cooperation between Federal agencies and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
   - **(4)** to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
   - **(5)** to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
   - **(6)** to assist industry in the development of measurements, measurement methods, and basic measurement technology;
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T19:27:55.301Z"
   - **(10)** to cooperate with other departments and agencies of the Federal Government, with industry, with State and local governments, with the governments of other nations and international organizations, and with private organizations in establishing standard practices, codes, specifications, and voluntary consensus standards;
   - **(11)** to advise government and industry on scientific and technical problems;
   - **(12)** to invent, develop, and (when appropriate) promote transfer to the private sector of measurement devices to serve special national needs; and
-  - **(13)** to coordinate Federal, State, and local technical standards activities and conformity assessment activities, with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
+  - **(13)** to coordinate technical standards activities and conformity assessment activities of Federal, State, and local governments with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
 - **(c)** In carrying out the functions specified in subsection (b), the Secretary, acting through the Director 1 1 So in original. Probably should be followed by a comma. may, among other things—
   - **(1)** construct physical standards;
   - **(2)** test, calibrate, and certify standards and standard measuring apparatus;
@@ -41,15 +41,19 @@ generated_at: "2026-03-29T19:27:55.301Z"
   - **(13)** study computer systems (as that term is defined in section 278g–3(d) 2 2 See References in Text note below. of this title) and their use to control machinery and processes;
   - **(14)** perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
   - **(15)** on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));
-  - **(16)** determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
-  - **(17)** undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
-  - **(18)** compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
-  - **(19)** collect, create, analyze, and maintain specimens of scientific value;
-  - **(20)** operate national user facilities;
-  - **(21)** evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
-  - **(22)** demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
-  - **(23)** undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
-- **(d)** In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278 l , and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute’s management of these programs.
+  - **(16)** perform research to support the development of voluntary, consensus-based, industry-led standards and recommendations on the security of computers, computer networks, and computer data storage used in election systems to ensure voters can vote securely and privately. 3 3 So in original. The period probably should be a semicolon.
+  - **(17)** determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
+  - **(18)** undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
+  - **(19)** host, participate in, and support scientific and technical workshops (as defined in section 202 of the American Innovation and Competitiveness Act);
+  - **(20)** collect and retain any fees charged by the Secretary for hosting a scientific and technical workshop described in paragraph (19);
+  - **(21)** notwithstanding title 31 of the United States Code, use the fees described in paragraph (20) to pay for any related expenses, including subsistence expenses for participants;
+  - **(22)** compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+  - **(23)** collect, create, analyze, and maintain specimens of scientific value;
+  - **(24)** operate national user facilities;
+  - **(25)** evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+  - **(26)** demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+  - **(27)** undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+- **(d)** In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k and 278 l of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute’s management of these programs.
 - **(e)**
   - **(1)** In carrying out the activities under subsection (c)(15), the Director—
     - **(A)** shall—
@@ -61,8 +65,9 @@ generated_at: "2026-03-29T19:27:55.301Z"
         - **(II)** to protect individual privacy and civil liberties;
       - **(v)** incorporate voluntary consensus standards and industry best practices;
       - **(vi)** align with voluntary international standards to the fullest extent possible;
-      - **(vii)** prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
-      - **(viii)** include such other similar and consistent elements as the Director considers necessary; and
+      - **(vii)** prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes;
+      - **(viii)** consider small business concerns (as defined in section 632 of this title ); and
+      - **(ix)** include such other similar and consistent elements as the Director considers necessary; and
     - **(B)** shall not prescribe or otherwise require—
       - **(i)** the use of specific solutions;
       - **(ii)** the use of specific information or communications technology products or services; or

@@ -3,9 +3,9 @@ title: "Section 1641 - Treatment of payments under Social Security Act health be
 usc_title: 25
 usc_section: "1641"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 1641"
-generated_at: "2026-03-29T19:29:34.796Z"
+generated_at: "2026-03-29T19:41:28.386Z"
 ---
 
 # § 1641. Treatment of payments under Social Security Act health benefits programs
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T19:29:34.796Z"
     - **(B)** The Service shall provide the Administrator of the Centers for Medicare & Medicaid Services with copies of the lists submitted to the Service under paragraph (2)(C), enrollment data regarding patients served by the Service (and by tribal health programs, to the extent such data is available to the Service), and such other information as the Administrator may require for purposes of administering title XVIII, XIX, or XXI of the Social Security Act.
   - **(4)** A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 2 2 See References in Text note below. All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary’s acceptance of the withdrawal of participation in this program.
   - **(5)** The Secretary may terminate the participation of a tribal health program or 3 3 So in original. The word “or” probably should not appear. in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program’s participation in the direct billing program established under this subsection.
-- **(e)** For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) of the Social Security Act [ 42 U.S.C. 1395qq , 1396j, 1397gg(e)(1)(D)].
+- **(e)** For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) 2 of the Social Security Act [ 42 U.S.C. 1395qq , 1396j, 1397gg(e)(1)(D)].

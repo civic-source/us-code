@@ -3,9 +3,9 @@ title: "Section 6045 - Returns of brokers"
 usc_title: 26
 usc_section: "6045"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6045"
-generated_at: "2026-03-29T19:30:20.154Z"
+generated_at: "2026-03-29T19:42:47.941Z"
 ---
 
 # § 6045. Returns of brokers
@@ -60,6 +60,7 @@ generated_at: "2026-03-29T19:30:20.154Z"
         - **(I)** in the case of any security (other than any stock for which an average basis method is permissible under section 1012), in accordance with the first-in first-out method unless the customer notifies the broker by means of making an adequate identification of the stock sold or transferred, and
         - **(II)** in the case of any stock for which an average basis method is permissible under section 1012, in accordance with the broker’s default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
       - **(ii)** Except as otherwise provided by the Secretary, the customer’s adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
+      - **(iii)** Except as otherwise provided by the Secretary, the customer’s adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “covered security” means any specified security acquired on or after the applicable date if such security—
       - **(i)** was acquired through a transaction in the account in which such security is held, or

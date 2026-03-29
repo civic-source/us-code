@@ -3,9 +3,9 @@ title: "Section 118a - Quadrennial quality of life review"
 usc_title: 10
 usc_section: "118a"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 118a"
-generated_at: "2026-03-29T19:27:25.419Z"
+generated_at: "2026-03-29T19:43:37.768Z"
 ---
 
 # § 118a. Quadrennial quality of life review
@@ -32,6 +32,7 @@ generated_at: "2026-03-29T19:27:25.419Z"
   - **(12)** Workplace safety.
   - **(13)** Support services for spouses and children.
   - **(14)** Other elements of Department of Defense programs and Government policies and programs that affect the quality of life of members.
+  - **(15)** Support services for Gold Star families.
 - **(d)**
   - **(1)** The Secretary shall submit a report on each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
     - **(A)** The assumptions used in the review.

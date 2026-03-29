@@ -1,29 +1,12 @@
 ---
-title: "Section 3 - Recovery zone facility bonds"
+title: "Section 3 - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(6)(A) , Mar. 23, 2018 , 132 Stat. 1211 ]"
 usc_title: 26
 usc_section: "3"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 3"
-generated_at: "2026-03-29T19:30:20.017Z"
+generated_at: "2026-03-29T19:42:47.828Z"
 ---
 
-# § 1400U–3. Recovery zone facility bonds
+# [§§ 1400L to 1400U–3. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(6)(A) , Mar. 23, 2018 , 132 Stat. 1211 ]
 
-- **(a)** For purposes of part IV of subchapter B (relating to tax exemption requirements for State and local bonds), the term “exempt facility bond” includes any recovery zone facility bond.
-- **(b)**
-  - **(1)** For purposes of this section, the term “recovery zone facility bond” means any bond issued as part of an issue if—
-    - **(A)** 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of such issue are to be used for recovery zone property,
-    - **(B)** such bond is issued before January 1, 2011 , and
-    - **(C)** the issuer designates such bond for purposes of this section.
-  - **(2)** The maximum aggregate face amount of bonds which may be designated by any issuer under paragraph (1) shall not exceed the amount of recovery zone facility bond limitation allocated to such issuer under section 1400U–1.
-- **(c)** For purposes of this section—
-  - **(1)** The term “recovery zone property” means any property to which section 168 applies (or would apply but for section 179) if—
-    - **(A)** such property was constructed, reconstructed, renovated, or acquired by purchase (as defined in section 179(d)(2)) by the taxpayer after the date on which the designation of the recovery zone took effect,
-    - **(B)** the original use of which in the recovery zone commences with the taxpayer, and
-    - **(C)** substantially all of the use of which is in the recovery zone and is in the active conduct of a qualified business by the taxpayer in such zone.
-  - **(2)** The term “qualified business” means any trade or business except that—
-    - **(A)** the rental to others of real property located in a recovery zone shall be treated as a qualified business only if the property is not residential rental property (as defined in section 168(e)(2)), and
-    - **(B)** such term shall not include any trade or business consisting of the operation of any facility described in section 144(c)(6)(B).
-  - **(3)** Rules similar to the rules of subsections (a)(2) and (b) of section 1397D shall apply for purposes of this subsection.
-- **(d)** Sections 146 (relating to volume cap) and 147(d) (relating to acquisition of existing property not permitted) shall not apply to any recovery zone facility bond.

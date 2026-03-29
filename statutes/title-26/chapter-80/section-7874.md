@@ -3,9 +3,9 @@ title: "Section 7874 - Rules relating to expatriated entities and their foreign 
 usc_title: 26
 usc_section: "7874"
 chapter: 80
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7874"
-generated_at: "2026-03-29T19:30:20.281Z"
+generated_at: "2026-03-29T19:42:48.040Z"
 ---
 
 # § 7874. Rules relating to expatriated entities and their foreign parents
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T19:30:20.281Z"
 - **(e)**
   - **(1)** Credits (other than the credit allowed by section 901) shall be allowed against the tax imposed by this chapter on an expatriated entity for any taxable year described in subsection (a) only to the extent such tax exceeds the product of—
     - **(A)** the amount of the inversion gain for the taxable year, and
-    - **(B)** the highest rate of tax specified in section 11(b)(1).
+    - **(B)** the highest rate of tax specified in section 11(b).
   - **(2)** In the case of an expatriated entity which is a partnership—
     - **(A)** subsection (a)(1) shall apply at the partner rather than the partnership level,
     - **(B)** the inversion gain of any partner for any taxable year shall be equal to the sum of—

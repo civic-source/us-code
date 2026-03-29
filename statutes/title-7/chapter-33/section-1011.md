@@ -3,16 +3,16 @@ title: "Section 1011 - Powers of Secretary of Agriculture"
 usc_title: 7
 usc_section: "1011"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1011"
-generated_at: "2026-03-29T19:27:31.711Z"
+generated_at: "2026-03-29T19:43:58.089Z"
 ---
 
 # § 1011. Powers of Secretary of Agriculture
 
 To effectuate the program provided for in section 1010 of this title , the Secretary is authorized—
 
-- **(a)** Repealed. Pub. L. 87–703, title I , § 102(b), Sept. 27, 1962 , 76 Stat. 607 .
+- **(a)** Repealed. Pub. L. 87–703, title I, § 102(b) , Sept. 27, 1962 , 76 Stat. 607 .
 - **(b)** To protect, improve, develop, and administer any property so acquired and to construct such structures thereon as may be necessary to adapt it to its most beneficial use.
 - **(c)** To sell, exchange, lease, or otherwise dispose of, with or without a consideration, any property so acquired, under such terms and conditions as he deems will best accomplish the purposes of this subchapter, but any sale, exchange, or grant shall be made only to public authorities and agencies and only on condition that the property is used for public purposes: Provided, however , That an exchange may be made with private owners and with subdivisions or agencies of State governments in any case where the Secretary of Agriculture finds that such exchange would not conflict with the purposes of the Act, and that the value of the property received in exchange is substantially equal to that of the property conveyed. The Secretary may recommend to the President other Federal, State, or Territorial agencies to administer such property, together with the conditions of use and administration which will best serve the purposes of a land-conservation and land-utilization program, and the President is authorized to transfer such property to such agencies.
 - **(d)** With respect to any land, or any interest therein, acquired by, or transferred to, the Secretary for the purposes of this subchapter, to make dedications or grants, in his discretion, for any public purpose, and to grant licenses and easements upon such terms as he deems reasonable.

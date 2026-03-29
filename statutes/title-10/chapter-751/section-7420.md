@@ -3,9 +3,9 @@ title: "Section 7420 - Recruit basic training: privacy"
 usc_title: 10
 usc_section: "7420"
 chapter: 751
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 7420"
-generated_at: "2026-03-29T18:47:53.546Z"
+generated_at: "2026-03-29T19:43:38.087Z"
 ---
 
 # § 7420. Recruit basic training: privacy

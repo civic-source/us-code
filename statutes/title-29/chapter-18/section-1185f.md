@@ -5,7 +5,7 @@ usc_section: "1185f"
 chapter: 18
 current_through: "PL 117-81"
 classification: "29 U.S.C. § 1185f"
-generated_at: "2026-03-29T18:45:03.635Z"
+generated_at: "2026-03-29T19:42:21.523Z"
 ---
 
 # § 1185f. Ending surprise air ambulance bills

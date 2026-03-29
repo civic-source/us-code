@@ -3,9 +3,9 @@ title: "Section 620c - Restriction on exports of unprocessed timber from State a
 usc_title: 16
 usc_section: "620c"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 620c"
-generated_at: "2026-03-29T19:29:27.318Z"
+generated_at: "2026-03-29T19:41:13.562Z"
 ---
 
 # § 620c. Restriction on exports of unprocessed timber from State and other public lands
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T19:29:27.318Z"
     - **(A)** September 10, 1990 , with respect to States with annual sales volumes of 400,000,000 board feet or less; or
     - **(B)** January 1, 1991 , with respect to States with annual sales volumes greater than 400,000,000 board feet; or
   - **(2)** any contract under which exports of unprocessed timber were permitted pursuant to an order of the Secretary of Commerce in effect under this section before October 23, 1992 .
-- **(f)** Nothing in this section shall be construed to supersede section 4606(i) of title 50 .
+- **(f)** Nothing in this section shall be construed to supersede section 4606(i) 1 1 See References in Text note below. of title 50.
 - **(g)** The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term “World Trade Organization” is defined in section 3501(8) of title 19 ), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 - **(h)** Based upon a determination that it is in the national economic interest, the President may remove or modify any prohibition on exports from public lands in a State if that State petitions the President to remove or modify such prohibition.
 - **(i)** No provision of Federal law which imposes requirements with respect to the generation of revenue from State timberlands and was enacted before August 20, 1990 , shall be construed to invalidate, supersede, or otherwise affect any action of a State or political subdivision of a State pursuant to sections 620 to 620j of this title.

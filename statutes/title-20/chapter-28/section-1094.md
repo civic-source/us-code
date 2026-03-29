@@ -3,9 +3,9 @@ title: "Section 1094 - Program participation agreements"
 usc_title: 20
 usc_section: "1094"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1094"
-generated_at: "2026-03-29T19:28:43.039Z"
+generated_at: "2026-03-29T19:41:03.258Z"
 ---
 
 # § 1094. Program participation agreements
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T19:28:43.039Z"
     - **(B)** The institution shall request the forms from the State 120 days prior to the deadline for registering to vote within the State. If an institution has not received a sufficient quantity of forms to fulfill this section from the State within 60 days prior to the deadline for registering to vote in the State, the institution shall not be held liable for not meeting the requirements of this section during that election year.
     - **(C)** This paragraph shall apply to general and special elections for Federal office, as defined in section 30101(3) of title 52 , and to the elections for Governor or other chief executive within such State). 1 1 So in original. The closing parenthesis probably should not appear.
     - **(D)** The institution shall be considered in compliance with the requirements of subparagraph (A) for each student to whom the institution electronically transmits a message containing a voter registration form acceptable for use in the State in which the institution is located, or an Internet address where such a form can be downloaded, if such information is in an electronic message devoted exclusively to voter registration.
-  - **(24)** In the case of a proprietary institution of higher education (as defined in section 1002(b) of this title ), such institution will derive not less than ten percent of such institution’s revenues from sources other than funds provided under this subchapter, as calculated in accordance with subsection (d)(1), or will be subject to the sanctions described in subsection (d)(2).
+  - **(24)** In the case of a proprietary institution of higher education (as defined in section 1002(b) of this title ), such institution will derive not less than ten percent of such institution’s revenues from sources other than Federal funds that are disbursed or delivered to or on behalf of a student to be used to attend such institution (referred to in this paragraph and subsection (d) as “Federal education assistance funds”), as calculated in accordance with subsection (d)(1), or will be subject to the sanctions described in subsection (d)(2).
   - **(25)** In the case of an institution that participates in a loan program under this subchapter, the institution will—
     - **(A)** develop a code of conduct with respect to such loans with which the institution’s officers, employees, and agents shall comply, that—
       - **(i)** prohibits a conflict of interest with the responsibilities of an officer, employee, or agent of an institution with respect to such loans; and
@@ -117,7 +117,7 @@ generated_at: "2026-03-29T19:28:43.039Z"
         - **(I)** is approved or licensed by the appropriate State agency;
         - **(II)** is accredited by an accrediting agency recognized by the Secretary; or
         - **(III)** provides an industry-recognized credential or certification;
-    - **(C)** presume that any funds for a program under this subchapter that are disbursed or delivered to or on behalf of a student will be used to pay the student’s tuition, fees, or other institutional charges, regardless of whether the institution credits those funds to the student’s account or pays those funds directly to the student, except to the extent that the student’s tuition, fees, or other institutional charges are satisfied by—
+    - **(C)** presume that any Federal education assistance funds that are disbursed or delivered to or on behalf of a student will be used to pay the student’s tuition, fees, or other institutional charges, regardless of whether the institution credits those funds to the student’s account or pays those funds directly to the student, except to the extent that the student’s tuition, fees, or other institutional charges are satisfied by—
       - **(i)** grant funds provided by non-Federal public agencies or private sources independent of the institution;
       - **(ii)** funds provided under a contractual arrangement with a Federal, State, or local government agency for the purpose of providing job training to low-income individuals who are in need of that training;
       - **(iii)** funds used by a student from savings plans for educational expenses established by or on behalf of the student and which qualify for special tax treatment under title 26; or

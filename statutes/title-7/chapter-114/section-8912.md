@@ -3,9 +3,9 @@ title: "Section 8912 - Agricultural biosecurity communication center"
 usc_title: 7
 usc_section: "8912"
 chapter: 114
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 8912"
-generated_at: "2026-03-29T19:27:32.038Z"
+generated_at: "2026-03-29T19:43:58.471Z"
 ---
 
 # § 8912. Agricultural biosecurity communication center
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T19:27:32.038Z"
   - **(2)** Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.
 - **(c)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.

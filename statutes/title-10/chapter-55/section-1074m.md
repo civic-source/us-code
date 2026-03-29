@@ -3,9 +3,9 @@ title: "Section 1074m - Mental health assessments for members of the armed force
 usc_title: 10
 usc_section: "1074m"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1074m"
-generated_at: "2026-03-29T19:27:25.500Z"
+generated_at: "2026-03-29T19:43:37.885Z"
 ---
 
 # § 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation
@@ -13,14 +13,15 @@ generated_at: "2026-03-29T19:27:25.500Z"
 - **(a)**
   - **(1)** The Secretary of Defense shall provide a person-to-person mental health assessment for each member of the armed forces who is deployed in support of a contingency operation as follows:
     - **(A)** Once during the period beginning 120 days before the date of the deployment.
-    - **(B)** Until January 1, 2019 , once during each 180-day period during which a member is deployed.
-    - **(C)** Once during the period beginning 90 days after the date of redeployment from the contingency operation and ending 180 days after such redeployment date.
-    - **(D)** Subject to subsection (d), not later than once during each of—
-      - **(i)** the period beginning 180 days after the date of redeployment from the contingency operation and ending 18 months after such redeployment date; and
-      - **(ii)** the period beginning 18 months after such redeployment date and ending 30 months after such redeployment date.
-  - **(2)** A mental health assessment is not required for a member of the armed forces under subparagraphs (C) and (D) of paragraph (1) if the Secretary determines that—
-    - **(A)** the member was not subjected or exposed to operational risk factors during deployment in the contingency operation concerned; or
-    - **(B)** providing such assessment to the member during the time periods under such subparagraphs would remove the member from forward deployment or put members or operational objectives at risk.
+    - **(B)** Once during each 180-day period during which a member is deployed.
+    - **(C)** Subject to paragraph (3) and subsection (d), once during the period beginning on the date of redeployment from the contingency operation and ending on the date that is 21 days after the date on which the post-deployment leave of the member terminates.
+    - **(D)** Subject to subsection (d), not less than once annually—
+      - **(i)** beginning 21 days after the date on which the post-deployment leave of the member terminates; or
+      - **(ii)** if the assessment required by subparagraph (C) is performed during the period specified in paragraph (3), beginning 180 days after the date of redeployment from the contingency operation.
+  - **(2)** A mental health assessment is not required for a member of the armed forces under subparagraphs (C) and (D) of paragraph (1) (including an assessment performed pursuant to paragraph (3)) if the Secretary determines that providing such assessment to the member during the time periods under such subparagraphs would remove the member from forward deployment or put members or operational objectives at risk.
+  - **(3)** A mental health assessment required under subparagraph (C) of paragraph (1) may be provided during the period beginning 90 days after the date of redeployment from the contingency operation and ending 180 days after such redeployment date if the Secretary determines that—
+    - **(A)** an insufficient number of personnel are available to perform the assessment during the time period under such subparagraph; or
+    - **(B)** an administrative processing issue exists upon the return of the member to the home unit or duty station that would prohibit the effective performance of the assessment during such time period.
 - **(b)** The purpose of the mental health assessments provided pursuant to this section shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
 - **(c)**
   - **(1)** The mental health assessments provided pursuant to this section shall—
@@ -33,7 +34,7 @@ generated_at: "2026-03-29T19:27:25.500Z"
     - **(D)** be provided in a consistent manner across the military departments; and
     - **(E)** include a review of the health records of the member that are related to each previous deployment of the member or other relevant activities of the member while serving in the armed forces, as determined by the Secretary.
   - **(2)** The Secretary may treat periodic health assessments and other person-to-person assessments that are provided to members of the armed forces, including examinations under section 1074f of this title , as meeting the requirements for mental health assessments required under this section if the Secretary determines that such assessments and person-to-person assessments meet the requirements for mental health assessments established by this section.
-- **(d)** No mental health assessment is required to be provided to an individual under subsection (a)(1)(C) after the individual’s discharge or release from the armed forces.
+- **(d)** No mental health assessment is required to be provided to an individual under subparagraph (C) or (D) of subsection (a)(1) after the individual’s discharge or release from the armed forces.
 - **(e)**
   - **(1)** The Secretary of Defense shall share with the Secretary of Veterans Affairs such information on members of the armed forces that is derived from confidential mental health assessments, including mental health assessments provided pursuant to this section and section 1074n of this title and health assessments and other person-to-person assessments provided before the date of the enactment of this section, as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate to ensure continuity of mental health care and treatment of members of the armed forces during the transition from health care and treatment provided by the Department of Defense to health care and treatment provided by the Department of Veterans Affairs.
   - **(2)** Any sharing of information under paragraph (1) shall occur pursuant to a protocol jointly established by the Secretary of Defense and the Secretary of Veterans Affairs for purposes of this subsection. Any such protocol shall be consistent with the following:

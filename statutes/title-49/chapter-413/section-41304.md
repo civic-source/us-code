@@ -3,9 +3,9 @@ title: "Section 41304 - Effective periods and amendments, modifications, suspens
 usc_title: 49
 usc_section: "41304"
 chapter: 413
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 41304"
-generated_at: "2026-03-29T19:32:28.863Z"
+generated_at: "2026-03-29T19:44:57.977Z"
 ---
 
 # § 41304. Effective periods and amendments, modifications, suspensions, and revocations of permits

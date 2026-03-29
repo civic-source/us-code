@@ -3,9 +3,9 @@ title: "Section 2104 - Advanced training; eligibility for"
 usc_title: 10
 usc_section: "2104"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2104"
-generated_at: "2026-03-29T19:27:25.559Z"
+generated_at: "2026-03-29T19:43:37.956Z"
 ---
 
 # § 2104. Advanced training; eligibility for
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:27:25.559Z"
   - **(2)** be selected for advanced training under procedures prescribed by the Secretary of the military department concerned;
   - **(3)** enlist in an armed force under the jurisdiction of the Secretary of the military department concerned for the period prescribed by the Secretary;
   - **(4)** contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program;
-  - **(5)** agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
+  - **(5)** agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
   - **(6)** either—
     - **(A)** complete successfully—
       - **(i)** the first two years of a four-year Senior Reserve Officers’ Training Corps course; or

@@ -3,9 +3,9 @@ title: "Section 3622 - Code of conduct for Commission personnel"
 usc_title: 22
 usc_section: "3622"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3622"
-generated_at: "2026-03-29T19:29:46.835Z"
+generated_at: "2026-03-29T19:42:08.150Z"
 ---
 
 # § 3622. Code of conduct for Commission personnel
@@ -28,5 +28,5 @@ generated_at: "2026-03-29T19:29:46.835Z"
   - **(1)** The Congress consents to the following persons accepting civil employment (and compensation for that employment) with the Panama Canal Authority for which the consent of the Congress is required by the last paragraph of section 9 of article I of the Constitution of the United States, relating to acceptance of emoluments, offices, or titles from a foreign government:
     - **(A)** Retired members of the uniformed services.
     - **(B)** Members of a reserve component of the armed forces.
-    - **(C)** Members of the Commissioned Reserve Corps of the Public Health Service.
+    - **(C)** Members of the Commissioned Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
   - **(2)** The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of section 908 of title 37 (relating to approval required for employment of Reserve and retired members by foreign governments).

@@ -3,15 +3,15 @@ title: "Section 612 - Composition of selection boards"
 usc_title: 10
 usc_section: "612"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 612"
-generated_at: "2026-03-29T19:27:25.452Z"
+generated_at: "2026-03-29T19:43:37.825Z"
 ---
 
 # § 612. Composition of selection boards
 
 - **(a)**
-  - **(1)** Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officers under consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
+  - **(1)** Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officers under consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander. The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), a selection board shall include at least one officer from each competitive category of officers to be considered by the board.
     - **(B)** A selection board need not include an officer from a competitive category to be considered by the board when there are no officers of that competitive category on the active-duty list in a grade higher than the grade of the officers to be considered by the board and eligible to serve on the board. However, in such a case the Secretary of the military department concerned, in his discretion, may appoint as a member of the board an officer of that competitive category who is not on the active-duty list from among officers of the same armed force as the officers under consideration by the board who hold a higher grade than the grade of the officers under consideration and who are retired officers, reserve officers serving on active duty but not on the active-duty list, or members of the Ready Reserve.

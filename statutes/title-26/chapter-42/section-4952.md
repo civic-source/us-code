@@ -3,9 +3,9 @@ title: "Section 4952 - Taxes on taxable expenditures"
 usc_title: 26
 usc_section: "4952"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4952"
-generated_at: "2026-03-29T19:30:20.096Z"
+generated_at: "2026-03-29T19:42:47.901Z"
 ---
 
 # § 4952. Taxes on taxable expenditures

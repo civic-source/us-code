@@ -3,9 +3,9 @@ title: "Section 14910 - General civil penalty when specific penalty not provided
 usc_title: 49
 usc_section: "14910"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 14910"
-generated_at: "2026-03-29T19:32:28.785Z"
+generated_at: "2026-03-29T19:44:57.894Z"
 ---
 
 # § 14910. General civil penalty when specific penalty not provided

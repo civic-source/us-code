@@ -3,9 +3,9 @@ title: "Section 907 - Limitation on exclusive rights: innocent infringement"
 usc_title: 17
 usc_section: "907"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "17 U.S.C. § 907"
-generated_at: "2026-03-29T19:28:20.881Z"
+generated_at: "2026-03-29T19:40:56.343Z"
 ---
 
 # § 907. Limitation on exclusive rights: innocent infringement

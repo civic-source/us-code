@@ -3,9 +3,9 @@ title: "Section 31322 - Preferred mortgages"
 usc_title: 46
 usc_section: "31322"
 chapter: 313
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 31322"
-generated_at: "2026-03-29T19:32:17.354Z"
+generated_at: "2026-03-29T19:44:39.431Z"
 ---
 
 # § 31322. Preferred mortgages
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:32:17.354Z"
     - **(B)** covers a vessel for which an application for documentation is filed that is in substantial compliance with the requirements of chapter 121 of this title and the regulations prescribed under that chapter; and
   - **(4)** with respect to a vessel with a fishery endorsement that is 100 feet or greater in registered length, has as the mortgagee—
     - **(A)** a person eligible to own a vessel with a fishery endorsement under section 12113(c) of this title ;
-    - **(B)** a state 1 1 So in original. Probably should be capitalized. or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;
+    - **(B)** a State or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;
     - **(C)** a farm credit lender established under title 12, chapter 23 of the United States Code;
     - **(D)** a commercial fishing and agriculture bank established pursuant to State law;
     - **(E)** a commercial lender organized under the laws of the United States or of a State and eligible to own a vessel for purposes of documentation under section 12103 of this title ; or

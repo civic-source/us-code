@@ -3,9 +3,9 @@ title: "Section 2859 - Construction requirements related to antiterrorism and fo
 usc_title: 10
 usc_section: "2859"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2859"
-generated_at: "2026-03-29T19:27:25.648Z"
+generated_at: "2026-03-29T19:43:38.018Z"
 ---
 
 # § 2859. Construction requirements related to antiterrorism and force protection or urban-training operations
@@ -16,11 +16,7 @@ generated_at: "2026-03-29T19:27:25.648Z"
   - **(3)** to prepare and carry out military construction projects, such as gate and fenceline construction, to improve the physical security of military installations; and
   - **(4)** to assist in prioritizing such projects within the military construction budget of each of the armed forces.
 - **(b)** The Secretary of Defense shall require vulnerability assessments of military installations to be conducted, at regular intervals, using the criteria developed under subsection (a).
-- **(c)** As part of the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 , but in no case later than March 15 of each year, the Secretary of Defense shall submit a report, in both classified and unclassified form, describing—
-  - **(1)** the location and results of the vulnerability assessments conducted under subsection (b) during the most recently completed fiscal year;
-  - **(2)** the military construction requirements anticipated to be necessary during the period covered by the then-current future-years defense plan under section 221 of this title to improve the physical security of military installations; and
-  - **(3)** the extent to which funds to meet those requirements are not requested in the Department of Defense budget for the fiscal year for which the budget is submitted.
-- **(d)**
+- **(c)**
   - **(1)** Except as provided in paragraph (3), the Secretary concerned may not carry out a military construction project to construct a facility designed to provide training in urban operations for members of the armed forces or personnel of the Department of Defense or other Federal agencies until—
     - **(A)** the Secretary of Defense approves a strategy for training and facility construction for operations in urban terrain; and
     - **(B)** the Under Secretary of Defense for Personnel and Readiness evaluates the project and certifies to the appropriate committees of Congress that the project—

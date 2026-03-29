@@ -3,16 +3,16 @@ title: "Section 2153 - Capstone course: newly selected general and flag officers
 usc_title: 10
 usc_section: "2153"
 chapter: 107
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2153"
-generated_at: "2026-03-29T19:27:25.564Z"
+generated_at: "2026-03-29T19:43:37.960Z"
 ---
 
 # § 2153. Capstone course: newly selected general and flag officers
 
-- **(a)** Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other armed forces.
+- **(a)** Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy or the commissioned officer corps of the National Oceanic and Atmospheric Administration, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other uniformed services.
 - **(b)**
-  - **(1)** Subject to paragraph (2), the Secretary of Defense may waive subsection (a)—
+  - **(1)** Subject to paragraph (2), the Secretary of Defense or the Secretary of Commerce, as applicable, may waive subsection (a)—
     - **(A)** in the case of an officer whose immediately previous assignment was in a joint duty assignment and who is thoroughly familiar with joint matters;
     - **(B)** when necessary for the good of the service;
     - **(C)** in the case of an officer whose proposed selection for promotion is based primarily upon scientific and technical qualifications for which joint requirements do not exist (as determined under regulations prescribed under section 619(e)(4) 1 1 See References in Text note below. of this title); and

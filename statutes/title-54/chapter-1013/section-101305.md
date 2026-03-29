@@ -3,9 +3,9 @@ title: "Section 101305 - Travel expenses of System employees and dependents of d
 usc_title: 54
 usc_section: "101305"
 chapter: 1013
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "54 U.S.C. § 101305"
-generated_at: "2026-03-29T19:32:31.879Z"
+generated_at: "2026-03-29T19:45:03.239Z"
 ---
 
 # § 101305. Travel expenses of System employees and dependents of deceased employees

@@ -3,9 +3,9 @@ title: "Section 127 - Educational assistance programs"
 usc_title: 26
 usc_section: "127"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 127"
-generated_at: "2026-03-29T19:30:19.701Z"
+generated_at: "2026-03-29T19:42:47.544Z"
 ---
 
 # § 127. Educational assistance programs
@@ -22,8 +22,9 @@ generated_at: "2026-03-29T19:30:19.701Z"
   - **(6)** Reasonable notification of the availability and terms of the program must be provided to eligible employees.
 - **(c)** For purposes of this section—
   - **(1)** The term “educational assistance” means—
-    - **(A)** the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment), and
-    - **(B)** the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
+    - **(A)** the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment),
+    - **(B)** in the case of payments made before January 1, 2026 , the payment by an employer, whether paid to the employee or to a lender, of principal or interest on any qualified education loan (as defined in section 221(d)(1)) incurred by the employee for education of the employee, and
+    - **(C)** the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
   - **(2)** The term “employee” includes, for any year, an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
   - **(3)** An individual who owns the entire interest in an unincorporated trade or business shall be treated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (2).
   - **(4)**

@@ -3,9 +3,9 @@ title: "Section 30166 - Inspections, investigations, and records"
 usc_title: 49
 usc_section: "30166"
 chapter: 301
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 30166"
-generated_at: "2026-03-29T19:32:28.824Z"
+generated_at: "2026-03-29T19:44:57.937Z"
 ---
 
 # § 30166. Inspections, investigations, and records
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:32:28.824Z"
     - **(D)** impound for not more than 72 hours a vehicle or equipment involved in a motor vehicle accident;
   - **(4)** shall enter into a memorandum of understanding with the Secretary of Homeland Security for inspections and sampling of motor vehicle equipment being offered for import to determine compliance with this chapter or a regulation or order issued under this chapter.
 - **(d)** When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
-- **(e)** The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor dealer, or rental company in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+- **(e)** The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor 1 1 So in original. Probably should be followed by a comma. dealer, or rental company in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 - **(f)**
   - **(1)** A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers, rental companies, or other owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
   - **(2)** Communications required to be submitted to the Secretary under this subsection shall be accompanied by an index to each communication, that—
@@ -55,6 +55,7 @@ generated_at: "2026-03-29T19:32:28.824Z"
       - **(ii)** customer satisfaction campaigns, consumer advisories, recalls, or other activity involving the repair or replacement of motor vehicles or items of motor vehicle equipment.
     - **(B)** As part of the final rule promulgated under paragraph (1), the Secretary may, to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States, require manufacturers of motor vehicles or motor vehicle equipment to report, periodically or upon request of the Secretary, such information as the Secretary may request.
     - **(C)** The manufacturer of a motor vehicle or motor vehicle equipment shall report to the Secretary, in such manner as the Secretary establishes by regulation, all incidents of which the manufacturer receives actual notice which involve fatalities or serious injuries which are alleged or proven to have been caused by a possible defect in such manufacturer’s motor vehicle or motor vehicle equipment in the United States, or in a foreign country when the possible defect is in a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States.
+    - **(D)** Notwithstanding any order entered in a civil action restricting the disclosure of information, a manufacturer of a motor vehicle or motor vehicle equipment shall comply with the requirements of this subsection and any regulations promulgated pursuant to this subsection.
   - **(4)**
     - **(A)** In requiring the reporting of any information requested by the Secretary under this subsection, the Secretary shall specify in the final rule promulgated under paragraph (1)—
       - **(i)** how such information will be reviewed and utilized to assist in the identification of defects related to motor vehicle safety;

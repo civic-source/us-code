@@ -3,16 +3,16 @@ title: "Section 2341 - State administration"
 usc_title: 20
 usc_section: "2341"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 2341"
-generated_at: "2026-03-29T19:28:43.117Z"
+generated_at: "2026-03-29T19:41:03.340Z"
 ---
 
 # § 2341. State administration
 
 - **(a)** The responsibilities of an eligible agency under this subchapter shall include—
   - **(1)** coordination of the development, submission, and implementation of the State plan, and the evaluation of the program, services, and activities assisted under this subchapter, including preparation for non-traditional fields;
-  - **(2)** consultation with the Governor and appropriate agencies, groups, and individuals including parents, students, teachers, teacher and faculty preparation programs, representatives of businesses (including small businesses), labor organizations, eligible recipients, State and local officials, and local program administrators, involved in the planning, administration, evaluation, and coordination of programs funded under this subchapter;
+  - **(2)** consultation with the Governor and appropriate agencies, groups, and individuals including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;
   - **(3)** convening and meeting as an eligible agency (consistent with State law and procedure for the conduct of such meetings) at such time as the eligible agency determines necessary to carry out the eligible agency’s responsibilities under this subchapter, but not less than 4 times annually; and
   - **(4)** the adoption of such procedures as the eligible agency considers necessary to—
     - **(A)** implement State level coordination with the activities undertaken by the State boards under section 3111 of title 29 ; and

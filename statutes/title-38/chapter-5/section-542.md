@@ -3,9 +3,9 @@ title: "Section 542 - Advisory Committee on Women Veterans"
 usc_title: 38
 usc_section: "542"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 542"
-generated_at: "2026-03-29T19:30:40.461Z"
+generated_at: "2026-03-29T19:43:26.940Z"
 ---
 
 # § 542. Advisory Committee on Women Veterans
@@ -28,8 +28,9 @@ generated_at: "2026-03-29T19:30:40.461Z"
 - **(c)**
   - **(1)** Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
     - **(A)** an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
-    - **(B)** a review of the programs and activities of the Department designed to meet such needs; and
-    - **(C)** such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
+    - **(B)** a review of the programs and activities of the Department designed to meet such needs;
+    - **(C)** an assessment of the effects of intimate partner violence on women veterans; and
+    - **(D)** such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
   - **(2)** The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
   - **(3)** The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
   - **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.

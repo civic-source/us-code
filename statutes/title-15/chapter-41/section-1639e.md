@@ -3,9 +3,9 @@ title: "Section 1639e - Appraisal independence requirements"
 usc_title: 15
 usc_section: "1639e"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1639e"
-generated_at: "2026-03-29T19:27:55.445Z"
+generated_at: "2026-03-29T19:44:42.743Z"
 ---
 
 # § 1639e. Appraisal independence requirements
@@ -29,9 +29,11 @@ generated_at: "2026-03-29T19:27:55.445Z"
 - **(h)** Consistent with the requirements of this section, the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue regulations that address the issue of appraisal report portability, including regulations that ensure the portability of the appraisal report between lenders for a consumer credit transaction secured by a 1-4 unit single family residence that is the principal dwelling of the consumer, or mortgage brokerage services for such a transaction.
 - **(i)**
   - **(1)** Lenders and their agents shall compensate fee appraisers at a rate that is customary and reasonable for appraisal services performed in the market area of the property being appraised. Evidence for such fees may be established by objective third-party information, such as government agency fee schedules, academic studies, and independent private sector surveys. Fee studies shall exclude assignments ordered by known appraisal management companies.
-  - **(2)** For purposes of this section, the term “fee appraiser” means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
-    - **(A)** a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
-    - **(B)** a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+  - **(2)**
+    - **(A)** For purposes of this section, the term “fee appraiser” means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
+      - **(i)** a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
+      - **(ii)** a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+    - **(B)** If a fee appraiser voluntarily donates appraisal services to an organization eligible to receive tax-deductible charitable contributions, such voluntary donation shall be considered customary and reasonable for the purposes of paragraph (1).
   - **(3)** In the case of an appraisal involving a complex assignment, the customary and reasonable fee may reflect the increased time, difficulty, and scope of the work required for such an appraisal and include an amount over and above the customary and reasonable fee for non-complex assignments.
 - **(j)** Effective on the date the interim final regulations are promulgated pursuant to subsection (g), the Home Valuation Code of Conduct announced by the Federal Housing Finance Agency on December 23, 2008 , shall have no force or effect.
 - **(k)**

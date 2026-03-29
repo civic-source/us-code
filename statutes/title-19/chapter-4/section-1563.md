@@ -1,14 +1,14 @@
 ---
-title: "Section 1563 - Allowance for loss, abandonment of warehouse goods"
+title: "Section 1563 - Allowance for loss; abandonment of warehouse goods"
 usc_title: 19
 usc_section: "1563"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1563"
-generated_at: "2026-03-29T19:28:30.672Z"
+generated_at: "2026-03-29T19:41:21.566Z"
 ---
 
-# § 1563. Allowance for loss, abandonment of warehouse goods
+# § 1563. Allowance for loss; abandonment of warehouse goods
 
 - **(a)** In no case shall there be any abatement or allowance made in the duties for any injury, deterioration, loss, or damage sustained by any merchandise while remaining in customs custody, except that the Secretary of the Treasury is authorized, upon production of proof satisfactory to him of the loss or theft of any merchandise while in the appraiser’s stores, or of the actual injury or destruction, in whole or in part, of any merchandise by accidental fire or other casualty, while in bonded warehouse, or in the appraiser’s stores, or while in transportation under bond, or while in the custody of the officers of the customs, although not in bond, or while within the limits of any port of entry and before having been landed under the supervision of the officers of the customs, to abate or refund, as the case may be, the duties upon such merchandise, in whole or in part, and to pay any such refund out of any moneys in the Treasury not otherwise appropriated, and to cancel any warehouse bond or bonds, or enter satisfaction thereon in whole or in part, as the case may be, but no abatement or refund shall be made in respect of injury or destruction of any merchandise in bonded warehouse occurring after the expiration of three years from the date of importation. The decision of the Secretary of the Treasury as to the abatement or refund of the duties on any such merchandise shall be final and conclusive upon all persons. The Secretary of the Treasury is authorized to prescribe such regulations as he may deem necessary to carry out the provisions of this subdivision and he may by such regulations limit the time within which proof of loss, theft, injury, or destruction shall be submitted, and may provide for the abatement or refund of duties, as authorized herein, by appropriate customs officers in cases in which the amount of the abatement or refund claimed is less than $25 and in which the importer has agreed to abide by the decision of the customs officer. The decision of the customs officer in any such case shall be final and conclusive upon all persons.
 - **(b)** Under such regulations as the Secretary of the Treasury may prescribe and subject to any conditions imposed thereby the consignee may at any time within three years from the date of original importation, abandon to the Government any merchandise in bonded warehouse, whereupon any duties on such merchandise may be remitted or refunded as the case may be, but any merchandise so abandoned shall not be less than an entire package and shall be abandoned in the original package without having been repacked while in a bonded warehouse (other than a bonded manip­ulating warehouse).

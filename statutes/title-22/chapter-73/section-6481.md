@@ -3,9 +3,9 @@ title: "Section 6481 - Business codes of conduct"
 usc_title: 22
 usc_section: "6481"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6481"
-generated_at: "2026-03-29T19:29:46.924Z"
+generated_at: "2026-03-29T19:42:08.231Z"
 ---
 
 # § 6481. Business codes of conduct

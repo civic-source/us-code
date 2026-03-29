@@ -1,20 +1,12 @@
 ---
-title: "Section 2504 - Annual report to Congress"
+title: "Section 2504 - Renumbered § 4814]"
 usc_title: 10
 usc_section: "2504"
 chapter: 148
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2504"
-generated_at: "2026-03-29T19:27:25.616Z"
+generated_at: "2026-03-29T19:43:37.989Z"
 ---
 
-# § 2504. Annual report to Congress
+# [§ 2504. Renumbered § 4814]
 
-The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
-
-  - **(1)** A description of the departmental guidance prepared pursuant to section 2506 of this title .
-  - **(2)** A description of the assessments prepared pursuant to section 2505 of this title and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
-  - **(3)** Based on the strategy required by section 2501 of this title and on the assessments prepared pursuant to section 2505 of this title —
-    - **(A)** a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and
-    - **(B)** any other steps necessary to foster and safeguard the national technology and industrial base.
-  - **(4)** Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.

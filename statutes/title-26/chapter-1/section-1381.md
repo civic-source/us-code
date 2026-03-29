@@ -3,9 +3,9 @@ title: "Section 1381 - Organizations to which part applies"
 usc_title: 26
 usc_section: "1381"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1381"
-generated_at: "2026-03-29T19:30:19.999Z"
+generated_at: "2026-03-29T19:42:47.824Z"
 ---
 
 # § 1381. Organizations to which part applies
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T19:30:19.999Z"
       - **(i)** part II of subchapter H (relating to mutual savings banks, etc.), or
       - **(ii)** subchapter L (relating to insurance companies), or
     - **(C)** which is engaged in furnishing electric energy, or providing telephone service, to persons in rural areas.
-- **(b)** An organization described in subsection (a)(1) shall be subject to the taxes imposed by section 11 or 1201.
+- **(b)** An organization described in subsection (a)(1) shall be subject to the tax imposed by section 11.
 - **(c)** For treatment of income from load loss transactions of organizations described in subsection (a)(2)(C), see section 501(c)(12)(H).

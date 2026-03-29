@@ -3,9 +3,9 @@ title: "Section 2411 - Limitation upon exercise of special authorities"
 usc_title: 22
 usc_section: "2411"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2411"
-generated_at: "2026-03-29T19:29:46.780Z"
+generated_at: "2026-03-29T19:42:08.091Z"
 ---
 
 # § 2411. Limitation upon exercise of special authorities

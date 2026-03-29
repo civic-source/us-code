@@ -3,15 +3,14 @@ title: "Section 5731 - Reporting requirement"
 usc_title: 22
 usc_section: "5731"
 chapter: 66
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 5731"
-generated_at: "2026-03-29T19:29:46.896Z"
+generated_at: "2026-03-29T19:42:08.207Z"
 ---
 
 # § 5731. Reporting requirement
 
-Not later than March 31, 1993 , March 31, 1995 , March 31, 1996 , March 31, 1997 , March 31, 1998 , March 31, 1999 , March 31, 2000 , March 31, 2001 , March 31, 2002 , March 31, 2003 , March 31, 2004 , March 31, 2005 , and March 31, 2006 the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992 , or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
-
+- **(a)** Not later than March 31, 2019 , and annually thereafter through 2024, the Secretary of State shall submit to the appropriate congressional committees a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992 , or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
   - **(1)** significant developments in United States relations with Hong Kong, including a description of agreements that have entered into force between the United States and Hong Kong;
   - **(2)** other matters, including developments related to the change in the exercise of sovereignty over Hong Kong, affecting United States interests in Hong Kong or United States relations with Hong Kong;
   - **(3)** the nature and extent of United States-Hong Kong cultural, education, scientific, and academic exchanges, both official and unofficial;
@@ -20,3 +19,7 @@ Not later than March 31, 1993 , March 31, 1995 , March 31, 1996 , March 31, 1997
   - **(6)** significant problems in cooperation between Hong Kong and the United States in the area of export controls;
   - **(7)** the development of democratic institutions in Hong Kong; and
   - **(8)** the nature and extent of Hong Kong’s participation in multilateral forums.
+- **(b)** The report required by subsection (a) shall be submitted in unclassified form and shall be published on a publicly available website of the Department of State.
+- **(c)** In this section, the term “appropriate congressional committees” means—
+  - **(1)** the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
+  - **(2)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.

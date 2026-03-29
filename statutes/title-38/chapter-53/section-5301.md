@@ -3,9 +3,9 @@ title: "Section 5301 - Nonassignability and exempt status of benefits"
 usc_title: 38
 usc_section: "5301"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 5301"
-generated_at: "2026-03-29T19:30:40.551Z"
+generated_at: "2026-03-29T19:43:27.055Z"
 ---
 
 # § 5301. Nonassignability and exempt status of benefits

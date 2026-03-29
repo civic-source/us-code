@@ -3,9 +3,9 @@ title: "Section 1 - Independent agency status of Peace Corps"
 usc_title: 22
 usc_section: "1"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T19:29:46.790Z"
+generated_at: "2026-03-29T19:42:08.100Z"
 ---
 
 # § 2501–1. Independent agency status of Peace Corps

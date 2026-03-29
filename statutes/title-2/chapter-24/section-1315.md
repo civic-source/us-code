@@ -3,16 +3,16 @@ title: "Section 1315 - Rights and protections under Worker Adjustment and Retrai
 usc_title: 2
 usc_section: "1315"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1315"
-generated_at: "2026-03-29T19:27:07.551Z"
+generated_at: "2026-03-29T19:42:59.644Z"
 ---
 
 # § 1315. Rights and protections under Worker Adjustment and Retraining Notification Act
 
 - **(a)**
   - **(1)** No employing office shall be closed or a mass layoff ordered within the meaning of section 3 of the Worker Adjustment and Retraining Notification Act ( 29 U.S.C. 2102 ) until the end of a 60-day period after the employing office serves written notice of such prospective closing or layoff to representatives of covered employees or, if there are no representatives, to covered employees.
-  - **(2)** For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the Library of Congress and the term “employing office” shall include the Government Accountability Office and the Library of Congress.
+  - **(2)** For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the term “employing office” shall include the Government Accountability Office.
 - **(b)** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act ( 29 U.S.C. 2104(a)(1) , (2), and (4)).
 - **(c)**
   - **(1)** The Board shall, pursuant to section 1384 of this title , issue regulations to implement this section.

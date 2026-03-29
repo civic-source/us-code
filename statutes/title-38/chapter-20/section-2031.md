@@ -3,9 +3,9 @@ title: "Section 2031 - General treatment"
 usc_title: 38
 usc_section: "2031"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 2031"
-generated_at: "2026-03-29T19:30:40.496Z"
+generated_at: "2026-03-29T19:43:26.990Z"
 ---
 
 # § 2031. General treatment
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T19:30:40.496Z"
   - **(1)** outreach services;
   - **(2)** care, treatment, and rehabilitative services (directly or by contract in community-based treatment facilities, including halfway houses); and
   - **(3)** therapeutic transitional housing assistance under section 2032 of this title , in conjunction with work therapy under subsection (a) or (b) of section 1718 of this title and outpatient care.
-- **(b)** The authority of the Secretary under subsection (a) expires on September 30, 2017 .
+- **(b)** The authority of the Secretary under subsection (a) expires on September 30, 2022 .

@@ -3,18 +3,18 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-29T19:27:25.415Z"
+generated_at: "2026-03-29T19:43:37.761Z"
 ---
 
 # § 101. Definitions
 
 - **(a)** The following definitions apply in this title:
   - **(1)** The term “United States”, in a geographic sense, means the States and the District of Columbia.
-  - **[(2)** Repealed. Pub. L. 109–163, div. A, title X , § 1057(a)(1), Jan. 6, 2006 , 119 Stat. 3440 .]
+  - **[(2)** Repealed. Pub. L. 109–163, div. A, title X, § 1057(a)(1) , Jan. 6, 2006 , 119 Stat. 3440 .]
   - **(3)** The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
-  - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+  - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard.
   - **(5)** The term “uniformed services” means—
     - **(A)** the armed forces;
     - **(B)** the commissioned corps of the National Oceanic and Atmospheric Administration; and
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:27:25.415Z"
   - **(9)** The term “Secretary concerned” means—
     - **(A)** the Secretary of the Army, with respect to matters concerning the Army;
     - **(B)** the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Department of the Navy;
-    - **(C)** the Secretary of the Air Force, with respect to matters concerning the Air Force; and
+    - **(C)** the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
     - **(D)** the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
   - **(10)** The term “service acquisition executive” means the civilian official within a military department who is designated as the service acquisition executive for purposes of regulations and procedures providing for a service acquisition executive for that military department.
   - **(11)** The term “Defense Agency” means an organizational entity of the Department of Defense—
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:27:25.415Z"
     - **(B)** that is designated by the Secretary of Defense as a Department of Defense Field Activity.
   - **(13)** The term “contingency operation” means a military operation that—
     - **(A)** is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
-    - **(B)** results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, section 712 of title 14 , or any other provision of law during a war or during a national emergency declared by the President or Congress.
+    - **(B)** results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 3713 of title 14 , or any other provision of law during a war or during a national emergency declared by the President or Congress.
   - **(14)** The term “supplies” includes material, equipment, and stores of all kinds.
   - **(15)** The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
   - **(16)** The term “congressional defense committees” means—
@@ -47,6 +47,8 @@ generated_at: "2026-03-29T19:27:25.415Z"
     - **(B)** The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
     - **(C)** Title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note).
   - **(18)** The term “acquisition workforce” means the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of this title .
+  - **(19)** The term “climate resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from, extreme weather, or from anticipated or unanticipated changes in environmental conditions, that do (or have the potential to) adversely affect the national security of the United States or of allies and partners of the United States.
+  - **(20)** The term “extreme weather” means recurrent flooding, drought, desertification, wildfires, thawing permafrost, sea level fluctuation, changes in mean high tides, or any other weather-related event, or anticipated change in environmental conditions, that present (or are projected to present) a recurring annual threat to the climate security of the United States or of allies and partners of the United States.
 - **(b)** The following definitions relating to military personnel apply in this title:
   - **(1)** The term “officer” means a commissioned or warrant officer.
   - **(2)** The term “commissioned officer” includes a commissioned warrant officer.
@@ -60,7 +62,7 @@ generated_at: "2026-03-29T19:27:25.415Z"
   - **(10)** The term “original”, with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member’s most recent appointment in that component that is neither a promotion nor a demotion.
   - **(11)** The term “authorized strength” means the largest number of members authorized to be in an armed force, a component, a branch, a grade, or any other category of the armed forces.
   - **(12)** The term “regular”, with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office in a regular component of an armed force.
-  - **(13)** The term “active-duty list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 620 of this title ) which contains the names of all officers of that armed force, other than officers described in section 641 of this title , who are serving on active duty.
+  - **(13)** The term “active-duty list” means a single list for the Army, Navy, Air Force, Marine Corps, or Space Force (required to be maintained under section 620 of this title ) which contains the names of all officers of that armed force, other than officers described in section 641 of this title , who are serving on active duty.
   - **(14)** The term “medical officer” means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
   - **(15)** The term “dental officer” means an officer of the Dental Corps of the Army, an officer of the Dental Corps of the Navy, or an officer of the Air Force designated as a dental officer.
   - **(16)** The term “Active Guard and Reserve” means a member of a reserve component who is on active duty pursuant to section 12301(d) of this title or, if a member of the Army National Guard or Air National Guard, is on full-time National Guard duty pursuant to section 502(f) of title 32 , and who is performing Active Guard and Reserve duty.
@@ -93,7 +95,7 @@ generated_at: "2026-03-29T19:27:25.415Z"
       - **(ii)** Duty performed as a property and fiscal officer under section 708 of title 32 .
       - **(iii)** Duty performed for the purpose of interdiction and counter-drug activities for which funds have been provided under section 112 of title 32 .
       - **(iv)** Duty performed as a general or flag officer.
-      - **(v)** Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)). 1 1 See References in Text note below.
+      - **(v)** Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act ( 50 U.S.C. 3809(b)(2) ).
   - **(7)** The term “inactive-duty training” means—
     - **(A)** duty prescribed for Reserves by the Secretary concerned under section 206 of title 37 or any other provision of law; and
     - **(B)** special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
@@ -122,6 +124,9 @@ generated_at: "2026-03-29T19:27:25.415Z"
     - **(A)** have been primed, fused, armed, or otherwise prepared for action;
     - **(B)** have been fired, dropped, launched, projected, or placed in such a manner as to constitute a hazard to operations, installations, personnel, or material; and
     - **(C)** remain unexploded, whether by malfunction, design, or any other cause.
+  - **(6)** The term “energy resilience” means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
+  - **(7)** The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
+  - **(8)** The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 - **(f)** In this title—
   - **(1)** “shall” is used in an imperative sense;
   - **(2)** “may” is used in a permissive sense;

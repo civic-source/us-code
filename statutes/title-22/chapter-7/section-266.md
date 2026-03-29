@@ -3,9 +3,9 @@ title: "Section 266 - International commission of congresses of navigation; auth
 usc_title: 22
 usc_section: "266"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 266"
-generated_at: "2026-03-29T19:29:46.651Z"
+generated_at: "2026-03-29T19:42:07.944Z"
 ---
 
 # § 266. International commission of congresses of navigation; authorization of appropriation for expenses

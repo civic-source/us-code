@@ -3,15 +3,17 @@ title: "Section 1723 - Public Lands Corps program"
 usc_title: 16
 usc_section: "1723"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1723"
-generated_at: "2026-03-29T19:29:27.491Z"
+generated_at: "2026-03-29T19:41:13.736Z"
 ---
 
 # § 1723. Public Lands Corps program
 
-- **(a)** There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.
-- **(b)** The Corps shall consist of individuals between the ages of 16 and 25, inclusive, who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in section 12591(b) of title 42 . The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
+- **(a)**
+  - **(1)** There is established in the Department of the Interior, the Department of Agriculture, and the Department of Commerce a corps, to be known as the “Public Lands Corps”.
+  - **(2)** Nothing in this subsection precludes the establishment of a public lands corps by the head of a Federal department or agency other than a department described in paragraph (1), in accordance with this subchapter.
+- **(b)** The Corps shall consist of individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in paragraphs (1), (2), (4), and (5) of section 12591(a) of title 42 . The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 - **(c)**
   - **(1)** The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d).
   - **(2)**
@@ -28,3 +30,4 @@ generated_at: "2026-03-29T19:29:27.491Z"
   - **(4)** can be planned and initiated promptly; and
   - **(5)** will provide academic, experiential, or environmental education opportunities.
 - **(f)** Each appropriate conservation project carried out under this subchapter on eligible service lands shall be consistent with the provisions of law and policies relating to the management and administration of such lands, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of the area.
+- **(g)** Nothing in this section authorizes the use of the Public Lands Corps for projects on or impacting real property owned by, operated by, or within the custody, control, or administrative jurisdiction of the Administrator of General Services without the express permission of the Administrator of General Services.

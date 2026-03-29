@@ -3,9 +3,9 @@ title: "Section 282m - Authority to vote for capital increases necessary to supp
 usc_title: 22
 usc_section: "282m"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 282m"
-generated_at: "2026-03-29T19:29:46.663Z"
+generated_at: "2026-03-29T19:42:07.960Z"
 ---
 
 # § 282m. Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union

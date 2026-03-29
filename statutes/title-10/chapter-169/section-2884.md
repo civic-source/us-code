@@ -3,32 +3,32 @@ title: "Section 2884 - Reports"
 usc_title: 10
 usc_section: "2884"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2884"
-generated_at: "2026-03-29T19:27:25.650Z"
+generated_at: "2026-03-29T19:43:38.021Z"
 ---
 
 # § 2884. Reports
 
 - **(a)**
-  - **(1)** The Secretary of Defense shall transmit to the appropriate committees of Congress a report describing—
-    - **(A)** each contract for the acquisition or construction of family housing units or unaccompanied housing units that the Secretary proposes to solicit under this subchapter; and
+  - **(1)** The Secretary concerned shall transmit to the appropriate committees of Congress a report describing—
+    - **(A)** each contract or agreement for the acquisition or construction of family housing units or unaccompanied housing units under this subchapter; and
     - **(B)** each conveyance or lease proposed under section 2878 of this title .
-  - **(2)** For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph shall include the following:
-    - **(A)** A description of the contract, conveyance, or lease, including a summary of the terms of the contract, conveyance, or lease.
-    - **(B)** A description of the authorities to be utilized in entering into the contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease, including a justification of the intended method of participation.
-    - **(C)** A statement of the scored cost of the contract, conveyance, or lease, as determined by the Office of Management and Budget.
-    - **(D)** A statement of the United States funds required for the contract, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease.
-    - **(E)** An economic assessment of the life cycle costs of the contract, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37 , if the housing affected by the project were fully occupied by military personnel over the life of the contract, conveyance, or lease.
+  - **(2)** A report required by paragraph (1) shall include the following:
+    - **(A)** A description of the contract, agreement, conveyance, or lease, including a summary of the terms of the contract, agreement, conveyance, or lease.
+    - **(B)** A description of the authorities to be utilized in entering into the contract, agreement, conveyance, or lease and the intended method of participation of the United States in the contract, agreement, conveyance, or lease, including a justification of the intended method of participation.
+    - **(C)** A statement of the scored cost of the contract, agreement, conveyance, or lease, as determined by the Office of Management and Budget.
+    - **(D)** A statement of the United States funds required for the contract, agreement, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, agreement, conveyance, or lease.
+    - **(E)** An economic assessment of the life cycle costs of the contract, agreement, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, agreement, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37 , if the housing affected by the project were fully occupied by military personnel over the life of the contract, agreement, conveyance, or lease.
   - **(3)**
-    - **(A)** In the case of a contract described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
-      - **(i)** the closure or realignment of the installation for which housing will be provided under the contract;
+    - **(A)** In the case of a contract or agreement described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract or agreement will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
+      - **(i)** the closure or realignment of the installation for which housing will be provided under the contract or agreement;
       - **(ii)** a reduction in force of units stationed at such installation; or
       - **(iii)** the extended deployment of units stationed at such installation.
-    - **(B)** If the contract will or may include such a guarantee, the report shall also—
+    - **(B)** If the contract or agreement will or may include such a guarantee, the report shall also—
       - **(i)** describe the nature of the guarantee; and
       - **(ii)** assess the extent and likelihood, if any, of the liability of the United States with respect to the guarantee.
-  - **(4)** The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title .
+  - **(4)** The report shall be submitted in an electronic medium pursuant to section 480 of this title not later than 21 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
 - **(b)** The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to section 1105 of title 31 the following:
   - **(1)** A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title , including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
   - **(2)** A report setting forth, by armed force, the following:
@@ -45,3 +45,15 @@ generated_at: "2026-03-29T19:27:25.650Z"
   - **(4)** The details of any significant withdrawals from a recapitalization account, including the purpose and rationale of the withdrawal and, if the withdrawal occurs before the normal recapitalization period, the impact of the early withdrawal on the financial health of the project.
   - **(5)** An assessment of the extent to which the information required to comply with paragraphs (1) through (4) has been requested by the Secretaries, but has not been made available.
   - **(6)** An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
+  - **(7)** An assessment of the condition of housing units based on the average age of those units and the estimated time until recapitalization.
+  - **(8)** An assessment of tenant complaints.
+  - **(9)** An assessment of maintenance response times and completion of maintenance requests.
+  - **(10)** An assessment of the dispute resolution process under section 2894(c) of this title , which shall include a list of dispute resolution cases by installation and the final outcome of each case.
+  - **(11)** An assessment of overall customer service for tenants.
+  - **(12)** A description of the results of any no-notice housing inspections conducted.
+  - **(13)** The results of any resident surveys conducted.
+  - **(14)** With regard to issues of lead-based paint in housing units, a summary of data relating to the presence of lead-based paint in such housing units, including the following by military department:
+    - **(A)** The total number of housing units containing lead-based paint.
+    - **(B)** A description of the reasons for the failure to inspect any housing unit that contains lead-based paint.
+    - **(C)** A description of all abatement or mitigation efforts completed or underway in housing units containing lead-based paint.
+    - **(D)** A certification as to whether military housing under the jurisdiction of the Secretary concerned complies with requirements relating to lead-based paint, lead-based paint activities, and lead-based paint hazards, as described in section 408 of the Toxic Substances Control Act ( 15 U.S.C. 2688 ).

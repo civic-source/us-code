@@ -3,18 +3,18 @@ title: "Section 210 - Precedence of chapter"
 usc_title: 35
 usc_section: "210"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "35 U.S.C. § 210"
-generated_at: "2026-03-29T19:30:29.302Z"
+generated_at: "2026-03-29T19:42:53.993Z"
 ---
 
 # § 210. Precedence of chapter
 
 - **(a)** This chapter shall take precedence over any other Act which would require a disposition of rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
-  - **(1)** section 10(a) of the Act of June 29, 1935 , as added by title I of the Act of August 14, 1946 ( 7 U.S.C. 427i(a) ; 60 Stat. 1085 );
+  - **(1)** section 10(a) of the Act of June 29, 1935 , as added by title I of the Act of August 14, 1946 ( 7 U.S.C. 427i(a) ; 60 Stat. 1085 ); 1 1 See References in Text note below.
   - **(2)** section 205(a) of the Act of August 14, 1946 ( 7 U.S.C. 1624(a) ; 60 Stat. 1090 );
   - **(3)** section 501(c) of the Federal Mine Safety and Health Act of 1977 ( 30 U.S.C. 951(c) ; 83 Stat. 742 );
-  - **(4)** section 30168(e) 1 1 See References in Text note below. of title 49;
+  - **(4)** section 30168(e) 1 of title 49;
   - **(5)** section 12 of the National Science Foundation Act of 1950 ( 42 U.S.C. 1871(a) ; 1 82 Stat. 360 );
   - **(6)** section 152 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2182 ; 68 Stat. 943 );
   - **(7)** section 20135 of title 51 ;

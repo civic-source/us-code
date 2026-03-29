@@ -3,9 +3,9 @@ title: "Section 815 - Art. 15. Commanding officer’s non-judicial punishment"
 usc_title: 10
 usc_section: "815"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 815"
-generated_at: "2026-03-29T19:27:25.468Z"
+generated_at: "2026-03-29T19:43:37.843Z"
 ---
 
 # § 815. Art. 15. Commanding officer’s non-judicial punishment
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:27:25.468Z"
       - **(iii)** restriction to certain specified limits, with or without suspension from duty, for not more than 60 consecutive days;
       - **(iv)** detention of not more than one-half of one month’s pay per month for three months;
   - **(2)** upon other personnel of his command—
-    - **(A)** if imposed upon a person attached to or embarked in a vessel, confinement on bread and water or diminished rations for not more than three consecutive days;
+    - **(A)** if imposed upon a person attached to or embarked in a vessel, confinement for not more than three consecutive days;
     - **(B)** correctional custody for not more than seven consecutive days;
     - **(C)** forfeiture of not more than seven days’ pay;
     - **(D)** reduction to the next inferior pay grade, if the grade from which demoted is within the promotion authority of the officer imposing the reduction or any officer subordinate to the one who imposes the reduction;
@@ -38,8 +38,8 @@ generated_at: "2026-03-29T19:27:25.468Z"
 - **(c)** An officer in charge may impose upon enlisted members assigned to the unit of which he is in charge such of the punishments authorized under subsection (b)(2)(A)–(G) as the Secretary concerned may specifically prescribe by regulation.
 - **(d)** The officer who imposes the punishment authorized in subsection (b), or his successor in command, may, at any time, suspend probationally any part or amount of the unexecuted punishment imposed and may suspend probationally a reduction in grade or a forfeiture imposed under subsection (b), whether or not executed. In addition, he may, at any time, remit or mitigate any part or amount of the unexecuted punishment imposed and may set aside in whole or in part the punishment, whether executed or unexecuted, and restore all rights, privileges, and property affected. He may also mitigate reduction in grade to forfeiture or detention of pay. When mitigating—
   - **(1)** arrest in quarters to restriction;
-  - **(2)** confinement on bread and water or diminished rations to correctional custody;
-  - **(3)** correctional custody or confinement on bread and water or diminished rations to extra duties or restriction, or both; or
+  - **(2)** confinement to correctional custody;
+  - **(3)** correctional custody or confinement to extra duties or restriction, or both; or
   - **(4)** extra duties to restriction;
 - **(e)** A person punished under this article who considers his punishment unjust or disproportionate to the offense may, through the proper channel, appeal to the next superior authority. The appeal shall be promptly forwarded and decided, but the person punished may in the meantime be required to undergo the punishment adjudged. The superior authority may exercise the same powers with respect to the punishment imposed as may be exercised under subsection (d) by the officer who imposed the punishment. Before acting on an appeal from a punishment of—
   - **(1)** arrest in quarters for more than seven days;

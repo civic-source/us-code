@@ -3,19 +3,15 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-03-29T19:30:19.876Z"
+generated_at: "2026-03-29T19:42:47.702Z"
 ---
 
 # § 527. Political organizations
 
 - **(a)** A political organization shall be subject to taxation under this subtitle only to the extent provided in this section. A political organization shall be considered an organization exempt from income taxes for the purpose of any law which refers to organizations exempt from income taxes.
-- **(b)**
-  - **(1)** A tax is hereby imposed for each taxable year on the political organization taxable income of every political organization. Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b).
-  - **(2)** If for any taxable year any political organization has a net capital gain, then, in lieu of the tax imposed by paragraph (1), there is hereby imposed a tax (if such a tax is less than the tax imposed by paragraph (1)) which shall consist of the sum of—
-    - **(A)** a partial tax, computed as provided by paragraph (1), on the political organization taxable income determined by reducing such income by the amount of such gain, and
-    - **(B)** an amount determined as provided in section 1201(a) on such gain.
+- **(b)** A tax is hereby imposed for each taxable year on the political organization taxable income of every political organization. Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b).
 - **(c)**
   - **(1)** For purposes of this section, the political organization taxable income of any organization for any taxable year is an amount equal to the excess (if any) of—
     - **(A)** the gross income for the taxable year (excluding any exempt function income), over
@@ -67,7 +63,7 @@ generated_at: "2026-03-29T19:30:19.876Z"
   - **(2)** For purposes of this subsection, the term “net investment income” means the excess of—
     - **(A)** the gross amount of income from interest, dividends, rents, and royalties, plus the excess (if any) of gains from the sale or exchange of assets over the losses from the sale or exchange of assets, over
     - **(B)** the deductions allowed by this chapter which are directly connected with the production of the income referred to in subparagraph (A).
-  - **(3)** For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 ) or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2)) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
+  - **(3)** For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
 - **(g)**
   - **(1)** For purposes of this section, a fund established and maintained by an individual who holds, has been elected to, or is a candidate (within the meaning of paragraph (3)) for nomination or election to, any Federal, State, or local elective public office, for use by such individual exclusively for the preparation and circulation of such individual’s newsletter shall, except as provided in paragraph (2), be treated as if such fund constituted a political organization.
   - **(2)** In the case of any fund described in paragraph (1)—
@@ -83,7 +79,7 @@ generated_at: "2026-03-29T19:30:19.876Z"
       - **(i)** section 302(e) of the Federal Election Campaign Act of 1971 ( 52 U.S.C. 30102(e) ), and
       - **(ii)** this subsection.
     - **(B)** A candidate may have only 1 designation in effect under subparagraph (A)(ii) at any time and such designation—
-      - **(i)** shall be made at such time and in such manner as the Secretary may prescribed by regulations, and
+      - **(i)** shall be made at such time and in such manner as the Secretary may prescribe by regulations, and
       - **(ii)** once made, may be revoked only with the consent of the Secretary.
 - **(i)**
   - **(1)** Except as provided in paragraph (5), an organization shall not be treated as an organization described in this section—
@@ -131,7 +127,7 @@ generated_at: "2026-03-29T19:30:19.876Z"
     - **(B)** a convention or caucus of a political party which has authority to nominate a candidate for Federal office,
     - **(C)** a primary election held for the selection of delegates to a national nominating convention of a political party, or
     - **(D)** a primary election held for the expression of a preference for the nomination of individuals for election to the office of President.
-  - **(7)** Any report required under paragraph (2) with respect to any calendar year shall be filed in electronic form if the organization has, or has reason to expect to have, contributions exceeding $50,000 or expenditures exceeding $50,000 in such calendar year.
+  - **(7)** Any report required under paragraph (2) with respect to any calendar year shall be filed in electronic form.
 - **(k)**
   - **(1)** The Secretary shall make any notice described in subsection (i)(1) or report described in subsection (j)(7) available for public inspection on the Internet not later than 48 hours after such notice or report has been filed (in addition to such public availability as may be made under section 6104(d)(7)).
   - **(2)** The Secretary shall make the entire database of notices and reports which are made available to the public under paragraph (1) searchable by the following items (to the extent the items are required to be included in the notices and reports):

@@ -1,12 +1,12 @@
 ---
-title: "Section 1533 - Repealed. Pub. L. 111–358, title IV , § 407(c), Jan. 4, 2011 , 124 Stat. 4004"
+title: "Section 1533 - Repealed. Pub. L. 111–358, title IV, § 407(c) , Jan. 4, 2011 , 124 Stat. 4004"
 usc_title: 15
 usc_section: "1533"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1533"
-generated_at: "2026-03-29T19:27:55.430Z"
+generated_at: "2026-03-29T19:44:42.726Z"
 ---
 
-# § 1533. Repealed. Pub. L. 111–358, title IV , § 407(c), Jan. 4, 2011 , 124 Stat. 4004
+# § 1533. Repealed. Pub. L. 111–358, title IV, § 407(c) , Jan. 4, 2011 , 124 Stat. 4004
 

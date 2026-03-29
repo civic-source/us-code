@@ -3,9 +3,9 @@ title: "Section 2673 - International Civil Aviation Organization; availability o
 usc_title: 22
 usc_section: "2673"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2673"
-generated_at: "2026-03-29T19:29:46.801Z"
+generated_at: "2026-03-29T19:42:08.115Z"
 ---
 
 # § 2673. International Civil Aviation Organization; availability of funds for participation

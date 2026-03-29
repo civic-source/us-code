@@ -3,9 +3,9 @@ title: "Section 2436 - Market disruption"
 usc_title: 19
 usc_section: "2436"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2436"
-generated_at: "2026-03-29T19:28:30.736Z"
+generated_at: "2026-03-29T19:41:21.631Z"
 ---
 
 # § 2436. Market disruption
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:28:30.736Z"
     - **(B)** if such action consists of, or includes, an orderly marketing agreement, such agreement shall be entered into within 60 days after the import relief determination date.
 - **(c)** If, at any time, the President finds that there are reasonable grounds to believe, with respect to imports of an article which is the product of a Communist country, that market disruption exists with respect to an article produced by a domestic industry, he shall request the Commission to initiate an investigation under subsection (a). If the President further finds that emergency action is necessary, he may take action under sections 2252 and 2253 of this title referred to in subsection (b) as if an affirmative determination of the Commission had been made under subsection (a). Any action taken by the President under the preceding sentence shall cease to apply (1) if a negative determination is made by the Commission under subsection (a) with respect to imports of such article, on the day on which the Commission’s report of such determination is submitted to the President, or (2) if an affirmative determination is made by the Commission under subsection (a) with respect to imports of such article, on the day on which the action taken by the President pursuant to such determination becomes effective.
 - **(d)**
-  - **(1)** A petition may be filed with the President by an entity described in section 2251(a)(1) of this title requesting the President to initiate consultations provided for by the safeguard arrangements of any agreement entered into under section 2435 of this title with respect to imports of an article which is the product of the country which is the other party to such agreement.
+  - **(1)** A petition may be filed with the President by an entity described in section 2252(a) of this title requesting the President to initiate consultations provided for by the safeguard arrangements of any agreement entered into under section 2435 of this title with respect to imports of an article which is the product of the country which is the other party to such agreement.
   - **(2)** If the President determines that there are reasonable grounds to believe, with respect to imports of such article, that market disruption exists with respect to an article produced by a domestic industry, he shall initiate consultations with such country with respect to such imports.
 - **(e)** For purposes of this section—
   - **(1)** The term “Communist country” means any country dominated or controlled by communism.

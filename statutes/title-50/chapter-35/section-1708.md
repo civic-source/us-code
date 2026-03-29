@@ -3,9 +3,9 @@ title: "Section 1708 - Actions to address economic or industrial espionage in cy
 usc_title: 50
 usc_section: "1708"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 1708"
-generated_at: "2026-03-29T19:32:24.107Z"
+generated_at: "2026-03-29T19:44:52.760Z"
 ---
 
 # § 1708. Actions to address economic or industrial espionage in cyberspace
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T19:32:24.107Z"
   - **(7)** The term “proprietary information” means competitive bid preparations, negotiating strategies, executive emails, internal financial data, strategic business plans, technical designs, manufacturing processes, source code, data derived from research and development investments, and other commercially valuable information that a person has developed or obtained if—
     - **(A)** the person has taken reasonable measures to keep the information confidential; and
     - **(B)** the information is not generally known or readily ascertainable through proper means by the public.
-  - **(8)** The term “technology” has the meaning given that term in section 16 of the Export Administration Act of 1979 ( 50 U.S.C. 4618 ) (as in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
+  - **(8)** The term “technology” has the meaning given that term in section 16 1 1 See References in Text note below. of the Export Administration Act of 1979 ( 50 U.S.C. 4618 ) (as in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(9)** The term “trade secret” has the meaning given that term in section 1839 of title 18 .
   - **(10)** The term “United States person” means—
     - **(A)** an individual who is a citizen or resident of the United States;

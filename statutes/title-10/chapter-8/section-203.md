@@ -1,14 +1,12 @@
 ---
-title: "Section 203 - Director of Missile Defense Agency"
+title: "Section 203 - Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1) , Dec. 23, 2016 , 130 Stat. 2102 ]"
 usc_title: 10
 usc_section: "203"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 203"
-generated_at: "2026-03-29T19:27:25.434Z"
+generated_at: "2026-03-29T19:43:37.789Z"
 ---
 
-# § 203. Director of Missile Defense Agency
-
-If an officer of the armed forces on active duty is appointed to the position of Director of the Missile Defense Agency, the position shall be treated as having been designated by the President as a position of importance and responsibility for purposes of section 601 of this title and shall carry the grade of lieutenant general or general or, in the case of an officer of the Navy, vice admiral or admiral.
+# [§ 203. Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1) , Dec. 23, 2016 , 130 Stat. 2102 ]
 

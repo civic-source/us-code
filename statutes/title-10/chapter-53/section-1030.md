@@ -3,9 +3,9 @@ title: "Section 1030 - Bonus to encourage Department of Defense personnel to ref
 usc_title: 10
 usc_section: "1030"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1030"
-generated_at: "2026-03-29T19:27:25.491Z"
+generated_at: "2026-03-29T19:43:37.874Z"
 ---
 
 # § 1030. Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions
@@ -33,6 +33,6 @@ generated_at: "2026-03-29T19:27:25.491Z"
 - **(h)** In this section, the term “appropriate Secretary” means—
   - **(1)** the Secretary of the Army, with respect to matters concerning the Army;
   - **(2)** the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
-  - **(3)** the Secretary of the Air Force, with respect to matters concerning the Air Force; and
+  - **(3)** the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
   - **(4)** the Secretary of Defense, with respect to personnel of the Department of Defense.
 - **(i)** A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011 .

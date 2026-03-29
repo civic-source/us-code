@@ -5,7 +5,7 @@ usc_section: "71"
 chapter: 9
 current_through: "PL 117-81"
 classification: "21 U.S.C. § 71"
-generated_at: "2026-03-29T18:44:35.691Z"
+generated_at: "2026-03-29T19:41:41.654Z"
 ---
 
 # § 379j–71. Definitions

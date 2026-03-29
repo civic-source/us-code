@@ -3,9 +3,9 @@ title: "Section 1321 - Coverage"
 usc_title: 29
 usc_section: "1321"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1321"
-generated_at: "2026-03-29T19:30:07.609Z"
+generated_at: "2026-03-29T19:42:21.533Z"
 ---
 
 # § 1321. Coverage
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:30:07.609Z"
 - **(b)** This section does not apply to any plan—
   - **(1)** which is an individual account plan, as defined in paragraph (34) of section 1002 of this title , 1 1 So in original. The comma probably should be a semicolon.
   - **(2)** established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, or to which the Railroad Retirement Act of 1935 or 1937 [ 45 U.S.C. 231 et seq.] applies and which is financed by contributions required under that Act, or which is described in the last sentence of section 1002(32) of this title 2 2 So in original. A semicolon probably should appear.
-  - **(3)** which is a church plan as defined in section 414(e) of title 26 , unless that plan has made an election under section 410(d) of title 26 , and has notified the corporation in accordance with procedures prescribed by the corporation, that it wishes to have the provisions of this part apply to it, 1
+  - **(3)** which is a church plan as defined in section 414(e) of title 26 , unless that plan has made an election under section 410(d) of title 26 , and has notified the corporation in accordance with procedures prescribed by the corporation, that it wishes to have the provisions of this part 3 3 So in original. Subtitle B of title IV of Pub. L. 93–406 , classified to this subtitle, does not contain parts. apply to it, 1
   - **(4)**
     - **(A)** established and maintained by a society, order, or association described in section 501(c)(8) or (9) of title 26, if no part of the contributions to or under the plan is made by employers of participants in the plan, or
     - **(B)** of which a trust described in section 501(c)(18) of title 26 is a part;

@@ -3,32 +3,45 @@ title: "Section 2269 - Tribal partnership program"
 usc_title: 33
 usc_section: "2269"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2269"
-generated_at: "2026-03-29T19:30:28.836Z"
+generated_at: "2026-03-29T19:43:07.694Z"
 ---
 
 # § 2269. Tribal partnership program
 
 - **(a)** In this section, the term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
 - **(b)**
-  - **(1)** In cooperation with Indian tribes and the heads of other Federal agencies, the Secretary may carry out water-related planning activities and study and determine the feasibility of carrying out water resources development projects that—
+  - **(1)** In cooperation with Indian tribes and the heads of other Federal agencies, the Secretary may carry out water-related planning activities, or activities relating to the study, design, and construction of water resources development projects, that—
     - **(A)** will substantially benefit Indian tribes; and
     - **(B)** are located primarily within Indian country (as defined in section 1151 of title 18 , and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations) or in proximity to Alaska Native villages.
-  - **(2)** A study conducted under paragraph (1) may address—
+  - **(2)** An activity conducted under paragraph (1) may address—
     - **(A)** projects for flood damage reduction, environmental restoration and protection, and preservation of cultural and natural resources;
     - **(B)** watershed assessments and planning activities; and
     - **(C)** such other projects as the Secretary, in cooperation with Indian tribes and the heads of other Federal agencies, determines to be appropriate.
+  - **(3)**
+    - **(A)** On the request of an Indian tribe, the Secretary shall conduct a study on, and provide to the Indian tribe a report describing, the feasibility of a water resources development project described in paragraph (1).
+    - **(B)** A report under subparagraph (A) may, but shall not be required to, contain a recommendation on a specific water resources development project.
+  - **(4)**
+    - **(A)** The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $18,500,000.
+    - **(B)** If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $18,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
 - **(c)**
-  - **(1)** In recognition of the unique role of the Secretary of the Interior concerning trust responsibilities with Indian tribes and in recognition of mutual trust responsibilities, the Secretary shall consult with the Secretary of the Interior concerning studies conducted under subsection (b).
+  - **(1)** In recognition of the unique role of the Secretary of the Interior concerning trust responsibilities with Indian tribes and in recognition of mutual trust responsibilities, the Secretary shall consult with the Secretary of the Interior concerning an activity conducted under subsection (b).
   - **(2)** The Secretary shall—
     - **(A)** integrate civil works activities of the Department of the Army with activities of the Department of the Interior to avoid conflicts, duplications of effort, or unanticipated adverse effects on Indian tribes; and
-    - **(B)** consider the authorities and programs of the Department of the Interior and other Federal agencies in any recommendations concerning carrying out projects studied under subsection (b).
+    - **(B)** consider the authorities and programs of the Department of the Interior and other Federal agencies in any recommendations concerning an activity conducted under subsection (b).
 - **(d)**
   - **(1)**
-    - **(A)** Any cost-sharing agreement for a study under subsection (b) shall be subject to the ability of the non-Federal interest to pay.
+    - **(A)** Any cost-sharing agreement for an activity conducted under subsection (b) shall be subject to the ability of the non-Federal interest to pay.
     - **(B)**
       - **(i)** The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
       - **(ii)** Not later than 180 days after June 10, 2014 , the Secretary shall issue guidance on the procedures described in clause (i).
-  - **(2)** The Secretary may credit toward the non-Federal share of the costs of a study under subsection (b) the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest if the Secretary determines that the services, studies, supplies, and other in-kind contributions will facilitate completion of the study.
+  - **(2)** The Secretary may credit toward the non-Federal share of the costs of an activity conducted under subsection (b) the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest.
+  - **(3)** The Secretary shall not require an Indian tribe to waive the sovereign immunity of the Indian tribe as a condition to entering into a cost-sharing agreement under this subsection.
+  - **(4)**
+    - **(A)** The non-Federal share of costs for the study of a water resources development project described in subsection (b)(1) shall be 50 percent.
+    - **(B)** The non-Federal share of costs of design and construction of a project described in subparagraph (A) shall be assigned to the appropriate project purposes described in sections 2211 and 2213 of this title and shared in the same percentages as the purposes to which the costs are assigned.
+  - **(5)**
+    - **(A)** The non-Federal share of costs of a watershed and river basin assessment conducted under subsection (b) shall be 25 percent.
+    - **(B)** The non-Federal share of costs of other water-related planning activities described in subsection (b)(1) shall be 50 percent.
 - **(e)** The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.

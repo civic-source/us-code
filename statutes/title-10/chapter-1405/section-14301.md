@@ -3,9 +3,9 @@ title: "Section 14301 - Eligibility for consideration for promotion: general rul
 usc_title: 10
 usc_section: "14301"
 chapter: 1405
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 14301"
-generated_at: "2026-03-29T19:27:25.737Z"
+generated_at: "2026-03-29T19:43:38.159Z"
 ---
 
 # § 14301. Eligibility for consideration for promotion: general rules
@@ -20,6 +20,7 @@ generated_at: "2026-03-29T19:27:25.737Z"
   - **(3)** An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as the case may be, if that nomination is pending before the Senate.
   - **(4)** An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
   - **(5)** An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under section 14308(b)(4) of this title .
+  - **(6)** An officer excluded under subsection (j).
 - **(d)** The Secretary of the military department concerned may, by regulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
 - **(e)** A reserve officer of the Air Force who (1) is in the Air National Guard of the United States and holds the grade of lieutenant colonel, colonel, or brigadier general, or (2) is in the Air Force Reserve and holds the grade of colonel or brigadier general, is not eligible for consideration for promotion by a mandatory promotion board convened under section 14101(a) of this title .
 - **(f)** The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
@@ -35,3 +36,10 @@ generated_at: "2026-03-29T19:27:25.737Z"
   - **(1)** is pursuing a program of graduate level education in an educational delay status approved by the Secretary concerned; and
   - **(2)** is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
 - **(i)** A reserve officer of the Army or Air Force employed as a military technician (dual status) under section 10216 of this title who has been retained beyond the mandatory removal date for years of service pursuant to subsection (f) of such section or section 14702(a)(2) of this title is not eligible for consideration for promotion by a mandatory promotion board convened under section 14101(a) of this title .
+- **(j)**
+  - **(1)** The Secretary of a military department may provide that an officer under the jurisdiction of the Secretary may, upon the officer’s request and with the approval of the Secretary, be excluded from consideration by a selection board convened under section 14101(a) of this title to consider officers for promotion to the next higher grade.
+  - **(2)** The Secretary concerned may only approve a request under paragraph (1) if—
+    - **(A)** the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+    - **(B)** the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
+    - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+- **(k)** The Secretary of the military department concerned may provide that an officer who is in an active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section (relating to membership in a reserve component), shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the reserve active-status list.

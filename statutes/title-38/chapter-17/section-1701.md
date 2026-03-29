@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 38
 usc_section: "1701"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1701"
-generated_at: "2026-03-29T19:30:40.471Z"
+generated_at: "2026-03-29T19:43:26.954Z"
 ---
 
 # § 1701. Definitions
@@ -36,17 +36,20 @@ For the purposes of this chapter—
       - **(ii)** special clothing made necessary by the wearing of prosthetic appliances; and
       - **(iii)** such other supplies or services as the Secretary determines to be reasonable and necessary.
     - **(G)** Travel and incidental expenses pursuant to section 111 of this title .
+    - **(H)** Chiropractic services.
   - **(7)** The term “domiciliary care” includes necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title .
-  - **(8)** The term “rehabilitative services” means such professional, counseling, and guidance services and treatment programs as are necessary to restore, to the maximum extent possible, the physical, mental, and psychological functioning of an ill or disabled person.
+  - **(8)** The term “rehabilitative services” means such professional, counseling, chiropractic, and guidance services and treatment programs as are necessary to restore, to the maximum extent possible, the physical, mental, and psychological functioning of an ill or disabled person.
   - **(9)** The term “preventive health services” means—
     - **(A)** periodic medical and dental examinations;
     - **(B)** patient health education (including nutrition education);
     - **(C)** maintenance of drug use profiles, patient drug monitoring, and drug utilization education;
     - **(D)** mental health preventive services;
     - **(E)** substance abuse prevention measures;
-    - **(F)** immunizations against infectious disease;
-    - **(G)** prevention of musculoskeletal deformity or other gradually developing disabilities of a metabolic or degenerative nature;
-    - **(H)** genetic counseling concerning inheritance of genetically determined diseases;
-    - **(I)** routine vision testing and eye care services;
-    - **(J)** periodic reexamination of members of likely target populations (high-risk groups) for selected diseases and for functional decline of sensory organs, together with attendant appropriate remedial intervention; and
-    - **(K)** such other health-care services as the Secretary may determine to be necessary to provide effective and economical preventive health care.
+    - **(F)** chiropractic examinations and services;
+    - **(G)** immunizations against infectious diseases, including each immunization on the recommended adult immunization schedule at the time such immunization is indicated on that schedule;
+    - **(H)** prevention of musculoskeletal deformity or other gradually developing disabilities of a metabolic or degenerative nature;
+    - **(I)** genetic counseling concerning inheritance of genetically determined diseases;
+    - **(J)** routine vision testing and eye care services;
+    - **(K)** periodic reexamination of members of likely target populations (high-risk groups) for selected diseases and for functional decline of sensory organs, together with attendant appropriate remedial intervention; and
+    - **(L)** such other health-care services as the Secretary may determine to be necessary to provide effective and economical preventive health care.
+  - **(10)** The term “recommended adult immunization schedule” means the schedule established (and periodically reviewed and, as appropriate, revised) by the Advisory Committee on Immunization Practices established by the Secretary of Health and Human Services and delegated to the Centers for Disease Control and Prevention.

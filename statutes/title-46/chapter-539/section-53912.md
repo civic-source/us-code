@@ -1,14 +1,12 @@
 ---
-title: "Section 53912 - Expiration date"
+title: "Section 53912 - Repealed. Pub. L. 115–232, div. C, title XXXV, § 3504(a) , Aug. 13, 2018 , 132 Stat. 2308 ]"
 usc_title: 46
 usc_section: "53912"
 chapter: 539
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 53912"
-generated_at: "2026-03-29T19:32:17.378Z"
+generated_at: "2026-03-29T19:44:39.466Z"
 ---
 
-# § 53912. Expiration date
-
-The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter expires on December 31, 2020 .
+# [§ 53912. Repealed. Pub. L. 115–232, div. C, title XXXV, § 3504(a) , Aug. 13, 2018 , 132 Stat. 2308 ]
 

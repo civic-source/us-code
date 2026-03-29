@@ -3,9 +3,9 @@ title: "Section 8515 - Prohibition on procurement contracts with persons that ex
 usc_title: 22
 usc_section: "8515"
 chapter: 92
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8515"
-generated_at: "2026-03-29T19:29:46.986Z"
+generated_at: "2026-03-29T19:42:08.282Z"
 ---
 
 # § 8515. Prohibition on procurement contracts with persons that export sensitive technology to Iran

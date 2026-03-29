@@ -3,9 +3,9 @@ title: "Section 2431d - Reduction of debt owed to United States as result of con
 usc_title: 22
 usc_section: "2431d"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2431d"
-generated_at: "2026-03-29T19:29:46.784Z"
+generated_at: "2026-03-29T19:42:08.095Z"
 ---
 
 # § 2431d. Reduction of debt owed to United States as result of concessional loans under this chapter
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:29:46.784Z"
   - **(1)** The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) in the same manner as such terms and conditions apply to the reduction of debt under section 2430c(a)(1) of this title :
     - **(A)** The provisions relating to repayment of principal under section 2430d of this title .
     - **(B)** The provisions relating to interest on new obligations under section 2430e of this title .
-  - **(2)** In addition to the application of the provisions relating to repayment of principal under section 2430d of this title to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 2430e of this title .
+  - **(2)** In addition to the application of the provisions relating to repayment of principal under section 2430d of this title to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Conservation Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 2430e of this title .
 - **(d)** For the cost (as defined in section 661a(5) of title 2 ) for the reduction of any debt pursuant to this section or section 2431e of this title , there are authorized to be appropriated to the President the following:
   - **(1)** $50,000,000 for fiscal year 2002.
   - **(2)** $75,000,000 for fiscal year 2003.
@@ -36,4 +36,6 @@ generated_at: "2026-03-29T19:29:46.784Z"
   - **(4)** $20,000,000 for fiscal year 2005.
   - **(5)** $25,000,000 for fiscal year 2006.
   - **(6)** $30,000,000 for fiscal year 2007.
-- **(e)** Of the amounts made available to carry out this subchapter for a fiscal year, $200,000 is authorized to be made available to carry out audits and evaluations of programs under this subchapter, including personnel costs associated with such audits and evaluations.
+  - **(7)** $20,000,000 for fiscal year 2019.
+  - **(8)** $20,000,000 for fiscal year 2020.
+- **(e)** Of the amounts made available to carry out this subchapter for a fiscal year, $300,000 is authorized to be made available to carry out audits, evaluations, monitoring, and administration of programs under this subchapter, including personnel costs associated with such audits, evaluations, monitoring and administration.

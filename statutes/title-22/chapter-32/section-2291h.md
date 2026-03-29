@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-29T19:29:46.757Z"
+generated_at: "2026-03-29T19:42:08.065Z"
 ---
 
 # § 2291h. Reporting requirements
@@ -22,15 +22,15 @@ generated_at: "2026-03-29T19:29:46.757Z"
     - **(A)** major illicit drug producing countries or major drug-transit countries as determined under section 2291j(h) of this title ;
     - **(B)** major sources of precursor chemicals used in the production of illicit narcotics; or
     - **(C)** major money laundering countries.
-  - **(4)** In addition, for each country identified pursuant to paragraph (3), the following:
+  - **(4)** In addition, for each country identified pursuant to paragraph (3), 1 1 See References in Text note below. the following:
     - **(A)** A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
     - **(B)** Whether as a matter of government policy or practice, such country encourages or facilitates the illicit production or distribution of narcotic or psychotropic drugs or other controlled substances or the laundering of proceeds from illegal drug transactions; and whether any senior official of the government of such country engages in, encourages, or facilitates the illicit production or distribution of such drugs or substances, or the laundering of proceeds from illegal drug transactions.
-  - **(5)** In addition, for each country identified pursuant to paragraph (3)(A) or (3)(B), a detailed status report, with such information as can be reliably obtained, on the narcotic or psychotropic drugs or other controlled substances which are being cultivated, produced, or processed in or transported through such country, noting significant changes in conditions, such as increases or decreases in the illicit cultivation and manufacture of and traffic in such drugs and substances.
-  - **(6)** In addition, for those countries identified pursuant to paragraph (3)(C)—
+  - **(5)** In addition, for each country identified pursuant to paragraph (3)(A) or (3)(B), 1 a detailed status report, with such information as can be reliably obtained, on the narcotic or psychotropic drugs or other controlled substances which are being cultivated, produced, or processed in or transported through such country, noting significant changes in conditions, such as increases or decreases in the illicit cultivation and manufacture of and traffic in such drugs and substances.
+  - **(6)** In addition, for those countries identified pursuant to paragraph (3)(C)— 1
     - **(A)** which countries are parties to international agreements on a method for maintaining records of transactions of an established list of precursor and essential chemicals;
     - **(B)** which countries have established a procedure by which such records may be made available to United States law enforcement authorities; and
     - **(C)** which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establish a system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
-  - **(7)** In addition, for those countries identified pursuant to paragraph (3)(D) the following:
+  - **(7)** In addition, for those countries identified pursuant to paragraph (3)(D) 1 the following:
     - **(A)**
       - **(i)** Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
       - **(ii)** which countries identified pursuant to clause (i) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
@@ -57,6 +57,18 @@ generated_at: "2026-03-29T19:29:46.757Z"
     - **(B)** The identification of countries that imported the largest amount of chemicals under subparagraph (A)(ii) shall be based on the following:
       - **(i)** An economic analysis that estimates the legitimate demand for such chemicals in such countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
       - **(ii)** The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
+  - **(9)**
+    - **(A)** An assessment conducted by the Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, of the extent to which any diplomatic efforts described in section 7217(a) of the Fentanyl Sanctions Act have been successful.
+    - **(B)** Each assessment required by subparagraph (A) shall include an identification of—
+      - **(i)** the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and
+      - **(ii)** the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
+  - **(10)** 2 2 So in original. Two pars. (10) have been enacted. A separate section that contains an identification of all United States Government-supported units funded by the Bureau of International Narcotics and Law Enforcement Affairs and any Bureau-funded operations by such units in which United States law enforcement personnel have been physically present.
+  - **(10)** 2 A separate section that contains the following:
+    - **(A)** An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl and fentanyl analogues significantly affecting the United States during the preceding calendar year.
+    - **(B)** A description of the extent to which each country identified pursuant to subparagraph (A) has cooperated with the United States to prevent the articles or chemicals described in subparagraph (A) from being exported from such country to the United States.
+    - **(C)** A description of whether each country identified pursuant to subparagraph (A) has adopted and utilizes scheduling or other procedures for illicit drugs that are similar in effect to the procedures authorized under title II 1 of the Controlled Substances Act ( 21 U.S.C. 811 et seq.) for adding drugs and other substances to the controlled substances schedules;
+    - **(D)** A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act ( 21 U.S.C. 802(32) ) 3 3 So in original. Probably should be followed by a closing parenthesis. ; and
+    - **(E)** A description of whether each country identified pursuant to subparagraph (A) requires the registration of tableting machines and encapsulating machines or other measures similar in effect to the registration requirements set forth in part 1310 of title 21, Code of Federal Regulations, and has not made good faith efforts, in the opinion of the Secretary, to improve regulation of tableting machines and encapsulating machines.
 - **(b)**
   - **(1)** At the time that the report required by subsection (a) is submitted each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance provided or proposed to be provided by the United States Government during the preceding fiscal year, the current fiscal year, and the next fiscal year to support international efforts to combat illicit narcotics production or trafficking.
   - **(2)** Each report pursuant to this subsection shall—

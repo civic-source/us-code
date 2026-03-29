@@ -3,14 +3,14 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-29T19:29:50.470Z"
+generated_at: "2026-03-29T19:41:41.698Z"
 ---
 
 # § 812. Schedules of controlled substances
 
-- **(a)** There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970 , and shall be updated and republished on an annual basis thereafter.
+- **(a)** There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970 , and shall be updated and republished on an annual basis thereafter. 1 1 See Amendment of Schedules of Controlled Substances note below.
 - **(b)** Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970 , and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
   - **(1)**
     - **(A)** The drug or other substance has a high potential for abuse.
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:29:50.470Z"
     - **(A)** The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV.
     - **(B)** The drug or other substance has a currently accepted medical use in treatment in the United States.
     - **(C)** Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
-- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title , 1 1 See Amendment of Schedules of Controlled Substances note below. consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
+- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title , consist of the following drugs or other substances, 1 by whatever official name, common or usual name, chemical name, or brand name designated:
 - **(a)** Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
   - **(1)** Acetylmethadol.
   - **(2)** Allylprodine.
@@ -116,7 +116,7 @@ generated_at: "2026-03-29T19:29:50.470Z"
   - **(14)** N-methyl-3-piperidyl benzilate.
   - **(15)** Psilocybin.
   - **(16)** Psilocyn.
-  - **(17)** Tetrahydrocannabinols.
+  - **(17)** Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined under section 1639 o of title 7).
   - **(18)** 4-methylmethcathinone (Mephedrone).
   - **(19)** 3,4-methylenedioxypyrovalerone (MDPV).
   - **(20)** 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C–E).
@@ -188,7 +188,7 @@ generated_at: "2026-03-29T19:29:50.470Z"
   - **(4)** Methylphenidate.
 - **(b)** Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system:
   - **(1)** Any substance which contains any quantity of a derivative of barbituric acid, or any salt of a derivative of barbituric acid.
-  - **(2)** Chorhexadol.
+  - **(2)** Chorhexadol. 4 4 So in original. Probably should be “Chlorhexadol.”
   - **(3)** Glutethimide.
   - **(4)** Lysergic acid.
   - **(5)** Lysergic acid amide.

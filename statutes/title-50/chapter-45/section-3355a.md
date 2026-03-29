@@ -3,16 +3,16 @@ title: "Section 3355a - Public Interest Declassification Board"
 usc_title: 50
 usc_section: "3355a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3355a"
-generated_at: "2026-03-29T02:16:14.794Z"
+generated_at: "2026-03-29T19:44:52.863Z"
 ---
 
 # § 3355a. Public Interest Declassification Board
 
 - **(a)**
   - **(1)** There is established within the executive branch of the United States a board to be known as the “Public Interest Declassification Board” (in this subchapter referred to as the “Board”).
-  - **(2)** The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 13526, or any successor order.
+  - **(2)** The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 12958 1 1 See References in Text note below. , or any successor order.
 - **(b)** The purposes of the Board are as follows:
   - **(1)** To advise the President, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, and such other executive branch officials as the Board considers appropriate on the systematic, thorough, coordinated, and comprehensive identification, collection, review for declassification, and release to Congress, interested agencies, and the public of declassified records and materials (including donated historical materials) that are of archival value, including records and materials of extraordinary public interest.
   - **(2)** To promote the fullest possible public access to a thorough, accurate, and reliable documentary record of significant United States national security decisions and significant United States national security activities in order to—
@@ -40,10 +40,6 @@ generated_at: "2026-03-29T02:16:14.794Z"
     - **(D)** Any subsequent appointment to the Board shall be for a term of 3 years from the date of the appointment.
   - **(3)** A vacancy in the Board shall be filled in the same manner as the original appointment.
   - **(4)** A member of the Board may be appointed to a new term on the Board upon the expiration of the member’s term on the Board, except that no member may serve more than three full terms on the Board.
-  - **(5)** A member of the Board whose term has expired may continue to serve until the earlier of—
-    - **(A)** the date that a successor is appointed and sworn in; and
-    - **(B)** the date that is 1 year after the date of the expiration of the term.
-  - **(6)** Not later than 30 days after the date on which the term of a member of the Board ends, the appointing authority of the member shall submit to Congress a plan to appoint a successor.
 - **(d)**
   - **(1)**
     - **(A)** The President shall designate one of the members of the Board as the Chairperson of the Board.
@@ -51,9 +47,7 @@ generated_at: "2026-03-29T02:16:14.794Z"
     - **(C)** A member serving as Chairperson of the Board may be redesignated as Chairperson of the Board upon the expiration of the member’s term as Chairperson of the Board, except that no member shall serve as Chairperson of the Board for more than 6 years.
   - **(2)** The Director of the Information Security Oversight Office shall serve as the Executive Secretary of the Board.
 - **(e)** The Board shall meet as needed to accomplish its mission, consistent with the availability of funds, but shall meet in person not less frequently than on a quarterly basis. A majority of the members of the Board shall constitute a quorum.
-- **(f)**
-  - **(1)** Any employee of the Federal Government may be detailed to the Board, with the agreement of and without reimbursement to the detailing agency, and such detail shall be without interruption or loss of civil, military, or foreign service status or privilege.
-  - **(2)** In addition to any employees detailed to the Board under paragraph (1), the Board may, subject to the availability of funds, hire not more than 12 staff members.
+- **(f)** Any employee of the Federal Government may be detailed to the Board, with the agreement of and without reimbursement to the detailing agency, and such detail shall be without interruption or loss of civil, military, or foreign service status or privilege.
 - **(g)**
   - **(1)** The members and staff of the Board shall, as a condition of appointment to or employment with the Board, hold appropriate security clearances for access to the classified records and materials to be reviewed by the Board or its staff, and shall follow the guidance and practices on security under applicable Executive orders and Presidential or agency directives.
   - **(2)** The head of an agency shall, as a condition of granting access to a member of the Board, the Executive Secretary of the Board, or a member of the staff of the Board to classified records or materials of the agency under this subchapter, require the member, the Executive Secretary, or the member of the staff, as the case may be, to—
@@ -71,4 +65,4 @@ generated_at: "2026-03-29T02:16:14.794Z"
 - **(k)**
   - **(1)** The Board shall make available for public inspection records of its proceedings and reports prepared in the course of its activities under this subchapter to the extent such records and reports are not classified and would not be exempt from release under the provisions of section 552 of title 5 .
   - **(2)** In making records and reports available under paragraph (1), the Board shall coordinate the release of such records and reports with appropriate officials from agencies with expertise in classified information in order to ensure that such records and reports do not inadvertently contain classified information.
-- **(l)** The provisions of chapter 10 of title 5 shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.
+- **(l)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.

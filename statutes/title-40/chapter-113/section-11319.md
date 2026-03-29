@@ -3,9 +3,9 @@ title: "Section 11319 - Resources, planning, and portfolio management"
 usc_title: 40
 usc_section: "11319"
 chapter: 113
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 11319"
-generated_at: "2026-03-29T19:30:36.704Z"
+generated_at: "2026-03-29T19:43:21.272Z"
 ---
 
 # § 11319. Resources, planning, and portfolio management
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:30:36.704Z"
   - **(1)** under the National Intelligence Program, defined by section 3(6) of the National Security Act of 1947 ( 50 U.S.C. 3003(6) );
   - **(2)** under the Military Intelligence Program or any successor program or programs; or
   - **(3)** jointly under the National Intelligence Program and the Military Intelligence Program (or any successor program or programs).
-- **(c)**
+- **(d)**
   - **(1)** The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall implement a process to assist covered agencies in reviewing their portfolio of information technology investments—
     - **(A)** to identify or develop ways to increase the efficiency and effectiveness of the information technology investments of the covered agency;
     - **(B)** to identify or develop opportunities to consolidate the acquisition and management of information technology services, and increase the use of shared-service delivery models;
@@ -46,11 +46,10 @@ generated_at: "2026-03-29T19:30:36.704Z"
     - **(H)** to carry out any other goals that the Director may establish.
   - **(2)** The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicators for use by agencies for the process implemented under paragraph (1).
   - **(3)** The Chief Information Officer of each covered agency, in conjunction with the Chief Operating Officer or Deputy Secretary (or equivalent) of the covered agency and the Administrator of the Office of Electronic Government, shall conduct an annual review of the information technology portfolio of the covered agency.
-  - **(4)** In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title . The annual review required by paragraph (3) shall be carried out by the Deputy Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
+  - **(4)** In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by section 11103(a) of this title . The annual review required by paragraph (3) shall be carried out by the Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition and Sustainment, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
   - **(5)**
     - **(A)** The Administrator of the Office of Electronic Government shall submit a quarterly report on the cost savings and reductions in duplicative information technology investments identified through the review required by paragraph (3) to—
       - **(i)** the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate;
       - **(ii)** the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives; and
       - **(iii)** upon a request by any committee of Congress, to that committee.
     - **(B)** The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
-  - **(6)** This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.

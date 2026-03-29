@@ -3,9 +3,9 @@ title: "Section 8501 - State regulation of pilots"
 usc_title: 46
 usc_section: "8501"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 8501"
-generated_at: "2026-03-29T19:32:17.334Z"
+generated_at: "2026-03-29T19:44:39.408Z"
 ---
 
 # § 8501. State regulation of pilots

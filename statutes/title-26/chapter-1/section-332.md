@@ -3,9 +3,9 @@ title: "Section 332 - Complete liquidations of subsidiaries"
 usc_title: 26
 usc_section: "332"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 332"
-generated_at: "2026-03-29T19:30:19.775Z"
+generated_at: "2026-03-29T19:42:47.617Z"
 ---
 
 # § 332. Complete liquidations of subsidiaries
@@ -26,6 +26,6 @@ generated_at: "2026-03-29T19:30:19.775Z"
       - **(ii)** stock of which is directly owned by the distributee foreign corporation,
       - **(iii)** substantially all of the assets of which consist of stock in other members of such affiliated group, and
       - **(iv)** which has not been in existence at all times during the 5 years immediately preceding the date of the liquidation.
-    - **(B)** For purposes of this subsection, the term “affiliated group” has the meaning given such term by section 1504(a) (without regard to paragraphs (2) and (4) of section 1504(b)).
+    - **(B)** For purposes of this subsection, the term “affiliated group” has the meaning given such term by section 1504(a) (without regard to paragraph (2) of section 1504(b)).
   - **(3)** If the distributee of a distribution described in paragraph (1) is a controlled foreign corporation (as defined in section 957), then notwithstanding paragraph (1) or subsection (a), such distribution shall be treated as a distribution to which section 331 applies.
   - **(4)** The Secretary shall provide such regulations as appropriate to prevent the abuse of this subsection, including regulations which provide, for the purposes of clause (iv) of paragraph (2)(A), that a corporation is not in existence for any period unless it is engaged in the active conduct of a trade or business or owns a significant ownership interest in another corporation so engaged.

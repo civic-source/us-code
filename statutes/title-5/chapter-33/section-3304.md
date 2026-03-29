@@ -3,9 +3,9 @@ title: "Section 3304 - Competitive service; examinations"
 usc_title: 5
 usc_section: "3304"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 3304"
-generated_at: "2026-03-29T19:27:05.251Z"
+generated_at: "2026-03-29T19:43:20.329Z"
 ---
 
 # § 3304. Competitive service; examinations
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:05.251Z"
   - **(2)** noncompetitive examinations when competent applicants do not compete after notice has been given of the existence of the vacancy; and
   - **(3)** authority for agencies to appoint, without regard to the provision of sections 3309 through 3318, candidates directly to positions for which—
     - **(A)** public notice has been given; and
-    - **(B)** the Office of Personnel Management has determined that there exists a severe shortage of candidates or that there is a critical hiring need.
+    - **(B)** the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
 - **(b)** An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title . This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
 - **(c)**
   - **(1)** For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title .

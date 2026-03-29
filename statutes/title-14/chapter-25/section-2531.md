@@ -3,9 +3,9 @@ title: "Section 2531 - Personnel of former Lighthouse Service"
 usc_title: 14
 usc_section: "2531"
 chapter: 25
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 2531"
-generated_at: "2026-03-29T18:48:09.834Z"
+generated_at: "2026-03-29T19:45:04.316Z"
 ---
 
 # § 2531. Personnel of former Lighthouse Service

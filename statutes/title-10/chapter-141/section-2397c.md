@@ -1,12 +1,12 @@
 ---
-title: "Section 2397c - Repealed. Pub. L. 104–106, div. D, title XLIII , § 4304(b)(1), Feb. 10, 1996 , 110 Stat. 664 ]"
+title: "Section 2397c - Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(b)(1) , Feb. 10, 1996 , 110 Stat. 664 ]"
 usc_title: 10
 usc_section: "2397c"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2397c"
-generated_at: "2026-03-29T19:27:25.601Z"
+generated_at: "2026-03-29T19:43:37.980Z"
 ---
 
-# [§§ 2397 to 2397c. Repealed. Pub. L. 104–106, div. D, title XLIII , § 4304(b)(1), Feb. 10, 1996 , 110 Stat. 664 ]
+# [§§ 2397 to 2397c. Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(b)(1) , Feb. 10, 1996 , 110 Stat. 664 ]
 

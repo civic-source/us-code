@@ -3,9 +3,9 @@ title: "Section 1316 - Rights and protections relating to veterans’ employment
 usc_title: 2
 usc_section: "1316"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1316"
-generated_at: "2026-03-29T19:27:07.551Z"
+generated_at: "2026-03-29T19:42:59.646Z"
 ---
 
 # § 1316. Rights and protections relating to veterans’ employment and reemployment
@@ -17,8 +17,8 @@ generated_at: "2026-03-29T19:27:07.551Z"
     - **(C)** deny to an eligible employee benefits within the meaning of sections 4316, 4317, and 4318 of title 38.
   - **(2)** For purposes of this section—
     - **(A)** the term “eligible employee” means a covered employee performing service in the uniformed services, within the meaning of section 4303(13) of title 38 , whose service has not been terminated upon occurrence of any of the events enumerated in section 4304 of title 38 ,
-    - **(B)** the term “covered employee” includes employees of the Government Accountability Office and the Library of Congress, and
-    - **(C)** the term “employing office” includes the Government Accountability Office and the Library of Congress.
+    - **(B)** the term “covered employee” includes employees of the Government Accountability Office, and
+    - **(C)** the term “employing office” includes the Government Accountability Office.
 - **(b)** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 4323(d) of title 38 .
 - **(c)**
   - **(1)** The Board shall, pursuant to section 1384 of this title , issue regulations to implement this section.

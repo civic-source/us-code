@@ -3,15 +3,15 @@ title: "Section 44905 - Information about threats to civil aviation"
 usc_title: 49
 usc_section: "44905"
 chapter: 449
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44905"
-generated_at: "2026-03-29T19:32:28.885Z"
+generated_at: "2026-03-29T19:44:58.009Z"
 ---
 
 # § 44905. Information about threats to civil aviation
 
-- **(a)** Under guidelines the Secretary of Transportation prescribes, an air carrier, airport operator, ticket agent, or individual employed by an air carrier, airport operator, or ticket agent, receiving information (except a communication directed by the United States Government) about a threat to civil aviation shall provide the information promptly to the Secretary.
-- **(b)** If a decision is made that a particular threat cannot be addressed in a way adequate to ensure, to the extent feasible, the safety of passengers and crew of a particular flight or series of flights, the Under Secretary of Transportation for Security shall cancel the flight or series of flights.
+- **(a)** Under guidelines the Administrator of the Transportation Security Administration prescribes, an air carrier, airport operator, ticket agent, or individual employed by an air carrier, airport operator, or ticket agent, receiving information (except a communication directed by the United States Government) about a threat to civil aviation shall provide the information promptly to the Administrator.
+- **(b)** If a decision is made that a particular threat cannot be addressed in a way adequate to ensure, to the extent feasible, the safety of passengers and crew of a particular flight or series of flights, the Administrator of the Transportation Security Administration shall cancel the flight or series of flights.
 - **(c)**
   - **(1)** The President shall develop guidelines for ensuring that public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
     - **(A)** deciding, on a case-by-case basis, if public notice of a threat is in the best interest of the United States and the traveling public;
@@ -22,10 +22,10 @@ generated_at: "2026-03-29T19:32:28.885Z"
     - **(B)** the credibility of intelligence information related to the threat;
     - **(C)** the ability to counter the threat effectively;
     - **(D)** the protection of intelligence information sources and methods;
-    - **(E)** cancellation, by an air carrier or the Under Secretary, of a flight or series of flights instead of public notice;
+    - **(E)** cancellation, by an air carrier or the Administrator of the Transportation Security Administration, of a flight or series of flights instead of public notice;
     - **(F)** the ability of passengers and crew to take steps to reduce the risk to their safety after receiving public notice of a threat; and
-    - **(G)** other factors the Under Secretary considers appropriate.
-- **(d)** The Under Secretary shall develop guidelines for ensuring that notice in appropriate cases of threats to the security of an air carrier flight is provided to the flight crew and cabin crew of that flight.
+    - **(G)** other factors the Administrator of the Transportation Security Administration considers appropriate.
+- **(d)** The Administrator of the Transportation Security Administration shall develop guidelines for ensuring that notice in appropriate cases of threats to the security of an air carrier flight is provided to the flight crew and cabin crew of that flight.
 - **(e)** Notice of a threat to civil aviation may be provided to selective potential travelers only if the threat applies only to those travelers.
-- **(f)** In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Under Secretary shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
+- **(f)** In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Administrator of the Transportation Security Administration shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
 - **(g)** The guidelines developed under this section shall be distributed for use by appropriate officials of the Department of Transportation, the Department of State, the Department of Justice, and air carriers.

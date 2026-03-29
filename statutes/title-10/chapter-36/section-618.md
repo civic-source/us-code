@@ -3,9 +3,9 @@ title: "Section 618 - Action on reports of selection boards"
 usc_title: 10
 usc_section: "618"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 618"
-generated_at: "2026-03-29T19:27:25.453Z"
+generated_at: "2026-03-29T19:43:37.826Z"
 ---
 
 # § 618. Action on reports of selection boards
@@ -38,5 +38,5 @@ generated_at: "2026-03-29T19:27:25.453Z"
   - **(2)** A list of names of officers disseminated under paragraph (1) may not include—
     - **(A)** any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
     - **(B)** the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
-- **[(f)** Repealed. Pub. L. 109–364, div. A, title V , § 547(a)(2), Oct. 17, 2006 , 120 Stat. 2216 .]
+- **[(f)** Repealed. Pub. L. 109–364, div. A, title V, § 547(a)(2) , Oct. 17, 2006 , 120 Stat. 2216 .]
 - **(g)** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.

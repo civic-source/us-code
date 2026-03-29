@@ -3,9 +3,9 @@ title: "Section 1715r - Requirement of builder’s cost certification; definitio
 usc_title: 12
 usc_section: "1715r"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1715r"
-generated_at: "2026-03-29T19:28:17.591Z"
+generated_at: "2026-03-29T19:44:54.044Z"
 ---
 
 # § 1715r. Requirement of builder’s cost certification; definitions

@@ -3,9 +3,9 @@ title: "Section 878b - Safety and health regulations for scientific and occupati
 usc_title: 33
 usc_section: "878b"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 878b"
-generated_at: "2026-03-29T19:30:28.747Z"
+generated_at: "2026-03-29T19:43:07.599Z"
 ---
 
 # § 878b. Safety and health regulations for scientific and occupational diving

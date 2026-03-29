@@ -3,14 +3,14 @@ title: "Section 3032 - Chief Information Officer"
 usc_title: 50
 usc_section: "3032"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3032"
-generated_at: "2026-03-29T19:32:24.222Z"
+generated_at: "2026-03-29T19:44:52.831Z"
 ---
 
 # § 3032. Chief Information Officer
 
-- **(a)** To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer of the Intelligence Community who shall be appointed by the President.
+- **(a)** To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer of the Intelligence Community who shall be appointed by the Director. The Chief Information Officer shall report directly to the Director of National Intelligence.
 - **(b)** Subject to the direction of the Director of National Intelligence, the Chief Information Officer of the Intelligence Community shall—
   - **(1)** manage activities relating to the information technology infrastructure and enterprise architecture requirements of the intelligence community;
   - **(2)** have procurement approval authority over all information technology items related to the enterprise architectures of all intelligence community components;

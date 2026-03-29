@@ -3,12 +3,12 @@ title: "Section 3401 - Statement of purpose"
 usc_title: 25
 usc_section: "3401"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 3401"
-generated_at: "2026-03-29T19:29:34.862Z"
+generated_at: "2026-03-29T19:41:28.453Z"
 ---
 
 # § 3401. Statement of purpose
 
-The purposes of this chapter are to demonstrate how Indian tribal governments can integrate the employment, training and related services they provide in order to improve the effectiveness of those services, reduce joblessness in Indian communities and serve tribally-determined goals consistent with the policy of self-determination.
+The purpose of this chapter is to facilitate the ability of Indian tribes and tribal organizations to integrate the employment, training and related services they provide from diverse Federal sources in order to improve the effectiveness of those services, reduce joblessness in Indian communities, and serve tribally determined goals consistent with the policy of self-determination, while reducing administrative, reporting, and accounting costs.
 

@@ -1,20 +1,12 @@
 ---
-title: "Section 2410i - Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel"
+title: "Section 2410i - Renumbered § 4659]"
 usc_title: 10
 usc_section: "2410i"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2410i"
-generated_at: "2026-03-29T19:27:25.603Z"
+generated_at: "2026-03-29T19:43:37.980Z"
 ---
 
-# § 2410i. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
+# [§ 2410i. Renumbered § 4659]
 
-- **(a)** Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), 1 1 See References in Text note below. it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
-- **(b)**
-  - **(1)** Consistent with the policy referred to in subsection (a), the Department of Defense may not award a contract for an amount in excess of the simplified acquisition threshold (as defined in section 134 of title 41 ) to a foreign entity unless that entity certifies to the Secretary of Defense that it does not comply with the secondary Arab boycott of Israel.
-  - **(2)** In paragraph (1), the term “foreign entity” means a foreign person, a foreign company, or any other foreign entity.
-- **(c)** The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States. Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.
-- **(d)** Subsection (b) does not apply—
-  - **(1)** to contracts for consumable supplies, provisions, or services that are intended to be used for the support of United States forces or of allied forces in a foreign country; or
-  - **(2)** to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.

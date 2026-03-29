@@ -3,16 +3,16 @@ title: "Section 2433 - Emergency shelters"
 usc_title: 25
 usc_section: "2433"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 2433"
-generated_at: "2026-03-29T19:29:34.839Z"
+generated_at: "2026-03-29T19:41:28.431Z"
 ---
 
 # § 2433. Emergency shelters
 
 - **(a)** A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisions as may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use their respective resources to adequately staff and operate any such facility.
 - **(b)**
-  - **(1)** In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 [ 42 U.S.C. 5601 et seq.], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
+  - **(1)** In any case where an Indian youth is arrested or detained by the Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to alcohol or substance abuse, other than for a status offense as defined by the Juvenile Justice and Delinquency Prevention Act of 1974 [ 34 U.S.C. 11101 et seq.], under circumstances where such youth may not be immediately restored to the custody of his parents or guardians and where there is space available in an appropriately licensed and supervised emergency shelter or half-way house, such youth shall be referred to such facility in lieu of incarceration in a secured facility unless such youth is deemed a danger to himself or to other persons.
   - **(2)** In any case where there is a space available in an appropriately licensed and supervised emergency shelter or half-way house, the Bureau of Indian Affairs and tribal courts are encouraged to refer Indian youth convicted of offenses directly or indirectly related to alcohol and substance abuse to such facilities in lieu of sentencing to incarceration in a secured juvenile facility.
 - **(c)** In the case of any State that exercises criminal jurisdiction over any part of Indian country under section 1162 of title 18 or section 1321 of this title , such State is urged to require its law enforcement officers to—
   - **(1)** place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and

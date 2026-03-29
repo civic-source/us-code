@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-29T19:30:19.852Z"
+generated_at: "2026-03-29T19:42:47.678Z"
 ---
 
 # § 457. Deferred compensation plans of State and local governments and tax-exempt organizations
@@ -36,11 +36,13 @@ generated_at: "2026-03-29T19:30:19.852Z"
 - **(d)**
   - **(1)** For purposes of subsection (b)(5), a plan meets the distribution requirements of this subsection if—
     - **(A)** under the plan amounts will not be made available to participants or beneficiaries earlier than—
-      - **(i)** the calendar year in which the participant attains age 70½,
-      - **(ii)** when the participant has a severance from employment with the employer, or
-      - **(iii)** when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations),
-    - **(B)** the plan meets the minimum distribution requirements of paragraph (2), and
-    - **(C)** in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31).
+      - **(i)** the calendar year in which the participant attains age 70½ (in the case of a plan maintained by an employer described in subsection (e)(1)(A), age 59½),
+      - **(ii)** when the participant has a severance from employment with the employer,
+      - **(iii)** when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations), or
+      - **(iv)** except as may be otherwise provided by regulations, in the case of a plan maintained by an employer described in subsection (e)(1)(A), with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the plan,
+    - **(B)** the plan meets the minimum distribution requirements of paragraph (2),
+    - **(C)** in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31), and
+    - **(D)** except as may be otherwise provided by regulations, in the case of amounts described in subparagraph (A)(iv), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
   - **(2)** A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
   - **(3)** An eligible deferred compensation plan of an employer described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely by reason of making a distribution described in subsection (e)(9)(A).
 - **(e)** For purposes of this section—
@@ -72,7 +74,9 @@ generated_at: "2026-03-29T19:30:19.852Z"
       - **(i)** An individual shall be treated as a bona fide volunteer for purposes of subparagraph (A)(ii) if the only compensation received by such individual for performing qualified services is in the form of—
         - **(I)** reimbursement for (or a reasonable allowance for) reasonable expenses incurred in the performance of such services, or
         - **(II)** reasonable benefits (including length of service awards), and nominal fees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
-      - **(ii)** A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $3,000.
+      - **(ii)** A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $6,000.
+      - **(iii)** In the case of taxable years beginning after December 31, 2017 , the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016 , and any increase under this paragraph that is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+      - **(iv)** In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant’s age at the time of the calculation.
     - **(C)** For purposes of this paragraph, the term “qualified services” means fire fighting and prevention services, emergency medical services, and ambulance services.
     - **(D)**
       - **(i)** If an applicable voluntary early retirement incentive plan—
@@ -124,7 +128,7 @@ generated_at: "2026-03-29T19:30:19.852Z"
       - **(i)** Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
       - **(ii)** A plan shall not be treated for purposes of this title as providing for the deferral of compensation for any year with respect to the portion of the plan described in subparagraph (A).
     - **(C)** The term “applicable employment retention plan” means an employment retention plan maintained by—
-      - **(i)** a local educational agency (as defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ), 2 2 So in original. A second closing parenthesis probably should precede the comma. or
+      - **(i)** a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )), or
       - **(ii)** an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
     - **(D)** The term “employment retention plan” means a plan to pay, upon termination of employment, compensation to an employee of a local educational agency or education association described in subparagraph (C) for purposes of—
       - **(i)** retaining the services of the employee, or

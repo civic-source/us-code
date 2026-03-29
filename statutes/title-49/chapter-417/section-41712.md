@@ -3,14 +3,14 @@ title: "Section 41712 - Unfair and deceptive practices and unfair methods of com
 usc_title: 49
 usc_section: "41712"
 chapter: 417
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 41712"
-generated_at: "2026-03-29T19:32:28.866Z"
+generated_at: "2026-03-29T19:44:57.980Z"
 ---
 
 # § 41712. Unfair and deceptive practices and unfair methods of competition
 
-- **(a)** On the initiative of the Secretary of Transportation or the complaint of an air carrier, foreign air carrier, or ticket agent, and if the Secretary considers it is in the public interest, the Secretary may investigate and decide whether an air carrier, foreign air carrier, or ticket agent has been or is engaged in an unfair or deceptive practice or an unfair method of competition in air transportation or the sale of air transportation. If the Secretary, after notice and an opportunity for a hearing, finds that an air carrier, foreign air carrier, or ticket agent is engaged in an unfair or deceptive practice or unfair method of competition, the Secretary shall order the air carrier, foreign air carrier, or ticket agent to stop the practice or method.
+- **(a)** On the initiative of the Secretary of Transportation or the complaint of an air carrier, foreign air carrier, air ambulance consumer (as defined by the Secretary of Transportation), or ticket agent, and if the Secretary considers it is in the public interest, the Secretary may investigate and decide whether an air carrier, foreign air carrier, or ticket agent has been or is engaged in an unfair or deceptive practice or an unfair method of competition in air transportation or the sale of air transportation. If the Secretary, after notice and an opportunity for a hearing, finds that an air carrier, foreign air carrier, or ticket agent is engaged in an unfair or deceptive practice or unfair method of competition, the Secretary shall order the air carrier, foreign air carrier, or ticket agent to stop the practice or method.
 - **(b)** It shall be an unfair or deceptive practice under subsection (a) for any air carrier, foreign air carrier, or ticket agent utilizing electronically transmitted tickets for air transportation to fail to notify the purchaser of such a ticket of its expiration date, if any.
 - **(c)**
   - **(1)** It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, or other person offering to sell tickets for air transportation on a flight of an air carrier to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to the purchase of a ticket—

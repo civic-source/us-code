@@ -3,9 +3,9 @@ title: "Section 3a - Adjusted gross income limitation"
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-29T19:27:31.715Z"
+generated_at: "2026-03-29T19:43:58.096Z"
 ---
 
 # § 1308–3a. Adjusted gross income limitation
@@ -17,13 +17,14 @@ generated_at: "2026-03-29T19:27:31.715Z"
     - **(A)** the person provides a certified statement by a certified public accountant or attorney that specifies the method by which the average adjusted gross income would have been declared and reported had the persons filed 2 separate returns; and
     - **(B)** the Secretary determines that the method described in the statement is consistent with the information supporting the filed joint tax return.
 - **(b)**
-  - **(1)** Notwithstanding any other provision of law, a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
+  - **(1)** Notwithstanding any other provision of law, subject to paragraph (3), a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
   - **(2)** Paragraph (1) applies with respect to the following:
     - **(A)** A payment or benefit under subtitle A or E of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9011 et seq., 9081].
     - **(B)** A marketing loan gain or loan deficiency payment under subtitle B of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9031 et seq.].
-    - **(C)** Starting with fiscal year 2015, a payment or benefit under title II of the Agricultural Act of 2014, title II of the Farm Security and Rural Investment Act of 2002, title II of the Food, Conservation, and Energy Act of 2008, or title XII of the Food Security Act of 1985 [ 16 U.S.C. 3801 et seq.].
+    - **(C)** Starting with fiscal year 2015, a payment or benefit under title II of the Agriculture Improvement Act of 2018, title II of the Agricultural Act of 2014, title II of the Farm Security and Rural Investment Act of 2002, title II of the Food, Conservation, and Energy Act of 2008, or title XII of the Food Security Act of 1985 [ 16 U.S.C. 3801 et seq.].
     - **(D)** A payment or benefit under section 1524(b) of this title .
     - **(E)** A payment or benefit under section 7333 of this title .
+  - **(3)** The Secretary may waive the limitation established by paragraph (1) with respect to a payment pursuant to a covered benefit described in paragraph (2)(C), on a case-by-case basis, if the Secretary determines that environmentally sensitive land of special significance would be protected as a result of such waiver.
 - **(c)**
   - **(1)** To comply with subsection (b), at least once every 3 years a person or legal entity shall provide to the Secretary—
     - **(A)** a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the person or legal entity does not exceed the applicable limitation specified in that subsection; or

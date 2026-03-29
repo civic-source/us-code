@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-29T19:29:50.466Z"
+generated_at: "2026-03-29T19:41:41.694Z"
 ---
 
 # § 802. Definitions
@@ -33,7 +33,11 @@ As used in this subchapter:
   - **(13)** The term “felony” means any Federal or State offense classified by applicable Federal or State law as a felony.
   - **(14)** The term “isomer” means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term “isomer” means any optical, positional, or geometric isomer. As used in schedule II(a)(4), the term “isomer” means any optical or geometric isomer.
   - **(15)** The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
-  - **(16)** The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+  - **(16)**
+    - **(A)** Subject to subparagraph (B), the term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
+    - **(B)** The term “marihuana” does not include—
+      - **(i)** hemp, as defined in section 1639 o of title 7; or
+      - **(ii)** the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
   - **(17)** The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
     - **(A)** Opium, opiates, derivatives of opium and opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation. Such term does not include the isoquinoline alkaloids of opium.
     - **(B)** Poppy straw and concentrate of poppy straw.
@@ -104,7 +108,7 @@ As used in this subchapter:
     - **(B)** Acetone.
     - **(C)** Benzyl chloride.
     - **(D)** Ethyl ether.
-    - **(E)** Repealed. Pub. L. 101–647, title XXIII , § 2301(b), Nov. 29, 1990 , 104 Stat. 4858 .
+    - **(E)** Repealed. Pub. L. 101–647, title XXIII, § 2301(b) , Nov. 29, 1990 , 104 Stat. 4858 .
     - **(F)** Potassium permanganate.
     - **(G)** 2-Butanone (or Methyl Ethyl Ketone).
     - **(H)** Toluene.
@@ -305,3 +309,13 @@ As used in this subchapter:
     - **(A)** the pharmacy dispensing that prescription has previously dispensed to the patient a controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of subsections (b) and (c) of section 829 of this title (in this paragraph referred to as the “original prescription”);
     - **(B)** the pharmacy contacts the practitioner who issued the original prescription at the request of that individual to determine whether the practitioner will authorize the issuance of a new prescription for that individual for the controlled substance described in subparagraph (A); and
     - **(C)** the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
+  - **(57)** 1 1 So in original. Two pars. (57) have been enacted. The term “suspicious order” may include, but is not limited to—
+    - **(A)** an order of a controlled substance of unusual size;
+    - **(B)** an order of a controlled substance deviating substantially from a normal pattern; and
+    - **(C)** orders of controlled substances of unusual frequency.
+  - **(57)** 1 The term “serious drug felony” means an offense described in section 924(e)(2) of title 18 for which—
+    - **(A)** the offender served a term of imprisonment of more than 12 months; and
+    - **(B)** the offender’s release from any term of imprisonment was within 15 years of the commencement of the instant offense.
+  - **(58)** The term “serious violent felony” means—
+    - **(A)** an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
+    - **(B)** any offense that would be a felony violation of section 113 of title 18 , if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.

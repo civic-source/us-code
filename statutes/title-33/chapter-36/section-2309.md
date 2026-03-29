@@ -3,9 +3,9 @@ title: "Section 2309 - Great Lakes Commodities Marketing Board"
 usc_title: 33
 usc_section: "2309"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2309"
-generated_at: "2026-03-29T19:30:28.842Z"
+generated_at: "2026-03-29T19:43:07.702Z"
 ---
 
 # § 2309. Great Lakes Commodities Marketing Board
@@ -33,14 +33,14 @@ generated_at: "2026-03-29T19:30:28.842Z"
     - **(B)** the Secretary or his or her delegate,
     - **(C)** the Secretary of Transportation or his or her delegate,
     - **(D)** the Secretary of Commerce or his or her delegate,
-    - **(E)** the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate,
+    - **(E)** the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate,
     - **(F)** the Secretary of Agriculture or his or her delegate, and
     - **(G)** the Administrator of the Environmental Protection Agency or his or her delegate.
   - **(4)**
     - **(A)** Members of the Board shall serve for the life of the Board.
     - **(B)** Members of the Board shall serve without pay and those members who are full time officers or employees of the United States shall receive no additional pay by reason of their service on the Board, except that members of the Board shall be allowed travel or transportation expenses under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business and engaged in the actual performance of duties vested in the Board.
     - **(C)** Four members of the Board shall constitute a quorum but a lesser number may hold hearings.
-    - **(D)** The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate.
+    - **(D)** The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate.
     - **(E)** The Board shall meet at the call of the co-chairmen or a majority of its members.
   - **(5)**
     - **(A)** The Board shall, without regard to section 5311(b) 1 1 See References in Text note below. of title 5, have a Director, who shall be appointed by the Board and shall be paid at a rate which the Board considers appropriate.

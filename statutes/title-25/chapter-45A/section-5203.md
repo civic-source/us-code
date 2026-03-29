@@ -5,7 +5,7 @@ usc_section: "5203"
 chapter: 45
 current_through: "PL 117-81"
 classification: "25 U.S.C. § 5203"
-generated_at: "2026-03-29T18:44:25.154Z"
+generated_at: "2026-03-29T19:41:28.486Z"
 ---
 
 # § 5203. Organization of tribes or bands; constitution; charter; right to participate in revolving credit fund

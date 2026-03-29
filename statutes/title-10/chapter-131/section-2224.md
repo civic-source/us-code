@@ -3,9 +3,9 @@ title: "Section 2224 - Defense Information Assurance Program"
 usc_title: 10
 usc_section: "2224"
 chapter: 131
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2224"
-generated_at: "2026-03-29T19:27:25.572Z"
+generated_at: "2026-03-29T19:43:37.970Z"
 ---
 
 # § 2224. Defense Information Assurance Program
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:27:25.572Z"
   - **(5)** The conduct of exercises, war games, simulations, experiments, and other activities designed to prepare the Department to respond to information warfare threats.
   - **(6)** Development of proposed legislation that the Secretary considers necessary for implementing the program or for otherwise responding to the information warfare threat.
 - **(d)** In carrying out the program, the Secretary shall coordinate, as appropriate, with the head of any relevant Federal agency and with representatives of those national critical information infrastructure systems that are essential to the operations of the Department and the armed forces on information assurance measures necessary to the protection of these systems.
-- **[(e)** Repealed. Pub. L. 108–136, div. A, title X , § 1031(a)(12), Nov. 24, 2003 , 117 Stat. 1597 .]
+- **[(e)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(12) , Nov. 24, 2003 , 117 Stat. 1597 .]
 - **(f)** The Secretary shall develop an information assurance test bed within the Department of Defense to provide—
   - **(1)** an integrated organization structure to plan and facilitate the conduct of simulations, war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
   - **(2)** organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.

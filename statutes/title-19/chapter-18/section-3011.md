@@ -3,9 +3,9 @@ title: "Section 3011 - Transition to Harmonized Tariff Schedule"
 usc_title: 19
 usc_section: "3011"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 3011"
-generated_at: "2026-03-29T19:28:30.760Z"
+generated_at: "2026-03-29T19:41:21.659Z"
 ---
 
 # § 3011. Transition to Harmonized Tariff Schedule

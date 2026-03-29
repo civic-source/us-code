@@ -3,9 +3,9 @@ title: "Section 272f - Authorization of appropriations"
 usc_title: 16
 usc_section: "272f"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 272f"
-generated_at: "2026-03-29T19:29:27.062Z"
+generated_at: "2026-03-29T19:41:13.315Z"
 ---
 
 # § 272f. Authorization of appropriations

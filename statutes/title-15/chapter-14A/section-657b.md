@@ -3,9 +3,9 @@ title: "Section 657b - Veterans programs"
 usc_title: 15
 usc_section: "657b"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 657b"
-generated_at: "2026-03-29T19:27:55.357Z"
+generated_at: "2026-03-29T19:44:42.653Z"
 ---
 
 # § 657b. Veterans programs
@@ -53,3 +53,8 @@ generated_at: "2026-03-29T19:27:55.357Z"
 - **(f)** There are authorized to be appropriated to carry out this section—
   - **(1)** $1,500,000 for fiscal year 2005; and
   - **(2)** $2,000,000 for fiscal year 2006.
+- **(g)**
+  - **(1)** In this subsection—
+    - **(A)** the term “foreign excess property” has the meaning given the term in section 102 of title 40 ; and
+    - **(B)** the term “state agency” has the meaning given the term, including the roles and responsibilities assigned, in section 549 of title 40 .
+  - **(2)** The Administrator, in coordination with the Administrator of General Services, shall provide access to and manage the distribution of surplus property, and foreign excess property returned to a State for handling as surplus property, owned by the United States under chapter 7 of title 40, to small business concerns owned and controlled by veterans (as verified by the Secretary of Veterans Affairs under section 8127 of title 38 ) pursuant to a memorandum of agreement between the Administrator, the Administrator of General Services, and the head of the applicable state agency for surplus properties and in accordance with section 549 of title 40 .

@@ -3,9 +3,9 @@ title: "Section 410ff - Establishment"
 usc_title: 16
 usc_section: "410ff"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 410ff"
-generated_at: "2026-03-29T19:29:27.100Z"
+generated_at: "2026-03-29T19:41:13.348Z"
 ---
 
 # § 410ff. Establishment

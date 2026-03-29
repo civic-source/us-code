@@ -3,9 +3,9 @@ title: "Section 2101a - State-wide assessment and strategies for forest resource
 usc_title: 16
 usc_section: "2101a"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 2101a"
-generated_at: "2026-03-29T19:29:27.515Z"
+generated_at: "2026-03-29T19:41:13.764Z"
 ---
 
 # § 2101a. State-wide assessment and strategies for forest resources
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T19:29:27.515Z"
 - **(d)** In developing or updating the State-wide assessment and State-wide strategy required by subsection (a), the State forester or equivalent State official shall incorporate any forest management plan of the State, including community wildfire protection plans and State wildlife action plans.
 - **(e)** Once approved by the Secretary, a State-wide assessment and State-wide strategy developed under subsection (a) shall be deemed to be sufficient to satisfy all relevant State planning and assessment requirements under this chapter.
 - **(f)**
-  - **(1)** There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2018.
+  - **(1)** There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2023.
   - **(2)** In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any other funds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
 - **(g)** The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.

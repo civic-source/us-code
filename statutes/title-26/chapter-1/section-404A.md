@@ -3,9 +3,9 @@ title: "Section 404A - Deduction for certain foreign deferred compensation plans
 usc_title: 26
 usc_section: "404A"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 404A"
-generated_at: "2026-03-29T19:30:19.797Z"
+generated_at: "2026-03-29T19:42:47.637Z"
 ---
 
 # § 404A. Deduction for certain foreign deferred compensation plans
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:30:19.797Z"
     - **(B)** such item meets such additional requirements as the Secretary may by regulations prescribe as necessary or appropriate to ensure that the liability will be satisfied.
   - **(4)** There shall be amortized over a 10-year period any increase or decrease to the reserve on account of—
     - **(A)** the adoption of the plan or a plan amendment,
-    - **(B)** experience gains and losses, and 1 1 So in original. The word “and” probably should not appear.
+    - **(B)** experience gains and losses,
     - **(C)** any change in actuarial assumptions,
     - **(D)** changes in the interest rate under subsection (g)(3)(B), and
     - **(E)** such other factors as may be prescribed by regulations.

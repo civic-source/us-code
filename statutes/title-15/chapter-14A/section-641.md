@@ -3,9 +3,9 @@ title: "Section 641 - Transfer to Administration of other functions, powers, and
 usc_title: 15
 usc_section: "641"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 641"
-generated_at: "2026-03-29T19:27:55.345Z"
+generated_at: "2026-03-29T19:44:42.640Z"
 ---
 
 # § 641. Transfer to Administration of other functions, powers, and duties

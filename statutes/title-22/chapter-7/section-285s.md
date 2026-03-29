@@ -3,9 +3,9 @@ title: "Section 285s - Additional subscription to shares; authorization of appro
 usc_title: 22
 usc_section: "285s"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 285s"
-generated_at: "2026-03-29T19:29:46.668Z"
+generated_at: "2026-03-29T19:42:07.968Z"
 ---
 
 # § 285s. Additional subscription to shares; authorization of appropriations

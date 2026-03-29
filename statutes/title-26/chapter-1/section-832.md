@@ -3,9 +3,9 @@ title: "Section 832 - Insurance company taxable income"
 usc_title: 26
 usc_section: "832"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 832"
-generated_at: "2026-03-29T19:30:19.907Z"
+generated_at: "2026-03-29T19:42:47.731Z"
 ---
 
 # § 832. Insurance company taxable income
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:30:19.907Z"
 - **(b)** In the case of an insurance company subject to the tax imposed by section 831—
   - **(1)** The term “gross income” means the sum of—
     - **(A)** the combined gross amount earned during the taxable year, from investment income and from underwriting income as provided in this subsection, computed on the basis of the underwriting and investment exhibit of the annual statement approved by the National Association of Insurance Commissioners,
-    - **(B)** gain during the taxable year from the sale or other disposition of property, and
+    - **(B)** gain during the taxable year from the sale or other disposition of property,
     - **(C)** all other items constituting gross income under subchapter B, except that, in the case of a mutual fire insurance company exclusively issuing perpetual policies, the amount of single deposit premiums paid to such company shall not be included in gross income,
     - **(D)** in the case of a mutual fire or flood insurance company whose principal business is the issuance of policies—
       - **(i)** for which the premium deposits are the same (regardless of the length of the term for which the policies are written), and
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T19:30:19.907Z"
       - **(i)** To losses paid during the taxable year, deduct salvage and reinsurance recovered during the taxable year.
       - **(ii)** To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct all unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.
       - **(iii)** To the results so obtained, add estimated salvage and reinsurance recoverable as of the end of the preceding taxable year and deduct estimated salvage and reinsurance recoverable as of the end of the taxable year.
-    - **(B)** The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to 15 percent of the sum of—
+    - **(B)** The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to the applicable percentage of the sum of—
       - **(i)** tax-exempt interest received or accrued during such taxable year,
       - **(ii)** the aggregate amount of deductions provided by sections 243 and 245 for—
         - **(I)** dividends (other than 100 percent dividends) received during the taxable year, and
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T19:30:19.907Z"
       - **(i)** subparagraph (B) of paragraph (4) shall be applied by treating unearned premiums as including an amount equal to such expenses, and
       - **(ii)** appropriate adjustments shall be made under subparagraph (c) of paragraph (4) to reflect the amount by which—
         - **(I)** such reserves at the close of the most recent taxable year beginning before January 1, 1987 , are greater or less than,
-        - **(II)** 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses, 2 2 So in original. The comma probably should be a period.
+        - **(II)** 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses.
   - **(8)**
     - **(A)** In the case of premiums attributable to title insurance—
       - **(i)** subparagraph (B) of paragraph (4) shall be applied by substituting “the discounted unearned premiums” for “80 percent of the unearned premiums” each place it appears, and
@@ -90,8 +90,8 @@ generated_at: "2026-03-29T19:30:19.907Z"
   - **(2)** all interest, as provided in section 163;
   - **(3)** taxes, as provided in section 164;
   - **(4)** losses incurred, as defined in subsection (b)(5) of this section;
-  - **(5)** capital losses to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
-    - **(A)** the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets; or
+  - **(5)** capital losses to the extent provided in subchapter P (relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+    - **(A)** the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets); or
     - **(B)** losses from the sale or exchange of capital assets sold or exchanged to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders;
   - **(6)** debts in the nature of agency balances and bills receivable which become worthless within the taxable year;
   - **(7)** the amount of interest earned during the taxable year which under section 103 is excluded from gross income;

@@ -3,9 +3,9 @@ title: "Section 3127 - Exemption for employers and their employees where both ar
 usc_title: 26
 usc_section: "3127"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 3127"
-generated_at: "2026-03-29T19:30:20.056Z"
+generated_at: "2026-03-29T19:42:47.861Z"
 ---
 
 # § 3127. Exemption for employers and their employees where both are members of religious faiths opposed to participation in Social Security Act programs
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:30:20.056Z"
 - **(b)** An application for exemption filed by an employer (or a partner) under subsection (a)(1) or by an employee under subsection (a)(2) shall be approved only if—
   - **(1)** such application contains or is accompanied by the evidence described in section 1402(g)(1)(A) and a waiver described in section 1402(g)(1)(B),
   - **(2)** the Commissioner of Social Security makes the findings (with respect to such sect or division) described in section 1402(g)(1)(C), (D), and (E), and
-  - **(3)** no benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for section 203 or 222(b) 1 1 See References in Text note below. of the Social Security Act, would have become payable) to the individual filing the application at or before the time of such filing.
+  - **(3)** no benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for section 203 of the Social Security Act, would have become payable) to the individual filing the application at or before the time of such filing.
 - **(c)** An exemption granted under this section to any employer with respect to wages paid to any of the employees thereof, or granted to any such employee, shall apply with respect to wages paid by such employer during the period—
   - **(1)** commencing with the first day of the first calendar quarter, after the quarter in which such application is filed, throughout which such employer (or, if the employer is a partnership, each partner therein) or employee meets the applicable requirements specified in subsections (a) and (b), and
   - **(2)** ending with the last day of the calendar quarter preceding the first calendar quarter thereafter in which (A) such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet the applicable requirements of subsection (a), or (B) the sect or division thereof of which such employer (or, if the employer is a partnership, any partner therein) or employee is a member is found by the Commissioner of Social Security to have ceased to meet the requirements of subsection (b)(2).

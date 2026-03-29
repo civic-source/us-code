@@ -1,14 +1,12 @@
 ---
-title: "Section 450k - Authorization of appropriations for dairy farmer indemnities"
+title: "Section 450k - Transferred"
 usc_title: 7
 usc_section: "450k"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 450k"
-generated_at: "2026-03-29T19:27:31.681Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 450k. Authorization of appropriations for dairy farmer indemnities
-
-There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 450j to 450 l of this title.
+# § 450k. Transferred
 

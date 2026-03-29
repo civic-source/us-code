@@ -3,14 +3,14 @@ title: "Section 619a - Eligibility for consideration for promotion: designation 
 usc_title: 10
 usc_section: "619a"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 619a"
-generated_at: "2026-03-29T19:27:25.453Z"
+generated_at: "2026-03-29T19:43:37.827Z"
 ---
 
 # § 619a. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions
 
-- **(a)** An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title .
+- **(a)** An officer on the active-duty list of the Army, Navy, Air Force, Marine Corps, or Space Force may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title .
 - **(b)** Subject to subsection (c), the Secretary of Defense may waive subsection (a) in the following circumstances:
   - **(1)** When necessary for the good of the service.
   - **(2)** In the case of an officer whose proposed selection for promotion is based primarily upon scientific and technical qualifications for which joint requirements do not exist.

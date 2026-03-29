@@ -3,14 +3,14 @@ title: "Section 3336 - Authorization of appropriations; allocation of funds"
 usc_title: 7
 usc_section: "3336"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3336"
-generated_at: "2026-03-29T19:27:31.889Z"
+generated_at: "2026-03-29T19:43:58.301Z"
 ---
 
 # § 3336. Authorization of appropriations; allocation of funds
 
 - **(a)** There are authorized to be appropriated, to implement the provisions of this subchapter—
   - **(1)** $10,000,000 for each of fiscal years 1991 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
 - **(b)** Funds appropriated under this section shall be allocated by the Secretary to eligible institutions for work to be done as mutually agreed upon between the Secretary and the eligible institution or institutions.

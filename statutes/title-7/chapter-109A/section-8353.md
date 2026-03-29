@@ -3,9 +3,9 @@ title: "Section 8353 - Control of nuisance mammals and birds and those constitut
 usc_title: 7
 usc_section: "8353"
 chapter: 109
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 8353"
-generated_at: "2026-03-29T18:47:13.874Z"
+generated_at: "2026-03-29T19:43:58.458Z"
 ---
 
 # § 8353. Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception

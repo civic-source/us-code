@@ -3,14 +3,14 @@ title: "Section 32302 - Passenger motor vehicle information"
 usc_title: 49
 usc_section: "32302"
 chapter: 323
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 32302"
-generated_at: "2026-03-29T19:32:28.844Z"
+generated_at: "2026-03-29T19:44:57.956Z"
 ---
 
 # § 32302. Passenger motor vehicle information
 
-- **(a)** The Secretary of Transportation shall maintain a program for developing the following information on passenger motor vehicles:
+- **(a)** The Secretary of Transportation (referred to in this section as the “Secretary”) shall maintain a program for developing the following information on passenger motor vehicles:
   - **(1)** damage susceptibility.
   - **(2)** crashworthiness, crash avoidance, and any other areas the Secretary determines will improve the safety of passenger motor vehicles.
   - **(3)** the degree of difficulty of diagnosis and repair of damage to, or failure of, mechanical and electrical systems.
@@ -22,3 +22,23 @@ generated_at: "2026-03-29T19:32:28.844Z"
     - **(B)** to prominently print the information described in subparagraph (A) within the owner’s manual; and
     - **(C)** to not place such information on the label required under section 3 of the Automobile Information Disclosure Act ( 15 U.S.C. 1232 ).
   - **(2)** The requirements under paragraph (1) shall apply to passenger motor vehicles manufactured in any model year beginning more than 1 year after the date on which a final rule is published under paragraph (1).
+- **(e)**
+  - **(1)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall publish a notice, for purposes of public review and comment, to establish, distinct from crashworthiness information, a means for providing to consumers information relating to advanced crash-avoidance technologies, in accordance with subsection (a).
+  - **(2)** The notice under paragraph (1) shall include—
+    - **(A)** an appropriate methodology for—
+      - **(i)** determining which advanced crash-avoidance technologies shall be included in the information;
+      - **(ii)** developing performance test criteria for use by manufacturers in evaluating advanced crash-avoidance technologies;
+      - **(iii)** determining a distinct rating involving each advanced crash-avoidance technology to be included; and
+      - **(iv)** updating overall vehicle ratings to incorporate advanced crash-avoidance technology ratings; and
+    - **(B)** such other information and analyses as the Secretary determines to be necessary to implement the rating of advanced crash-avoidance technologies.
+  - **(3)** Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an advanced crash-avoidance technology information and rating system, in accordance with subsection (a).
+- **(f)**
+  - **(1)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall publish a notice, for purposes of public review and comment, to establish a means for providing to consumers information relating to pedestrian, bicyclist, or other vulnerable road user safety technologies, in accordance with subsection (a).
+  - **(2)** The notice under paragraph (1) shall include—
+    - **(A)** an appropriate methodology for—
+      - **(i)** determining which technologies shall be included in the information;
+      - **(ii)** developing performance test criteria for use by manufacturers in evaluating the extent to which automated pedestrian safety systems in light vehicles attempt to prevent and mitigate, to the best extent possible, pedestrian injury;
+      - **(iii)** determining a distinct rating involving each technology to be included; and
+      - **(iv)** updating overall vehicle ratings to incorporate vulnerable road user safety technology ratings; and
+    - **(B)** such other information and analyses as the Secretary determines to be necessary to implement the rating of vulnerable road user safety technologies.
+  - **(3)** Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an information and rating system for vulnerable road user safety technologies, in accordance with subsection (a).

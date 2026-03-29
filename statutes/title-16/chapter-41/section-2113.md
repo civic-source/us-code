@@ -3,9 +3,9 @@ title: "Section 2113 - Federal, State, and local coordination and cooperation"
 usc_title: 16
 usc_section: "2113"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 2113"
-generated_at: "2026-03-29T19:29:27.522Z"
+generated_at: "2026-03-29T19:41:13.769Z"
 ---
 
 # § 2113. Federal, State, and local coordination and cooperation
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T19:29:27.522Z"
   - **(4)** The Coordinating Committee shall—
     - **(A)** provide direction and coordination of actions within the Department of Agriculture, and coordination with State agencies and the private sector, to effectively address the national priorities specified in section 2101(c) of this title , with specific focus 1 1 So in original. The word “on” probably should appear after “focus”. owners of nonindustrial private forest land;
     - **(B)** clarify individual agency responsibilities of each agency represented on the Coordinating Committee concerning the national priorities specified in section 2101(c) of this title , with specific focus on nonindustrial private forest land;
-    - **(C)** provide advice on the allocation of funds, including the competitive funds set-aside by sections 2109a and 2109b of this title; and
+    - **(C)** provide advice on the allocation of funds, including the competitive funds set-aside by section 2109a of this title ; and
     - **(D)** assist the Secretary in developing and reviewing the report required by section 2101(d) of this title .
   - **(5)** The Coordinating Committee shall meet annually to discuss progress in addressing the national priorities specified in section 2101(c) of this title and issues regarding nonindustrial private forest land.
   - **(6)**

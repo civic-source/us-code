@@ -3,9 +3,9 @@ title: "Section 2714 - Perfluoroalkyl Substances and Polyfluoroalkyl Substances 
 usc_title: 10
 usc_section: "2714"
 chapter: 160
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2714"
-generated_at: "2026-03-29T18:47:53.465Z"
+generated_at: "2026-03-29T19:43:38.008Z"
 ---
 
 # § 2714. Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T18:47:53.465Z"
 - **(f)** Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and quarterly thereafter, the Chairman of the PFAS Task Force shall submit to Congress a report on the activities of the task force.
 - **(g)** In this section:
   - **(1)** The term “perfluoroalkyl substance” means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
-  - **(2)** The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+  - **(2)** The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.”

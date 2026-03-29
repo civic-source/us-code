@@ -3,9 +3,9 @@ title: "Section 1114 - Disclosure, availability, and use of information"
 usc_title: 49
 usc_section: "1114"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 1114"
-generated_at: "2026-03-29T19:32:28.728Z"
+generated_at: "2026-03-29T19:44:57.829Z"
 ---
 
 # § 1114. Disclosure, availability, and use of information
@@ -22,15 +22,17 @@ generated_at: "2026-03-29T19:32:28.728Z"
   - **(2)** Information disclosed under paragraph (1) of this subsection may be disclosed only in a way designed to preserve its confidentiality.
   - **(3)** Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose voluntarily provided safety-related information if that information is not related to the exercise of the Board’s accident or incident investigation authority under this chapter and if the Board finds that the disclosure of the information would inhibit the voluntary provision of that type of information.
 - **(c)**
-  - **(1)** The Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+  - **(1)** Except as provided in paragraph (2), the Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board.
+  - **(2)** Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident or incident—
     - **(A)** if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
     - **(B)** if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket.
-  - **(2)** This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
+  - **(3)** This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
 - **(d)**
-  - **(1)** The Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+  - **(1)** Except as provided in paragraph (2), the Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board.
+  - **(2)** Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
     - **(A)** if the Board holds a public hearing on the accident, at the time of the hearing; or
     - **(B)** if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
-  - **(2)** This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
+  - **(3)** This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
 - **(e)**
   - **(1)** Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 ( Public Law 100–71 , 101 Stat. 471 ), the Secretary of Transportation shall provide the following information to the Board when requested in writing by the Board:
     - **(A)** any report of a confirmed positive toxicological test, verified as positive by a medical review officer, conducted on an officer or employee of the Department of Transportation under post-accident, unsafe practice, or reasonable suspicion toxicological testing requirements of the Department, when the officer or employee is reasonably associated with the circumstances of an accident or incident under the investigative jurisdiction of the Board.
@@ -46,3 +48,4 @@ generated_at: "2026-03-29T19:32:28.728Z"
     - **(A)** the Board shall release records pertaining to such an investigation when the country conducting the investigation issues its final report or 2 years following the date of the accident, whichever occurs first; and
     - **(B)** the Board may disclose records and information when authorized to do so by the country conducting the investigation.
   - **(2)** Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
+- **(g)** Before making public any still image obtained from a video recorder under subsection (c)(2) or subsection (d)(2), the Board shall take such action as appropriate to protect from public disclosure any information that readily identifies an individual, including a decedent.

@@ -3,9 +3,9 @@ title: "Section 7326 - Education and training programs on medical response to co
 usc_title: 38
 usc_section: "7326"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 7326"
-generated_at: "2026-03-29T19:30:40.570Z"
+generated_at: "2026-03-29T19:43:27.077Z"
 ---
 
 # § 7326. Education and training programs on medical response to consequences of terrorist activities

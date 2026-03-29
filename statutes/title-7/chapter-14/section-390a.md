@@ -3,9 +3,9 @@ title: "Section 390a - Review process"
 usc_title: 7
 usc_section: "390a"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 390a"
-generated_at: "2026-03-29T19:27:31.676Z"
+generated_at: "2026-03-29T19:43:58.052Z"
 ---
 
 # § 390a. Review process
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:27:31.676Z"
     - **(C)** The proposal shall demonstrate how the agricultural research facility would serve—
       - **(i)** 1 or more of the national research policies and priorities set forth in section 3101 of this title ; and
       - **(ii)** national or multistate needs.
-    - **(D)** The proposal shall demonstrate that the recipient college, university, or nonprofit institution has the ability and commitment to support the long-term, ongoing operating costs of—
+    - **(D)** The proposal shall demonstrate that the recipient entity has the ability and commitment to support the long-term, ongoing operating and maintenance costs of—
       - **(i)** the agricultural research facility after the facility is completed; and
       - **(ii)** each program to be based at the facility.
 - **(d)** Not later than 90 days after receiving a proposal under subsection (a), the Secretary shall—

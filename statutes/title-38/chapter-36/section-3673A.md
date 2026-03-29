@@ -5,7 +5,7 @@ usc_section: "3673A"
 chapter: 36
 current_through: "PL 117-81"
 classification: "38 U.S.C. § 3673A"
-generated_at: "2026-03-29T18:46:01.652Z"
+generated_at: "2026-03-29T19:43:27.023Z"
 ---
 
 # § 3673A. Risk-based surveys

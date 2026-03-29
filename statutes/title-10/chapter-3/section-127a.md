@@ -3,9 +3,9 @@ title: "Section 127a - Operations for which funds are not provided in advance: f
 usc_title: 10
 usc_section: "127a"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 127a"
-generated_at: "2026-03-29T19:27:25.420Z"
+generated_at: "2026-03-29T19:43:37.770Z"
 ---
 
 # § 127a. Operations for which funds are not provided in advance: funding mechanisms
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:27:25.420Z"
   - **(4)** The authority provided by this subsection is in addition to any other authority provided by law authorizing the transfer of amounts available to the Department of Defense. However, the Secretary may not use any such authority under another provision of law for a purpose described in paragraph (1) if there is authority available under this subsection for that purpose.
   - **(5)** The authority provided by this subsection to transfer amounts may not be used to provide authority for an activity that has been denied authorization by Congress.
   - **(6)** A transfer made from one account to another under the authority of this subsection shall be deemed to increase the amount authorized for the account to which the amount is transferred by an amount equal to the amount transferred.
-- **[(d)** Repealed. Pub. L. 108–136, div. A, title X , § 1031(a)(3), Nov. 24, 2003 , 117 Stat. 1596 .]
+- **[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(3) , Nov. 24, 2003 , 117 Stat. 1596 .]
 - **(e)**
   - **(1)** The Secretary may not restore balances in the Defense Business Operations Fund through increases in rates charged by that fund in order to compensate for costs incurred and not reimbursed due to subsection (b).
   - **(2)** The Secretary may not restore balances in the Defense Business Operations Fund or any other fund or account through the use of unobligated amounts in an operation and maintenance appropriation that are available within that appropriation for (A) an account (known as a budget activity 1 account) that is specified as being for operating forces, or (B) an account (known as a budget activity 2 account) that is specified as being for mobilization.

@@ -3,14 +3,14 @@ title: "Section 2292a - Authorization of appropriations"
 usc_title: 22
 usc_section: "2292a"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2292a"
-generated_at: "2026-03-29T19:29:46.758Z"
+generated_at: "2026-03-29T19:42:08.067Z"
 ---
 
 # § 2292a. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated to the President to carry out section 2292 of this title , $2,794,184,000 for each of fiscal years 2017 and 2018, of which up to $1,257,382,000 should be made available to carry out section 2292(c) of this title . Amounts appropriated under this section are authorized to remain available until expended.
+- **(a)** There are authorized to be appropriated to the President to carry out section 2292 of this title , $2,794,184,000 for each of fiscal years 2017 through 2023, of which up to $1,257,382,000 should be made available to carry out section 2292(c) of this title . Amounts appropriated under this section are authorized to remain available until expended.
 - **(b)** In addition to amounts otherwise available to carry out this part, up to $50,000,000 in any fiscal year may be obligated against appropriations under subchapter I of this chapter (other than this part) for use in providing assistance in accordance with the authorities and general policies of section 2292 of this title . Amounts subsequently appropriated under this part with respect to a disaster may be used to reimburse any appropriation account against which obligations were incurred under this subsection with respect to that disaster.
 - **(c)** Amounts authorized to be appropriated pursuant to the authorizations of appropriations under section 2292(c) of this title are in addition to funds otherwise available for such purposes.
 - **(d)**

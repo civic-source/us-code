@@ -3,9 +3,9 @@ title: "Section 1846 - Exemptions"
 usc_title: 2
 usc_section: "1846"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1846"
-generated_at: "2026-03-29T19:27:07.566Z"
+generated_at: "2026-03-29T19:42:59.666Z"
 ---
 
 # § 1846. Exemptions

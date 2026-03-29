@@ -3,9 +3,9 @@ title: "Section 117 - Advance appropriations for certain accounts"
 usc_title: 38
 usc_section: "117"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 117"
-generated_at: "2026-03-29T19:30:40.455Z"
+generated_at: "2026-03-29T19:43:26.934Z"
 ---
 
 # § 117. Advance appropriations for certain accounts
@@ -21,4 +21,5 @@ generated_at: "2026-03-29T19:30:40.455Z"
   - **(4)** Veterans Health Administration, Medical Services.
   - **(5)** Veterans Health Administration, Medical Support and Compliance.
   - **(6)** Veterans Health Administration, Medical Facilities.
+  - **(7)** Veterans Health Administration, Medical Community Care.
 - **(d)** Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.

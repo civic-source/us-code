@@ -1,47 +1,20 @@
 ---
-title: "Section 4 - Regional investment strategy grants"
+title: "Section 4 - Debentures"
 usc_title: 7
 usc_section: "4"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T19:27:31.821Z"
+generated_at: "2026-03-29T19:43:58.218Z"
 ---
 
-# § 2009dd–4. Regional investment strategy grants
+# § 2009cc–4. Debentures
 
-- **(a)** The Secretary shall make regional investment strategy grants available to Regional Boards for use in developing, implementing, and maintaining regional investment strategies.
-- **(b)** A regional investment strategy shall provide—
-  - **(1)** an assessment of the competitive advantage of a region, including—
-    - **(A)** an analysis of the economic conditions of the region;
-    - **(B)** an assessment of the current economic performance of the region;
-    - **(C)** an overview of the population, geography, workforce, transportation system, resources, environment, and infrastructure needs of the region; and
-    - **(D)** such other pertinent information as the Secretary may request;
-  - **(2)** an analysis of regional economic and community development challenges and opportunities, including—
-    - **(A)** incorporation of relevant material from other government-sponsored or supported plans and consistency with applicable State, regional, and local workforce investment strategies or comprehensive economic development plans; and
-    - **(B)** an identification of past, present, and projected Federal and State economic and community development investments in the region;
-  - **(3)** a section describing goals and objectives necessary to solve regional competitiveness challenges and meet the potential of the region;
-  - **(4)** an overview of resources available in the region for use in—
-    - **(A)** establishing regional goals and objectives;
-    - **(B)** developing and implementing a regional action strategy;
-    - **(C)** identifying investment priorities and funding sources; and
-    - **(D)** identifying lead organizations to execute portions of the strategy;
-  - **(5)** an analysis of the current state of collaborative public, private, and nonprofit participation and investment, and of the strategic roles of public, private, and nonprofit entities in the development and implementation of the regional investment strategy;
-  - **(6)** a section identifying and prioritizing vital projects, programs, and activities for consideration by the Secretary, including—
-    - **(A)** other potential funding sources; and
-    - **(B)** recommendations for leveraging past and potential investments;
-  - **(7)** a plan of action to implement the goals and objectives of the regional investment strategy;
-  - **(8)** a list of performance measures to be used to evaluate implementation of the regional investment strategy, including—
-    - **(A)** the number and quality of jobs, including self-employment, created during implementation of the regional rural investment strategy;
-    - **(B)** the number and types of investments made in the region;
-    - **(C)** the growth in public, private, and nonprofit investment in the human, community, and economic assets of the region;
-    - **(D)** changes in per capita income and the rate of unemployment; and
-    - **(E)** other changes in the economic environment of the region;
-  - **(9)** a section outlining the methodology for use in integrating the regional investment strategy with the economic priorities of the State; and
-  - **(10)** such other information as the Secretary determines to be appropriate.
-- **(c)** A regional investment strategy grant shall not exceed $150,000.
-- **(d)**
-  - **(1)** Subject to paragraph (2), of the share of the costs of developing, maintaining, evaluating, implementing, and reporting with respect to a regional investment strategy funded by a grant under this section—
-    - **(A)** not more than 40 percent may be paid using funds from the grant; and
-    - **(B)** the remaining share shall be provided by the applicable Regional Board or other eligible grantee.
-  - **(2)** A Regional Board or other eligible grantee shall pay the share described in paragraph (1)(B) in the form of cash, services, materials, or other in-kind contributions, on the condition that not more than 50 percent of that share is provided in the form of services, materials, and other in-kind contributions.
+- **(a)** The Secretary may guarantee the timely payment of principal and interest, as scheduled, on debentures issued by any rural business investment company.
+- **(b)** The Secretary may make guarantees under this section on such terms and conditions as the Secretary considers appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
+- **(c)** Section 2009g(i) of this title shall apply to any guarantee under this section.
+- **(d)** Under this section, the Secretary may—
+  - **(1)** guarantee the debentures issued by a rural business investment company only to the extent that the total face amount of outstanding guaranteed debentures of the rural business investment company does not exceed the lesser of—
+    - **(A)** 300 percent of the private capital of the rural business investment company; or
+    - **(B)** $105,000,000; and
+  - **(2)** provide for the use of discounted debentures.

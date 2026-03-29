@@ -3,16 +3,16 @@ title: "Section 2786 - Enhanced procurement authority to manage supply chain ris
 usc_title: 50
 usc_section: "2786"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2786"
-generated_at: "2026-03-29T19:32:24.212Z"
+generated_at: "2026-03-29T19:44:52.821Z"
 ---
 
 # § 2786. Enhanced procurement authority to manage supply chain risk
 
 - **(a)** Subject to subsection (b), the Secretary of Energy may—
-  - **(1)** carry out a covered procurement action; and
-  - **(2)** notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
+  - **(1)** carry out a covered procurement action or special exclusion action; and
+  - **(2)** notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action or special exclusion action.
 - **(b)** The Secretary may exercise the authority under subsection (a) only after—
   - **(1)** obtaining a risk assessment that demonstrates that there is a significant supply chain risk to a covered system;
   - **(2)** making a determination in writing, in unclassified or classified form, that—
@@ -24,19 +24,13 @@ generated_at: "2026-03-29T19:32:24.212Z"
     - **(B)** a summary of the risk assessment required under paragraph (1); and
     - **(C)** a summary of the basis for the determination, including a discussion of less restrictive measures that were considered and why such measures were not reasonably available to reduce supply chain risk.
 - **(c)** If the Secretary has exercised the authority under subsection (a), the Secretary shall—
-  - **(1)** notify appropriate parties of the covered procurement action and the basis for the action only to the extent necessary to carry out the covered procurement action;
+  - **(1)** notify appropriate parties of the covered procurement action or special exclusion action and the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
   - **(2)** notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
   - **(3)** ensure the confidentiality of any notifications under paragraph (1) or (2).
 - **(d)** No action taken by the Secretary under the authority under subsection (a) shall be subject to review in any Federal court.
-- **(e)** Not later than one year after the effective date specified in subsection (g)(1), and annually for four years thereafter, the Comptroller General of the United States shall—
-  - **(1)** review the authority provided under subsection (a), including—
-    - **(A)** the adequacy of resources, such as trained personnel, to effectively exercise that authority during the four-year period beginning on that effective date; and
-    - **(B)** the sufficiency of determinations under subsection (b)(2);
-  - **(2)** review the thoroughness of the process and systems utilized by the Office of the Chief Information Officer and the Office of Intelligence and Counterintelligence of the Department of Energy to reasonably detect supply chain threats to the national security functions of the Department; and
-  - **(3)** submit to the appropriate congressional committees a report that includes—
-    - **(A)** the results of the reviews conducted under paragraphs (1) and (2);
-    - **(B)** any recommendations of the Comptroller General for improving the process and systems described in paragraph (2); and
-    - **(C)** a description of the status of the implementation of recommendations, if any, with respect to that process and such systems made by the Comptroller General in previous years.
+- **(e)** The Secretary may delegate the authority under this section to—
+  - **(1)** in the case of the Administration, the Administrator; and
+  - **(2)** in the case of any other component of the Department of Energy, the Senior Procurement Executive of the Department.
 - **(f)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees; and
@@ -53,15 +47,11 @@ generated_at: "2026-03-29T19:32:24.212Z"
     - **(B)** The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order.
     - **(C)** The withholding of consent for a contractor to subcontract with a particular source or the direction to a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
   - **(5)** The term “covered system” means the following:
-    - **(A)** National security systems (as defined in section 3542(b) 1 1 See References in Text note below. of title 44) and components of such systems.
+    - **(A)** National security systems (as defined in section 3552(b) of title 44 ) and components of such systems.
     - **(B)** Nuclear weapons and components of nuclear weapons.
     - **(C)** Items associated with the design, development, production, and maintenance of nuclear weapons or components of nuclear weapons.
     - **(D)** Items associated with the surveillance of the nuclear weapon stockpile.
     - **(E)** Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
-  - **(6)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
-- **(g)**
-  - **(1)** This section shall take effect on June 24, 2014 .
-  - **(2)** The authority under subsection (a) shall apply to—
-    - **(A)** contracts awarded on or after the effective date specified in paragraph (1); and
-    - **(B)** task and delivery orders issued on or after that effective date pursuant to contracts awarded before, on, or after that effective date.
-  - **(3)** The authority under this section shall terminate on the date that is four years after the effective date specified in paragraph (1).
+  - **(6)** The term “special exclusion action” means an action to prohibit, for a period not to exceed two years, the award of any contracts or subcontracts by the Administration or any other component of the Department of Energy related to any covered system to a source the Secretary determines to represent a supply chain risk.
+  - **(7)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
+- **(g)** The authority under this section shall terminate on December 31, 2028 .

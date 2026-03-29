@@ -3,9 +3,9 @@ title: "Section 679 - Violation of permit to mine; penalty"
 usc_title: 33
 usc_section: "679"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 679"
-generated_at: "2026-03-29T19:30:28.730Z"
+generated_at: "2026-03-29T19:43:07.582Z"
 ---
 
 # § 679. Violation of permit to mine; penalty

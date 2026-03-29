@@ -3,9 +3,9 @@ title: "Section 3369b - Oversight of foreign influence in academia"
 usc_title: 50
 usc_section: "3369b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3369b"
-generated_at: "2026-03-29T02:16:14.797Z"
+generated_at: "2026-03-29T19:44:52.867Z"
 ---
 
 # § 3369b. Oversight of foreign influence in academia
@@ -15,8 +15,8 @@ generated_at: "2026-03-29T02:16:14.797Z"
   - **(2)** The term “sensitive research subject” means a subject of research that is carried out at a covered institution of higher education that receives funds that were appropriated for—
     - **(A)** the National Intelligence Program; or
     - **(B)** any Federal agency the Director of National Intelligence deems appropriate.
-- **(b)** Not later than 180 days after December 20, 2019 , and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall provide to congressional intelligence committees a briefing on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
-- **(c)** The briefing required by subsection (b) shall include the following:
+- **(b)** Not later than 180 days after December 20, 2019 , and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall submit to congressional intelligence committees a report on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
+- **(c)** The report required by subsection (b) shall include the following:
   - **(1)** A list of sensitive research subjects that could affect national security.
   - **(2)** A list of foreign entities, including governments, corporations, nonprofit organizations and for-profit organizations, and any subsidiary or affiliate of such an entity, that the Director determines pose a counterintelligence, espionage (including economic espionage), or other national security threat with respect to sensitive research subjects.
   - **(3)** A list of any known or suspected attempts by foreign entities to exert pressure on covered institutions of higher education, including attempts to limit freedom of speech, propagate misinformation or disinformation, or to influence professors, researchers, or students.

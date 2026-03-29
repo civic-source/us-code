@@ -3,9 +3,9 @@ title: "Section 3303 - State leadership activities"
 usc_title: 29
 usc_section: "3303"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 3303"
-generated_at: "2026-03-29T19:30:07.672Z"
+generated_at: "2026-03-29T19:42:21.605Z"
 ---
 
 # § 3303. State leadership activities

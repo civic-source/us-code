@@ -3,9 +3,9 @@ title: "Section 1913 - Parental rights; voluntary termination"
 usc_title: 25
 usc_section: "1913"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 1913"
-generated_at: "2026-03-29T19:29:34.816Z"
+generated_at: "2026-03-29T19:41:28.407Z"
 ---
 
 # § 1913. Parental rights; voluntary termination

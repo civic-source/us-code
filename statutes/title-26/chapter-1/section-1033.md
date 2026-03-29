@@ -3,9 +3,9 @@ title: "Section 1033 - Involuntary conversions"
 usc_title: 26
 usc_section: "1033"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1033"
-generated_at: "2026-03-29T19:30:19.961Z"
+generated_at: "2026-03-29T19:42:47.789Z"
 ---
 
 # § 1033. Involuntary conversions
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T19:30:19.961Z"
         - **(I)** such proceeds shall be treated as received for the conversion of a single item of property, and
         - **(II)** any property which is similar or related in service or use to the residence so converted (or contents thereof) shall be treated for purposes of subsection (a)(2) as property similar or related in service or use to such single item of property.
     - **(B)** Subsection (a)(2)(B) shall be applied with respect to any property so converted by substituting “4 years” for “2 years”.
-  - **(2)** If a taxpayer’s property held for productive use in a trade or business or for investment 1 1 So in original. Probably should be followed by “is”. located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
+  - **(2)** If a taxpayer’s property held for productive use in a trade or business or for investment is located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
   - **(3)** The terms “federally declared disaster” and “disaster area” shall have the respective meaning given such terms by section 165(i)(5).
   - **(4)** For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
 - **(i)**

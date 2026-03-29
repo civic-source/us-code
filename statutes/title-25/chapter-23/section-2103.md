@@ -3,9 +3,9 @@ title: "Section 2103 - Secretary’s determination on Minerals Agreements"
 usc_title: 25
 usc_section: "2103"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 2103"
-generated_at: "2026-03-29T19:29:34.827Z"
+generated_at: "2026-03-29T19:41:28.420Z"
 ---
 
 # § 2103. Secretary’s determination on Minerals Agreements

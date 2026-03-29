@@ -1,12 +1,12 @@
 ---
-title: "Section 10 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , eff. Sept. 1, 1948"
+title: "Section 10 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948"
 usc_title: 7
 usc_section: "10"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 10"
-generated_at: "2026-03-29T19:27:31.615Z"
+generated_at: "2026-03-29T19:43:57.975Z"
 ---
 
-# § 10. Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , eff. Sept. 1, 1948
+# § 10. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948
 

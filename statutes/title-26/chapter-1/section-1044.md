@@ -1,35 +1,12 @@
 ---
-title: "Section 1044 - Rollover of publicly traded securities gain into specialized small business investment companies"
+title: "Section 1044 - Repealed. Pub. L. 115–97, title I, § 13313(a) , Dec. 22, 2017 , 131 Stat. 2133 ]"
 usc_title: 26
 usc_section: "1044"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1044"
-generated_at: "2026-03-29T19:30:19.964Z"
+generated_at: "2026-03-29T19:42:47.792Z"
 ---
 
-# § 1044. Rollover of publicly traded securities gain into specialized small business investment companies
+# [§ 1044. Repealed. Pub. L. 115–97, title I, § 13313(a) , Dec. 22, 2017 , 131 Stat. 2133 ]
 
-- **(a)** In the case of the sale of any publicly traded securities with respect to which the taxpayer elects the application of this section, gain from such sale shall be recognized only to the extent that the amount realized on such sale exceeds—
-  - **(1)** the cost of any common stock or partnership interest in a specialized small business investment company purchased by the taxpayer during the 60-day period beginning on the date of such sale, reduced by
-  - **(2)** any portion of such cost previously taken into account under this section.
-- **(b)**
-  - **(1)** In the case of an individual, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of—
-    - **(A)** $50,000, or
-    - **(B)** $500,000, reduced by the amount of gain excluded under subsection (a) for all preceding taxable years.
-  - **(2)** In the case of a C corporation, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of—
-    - **(A)** $250,000, or
-    - **(B)** $1,000,000, reduced by the amount of gain excluded under subsection (a) for all preceding taxable years.
-  - **(3)** For purposes of this subsection—
-    - **(A)** In the case of a separate return by a married individual, paragraph (1) shall be applied by substituting “$25,000” for “$50,000” and “$250,000” for “$500,000”.
-    - **(B)** In the case of any joint return, the amount of gain excluded under subsection (a) for any taxable year shall be allocated equally between the spouses for purposes of applying this subsection to subsequent taxable years.
-    - **(C)** For purposes of this subsection, marital status shall be determined under section 7703.
-  - **(4)** For purposes of this subsection—
-    - **(A)** all corporations which are members of the same controlled group of corporations (within the meaning of section 52(a)) shall be treated as 1 taxpayer, and
-    - **(B)** any gain excluded under subsection (a) by a predecessor of any C corporation shall be treated as having been excluded by such C corporation.
-- **(c)** For purposes of this section—
-  - **(1)** The term “publicly traded securities” means securities which are traded on an established securities market.
-  - **(2)** The taxpayer shall be considered to have purchased any property if, but for subsection (d), the unadjusted basis of such property would be its cost within the meaning of section 1012.
-  - **(3)** The term “specialized small business investment company” means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993 ).
-  - **(4)** This section shall not apply to any estate, trust, partnership, or S corporation.
-- **(d)** If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any common stock or partnership interest in any specialized small business investment company which is purchased by the taxpayer during the 60-day period described in subsection (a). This subsection shall not apply for purposes of section 1202.

@@ -3,9 +3,9 @@ title: "Section 584 - Official stations"
 usc_title: 28
 usc_section: "584"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 584"
-generated_at: "2026-03-29T19:30:04.355Z"
+generated_at: "2026-03-29T19:42:27.341Z"
 ---
 
 # § 584. Official stations

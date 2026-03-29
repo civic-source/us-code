@@ -3,22 +3,18 @@ title: "Section 1722b - Special requirements for civilian employees in the acqui
 usc_title: 10
 usc_section: "1722b"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1722b"
-generated_at: "2026-03-29T19:27:25.551Z"
+generated_at: "2026-03-29T19:43:37.947Z"
 ---
 
 # § 1722b. Special requirements for civilian employees in the acquisition field
 
-- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish policies and issue guidance to ensure the proper development, assignment, and employment of civilian members of the acquisition workforce to achieve the objectives specified in subsection (b).
+- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish policies and issue guidance to ensure the proper development, assignment, and employment of civilian members of the acquisition workforce to achieve the objectives specified in subsection (b).
 - **(b)** Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
   - **(1)** A career path in the acquisition field that attracts the highest quality civilian personnel, from either within or outside the Federal Government.
   - **(2)** A deliberate workforce development strategy that increases attainment of key experiences that contribute to a highly qualified acquisition workforce.
   - **(3)** Sufficient opportunities for promotion and advancement in the acquisition field.
   - **(4)** A sufficient number of qualified, trained members eligible for and active in the acquisition field to ensure adequate capacity, capability, and effective succession for acquisition functions, including contingency contracting, of the Department of Defense.
   - **(5)** A deliberate workforce development strategy that ensures diversity in promotion, advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
-- **(c)** The Secretary of Defense shall include in the report to Congress required under section 115b(d) of this title the following information related to the acquisition workforce for the period covered by the report (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, Marine Corps, Defense Agencies, and Office of the Secretary of Defense):
-  - **(1)** The total number of persons serving in the Acquisition Corps, set forth separately for members of the armed forces and civilian employees, by grade level and by functional specialty.
-  - **(2)** The total number of critical acquisition positions held, set forth separately for members of the armed forces and civilian employees, by grade level and by other appropriate categories (including by program manager, deputy program manager, and division head positions), including average length of time served in each position. For each such category, the report shall specify the number of civilians holding such positions compared to the total number of positions filled.
-  - **(3)** The number of employees to whom the requirements of subsections (b)(1)(A) and (b)(1)(B) of section 1732 of this title did not apply because of the exceptions provided in paragraphs (1) and (2) of section 1732(c) of this title , set forth separately by type of exception.
-  - **(4)** The number of times a waiver authority was exercised under section 1724(d), 1732(d), or 1734(d) of this title or any other provision of this chapter (or other provision of law) which permits the waiver of any requirement relating to the acquisition workforce, and in the case of each such authority, the reasons for exercising the authority. The Secretary may present the information provided under this paragraph by category or grouping of types of waivers and reasons.
+- **(c)** In carrying out subsection (b)(2), the Secretary shall ensure that key work experiences, in the form of multidisciplinary experiences, are developed for each acquisition workforce career field.

@@ -3,9 +3,9 @@ title: "Section 49107 - Federal employees at Metropolitan Washington Airports"
 usc_title: 49
 usc_section: "49107"
 chapter: 491
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 49107"
-generated_at: "2026-03-29T19:32:28.913Z"
+generated_at: "2026-03-29T19:44:58.042Z"
 ---
 
 # § 49107. Federal employees at Metropolitan Washington Airports

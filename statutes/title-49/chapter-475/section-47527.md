@@ -3,9 +3,9 @@ title: "Section 47527 - Liability of the United States Government for noise dama
 usc_title: 49
 usc_section: "47527"
 chapter: 475
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47527"
-generated_at: "2026-03-29T19:32:28.910Z"
+generated_at: "2026-03-29T19:44:58.039Z"
 ---
 
 # § 47527. Liability of the United States Government for noise damages

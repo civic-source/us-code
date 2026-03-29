@@ -3,9 +3,9 @@ title: "Section 2836 - Military housing rental guarantee program"
 usc_title: 10
 usc_section: "2836"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2836"
-generated_at: "2026-03-29T19:27:25.646Z"
+generated_at: "2026-03-29T19:43:38.016Z"
 ---
 
 # § 2836. Military housing rental guarantee program
@@ -33,5 +33,5 @@ generated_at: "2026-03-29T19:27:25.646Z"
   - **(1)** A statement that the obligation of the United States to make payments under the agreement in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
   - **(2)** A commitment to obligate the necessary amount for each fiscal year covered by the agreement when and to the extent that funds are appropriated for such project for such fiscal year.
   - **(3)** A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
-- **(e)** An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
+- **(e)** An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1 1 See References in Text note below. of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 - **(f)** The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.

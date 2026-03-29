@@ -3,9 +3,9 @@ title: "Section 111 - Assaulting, resisting, or impeding certain officers or emp
 usc_title: 18
 usc_section: "111"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 111"
-generated_at: "2026-03-29T19:28:33.779Z"
+generated_at: "2026-03-29T19:41:06.746Z"
 ---
 
 # § 111. Assaulting, resisting, or impeding certain officers or employees
@@ -14,3 +14,4 @@ generated_at: "2026-03-29T19:28:33.779Z"
   - **(1)** forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of official duties; or
   - **(2)** forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person’s term of service,
 - **(b)** Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
+- **(c)** There is extraterritorial jurisdiction over the conduct prohibited by this section.

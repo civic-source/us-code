@@ -3,9 +3,9 @@ title: "Section 9508 - Leaking Underground Storage Tank Trust Fund"
 usc_title: 26
 usc_section: "9508"
 chapter: 98
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 9508"
-generated_at: "2026-03-29T19:30:20.291Z"
+generated_at: "2026-03-29T19:42:48.049Z"
 ---
 
 # § 9508. Leaking Underground Storage Tank Trust Fund
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:30:20.291Z"
   - **(3)** taxes received in the Treasury under section 4042 (relating to tax on fuel used in commercial transportation on inland waterways) to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under such section, and
   - **(4)** amounts received in the Treasury and collected under section 9003(h)(6) of the Solid Waste Disposal Act.
 - **(c)**
-  - **(1)** Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the 1 1 So in original. Public Law 109–168 .
+  - **(1)** Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of Public Law 109–168 .
   - **(2)** Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $2,400,000,000 to be transferred under section 9503(f)(3) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
   - **(3)** Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $1,000,000,000 to be transferred under section 9503(f)(6) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
   - **(4)** Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated—
@@ -32,4 +32,4 @@ generated_at: "2026-03-29T19:30:20.291Z"
   - **(1)** Except as provided in paragraph (2), no amount may be appropriated to the Leaking Underground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
     - **(A)** any provision of law which is not contained or referenced in this title or in a revenue Act, and
     - **(B)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
-  - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020 , in accordance with the provisions of this section.
+  - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2026 , in accordance with the provisions of this section.

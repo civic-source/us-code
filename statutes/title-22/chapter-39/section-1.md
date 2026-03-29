@@ -3,9 +3,9 @@ title: "Section 1 - Nuclear reprocessing transfers, illegal exports for nuclear 
 usc_title: 22
 usc_section: "1"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T19:29:46.823Z"
+generated_at: "2026-03-29T19:42:08.140Z"
 ---
 
 # § 2799aa–1. Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:29:46.823Z"
       - **(iii)** to any credit, credit guarantee, or financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodity.
     - **(E)** The United States Government shall oppose, in accordance with section 262d of this title , the extension of any loan or financial or technical assistance to that country by any international financial institution.
     - **(F)** The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
-    - **(G)** The authorities of section 4605 of title 50 shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 [ 50 U.S.C. 3091 et seq.] (relating to congressional oversight of intelligence activities).
+    - **(G)** The authorities of section 4605 1 1 See References in Text note below. of title 50 shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 [ 50 U.S.C. 3091 et seq.] (relating to congressional oversight of intelligence activities).
   - **(3)** As used in this subsection—
     - **(A)** the term “design information” means specific information that relates to the design of a nuclear explosive device and that is not available to the public; and
     - **(B)** the term “component” means a specific component of a nuclear explosive device.

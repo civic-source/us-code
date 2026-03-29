@@ -3,9 +3,9 @@ title: "Section 6 - Southeastern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "6"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T19:29:27.381Z"
+generated_at: "2026-03-29T19:41:13.624Z"
 ---
 
 # § 825s–6. Southeastern Power Administration; deposit and availability of discretionary offsetting collections

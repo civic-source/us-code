@@ -3,9 +3,9 @@ title: "Section 1107 - Limitation with respect to acquisition and holding of emp
 usc_title: 29
 usc_section: "1107"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1107"
-generated_at: "2026-03-29T19:30:07.589Z"
+generated_at: "2026-03-29T19:42:21.506Z"
 ---
 
 # § 1107. Limitation with respect to acquisition and holding of employer securities and employer real property by certain plans
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:30:07.589Z"
     - **(A)** After December 31, 1984 , a plan may not hold any qualifying employer securities or qualifying employer real property (or both) to the extent that the aggregate fair market value of such securities and property determined on December 31, 1984 , exceeds 10 percent of the greater of—
       - **(i)** the fair market value of the assets of the plan, determined on December 31, 1984 , or
       - **(ii)** the fair market value of the assets of the plan determined on January 1, 1975 .
-    - **(B)** Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974 ; and before January 1, 1985 , did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
+    - **(B)** Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974 ; and before January 1, 1985 , did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of 1 1 So in original. Probably should be followed by a dash.
       - **(i)** the fair market value of the assets of the plan, determined on such date, or
       - **(ii)** the fair market value of the assets of the plan determined on January 1, 1975 .
   - **(4)**

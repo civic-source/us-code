@@ -3,9 +3,9 @@ title: "Section 5408 - Appropriations"
 usc_title: 5
 usc_section: "5408"
 chapter: 54
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 5408"
-generated_at: "2026-03-29T19:27:05.288Z"
+generated_at: "2026-03-29T19:43:20.360Z"
 ---
 
 # § 5408. Appropriations

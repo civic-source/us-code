@@ -3,9 +3,9 @@ title: "Section 8814a - Subcommittee on the Economic and Security Implications o
 usc_title: 15
 usc_section: "8814a"
 chapter: 114
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 8814a"
-generated_at: "2026-03-29T18:49:04.571Z"
+generated_at: "2026-03-29T19:44:42.972Z"
 ---
 
 # § 8814a. Subcommittee on the Economic and Security Implications of Quantum Information Science
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T18:49:04.571Z"
   - **(10)** the National Institute of Standards and Technology; and
   - **(11)** such other Federal department or agency as the President considers appropriate.
 - **(c)** The Subcommittee shall—
-  - **(1)** in coordination with the Director of the Office and 1 1 So in original. Probably should be “of”. Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;
+  - **(1)** in coordination with the Director of the Office and Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;
   - **(2)** review and assess any economic or security implications of such investments;
   - **(3)** review and assess any counterintelligence risks or other foreign threats to such investments;
   - **(4)** recommend goals and priorities for the Federal Government and make recommendations to Federal departments and agencies and the Director of the National Quantum Coordination Office to address any counterintelligence risks or other foreign threats identified as a result of an assessment under paragraph (3);

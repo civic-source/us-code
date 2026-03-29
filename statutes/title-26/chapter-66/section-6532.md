@@ -3,9 +3,9 @@ title: "Section 6532 - Periods of limitation on suits"
 usc_title: 26
 usc_section: "6532"
 chapter: 66
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6532"
-generated_at: "2026-03-29T19:30:20.214Z"
+generated_at: "2026-03-29T19:42:47.991Z"
 ---
 
 # § 6532. Periods of limitation on suits
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T19:30:20.214Z"
   - **(5)** For substitution of 120-day period for the 6-month period contained in paragraph (1) in a title 11 case, see section 505(a)(2) of title 11 of the United States Code.
 - **(b)** Recovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit is begun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
 - **(c)**
-  - **(1)** Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 9 months from the date of the levy or agreement giving rise to such action.
-  - **(2)** If a request is made for the return of property described in section 6343(b), the 9-month period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
+  - **(1)** Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 2 years from the date of the levy or agreement giving rise to such action.
+  - **(2)** If a request is made for the return of property described in section 6343(b), the 2-year period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.

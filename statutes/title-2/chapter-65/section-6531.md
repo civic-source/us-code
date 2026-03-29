@@ -1,14 +1,12 @@
 ---
-title: "Section 6531 - Compensation of Secretary of Senate"
+title: "Section 6531 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H) , Dec. 20, 2019 , 133 Stat. 2776"
 usc_title: 2
 usc_section: "6531"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 6531"
-generated_at: "2026-03-29T19:27:07.606Z"
+generated_at: "2026-03-29T19:42:59.718Z"
 ---
 
-# § 6531. Compensation of Secretary of Senate
-
-The Secretary of the Senate shall be paid at an annual rate of compensation of $40,000.
+# § 6531. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H) , Dec. 20, 2019 , 133 Stat. 2776
 

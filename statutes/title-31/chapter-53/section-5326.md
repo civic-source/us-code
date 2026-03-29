@@ -1,25 +1,25 @@
 ---
-title: "Section 5326 - Records of certain domestic coin and currency transactions"
+title: "Section 5326 - Records of certain domestic transactions"
 usc_title: 31
 usc_section: "5326"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 5326"
-generated_at: "2026-03-29T19:30:24.798Z"
+generated_at: "2026-03-29T19:42:56.148Z"
 ---
 
-# § 5326. Records of certain domestic coin and currency transactions
+# § 5326. Records of certain domestic transactions
 
-- **(a)** If the Secretary of the Treasury finds, upon the Secretary’s own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
+- **(a)** If the Secretary of the Treasury finds, upon the Secretary’s own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle or to prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
   - **(1)** to obtain such information as the Secretary may describe in such order concerning—
-    - **(A)** any transaction in which such financial institution or nonfinancial trade or business is involved for the payment, receipt, or transfer of United States coins or currency (or such other monetary instruments as the Secretary may describe in such order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
+    - **(A)** any transaction in which such financial institution or nonfinancial trade or business is involved for the payment, receipt, or transfer of funds (as the Secretary may describe in such order), the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
     - **(B)** any other person participating in such transaction;
   - **(2)** to maintain a record of such information for such period of time as the Secretary may require; and
   - **(3)** to file a report with respect to any transaction described in paragraph (1)(A) in the manner and to the extent specified in the order.
 - **(b)**
   - **(1)** The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
-    - **(A)** to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
+    - **(A)** to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the funds which are involved in the reportable transaction with the depository institution; and
     - **(B)** if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade or business failed to provide any copy of such report.
-  - **(2)** For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
+  - **(2)** For purposes of this subsection, the term “reportable transaction” means any transaction involving funds (as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
 - **(c)** No financial institution or nonfinancial trade or business or officer, director, employee or agent of a financial institution or nonfinancial trade or business subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.
 - **(d)** No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).

@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-29T19:29:50.474Z"
+generated_at: "2026-03-29T19:41:41.700Z"
 ---
 
 # § 823. Registration requirements
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T19:29:50.474Z"
         - **(II)** appropriate counseling and other appropriate ancillary services.
       - **(iii)**
         - **(I)** The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclause (II), the applicable number is 30.
-        - **(II)** The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.
+        - **(II)** The applicable number is—
         - **(III)** The Secretary may by regulation change such applicable number.
         - **(IV)** The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
     - **(C)** For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
@@ -82,13 +82,21 @@ generated_at: "2026-03-29T19:29:50.474Z"
       - **(i)** The term “group practice” has the meaning given such term in section 1395nn(h)(4) of title 42 .
       - **(ii)** The term “qualifying physician” means a physician who is licensed under State law and who meets one or more of the following conditions:
         - **(I)** The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
-    - **(II)** The physician holds an addiction certification or board certification from the American Society of Addiction Medicine or the American Board of Addiction Medicine.
+        - **(II)** The physician holds an addiction certification or board certification from the American Society of Addiction Medicine or the American Board of Addiction Medicine.
         - **(III)** The physician holds a board certification in addiction medicine from the American Osteopathic Association.
         - **(IV)** The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause. Such training shall include—
         - **(V)** The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
         - **(VI)** The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients.
         - **(VII)** The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
-- **(iii)** The term “qualifying practitioner” means—
+        - **(VIII)** The physician graduated in good standing from an accredited school of allopathic medicine or osteopathic medicine in the United States during the 5-year period immediately preceding the date on which the physician submits to the Secretary a written notification under subparagraph (B) and successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency that—
+      - **(iii)** The term “qualifying practitioner” means—
+        - **(I)** a qualifying physician, as defined in clause (ii);
+        - **(II)** a qualifying other practitioner, as defined in clause (iv), who is a nurse practitioner or physician assistant; or
+        - **(III)** for the period beginning on October 1, 2018 , and ending on October 1, 2023 , a qualifying other practitioner, as defined in clause (iv), who is a clinical nurse specialist, certified registered nurse anesthetist, or certified nurse midwife.
+      - **(iv)** The term “qualifying other practitioner” means a nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant who satisfies each of the following:
+        - **(I)** The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
+        - **(II)** The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant has—
+        - **(III)** The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
     - **(H)**
       - **(i)** In consultation with the Administrator of the Drug Enforcement Administration, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, and the Commissioner of Food and Drugs, the Secretary shall issue regulations (through notice and comment rulemaking) or issue practice guidelines to address the following:
         - **(I)** Approval of additional credentialing bodies and the responsibilities of additional credentialing bodies.
@@ -98,12 +106,6 @@ generated_at: "2026-03-29T19:29:50.474Z"
     - **(I)** Notwithstanding section 903 of this title , nothing in this paragraph shall be construed to preempt any State law that—
       - **(i)** permits a qualifying practitioner to dispense narcotic drugs in schedule III, IV, or V, or combinations of such drugs, for maintenance or detoxification treatment in accordance with this paragraph to a total number of patients that is more than 30 or less than the total number applicable to the qualifying practitioner under subparagraph (B)(iii)(II) if a State enacts a law modifying such total number and the Attorney General is notified by the State of such modification; or
       - **(ii)** requires a qualifying practitioner to comply with additional requirements relating to the dispensing of narcotic drugs in schedule III, IV, or V, or combinations of such drugs, including requirements relating to the practice setting in which the qualifying practitioner practices and education, training, and reporting requirements.
-      - **(iv)** The term “qualifying other practitioner” means a nurse practitioner or physician assistant who satisfies each of the following:
-        - **(I)** The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
-        - **(II)** The nurse practitioner or physician assistant has—
-        - **(III)** The nurse practitioner or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
-        - **(I)** a qualifying physician, as defined in clause (ii); or
-        - **(II)** during the period beginning on July 22, 2016 and ending on October 1, 2021 , a qualifying other practitioner, as defined in clause (iv).
 - **(h)** The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of section 802(39)(A) of this title . In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
   - **(1)** maintenance by the applicant of effective controls against diversion of listed chemicals into other than legitimate channels;
   - **(2)** compliance by the applicant with applicable Federal, State, and local law;
@@ -113,4 +115,76 @@ generated_at: "2026-03-29T19:29:50.474Z"
 - **(i)**
   - **(1)** For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title , not later than 180 days after the date on which the application is accepted for filing.
   - **(2)** For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title , unless the Attorney General has granted a hearing on the application under section 958(i) of this title .
-- **(j)** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in section 801 of this title .
+- **(j)**
+  - **(1)** For the purpose of enabling emergency medical services professionals to administer controlled substances in schedule II, III, IV, or V to ultimate users receiving emergency medical services in accordance with the requirements of this subsection, the Attorney General—
+    - **(A)** shall register an emergency medical services agency if the agency submits an application demonstrating it is authorized to conduct such activity under the laws of each State in which the agency practices; and
+    - **(B)** may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (f).
+  - **(2)** In registering an emergency medical services agency pursuant to paragraph (1), the Attorney General shall allow such agency the option of a single registration in each State where the agency administers controlled substances in lieu of requiring a separate registration for each location of the emergency medical services agency.
+  - **(3)** If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+  - **(4)** Emergency medical services professionals of a registered emergency medical services agency may administer controlled substances in schedule II, III, IV, or V outside the physical presence of a medical director or authorizing medical professional in the course of providing emergency medical services if the administration is—
+    - **(A)** authorized by the law of the State in which it occurs; and
+    - **(B)** pursuant to—
+      - **(i)** a standing order that is issued and adopted by one or more medical directors of the agency, including any such order that may be developed by a specific State authority; or
+      - **(ii)** a verbal order that is—
+        - **(I)** issued in accordance with a policy of the agency; and
+        - **(II)** provided by a medical director or authorizing medical professional in response to a request by the emergency medical services professional with respect to a specific patient—
+  - **(5)** A registered emergency medical services agency may deliver controlled substances from a registered location of the agency to an unregistered location of the agency only if the agency—
+    - **(A)** designates the unregistered location for such delivery; and
+    - **(B)** notifies the Attorney General at least 30 days prior to first delivering controlled substances to the unregistered location.
+  - **(6)** A registered emergency medical services agency may store controlled substances—
+    - **(A)** at a registered location of the agency;
+    - **(B)** at any designated location of the agency or in an emergency services vehicle situated at a registered or designated location of the agency; or
+    - **(C)** in an emergency medical services vehicle used by the agency that is—
+      - **(i)** traveling from, or returning to, a registered or designated location of the agency in the course of responding to an emergency; or
+      - **(ii)** otherwise actively in use by the agency under circumstances that provide for security of the controlled substances consistent with the requirements established by regulations of the Attorney General.
+  - **(7)** The delivery of controlled substances by a registered emergency medical services agency pursuant to this subsection shall not be treated as distribution for purposes of section 828 of this title .
+  - **(8)** Notwithstanding paragraph (13)(J), a registered emergency medical services agency may receive controlled substances from a hospital for purposes of restocking an emergency medical services vehicle following an emergency response, and without being subject to the requirements of section 828 of this title , provided all of the following conditions are satisfied:
+    - **(A)** The registered or designated location of the agency where the vehicle is primarily situated maintains a record of such receipt in accordance with paragraph (9).
+    - **(B)** The hospital maintains a record of such delivery to the agency in accordance with section 827 of this title .
+    - **(C)** If the vehicle is primarily situated at a designated location, such location notifies the registered location of the agency within 72 hours of the vehicle receiving the controlled substances.
+  - **(9)**
+    - **(A)** A registered emergency medical services agency shall maintain records in accordance with subsections (a) and (b) of section 827 of this title of all controlled substances that are received, administered, or otherwise disposed of pursuant to the agency’s registration, without regard to sub section 827(c)(1)(B) of this title .
+    - **(B)** Such records—
+      - **(i)** shall include records of deliveries of controlled substances between all locations of the agency; and
+      - **(ii)** shall be maintained, whether electronically or otherwise, at each registered and designated location of the agency where the controlled substances involved are received, administered, or otherwise disposed of.
+  - **(10)** A registered emergency medical services agency, under the supervision of a medical director, shall be responsible for ensuring that—
+    - **(A)** all emergency medical services professionals who administer controlled substances using the agency’s registration act in accordance with the requirements of this subsection;
+    - **(B)** the recordkeeping requirements of paragraph (9) are met with respect to a registered location and each designated location of the agency;
+    - **(C)** the applicable physical security requirements established by regulation of the Attorney General are complied with wherever controlled substances are stored by the agency in accordance with paragraph (6); and
+    - **(D)** the agency maintains, at a registered location of the agency, a record of the standing orders issued or adopted in accordance with paragraph (9).
+  - **(11)** The Attorney General may issue regulations—
+    - **(A)** specifying, with regard to delivery of controlled substances under paragraph (5)—
+      - **(i)** the types of locations that may be designated under such paragraph; and
+      - **(ii)** the manner in which a notification under paragraph (5)(B) must be made;
+    - **(B)** specifying, with regard to the storage of controlled substances under paragraph (6), the manner in which such substances must be stored at registered and designated locations, including in emergency medical service vehicles; and
+    - **(C)** addressing the ability of hospitals, emergency medical services agencies, registered locations, and designated locations to deliver controlled substances to each other in the event of—
+      - **(i)** shortages of such substances;
+      - **(ii)** a public health emergency; or
+      - **(iii)** a mass casualty event.
+  - **(12)** Nothing in this subsection shall be construed—
+    - **(A)** to limit the authority vested in the Attorney General by other provisions of this subchapter to take measures to prevent diversion of controlled substances; or
+    - **(B)** to override the authority of any State to regulate the provision of emergency medical services consistent with this subsection.
+  - **(13)** In this section:
+    - **(A)** The term “authorizing medical professional” means an emergency or other physician, or another medical professional (including an advanced practice registered nurse or physician assistant)—
+      - **(i)** who is registered under this chapter;
+      - **(ii)** who is acting within the scope of the registration; and
+      - **(iii)** whose scope of practice under a State license or certification includes the ability to provide verbal orders.
+    - **(B)** The term “designated location” means a location designated by an emergency medical services agency under paragraph (5).
+    - **(C)** The term “emergency medical services” means emergency medical response and emergency mobile medical services provided outside of a fixed medical facility.
+    - **(D)** The term “emergency medical services agency” means an organization providing emergency medical services, including such an organization that—
+      - **(i)** is governmental (including fire-based and hospital-based agencies), nongovernmental (including hospital-based agencies), private, or volunteer-based;
+      - **(ii)** provides emergency medical services by ground, air, or otherwise; and
+      - **(iii)** is authorized by the State in which the organization is providing such services to provide emergency medical care, including the administering of controlled substances, to members of the general public on an emergency basis.
+    - **(E)** The term “emergency medical services professional” means a health care professional (including a nurse, paramedic, or emergency medical technician) licensed or certified by the State in which the professional practices and credentialed by a medical director of the respective emergency medical services agency to provide emergency medical services within the scope of the professional’s State license or certification.
+    - **(F)** The term “emergency medical services vehicle” means an ambulance, fire apparatus, supervisor truck, or other vehicle used by an emergency medical services agency for the purpose of providing or facilitating emergency medical care and transport or transporting controlled substances to and from the registered and designated locations.
+    - **(G)** The term “hospital-based” means, with respect to an agency, owned or operated by a hospital.
+    - **(H)** The term “medical director” means a physician who is registered under subsection (f) and provides medical oversight for an emergency medical services agency.
+    - **(I)** The term “medical oversight” means supervision of the provision of medical care by an emergency medical services agency.
+    - **(J)** The term “registered emergency medical services agency” means—
+      - **(i)** an emergency medical services agency that is registered pursuant to this subsection; or
+      - **(ii)** a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (f).
+    - **(K)** The term “registered location” means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (f), which shall be where the agency receives controlled substances from distributors.
+    - **(L)** The term “specific State authority” means a governmental agency or other such authority, including a regional oversight and coordinating body, that, pursuant to State law or regulation, develops clinical protocols regarding the delivery of emergency medical services in the geographic jurisdiction of such agency or authority within the State that may be adopted by medical directors.
+    - **(M)** The term “standing order” means a written medical protocol in which a medical director determines in advance the medical criteria that must be met before administering controlled substances to individuals in need of emergency medical services.
+    - **(N)** The term “verbal order” means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
+- **(k)** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in section 801 of this title .

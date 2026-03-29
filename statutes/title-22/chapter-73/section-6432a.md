@@ -3,9 +3,9 @@ title: "Section 6432a - Powers of the Commission"
 usc_title: 22
 usc_section: "6432a"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6432a"
-generated_at: "2026-03-29T19:29:46.920Z"
+generated_at: "2026-03-29T19:42:08.226Z"
 ---
 
 # § 6432a. Powers of the Commission
@@ -14,5 +14,11 @@ generated_at: "2026-03-29T19:29:46.920Z"
 - **(b)** The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission, subject to applicable law.
 - **(c)** The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 - **(d)** The Commission may adopt such rules and regulations, relating to administrative procedure, as may be reasonably necessary to enable it to carry out the provisions of this subchapter.
-- **(e)** The Members of the Commission may speak in their capacity as private citizens. Statements on behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description.
-- **(f)** The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provision shall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
+- **(e)** The Members of the Commission may speak in their capacity as private citizens. Statements on behalf of the Commission shall be issued in writing over the names of the Members. The Commission shall in its written statements clearly describe its statutory authority, distinguishing that authority from that of appointed or elected officials of the United States Government. Oral statements, where practicable, shall include a similar description. If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Official speeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission.
+- **(f)**
+  - **(1)** The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provision shall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
+  - **(2)** Members of the Commission and Commission staff may not accept payment from a non-Federal source for expenses related to official travel on behalf of the Commission.
+- **(g)** Not later than March 1 of each year, each Member of the Commission shall submit a report to the appropriate congressional committees (as defined in section 6433a(a) of this title ) with respect to the most recently concluded 12-month period, that discloses any travel by the Member outside of the United States that was paid for or reimbursed by a person or entity other than the Member, a relative of the Member, or the Federal Government, including—
+  - **(1)** who paid for or reimbursed the travel;
+  - **(2)** a good faith estimate of the cost of the travel, if the travel was funded by a person or entity that does not employ the Member; and
+  - **(3)** brief details of the travel and events related to such travel.

@@ -1,16 +1,12 @@
 ---
-title: "Section 439a - Powers and duties of Secretary of Agriculture"
+title: "Section 439a - Omitted"
 usc_title: 7
 usc_section: "439a"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 439a"
-generated_at: "2026-03-29T19:27:31.678Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 439a. Powers and duties of Secretary of Agriculture
+# § 439a. Omitted
 
-In carrying out the purposes of sections 439 to 439e of this title the Secretary is authorized, upon such terms and conditions as he deems reasonable, and notwithstanding the provisions of any other law—
-
-- **(a)** to provide for the operation of such plants by lease or other arrangement;
-- **(b)** to operate such plants, where operation by others will not, in the judgment of the Secretary, accomplish the purpose of sections 439 to 439e of this title.

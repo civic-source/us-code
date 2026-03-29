@@ -3,9 +3,9 @@ title: "Section 193 - Procedure before Secretary for violations"
 usc_title: 7
 usc_section: "193"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 193"
-generated_at: "2026-03-29T19:27:31.663Z"
+generated_at: "2026-03-29T19:43:58.036Z"
 ---
 
 # § 193. Procedure before Secretary for violations

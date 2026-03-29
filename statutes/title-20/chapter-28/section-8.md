@@ -3,9 +3,9 @@ title: "Section 8 - Unsubsidized Stafford loans for middle-income borrowers"
 usc_title: 20
 usc_section: "8"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 8"
-generated_at: "2026-03-29T19:28:42.996Z"
+generated_at: "2026-03-29T19:41:03.212Z"
 ---
 
 # § 1078–8. Unsubsidized Stafford loans for middle-income borrowers
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T19:28:42.996Z"
 - **(e)**
   - **(1)** Repayment of principal on loans made under this section shall begin at the beginning of the repayment period described in section 1078(b)(7) of this title . Not less than 30 days prior to the anticipated commencement of such repayment period, the holder of such loan shall provide notice to the borrower that interest will accrue before repayment begins and of the borrower’s option to begin loan repayment at an earlier date.
   - **(2)**
-    - **(A)** Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender—
+    - **(A)** Except as provided in subparagraph (C), interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender—
       - **(i)** be paid monthly or quarterly; or
       - **(ii)** be added to the principal amount of the loan by the lender only—
         - **(I)** when the loan enters repayment;
@@ -53,6 +53,7 @@ generated_at: "2026-03-29T19:28:42.996Z"
         - **(III)** at the expiration of a period of deferment or forbearance; or
         - **(IV)** when the borrower defaults.
     - **(B)** The capitalization of interest described in subparagraph (A) shall not be deemed to exceed the annual insurable limit on account of the student.
+    - **(C)** Interest shall not accrue on a loan deferred under section 1078(b)(1)(M)(v) or 1077(a)(2)(C)(iv) of this title.
   - **(3)** No payments to reduce interest costs shall be paid pursuant to section 1078(a) of this title on loans made pursuant to this section.
   - **(4)** Interest on loans made pursuant to this section shall be at the applicable rate of interest provided in section 1077a of this title .
   - **(5)** The amount of the periodic payment and the repayment schedule for any loan made pursuant to this section shall be established by assuming an interest rate equal to the applicable rate of interest at the time the repayment of the principal amount of the loan commences. At the option of the lender, the note or other written evidence of the loan may require that—

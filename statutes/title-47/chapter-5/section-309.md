@@ -3,9 +3,9 @@ title: "Section 309 - Application for license"
 usc_title: 47
 usc_section: "309"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-29T19:32:13.772Z"
+generated_at: "2026-03-29T19:44:37.185Z"
 ---
 
 # § 309. Application for license
@@ -97,11 +97,10 @@ generated_at: "2026-03-29T19:32:13.772Z"
     - **(C)** Nothing in this paragraph shall be construed to prevent the Commission from continuing to consider consumer demand for spectrum-based services.
   - **(8)**
     - **(A)** Except as provided in subparagraphs (B), (D), (E), (F), and (G), all proceeds from the use of a competitive bidding system under this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
-    - **(B)** Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Such offsetting collections are authorized to remain available until expended. No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998 , if the annual report of the Commission under section 154(k) of this title for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.
-    - **(C)** Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in an interest bearing account at a financial institution designated for purposes of this subsection by the Commission (after consultation with the Secretary of the Treasury). Within 45 days following the conclusion of the competitive bidding—
-      - **(i)** the deposits of successful bidders shall be paid to the Treasury, except as otherwise provided in subparagraphs (D)(ii), (E)(ii), (F), and (G);
-      - **(ii)** the deposits of unsuccessful bidders shall be returned to such bidders; and
-      - **(iii)** the interest accrued to the account shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
+    - **(B)** Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Such offsetting collections are authorized to remain available until expended.
+    - **(C)** Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in the Treasury. Within 45 days following the conclusion of the competitive bidding—
+      - **(i)** the deposits of successful bidders shall be deposited in the general fund of the Treasury (where such deposits shall be used for the sole purpose of deficit reduction), except as otherwise provided in subparagraphs (D)(ii), (E)(ii), (F), and (G); and
+      - **(ii)** the deposits of unsuccessful bidders shall be returned to such bidders, and payments representing the return of such deposits shall not be subject to administrative offset under section 3716(c) of title 31 .
     - **(D)**
       - **(i)** Except as provided in clause (ii), cash proceeds attributable to the auction of any eligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act ( 47 U.S.C. 923(g)(2) ) shall be deposited in the Spectrum Relocation Fund established under section 118 of such Act [ 47 U.S.C. 928 ], and shall be available in accordance with that section.
       - **(ii)** Notwithstanding subparagraph (A) and except as provided in subparagraph (B), in the case of proceeds (including deposits and upfront payments from successful bidders) attributable to the auction of eligible frequencies described in paragraph (2) of section 113(g) of the National Telecommunications and Information Administration Organization Act [ 47 U.S.C. 923(g) ] that are required to be auctioned by section 1451(b)(1)(B) of this title , such portion of such proceeds as is necessary to cover the relocation or sharing costs (as defined in paragraph (3) of such section 113(g)) of Federal entities relocated from such eligible frequencies shall be deposited in the Spectrum Relocation Fund. The remainder of such proceeds shall be deposited in the Public Safety Trust Fund established by section 1457(a)(1) of this title .
@@ -140,17 +139,8 @@ generated_at: "2026-03-29T19:32:13.772Z"
       - **(iii)** the Commission has failed to issue the regulations required by section 115(a) of such Act [ 47 U.S.C. 925(a) ];
       - **(iv)** the Commission has failed to complete and submit to Congress, not later than 18 months after August 10, 1993 , a study of current and future spectrum needs of State and local government public safety agencies through the year 2010, and a specific plan to ensure that adequate frequencies are made available to public safety licensees; or
       - **(v)** the Commission has failed under section 332(c)(3) of this title to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993 ;
-  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022 , except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025 .
-  - **(12)** Not later than September 30, 1997 , the Commission shall conduct a public inquiry and submit to the Congress a report—
-    - **(A)** containing a statement of the revenues obtained, and a projection of the future revenues, from the use of competitive bidding systems under this subsection;
-    - **(B)** describing the methodologies established by the Commission pursuant to paragraphs (3) and (4);
-    - **(C)** comparing the relative advantages and disadvantages of such methodologies in terms of attaining the objectives described in such paragraphs;
-    - **(D)** evaluating whether and to what extent—
-      - **(i)** competitive bidding significantly improved the efficiency and effectiveness of the process for granting radio spectrum licenses;
-      - **(ii)** competitive bidding facilitated the introduction of new spectrum-based technologies and the entry of new companies into the telecommunications market;
-      - **(iii)** competitive bidding methodologies have secured prompt delivery of service to rural areas and have adequately addressed the needs of rural spectrum users; and
-      - **(iv)** small businesses, rural telephone companies, and businesses owned by members of minority groups and women were able to participate successfully in the competitive bidding process; and
-    - **(E)** recommending any statutory changes that are needed to improve the competitive bidding process.
+  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022 , except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025 , and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021 .
+  - **(12)**
   - **(13)**
     - **(A)** Notwithstanding paragraph (6)(G), the Commission shall not award licenses pursuant to a preferential treatment accorded by the Commission to persons who make significant contributions to the development of a new telecommunications service or technology, except in accordance with the requirements of this paragraph.
     - **(B)** The Commission shall recover for the public a portion of the value of the public spectrum resource made available to such person by requiring such person, as a condition for receipt of the license, to agree to pay a sum determined by—
@@ -197,9 +187,7 @@ generated_at: "2026-03-29T19:32:13.772Z"
         - **(II)** the D-block of licenses on the bands of frequencies located at 716–722 megahertz.
       - **(ii)** The entities that shall be eligible to bid in the auction of the C-block and D-block licenses described in clause (i) shall be those entities that were qualified entities, and that submitted applications to participate in auction 44, by May 8, 2002 , as part of the original auction 44 short form filing deadline.
       - **(iii)** Notwithstanding subparagraph (B), the auction of the C-block and D-block licenses described in clause (i) shall be commenced no earlier than August 19, 2002 , and no later than September 19, 2002 , and the proceeds of such auction shall be deposited in accordance with paragraph (8) not later than December 31, 2002 .
-      - **(iv)** Within one year after June 19, 2002 , the Commission shall submit a report to Congress—
-        - **(I)** specifying when the Commission intends to reschedule auctions 31 and 44 (other than the blocks excepted by clause (i)); and
-        - **(II)** describing the progress made by the Commission in the digital television transition and in the assignment and allocation of additional spectrum for advanced mobile communications services that warrants the scheduling of such auctions.
+      - **(iv)**
       - **(v)** Notwithstanding subparagraph (B), the Commission shall conduct the auction of the licenses for recovered analog spectrum by commencing the bidding not later than January 28, 2008 , and shall deposit the proceeds of such auction in accordance with paragraph (8)(E)(ii) not later than June 30, 2008 .
       - **(vi)** For purposes of clause (v), the term “recovered analog spectrum” means the spectrum between channels 52 and 69, inclusive (between frequencies 698 and 806 megahertz, inclusive) reclaimed from analog television service broadcasting under paragraph (14), other than—
         - **(I)** the spectrum required by section 337 of this title to be made available for public safety services; and
@@ -216,6 +204,9 @@ generated_at: "2026-03-29T19:32:13.772Z"
         - **(I)** meets the technical, financial, character, and citizenship qualifications that the Commission may require under section 303( l )(1), 308(b), or 310 of this title to hold a license; or
         - **(II)** would meet such license qualifications by means approved by the Commission prior to the grant of the license.
     - **(B)** Nothing in subparagraph (A) affects any authority the Commission has to adopt and enforce rules of general applicability, including rules concerning spectrum aggregation that promote competition.
+  - **(18)**
+    - **(A)** Not later than September 30, 2018 , and annually thereafter, the Commission shall make publicly available an estimate of what systems of competitive bidding authorized under this subsection may be initiated during the upcoming 12-month period.
+    - **(B)** The estimate under subparagraph (A) shall, to the extent possible, identify the bands of frequencies the Commission expects to be included in each such system of competitive bidding.
 - **(k)**
   - **(1)** If the licensee of a broadcast station submits an application to the Commission for renewal of such license, the Commission shall grant the application if it finds, with respect to that station, during the preceding term of its license—
     - **(A)** the station has served the public interest, convenience, and necessity;

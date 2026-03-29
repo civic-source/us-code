@@ -1,14 +1,50 @@
 ---
-title: "Section 81c - Addition of lands"
+title: "Section 81c - Prohibited uses of acquired, donated, and conservation land"
 usc_title: 16
 usc_section: "81c"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 81c"
-generated_at: "2026-03-29T19:29:27.029Z"
+generated_at: "2026-03-29T19:41:13.367Z"
 ---
 
-# § 81c. Addition of lands
+# § 410aaa–81c. Prohibited uses of acquired, donated, and conservation land
 
-The Secretary of the Interior is authorized, in his discretion, to acquire by purchase and/or accept by donation, in behalf of the United States, such lands, easements, and buildings comprising the former Governor Berkeley’s mansion and homestead in James City County and Carter’s Grove mansion and homestead in the same county, and the Rosewell mansion and homestead in Gloucester County as are desirable for the proper rounding out of the boundaries and for the administrative control of the Colonial National Historical Park, and such lands as are necessary for parkways, not to exceed five hundred feet wide, to connect said mansions to the said Colonial National Historical Park, the title and evidence of title to lands acquired to be satisfactory to the Secretary of the Interior: Provided , That the said acquisition of lands and/or improvements shall be made only from such funds as may be appropriated pursuant to the authorization of section 81f of this title .
-
+- **(a)** In this section:
+  - **(1)** The term “acquired land” means any land acquired within the Conservation Area using amounts from the land and water conservation fund established under section 200302 of title 54 .
+  - **(2)** The term “Conservation Area” means the California Desert Conservation Area.
+  - **(3)** The term “conservation land” means any land within the Conservation Area that is designated to satisfy the conditions of a Federal habitat conservation plan, general conservation plan, or State natural communities conservation plan, including—
+    - **(A)** national conservation land established pursuant to section 7202(b)(2)(D) of this title ; and
+    - **(B)** areas of critical environmental concern established pursuant to section 1712(c)(3) of title 43 .
+  - **(4)** The term “donated land” means any private land donated to the United States for conservation purposes in the Conservation Area.
+  - **(5)** The term “donor” means an individual or entity that donates private land within the Conservation Area to the United States.
+  - **(6)** The term “Secretary” means the Secretary, acting through the Director of the Bureau of Land Management.
+  - **(7)** The term “State” means the State of California.
+- **(b)** Except as provided in subsection (c), the Secretary shall not authorize the use of acquired land, conservation land, or donated land within the Conservation Area for any activities contrary to the conservation purposes for which the land was acquired, designated, or donated, including—
+  - **(1)** disposal;
+  - **(2)** rights-of-way;
+  - **(3)** leases;
+  - **(4)** livestock grazing;
+  - **(5)** infrastructure development, except as provided in subsection (c);
+  - **(6)** mineral entry; and
+  - **(7)** off-highway vehicle use, except on—
+    - **(A)** designated routes;
+    - **(B)** off-highway vehicle areas designated by law; and
+    - **(C)** administratively designated open areas.
+- **(c)**
+  - **(1)** Subject to paragraph (2), the Secretary may authorize limited exceptions to prohibited uses of acquired land or donated land in the Conservation Area if—
+    - **(A)** a right-of-way application for a renewable energy development project or associated energy transport facility on acquired land or donated land was submitted to the Bureau of Land Management on or before December 1, 2009 ; or
+    - **(B)** after the completion and consideration of an analysis under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), the Secretary has determined that proposed use is in the public interest.
+  - **(2)**
+    - **(A)** If the Secretary grants an exception to the prohibition under paragraph (1), the Secretary shall require the permittee to donate private land of comparable value located within the Conservation Area to the United States to mitigate the use.
+    - **(B)** The private land to be donated under subparagraph (A) shall be approved by the Secretary after—
+      - **(i)** consultation, to the maximum extent practicable, with the donor of the private land proposed for nonconservation uses; and
+      - **(ii)** an opportunity for public comment regarding the donation.
+- **(d)** Nothing in this section affects permitted or prohibited uses of donated land or acquired land in the Conservation Area established in any easements, deed restrictions, memoranda of understanding, or other agreements in existence on March 12, 2019 .
+- **(e)** Effective beginning on March 12, 2019 , within the Conservation Area, the Secretary may—
+  - **(1)** accept deed restrictions requested by landowners for land donated to, or otherwise acquired by, the United States; and
+  - **(2)** consistent with existing rights, create deed restrictions, easements, or other third-party rights relating to any public land determined by the Secretary to be necessary—
+    - **(A)** to fulfill the mitigation requirements resulting from the development of renewable resources; or
+    - **(B)** to satisfy the conditions of—
+      - **(i)** a habitat conservation plan or general conservation plan established pursuant to section 1539 of this title ; or
+      - **(ii)** a natural communities conservation plan approved by the State.

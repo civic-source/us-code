@@ -3,14 +3,14 @@ title: "Section 122a - Public availability of Department of Defense reports requ
 usc_title: 10
 usc_section: "122a"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 122a"
-generated_at: "2026-03-29T19:27:25.419Z"
+generated_at: "2026-03-29T19:43:37.769Z"
 ---
 
 # § 122a. Public availability of Department of Defense reports required by law
 
-- **(a)** To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Office of the Assistant Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
+- **(a)** To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
   - **(1)** posting the report on a publicly accessible Internet website of the Department of Defense; and
   - **(2)** upon request, transmitting the report by other means, as long as such transmission is at no cost to the Department.
 - **(b)**
@@ -20,3 +20,4 @@ generated_at: "2026-03-29T19:27:25.419Z"
     - **(B)** proprietary information;
     - **(C)** information that is exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”); or
     - **(D)** any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
+- **(c)** Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.

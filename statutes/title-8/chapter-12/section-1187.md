@@ -3,9 +3,9 @@ title: "Section 1187 - Visa waiver program for certain visitors"
 usc_title: 8
 usc_section: "1187"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 1187"
-generated_at: "2026-03-29T19:27:14.456Z"
+generated_at: "2026-03-29T19:43:45.667Z"
 ---
 
 # § 1187. Visa waiver program for certain visitors
@@ -30,11 +30,11 @@ generated_at: "2026-03-29T19:27:14.456Z"
     - **(A)** Except as provided in subparagraphs (B) and (C)—
       - **(i)** the alien has not been present, at any time on or after March 1, 2011 —
         - **(I)** in Iraq or Syria;
-        - **(II)** in a country that is designated by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+        - **(II)** in a country that is designated by the Secretary of State under section 4605(j) 2 2 See References in Text note below. of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
         - **(III)** in any other country or area of concern designated by the Secretary of Homeland Security under subparagraph (D); and
       - **(ii)** regardless of whether the alien is a national of a program country, the alien is not a national of—
         - **(I)** Iraq or Syria;
-        - **(II)** a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+        - **(II)** a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) 2 of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
         - **(III)** any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
     - **(B)** Subparagraph (A)(i) shall not apply in the case of an alien if the Secretary of Homeland Security determines that the alien was present—
       - **(i)** in order to perform military service in the armed forces of a program country; or
@@ -175,7 +175,7 @@ generated_at: "2026-03-29T19:27:14.456Z"
     - **(D)** to collect, provide, and share passenger data as required under subsection (h)(1)(B).
   - **(2)** The Secretary of Homeland Security may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
   - **(3)**
-    - **(A)** For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations 2 2 So in original. Probably should be followed by a comma. that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
+    - **(A)** For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations 1 that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
     - **(B)** In addition to any other fee authorized by law, the Secretary of Homeland Security is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title .
 - **(f)**
   - **(1)**
@@ -226,10 +226,10 @@ generated_at: "2026-03-29T19:27:14.456Z"
     - **(A)** The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic system for travel authorization (referred to in this paragraph as the “System”) to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the 4 4 So in original. Probably should be “an”. alien to travel to the United States.
     - **(B)**
       - **(i)** No later than 6 months after March 4, 2010 , the Secretary of Homeland Security shall establish a fee for the use of the System and begin assessment and collection of that fee. The initial fee shall be the sum of—
-        - **(I)** $10 per travel authorization; and
+        - **(I)** $17 per travel authorization; and
         - **(II)** an amount that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary.
       - **(ii)** Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22 . Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
-      - **(iii)** The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2020 .
+      - **(iii)** The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2027 .
     - **(C)**
       - **(i)** The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
       - **(ii)** A determination by the Secretary of Homeland Security that an alien is eligible to travel to the United States under the program is not a determination that the alien is admissible to the United States.

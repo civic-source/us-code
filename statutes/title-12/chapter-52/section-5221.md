@@ -3,9 +3,9 @@ title: "Section 5221 - Executive compensation and corporate governance"
 usc_title: 12
 usc_section: "5221"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 5221"
-generated_at: "2026-03-29T19:28:17.848Z"
+generated_at: "2026-03-29T19:44:54.329Z"
 ---
 
 # § 5221. Executive compensation and corporate governance

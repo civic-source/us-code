@@ -3,9 +3,9 @@ title: "Section 503 - Official mail of persons entitled to use congressional fra
 usc_title: 2
 usc_section: "503"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 503"
-generated_at: "2026-03-29T19:27:07.523Z"
+generated_at: "2026-03-29T19:42:59.614Z"
 ---
 
 # § 503. Official mail of persons entitled to use congressional frank
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:07.523Z"
   - **(2)**
     - **(A)** with respect to the House of Representatives, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session or to any other such person); and
     - **(B)** with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
-  - **(3)** with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs incurred for official mail by each person entitled to use the congressional frank.
+  - **(3)** with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Communications Standards Commission or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Communications Standards Commission) of costs incurred for official mail by each person entitled to use the congressional frank.
 - **(b)** The Postmaster General, in consultation with the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives—
   - **(1)** shall monitor use of official mail by each person entitled to use the congressional frank;
   - **(2)** at least monthly, shall notify any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B) as to the percentage of the allocation that has been used; and
@@ -30,13 +30,20 @@ generated_at: "2026-03-29T19:27:07.523Z"
 - **(e)**
   - **(1)** The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—
     - **(A)** by the Committee on House Oversight of the House of Representatives, with respect to allocation and expenditures relating to official mail (except as provided in subparagraph (B)); and
-    - **(B)** by the House Commission on Congressional Mailing Standards, with respect to matters under section 3210(a)(6)(D) of title 39 .
+    - **(B)** by the House Communications Standards Commission, with respect to matters under section 3210(a)(6)(D) of title 39 .
   - **(2)** Funds used for official mail—
     - **(A)** with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in section 3210(d)(7)(B) of title 39 ; and
     - **(B)** with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A).
-- **(f)** A Member of the House of Representatives shall, before making any mass mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.
+- **(f)**
+  - **(1)** Except as provided in paragraph (2), a Member of the House of Representatives shall, before making any mass communication, submit a sample or description of the matter involved to the House Communications Standards Commission for an advisory opinion as to whether such proposed communication is in compliance with applicable provisions of law, rule, or regulation.
+  - **(2)** Paragraph (1) does not apply in the case of any type of mass communication which is designated as exempt from the requirements of such paragraph as provided under regulations of the House Communications Standards Commission.
 - **(g)** As used in subsections (a) through (f)—
-  - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
-  - **(2)** the term “person entitled to use the congressional frank” means a Senator, Member of the House of Representatives, or other person authorized to use the frank under section 3210(b) of title 39 .
+  - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
+  - **(2)** the term “person entitled to use the congressional frank” means a Senator, Member of the House of Representatives, or other person authorized to use the frank under section 3210(b) of title 39 ; and
+  - **(3)** the term “mass communication” means a mass mailing described in section 3210(a)(6)(E) of title 39 or any other unsolicited communication of substantially identical content which is transmitted to 500 or more persons in a session of Congress, as provided under regulations of the House Communications Standards Commission, except that such term does not include—
+    - **(A)** any communication from a Member of the House of Representatives to another Member of the House of Representatives, a Senator, or any Federal, State, or local government official;
+    - **(B)** any news release to the communications media;
+    - **(C)** any such mass mailing or unsolicited communication made in direct response to a communication from a person to whom the mass mailing or unsolicited communication was transmitted; or
+    - **(D)** in the case of any such unsolicited communication which is transmitted in a digital format, a communication for which the cost of the content is less than a threshold amount established under regulations of the House Communications Standards Commission.
 - **(h)**
 - **(i)** This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992 , and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.

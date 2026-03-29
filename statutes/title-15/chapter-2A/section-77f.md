@@ -3,16 +3,16 @@ title: "Section 77f - Registration of securities"
 usc_title: 15
 usc_section: "77f"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 77f"
-generated_at: "2026-03-29T19:27:55.072Z"
+generated_at: "2026-03-29T19:44:42.482Z"
 ---
 
 # § 77f. Registration of securities
 
 - **(a)** Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
 - **(b)**
-  - **(1)** At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
+  - **(1)** At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 1 1 See Adjustment of Registration Fee Rate notes below. per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
   - **(2)** For each fiscal year, the Commission shall by order adjust the rate required by paragraph (1) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collections under this subsection that are equal to the target fee collection amount for such fiscal year.
   - **(3)** The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
   - **(4)** In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5 . An adjusted rate prescribed under paragraph (2) and published under paragraph (5) shall not be subject to judicial review. An adjusted rate prescribed under paragraph (2) shall take effect on the first day of the fiscal year to which such rate applies.

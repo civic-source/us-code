@@ -1,12 +1,12 @@
 ---
-title: "Section 913 - Repealed. Pub. L. 97–34, title I , § 112(a), Aug. 13, 1981 , 95 Stat. 194 ]"
+title: "Section 913 - Repealed. Pub. L. 97–34, title I, § 112(a) , Aug. 13, 1981 , 95 Stat. 194 ]"
 usc_title: 26
 usc_section: "913"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 913"
-generated_at: "2026-03-29T19:30:19.943Z"
+generated_at: "2026-03-29T19:42:47.768Z"
 ---
 
-# [§ 913. Repealed. Pub. L. 97–34, title I , § 112(a), Aug. 13, 1981 , 95 Stat. 194 ]
+# [§ 913. Repealed. Pub. L. 97–34, title I, § 112(a) , Aug. 13, 1981 , 95 Stat. 194 ]
 

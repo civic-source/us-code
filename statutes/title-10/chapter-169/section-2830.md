@@ -1,20 +1,12 @@
 ---
-title: "Section 2830 - Occupancy of substandard family housing units"
+title: "Section 2830 - Repealed. Pub. L. 116–283, div. B, title XXVIII, § 2812(a) , Jan. 1, 2021 , 134 Stat. 4326 ]"
 usc_title: 10
 usc_section: "2830"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2830"
-generated_at: "2026-03-29T19:27:25.644Z"
+generated_at: "2026-03-29T19:43:38.016Z"
 ---
 
-# § 2830. Occupancy of substandard family housing units
+# [§ 2830. Repealed. Pub. L. 116–283, div. B, title XXVIII, § 2812(a) , Jan. 1, 2021 , 134 Stat. 4326 ]
 
-- **(a)**
-  - **(1)** A member of the uniformed services with dependents may, without loss of the member’s basic allowance for housing under section 403 of title 37 , occupy a substandard family housing unit under the jurisdiction of the Secretary concerned.
-  - **(2)** Occupancy of a family housing unit under paragraph (1) shall be subject to a charge against the member’s basic allowance for housing in the amount of the fair rental value of the housing unit. However, such a charge may not be made in an amount in excess of 75 percent of the amount of such allowance.
-- **(b)**
-  - **(1)** The Secretary concerned may lease substandard family housing units to members of any of the uniformed services for occupancy by such members.
-  - **(2)** The authority to enter into leases under paragraph (1) shall be exercised—
-    - **(A)** in the case of a lease by the Secretary of a military department, subject to regulations prescribed by the Secretary of Defense; and
-    - **(B)** in the case of a lease by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, subject to regulations prescribed by that Secretary.

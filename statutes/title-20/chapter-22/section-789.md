@@ -1,12 +1,12 @@
 ---
-title: "Section 789 - Repealed. Pub. L. 89–209 , § 6(d)(5), Sept. 29, 1965 , 79 Stat. 850"
+title: "Section 789 - Repealed. Pub. L. 89–209, § 6(d)(5) , Sept. 29, 1965 , 79 Stat. 850"
 usc_title: 20
 usc_section: "789"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 789"
-generated_at: "2026-03-29T19:28:42.935Z"
+generated_at: "2026-03-29T19:41:03.156Z"
 ---
 
-# § 789. Repealed. Pub. L. 89–209 , § 6(d)(5), Sept. 29, 1965 , 79 Stat. 850
+# § 789. Repealed. Pub. L. 89–209, § 6(d)(5) , Sept. 29, 1965 , 79 Stat. 850
 

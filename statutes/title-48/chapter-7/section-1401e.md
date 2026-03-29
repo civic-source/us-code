@@ -1,12 +1,12 @@
 ---
-title: "Section 1401e - Repealed. Pub. L. 110–40 , § 1(a), June 29, 2007 , 121 Stat. 232"
+title: "Section 1401e - Repealed. Pub. L. 110–40, § 1(a) , June 29, 2007 , 121 Stat. 232"
 usc_title: 48
 usc_section: "1401e"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1401e"
-generated_at: "2026-03-29T19:31:53.947Z"
+generated_at: "2026-03-29T19:44:59.781Z"
 ---
 
-# §§ 1401 to 1401e. Repealed. Pub. L. 110–40 , § 1(a), June 29, 2007 , 121 Stat. 232
+# §§ 1401 to 1401e. Repealed. Pub. L. 110–40, § 1(a) , June 29, 2007 , 121 Stat. 232
 

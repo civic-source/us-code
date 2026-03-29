@@ -1,14 +1,19 @@
 ---
-title: "Section 835 - Art. 35. Service of charges"
+title: "Section 835 - Art. 35. Service of charges; commencement of trial"
 usc_title: 10
 usc_section: "835"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 835"
-generated_at: "2026-03-29T19:27:25.470Z"
+generated_at: "2026-03-29T19:43:37.846Z"
 ---
 
-# § 835. Art. 35. Service of charges
+# § 835. Art. 35. Service of charges; commencement of trial
 
-The trial counsel to whom court-martial charges are referred for trial shall cause to be served upon the accused a copy of the charges upon which trial is to be had. In time of peace no person may, against his objection, be brought to trial, or be required to participate by himself or counsel in a session called by the military judge under section 839(a) of this title (article 39(a)), in a general court-martial case within a period of five days after the service of charges upon him, or in a special court-martial case within a period of three days after the service of charges upon him.
-
+- **(a)** Trial counsel detailed for a court-martial under section 827 of this title (article 27) shall cause to be served upon the accused a copy of the charges and specifications referred for trial.
+- **(b)**
+  - **(1)** Subject to paragraphs (2) and (3), no trial or other proceeding of a general court-martial or a special court-martial (including any session under section 839(a) of this title (article 39(a)) may be held over the objection of the accused—
+    - **(A)** with respect to a general court-martial, from the time of service through the fifth day after the date of service; or
+    - **(B)** with respect to a special court-martial, from the time of service through the third day after the date of service.
+  - **(2)** An objection under paragraph (1) may be raised only at the first session of the trial or other proceeding and only if the first session occurs before the end of the applicable period under paragraph (1)(A) or (1)(B). If the first session occurs before the end of the applicable period, the military judge shall, at that session, inquire as to whether the defense objects under this subsection.
+  - **(3)** This subsection shall not apply in time of war.

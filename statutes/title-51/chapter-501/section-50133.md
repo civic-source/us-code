@@ -1,14 +1,12 @@
 ---
-title: "Section 50133 - Shuttle privatization"
+title: "Section 50133 - Repealed. Pub. L. 115–10, title IV, § 416(c) , Mar. 21, 2017 , 131 Stat. 35 ]"
 usc_title: 51
 usc_section: "50133"
 chapter: 501
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 50133"
-generated_at: "2026-03-29T19:32:32.740Z"
+generated_at: "2026-03-29T19:45:16.675Z"
 ---
 
-# § 50133. Shuttle privatization
-
-The Administrator shall prepare for an orderly transition from the Federal operation, or Federal management of contracted operation, of space transportation systems to the Federal purchase of commercial space transportation services for all nonemergency space transportation requirements for transportation to and from Earth orbit, including human, cargo, and mixed payloads. In those preparations, the Administrator shall take into account the need for short-term economies, as well as the goal of restoring the Administration’s research focus and its mandate to promote the fullest possible commercial use of space. As part of those preparations, the Administrator shall plan for the potential privatization of the space shuttle program. Such plan shall keep safety and cost effectiveness as high priorities. Nothing in this section shall prohibit the Administration from studying, designing, developing, or funding upgrades or modifications essential to the safe and economical operation of the space shuttle fleet.
+# [§ 50133. Repealed. Pub. L. 115–10, title IV, § 416(c) , Mar. 21, 2017 , 131 Stat. 35 ]
 

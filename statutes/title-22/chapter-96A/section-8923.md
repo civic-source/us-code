@@ -3,9 +3,9 @@ title: "Section 8923 - Sanctions relating to the defense and energy sectors of t
 usc_title: 22
 usc_section: "8923"
 chapter: 96
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8923"
-generated_at: "2026-03-29T19:29:46.997Z"
+generated_at: "2026-03-29T19:42:08.296Z"
 ---
 
 # § 8923. Sanctions relating to the defense and energy sectors of the Russian Federation
@@ -26,9 +26,9 @@ generated_at: "2026-03-29T19:29:46.997Z"
       - **(ii)** any other country designated by the President as a country of significant concern for purposes of this subsection, such as Poland, Lithuania, Latvia, Estonia, and the Central Asia republics.
     - **(B)** The President shall notify the appropriate congressional committees in writing not later than 15 days before—
       - **(i)** designating a country as a country of significant concern under subparagraph (A)(ii); or
-      - **(ii)** terminating a designation under that subparagraph, including the termination of any such designation pursuant to subsection (h).
+      - **(ii)** terminating a designation under that subparagraph, including the termination of any such designation pursuant to subsection (i).
 - **(b)**
-  - **(1)** Except as provided in subsection (d), on and after the date that is 45 days after December 18, 2014 , the President may impose 3 or more of the sanctions described in subsection (c) with respect to a foreign person if the President determines that the foreign person knowingly makes a significant investment in a special Russian crude oil project.
+  - **(1)** Except as provided in subsection (d), on and after the date that is 30 days after August 2, 2017 , the President shall impose, unless the President determines that it is not in the national interest of the United States to do so, 3 or more of the sanctions described in subsection (c) with respect to a foreign person if the President determines that the foreign person knowingly makes a significant investment in a special Russian crude oil project.
   - **(2)** The President, through the Bureau of Industry and Security of the Department of Commerce or the Office of Foreign Assets Control of the Department of the Treasury, as appropriate, may impose additional licensing requirements for or other restrictions on the export or reexport of items for use in the energy sector of the Russian Federation, including equipment used for tertiary oil recovery.
   - **(3)** If the President determines that Gazprom is withholding significant natural gas supplies from member countries of the North Atlantic Treaty Organization, or further withholds significant natural gas supplies from countries such as Ukraine, Georgia, or Moldova, the President shall, not later than 45 days after making that determination, impose the sanction described in subsection (c)(7) and at least one additional sanction described in subsection (c) with respect to Gazprom.
 - **(c)** The sanctions the President may impose with respect to a foreign person under subsection (a) or (b) are the following:
@@ -81,8 +81,15 @@ generated_at: "2026-03-29T19:29:46.997Z"
     - **(B)** submits to the appropriate congressional committees a detailed report on the determination and the specific reasons for the determination that a waiver with respect to the transaction is necessary and appropriate.
   - **(2)** The report required by paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 - **(g)**
+  - **(1)** The President shall notify the appropriate congressional committees in writing not later than 15 days after imposing sanctions with respect to a foreign person under subsection (a) or (b).
+  - **(2)** Subject to section 9511 of this title , the President may terminate the imposition of sanctions under subsection (a)(2) with respect to a foreign person if the President submits to the appropriate congressional committees—
+    - **(A)** a notice of and justification for the termination; and
+    - **(B)** a notice that—
+      - **(i)** the foreign person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+      - **(ii)** the President has received reliable assurances that the foreign person will not knowingly engage in activity subject to sanctions under subsection (a)(2) in the future.
+- **(h)**
   - **(1)** The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out the purposes of this section.
   - **(2)** The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of the International Emergency Economic Powers Act.
-- **(h)**
+- **(i)**
   - **(1)** Except as provided in paragraph (2), this section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties.
   - **(2)** The termination date under paragraph (1) shall not apply with respect to the provisions of subsection (a) relating to the transfer of defense articles into Syria or sanctions imposed pursuant to such provisions.

@@ -3,9 +3,9 @@ title: "Section 23 - Testimony in Patent and Trademark Office cases"
 usc_title: 35
 usc_section: "23"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "35 U.S.C. § 23"
-generated_at: "2026-03-29T19:30:29.290Z"
+generated_at: "2026-03-29T19:42:53.985Z"
 ---
 
 # § 23. Testimony in Patent and Trademark Office cases

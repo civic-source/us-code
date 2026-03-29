@@ -3,9 +3,9 @@ title: "Section 4324 - Life-cycle management and product support"
 usc_title: 10
 usc_section: "4324"
 chapter: 323
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4324"
-generated_at: "2026-03-29T18:47:53.520Z"
+generated_at: "2026-03-29T19:43:38.064Z"
 ---
 
 # § 4324. Life-cycle management and product support
@@ -46,6 +46,6 @@ generated_at: "2026-03-29T18:47:53.520Z"
   - **(4)** The term “product support provider” means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
   - **(5)** The term “covered system” means—
     - **(A)** a major defense acquisition program as defined in section 4201 of this title ; or
-    - **(B)** an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note) 1 1 See References in Text note below. that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 4201(a)(2).
+    - **(B)** an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note) that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 4201(a)(2).
   - **(6)** The term “Milestone B approval” has the meaning given that term in section 4172(e)(7) of this title .
   - **(7)** The term “milestone decision authority” has the meaning given in section 4211(e)(3) of this title .

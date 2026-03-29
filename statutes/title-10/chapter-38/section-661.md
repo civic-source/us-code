@@ -3,14 +3,14 @@ title: "Section 661 - Management policies for joint qualified officers"
 usc_title: 10
 usc_section: "661"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 661"
-generated_at: "2026-03-29T19:27:25.457Z"
+generated_at: "2026-03-29T19:43:37.835Z"
 ---
 
 # § 661. Management policies for joint qualified officers
 
-- **(a)** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title ). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
+- **(a)** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, Marine Corps, and Space Force on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title ). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
 - **(b)**
   - **(1)**
     - **(A)** The Secretary of Defense shall establish different levels of joint qualification, as well as the criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.
@@ -25,11 +25,11 @@ generated_at: "2026-03-29T19:27:25.457Z"
   - **(1)** An officer may not be designated as joint qualified until the officer—
     - **(A)** successfully completes an appropriate program of joint professional military education, as described in subsections (b) and (c) of section 2155 of this title , at a joint professional military education school; and
     - **(B)** successfully completes—
-      - **(i)** a full tour of duty in a joint assignment, as described in section 664(f) of this title ; or
+      - **(i)** a full tour of duty in a joint assignment, as described in section 664(d) of this title ; or
       - **(ii)** such other assignments and experiences in a manner that demonstrate the officer’s mastery of knowledge, skills, and abilities in joint matters, as determined under such regulations and policy as the Secretary of Defense may prescribe.
   - **(2)** Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirement under paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title .
   - **(3)** In the case of an officer in a grade below brigadier general or rear admiral (lower half), a waiver under paragraph (2) may be granted only if—
-    - **(A)** the officer has completed two full tours of duty in a joint duty assignment, as described in section 664(f) of this title , in such a manner as to demonstrate the officer’s mastery of knowledge, skills, and abilities on joint matters; and
+    - **(A)** the officer has completed two full tours of duty in a joint duty assignment, as described in section 664(d) of this title , in such a manner as to demonstrate the officer’s mastery of knowledge, skills, and abilities on joint matters; and
     - **(B)** the Secretary of Defense determines that the types of joint duty experiences completed by the officer have been of sufficient breadth to prepare the officer adequately for service as a general or flag officer in a joint duty assignment position.
   - **(4)** In the case of a general or flag officer, a waiver under paragraph (2) may be granted only—
     - **(A)** under unusual circumstances justifying the variation from the education requirement under paragraph (1)(A); and
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T19:27:25.457Z"
     - **(A)** Subject to subparagraph (B), a position designated under paragraph (2) may be held only by an officer who—
       - **(i)** was designated as joint qualified in accordance with this chapter; or
       - **(ii)** was selected for the joint specialty before October 1, 2007 .
-    - **(B)** The Secretary of Defense may waive the requirement in subparagraph (A) with respect to the assignment of an officer to a position designated under paragraph (2). Any such waiver shall be granted on a case-by-case basis. The authority of the Secretary to grant such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
+    - **(B)** The Secretary of Defense may waive the requirement in subparagraph (A) with respect to the assignment of an officer to a position designated under paragraph (2). Any such waiver shall be granted on a case-by-case basis. The authority of the Secretary to grant such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff or a designee of the Chairman who is an officer of the armed forces in grade O–9 or higher.
   - **(4)** The Secretary of Defense shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 - **(e)** The Secretary, with the advice of the Chairman of the Joint Chiefs of Staff, shall establish career guidelines for officers to achieve joint qualification and for officers who have been designated as joint qualified. Such guidelines shall include guidelines for—
   - **(1)** selection;

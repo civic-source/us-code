@@ -3,9 +3,9 @@ title: "Section 2072 - Officers and employees"
 usc_title: 19
 usc_section: "2072"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2072"
-generated_at: "2026-03-29T19:28:30.708Z"
+generated_at: "2026-03-29T19:41:21.604Z"
 ---
 
 # § 2072. Officers and employees
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T19:28:30.708Z"
     - **(B)** identify the priorities of the International Trade Committee for the fiscal year in which the report is filed.
 - **(e)** In this section:
   - **(1)** The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
-  - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) or any successor committee.
+  - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) 2 2 See References in Text note below. or any successor committee.

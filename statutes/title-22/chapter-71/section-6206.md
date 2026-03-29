@@ -1,15 +1,12 @@
 ---
-title: "Section 6206 - International Broadcasting Bureau"
+title: "Section 6206 - Repealed. Pub. L. 114–328, div. A, title XII, § 1288(4) , Dec. 23, 2016 , 130 Stat. 2552"
 usc_title: 22
 usc_section: "6206"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6206"
-generated_at: "2026-03-29T19:29:46.912Z"
+generated_at: "2026-03-29T19:42:08.220Z"
 ---
 
-# § 6206. International Broadcasting Bureau
+# § 6206. Repealed. Pub. L. 114–328, div. A, title XII, § 1288(4) , Dec. 23, 2016 , 130 Stat. 2552
 
-- **(a)** There is hereby established an International Broadcasting Bureau under the Board (hereafter in this chapter referred to as the “Bureau”), to carry out all nonmilitary international broadcasting activities supported by the United States Government other than those described in sections 6207 and 6208 of this title.
-- **(b)** The Director of the Bureau shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Bureau shall be entitled to receive compensation at the rate prescribed by law for level IV of the Executive Schedule.
-- **(c)** The Director shall organize and chair a coordinating committee to examine and make recommendations to the Board on long-term strategies for the future of international broadcasting, including the use of new technologies, further consolidation of broadcast services, and consolidation of currently existing public affairs and legislative relations functions in the various international broadcasting entities. The coordinating committee shall include representatives of Radio Free Asia, RFE/RL, Incorporated, the Broadcasting Board of Governors, and, as appropriate, the Office of Cuba Broadcasting, the Voice of America, and Worldnet.

@@ -3,9 +3,9 @@ title: "Section 1120 - Federal Government and agency priority goals"
 usc_title: 31
 usc_section: "1120"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 1120"
-generated_at: "2026-03-29T19:30:24.757Z"
+generated_at: "2026-03-29T19:42:56.100Z"
 ---
 
 # § 1120. Federal Government and agency priority goals
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T19:30:24.757Z"
     - **(F)** the Committee on Ways and Means of the House of Representatives; and
     - **(G)** any other committees as determined appropriate;
   - **(4)** The Director of the Office of Management and Budget shall consult with the appropriate committees of Congress at least once every 2 years.
-  - **(5)** The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on the website described under section 1122 of this title .
+  - **(5)** The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on a website described in section 1122 of this title .
   - **(6)** The Federal Government performance plan required under section 1115(a) of this title shall be consistent with the Federal Government priority goals.
 - **(b)**
   - **(1)** Every 2 years, the head of each agency listed in section 901(b) of this title , or as otherwise determined by the Director of the Office of Management and Budget, shall identify agency priority goals from among the performance goals of the agency. The Director of the Office of Management and Budget shall determine the total number of agency priority goals across the Government, and the number to be developed by each agency. The agency priority goals shall—

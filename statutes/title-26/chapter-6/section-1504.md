@@ -3,9 +3,9 @@ title: "Section 1504 - Definitions"
 usc_title: 26
 usc_section: "1504"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1504"
-generated_at: "2026-03-29T19:30:20.024Z"
+generated_at: "2026-03-29T19:42:47.834Z"
 ---
 
 # § 1504. Definitions
@@ -40,11 +40,9 @@ generated_at: "2026-03-29T19:30:20.024Z"
   - **(1)** Corporations exempt from taxation under section 501.
   - **(2)** Insurance companies subject to taxation under section 801.
   - **(3)** Foreign corporations.
-  - **(4)** Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year.
-  - **[(5)** Repealed. Pub. L. 94–455, title X , § 1053(d)(2), Oct. 4, 1976 , 90 Stat. 1649 .]
-  - **(6)** Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
-  - **(7)** A DISC (as defined in section 992(a)(1)).
-  - **(8)** An S corporation.
+  - **(4)** Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
+  - **(5)** A DISC (as defined in section 992(a)(1)).
+  - **(6)** An S corporation.
 - **(c)** Notwithstanding the provisions of paragraph (2) of subsection (b)—
   - **(1)** Two or more domestic insurance companies each of which is subject to tax under section 801 shall be treated as includible corporations for purposes of applying subsection (a) to such insurance companies alone.
   - **(2)**

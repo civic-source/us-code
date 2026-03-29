@@ -3,9 +3,9 @@ title: "Section 7809 - Deposit of collections"
 usc_title: 26
 usc_section: "7809"
 chapter: 80
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7809"
-generated_at: "2026-03-29T19:30:20.277Z"
+generated_at: "2026-03-29T19:42:48.038Z"
 ---
 
 # § 7809. Deposit of collections
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:30:20.277Z"
   - **(3)** Surplus proceeds in any sale under levy, after making allowance for the amount of the tax, interest, penalties, and additions thereto, and for costs and charges of the levy and sale; and
   - **(4)** Surplus proceeds in any sale under section 7506 of real property redeemed by the United States, after making allowance for the amount of the tax, interest, penalties, and additions thereto, and for the costs of sale.
 - **(c)** Moneys received in payment for—
-  - **(1)** Work 1 1 So in original. Probably should not be capitalized. or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
+  - **(1)** work or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
   - **(2)** work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
   - **(3)** other work or services performed for a State or a department or agency of the Federal Government (subject to all provisions of law and regulations governing disclosure of information) in supplying copies of, or data from, returns, statements, or other documents filed under authority of this title or records maintained in connection with the administration and enforcement of this title; and
   - **(4)** work or services performed (including materials supplied) pursuant to section 6110 (relating to public inspection of written determinations),

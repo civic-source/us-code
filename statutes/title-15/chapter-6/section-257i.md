@@ -1,12 +1,12 @@
 ---
-title: "Section 257i - Repealed. Pub. L. 90–628 , § 1(b), Oct. 22, 1968 , 82 Stat. 1320"
+title: "Section 257i - Repealed. Pub. L. 90–628, § 1(b) , Oct. 22, 1968 , 82 Stat. 1320"
 usc_title: 15
 usc_section: "257i"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 257i"
-generated_at: "2026-03-29T19:27:55.300Z"
+generated_at: "2026-03-29T19:44:42.589Z"
 ---
 
-# §§ 257 to 257i. Repealed. Pub. L. 90–628 , § 1(b), Oct. 22, 1968 , 82 Stat. 1320
+# §§ 257 to 257i. Repealed. Pub. L. 90–628, § 1(b) , Oct. 22, 1968 , 82 Stat. 1320
 

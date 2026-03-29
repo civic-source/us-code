@@ -3,9 +3,9 @@ title: "Section 1736 - Use of Commodity Credit Corporation"
 usc_title: 7
 usc_section: "1736"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1736"
-generated_at: "2026-03-29T19:27:31.774Z"
+generated_at: "2026-03-29T19:43:58.172Z"
 ---
 
 # § 1736. Use of Commodity Credit Corporation
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:27:31.774Z"
     - **(B)** of ports that cannot be used effectively because of natural or other disturbances;
     - **(C)** of the unavailability of carriers to a specific country; or
     - **(D)** of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
-  - **(6)** in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs; and
+  - **(6)** in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage, distribution, and program implementation costs to use the commodities; and
   - **(7)** the charges for general average contributions arising out of the ocean transport of commodities transferred pursuant thereto.
 - **(c)** The funds, facilities, and authorities of the Commodity Credit Corporation may be used to carry out this chapter.
 - **(d)** Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.

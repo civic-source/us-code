@@ -3,9 +3,9 @@ title: "Section 1704 - Preventive health services: annual report"
 usc_title: 38
 usc_section: "1704"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1704"
-generated_at: "2026-03-29T19:30:40.471Z"
+generated_at: "2026-03-29T19:43:26.958Z"
 ---
 
 # § 1704. Preventive health services: annual report
@@ -14,8 +14,9 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
   - **(1)** A description of the programs and activities of the Department with respect to preventive health services during the preceding fiscal year, including a description of the following:
     - **(A)** The programs conducted by the Department—
-      - **(i)** to educate veterans with respect to health promotion and disease prevention; and
-      - **(ii)** to provide veterans with preventive health screenings and other clinical services, with such description setting forth the types of resources used by the Department to conduct such screenings and services and the number of veterans reached by such screenings and services.
+      - **(i)** to educate veterans with respect to health promotion and disease prevention;
+      - **(ii)** to provide veterans with preventive health screenings and other clinical services, with such description setting forth the types of resources used by the Department to conduct such screenings and services and the number of veterans reached by such screenings and services; and
+      - **(iii)** to provide veterans each immunization on the recommended adult immunization schedule at the time such immunization is indicated on that schedule.
     - **(B)** The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-income veterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
     - **(C)** The manner in which the provision of such services was coordinated with the activities of the Medical and Prosthetic Research Service of the Department and the National Center for Preventive Health.
     - **(D)** The manner in which the provision of such services was integrated into training programs of the Department, including initial and continuing medical training of medical students, residents, and Department staff.

@@ -3,9 +3,9 @@ title: "Section 47119 - Terminal development costs"
 usc_title: 49
 usc_section: "47119"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47119"
-generated_at: "2026-03-29T19:32:28.903Z"
+generated_at: "2026-03-29T19:44:58.032Z"
 ---
 
 # § 47119. Terminal development costs
@@ -16,11 +16,14 @@ generated_at: "2026-03-29T19:32:28.903Z"
       - **(i)** all the safety equipment required for certification of the airport under section 44706;
       - **(ii)** all the security equipment required by regulation; and
       - **(iii)** provided for access by passengers to the area of the airport for boarding or exiting aircraft that are not air carrier aircraft;
-    - **(B)** if the cost is directly related to moving passengers and baggage in air commerce within the airport, including vehicles for moving passengers between terminal facilities and between terminal facilities and aircraft; and
+    - **(B)** if the cost is directly related to—
+      - **(i)** moving passengers and baggage in air commerce within the airport, including vehicles for moving passengers between terminal facilities and between terminal facilities and aircraft; or
+      - **(ii)** installing security cameras in the public area of the interior and exterior of the terminal; and
     - **(C)** under terms necessary to protect the interests of the Government.
   - **(2)** In making a decision under paragraph (1), the Secretary may approve as allowable costs the expenses of terminal development in a revenue-producing area and construction, reconstruction, repair, and improvement in a nonrevenue-producing parking lot if—
     - **(A)** except as provided in section 47108(e)(3), the airport does not have more than .05 percent of the total annual passenger boardings in the United States; and
     - **(B)** the sponsor certifies that any needed airport development project affecting safety, security, or capacity will not be deferred because of the Secretary’s approval.
+  - **(3)** In addition to the projects described in paragraph (1), the Secretary may approve a project for terminal development for the construction or installation of a lactation area (as defined in section 47107(w)) at a commercial service airport.
 - **(b)**
   - **(1)** An amount apportioned under section 47114 and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970 , and before July 12, 1976 , is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982 .
   - **(2)** An amount apportioned under section 47114 and made available to the sponsor of a nonhub airport at which terminal development was carried out between January 1, 1992 , and October 31, 1992 , is available to repay immediately money borrowed and to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d).

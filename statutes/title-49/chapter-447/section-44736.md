@@ -3,9 +3,9 @@ title: "Section 44736 - Organization designation authorizations"
 usc_title: 49
 usc_section: "44736"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44736"
-generated_at: "2026-03-29T02:16:09.032Z"
+generated_at: "2026-03-29T19:44:58.001Z"
 ---
 
 # § 44736. Organization designation authorizations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:16:09.032Z"
     - **(C)** cooperate fully with oversight activities conducted by the Administrator in connection with the delegation.
   - **(3)** With regard to an ODA holder operating under a procedures manual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall conduct regular oversight activities by inspecting the ODA holder’s delegated functions and taking action based on validated inspection findings.
 - **(b)**
-  - **(1)** The Administrator of the FAA shall identify, within the FAA Office of Aviation Safety, a centralized policy office to be known as the Organization Designation Authorization Office or the ODA Office.
+  - **(1)** Not later than 120 days after the date of enactment of this section, the Administrator of the FAA shall identify, within the FAA Office of Aviation Safety, a centralized policy office to be known as the Organization Designation Authorization Office or the ODA Office.
   - **(2)** The purpose of the ODA Office shall be to provide oversight and ensure the consistency of the FAA’s audit functions under the ODA program across the FAA.
   - **(3)** The ODA Office shall—
     - **(A)**
@@ -30,12 +30,8 @@ generated_at: "2026-03-29T02:16:09.032Z"
     - **(B)** develop a more consistent approach to audit priorities, procedures, and training under the ODA program;
     - **(C)** review, in a timely fashion, a random sample of limitations on delegated authorities under the ODA program to determine if the limitations are appropriate;
     - **(D)** ensure national consistency in the interpretation and application of the requirements of the ODA program, including any limitations, and in the performance of the ODA program;
-    - **(E)** at the request of an ODA holder, review and, when appropriate, approve new limitations to ODA functions;
-    - **(F)** ensure the ODA holders procedures manual contains procedures and policies based on best practices established by the Administrator; and
-    - **(G)** convene a forum not less than every 2 years between ODA holders, unit members, and other organizational representatives and relevant experts, in order to—
-      - **(i)** share best practices;
-      - **(ii)** instill professionalism, ethics, and personal responsibilities in unit members; and
-      - **(iii)** foster open and transparent communication between Administration safety specialists, ODA holders, and unit members.
+    - **(E)** at the request of an ODA holder, review and, when appropriate, approve new limitations to ODA functions; and
+    - **(F)** ensure the ODA holders procedures manual contains procedures and policies based on best practices established by the Administrator.
 - **(c)** In this section, the following definitions apply:
   - **(1)** The term “FAA” means the Federal Aviation Administration.
   - **(2)** The term “ODA holder” means an entity authorized to perform functions pursuant to a delegation made by the Administrator of the FAA under section 44702(d).
@@ -60,17 +56,3 @@ generated_at: "2026-03-29T02:16:09.032Z"
 - **(f)** Neither the Administrator nor an ODA holder may prohibit—
   - **(1)** an ODA unit member from communicating with, or seeking the advice of, the Administrator or FAA staff; or
   - **(2)** the Administrator or FAA staff from communicating with an ODA unit member.
-- **(g)**
-  - **(1)** Not later than 1 year after the date of enactment of this subsection, the Administrator of the Federal Aviation Administration shall review and ensure each ODA holder authorized by the Administrator under section 44702(d) has in effect a recurrent training program for all ODA unit members that covers—
-    - **(A)** unit member professional obligations and responsibilities;
-    - **(B)** the ODA holder’s code of ethics as required to be established under section 102(f) of the Aircraft Certification, Safety, and Accountability Act ( 49 U.S.C. 44701 note);
-    - **(C)** procedures for reporting safety concerns, as described in the respective approved procedures manual for the delegation;
-    - **(D)** the prohibition against and reporting procedures for interference from a supervisor or other ODA member described in section 44742; and
-    - **(E)** any additional information the Administrator considers relevant to maintaining ethical and professional standards across all ODA holders and unit members.
-  - **(2)**
-    - **(A)** The Organization Designation Authorization Office of the Administration established under subsection (b) shall review each ODA holders’ recurrent training program to ensure such program includes—
-      - **(i)** all elements described in paragraph (1); and
-      - **(ii)** training to instill professionalism and clear understanding among ODA unit members about the purpose of and procedures associated with safety management systems, including the provisions of the third edition of the Safety Management Manual issued by the International Civil Aviation Organization (Doc 9859) (or any successor edition).
-    - **(B)** Such Office may require changes to the training program considered necessary to maintain ethical and professional standards across all ODA holders and unit members.
-  - **(3)** As part of the recurrent training program required under paragraph (1), not later than 60 business days after being designated as an ODA unit member, and annually thereafter, each ODA unit member shall complete the ethics training required by the ODA holder of the respective ODA unit member in order to exercise the functions delegated under the ODA.
-  - **(4)** The Administrator shall establish such processes or requirements as are necessary to ensure compliance with paragraph (3).

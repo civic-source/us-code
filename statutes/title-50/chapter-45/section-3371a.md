@@ -3,9 +3,9 @@ title: "Section 3371a - Assessment of foreign intelligence threats to Federal el
 usc_title: 50
 usc_section: "3371a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3371a"
-generated_at: "2026-03-29T02:16:14.798Z"
+generated_at: "2026-03-29T19:44:52.868Z"
 ---
 
 # § 3371a. Assessment of foreign intelligence threats to Federal elections
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:16:14.798Z"
     - **(B)** The minority leader of the Senate.
     - **(C)** The Speaker of the House of Representatives.
     - **(D)** The minority leader of the House of Representatives.
-  - **(3)** The term “security vulnerability” has the meaning given such term in section 650 of title 6 .
+  - **(3)** The term “security vulnerability” has the meaning given such term in section 1501 of title 6 .
 - **(b)** The Director of National Intelligence, in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the Federal Bureau of Investigation, the Secretary of Homeland Security, and the heads of other relevant elements of the intelligence community, shall—
   - **(1)** commence not later than 1 year before any regularly scheduled Federal election occurring after December 31, 2018 , and complete not later than 180 days before such election, an assessment of security vulnerabilities of State election systems; and
   - **(2)** not later than 180 days before any regularly scheduled Federal election occurring after December 31, 2018 , submit a report on such security vulnerabilities and an assessment of foreign intelligence threats to the election to—

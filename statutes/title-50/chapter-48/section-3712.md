@@ -3,9 +3,9 @@ title: "Section 3712 - Use of funds for certain emergent threats or opportunitie
 usc_title: 50
 usc_section: "3712"
 chapter: 48
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3712"
-generated_at: "2026-03-29T19:32:24.259Z"
+generated_at: "2026-03-29T19:44:52.882Z"
 ---
 
 # § 3712. Use of funds for certain emergent threats or opportunities
@@ -16,8 +16,11 @@ generated_at: "2026-03-29T19:32:24.259Z"
     - **(B)** permit the United States to take advantage of opportunities to achieve long-standing nonproliferation goals.
   - **(2)** That such project or activity will be completed in a period not exceeding five years.
   - **(3)** That the Department of Defense is the entity of the Federal Government that is most capable of carrying out such project or activity.
-- **(b)** At the time at which the Secretary obligates funds under subsection (a) for a project or activity, the Secretary of Defense shall notify, in writing, the congressional defense committees and the Secretary of State shall notify, in writing, the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of the determinations made under such subsection with respect to such project or activity, together with—
-  - **(1)** a justification for such determinations; and
-  - **(2)** a description of the scope and duration of such project or activity.
+- **(b)** Not later than 15 days before the date on which the Secretary obligates funds under subsection (a) for a project or activity, the Secretary of Defense shall notify, in writing, the congressional defense committees and the Secretary of State shall notify, in writing, the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of the determinations made under such subsection with respect to such project or activity, together with—
+  - **(1)** a justification for such determinations;
+  - **(2)** a description of the scope and duration of such project or activity; and
+  - **(3)** a discussion of—
+    - **(A)** whether authorities other than the authority under this section are available to the Secretaries to perform such project or activity to meet the threats or goals identified under subsection (a)(1); and
+    - **(B)** if such other authorities exist, why the Secretaries were not able to use such authorities for such project or activity.
 - **(c)** With respect to military-to-military and defense contacts carried out under subsection (a)(6) of section 3711 of this title , as further described in subsection (f) of such section, concurrence of the Secretary of State under subsection (a) is required only for participation in such contacts by personnel from non-defense agencies of foreign countries.
 - **(d)** The requirement for a determination under subsection (a) shall not apply to a state of the former Soviet Union.

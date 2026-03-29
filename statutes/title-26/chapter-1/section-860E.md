@@ -3,9 +3,9 @@ title: "Section 860E - Treatment of income in excess of daily accruals on residu
 usc_title: 26
 usc_section: "860E"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 860E"
-generated_at: "2026-03-29T19:30:19.921Z"
+generated_at: "2026-03-29T19:42:47.745Z"
 ---
 
 # § 860E. Treatment of income in excess of daily accruals on residual interests
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:30:19.921Z"
   - **(2)** All members of an affiliated group filing a consolidated return shall be treated as 1 taxpayer for purposes of this subsection.
   - **(3)** Any excess inclusion for any taxable year shall not be taken into account—
     - **(A)** in determining under section 172 the amount of any net operating loss for such taxable year, and
-    - **(B)** in determining taxable income for such taxable year for purposes of the 2nd sentence of section 172(b)(2).
+    - **(B)** in determining taxable income for such taxable year for purposes of subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.
   - **(4)** For purposes of part VI of subchapter A of this chapter—
     - **(A)** the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
     - **(B)** the alternative minimum taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year, and
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:30:19.921Z"
   - **(1)** A tax is hereby imposed on any transfer of a residual interest in a REMIC to a disqualified organization.
   - **(2)** The amount of the tax imposed by paragraph (1) on any transfer of a residual interest shall be equal to the product of—
     - **(A)** the amount (determined under regulations) equal to the present value of the total anticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
-    - **(B)** the highest rate of tax specified in section 11(b)(1).
+    - **(B)** the highest rate of tax specified in section 11(b).
   - **(3)** The tax imposed by paragraph (1) on any transfer shall be paid by the transferor; except that, where such transfer is through an agent for a disqualified organization, such tax shall be paid by such agent.
   - **(4)** The person (otherwise liable for any tax imposed by paragraph (1)) shall be relieved of liability for the tax imposed by paragraph (1) with respect to any transfer if—
     - **(A)** the transferee furnishes to such person an affidavit that the transferee is not a disqualified organization, and
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T19:30:19.921Z"
   - **(6)**
     - **(A)** If, at any time during any taxable year of a pass-thru entity, a disqualified organization is the record holder of an interest in such entity, there is hereby imposed on such entity for such taxable year a tax equal to the product of—
       - **(i)** the amount of excess inclusions for such taxable year allocable to the interest held by such disqualified organization, multiplied by
-      - **(ii)** the highest rate of tax specified in section 11(b)(1).
+      - **(ii)** the highest rate of tax specified in section 11(b).
     - **(B)** For purposes of this paragraph, the term “pass-thru entity” means—
       - **(i)** any regulated investment company, real estate investment trust, or common trust fund,
       - **(ii)** any partnership, trust, or estate, and

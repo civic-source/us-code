@@ -3,9 +3,9 @@ title: "Section 681 - Organization"
 usc_title: 15
 usc_section: "681"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 681"
-generated_at: "2026-03-29T19:27:55.364Z"
+generated_at: "2026-03-29T19:44:42.660Z"
 ---
 
 # § 681. Organization
@@ -26,17 +26,20 @@ generated_at: "2026-03-29T19:27:55.364Z"
     - **(B)** shall take into consideration—
       - **(i)** the need for and availability of financing for small business concerns in the geographic area in which the applicant is to commence business;
       - **(ii)** the general business reputation of the owners and management of the applicant; and
-      - **(iii)** the probability of successful operations of the applicant, including adequate profitability and financial soundness; and
-    - **(C)** shall not take into consideration any projected shortage or unavailability of leverage.
+      - **(iii)** the probability of successful operations of the applicant, including adequate profitability and financial soundness;
+    - **(C)** shall not take into consideration any projected shortage or unavailability of leverage; and
+    - **(D)** shall give first priority to an applicant that is located in an underlicensed State with below median financing, as determined by the Administrator.
   - **(4)**
     - **(A)** Notwithstanding any other provision of this chapter, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, approve an application and issue a license under this subsection with respect to any applicant that—
       - **(i)** has private capital of not less than $3,000,000;
       - **(ii)** would otherwise be issued a license under this subsection, except that the applicant does not satisfy the requirements of section 682(a) of this title ; and
       - **(iii)** has a viable business plan reasonably projecting profitable operations and a reasonable timetable for achieving a level of private capital that satisfies the requirements of section 682(a) of this title .
     - **(B)** An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title , unless the applicant—
-      - **(i)** files an application for a license not later than 180 days after December 2, 1997 ;
-      - **(ii)** is located in a State that is not served by a licensee; and
-      - **(iii)** agrees to be limited to 1 tier of leverage available under section 682(b) of this title , until the applicant meets the requirements of section 682(a) of this title .
+      - **(i)** is located in a State that—
+        - **(I)** is not served by a licensee; or
+        - **(II)** is an underlicensed State; and
+      - **(ii)** agrees to be limited to 1 tier of leverage available under section 682(b) of this title , until the applicant meets the requirements of section 682(a) of this title .
+- **(d)**
 - **(e)**
   - **(1)** The Administration may prescribe fees to be paid by each applicant for a license to operate as a small business investment company under this chapter.
   - **(2)** Fees collected under this subsection—

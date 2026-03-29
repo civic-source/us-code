@@ -3,9 +3,9 @@ title: "Section 7628 - Support for research regarding diseases of wheat, tritica
 usc_title: 7
 usc_section: "7628"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7628"
-generated_at: "2026-03-29T19:27:31.997Z"
+generated_at: "2026-03-29T19:43:58.421Z"
 ---
 
 # § 7628. Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica
@@ -23,5 +23,7 @@ generated_at: "2026-03-29T19:27:31.997Z"
 - **(c)** Funds provided under this section shall be available for efforts to concentrate, integrate, and disseminate research, extension, and outreach-orientated information regarding wheat scab or Karnal bunt.
 - **(d)** To oversee the use of a grant made under this section, the Secretary may establish a committee composed of the directors of the agricultural experiment stations in the States in which land-grant colleges and universities that are members of the consortium are located.
 - **(e)** There are authorized to be appropriated to carry out this section—
-  - **(1)** such sums as may be necessary for each of fiscal years 1999 through 2013; and
-  - **(2)** $10,000,000 for each of fiscal years 2014 through 2018.
+  - **(1)** such sums as may be necessary for each of fiscal years 1999 through 2013;
+  - **(2)** $10,000,000 for each of fiscal years 2014 through 2018; and
+  - **(3)** $15,000,000 for each of fiscal years 2019 through 2023.
+- **(f)** A recipient of a grant under this section may not use more than 10 percent of the funds provided by the grant for the indirect costs of carrying out the initiatives described in subsection (a).

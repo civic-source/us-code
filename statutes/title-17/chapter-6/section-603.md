@@ -3,9 +3,9 @@ title: "Section 603 - Importation prohibitions: Enforcement and disposition of e
 usc_title: 17
 usc_section: "603"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "17 U.S.C. § 603"
-generated_at: "2026-03-29T19:28:20.877Z"
+generated_at: "2026-03-29T19:40:56.336Z"
 ---
 
 # § 603. Importation prohibitions: Enforcement and disposition of excluded articles

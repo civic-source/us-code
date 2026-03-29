@@ -3,9 +3,9 @@ title: "Section 701 - Entitlement and accumulation"
 usc_title: 10
 usc_section: "701"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 701"
-generated_at: "2026-03-29T19:27:25.460Z"
+generated_at: "2026-03-29T19:43:37.837Z"
 ---
 
 # § 701. Entitlement and accumulation
@@ -33,11 +33,37 @@ generated_at: "2026-03-29T19:27:25.460Z"
   - **(2)** that his death is prescribed or determined under section 555 of title 37 .
 - **(h)** A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
 - **(i)**
-  - **(1)** Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
-  - **(2)** For the purpose of this subsection, an adoption of a child by a member is a qualifying child adoption if the member is eligible for reimbursement of qualified adoption expenses for such adoption under section 1052 of this title .
-  - **(3)** In the event that two members of the armed forces who are married to each other adopt a child in a qualifying child adoption, only one such member shall be allowed leave under this subsection.
-  - **(4)** Leave under paragraph (1) is in addition to other leave provided under other provisions of this section.
+  - **(1)**
+    - **(A)** Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a child is allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth.
+    - **(B)** Under the regulations prescribed for purposes of this subsection, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the adoption of a child is allowed up to six weeks of total leave to be used in connection with such adoption.
+  - **(2)** Paragraph (1) applies to the following members:
+    - **(A)** A member on active duty.
+    - **(B)** A member of a reserve component performing active Guard and Reserve duty.
+    - **(C)** A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
+  - **(3)** The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term “primary caregiver” for purposes of this subsection.
+  - **(4)** Notwithstanding paragraph (1)(A), a member may receive more than six weeks of medical convalescent leave in connection with the birth of a child, but only if the additional medical convalescent leave—
+    - **(A)** is specifically recommended, in writing, by the medical provider of the member to address a diagnosed medical condition; and
+    - **(B)** is approved by the commander of the member.
+  - **(5)** Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken in more than one increment in connection with such birth or adoption in accordance with regulations prescribed by the Secretary concerned.
+  - **(6)**
+    - **(A)** Any leave authorized by this subsection that is not taken within one year of such birth or adoption shall be forfeited.
+    - **(B)** Any leave authorized by this subsection for a member of a reserve component on active duty that is not taken by the time the member is separated from active duty shall be forfeited at that time.
+  - **(7)** The period of active duty of a member of a reserve component may not be extended in order to permit the member to take leave authorized by this subsection.
+  - **(8)** Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) may, as a condition for taking such leave, be required—
+    - **(A)** to accept an extension of the member’s current service obligation, if any, by one week for every week of leave taken under paragraph (1); or
+    - **(B)** to incur a reduction in the member’s leave account by one week for every week of leave taken under paragraph (1).
+  - **(9)**
+    - **(A)** Leave authorized by this subsection is in addition to any other leave provided under other provisions of this section.
+    - **(B)** Medical convalescent leave under paragraph (4) is in addition to any other leave provided under other provisions of this subsection.
+  - **(10)**
+    - **(A)** Subject to subparagraph (B), a member taking leave under paragraph (1) during a period of obligated service shall not be eligible for terminal leave, or to sell back leave, at the end such period of obligated service.
+    - **(B)** Under the regulations for purposes of this subsection, the Secretary concerned may waive, whether in whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member’s period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned.
 - **(j)**
-  - **(1)** Under regulations prescribed by the Secretary concerned, a married member of the armed forces on active duty whose wife gives birth to a child shall receive 10 days of leave to be used in connection with the birth of the child.
-  - **(2)** Leave under paragraph (1) is in addition to other leave authorized under this section.
+  - **(1)** Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subsection (i)(2) who is the secondary caregiver in the case of the birth of a child or the adoption of a child is allowed up to 21 days of leave to be used in connection with such birth or adoption.
+  - **(2)** The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term “secondary caregiver” for purposes of this subsection.
+  - **(3)** Any leave taken by a member under this subsection may be taken only in one increment in connection with such birth or adoption.
+  - **(4)** Under the regulations prescribed for purposes of this subsection, paragraphs (6) through (10) of subsection (i) (other than paragraph (9)(B) of such subsection) shall apply to leave, and the taking of leave, authorized by this subsection.
 - **(k)** A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member’s next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
+- **(l)** A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+  - **(1)** at the election of such member; or
+  - **(2)** in the interest of national security, as determined by the Secretary of Defense.

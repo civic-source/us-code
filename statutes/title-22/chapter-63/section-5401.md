@@ -3,9 +3,9 @@ title: "Section 5401 - Support for East European Democracy (SEED) Program"
 usc_title: 22
 usc_section: "5401"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 5401"
-generated_at: "2026-03-29T19:29:46.887Z"
+generated_at: "2026-03-29T19:42:08.200Z"
 ---
 
 # § 5401. Support for East European Democracy (SEED) Program
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T19:29:46.887Z"
   - **(9)** Support for the establishment of indigenous credit unions.
   - **(10)** Eligibility for trade benefits under the Generalized System of Preferences.
   - **(11)** The granting of temporary or permanent nondiscriminatory treatment to the products of an East European country through the application of the criteria and procedures established by section 2432 of title 19 (commonly referred to as the “Jackson-Vanik amendment”).
-  - **(12)** Programs of the Overseas Private Investment Corporation.
+  - **(12)** Programs of the United States International Development Finance Corporation.
   - **(13)** Programs of the Export-Import Bank of the United States.
   - **(14)** Trade and Development Agency activities under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.].
   - **(15)** Negotiation of bilateral investment treaties.

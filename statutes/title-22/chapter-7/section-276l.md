@@ -3,9 +3,9 @@ title: "Section 276l - British-American Interparliamentary Group"
 usc_title: 22
 usc_section: "276l"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 276l"
-generated_at: "2026-03-29T19:29:46.653Z"
+generated_at: "2026-03-29T19:42:07.948Z"
 ---
 
 # § 276l. British-American Interparliamentary Group

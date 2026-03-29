@@ -3,9 +3,9 @@ title: "Section 302 - State transportation department"
 usc_title: 23
 usc_section: "302"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 302"
-generated_at: "2026-03-29T19:29:58.419Z"
+generated_at: "2026-03-29T19:41:43.029Z"
 ---
 
 # § 302. State transportation department

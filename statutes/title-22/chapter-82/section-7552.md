@@ -3,9 +3,9 @@ title: "Section 7552 - Sense of Congress regarding protecting Afghanistan’s Pr
 usc_title: 22
 usc_section: "7552"
 chapter: 82
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 7552"
-generated_at: "2026-03-29T19:29:46.953Z"
+generated_at: "2026-03-29T19:42:08.256Z"
 ---
 
 # § 7552. Sense of Congress regarding protecting Afghanistan’s President

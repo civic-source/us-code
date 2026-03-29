@@ -3,9 +3,9 @@ title: "Section 3721 - Treatment of certain textiles and apparel"
 usc_title: 19
 usc_section: "3721"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 3721"
-generated_at: "2026-03-29T19:28:30.781Z"
+generated_at: "2026-03-29T19:41:21.675Z"
 ---
 
 # § 3721. Treatment of certain textiles and apparel
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:28:30.781Z"
     - **(A)** Sweaters, in chief weight of cashmere, knit-to-shape in one or more beneficiary sub-Saharan African countries and classifiable under subheading 6110.10 of the Harmonized Tariff Schedule of the United States.
     - **(B)** Sweaters, 50 percent or more by weight of wool measuring 21.5 microns in diameter or finer, knit-to-shape in one or more beneficiary sub-Saharan African countries.
   - **(5)**
-    - **(A)** Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 to the NAFTA.
+    - **(A)** Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
     - **(B)** At the request of any interested party and subject to the following requirements, the President is authorized to proclaim the treatment provided under subparagraph (A) for yarns or fabrics not described in subparagraph (A) if—
       - **(i)** the President determines that such yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner;
       - **(ii)** the President has obtained advice regarding the proposed action from the appropriate advisory committee established under section 2155 of this title and the United States International Trade Commission;
@@ -92,7 +92,7 @@ generated_at: "2026-03-29T19:28:30.781Z"
 - **(f)** In this section and section 3722 of this title :
   - **(1)** The term “Agreement on Textiles and Clothing” means the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title .
   - **(2)** The terms “beneficiary sub-Saharan African country” and “beneficiary sub-Saharan African countries” have the same meaning as such terms have under section 2466a(c) of this title .
-  - **(3)** The term “NAFTA” means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992 .
+  - **(3)** The term “USMCA” has the meaning given that term in section 4502 of this title .
   - **(4)** The term “former 3 3 So in original. Probably should be followed by “beneficiary”. sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter 4 4 See References in Text note below. , ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
   - **(5)** The terms “enter” and “entered” refer to the entry, or withdrawal from warehouse for consumption, in the customs territory of the United States.
 - **(g)** This section takes effect on October 1, 2000 , and shall remain in effect through September 30, 2025 .

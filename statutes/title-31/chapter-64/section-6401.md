@@ -5,7 +5,7 @@ usc_section: "6401"
 chapter: 64
 current_through: "PL 117-81"
 classification: "31 U.S.C. § 6401"
-generated_at: "2026-03-29T18:45:47.033Z"
+generated_at: "2026-03-29T19:42:56.155Z"
 ---
 
 # § 6401. Definitions

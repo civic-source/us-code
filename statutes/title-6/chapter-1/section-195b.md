@@ -3,14 +3,14 @@ title: "Section 195b - National Biosurveillance Integration Center"
 usc_title: 6
 usc_section: "195b"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 195b"
-generated_at: "2026-03-29T19:27:39.834Z"
+generated_at: "2026-03-29T19:43:43.760Z"
 ---
 
 # § 195b. National Biosurveillance Integration Center
 
-- **(a)** The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the “NBIC”), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007 .
+- **(a)** The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the “NBIC”), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007 .
 - **(b)** The primary mission of the NBIC is to—
   - **(1)** enhance the capability of the Federal Government to—
     - **(A)** rapidly identify, characterize, localize, and track a biological event of national concern by integrating and analyzing data relating to human health, animal, plant, food, and environmental monitoring systems (both national and international); and

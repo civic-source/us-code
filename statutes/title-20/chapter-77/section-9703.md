@@ -3,9 +3,9 @@ title: "Section 9703 - Duties of the Commission"
 usc_title: 20
 usc_section: "9703"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 9703"
-generated_at: "2026-03-29T19:28:43.254Z"
+generated_at: "2026-03-29T19:41:03.468Z"
 ---
 
 # § 9703. Duties of the Commission
@@ -23,6 +23,17 @@ generated_at: "2026-03-29T19:28:43.254Z"
     - **(H)** increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution of multilingual financial literacy and education materials;
     - **(I)** promote bringing individuals who lack basic banking services into the financial mainstream by opening and maintaining an account with a financial institution; and
     - **(J)** improve financial literacy and education through all other related skills, including personal finance and related economic education, with the primary goal of programs not simply to improve knowledge, but rather to improve consumers’ financial choices and outcomes.
+  - **(3)**
+    - **(A)** After soliciting public comments and consulting with and receiving input from relevant parties, including a diverse set of institutions of higher education and other parties, the Commission shall, by not later than 1 year after May 24, 2018 , establish best practices for institutions of higher education regarding methods to—
+      - **(i)** teach financial literacy skills; and
+      - **(ii)** provide useful and necessary information to assist students at institutions of higher education when making financial decisions related to student borrowing.
+    - **(B)** The best practices described in subparagraph (A) shall include the following:
+      - **(i)** Methods to ensure that each student has a clear sense of the student’s total borrowing obligations, including monthly payments, and repayment options.
+      - **(ii)** The most effective ways to engage students in financial literacy education, including frequency and timing of communication with students.
+      - **(iii)** Information on how to target different student populations, including part-time students, first-time students, and other nontraditional students.
+      - **(iv)** Ways to clearly communicate the importance of graduating on a student’s ability to repay student loans.
+    - **(C)** The Commission shall maintain and periodically update the best practices information required under this paragraph and make the best practices available to the public.
+    - **(D)** Nothing in this paragraph shall be construed to require an institution of higher education to adopt the best practices required under this paragraph.
 - **(b)**
   - **(1)** The Commission shall establish and maintain a website, such as the domain name “FinancialLiteracy.gov”, or a similar domain name.
   - **(2)** The website established under paragraph (1) shall—

@@ -3,9 +3,9 @@ title: "Section 9105a - National Museum and Library Services Board"
 usc_title: 20
 usc_section: "9105a"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 9105a"
-generated_at: "2026-03-29T19:28:43.237Z"
+generated_at: "2026-03-29T19:41:03.450Z"
 ---
 
 # § 9105a. National Museum and Library Services Board
@@ -22,15 +22,15 @@ generated_at: "2026-03-29T19:28:43.237Z"
     - **(A)** Of the members of the Museum and Library Services Board appointed under paragraph (1)(D)—
       - **(i)** five shall be professional librarians or information specialists, of whom—
         - **(I)** not less than one shall be knowledgeable about electronic information and technical aspects of library and information services and sciences; and
-        - **(II)** not less than one other shall be knowledgeable about the library and information service needs of underserved communities; and
+        - **(II)** not less than one other shall be knowledgeable about the library and information service needs of underserved communities, including rural communities; and
       - **(ii)** the remainder shall have special competence in, or knowledge of, the needs for library and information services in the United States.
     - **(B)** Of the members of the Museum and Library Services Board appointed under paragraph (1)(E)—
       - **(i)** five shall be museum professionals who are or have been affiliated with—
         - **(I)** resources that, collectively, are broadly representative of the curatorial, conservation, educational, and cultural resources of the United States; or
         - **(II)** museums that, collectively, are broadly representative of various types of museums, including museums relating to science, history, technology, art, zoos, botanical gardens, and museums designed for children; and
       - **(ii)** the remainder shall be individuals recognized for their broad knowledge, expertise, or experience in museums or commitment to museums.
-  - **(3)** Members of the Museum and Library Services Board shall be appointed to reflect persons from various geographic regions of the United States. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
-  - **(4)** The Director, the Deputy Director of the Office of Library Services, and the Deputy Director of the Office of Museum Services shall be nonvoting members of the Museum and Library Services Board.
+  - **(3)** Members of the Museum and Library Services Board shall be appointed to reflect persons from, and the needs of, various geographic regions of the United States, including rural areas. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
+  - **(4)** The Director, the Deputy Director of the Office of Library Services, the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute shall be nonvoting members of the Museum and Library Services Board.
 - **(c)**
   - **(1)** Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) shall serve for a term of 5 years.
   - **(2)** The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
@@ -41,11 +41,12 @@ generated_at: "2026-03-29T19:28:43.237Z"
   - **(1)** The Museum and Library Services Board shall advise the Director on general policies with respect to the duties, powers, and authority of the Institute relating to museum, library, and information services.
   - **(2)** The Museum and Library Services Board shall advise the Director in awarding national awards and medals under section 9107 of this title .
 - **(e)** The Director shall serve as Chairperson of the Museum and Library Services Board.
-- **(f)**
+- **(f)** The General Counsel of the Institute shall serve as Secretary of the Museum and Library Services Board.
+- **(g)**
   - **(1)** The Museum and Library Services Board shall meet not less than 2 times each year and at the call of the Director.
   - **(2)** All decisions by the Museum and Library Services Board with respect to the exercise of its duties and powers shall be made by a majority vote of the members of the Board who are present and authorized to vote.
-- **(g)** A majority of the voting members of the Museum and Library Services Board shall constitute a quorum for the conduct of business at official meetings, but a lesser number of members may hold hearings.
-- **(h)**
+- **(h)** A majority of the voting members of the Museum and Library Services Board shall constitute a quorum for the conduct of business at official meetings, but a lesser number of members may hold hearings.
+- **(i)**
   - **(1)** Each member of the Museum and Library Services Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum annual rate of pay authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5 , for each day (including travel time) during which such member is engaged in the performance of the duties of the Museum and Library Services Board. Members of the Museum and Libraries Services Board who are full-time officers or employees of the Federal Government may not receive additional pay, allowances, or benefits by reason of their service on the Museum and Library Services Board.
   - **(2)** Each member of the Museum and Library Services Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
-- **(i)** The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title .
+- **(j)** The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title .

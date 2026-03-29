@@ -1,14 +1,12 @@
 ---
-title: "Section 3608 - Independent cost estimate"
+title: "Section 3608 - Repealed. Pub. L. 116–271, title I, § 107(a) , Dec. 31, 2020 , 134 Stat. 3341"
 usc_title: 33
 usc_section: "3608"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3608"
-generated_at: "2026-03-29T19:30:28.887Z"
+generated_at: "2026-03-29T19:43:07.746Z"
 ---
 
-# § 3608. Independent cost estimate
-
-Within 1 year after March 30, 2009 , the Interagency Ocean Observation Committee, through the Administrator and the Director of the National Science Foundation, shall obtain an independent cost estimate for operations and maintenance of existing Federal assets of the System, and planned or anticipated acquisition, operation, and maintenance of new Federal assets for the System, including operation facilities, observation equipment, modeling and software, data management and communication, and other essential components. The independent cost estimate shall be transmitted unabridged and without revision by the Administrator to Congress.
+# § 3608. Repealed. Pub. L. 116–271, title I, § 107(a) , Dec. 31, 2020 , 134 Stat. 3341
 

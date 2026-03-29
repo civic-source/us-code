@@ -3,14 +3,14 @@ title: "Section 1305 - Pension benefit guaranty funds"
 usc_title: 29
 usc_section: "1305"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1305"
-generated_at: "2026-03-29T19:30:07.606Z"
+generated_at: "2026-03-29T19:42:21.530Z"
 ---
 
 # § 1305. Pension benefit guaranty funds
 
-- **(a)** There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title , one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title , one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term “fund” the reference shall be considered to refer to the appropriate fund established under this subsection.
+- **(a)** There are established on the books of the Treasury of the United States four revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title , one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title , one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term “fund” the reference shall be considered to refer to the appropriate fund established under this subsection.
 - **(b)**
   - **(1)** Each fund established under this section shall be credited with the appropriate portion of—
     - **(A)** premiums, penalties, interest, and charges collected under this subchapter,
@@ -60,3 +60,6 @@ generated_at: "2026-03-29T19:30:07.606Z"
   - **(1)** Amounts in any fund established under this section may be used only for the purposes for which such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
   - **(2)** Any repayment to the corporation of any amount paid out of any fund in connection with a multiemployer plan shall be deposited in such fund.
 - **(h)** Any stock in a person liable to the corporation under this subchapter which is paid to the corporation by such person or a member of such person’s controlled group in satisfaction of such person’s liability under this subchapter may be voted only by the custodial trustees or outside money managers of the corporation.
+- **(i)**
+  - **(1)** An eighth fund shall be established for special financial assistance to multiemployer pension plans, as provided under section 1432 of this title , and to pay for necessary administrative and operating expenses of the corporation relating to such assistance.
+  - **(2)** There is appropriated from the general fund such amounts as are necessary for the costs of providing financial assistance under section 1432 of this title and necessary administrative and operating expenses of the corporation. The eighth fund established under this subsection shall be credited with amounts from time to time as the Secretary of the Treasury, in conjunction with the Director of the Pension Benefit Guaranty Corporation, determines appropriate, from the general fund of the Treasury, but in no case shall such transfers occur after September 30, 2030 .

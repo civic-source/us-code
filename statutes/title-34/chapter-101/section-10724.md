@@ -5,7 +5,7 @@ usc_section: "10724"
 chapter: 101
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 10724"
-generated_at: "2026-03-29T18:45:50.325Z"
+generated_at: "2026-03-29T19:42:53.102Z"
 ---
 
 # § 10724. Application

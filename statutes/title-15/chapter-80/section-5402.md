@@ -3,9 +3,9 @@ title: "Section 5402 - Definitions"
 usc_title: 15
 usc_section: "5402"
 chapter: 80
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 5402"
-generated_at: "2026-03-29T19:27:55.571Z"
+generated_at: "2026-03-29T19:44:42.902Z"
 ---
 
 # § 5402. Definitions

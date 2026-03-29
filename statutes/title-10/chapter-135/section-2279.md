@@ -1,25 +1,38 @@
 ---
-title: "Section 2279 - Foreign commercial satellite services"
+title: "Section 2279 - Foreign commercial satellite services and foreign launches"
 usc_title: 10
 usc_section: "2279"
 chapter: 135
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2279"
-generated_at: "2026-03-29T19:27:25.578Z"
+generated_at: "2026-03-29T19:43:37.973Z"
 ---
 
-# § 2279. Foreign commercial satellite services
+# § 2279. Foreign commercial satellite services and foreign launches
 
-- **(a)** Except as provided in subsection (b), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
-  - **(1)** the foreign entity is an entity in which the government of a covered foreign country has an ownership interest that enables that government to affect satellite operations; or
-  - **(2)** the foreign entity plans to or is expected to provide launch or other satellite services under the contract from a covered foreign country.
-- **(b)** The prohibition in subsection (a) shall not apply to a contract if—
+- **(a)** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
+  - **(1)** the foreign entity is an entity in which the government of a covered foreign country has an ownership interest that enables that government to affect satellite operations;
+  - **(2)** the foreign entity plans to or is expected to provide satellite services under the contract from a covered foreign country; or
+  - **(3)** entering into such contract would create an unacceptable cybersecurity risk for the Department of Defense.
+- **(b)**
+  - **(1)** In addition to the prohibition in subsection (a), and except as provided in paragraph (2) and in subsection (c), the Secretary may not enter into a contract for satellite services with any entity if the Secretary reasonably believes that such satellite services will be provided using satellites that will be—
+    - **(A)** designed or manufactured in a covered foreign country, or by an entity controlled in whole or in part by, or acting on behalf of, the government of a covered foreign country; or
+    - **(B)** launched using a launch vehicle that is designed or manufactured in a covered foreign country, or that is provided by the government of a covered foreign country or by an entity controlled in whole or in part by, or acting on behalf of, the government of a covered foreign country, regardless of the location of the launch (unless such location is in the United States).
+  - **(2)** The limitation in paragraph (1) shall not apply with respect to—
+    - **(A)** a launch that occurs prior to December 31, 2022 ; or
+    - **(B)** a contract or other agreement relating to launch services that, prior to the date that is 180 days after the date of the enactment of this subsection, was either fully paid for by the contractor or covered by a legally binding commitment of the contractor to pay for such services.
+  - **(3)** In this subsection, the term “launch vehicle” means a fully integrated space launch vehicle.
+- **(c)** The prohibitions in subsections (a) and (b) shall not apply to a contract if—
   - **(1)** the Secretary determines it is in the national security of the United States to enter into such contract; and
   - **(2)** not later than 7 days before entering into such contract, the Secretary, in consultation with the Director of National Intelligence, submits to the congressional defense committees a national security assessment for such contract that includes the following:
     - **(A)** The projected period of performance (including any period covered by options to extend the contract), the financial terms, and a description of the services to be provided under the contract.
     - **(B)** To the extent practicable, a description of the ownership interest that a covered foreign country has in the foreign entity providing satellite services to the Department of Defense under the contract and the launch or other satellite services that will be provided in a covered foreign country under the contract.
     - **(C)** A justification for entering into a contract with such foreign entity and a description of the actions necessary to eliminate the need to enter into such a contract with such foreign entity in the future.
     - **(D)** A risk assessment of entering into a contract with such foreign entity, including an assessment of mission assurance and security of information and a description of any measures necessary to mitigate risks found by such risk assessment.
-- **(c)** The Secretary of Defense may only delegate the authority under subsection (b) to enter into a contract subject to the prohibition under subsection (a) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition, Technology, and Logistics and such authority may not be further delegated.
-- **(d)** Each assessment under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
-- **(e)** In this section, the term “covered foreign country” means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ; 126 Stat. 2019 ).
+- **(d)** The Secretary of Defense may only delegate the authority under subsection (c) to enter into a contract subject to the prohibition under subsection (a) or (b) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition and Sustainment and such authority may not be further delegated.
+- **(e)** Each assessment under subsection (c) shall be submitted in unclassified form, but may include a classified annex.
+- **(f)** In this section:
+  - **(1)** The term “covered foreign country” means any of the following:
+    - **(A)** A country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ; 126 Stat. 2019 ).
+    - **(B)** The Russian Federation.
+  - **(2)** The term “cybersecurity risk” means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism.

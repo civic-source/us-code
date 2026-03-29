@@ -3,9 +3,9 @@ title: "Section 6519 - Recordkeeping, investigations, and enforcement"
 usc_title: 7
 usc_section: "6519"
 chapter: 94
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6519"
-generated_at: "2026-03-29T19:27:31.948Z"
+generated_at: "2026-03-29T19:43:58.366Z"
 ---
 
 # § 6519. Recordkeeping, investigations, and enforcement
@@ -36,6 +36,7 @@ generated_at: "2026-03-29T19:27:31.948Z"
     - **(C)** compel attendance of witnesses;
     - **(D)** take evidence; and
     - **(E)** require the production of any records required to be maintained under this chapter that are relevant to an investigation.
+  - **(3)** In carrying out this chapter, all parties to an active investigation (including certifying agents, State organic certification programs, and the national organic program) shall share confidential business information with Federal Government officers and employees involved in the investigation as necessary to fully investigate and enforce potential violations of this chapter.
 - **(c)**
   - **(1)** Any person who knowingly sells or labels a product as organic, except in accordance with this chapter, shall be subject to a civil penalty of not more than $10,000.
   - **(2)** Any person who makes a false statement under this chapter to the Secretary, a governing State official, or a certifying agent shall be punished in accordance with section 1001 of title 18 .

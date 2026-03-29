@@ -3,9 +3,9 @@ title: "Section 315 - Functions transferred"
 usc_title: 6
 usc_section: "315"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 315"
-generated_at: "2026-03-29T19:27:39.846Z"
+generated_at: "2026-03-29T19:43:43.778Z"
 ---
 
 # § 315. Functions transferred
@@ -17,5 +17,4 @@ generated_at: "2026-03-29T19:27:39.846Z"
   - **(1)** The Office of Infrastructure Protection.
   - **(2)** The National Communications System.
   - **(3)** The National Cybersecurity Division.
-  - **(4)** The Office of the Chief Medical Officer.
-  - **(5)** The functions, personnel, assets, components, authorities, and liabilities of each component described under paragraphs (1) through (4).
+  - **(4)** The functions, personnel, assets, components, authorities, and liabilities of each component described under paragraphs (1) through (3).

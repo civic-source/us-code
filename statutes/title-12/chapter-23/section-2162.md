@@ -3,9 +3,9 @@ title: "Section 2162 - Protection of borrower stock"
 usc_title: 12
 usc_section: "2162"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 2162"
-generated_at: "2026-03-29T19:28:17.730Z"
+generated_at: "2026-03-29T19:44:54.195Z"
 ---
 
 # § 2162. Protection of borrower stock
@@ -15,9 +15,9 @@ generated_at: "2026-03-29T19:28:17.730Z"
   - **(1)** to retire or cancel borrower stock at par value for application against a loan in default;
   - **(2)** to cancel borrower stock at par value under section 2202b of this title ; or
   - **(3)** to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2), the par value of borrower stock frozen in such liquidation.
-- **(c)** If an institution is unable to retire eligible borrower stock at par value due to the liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution, and—
-  - **(1)** during the 5-year period beginning on January 6, 1988 , the Assistance Board shall direct the Financial Assistance Corporation to provide the receiver with sufficient funds to enable the receiver to carry out this subsection; and
-  - **(2)** after such 5-year period, the Farm Credit System Insurance Corporation shall provide the receiver with sufficient funds from the Farm Credit Insurance Fund to enable the receiver to carry out this subsection.
+- **(c)**
+  - **(1)** If an institution is unable to retire eligible borrower stock at par value due to the liquidation of the institution, the Farm Credit System Insurance Corporation, acting as receiver, shall retire such stock at par value as would have been retired in the ordinary course of business of the institution.
+  - **(2)** The Farm Credit System Insurance Corporation shall use such funds from the Farm Credit Insurance Fund as are sufficient to carry out this section.
 - **(d)** For purposes of this section:
   - **(1)** The term “borrower stock” means voting and nonvoting stock, equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other similar equities that are subject to retirement under a revolving cycle issued by any System institution and held by any person other than any System institution.
   - **(2)** The term “eligible borrower stock” means borrower stock that—

@@ -1,14 +1,12 @@
 ---
-title: "Section 303 - Annual report on overseas surplus properties"
+title: "Section 303 - Repealed. Pub. L. 114–323, title VII, § 715(a)(1) , Dec. 16, 2016 , 130 Stat. 1946"
 usc_title: 22
 usc_section: "303"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 303"
-generated_at: "2026-03-29T19:29:46.689Z"
+generated_at: "2026-03-29T19:42:07.996Z"
 ---
 
-# § 303. Annual report on overseas surplus properties
-
-Not later than March 1 of each year, the Secretary of State shall submit to Congress a report listing overseas United States surplus properties that are administered under this chapter and that have been identified for sale.
+# § 303. Repealed. Pub. L. 114–323, title VII, § 715(a)(1) , Dec. 16, 2016 , 130 Stat. 1946
 

@@ -5,7 +5,7 @@ usc_section: "4b"
 chapter: 9
 current_through: "PL 117-81"
 classification: "21 U.S.C. § 4b"
-generated_at: "2026-03-29T18:44:35.657Z"
+generated_at: "2026-03-29T19:41:41.612Z"
 ---
 
 # § 360bbb–4b. Medical countermeasure master files

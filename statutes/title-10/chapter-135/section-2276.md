@@ -3,9 +3,9 @@ title: "Section 2276 - Commercial space launch cooperation"
 usc_title: 10
 usc_section: "2276"
 chapter: 135
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2276"
-generated_at: "2026-03-29T19:27:25.577Z"
+generated_at: "2026-03-29T19:43:37.973Z"
 ---
 
 # § 2276. Commercial space launch cooperation
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:27:25.577Z"
   - **(1)** There is established in the Treasury of the United States a special account to be known as the “Defense Cooperation Space Launch Account”.
   - **(2)** Funds received by the Secretary of Defense under subsection (c) shall be credited to the Defense Cooperation Space Launch Account.
   - **(3)** Funds deposited in the Defense Cooperation Space Launch Account under paragraph (2) are authorized to be appropriated and shall be available for obligation only to the extent provided in advance in an appropriation Act for costs incurred by the Department of Defense in carrying out subsection (b). Funds in the Account shall remain available until expended.
-- **(e)** Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year.
+- **[(e)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(a)(2) , Aug. 13, 2018 , 132 Stat. 1851 .]
 - **(f)** The Secretary of Defense shall prescribe regulations to carry out this section.
 - **(g)** In this section:
   - **(1)** The term “covered entity” means a non-Federal entity that—

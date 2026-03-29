@@ -3,17 +3,17 @@ title: "Section 179 - Election to expense certain depreciable business assets"
 usc_title: 26
 usc_section: "179"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 179"
-generated_at: "2026-03-29T19:30:19.745Z"
+generated_at: "2026-03-29T19:42:47.585Z"
 ---
 
 # § 179. Election to expense certain depreciable business assets
 
 - **(a)** A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
 - **(b)**
-  - **(1)** The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $500,000.
-  - **(2)** The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $2,000,000.
+  - **(1)** The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $1,000,000.
+  - **(2)** The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $2,500,000.
   - **(3)**
     - **(A)** The amount allowed as a deduction under subsection (a) for any taxable year (determined after the application of paragraphs (1) and (2)) shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
     - **(B)** The amount allowable as a deduction under subsection (a) for any taxable year shall be increased by the lesser of—
@@ -37,10 +37,10 @@ generated_at: "2026-03-29T19:30:19.745Z"
         - **(II)** is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
         - **(III)** has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver’s seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
   - **(6)**
-    - **(A)** In the case of any taxable year beginning after 2015, the dollar amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
+    - **(A)** In the case of any taxable year beginning after 2018, the dollar amounts in paragraphs (1), (2), and (5)(A) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 1992” in subparagraph (B) thereof.
-    - **(B)** The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2017” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(B)** The amount of any increase under subparagraph (A) shall be rounded to the nearest multiple of $10,000 ($100 in the case of any increase in the amount under paragraph (5)(A)).
 - **(c)**
   - **(1)** An election under this section for any taxable year shall—
     - **(A)** specify the items of section 179 property to which the election applies and the portion of the cost of each of such items which is to be taken into account under subsection (a), and
@@ -51,7 +51,9 @@ generated_at: "2026-03-29T19:30:19.745Z"
     - **(A)** which is—
       - **(i)** tangible property (to which section 168 applies), or
       - **(ii)** computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i) and to which section 167 applies,
-    - **(B)** which is section 1245 property (as defined in section 1245(a)(3)), and
+    - **(B)** which is—
+      - **(i)** section 1245 property (as defined in section 1245(a)(3)), or
+      - **(ii)** at the election of the taxpayer, qualified real property (as defined in subsection (e)), and
     - **(C)** which is acquired by purchase for use in the active conduct of a trade or business.
   - **(2)** For purposes of paragraph (1), the term “purchase” means any acquisition of property, but only if—
     - **(A)** the property is not acquired from a person whose relationship to the person acquiring it would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants),
@@ -71,23 +73,10 @@ generated_at: "2026-03-29T19:30:19.745Z"
   - **(8)** In the case of a partnership, the limitations of subsection (b) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
   - **(9)** No credit shall be allowed under section 38 with respect to any amount for which a deduction is allowed under subsection (a).
   - **(10)** The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
-- **(e)**
-  - **(1)** For purposes of this section—
-    - **(A)** the dollar amount in effect under subsection (b)(1) for the taxable year shall be increased by the lesser of—
-      - **(i)** $100,000, or
-      - **(ii)** the cost of qualified section 179 disaster assistance property placed in service during the taxable year, and
-    - **(B)** the dollar amount in effect under subsection (b)(2) for the taxable year shall be increased by the lesser of—
-      - **(i)** $600,000, or
-      - **(ii)** the cost of qualified section 179 disaster assistance property placed in service during the taxable year.
-  - **(2)** For purposes of this subsection, the term “qualified section 179 disaster assistance property” means section 179 property (as defined in subsection (d)) which is qualified disaster assistance property (as defined in section 168(n)(2)).
-  - **(3)** For purposes of sections 1397A and 1400J, qualified section 179 disaster assistance property shall not be treated as qualified zone property or qualified renewal property, unless the taxpayer elects not to take such qualified section 179 disaster assistance property into account for purposes of this subsection.
-  - **(4)** For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
-- **(f)**
-  - **(1)** If a taxpayer elects the application of this subsection for any taxable year, the term “section 179 property” shall include any qualified real property which is—
-    - **(A)** of a character subject to an allowance for depreciation,
-    - **(B)** acquired by purchase for use in the active conduct of a trade or business, and
-    - **(C)** not described in the last sentence of subsection (d)(1).
-  - **(2)** For purposes of this subsection, the term “qualified real property” means—
-    - **(A)** qualified leasehold improvement property described in section 168(e)(6),
-    - **(B)** qualified restaurant property described in section 168(e)(7), and
-    - **(C)** qualified retail improvement property described in section 168(e)(8).
+- **(e)** For purposes of this section, the term “qualified real property” means—
+  - **(1)** any qualified improvement property described in section 168(e)(6), and
+  - **(2)** any of the following improvements to nonresidential real property placed in service after the date such property was first placed in service:
+    - **(A)** Roofs.
+    - **(B)** Heating, ventilation, and air-conditioning property.
+    - **(C)** Fire protection and alarm systems.
+    - **(D)** Security systems.

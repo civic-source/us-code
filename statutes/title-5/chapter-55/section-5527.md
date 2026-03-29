@@ -3,9 +3,9 @@ title: "Section 5527 - Regulations"
 usc_title: 5
 usc_section: "5527"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 5527"
-generated_at: "2026-03-29T19:27:05.291Z"
+generated_at: "2026-03-29T19:43:20.362Z"
 ---
 
 # § 5527. Regulations

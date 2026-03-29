@@ -3,14 +3,14 @@ title: "Section 6605 - Advisory group"
 usc_title: 16
 usc_section: "6605"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 6605"
-generated_at: "2026-03-29T19:29:27.622Z"
+generated_at: "2026-03-29T19:41:13.875Z"
 ---
 
 # § 6605. Advisory group
 
-- **(a)** To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of marine turtles.
+- **(a)** To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of marine turtles, freshwater turtles, or tortoises.
 - **(b)**
   - **(1)** The Advisory Group shall—
     - **(A)** ensure that each meeting of the advisory group is open to the public; and

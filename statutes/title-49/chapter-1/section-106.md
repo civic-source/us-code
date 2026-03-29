@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-29T19:32:28.714Z"
+generated_at: "2026-03-29T19:44:57.808Z"
 ---
 
 # § 106. Federal Aviation Administration
@@ -51,26 +51,43 @@ generated_at: "2026-03-29T19:32:28.714Z"
     - **(A)** is employed in a position listed in sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
     - **(B)** is a limited term appointee, limited emergency appointee, or noncareer appointee in the Senior Executive Service, as defined under paragraphs (5), (6), and (7), respectively, of section 3132(a) of title 5 ; or
     - **(C)** is employed in a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
-- **(g)**
-  - **(1)** Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
-    - **(A)** duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
-    - **(B)** additional duties and powers prescribed by the Secretary of Transportation.
-  - **(2)** In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and 48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 1 1 See References in Text note below. of this title.
+- **(g)** The Administrator shall carry out the following:
+  - **(1)** Duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in the following:
+    - **(A)** Section 308(b).
+    - **(B)** Subsections (c) and (d) of section 1132.
+    - **(C)** Sections 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), and 40114(a).
+    - **(D)** Chapter 445, except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515.
+    - **(E)** Chapter 447, except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723.
+    - **(F)** Chapter 451.
+    - **(G)** Chapter 453.
+    - **(H)** Section 46104.
+    - **(I)** Subsections (d) and (h)(2) of section 46301 and sections 46303(c), 46304 through 46308, 46310, 46311, and 46313 through 46316.
+    - **(J)** Chapter 465.
+    - **(K)** Sections 47504(b) (related to flight procedures), 47508(a), and 48107.
+  - **(2)** Additional duties and powers prescribed by the Secretary of Transportation.
 - **(h)** Section 40101(d) of this title applies to duties and powers specified in subsection (g)(1) of this section. Any of those duties and powers may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers is administratively final.
 - **(i)** The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
 - **(j)** There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title . Such institute shall be known as the “Civil Aeromedical Institute”. Research conducted by the institute should take appropriate advantage of capabilities of other government agencies, universities, or the private sector.
 - **(k)**
   - **(1)** There is authorized to be appropriated to the Secretary of Transportation for salaries, operations, and maintenance of the Administration—
-    - **(A)** $9,653,000,000 for fiscal year 2012;
-    - **(B)** $9,539,000,000 for fiscal year 2013;
-    - **(C)** $9,596,000,000 for fiscal year 2014;
-    - **(D)** $9,653,000,000 for fiscal year 2015; and
-    - **(E)** $9,909,724,000 for each of fiscal years 2016 and 2017.
+    - **(A)** $10,247,000,000 for fiscal year 2018;
+    - **(B)** $10,486,000,000 for fiscal year 2019;
+    - **(C)** $10,732,000,000 for fiscal year 2020;
+    - **(D)** $11,000,000,000 for fiscal year 2021;
+    - **(E)** $11,269,000,000 for fiscal year 2022; and
+    - **(F)** $11,537,000,000 for fiscal year 2023.
   - **(2)** Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
     - **(A)** Such sums as may be necessary for fiscal years 2012 through 2015 to carry out and expand the Air Traffic Control Collegiate Training Initiative.
     - **(B)** Such sums as may be necessary for fiscal years 2012 through 2015 for the completion of the Alaska aviation safety project with respect to the 3 dimensional mapping of Alaska’s main aviation corridors.
     - **(C)** Such sums as may be necessary for fiscal years 2012 through 2015 to carry out the Aviation Safety Reporting System and the development and maintenance of helicopter approach procedures.
-  - **(3)** Notwithstanding any other provision of law, in each of fiscal years 2012 through 2017, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+    - **(D)** Not more than the following amounts for commercial space transportation activities:
+      - **(i)** $22,587,000 for fiscal year 2018.
+      - **(ii)** $33,038,000 for fiscal year 2019.
+      - **(iii)** $43,500,000 for fiscal year 2020.
+      - **(iv)** $54,970,000 for fiscal year 2021.
+      - **(v)** $64,449,000 for fiscal year 2022.
+      - **(vi)** $75,938,000 for fiscal year 2023.
+  - **(3)** Notwithstanding any other provision of law, in each of fiscal years 2018 through 2023, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 - **(l)**
   - **(1)** Except as provided in subsections (a) and (g) of section 40122, the Administrator is authorized, in the performance of the functions of the Administrator, to appoint, transfer, and fix the compensation of such officers and employees, including attorneys, as may be necessary to carry out the functions of the Administrator and the Administration. In fixing compensation and benefits of officers and employees, the Administrator shall not engage in any type of bargaining, except to the extent provided for in section 40122(a), nor shall the Administrator be bound by any requirement to establish such compensation or benefits at particular levels.
   - **(2)** The Administrator is authorized to obtain the services of experts and consultants in accordance with section 3109 of title 5 .
@@ -81,6 +98,7 @@ generated_at: "2026-03-29T19:32:28.714Z"
     - **(B)** The Administrator is authorized to provide for incidental expenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
     - **(C)** An individual who provides voluntary services under this subsection shall not be considered a Federal employee for any purpose other than for purposes of chapter 81 of title 5, relating to compensation for work injuries, and chapter 171 of title 28, relating to tort claims.
   - **(6)** The Administrator is authorized to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the functions of the Administrator and the Administration. The Administrator may enter into such contracts, leases, cooperative agreements, and other transactions with any Federal agency (as such term is defined in section 551(1) of title 5 ) or any instrumentality of the United States, any State, territory, or possession, or political subdivision thereof, any other governmental entity, or any person, firm, association, corporation, or educational institution, on such terms and conditions as the Administrator may consider appropriate.
+  - **(7)** No employee of the Administration shall be given an award, financial incentive, or other compensation, as a result of actions to meet performance goals related to meeting or exceeding schedules, quotas, or deadlines for certificates issued under section 44704.
 - **(m)** With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5 ) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, with or without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
 - **(n)**
   - **(1)** The Administrator is authorized—
@@ -109,7 +127,7 @@ generated_at: "2026-03-29T19:32:28.714Z"
       - **(iii)** The Council shall review the process through which the Administration determines to use advisory circulars and service bulletins.
     - **(B)** The Council shall meet on a regular and periodic basis or at the call of the chairman or of the Administrator.
     - **(C)** The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the “Freedom of Information Act”), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18 , pertaining to unauthorized disclosure of such information.
-  - **(5)** The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, or such aviation rulemaking committees as the Administrator shall designate.
+  - **(5)** The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, such aviation rulemaking committees as the Administrator shall designate, or such aerospace rulemaking committees as the Secretary shall designate.
   - **(6)**
     - **(A)** Members of the Council appointed under paragraph (2)(C) shall be appointed for a term of 3 years. Of the members first appointed by the President under paragraph (2)(C)—
       - **(i)** 3 shall be appointed for terms of 1 year;
@@ -223,42 +241,44 @@ generated_at: "2026-03-29T19:32:28.714Z"
       - **(iii)** ensure that the budget request supports the agency’s annual and long-range strategic plans for air traffic control services.
 - **(s)**
   - **(1)**
-    - **(A)** There shall be a Chief NextGen Officer appointed by the Administrator, with the approval of the Secretary. The Chief NextGen Officer shall report directly to the Administrator and shall be subject to the authority of the Administrator.
-    - **(B)** The Chief NextGen Officer shall have a demonstrated ability in management and knowledge of or experience in aviation and systems engineering.
-    - **(C)** The Chief NextGen Officer shall be appointed for a term of 5 years.
-    - **(D)** The Chief NextGen Officer shall serve at the pleasure of the Administrator, except that the Administrator shall make every effort to ensure stability and continuity in the leadership of the implementation of NextGen.
-    - **(E)** Any individual appointed to fill a vacancy in the position of Chief NextGen Officer occurring before the expiration of the term for which the individual’s predecessor was appointed shall be appointed for the remainder of that term.
-  - **(2)**
-    - **(A)** The Chief NextGen Officer shall be paid at an annual rate of basic pay to be determined by the Administrator. The annual rate may not exceed the annual compensation paid under section 102 of title 3 . The Chief NextGen Officer shall be subject to the postemployment provisions of section 207 of title 18 as if the position of Chief NextGen Officer were described in section 207(c)(2)(A)(i) of that title.
-    - **(B)** In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief NextGen Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator’s evaluation of the Chief NextGen Officer’s performance in relation to the performance goals set forth in the performance agreement described in paragraph (3).
-  - **(3)** The Administrator and the Chief NextGen Officer, in consultation with the Federal Aviation Management Advisory Council, shall enter into an annual performance agreement that sets forth measurable organization and individual goals for the Chief NextGen Officer in key operational areas. The agreement shall be subject to review and renegotiation on an annual basis.
-  - **(4)** The Chief NextGen Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual management report containing such information as may be prescribed by the Secretary.
-  - **(5)** The responsibilities of the Chief NextGen Officer include the following:
-    - **(A)** Implementing NextGen activities and budgets across all program offices of the Federal Aviation Administration.
-    - **(B)** Coordinating the implementation of NextGen activities with the Office of Management and Budget.
-    - **(C)** Reviewing and providing advice on the Administration’s modernization programs, budget, and cost accounting system with respect to NextGen.
-    - **(D)** With respect to the budget of the Administration—
-      - **(i)** developing a budget request of the Administration related to the implementation of NextGen;
-      - **(ii)** submitting such budget request to the Administrator; and
-      - **(iii)** ensuring that the budget request supports the annual and long-range strategic plans of the Administration with respect to NextGen.
-    - **(E)** Consulting with the Administrator on the Capital Investment Plan of the Administration prior to its submission to Congress.
-    - **(F)** Developing an annual NextGen implementation plan.
-    - **(G)** Ensuring that NextGen implementation activities are planned in such a manner as to require that system architecture is designed to allow for the incorporation of novel and currently unknown technologies into NextGen in the future and that current decisions do not bias future decisions unfairly in favor of existing technology at the expense of innovation.
-    - **(H)** Coordinating with the NextGen Joint Planning and Development Office with respect to facilitating cooperation among all Federal agencies whose operations and interests are affected by the implementation of NextGen.
-  - **(6)** If the Administrator appoints as the Chief NextGen Officer, pursuant to paragraph (1)(A), an Executive Schedule employee covered by section 5315 of title 5 , then paragraphs (1)(B), (1)(C), (2), and (3) of this subsection shall not apply to such employee.
-  - **(7)** For purposes of this subsection, the term “NextGen” means the Next Generation Air Transportation System.
+    - **(A)** There shall be a Chief Technology Officer appointed by the Chief Operating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
+    - **(B)** The Chief Technology Officer shall have—
+      - **(i)** at least 10 years experience in engineering management or another relevant technical management field; and
+      - **(ii)** knowledge of or experience in the aviation industry.
+    - **(C)** The Chief Technology Officer shall serve at the pleasure of the Administrator.
+    - **(D)** The Chief Technology Officer may not also be the Deputy Administrator.
+  - **(2)** The responsibilities of the Chief Technology Officer shall include—
+    - **(A)** ensuring the proper operation, maintenance, and cybersecurity of technology systems relating to the air traffic control system across all program offices of the Administration;
+    - **(B)** coordinating the implementation, operation, maintenance, and cybersecurity of technology programs relating to the air traffic control system with the aerospace industry and other Federal agencies;
+    - **(C)** reviewing and providing advice to the Secretary, the Administrator, and the Chief Operating Officer on the Administration’s budget, cost-accounting system, and benefit-cost analyses with respect to technology programs relating to the air traffic control system;
+    - **(D)** consulting with the Administrator on the Capital Investment Plan of the Administration prior to its submission to Congress;
+    - **(E)** developing an annual air traffic control system technology operation and maintenance plan that is consistent with the annual performance targets established under paragraph (4); and
+    - **(F)** ensuring that the air traffic control system architecture remains, to the maximum extent practicable, flexible enough to incorporate future technological advances developed and directly procured by aircraft operators.
+  - **(3)**
+    - **(A)** The Chief Technology Officer shall be paid at an annual rate of basic pay to be determined by the Administrator, in consultation with the Chief Operating Officer. The annual rate may not exceed the annual compensation paid under section 102 of title 3 . The Chief Technology Officer shall be subject to the postemployment provisions of section 207 of title 18 as if the position of Chief Technology Officer were described in section 207(c)(2)(A)(i) of that title.
+    - **(B)** In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief Technology Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator’s evaluation of the Chief Technology Officer’s performance in relation to the performance targets established under paragraph (4).
+  - **(4)**
+    - **(A)** The Administrator and the Chief Operating Officer, in consultation with the Chief Technology Officer, shall establish measurable annual performance targets for the Chief Technology Officer in key operational areas.
+    - **(B)** The Administrator shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the annual performance targets established under subparagraph (A).
+  - **(5)** The Chief Technology Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual report containing—
+    - **(A)** detailed descriptions and metrics of how successful the Chief Technology Officer was in meeting the annual performance targets established under paragraph (4); and
+    - **(B)** other information as may be requested by the Administrator and the Chief Operating Officer.
 - **(t)**
-  - **(1)** There is established in the Federal Aviation Administration (in this subsection referred to as the “Agency”) an Aviation Safety Whistleblower Investigation Office (in this subsection referred to as the “Office”).
+  - **(1)** There is established in the Federal Aviation Administration (in this subsection referred to as the “Agency”) the Office of Whistleblower Protection and Aviation Safety Investigations (in this subsection referred to as the “Office”).
   - **(2)**
     - **(A)** The head of the Office shall be the Director, who shall be appointed by the Secretary of Transportation.
     - **(B)** The Director shall have a demonstrated ability in investigations and knowledge of or experience in aviation.
     - **(C)** The Director shall be appointed for a term of 5 years.
     - **(D)** Any individual appointed to fill a vacancy in the position of the Director occurring before the expiration of the term for which the individual’s predecessor was appointed shall be appointed for the remainder of that term.
+    - **(E)** The Director may only perform duties of the Director described in paragraph (3)(A).
   - **(3)**
     - **(A)** The Director shall—
-      - **(i)** receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
-      - **(ii)** assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred; and
-      - **(iii)** based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions.
+      - **(i)** receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
+      - **(ii)** assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred;
+      - **(iii)** based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions;
+      - **(iv)** receive allegations of whistleblower retaliation by employees of the Agency;
+      - **(v)** coordinate with and provide all necessary assistance to the Office of Investigations and Professional Responsibility, the inspector general of the Department of Transportation, and the Office of Special Counsel on investigations relating to whistleblower retaliation by employees of the Agency; and
+      - **(vi)** investigate allegations of whistleblower retaliation by employees of the Agency that have been delegated to the Office by the Office of Investigations and Professional Responsibility, the inspector general of the Department of Transportation, or the Office of Special Counsel.
     - **(B)** The Director shall not disclose the identity of an individual who submits a complaint or information under subparagraph (A)(i) unless—
       - **(i)** the individual consents to the disclosure in writing; or
       - **(ii)** the Director determines, in the course of an investigation, that the disclosure is required by regulation, statute, or court order, or is otherwise unavoidable, in which case the Director shall provide the individual reasonable advanced notice of the disclosure.
@@ -267,8 +287,20 @@ generated_at: "2026-03-29T19:32:28.714Z"
   - **(4)** Not later than 60 days after the date on which the Administrator receives a report with respect to an investigation, the Administrator shall respond to a recommendation made by the Director under paragraph (3)(A)(iii) in writing and retain records related to any further investigations or corrective actions taken in response to the recommendation.
   - **(5)** If the Director determines there is a substantial likelihood that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred that requires immediate corrective action, the Director shall report the potential violation expeditiously to the Administrator and the Inspector General of the Department of Transportation.
   - **(6)** If the Director has reasonable grounds to believe that there has been a violation of Federal criminal law, the Director shall report the violation expeditiously to the Inspector General.
-  - **(7)** Not later than October 1 of each year, the Director shall submit to Congress a report containing—
-    - **(A)** information on the number of submissions of complaints and information received by the Director under paragraph (3)(A)(i) in the preceding 12-month period;
+  - **(7)** Not later than November 15 of each year, the Director shall submit to Congress a report containing—
+    - **(A)** information on the number of submissions of complaints and information received by the Director under paragraph (3)(A)(i) in the preceding fiscal year;
     - **(B)** summaries of those submissions;
-    - **(C)** summaries of further investigations and corrective actions recommended in response to the submissions; and
-    - **(D)** summaries of the responses of the Administrator to such recommendations.
+    - **(C)** summaries of the resolution of those submissions, including any further investigations and corrective actions recommended in response to the submissions;
+    - **(D)** summaries of the responses of the Administrator to such recommendations; and
+    - **(E)** A 1 1 So in original. Probably should not be capitalized. summary of the activities of the Whistleblower Ombudsman, including—
+      - **(i)** the number of employee consultations conducted by the Whistleblower Ombudsman in the preceding 12-month period and a summary of such consultations and their resolution (in a de-identified or anonymized form); and
+      - **(ii)** the number of reported incidents of retaliation during such period and, if applicable, a description of the disposition of such incidents during such period.
+  - **(8)**
+    - **(A)** Within the Office, there shall be established the position of Whistleblower Ombudsman.
+    - **(B)** The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management, 2 2 So in original. The comma probably should not appear. and conflict resolution.
+    - **(C)** The Ombudsman shall carry out the following duties:
+      - **(i)** Educate Administration employees about prohibitions against materially adverse acts of retaliation and any specific rights or remedies with respect to those retaliatory actions.
+      - **(ii)** Serve as an independent confidential resource for Administration employees to discuss any specific retaliation allegation and available rights or remedies based on the circumstances, as appropriate.
+      - **(iii)** Coordinate with Human Resource Management, the Office of Accountability and Whistleblower Protection, the Office of Professional Responsibility, and the Office of the Chief Counsel, as necessary.
+      - **(iv)** Coordinate with the Office of the Inspector General of the Department of Transportation’s Whistleblower Protection Coordinator and the Office of the Special Counsel, as necessary.
+      - **(v)** Conduct outreach and assist in the development of training within the Agency to mitigate the potential for retaliation and promote timely and appropriate processing of any protected disclosure or allegation of materially adverse acts of retaliation.

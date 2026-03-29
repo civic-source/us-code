@@ -1,12 +1,12 @@
 ---
-title: "Section 61 - Repealed. Pub. L. 105–244, title IV , § 405, Oct. 7, 1998 , 112 Stat. 1664"
+title: "Section 61 - Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664"
 usc_title: 20
 usc_section: "61"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 61"
-generated_at: "2026-03-29T19:28:42.979Z"
+generated_at: "2026-03-29T19:41:03.196Z"
 ---
 
-# § 1070a–61. Repealed. Pub. L. 105–244, title IV , § 405, Oct. 7, 1998 , 112 Stat. 1664
+# § 1070a–61. Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664
 

@@ -3,9 +3,9 @@ title: "Section 313d - NIDIS program"
 usc_title: 15
 usc_section: "313d"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 313d"
-generated_at: "2026-03-29T19:27:55.311Z"
+generated_at: "2026-03-29T19:44:42.601Z"
 ---
 
 # § 313d. NIDIS program
@@ -13,24 +13,20 @@ generated_at: "2026-03-29T19:27:55.311Z"
 - **(a)** The Under Secretary, through the National Weather Service and other appropriate weather and climate programs in the National Oceanic and Atmospheric Administration, shall establish a National Integrated Drought Information System to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs.
 - **(b)** The National Integrated Drought Information System shall—
   - **(1)** provide an effective drought early warning system that—
-    - **(A)** collects and integrates information on the key indicators of drought and drought impacts in order to make usable, reliable, and timely forecasts of drought, including assessments of the severity of drought conditions and impacts; and
+    - **(A)** collects and integrates information on the key indicators of drought and drought impacts, including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and assessments of the severity of drought conditions and impacts; and
     - **(B)** provides such information, forecasts, and assessments on both national and regional levels;
   - **(2)** communicate drought forecasts, drought conditions, and drought impacts on an ongoing basis to public and private entities engaged in drought planning and preparedness, including—
     - **(A)** decisionmakers at the Federal, regional, State, tribal, and local levels of government;
     - **(B)** the private sector; and
     - **(C)** the public;
-  - **(3)** provide timely data, information, and products that reflect local, regional, and State differences in drought conditions;
-  - **(4)** coordinate, and integrate as practicable, Federal research and monitoring in support of a drought early warning system;
-  - **(5)** build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and
-  - **(6)** continue ongoing research and monitoring activities related to drought, including research activities relating to length, severity, and impacts of drought and the role of extreme weather events and climate variability in drought.
-- **(c)** The Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector in the development of the National Integrated Drought Information System.
-- **(d)** Each Federal agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
-- **(e)**
-  - **(1)** Not later than 18 months after March 6, 2014 , the Under Secretary shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains—
-    - **(A)** an analysis of the implementation of the National Integrated Drought Information System program, including how the information, forecasts, and assessments are utilized in drought policy planning and response activities;
-    - **(B)** specific plans for continued development of such program, including future milestones; and
-    - **(C)** an identification of research, monitoring, and forecasting needs to enhance the predictive capability of drought early warnings that include—
-      - **(i)** the length and severity of droughts;
-      - **(ii)** the contribution of weather events to reducing the severity or ending drought conditions; and
-      - **(iii)** regionally specific drought impacts.
-  - **(2)** In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.
+  - **(3)** provide timely data, information, and products that reflect local, regional, watershed, and State differences in drought conditions;
+  - **(4)** coordinate, and integrate, through interagency agreements as practicable, Federal research and monitoring in support of a drought early warning information system;
+  - **(5)** utilize existing forecasting and assessment programs and partnerships, including forecast communication coordinators and cooperative institutes, and improvements in seasonal precipitation and temperature, subseasonal precipitation and temperature, and low flow water prediction; and
+  - **(6)** continue ongoing research and monitoring activities related to drought, including research activities relating to the prediction, length, severity, and impacts of drought and the role of extreme weather events and climate variability in drought.
+- **(c)** The National Integrated Drought Information System may—
+  - **(1)** engage with the private sector to improve drought monitoring, forecast, and communication if the Under Secretary determines the partnership is appropriate, cost-effective, and beneficial to the public and decisionmakers described in subsection (b)(2)(A);
+  - **(2)** facilitate the development of 1 or more academic cooperative partnerships to assist with National Integrated Drought Information System functions; and
+  - **(3)** utilize and support, as appropriate, monitoring by citizen scientists, including by developing best practices to facilitate maximum data integration.
+- **(d)** The Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector in the development and sustainment of the National Integrated Drought Information System.
+- **(e)** Each Federal agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
+- **(f)** Not later than 1 year after January 7, 2019 , the Under Secretary, acting through the National Integrated Drought Information System, shall develop a strategy for a national coordinated soil moisture monitoring network.

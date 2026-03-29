@@ -3,9 +3,9 @@ title: "Section 973g - Licenses"
 usc_title: 16
 usc_section: "973g"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 973g"
-generated_at: "2026-03-29T19:29:27.414Z"
+generated_at: "2026-03-29T19:41:13.656Z"
 ---
 
 # § 973g. Licenses
@@ -24,6 +24,6 @@ generated_at: "2026-03-29T19:29:27.414Z"
   - **(3)** where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured against all risks and liabilities normally provided in maritime liability insurance;
   - **(4)** where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 - **(h)** Notwithstanding the requirements of—
-  - **(1)** section 12108 of title 46 ;
+  - **(1)** section 1 of the Act of August 26, 1983 ( 97 Stat. 587 ; 46 U.S.C. 12108 ); 1 1 See References in Text note below.
   - **(2)** the general permit issued on December 1, 1980 , to the American Tunaboat Association under section 1374(h)(1) of this title ; and
-  - **(3)** sections 1374(h)(2) and 1416(a) of this title— 1 1 So in original. The dash probably should be a semicolon.
+  - **(3)** sections 1374(h)(2) and 1416(a) of this title— 2 2 So in original. The dash probably should be a semicolon.

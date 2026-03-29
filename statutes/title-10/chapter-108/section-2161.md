@@ -1,22 +1,12 @@
 ---
-title: "Section 2161 - Degree granting authority for National Intelligence University"
+title: "Section 2161 - Repealed. Pub. L. 116–92, div. E, title LIII, § 5324(e)(1) , formerly § 5324(g)(1), Dec. 20, 2019 , 133 Stat. 2137 , renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3) , Dec. 27, 2020 , 134 Stat. 2367 ]"
 usc_title: 10
 usc_section: "2161"
 chapter: 108
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2161"
-generated_at: "2026-03-29T19:27:25.564Z"
+generated_at: "2026-03-29T19:43:37.961Z"
 ---
 
-# § 2161. Degree granting authority for National Intelligence University
+# [§ 2161. Repealed. Pub. L. 116–92, div. E, title LIII, § 5324(e)(1) , formerly § 5324(g)(1), Dec. 20, 2019 , 133 Stat. 2137 , renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3) , Dec. 27, 2020 , 134 Stat. 2367 ]
 
-- **(a)** Under regulations prescribed by the Secretary of Defense, the President of the National Intelligence University may, upon the recommendation of the faculty of the National Intelligence University, confer appropriate degrees upon graduates who meet the degree requirements.
-- **(b)** A degree may not be conferred under this section unless—
-  - **(1)** the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
-  - **(2)** the National Intelligence University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
-- **(c)**
-  - **(1)** When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
-    - **(A)** a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education’s National Advisory Committee on Institutional Quality and Integrity; and
-    - **(B)** the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
-  - **(2)** Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
-  - **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Intelligence University to award any new or existing degree.

@@ -3,9 +3,9 @@ title: "Section 6215 - Assessment of deficiency found by Tax Court"
 usc_title: 26
 usc_section: "6215"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6215"
-generated_at: "2026-03-29T19:30:20.182Z"
+generated_at: "2026-03-29T19:42:47.969Z"
 ---
 
 # § 6215. Assessment of deficiency found by Tax Court
@@ -16,6 +16,5 @@ generated_at: "2026-03-29T19:30:20.182Z"
   - **(2)** For dismissal of petition by Tax Court as affirmation of deficiency as determined by the Secretary, see section 7459(d).
   - **(3)** For decision of Tax Court that tax is barred by limitation as its decision that there is no deficiency, see section 7459(e).
   - **(4)** For assessment of damages awarded by Tax Court for instituting proceedings merely for delay, see section 6673.
-  - **(5)** For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742). 1 1 See References in Text note below.
-  - **(6)** For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.
-  - **(7)** For extension of time for paying amount determined as deficiency, see section 6161(b).
+  - **(5)** For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.
+  - **(6)** For extension of time for paying amount determined as deficiency, see section 6161(b).

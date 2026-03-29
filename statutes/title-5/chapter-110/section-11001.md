@@ -3,9 +3,9 @@ title: "Section 11001 - Enhanced personnel security programs"
 usc_title: 5
 usc_section: "11001"
 chapter: 110
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 11001"
-generated_at: "2026-03-29T19:27:05.411Z"
+generated_at: "2026-03-29T19:43:20.479Z"
 ---
 
 # § 11001. Enhanced personnel security programs
@@ -33,8 +33,8 @@ generated_at: "2026-03-29T19:27:05.411Z"
   - **(5)** Nothing in this subsection shall be construed as limiting the authority of the President to direct or perpetuate periodic reinvestigations of a more comprehensive nature or to delegate the authority to direct or perpetuate such reinvestigations.
   - **(6)** Reviews conducted under paragraph (1) are in addition to investigations and reinvestigations conducted pursuant to section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 50 U.S.C. 3341 ).
 - **(d)**
-  - **(1)** Beginning 2 years after the date of the implementation of the enhanced personnel security program of an agency under subsection (a), the Inspector General of the agency shall conduct at least 1 audit to assess the effectiveness and fairness, which shall be determined in accordance with performance measures and standards established by the Director of National Intelligence, to covered individuals of the enhanced personnel security program of the agency.
-  - **(2)** The results of each audit conducted under paragraph (1) shall be submitted to the Director of National Intelligence to assess the effectiveness and fairness of the enhanced personnel security programs across the Federal Government.
+  - **(1)** Beginning 2 years after the date of the implementation of the enhanced personnel security program of an agency under subsection (a), the Inspector General of the agency shall conduct at least 1 review to assess the effectiveness and fairness, which shall be determined in accordance with performance measures and standards established by the Director of National Intelligence, to covered individuals of the enhanced personnel security program of the agency.
+  - **(2)** The results of each review conducted under paragraph (1) shall be submitted to the Director of National Intelligence to assess the effectiveness and fairness of the enhanced personnel security programs across the Federal Government.
 - **(e)** In this section—
   - **(1)** the term “agency” has the meaning given that term in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 50 U.S.C. 3341 );
   - **(2)** the term “consumer reporting agency” has the meaning given that term in section 603 of the Fair Credit Reporting Act ( 15 U.S.C. 1681a );

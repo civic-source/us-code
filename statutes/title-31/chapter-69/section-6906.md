@@ -3,14 +3,14 @@ title: "Section 6906 - Funding"
 usc_title: 31
 usc_section: "6906"
 chapter: 69
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 6906"
-generated_at: "2026-03-29T19:30:24.808Z"
+generated_at: "2026-03-29T19:42:56.163Z"
 ---
 
 # § 6906. Funding
 
-For each of fiscal years 2008 through 2014—
+For fiscal year 2019—
 
   - **(1)** each county or other eligible unit of local government shall be entitled to payment under this chapter; and
   - **(2)** sums shall be made available to the Secretary of the Interior for obligation or expenditure in accordance with this chapter.

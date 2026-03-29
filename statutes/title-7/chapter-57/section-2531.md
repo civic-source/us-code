@@ -3,9 +3,9 @@ title: "Section 2531 - Ownership and assignment"
 usc_title: 7
 usc_section: "2531"
 chapter: 57
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2531"
-generated_at: "2026-03-29T19:27:31.866Z"
+generated_at: "2026-03-29T19:43:58.270Z"
 ---
 
 # § 2531. Ownership and assignment

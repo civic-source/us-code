@@ -5,7 +5,7 @@ usc_section: "8910"
 chapter: 96
 current_through: "PL 117-81"
 classification: "22 U.S.C. § 8910"
-generated_at: "2026-03-29T18:44:49.544Z"
+generated_at: "2026-03-29T19:42:08.295Z"
 ---
 
 # § 8910. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses

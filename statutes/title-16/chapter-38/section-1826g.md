@@ -3,9 +3,9 @@ title: "Section 1826g - Enforcement"
 usc_title: 16
 usc_section: "1826g"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1826g"
-generated_at: "2026-03-29T19:29:27.499Z"
+generated_at: "2026-03-29T19:41:13.744Z"
 ---
 
 # § 1826g. Enforcement
@@ -18,8 +18,9 @@ generated_at: "2026-03-29T19:29:27.499Z"
   - **(4)** the North Pacific Anadromous Stocks Act of 1992 ( 16 U.S.C. 5001 et seq.);
   - **(5)** the Atlantic Tunas Convention Act of 1975 ( 16 U.S.C. 971 et seq.);
   - **(6)** the Northwest Atlantic Fisheries Convention Act of 1995 ( 16 U.S.C. 5601 et seq.);
-  - **(7)** the Western and Central Pacific Fisheries Convention Implementation Act ( 16 U.S.C. 6901 et seq.); and
-  - **(8)** the Antigua Convention Implementing Act of 2015.
+  - **(7)** the Western and Central Pacific Fisheries Convention Implementation Act ( 16 U.S.C. 6901 et seq.);
+  - **(8)** the Antigua Convention Implementing Act of 2015; and
+  - **(9)** the Ensuring Access to Pacific Fisheries Act.
 - **(c)**
   - **(1)** The Secretary shall prevent any person from violating this Act, or any Act to which this section applies, in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though sections 308 through 311 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1858 through 1861) were incorporated into and made a part of and applicable to this Act and each such Act.
   - **(2)** The Secretary may, subject to appropriations and in the course of carrying out the Secretary’s responsibilities under the Acts to which this section applies, engage in international cooperation to help other nations combat illegal, unreported, and unregulated fishing and achieve sustainable fisheries.

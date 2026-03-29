@@ -3,9 +3,9 @@ title: "Section 428o - Administration, protection, and development"
 usc_title: 16
 usc_section: "428o"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 428o"
-generated_at: "2026-03-29T19:29:27.142Z"
+generated_at: "2026-03-29T19:41:13.402Z"
 ---
 
 # § 428o. Administration, protection, and development

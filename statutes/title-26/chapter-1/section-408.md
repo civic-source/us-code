@@ -3,15 +3,15 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-29T19:30:19.798Z"
+generated_at: "2026-03-29T19:42:47.638Z"
 ---
 
 # § 408. Individual retirement accounts
 
 - **(a)** For purposes of this section, the term “individual retirement account” means a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries, but only if the written governing instrument creating the trust meets the following requirements:
-  - **(1)** Except in the case of a rollover contribution described in subsection (d)(3) in 1 1 So in original. section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
+  - **(1)** Except in the case of a rollover contribution described in subsection (d)(3) or in section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
   - **(2)** The trustee is a bank (as defined in subsection (n)) or such other person who demonstrates to the satisfaction of the Secretary that the manner in which such other person will administer the trust will be consistent with the requirements of this section.
   - **(3)** No part of the trust funds will be invested in life insurance contracts.
   - **(4)** The interest of an individual in the balance in his account is nonforfeitable.
@@ -28,6 +28,7 @@ generated_at: "2026-03-29T19:30:19.798Z"
 - **(c)** A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by an association of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governing instrument creating the trust meets the following requirements:
   - **(1)** The trust satisfies the requirements of paragraphs (1) through (6) of subsection (a).
   - **(2)** There is a separate accounting for the interest of each employee or member (or spouse of an employee or member).
+  - **(3)** There is a separate accounting for any interest of an employee or member (or spouse of an employee or member) in a Roth IRA.
 - **(d)**
   - **(1)** Except as otherwise provided in this subsection, any amount paid or distributed out of an individual retirement plan shall be included in gross income by the payee or distributee, as the case may be, in the manner provided under section 72.
   - **(2)** For purposes of applying section 72 to any amount described in paragraph (1)—
@@ -72,12 +73,14 @@ generated_at: "2026-03-29T19:30:19.798Z"
     - **(B)** If—
       - **(i)** the taxpayer reasonably relies on information supplied pursuant to subtitle F for determining the amount of a rollover contribution, but
       - **(ii)** the information was erroneous,
-  - **(6)** The transfer of an individual’s interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
+  - **(6)** The transfer of an individual’s interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
   - **(7)**
     - **(A)** Notwithstanding any other provision of this subsection or section 72(t), paragraph (1) and section 72(t)(1) shall apply to the transfer or distribution from a simplified employee pension of any contribution under a salary reduction arrangement described in subsection (k)(6) (or any income allocable thereto) before a determination as to whether the requirements of subsection (k)(6)(A)(iii) are met with respect to such contribution.
     - **(B)** For purposes of paragraphs (4) and (5) and section 4973, any amount excludable or excluded from gross income under section 402(h) or 402(k) shall be treated as an amount allowable or allowed as a deduction under section 219.
   - **(8)**
-    - **(A)** So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year.
+    - **(A)** So much of the aggregate amount of qualified charitable distributions with respect to a taxpayer made during any taxable year which does not exceed $100,000 shall not be includible in gross income of such taxpayer for such taxable year. The amount of distributions not includible in gross income by reason of the preceding sentence for a taxable year (determined without regard to this sentence) shall be reduced (but not below zero) by an amount equal to the excess of—
+      - **(i)** the aggregate amount of deductions allowed to the taxpayer under section 219 for all taxable years ending on or after the date the taxpayer attains age 70½, over
+      - **(ii)** the aggregate amount of reductions under this sentence for all taxable years preceding the current taxable year.
     - **(B)** For purposes of this paragraph, the term “qualified charitable distribution” means any distribution from an individual retirement plan (other than a plan described in subsection (k) or (p))—
       - **(i)** which is made directly by the trustee to an organization described in section 170(b)(1)(A) (other than any organization described in section 509(a)(3) or any fund or account described in section 4966(d)(2)), and
       - **(ii)** which is made on or after the date that the individual for whose benefit the plan is maintained has attained age 70½.
@@ -201,7 +204,7 @@ generated_at: "2026-03-29T19:30:19.798Z"
       - **(ii)** a silver coin described in section 5112(e) of title 31 , United States Code,
       - **(iii)** a platinum coin described in section 5112(k) of title 31 , United States Code, or
       - **(iv)** a coin issued under the laws of any State, or
-    - **(B)** any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7 ) 2 2 See References in Text note below. requires for metals which may be delivered in satisfaction of a regulated futures contract,
+    - **(B)** any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 5 of the Commodity Exchange Act, 7 U.S.C. 7 ) requires for metals which may be delivered in satisfaction of a regulated futures contract,
 - **(n)** For purposes of subsection (a)(2), the term “bank” means—
   - **(1)** any bank (as defined in section 581),
   - **(2)** an insured credit union (within the meaning of paragraph (6) or (7) of section 101 of the Federal Credit Union Act), and
@@ -232,6 +235,9 @@ generated_at: "2026-03-29T19:30:19.798Z"
       - **(iv)** The aggregate balance of all individual retirement plans of the individual as of the close of the calendar year in which the taxable year begins.
       - **(v)** Such other information as the Secretary may prescribe.
     - **(C)** For penalty where individual reports designated nondeductible contributions not made, see section 6693(b).
+  - **(5)** In the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, if—
+    - **(A)** the deductible amount in effect for the taxable year under subsection (b), exceeds
+    - **(B)** the amount of compensation includible in the individual’s gross income for the taxable year,
 - **(p)**
   - **(1)** For purposes of this title, the term “simple retirement account” means an individual retirement plan (as defined in section 7701(a)(37))—
     - **(A)** with respect to which the requirements of paragraphs (3), (4), and (5) are met; and
@@ -302,5 +308,5 @@ generated_at: "2026-03-29T19:30:19.798Z"
       - **(i)** which is made by an individual as an employee under a qualified employer plan which allows employees to elect to make contributions described in paragraph (1), and
       - **(ii)** with respect to which the individual has designated the contribution as a contribution to which this subsection applies.
 - **(r)**
-  - **(1)** For tax on excess contributions in individual retirement accounts or annuities, see section 4963.
+  - **(1)** For tax on excess contributions in individual retirement accounts or annuities, see section 4973.
   - **(2)** For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.

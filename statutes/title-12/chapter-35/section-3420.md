@@ -3,9 +3,9 @@ title: "Section 3420 - Grand jury information; notification of certain persons p
 usc_title: 12
 usc_section: "3420"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 3420"
-generated_at: "2026-03-29T19:28:17.782Z"
+generated_at: "2026-03-29T19:44:54.252Z"
 ---
 
 # § 3420. Grand jury information; notification of certain persons prohibited
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T19:28:17.782Z"
   - **(4)** shall not be maintained, or a description of the contents of such records shall not be maintained by any Government authority other than in the sealed records of the grand jury, unless such record has been used in the prosecution of a crime for which the grand jury issued an indictment or presentment or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure.
 - **(b)**
   - **(1)** No officer, director, partner, employee, or shareholder of, or agent or attorney for, a financial institution shall, directly or indirectly, notify any person named in a grand jury subpoena served on such institution in connection with an investigation relating to a possible—
-    - **(A)** crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act [ 21 U.S.C. 801 et seq.], the Controlled Substances Import and Export Act [ 21 U.S.C. 951 et seq.], section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or section 6050I of title 26 ; or
+    - **(A)** crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act [ 21 U.S.C. 801 et seq.], the Controlled Substances Import and Export Act [ 21 U.S.C. 951 et seq.], section 1956, 1957, or 1960 of title 18, sections 5313, 5316, 5322, 5324, 5331, and 5332 of title 31, or section 6050I of title 26 ; or
     - **(B)** conspiracy to commit such a crime,
   - **(2)** Section 1818 of this title and section 1786(k)(2) of this title shall apply to any violation of this subsection.

@@ -3,9 +3,9 @@ title: "Section 2343 - Independent peer review"
 usc_title: 33
 usc_section: "2343"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2343"
-generated_at: "2026-03-29T19:30:28.854Z"
+generated_at: "2026-03-29T19:43:07.712Z"
 ---
 
 # § 2343. Independent peer review
@@ -84,7 +84,7 @@ generated_at: "2026-03-29T19:30:28.854Z"
   - **(2)** The Chief of Engineers may waive the $500,000 limitation contained in paragraph (1)(B) in cases that the Chief of Engineers determines appropriate.
 - **(h)** This section shall apply to—
   - **(1)** project studies initiated during the 2-year period preceding November 8, 2007 , and for which the array of alternatives to be considered has not been identified; and
-  - **(2)** project studies initiated during the period beginning on November 8, 2007 , and ending 12 years after November 8, 2007 .
+  - **(2)** project studies initiated during the period beginning on November 8, 2007 , and ending 17 years after November 8, 2007 .
 - **(i)**
   - **(1)** Not later than 3 years after November 8, 2007 , the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of this section.
   - **(2)** Not later than 6 years after November 8, 2007 , the Chief of Engineers shall update the report under paragraph (1) taking into account any further information on implementation of this section and submit such updated report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.

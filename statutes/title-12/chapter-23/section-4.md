@@ -3,9 +3,9 @@ title: "Section 4 - Enforcement levels"
 usc_title: 12
 usc_section: "4"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-29T19:28:17.753Z"
+generated_at: "2026-03-29T19:44:54.222Z"
 ---
 
 # § 2279bb–4. Enforcement levels
@@ -36,4 +36,3 @@ generated_at: "2026-03-29T19:28:17.753Z"
   - **(1)** that the Corporation is within such level;
   - **(2)** that the Corporation is subject to the provisions of section 2279bb–5 or 2279bb–6 of this title, as applicable; and
   - **(3)** stating the reasons for the classification of the Corporation within such level.
-- **(e)** Notwithstanding paragraphs (1) and (2) of subsection (a), during the period beginning on December 13, 1991 , and ending on the effective date of the risk based capital regulation issued by the Director under section 2279bb–1 of this title , the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under section 2279bb–2 of this title .

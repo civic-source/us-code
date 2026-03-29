@@ -3,9 +3,9 @@ title: "Section 227 - Restrictions on use of telephone equipment"
 usc_title: 47
 usc_section: "227"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-29T19:32:13.753Z"
+generated_at: "2026-03-29T19:44:37.160Z"
 ---
 
 # § 227. Restrictions on use of telephone equipment
@@ -64,12 +64,25 @@ generated_at: "2026-03-29T19:32:13.753Z"
         - **(II)** determine whether a significant number of any such complaints involve unsolicited advertisements that were sent on the basis of an established business relationship that was longer in duration than the Commission believes is consistent with the reasonable expectations of consumers;
         - **(III)** evaluate the costs to senders of demonstrating the existence of an established business relationship within a specified period of time and the benefits to recipients of establishing a limitation on such established business relationship; and
         - **(IV)** determine whether with respect to small businesses, the costs would not be unduly burdensome; and
-      - **(ii)** may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005 ; and
-    - **(H)** may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States.
+      - **(ii)** may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005 ;
+    - **(H)** may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States; and
+    - **(I)** shall ensure that any exemption under subparagraph (B) or (C) contains requirements for calls made in reliance on the exemption with respect to—
+      - **(i)** the classes of parties that may make such calls;
+      - **(ii)** the classes of parties that may be called; and
+      - **(iii)** the number of such calls that a calling party may make to a particular called party.
   - **(3)** A person or entity may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State—
     - **(A)** an action based on a violation of this subsection or the regulations prescribed under this subsection to enjoin such violation,
     - **(B)** an action to recover for actual monetary loss from such a violation, or to receive $500 in damages for each such violation, whichever is greater, or
     - **(C)** both such actions.
+  - **(4)**
+    - **(A)** Any person that is determined by the Commission, in accordance with paragraph (3) or (4) of section 503(b) of this title , to have violated this subsection shall be liable to the United States for a forfeiture penalty pursuant to section 503(b)(1) of this title . Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection. A forfeiture penalty under this subparagraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this subparagraph shall be determined in accordance with subparagraphs (A) through (F) of section 503(b)(2) of this title .
+    - **(B)** Any person that is determined by the Commission, in accordance with paragraph (3) or (4) of section 503(b) of this title , to have violated this subsection with the intent to cause such violation shall be liable to the United States for a forfeiture penalty pursuant to section 503(b)(1) of this title . Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection. A forfeiture penalty under this subparagraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this subparagraph shall be equal to an amount determined in accordance with subparagraphs (A) through (F) of section 503(b)(2) of this title plus an additional penalty not to exceed $10,000.
+    - **(C)** Any forfeiture penalty determined under subparagraph (A) or (B) shall be recoverable under section 504(a) of this title .
+    - **(D)** No forfeiture liability shall be determined under subparagraph (A) or (B) against any person unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title .
+    - **(E)** Notwithstanding paragraph (6) of section 503(b) of this title , no forfeiture penalty shall be determined or imposed against any person—
+      - **(i)** under subparagraph (A) if the violation charged occurred more than 1 year prior to the date of issuance of the required notice or notice of apparent liability; or
+      - **(ii)** under subparagraph (B) if the violation charged occurred more than 4 years prior to the date of issuance of the required notice or notice of apparent liability.
+    - **(F)** Notwithstanding any law to the contrary, the Commission may not determine or impose a forfeiture penalty on a person under both subparagraphs (A) and (B) based on the same conduct.
 - **(c)**
   - **(1)** Within 120 days after December 20, 1991 , the Commission shall initiate a rulemaking proceeding concerning the need to protect residential telephone subscribers’ privacy rights to avoid receiving telephone solicitations to which they object. The proceeding shall—
     - **(A)** compare and evaluate alternative methods and procedures (including the use of electronic databases, telephone network technologies, special directory markings, industry-based or company-specific “do not call” systems, and any other alternatives, individually or in combination) for their effectiveness in protecting such privacy rights, and in terms of their cost and other advantages and disadvantages;
@@ -112,22 +125,22 @@ generated_at: "2026-03-29T19:32:13.753Z"
     - **(A)** all artificial or prerecorded telephone messages (i) shall, at the beginning of the message, state clearly the identity of the business, individual, or other entity initiating the call, and (ii) shall, during or after the message, state clearly the telephone number or address of such business, other entity, or individual; and
     - **(B)** any such system will automatically release the called party’s line within 5 seconds of the time notification is transmitted to the system that the called party has hung up, to allow the called party’s line to be used to make or receive other calls.
 - **(e)**
-  - **(1)** It shall be unlawful for any person within the United States, in connection with any telecommunications service or IP-enabled voice service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
+  - **(1)** It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
   - **(2)** Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.
   - **(3)**
-    - **(A)** Not later than 6 months after December 22, 2010 , the Commission shall prescribe regulations to implement this subsection.
+    - **(A)** The Commission shall prescribe regulations to implement this subsection.
     - **(B)**
       - **(i)** The regulations required under subparagraph (A) shall include such exemptions from the prohibition under paragraph (1) as the Commission determines is appropriate.
       - **(ii)** The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—
         - **(I)** any authorized activity of a law enforcement agency; or
         - **(II)** a court order that specifically authorizes the use of caller identification manipulation.
-  - **(4)** Not later than 6 months after December 22, 2010 , the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+  - **(4)**
   - **(5)**
     - **(A)**
       - **(i)** Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of section 503(b) of this title , to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
-      - **(ii)** Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title .
+      - **(ii)** Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title . Paragraph (5) of section 503(b) of this title shall not apply in the case of a violation of this subsection.
       - **(iii)** No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title .
-      - **(iv)** No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.
+      - **(iv)** No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 4 years prior to the date of issuance of the required notice or notice or apparent liability.
     - **(B)** Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day of a continuing violation, in lieu of the fine provided by section 501 of this title for such a violation. This subparagraph does not supersede the provisions of section 501 of this title relating to imprisonment or the imposition of a penalty of both fine and imprisonment.
   - **(6)**
     - **(A)** The chief legal officer of a State, or any other State officer authorized by law to bring actions on behalf of the residents of a State, may bring a civil action, as parens patriae, on behalf of the residents of that State in an appropriate district court of the United States to enforce this subsection or to impose the civil penalties for violation of this subsection, whenever the chief legal officer or other State officer has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of this subsection or a regulation under this subsection.
@@ -144,9 +157,18 @@ generated_at: "2026-03-29T19:32:13.753Z"
         - **(II)** a person who participated in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.
   - **(7)** This subsection does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
   - **(8)** For purposes of this subsection:
-    - **(A)** The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service.
-    - **(B)** The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service. Such term includes automatic number identification services.
-    - **(C)** The term “IP-enabled voice service” has the meaning given that term by section 9.3 of the Commission’s regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
+    - **(A)** The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.
+    - **(B)** The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.
+    - **(C)** The term “text message”—
+      - **(i)** means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
+      - **(ii)** includes a short message service (commonly referred to as “SMS”) message and a multimedia message service (commonly referred to as “MMS”) message; and
+      - **(iii)** does not include—
+        - **(I)** a real-time, two-way voice or video communication; or
+        - **(II)** a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
+    - **(D)** The term “text messaging service” means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
+    - **(E)** The term “voice service”—
+      - **(i)** means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of this title ; and
+      - **(ii)** includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.
   - **(9)** Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
 - **(f)**
   - **(1)** Except for the standards prescribed under subsection (d) and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
@@ -164,23 +186,30 @@ generated_at: "2026-03-29T19:32:13.753Z"
   - **(6)** Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
   - **(7)** Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission’s complaint for any violation as alleged in the Commission’s complaint.
   - **(8)** As used in this subsection, the term “attorney general” means the chief legal officer of a State.
-- **(h)** The Commission shall submit an annual report to Congress regarding the enforcement during the past year of the provisions of this section relating to sending of unsolicited advertisements to telephone facsimile machines, which report shall include—
-  - **(1)** the number of complaints received by the Commission during such year alleging that a consumer received an unsolicited advertisement via telephone facsimile machine in violation of the Commission’s rules;
-  - **(2)** the number of citations issued by the Commission pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
-  - **(3)** the number of notices of apparent liability issued by the Commission pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
-  - **(4)** for each notice referred to in paragraph (3)—
-    - **(A)** the amount of the proposed forfeiture penalty involved;
-    - **(B)** the person to whom the notice was issued;
-    - **(C)** the length of time between the date on which the complaint was filed and the date on which the notice was issued; and
-    - **(D)** the status of the proceeding;
-  - **(5)** the number of final orders imposing forfeiture penalties issued pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
-  - **(6)** for each forfeiture order referred to in paragraph (5)—
-    - **(A)** the amount of the penalty imposed by the order;
-    - **(B)** the person to whom the order was issued;
-    - **(C)** whether the forfeiture penalty has been paid; and
-    - **(D)** the amount paid;
-  - **(7)** for each case in which a person has failed to pay a forfeiture penalty imposed by such a final order, whether the Commission referred such matter for recovery of the penalty; and
-  - **(8)** for each case in which the Commission referred such an order for recovery—
-    - **(A)** the number of days from the date the Commission issued such order to the date of such referral;
-    - **(B)** whether an action has been commenced to recover the penalty, and if so, the number of days from the date the Commission referred such order for recovery to the date of such commencement; and
-    - **(C)** whether the recovery action resulted in collection of any amount, and if so, the amount collected.
+- **(h)**
+  - **(1)** Not later than 1 year after December 30, 2019 , and annually thereafter, the Commission, after consultation with the Federal Trade Commission, shall submit to Congress a report regarding enforcement by the Commission of subsections (b), (c), (d), and (e) during the preceding calendar year.
+  - **(2)** Each report required by paragraph (1) shall include the following:
+    - **(A)** The number of complaints received by the Commission during each of the preceding 5 calendar years, for each of the following categories:
+      - **(i)** Complaints alleging that a consumer received a call in violation of subsection (b) or (c).
+      - **(ii)** Complaints alleging that a consumer received a call in violation of the standards prescribed under subsection (d).
+      - **(iii)** Complaints alleging that a consumer received a call in connection with which misleading or inaccurate caller identification information was transmitted in violation of subsection (e).
+    - **(B)** The number of citations issued by the Commission pursuant to section 503(b) of this title during the preceding calendar year to enforce subsection (d), and details of each such citation.
+    - **(C)** The number of notices of apparent liability issued by the Commission pursuant to section 503(b) of this title during the preceding calendar year to enforce subsections (b), (c), (d), and (e), and details of each such notice including any proposed forfeiture amount.
+    - **(D)** The number of final orders imposing forfeiture penalties issued pursuant to section 503(b) of this title during the preceding calendar year to enforce such subsections, and details of each such order including the forfeiture imposed.
+    - **(E)** The amount of forfeiture penalties or criminal fines collected, during the preceding calendar year, by the Commission or the Attorney General for violations of such subsections, and details of each case in which such a forfeiture penalty or criminal fine was collected.
+    - **(F)** Proposals for reducing the number of calls made in violation of such subsections.
+    - **(G)** An analysis of the contribution by providers of interconnected VoIP service and non-interconnected VoIP service that discount high-volume, unlawful, short-duration calls to the total number of calls made in violation of such subsections, and recommendations on how to address such contribution in order to decrease the total number of calls made in violation of such subsections.
+  - **(3)** The Commission shall prepare the report required by paragraph (1) without requiring the provision of additional information from providers of telecommunications service or voice service (as defined in section 227b(a) of this title ).
+- **(i)**
+  - **(1)** Not later than 18 months after December 30, 2019 , the Commission shall prescribe regulations to establish a process that streamlines the ways in which a private entity may voluntarily share with the Commission information relating to—
+    - **(A)** a call made or a text message sent in violation of subsection (b); or
+    - **(B)** a call or text message for which misleading or inaccurate caller identification information was caused to be transmitted in violation of subsection (e).
+  - **(2)** In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
+- **(j)**
+  - **(1)** Not later than 1 year after December 30, 2019 , the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019 )—
+    - **(A)** are provided with transparency and effective redress options for both—
+      - **(i)** consumers; and
+      - **(ii)** callers; and 2 2 So in original. The word “and” probably should not appear.
+    - **(B)** are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls; and
+    - **(C)** make all reasonable efforts to avoid blocking emergency public safety calls.
+  - **(2)** In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).

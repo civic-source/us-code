@@ -3,9 +3,9 @@ title: "Section 7708 - Millennium Challenge Compact"
 usc_title: 22
 usc_section: "7708"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 7708"
-generated_at: "2026-03-29T19:29:46.965Z"
+generated_at: "2026-03-29T19:42:08.264Z"
 ---
 
 # § 7708. Millennium Challenge Compact
@@ -38,4 +38,7 @@ generated_at: "2026-03-29T19:29:46.965Z"
   - **(1)** shall prepare and transmit to the appropriate congressional committees a written report and justification that contains a detailed summary of the proposed increase in or extension of assistance under the Compact and a copy of the full text of the amendment to the Compact; and
   - **(2)** shall publish a detailed summary, full text, and justification of the proposed increase in or extension of assistance under the Compact in the Federal Register and on the Internet website of the Corporation.
 - **(j)** The duration of a Compact shall not exceed 5 years.
-- **(k)** An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section. An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
+- **(k)** An eligible country that has entered into and has in effect a Compact under this section may enter into and have in effect at the same time not more than one additional Compact in accordance with the requirements of this chapter if—
+  - **(1)** one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and
+  - **(2)** the Board determines that the country is making considerable and demonstrable progress in implementing the terms of the existing Compact and supplementary agreements thereto.
+- **(l)** An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.

@@ -3,9 +3,9 @@ title: "Section 8102 - Biobased markets program"
 usc_title: 7
 usc_section: "8102"
 chapter: 107
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 8102"
-generated_at: "2026-03-29T19:27:32.017Z"
+generated_at: "2026-03-29T19:43:58.446Z"
 ---
 
 # § 8102. Biobased markets program
@@ -78,6 +78,7 @@ generated_at: "2026-03-29T19:27:32.017Z"
     - **(A)**
       - **(i)** Not later than 90 days after the date of the enactment of the Food, Conservation, and Energy Act of 2008 and except as provided in clause (ii), the Secretary, in consultation with the Administrator and representatives from small and large businesses, academia, other Federal agencies, and such other persons as the Secretary considers appropriate, shall issue criteria (as of the date of enactment of that Act) for determining which products may qualify to receive the label under paragraph (1).
       - **(ii)** Clause (i) shall not apply to final criteria that have been issued (as of the date of enactment of that Act) by the Secretary.
+      - **(iii)** Not later than 180 days after December 20, 2018 , the Secretary shall update the criteria issued under clause (i) to provide criteria for determining which renewable chemicals may qualify to receive the label under paragraph (1).
     - **(B)** Criteria issued under subparagraph (A) shall—
       - **(i)** encourage the purchase of products with the maximum biobased content;
       - **(ii)** provide that the Secretary may designate as biobased for the purposes of the voluntary program established under this subsection finished products that contain significant portions of biobased materials or components; and
@@ -91,9 +92,20 @@ generated_at: "2026-03-29T19:27:32.017Z"
   - **(2)** encourage Federal agencies to establish incentives programs to recognize Federal employees or contractors that make exceptional contributions to the expanded use of biobased products.
 - **(d)** Nothing in this section shall apply to the procurement of motor vehicle fuels, heating oil, or electricity.
 - **(e)** Effective beginning on the date that is 90 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Chief Administrative Officer of the House of Representatives shall consider the biobased product designations made under this section in making procurement decisions for the Capitol Complex.
-- **(f)** The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
+- **(f)**
+  - **(1)** The Secretary and the Secretary of Commerce shall jointly develop North American Industry Classification System codes for—
+    - **(A)** renewable chemicals manufacturers; and
+    - **(B)** biobased products manufacturers.
+  - **(2)** The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
 - **(g)** In determining whether products are eligible for the “USDA Certified Biobased Product” label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
 - **(h)**
+  - **(1)** Not later than 1 year after December 20, 2018 , the Secretary shall establish guidelines for an integrated process under which biobased products may be, in 1 expedited approval process—
+    - **(A)** determined to be eligible for a Federal procurement preference under subsection (a); and
+    - **(B)** approved to use the “USDA Certified Biobased Product” label under subsection (b).
+  - **(2)** The Secretary shall ensure that a review of a biobased product under the integrated qualification process established pursuant to paragraph (1) may be initiated on receipt of a recommendation or petition from a manufacturer, vendor, or other interested party.
+  - **(3)** The Secretary may issue a product designation pursuant to subsection (a)(3)(B), or approve the use of the “USDA Certified Biobased Product” label under subsection (b), through streamlined procedures, which shall not be subject to chapter 7 of title 5.
+- **(i)** A procuring agency (as defined in subsection (a)(1)) shall not establish regulations, guidance, or criteria regarding the procurement of biobased products, pursuant to this section or any other law, that impose limitations on that procurement that are more restrictive than the limitations established by the Secretary under the regulations to implement this section.
+- **(j)**
   - **(1)** Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each year thereafter, the Secretary shall submit to Congress a report on the implementation of this section.
   - **(2)** Each report under paragraph (1) shall include—
     - **(A)** a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section;
@@ -110,7 +122,8 @@ generated_at: "2026-03-29T19:27:32.017Z"
       - **(v)** other environmental benefits; and
       - **(vi)** areas in which the use or manufacturing of biobased products could be more effectively used, including identifying any technical and economic obstacles and recommending how those obstacles can be overcome.
     - **(B)** Not later than 1 year after February 7, 2014 , the Secretary shall submit to Congress a report describing the results of the study conducted under subparagraph (A).
-- **(i)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2018.
-  - **(2)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
-- **(j)** In this section, the term “biobased product” (as defined in section 8101 of this title ) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+- **(k)**
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2023.
+  - **(2)** There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2019 through 2023.
+- **(l)** In this section, the term “biobased product” (as defined in section 8101 of this title ) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+- **(m)** In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.

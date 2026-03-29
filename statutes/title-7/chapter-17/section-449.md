@@ -1,14 +1,12 @@
 ---
-title: "Section 449 - Authorization of appropriations for reimbursement of Commodity Credit Corporation"
+title: "Section 449 - Transferred"
 usc_title: 7
 usc_section: "449"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 449"
-generated_at: "2026-03-29T19:27:31.679Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 449. Authorization of appropriations for reimbursement of Commodity Credit Corporation
-
-There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in grain transferred pursuant to sections 447 to 449 of this title.
+# § 449. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 2835 - Long-term leasing of military family housing to be constr
 usc_title: 10
 usc_section: "2835"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2835"
-generated_at: "2026-03-29T19:27:25.645Z"
+generated_at: "2026-03-29T19:43:38.016Z"
 ---
 
 # § 2835. Long-term leasing of military family housing to be constructed
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:27:25.645Z"
 - **(b)**
   - **(1)** The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a lease contract under subsection (a) for such military housing as is authorized by law for the purposes of this section.
   - **(2)** The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
-- **(c)** Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
+- **(c)** Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1 1 See References in Text note below. of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
 - **(d)** A lease contract entered into for a military housing project under subsection (a) shall include the following provisions:
   - **(1)** A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
   - **(2)** A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
@@ -24,7 +24,5 @@ generated_at: "2026-03-29T19:27:25.645Z"
     - **(B)** to Department of Homeland Security specifications, in the case of a contract for the Coast Guard.
 - **(e)** A contract under this section may be for any period not in excess of 20 years (excluding the period required for construction of the housing facilities).
 - **(f)** A contract under this section shall provide that, upon the termination of the lease period, the United States shall have the right of first refusal to acquire all right, title, and interest to the housing facilities constructed and leased under the contract.
-- **(g)** A contract may not be entered into for the lease of housing facilities under this section until—
-  - **(1)** the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
-  - **(2)** a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title .
+- **(g)** A contract may be entered into for the lease of housing facilities under this section only after the end of the 14-day period beginning on the date on which the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities.
 - **(h)** A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.

@@ -5,7 +5,7 @@ usc_section: "2815a"
 chapter: 110
 current_through: "PL 117-81"
 classification: "10 U.S.C. § 2815a"
-generated_at: "2026-03-29T18:43:12.971Z"
+generated_at: "2026-03-29T19:43:37.963Z"
 ---
 
 # § 2815a. Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation

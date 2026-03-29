@@ -1,18 +1,12 @@
 ---
-title: "Section 2386 - Copyrights, patents, designs, etc.; acquisition"
+title: "Section 2386 - Renumbered § 3793]"
 usc_title: 10
 usc_section: "2386"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2386"
-generated_at: "2026-03-29T19:27:25.600Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# § 2386. Copyrights, patents, designs, etc.; acquisition
+# [§ 2386. Renumbered § 3793]
 
-Funds appropriated for a military department available for making or procuring supplies may be used to acquire any of the following if the acquisition relates to supplies or processes produced or used by or for, or useful to, that department:
-
-  - **(1)** Copyrights, patents, and applications for patents.
-  - **(2)** Licenses under copyrights, patents, and applications for patents.
-  - **(3)** Design and process data, technical data, and computer software.
-  - **(4)** Releases for past infringement of patents or copyrights or for unauthorized use of technical data or computer software.

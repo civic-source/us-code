@@ -3,9 +3,9 @@ title: "Section 3661 - Panama Canal Board of Appeals; duties"
 usc_title: 22
 usc_section: "3661"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3661"
-generated_at: "2026-03-29T19:29:46.836Z"
+generated_at: "2026-03-29T19:42:08.151Z"
 ---
 
 # § 3661. Panama Canal Board of Appeals; duties

@@ -1,14 +1,16 @@
 ---
-title: "Section 884 - Art. 84. Unlawful enlistment, appointment, or separation"
+title: "Section 884 - Art. 84. Breach of medical quarantine"
 usc_title: 10
 usc_section: "884"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 884"
-generated_at: "2026-03-29T19:27:25.475Z"
+generated_at: "2026-03-29T19:43:37.854Z"
 ---
 
-# § 884. Art. 84. Unlawful enlistment, appointment, or separation
+# § 884. Art. 84. Breach of medical quarantine
 
-Any person subject to this chapter who effects an enlistment or appointment in or a separation from the armed forces of any person who is known to him to be ineligible for that enlistment, appointment, or separation because it is prohibited by law, regulation, or order shall be punished as a court-martial may direct.
+Any person subject to this chapter—
 
+  - **(1)** who is ordered into medical quarantine by a person authorized to issue such order; and
+  - **(2)** who, with knowledge of the quarantine and the limits of the quarantine, goes beyond those limits before being released from the quarantine by proper authority;

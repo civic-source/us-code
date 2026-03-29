@@ -3,15 +3,15 @@ title: "Section 246 - Rules applying to deductions for dividends received"
 usc_title: 26
 usc_section: "246"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 246"
-generated_at: "2026-03-29T19:30:19.760Z"
+generated_at: "2026-03-29T19:42:47.601Z"
 ---
 
 # § 246. Rules applying to deductions for dividends received
 
 - **(a)**
-  - **(1)** The deductions allowed by sections 243 and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
+  - **(1)** The deductions allowed by sections 243 1 1 So in original. Probably should be followed by a comma. 245, and 245A shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
   - **(2)**
     - **(A)** In the case of any dividend paid by any FHLB out of earnings and profits of the FHLB for the taxable year in which such dividend was paid, paragraph (1) shall not apply to that portion of such dividend which bears the same ratio to the total dividend as—
       - **(i)** the dividends received by the FHLB from the FHLMC during such taxable year, bears to
@@ -30,13 +30,13 @@ generated_at: "2026-03-29T19:30:19.760Z"
         - **(I)** any dividends received by the FHLB from the FHLMC during such taxable year, and
         - **(II)** the total earnings and profits (determined without regard to dividends described in subclause (I)) of the FHLB as reported in its annual financial statement prepared in accordance with section 20 of the Federal Home Loan Bank Act ( 12 U.S.C. 1440 ).
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the aggregate amount of the deductions allowed by section 243(a)(1) and subsection (a) or (b) of section 245 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199, 243(a)(1), and subsection (a) or (b) of section 245, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
+  - **(1)** Except as provided in paragraph (2), the aggregate amount of the deductions allowed by section 243(a)(1), subsection 2 2 So in original. (a) and 2 (b) of section 245, and section 250 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199A, 243(a)(1), subsection 2 (a) and 2 (b) of section 245, and 250, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
   - **(2)** Paragraph (1) shall not apply for any taxable year for which there is a net operating loss (as determined under section 172).
   - **(3)** The provisions of paragraph (1) shall be applied—
-    - **(A)** first separately with respect to dividends from 20-percent owned corporations (as defined in section 243(c)(2)) and the percentage determined under this paragraph shall be 80 percent, and
-    - **(B)** then separately with respect to dividends not from 20-percent owned corporations and the percentage determined under this paragraph shall be 70 percent and the taxable income shall be reduced by the aggregate amount of dividends from 20-percent owned corporations (as so defined).
+    - **(A)** first separately with respect to dividends from 20-percent owned corporations (as defined in section 243(c)(2)) and the percentage determined under this paragraph shall be 65 percent, and
+    - **(B)** then separately with respect to dividends not from 20-percent owned corporations and the percentage determined under this paragraph shall be 50 percent and the taxable income shall be reduced by the aggregate amount of dividends from 20-percent owned corporations (as so defined).
 - **(c)**
-  - **(1)** No deduction shall be allowed under section 243 or 245, in respect of any dividend on any share of stock—
+  - **(1)** No deduction shall be allowed under section 243 1 245, or 245A, in respect of any dividend on any share of stock—
     - **(A)** which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before the date on which such share becomes ex-dividend with respect to such dividend, or
     - **(B)** to the extent that the taxpayer is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
   - **(2)** In the case of stock having preference in dividends, if the taxpayer receives dividends with respect to such stock which are attributable to a period or periods aggregating in excess of 366 days, paragraph (1)(A) shall be applied—
@@ -49,5 +49,13 @@ generated_at: "2026-03-29T19:30:19.760Z"
     - **(A)** the taxpayer has an option to sell, is under a contractual obligation to sell, or has made (and not closed) a short sale of, substantially identical stock or securities,
     - **(B)** the taxpayer is the grantor of an option to buy substantially identical stock or securities, or
     - **(C)** under regulations prescribed by the Secretary, a taxpayer has diminished his risk of loss by holding 1 or more other positions with respect to substantially similar or related property.
+  - **(5)**
+    - **(A)** For purposes of section 245A—
+      - **(i)** paragraph (1)(A) shall be applied—
+        - **(I)** by substituting “365 days” for “45 days” each place it appears, and
+        - **(II)** by substituting “731-day period” for “91-day period”, and
+      - **(ii)** paragraph (2) shall not apply.
+    - **(B)** For purposes of applying paragraph (1) with respect to section 245A, the taxpayer shall be treated as holding the stock referred to in paragraph (1) for any period only if—
+      - **(i)** the specified 10-percent owned foreign corporation referred to in section 245A(a) is a specified 10-percent owned foreign corporation at all times during such period, and
+      - **(ii)** the taxpayer is a United States shareholder with respect to such specified 10-percent owned foreign corporation at all times during such period.
 - **(d)** No deduction shall be allowed under section 243 in respect of a dividend from a corporation which is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation’s accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
-- **(e)** No deduction shall be allowed under section 243(a) with respect to a dividend received pursuant to a distribution described in section 936(h)(4).

@@ -1,12 +1,12 @@
 ---
-title: "Section 717 - Repealed. Pub. L. 109–163, div. A, title V , § 589(b)(2), Jan. 6, 2006 , 119 Stat. 3279 ]"
+title: "Section 717 - Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(2) , Jan. 6, 2006 , 119 Stat. 3279 ]"
 usc_title: 32
 usc_section: "717"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "32 U.S.C. § 717"
-generated_at: "2026-03-29T19:30:22.714Z"
+generated_at: "2026-03-29T19:42:54.173Z"
 ---
 
-# [§ 717. Repealed. Pub. L. 109–163, div. A, title V , § 589(b)(2), Jan. 6, 2006 , 119 Stat. 3279 ]
+# [§ 717. Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(2) , Jan. 6, 2006 , 119 Stat. 3279 ]
 

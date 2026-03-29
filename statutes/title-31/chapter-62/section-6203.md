@@ -3,9 +3,9 @@ title: "Section 6203 - Printing and distribution of reports and machine-readable
 usc_title: 31
 usc_section: "6203"
 chapter: 62
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 6203"
-generated_at: "2026-03-29T19:30:24.802Z"
+generated_at: "2026-03-29T19:42:56.154Z"
 ---
 
 # § 6203. Printing and distribution of reports and machine-readable records

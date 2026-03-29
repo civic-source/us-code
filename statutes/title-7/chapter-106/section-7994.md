@@ -3,9 +3,9 @@ title: "Section 7994 - Study"
 usc_title: 7
 usc_section: "7994"
 chapter: 106
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7994"
-generated_at: "2026-03-29T19:27:32.016Z"
+generated_at: "2026-03-29T19:43:58.444Z"
 ---
 
 # § 7994. Study

@@ -3,9 +3,9 @@ title: "Section 376a - Delivery sales"
 usc_title: 15
 usc_section: "376a"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 376a"
-generated_at: "2026-03-29T19:27:55.312Z"
+generated_at: "2026-03-29T19:44:42.603Z"
 ---
 
 # § 376a. Delivery sales
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:27:55.312Z"
     - **(D)** other payment obligations or legal requirements relating to the sale, distribution, or delivery of cigarettes or smokeless tobacco; and
   - **(4)** the tax collection requirements set forth in subsection (d).
 - **(b)**
-  - **(1)** For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: “CIGARETTES/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS”.
+  - **(1)** For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: “CIGARETTES/NICOTINE/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS”.
   - **(2)** Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier or other delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
   - **(3)** A delivery seller shall not sell, offer for sale, deliver, or cause to be delivered in any single sale or single delivery any cigarettes or smokeless tobacco weighing more than 10 pounds.
   - **(4)**

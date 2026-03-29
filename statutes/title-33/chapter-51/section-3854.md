@@ -3,9 +3,9 @@ title: "Section 3854 - Vessel clearance or permits; refusal or revocation; bond 
 usc_title: 33
 usc_section: "3854"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3854"
-generated_at: "2026-03-29T19:30:28.892Z"
+generated_at: "2026-03-29T19:43:07.750Z"
 ---
 
 # § 3854. Vessel clearance or permits; refusal or revocation; bond or other surety

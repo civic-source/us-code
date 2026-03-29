@@ -3,9 +3,9 @@ title: "Section 541 - Property of the estate"
 usc_title: 11
 usc_section: "541"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 541"
-generated_at: "2026-03-29T19:28:02.012Z"
+generated_at: "2026-03-29T19:44:19.528Z"
 ---
 
 # § 541. Property of the estate
@@ -39,11 +39,11 @@ generated_at: "2026-03-29T19:28:02.012Z"
     - **(B)** only to the extent that such funds—
       - **(i)** are not pledged or promised to any entity in connection with any extension of credit; and
       - **(ii)** are not excess contributions (as described in section 4973(e) of the Internal Revenue Code of 1986); and
-    - **(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+    - **(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; 2 2 See Adjustment of Dollar Amounts notes below.
   - **(6)** funds used to purchase a tuition credit or certificate or contributed to an account in accordance with section 529(b)(1)(A) of the Internal Revenue Code of 1986 under a qualified State tuition program (as defined in section 529(b)(1) of such Code) not later than 365 days before the date of the filing of the petition in a case under this title, but—
     - **(A)** only if the designated beneficiary of the amounts paid or contributed to such tuition program was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were paid or contributed;
     - **(B)** with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(6) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
-    - **(C)** in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+    - **(C)** in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; 2
   - **(7)** any amount—
     - **(A)** withheld by an employer from the wages of employees for payment as contributions—
       - **(i)** to—
@@ -69,7 +69,8 @@ generated_at: "2026-03-29T19:28:02.012Z"
     - **(B)** only to the extent that such funds—
       - **(i)** are not pledged or promised to any entity in connection with any extension of credit; and
       - **(ii)** are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
-    - **(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
+    - **(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; 2 or
+  - **(11)** recovery rebates made under section 6428 of the Internal Revenue Code of 1986.
 - **(c)**
   - **(1)** Except as provided in paragraph (2) of this subsection, an interest of the debtor in property becomes property of the estate under subsection (a)(1), (a)(2), or (a)(5) of this section notwithstanding any provision in an agreement, transfer instrument, or applicable nonbankruptcy law—
     - **(A)** that restricts or conditions transfer of such interest by the debtor; or

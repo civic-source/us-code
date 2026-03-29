@@ -5,7 +5,7 @@ usc_section: "1703A"
 chapter: 17
 current_through: "PL 117-81"
 classification: "38 U.S.C. § 1703A"
-generated_at: "2026-03-29T18:46:01.587Z"
+generated_at: "2026-03-29T19:43:26.956Z"
 ---
 
 # § 1703A. Agreements with eligible entities or providers; certification processes

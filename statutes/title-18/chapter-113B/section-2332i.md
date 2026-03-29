@@ -3,9 +3,9 @@ title: "Section 2332i - Acts of nuclear terrorism"
 usc_title: 18
 usc_section: "2332i"
 chapter: 113
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2332i"
-generated_at: "2026-03-29T19:28:33.866Z"
+generated_at: "2026-03-29T19:41:06.835Z"
 ---
 
 # § 2332i. Acts of nuclear terrorism

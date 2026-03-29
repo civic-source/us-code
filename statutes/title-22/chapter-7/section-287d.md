@@ -3,9 +3,9 @@ title: "Section 287d - Use of armed forces; limitations"
 usc_title: 22
 usc_section: "287d"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 287d"
-generated_at: "2026-03-29T19:29:46.676Z"
+generated_at: "2026-03-29T19:42:07.980Z"
 ---
 
 # § 287d. Use of armed forces; limitations

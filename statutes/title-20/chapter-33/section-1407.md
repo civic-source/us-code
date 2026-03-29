@@ -3,9 +3,9 @@ title: "Section 1407 - State administration"
 usc_title: 20
 usc_section: "1407"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1407"
-generated_at: "2026-03-29T19:28:43.082Z"
+generated_at: "2026-03-29T19:41:03.305Z"
 ---
 
 # § 1407. State administration

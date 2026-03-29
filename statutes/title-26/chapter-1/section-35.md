@@ -3,9 +3,9 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-29T19:30:19.636Z"
+generated_at: "2026-03-29T19:42:47.488Z"
 ---
 
 # § 35. Health insurance costs of eligible individuals
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:30:19.636Z"
       - **(ii)** is covered by qualified health insurance, the premium for which is paid by the taxpayer,
       - **(iii)** does not have other specified coverage, and
       - **(iv)** is not imprisoned under Federal, State, or local authority, and
-    - **(B)** such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2020 .
+    - **(B)** such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022 .
   - **(2)** In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.
 - **(c)** For purposes of this section—
   - **(1)** The term “eligible individual” means—
@@ -98,7 +98,7 @@ generated_at: "2026-03-29T19:30:19.636Z"
   - **(8)** For purposes of this section—
     - **(A)** Payments made by the Secretary on behalf of any individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
     - **(B)** Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
-  - **(9)** In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+  - **(9)** In the case of an assistance eligible individual who receives premium assistance for continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
   - **(10)**
     - **(A)** In the case of any month which would be an eligible coverage month with respect to an eligible individual but for subsection (f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the amount of the credit under this section with respect to any qualifying family members of such individual (and any advance payment of such credit under section 7527). This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in subsection (f)(2)(A).
     - **(B)** In the case of the finalization of a divorce between an eligible individual and such individual’s spouse, such spouse shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.

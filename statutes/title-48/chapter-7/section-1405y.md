@@ -1,12 +1,12 @@
 ---
-title: "Section 1405y - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 649 , 650, 654, 657"
+title: "Section 1405y - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649 , 650, 654, 657"
 usc_title: 48
 usc_section: "1405y"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1405y"
-generated_at: "2026-03-29T19:31:53.948Z"
+generated_at: "2026-03-29T19:44:59.781Z"
 ---
 
-# § 1405y. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 649 , 650, 654, 657
+# § 1405y. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649 , 650, 654, 657
 

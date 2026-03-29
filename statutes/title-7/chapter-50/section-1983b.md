@@ -3,9 +3,9 @@ title: "Section 1983b - Beginning farmer and rancher individual development acco
 usc_title: 7
 usc_section: "1983b"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1983b"
-generated_at: "2026-03-29T19:27:31.796Z"
+generated_at: "2026-03-29T19:43:58.196Z"
 ---
 
 # § 1983b. Beginning farmer and rancher individual development accounts pilot program
@@ -99,4 +99,4 @@ generated_at: "2026-03-29T19:27:31.796Z"
   - **(2)** control of the reserve funds in the case of such a termination;
   - **(3)** transfer of demonstration programs to other qualified entities; and
   - **(4)** remissions from a reserve fund to the Secretary in a case in which a demonstration program is terminated without transfer to a new qualified entity.
-- **(h)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2018.
+- **(h)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2023.

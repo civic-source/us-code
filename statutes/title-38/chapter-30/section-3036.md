@@ -1,12 +1,12 @@
 ---
-title: "Section 3036 - Repealed. Pub. L. 112–154, title IV , § 402(b)(1), Aug. 6, 2012 , 126 Stat. 1189 ]"
+title: "Section 3036 - Repealed. Pub. L. 112–154, title IV, § 402(b)(1) , Aug. 6, 2012 , 126 Stat. 1189 ]"
 usc_title: 38
 usc_section: "3036"
 chapter: 30
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3036"
-generated_at: "2026-03-29T19:30:40.510Z"
+generated_at: "2026-03-29T19:43:27.007Z"
 ---
 
-# [§ 3036. Repealed. Pub. L. 112–154, title IV , § 402(b)(1), Aug. 6, 2012 , 126 Stat. 1189 ]
+# [§ 3036. Repealed. Pub. L. 112–154, title IV, § 402(b)(1) , Aug. 6, 2012 , 126 Stat. 1189 ]
 

@@ -3,9 +3,9 @@ title: "Section 6311 - State plans"
 usc_title: 20
 usc_section: "6311"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 6311"
-generated_at: "2026-03-29T19:28:43.161Z"
+generated_at: "2026-03-29T19:41:03.381Z"
 ---
 
 # § 6311. State plans
@@ -377,7 +377,7 @@ generated_at: "2026-03-29T19:28:43.161Z"
         - **(IV)** the State’s system for meaningfully differentiating all public schools in the State, including—
         - **(V)** the number and names of all public schools in the State identified by the State for comprehensive support and improvement under subsection (c)(4)(D)(i) or implementing targeted support and improvement plans under subsection (d)(2); and
         - **(VI)** the exit criteria established by the State as required under clause (i) of subsection (d)(3)(A), including the length of years established under clause (i)(II) of such subsection.
-      - **(ii)** For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in section 101(a)(4) of title 10 ) on active duty (as defined in section 101(d)(5) 8 8 So in original. Probably should be “101(d)(1)”. of such title), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
+      - **(ii)** For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in section 101(a)(4) of title 10 ), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
       - **(iii)** For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), and for purposes of subclause (II) of this clause, homeless status and status as a child in foster care—
         - **(I)** information on the performance on the other academic indicator under subsection (c)(4)(B)(ii) for public elementary schools and secondary schools that are not high schools, used by the State in the State accountability system; and
         - **(II)** high school graduation rates, including four-year adjusted cohort graduation rates and, at the State’s discretion, extended-year adjusted cohort graduation rates.
@@ -398,7 +398,7 @@ generated_at: "2026-03-29T19:28:43.161Z"
       - **(xiii)** Where available, for each high school in the State, and beginning with the report card prepared under this paragraph for 2017, the cohort rate (in the aggregate, and disaggregated for each subgroup of students defined in subsection (c)(2)), at which students who graduate from the high school enroll, for the first academic year that begins after the students’ graduation—
         - **(I)** in programs of public postsecondary education in the State; and
         - **(II)** if data are available and to the extent practicable, in programs of private postsecondary education in the State or programs of postsecondary education outside the State.
-      - **(xiv)** Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State’s public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( 9 9 So in original. There is no corresponding closing parenthesis. as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2323(b) ) and reported by States only in a manner consistent with section 113(c) of such Act ( 20 U.S.C. 2323(c) ).
+      - **(xiv)** Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State’s public elementary schools and secondary schools, which may include the number and percentage of students meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2323(b)(3)(A) ), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act ( 20 U.S.C. 2323(b)(3)(C) ).
     - **(D)** Nothing in subparagraph (C)(viii) shall be construed as requiring—
       - **(i)** reporting of any data that are not collected in accordance with section 3413(c)(1) of this title ; or
       - **(ii)** disaggregation of any data other than as required under subsection (b)(2)(B)(xi).

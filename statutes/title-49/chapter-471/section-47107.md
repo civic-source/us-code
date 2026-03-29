@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-29T19:32:28.898Z"
+generated_at: "2026-03-29T19:44:58.026Z"
 ---
 
 # § 47107. Project grant application approval conditioned on assurances about airport operations
@@ -36,12 +36,14 @@ generated_at: "2026-03-29T19:32:28.898Z"
   - **(15)** the airport owner or operator will submit any annual or special airport financial and operations reports to the Secretary that the Secretary reasonably requests and make such reports available to the public;
   - **(16)** the airport owner or operator will maintain a current layout plan of the airport that meets the following requirements:
     - **(A)** the plan will be in a form the Secretary prescribes;
-    - **(B)** the Secretary will approve the plan and any revision or modification before the plan, revision, or modification takes effect;
-    - **(C)** the owner or operator will not make or allow any alteration in the airport or any of its facilities if the alteration does not comply with the plan the Secretary approves, and the Secretary is of the opinion that the alteration may affect adversely the safety, utility, or efficiency of the airport; and
-    - **(D)** when an alteration in the airport or its facility is made that does not conform to the approved plan and that the Secretary decides adversely affects the safety, utility, or efficiency of any property on or off the airport that is owned, leased, or financed by the Government, the owner or operator, if requested by the Secretary, will—
+    - **(B)** the Secretary will review and approve or disapprove only those portions of the plan (or any subsequent revision to the plan) that materially impact the safe and efficient operation of aircraft at, to, or from the airport or that would adversely affect the safety of people or property on the ground adjacent to the airport as a result of aircraft operations, or that adversely affect the value of prior Federal investments to a significant extent;
+    - **(C)** the owner or operator will not make or allow any alteration in the airport or any of its facilities unless the alteration—
+      - **(i)** is outside the scope of the Secretary’s review and approval authority as set forth in subparagraph (B); or
+      - **(ii)** complies with the portions of the plan approved by the Secretary; and
+    - **(D)** when an alteration in the airport or its facility is made that is within the scope of the Secretary’s review and approval authority as set forth in subparagraph (B), and does not conform with the portions of the plan approved by the Secretary, and the Secretary decides that the alteration adversely affects the safety, utility, or efficiency of aircraft operations, or of any property on or off the airport that is owned, leased, or financed by the Government, then the owner or operator will, if requested by the Secretary—
       - **(i)** eliminate the adverse effect in a way the Secretary approves; or
       - **(ii)** bear all cost of relocating the property or its replacement to a site acceptable to the Secretary and of restoring the property or its replacement to the level of safety, utility, efficiency, and cost of operation that existed before the alteration was made, except in the case of a relocation or replacement of an existing airport facility that meets the conditions of section 47110(d);
-  - **(17)** each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services will be awarded in the same way that a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement prescribed for or by the sponsor;
+  - **(17)** if any phase of such project has received funds under this subchapter, each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services will be awarded in the same way that a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement prescribed for or by the sponsor;
   - **(18)** the airport and each airport record will be available for inspection by the Secretary on reasonable request, and a report of the airport budget will be available to the public at reasonable times and places;
   - **(19)** the airport owner or operator will submit to the Secretary and make available to the public an annual report listing in detail—
     - **(A)** all amounts paid by the airport to any other unit of government and the purposes for which each such payment was made; and
@@ -84,17 +86,17 @@ generated_at: "2026-03-29T19:32:28.898Z"
     - **(D)** The provisions of this paragraph apply to all land acquired before, on, or after the date of enactment of this paragraph.
 - **(d)** The Secretary of Transportation may approve an application under this subchapter for an airport development project grant for a privately owned public-use airport only if the Secretary receives appropriate assurances that the airport will continue to function as a public-use airport during the economic life (that must be at least 10 years) of any facility at the airport that was developed with Government financial assistance under this subchapter.
 - **(e)**
-  - **(1)** The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in section 47113(a) of this title ) or qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act).
+  - **(1)** The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in section 47113(a) of this title ) or qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act).
   - **(2)** An airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including any business operated through a management contract or subcontract. The dollar amount of a management contract or subcontract with a disadvantaged business enterprise shall be added to the total participation by disadvantaged business enterprises in airport concessions and to the base from which the airport’s percentage goal is calculated. The dollar amount of a management contract or subcontract with a non-disadvantaged business enterprise and the gross revenue of business activities to which the management contract or subcontract pertains may not be added to this base.
   - **(3)** Except as provided in paragraph (4) of this subsection, an airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including the purchase from disadvantaged business enterprises of goods and services used in businesses conducted at the airport, but the owner or operator and the businesses conducted at the airport shall make good faith efforts to explore all available options to achieve, to the maximum extent practicable, compliance with the goal through direct ownership arrangements, including joint ventures and franchises.
   - **(4)**
     - **(A)** In complying with paragraph (1) of this subsection, an airport owner or operator shall include the revenues of car rental firms at the airport in the base from which the percentage goal in paragraph (1) is calculated.
-    - **(B)** An airport owner or operator may require a car rental firm to meet a requirement under paragraph (1) of this subsection by purchasing or leasing goods or services from a disadvantaged business enterprise. If an owner or operator requires such a purchase or lease, a car rental firm shall be permitted to meet the requirement by including purchases or leases of vehicles from any vendor that qualifies as a small business concern owned and controlled by a socially and economically disadvantaged individual or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act).
+    - **(B)** An airport owner or operator may require a car rental firm to meet a requirement under paragraph (1) of this subsection by purchasing or leasing goods or services from a disadvantaged business enterprise. If an owner or operator requires such a purchase or lease, a car rental firm shall be permitted to meet the requirement by including purchases or leases of vehicles from any vendor that qualifies as a small business concern owned and controlled by a socially and economically disadvantaged individual or as a qualified HUBZone small business concern (as defined in section 31(b) of the Small Business Act).
     - **(C)** This subsection does not require a car rental firm to change its corporate structure to provide for direct ownership arrangements to meet the requirements of this subsection.
   - **(5)** This subsection does not preempt—
     - **(A)** a State or local law, regulation, or policy enacted by the governing body of an airport owner or operator; or
     - **(B)** the authority of a State or local government or airport owner or operator to adopt or enforce a law, regulation, or policy related to disadvantaged business enterprises.
-  - **(6)** An airport owner or operator may provide opportunities for a small business concern owned and controlled by a socially and economically disadvantaged individual or a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act) to participate through direct contractual agreement with that concern.
+  - **(6)** An airport owner or operator may provide opportunities for a small business concern owned and controlled by a socially and economically disadvantaged individual or a qualified HUBZone small business concern (as defined in section 31(b) of the Small Business Act) to participate through direct contractual agreement with that concern.
   - **(7)** An air carrier that provides passenger or property-carrying services or another business that conducts aeronautical activities at an airport may not be included in the percentage goal of paragraph (1) of this subsection for participation of small business concerns at the airport.
   - **(8)** Not later than April 29, 1993 , the Secretary of Transportation shall prescribe regulations to carry out this subsection.
 - **(f)** An amount deposited in the Airport and Airway Trust Fund under—
@@ -179,7 +181,7 @@ generated_at: "2026-03-29T19:32:28.898Z"
     - **(A)** describes the requests;
     - **(B)** provides an explanation as to why the requests could not be accommodated; and
     - **(C)** provides a time frame within which, if any, the airport will be able to accommodate the requests.
-  - **(3)** This subsection shall cease to be effective beginning October 1, 2017 .
+  - **(3)** This subsection shall cease to be effective beginning October 1, 2023 .
 - **(s)**
   - **(1)** Subject to paragraph (2), a sponsor of a general aviation airport shall not be considered to be in violation of this subtitle, or to be in violation of a grant assurance made under this section or under any other provision of law as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor enters into an agreement that grants to a person that owns residential real property adjacent to or near the airport access to the airfield of the airport for the following:
     - **(A)** Aircraft of the person.
@@ -192,6 +194,7 @@ generated_at: "2026-03-29T19:32:28.898Z"
       - **(iii)** to maintain the property for residential, noncommercial use for the duration of the agreement;
       - **(iv)** to prohibit access to the airport from other properties through the property of the property owner; and
       - **(v)** to prohibit any aircraft refueling from occurring on the property.
+  - **(3)** The terms and conditions of paragraph (2) shall not apply to an agreement described in paragraph (1) made before the enactment of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ) that the Secretary determines does not comply with such terms and conditions but involves property that is subject to deed or lease restrictions that are considered perpetual and that cannot readily be brought into compliance. However, if the Secretary determines that the airport sponsor and residential property owners are able to make any modification to such an agreement on or after the date of enactment of this paragraph, the exemption provided by this paragraph shall no longer apply.
 - **(t)**
   - **(1)** Notwithstanding subsection (a)(13), an airport owner or operator who renews a covered lease shall not be treated as violating a written assurance requirement under this section as a result of such renewal.
   - **(2)** In this subsection, the term “covered lease” means a lease—
@@ -201,3 +204,44 @@ generated_at: "2026-03-29T19:32:28.898Z"
     - **(D)** that supports the operation of military aircraft by the Air Force or Air National Guard—
       - **(i)** at the airport; or
       - **(ii)** remotely from the airport.
+- **(u)**
+  - **(1)** The construction of a covered aircraft shall be treated as an aeronautical activity for purposes of—
+    - **(A)** determining an airport’s compliance with a grant assurance made under this section or any other provision of law; and
+    - **(B)** the receipt of Federal financial assistance for airport development.
+  - **(2)** In this subsection, the term “covered aircraft” means an aircraft—
+    - **(A)** used or intended to be used exclusively for recreational purposes; and
+    - **(B)** constructed or under construction by a private individual at a general aviation airport.
+- **(v)**
+  - **(1)** Notwithstanding subsection (a)(13), and subject to paragraph (2), the sponsor of a public-use airport shall not be considered to be in violation of this subtitle, or to be found in violation of a grant assurance made under this section, or under any other provision of law, as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor has entered into an agreement, including a revised agreement, with a local government providing for the use of airport property for an interim compatible recreational purpose at below fair market value.
+  - **(2)** This subsection shall apply only—
+    - **(A)** to an agreement regarding airport property that was initially entered into before the publication of the Federal Aviation Administration’s Policy and Procedures Concerning the Use of Airport Revenue, dated February 16, 1999 ;
+    - **(B)** if the agreement between the sponsor and the local government is subordinate to any existing or future agreements between the sponsor and the Secretary, including agreements related to a grant assurance under this section;
+    - **(C)** to airport property that was acquired under a Federal airport development grant program;
+    - **(D)** if the airport sponsor has provided a written statement to the Administrator that the property made available for a recreational purpose will not be needed for any aeronautical purpose during the next 10 years;
+    - **(E)** if the agreement includes a term of not more than 2 years to prepare the airport property for the interim compatible recreational purpose and not more than 10 years of use for that purpose;
+    - **(F)** if the recreational purpose will not impact the aeronautical use of the airport;
+    - **(G)** if the airport sponsor provides a certification that the sponsor is not responsible for preparation, start-up, operations, maintenance, or any other costs associated with the recreational purpose; and
+    - **(H)** if the recreational purpose is consistent with Federal land use compatibility criteria under section 47502.
+  - **(3)** Nothing in this subsection may be construed as permitting a diversion of airport revenue for the capital or operating costs associated with the community use of airport land.
+- **(w)**
+  - **(1)** The Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
+    - **(A)** a lactation area in the sterile area of each passenger terminal building of the airport; and
+    - **(B)** a baby changing table in at least one men’s and at least one women’s restroom in each passenger terminal building of the airport.
+  - **(2)**
+    - **(A)**
+      - **(i)** The requirements in paragraph (1) shall only apply to applications submitted by the airport sponsor of—
+        - **(I)** a medium or large hub airport in fiscal year 2021 and each fiscal year thereafter; and
+        - **(II)** an applicable small hub airport in fiscal year 2023 and each fiscal year thereafter.
+      - **(ii)** In clause (i)(II), the term “applicable small hub airport” means an airport designated as a small hub airport during—
+        - **(I)** the 3-year period consisting of 2020, 2021, and 2022; or
+        - **(II)** any consecutive 3-year period beginning after 2020.
+    - **(B)** On application by an airport sponsor, the Secretary may determine that a lactation area in existence on October 5, 2018 , complies with the requirement in paragraph (1)(A), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term “lactation area” in this subsection.
+    - **(C)** The requirement in paragraph (1)(A) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
+  - **(3)** In this section, the term—
+    - **(A)** “lactation area” means a room or similar accommodation that—
+      - **(i)** provides a location for members of the public to express breast milk that is shielded from view and free from intrusion from the public;
+      - **(ii)** has a door that can be locked;
+      - **(iii)** includes a place to sit, a table or other flat surface, a sink or sanitizing equipment, and an electrical outlet;
+      - **(iv)** is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; and
+      - **(v)** is not located in a restroom; and
+    - **(B)** “sterile area” has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.

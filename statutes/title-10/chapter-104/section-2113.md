@@ -3,9 +3,9 @@ title: "Section 2113 - Administration of University"
 usc_title: 10
 usc_section: "2113"
 chapter: 104
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2113"
-generated_at: "2026-03-29T19:27:25.561Z"
+generated_at: "2026-03-29T19:43:37.958Z"
 ---
 
 # § 2113. Administration of University
@@ -17,11 +17,11 @@ generated_at: "2026-03-29T19:27:25.561Z"
   - **(2)** The Secretary may confer academic titles, as appropriate, upon military and civilian members of the faculty.
   - **(3)** The military members of the faculty shall include a professor of military, naval, or air science as the Secretary may determine.
   - **(4)** The limitations in sections 5307 and 5373 of title 5 do not apply to the authority of the Secretary under paragraph (1) to prescribe salary schedules and other related benefits. In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in section 102 of title 3 .
-- **(d)** The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources located in or near the District of Columbia. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities in or near the District of Columbia. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs. The Secretary may enter into an agreement under which the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.
+- **(d)** The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs.
 - **(e)** The Secretary of Defense may establish the following educational programs at the University:
   - **(1)** Postdoctoral, postgraduate, and technological institutes.
   - **(2)** A graduate school of nursing.
-  - **(3)** Other schools or programs that the Secretary determines necessary in order to operate the University in a cost-effective manner.
+  - **(3)** Other schools or programs, including certificate, certification, and undergraduate degree programs, that the Secretary determines necessary in order to operate the University in a cost-effective manner.
 - **(f)** The Secretary shall also establish programs in continuing medical education for military members of the health professions to the end that high standards of health care may be maintained within the military medical services.
 - **(g)**
   - **(1)** The Secretary also is authorized—
@@ -29,8 +29,9 @@ generated_at: "2026-03-29T19:27:25.561Z"
     - **(B)** to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation, or nonprofit entity, and the University;
     - **(C)** to enter into contracts with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, under which the Secretary may furnish the services of such professional, technical, or clerical personnel as may be necessary to fulfill cooperative enterprises undertaken by such foundation, or nonprofit entity, and the University;
     - **(D)** to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
-    - **(E)** to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
-    - **(F)** to accept the voluntary services of guest scholars and other persons.
+    - **(E)** to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge;
+    - **(F)** to accept the voluntary services of guest scholars and other persons; and
+    - **(G)** notwithstanding sections 2304, 1 1 See References in Text note below. 4141, and 4024 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
   - **(2)** The Secretary may not enter into any contract with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other entity, if the contract would obligate the University to make outlays in advance of the enactment of budget authority for such outlays.
   - **(3)** Scientists or other medical personnel utilized by the University under an agreement described in clause (E) of paragraph (1) may be appointed to any position within the University and may be permitted to perform such duties within the University as the Secretary may approve.
   - **(4)** A person who provides voluntary services under the authority of clause (F) of paragraph (1) shall be considered to be an employee of the Federal Government for the purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and to be an employee of the Federal Government for the purposes of chapter 171 of title 28, relating to tort claims. Such a person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of such services.

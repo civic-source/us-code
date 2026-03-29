@@ -3,9 +3,9 @@ title: "Section 2704 - Commonly found unregulated hazardous substances"
 usc_title: 10
 usc_section: "2704"
 chapter: 160
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2704"
-generated_at: "2026-03-29T19:27:25.637Z"
+generated_at: "2026-03-29T19:43:38.007Z"
 ---
 
 # § 2704. Commonly found unregulated hazardous substances

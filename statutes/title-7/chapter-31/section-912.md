@@ -3,9 +3,9 @@ title: "Section 912 - Extension of time for repayment of loans"
 usc_title: 7
 usc_section: "912"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 912"
-generated_at: "2026-03-29T19:27:31.700Z"
+generated_at: "2026-03-29T19:43:58.077Z"
 ---
 
 # § 912. Extension of time for repayment of loans
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:27:31.700Z"
     - **(A)** A borrower may defer its debt service payments only in an amount equal to an investment made by such borrower as described in paragraph (2).
     - **(B)** The amount of the deferment shall not exceed 50 percent of the total cost of a community or economic development project for which a deferment is provided under this subsection.
     - **(C)** The total amount of deferments under this subsection during each of the fiscal years 1990 through 1993 shall not exceed 3 percent of the total payments due during such fiscal year from all borrowers on direct and insured loans made under this chapter and shall not exceed 5 percent of such total payments due in each subsequent fiscal year.
-    - **(D)** At the time of a deferment, the borrower shall make a payment to a cushion of credit account established and maintained pursuant to section 940c of this title in an amount equal to the amount of the payment deferred. The balance of such account shall not be reduced by the borrower below the level of the unpaid balance of the payment deferred. Subject to limitations established in annual appropriations Acts, such cushion of credit amounts and any other cushion of credit and advance payments of any borrower shall be included in the interest differential calculation under section 940c(b)(2)(A) of this title .
+    - **(D)** At the time of a deferment, the borrower shall make a payment to a cushion of credit account established and maintained pursuant to section 940c of this title in an amount equal to the amount of the payment deferred. The balance of such account shall not be reduced by the borrower below the level of the unpaid balance of the payment deferred. Subject to limitations established in annual appropriations Acts, such cushion of credit amounts and any other cushion of credit and advance payments of any borrower shall be included in the interest differential calculation under section 940c(b)(2) of this title .
   - **(4)** The Secretary shall undertake all reasonable efforts to permit the full amount of deferments authorized by this subsection during each fiscal year.
 - **(c)**
   - **(1)** The Secretary shall allow borrowers to defer payment of principal and interest on any direct loan made under this chapter to enable the borrower to make loans to residential, commercial, and industrial consumers—

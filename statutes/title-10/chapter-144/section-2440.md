@@ -1,14 +1,12 @@
 ---
-title: "Section 2440 - Technology and industrial base plans"
+title: "Section 2440 - Renumbered § 4820]"
 usc_title: 10
 usc_section: "2440"
 chapter: 144
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2440"
-generated_at: "2026-03-29T19:27:25.608Z"
+generated_at: "2026-03-29T19:43:37.981Z"
 ---
 
-# § 2440. Technology and industrial base plans
-
-The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by section 2501 of this title , in the development and implementation of acquisition plans for each major defense acquisition program.
+# [§ 2440. Renumbered § 4820]
 

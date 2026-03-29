@@ -3,14 +3,14 @@ title: "Section 1115 - Federal Government and agency performance plans"
 usc_title: 31
 usc_section: "1115"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 1115"
-generated_at: "2026-03-29T19:30:24.754Z"
+generated_at: "2026-03-29T19:42:56.099Z"
 ---
 
 # § 1115. Federal Government and agency performance plans
 
-- **(a)** In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on the website provided under section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
+- **(a)** In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on a website described in section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
   - **(1)** establish Federal Government performance goals to define the level of performance to be achieved during the year in which the plan is submitted and the next fiscal year for each of the Federal Government priority goals required under section 1120(a) of this title ;
   - **(2)** identify the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities contributing to each Federal Government performance goal during the current fiscal year;
   - **(3)** for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;

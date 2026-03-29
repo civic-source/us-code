@@ -3,9 +3,9 @@ title: "Section 1295 - Jurisdiction of the United States Court of Appeals for th
 usc_title: 28
 usc_section: "1295"
 chapter: 83
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 1295"
-generated_at: "2026-03-29T19:30:04.371Z"
+generated_at: "2026-03-29T19:42:27.356Z"
 ---
 
 # § 1295. Jurisdiction of the United States Court of Appeals for the Federal Circuit

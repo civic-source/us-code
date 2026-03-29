@@ -3,14 +3,14 @@ title: "Section 488a - Regulation of the sale and transfer of ammonium nitrate"
 usc_title: 6
 usc_section: "488a"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 488a"
-generated_at: "2026-03-29T19:27:39.858Z"
+generated_at: "2026-03-29T19:43:43.801Z"
 ---
 
 # § 488a. Regulation of the sale and transfer of ammonium nitrate
 
-- **(a)** The Secretary shall regulate the sale and transfer of ammonium nitrate by an ammonium nitrate facility in accordance with this part to prevent the misappropriation or use of ammonium nitrate in an act of terrorism.
+- **(a)** The Secretary shall regulate the sale and transfer of ammonium nitrate by an ammonium nitrate facility in accordance with this part to prevent the misappropriation or use of ammonium nitrate in an act of terrorism. Such regulations shall be carried out by the Cybersecurity and Infrastructure Security Agency.
 - **(b)** Not later than 90 days after December 26, 2007 , the Secretary, in consultation with the heads of appropriate Federal departments and agencies (including the Secretary of Agriculture), shall, after notice and an opportunity for comment, establish a threshold percentage for ammonium nitrate in a substance.
 - **(c)**
   - **(1)** The Secretary shall establish a process by which any person that—

@@ -1,12 +1,12 @@
 ---
-title: "Section 2363 - Repealed. Pub. L. 102–484, div. D, title XLII , §§ 4224(c), 4271(a)(2), Oct. 23, 1992 , 106 Stat. 2683 , 2695]"
+title: "Section 2363 - Renumbered § 4123]"
 usc_title: 10
 usc_section: "2363"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2363"
-generated_at: "2026-03-29T19:27:25.596Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# [§ 2363. Repealed. Pub. L. 102–484, div. D, title XLII , §§ 4224(c), 4271(a)(2), Oct. 23, 1992 , 106 Stat. 2683 , 2695]
+# [§ 2363. Renumbered § 4123]
 

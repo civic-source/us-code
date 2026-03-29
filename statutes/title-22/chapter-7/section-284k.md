@@ -3,9 +3,9 @@ title: "Section 284k - Illegal drug traffic; loan restrictions"
 usc_title: 22
 usc_section: "284k"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 284k"
-generated_at: "2026-03-29T19:29:46.667Z"
+generated_at: "2026-03-29T19:42:07.965Z"
 ---
 
 # § 284k. Illegal drug traffic; loan restrictions

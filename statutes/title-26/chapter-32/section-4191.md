@@ -1,21 +1,12 @@
 ---
-title: "Section 4191 - Medical devices"
+title: "Section 4191 - Repealed. Pub. L. 116–94, div. N, title I, § 501(a) , Dec. 20, 2019 , 133 Stat. 3118 ]"
 usc_title: 26
 usc_section: "4191"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4191"
-generated_at: "2026-03-29T19:30:20.076Z"
+generated_at: "2026-03-29T19:42:47.884Z"
 ---
 
-# § 4191. Medical devices
+# [§ 4191. Repealed. Pub. L. 116–94, div. N, title I, § 501(a) , Dec. 20, 2019 , 133 Stat. 3118 ]
 
-- **(a)** There is hereby imposed on the sale of any taxable medical device by the manufacturer, producer, or importer a tax equal to 2.3 percent of the price for which so sold.
-- **(b)** For purposes of this section—
-  - **(1)** The term “taxable medical device” means any device (as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act) intended for humans.
-  - **(2)** Such term shall not include—
-    - **(A)** eyeglasses,
-    - **(B)** contact lenses,
-    - **(C)** hearing aids, and
-    - **(D)** any other medical device determined by the Secretary to be of a type which is generally purchased by the general public at retail for individual use.
-- **(c)** The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016 , and ending on December 31, 2017 .

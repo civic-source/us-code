@@ -5,7 +5,7 @@ usc_section: "245A"
 chapter: 1
 current_through: "PL 117-81"
 classification: "26 U.S.C. § 245A"
-generated_at: "2026-03-29T18:45:36.922Z"
+generated_at: "2026-03-29T19:42:47.601Z"
 ---
 
 # § 245A. Deduction for foreign source-portion of dividends received by domestic corporations from specified 10-percent owned foreign corporations

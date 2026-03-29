@@ -3,9 +3,9 @@ title: "Section 12308 - Retention after becoming qualified for retired pay"
 usc_title: 10
 usc_section: "12308"
 chapter: 1209
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 12308"
-generated_at: "2026-03-29T19:27:25.731Z"
+generated_at: "2026-03-29T19:43:38.151Z"
 ---
 
 # § 12308. Retention after becoming qualified for retired pay

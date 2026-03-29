@@ -3,9 +3,9 @@ title: "Section 2903 - Estuary habitat restoration program"
 usc_title: 33
 usc_section: "2903"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2903"
-generated_at: "2026-03-29T19:30:28.876Z"
+generated_at: "2026-03-29T19:43:07.730Z"
 ---
 
 # § 2903. Estuary habitat restoration program
@@ -50,6 +50,7 @@ generated_at: "2026-03-29T19:30:28.876Z"
     - **(A)** provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3); and
     - **(B)** provide for long-term maintenance and monitoring of the project.
   - **(2)** Notwithstanding section 1962d–5b(b) of title 42 , for any project to be undertaken under this chapter, the Secretary, in consultation and coordination with appropriate State and local governmental agencies and Indian tribes, may allow a nongovernmental organization to serve as the non-Federal interest for the project.
+  - **(3)** For a project carried out under this chapter, the requirements of section 2213(j)(1) of this title may be fulfilled by a nongovernmental organization serving as the non-Federal interest for the project pursuant to paragraph (2).
 - **(g)**
   - **(1)** In carrying out this chapter, the Secretary may delegate project implementation to another Federal department or agency on a reimbursable basis if the Secretary, upon the recommendation of the Council, determines such delegation is appropriate.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 102502 - Definition of museum object"
 usc_title: 54
 usc_section: "102502"
 chapter: 1025
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "54 U.S.C. § 102502"
-generated_at: "2026-03-29T19:32:31.885Z"
+generated_at: "2026-03-29T19:45:03.245Z"
 ---
 
 # § 102502. Definition of museum object

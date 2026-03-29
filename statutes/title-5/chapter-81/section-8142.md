@@ -3,9 +3,9 @@ title: "Section 8142 - Peace Corps volunteers"
 usc_title: 5
 usc_section: "8142"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8142"
-generated_at: "2026-03-29T19:27:05.341Z"
+generated_at: "2026-03-29T19:43:20.411Z"
 ---
 
 # § 8142. Peace Corps volunteers
@@ -25,3 +25,8 @@ generated_at: "2026-03-29T19:27:05.341Z"
   - **(4)** the period of service of an individual as a volunteer includes—
     - **(A)** any period of training under section 2507(a) of title 22 before enrollment as a volunteer; and
     - **(B)** the period between enrollment as a volunteer and the termination of service as a volunteer by the President or by death or resignation.
+- **(d)**
+  - **(1)** The Secretary shall authorize the Director of the Peace Corps to furnish medical benefits to a volunteer, who is injured during the volunteer’s period of service, for a period of 120 days following the termination of such service if the Director certifies that the volunteer’s injury probably meets the requirements under subsection (c)(3). The Secretary may then certify vouchers for these expenses for such volunteer out of the Employees’ Compensation Fund.
+  - **(2)** The Secretary shall prescribe the form and content of the certification required under paragraph (1).
+  - **(3)** A certification under paragraph (1) will cease to be effective if the volunteer sustains compensable disability in connection with volunteer service.
+  - **(4)** Nothing in this subsection may be construed to authorize the furnishing of any medical benefit that the Secretary of Labor is not otherwise authorized to reimburse for former Peace Corps volunteers who receive treatment for injury or disease proximately caused by their service in the Peace Corps in accordance with this chapter.

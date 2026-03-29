@@ -3,9 +3,9 @@ title: "Section 1941 - Persons eligible for loans"
 usc_title: 7
 usc_section: "1941"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1941"
-generated_at: "2026-03-29T19:27:31.792Z"
+generated_at: "2026-03-29T19:43:58.191Z"
 ---
 
 # § 1941. Persons eligible for loans
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:27:31.792Z"
     - **(C)** has received a previous direct operating loan made under this subchapter during 6 or fewer years.
   - **(2)** In this subsection, the term “direct operating loan” does not include—
     - **(A)** a loan made to a youth under subsection (b); or
-    - **(B)** a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) of this title ).
+    - **(B)** a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) 1 1 See References in Text note below. of this title).
   - **(3)** If, as of April 4, 1996 , a farmer or rancher has received a direct operating loan under this subchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996 .
   - **(4)**
     - **(A)** The Secretary shall waive the limitation under paragraph (1)(C) or (3) for a direct loan made under this subchapter to a farmer or rancher whose farm or ranch land is subject to the jurisdiction of an Indian tribe and whose loan is secured by 1 or more security instruments that are subject to the jurisdiction of an Indian tribe if the Secretary determines that commercial credit is not generally available for such farm or ranch operations.

@@ -1,20 +1,12 @@
 ---
-title: "Section 2374a - Prizes for advanced technology achievements"
+title: "Section 2374a - Renumbered § 4025]"
 usc_title: 10
 usc_section: "2374a"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2374a"
-generated_at: "2026-03-29T19:27:25.599Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# § 2374a. Prizes for advanced technology achievements
+# [§ 2374a. Renumbered § 4025]
 
-- **(a)** The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the service acquisition executive for each military department, may carry out programs to award cash prizes in recognition of outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
-- **(b)** Each program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
-- **(c)**
-  - **(1)** No prize competition may result in the award of a cash prize of more than $10,000,000.
-  - **(2)** No prize competition may result in the award of more than $1,000,000 in cash prizes without the approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
-- **(d)** A program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of an official referred to in that subsection to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects.
-- **(e)** In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds from other departments and agencies of the Federal Government, and from State and local governments, to award prizes under this section.
-- **(f)** The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018 .

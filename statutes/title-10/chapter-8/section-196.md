@@ -1,54 +1,12 @@
 ---
-title: "Section 196 - Department of Defense Test Resource Management Center"
+title: "Section 196 - Renumbered § 4173]"
 usc_title: 10
 usc_section: "196"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 196"
-generated_at: "2026-03-29T19:27:25.433Z"
+generated_at: "2026-03-29T19:43:37.788Z"
 ---
 
-# § 196. Department of Defense Test Resource Management Center
+# [§ 196. Renumbered § 4173]
 
-- **(a)** The Secretary of Defense shall establish within the Department of Defense under section 191 of this title a Department of Defense Test Resource Management Center (hereinafter in this section referred to as the “Center”). The Secretary shall designate the Center as a Department of Defense Field Activity.
-- **(b)**
-  - **(1)** At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
-  - **(2)** There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
-- **(c)**
-  - **(1)** The Director shall have the following duties:
-    - **(A)** To review and provide oversight of proposed Department of Defense budgets and expenditures for—
-      - **(i)** the test and evaluation facilities and resources of the Major Range and Test Facility Base of the Department of Defense; and
-      - **(ii)** all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i) 1 1 See References in Text note below. of this title.
-    - **(B)** To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
-    - **(C)** To complete and maintain the strategic plan required by subsection (d).
-    - **(D)** To review proposed budgets under subsection (e) and submit reports and certifications required by such subsection.
-    - **(E)** To administer the Central Test and Evaluation Investment Program and the program of the Department of Defense for test and evaluation science and technology.
-  - **(2)** The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
-- **(d)**
-  - **(1)** Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.
-  - **(2)** The strategic plan shall include the following:
-    - **(A)** An assessment of the test and evaluation requirements of the Department for the period covered by the plan.
-    - **(B)** An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
-    - **(C)** An assessment of the test and evaluation facilities and resources that will be needed to meet such requirements and satisfy such performance measures.
-    - **(D)** An assessment of the current state of the test and evaluation facilities and resources of the Department.
-    - **(E)** An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of a military department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
-    - **(F)** An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
-    - **(G)** An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
-  - **(3)** Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
-  - **(4)** Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
-- **(e)**
-  - **(1)** The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
-  - **(2)**
-    - **(A)** The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
-    - **(B)** The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such strategic plan.
-  - **(3)** The Secretary of Defense shall, not later than March 31 of the year preceding the fiscal year for which such budgets are proposed, submit to Congress a report on those proposed budgets which the Director has not certified under paragraph (2)(A) to be adequate. The report shall include the following matters:
-    - **(A)** A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
-    - **(B)** Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
-- **(f)**
-  - **(1)** The Secretary of a military department or the head of a Defense Agency with test and evaluation responsibilities may not implement a projected, proposed, or recommended significant modification of the test and evaluation facilities and resources of the Department, including with respect to the expansion, divestment, consolidation, or curtailment of activities, until—
-    - **(A)** the Secretary or the head, as the case may be, submits to the Director a business case analysis for such modification; and
-    - **(B)** the Director reviews such analysis and approves such modification.
-  - **(2)** The Director shall submit to the Secretary of Defense an annual report containing the comments of the Director with respect to each business case analysis reviewed under paragraph (1)(B) during the year covered by the report.
-- **(g)** The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
-- **(h)** The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
-- **(i)** In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.

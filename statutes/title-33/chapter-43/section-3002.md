@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 33
 usc_section: "3002"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3002"
-generated_at: "2026-03-29T19:30:28.878Z"
+generated_at: "2026-03-29T19:43:07.732Z"
 ---
 
 # § 3002. Definitions
@@ -15,6 +15,7 @@ generated_at: "2026-03-29T19:30:28.878Z"
   - **(1)** The term “active duty” means full-time duty in the active service of a uniformed service.
   - **(2)** The term “grade” means a step or degree, in a graduated scale of office or rank, that is established and designated as a grade by law or regulation.
   - **(3)** The term “officer” means an officer of the commissioned corps.
-  - **(4)** The term “flag officer” means an officer serving in, or having the grade of, vice admiral, rear admiral, or rear admiral (lower half).
-  - **(5)** The term “Secretary” means the Secretary of Commerce.
-  - **(6)** The term “Administration” means the National Oceanic and Atmospheric Administration.
+  - **(4)** The term “officer candidate” means an individual who is enrolled in the basic officer training program of the Administration and is under consideration for appointment as an officer under section 3021(a)(2)(A) of this title .
+  - **(5)** The term “flag officer” means an officer serving in, or having the grade of, vice admiral, rear admiral, or rear admiral (lower half).
+  - **(6)** The term “Secretary” means the Secretary of Commerce.
+  - **(7)** The term “Administration” means the National Oceanic and Atmospheric Administration.

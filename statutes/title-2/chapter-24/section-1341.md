@@ -3,9 +3,9 @@ title: "Section 1341 - Rights and protections under Occupational Safety and Heal
 usc_title: 2
 usc_section: "1341"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1341"
-generated_at: "2026-03-29T19:27:07.552Z"
+generated_at: "2026-03-29T19:42:59.648Z"
 ---
 
 # § 1341. Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations
@@ -15,8 +15,8 @@ generated_at: "2026-03-29T19:27:07.552Z"
   - **(2)** For purposes of the application under this section of the Occupational Safety and Health Act of 1970 [ 29 U.S.C. 651 et seq.]—
     - **(A)** the term “employer” as used in such Act means an employing office;
     - **(B)** the term “employee” as used in such Act means a covered employee;
-    - **(C)** the term “employing office” includes the Government Accountability Office, the Library of Congress, and any entity listed in subsection (a) of section 1331 of this title that is responsible for correcting a violation of this section, irrespective of whether the entity has an employment relationship with any covered employee in any employing office in which such a violation occurs; and
-    - **(D)** the term “employee” includes employees of the Government Accountability Office and the Library of Congress.
+    - **(C)** the term “employing office” includes the Government Accountability Office and any entity listed in subsection (a) of section 1331 of this title that is responsible for correcting a violation of this section, irrespective of whether the entity has an employment relationship with any covered employee in any employing office in which such a violation occurs; and
+    - **(D)** the term “employee” includes employees of the Government Accountability Office.
 - **(b)** The remedy for a violation of subsection (a) shall be an order to correct the violation, including such order as would be appropriate if issued under section 13(a) of the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 662(a) ).
 - **(c)**
   - **(1)** Upon written request of any employing office or covered employee, the General Counsel shall exercise the authorities granted to the Secretary of Labor by subsections (a), (d), (e), and (f) of section 8 of the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 657(a) , (d), (e), and (f)) to inspect and investigate places of employment under the jurisdiction of employing offices.
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:27:07.552Z"
   - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
   - **(3)** The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a), the employing office responsible for correction of a particular violation.
 - **(e)**
-  - **(1)** On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
+  - **(1)** On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
   - **(2)** On the basis of each periodic inspection, the General Counsel shall prepare and submit a report—
     - **(A)** to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol or other employing office responsible for correcting the violation of this section uncovered by such inspection, and
     - **(B)** containing the results of the periodic inspection, identifying the employing office responsible for correcting the violation of this section uncovered by such inspection, describing any steps necessary to correct any violation of this section, and assessing any risks to employee health and safety associated with any violation.

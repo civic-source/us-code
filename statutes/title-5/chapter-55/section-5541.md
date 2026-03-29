@@ -3,9 +3,9 @@ title: "Section 5541 - Definitions"
 usc_title: 5
 usc_section: "5541"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 5541"
-generated_at: "2026-03-29T19:27:05.292Z"
+generated_at: "2026-03-29T19:43:20.363Z"
 ---
 
 # § 5541. Definitions
@@ -31,7 +31,7 @@ For the purpose of this subchapter—
         - **(I)** the Metropolitan Police or the Fire Department of the District of Columbia; or
         - **(II)** a member of the United States Park Police, other than for purposes of section 1 1 So in original. Probably should be “sections”. 5545(a) and 5546;
       - **(v)** a student-employee as defined by section 5351 of this title ;
-      - **[(vi)** Repealed. Pub. L. 91–375 , § 6(c)(16), Aug. 12, 1970 , 84 Stat. 776 ;]
+      - **[(vi)** Repealed. Pub. L. 91–375, § 6(c)(16) , Aug. 12, 1970 , 84 Stat. 776 ;]
       - **(vii)** an employee outside the continental United States or in Alaska who is paid in accordance with local native prevailing wage rates for the area in which employed;
       - **(viii)** an employee of the Tennessee Valley Authority;
       - **(ix)** an individual to whom section 1291(a) 2 2 See References in Text note below. of title 50, appendix, applies;

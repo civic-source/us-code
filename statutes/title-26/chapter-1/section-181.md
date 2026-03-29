@@ -3,9 +3,9 @@ title: "Section 181 - Treatment of certain qualified film and television and liv
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-29T19:30:19.747Z"
+generated_at: "2026-03-29T19:42:47.587Z"
 ---
 
 # § 181. Treatment of certain qualified film and television and live theatrical productions
@@ -49,4 +49,4 @@ generated_at: "2026-03-29T19:30:19.747Z"
       - **(ii)** For purposes of clause (i), in the case of any taxable year of less than 12 months, the number of weeks for which a production is produced or presented shall be annualized by multiplying the number of weeks the production is produced or presented during such taxable year by 12 and dividing the result by the number of months in such taxable year.
     - **(E)** A production is not described in this paragraph if such production includes or consists of any performance of conduct described in section 2257(h)(1) of title 18 , United States Code.
 - **(f)** For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
-- **(g)** This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2016 .
+- **(g)** This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2025 .

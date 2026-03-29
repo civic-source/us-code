@@ -3,9 +3,9 @@ title: "Section 5323 - General provisions"
 usc_title: 49
 usc_section: "5323"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 5323"
-generated_at: "2026-03-29T19:32:28.750Z"
+generated_at: "2026-03-29T19:44:57.855Z"
 ---
 
 # § 5323. General provisions
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T19:32:28.750Z"
 - **(e)**
   - **(1)** Notwithstanding any other provision of law, a recipient of assistance under section 5307, 5309, or 5337 may use the proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project.
   - **(2)** The Secretary shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost only if the Secretary finds that the aggregate amount of financial support for public transportation in the urbanized area provided by the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State transportation improvement program under section 5304, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
-  - **(3)** The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(3)(J) from amounts made available to the recipient under section 5309.
+  - **(3)** The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(4)(J) from amounts made available to the recipient under section 5309.
 - **(f)**
   - **(1)** Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competition with a private schoolbus operator. This subsection does not apply—
     - **(A)** to an applicant that operates a school system in the area to be served and a separate and exclusive schoolbus program for the school system; and
@@ -110,3 +110,30 @@ generated_at: "2026-03-29T19:32:28.750Z"
 - **(t)** If, in a fiscal year, the Secretary is prohibited by law from enforcing regulations related to charter bus service under part 604 of title 49, Code of Federal Regulations, for any transit agency that during fiscal year 2008 was both initially granted a 60-day period to come into compliance with such part 604, and then was subsequently granted an exception from such part—
   - **(1)** the transit agency shall be precluded from receiving its allocation of urbanized area formula grant funds for such fiscal year; and
   - **(2)** any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
+- **(u)**
+  - **(1)** Except as provided in paragraph (5), financial assistance made available under this chapter shall not be used in awarding a contract or subcontract to an entity on or after the date of enactment of this subsection for the procurement of rolling stock for use in public transportation if the manufacturer of the rolling stock—
+    - **(A)** is incorporated in or has manufacturing facilities in the United States; and
+    - **(B)** is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
+      - **(i)** is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 ( 19 U.S.C. 1677(18) )) as of the date of enactment of this subsection;
+      - **(ii)** was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 ( 19 U.S.C. 2242 ) as a foreign country included on the priority watch list defined in subsection (g)(3) of that section; and
+      - **(iii)** is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 ( 19 U.S.C. 2416 ).
+  - **(2)** For purposes of paragraph (1), the term “otherwise related legally or financially” does not include—
+    - **(A)** a minority relationship or investment; or
+    - **(B)** relationship with or investment in a subsidiary, joint venture, or other entity based in a country described in paragraph (1)(B) that does not export rolling stock or components of rolling stock for use in the United States.
+  - **(3)** This subsection shall be applied in a manner consistent with the obligations of the United States under international agreements.
+  - **(4)**
+    - **(A)** Except as provided in paragraph (5), as a condition of financial assistance made available in a fiscal year under section 5337, a recipient that operates rail fixed guideway service shall certify in that fiscal year that the recipient will not award any contract or subcontract for the procurement of rail rolling stock for use in public transportation with a rail rolling stock manufacturer described in paragraph (1).
+    - **(B)** The certification required under this paragraph shall be in addition to any certification the Secretary establishes to ensure compliance with the requirements of paragraph (1).
+  - **(5)**
+    - **(A)** This subsection, including the certification requirement under paragraph (4), shall not apply to the award of any contract or subcontract made by a public transportation agency with a rail rolling stock manufacturer described in paragraph (1) if the manufacturer and the public transportation agency have executed a contract for rail rolling stock before the date of enactment of this subsection.
+    - **(B)** Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturer for the 2-year period beginning on or after the date of enactment of this subsection.
+    - **(C)** Subparagraph (B) shall not apply to the award of a contract or subcontract made by the Washington Metropolitan Area Transit Authority.
+- **(v)**
+  - **(1)** As a condition of financial assistance made available under this chapter, a recipient that operates a rail fixed guideway public transportation system shall certify that the recipient has established a process to develop, maintain, and execute a written plan for identifying and reducing cybersecurity risks.
+  - **(2)** For the process required under paragraph (1), a recipient of assistance under this chapter shall—
+    - **(A)** utilize the approach described by the voluntary standards and best practices developed under section 2(c)(15) of the National Institute of Standards and Technology Act ( 15 U.S.C. 272(c)(15) ), as applicable;
+    - **(B)** identify hardware and software that the recipient determines should undergo third-party testing and analysis to mitigate cybersecurity risks, such as hardware or software for rail rolling stock under proposed procurements; and
+    - **(C)** utilize the approach described in any voluntary standards and best practices for rail fixed guideway public transportation systems developed under the authority of the Secretary of Homeland Security, as applicable.
+  - **(3)** Nothing in this subsection shall be construed to interfere with the authority of—
+    - **(A)** the Secretary of Homeland Security to publish or ensure compliance with requirements or standards concerning cybersecurity for rail fixed guideway public transportation systems; or
+    - **(B)** the Secretary of Transportation under section 5329 to address cybersecurity issues as those issues relate to the safety of rail fixed guideway public transportation systems.

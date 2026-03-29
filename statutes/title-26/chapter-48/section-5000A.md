@@ -3,9 +3,9 @@ title: "Section 5000A - Requirement to maintain minimum essential coverage"
 usc_title: 26
 usc_section: "5000A"
 chapter: 48
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 5000A"
-generated_at: "2026-03-29T19:30:20.113Z"
+generated_at: "2026-03-29T19:42:47.914Z"
 ---
 
 # § 5000A. Requirement to maintain minimum essential coverage
@@ -28,14 +28,11 @@ generated_at: "2026-03-29T19:30:20.113Z"
     - **(B)** An amount equal to the following percentage of the excess of the taxpayer’s household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year:
       - **(i)** 1.0 percent for taxable years beginning in 2014.
       - **(ii)** 2.0 percent for taxable years beginning in 2015.
-      - **(iii)** 2.5 percent for taxable years beginning after 2015.
+      - **(iii)** Zero percent for taxable years beginning after 2015.
   - **(3)** For purposes of paragraph (1)—
-    - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $695.
+    - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.
     - **(B)** The applicable dollar amount is $95 for 2014 and $325 for 2015.
     - **(C)** If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
-    - **(D)** In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
-      - **(i)** $695, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
   - **(4)** For purposes of this section—
     - **(A)** The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
     - **(B)** The term “household income” means, with respect to any taxpayer for any taxable year, an amount equal to the sum of—
@@ -49,9 +46,13 @@ generated_at: "2026-03-29T19:30:20.113Z"
 - **(d)** For purposes of this section—
   - **(1)** The term “applicable individual” means, with respect to any month, an individual other than an individual described in paragraph (2), (3), or (4).
   - **(2)**
-    - **(A)** Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
-      - **(i)** a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
-      - **(ii)** an adherent of established tenets or teachings of such sect or division as described in such section.
+    - **(A)**
+      - **(i)** Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that—
+        - **(I)** such individual is a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and is adherent of established tenets or teachings of such sect or division as described in such section; or
+        - **(II)** such individual is a member of a religious sect or division thereof which is not described in section 1402(g)(1), who relies solely on a religious method of healing, and for whom the acceptance of medical health services would be inconsistent with the religious beliefs of the individual.
+      - **(ii)**
+        - **(I)** For purposes of this subparagraph, the term “medical health services” does not include routine dental, vision and hearing services, midwifery services, vaccinations, necessary medical services provided to children, services required by law or by a third party, and such other services as the Secretary of Health and Human Services may provide in implementing section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act.
+        - **(II)** Clause (i)(II) shall apply to an individual for months in a taxable year only if the information provided by the individual under section 1411(b)(5)(A) of such Act includes an attestation that the individual has not received medical health services during the preceding taxable year.
     - **(B)**
       - **(i)** Such term shall not include any individual for any month if such individual is a member of a health care sharing ministry for the month.
       - **(ii)** The term “health care sharing ministry” means an organization—
@@ -84,7 +85,7 @@ generated_at: "2026-03-29T19:30:20.113Z"
     - **(A)** Coverage under—
       - **(i)** the Medicare program under part A of title XVIII of the Social Security Act,
       - **(ii)** the Medicaid program under title XIX of the Social Security Act,
-      - **(iii)** the CHIP program under title XXI of the Social Security Act,
+      - **(iii)** the CHIP program under title XXI of the Social Security Act or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act),
       - **(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 2 2 So in original. The semicolon probably should be a comma.
       - **(v)** a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
       - **(vi)** a health plan under section 2504(e) of title 22 , United States Code (relating to Peace Corps volunteers); 2 or

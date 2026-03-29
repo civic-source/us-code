@@ -3,9 +3,9 @@ title: "Section 3512 - Gifts, devises, and bequests"
 usc_title: 50
 usc_section: "3512"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3512"
-generated_at: "2026-03-29T19:32:24.252Z"
+generated_at: "2026-03-29T19:44:52.875Z"
 ---
 
 # § 3512. Gifts, devises, and bequests
@@ -34,6 +34,7 @@ generated_at: "2026-03-29T19:32:24.252Z"
 - **(f)**
   - **(1)** The Director may engage in fundraising in an official capacity for the benefit of nonprofit organizations that provide support to surviving family members of deceased Agency employees or that otherwise provide support for the welfare, education, or recreation of Agency employees, former Agency employees, or their family members.
   - **(2)** In this subsection, the term “fundraising” means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
+  - **(3)** Not later than the date that is 7 days after the date the Director engages in fundraising authorized by this subsection or at the time the decision is made to participate in such fundraising, the Director shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives of the fundraising.
 - **(g)** The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
   - **(1)** the avoidance of any prohibited conflict of interest or appearance of impropriety; and
   - **(2)** a prohibition against the acceptance of a gift from a foreign government or an agent of a foreign government.

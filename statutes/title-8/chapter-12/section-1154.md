@@ -3,9 +3,9 @@ title: "Section 1154 - Procedure for granting immigrant status"
 usc_title: 8
 usc_section: "1154"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 1154"
-generated_at: "2026-03-29T19:27:14.434Z"
+generated_at: "2026-03-29T19:43:45.645Z"
 ---
 
 # § 1154. Procedure for granting immigrant status
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T19:27:14.434Z"
         - **(V)** demonstrates that the alien has been battered or subject to extreme cruelty by the citizen daughter or son.
       - **(viii)**
         - **(I)** Clause (i) shall not apply to a citizen of the United States who has been convicted of a specified offense against a minor, unless the Secretary of Homeland Security, in the Secretary’s sole and unreviewable discretion, determines that the citizen poses no risk to the alien with respect to whom a petition described in clause (i) is filed.
-        - **(II)** For purposes of subclause (I), the term “specified offense against a minor” is defined as in section 16911 of title 42 .
+        - **(II)** For purposes of subclause (I), the term “specified offense against a minor” is defined as in section 20911 of title 34 .
     - **(B)**
       - **(i)**
         - **(I)** Except as provided in subclause (II), any alien lawfully admitted for permanent residence claiming that an alien is entitled to a classification by reason of the relationship described in section 1153(a)(2) of this title may file a petition with the Attorney General for such classification.

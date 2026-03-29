@@ -3,9 +3,9 @@ title: "Section 3308 - Examinations"
 usc_title: 46
 usc_section: "3308"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 3308"
-generated_at: "2026-03-29T19:32:17.317Z"
+generated_at: "2026-03-29T19:44:39.389Z"
 ---
 
 # § 3308. Examinations

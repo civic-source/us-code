@@ -3,9 +3,9 @@ title: "Section 2776 - Reports and certifications to Congress on military export
 usc_title: 22
 usc_section: "2776"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2776"
-generated_at: "2026-03-29T19:29:46.816Z"
+generated_at: "2026-03-29T19:42:08.130Z"
 ---
 
 # § 2776. Reports and certifications to Congress on military exports
@@ -105,7 +105,7 @@ generated_at: "2026-03-29T19:29:46.816Z"
   - **(1)** each numbered certification submitted pursuant to subsection (b);
   - **(2)** each notification of a proposed commercial sale submitted under subsection (c); and
   - **(3)** each notification of a proposed commercial technical assistance or manufacturing licensing agreement submitted under subsection (d).
-- **(g)** Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) and the second sentence of subsection (c)(1) shall be treated as confidential information in accordance with section 4614(c) of title 50 .
+- **(g)** Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) and the second sentence of subsection (c)(1) shall be treated as confidential information in accordance with section 4614(c) 1 of title 50.
 - **(h)**
   - **(1)** Any certification relating to a proposed sale or export of defense articles or defense services under this section to any country in the Middle East other than Israel shall include a determination that the sale or export of the defense articles or defense services will not adversely affect Israel’s qualitative military edge over military threats to Israel.
   - **(2)** A determination under paragraph (1) relating to the sale or export of major defense equipment shall include—

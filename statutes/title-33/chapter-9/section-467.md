@@ -3,9 +3,9 @@ title: "Section 467 - Definitions"
 usc_title: 33
 usc_section: "467"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 467"
-generated_at: "2026-03-29T19:30:28.713Z"
+generated_at: "2026-03-29T19:43:07.561Z"
 ---
 
 # § 467. Definitions
@@ -25,13 +25,29 @@ In this subchapter, the following definitions apply:
       - **(ii)** a barrier described in subparagraph (A) that—
         - **(I)** is 6 feet or less in height regardless of storage capacity; or
         - **(II)** has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
-  - **(4)** The term “Federal agency” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.
-  - **(5)** The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
-  - **(6)** The term “FEMA” means the Federal Emergency Management Agency.
-  - **(7)** The term “hazard reduction” means the reduction in the potential consequences to life and property of dam failure.
-  - **(8)** The term “ICODS” means the Interagency Committee on Dam Safety established by section 467e of this title .
-  - **(9)** The term “Program” means the national dam safety program established under section 467f of this title .
-  - **(10)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
-  - **(11)** The term “State dam safety agency” means a State agency that has regulatory authority over the safety of non-Federal dams.
-  - **(12)** The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(e) of this title .
-  - **(13)** The term “United States”, when used in a geographical sense, means all of the States.
+  - **(4)**
+    - **(A)** The term “eligible high hazard potential dam” means a non-Federal dam that—
+      - **(i)** is located in a State with a State dam safety program;
+      - **(ii)** is classified as “high hazard potential” by the State dam safety agency in the State in which the dam is located;
+      - **(iii)** has an emergency action plan that—
+        - **(I)** is approved by the relevant State dam safety agency; or
+        - **(II)** is in conformance with State law and pending approval by the relevant State dam safety agency;
+      - **(iv)** fails to meet minimum dam safety standards of the State in which the dam is located, as determined by the State; and
+      - **(v)** poses an unacceptable risk to the public, as determined by the Administrator, in consultation with the Board.
+    - **(B)** The term “eligible high hazard potential dam” does not include—
+      - **(i)** a licensed hydroelectric dam under a hydropower project with an authorized installed capacity of greater than 1.5 megawatts; or
+      - **(ii)** a dam built under the authority of the Secretary of Agriculture.
+  - **(5)** The term “Federal agency” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.
+  - **(6)** The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
+  - **(7)** The term “FEMA” means the Federal Emergency Management Agency.
+  - **(8)** The term “hazard reduction” means the reduction in the potential consequences to life and property of dam failure.
+  - **(9)** The term “ICODS” means the Interagency Committee on Dam Safety established by section 467e of this title .
+  - **(10)** The term “eligible subrecipient”, in the case of a project receiving assistance under section 467f–2 of this title , includes—
+    - **(A)** a governmental organization; and
+    - **(B)** a nonprofit organization.
+  - **(11)** The term “Program” means the national dam safety program established under section 467f of this title .
+  - **(12)** The term “rehabilitation” means the repair, replacement, reconstruction, or removal of a dam that is carried out to meet applicable State dam safety and security standards.
+  - **(13)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+  - **(14)** The term “State dam safety agency” means a State agency that has regulatory authority over the safety of non-Federal dams.
+  - **(15)** The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(e) of this title .
+  - **(16)** The term “United States”, when used in a geographical sense, means all of the States.

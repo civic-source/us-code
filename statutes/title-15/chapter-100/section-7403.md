@@ -3,9 +3,9 @@ title: "Section 7403 - National Science Foundation research"
 usc_title: 15
 usc_section: "7403"
 chapter: 100
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 7403"
-generated_at: "2026-03-29T19:27:55.605Z"
+generated_at: "2026-03-29T19:44:42.941Z"
 ---
 
 # § 7403. National Science Foundation research
@@ -34,8 +34,10 @@ generated_at: "2026-03-29T19:27:55.605Z"
       - **(iv)** supports privacy in conjunction with improved security;
     - **(M)** monitoring and detection;
     - **(N)** mitigation and rapid recovery methods;
-    - **(O)** security of wireless networks and mobile devices; and
-    - **(P)** security of cloud infrastructure and services.
+    - **(O)** security of wireless networks and mobile devices;
+    - **(P)** security of cloud infrastructure and services;
+    - **(Q)** security of election-dedicated voting system software and hardware; and
+    - **(R)** role of the human factor in cybersecurity and the interplay of computers and humans and the physical world.
   - **(2)** Grants shall be awarded under this section on a merit-reviewed competitive basis.
   - **(3)** There are authorized to be appropriated to the National Science Foundation to carry out this subsection—
     - **(A)** $35,000,000 for fiscal year 2003;
@@ -63,7 +65,7 @@ generated_at: "2026-03-29T19:27:55.605Z"
     - **(H)** the applicant’s affiliation with existing research programs of the Federal Government;
     - **(I)** the applicant’s experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;
     - **(J)** the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
-    - **(K)** the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and high-performance computing, nanotechnology, or industrial control systems.
+    - **(K)** the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and networking and information technology, nanotechnology, or industrial control systems.
   - **(6)** The Director shall convene an annual meeting of the Centers in order to foster collaboration and communication between Center participants.
   - **(7)** There are authorized to be appropriated for the National Science Foundation to carry out this subsection—
     - **(A)** $12,000,000 for fiscal year 2003;

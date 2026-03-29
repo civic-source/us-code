@@ -3,9 +3,9 @@ title: "Section 544a - Consumer electronics equipment compatibility"
 usc_title: 47
 usc_section: "544a"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 544a"
-generated_at: "2026-03-29T19:32:13.804Z"
+generated_at: "2026-03-29T19:44:37.226Z"
 ---
 
 # § 544a. Consumer electronics equipment compatibility
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:32:13.804Z"
   - **(3)** cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders; and
   - **(4)** compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards that mandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
 - **(b)**
-  - **(1)** Within 1 year after October 5, 1992 , the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders. Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.
+  - **(1)** The Commission shall issue such regulations as are necessary to assure compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders.
   - **(2)** In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers’ television receivers or video cassette recorders.
 - **(c)**
   - **(1)** In prescribing the regulations required by this section, the Commission shall consider—

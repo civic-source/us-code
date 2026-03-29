@@ -3,9 +3,9 @@ title: "Section 959 - Possession, manufacture, or distribution of controlled sub
 usc_title: 21
 usc_section: "959"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 959"
-generated_at: "2026-03-29T19:29:50.488Z"
+generated_at: "2026-03-29T19:41:41.720Z"
 ---
 
 # § 959. Possession, manufacture, or distribution of controlled substance
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T19:29:50.488Z"
 - **(c)** It shall be unlawful for any United States citizen on board any aircraft, or any person on board an aircraft owned by a United States citizen or registered in the United States, to—
   - **(1)** manufacture or distribute a controlled substance or listed chemical; or
   - **(2)** possess a controlled substance or listed chemical with intent to distribute.
-- **(d)** This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
+- **(d)** This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States.

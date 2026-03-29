@@ -3,9 +3,9 @@ title: "Section 403 - Taxation of employee annuities"
 usc_title: 26
 usc_section: "403"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 403"
-generated_at: "2026-03-29T19:30:19.794Z"
+generated_at: "2026-03-29T19:42:47.635Z"
 ---
 
 # § 403. Taxation of employee annuities
@@ -41,9 +41,15 @@ generated_at: "2026-03-29T19:30:19.794Z"
   - **(5)** If for any taxable year of the employee this subsection applies to 2 or more annuity contracts purchased by the employer, such contracts shall be treated as one contract.
   - **[(6)**
   - **(7)**
-    - **(A)** For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if—
-      - **(i)** the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
-      - **(ii)** under the custodial account no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before the employee dies, attains age 59½, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
+    - **(A)** For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—
+      - **(i)** no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before—
+        - **(I)** the employee dies,
+        - **(II)** the employee attains age 59½,
+        - **(III)** the employee has a severance from employment,
+        - **(IV)** the employee becomes disabled (within the meaning of section 72(m)(7)),
+        - **(V)** in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), the employee encounters financial hardship, or
+        - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+      - **(ii)** in the case of amounts described in clause (i)(VI), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
     - **(B)** For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
     - **(C)** For purposes of this paragraph, the term “regulated investment company” means a domestic corporation which is a regulated investment company within the meaning of section 851(a).
   - **(8)**
@@ -56,12 +62,15 @@ generated_at: "2026-03-29T19:30:19.794Z"
     - **(A)** For purposes of this title—
       - **(i)** a retirement income account shall be treated as an annuity contract described in this subsection, and
       - **(ii)** amounts paid by an employer described in paragraph (1)(A) to a retirement income account shall be treated as amounts contributed by the employer for an annuity contract for the employee on whose behalf such account is maintained.
-    - **(B)** For purposes of this paragraph, the term “retirement income account” means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) or his beneficiaries.
+    - **(B)** For purposes of this paragraph, the term “retirement income account” means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) (including an employee described in section 414(e)(3)(B)) or his beneficiaries.
   - **(10)** Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
   - **(11)** This subsection shall not apply to any annuity contract unless under such contract distributions attributable to contributions made pursuant to a salary reduction agreement (within the meaning of section 402(g)(3)(C)) may be paid only—
     - **(A)** when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
-    - **(B)** in the case of hardship, or
-    - **(C)** for distributions to which section 72(t)(2)(G) applies.
+    - **(B)** in the case of hardship,
+    - **(C)** for distributions to which section 72(t)(2)(G) applies, or
+    - **(D)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii))—
+      - **(i)** on or after the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+      - **(ii)** in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
   - **(12)**
     - **(A)** For purposes of paragraph (1)(D), a plan meets the nondiscrimination requirements of this paragraph if—
       - **(i)** with respect to contributions not made pursuant to a salary reduction agreement, such plan meets the requirements of paragraphs (4), (5), (17), and (26) of section 401(a), section 401(m), and section 410(b) in the same manner as if such plan were described in section 401(a), and

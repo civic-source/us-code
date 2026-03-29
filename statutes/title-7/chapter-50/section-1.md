@@ -1,24 +1,19 @@
 ---
-title: "Section 1 - Definitions"
+title: "Section 1 - Purposes"
 usc_title: 7
 usc_section: "1"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T19:27:31.820Z"
+generated_at: "2026-03-29T19:43:58.217Z"
 ---
 
-# § 2009dd–1. Definitions
+# § 2009cc–1. Purposes
 
-In this subchapter:
+The purposes of the Rural Business Investment Program established under this subchapter are—
 
-  - **(1)** The term “benchmark” means an annual set of goals and performance measures established for the purpose of assessing performance in meeting a regional investment strategy of a Regional Board.
-  - **(2)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
-  - **(3)** The term “National Board” means the National Rural Investment Board established under section 2009dd–2(c) of this title .
-  - **(4)** The term “National Institute” means the National Institute on Regional Rural Competitiveness and Entrepreneurship established under section 2009dd–2(b)(2) of this title .
-  - **(5)** The term “Regional Board” means a Regional Rural Investment Board described in section 2009dd–3(a) of this title .
-  - **(6)** The term “regional innovation grant” means a grant made by the Secretary to a certified Regional Board under section 2009dd–5 of this title .
-  - **(7)** The term “regional investment strategy grant” means a grant made by the Secretary to a certified Regional Board under section 2009dd–4 of this title .
-  - **(8)**
-    - **(A)** The term “rural heritage” means historic sites, structures, and districts.
-    - **(B)** The term “rural heritage” includes historic rural downtown areas and main streets, neighborhoods, farmsteads, scenic and historic trails, heritage areas, and historic landscapes.
+  - **(1)** to promote economic development and the creation of wealth and job opportunities in rural areas and among individuals living in those areas by encouraging developmental capital investments in smaller enterprises primarily located in rural areas; and
+  - **(2)** to establish a developmental capital program, with the mission of addressing the unmet equity investment needs of small enterprises located in rural areas, by authorizing the Secretary—
+    - **(A)** to enter into participation agreements with rural business investment companies;
+    - **(B)** to guarantee debentures of rural business investment companies to enable each rural business investment company to make developmental capital investments in smaller enterprises in rural areas; and
+    - **(C)** to make grants to rural business investment companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by rural business investment companies.

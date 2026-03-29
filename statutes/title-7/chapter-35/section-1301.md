@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 7
 usc_section: "1301"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1301"
-generated_at: "2026-03-29T19:27:31.712Z"
+generated_at: "2026-03-29T19:43:58.090Z"
 ---
 
 # § 1301. Definitions
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T19:27:31.712Z"
     - **(C)** “Normal year’s domestic consumption”, in the case of rice, shall be the yearly average quantity of rice produced in the United States that was consumed in the United States during the five marketing years immediately preceding the marketing year in which such consumption is determined, adjusted for current trends in such consumption.
   - **(12)** “Normal year’s exports” in the case of corn, cotton, rice, and wheat shall be the yearly average quantity of the commodity produced in the United States that was exported from the United States during the ten marketing years (or, in the case of rice, the five marketing years) immediately preceding the marketing year in which such exports are determined, adjusted for current trends in such exports.
   - **(13)**
-    - **(A)** Repealed. Pub. L. 87–703, title III , § 320(1), Sept. 27, 1962 , 76 Stat. 625 .
+    - **(A)** Repealed. Pub. L. 87–703, title III, § 320(1) , Sept. 27, 1962 , 76 Stat. 625 .
     - **(B)** “Normal yield” for any county, in the case of peanuts, shall be the average yield per acre of peanuts for the county, adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State.
     - **(C)** In applying subparagraph (A) or (B) of this paragraph, if for any such year the data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, shall be used as the actual yield for such year. In applying such subparagraphs, if, on account of drought, flood, insect pests, plant disease, or other uncontrollable natural cause, the yield in any year of such ten-year period or five-year period, as the case may be, is less than 75 per centum of the average (computed without regard to such year) such year shall be eliminated in calculating the normal yield per acre.
     - **(D)** “Normal yield” for any county, in the case of rice and wheat, shall be the average yield per acre of rice or wheat, as the case may be, for the county during the five calendar years immediately preceding the year for which such normal yield is determined in the case of rice, or during the five years immediately preceding the year in which such normal yield is determined in the case of wheat, adjusted for abnormal weather conditions and for trends in yields. If for any such year data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, taking into consideration the yields obtained in surrounding counties during such year and the yield in years for which data are available, shall be used as the actual yield for such year.

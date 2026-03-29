@@ -1,61 +1,40 @@
 ---
-title: "Section 482 - Quarterly reports: personnel and unit readiness"
+title: "Section 482 - Readiness reports"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-29T19:27:25.442Z"
+generated_at: "2026-03-29T19:43:37.813Z"
 ---
 
-# § 482. Quarterly reports: personnel and unit readiness
+# § 482. Readiness reports
 
-- **(a)** Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. Each report shall contain the information required by subsections (b), (d), (e), (f), (g), (h), and (i).
-- **(b)** Each report shall specifically describe—
-  - **(1)** each readiness problem and deficiency identified using the assessments considered under subsection (c);
-  - **(2)** planned remedial actions; and
-  - **(3)** the key indicators and other relevant information related to each identified problem and deficiency.
+- **(a)**
+  - **(1)** Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
+  - **(2)** Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components.
+  - **(3)** Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.
+- **(b)** The elements described in this subsection are each of the following:
+  - **(1)** A description of each readiness problem or deficiency that affects the ground, sea, air, space, cyber, or special operations forces, and any other area determined appropriate by the Secretary of Defense.
+  - **(2)** The key contributing factors, indicators, and other relevant information related to each identified problem or deficiency.
+  - **(3)** The short-term mitigation strategy the Department will employ to address each readiness problem or deficiency until a resolution is in place, as well as the timeline, cost, and any legislative remedies required to support the resolution.
+  - **(4)** A summary of combat readiness ratings for the key force elements assessed, including specific information on personnel, supply, equipment, and training problems or deficiencies that affect the combat readiness ratings for each force element.
+  - **(5)** A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade.
+  - **(6)** A summary of the readiness of supporting capabilities, including infrastructure, prepositioned equipment and supplies, and mobility assets, and other supporting logistics capabilities.
+  - **(7)** A summary of the readiness of the combat support and related agencies, any readiness problem or deficiency affecting any mission essential tasks of any such agency, and actions recommended to address any such problem or deficiency.
+  - **(8)** A list of all Class A, Class B, and Class C mishaps that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
+  - **(9)** Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
+  - **(10)** Information regarding the extent to which any member of the armed forces is assigned or detailed outside the member’s unit or away from training in order to perform any function that had previously been performed by civilian employees of the Federal Government.
+  - **(11)** Such other information as determined necessary or appropriate by the Secretary of Defense.
 - **(c)** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
   - **(1)** to any council, committee, or other body of the Department of Defense—
     - **(A)** that has responsibility for readiness oversight; and
     - **(B)** whose membership includes at least one civilian officer in the Office of the Secretary of Defense at the level of Assistant Secretary of Defense or higher;
   - **(2)** by senior civilian and military officers of the military departments and the commanders of the unified and specified commands; and
   - **(3)** as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
-- **(d)** Each report shall also include a military department-level or agency-level assessment of the readiness of prepositioned stocks, including—
-  - **(1)** an assessment of the fill and materiel readiness of stocks by geographic location;
-  - **(2)** an overall assessment by military department or Defense Agency of the ability of the respective stocks to meet operation and contingency plans; and
-  - **(3)** a mitigation plan for any shortfalls or gaps identified under paragraph (1) or (2) and a timeline associated with corrective action.
-- **(e)**
-  - **(1)** Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Framework for support to civil authorities.
-  - **(2)** Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
-  - **(3)** The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State’s National Guard, which the Secretary shall include with each assessment submitted under this subsection.
-- **(f)**
-  - **(1)** Each report shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
-  - **(2)** For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
-  - **(3)** The assessment included in the report under paragraph (1) by the Commander of the United States Strategic Command shall include a separate assessment prepared by the Commander of United States Cyber Command relating to the readiness of United States Cyber Command and the readiness of the cyber force of each of the military departments.
-- **(g)** Each report shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
-- **(h)**
-  - **(1)** Each report shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—
-    - **(A)** a determination with respect to the responsiveness and readiness of the agency to support operating forces in the event of a war or threat to national security, including—
-      - **(i)** a list of mission essential tasks and an assessment of the ability of the agency to successfully perform those tasks;
-      - **(ii)** an assessment of how the ability of the agency to accomplish the tasks referred to in subparagraph (A) affects the ability of the military departments and the unified and geographic combatant commands to execute operations and contingency plans by number;
-      - **(iii)** any readiness deficiencies and actions recommended to address such deficiencies; and
-      - **(iv)** key indicators and other relevant information related to any deficiency or other problem identified;
-    - **(B)** any recommendations that the Secretary considers appropriate.
-  - **(2)** In this subsection, the term “combat support and related agencies” means any of the following Defense Agencies:
-    - **(A)** The Defense Information Systems Agency.
-    - **(B)** The Defense Intelligence Agency.
-    - **(C)** The Defense Logistics Agency.
-    - **(D)** The National Geospatial-Intelligence Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense).
-    - **(E)** The Defense Contract Management Agency.
-    - **(F)** The Defense Threat Reduction Agency.
-    - **(G)** The National Reconnaissance Office.
-    - **(H)** The National Security Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense) and Central Security Service.
-    - **(I)** Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
-- **(i)**
-  - **(1)** Each report under this section shall also include information on each major exercise conducted by a geographic or functional combatant command or military department, including—
-    - **(A)** a list of exercises by name for the period covered by the report;
-    - **(B)** the cost and location of each such exercise; and
-    - **(C)** a list of participants by country or military department.
-  - **(2)** In this subsection, the term “major exercise” means a named major training event, an integrated or joint exercise, or a unilateral major exercise.
-- **(j)** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
+- **(d)**
+  - **(1)** Not later than 30 days after the last day of the first and third quarter of each calendar year, the Chairman of the Joint Chiefs of Staff shall submit to Congress a written report on the capability of the armed forces, the combat support and related agencies, operational contract support, and the geographic and functional combatant commands to execute their wartime missions based upon their posture and readiness as of the time the review is conducted.
+  - **(2)** The Chairman shall produce the report required under this subsection using information derived from the quarterly reports required by subsection (a).
+  - **(3)** Each report required by this subsection shall include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, sea, air, space, cyber, and special operations forces.
+  - **(4)** The Chairman shall submit to the Secretary of Defense a copy of each report under this subsection.
+- **(e)** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.

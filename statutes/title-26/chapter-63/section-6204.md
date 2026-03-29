@@ -3,9 +3,9 @@ title: "Section 6204 - Supplemental assessments"
 usc_title: 26
 usc_section: "6204"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6204"
-generated_at: "2026-03-29T19:30:20.180Z"
+generated_at: "2026-03-29T19:42:47.967Z"
 ---
 
 # § 6204. Supplemental assessments

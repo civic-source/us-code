@@ -1,17 +1,12 @@
 ---
-title: "Section 2149a - Reports by merged banks for cooperatives"
+title: "Section 2149a - Repealed. Pub. L. 115–334, title V, § 5411(16) , Dec. 20, 2018 , 132 Stat. 4680"
 usc_title: 12
 usc_section: "2149a"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 2149a"
-generated_at: "2026-03-29T19:28:17.728Z"
+generated_at: "2026-03-29T19:44:54.193Z"
 ---
 
-# § 2149a. Reports by merged banks for cooperatives
+# § 2149a. Repealed. Pub. L. 115–334, title V, § 5411(16) , Dec. 20, 2018 , 132 Stat. 4680
 
-- **(a)** When two or more banks for cooperatives merge, the resulting bank shall, not later than December 31 of each year of the succeeding 5 years following the date of the merger, file an annual report with the Farm Credit Administration that—
-  - **(1)** analyzes the effect of the merger;
-  - **(2)** includes a breakdown of loans outstanding according to the size of the cooperative stockholders of the bank; and
-  - **(3)** describes the adequacy of credit and other assistance services provided to smaller cooperatives.
-- **(b)** A copy of the report required in subsection (a) shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.

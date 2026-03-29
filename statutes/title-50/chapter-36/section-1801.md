@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 50
 usc_section: "1801"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 1801"
-generated_at: "2026-03-29T19:32:24.108Z"
+generated_at: "2026-03-29T19:44:52.761Z"
 ---
 
 # § 1801. Definitions
@@ -24,7 +24,7 @@ As used in this subchapter:
   - **(1)** any person other than a United States person, who—
     - **(A)** acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4), irrespective of whether the person is inside the United States;
     - **(B)** acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
-    - **(C)** engages in international terrorism or activities in preparation therefore;
+    - **(C)** Omitted
     - **(D)** engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
     - **(E)** engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor, for or on behalf of a foreign power, or knowingly aids or abets any person in the conduct of such proliferation or activities in preparation therefor, or knowingly conspires with any person to engage in such proliferation or activities in preparation therefor; or
   - **(2)** any person who—

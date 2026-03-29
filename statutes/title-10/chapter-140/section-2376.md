@@ -1,17 +1,12 @@
 ---
-title: "Section 2376 - Definitions"
+title: "Section 2376 - Renumbered § 3451]"
 usc_title: 10
 usc_section: "2376"
 chapter: 140
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2376"
-generated_at: "2026-03-29T19:27:25.599Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# § 2376. Definitions
+# [§ 2376. Renumbered § 3451]
 
-In this chapter:
-
-  - **(1)** The terms “commercial item”, “nondevelopmental item”, “component”, and “commercial component” have the meanings provided in chapter 1 of title 41.
-  - **(2)** The term “head of an agency” means the Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
-  - **(3)** The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.

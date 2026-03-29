@@ -3,22 +3,22 @@ title: "Section 44904 - Domestic air transportation system security"
 usc_title: 49
 usc_section: "44904"
 chapter: 449
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44904"
-generated_at: "2026-03-29T19:32:28.885Z"
+generated_at: "2026-03-29T19:44:58.009Z"
 ---
 
 # § 44904. Domestic air transportation system security
 
-- **(a)** The Under Secretary of Transportation for Security and the Director of the Federal Bureau of Investigation jointly shall assess current and potential threats to the domestic air transportation system. The assessment shall include consideration of the extent to which there are individuals with the capability and intent to carry out terrorist or related unlawful acts against that system and the ways in which those individuals might carry out those acts. The Under Secretary and the Director jointly shall decide on and carry out the most effective method for continuous analysis and monitoring of security threats to that system.
-- **(b)** In coordination with the Director, the Under Secretary shall carry out periodic threat and vulnerability assessments on security at each airport that is part of the domestic air transportation system. Each assessment shall include consideration of—
+- **(a)** The Administrator of the Transportation Security Administration and the Director of the Federal Bureau of Investigation jointly shall assess current and potential threats to the domestic air transportation system. The assessment shall include consideration of the extent to which there are individuals with the capability and intent to carry out terrorist or related unlawful acts against that system and the ways in which those individuals might carry out those acts. The Administrator of the Transportation Security Administration and the Director jointly shall decide on and carry out the most effective method for continuous analysis and monitoring of security threats to that system.
+- **(b)** In coordination with the Director, the Administrator of the Transportation Security Administration shall carry out periodic threat and vulnerability assessments on security at each airport that is part of the domestic air transportation system. Each assessment shall include consideration of—
   - **(1)** the adequacy of security procedures related to the handling and transportation of checked baggage and cargo;
   - **(2)** space requirements for security personnel and equipment;
   - **(3)** separation of screened and unscreened passengers, baggage, and cargo;
   - **(4)** separation of the controlled and uncontrolled areas of airport facilities; and
   - **(5)** coordination of the activities of security personnel of the Transportation Security Administration, the United States Customs Service, the Immigration and Naturalization Service, and air carriers, and of other law enforcement personnel.
-- **(c)** In addition to the requirements set forth in subparagraphs (B) through (F) of section 114(t)(3), 1 1 See References in Text note below. the modal security plan for aviation prepared under section 114(t) 1 shall—
+- **(c)** In addition to the requirements set forth in subparagraphs (B) through (F) of section 114(s)(3), the modal security plan for aviation prepared under section 114(s) shall—
   - **(1)** establish a damage mitigation and recovery plan for the aviation system in the event of a terrorist attack; and
   - **(2)** include a threat matrix document that outlines each threat to the United States civil aviation system and the corresponding layers of security in place to address such threat.
-- **(d)** Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A), 1 the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(t)(1) 1 and shall approve best practices guidelines for airport assets.
-- **(e)** The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
+- **(d)** The Administrator of the Transportation Security Administration shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(s)(1) and shall approve best practices guidelines for airport assets.
+- **(e)** The Administrator of the Transportation Security Administration shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.

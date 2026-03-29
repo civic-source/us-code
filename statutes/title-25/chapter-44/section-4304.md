@@ -3,16 +3,16 @@ title: "Section 4304 - Native American trade and export promotion"
 usc_title: 25
 usc_section: "4304"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 4304"
-generated_at: "2026-03-29T19:29:34.887Z"
+generated_at: "2026-03-29T19:41:28.481Z"
 ---
 
 # § 4304. Native American trade and export promotion
 
 - **(a)** The Secretary, acting through the Director, shall carry out a Native American export and trade promotion program (referred to in this section as the “program”).
 - **(b)** In carrying out the program, the Secretary, acting through the Director, and in cooperation with the heads of appropriate Federal agencies, shall ensure the coordination of Federal programs and services designed to—
-  - **(1)** develop the economies of Indian tribes; and
+  - **(1)** develop the economies of Indian Tribes; and
   - **(2)** stimulate the demand for Indian goods and services that are available from eligible entities.
 - **(c)** In carrying out the duties described in subsection (b), the Secretary, acting through the Director, shall ensure the coordination of, or, as appropriate, carry out—
   - **(1)** Federal programs designed to provide technical or financial assistance to eligible entities;

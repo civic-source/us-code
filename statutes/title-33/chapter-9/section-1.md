@@ -3,9 +3,9 @@ title: "Section 1 - Dam safety training"
 usc_title: 33
 usc_section: "1"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-29T19:30:28.715Z"
+generated_at: "2026-03-29T19:43:07.563Z"
 ---
 
 # § 467g–1. Dam safety training

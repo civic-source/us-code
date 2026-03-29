@@ -3,9 +3,9 @@ title: "Section 549 - Lighthouse and other sites; necessity and sufficiency of c
 usc_title: 14
 usc_section: "549"
 chapter: 5
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 549"
-generated_at: "2026-03-29T18:48:09.814Z"
+generated_at: "2026-03-29T19:45:04.299Z"
 ---
 
 # § 549. Lighthouse and other sites; necessity and sufficiency of cession by State of jurisdiction

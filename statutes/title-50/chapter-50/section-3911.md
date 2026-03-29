@@ -3,9 +3,9 @@ title: "Section 3911 - Definitions"
 usc_title: 50
 usc_section: "3911"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3911"
-generated_at: "2026-03-29T19:32:24.268Z"
+generated_at: "2026-03-29T19:44:52.891Z"
 ---
 
 # § 3911. Definitions
@@ -32,5 +32,5 @@ For the purposes of this chapter:
     - **(A)** with respect to a member of the armed forces, has the meaning given that term in section 101(a)(9) of title 10 ;
     - **(B)** with respect to a commissioned officer of the Public Health Service, means the Secretary of Health and Human Services; and
     - **(C)** with respect to a commissioned officer of the National Oceanic and Atmospheric Administration, means the Secretary of Commerce.
-  - **(8)** The term “motor vehicle” has the meaning given that term in section 30102(a)(6) of title 49 .
+  - **(8)** The term “motor vehicle” has the meaning given that term in section 30102(a)(6) of title 49 . 1 1 See References in Text note below.
   - **(9)** The term “judgment” means any judgment, decree, order, or ruling, final or temporary.

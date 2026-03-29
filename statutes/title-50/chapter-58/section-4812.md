@@ -3,9 +3,9 @@ title: "Section 4812 - Authority of the President"
 usc_title: 50
 usc_section: "4812"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4812"
-generated_at: "2026-03-29T02:16:14.854Z"
+generated_at: "2026-03-29T19:44:52.932Z"
 ---
 
 # § 4812. Authority of the President
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:16:14.854Z"
     - **(C)** chemical or biological weapons;
     - **(D)** whole plants for chemical weapons precursors;
     - **(E)** foreign maritime nuclear projects; and
-    - **(F)** foreign military, security, or intelligence services.
+    - **(F)** foreign military intelligence services.
 - **(b)** In exercising authority under this subchapter to carry out the policy set forth in paragraphs (1) through (10) of section 4811 of this title , the President shall—
   - **(1)** regulate the export, reexport, and in-country transfer of items described in subsection (a)(1) of United States persons or foreign persons;
   - **(2)** regulate the activities described in subsection (a)(2) of United States persons, wherever located;

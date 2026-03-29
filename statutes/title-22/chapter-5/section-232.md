@@ -1,12 +1,12 @@
 ---
-title: "Section 232 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948"
+title: "Section 232 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948"
 usc_title: 22
 usc_section: "232"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 232"
-generated_at: "2026-03-29T19:29:46.640Z"
+generated_at: "2026-03-29T19:42:07.926Z"
 ---
 
-# §§ 231, 232. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948
+# §§ 231, 232. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948
 

@@ -3,9 +3,9 @@ title: "Section 501 - Services for executive agencies"
 usc_title: 40
 usc_section: "501"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 501"
-generated_at: "2026-03-29T19:30:36.675Z"
+generated_at: "2026-03-29T19:43:21.238Z"
 ---
 
 # § 501. Services for executive agencies
@@ -22,7 +22,11 @@ generated_at: "2026-03-29T19:30:36.675Z"
   - **(2)**
     - **(A)** The Administrator of General Services shall prescribe policies and methods for executive agencies regarding the procurement and supply of personal property and nonpersonal services and related functions.
     - **(B)** Policies and methods prescribed by the Administrator of General Services under this paragraph are subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
-- **(c)** For transportation and other public utility services used by executive agencies, the Administrator of General Services shall represent the agencies—
-  - **(1)** in negotiations with carriers and other public utilities; and
-  - **(2)** in proceedings involving carriers or other public utilities before federal and state regulatory bodies.
+- **(c)**
+  - **(1)** For transportation and other public utility services used by executive agencies, the Administrator of General Services shall represent the agencies—
+    - **(A)** in negotiations with carriers and other public utilities; and
+    - **(B)** in proceedings involving carriers or other public utilities before federal and state regulatory bodies.
+  - **(2)** Prior to representing any installation of the Department of Defense in any proceeding under this subsection, the Administrator or any persons or entities acting on behalf of the Administrator shall—
+    - **(A)** notify the senior mission commander of the installation; and
+    - **(B)** solicit and represent the interests of the installation as determined by the installation’s senior mission commander.
 - **(d)** The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.

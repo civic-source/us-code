@@ -1,42 +1,117 @@
 ---
-title: "Section 45Q - Credit for carbon dioxide sequestration"
+title: "Section 45Q - Credit for carbon oxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-29T19:30:19.663Z"
+generated_at: "2026-03-29T19:42:47.510Z"
 ---
 
-# § 45Q. Credit for carbon dioxide sequestration
+# § 45Q. Credit for carbon oxide sequestration
 
-- **(a)** For purposes of section 38, the carbon dioxide sequestration credit for any taxable year is an amount equal to the sum of—
-  - **(1)** $20 per metric ton of qualified carbon dioxide which is—
-    - **(A)** captured by the taxpayer at a qualified facility, and
-    - **(B)** disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (2)(B), and
-  - **(2)** $10 per metric ton of qualified carbon dioxide which is—
-    - **(A)** captured by the taxpayer at a qualified facility,
-    - **(B)** used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project, and
-    - **(C)** disposed of by the taxpayer in secure geological storage.
-- **(b)** For purposes of this section—
-  - **(1)** The term “qualified carbon dioxide” means carbon dioxide captured from an industrial source which—
-    - **(A)** would otherwise be released into the atmosphere as industrial emission of greenhouse gas, and
-    - **(B)** is measured at the source of capture and verified at the point of disposal or injection.
-  - **(2)** The term “qualified carbon dioxide” includes the initial deposit of captured carbon dioxide used as a tertiary injectant. Such term does not include carbon dioxide that is re-captured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.
-- **(c)** For purposes of this section, the term “qualified facility” means any industrial facility—
-  - **(1)** which is owned by the taxpayer,
-  - **(2)** at which carbon capture equipment is placed in service, and
-  - **(3)** which captures not less than 500,000 metric tons of carbon dioxide during the taxable year.
-- **(d)** For purposes of this section—
-  - **(1)** The credit under this section shall apply only with respect to qualified carbon dioxide the capture and disposal or use of which is within—
+- **(a)** For purposes of section 38, the carbon oxide sequestration credit for any taxable year is an amount equal to the sum of—
+  - **(1)** $20 per metric ton of qualified carbon oxide which is—
+    - **(A)** captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, and
+    - **(B)** disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (2)(B),
+  - **(2)** $10 per metric ton of qualified carbon oxide which is—
+    - **(A)** captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, and
+    - **(B)**
+      - **(i)** used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or
+      - **(ii)** utilized by the taxpayer in a manner described in subsection (f)(5),
+  - **(3)** the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is—
+    - **(A)** captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and
+    - **(B)** disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (4)(B), and
+  - **(4)** the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is—
+    - **(A)** captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and
+    - **(B)**
+      - **(i)** used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or
+      - **(ii)** utilized by the taxpayer in a manner described in subsection (f)(5).
+- **(b)**
+  - **(1)**
+    - **(A)** The applicable dollar amount shall be an amount equal to—
+      - **(i)** for any taxable year beginning in a calendar year after 2016 and before 2027—
+        - **(I)** for purposes of paragraph (3) of subsection (a), the dollar amount established by linear interpolation between $22.66 and $50 for each calendar year during such period, and
+        - **(II)** for purposes of paragraph (4) of such subsection, the dollar amount established by linear interpolation between $12.83 and $35 for each calendar year during such period, and
+      - **(ii)** for any taxable year beginning in a calendar year after 2026—
+        - **(I)** for purposes of paragraph (3) of subsection (a), an amount equal to the product of $50 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”, and
+        - **(II)** for purposes of paragraph (4) of such subsection, an amount equal to the product of $35 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”.
+    - **(B)** The applicable dollar amount determined under subparagraph (A) shall be rounded to the nearest cent.
+  - **(2)** In the case of a qualified facility placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, for which additional carbon capture equipment is placed in service on or after the date of the enactment of such Act, the amount of qualified carbon oxide which is captured by the taxpayer shall be equal to—
+    - **(A)** for purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the lesser of—
+      - **(i)** the total amount of qualified carbon oxide captured at such facility for the taxable year, or
+      - **(ii)** the total amount of the carbon dioxide capture capacity of the carbon capture equipment in service at such facility on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and
+    - **(B)** for purposes of paragraphs (3)(A) and (4)(A) of such subsection, an amount (not less than zero) equal to the excess of—
+      - **(i)** the amount described in clause (i) of subparagraph (A), over
+      - **(ii)** the amount described in clause (ii) of such subparagraph.
+  - **(3)** For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amounts applicable under paragraph (3) or (4) of such subsection for each metric ton of qualified carbon oxide which is captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018.
+- **(c)** For purposes of this section—
+  - **(1)** The term “qualified carbon oxide” means—
+    - **(A)** any carbon dioxide which—
+      - **(i)** is captured from an industrial source by carbon capture equipment which is originally placed in service before the date of the enactment of the Bipartisan Budget Act of 2018,
+      - **(ii)** would otherwise be released into the atmosphere as industrial emission of greenhouse gas or lead to such release, and
+      - **(iii)** is measured at the source of capture and verified at the point of disposal, injection, or utilization,
+    - **(B)** any carbon dioxide or other carbon oxide which—
+      - **(i)** is captured from an industrial source by carbon capture equipment which is originally placed in service on or after the date of the enactment of the Bipartisan Budget Act of 2018,
+      - **(ii)** would otherwise be released into the atmosphere as industrial emission of greenhouse gas or lead to such release, and
+      - **(iii)** is measured at the source of capture and verified at the point of disposal, injection, or utilization, or
+    - **(C)** in the case of a direct air capture facility, any carbon dioxide which—
+      - **(i)** is captured directly from the ambient air, and
+      - **(ii)** is measured at the source of capture and verified at the point of disposal, injection, or utilization.
+  - **(2)** The term “qualified carbon oxide” includes the initial deposit of captured carbon oxide used as a tertiary injectant. Such term does not include carbon oxide that is recaptured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.
+- **(d)** For purposes of this section, the term “qualified facility” means any industrial facility or direct air capture facility—
+  - **(1)** the construction of which begins before January 1, 2026 , and—
+    - **(A)** construction of carbon capture equipment begins before such date, or
+    - **(B)** the original planning and design for such facility includes installation of carbon capture equipment, and
+  - **(2)** which captures—
+    - **(A)** in the case of a facility which emits not more than 500,000 metric tons of carbon oxide into the atmosphere during the taxable year, not less than 25,000 metric tons of qualified carbon oxide during the taxable year which is utilized in a manner described in subsection (f)(5),
+    - **(B)** in the case of an electricity generating facility which is not described in subparagraph (A), not less than 500,000 metric tons of qualified carbon oxide during the taxable year, or
+    - **(C)** in the case of a direct air capture facility or any facility not described in subparagraph (A) or (B), not less than 100,000 metric tons of qualified carbon oxide during the taxable year.
+- **(e)** For purposes of this section—
+  - **(1)**
+    - **(A)** Subject to subparagraph (B), the term “direct air capture facility” means any facility which uses carbon capture equipment to capture carbon dioxide directly from the ambient air.
+    - **(B)** The term “direct air capture facility” shall not include any facility which captures carbon dioxide—
+      - **(i)** which is deliberately released from naturally occurring subsurface springs, or
+      - **(ii)** using natural photosynthesis.
+  - **(2)** The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
+  - **(3)** The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
+- **(f)**
+  - **(1)** The credit under this section shall apply only with respect to qualified carbon oxide the capture and disposal, use, or utilization of which is within—
     - **(A)** the United States (within the meaning of section 638(1)), or
     - **(B)** a possession of the United States (within the meaning of section 638(2)).
-  - **(2)** The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
-  - **(3)** The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
-  - **(4)** The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
-  - **(5)** Any credit under this section shall be attributable to the person that captures and physically or contractually ensures the disposal of or the use as a tertiary injectant of the qualified carbon dioxide, except to the extent provided in regulations prescribed by the Secretary.
-  - **(6)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any qualified carbon dioxide which ceases to be captured, disposed of, or used as a tertiary injectant in a manner consistent with the requirements of this section.
-  - **(7)** In the case of any taxable year beginning in a calendar year after 2009, there shall be substituted for each dollar amount contained in subsection (a) an amount equal to the product of—
+  - **(2)** The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of qualified carbon oxide under subsection (a) such that the qualified carbon oxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (B) or in any regulations prescribed by the Secretary, any credit under this section shall be attributable to—
+      - **(i)** in the case of qualified carbon oxide captured using carbon capture equipment which is originally placed in service at a qualified facility before the date of the enactment of the Bipartisan Budget Act of 2018, the person that captures and physically or contractually ensures the disposal, utilization, or use as a tertiary injectant of such qualified carbon oxide, and
+      - **(ii)** in the case of qualified carbon oxide captured using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, the person that owns the carbon capture equipment and physically or contractually ensures the capture and disposal, utilization, or use as a tertiary injectant of such qualified carbon oxide.
+    - **(B)** If the person described in subparagraph (A) makes an election under this subparagraph in such time and manner as the Secretary may prescribe by regulations, the credit under this section—
+      - **(i)** shall be allowable to the person that disposes of the qualified carbon oxide, utilizes the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant, and
+      - **(ii)** shall not be allowable to the person described in subparagraph (A).
+  - **(4)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any qualified carbon oxide which ceases to be captured, disposed of, or used as a tertiary injectant in a manner consistent with the requirements of this section.
+  - **(5)**
+    - **(A)** For purposes of this section, utilization of qualified carbon oxide means—
+      - **(i)** the fixation of such qualified carbon oxide through photosynthesis or chemosynthesis, such as through the growing of algae or bacteria,
+      - **(ii)** the chemical conversion of such qualified carbon oxide to a material or chemical compound in which such qualified carbon oxide is securely stored, or
+      - **(iii)** the use of such qualified carbon oxide for any other purpose for which a commercial market exists (with the exception of use as a tertiary injectant in a qualified enhanced oil or natural gas recovery project), as determined by the Secretary.
+    - **(B)**
+      - **(i)** For purposes of determining the amount of qualified carbon oxide utilized by the taxpayer under paragraph (2)(B)(ii) or (4)(B)(ii) of subsection (a), such amount shall be equal to the metric tons of qualified carbon oxide which the taxpayer demonstrates, based upon an analysis of lifecycle greenhouse gas emissions and subject to such requirements as the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines appropriate, were—
+        - **(I)** captured and permanently isolated from the atmosphere, or
+        - **(II)** displaced from being emitted into the atmosphere,
+      - **(ii)** For purposes of clause (i), the term “lifecycle greenhouse gas emissions” has the same meaning given such term under subparagraph (H) of section 211( o )(1) of the Clean Air Act ( 42 U.S.C. 7545 ( o )(1)), as in effect on the date of the enactment of the Bipartisan Budget Act of 2018, except that “product” shall be substituted for “fuel” each place it appears in such subparagraph.
+  - **(6)**
+    - **(A)** For purposes of this section, in the case of an applicable facility, for any taxable year in which such facility captures not less than 500,000 metric tons of qualified carbon oxide during the taxable year, the person described in paragraph (3)(A)(ii) may elect to have such facility, and any carbon capture equipment placed in service at such facility, deemed as having been placed in service on the date of the enactment of the Bipartisan Budget Act of 2018.
+    - **(B)** For purposes of this paragraph, the term “applicable facility” means a qualified facility—
+      - **(i)** which was placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, and
+      - **(ii)** for which no taxpayer claimed a credit under this section in regards to such facility for any taxable year ending before the date of the enactment of such Act.
+  - **(7)** In the case of any taxable year beginning in a calendar year after 2009, there shall be substituted for each dollar amount contained in paragraphs (1) and (2) of subsection (a) an amount equal to the product of—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
-- **(e)** The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
+  - **(3)** The amount of the credit determined under subsection (a) with respect to any project for any taxable year shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
+    - **(A)** the numerator of which is the sum, for the taxable year and all prior taxable years, of the proceeds from an issue described in section 142(a)(17) used to provide financing for the project the interest on which is exempt from tax under section 103, and
+    - **(B)** the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
+- **(g)** In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008 , a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
+  - **(1)** subsection (a) of this section, as in effect on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and
+  - **(2)** paragraphs (1) and (2) of subsection (a) of this section.
+- **(h)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to—
+  - **(1)** ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018, and
+  - **(2)** determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year.

@@ -3,15 +3,15 @@ title: "Section 2207b - Program metrics"
 usc_title: 7
 usc_section: "2207b"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2207b"
-generated_at: "2026-03-29T19:27:31.855Z"
+generated_at: "2026-03-29T19:43:58.254Z"
 ---
 
 # § 2207b. Program metrics
 
 - **(a)** The Secretary shall collect data regarding economic activities created through grants and loans, including any technical assistance provided as a component of the grant or loan program, and measure the short- and long-term viability of award recipients and any entities to whom those recipients provide assistance using award funds, under—
-  - **(1)** section 1632a of this title ;
+  - **(1)** section 1627c of this title ;
   - **(2)** section 940c(b)(2) of this title ; or
   - **(3)** section 310B(c), 310B(e), 310B(g), 310H, or 379E, or subtitle E, of the Consolidated Farm and Rural Development Act ( 7 U.S.C. 1932(c) , 1932(e), 1932(g), [1936b], 2008s, 2009 et seq.).
 - **(b)** The data collected under subsection (a) shall include information collected from recipients both during the award period and for a period of time, as determined by the Secretary, which is not less than 2 years after the award period ends.

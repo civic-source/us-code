@@ -3,9 +3,9 @@ title: "Section 410sss - Harriet Tubman Underground Railroad National Historical
 usc_title: 16
 usc_section: "410sss"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 410sss"
-generated_at: "2026-03-29T19:29:27.132Z"
+generated_at: "2026-03-29T19:41:13.384Z"
 ---
 
 # § 410sss. Harriet Tubman Underground Railroad National Historical Park, Maryland
@@ -56,5 +56,5 @@ generated_at: "2026-03-29T19:29:27.132Z"
     - **(B)** publish the draft general management plan on the internet and provide an opportunity for public comment on the plan.
   - **(4)** The Secretary shall coordinate the preparation and implementation of the management plan with—
     - **(A)** the Blackwater National Wildlife Refuge;
-    - **(B)** the Harriet Tubman National Historical Park established by section 410ttt(b)(1)(A) 1 of this title; and
+    - **(B)** the Harriet Tubman National Historical Park established by section 410ttt of this title ; and
     - **(C)** the National Underground Railroad Network to Freedom.

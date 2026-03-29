@@ -3,9 +3,9 @@ title: "Section 2483 - Commissary stores: use of appropriated funds to cover ope
 usc_title: 10
 usc_section: "2483"
 chapter: 147
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2483"
-generated_at: "2026-03-29T19:27:25.613Z"
+generated_at: "2026-03-29T19:43:37.986Z"
 ---
 
 # § 2483. Commissary stores: use of appropriated funds to cover operating expenses
@@ -18,4 +18,5 @@ generated_at: "2026-03-29T19:27:25.613Z"
   - **(4)** Operating supplies and services.
   - **(5)** Second destination transportation costs within or outside the United States.
   - **(6)** Any cost associated with above-store-level management or other indirect support of a commissary store or a central product processing facility, including equipment maintenance and information technology costs.
-- **(c)** Amounts appropriated to cover the expenses of operating the Defense Commissary Agency and the defense commissary system may be supplemented with additional funds from manufacturers’ coupon redemption fees, handling fees for tobacco products, and other amounts received as reimbursement for other support activities provided by commissary activities.
+  - **(7)** Advertising of commissary sales on materials available within commissary stores and at other on-base locations.
+- **(c)** Amounts appropriated to cover the expenses of operating the Defense Commissary Agency and the defense commissary system may be supplemented with additional funds from manufacturers’ coupon redemption fees, handling fees for tobacco products, and other amounts received as reimbursement for other support activities provided by commissary activities. Such appropriated amounts may also be supplemented with additional funds derived from improved management practices implemented pursuant to sections 2481(c)(3) and 2487(c) of this title and the variable pricing program implemented pursuant to section 2484(i) of this title .

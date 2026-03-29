@@ -3,9 +3,9 @@ title: "Section 13702 - Tariff requirement for certain transportation"
 usc_title: 49
 usc_section: "13702"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 13702"
-generated_at: "2026-03-29T19:32:28.773Z"
+generated_at: "2026-03-29T19:44:57.883Z"
 ---
 
 # § 13702. Tariff requirement for certain transportation

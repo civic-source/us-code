@@ -3,9 +3,9 @@ title: "Section 1325 - Confirmation of plan"
 usc_title: 11
 usc_section: "1325"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 1325"
-generated_at: "2026-03-29T19:28:02.034Z"
+generated_at: "2026-03-29T19:44:19.551Z"
 ---
 
 # § 1325. Confirmation of plan
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:28:02.034Z"
   - **(1)** If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
     - **(A)** the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or
     - **(B)** the plan provides that all of the debtor’s projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
-  - **(2)** For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+  - **(2)** For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19), child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
     - **(A)**
       - **(i)** for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
       - **(ii)** for charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to a qualified religious or charitable entity or organization (as defined in section 548(d)(4)) in an amount not to exceed 15 percent of gross income of the debtor for the year in which the contributions are made; and
@@ -42,13 +42,13 @@ generated_at: "2026-03-29T19:28:02.034Z"
   - **(3)** Amounts reasonably necessary to be expended under paragraph (2), other than subparagraph (A)(ii) of paragraph (2), shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
     - **(A)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
     - **(B)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
+    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 1 See Adjustment of Dollar Amounts notes below. per month for each individual in excess of 4.
   - **(4)** For purposes of this subsection, the “applicable commitment period”—
     - **(A)** subject to subparagraph (B), shall be—
       - **(i)** 3 years; or
       - **(ii)** not less than 5 years, if the current monthly income of the debtor and the debtor’s spouse combined, when multiplied by 12, is not less than—
         - **(I)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
         - **(II)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-        - **(III)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
+        - **(III)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4; and
     - **(B)** may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 - **(c)** After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.

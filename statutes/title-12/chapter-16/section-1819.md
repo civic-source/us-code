@@ -3,9 +3,9 @@ title: "Section 1819 - Corporate powers"
 usc_title: 12
 usc_section: "1819"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1819"
-generated_at: "2026-03-29T19:28:17.668Z"
+generated_at: "2026-03-29T19:44:54.126Z"
 ---
 
 # § 1819. Corporate powers

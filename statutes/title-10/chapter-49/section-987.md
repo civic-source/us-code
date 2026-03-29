@@ -3,9 +3,9 @@ title: "Section 987 - Terms of consumer credit extended to members and dependent
 usc_title: 10
 usc_section: "987"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 987"
-generated_at: "2026-03-29T19:27:25.489Z"
+generated_at: "2026-03-29T19:43:37.870Z"
 ---
 
 # § 987. Terms of consumer credit extended to members and dependents: limitations
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:27:25.489Z"
     - **(B)** permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
 - **(e)** It shall be unlawful for any creditor to extend consumer credit to a covered member or a dependent of such a member with respect to which—
   - **(1)** the creditor rolls over, renews, repays, refinances, or consolidates any consumer credit extended to the borrower by the same creditor with the proceeds of other credit extended to the same covered member or a dependent;
-  - **(2)** the borrower is required to waive the borrower’s right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act;
+  - **(2)** the borrower is required to waive the borrower’s right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act ( 50 U.S.C. 3901 et seq.);
   - **(3)** the creditor requires the borrower to submit to arbitration or imposes onerous legal notice provisions in the case of a dispute;
   - **(4)** the creditor demands unreasonable notice from the borrower as a condition for legal action;
   - **(5)** the creditor uses a check or other method of access to a deposit, savings, or other financial account maintained by the borrower, or the title of a vehicle as security for the obligation;
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T19:27:25.489Z"
       - **(i)** two years after the date of discovery by the plaintiff of the violation that is the basis for such liability; or
       - **(ii)** five years after the date on which the violation that is the basis for such liability occurs.
   - **(6)** The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act ( 15 U.S.C. 1607 ) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
-- **(g)** Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527). 1 1 See References in Text note below.
+- **(g)** Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act ( 50 U.S.C. 3937 ).
 - **(h)**
   - **(1)** The Secretary of Defense shall prescribe regulations to carry out this section.
   - **(2)** Such regulations shall establish the following:

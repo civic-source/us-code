@@ -3,9 +3,9 @@ title: "Section 409A - Inclusion in gross income of deferred compensation under 
 usc_title: 26
 usc_section: "409A"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 409A"
-generated_at: "2026-03-29T19:30:19.804Z"
+generated_at: "2026-03-29T19:42:47.643Z"
 ---
 
 # § 409A. Inclusion in gross income of deferred compensation under nonqualified deferred compensation plans
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T19:30:19.804Z"
       - **(i)** during any restricted period with respect to a single-employer defined benefit plan, assets are set aside or reserved (directly or indirectly) in a trust (or other arrangement as determined by the Secretary) or transferred to such a trust or other arrangement for purposes of paying deferred compensation of an applicable covered employee under a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor, or
       - **(ii)** a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor provides that assets will become restricted to the provision of benefits under the plan to an applicable covered employee in connection with such restricted period (or other similar financial measure determined by the Secretary) with respect to the defined benefit plan, or assets are so restricted,
     - **(B)** For purposes of this section, the term “restricted period” means, with respect to any plan described in subparagraph (A)—
-      - **(i)** any period during which the plan is in at-risk status (as defined in section 430(i)); 1 1 So in original. The semicolon probably should be a comma.
+      - **(i)** any period during which the plan is in at-risk status (as defined in section 430(i)),
       - **(ii)** any period the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, and
       - **(iii)** the 12-month period beginning on the date which is 6 months before the termination date of the plan if, as of the termination date, the plan is not sufficient for benefit liabilities (within the meaning of section 4041 of the Employee Retirement Income Security Act of 1974).
     - **(C)** If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect to any compensation required to be included in gross income by reason of this paragraph—
@@ -93,6 +93,7 @@ generated_at: "2026-03-29T19:30:19.804Z"
   - **(4)** The rights of a person to compensation are subject to a substantial risk of forfeiture if such person’s rights to such compensation are conditioned upon the future performance of substantial services by any individual.
   - **(5)** References to deferred compensation shall be treated as including references to income (whether actual or notional) attributable to such compensation or such income.
   - **(6)** Except as provided by the Secretary, rules similar to the rules of subsections (b) and (c) of section 414 shall apply.
+  - **(7)** An arrangement under which an employee may receive qualified stock (as defined in section 83(i)(2)) shall not be treated as a nonqualified deferred compensation plan with respect to such employee solely because of such employee’s election, or ability to make an election, to defer recognition of income under section 83(i).
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
   - **(1)** providing for the determination of amounts of deferral in the case of a nonqualified deferred compensation plan which is a defined benefit plan,
   - **(2)** relating to changes in the ownership and control of a corporation or assets of a corporation for purposes of subsection (a)(2)(A)(v),

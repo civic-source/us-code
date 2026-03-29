@@ -3,9 +3,9 @@ title: "Section 8903a - Additional health benefits plans"
 usc_title: 5
 usc_section: "8903a"
 chapter: 89
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8903a"
-generated_at: "2026-03-29T19:27:05.393Z"
+generated_at: "2026-03-29T19:43:20.462Z"
 ---
 
 # § 8903a. Additional health benefits plans

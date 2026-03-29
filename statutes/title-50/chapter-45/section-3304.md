@@ -3,16 +3,16 @@ title: "Section 3304 - Limitation on construction of facilities to be used prima
 usc_title: 50
 usc_section: "3304"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3304"
-generated_at: "2026-03-29T19:32:24.244Z"
+generated_at: "2026-03-29T19:44:52.853Z"
 ---
 
 # § 3304. Limitation on construction of facilities to be used primarily by intelligence community
 
 - **(a)**
   - **(1)** Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
-  - **(2)** In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+  - **(2)** In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $2,000,000 but less than $5,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $2,000,000, the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification to the intelligence committees specifically identifying such project.
 - **(b)**
   - **(1)** Notwithstanding subsection (a) but subject to paragraphs (2) and (3), a project for the construction of a facility to be used primarily by personnel of any component of the intelligence community may be carried out if the Secretary of Defense and the Director of National Intelligence jointly determine—
     - **(A)** that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and

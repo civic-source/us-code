@@ -3,9 +3,9 @@ title: "Section 1831z - Bi-annual FDIC survey and report on encouraging use of d
 usc_title: 12
 usc_section: "1831z"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1831z"
-generated_at: "2026-03-29T19:28:17.703Z"
+generated_at: "2026-03-29T19:44:54.169Z"
 ---
 
 # § 1831z. Bi-annual FDIC survey and report on encouraging use of depository institutions by the unbanked

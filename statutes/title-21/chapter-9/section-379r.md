@@ -3,9 +3,9 @@ title: "Section 379r - National uniformity for nonprescription drugs"
 usc_title: 21
 usc_section: "379r"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 379r"
-generated_at: "2026-03-29T19:29:50.434Z"
+generated_at: "2026-03-29T19:41:41.656Z"
 ---
 
 # § 379r. National uniformity for nonprescription drugs
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T19:29:50.434Z"
     - **(B)** any State or political subdivision requirement that a drug be dispensed only upon the prescription of a practitioner licensed by law to administer such drug.
   - **(2)** For purposes of subsection (a), a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
 - **(d)**
-  - **(1)** In the case of a drug described in subsection (a)(1) that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997 ) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
-    - **(A)** a regulation in effect with respect to the drug pursuant to a statute described in subsection (a)(2); or
+  - **(1)** In the case of a drug described in subsection (a)(1) that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997 ) or a final order under section 355h of this title by the Secretary establishing conditions under which the drug is generally recognized as safe and effective, subsection (a) shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
+    - **(A)** a regulation or order in effect with respect to the drug pursuant to a statute described in subsection (a)(2); or
     - **(B)** any other requirement in effect with respect to the drug pursuant to an amendment to such a statute made on or after November 21, 1997 .
   - **(2)** This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997 .
 - **(e)** Nothing in this section shall be construed to modify or otherwise affect any action or the liability of any person under the product liability law of any State.

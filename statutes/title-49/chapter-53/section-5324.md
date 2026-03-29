@@ -3,9 +3,9 @@ title: "Section 5324 - Public transportation emergency relief program"
 usc_title: 49
 usc_section: "5324"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 5324"
-generated_at: "2026-03-29T19:32:28.750Z"
+generated_at: "2026-03-29T19:44:57.857Z"
 ---
 
 # § 5324. Public transportation emergency relief program
@@ -37,3 +37,6 @@ generated_at: "2026-03-29T19:32:28.750Z"
   - **(3)** The Secretary may waive, in whole or part, the non-Federal share required under—
     - **(A)** paragraph (2); or
     - **(B)** section 5307 or 5311, in the case of a grant made available under section 5307 or 5311, respectively, to address an emergency.
+- **(f)** Before receiving a grant under this section following an emergency, an applicant shall—
+  - **(1)** submit to the Secretary documentation demonstrating proof of insurance required under Federal law for all structures related to the grant application; and
+  - **(2)** certify to the Secretary that the applicant has insurance required under State law for all structures related to the grant application.

@@ -1,14 +1,36 @@
 ---
-title: "Section 2914 - Energy conservation construction projects"
+title: "Section 2914 - Military construction projects for energy resilience, energy security, and energy conservation"
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-29T19:27:25.652Z"
+generated_at: "2026-03-29T19:43:38.027Z"
 ---
 
-# § 2914. Energy conservation construction projects
+# § 2914. Military construction projects for energy resilience, energy security, and energy conservation
 
-- **(a)** The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
-- **(b)** When a decision is made to carry out a project under this section, the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
+- **(a)** The Secretary of Defense may carry out such military construction projects for energy resilience, energy security, and energy conservation as are authorized by law, using funds appropriated or otherwise made available for that purpose.
+- **(b)**
+  - **(1)** As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a military construction project covered by subsection (a), the Secretary of Defense shall include the following information:
+    - **(A)** The project title.
+    - **(B)** The location of the project.
+    - **(C)** A brief description of the scope of work.
+    - **(D)** The original project cost estimate and the current working cost estimate, if different.
+    - **(E)** Such other information as the Secretary considers appropriate.
+  - **(2)** In the case of a military construction project for energy conservation, the Secretary also shall include the following information:
+    - **(A)** The original expected savings-to-investment ratio and simple payback estimates and measurement and verification cost estimate.
+    - **(B)** The most current expected savings-to-investment ratio and simple payback estimates and measurement and verification plan and costs.
+    - **(C)** A brief description of the measurement and verification plan and planned funding source.
+  - **(3)** In the case of a military construction project for energy resilience or energy security, the Secretary also shall include the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
+- **(c)**
+  - **(1)** In addition to the authority under section 2805(c) of this title , in carrying out a military construction project for energy resilience, energy security, or energy conservation under this section, the Secretary concerned may use amounts available for operation and maintenance for the military department concerned if the Secretary concerned submits to the congressional defense committees a notification of the decision to carry out the project using such amounts and includes in the notification—
+    - **(A)** the current estimate of the cost of the project;
+    - **(B)** the source of funds for the project; and
+    - **(C)** a certification that deferring the project pending the availability of funds appropriated for or otherwise made available for military construction would be inconsistent with the timely assurance of energy resilience, energy security, or energy conservation for one or more critical national security functions.
+  - **(2)** A project carried out under this section using amounts under paragraph (1) may be carried out only after the end of the seven-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title .
+  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $100,000,000.
+- **(d)** A project under this section may include—
+  - **(1)** activities related to a utility system authorized under subsections (h), (j), and (k) of section 2688 or section 2913 of this title , notwithstanding that the United States does not own the utility system covered by the project; and
+  - **(2)** energy-related activities included as a separate requirement in an energy savings performance contract (as defined in section 804(3) of the National Energy Conservation Policy Act ( 42 U.S.C. 8287c(3) )).
+- **(e)** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.

@@ -3,9 +3,9 @@ title: "Section 10705 - Disposition of money, property, and wages by consular of
 usc_title: 46
 usc_section: "10705"
 chapter: 107
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 10705"
-generated_at: "2026-03-29T19:32:17.338Z"
+generated_at: "2026-03-29T19:44:39.414Z"
 ---
 
 # § 10705. Disposition of money, property, and wages by consular officers

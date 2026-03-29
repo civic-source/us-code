@@ -3,9 +3,9 @@ title: "Section 44502 - General facilities and personnel authority"
 usc_title: 49
 usc_section: "44502"
 chapter: 445
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44502"
-generated_at: "2026-03-29T19:32:28.874Z"
+generated_at: "2026-03-29T19:44:57.991Z"
 ---
 
 # § 44502. General facilities and personnel authority
@@ -30,4 +30,17 @@ generated_at: "2026-03-29T19:32:28.874Z"
 - **(d)**
   - **(1)** The head of a department, agency, or instrumentality of the Government having jurisdiction over an air navigation facility owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for public use of the facility.
   - **(2)** The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
-- **(e)** An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
+- **(e)**
+  - **(1)** An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration, an eligible air traffic system or equipment that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system or equipment.
+  - **(2)** The Administrator shall accept the eligible air traffic system or equipment and operate and maintain it under criteria of the Administrator.
+  - **(3)** In this subsection, the term “eligible air traffic system or equipment” means—
+    - **(A)** an instrument landing system consisting of a glide slope and localizer (if the Administrator has determined that a satellite navigation system cannot provide a suitable approach to an airport);
+    - **(B)** an Automated Weather Observing System weather observation system; or
+    - **(C)** a Remote Communication Air/Ground and Remote Communication Outlet communications facility.
+- **(f)**
+  - **(1)** The Administrator may not require an airport owner or sponsor (as defined in section 47102) to provide to the Federal Aviation Administration without cost any of the following:
+    - **(A)** Building construction, maintenance, utilities, or expenses for services relating to air traffic control, air navigation, or weather reporting.
+    - **(B)** Space in a facility owned by the airport owner or sponsor for services relating to air traffic control, air navigation, or weather reporting.
+  - **(2)** Nothing in this subsection may be construed to affect—
+    - **(A)** any agreement the Secretary may have or make with an airport owner or sponsor for the airport owner or sponsor to provide any of the items described in paragraph (1)(A) or (1)(B) at below-market rates; or
+    - **(B)** any grant assurance that requires an airport owner or sponsor to provide land to the Administration without cost for an air traffic control facility.

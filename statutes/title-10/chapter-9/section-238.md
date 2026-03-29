@@ -3,16 +3,19 @@ title: "Section 238 - Cyber mission forces: program elements"
 usc_title: 10
 usc_section: "238"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 238"
-generated_at: "2026-03-29T19:27:25.436Z"
+generated_at: "2026-03-29T19:43:37.792Z"
 ---
 
 # § 238. Cyber mission forces: program elements
 
-- **(a)** The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for fiscal year 2017 and each fiscal year thereafter, a budget justification display that includes—
-  - **(1)** a major force program category for the five-year defense plan of the Department of Defense for the training, manning, and equipping of the cyber mission forces; and
-  - **(2)** program elements for the cyber mission forces.
-- **(b)** The Secretary may waive the requirement under subsection (a) for fiscal year 2017 if the Secretary—
-  - **(1)** determines the Secretary is unable to comply with such requirement for fiscal year 2017; and
-  - **(2)** establishes a plan to implement the requirement for fiscal year 2018.
+- **(a)** The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for fiscal year 2021 and each fiscal year thereafter, a budget justification display, in electronic and print formats, that includes—
+  - **(1)** a major force program category for the five-year defense plan of the Department of Defense for the training, manning, and equipping of the cyber mission forces and the cyberspace operations forces; and
+  - **(2)** program elements for the cyber mission forces and the cyberspace operations forces.
+- **(b)** The Secretary may waive the requirement under subsection (a) for fiscal year 2021 if the Secretary—
+  - **(1)** determines the Secretary is unable to comply with such requirement for fiscal year 2021; and
+  - **(2)** establishes a plan to implement the requirement for fiscal year 2022.
+- **(c)** The Secretary shall provide the displays described in subsection (a)—
+  - **(1)** in electronic format not later than five days after the submission by the President under section 1105(a) of title 31 of the budget; and
+  - **(2)** in print format not later than 21 days after the submission by the President under section 1105(a) of title 31 of the budget.

@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-29T19:27:55.323Z"
+generated_at: "2026-03-29T19:44:42.612Z"
 ---
 
 # § 636. Additional powers
@@ -13,12 +13,12 @@ generated_at: "2026-03-29T19:27:55.323Z"
 - **(a)** The Administration is empowered to the extent and in such amounts as provided in advance in appropriation Acts to make loans for plant acquisition, construction, conversion, or expansion, including the acquisition of land, material, supplies, equipment, and working capital, and to make loans to any qualified small business concern, including those owned by qualified Indian tribes, for purposes of this chapter. Such financings may be made either directly or in cooperation with banks or other financial institutions through agreements to participate on an immediate or deferred (guaranteed) basis. These powers shall be subject, however, to the following restrictions, limitations, and provisions:
   - **(1)**
     - **(A)**
-      - **(i)** No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
+      - **(i)** The Administrator has the authority to direct, and conduct oversight for, the methods by which lenders determine whether a borrower is able to obtain credit elsewhere. No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
       - **(ii)** On and after October 1, 2015 , the Administrator may not guarantee a loan under this subsection if the lender determines that the borrower is unable to obtain credit elsewhere solely because the liquidity of the lender depends upon the guaranteed portion of the loan being sold on the secondary market.
     - **(B)** Prior to the approval of any loan made pursuant to this subsection, or section 503 of the Small Business Investment Act of 1958 [ 15 U.S.C. 697 ], the Administrator may verify the applicant’s criminal background, or lack thereof, through the best available means, including, if possible, use of the National Crime Information Center computer system at the Federal Bureau of Investigation.
     - **(C)** On and after October 1, 2015 , the Administrator may not guarantee a loan under this subsection if the sole purpose for requesting the guarantee is to allow the lender to exceed the legal lending limit of the lender.
   - **(2)**
-    - **(A)** Except as provided in subparagraphs (B), (D), and (E), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program), such participation by the Administration shall be equal to—
+    - **(A)** Except as provided in subparagraphs (B), (D), (E), and (F), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program), such participation by the Administration shall be equal to—
       - **(i)** 75 percent of the balance of the financing outstanding at the time of disbursement of the loan, if such balance exceeds $150,000; or
       - **(ii)** 85 percent of the balance of the financing outstanding at the time of disbursement of the loan, if such balance is less than or equal to $150,000.
     - **(B)**
@@ -32,6 +32,7 @@ generated_at: "2026-03-29T19:27:55.323Z"
         - **(II)** complete authority to service and liquidate such loans without obtaining the prior specific approval of the Administration for routine servicing and liquidation activities, but shall not take any actions creating an actual or apparent conflict of interest.
     - **(D)** In an agreement to participate in a loan on a deferred basis under the Export Working Capital Program established pursuant to paragraph (14)(A), such participation by the Administration shall be 90 percent.
     - **(E)** In an agreement to participate in a loan on a deferred basis under paragraph (16), the participation by the Administration may not exceed 90 percent.
+    - **(F)** In an agreement to participate in a loan on a deferred basis under paragraph (36), the participation by the Administration shall be 100 percent.
   - **(3)** No loan shall be made under this subsection—
     - **(A)** if the total amount outstanding and committed (by participation or otherwise) to the borrower from the business loan and investment fund established by this chapter would exceed $3,750,000 (or if the gross loan amount would exceed $5,000,000), except as provided in subparagraph (B);
     - **(B)** if the total amount outstanding and committed (on a deferred basis) solely for the purposes provided in paragraph (16) to the borrower from the business loan and investment fund established by this chapter would exceed $4,500,000 (or if the gross loan amount would exceed $5,000,000), of which not more than $4,000,000 may be used for working capital, supplies, or financings under paragraph (14) for export purposes; and
@@ -56,15 +57,22 @@ generated_at: "2026-03-29T19:27:55.323Z"
   - **(6)** All loans made under this subsection shall be of such sound value or so secured as reasonably to assure repayment: Provided, however , That—
     - **(A)** for loans to assist any public or private organization or to assist any handicapped individual as provided in paragraph (10) of this subsection any reasonable doubt shall be resolved in favor of the applicant;
     - **(B)** recognizing that greater risk may be associated with loans for energy measures as provided in paragraph (12) of this subsection, factors in determining “sound value” shall include, but not be limited to, quality of the product or service; technical qualifications of the applicant or his employees; sales projections; and the financial status of the business concern: Provided further , That such status need not be as sound as that required for general loans under this subsection; and 1 1 So in original. The “; and” probably should be a period.
-    - **(C)** Repealed. Pub. L. 97–35, title XIX , § 1910, Aug. 13, 1981 , 95 Stat. 778 .
-  - **(7)** The Administration may defer payments on the principal of such loans for a grace period and use such other methods as it deems necessary and appropriate to assure the successful establishment and operation of such concern.
+    - **(C)** Repealed. Pub. L. 97–35, title XIX, § 1910 , Aug. 13, 1981 , 95 Stat. 778 .
+  - **(7)**
+    - **(A)** The Administrator may defer payments on the principal and interest of such loans for a grace period and use such other methods as it deems necessary and appropriate to assure the successful establishment and operation of such concern.
+    - **(B)** With respect to a deferral provided under this paragraph, the Administrator may allow lenders under this subsection—
+      - **(i)** to provide full payment deferment relief (including payment of principal and interest) for a period of not more than 1 year; and
+      - **(ii)** to provide an additional deferment period if the borrower provides documentation justifying such additional deferment.
+    - **(C)**
+      - **(i)** Except as provided in clause (ii), if an investor declines to approve a deferral or additional deferment requested by a lender under subparagraph (B), the Administrator shall exercise the authority to purchase the loan so that the borrower may receive full payment deferment relief (including payment of principal and interest) or an additional deferment as described in subparagraph (B).
+      - **(ii)** If, in a fiscal year, the Administrator determines that the cost of implementing clause (i) is greater than zero, the Administrator shall not implement that clause.
   - **(8)** The Administration may make loans under this subsection to small business concerns owned and controlled by disabled veterans (as defined in section 4211(3) of title 38 ).
   - **(9)** The Administration may provide loans under this subsection to finance residential or commercial construction or rehabilitation for sale: Provided, however , That such loans shall not be used primarily for the acquisition of land.
   - **(10)** The Administration may provide guaranteed loans under this subsection to assist any public or private organization for the handicapped or to assist any handicapped individual, including service-disabled veterans, in establishing, acquiring, or operating a small business concern.
   - **(11)** The Administration may provide loans under this subsection to any small business concern, or to any qualified person seeking to establish such a concern when it determines that such loan will further the policies established in section 631(c) 2 2 See References in Text note below. of this title, with particular emphasis on the preservation or establishment of small business concerns located in urban or rural areas with high proportions of unemployed or low-income individuals or owned by low-income individuals.
   - **(12)**
     - **(A)** The Administration may provide loans under this subsection to assist any small business concern, including start up, to enable such concern to design architecturally or engineer, manufacture, distribute, market, install, or service energy measures: Provided, however , That such loan proceeds shall not be used primarily for research and development.
-- **(b)** 3 3 So in original. Probably should be “(B)”. The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 [ 15 U.S.C. 694–1 ]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
+    - **(b)** 3 3 So in original. Probably should be “(B)”. The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 [ 15 U.S.C. 694–1 ]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
   - **(13)** The Administration may provide fi­nancings under this subsection to State and local development companies for the purposes of, and subject to the restrictions in, title V of the Small Business Investment Act of 1958 [ 15 U.S.C. 695 et seq.].
   - **(14)**
     - **(A)** The Administrator may provide extensions of credit, standby letters of credit, revolving lines of credit for export purposes, and other financing to enable small business concerns, including small business export trading companies and small business export management companies, to develop foreign markets. A bank or participating lending institution may establish the rate of interest on such financings as may be legal and reasonable.
@@ -76,14 +84,28 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(C)** When considering loan or guarantee applications, the Administration shall give weight to export-related benefits, including opening new markets for United States goods and services abroad and encouraging the involvement of small businesses, including agricultural concerns, in the export market.
     - **(D)** The Administrator shall aggressively market its export financing program to small businesses.
   - **(15)**
-    - **(A)** The Administration may guarantee loans under this subsection to qualified employee trusts with respect to a small business concern for the purpose of purchasing stock of the concern under a plan approved by the Administrator which, when carried out, results in the qualified employee trust owning at least 51 per centum of the stock of the concern.
-    - **(B)** The plan requiring the Administrator’s approval under subparagraph (A) shall be submitted to the Administration by the trustee of such trust with its application for the guarantee. Such plan shall include an agreement with the Administrator which is binding on such trust and on the small business concern and which provides that—
+    - **(A)** The Administration may guarantee loans under this subsection—
+      - **(i)** to qualified employee trusts with respect to a small business concern for the purpose of purchasing, and for any transaction costs associated with purchasing, stock of the concern under a plan approved by the Administrator which, when carried out, results in the qualified employee trust owning at least 51 per centum of the stock of the concern; and
+      - **(ii)** to a small business concern under a plan approved by the Administrator, if the proceeds from the loan are only used to make a loan to a qualified employee trust, and for any transaction costs associated with making that loan, that results in the qualified employee trust owning at least 51 percent of the small business concern.
+    - **(B)** The plan requiring the Administrator’s approval under subparagraph (A) shall be submitted to the Administration by the trustee of such trust or by the small business concern with its application for the guarantee. Such plan shall include an agreement with the Administrator which is binding on such trust and on the small business concern and which provides that—
       - **(i)** not later than the date the loan guaranteed under subparagraph (A) is repaid (or as soon thereafter as is consistent with the requirements of section 401(a) of title 26 ), at least 51 per centum of the total stock of such concern shall be allocated to the accounts of at least 51 per centum of the employees of such concern who are entitled to share in such allocation,
-      - **(ii)** there will be periodic reviews of the role in the management of such concern of employees to whose accounts stock is allocated, and
-      - **(iii)** there will be adequate management to assure management expertise and continuity.
+      - **(ii)** there will be periodic reviews of the role in the management of such concern of employees to whose accounts stock is allocated,
+      - **(iii)** there will be adequate management to assure management expertise and continuity, and
+      - **(iv)** with respect to a loan made to a trust, or to a cooperative in accordance with paragraph (35)—
+        - **(I)** a seller of the small business concern may remain involved as an officer, director, or key employee of the small business concern when a qualified employee trust or cooperative has acquired 100 percent of ownership of the small business concern; and
+        - **(II)** any seller of the small business concern who remains as an owner of the small business concern, regardless of the percentage of ownership interest, shall be required to provide a personal guarantee by the Administration.
     - **(C)** In determining whether to guarantee any loan under this paragraph, the individual business experience or personal assets of employee-owners shall not be used as criteria, except inasmuch as certain employee-owners may assume managerial responsibilities, in which case business experience may be considered.
     - **(D)** For purposes of this paragraph, a corporation which is controlled by any other person shall be treated as a small business concern if such corporation would, after the plan described in subparagraph (B) is carried out, be treated as a small business concern.
-    - **(E)** The Administration shall compile a separate list of applications for assistance under this paragraph, indicating which applications were accepted and which were denied, and shall report periodically to the Congress on the status of employee-owned firms assisted by the Administration.
+    - **(E)** The Administration shall compile a separate list of applications for assistance under this paragraph, indicating which applications were accepted and which were denied, and shall report periodically to the Congress on the status of employee-owned firms assisted by the Administration, which shall include—
+      - **(i)** the total number of loans made to employee-owned business concerns that were guaranteed by the Administrator under this subsection or section 502 of the Small Business Investment Act of 1958 ( 15 U.S.C. 696 ), including the number of loans made—
+        - **(I)** to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
+        - **(II)** to cooperatives;
+      - **(ii)** the total number of financings made to employee-owned business concerns by companies licensed under section 301(c) of the Small Business Investment Act of 1958 ( 15 U.S.C. 696(c) ) [ 15 U.S.C. 681(c) ], including the number of financings made—
+        - **(I)** to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
+        - **(II)** to cooperatives; and
+      - **(iii)** any outreach and educational activities conducted by the Administration with respect to employee-owned business concerns.
+    - **(F)** A small business concern that makes a loan to a qualified employee trust under subparagraph (A)(ii) is not required to contain the same terms and conditions as the loan made to the small business concern that is guaranteed by the Administration under such subparagraph.
+    - **(G)** With respect to a loan made to a qualified employee trust under this paragraph, or to a cooperative in accordance with paragraph (35), the Administrator may, as deemed appropriate, elect to not require any mandatory equity to be provided by the qualified employee trust or cooperative to make the loan.
   - **(16)**
     - **(A)** If the Administrator determines that a loan guaranteed under this subsection will allow an eligible small business concern that is engaged in or adversely affected by international trade to improve its competitive position, the Administrator may make such loan to assist such concern—
       - **(i)** in the financing of the acquisition, construction, renovation, modernization, improvement, or expansion of productive facilities or equipment to be used in the United States in the production of goods and services involved in international trade;
@@ -167,21 +189,23 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(B)** In this paragraph, the term ‘pilot program’ means any lending program initiative, project, innovation, or other activity not specifically authorized by law.
     - **(C)** The Administrator may carry out the low documentation loan program for loans of $100,000 or less only through lenders with significant experience in making small business loans. Not later than 90 days after September 30, 1996 , the Administrator shall promulgate regulations defining the experience necessary for participation as a lender in the low documentation loan program.
   - **(26)** All fees, interest, and profits received and retained by the Administration under this subsection shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2 ) to the Administration of purchasing and guaranteeing loans under this chapter.
-  - **(27)** Repealed. Pub. L. 106–8 , § 3(c), Apr. 2, 1999 , 113 Stat. 16 .
+  - **(27)** Repealed. Pub. L. 106–8, § 3(c) , Apr. 2, 1999 , 113 Stat. 16 .
   - **(28)** In addition to such other lease arrangements as may be authorized by the Administration, a borrower may permanently lease to one or more tenants not more than 20 percent of any property constructed with the proceeds of a loan guaranteed under this subsection, if the borrower permanently occupies and uses not less than 60 percent of the total business space in the property.
-  - **(29)** With respect to a loan under this subsection that is secured by commercial real property, an appraisal of such property by a State licensed or certified appraiser—
-    - **(A)** shall be required by the Administration in connection with any such loan for more than $250,000; or
-    - **(B)** may be required by the Administration or the lender in connection with any such loan for $250,000 or less, if such appraisal is necessary for appropriate evaluation of creditworthiness.
+  - **(29)**
+    - **(A)** With respect to a loan under this subsection that is secured by commercial real property, an appraisal of such property by a State licensed or certified appraiser—
+      - **(i)** shall be required by the Administration in connection with any such loan, if such loan is in an amount greater than the Federal banking regulator appraisal threshold; or
+      - **(ii)** may be required by the Administration or the lender in connection with any such loan, if such loan is in an amount equal to or less than the Federal banking regulator appraisal threshold, if such appraisal is necessary for appropriate evaluation of creditworthiness.
+    - **(B)** For purposes of this paragraph, the term “Federal banking regulator appraisal threshold” means the lesser of the threshold amounts set by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation for when a federally related transaction that is a commercial real estate transaction requires an appraisal prepared by a State licensed or certified appraiser.
   - **(30)** Ownership requirements to determine the eligibility of a small business concern that applies for assistance under any credit program under this chapter shall be determined without regard to any ownership interest of a spouse arising solely from the application of the community property laws of a State for purposes of determining marital interests.
   - **(31)**
     - **(A)** As used in this paragraph:
       - **(i)** The term “disaster area” means the area for which the President has declared a major disaster, during the 5-year period beginning on the date of the declaration.
       - **(ii)** The term “express lender” means any lender authorized by the Administration to participate in the Express Loan Program.
       - **(iii)** The term “express loan” means any loan made pursuant to this paragraph in which a lender utilizes to the maximum extent practicable its own loan analyses, procedures, and documentation.
-      - **(iv)** The term “Express Loan Program” means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004 , with a guaranty rate of not more than 50 percent.
+      - **(iv)** The term “Express Loan Program” means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004 , with a guarantee rate of not more than 50 percent.
     - **(B)** The authority to make an express loan shall be limited to those lenders deemed qualified to make such loans by the Administration. Designation as an express lender for purposes of making an express loan shall not prohibit such lender from taking any other action authorized by the Administration for that lender pursuant to this subsection.
     - **(C)** Any express lender shall retain such designation unless the Administration determines that the express lender has violated the law or regulations promulgated by the Administration or modifies the requirements to be an express lender and the lender no longer satisfies those requirements.
-    - **(D)** The maximum loan amount under the Express Loan Program is $350,000.
+    - **(D)** The maximum loan amount under the Express Loan Program is $500,000.
     - **(E)** Except as otherwise provided in this paragraph, the Administration shall take no regulatory, policy, or administrative action, without regard to whether such action requires notification pursuant to paragraph (24), that has the effect of requiring a lender to make an express loan pursuant to subparagraph (D).
     - **(F)**
       - **(i)** In this subparagraph—
@@ -193,8 +217,7 @@ generated_at: "2026-03-29T19:27:55.323Z"
         - **(II)** carrying out an energy efficiency project for a small business concern.
     - **(G)**
       - **(i)** The Administrator may not collect a guarantee fee described in paragraph (18) in connection with a loan made under this paragraph to a veteran or spouse of a veteran on or after October 1, 2015 .
-      - **(ii)** If the President’s budget for the upcoming fiscal year, submitted to Congress pursuant to section 1105(a) of title 31 , includes a cost for the program established under this subsection that is above zero, the requirements of clause (i) shall not apply to loans made during such upcoming fiscal year.
-      - **(iii)** In this subparagraph, the term “veteran or spouse of a veteran” means—
+      - **(ii)** In this subparagraph, the term “veteran or spouse of a veteran” means—
         - **(I)** a veteran, as defined in section 632(q)(4) of this title ;
         - **(II)** an individual who is eligible to participate in the Transition Assistance Program established under section 1144 of title 10 ;
         - **(III)** a member of a reserve component of the Armed Forces named in section 10101 of title 10 ;
@@ -287,6 +310,232 @@ generated_at: "2026-03-29T19:27:55.323Z"
       - **(ii)** For an express loan guaranteed under this paragraph, the Administrator shall guarantee—
         - **(I)** 90 percent of a loan that is not more than $350,000; and
         - **(II)** 75 percent of a loan that is more than $350,000 and not more than $500,000.
+  - **(35)**
+    - **(A)** In this paragraph, the term “cooperative” means an entity that is determined to be a cooperative by the Administrator, in accordance with applicable Federal and State laws and regulation.
+    - **(B)** The Administration shall guarantee loans made to a cooperative for the purpose described in paragraph (15).
+  - **(36)**
+    - **(A)** In this paragraph—
+      - **(i)** the terms “appropriate Federal banking agency” and “insured depository institution” have the meanings given those terms in section 1813 of title 12 ;
+      - **(ii)** the term “covered loan” means a loan made under this paragraph during the covered period;
+      - **(iii)** the term “covered period” means the period beginning on February 15, 2020 and ending on June 30, 2021 ;
+      - **(iv)** the term “eligible recipient” means an individual or entity that is eligible to receive a covered loan;
+      - **(v)** the term “eligible self-employed individual” has the meaning given the term in section 7002(b) of the Families First Coronavirus Response Act ( Public Law 116–127 );
+      - **(vi)** the term “insured credit union” has the meaning given the term in section 1752 of title 12 ;
+      - **(vii)** the term “nonprofit organization” means an organization that is described in section 501(c)(3) of title 26 and that is exempt from taxation under section 501(a) of title 26 ;
+      - **(viii)** the term “payroll costs”—
+        - **(I)** means—
+        - **(II)** shall not include—
+      - **(ix)** the term “veterans organization” means an organization that is described in section 501(c)(19) of title 26 that is exempt from taxation under section 501(a) of title 26 ;
+      - **(x)** the term “community development financial institution” has the meaning given the term in section 4702 of title 12 ); 5 5 So in original. The closing parenthesis probably should not appear.
+      - **(xi)** the term “community financial institutions” means—
+        - **(I)** a community development financial institution;
+        - **(II)** a minority depository institution, as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ( 12 U.S.C. 1463 note);
+        - **(III)** a development company that is certified under title V of the Small Business Investment Act of 1958 ( 15 U.S.C. 695 et seq.); and
+        - **(IV)** an intermediary, as defined in subsection (m)(11);
+      - **(xii)** the term “credit union” means a State credit union or a Federal credit union, as those terms are defined, respectively, in section 1752 of title 12 ;
+      - **(xiii)** the term “seasonal employer” means an eligible recipient that—
+        - **(I)** does not operate for more than 7 months in any calendar year; or
+        - **(II)** during the preceding calendar year, had gross receipts for any 6 months of that year that were not more than 33.33 percent of the gross receipts of the employer for the other 6 months of that year;
+      - **(xiv)** the term “housing cooperative” means a cooperative housing corporation (as defined in section 216(b) of title 26 ) that employs not more than 300 employees;
+      - **(xv)** the term “destination marketing organization” means a nonprofit entity that is—
+        - **(I)** an organization described in section 501(c) of title 26 and exempt from tax under section 501(a) of such title; or
+        - **(II)** a State, or a political subdivision of a State (including any instrumentality of such entities)—
+      - **(xvi)** the terms “exchange”, “issuer”, and “security” have the meanings given those terms in section 78c(a) of this title ; and
+      - **(xvii)** the term “additional covered nonprofit entity”—
+        - **(I)** means an organization described in any paragraph of section 501(c) of title 26 , other than paragraph (3), (4), (6), or (19), and exempt from tax under section 501(a) of such title; and
+        - **(II)** does not include any entity that, if the entity were a business concern, would be described in section 120.110 of title 13, Code of Federal Regulations (or in any successor regulation or other related guidance or rule that may be issued by the Administrator) other than a business concern described in paragraph (a) or (k) of such section.
+    - **(B)** Except as otherwise provided in this paragraph, the Administrator may guarantee covered loans under the same terms, conditions, and processes as a loan made under this subsection.
+    - **(C)** Not later than 15 days after the date on which a loan is made under this paragraph, the Administration shall register the loan using the TIN (as defined in section 7701 of title 26 ) assigned to the borrower.
+    - **(D)**
+      - **(i)** During the covered period, in addition to small business concerns, any business concern, nonprofit organization, housing cooperative, veterans organization, or Tribal business concern described in section 657a(b)(2)(C) of this title shall be eligible to receive a covered loan if the business concern, nonprofit organization, housing cooperative, veterans organization, or Tribal business concern employs not more than the greater of—
+        - **(I)** 500 employees; or
+        - **(II)** if applicable, the size standard in number of employees established by the Administration for the industry in which the business concern, nonprofit organization, housing cooperative, veterans organization, or Tribal business concern operates.
+      - **(ii)**
+        - **(I)** During the covered period, individuals who operate under a sole proprietorship or as an independent contractor and eligible self-employed individuals shall be eligible to receive a covered loan.
+        - **(II)** An eligible self-employed individual, independent contractor, or sole proprietorship seeking a covered loan shall submit such documentation as determined necessary by the Administrator and the Secretary, to establish the applicant as eligible.
+      - **(iii)**
+        - **(I)** During the covered period, any business concern that employs not more than 500 employees per physical location of the business concern and that is assigned a North American Industry Classification System code beginning with 72 at the time of disbursal shall be eligible to receive a covered loan.
+        - **(II)**
+        - **(III)** Subject to the provisions in this subparagraph, during the covered period—
+        - **(IV)** A business concern or other organization that was not eligible to receive a covered loan the day before March 11, 2021 , is assigned a North American Industry Classification System code of 519130, certifies in good faith as an Internet-only news publisher or Internet-only periodical publisher, and is engaged in the collection and distribution of local or regional and national news and information shall be eligible to receive a covered loan for the continued provision of news, information, content, or emergency information if—
+      - **(iv)** During the covered period, the provisions applicable to affiliations under section 121.103 of title 13, Code of Federal Regulations, or any successor regulation, are waived with respect to eligibility for a covered loan for—
+        - **(I)** any business concern with not more than 500 employees that, as of the date on which the covered loan is disbursed, is assigned a North American Industry Classification System code beginning with 72;
+        - **(II)** any business concern operating as a franchise that is assigned a franchise identifier code by the Administration;
+        - **(III)** any business concern that receives financial assistance from a company licensed under section 681 of this title ;
+        - **(IV)**
+        - **(V)** any business concern or other organization that was not eligible to receive a covered loan the day before March 11, 2021 , is assigned a North American Industry Classification System code of 519130, certifies in good faith as an Internet-only news publisher or Internet-only periodical publisher, and is engaged in the collection and distribution of local or regional and national news and information, if the business concern or organization—
+      - **(v)** For purposes of determining whether a business concern, nonprofit organization, veterans organization, or Tribal business concern described in section 657a(b)(2)(C) of this title employs not more than 500 employees under clause (i)(I), or for purposes of determining the number of employees of a housing cooperative or a business concern or organization made eligible for a loan under this paragraph under subclause (II), (III), or (IV) of clause (iii), subclause (IV) or (V) of clause (iv), clause (vii), or clause (ix), the term “employee” includes individuals employed on a full-time, part-time, or other basis.
+      - **(vi)** The provisions applicable to affiliations under section 121.103 of title 13, Code of Federal Regulations, or any successor thereto, shall apply with respect to a nonprofit organization, a business concern or organization made eligible for a loan under this paragraph under clause (vii), a housing cooperative, and a veterans organization in the same manner as with respect to a small business concern.
+      - **(vii)**
+        - **(I)** Any organization that is described in section 501(c)(6) of title 26 and that is exempt from taxation under section 501(a) of such title (excluding professional sports leagues and organizations with the purpose of promoting or participating in a political campaign or other activity) shall be eligible to receive a covered loan if—
+        - **(II)** Any destination marketing organization shall be eligible to receive a covered loan if—
+      - **(viii)**
+        - **(I)** Subject to subclause (II), and notwithstanding any other provision of this paragraph, on and after December 27, 2020 , an entity that is an issuer, the securities of which are listed on an exchange registered as a national securities exchange under section 78f of this title , shall be ineligible to receive a covered loan under this paragraph.
+        - **(II)** With respect to a business concern or organization made eligible by subclause (II) or (IV) of clause (iii) or subclause (IV) or (V) of clause (iv) of this subparagraph, the Administrator shall not consider whether any affiliated entity, which for purposes of this subclause shall include any entity that owns or controls such business concern or organization, is an issuer.
+      - **(ix)** An additional covered nonprofit entity shall be eligible to receive a covered loan if—
+        - **(I)** the additional covered nonprofit entity does not receive more than 15 percent of its receipts from lobbying activities;
+        - **(II)** the lobbying activities of the additional covered nonprofit entity do not comprise more than 15 percent of the total activities of the organization;
+        - **(III)** the cost of the lobbying activities of the additional covered nonprofit entity did not exceed $1,000,000 during the most recent tax year of the additional covered nonprofit entity that ended prior to February 15, 2020 ; and
+        - **(IV)** the additional covered nonprofit entity employs not more than 300 employees.
+    - **(E)** Except as provided in subparagraph (V), during the covered period, with respect to a covered loan, the maximum loan amount shall be the lesser of—
+      - **(i)**
+        - **(I)** the sum of—
+        - **(II)** if requested by an otherwise eligible recipient that was not in business during the period beginning on February 15, 2019 and ending on June 30, 2019 , the sum of—
+      - **(ii)** $10,000,000.
+    - **(F)**
+      - **(i)** During the covered period, an eligible recipient may, in addition to the allowable uses of a loan made under this subsection, use the proceeds of the covered loan for—
+        - **(I)** payroll costs;
+        - **(II)** costs related to the continuation of group health care benefits during periods of paid sick, medical, or family leave, and insurance premiums;
+        - **(III)** employee salaries, commissions, or similar compensations;
+        - **(IV)** payments of interest on any mortgage obligation (which shall not include any prepayment of or payment of principal on a mortgage obligation);
+        - **(V)** rent (including rent under a lease agreement);
+        - **(VI)** utilities;
+        - **(VII)** interest on any other debt obligations that were incurred before the covered period;
+        - **(VIII)** covered operations expenditures, as defined in section 636m(a) of this title ;
+        - **(IX)** covered property damage costs, as defined in section 636m(a) of this title ;
+        - **(X)** covered supplier costs, as defined in section 636m(a) of this title ; and
+        - **(XI)** covered worker protection expenditures, as defined in section 636m(a) of this title .
+      - **(ii)**
+        - **(I)** For purposes of making covered loans for the purposes described in clause (i), a lender approved to make loans under this subsection shall be deemed to have been delegated authority by the Administrator to make and approve covered loans, subject to the provisions of this paragraph.
+        - **(II)** In evaluating the eligibility of a borrower for a covered loan with the terms described in this paragraph, a lender shall consider whether the borrower—
+      - **(iii)** The authority to make loans under this paragraph shall be extended to additional lenders determined by the Administrator and the Secretary of the Treasury to have the necessary qualifications to process, close, disburse and service loans made with the guarantee of the Administration.
+      - **(iv)** A loan made under subsection (b)(2) during the period beginning on January 31, 2020 and ending on the date on which covered loans are made available may be refinanced as part of a covered loan.
+      - **(v)** Notwithstanding the waiver of the personal guarantee requirement or collateral under subparagraph (J), the Administrator shall have no recourse against any individual shareholder, member, or partner of an eligible recipient of a covered loan for nonpayment of any covered loan, except to the extent that such shareholder, member, or partner uses the covered loan proceeds for a purpose not authorized under clause (i) or (iv).
+      - **(vi)** None of the proceeds of a covered loan may be used for—
+        - **(I)** lobbying activities, as defined in section 1602 of title 2 ;
+        - **(II)** lobbying expenditures related to a State or local election; or
+        - **(III)** expenditures designed to influence the enactment of legislation, appropriations, regulation, administrative action, or Executive order proposed or pending before Congress or any State government, State legislature, or local legislature or legislative body.
+    - **(G)**
+      - **(i)** An eligible recipient applying for a covered loan shall make a good faith certification—
+        - **(I)** that the uncertainty of current economic conditions makes necessary the loan request to support the ongoing operations of the eligible recipient;
+        - **(II)** acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments, and utility payments;
+        - **(III)** that the eligible recipient does not have an application pending for a loan under this subsection for the same purpose and duplicative of amounts applied for or received under a covered loan; and
+        - **(IV)** during the period beginning on February 15, 2020 and ending on December 31, 2020 , that the eligible recipient has not received amounts under this subsection for the same purpose and duplicative of amounts applied for or received under a covered loan.
+    - **(H)** With respect to a covered loan—
+      - **(i)** in lieu of the fee otherwise applicable under paragraph (23)(A), the Administrator shall collect no fee; and
+      - **(ii)** in lieu of the fee otherwise applicable under paragraph (18)(A), the Administrator shall collect no fee.
+    - **(I)** During the covered period, the requirement that a small business concern is unable to obtain credit elsewhere, as defined in section 632(h) of this title , shall not apply to a covered loan.
+    - **(J)** With respect to a covered loan—
+      - **(i)** no personal guarantee shall be required for the covered loan; and
+      - **(ii)** no collateral shall be required for the covered loan.
+    - **(K)** With respect to a covered loan that has a remaining balance after reduction based on the loan forgiveness amount under section 636m of this title —
+      - **(i)** the remaining balance shall continue to be guaranteed by the Administration under this subsection; and
+      - **(ii)** the covered loan shall have a minimum maturity of 5 years and a maximum maturity of 10 years from the date on which the borrower applies for loan forgiveness under that section.
+    - **(L)** A covered loan shall bear an interest rate not to exceed 4 percent, calculated on a non-compounding, non-adjustable basis.
+    - **(M)**
+      - **(i)**
+        - **(I)** In this subparagraph, the term “impacted borrower” means an eligible recipient that—
+        - **(II)** For purposes of this subparagraph, an impacted borrower is presumed to have been adversely impacted by COVID–19.
+      - **(ii)** The Administrator shall—
+        - **(I)** consider each eligible recipient that applies for a covered loan to be an impacted borrower; and
+        - **(II)** require lenders under this subsection to provide complete payment deferment relief for impacted borrowers with covered loans, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 636m of this title is remitted to the lender.
+      - **(iii)** With respect to a covered loan that is sold on the secondary market, if an investor declines to approve a deferral requested by a lender under clause (ii), the Administrator shall exercise the authority to purchase the loan so that the impacted borrower may receive a deferral, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 636m of this title is remitted to the lender.
+      - **(iv)** Not later than 30 days after March 27, 2020 , the Administrator shall provide guidance to lenders under this paragraph on the deferment process described in this subparagraph.
+      - **(v)** If an eligible recipient fails to apply for forgiveness of a covered loan within 10 months after the last day of the covered period defined in section 636m(a) of this title , such eligible recipient shall make payments of principal, interest, and fees on such covered loan beginning on the day that is not earlier than the date that is 10 months after the last day of such covered period.
+    - **(N)** A covered loan shall be eligible to be sold in the secondary market consistent with this subsection. The Administrator may not collect any fee for any guarantee sold into the secondary market under this subparagraph.
+    - **(O)**
+      - **(i)** With respect to the appropriate Federal banking agencies or the National Credit Union Administration Board applying capital requirements under their respective risk-based capital requirements, a covered loan shall receive a risk weight of zero percent.
+      - **(ii)** Notwithstanding any other provision of law, an insured depository institution or an insured credit union that modifies a covered loan in relation to COVID–19-related difficulties in a troubled debt restructuring on or after March 13, 2020 , shall not be required to comply with the Financial Accounting Standards Board Accounting Standards Codification Subtopic 310–40 (“Receivables – Troubled Debt Restructurings by Creditors”) for purposes of compliance with the requirements of the Federal Deposit Insurance Act ( 12 U.S.C. 1811 et seq.), until such time and under such circumstances as the appropriate Federal banking agency or the National Credit Union Administration Board, as applicable, determines appropriate.
+    - **(P)**
+      - **(i)** The Administrator shall reimburse a lender authorized to make a covered loan as follows:
+        - **(I)** With respect to a covered loan made during the period beginning on March 27, 2020 , and ending on the day before December 27, 2020 , the Administrator shall reimburse such a lender at a rate, based on the balance of the financing outstanding at the time of disbursement of the covered loan, of—
+        - **(II)** With respect to a covered loan made on or after December 27, 2020 , the Administrator shall reimburse such a lender—
+      - **(ii)** An agent that assists an eligible recipient to prepare an application for a covered loan may not collect a fee in excess of the limits established by the Administrator. If an eligible recipient has knowingly retained an agent, such fees shall be paid by the eligible recipient and may not be paid out of the proceeds of a covered loan. A lender shall only be responsible for paying fees to an agent for services for which the lender directly contracts with the agent.
+      - **(iii)** A reimbursement described in clause (i) shall be made not later than 5 days after the reported disbursement of the covered loan and may not be required to be repaid by a lender unless the lender is found guilty of an act of fraud in connection with the covered loan.
+      - **(iv)** It is the sense of the Senate that the Administrator should issue guidance to lenders and agents to ensure that the processing and disbursement of covered loans prioritizes small business concerns and entities in underserved and rural markets, including veterans and members of the military community, small business concerns owned and controlled by socially and economically disadvantaged individuals (as defined in section 637(d)(3)(C) of this title ), women, and businesses in operation for less than 2 years.
+    - **(Q)** Nothing in this paragraph shall prohibit a recipient of an economic injury disaster loan made under subsection (b)(2) that is for a purpose other than paying payroll costs and other obligations described in subparagraph (F) from receiving assistance under this paragraph.
+    - **(R)** Notwithstanding any other provision of law, there shall be no prepayment penalty for any payment made on a covered loan.
+    - **(S)**
+      - **(i)** In making loan guarantees under this paragraph after April 24, 2020 , the Administrator shall guarantee not less than $30,000,000,000 in loans made by—
+        - **(I)** insured depository institutions with consolidated assets of not less than $10,000,000,000 and less than $50,000,000,000; and
+        - **(II)** credit unions with consolidated assets of not less than $10,000,000,000 and less than $50,000,000,000.
+      - **(ii)** In making loan guarantees under this paragraph after April 24, 2020 , the Administrator shall guarantee not less than $30,000,000,000 in loans made by—
+        - **(I)** community financial institutions;
+        - **(II)** insured depository institutions with consolidated assets of less than $10,000,000,000; and
+        - **(III)** credit unions with consolidated assets of less than $10,000,000,000.
+    - **(T)** A business or organization that was not in operation on February 15, 2020 shall not be eligible for a loan under this paragraph.
+    - **(U)** An eligible person or entity (as defined under of 4 section 9009a of this title ) that receives a grant under such section 9009a shall not be eligible for a loan under this paragraph.
+    - **(V)**
+      - **(i)** In this subparagraph, the term “covered recipient” means an eligible recipient that—
+        - **(I)** operates as a sole proprietorship or as an independent contractor, or is an eligible self-employed individual;
+        - **(II)** reports farm income or expenses on a Schedule F (or any equivalent successor schedule); and
+        - **(III)** was in business as of February 15, 2020 .
+      - **(ii)** With respect to 8 8 So in original. The word “a” probably should appear. covered recipient without employees, the maximum covered loan amount shall be the lesser of—
+        - **(I)** the sum of—
+        - **(II)** $2,000,000.
+      - **(iii)** With respect to a covered recipient with employees, the maximum covered loan amount shall be calculated using the formula described in subparagraph (E), except that the gross income of the covered recipient described in clause (ii)(I)(aa)(AA) of this subparagraph, as divided by 12, shall be added to the sum calculated under subparagraph (E)(i)(I).
+      - **(iv)** A lender that made a covered loan to a covered recipient before December 27, 2020 may, at the request of the covered recipient—
+        - **(I)** recalculate the maximum loan amount applicable to that covered loan based on the formula described in clause (ii) or (iii), as applicable, if doing so would result in a larger covered loan amount; and
+        - **(II)** provide the covered recipient with additional covered loan amounts based on that recalculation.
+  - **(37)**
+    - **(A)** In this paragraph—
+      - **(i)** the terms “additional covered nonprofit entity”, “eligible self-employed individual”, “housing cooperative”, “nonprofit organization”, “payroll costs”, “seasonal employer”, and “veterans organization” have the meanings given those terms in paragraph (36), except that “eligible entity” shall be substituted for “eligible recipient” each place it appears in the definitions of those terms;
+      - **(ii)** the term “covered loan” means a loan made under this paragraph;
+      - **(iii)** the terms “covered mortgage obligation”, “covered operating expenditure”, “covered property damage cost”, “covered rent obligation”, “covered supplier cost”, “covered utility payment”, and “covered worker protection expenditure” have the meanings given those terms in section 636m(a) of this title ;
+      - **(iv)** the term “eligible entity”—
+        - **(I)** means any business concern, nonprofit organization, housing cooperative, veterans organization, Tribal business concern, eligible self-employed individual, sole proprietor, independent contractor, or small agricultural cooperative that—
+        - **(II)** includes a business concern or organization made eligible for a loan under paragraph (36) under subclause (II), (III), or (IV) of clause (iii), subclause (IV) or (V) of clause (iv), clause (vii), or clause (ix) of subparagraph (D) of paragraph (36) and that meets the requirements described in items (aa) and (bb) of subclause (I); and
+        - **(III)** does not include—
+      - **(v)** the term “Tribal business concern” means a Tribal business concern described in section 657a(b)(2)(C) of this title .
+    - **(B)** Except as otherwise provided in this paragraph, the Administrator may guarantee covered loans to eligible entities under the same terms, conditions, and processes as a loan made under paragraph (36).
+    - **(C)**
+      - **(i)** Except as otherwise provided in this subparagraph, the maximum amount of a covered loan made to an eligible entity is the lesser of—
+        - **(I)** the product obtained by multiplying—
+        - **(II)** $2,000,000.
+      - **(ii)** The maximum amount of a covered loan made to an eligible entity that is a seasonal employer is the lesser of—
+        - **(I)** the product obtained by multiplying—
+        - **(II)** $2,000,000.
+      - **(iii)** The maximum amount of a covered loan made to an eligible entity that did not exist during the 1-year period preceding February 15, 2020 is the lesser of—
+        - **(I)** the product obtained by multiplying—
+        - **(II)** $2,000,000.
+      - **(iv)** The maximum amount of a covered loan made to an eligible entity that is assigned a North American Industry Classification System code beginning with 72 at the time of disbursal is the lesser of—
+        - **(I)** the product obtained by multiplying—
+        - **(II)** $2,000,000.
+    - **(D)**
+      - **(i)** For a business concern with more than 1 physical location, the business concern shall be an eligible entity if the business concern would be eligible for a loan under paragraph (36) pursuant to clause (iii) of subparagraph (D) of such paragraph, as applied in accordance with clause (ii) of this subparagraph, and meets the revenue reduction requirements described in item (bb) of subparagraph (A)(iv)(I).
+      - **(ii)** For purposes of applying clause (i), the Administrator shall substitute “not more than 300 employees” for “not more than 500 employees” in paragraph (36)(D)(iii).
+    - **(E)**
+      - **(i)** The waiver described in paragraph (36)(D)(iv) shall apply for purposes of determining eligibility under this paragraph.
+      - **(ii)** For purposes of applying clause (i), the Administrator shall substitute “not more than 300 employees” for “not more than 500 employees” in subclause (I) and (IV) of paragraph (36)(D)(iv).
+    - **(F)** An eligible entity may only receive 1 covered loan.
+    - **(G)** An eligible entity applying for a covered loan shall not be required to make the certification described in clause (iii) or (iv) of paragraph (36)(G).
+    - **(H)** With respect to a covered loan—
+      - **(i)** in lieu of the fee otherwise applicable under paragraph (23)(A), the Administrator shall collect no fee; and
+      - **(ii)** in lieu of the fee otherwise applicable under paragraph (18)(A), the Administrator shall collect no fee.
+    - **(I)**
+      - **(i)** For a covered loan of not more than $150,000, the eligible entity—
+        - **(I)** may submit a certification attesting that the eligible entity meets the applicable revenue loss requirement under subparagraph (A)(iv)(I)(bb); and
+        - **(II)** if the eligible entity submits a certification under subclause (I), shall, on or before the date on which the eligible entity submits an application for forgiveness under subparagraph (J), produce adequate documentation that the eligible entity met such revenue loss standard.
+      - **(ii)** For purposes of calculating gross receipts under subparagraph (A)(iv)(I)(bb) for an eligible entity that is a nonprofit organization, a veterans organization, or an organization described in subparagraph (A)(iv)(II), gross receipts means gross receipts within the meaning of section 6033 of title 26 .
+    - **(J)**
+      - **(i)** In this subparagraph, the term “covered period” has the meaning given that term in section 636m(a) of this title .
+      - **(ii)** Except as otherwise provided in this subparagraph, an eligible entity shall be eligible for forgiveness of indebtedness on a covered loan in the same manner as an eligible recipient with respect to a loan made under paragraph (36) of this section, as described in section 636m of this title .
+      - **(iii)** An eligible entity shall be eligible for forgiveness of indebtedness on a covered loan in an amount equal to the sum of the following costs incurred or expenditures made during the covered period:
+        - **(I)** Payroll costs, excluding any payroll costs that are—
+        - **(II)** Any payment of interest on any covered mortgage obligation (which shall not include any prepayment of or payment of principal on a covered mortgage obligation).
+        - **(III)** Any covered operations expenditure.
+        - **(IV)** Any covered property damage cost.
+        - **(V)** Any payment on any covered rent obligation.
+        - **(VI)** Any covered utility payment.
+        - **(VII)** Any covered supplier cost.
+        - **(VIII)** Any covered worker protection expenditure.
+      - **(iv)** Subject to any reductions under section 636m(d) of this title , the forgiveness amount under this subparagraph shall be equal to the lesser of—
+        - **(I)** the amount described in clause (ii); and
+        - **(II)** the amount equal to the quotient obtained by dividing—
+      - **(v)** For purposes of applying subsection ( l )(1) of section 636m of this title to a covered loan of not more than $150,000 under this paragraph, an eligible entity may be required to provide, at the time of the application for forgiveness, documentation required to substantiate revenue loss in accordance with subparagraph (I).
+    - **(K)** Except as otherwise provided in this paragraph, a lender approved to make loans under paragraph (36) may make covered loans under the same terms and conditions as in paragraph (36).
+    - **(L)** The Administrator shall reimburse a lender authorized to make a covered loan—
+      - **(i)** for a covered loan of not more than $50,000, in an amount equal to the lesser of—
+        - **(I)** 50 percent of the balance of the financing outstanding at the time of disbursement of the covered loan; or
+        - **(II)** $2,500;
+      - **(ii)** at a rate, based on the balance of the financing outstanding at the time of disbursement of the covered loan, of—
+        - **(I)** 5 percent for a covered loan of more than $50,000 and not more than $350,000; and
+        - **(II)** 3 percent for a covered loan of more than $350,000.
+    - **(M)** Not later than 10 days after December 27, 2020 , the Administrator shall issue guidance addressing barriers to accessing capital for minority, underserved, veteran, and women-owned business concerns for the purpose of ensuring equitable access to covered loans.
+    - **(N)** The Administrator shall, to the maximum extent practicable, allow a lender approved to make covered loans to use existing program guidance and standard operating procedures for loans made under this subsection.
+    - **(O)** A covered loan under this paragraph may only be made to an eligible entity that—
+      - **(i)** has received a loan under paragraph (36); and
+      - **(ii)** on or before the expected date on which the covered loan under this paragraph is disbursed to the eligible entity, has used, or will use, the full amount of the loan received under paragraph (36).
 - **(b)** Except as to agricultural enterprises as defined in section 647(b)(1) of this title , the Administration also is empowered to the extent and in such amounts as provided in advance in appropriation Acts—
   - **(1)**
     - **(A)** to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to repair, rehabilitate or replace property, real or personal, damaged or destroyed by or as a result of natural or other disasters: Provided , That such damage or destruction is not compensated for by insurance or otherwise: And provided further , That the Administration may increase the amount of the loan by up to an additional 20 per centum of the aggregate costs of such damage or destruction (whether or not compensated for by insurance or otherwise) if it determines such increase to be necessary or appropriate in order to protect the damaged or destroyed property from possible future disasters by taking mitigating measures, including—
@@ -295,29 +544,30 @@ generated_at: "2026-03-29T19:27:55.323Z"
       - **(iii)** relocating utilities and modifying structures, including construction of a safe room or similar storm shelter designed to protect property and occupants from tornadoes or other natural disasters, if such safe room or similar storm shelter is constructed in accordance with applicable standards issued by the Federal Emergency Management Agency;
     - **(B)** to refinance any mortgage or other lien against a totally destroyed or substantially damaged home or business concern: Provided , That no loan or guarantee shall be extended unless the Administration finds that (i) the applicant is not able to obtain credit elsewhere; (ii) such property is to be repaired, rehabilitated, or replaced; (iii) the amount refinanced shall not exceed the amount of physical loss sustained; and (iv) such amounts shall be reduced to the extent such mortgage or lien is satisfied by insurance or otherwise; and
     - **(C)** during fiscal years 2000 through 2004, to establish a predisaster mitigation program to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis), as the Administrator may determine to be necessary or appropriate, to enable small businesses to use mitigation techniques in support of a formal mitigation program established by the Federal Emergency Management Agency, except that no loan or guarantee may be extended to a small business under this subparagraph unless the Administration finds that the small business is otherwise unable to obtain credit for the purposes described in this subparagraph;
-  - **(2)** to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to any small business concern, private nonprofit organization, or small agricultural cooperative located in an area affected by a disaster, 5 5 So in original. The comma probably should not appear. (including drought), with respect to both farm-related and nonfarm-related small business concerns, if the Administration determines that the concern, the organization, or the cooperative has suffered a substantial economic injury as a result of such disaster and if such disaster constitutes—
-    - **(A)** a major disaster, as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.); or
-    - **(B)** a natural disaster, as determined by the Secretary of Agriculture pursuant to section 1961 of title 7 , in which case, assistance under this paragraph may be provided to farm-related and nonfarm-related small business concerns, subject to the other applicable requirements of this paragraph; or
-    - **(C)** a disaster, as determined by the Administrator of the Small Business Administration; or
-    - **(D)** if no disaster declaration has been issued pursuant to subparagraph (A), (B), or (C), the Governor of a State in which a disaster has occurred may certify to the Small Business Administration that small business concerns, private nonprofit organizations, or small agricultural cooperatives (1) have suffered economic injury as a result of such disaster, and (2) are in need of financial assistance which is not available on reasonable terms in the disaster stricken area. Not later than 30 days after the date of receipt of such certification by a Governor of a State, the Administration shall respond in writing to that Governor on its determination and the reasons therefore, 6 6 So in original. Probably should be “therefor,”. and may then make such loans as would have been available under this paragraph if a disaster declaration had been issued.
+  - **(2)** to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to any small business concern, private nonprofit organization, or small agricultural cooperative located in an area affected by a disaster, 9 9 So in original. The comma probably should not appear. (including drought), with respect to both farm-related and nonfarm-related small business concerns, if the Administration determines that the concern, the organization, or the cooperative has suffered a substantial economic injury as a result of such disaster and if such disaster constitutes—
+    - **(A)** a major disaster, as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
+    - **(B)** a natural disaster, as determined by the Secretary of Agriculture pursuant to section 1961 of title 7 , in which case, assistance under this paragraph may be provided to farm-related and nonfarm-related small business concerns, subject to the other applicable requirements of this paragraph;
+    - **(C)** a disaster, as determined by the Administrator of the Small Business Administration;
+    - **(D)** an emergency involving Federal primary responsibility determined to exist by the President under the section 5191(b) of title 42 ; or
+    - **(E)** if no disaster or emergency declaration has been issued pursuant to subparagraph (A), (B), (C), or (D), the Governor of a State in which a disaster or emergency has occurred may certify to the Small Business Administration that small business concerns, private nonprofit organizations, or small agricultural cooperatives (1) have suffered economic injury as a result of such disaster or emergency, and (2) are in need of financial assistance which is not available on reasonable terms in the disaster- or emergency-stricken area. Not later than 30 days after the date of receipt of such certification by a Governor of a State, the Administration shall respond in writing to that Governor on its determination and the reasons therefore, 10 10 So in original. Probably should be “therefor,”. and may then make such loans as would have been available under this paragraph if a disaster or emergency declaration had been issued.
   - **(3)**
     - **(A)** In this paragraph—
-      - **(i)** the term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern;
-      - **(ii)** the term “period of military conflict” has the meaning given the term in subsection (n)(1); and
+      - **(i)** the term “active service” has the meaning given that term in section 101(d)(3) of title 10 ;
+      - **(ii)** the term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern; and
       - **(iii)** the term “substantial economic injury” means an economic harm to a business concern that results in the inability of the business concern—
         - **(I)** to meet its obligations as they mature;
         - **(II)** to pay its ordinary and necessary operating expenses; or
         - **(III)** to market, produce, or provide a product or service ordinarily marketed, produced, or provided by the business concern.
-    - **(B)** The Administration may make such disaster loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) to assist a small business concern that has suffered or that is likely to suffer substantial economic injury as the result of an essential employee of such small business concern being ordered to active military duty during a period of military conflict.
-    - **(C)** A small business concern described in subparagraph (B) shall be eligible to apply for assistance under this paragraph during the period beginning on the date on which the essential employee is ordered to active duty and ending on the date that is 1 year after the date on which such essential employee is discharged or released from active duty. The Administrator may, when appropriate (as determined by the Administrator), extend the ending date specified in the preceding sentence by not more than 1 year.
+    - **(B)** The Administration may make such disaster loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) to assist a small business concern that has suffered or that is likely to suffer substantial economic injury as the result of an essential employee of such small business concern being ordered to perform active service for a period of more than 30 consecutive days.
+    - **(C)** A small business concern described in subparagraph (B) shall be eligible to apply for assistance under this paragraph during the period beginning on the date on which the essential employee is ordered to active service and ending on the date that is 1 year after the date on which such essential employee is discharged or released from active service. The Administrator may, when appropriate (as determined by the Administrator), extend the ending date specified in the preceding sentence by not more than 1 year.
     - **(D)** Any loan or guarantee extended pursuant to this paragraph shall be made at the same interest rate as economic injury loans under paragraph (2).
-    - **(E)** No loan may be made under this paragraph, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis, if the total amount outstanding and committed to the borrower under this subsection would exceed $1,500,000, unless such applicant constitutes, or have 7 7 So in original. Probably should be “has”. become due to changed economic circumstances, a major source of employment in its surrounding area, as determined by the Administration, in which case the Administration, in its discretion, may waive the $1,500,000 limitation.
+    - **(E)** No loan may be made under this paragraph, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis, if the total amount outstanding and committed to the borrower under this subsection would exceed $1,500,000, unless such applicant constitutes, or have 11 11 So in original. Probably should be “has”. become due to changed economic circumstances, a major source of employment in its surrounding area, as determined by the Administration, in which case the Administration, in its discretion, may waive the $1,500,000 limitation.
     - **(F)** For purposes of assistance under this paragraph, no declaration of a disaster area shall be required.
     - **(G)**
       - **(i)** Notwithstanding any other provision of law, the Administrator may make a loan under this paragraph of not more than $50,000 without collateral.
       - **(ii)** The Administrator may defer payment of principal and interest on a loan described in clause (i) during the longer of—
         - **(I)** the 1-year period beginning on the date of the initial disbursement of the loan; and
-        - **(II)** the period during which the relevant essential employee is on active duty.
+        - **(II)** the period during which the relevant essential employee is on active service.
     - **(H)** The Administrator shall give priority to any application for a loan under this paragraph and shall process and make a determination regarding such applications prior to processing or making a determination on other loan applications under this subsection, on a rolling basis.
   - **(4)**
     - **(A)** Notwithstanding any other provision of law, for any disaster declared under this subsection or major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), the Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, shall ensure, to the maximum extent practicable, that all application periods for disaster relief under this chapter correspond with application deadlines established under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), or as extended by the President.
@@ -402,7 +652,7 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(D)** shall notwithstanding the provisions of any other law and upon presentation by the applicant of proof of loss or damage or injury and a bona fide estimate of cost of repair, rehabilitation, or replacement, cancel the principal of any loan made to cover a loss or damage or injury resulting from such disaster, except that—
       - **(i)** with respect to a loan made in connection with a disaster occurring on or after January 1, 1971 but prior to January 1, 1972 , the total amount so canceled shall not exceed $2,500, and the interest on the balance of the loan shall be at a rate of 3 per centum per annum; and
       - **(ii)** with respect to a loan made in connection with a disaster occurring on or after January 1, 1972 but prior to July 1, 1973 , the total amount so canceled shall not exceed $5,000 and the interest on the balance of the loan shall be at a rate of 1 percentum per annum.
-    - **(E)** 8 8 See 1980 Amendment note below. A State grant made on or prior to July 1, 1979 , shall not be considered compensation for the purpose of applying the provisions of section 312(a) of the Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5155(a) ] to a disaster loan under paragraph (1) (2) 9 9 So in original. Probably should be “or (2)”. of this subsection.
+    - **(E)** 12 12 See 1980 Amendment note below. A State grant made on or prior to July 1, 1979 , shall not be considered compensation for the purpose of applying the provisions of section 312(a) of the Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5155(a) ] to a disaster loan under paragraph (1) (2) 13 13 So in original. Probably should be “or (2)”. of this subsection.
       - **(i)** make such change in the interest rate on the balance of such loan as is required under that clause effective as of August 16, 1972 ; and
       - **(ii)** in applying the limitation set forth in that clause with respect to the total amount of such loan which may be canceled, consider as part of the amount so canceled any part of such loan which was previously canceled pursuant to section 231 of the Disaster Relief Act of 1970 [ 15 U.S.C. 636a ].
 - **(c)**
@@ -443,12 +693,12 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(B)** Not later than 6 months after the date of enactment of the Small Business Disaster Response and Loan Improvements Act of 2008, the Administrator shall submit a report on the progress of the regulations required by subparagraph (A) to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives.
   - **(11)**
     - **(A)** Amounts necessary to carry out this subsection shall be made available from amounts appropriated to the Administration to carry out subsection (b).
-    - **(B)** Funds appropriated to the Administration to carry out this subsection, 5 may be used by the Administrator to meet the loan terms and conditions specified in paragraph (6).
+    - **(B)** Funds appropriated to the Administration to carry out this subsection, 9 may be used by the Administrator to meet the loan terms and conditions specified in paragraph (6).
   - **(12)** The Administrator may enter into an agreement with a qualified private lender or preferred lender to purchase any loan guaranteed under this subsection.
 - **(d)**
   - **(1)** The Administration may further extend the maturity of or renew any loan made pursuant to this section, or any loan transferred to the Administration pursuant to Reorganization Plan Numbered 2 of 1954, or Reorganization Plan Numbered 1 of 1957, for additional periods not to exceed ten years beyond the period stated therein, if such extension or renewal will aid in the orderly liquidation of such loan.
   - **(2)** During any period in which principal and interest charges are suspended on the Federal share of any loan, as provided in subsection (b), the Administrator shall, upon the request of any person, firm, or corporation having a participation in such loan, purchase such participation, or assume the obligation of the borrower, for the balance of such period, to make principal and interest payments on the non-Federal share of such loan: Provided , That no such payments shall be made by the Administrator in behalf of any borrower unless (i) the Administrator determines that such action is necessary in order to avoid a default, and (ii) the borrower agrees to make payments to the Administration in an aggregate amount equal to the amount paid in its behalf by the Administrator, in such manner and at such times (during or after the term of the loan) as the Administrator shall determine having due regard to the purposes sought to be achieved by this paragraph.
-  - **(3)** With respect to a disaster occurring on or after October 1, 1978 , and prior 10 10 So in original. Probably should be “prior to”. August 13, 1981 , on the Administration’s share of loans made pursuant to paragraph (1) of subsection (b)—
+  - **(3)** With respect to a disaster occurring on or after October 1, 1978 , and prior 14 14 So in original. Probably should be “prior to”. August 13, 1981 , on the Administration’s share of loans made pursuant to paragraph (1) of subsection (b)—
     - **(A)** if the loan proceeds are to repair or replace a primary residence and/or repair or replace damaged or destroyed personal property, the interest rate shall be 3 percent on the first $55,000 of such loan;
     - **(B)** if the loan proceeds are to repair or replace property damaged or destroyed and if the applicant is a business concern which is unable to obtain sufficient credit elsewhere, the interest rate shall be as determined by the Administration, but not in excess of 5 percent per annum; and
     - **(C)** if the loan proceeds are to repair or replace property damaged or destroyed and if the applicant is a business concern which is able to obtain sufficient credit elsewhere, the interest rate shall not exceed the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans and adjusted to the nearest one-eighth of 1 percent, and an additional amount as determined by the Administration, but not to exceed 1 percent: Provided , That three years after such loan is fully disbursed and every two years thereafter for the term of the loan, if the Administration determines that the borrower is able to obtain a loan from non-Federal sources at reasonable rates and terms for loans of similar purposes and periods of time, the borrower shall, upon request by the Administration, apply for and accept such a loan in sufficient amount to repay the Administration: Provided further , That no loan under subsection (b)(1) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis, if the total amount outstanding and committed to the borrower under such subsection would exceed $500,000 for each disaster, unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation.
@@ -511,11 +761,11 @@ generated_at: "2026-03-29T19:27:55.323Z"
   - **(5)** The financial assistance authorized for projects under this subsection includes assistance advanced by grant, agreement, or contract.
   - **(6)** The Administration is authorized to make payments under grants and contracts entered into under this subsection in lump sum or installments, and in advance or by way of reimbursement, and in the case of grants, with necessary adjustments on account of overpayments or underpayments.
   - **(7)** To the extent feasible, services under this subsection shall be provided in a location which is easily accessible to the individuals and small business concerns served.
-  - **(8)** Repealed. Pub. L. 101–574, title II , § 242(2), Nov. 15, 1990 , 104 Stat. 2827 .
+  - **(8)** Repealed. Pub. L. 101–574, title II, § 242(2) , Nov. 15, 1990 , 104 Stat. 2827 .
   - **(9)** The Administration shall take such steps as may be necessary and appropriate, in coordination and cooperation with the heads of other Federal departments and agencies, to insure that contracts, subcontracts, and deposits made by the Federal Government or with programs aided with Federal funds are placed in such way as to further the purposes of subsections (i) and (j) and section 637(a) of this title .
   - **(10)** There is established within the Administration a small business and capital ownership development program (hereinafter referred to as the “Program”) which shall provide assistance exclusively for small business concerns eligible to receive contracts pursuant to section 637(a) of this title . The program, and all other services and activities authorized under this subsection and section 637(a) of this title , shall be managed by the Associate Administrator for Minority Small Business and Capital Ownership Development under the supervision of, and responsible to, the Administrator.
     - **(A)** The Program shall—
-      - **(i)** assist small business concerns participating in the Program (either through public or private organizations) to develop and maintain comprehensive business plans which set forth the Program Participant’s specific business targets, objectives, and goals developed and maintained in conformity with subparagraph (D). 12 12 So in original. The period probably should be a semicolon.
+      - **(i)** assist small business concerns participating in the Program (either through public or private organizations) to develop and maintain comprehensive business plans which set forth the Program Participant’s specific business targets, objectives, and goals developed and maintained in conformity with subparagraph (D). 16 16 So in original. The period probably should be a semicolon.
       - **(ii)** provide for such other nonfinancial services as deemed necessary for the establishment, preservation, and growth of small business concerns participating in the Program, including but not limited to (I) loan packaging, (II) financial counseling, (III) accounting and bookkeeping assistance, (IV) marketing assistance, and (V) management assistance;
       - **(iii)** assist small business concerns participating in the Program to obtain equity and debt financing;
       - **(iv)** establish regular performance monitoring and reporting systems for small business concerns participating in the Program to assure compliance with their business plans;
@@ -602,7 +852,7 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(A)** The Administration shall segment the Capital Ownership Development Program into two stages: a developmental stage; and a transitional stage.
     - **(B)** The developmental stage of program participation shall be designed to assist the concern in its effort to overcome its economic disadvantage by providing such assistance as may be necessary and appropriate to access its markets and to strengthen its financial and managerial skills.
     - **(C)** The transitional stage of program participation shall be designed to overcome, insofar as practicable, the remaining elements of economic disadvantage and to prepare such concern for graduation from the program.
-  - **(13)** A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: 13 13 So in original. Probably should be “paragraph (12):”.
+  - **(13)** A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: 17 17 So in original. Probably should be “paragraph (12):”.
     - **(A)** Contract support pursuant to section 637(a) of this title .
     - **(B)** Financial assistance pursuant to subsection (a)(20).
     - **(C)** A maximum of two exemptions from the requirements of section 35(a) 2 of title 41, which exemptions shall apply only to contracts awarded pursuant to section 637(a) of this title and shall only be used to allow for contingent agreements by a small business concern to acquire the machinery, equipment, facilities, or labor needed to perform such contracts. No exemption shall be made pursuant to this subparagraph if the contract to which it pertains has an anticipated value in excess of $10,000,000. This subparagraph shall cease to be effective on October 1, 1992 .
@@ -626,6 +876,9 @@ generated_at: "2026-03-29T19:27:55.323Z"
         - **(III)** For any transfer of property under this clause to a small business concern, the terms and conditions shall be the same as a transfer to a Program Participant, except that the small business concern shall agree not to sell or transfer the property to any party other than the Federal Government during the covered period.
         - **(IV)** A small business concern that receives a transfer of property under this clause may not receive a transfer of property under clause (i) during the covered period.
         - **(V)** If a small business concern sells or transfers property in violation of the agreement described in subclause (III), the Administrator may initiate proceedings to prohibit the small business concern from receiving a transfer of property under this clause or clause (i), in addition to any other remedy available to the Administrator.
+      - **(iii)**
+        - **(I)** In this clause, the term “covered period” means—
+        - **(II)** The Administrator may transfer technology or surplus property under clause (i) to a Puerto Rico business or a covered territory business if either such business meets the requirements for such a transfer, without regard to whether either such business is a Program Participant.
     - **(G)** Training assistance whereby the Administration shall conduct training sessions to assist individuals and enterprises eligible to receive contracts under section 637(a) of this title in the development of business principles and strategies to enhance their ability to successfully compete for contracts in the marketplace.
     - **(H)** Joint ventures, leader-follower arrangements, and teaming agreements between the Program Participant and other Program Participants and other business concerns with respect to contracting opportunities for the research, development, full-scale engineering or production of major systems. Such activities shall be undertaken on the basis of programs developed by the agency responsible for the procurement of the major system, with the assistance of the Administration.
     - **(I)** Transitional management business planning training and technical assistance.
@@ -720,13 +973,13 @@ generated_at: "2026-03-29T19:27:55.323Z"
         - **(VIII)** any plan to involve other technical assistance providers (such as counselors from the Service Corps of Retired Executives or small business development centers) or private sector lenders in assisting selected business concerns.
       - **(ii)** In selecting intermediaries to participate in the program established under this subsection, the Administration shall give priority to those applicants that provide loans in amounts averaging not more than $10,000.
     - **(B)** As a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
-    - **(C)** Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $5,000,000 in the remaining years of the intermediary’s participation in the program.
+    - **(C)** Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, $7,000,000 (in the aggregate) in the remaining years of the intermediary’s participation in the program, and $3,000,000 in any of those remaining years.
     - **(D)**
       - **(i)** The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
       - **(ii)**
         - **(I)** Subject to subclause (III), the Administrator shall require the loan loss reserve fund of an intermediary to be maintained at a level equal to 15 percent of the outstanding balance of the notes receivable owed to the intermediary.
         - **(II)** After the initial 5 years of an intermediary’s participation in the program authorized by this subsection, the Administrator shall, at the request of the intermediary, conduct a review of the annual loss rate of the intermediary. Any intermediary in operation under this subsection prior to October 1, 1994 , that requests a reduction in its loan loss reserve shall be reviewed based on the most recent 5-year period preceding the request.
-        - **(III)** Subject to the requirements of clause IV, 14 14 So in original. Probably should be “subclause (IV),”. the Administrator may reduce the annual loan loss reserve requirement of an intermediary to reflect the actual average loan loss rate for the intermediary during the preceding 5-year period, except that in no case shall the loan loss reserve be reduced to less than 10 percent of the outstanding balance of the notes receivable owed to the intermediary.
+        - **(III)** Subject to the requirements of clause IV, 18 18 So in original. Probably should be “subclause (IV),”. the Administrator may reduce the annual loan loss reserve requirement of an intermediary to reflect the actual average loan loss rate for the intermediary during the preceding 5-year period, except that in no case shall the loan loss reserve be reduced to less than 10 percent of the outstanding balance of the notes receivable owed to the intermediary.
         - **(IV)** The Administrator may reduce the annual loan loss reserve requirement of an intermediary only if the intermediary demonstrates to the satisfaction of the Administrator that—
     - **(E)** An intermediary may make a loan under this subsection of more than $20,000 to a small business concern only if such small business concern demonstrates that it is unable to obtain credit elsewhere at comparable interest rates and that it has good prospects for success. In no case shall an intermediary make a loan under this subsection of more than $50,000, or have outstanding or committed to any 1 borrower more than $50,000.
     - **(F)**
@@ -741,16 +994,18 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(G)** The Administration shall not require repayment of interest or principal of a loan made to an intermediary under this subsection during the first year of the loan.
     - **(H)** Except as provided in subparagraphs (B) and (D), the Administration shall not charge any fees or require collateral other than an assignment of the notes receivable of the microloans with respect to any loan made to an intermediary under this subsection.
   - **(4)** Grants made in accordance with subparagraph (B)(ii) of paragraph (1) shall be subject to the following requirements:
-    - **(A)** Except as otherwise provided in subparagraph (C) and subject to subparagraph (B), each intermediary that receives a loan under subparagraph (B)(i) of paragraph (1) shall be eligible to receive a grant to provide marketing, management, and technical assistance to small business concerns that are borrowers under this subsection. Except as provided in subparagraph (C), each intermediary meeting the requirements of subparagraph (B) may receive a grant of not more than 25 percent of the total outstanding balance of loans made to it under this subsection.
+    - **(A)** Except as otherwise provided in subparagraphs (C) and (G) and subject to subparagraph (B), each intermediary that receives a loan under subparagraph (B)(i) of paragraph (1) shall be eligible to receive a grant to provide marketing, management, and technical assistance to small business concerns that are borrowers under this subsection. Except as provided in subparagraphs (C) and (G), each intermediary meeting the requirements of subparagraph (B) may receive a grant of not more than 25 percent of the total outstanding balance of loans made to it under this subsection.
     - **(B)** As a condition of a grant made under subparagraph (A), the Administrator shall require the intermediary to contribute an amount equal to 25 percent of the amount of the grant, obtained solely from non-Federal sources. In addition to cash or other direct funding, the contribution may include indirect costs or in-kind contributions paid for under non-Federal programs.
     - **(C)**
-      - **(i)** Each intermediary that has a portfolio of loans made under this subsection that averages not more than $10,000 during the period of the intermediary’s participation in the program shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection, in addition to grants made under subparagraph (A).
+      - **(i)** In addition to grants made under subparagraph (A) or (G), each intermediary shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection if—
+        - **(I)** the intermediary provides not less than 25 percent of its loans to small business concerns located in or owned by 1 or more residents of an economically distressed area; or
+        - **(II)** the intermediary has a portfolio of loans made under this subsection—
       - **(ii)** A grant awarded under clause (i) may be used to provide marketing, management, and technical assistance to small business concerns that are borrowers under this subsection.
       - **(iii)** The contribution requirements in subparagraph (B) do not apply to grants made under this subparagraph.
-    - **(D)** The eligibility for a grant described in subparagraph (A), 5 or (C) shall be determined separately for each loan-making site or office of 1 intermediary.
+    - **(D)** The eligibility for a grant described in subparagraph (A), 9 or (C) shall be determined separately for each loan-making site or office of 1 intermediary.
     - **(E)**
-      - **(i)** Each intermediary may expend an amount not to exceed 25 percent of the grant funds received under paragraph (1)(B)(ii) to provide information and technical assistance to small business concerns that are prospective borrowers under this subsection.
-      - **(ii)** An intermediary may expend not more than 25 percent of the funds received under paragraph (1)(B)(ii) to enter into third party contracts for the provision of technical assistance.
+      - **(i)** Each intermediary may expend an amount not to exceed 50 percent of the grant funds received under paragraph (1)(B)(ii) to provide information and technical assistance to small business concerns that are prospective borrowers under this subsection.
+      - **(ii)** An intermediary may expend not more than 50 percent of the funds received under paragraph (1)(B)(ii) to enter into third party contracts for the provision of technical assistance.
     - **(F)**
       - **(i)** The Administration may accept any funds transferred to the Administration from other departments or agencies of the Federal Government to make grants in accordance with this subparagraph and section 202(b) of the Small Business Reauthorization Act of 1997 to participating intermediaries and technical assistance providers under paragraph (5), for use in accordance with clause (iii) to provide additional technical assistance and related services to recipients of assistance under a State program described in paragraph (1)(A)(iv) at the time they initially apply for assistance under this subparagraph.
       - **(ii)** In making grants under this subparagraph, the Administration may select, from among participating intermediaries and technical assistance providers described in clause (i), not more than 20 grantees in fiscal year 1998, not more than 25 grantees in fiscal year 1999, and not more than 30 grantees in fiscal year 2000, each of whom may receive a grant under this subparagraph in an amount not to exceed $200,000 per year.
@@ -760,6 +1015,7 @@ generated_at: "2026-03-29T19:27:55.323Z"
       - **(iv)** Prior to accepting any transfer of funds under clause (i) from a department or agency of the Federal Government, the Administration shall enter into a Memorandum of Understanding with the department or agency, which shall—
         - **(I)** specify the terms and conditions of the grants under this subparagraph; and
         - **(II)** provide for appropriate monitoring of expenditures by each grantee under this subparagraph and each recipient of assistance described in clause (i) who receives assistance from a grantee under this subparagraph, in order to ensure compliance with this subparagraph by those grantees and recipients of assistance.
+    - **(G)** In any fiscal year in which the amount appropriated to make grants under subparagraph (A) is sufficient to provide to each intermediary that receives a loan under paragraph (1)(B)(i) a grant of not less than 25 percent of the total outstanding balance of loans made to the intermediary under this subsection, the Administration shall make a grant under subparagraph (A) to each intermediary of not less than 25 percent and not more than 30 percent of that total outstanding balance for the intermediary.
   - **(5)** Grants made in accordance with subparagraph (B)(iii) of paragraph (1) shall be subject to the following requirements:
     - **(A)** Subject to the requirements of subparagraph (B), the Administration may make not more than 55 grants annually, each in amounts not to exceed $200,000 for the purposes specified in subparagraph (B)(iii) of paragraph (1).
     - **(B)** As a condition of any grant made under subparagraph (A), the Administration shall require the grant recipient to contribute an amount equal to 20 percent of the amount of the grant, obtained solely from non-Federal sources. In addition to cash or other direct funding, the contribution may include indirect costs or in-kind contributions paid for under non-Federal programs.
@@ -781,7 +1037,7 @@ generated_at: "2026-03-29T19:27:55.323Z"
   - **(8)** In approving microloan program applicants and providing funding to intermediaries under this subsection, the Administration shall select and provide funding to such intermediaries as will ensure appropriate availability of loans for small businesses in all industries located throughout each State, particularly those located in urban and in rural areas.
   - **(9)**
     - **(A)** The Administration may procure technical assistance for intermediaries participating in the Microloan Program to ensure that such intermediaries have the knowledge, skills, and understanding of microlending practices necessary to operate successful microloan programs.
-    - **(B)** The Administration shall transfer 7 percent of its annual appropriation for loans and loan guarantees under this subsection to the Administration’s Salaries and Expense Account for the specific purpose of providing 1 or more technical assistance grants to experienced microlending organizations and national and regional nonprofit organizations that have demonstrated experience in providing training support for microenterprise development and financing. 18 18 So in original. The period probably should not appear. to achieve the purpose set forth in subparagraph (A).
+    - **(B)** The Administration shall transfer 7 percent of its annual appropriation for loans and loan guarantees under this subsection to the Administration’s Salaries and Expense Account for the specific purpose of providing 1 or more technical assistance grants to experienced microlending organizations and national and regional nonprofit organizations that have demonstrated experience in providing training support for microenterprise development and financing. 21 21 So in original. The period probably should not appear. to achieve the purpose set forth in subparagraph (A).
     - **(C)** Of amounts made available to carry out the welfare-to-work microloan initiative under paragraph (1)(A)(iv) in any fiscal year, the Administration may use not more than 5 percent to provide technical assistance, either directly or through contractors, to welfare-to-work microloan initiative grantees, to ensure that, as grantees, they have the knowledge, skills, and understanding of microlending and welfare-to-work transition, and other related issues, to operate a successful welfare-to-work microloan initiative.
   - **(10)** On November 1, 1995 , the Administration shall submit to the Committees on Small Business of the Senate and the House of Representatives a report, including the Administration’s evaluation of the effectiveness of the first 3½ years of the microloan program and the following:
     - **(A)** the numbers and locations of the intermediaries funded to conduct microloan programs;
@@ -803,7 +1059,8 @@ generated_at: "2026-03-29T19:27:55.323Z"
     - **(B)** the term “microloan” means a short-term, fixed rate loan of not more than $50,000, made by an intermediary to a startup, newly established, or growing small business concern;
     - **(C)** the term “rural area” means any political subdivision or unincorporated area—
       - **(i)** in a nonmetropolitan county (as defined by the Secretary of Agriculture) or its equivalent thereof; or
-      - **(ii)** in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural.
+      - **(ii)** in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural. 22 22 So in original. The period probably should be “; and”.
+    - **(D)** the term “economically distressed area”, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
   - **(12)** In lieu of making direct loans to intermediaries as authorized in paragraph (1)(B), during fiscal years 1998 through 2000, the Administration may, on a pilot program basis, participate on a deferred basis of not less than 90 percent and not more than 100 percent on loans made to intermediaries by a for-profit or nonprofit entity or by alliances of such entities, subject to the following conditions:
     - **(A)** In carrying out this paragraph, the Administration shall not participate in providing financing on a deferred basis to more than 10 intermediaries in urban areas or more than 10 intermediaries in rural areas.
     - **(B)** The term of each loan shall be 10 years. During the first year of the loan, the intermediary shall not be required to repay any interest or principal. During the second through fifth years of the loan, the intermediary shall be required to pay interest only. During the sixth through tenth years of the loan, the intermediary shall be required to make interest payments and fully amortize the principal.
@@ -811,18 +1068,15 @@ generated_at: "2026-03-29T19:27:55.323Z"
   - **(13)** On January 31, 1999 , and annually thereafter, the Administration shall submit to the Committees on Small Business of the House of Representatives and the Senate a report on any monies distributed pursuant to paragraph (4)(F).
 - **(n)**
   - **(1)** In this subsection:
-    - **(A)** The term “eligible reservist” means a member of a reserve component of the Armed Forces ordered to active duty during a period of military conflict.
-    - **(B)** The term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern.
-    - **(C)** The term “period of military conflict” means—
-      - **(i)** a period of war declared by the Congress;
-      - **(ii)** a period of national emergency declared by the Congress or by the President; or
-      - **(iii)** a period of a contingency operation, as defined in section 101(a) of title 10 .
+    - **(A)** The term “active service” has the meaning given that term in section 101(d)(3) of title 10 .
+    - **(B)** The term “eligible reservist” means a member of a reserve component of the Armed Forces ordered to perform active service for a period of more than 30 consecutive days.
+    - **(C)** The term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern.
     - **(D)** The term “qualified borrower” means—
-      - **(i)** an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) before being ordered to active duty; or
-      - **(ii)** a small business concern that received a direct loan under subsection (a) or (b) before an eligible reservist, who is an essential employee, was ordered to active duty.
+      - **(i)** an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) before being ordered to active service; or
+      - **(ii)** a small business concern that received a direct loan under subsection (a) or (b) before an eligible reservist, who is an essential employee, was ordered to active service.
   - **(2)**
     - **(A)** The Administration shall, upon written request, defer repayment of principal and interest due on a direct loan made under subsection (a) or (b), if such loan was incurred by a qualified borrower.
-    - **(B)** The period of deferral for repayment under this paragraph shall begin on the date on which the eligible reservist is ordered to active duty and shall terminate on the date that is 180 days after the date such eligible reservist is discharged or released from active duty.
+    - **(B)** The period of deferral for repayment under this paragraph shall begin on the date on which the eligible reservist is ordered to active service and shall terminate on the date that is 180 days after the date such eligible reservist is discharged or released from active service.
     - **(C)** Notwithstanding any other provision of law, during the period of deferral described in subparagraph (B), the Administration may, in its discretion, reduce the interest rate on any loan qualifying for a deferral under this paragraph.
   - **(3)** The Administration shall—
     - **(A)** encourage intermediaries participating in the program under subsection (m) to defer repayment of a loan made with proceeds made available under that subsection, if such loan was incurred by a small business concern that is eligible to apply for assistance under subsection (b)(3); and

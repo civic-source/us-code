@@ -3,9 +3,9 @@ title: "Section 2508 - Foreign participants; admission into the United States as
 usc_title: 22
 usc_section: "2508"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2508"
-generated_at: "2026-03-29T19:29:46.792Z"
+generated_at: "2026-03-29T19:42:08.102Z"
 ---
 
 # § 2508. Foreign participants; admission into the United States as nonimmigrants; removal

@@ -3,9 +3,9 @@ title: "Section 24305 - General authority"
 usc_title: 49
 usc_section: "24305"
 chapter: 243
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 24305"
-generated_at: "2026-03-29T19:32:28.804Z"
+generated_at: "2026-03-29T19:44:57.918Z"
 ---
 
 # § 24305. General authority
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:32:28.804Z"
   - **(1)** make and carry out appropriate agreements;
   - **(2)** transport mail and express and shall use all feasible methods to obtain the bulk mail business of the United States Postal Service;
   - **(3)** improve its reservation system and advertising;
-  - **(4)** provide food and beverage services on its trains only if revenues from the services each year at least equal the cost of providing the services;
+  - **(4)** provide food and beverage services on its trains;
   - **(5)** conduct research, development, and demonstration programs related to the mission of Amtrak; and
   - **(6)** buy or lease rail rolling stock and develop and demonstrate improved rolling stock.
 - **(d)**

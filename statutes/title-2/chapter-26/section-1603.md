@@ -3,9 +3,9 @@ title: "Section 1603 - Registration of lobbyists"
 usc_title: 2
 usc_section: "1603"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1603"
-generated_at: "2026-03-29T19:27:07.561Z"
+generated_at: "2026-03-29T19:42:59.660Z"
 ---
 
 # § 1603. Registration of lobbyists
@@ -32,8 +32,9 @@ generated_at: "2026-03-29T19:27:07.561Z"
     - **(C)** is an affiliate of the client or any organization identified under paragraph (3) and has a direct interest in the outcome of the lobbying activity;
   - **(5)** a statement of—
     - **(A)** the general issue areas in which the registrant expects to engage in lobbying activities on behalf of the client; and
-    - **(B)** to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities; and
-  - **(6)** the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served.
+    - **(B)** to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities;
+  - **(6)** the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served; and
+  - **(7)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 - **(c)**
   - **(1)** In the case of a registrant making lobbying contacts on behalf of more than 1 client, a separate registration under this section shall be filed for each such client.
   - **(2)** A registrant who makes more than 1 lobbying contact for the same client shall file a single registration covering all such lobbying contacts.

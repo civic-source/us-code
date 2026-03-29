@@ -3,9 +3,9 @@ title: "Section 1022d - Accountability for programs that prepare teachers"
 usc_title: 20
 usc_section: "1022d"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1022d"
-generated_at: "2026-03-29T19:28:42.959Z"
+generated_at: "2026-03-29T19:41:03.179Z"
 ---
 
 # § 1022d. Accountability for programs that prepare teachers

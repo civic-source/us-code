@@ -3,9 +3,9 @@ title: "Section 77mmm - Reports by indenture trustee"
 usc_title: 15
 usc_section: "77mmm"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 77mmm"
-generated_at: "2026-03-29T19:27:55.084Z"
+generated_at: "2026-03-29T19:44:42.496Z"
 ---
 
 # § 77mmm. Reports by indenture trustee
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:27:55.084Z"
   - **(1)** any change to its eligibility and its qualifications under section 77jjj of this title ;
   - **(2)** the creation of or any material change to a relationship specified in paragraph 2 2 So in original. Probably should be “paragraphs”. (1) through (10) of section 77jjj(b) of this title ;
   - **(3)** the character and amount of any advances made by it, as indenture trustee, which remain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 per centum of the principal amount of the indenture securities outstanding on such date;
-  - **(4)** any change to the amount, interest rate, and maturity date of all other indebtedness owning to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title ;
+  - **(4)** any change to the amount, interest rate, and maturity date of all other indebtedness owing to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title ;
   - **(5)** any change to the property and funds physically in its possession as indenture trustee on the date of such report;
   - **(6)** any release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) which it has not previously reported;
   - **(7)** any additional issue of indenture securities which it has not previously reported; and

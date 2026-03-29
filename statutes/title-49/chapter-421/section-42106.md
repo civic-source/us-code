@@ -1,12 +1,12 @@
 ---
-title: "Section 42106 - Repealed. Pub. L. 105–220, title I , § 199(a)(6), Aug. 7, 1998 , 112 Stat. 1059 ]"
+title: "Section 42106 - Repealed. Pub. L. 105–220, title I, § 199(a)(6) , Aug. 7, 1998 , 112 Stat. 1059 ]"
 usc_title: 49
 usc_section: "42106"
 chapter: 421
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 42106"
-generated_at: "2026-03-29T19:32:28.871Z"
+generated_at: "2026-03-29T19:44:57.987Z"
 ---
 
-# [§§ 42101 to 42106. Repealed. Pub. L. 105–220, title I , § 199(a)(6), Aug. 7, 1998 , 112 Stat. 1059 ]
+# [§§ 42101 to 42106. Repealed. Pub. L. 105–220, title I, § 199(a)(6) , Aug. 7, 1998 , 112 Stat. 1059 ]
 

@@ -3,9 +3,9 @@ title: "Section 7214 - Offenses by officers and employees of the United States"
 usc_title: 26
 usc_section: "7214"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7214"
-generated_at: "2026-03-29T19:30:20.238Z"
+generated_at: "2026-03-29T19:42:48.007Z"
 ---
 
 # § 7214. Offenses by officers and employees of the United States
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:30:20.238Z"
   - **(8)** who, having knowledge or information of the violation of any revenue law by any person, or of fraud committed by any person against the United States under any revenue law, fails to report, in writing, such knowledge or information to the Secretary; or
   - **(9)** who demands, or accepts, or attempts to collect, directly or indirectly as payment or gift, or otherwise, any sum of money or other thing of value for the compromise, adjustment, or settlement of any charge or complaint for any violation or alleged violation of law, except as expressly authorized by law so to do;
 - **(b)** Any internal revenue officer or employee interested, directly or indirectly, in the manufacture of tobacco, snuff, or cigarettes, or in the production, rectification, or redistillation of distilled spirits, shall be dismissed from office; and each such officer or employee so interested in any such manufacture or production, rectification, or redistillation or production of fermented liquors shall be fined not more than $5,000.
-- **(c)** For penalty on collecting or disbursing officers trading in public funds or debts of property, see 18 U.S.C. 1901 .
+- **(c)** For penalty on collecting or disbursing officers trading in public funds or debts or property, see 18 U.S.C. 1901 .

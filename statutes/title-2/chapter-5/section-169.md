@@ -3,9 +3,9 @@ title: "Section 169 - Positions in Library of Congress exempt from citizenship r
 usc_title: 2
 usc_section: "169"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 169"
-generated_at: "2026-03-29T19:27:07.503Z"
+generated_at: "2026-03-29T19:42:59.593Z"
 ---
 
 # § 169. Positions in Library of Congress exempt from citizenship requirement

@@ -3,9 +3,9 @@ title: "Section 5302 - Congressional declaration of policy"
 usc_title: 25
 usc_section: "5302"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 5302"
-generated_at: "2026-03-29T19:29:34.891Z"
+generated_at: "2026-03-29T19:41:28.486Z"
 ---
 
 # § 5302. Congressional declaration of policy

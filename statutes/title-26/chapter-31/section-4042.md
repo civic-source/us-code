@@ -3,9 +3,9 @@ title: "Section 4042 - Tax on fuel used in commercial transportation on inland w
 usc_title: 26
 usc_section: "4042"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4042"
-generated_at: "2026-03-29T19:30:20.072Z"
+generated_at: "2026-03-29T19:42:47.879Z"
 ---
 
 # § 4042. Tax on fuel used in commercial transportation on inland waterways
@@ -13,16 +13,11 @@ generated_at: "2026-03-29T19:30:20.072Z"
 - **(a)** There is hereby imposed a tax on any liquid used during any calendar quarter by any person as a fuel in a vessel in commercial waterway transportation.
 - **(b)**
   - **(1)** The rate of the tax imposed by subsection (a) is the sum of—
-    - **(A)** the Inland Waterways Trust Fund financing rate,
-    - **(B)** the Leaking Underground Storage Tank Trust Fund financing rate, and
-    - **(C)** the deficit reduction rate.
+    - **(A)** the Inland Waterways Trust Fund financing rate, and
+    - **(B)** the Leaking Underground Storage Tank Trust Fund financing rate.
   - **(2)** For purposes of paragraph (1)—
     - **(A)** The Inland Waterways Trust Fund financing rate is 29 cents per gallon.
     - **(B)** The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
-    - **(C)** The deficit reduction rate is—
-      - **(i)** 3.3 cents per gallon after December 31, 2004 , and before July 1, 2005 ,
-      - **(ii)** 2.3 cents per gallon after June 30, 2005 , and before January 1, 2007 , and
-      - **(iii)** 0 after December 31, 2006 .
   - **(3)** The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax was imposed with respect to such fuel under section 4041(d) or 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
   - **(4)** The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply during any period during which the Leaking Underground Storage Tank Trust Fund financing rate under section 4081 does not apply.
 - **(c)**

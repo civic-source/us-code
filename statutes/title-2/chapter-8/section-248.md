@@ -1,12 +1,12 @@
 ---
-title: "Section 248 - Repealed. Pub. L. 92–225, title IV , § 405, Feb. 7, 1972 , 86 Stat. 20"
+title: "Section 248 - Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7, 1972 , 86 Stat. 20"
 usc_title: 2
 usc_section: "248"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 248"
-generated_at: "2026-03-29T19:27:07.509Z"
+generated_at: "2026-03-29T19:42:59.603Z"
 ---
 
-# §§ 241 to 248. Repealed. Pub. L. 92–225, title IV , § 405, Feb. 7, 1972 , 86 Stat. 20
+# §§ 241 to 248. Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7, 1972 , 86 Stat. 20
 

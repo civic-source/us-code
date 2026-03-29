@@ -1,16 +1,12 @@
 ---
-title: "Section 2351 - Availability of appropriations"
+title: "Section 2351 - Renumbered § 3131]"
 usc_title: 10
 usc_section: "2351"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2351"
-generated_at: "2026-03-29T19:27:25.595Z"
+generated_at: "2026-03-29T19:43:37.978Z"
 ---
 
-# § 2351. Availability of appropriations
+# [§ 2351. Renumbered § 3131]
 
-- **(a)** Funds appropriated to the Department of Defense for research and development remain available for obligation for a period of two consecutive years.
-- **(b)** Funds appropriated to the Department of Defense for research and development may be used—
-  - **(1)** for the purposes of section 2353 of this title ; and
-  - **(2)** for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Department of Defense.

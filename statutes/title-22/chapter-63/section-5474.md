@@ -3,9 +3,9 @@ title: "Section 5474 - Annual SEED Program report"
 usc_title: 22
 usc_section: "5474"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 5474"
-generated_at: "2026-03-29T19:29:46.892Z"
+generated_at: "2026-03-29T19:42:08.204Z"
 ---
 
 # § 5474. Annual SEED Program report

@@ -3,16 +3,16 @@ title: "Section 4261 - Imposition of tax"
 usc_title: 26
 usc_section: "4261"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4261"
-generated_at: "2026-03-29T19:30:20.078Z"
+generated_at: "2026-03-29T19:42:47.886Z"
 ---
 
 # § 4261. Imposition of tax
 
 - **(a)** There is hereby imposed on the amount paid for taxable transportation of any person a tax equal to 7.5 percent of the amount so paid.
 - **(b)**
-  - **(1)** There is hereby imposed on the amount paid for each domestic segment of taxable transportation by air a tax in the amount determined in accordance with the following table for the period in which the segment begins: In the case of segments beginning: The tax is: After September 30, 1997 , and before October 1, 1998 $1.00 After September 30, 1998 , and before October 1, 1999 $2.00 After September 30, 1999 , and before January 1, 2000 $2.25 During 2000 $2.50 During 2001 $2.75 During 2002 or thereafter $3.00.
+  - **(1)** There is hereby imposed on the amount paid for each domestic segment of taxable transportation by air a tax in the amount of $3.00.
   - **(2)** For purposes of this section, the term “domestic segment” means any segment consisting of 1 takeoff and 1 landing and which is taxable transportation described in section 4262(a)(1).
   - **(3)** If—
     - **(A)** transportation is purchased between 2 locations on specified flights, and
@@ -39,12 +39,27 @@ generated_at: "2026-03-29T19:30:20.078Z"
   - **(4)**
     - **(A)** In the case of taxable events in a calendar year after the last nonindexed year, the $3.00 amount contained in subsection (b) and each dollar amount contained in subsection (c) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting the year before the last nonindexed year for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting the year before the last nonindexed year for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** For purposes of subparagraph (A), the last nonindexed year is—
       - **(i)** 2002 in the case of the $3.00 amount contained in subsection (b), and
       - **(ii)** 1998 in the case of the dollar amounts contained in subsection (c).
     - **(C)** For purposes of subparagraph (A), in the case of the tax imposed by subsection (b), the beginning of the domestic segment shall be treated as the taxable event.
     - **(D)** If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
+  - **(5)**
+    - **(A)** No tax shall be imposed by this section or section 4271 on any amounts paid by an aircraft owner for aircraft management services related to—
+      - **(i)** maintenance and support of the aircraft owner’s aircraft, or
+      - **(ii)** flights on the aircraft owner’s aircraft.
+    - **(B)** For purposes of subparagraph (A), the term “aircraft management services” includes—
+      - **(i)** assisting an aircraft owner with administrative and support services, such as scheduling, flight planning, and weather forecasting,
+      - **(ii)** obtaining insurance,
+      - **(iii)** maintenance, storage and fueling of aircraft,
+      - **(iv)** hiring, training, and provision of pilots and crew,
+      - **(v)** establishing and complying with safety standards, and
+      - **(vi)** such other services as are necessary to support flights operated by an aircraft owner.
+    - **(C)**
+      - **(i)** For purposes of this paragraph, the term “aircraft owner” includes a person who leases the aircraft other than under a disqualified lease.
+      - **(ii)** For purposes of clause (i), the term “disqualified lease” means a lease from a person providing aircraft management services with respect to such aircraft (or a related person (within the meaning of section 465(b)(3)(C)) to the person providing such services), if such lease is for a term of 31 days or less.
+    - **(D)** In the case of amounts paid to any person which (but for this subsection) are subject to the tax imposed by subsection (a), a portion of which consists of amounts described in subparagraph (A), this paragraph shall apply on a pro rata basis only to the portion which consists of amounts described in such subparagraph.
 - **(f)** No tax shall be imposed under subsection (a) or (b) on air transportation—
   - **(1)** by helicopter for the purpose of transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
   - **(2)** by helicopter or by fixed-wing aircraft for the purpose of the planting, cultivation, cutting, or transportation of, or caring for, trees (including logging operations),
@@ -53,11 +68,11 @@ generated_at: "2026-03-29T19:30:20.078Z"
   - **(2)** by a fixed-wing aircraft equipped for and exclusively dedicated on that flight to acute care emergency medical services.
 - **(h)** No tax shall be imposed by this section or section 4271 on any air transportation exclusively for the purpose of skydiving.
 - **(i)** No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
-- **(j)** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2017 .
+- **(j)** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2023 .
 - **(k)**
   - **(1)** The taxes imposed by this section shall apply to—
     - **(A)** transportation beginning during the period—
       - **(i)** beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
-      - **(ii)** ending on September 30, 2017 , and
+      - **(ii)** ending on September 30, 2023 , and
     - **(B)** amounts paid during such period for transportation beginning after such period.
   - **(2)** If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.

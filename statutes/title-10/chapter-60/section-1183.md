@@ -1,12 +1,12 @@
 ---
-title: "Section 1183 - Repealed. Pub. L. 105–261, div. A, title V , § 503(a), Oct. 17, 1998 , 112 Stat. 2003 ]"
+title: "Section 1183 - Repealed. Pub. L. 105–261, div. A, title V, § 503(a) , Oct. 17, 1998 , 112 Stat. 2003 ]"
 usc_title: 10
 usc_section: "1183"
 chapter: 60
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1183"
-generated_at: "2026-03-29T19:27:25.519Z"
+generated_at: "2026-03-29T19:43:37.909Z"
 ---
 
-# [§ 1183. Repealed. Pub. L. 105–261, div. A, title V , § 503(a), Oct. 17, 1998 , 112 Stat. 2003 ]
+# [§ 1183. Repealed. Pub. L. 105–261, div. A, title V, § 503(a) , Oct. 17, 1998 , 112 Stat. 2003 ]
 

@@ -3,9 +3,9 @@ title: "Section 321m - Voluntary private sector preparedness accreditation and c
 usc_title: 6
 usc_section: "321m"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 321m"
-generated_at: "2026-03-29T19:27:39.848Z"
+generated_at: "2026-03-29T19:43:43.781Z"
 ---
 
 # § 321m. Voluntary private sector preparedness accreditation and certification program
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:27:39.848Z"
     - **(A)** The Administrator, based on consideration of—
       - **(i)** the expertise of the Administrator in emergency management and preparedness in the United States; and
       - **(ii)** the responsibilities of the Administrator as the principal advisor to the President for all matters relating to emergency management in the United States.
-    - **(B)** The Assistant Secretary for Infrastructure Protection, based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
+    - **(B)** The Assistant Secretary for Infrastructure Protection, 1 1 See Change of Name note below. based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
       - **(i)** protection of critical infrastructure;
       - **(ii)** risk assessment methodologies; and
       - **(iii)** interacting with the private sector on the issues described in clauses (i) and (ii).
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:27:39.848Z"
     - **(E)** In developing and implementing the program under this subsection, the designated officer shall—
       - **(i)** consider the unique nature of various sectors within the private sector, including preparedness standards, business continuity standards, or best practices, established—
         - **(I)** under any other provision of Federal law; or
-        - **(II)** by any sector-specific agency, as defined under Homeland Security Presidential Directive–7; and
+        - **(II)** by any Sector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and
       - **(ii)** coordinate the program, as appropriate, with—
         - **(I)** other Department private sector related programs; and
         - **(II)** preparedness and business continuity programs in other Federal agencies.
@@ -81,5 +81,5 @@ generated_at: "2026-03-29T19:27:39.848Z"
 - **(c)** Nothing in this section may be construed as—
   - **(1)** a requirement to replace any preparedness, emergency response, or business continuity standards, requirements, or best practices established—
     - **(A)** under any other provision of federal law; or
-    - **(B)** by any sector-specific agency, as those agencies are defined under Homeland Security Presidential Directive–7; or
+    - **(B)** by any Sector Risk Management Agency, as those agencies are defined under Homeland Security Presidential Directive–7; or
   - **(2)** exempting any private sector entity seeking certification or meeting certification requirements under subsection (b) from compliance with all applicable statutes, regulations, directives, policies, and industry codes of practice.

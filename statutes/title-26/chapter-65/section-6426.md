@@ -3,9 +3,9 @@ title: "Section 6426 - Credit for alcohol fuel, biodiesel, and alternative fuel 
 usc_title: 26
 usc_section: "6426"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6426"
-generated_at: "2026-03-29T19:30:20.207Z"
+generated_at: "2026-03-29T19:42:47.984Z"
 ---
 
 # § 6426. Credit for alcohol fuel, biodiesel, and alternative fuel mixtures
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:30:20.207Z"
   - **(2)** For purposes of this subsection—
     - **(A)** Except as provided in subparagraphs (B) and (C), the applicable amount is—
       - **(i)** in the case of calendar years beginning before 2009, 51 cents, and
-      - **(ii)** in the case of calendar years beginning after 2008, 45 cents.. 1 1 So in original.
+      - **(ii)** in the case of calendar years beginning after 2008, 45 cents.
     - **(B)** In the case of an alcohol fuel mixture in which none of the alcohol consists of ethanol, the applicable amount is 60 cents.
     - **(C)** In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting “51 cents” for “45 cents”.
   - **(3)** For purposes of this subsection, the term “alcohol fuel mixture” means a mixture of alcohol and a taxable fuel which—
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T19:30:20.207Z"
     - **(B)** is used as a fuel by the taxpayer producing such mixture.
   - **(4)** No credit shall be allowed under this subsection unless the taxpayer obtains a certification (in such form and manner as prescribed by the Secretary) from the producer of the biodiesel which identifies the product produced and the percentage of biodiesel and agri-biodiesel in the product.
   - **(5)** Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
-  - **(6)** This subsection shall not apply to any sale, use, or removal for any period after December 31, 2016 .
+  - **(6)** This subsection shall not apply to any sale, use, or removal for any period after December 31, 2022 .
 - **(d)**
   - **(1)** For purposes of this section, the alternative fuel credit is the product of 50 cents and the number of gallons of an alternative fuel or gasoline gallon equivalents of a nonliquid alternative fuel sold by the taxpayer for use as a fuel in a motor vehicle or motorboat, sold by the taxpayer for use as a fuel in aviation, or so used by the taxpayer.
   - **(2)** For purposes of this section, the term “alternative fuel” means—
@@ -56,13 +56,13 @@ generated_at: "2026-03-29T19:30:20.207Z"
     - **(B)** For purposes of subparagraph (A), the applicable percentage is—
       - **(i)** 50 percent in the case of fuel produced after September 30, 2009 , and on or before December 30, 2009 , and
       - **(ii)** 75 percent in the case of fuel produced after December 30, 2009 .
-  - **(5)** This subsection shall not apply to any sale or use for any period after December 31, 2016 .
+  - **(5)** This subsection shall not apply to any sale or use for any period after December 31, 2021 .
 - **(e)**
   - **(1)** For purposes of this section, the alternative fuel mixture credit is the product of 50 cents and the number of gallons of alternative fuel used by the taxpayer in producing any alternative fuel mixture for sale or use in a trade or business of the taxpayer.
-  - **(2)** For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
+  - **(2)** For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel (other than a fuel described in subparagraph (A), (C), or (F) of subsection (d)(2)) and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
     - **(A)** is sold by the taxpayer producing such mixture to any person for use as fuel, or
     - **(B)** is used as a fuel by the taxpayer producing such mixture.
-  - **(3)** This subsection shall not apply to any sale or use for any period after December 31, 2016 .
+  - **(3)** This subsection shall not apply to any sale or use for any period after December 31, 2021 .
 - **(f)**
   - **(1)** If—
     - **(A)** any credit was determined under this section with respect to alcohol or biodiesel used in the production of any alcohol fuel mixture or biodiesel mixture, respectively, and

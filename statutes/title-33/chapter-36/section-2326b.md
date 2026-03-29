@@ -3,9 +3,9 @@ title: "Section 2326b - Sediment management"
 usc_title: 33
 usc_section: "2326b"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2326b"
-generated_at: "2026-03-29T19:30:28.850Z"
+generated_at: "2026-03-29T19:43:07.707Z"
 ---
 
 # § 2326b. Sediment management
@@ -24,6 +24,11 @@ generated_at: "2026-03-29T19:30:28.850Z"
   - **(2)** In developing a tributary sediment transport model under this subsection, the Secretary shall build on data and monitoring information generated in earlier studies and programs of the Great Lakes and their tributaries.
   - **(3)** Not later than December 31, 2003 , the Secretary shall transmit to Congress a report on the Secretary’s activities under this subsection.
 - **(f)** In this section, the term “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin.
-- **(g)**
+- **(g)** The Secretary shall develop and carry out a plan for the recurring mapping of coastlines that are experiencing rapid change, including such coastlines in—
+  - **(1)** Alaska;
+  - **(2)** Hawaii; and
+  - **(3)** any territory or possession of the United States.
+- **(h)**
   - **(1)** There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) $5,000,000 for each of fiscal years 2002 through 2012.
+  - **(3)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (g) with respect to Alaska, Hawaii, and the territories and possessions of the United States, $10,000,000, to remain available until expended.

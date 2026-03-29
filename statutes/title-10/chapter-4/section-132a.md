@@ -1,15 +1,12 @@
 ---
-title: "Section 132a - Deputy Chief Management Officer"
+title: "Section 132a - Repealed. Pub. L. 116–283, div. A, title IX, § 901(a)(1) , Jan. 1, 2021 , 134 Stat. 3794 ]"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-29T19:27:25.423Z"
+generated_at: "2026-03-29T19:43:37.775Z"
 ---
 
-# § 132a. Deputy Chief Management Officer
+# [§ 132a. Repealed. Pub. L. 116–283, div. A, title IX, § 901(a)(1) , Jan. 1, 2021 , 134 Stat. 3794 ]
 
-- **(a)** There is a Deputy Chief Management Officer of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
-- **(b)** The Deputy Chief Management Officer assists the Deputy Secretary of Defense in the Deputy Secretary’s capacity as Chief Management Officer of the Department of Defense under section 132(c) of this title .
-- **(c)** The Deputy Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense.

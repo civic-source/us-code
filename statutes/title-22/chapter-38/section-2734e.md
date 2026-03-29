@@ -5,7 +5,7 @@ usc_section: "2734e"
 chapter: 38
 current_through: "PL 117-81"
 classification: "22 U.S.C. § 2734e"
-generated_at: "2026-03-29T18:44:49.368Z"
+generated_at: "2026-03-29T19:42:08.124Z"
 ---
 
 # § 2734e. Annual Report

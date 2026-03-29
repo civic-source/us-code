@@ -3,14 +3,14 @@ title: "Section 523 - Exceptions to discharge"
 usc_title: 11
 usc_section: "523"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 523"
-generated_at: "2026-03-29T19:28:02.009Z"
+generated_at: "2026-03-29T19:44:19.524Z"
 ---
 
 # § 523. Exceptions to discharge
 
-- **(a)** A discharge under section 727, 1141, 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
+- **(a)** A discharge under section 727, 1141, 1192 1 1 So in original. Probably should be followed by a comma. 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
   - **(1)** for a tax or a customs duty—
     - **(A)** of the kind and for the periods specified in section 507(a)(3) or 507(a)(8) of this title, whether or not a claim for such tax was filed or allowed;
     - **(B)** with respect to which a return, or equivalent report or notice, if required—
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T19:28:02.009Z"
       - **(iv)** that the debtor caused to be made or published with intent to deceive; or
     - **(C)**
       - **(i)** for purposes of subparagraph (A)—
-        - **(I)** consumer debts owed to a single creditor and aggregating more than $500 for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
-        - **(II)** cash advances aggregating more than $750 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+        - **(I)** consumer debts owed to a single creditor and aggregating more than $500 2 2 See Adjustment of Dollar Amounts notes below. for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
+        - **(II)** cash advances aggregating more than $750 2 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
       - **(ii)** for purposes of this subparagraph—
         - **(I)** the terms “consumer”, “credit”, and “open end credit plan” have the same meanings as in section 103 of the Truth in Lending Act; and
         - **(II)** the term “luxury goods or services” does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor;
@@ -50,7 +50,9 @@ generated_at: "2026-03-29T19:28:02.009Z"
   - **(11)** provided in any final judgment, unreviewable order, or consent order or decree entered in any court of the United States or of any State, issued by a Federal depository institutions regulatory agency, or contained in any settlement agreement entered into by the debtor, arising from any act of fraud or defalcation while acting in a fiduciary capacity committed with respect to any depository institution or insured credit union;
   - **(12)** for malicious or reckless failure to fulfill any commitment by the debtor to a Federal depository institutions regulatory agency to maintain the capital of an insured depository institution, except that this paragraph shall not extend any such commitment which would otherwise be terminated due to any act of such agency;
   - **(13)** for any payment of an order of restitution issued under title 18, United States Code;
-  - **(14)** incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1); (14A) incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1); (14B) incurred to pay fines or penalties imposed under Federal election law;
+  - **(14)** incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1);
+  - **(14A)** incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1);
+  - **(14B)** incurred to pay fines or penalties imposed under Federal election law;
   - **(15)** to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
   - **(16)** for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor’s interest in a unit that has condominium ownership, in a share of a cooperative corporation, or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot, but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
   - **(17)** for a fee imposed on a prisoner by any court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under subsection (b) or (f)(2) of section 1915 of title 28 (or a similar non-Federal law), or the debtor’s status as a prisoner, as defined in section 1915(h) of title 28 (or a similar non-Federal law);
@@ -65,7 +67,7 @@ generated_at: "2026-03-29T19:28:02.009Z"
       - **(i)** any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
       - **(ii)** any settlement agreement entered into by the debtor; or
       - **(iii)** any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
-- **(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 1 1 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 1 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+- **(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 3 3 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 3 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 - **(c)**
   - **(1)** Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), or (6) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), or (6), as the case may be, of subsection (a) of this section.
   - **(2)** Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt described in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.

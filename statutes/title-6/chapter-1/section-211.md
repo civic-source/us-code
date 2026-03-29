@@ -3,9 +3,9 @@ title: "Section 211 - Establishment of U.S. Customs and Border Protection; Commi
 usc_title: 6
 usc_section: "211"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-29T19:27:39.836Z"
+generated_at: "2026-03-29T19:43:43.764Z"
 ---
 
 # § 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices
@@ -35,8 +35,9 @@ generated_at: "2026-03-29T19:27:39.836Z"
     - **(B)** the Customs–Trade Partnership Against Terrorism program under subtitle B of title II of such Act ( 6 U.S.C. 961 et seq.);
   - **(15)** conduct polygraph examinations in accordance with section 221(1) of this title ;
   - **(16)** establish the standard operating procedures described in subsection (k);
-  - **(17)** carry out the training required under subsection ( l ); and
-  - **(18)** carry out other duties and powers prescribed by law or delegated by the Secretary.
+  - **(17)** carry out the training required under subsection ( l );
+  - **(18)** carry out section 218 of this title , relating to the issuance of Asia-Pacific Economic Cooperation Business Travel Cards; and
+  - **(19)** carry out other duties and powers prescribed by law or delegated by the Secretary.
 - **(d)** There shall be in U.S. Customs and Border Protection a Deputy Commissioner who shall assist the Commissioner in the management of U.S. Customs and Border Protection.
 - **(e)**
   - **(1)** There is established in U.S. Customs and Border Protection the U.S. Border Patrol.
@@ -174,6 +175,7 @@ generated_at: "2026-03-29T19:27:39.836Z"
 - **(o)**
   - **(1)** The Secretary may establish such other offices or positions of Assistant Commissioners (or other similar officers or officials) as the Secretary determines necessary to carry out the missions, duties, functions, and authorities of U.S. Customs and Border Protection.
   - **(2)** If the Secretary exercises the authority provided under paragraph (1), the Secretary shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate not later than 30 days before exercising such authority.
+  - **(3)** Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
 - **(p)** The Commissioner shall, on and after February 24, 2016 , continue to submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate any report required, on the day before February 24, 2016 , to be submitted under any provision of law.
 - **(q)** Nothing in this section may be construed as affecting in any manner the authority, existing on the day before February 24, 2016 , of any other Federal agency or component of the Department.
 - **(r)** In this section, the terms “commercial operations”, “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in section 4301 of title 19 .

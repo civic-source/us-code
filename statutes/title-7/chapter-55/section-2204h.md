@@ -3,9 +3,9 @@ title: "Section 2204h - Local food production and program evaluation"
 usc_title: 7
 usc_section: "2204h"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2204h"
-generated_at: "2026-03-29T19:27:31.854Z"
+generated_at: "2026-03-29T19:43:58.254Z"
 ---
 
 # § 2204h. Local food production and program evaluation
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:27:31.854Z"
   - **(2)** conduct surveys and analysis and publish reports relating to the production, handling, distribution, retail sales, and trend studies (including consumer purchasing patterns) of or on locally or regionally produced agricultural food products;
   - **(3)** evaluate the effectiveness of existing programs in growing local and regional food systems, including—
     - **(A)** the impact of local food systems on job creation and economic development;
-    - **(B)** the level of participation in the Farmers’ Market and Local Food Promotion Program established under section 3005 of this title , including the percentage of projects funded in comparison to applicants and the types of eligible entities receiving funds;
+    - **(B)** the level of participation in the Local Agriculture Market Program established under section 1627c of this title , including the percentage of projects funded in comparison to applicants and the types of eligible entities receiving funds;
     - **(C)** the ability of participants to leverage private capital and a synopsis of the places from which non-Federal funds are derived; and
     - **(D)** any additional resources required to aid in the development or expansion of local and regional food systems;
   - **(4)** evaluate the impact that Federal regulation of small commercial producers of agricultural food products intended for local and regional consumption may have on—

@@ -3,9 +3,9 @@ title: "Section 2250 - Failure to register"
 usc_title: 18
 usc_section: "2250"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2250"
-generated_at: "2026-03-29T19:28:33.855Z"
+generated_at: "2026-03-29T19:41:06.820Z"
 ---
 
 # § 2250. Failure to register
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:28:33.855Z"
     - **(B)** travels in interstate or foreign commerce, or enters or leaves, or resides in, Indian country; and
   - **(3)** knowingly fails to register or update a registration as required by the Sex Offender Registration and Notification Act;
 - **(b)** Whoever—
-  - **(1)** is required to register under the Sex Offender Registration and Notification Act ( 42 U.S.C. 16901 et seq.);
+  - **(1)** is required to register under the Sex Offender Registration and Notification Act ( 42 U.S.C. 16901 et seq.); 1 1 See References in Text note below.
   - **(2)** knowingly fails to provide information required by the Sex Offender Registration and Notification Act relating to intended travel in foreign commerce; and
   - **(3)** engages or attempts to engage in the intended travel in foreign commerce;
 - **(c)** In a prosecution for a violation under subsection (a) or (b), it is an affirmative defense that—

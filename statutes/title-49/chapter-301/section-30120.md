@@ -3,9 +3,9 @@ title: "Section 30120 - Remedies for defects and noncompliance"
 usc_title: 49
 usc_section: "30120"
 chapter: 301
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 30120"
-generated_at: "2026-03-29T19:32:28.818Z"
+generated_at: "2026-03-29T19:44:57.933Z"
 ---
 
 # § 30120. Remedies for defects and noncompliance
@@ -58,3 +58,13 @@ generated_at: "2026-03-29T19:32:28.818Z"
 - **(j)** No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
   - **(1)** the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
   - **(2)** notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
+- **(k)**
+  - **(1)** The Administrator of the National Highway Traffic Safety Administration shall publish an annual list of recall completion rates for each recall campaign for which 8 quarterly reports have been submitted under subsection (f) of section 30118 as of the date of publication of the list.
+  - **(2)** The annual list under paragraph (1) shall include—
+    - **(A)** for each applicable campaign—
+      - **(i)** the total number of vehicles subject to recall; and
+      - **(ii)** the percentage of vehicles that have been remedied; and
+    - **(B)** for each manufacturer submitting an applicable quarterly report under section 30118(f)—
+      - **(i)** the total number of recalls issued by the manufacturer during the year covered by the list;
+      - **(ii)** the estimated number of vehicles of the manufacturer subject to recall during the year covered by the list; and
+      - **(iii)** the percentage of vehicles that have been remedied.

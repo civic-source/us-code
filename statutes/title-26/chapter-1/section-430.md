@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-29T19:30:19.829Z"
+generated_at: "2026-03-29T19:42:47.661Z"
 ---
 
 # § 430. Minimum funding standards for single-employer defined benefit pension plans
@@ -86,7 +86,7 @@ generated_at: "2026-03-29T19:30:19.829Z"
       - **(vi)** The term “employee” includes, with respect to a calendar year, a self-employed individual who is treated as an employee under section 401(c) for the taxable year ending during such calendar year, and the term “compensation” shall include earned income of such individual with respect to such self-employment.
       - **(vii)** In the case of any calendar year beginning after 2010, the dollar amount under clause (i)(II) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2009” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2009” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(E)**
       - **(i)** The amount determined under this subparagraph for any plan year is the excess (if any) of the sum of the dividends declared during the plan year by the plan sponsor plus the aggregate amount paid for the redemption of stock of the plan sponsor redeemed during the plan year over the greater of—
         - **(I)** the adjusted net income (within the meaning of section 4043 of the Employee Retirement Income Security Act of 1974) of the plan sponsor for the preceding plan year, determined without regard to any reduction by reason of interest, taxes, depreciation, or amortization, or
@@ -96,7 +96,7 @@ generated_at: "2026-03-29T19:30:19.829Z"
       - **(iv)** Redemptions that are made pursuant to a plan maintained with respect to employees, or that are made on account of the death, disability, or termination of employment of an employee or shareholder, shall not be taken into account under clause (i).
       - **(v)**
         - **(I)** Dividends and redemptions with respect to applicable preferred stock shall not be taken into account under clause (i) to the extent that dividends accrue with respect to such stock at a specified rate in all events and without regard to the plan sponsor’s income, and interest accrues on any unpaid dividends with respect to such stock.
-        - **(II)** For purposes of subclause (I), the term “applicable preferred stock” means preferred stock which was issued before March 1, 2010 (or which was issued after such date and is held by an employee benefit plan subject to the provisions of title I of 1 1 So in original. Probably should be followed by “the”. Employee Retirement Income Security Act of 1974).
+        - **(II)** For purposes of subclause (I), the term “applicable preferred stock” means preferred stock which was issued before March 1, 2010 (or which was issued after such date and is held by an employee benefit plan subject to the provisions of title I of the Employee Retirement Income Security Act of 1974).
     - **(F)** For purposes of this paragraph—
       - **(i)** The term “plan sponsor” includes any member of the plan sponsor’s controlled group (as defined in section 412(d)(3)).
       - **(ii)** The term “restriction period” means, with respect to any election year—
@@ -104,6 +104,9 @@ generated_at: "2026-03-29T19:30:19.829Z"
         - **(II)** if the plan sponsor elects 15-year amortization for the shortfall amortization base for the election year, the 5-year period beginning with the election year (or, if later, the first plan year beginning after December 31, 2009 ).
       - **(iii)** If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan’s relative reduction in the plan’s shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
       - **(iv)** The Secretary shall prescribe rules for the application of paragraph (2)(D) and this paragraph in any case where there is a merger or acquisition involving a plan sponsor making the election under paragraph (2)(D).
+  - **(8)** With respect to plan years beginning after December 31, 2021 (or, at the election of the plan sponsor, plan years beginning after December 31, 2018 , December 31, 2019 , or December 31, 2020 )—
+    - **(A)** the shortfall amortization bases for all plan years preceding the first plan year beginning after December 31, 2021 (or after whichever earlier date is elected pursuant to this paragraph), and all shortfall amortization installments determined with respect to such bases, shall be reduced to zero, and
+    - **(B)** subparagraphs (A) and (B) of paragraph (2) shall each be applied by substituting “15-plan-year period” for “7-plan-year period”.
 - **(d)** For purposes of this section—
   - **(1)** Except as provided in subsection (i)(1) with respect to plans in at-risk status, the funding target of a plan for a plan year is the present value of all benefits accrued or earned under the plan as of the beginning of the plan year.
   - **(2)** The “funding target attainment percentage” of a plan for a plan year is the ratio (expressed as a percentage) which—
@@ -207,13 +210,13 @@ generated_at: "2026-03-29T19:30:19.829Z"
       - **(ii)** The term “second segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
       - **(iii)** The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
       - **(iv)**
-        - **(I)** If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
-        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020 90% 110% 2021 85% 115% 2022 80% 120% 2023 75% 125% After 2023 70% 130%
+        - **(I)** If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available. Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.
+        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: Any year in the period starting in 2012 and ending in 2019 90% 110% Any year in the period starting in 2020 and ending in 2030 95% 105% 2031 90% 110% 2032 85% 115% 2033 80% 120% 2034 75% 125% After 2034 70% 130%.
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary.
     - **(E)** For purposes of this paragraph, the term “applicable month” means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary.
-    - **(F)** The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i) 2 2 See References in Text note below. for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
+    - **(F)** The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D) for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
   - **(3)**
     - **(A)** Except as provided in subparagraph (C) or (D), the Secretary shall by regulation prescribe mortality tables to be used in determining any present value or making any computation under this section. Such tables shall be based on the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
     - **(B)** The Secretary shall (at least every 10 years) make revisions in any table in effect under subparagraph (A) to reflect the actual experience of pension plans and projected trends in such experience.
@@ -350,3 +353,39 @@ generated_at: "2026-03-29T19:30:19.829Z"
     - **(B)** The terms “due date” and “required installment” have the meanings given such terms by subsection (j).
     - **(C)** The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and ( o ) of section 414.
 - **(l)** In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
+- **(m)**
+  - **(1)** An eligible newspaper plan sponsor of a plan under which no participant has had the participant’s accrued benefit increased (whether because of service or compensation) after April 2, 2019 , may elect to have the alternative standards described in paragraph (4) apply to such plan.
+  - **(2)** The term “eligible newspaper plan sponsor” means the plan sponsor of—
+    - **(A)** any community newspaper plan, or
+    - **(B)** any other plan sponsored, as of April 2, 2019 , by a member of the same controlled group of a plan sponsor of a community newspaper plan if such member is in the trade or business of publishing 1 or more newspapers.
+  - **(3)** An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary.
+  - **(4)** The alternative standards described in this paragraph are the following:
+    - **(A)**
+      - **(i)** Notwithstanding subsection (h)(2)(C) and except as provided in clause (ii), the first, second, and third segment rates in effect for any month for purposes of this section shall be 8 percent.
+      - **(ii)** Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
+      - **(iii)** For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary for such day on interest-bearing obligations of the United States.
+    - **(B)**
+      - **(i)** The shortfall amortization bases determined under subsection (c)(3) for all plan years preceding the first plan year to which the election under paragraph (1) applies (and all shortfall amortization installments determined with respect to such bases) shall be reduced to zero under rules similar to the rules of subsection (c)(6).
+      - **(ii)** Notwithstanding subsection (c)(3), the shortfall amortization base for the first plan year to which the election under paragraph (1) applies shall be the funding shortfall of such plan for such plan year (determined using the interest rates as modified under subparagraph (A)).
+    - **(C)**
+      - **(i)** Subparagraphs (A) and (B) of subsection (c)(2) shall be applied by substituting “30-plan-year” for “7-plan-year” each place it appears.
+      - **(ii)** The election under subparagraph (D) of subsection (c)(2) shall not apply to any plan year to which the election under paragraph (1) applies.
+    - **(D)** Subsection (i) shall not apply.
+  - **(5)** For purposes of this subsection—
+    - **(A)** The term “community newspaper plan” means any plan to which this section applies maintained as of December 31, 2018 , by an employer which—
+      - **(i)** maintains the plan on behalf of participants and beneficiaries with respect to employment in the trade or business of publishing 1 or more newspapers which were published by the employer at any time during the 11-year period ending on December 20, 2019 ,
+      - **(ii)**
+        - **(I)** is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company, or
+        - **(II)** is controlled, directly or indirectly, during the entire 30-year period ending on December 20, 2019 , by individuals who are members of the same family, and does not publish or distribute a daily newspaper that is carrier-distributed in printed form in more than 5 States, and
+      - **(iii)** is controlled, directly or indirectly—
+        - **(I)** by 1 or more persons residing primarily in a State in which the community newspaper has been published on newsprint or carrier-distributed,
+        - **(II)** during the entire 30-year period ending on December 20, 2019 , by individuals who are members of the same family,
+        - **(III)** by 1 or more trusts, the sole trustees of which are persons described in subclause (I) or (II), or
+        - **(IV)** by a combination of persons described in subclause (I), (II), or (III).
+    - **(B)** The term “newspaper” does not include any newspaper (determined without regard to this subparagraph) to which any of the following apply:
+      - **(i)** Is not in general circulation.
+      - **(ii)** Is published (on newsprint or electronically) less frequently than 3 times per week.
+      - **(iii)** Has not ever been regularly published on newsprint.
+      - **(iv)** Does not have a bona fide list of paid subscribers.
+    - **(C)** A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
+  - **(6)** For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 as of December 20, 2019 .

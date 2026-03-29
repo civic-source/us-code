@@ -5,7 +5,7 @@ usc_section: "199A"
 chapter: 1
 current_through: "PL 117-81"
 classification: "26 U.S.C. § 199A"
-generated_at: "2026-03-29T18:45:36.912Z"
+generated_at: "2026-03-29T19:42:47.591Z"
 ---
 
 # § 199A. Qualified business income

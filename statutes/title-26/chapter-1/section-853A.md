@@ -3,9 +3,9 @@ title: "Section 853A - Credits from tax credit bonds allowed to shareholders"
 usc_title: 26
 usc_section: "853A"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 853A"
-generated_at: "2026-03-29T19:30:19.914Z"
+generated_at: "2026-03-29T19:42:47.739Z"
 ---
 
 # § 853A. Credits from tax credit bonds allowed to shareholders
@@ -27,11 +27,11 @@ generated_at: "2026-03-29T19:30:19.914Z"
 - **(e)**
   - **(1)** For purposes of this subsection—
     - **(A)** The term “tax credit bond” means—
-      - **(i)** a qualified tax credit bond (as defined in section 54A(d)),
-      - **(ii)** a build America bond (as defined in section 54AA(d)) other than a qualified bond described in section 54AA(g), and
-      - **(iii)** any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.
+      - **(i)** a qualified tax credit bond (as defined in section 54A(d)), 1
+      - **(ii)** a build America bond (as defined in section 54AA(d)) 1 other than a qualified bond described in section 54AA(g), 1 and
+      - **(iii)** any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter. 1
     - **(B)** The term “applicable date” means—
-      - **(i)** in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), and
-      - **(ii)** in the case of a build America bond (as defined in section 54AA(d)), any interest payment date (as defined in section 54AA(e)).
+      - **(i)** in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), 1 and
+      - **(ii)** in the case of a build America bond (as defined in section 54AA(d)), 1 any interest payment date (as defined in section 54AA(e)). 1
   - **(2)** If the ownership of a tax credit bond is separated from the credit with respect to such bond, subsection (a) shall be applied by reference to the instruments evidencing the entitlement to the credit rather than the tax credit bond.
 - **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including methods for determining a shareholder’s proportionate share of credits.

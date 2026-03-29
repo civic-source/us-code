@@ -3,9 +3,9 @@ title: "Section 387c - Misbranded tobacco products"
 usc_title: 21
 usc_section: "387c"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 387c"
-generated_at: "2026-03-29T19:29:50.443Z"
+generated_at: "2026-03-29T19:41:41.668Z"
 ---
 
 # § 387c. Misbranded tobacco products
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:29:50.443Z"
   - **(6)** if it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 387e(b), 387e(c), 387e(d), or 387e(h) of this title, if it was not included in a list required by section 387e(i) of this title , if a notice or other information respecting it was not provided as required by such section or section 387e(j) of this title , or if it does not bear such symbols from the uniform system for identification of tobacco products prescribed under section 387e(e) of this title as the Secretary by regulation requires;
   - **(7)** if, in the case of any tobacco product distributed or offered for sale in any State—
     - **(A)** its advertising is false or misleading in any particular; or
-    - **(B)** it is sold or distributed in violation of regulations prescribed under section 387f(d) of this title ;
+    - **(B)** it is sold or distributed in violation of section 387f(d)(5) of this title or of regulations prescribed under section 387f(d) of this title ;
   - **(8)** unless, in the case of any tobacco product distributed or offered for sale in any State, the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that tobacco product—
     - **(A)** a true statement of the tobacco product’s established name as described in paragraph (4), printed prominently; and
     - **(B)** a brief statement of—

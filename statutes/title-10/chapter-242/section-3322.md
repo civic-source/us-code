@@ -3,9 +3,9 @@ title: "Section 3322 - Cost contracts"
 usc_title: 10
 usc_section: "3322"
 chapter: 242
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 3322"
-generated_at: "2026-03-29T18:47:53.496Z"
+generated_at: "2026-03-29T19:43:38.038Z"
 ---
 
 # § 3322. Cost contracts

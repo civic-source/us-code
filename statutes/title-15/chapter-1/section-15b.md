@@ -3,9 +3,9 @@ title: "Section 15b - Limitation of actions"
 usc_title: 15
 usc_section: "15b"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 15b"
-generated_at: "2026-03-29T19:27:55.050Z"
+generated_at: "2026-03-29T19:44:42.454Z"
 ---
 
 # § 15b. Limitation of actions

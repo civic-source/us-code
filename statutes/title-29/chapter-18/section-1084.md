@@ -3,9 +3,9 @@ title: "Section 1084 - Minimum funding standards for multiemployer plans"
 usc_title: 29
 usc_section: "1084"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1084"
-generated_at: "2026-03-29T19:30:07.578Z"
+generated_at: "2026-03-29T19:42:21.495Z"
 ---
 
 # § 1084. Minimum funding standards for multiemployer plans
@@ -75,6 +75,10 @@ generated_at: "2026-03-29T19:30:07.578Z"
     - **(E)** A plan sponsor of a plan to which this paragraph applies shall—
       - **(i)** give notice of such application to participants and beneficiaries of the plan, and
       - **(ii)** inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
+    - **(F)** A multiemployer plan with respect to which the solvency test under subparagraph (C) is met as of February 29, 2020 , may elect to apply this paragraph (without regard to whether such plan previously elected the application of this paragraph)—
+      - **(i)** by substituting “ February 29, 2020 ” for “ August 31, 2008 ” each place it appears in subparagraphs (A)(i), (B)(i)(I), and (B)(i)(II),
+      - **(ii)** by inserting “and other losses related to the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19) (including experience losses related to reductions in contributions, reductions in employment, and deviations from anticipated retirement rates, as determined by the plan sponsor)” after “net investment losses” in subparagraph (A)(i), and
+      - **(iii)** by substituting “this subparagraph or subparagraph (A)” for “this subparagraph and subparagraph (A) both” in subparagraph (B)(iii).
 - **(c)**
   - **(1)** For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
   - **(2)**
@@ -108,7 +112,7 @@ generated_at: "2026-03-29T19:30:07.578Z"
         - **(II)** an event which is reasonably and reliably predictable (as determined by the Secretary of the Treasury),
       - **(iii)** The rate of interest used to determine current liability under this paragraph shall be the rate of interest determined under subparagraph (E).
       - **(iv)**
-        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26 ) used to determine reserves for group annuity contracts issued on January 1, 1993 .
+        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26 ) 1 used to determine reserves for group annuity contracts issued on January 1, 1993 .
         - **(II)** The Secretary of the Treasury may by regulation prescribe for plan years beginning after December 31, 1999 , mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, such Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
       - **(v)** Notwithstanding clause (iv)—
         - **(I)** The Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. Such Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995 , and for individuals whose disabilities occur in plan years beginning on or after such date.

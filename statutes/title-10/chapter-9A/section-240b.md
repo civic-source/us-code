@@ -3,15 +3,15 @@ title: "Section 240b - Financial Improvement and Audit Remediation Plan"
 usc_title: 10
 usc_section: "240b"
 chapter: 9
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 240b"
-generated_at: "2026-03-29T18:47:53.230Z"
+generated_at: "2026-03-29T19:43:37.793Z"
 ---
 
 # § 240b. Financial Improvement and Audit Remediation Plan
 
 - **(a)**
-  - **(1)** The Chief Management Officer of the Department of Defense 1 1 See Transfer of Functions note below. shall, in consultation with the Under Secretary of Defense (Comptroller), maintain a plan to be known as the “Financial Improvement and Audit Remediation Plan”.
+  - **(1)** The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), maintain a plan to be known as the “Financial Improvement and Audit Remediation Plan”.
   - **(2)** The plan required by paragraph (1) shall—
     - **(A)** describe specific actions to be taken, including interim milestones with a detailed description of the subordinate activities required, and estimate the costs associated with—
       - **(i)** correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information;
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T18:47:53.230Z"
       - **(xiii)** A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
     - **(C)**
       - **(i)** A description submitted pursuant to clause (vii) or (ix) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
-      - **(ii)** The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer, 1 or the Under Secretary of Defense (Comptroller).
+      - **(ii)** The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer, or the Under Secretary of Defense (Comptroller).
   - **(2)**
     - **(A)** Not later than January 31 and June 30 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan. Such briefing shall include both the absolute number and percentage of personnel performing the amount of auditing services being performed by professionals meeting the qualifications described in section 240d(b) of this title .
     - **(B)** Not later than January 31 and June 30 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan. Such briefing shall include both the absolute number and percentage of personnel performing the amount of audit remediation services being performed by professionals meeting the qualifications described in subsection (c).

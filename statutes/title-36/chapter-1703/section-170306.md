@@ -3,9 +3,9 @@ title: "Section 170306 - Powers"
 usc_title: 36
 usc_section: "170306"
 chapter: 1703
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 170306"
-generated_at: "2026-03-29T19:30:42.090Z"
+generated_at: "2026-03-29T19:43:23.318Z"
 ---
 
 # § 170306. Powers

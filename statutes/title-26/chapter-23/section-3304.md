@@ -3,9 +3,9 @@ title: "Section 3304 - Approval of State laws"
 usc_title: 26
 usc_section: "3304"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 3304"
-generated_at: "2026-03-29T19:30:20.061Z"
+generated_at: "2026-03-29T19:42:47.868Z"
 ---
 
 # § 3304. Approval of State laws
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:30:20.061Z"
     - **(F)** amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t)); and
     - **(G)** with respect to amounts of covered unemployment compensation debt (as defined in section 6402(f)(4)) collected under section 6402(f)—
       - **(i)** amounts may be deducted to pay any fees authorized under such section; and
-      - **(ii)** the penalties and interest described in section 6402(f)(4)(B) 1 1 See References in Text note below. may be transferred to the appropriate State fund into which the State would have deposited such amounts had the person owing the debt paid such amounts directly to the State;
+      - **(ii)** the penalties and interest described in section 6402(f)(4)(C) may be transferred to the appropriate State fund into which the State would have deposited such amounts had the person owing the debt paid such amounts directly to the State;
   - **(5)** compensation shall not be denied in such State to any otherwise eligible individual for refusing to accept new work under any of the following conditions:
     - **(A)** if the position offered is vacant due directly to a strike, lockout, or other labor dispute;
     - **(B)** if the wages, hours, or other conditions of the work offered are substantially less favorable to the individual than those prevailing for similar work in the locality;

@@ -3,9 +3,9 @@ title: "Section 40728 - Transfer of firearms, ammunition, and parts"
 usc_title: 36
 usc_section: "40728"
 chapter: 407
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 40728"
-generated_at: "2026-03-29T19:30:42.068Z"
+generated_at: "2026-03-29T19:43:23.290Z"
 ---
 
 # § 40728. Transfer of firearms, ammunition, and parts
@@ -27,3 +27,8 @@ generated_at: "2026-03-29T19:30:42.068Z"
 - **(h)**
   - **(1)** Subject to paragraph (2), the Secretary may transfer to the corporation, in accordance with the procedure prescribed in this subchapter, surplus caliber .45 M1911/M1911A1 pistols and spare parts and related accessories for those pistols that, on the date of the enactment of this subsection, are under the control of the Secretary and are surplus to the requirements of the Department of the Army, and such material as may be recovered by the Secretary pursuant to section 40728A(a) of this title . The Secretary shall determine a reasonable schedule for the transfer of such surplus pistols.
   - **(2)** The Secretary may not transfer more than 10,000 surplus caliber .45 M1911/M1911A1 pistols to the corporation during any year and may only transfer such pistols as long as pistols described in paragraph (1) remain available for transfer.
+- **(i)**
+  - **(1)** Notwithstanding subsections (a) and (b), the Secretary of the Navy may transfer to the corporation, in accordance with the procedures prescribed in this subchapter, M–1 Garand and caliber .22 rimfire rifles held within the inventories of the United States Navy and the United States Marine Corps and stored at Defense Distribution Depot, Anniston, Alabama, or Naval Surface Warfare Center, Crane, Indiana, as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018.
+  - **(2)** The items specified for transfer under paragraph (1)—
+    - **(A)** shall be used as awards for competitors in marksmanship competitions held by the United States Marine Corps or the United States Navy and may not be resold; and
+    - **(B)** shall be rendered inoperable prior to award and transfer to marksmanship competitors.

@@ -3,9 +3,9 @@ title: "Section 1736f - Authorization of appropriations"
 usc_title: 7
 usc_section: "1736f"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1736f"
-generated_at: "2026-03-29T19:27:31.776Z"
+generated_at: "2026-03-29T19:43:58.173Z"
 ---
 
 # § 1736f. Authorization of appropriations
@@ -22,5 +22,6 @@ generated_at: "2026-03-29T19:27:31.776Z"
 - **(c)** In presenting the Budget of the United States, the President shall classify expenditures under this chapter as expenditures for international affairs and finance rather than for agriculture and agricultural resources.
 - **(d)** Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
 - **(e)**
-  - **(1)** Subject to paragraph (2), of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than 20 nor more than 30 percent for each of fiscal years 2014 through 2018 shall be expended for nonemergency food assistance programs under subchapter III.
-  - **(2)** The amount made available to carry out nonemergency food assistance programs under subchapter III shall not be less than $350,000,000 for any fiscal year.
+  - **(1)** For each of fiscal years 2019 through 2023, not less than $365,000,000 of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter II, nor more than 30 percent of such amounts, shall be expended for nonemergency food assistance programs under such subchapter.
+  - **(2)** Funds appropriated each year to carry out part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) that are made available through grants or cooperative agreements to strengthen food security in developing countries and that are consistent with section 1722(e)(1)(C) of this title may be considered amounts expended for nonemergency food assistance programs for purposes of paragraph (1).
+  - **(3)** In determining the amount expended for a fiscal year for nonemergency food assistance programs under paragraph (1), amounts expended for that year to carry out programs under section 1737 of this title may be considered amounts expended for nonemergency food assistance programs.

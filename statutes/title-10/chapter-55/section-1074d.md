@@ -3,9 +3,9 @@ title: "Section 1074d - Certain primary and preventive health care services"
 usc_title: 10
 usc_section: "1074d"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1074d"
-generated_at: "2026-03-29T19:27:25.499Z"
+generated_at: "2026-03-29T19:43:37.883Z"
 ---
 
 # § 1074d. Certain primary and preventive health care services
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:25.499Z"
   - **(2)** Male members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to preventive health care screening for colon or prostate cancer at such intervals and using such screening methods as the administering Secretaries consider appropriate.
 - **(b)** In this section, the term “primary and preventive health care services for women” means health care services, including related counseling services, provided to women with respect to the following:
   - **(1)** Cervical cancer screening.
-  - **(2)** Breast cancer screening.
+  - **(2)** Breast cancer screening, including through the use of digital breast tomosynthesis.
   - **(3)** Comprehensive obstetrical and gynecological care, including care related to pregnancy and the prevention of pregnancy.
   - **(4)** Infertility and sexually transmitted diseases, including prevention.
   - **(5)** Menopause, including hormone replacement therapy and counseling regarding the benefits and risks of hormone replacement therapy.

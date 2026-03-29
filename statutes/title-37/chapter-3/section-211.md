@@ -3,9 +3,9 @@ title: "Section 211 - Participation in Thrift Savings Plan"
 usc_title: 37
 usc_section: "211"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 211"
-generated_at: "2026-03-29T19:30:34.088Z"
+generated_at: "2026-03-29T19:43:17.232Z"
 ---
 
 # § 211. Participation in Thrift Savings Plan
@@ -19,13 +19,4 @@ generated_at: "2026-03-29T19:30:34.088Z"
     - **(A)** a resumption of active duty; or
     - **(B)** an appointment to a position covered by chapter 83 or 84 of title 5 or an equivalent retirement system, as identified by the Executive Director (appointed by the Federal Retirement Thrift Investment Board) in regulations.
   - **(2)** Transfer of the member to inactive status, or to a retired list pursuant to any provision of title 10.
-- **(d)**
-  - **(1)** The Secretary concerned may enter into an agreement with a member to make contributions to the Thrift Savings Fund for the benefit of the member if the member—
-    - **(A)**
-      - **(i)** is in a specialty designated by the Secretary as critical to meet requirements (whether such specialty is designated as critical to meet wartime or peacetime requirements); and
-      - **(ii)** commits in such agreement to continue to serve on active duty in that specialty for a period of 6 years; or
-    - **(B)** is enlisting in the armed forces for the first time and the period of the member’s enlistment is not less than two years.
-  - **(2)** Under any agreement entered into with a member under paragraph (1)(A), the Secretary shall make contributions to the Fund for the benefit of the member for each pay period of the 6-year period of the agreement for which the member makes a contribution to the Fund under section 8440e of title 5 (other than under subsection (d)(2) thereof).
-  - **(3)** In the case of a member described by paragraph (1)(B), the Secretary shall make contributions to the Fund for the benefit of the member for each pay period of the enlistment of the member described in that paragraph for which the member makes a contribution to the Fund under section 8440e of title 5 (other than under subsection (d)(2) thereof).
-  - **(4)** Paragraph (2) of section 8432(c) of title 5 applies to the Secretary’s obligation to make contributions under this subsection, except that the reference in such paragraph (2) to contributions under paragraph (1) of such section 8432(c) does not apply.
-- **(e)** If a loan is issued to a member under section 8433(g) of title 5 from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under section 1014(c) of this title .
+- **(d)** If a loan is issued to a member under section 8433(g) of title 5 from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under section 1014(c) of this title .

@@ -3,9 +3,9 @@ title: "Section 100734 - Report on finding or notification of potential damage t
 usc_title: 54
 usc_section: "100734"
 chapter: 1007
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "54 U.S.C. § 100734"
-generated_at: "2026-03-29T19:32:31.876Z"
+generated_at: "2026-03-29T19:45:03.236Z"
 ---
 
 # § 100734. Report on finding or notification of potential damage to natural and historical landmarks

@@ -1,12 +1,12 @@
 ---
-title: "Section 7238 - Repealed. Pub. L. 91–513, title III , § 1101(b)(4)(A), Oct. 27, 1970 , 84 Stat. 1292 ]"
+title: "Section 7238 - Repealed. Pub. L. 91–513, title III, § 1101(b)(4)(A) , Oct. 27, 1970 , 84 Stat. 1292 ]"
 usc_title: 26
 usc_section: "7238"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7238"
-generated_at: "2026-03-29T19:30:20.240Z"
+generated_at: "2026-03-29T19:42:48.008Z"
 ---
 
-# [§§ 7237, 7238. Repealed. Pub. L. 91–513, title III , § 1101(b)(4)(A), Oct. 27, 1970 , 84 Stat. 1292 ]
+# [§§ 7237, 7238. Repealed. Pub. L. 91–513, title III, § 1101(b)(4)(A) , Oct. 27, 1970 , 84 Stat. 1292 ]
 

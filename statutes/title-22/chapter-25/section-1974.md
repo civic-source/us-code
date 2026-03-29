@@ -3,9 +3,9 @@ title: "Section 1974 - Inapplicability of chapter to certain seizures"
 usc_title: 22
 usc_section: "1974"
 chapter: 25
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1974"
-generated_at: "2026-03-29T19:29:46.719Z"
+generated_at: "2026-03-29T19:42:08.030Z"
 ---
 
 # § 1974. Inapplicability of chapter to certain seizures

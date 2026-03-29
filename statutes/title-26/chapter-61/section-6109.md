@@ -3,9 +3,9 @@ title: "Section 6109 - Identifying numbers"
 usc_title: 26
 usc_section: "6109"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6109"
-generated_at: "2026-03-29T19:30:20.174Z"
+generated_at: "2026-03-29T19:42:47.960Z"
 ---
 
 # § 6109. Identifying numbers
@@ -40,19 +40,17 @@ generated_at: "2026-03-29T19:30:20.174Z"
 - **(i)**
   - **(1)** The Secretary is authorized to issue an individual taxpayer identification number to an individual only if the applicant submits an application, using such form as the Secretary may require and including the required documentation—
     - **(A)** in the case of an applicant not described in subparagraph (B)—
-      - **(i)** in person to an employee of the Internal Revenue Service or a community-based certified acceptance agent approved by the Secretary, or
+      - **(i)** in person to an employee of the Internal Revenue Service or a community-based certifying acceptance agent approved by the Secretary, or
       - **(ii)** by mail, pursuant to rules prescribed by the Secretary, or
-    - **(B)** in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service or a designee of the Secretary at a United States diplomatic mission or consular post.
+    - **(B)** in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary, or a designee of the Secretary at a United States diplomatic mission or consular post.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “required documentation” includes such documentation as the Secretary may require that proves the individual’s identity, foreign status, and residency.
     - **(B)** The Secretary may accept only original documents or certified copies meeting the requirements of the Secretary.
   - **(3)**
-    - **(A)** An individual taxpayer identification number issued after December 31, 2012 , shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years. In the case of an individual described in the preceding sentence, such number shall expire on the last day of such third consecutive taxable year.
+    - **(A)** An individual taxpayer identification number issued after December 31, 2012 , shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years ending after the issuance of such number. In the case of an individual described in the preceding sentence, such number shall expire on the day after the due date for the return of tax for such third consecutive taxable year.
     - **(B)** In the case of an individual with respect to whom an individual taxpayer identification number was issued before January 1, 2013 , such number shall remain in effect until the earlier of—
       - **(i)** the applicable date, or
-      - **(ii)** if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years, the earlier of—
-        - **(I)** the last day of such third consecutive taxable year, or
-        - **(II)** the last day of the taxable year that includes the date of the enactment of this subsection.
+      - **(ii)** if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years at least one of which ends after December 18, 2015 , the due date for the return of tax for such third consecutive taxable year.
     - **(C)** For purposes of subparagraph (B), the term “applicable date” means—
       - **(i)** January 1, 2017 , in the case of an individual taxpayer identification number issued before January 1, 2008 ,
       - **(ii)** January 1, 2018 , in the case of an individual taxpayer identification number issued in 2008,

@@ -3,9 +3,9 @@ title: "Section 6601 - Forestry rural revitalization"
 usc_title: 7
 usc_section: "6601"
 chapter: 95
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6601"
-generated_at: "2026-03-29T19:27:31.949Z"
+generated_at: "2026-03-29T19:43:58.368Z"
 ---
 
 # § 6601. Forestry rural revitalization
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T19:27:31.949Z"
     - **(A)** to accelerate adoption of technologies using biomass and small-diameter materials;
     - **(B)** to create community-based enterprises through marketing activities and demonstration projects; and
     - **(C)** to establish small-scale business enterprises to make use of biomass and small-diameter materials.
-  - **(2)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2018.
+  - **(2)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2023.

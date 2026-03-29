@@ -3,9 +3,9 @@ title: "Section 1844 - Political union between Territory of Guam and Commonwealt
 usc_title: 48
 usc_section: "1844"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1844"
-generated_at: "2026-03-29T19:31:53.970Z"
+generated_at: "2026-03-29T19:44:59.801Z"
 ---
 
 # § 1844. Political union between Territory of Guam and Commonwealth of Northern Mariana Islands

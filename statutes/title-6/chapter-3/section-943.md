@@ -3,9 +3,9 @@ title: "Section 943 - Automated Targeting System"
 usc_title: 6
 usc_section: "943"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 943"
-generated_at: "2026-03-29T19:27:39.878Z"
+generated_at: "2026-03-29T19:43:43.837Z"
 ---
 
 # § 943. Automated Targeting System
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:27:39.878Z"
     - **(C)** reducing the time period allowed by law for submission of certain elements of entry data, for vessel or cargo; and
     - **(D)** such other actions the Secretary considers beneficial for improving the information relied upon for the Automated Targeting System and any successor targeting system in furthering the security and integrity of the international supply chain; and
   - **(2)** consult with stakeholders, including the Commercial Operations Advisory Committee, and identify to them the need for such information, and the appropriate timing of its submission.
-- **(d)** The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 ( 19 U.S.C. 2071 note), including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
+- **(d)** The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 ( 19 U.S.C. 2071 note), 1 1 See References in Text note below. including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
 - **(e)** The Secretary, acting through the Commissioner, shall—
   - **(1)** conduct, through an independent panel, a review of the effectiveness and capabilities of the Automated Targeting System;
   - **(2)** consider future iterations of the Automated Targeting System, which would incorporate smart features, such as more complex algorithms and real-time intelligence, instead of relying solely on rule sets that are periodically updated;

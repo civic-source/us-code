@@ -3,9 +3,9 @@ title: "Section 108 - Other laws extended to added lands"
 usc_title: 16
 usc_section: "108"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 108"
-generated_at: "2026-03-29T19:29:27.034Z"
+generated_at: "2026-03-29T19:41:13.293Z"
 ---
 
 # § 108. Other laws extended to added lands

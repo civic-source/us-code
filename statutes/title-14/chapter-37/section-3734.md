@@ -3,9 +3,9 @@ title: "Section 3734 - Effect of this subchapter on retirement and retired pay"
 usc_title: 14
 usc_section: "3734"
 chapter: 37
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 3734"
-generated_at: "2026-03-29T18:48:09.842Z"
+generated_at: "2026-03-29T19:45:04.321Z"
 ---
 
 # § 3734. Effect of this subchapter on retirement and retired pay

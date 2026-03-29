@@ -3,9 +3,9 @@ title: "Section 5339 - Grants for buses and bus facilities"
 usc_title: 49
 usc_section: "5339"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 5339"
-generated_at: "2026-03-29T19:32:28.755Z"
+generated_at: "2026-03-29T19:44:57.863Z"
 ---
 
 # § 5339. Grants for buses and bus facilities
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T19:32:28.755Z"
       - **(i)** designated recipients that allocate funds to fixed route bus operators; or
       - **(ii)** State or local governmental entities that operate fixed route bus service.
     - **(B)** A recipient that receives a grant under this subsection may allocate amounts of the grant to subrecipients that are public agencies or private nonprofit organizations engaged in public transportation.
-  - **(5)** Funds allocated under section 5338(a)(2)(L) shall be distributed as follows:
-    - **(A)** $90,500,000 for each of fiscal years 2016 through 2020 shall be allocated to all States and territories, with each State receiving $1,750,000 for each such fiscal year and each territory receiving $500,000 for each such fiscal year.
+  - **(5)** Funds allocated under section 5338(a)(2)(L) 1 1 See References in Text note below. shall be distributed as follows:
+    - **(A)** $206,000,000 each fiscal year shall be allocated to all States and territories, with each State receiving $4,000,000 for each such fiscal year and each territory receiving $1,000,000 for each such fiscal year.
     - **(B)** The remainder of the funds not otherwise distributed under subparagraph (A) shall be allocated pursuant to the formula set forth in section 5336 other than subsection (b).
   - **(6)**
     - **(A)** The Governor of a State may transfer any part of the State’s apportionment under paragraph (5)(A) to supplement amounts apportioned to the State under section 5311(c) or amounts apportioned to urbanized areas under subsections (a) and (c) of section 5336.
@@ -49,6 +49,9 @@ generated_at: "2026-03-29T19:32:28.755Z"
     - **(E)** A State shall distribute the amount that is allocated to the State for a fiscal year under subparagraph (D) among the eligible recipients participating in the State’s pool in a manner that supports the transit asset management plans of the recipients under section 5326.
     - **(F)** A State participating in the program shall develop an allocation plan for the period of fiscal years 2016 through 2020 to ensure that an eligible recipient participating in the State’s pool receives under the program an amount of funds that equals the amount of funds that would have otherwise been available to the eligible recipient for that period pursuant to the formulas referred to in paragraph (5).
     - **(G)** The Secretary shall make grants under this subsection for a fiscal year to an eligible recipient participating in a State pool following notification by the State of the allocation amount determined under subparagraph (E).
+  - **(10)**
+    - **(A)** Eligible recipients and subrecipients under this subsection should, to the extent practicable, seek to utilize the procurement tools authorized under section 3019 of the FAST Act ( 49 U.S.C. 5325 note; Public Law 114–94 ).
+    - **(B)** If an eligible recipient or subrecipient under this subsection purchases less than 5 buses through a standalone procurement, the eligible recipient or subrecipient shall provide to the Secretary a written explanation regarding why the tools authorized under section 3019 of the FAST Act ( 49 U.S.C. 5325 note; Public Law 114–94 ) were not utilized.
 - **(b)**
   - **(1)** The Secretary may make grants under this subsection to eligible recipients (as described in subsection (a)(4)) to assist in the financing of buses and bus facilities capital projects, including—
     - **(A)** replacing, rehabilitating, purchasing, or leasing buses or related equipment; and
@@ -58,7 +61,9 @@ generated_at: "2026-03-29T19:32:28.755Z"
   - **(4)** The Secretary shall—
     - **(A)** disclose all metrics and evaluation procedures to be used in considering grant applications under this subsection upon issuance of the notice of funding availability in the Federal Register; and
     - **(B)** publish a summary of final scores for selected projects, metrics, and other evaluations used in awarding grants under this subsection in the Federal Register.
-  - **(5)** Not less than 10 percent of the amounts made available under this subsection in a fiscal year shall be distributed to projects in rural areas.
+  - **(5)**
+    - **(A)** Subject to subparagraph (B), not less than 15 percent of the amounts made available under this subsection in a fiscal year shall be distributed to projects in rural areas.
+    - **(B)** The Secretary may use less than 15 percent of the amounts made available under this subsection in a fiscal year for the projects described in subparagraph (A) if the Secretary cannot meet the requirement of that subparagraph due to insufficient eligible applications.
   - **(6)**
     - **(A)** A grant under this subsection shall be subject to the requirements of—
       - **(i)** section 5307 for eligible recipients of grants made in urbanized areas; and
@@ -68,6 +73,17 @@ generated_at: "2026-03-29T19:32:28.755Z"
     - **(A)** shall remain available for 3 fiscal years after the fiscal year for which the amount is made available; and
     - **(B)** that remain unobligated at the end of the period described in subparagraph (A) shall be added to the amount made available to an eligible project in the following fiscal year.
   - **(8)** Of the amounts made available under this subsection, not more than 10 percent may be awarded to a single grantee.
+  - **(9)** The Secretary shall—
+    - **(A)** not later than 30 days after the date on which amounts are made available for obligation under this subsection for a full fiscal year, solicit grant applications for eligible projects on a competitive basis; and
+    - **(B)** award a grant under this subsection based on the solicitation under subparagraph (A) not later than the earlier of—
+      - **(i)** 75 days after the date on which the solicitation expires; or
+      - **(ii)** the end of the fiscal year in which the Secretary solicited the grant applications.
+  - **(10)**
+    - **(A)** An eligible recipient of a grant under this subsection may submit an application in partnership with other entities, including a transit vehicle manufacturer that intends to participate in the implementation of a project under this subsection and subsection (c).
+    - **(B)** Projects awarded with partnerships under this subsection shall be considered to satisfy the requirement for a competitive procurement under section 5325.
+  - **(11)**
+    - **(A)** Eligible recipients under this subsection should, to the extent practicable, seek to utilize the procurement tools authorized under section 3019 of the FAST Act ( 49 U.S.C. 5325 note; Public Law 114–94 ).
+    - **(B)** If an eligible recipient under this subsection purchases less than 5 buses through a standalone procurement, the eligible recipient shall provide to the Secretary a written explanation regarding why the tools authorized under section 3019 of the FAST Act ( 49 U.S.C. 5325 note; Public Law 114–94 ) were not utilized.
 - **(c)**
   - **(1)** In this subsection—
     - **(A)** the term “direct carbon emissions” means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency;
@@ -88,22 +104,35 @@ generated_at: "2026-03-29T19:32:28.755Z"
     - **(G)** the term “zero emission vehicle” means a low or no emission vehicle that produces no carbon or particulate matter.
   - **(2)** The Secretary may make grants to recipients to finance eligible projects under this subsection.
   - **(3)**
-    - **(A)** A grant under this subsection shall be subject to the requirements of section 5307.
+    - **(A)** A grant under this subsection shall be subject to—
+      - **(i)** with respect to eligible recipients in urbanized areas, section 5307; and
+      - **(ii)** with respect to eligible recipients in rural areas, section 5311.
     - **(B)** Section 5323(i) applies to eligible projects carried out under this subsection, unless the recipient requests a lower grant percentage.
     - **(C)**
       - **(i)** An eligible project carried out under this subsection may receive funding under section 5307 or any other provision of law.
       - **(ii)** Nothing in this subparagraph shall be construed to alter the Government share required under paragraph (7), section 5307, or any other provision of law.
+    - **(D)** In awarding grants under this subsection or under subsection (b) for projects related to zero emission vehicles, the Secretary shall require the applicant to submit a zero emission transition plan, which, at a minimum—
+      - **(i)** demonstrates a long-term fleet management plan with a strategy for how the applicant intends to use the current application and future acquisitions;
+      - **(ii)** addresses the availability of current and future resources to meet costs;
+      - **(iii)** considers policy and legislation impacting technologies;
+      - **(iv)** includes an evaluation of existing and future facilities and their relationship to the technology transition;
+      - **(v)** describes the partnership of the applicant with the utility or alternative fuel provider of the applicant; and
+      - **(vi)** examines the impact of the transition on the applicant’s current workforce by identifying skill gaps, training needs, and retraining needs of the existing workers of the applicant to operate and maintain zero emission vehicles and related infrastructure and avoids the displacement of the existing workforce.
   - **(4)** The Secretary shall—
     - **(A)** not later than 30 days after the date on which amounts are made available for obligation under this subsection for a full fiscal year, solicit grant applications for eligible projects on a competitive basis; and
     - **(B)** award a grant under this subsection based on the solicitation under subparagraph (A) not later than the earlier of—
       - **(i)** 75 days after the date on which the solicitation expires; or
       - **(ii)** the end of the fiscal year in which the Secretary solicited the grant applications.
-  - **(5)** In awarding grants under this subsection, the Secretary shall only consider eligible projects relating to the acquisition or leasing of low or no emission buses or bus facilities that—
-    - **(A)** make greater reductions in energy consumption and harmful emissions, including direct carbon emissions, than comparable standard buses or other low or no emission buses; and
-    - **(B)** are part of a long-term integrated fleet management plan for the recipient.
+  - **(5)** In awarding grants under this subsection, the Secretary—
+    - **(A)** shall consider eligible projects relating to the acquisition or leasing of low or no emission buses or bus facilities that make greater reductions in energy consumption and harmful emissions, including direct carbon emissions, than comparable standard buses or other low or no emission buses; and
+    - **(B)** shall, for no less than 25 percent of the funds made available to carry out this subsection, only consider eligible projects related to the acquisition of low or no emission buses or bus facilities other than zero emission vehicles and related facilities.
   - **(6)** Any amounts made available to carry out this subsection—
     - **(A)** shall remain available to an eligible project for 3 fiscal years after the fiscal year for which the amount is made available; and
     - **(B)** that remain unobligated at the end of the period described in subparagraph (A) shall be added to the amount made available to an eligible project in the following fiscal year.
   - **(7)**
     - **(A)** The Federal share of the cost of an eligible project carried out under this subsection shall not exceed 80 percent.
     - **(B)** The non-Federal share of the cost of an eligible project carried out under this subsection may be derived from in-kind contributions.
+  - **(8)**
+    - **(A)** A recipient of a grant under this subsection may submit an application in partnership with other entities, including a transit vehicle manufacturer, that intends to participate in the implementation of an eligible project under this subsection.
+    - **(B)** Eligible projects awarded with partnerships under this subsection shall be considered to satisfy the requirement for a competitive procurement under section 5325.
+- **(d)** 5 percent of grants related to zero emissions vehicles (as defined in subsection (c)(1)) or related infrastructure under subsection (b) or (c) shall be used by recipients to fund workforce development training, as described in section 5314(b)(2) (including registered apprenticeships and other labor-management training programs) under the recipient’s plan to address the impact of the transition to zero emission vehicles on the applicant’s current workforce under subsection (c)(3)(D), unless the recipient certifies a smaller percentage is necessary to carry out that plan.

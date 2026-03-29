@@ -3,9 +3,9 @@ title: "Section 5421 - Enterprise Funds for Poland and Hungary"
 usc_title: 22
 usc_section: "5421"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 5421"
-generated_at: "2026-03-29T19:29:46.888Z"
+generated_at: "2026-03-29T19:42:08.201Z"
 ---
 
 # § 5421. Enterprise Funds for Poland and Hungary
@@ -26,7 +26,9 @@ generated_at: "2026-03-29T19:29:46.888Z"
     - **(C)** A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
   - **(4)** Grants may be made to an Enterprise Fund under this section only if the Enterprise Fund agrees to comply with the requirements specified in this section.
   - **(5)** Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
-- **(e)** Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.
+- **(e)** Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—
+  - **(1)** except as provided in paragraph (2), by the United States Agency for International Development; or
+  - **(2)** if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to section 9683(b) of this title , by the Corporation.
 - **(f)**
   - **(1)** The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a).
   - **(2)** Funds available to the Enterprise Funds may be used to encourage the establishment of Employee Stock Ownership Plans (ESOPs) in Poland and Hungary.

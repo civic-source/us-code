@@ -3,9 +3,9 @@ title: "Section 1936b - Intermediary relending program"
 usc_title: 7
 usc_section: "1936b"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1936b"
-generated_at: "2026-03-29T19:27:31.792Z"
+generated_at: "2026-03-29T19:43:58.191Z"
 ---
 
 # § 1936b. Intermediary relending program
@@ -24,4 +24,18 @@ generated_at: "2026-03-29T19:27:31.792Z"
     - **(C)** establish and support microlending programs; and
     - **(D)** create or retain employment opportunities.
 - **(d)** The Secretary shall not make loans under section 9812(a) of title 42 .
-- **(e)** There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+- **(e)** The maximum amount of a loan by an eligible entity described in subsection (b) to individuals and entities for a project under subsection (c), including the unpaid balance of any existing loans, shall be the lesser of—
+  - **(1)** $400,000; and
+  - **(2)** 50 percent of the loan to the eligible entity under subsection (a).
+- **(f)**
+  - **(1)** To be eligible to receive a loan or loan guarantee under subsection (a), an eligible entity described in subsection (b) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+  - **(2)** In evaluating applications submitted under paragraph (1), the Secretary shall—
+    - **(A)**
+      - **(i)** take into consideration the previous performance of an eligible entity in carrying out projects under subsection (c); and
+      - **(ii)** in the case of satisfactory performance under clause (i), require the eligible entity to contribute less equity for subsequent loans without modifying the priority given to subsequent applications; and
+    - **(B)** in assigning priorities to applications, require an eligible entity to demonstrate that it has a governing or advisory board made up of business, civic, and community leaders who are representative of the communities of the service area, without limitation to the size of the service area.
+- **(g)** The Secretary shall establish a schedule that is consistent with the amortization schedules of the portfolio of loans made or guaranteed under subsection (a) for the return of any equity contribution made under this section by an eligible entity described in subsection (b), if the eligible entity is—
+  - **(1)** current on all principal and interest payments; and
+  - **(2)** in compliance with loan covenants.
+- **(h)** The Secretary shall promulgate regulations and establish procedures reducing the administrative requirements on eligible entities described in subsection (b), including regulations to carry out the amendments made to this section by the Agriculture Improvement Act of 2018.
+- **(i)** There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.

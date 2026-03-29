@@ -3,9 +3,9 @@ title: "Section 2866 - Water conservation at military installations"
 usc_title: 10
 usc_section: "2866"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2866"
-generated_at: "2026-03-29T19:27:25.648Z"
+generated_at: "2026-03-29T19:43:38.019Z"
 ---
 
 # § 2866. Water conservation at military installations
@@ -28,7 +28,6 @@ generated_at: "2026-03-29T19:27:25.648Z"
       - **(i)** improvements to existing military family housing units;
       - **(ii)** any unspecified minor construction project that will enhance the quality of life of personnel; or
       - **(iii)** any morale, welfare, or recreation facility or service.
-  - **(3)** The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this subsection in that fiscal year.
 - **(c)**
   - **(1)** The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized, using funds appropriated or otherwise made available to the Secretary for water conservation.
-  - **(2)** When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
+  - **(2)** When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title .

@@ -3,9 +3,9 @@ title: "Section 330 - Prohibition against shipment of certain television receive
 usc_title: 47
 usc_section: "330"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 330"
-generated_at: "2026-03-29T19:32:13.778Z"
+generated_at: "2026-03-29T19:44:37.196Z"
 ---
 
 # § 330. Prohibition against shipment of certain television receivers

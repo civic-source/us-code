@@ -3,16 +3,16 @@ title: "Section 2474 - Centers of Industrial and Technical Excellence: designati
 usc_title: 10
 usc_section: "2474"
 chapter: 146
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2474"
-generated_at: "2026-03-29T19:27:25.612Z"
+generated_at: "2026-03-29T19:43:37.983Z"
 ---
 
 # § 2474. Centers of Industrial and Technical Excellence: designation; public-private partnerships
 
 - **(a)**
   - **(1)** The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, shall designate each depot-level activity or military arsenal facility of the military departments and the Defense Agencies (other than facilities approved for closure or major realignment under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note)) as a Center of Industrial and Technical Excellence in the recognized core competencies of the designee.
-  - **(2)** The Secretary of Defense shall establish a policy to encourage the Secretary of each military department and the head of each Defense Agency to reengineer industrial processes and adopt best-business practices at their Centers of Industrial and Technical Excellence in connection with their core competency requirements, so as to serve as recognized leaders in their core competencies throughout the Department of Defense and in the national technology and industrial base (as defined in section 2500(1) of this title ).
+  - **(2)** The Secretary of Defense shall establish a policy to encourage the Secretary of each military department and the head of each Defense Agency to reengineer industrial processes and adopt best-business practices at their Centers of Industrial and Technical Excellence in connection with their core competency requirements, so as to serve as recognized leaders in their core competencies throughout the Department of Defense and in the national technology and industrial base (as defined in section 4801(1) of this title ).
   - **(3)** The Secretary of a military department may conduct a pilot program, consistent with applicable requirements of law, to test any practices referred to in paragraph (2) that the Secretary determines could improve the efficiency and effectiveness of operations at Centers of Industrial and Technical Excellence, improve the support provided by the Centers for the armed forces user of the services of the Centers, and enhance readiness by reducing the time that it takes to repair equipment.
 - **(b)**
   - **(1)** To achieve one or more objectives set forth in paragraph (2), the Secretary designating a Center of Industrial and Technical Excellence under subsection (a) may authorize and encourage the head of the Center to enter into public-private cooperative arrangements (in this section referred to as a “public-private partnership”) to provide for any of the following:
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:27:25.612Z"
       - **(i)** such efforts as plant and equipment recapitalization for a Center; and
       - **(ii)** the promotion of the undertaking of commercial business ventures at a Center.
     - **(E)** To foster cooperation between the armed forces and private industry.
-  - **(3)** If the Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, authorizes the use of public-private partnerships under this subsection, the Secretary shall submit to Congress a report evaluating the need for loan guarantee authority, similar to the ARMS Initiative loan guarantee program under section 4555 of this title , to facilitate the establishment of public-private partnerships and the achievement of the objectives set forth in paragraph (2).
+  - **(3)** If the Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, authorizes the use of public-private partnerships under this subsection, the Secretary shall submit to Congress a report evaluating the need for loan guarantee authority, similar to the ARMS Initiative loan guarantee program under section 7555 of this title , to facilitate the establishment of public-private partnerships and the achievement of the objectives set forth in paragraph (2).
 - **(c)** Any facilities or equipment of a Center of Industrial and Technical Excellence made available to private industry may be used to perform maintenance or to produce goods in order to make more efficient and economical use of Government-owned industrial plants and encourage the creation and preservation of jobs to ensure the availability of a workforce with the necessary manufacturing and maintenance skills to meet the needs of the armed forces.
 - **(d)** Amounts received by a Center for work performed under a public-private partnership shall be credited to the appropriation or fund, including a working-capital fund, that incurs the cost of performing the work. Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31 ) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(e) of this title , revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.
 - **(e)** Equipment or facilities of a Center of Industrial and Technical Excellence may be made available for use by a private-sector entity under this section only if—

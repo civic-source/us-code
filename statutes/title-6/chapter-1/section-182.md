@@ -3,9 +3,9 @@ title: "Section 182 - Responsibilities and authorities of the Under Secretary fo
 usc_title: 6
 usc_section: "182"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 182"
-generated_at: "2026-03-29T19:27:39.832Z"
+generated_at: "2026-03-29T19:43:43.757Z"
 ---
 
 # § 182. Responsibilities and authorities of the Under Secretary for Science and Technology
@@ -13,11 +13,11 @@ generated_at: "2026-03-29T19:27:39.832Z"
 The Secretary, acting through the Under Secretary for Science and Technology, shall have the responsibility for—
 
   - **(1)** advising the Secretary regarding research and development efforts and priorities in support of the Department’s missions;
-  - **(2)** developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to chemical, biological,, 1 1 So in original. and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
-  - **(3)** supporting the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection, by assessing and testing homeland security vulnerabilities and possible threats;
+  - **(2)** developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to chemical, biological, and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
+  - **(3)** supporting the Under Secretary for Intelligence and Analysis and the Director of the Cybersecurity and Infrastructure Security Agency, by assessing and testing homeland security vulnerabilities and possible threats;
   - **(4)** conducting basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements of the Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities;
   - **(5)** establishing priorities for, directing, funding, and conducting national research, development, test and evaluation, and procurement of technology and systems for—
-    - **(A)** preventing the importation of chemical, biological,, 1 and related weapons and material; and
+    - **(A)** preventing the importation of chemical, biological, and related weapons and material; and
     - **(B)** detecting, preventing, protecting against, and responding to terrorist attacks;
   - **(6)** establishing a system for transferring homeland security developments or technologies to Federal, State, local government, and private sector entities;
   - **(7)** entering into work agreements, joint sponsorships, contracts, or any other agreements with the Department of Energy regarding the use of the national laboratories or sites and support of the science and technology base at those facilities;

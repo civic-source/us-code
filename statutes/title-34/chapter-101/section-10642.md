@@ -5,7 +5,7 @@ usc_section: "10642"
 chapter: 101
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 10642"
-generated_at: "2026-03-29T18:45:50.319Z"
+generated_at: "2026-03-29T19:42:53.094Z"
 ---
 
 # § 10642. Use of funds

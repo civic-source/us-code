@@ -3,9 +3,9 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-29T18:47:53.534Z"
+generated_at: "2026-03-29T19:43:38.075Z"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T18:47:53.534Z"
     - **(D)** Propulsion and machinery control systems.
     - **(E)** Totally enclosed lifeboats.
     - **(F)** Welded shipboard anchor and mooring chain.
-  - **(3)** Subject to subsection (k), 1 1 So in original. Probably should be “subsection ( l ),”. See References in Text note below. large medium-speed diesel engines.
+  - **(3)** Subject to subsection (k), large medium-speed diesel engines.
   - **(4)** The following components of T–AO 205 class vessels:
     - **(A)** Auxiliary equipment, including pumps, for all shipboard services.
     - **(B)** Propulsion system components, including engines, reduction gears, and propellers.

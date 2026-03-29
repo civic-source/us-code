@@ -3,9 +3,9 @@ title: "Section 4611 - Imposition of tax"
 usc_title: 26
 usc_section: "4611"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4611"
-generated_at: "2026-03-29T19:30:20.086Z"
+generated_at: "2026-03-29T19:42:47.891Z"
 ---
 
 # § 4611. Imposition of tax
@@ -41,4 +41,4 @@ generated_at: "2026-03-29T19:30:20.086Z"
     - **(B)** If the Secretary estimates under subparagraph (A) that more than $11,970,000,000 will be credited to the Fund before January 1, 1996 , the Hazardous Substance Superfund financing rate under this section shall not apply after the date on which (as estimated by the Secretary) $11,970,000,000 will be so credited to the Fund.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006 , or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
-  - **(2)** The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2017 .
+  - **(2)** The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025 .

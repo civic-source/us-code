@@ -1,27 +1,12 @@
 ---
-title: "Section 2008t - Grants for expansion of employment opportunities for individuals with disabilities in rural areas"
+title: "Section 2008t - Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(G) , Dec. 20, 2018 , 132 Stat. 4776"
 usc_title: 7
 usc_section: "2008t"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2008t"
-generated_at: "2026-03-29T19:27:31.809Z"
+generated_at: "2026-03-29T19:43:58.209Z"
 ---
 
-# § 2008t. Grants for expansion of employment opportunities for individuals with disabilities in rural areas
+# § 2008t. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(G) , Dec. 20, 2018 , 132 Stat. 4776
 
-- **(a)** In this section:
-  - **(1)** The term “individual with a disability” means an individual with a disability (as defined in section 12102 of title 42 ).
-  - **(2)** The term “individuals with disabilities” means more than 1 individual with a disability.
-- **(b)** The Secretary shall make grants to nonprofit organizations, or to a consortium of nonprofit organizations, to expand and enhance employment opportunities for individuals with disabilities in rural areas.
-- **(c)** To be eligible to receive a grant under this section, a nonprofit organization or consortium of nonprofit organizations shall have—
-  - **(1)** a significant focus on serving the needs of individuals with disabilities;
-  - **(2)** demonstrated knowledge and expertise in—
-    - **(A)** employment of individuals with disabilities; and
-    - **(B)** advising private entities on accessibility issues involving individuals with disabilities;
-  - **(3)** expertise in removing barriers to employment for individuals with disabilities, including access to transportation, assistive technology, and other accommodations; and
-  - **(4)** existing relationships with national organizations focused primarily on the needs of rural areas.
-- **(d)** A grant received under this section may be used only to expand or enhance—
-  - **(1)** employment opportunities for individuals with disabilities in rural areas by developing national technical assistance and education resources to assist small businesses in a rural area to recruit, hire, accommodate, and employ individuals with disabilities; and
-  - **(2)** self-employment and entrepreneurship opportunities for individuals with disabilities in a rural area.
-- **(e)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2008 through 2012.

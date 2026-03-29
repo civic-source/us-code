@@ -3,9 +3,9 @@ title: "Section 10174 - Air Force Reserve Command"
 usc_title: 10
 usc_section: "10174"
 chapter: 1006
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 10174"
-generated_at: "2026-03-29T19:27:25.722Z"
+generated_at: "2026-03-29T19:43:38.141Z"
 ---
 
 # § 10174. Air Force Reserve Command
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T19:27:25.722Z"
 - **(b)** The Chief of Air Force Reserve is the Commander of the Air Force Reserve Command. The commander of the Air Force Reserve Command reports directly to the Chief of Staff of the Air Force.
 - **(c)** The Secretary of the Air Force—
   - **(1)** shall assign to the Air Force Reserve Command all forces of the Air Force Reserve stationed in the continental United States other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of this title ; and
-  - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Air Force specified in section 8013 of this title , shall assign to the combatant commands all such forces assigned to the Air Force Reserve Command under paragraph (1) in the manner specified by the Secretary of Defense.
+  - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Air Force specified in section 9013 of this title , shall assign to the combatant commands all such forces assigned to the Air Force Reserve Command under paragraph (1) in the manner specified by the Secretary of Defense.

@@ -3,9 +3,9 @@ title: "Section 1351 - Foreign trade agreements"
 usc_title: 19
 usc_section: "1351"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1351"
-generated_at: "2026-03-29T19:28:30.652Z"
+generated_at: "2026-03-29T19:41:21.543Z"
 ---
 
 # § 1351. Foreign trade agreements
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:28:30.652Z"
       - **(ii)** In the case of any decrease in duty to which clause (ii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 1 per centum ad valorem or, in any case in which the rate has been increased since July 1, 1958 , exceed such 1 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
       - **(iii)** In the case of any decrease in duty to which clause (iii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed one-third of the total amount of the decrease under the foreign trade agreement.
     - **(C)** In the case of any decrease in duty to which subparagraph (A) of this paragraph applies (i) no part of a decrease after the first part shall become initially effective until the immediately previous part shall have been in effect for a period or periods aggregating not less than one year, nor after the first part shall have been in effect for a period or periods aggregating more than three years, and (ii) no part of a decrease shall become initially effective after the expiration of the four-year period which begins on July 1, 1962 . If any part of a decrease has become effective, then for the purposes of clauses (i) and (ii) of the preceding sentence any time thereafter during which such part of the decrease is not in effect by reason of legislation of the United States or action thereunder shall be excluded in determining when the three-year period or the four-year period, as the case may be, expires.
-  - **(5)** Repealed. Pub. L. 87–794, title II , § 257(b), Oct. 11, 1962 , 76 Stat. 882 .
+  - **(5)** Repealed. Pub. L. 87–794, title II, § 257(b) , Oct. 11, 1962 , 76 Stat. 882 .
   - **(6)** The President may at any time terminate, in whole or in part, any proclamation made pursuant to this section.
 - **(b)** Nothing in this section or the Trade Expansion Act of 1962 [ 19 U.S.C. 1801 et seq.] shall be construed to prevent the application, with respect to rates of duty established under this section or the Trade Expansion Act of 1962 pursuant to agreements with countries other than Cuba, of the provisions of the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902 , or to preclude giving effect to an agreement with Cuba concluded under this section or the Trade Expansion Act of 1962, modifying the existing preferential customs treatment of any article the growth, produce, or manufacture of Cuba. Nothing in this chapter or the Trade Expansion Act of 1962 shall be construed to preclude the application to any product of Cuba (including products preferentially free of duty) of a rate of duty not higher than the rate applicable to the like products of other foreign countries (except the Philippines), whether or not the application of such rate involves any preferential customs treatment. No rate of duty on products of Cuba shall be decreased—
   - **(1)** In order to carry out a foreign trade agreement entered into by the President before June 12, 1955 , by more than 50 per centum of the rate of duty existing on January 1, 1945 , with respect to products of Cuba.

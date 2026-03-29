@@ -3,9 +3,9 @@ title: "Section 3005 - False representations; lotteries"
 usc_title: 39
 usc_section: "3005"
 chapter: 30
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "39 U.S.C. § 3005"
-generated_at: "2026-03-29T19:30:48.546Z"
+generated_at: "2026-03-29T19:43:19.857Z"
 ---
 
 # § 3005. False representations; lotteries

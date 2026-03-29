@@ -3,9 +3,9 @@ title: "Section 7633 - Food and agriculture service learning program"
 usc_title: 7
 usc_section: "7633"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7633"
-generated_at: "2026-03-29T19:27:31.998Z"
+generated_at: "2026-03-29T19:43:58.423Z"
 ---
 
 # § 7633. Food and agriculture service learning program
@@ -31,5 +31,5 @@ generated_at: "2026-03-29T19:27:31.998Z"
     - **(B)** submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes a description of the results of each evaluation conducted under subparagraph (A).
 - **(e)**
   - **(1)** There is authorized to be appropriated to carry out the Program $25,000,000, to remain available until expended.
-  - **(2)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a competitive grant under this section.
+  - **(2)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of a competitive grant under this section.
   - **(3)** Funds made available under paragraph (1) shall be used only to supplement, not to supplant, the amount of Federal funding otherwise expended for nutrition, research, and extension programs of the Department.

@@ -3,9 +3,9 @@ title: "Section 2752 - Annual appropriations"
 usc_title: 33
 usc_section: "2752"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2752"
-generated_at: "2026-03-29T19:30:28.873Z"
+generated_at: "2026-03-29T19:43:07.727Z"
 ---
 
 # § 2752. Annual appropriations

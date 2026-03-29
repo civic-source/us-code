@@ -3,9 +3,9 @@ title: "Section 1218 - Discharge or release from active duty: claims for compens
 usc_title: 10
 usc_section: "1218"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1218"
-generated_at: "2026-03-29T19:27:25.522Z"
+generated_at: "2026-03-29T19:43:37.912Z"
 ---
 
 # § 1218. Discharge or release from active duty: claims for compensation, pension, or hospitalization
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:27:25.522Z"
 - **(b)** A right that a member may assert after failing or refusing to sign a claim, as provided in subsection (a), is not affected by that failure or refusal.
 - **(c)** This section does not prevent the immediate transfer of a member to a facility of the Department of Veterans Affairs for necessary hospital care.
 - **(d)**
-  - **(1)** The Secretary of a military department shall ensure that each member of a reserve component under the jurisdiction of the Secretary who is determined, after a mobilization and deployment to an area in which imminent danger pay is authorized under section 310 of title 37 , to require evaluation for a physical or mental disability which could result in separation or retirement for disability under this chapter or placement on the temporary disability retired list or inactive status list under this chapter is retained on active duty during the disability evaluation process until such time as such member is—
+  - **(1)** The Secretary of a military department shall ensure that each member of a reserve component under the jurisdiction of the Secretary who is determined, after a mobilization and deployment to an area in which imminent danger pay is authorized under section 310 or 351 of title 37, to require evaluation for a physical or mental disability which could result in separation or retirement for disability under this chapter or placement on the temporary disability retired list or inactive status list under this chapter is retained on active duty during the disability evaluation process until such time as such member is—
     - **(A)** cleared by appropriate authorities for continuation on active duty; or
     - **(B)** separated, retired, or placed on the temporary disability retired list or inactive status list.
   - **(2)**

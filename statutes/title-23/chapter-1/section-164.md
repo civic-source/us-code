@@ -3,9 +3,9 @@ title: "Section 164 - Minimum penalties for repeat offenders for driving while i
 usc_title: 23
 usc_section: "164"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 164"
-generated_at: "2026-03-29T19:29:58.412Z"
+generated_at: "2026-03-29T19:41:43.014Z"
 ---
 
 # § 164. Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence
@@ -34,11 +34,15 @@ generated_at: "2026-03-29T19:29:58.412Z"
     - **(B)** The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device.
 - **(b)**
   - **(1)** On October 1, 2000 , and October 1, 2001 , if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) 1 1 See References in Text note below. to the apportionment of the State under section 402—
-    - **(A)** to be used for alcohol-impaired driving countermeasures; or
-    - **(B)** to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
+    - **(A)** to be used for alcohol- or multiple substance-impaired driving countermeasures; or
+    - **(B)** to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated, driving while multiple substance-impaired, or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
   - **(2)**
-    - **(A)** On October 1, 2011 , and each October 1 thereafter, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the States will use those reserved funds among the uses authorized under subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
-    - **(B)** As soon as practicable after the date of receipt of a certification from a State under subparagraph (A), the Secretary shall—
+    - **(A)**
+      - **(i)** On October 1, 2021 , and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
+      - **(ii)** A State referred to in clause (i) is a State—
+        - **(I)** that has not enacted or is not enforcing a repeat intoxicated driver law; and
+        - **(II)** for which the Secretary determined for the prior fiscal year that the State had not enacted or was not enforcing a repeat intoxicated driver law.
+    - **(B)** As soon as practicable after the date of receipt of a certification from a State under subparagraph (A)(i), the Secretary shall—
       - **(i)** transfer the reserved funds identified by the State for use as described in subparagraphs (A) and (B) of paragraph (1) to the apportionment of the State under section 402; and
       - **(ii)** release the reserved funds identified by the State as described in paragraph (3).
   - **(3)**

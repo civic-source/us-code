@@ -3,9 +3,9 @@ title: "Section 1712A - Eligibility for readjustment counseling and related ment
 usc_title: 38
 usc_section: "1712A"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1712A"
-generated_at: "2026-03-29T19:30:40.475Z"
+generated_at: "2026-03-29T19:43:26.963Z"
 ---
 
 # § 1712A. Eligibility for readjustment counseling and related mental health services
@@ -13,33 +13,44 @@ generated_at: "2026-03-29T19:30:40.475Z"
 - **(a)**
   - **(1)**
     - **(A)** Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—
-      - **(i)** in the case of an individual referred to in clauses (i) through (iv) of subparagraph (C), to assist the individual in readjusting to civilian life; and
-      - **(ii)** in the case of an individual referred to in clause (v) of such subparagraph who is a family member of a veteran or member described in such clause—
+      - **(i)** in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), to assist the individual in readjusting to civilian life; and
+      - **(ii)** in the case of an individual referred to in clause (vii) of such subparagraph who is a family member of a veteran or member described in such clause—
         - **(I)** in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment; and
         - **(II)** in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life.
-    - **(B)** Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual’s psychological, social, and other characteristics to ascertain whether—
-      - **(i)** in the case of an individual referred to in clauses (i) through (iv) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
-      - **(ii)** in the case of an individual referred to in clause (v) of such subparagraph, such individual has difficulties associated with—
-        - **(I)** coping with the deployment of a member described in subclause (I) of such clause; or
-        - **(II)** readjustment to civilian life of a veteran or member described in subclause (II) of such clause.
+    - **(B)**
+      - **(i)** Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual’s psychological, social, and other characteristics to ascertain whether—
+        - **(I)** in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
+        - **(II)** in the case of an individual referred to in clause (vii) of such subparagraph, such individual has difficulties associated with—
+      - **(ii)**
+        - **(I)** Except as provided in subclauses (IV) and (V), counseling furnished to an individual under subparagraph (A) may include reintegration and readjustment services described in subclause (II) furnished in group retreat settings.
+        - **(II)** Reintegration and readjustment services described in this subclause are the following:
+        - **(III)** In furnishing reintegration and readjustment services under subclause (I), the Secretary shall offer women the opportunity to receive such services in group retreat settings in which the only participants are women.
+        - **(IV)** An individual described in subparagraph (C)(v) may receive reintegration and readjustment services under subclause (I) of this clause only if the individual receives such services with a family member described in subclause (I) or (II) of such subparagraph.
+        - **(V)** In each of fiscal years 2021 through 2025, the maximum number of individuals to whom integration and readjustment services may be furnished in group retreat settings under this subclause (I) shall not exceed 1,200 individuals.
     - **(C)** Subparagraph (A) applies to the following individuals:
       - **(i)** Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who served on active duty in a theater of combat operations or an area at a time during which hostilities occurred in that area.
       - **(ii)** Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who provided direct emergency medical or mental health care, or mortuary services to the causalities of combat operations or hostilities, but who at the time was located outside the theater of combat operations or area of hostilities.
       - **(iii)** Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who engaged in combat with an enemy of the United States or against an opposing military force in a theater of combat operations or an area at a time during which hostilities occurred in that area by remotely controlling an unmanned aerial vehicle, notwithstanding whether the physical location of such veteran or member during such combat was within such theater of combat operations or area.
-      - **(iv)** Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
-      - **(v)** Any individual who is a family member of any—
+      - **(iv)** Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who served—
+        - **(I)** on active service in response to a national emergency or major disaster declared by the President; or
+        - **(II)** in the National Guard of a State under orders of the chief executive of that State in response to a disaster or civil disorder in such State.
+      - **(v)** Any individual who participated in a drug interdiction operation as a member of the Coast Guard, regardless of the location of that operation.
+      - **(vi)** Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+      - **(vii)** Any individual who is a family member of any—
         - **(I)** member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area; or
         - **(II)** veteran or member of the Armed Forces described in this subparagraph.
-  - **(2)** Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
+  - **(2)**
+    - **(A)** Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B)(i) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
+    - **(B)** Upon the request of an individual described in paragraph (1)(C), the Secretary shall furnish the individual reintegration and readjustment services in group retreat settings under paragraph (1)(B)(ii) if the Secretary determines the experience will be therapeutically appropriate.
 - **(b)**
   - **(1)** If, on the basis of the assessment furnished under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title ).
   - **(2)** Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
-- **(c)** Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not otherwise eligible for such counseling, the Secretary shall—
+- **(c)** Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, air, or space service but who is not otherwise eligible for such counseling, the Secretary shall—
   - **(1)** provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
-  - **(2)** if pertinent, advise such individual of such individual’s rights to apply to the appropriate military, naval, or air service, and to the Department, for review of such individual’s discharge or release from such service.
+  - **(2)** if pertinent, advise such individual of such individual’s rights to apply to the appropriate military, naval, air, or space service, and to the Department, for review of such individual’s discharge or release from such service.
 - **(d)** The Under Secretary for Health may provide for such training of professional, paraprofessional, and lay personnel as is necessary to carry out this section effectively, and, in carrying out this section, may utilize the services of paraprofessionals, individuals who are volunteers working without compensation, and individuals who are veteran-students (as described in section 3485 of this title ) in initial intake and screening activities.
 - **(e)**
-  - **(1)** In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts with private facilities that is available to the Secretary (under sections 1703(a)(2) and 1710(a)(1)(B) of this title) in furnishing medical services to veterans suffering from total service-connected disabilities.
+  - **(1)** In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts or agreements with private facilities that is available to the Secretary in furnishing medical services to veterans suffering from total service-connected disabilities.
   - **(2)** Before furnishing counseling or related mental health services described in subsections (a) and (b) of this section through a contract facility, as authorized by this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which the counseling or services are to be furnished.
   - **(3)** The authority of the Secretary to enter into contracts under this subsection shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 - **(f)** The Secretary, in cooperation with the Secretary of Defense, shall take such action as the Secretary considers appropriate to notify veterans who may be eligible for assistance under this section of such potential eligibility.
@@ -57,3 +68,5 @@ generated_at: "2026-03-29T19:30:40.475Z"
       - **(iv)** a step-family member; and
       - **(v)** an extended family member; or
     - **(B)** lives with the veteran or member but is not a member of the family of the veteran or member.
+  - **(4)** The term “active service” has the meaning given that term in section 101 of title 10 .
+  - **(5)** The term “civil disorder” has the meaning given that term in section 232 of title 18 .

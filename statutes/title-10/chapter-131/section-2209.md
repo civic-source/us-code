@@ -3,9 +3,9 @@ title: "Section 2209 - Management funds"
 usc_title: 10
 usc_section: "2209"
 chapter: 131
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2209"
-generated_at: "2026-03-29T19:27:25.569Z"
+generated_at: "2026-03-29T19:43:37.966Z"
 ---
 
 # § 2209. Management funds

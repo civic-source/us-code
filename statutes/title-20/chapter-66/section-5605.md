@@ -3,23 +3,24 @@ title: "Section 5605 - Authority of Foundation"
 usc_title: 20
 usc_section: "5605"
 chapter: 66
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 5605"
-generated_at: "2026-03-29T19:28:43.152Z"
+generated_at: "2026-03-29T19:41:03.372Z"
 ---
 
 # § 5605. Authority of Foundation
 
 - **(a)**
   - **(1)**
-    - **(A)** The Foundation, in consultation with the Center, is authorized to identify and conduct such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title . The Foundation shall have the authority to award scholarships, fellowships, internships, and grants and fund the Center to carry out and manage other programs, activities and services.
-    - **(B)** The Foundation may provide, directly or by contract, for the conduct of national competition for the purpose of selecting recipients of scholarships, fellowships, internships, and grants awarded under this chapter.
-    - **(C)** The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.
-    - **(D)**
+    - **(A)** The Foundation is authorized to identify and conduct, directly or by contract, such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title , which may include—
+      - **(i)** awarding scholarships, fellowships, internships, and grants, by national competition, to eligible individuals, as determined by the Foundation and in accordance with paragraphs (2), (3), and (4), for study in fields related to the environment or Native American and Alaska Native health care and tribal policy;
+      - **(ii)** funding the Center to carry out and manage other programs, activities, and services; and
+      - **(iii)** other education programs that the Board determines are consistent with the purposes for which the Foundation is established.
+    - **(B)**
       - **(i)** The Foundation shall—
-        - **(I)** establish the United States Institute for Environmental Conflict Resolution as part of the Foundation; and
-        - **(II)** identify and conduct such programs, activities, and services as the Foundation determines appropriate to permit the Foundation to provide assessment, mediation, training, and other related services to resolve environmental disputes.
-      - **(ii)** In providing assessment, mediation, training, and other related services under clause (i)(II) to resolve environmental disputes, the Foundation shall consider, to the maximum extent practicable, conflict resolution providers within the geographic proximity of the conflict.
+        - **(I)** establish the John S. McCain III National Center for Environmental Conflict Resolution as part of the Foundation; and
+        - **(II)** identify and conduct such programs, activities, and services as the Foundation determines appropriate to permit the Foundation to provide assessment, mediation, collaboration, training, and other related services to resolve—
+      - **(ii)** In providing assessment, mediation, collaboration, training, and other related services under clause (i)(II) to resolve environmental disputes, the Foundation shall consider, to the maximum extent practicable, conflict resolution providers within the geographic proximity of the conflict.
   - **(2)**
     - **(A)** Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers related to the environment and to outstanding Native American and Alaska Native undergraduate students who intend to pursue careers in health care and tribal public policy.
     - **(B)** An eligible individual awarded a scholarship under this chapter may receive payments under this chapter only during such periods as the Foundation finds that the eligible individual is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
@@ -30,13 +31,23 @@ generated_at: "2026-03-29T19:28:43.152Z"
   - **(4)** Internships shall be awarded to—
     - **(A)** deserving and qualified individuals to participate in internships in Federal, State and local agencies or in offices of major environmental organizations pursuant to section 5604 of this title ; and
     - **(B)** deserving and qualified Native American and Alaska Native individuals to participate in internships in Federal, State and local agencies or in offices of major public health or public policy organizations pursuant to section 5604 of this title .
-  - **(5)** The Foundation shall award grants to the Center—
-    - **(A)** to provide for an annual panel of experts to discuss contemporary environmental issues;
-    - **(B)** to conduct environmental policy research;
-    - **(C)** to conduct research on Native American and Alaska Native health care issues and tribal public policy issues;
-    - **(D)** for visiting policymakers to share the practical experiences of such for visiting policymakers with the Foundation; and
-    - **(E)** to conduct training, research, and other activities under section 5604(7) of this title .
-  - **(6)** The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for Morris K. Udall’s papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
-  - **(7)** The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
+  - **(5)** The Foundation shall—
+    - **(A)** identify and invite the participation of youth throughout the United States to enjoy the Nation’s parks and wilderness and other outdoor areas, in an education program intended to carry out the purpose of paragraphs (1) and (2) of section 5604 of this title ; and
+    - **(B)** provide training and education programs and activities to teach Federal employees, natural resource professionals, elementary and secondary school educators, and others to work with youth to promote the use and enjoyment of the Nation’s parks and wilderness and other outdoor areas.
+  - **(6)** The Foundation shall assist in the development and implementation of programs at the Center—
+    - **(A)** to provide for an annual meeting of experts to discuss contemporary environmental issues;
+    - **(B)** to conduct environmental policy research; and
+    - **(C)** to promote dialogue with visiting policymakers on environmental, natural resource, and public lands issues.
+  - **(7)** The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for the papers of Morris K. Udall and Stewart L. Udall and other such public papers as may be appropriate and assure such papers’ availability to the public.
+  - **(8)** The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
+  - **(9)** The Foundation shall provide direct or indirect assistance to the Native Nations Institute from the annual appropriations to the Trust Fund in such amounts as Congress may direct to conduct research and provide education and training to Native American and Alaska Native professionals and leaders on Native American and Alaska Native health care issues and tribal public policy issues as provided in section 5604(7) of this title .
 - **(b)** Recipients of scholarships, fellowships, and internships under this chapter shall be known as “Udall Scholars”, “Udall Fellows”, and “Udall Interns”, respectively.
-- **(c)** The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) 1 1 See References in Text note below. of this title, section 5604(a)(3) 1 of this title, and section 5604(a)(4) 1 of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) 1 of this title, section 5604(a)(6) 1 of this title, and section 5604(a)(7) 1 of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
+- **(c)**
+  - **(1)** The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs from the funds earned annually from the interest derived from the investment of the Trust Fund, subject to paragraph (2).
+  - **(2)** In determining the amount of funds to be allocated for programs carried out under this chapter for a year—
+    - **(A)** not less than 50 percent of such annual interest earnings shall be utilized for the programs set forth in paragraphs (2), (3), (4), and (5) of subsection (a);
+    - **(B)** not more than 17.5 percent of such annual interest earnings shall be allocated for salaries and other administrative purposes; and
+    - **(C)** not less than 20 percent of such annual interest earnings shall be appropriated to the Center for activities under paragraphs (7) and (8) of subsection (a).
+- **(d)** Any funds received by the Foundation in the form of donations or grants, as well as any unexpended earnings on interest from the Trust Fund that is carried forward from prior years—
+  - **(1)** shall not be included in the calculation of the funds available for allocations pursuant to subsection (c); and
+  - **(2)** shall be available to carry out the provisions of this chapter as the Board determines to be necessary and appropriate.

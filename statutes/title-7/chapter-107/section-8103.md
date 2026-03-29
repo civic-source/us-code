@@ -3,9 +3,9 @@ title: "Section 8103 - Biorefinery, renewable chemical, and biobased product man
 usc_title: 7
 usc_section: "8103"
 chapter: 107
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 8103"
-generated_at: "2026-03-29T19:27:32.018Z"
+generated_at: "2026-03-29T19:43:58.447Z"
 ---
 
 # § 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance
@@ -19,8 +19,14 @@ generated_at: "2026-03-29T19:27:32.018Z"
   - **(1)** The term “biobased product manufacturing” means development, construction, and retrofitting of technologically new commercial-scale processing and manufacturing equipment and required facilities that will be used to convert renewable chemicals and other biobased outputs of biorefineries into end-user products on a commercial scale.
   - **(2)** The term “eligible entity” means an individual, entity, Indian tribe, or unit of State or local government, including a corporation, farm cooperative, farmer cooperative organization, association of agricultural producers, National Laboratory, institution of higher education, rural electric cooperative, public power entity, or consortium of any of those entities.
   - **(3)** The term “eligible technology” means, as determined by the Secretary—
-    - **(A)** a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces an advanced biofuel; and
-    - **(B)** a technology not described in subparagraph (A) that has been demonstrated to have technical and economic potential for commercial application in a biorefinery that produces an advanced biofuel.
+    - **(A)** a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces any 1 or more, or a combination, of—
+      - **(i)** an advanced biofuel;
+      - **(ii)** a renewable chemical; or
+      - **(iii)** a biobased product; and
+    - **(B)** a technology not described in subparagraph (A) that has been demonstrated to have technical and economic potential for commercial application in a biorefinery that produces any 1 or more, or a combination, of—
+      - **(i)** an advanced biofuel;
+      - **(ii)** a renewable chemical; or
+      - **(iii)** a biobased product.
 - **(c)** The Secretary shall make available to eligible entities guarantees for loans made to fund the development, construction, and retrofitting of commercial-scale biorefineries using eligible technology.
 - **(d)**
   - **(1)**
@@ -52,7 +58,9 @@ generated_at: "2026-03-29T19:27:32.018Z"
 - **(g)**
   - **(1)**
     - **(A)** Subject to subparagraph (B), of the funds of the Commodity Credit Corporation, the Secretary shall use for the cost of loan guarantees under this section, to remain available until expended—
-      - **(i)** $100,000,000 for fiscal year 2014; and
-      - **(ii)** $50,000,000 for each of fiscal years 2015 and 2016.
+      - **(i)** $100,000,000 for fiscal year 2014;
+      - **(ii)** $50,000,000 for each of fiscal years 2015 and 2016;
+      - **(iii)** $50,000,000 for fiscal year 2019; and
+      - **(iv)** $25,000,000 for fiscal year 2020.
     - **(B)** Of the total amount of funds made available for fiscal years 2014 and 2015 under subparagraph (A), the Secretary may use for the cost of loan guarantees under this section not more than 15 percent of such funds to promote biobased product manufacturing.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.

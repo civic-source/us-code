@@ -1,14 +1,12 @@
 ---
-title: "Section 445 - Authorization of appropriations for mitigating losses caused by waterfowl depredation"
+title: "Section 445 - Transferred"
 usc_title: 7
 usc_section: "445"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 445"
-generated_at: "2026-03-29T19:27:31.679Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 445. Authorization of appropriations for mitigating losses caused by waterfowl depredation
-
-There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in the grain transferred pursuant to sections 442 to 445 of this title.
+# § 445. Transferred
 

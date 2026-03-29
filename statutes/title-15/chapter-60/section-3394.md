@@ -3,9 +3,9 @@ title: "Section 3394 - Limitation on revoking or amending certain pre-1969 certi
 usc_title: 15
 usc_section: "3394"
 chapter: 60
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 3394"
-generated_at: "2026-03-29T19:27:55.542Z"
+generated_at: "2026-03-29T19:44:42.864Z"
 ---
 
 # § 3394. Limitation on revoking or amending certain pre-1969 certificates of public convenience and necessity

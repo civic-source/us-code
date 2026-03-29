@@ -3,9 +3,9 @@ title: "Section 3908 - Secured loans"
 usc_title: 33
 usc_section: "3908"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3908"
-generated_at: "2026-03-29T19:30:28.896Z"
+generated_at: "2026-03-29T19:43:07.751Z"
 ---
 
 # § 3908. Secured loans
@@ -30,7 +30,9 @@ generated_at: "2026-03-29T19:30:28.896Z"
       - **(ii)** if the useful life of the project (as determined by the Secretary or Administrator, as applicable) is less than 35 years, the useful life the project.
     - **(B)** The final maturity date of a secured loan to a State infrastructure financing authority under this section shall be not later than 35 years after the date on which amounts are first disbursed.
   - **(6)** A secured loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor of the project.
-  - **(7)** The Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+  - **(7)**
+    - **(A)** Except as provided in subparagraph (B), the Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+    - **(B)** On request of an eligible entity, the Secretary or the Administrator, as applicable, shall allow the fees under subparagraph (A) to be financed as part of the loan.
   - **(8)** The proceeds of a secured loan under this section may be used to pay any non-Federal share of project costs required if the loan is repayable from non-Federal funds.
   - **(9)**
     - **(A)** Except as provided in subparagraph (B), for each project for which assistance is provided under this chapter, the total amount of Federal assistance shall not exceed 80 percent of the total project cost.
@@ -38,11 +40,15 @@ generated_at: "2026-03-29T19:30:28.896Z"
       - **(i)** that is authorized to be carried out by the Secretary of the Interior;
       - **(ii)** that includes among its beneficiaries a federally recognized Indian tribe; and
       - **(iii)** for which the authorized Federal share of the total project costs is greater than the amount described in subparagraph (A).
+    - **(C)** Notwithstanding subparagraph (A), a State infrastructure financing authority may finance up to 100 percent of the costs of a project using the proceeds of financial assistance authorized under section 3912(e) of this title , provided that, in the event of a default with respect to any such assistance, the State infrastructure financing authority is solely responsible for immediate repayment of such costs.
+  - **(10)** Any eligible project costs incurred and the value of any integral in-kind contributions made before receipt of assistance under this chapter shall be credited toward the 51 percent of project costs to be provided by sources of funding other than a secured loan under this chapter (as described in paragraph (2)(A)).
 - **(c)**
   - **(1)** The Secretary or the Administrator, as applicable, shall establish a repayment schedule for each secured loan provided under this section, based on the projected cash flow from project revenues and other repayment sources.
   - **(2)**
     - **(A)** Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project (as determined by the Secretary or Administrator, as applicable).
-    - **(B)** Scheduled loan repayments of principal or interest on a secured loan to a State infrastructure financing authority under this chapter shall commence not later than 5 years after the date on which amounts are first disbursed.
+    - **(B)**
+      - **(i)** Scheduled loan repayments of principal or interest on a secured loan to a State infrastructure financing authority under this chapter shall commence not later than 5 years after the date on which amounts are first disbursed.
+      - **(ii)** None of the funds for repayment of a secured loan under this title from a State infrastructure financing authority may come from funds provided to a State revolving loan fund under title VI of the Federal Water Pollution Control Act ( 33 U.S.C. 1381 et seq.) or section 300j–12 of title 42 .
   - **(3)**
     - **(A)** If, at any time after the date of substantial completion of a project for which a secured loan is provided under this section, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary or the Administrator, as applicable, subject to subparagraph (C), may allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
     - **(B)** Any payment deferred under subparagraph (A) shall—

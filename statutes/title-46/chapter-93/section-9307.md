@@ -3,9 +3,9 @@ title: "Section 9307 - Great Lakes Pilotage Advisory Committee"
 usc_title: 46
 usc_section: "9307"
 chapter: 93
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 9307"
-generated_at: "2026-03-29T19:32:17.335Z"
+generated_at: "2026-03-29T19:44:39.410Z"
 ---
 
 # § 9307. Great Lakes Pilotage Advisory Committee
@@ -18,13 +18,14 @@ generated_at: "2026-03-29T19:32:17.335Z"
     - **(A)** the Secretary, who shall call such a meeting at least once during each calendar year; or
     - **(B)** a majority of the Committee.
 - **(b)**
-  - **(1)** The Committee shall consist of seven members appointed by the Secretary in accordance with this subsection, each of whom has at least 5 years practical experience in maritime operations. The term of each member is for a period of not more than 5 years, specified by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
+  - **(1)** The Committee shall consist of 8 members appointed by the Secretary in accordance with this subsection, each of whom has at least 5 years practical experience in maritime operations. The term of each member is for a period of not more than 5 years, specified by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
   - **(2)** The membership of the Committee shall include—
     - **(A)** the President of each of the 3 Great Lakes pilotage districts, or the President’s representative;
-    - **(B)** one member representing the interests of vessel operators that contract for Great Lakes pilotage services;
-    - **(C)** one member representing the interests of Great Lakes ports;
-    - **(D)** one member representing the interests of shippers whose cargoes are transported through Great Lakes ports; and
-    - **(E)** a member with a background in finance or accounting, who—
+    - **(B)** one member chosen from among nominations made by vessel operators that contract for Great Lakes pilotage services;
+    - **(C)** one member chosen from among nominations made by Great Lakes port authorities and marine terminals;
+    - **(D)** one member chosen from among nominations made by shippers whose cargoes are transported through Great Lakes ports;
+    - **(E)** one member chosen from among nominations made by Great Lakes maritime labor organizations; and
+    - **(F)** a member who—
       - **(i)** must have been recommended to the Secretary by a unanimous vote of the other members of the Committee, and
       - **(ii)** may be appointed without regard to requirement in paragraph (1) that each member have 5 years of practical experience in maritime operations.
 - **(c)**
@@ -40,5 +41,5 @@ generated_at: "2026-03-29T19:32:17.335Z"
     - **(B)** travel or transportation expenses under section 5703 of title 5 , United States Code.
   - **(2)** A member of the Committee shall not be considered to be an officer or employee of the United States for any purpose based on their receipt of any payment under this subsection.
 - **(f)**
-  - **(1)** The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2020 .
+  - **(1)** The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2030 .
   - **(2)** 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.

@@ -3,18 +3,18 @@ title: "Section 6518 - National Organic Standards Board"
 usc_title: 7
 usc_section: "6518"
 chapter: 94
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6518"
-generated_at: "2026-03-29T19:27:31.948Z"
+generated_at: "2026-03-29T19:43:58.366Z"
 ---
 
 # § 6518. National Organic Standards Board
 
 - **(a)** The Secretary shall establish a National Organic Standards Board (in accordance with the Federal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
 - **(b)** The Board shall be composed of 15 members, of which—
-  - **(1)** four shall be individuals who own or operate an organic farming operation;
-  - **(2)** two shall be individuals who own or operate an organic handling operation;
-  - **(3)** one shall be an individual who owns or operates a retail establishment with significant trade in organic products;
+  - **(1)** four shall be individuals who own or operate an organic farming operation, or employees of such individuals;
+  - **(2)** two shall be individuals who own or operate an organic handling operation, or employees of such individuals;
+  - **(3)** one shall be an individual who owns or operates a retail establishment with significant trade in organic products, or an employee of such individual;
   - **(4)** three shall be individuals with expertise in areas of environmental protection and resource conservation;
   - **(5)** three shall be individuals who represent public interest or consumer interest groups;
   - **(6)** one shall be an individual with expertise in the fields of toxicology, ecology, or biochemistry; and
@@ -25,7 +25,9 @@ generated_at: "2026-03-29T19:27:31.948Z"
 - **(f)** A member of the Board shall serve without compensation. While away from their homes or regular places of business on the business of the Board, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
 - **(g)** The Board shall select a Chairperson for the Board.
 - **(h)** A majority of the members of the Board shall constitute a quorum for the purpose of conducting business.
-- **(i)** Two-thirds of the votes cast at a meeting of the Board at which a quorum is present shall be decisive of any motion.
+- **(i)**
+  - **(1)** ⅔ of the votes cast at a meeting of the Board at which a quorum is present shall be decisive of any motion.
+  - **(2)** Any vote on a motion proposing to amend the national list shall be considered to be a decisive vote that requires ⅔ of the votes cast at a meeting of the Board at which a quorum is present to prevail.
 - **(j)** The Secretary shall authorize the Board to hire a staff director and shall detail staff of the Department of Agriculture or allow for the hiring of staff and may, subject to necessary appropriations, pay necessary expenses incurred by such Board in carrying out the provisions of this chapter, as determined appropriate by the Secretary.
 - **(k)**
   - **(1)** The Board shall provide recommendations to the Secretary regarding the implementation of this chapter.

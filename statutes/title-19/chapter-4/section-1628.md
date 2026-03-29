@@ -3,9 +3,9 @@ title: "Section 1628 - Exchange of information"
 usc_title: 19
 usc_section: "1628"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1628"
-generated_at: "2026-03-29T19:28:30.681Z"
+generated_at: "2026-03-29T19:41:21.574Z"
 ---
 
 # § 1628. Exchange of information
@@ -18,6 +18,8 @@ generated_at: "2026-03-29T19:28:30.681Z"
 - **(b)**
   - **(1)** Information may be provided to foreign customs and law enforcement agencies under subsection (a) only if the Secretary obtains assurances from such agencies that such information will be held in confidence and used only for the law enforcement purposes for which such information is provided to such agencies by the Secretary.
   - **(2)** No information may be provided under subsection (a) to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
-- **(c)** The Secretary may authorize the Customs Service to exchange information with any government agency of a NAFTA country, as defined in section 3301(4) of this title , if the Secretary—
-  - **(1)** reasonably believes the exchange of information is necessary to implement chapter 3, 4, or 5 of the North American Free Trade Agreement, and
-  - **(2)** obtains assurances from such country that the information will be held in confidence and used only for governmental purposes.
+- **(c)**
+  - **(1)** The Secretary may authorize U.S. Customs and Border Protection to exchange information with any government agency of a USMCA country, if the Secretary—
+    - **(A)** reasonably believes the exchange of information is necessary to implement chapter 2, 4, 5, 6, or 7 of the USMCA; and
+    - **(B)** obtains assurances from such agency that the information will be held in confidence and used only for governmental purposes.
+  - **(2)** In this subsection, the terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .

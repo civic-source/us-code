@@ -3,9 +3,9 @@ title: "Section 70105 - Transportation security cards"
 usc_title: 46
 usc_section: "70105"
 chapter: 701
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 70105"
-generated_at: "2026-03-29T19:32:17.388Z"
+generated_at: "2026-03-29T19:44:39.489Z"
 ---
 
 # § 70105. Transportation security cards
@@ -23,8 +23,12 @@ generated_at: "2026-03-29T19:32:17.388Z"
     - **(C)** a vessel pilot;
     - **(D)** an individual engaged on a towing vessel that pushes, pulls, or hauls alongside a tank vessel allowed unescorted access to a secure area designated in a vessel security plan approved under section 70103 of this title ;
     - **(E)** an individual with access to security sensitive information as determined by the Secretary;
-    - **(F)** other individuals engaged in port security activities as determined by the Secretary; and
-    - **(G)** other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
+    - **(F)** other individuals engaged in port security activities as determined by the Secretary;
+    - **(G)** a member of the Armed Forces who—
+      - **(i)** is undergoing separation, discharge, or release from the Armed Forces under honorable conditions;
+      - **(ii)** applies for a transportation security card; and
+      - **(iii)** is otherwise eligible for such a card; and
+    - **(H)** other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
   - **(3)** The Secretary may extend for up to one year the expiration of a biometric transportation security card required by this section to align the expiration with the expiration of a license, certificate of registry, or merchant mariner document required under chapter 71 or 73.
 - **(c)**
   - **(1)**
@@ -98,7 +102,9 @@ generated_at: "2026-03-29T19:32:17.388Z"
   - **(1)** Information obtained by the Attorney General or the Secretary under this section may not be made available to the public, including the individual’s employer.
   - **(2)** Any information constituting grounds for denial of a transportation security card under this section shall be maintained confidentially by the Secretary and may be used only for making determinations under this section. The Secretary may share any such information with other Federal law enforcement agencies. An individual’s employer may only be informed of whether or not the individual has been issued the card under this section.
 - **(f)** In this section, the term “alien” has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(3) ).
-- **(g)** The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall concurrently process an application from an individual for merchant mariner’s documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section.
+- **(g)** The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall—
+  - **(1)** develop and, no later than 2 years after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, implement a joint application for merchant mariner’s documents under chapter 73 and for a transportation security card issued under this section; and
+  - **(2)** upon receipt of a joint application developed under paragraph (1) concurrently process an application from an individual for merchant mariner’s documents under chapter 73 and an application from such individual for a transportation security card under this section.
 - **(h)** The Secretary shall ensure that the fees charged each individual applying for a transportation security card under this section who has passed a background check under section 5103a(d) of title 49 , United States Code, and who has a current hazardous materials endorsement in accordance with section 1572 of title 49 , Code of Federal Regulations, and each individual with a current merchant mariners’ document who has passed a criminal background check under section 7302(d)—
   - **(1)** are for costs associated with the issuance, production, and management of the transportation security card, as determined by the Secretary; and
   - **(2)** do not include costs associated with performing a background check for that individual, except for any incremental costs in the event that the scope of such background checks diverge.
@@ -108,7 +114,9 @@ generated_at: "2026-03-29T19:32:17.388Z"
     - **(A)** the 10 United States ports that the Secretary designates top priority not later than July 1, 2007 ;
     - **(B)** the 40 United States ports that are next in order of priority to the ports described in subparagraph (A) not later than January 1, 2008 ; and
     - **(C)** all other United States ports not later than January 1, 2009 .
-- **(j)** Not later than January 1, 2009 , the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners’ documents on the date of the enactment of the SAFE Port Act.
+- **(j)**
+  - **(1)** The Secretary and the Secretary of Defense shall enter into a memorandum of understanding regarding the submission and processing of applications for transportation security cards under subsection (b)(2)(G).
+  - **(2)** Not later than 30 days after the submission of such an application by an individual who is eligible to submit such an application, the Secretary shall process and approve or deny the application unless an appeal or waiver applies or further application documentation is necessary.
 - **(k)**
   - **(1)**
     - **(A)** The Secretary shall conduct a pilot program to test the business processes, technology, and operational impacts required to deploy transportation security card readers at secure areas of the marine transportation system.

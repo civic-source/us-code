@@ -1,12 +1,12 @@
 ---
-title: "Section 178 - Repealed. Oct. 31, 1951, ch. 654 , § 1(46), 65 Stat. 703"
+title: "Section 178 - Repealed. Oct. 31, 1951, ch. 654, § 1(46) , 65 Stat. 703"
 usc_title: 24
 usc_section: "178"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "24 U.S.C. § 178"
-generated_at: "2026-03-29T19:29:35.065Z"
+generated_at: "2026-03-29T19:41:29.462Z"
 ---
 
-# § 178. Repealed. Oct. 31, 1951, ch. 654 , § 1(46), 65 Stat. 703
+# § 178. Repealed. Oct. 31, 1951, ch. 654, § 1(46) , 65 Stat. 703
 

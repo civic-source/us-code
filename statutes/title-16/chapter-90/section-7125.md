@@ -3,9 +3,9 @@ title: "Section 7125 - Resource advisory committees"
 usc_title: 16
 usc_section: "7125"
 chapter: 90
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 7125"
-generated_at: "2026-03-29T19:29:27.631Z"
+generated_at: "2026-03-29T19:41:13.887Z"
 ---
 
 # § 7125. Resource advisory committees
@@ -17,8 +17,8 @@ generated_at: "2026-03-29T19:29:27.631Z"
     - **(B)** to provide advice and recommendations to the land management agencies consistent with the purposes of this subchapter.
   - **(3)** To ensure that each unit of Federal land has access to a resource advisory committee, and that there is sufficient interest in participation on a committee to ensure that membership can be balanced in terms of the points of view represented and the functions to be performed, the Secretary concerned may, 1 1 So in original. The comma probably should not appear. establish resource advisory committees for part of, or 1 or more, units of Federal land.
   - **(4)**
-    - **(A)** An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2012 , or an advisory committee determined by the Secretary concerned before September 29, 2012 , to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
-    - **(B)** A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2012 , shall be considered to be filed for purposes of this chapter.
+    - **(A)** An advisory committee that meets the requirements of this section, a resource advisory committee established before December 20, 2023 , or an advisory committee determined by the Secretary concerned before December 20, 2023 , to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+    - **(B)** A charter for a committee described in subparagraph (A) that was filed on or before December 20, 2023 , shall be considered to be filed for purposes of this chapter.
     - **(C)** The Secretary of the Interior may deem a resource advisory committee meeting the requirements of subpart 1784 of part 1780 of title 43, Code of Federal Regulations, as a resource advisory committee for the purposes of this subchapter.
 - **(b)** A resource advisory committee shall—
   - **(1)** review projects proposed under this subchapter by participating counties and other persons;
@@ -38,8 +38,8 @@ generated_at: "2026-03-29T19:29:27.631Z"
   - **(4)** The Secretary concerned shall make appointments to fill vacancies on any resource advisory committee as soon as practicable after the vacancy has occurred.
   - **(5)** Members of the resource advisory committees shall not receive any compensation.
 - **(d)**
-  - **(1)** Each resource advisory committee shall be comprised of 15 members.
-  - **(2)** Committee members shall be representative of the interests of the following 3 categories:
+  - **(1)** Except as provided in paragraph (6), each resource advisory committee shall be comprised of 15 members.
+  - **(2)** Except as provided in paragraph (6), committee members shall be representative of the interests of the following 3 categories:
     - **(A)** 5 persons that—
       - **(i)** represent organized labor or non-timber forest product harvester groups;
       - **(ii)** represent developed outdoor recreation, off highway vehicle users, or commercial recreation activities;
@@ -63,6 +63,12 @@ generated_at: "2026-03-29T19:29:27.631Z"
   - **(3)** In appointing committee members from the 3 categories in paragraph (2), the Secretary concerned shall provide for balanced and broad representation from within each category.
   - **(4)** The members of a resource advisory committee shall reside within the State in which the committee has jurisdiction and, to extent 2 2 So in original. Probably should be preceded by “the”. practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
   - **(5)** A majority on each resource advisory committee shall select the chairperson of the committee.
+  - **(6)**
+    - **(A)** On notice from the applicable regional forester that an adequate number of qualified candidates are not interested or available to serve on a resource advisory committee, the Secretary concerned shall publish a notice in the Federal Register seeking candidates for the resource advisory committee.
+    - **(B)** If, by the date that is 30 days after the date of publication of notice under subparagraph (A), an inadequate number of qualified candidates have applied to serve on a resource advisory committee, the Secretary concerned may reduce—
+      - **(i)** the membership requirement under paragraph (1) to not fewer than 9; and
+      - **(ii)** the membership requirements under subparagraphs (A), (B), and (C) of paragraph (2) to 3 in each category described in that paragraph, except that where a vacancy exists on a resource advisory committee, the Secretary concerned may not reject a qualified applicant from any category.
+    - **(C)** The authority provided under this paragraph terminates on October 1, 2023 .
 - **(e)**
   - **(1)** Subject to paragraph (3), each resource advisory committee shall establish procedures for proposing projects to the Secretary concerned under this subchapter.
   - **(2)** A quorum must be present to constitute an official meeting of the committee.
@@ -71,3 +77,33 @@ generated_at: "2026-03-29T19:29:27.631Z"
   - **(1)** A resource advisory committee may submit to the Secretary concerned a request for periodic staff assistance from Federal employees under the jurisdiction of the Secretary.
   - **(2)** All meetings of a resource advisory committee shall be announced at least 1 week in advance in a local newspaper of record and shall be open to the public.
   - **(3)** A resource advisory committee shall maintain records of the meetings of the committee and make the records available for public inspection.
+- **(g)**
+  - **(1)** In this subsection:
+    - **(A)** The term “applicable designee” means the applicable regional forester.
+    - **(B)** The term “national pilot program” means the national pilot program established under paragraph (4)(A).
+    - **(C)** The term “regional pilot program” means the regional pilot program established under paragraph (3)(A).
+  - **(2)** In accordance with paragraphs (3) and (4), the Secretary concerned shall carry out 2 pilot programs to appoint members of resource advisory committees.
+  - **(3)**
+    - **(A)** The Secretary concerned shall carry out a regional pilot program to allow an applicable designee to appoint members of resource advisory committees.
+    - **(B)** The regional pilot program shall only apply to resource advisory committees chartered in—
+      - **(i)** the State of Montana; and
+      - **(ii)** the State of Arizona.
+    - **(C)**
+      - **(i)** Before appointing a member of a resource advisory committee under the regional pilot program, an applicable designee shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the regional pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
+      - **(ii)** Nothing in this paragraph relieves an applicable designee from any requirement developed by the Secretary concerned for making an appointment to a resource advisory committee that is in effect on December 20, 2018 , including any requirement for advertising a vacancy.
+  - **(4)**
+    - **(A)** The Secretary concerned shall carry out a national pilot program to allow the Chief of the Forest Service or the Director of the Bureau of Land Management, as applicable, to submit to the Secretary concerned nominations of individuals for appointment as members of resource advisory committees.
+    - **(B)** Under the national pilot program, subject to subparagraph (C), not later than 30 days after the date on which a nomination is transmitted to the Secretary concerned under subparagraph (A), the Secretary concerned shall—
+      - **(i)** appoint the nominee to the applicable resource advisory committee; or
+      - **(ii)** reject the nomination.
+    - **(C)** If the Secretary concerned does not act on a nomination in accordance with subparagraph (B) by the date described in that subparagraph, the nominee shall be deemed appointed to the applicable resource advisory committee.
+    - **(D)** The national pilot program shall apply to a resource advisory committee chartered in any State other than—
+      - **(i)** the State of Montana; or
+      - **(ii)** the State of Arizona.
+    - **(E)** Nothing in this paragraph relieves the Secretary concerned from any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
+  - **(5)** The authority provided under this subsection terminates on October 1, 2023 .
+  - **(6)** Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
+    - **(A)** with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
+      - **(i)** appointments were faster or slower; and
+      - **(ii)** the requirements described in paragraph (3)(C)(i) differ; and
+    - **(B)** a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.

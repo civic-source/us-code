@@ -3,9 +3,9 @@ title: "Section 1201 - Regulars and members on active duty for more than 30 days
 usc_title: 10
 usc_section: "1201"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1201"
-generated_at: "2026-03-29T19:27:25.520Z"
+generated_at: "2026-03-29T19:43:37.910Z"
 ---
 
 # § 1201. Regulars and members on active duty for more than 30 days: retirement

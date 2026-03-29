@@ -3,9 +3,9 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-29T19:30:20.202Z"
+generated_at: "2026-03-29T19:42:47.981Z"
 ---
 
 # § 6404. Abatements
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:30:20.202Z"
   - **(1)** is excessive in amount, or
   - **(2)** is assessed after the expiration of the period of limitation properly applicable thereto, or
   - **(3)** is erroneously or illegally assessed.
-- **(b)** No claim for abatement shall be filed by a taxpayer in respect of any assessment of any tax imposed under subtitle A or B.
+- **(b)** No claim for abatement shall be filed by a taxpayer in respect of an assessment of any tax imposed under subtitle A or B.
 - **(c)** The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or any liability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
 - **(d)** In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 - **(e)**
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T19:30:20.202Z"
     - **(B)** any interest, penalty, addition to tax, or additional amount in a case involving fraud;
     - **(C)** any interest, penalty, addition to tax, or additional amount with respect to any tax liability shown on the return;
     - **(D)** any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
-    - **(E)** any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) 1 1 See References in Text note below. is not met and any listed transaction (as defined in 6707A(c)); or
+    - **(E)** any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(3)(A) is not met and any listed transaction (as defined in 6707A(c)); or
     - **(F)** any criminal penalty.
   - **(3)** For purposes of this subsection, the term “suspension period” means the period—
     - **(A)** beginning on the day after the close of the 36-month period under paragraph (1); and

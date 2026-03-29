@@ -3,9 +3,9 @@ title: "Section 698c - Administration of Big Thicket Preserve"
 usc_title: 16
 usc_section: "698c"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 698c"
-generated_at: "2026-03-29T19:29:27.335Z"
+generated_at: "2026-03-29T19:41:13.582Z"
 ---
 
 # § 698c. Administration of Big Thicket Preserve

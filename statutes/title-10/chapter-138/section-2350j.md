@@ -3,9 +3,9 @@ title: "Section 2350j - Burden sharing contributions by designated countries and
 usc_title: 10
 usc_section: "2350j"
 chapter: 138
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2350j"
-generated_at: "2026-03-29T19:27:25.594Z"
+generated_at: "2026-03-29T19:43:37.977Z"
 ---
 
 # § 2350j. Burden sharing contributions by designated countries and regional organizations
@@ -24,12 +24,23 @@ generated_at: "2026-03-29T19:27:25.594Z"
     - **(A)** an explanation of the need for the project;
     - **(B)** the then current estimate of the cost of the project; and
     - **(C)** a justification for carrying out the project under that subsection.
-  - **(2)** The Secretary of Defense or the Secretary of a military department may not commence a military construction project under subsection (d) until the end of the 21-day period beginning on the date on which the Secretary of Defense submits the report under paragraph (1) regarding the project or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title .
+  - **(2)** The Secretary of Defense or the Secretary of a military department may not commence a military construction project under subsection (d) until the end of the 14-day period beginning on the date on which the Secretary of Defense submits the report under paragraph (1) regarding the project in an electronic medium pursuant to section 480 of this title .
   - **(3)**
     - **(A)** A military construction project under subsection (d) may be carried out without regard to the requirement in paragraph (1) and the limitation in paragraph (2) if the project is necessary to support the armed forces in the country or region in which the project is carried out by reason of a declaration of war, or a declaration by the President of a national emergency pursuant to the National Emergencies Act ( 50 U.S.C. 1601 et seq.), that is in force at the time of the commencement of the project.
     - **(B)** When a decision is made to carry out a military construction project under subparagraph (A), the Secretary of Defense shall submit to the congressional defense committees—
       - **(i)** a notice of the decision; and
       - **(ii)** a statement of the current estimated cost of the project, including the cost of any real property transaction in connection with the project.
-- **(f)** Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
-  - **(1)** the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
-  - **(2)** the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
+- **(f)**
+  - **(1)** Not later than January 15 each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the burden sharing contributions received under this section from designated countries.
+  - **(2)** Each report required by paragraph (1) shall include the following for the preceding fiscal year:
+    - **(A)** A list of all designated countries from which burden sharing contributions were received.
+    - **(B)** An explanation of the purpose for which each such burden sharing contribution was provided.
+    - **(C)** A description of any written agreement entered into with a designated country under this section, including the date on which the agreement was signed.
+    - **(D)** For each designated country—
+      - **(i)** the amount provided by the designated country; and
+      - **(ii)** the amount of any remaining unobligated balance.
+    - **(E)** The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
+    - **(F)** Any other matter the Secretary of Defense considers relevant.
+  - **(3)** In this subsection, the term “appropriate committees of Congress” means—
+    - **(A)** the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+    - **(B)** the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.

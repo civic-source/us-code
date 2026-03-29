@@ -1,14 +1,16 @@
 ---
-title: "Section 889 - Art. 89. Disrespect toward superior commissioned officer"
+title: "Section 889 - Art. 89. Disrespect toward superior commissioned officer; assault of superior commissioned officer"
 usc_title: 10
 usc_section: "889"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 889"
-generated_at: "2026-03-29T19:27:25.475Z"
+generated_at: "2026-03-29T19:43:37.854Z"
 ---
 
-# § 889. Art. 89. Disrespect toward superior commissioned officer
+# § 889. Art. 89. Disrespect toward superior commissioned officer; assault of superior commissioned officer
 
-Any person subject to this chapter who behaves with disrespect toward his superior commissioned officer shall be punished as a court-martial may direct.
-
+- **(a)** Any person subject to this chapter who behaves with disrespect toward that person’s superior commissioned officer shall be punished as a court-martial may direct.
+- **(b)** Any person subject to this chapter who strikes that person’s superior commissioned officer or draws or lifts up any weapon or offers any violence against that officer while the officer is in the execution of the officer’s office shall be punished—
+  - **(1)** if the offense is committed in time of war, by death or such other punishment as a court-martial may direct; and
+  - **(2)** if the offense is committed at any other time, by such punishment, other than death, as a court-martial may direct.

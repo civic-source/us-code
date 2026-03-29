@@ -3,15 +3,15 @@ title: "Section 360e - Premarket approval"
 usc_title: 21
 usc_section: "360e"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 360e"
-generated_at: "2026-03-29T19:29:50.384Z"
+generated_at: "2026-03-29T19:41:41.591Z"
 ---
 
 # § 360e. Premarket approval
 
 - **(a)** A class III device—
-  - **(1)** which is subject to a 1 1 So in original. an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012 ) ; or
+  - **(1)** which is subject to an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012 ); or
   - **(2)** which is a class III device because of section 360c(f) of this title ,
 - **(b)**
   - **(1)** In the case of a class III device which—
@@ -56,9 +56,14 @@ generated_at: "2026-03-29T19:29:50.384Z"
     - **(A)** may on the Secretary’s own initiative, or
     - **(B)** shall, upon the request of an applicant unless the Secretary finds that the information in the application which would be reviewed by a panel substantially duplicates information which has previously been reviewed by a panel appointed under section 360c of this title ,
   - **(4)**
-    - **(A)** Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(h) of this title , the Secretary does not have the authority to collect fees under section 379j(a) of this title .
+    - **(A)** Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title , the Secretary does not have the authority to collect fees under section 379j(a) of this title .
     - **(B)** Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
     - **(C)** Whenever the Secretary determines that a portion of a submission under subparagraph (A) is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
+  - **(5)**
+    - **(A)** In requesting additional information with respect to an application under this section, the Secretary shall consider the least burdensome appropriate means necessary to demonstrate a reasonable assurance of device safety and effectiveness.
+    - **(B)** For purposes of subparagraph (A), the term “necessary” means the minimum required information that would support a determination by the Secretary that an application provides a reasonable assurance of the safety and effectiveness of the device.
+    - **(C)** For purposes of this paragraph, the Secretary shall consider the role of postmarket information in determining the least burdensome means of demonstrating a reasonable assurance of device safety and effectiveness.
+    - **(D)** Nothing in this paragraph alters the standards for premarket approval of a device.
 - **(d)**
   - **(1)**
     - **(A)** As promptly as possible, but in no event later than one hundred and eighty days after the receipt of an application under subsection (c) (except as provided in section 360j( l )(3)(D)(ii) of this title or unless, in accordance with subparagraph (B)(i), an additional period as agreed upon by the Secretary and the applicant), the Secretary, after considering the report and recommendation submitted under paragraph (2) of such subsection, shall—
@@ -85,12 +90,7 @@ generated_at: "2026-03-29T19:29:50.384Z"
         - **(II)** any additional information required to achieve completion of the review and final action on the application,
     - **(B)** The Secretary and the applicant may, by mutual consent, establish a different schedule for a meeting required under this paragraph.
   - **(4)** An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g), and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g), of an order of the Secretary approving an application.
-  - **(5)** In order to provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating human diseases or conditions, the Secretary shall provide review priority for devices—
-    - **(A)** representing breakthrough technologies,
-    - **(B)** for which no approved alternatives exist,
-    - **(C)** which offer significant advantages over existing approved alternatives, or
-    - **(D)** the availability of which is in the best interest of the patients.
-  - **(6)**
+  - **(5)**
     - **(A)**
       - **(i)** A supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title .
       - **(ii)** The holder of an approved application who submits a notice under clause (i) with respect to a manufacturing change of a device may distribute the device 30 days after the date on which the Secretary receives the notice, unless the Secretary within such 30-day period notifies the holder that the notice is not adequate and describes such further information or action that is required for acceptance of such change. If the Secretary notifies the holder that a supplemental application is required, the Secretary shall review the supplement within 135 days after the receipt of the supplement. The time used by the Secretary to review the notice of the manufacturing change shall be deducted from the 135-day review period if the notice meets appropriate content requirements for premarket approval supplements.
@@ -131,7 +131,7 @@ generated_at: "2026-03-29T19:29:50.384Z"
     - **(A)** stating (i) his determination that the requirements of the protocol have been fulfilled and that, to the best of his knowledge, there is no reason bearing on safety or effectiveness why the notice of completion should not become effective, and (ii) the data and other information upon which such determination was made, and
     - **(B)** setting forth the results of the trials required by the protocol and all the information required by subsection (c)(1).
   - **(6)**
-    - **(A)** The Secretary may, after providing the person who has an approved protocol and opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
+    - **(A)** The Secretary may, after providing the person who has an approved protocol an opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
       - **(i)** such person has failed substantially to comply with the requirements of the protocol,
       - **(ii)** the results of the trials obtained under the protocol differ so substantially from the results required by the protocol that further trials cannot be justified, or
       - **(iii)** the results of the trials conducted under the protocol or available new information do not demonstrate that the device tested under the protocol does not present an unreasonable risk to health and safety.

@@ -3,9 +3,9 @@ title: "Section 2711 - Definitions for chapter"
 usc_title: 18
 usc_section: "2711"
 chapter: 121
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2711"
-generated_at: "2026-03-29T19:28:33.875Z"
+generated_at: "2026-03-29T19:41:06.846Z"
 ---
 
 # § 2711. Definitions for chapter
@@ -18,6 +18,7 @@ As used in this chapter—
     - **(A)** any district court of the United States (including a magistrate judge of such a court) or any United States court of appeals that—
       - **(i)** has jurisdiction over the offense being investigated;
       - **(ii)** is in or for a district in which the provider of a wire or electronic communication service is located or in which the wire or electronic communications, records, or other information are stored; or
-      - **(iii)** is acting on a request for foreign assistance pursuant to section 3512 of this title ; or
-    - **(B)** a court of general criminal jurisdiction of a State authorized by the law of that State to issue search warrants; and
+      - **(iii)** is acting on a request for foreign assistance pursuant to section 3512 of this title ;
+    - **(B)** a court of general criminal jurisdiction of a State authorized by the law of that State to issue search warrants; or
+    - **(C)** a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice) to which a military judge has been detailed; and
   - **(4)** the term “governmental entity” means a department or agency of the United States or any State or political subdivision thereof.

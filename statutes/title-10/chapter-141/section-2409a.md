@@ -1,12 +1,12 @@
 ---
-title: "Section 2409a - Repealed. Pub. L. 103–355, title VI , § 6005(b)(1), Oct. 13, 1994 , 108 Stat. 3365 ]"
+title: "Section 2409a - Renumbered § 4702]"
 usc_title: 10
 usc_section: "2409a"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2409a"
-generated_at: "2026-03-29T19:27:25.603Z"
+generated_at: "2026-03-29T19:43:37.980Z"
 ---
 
-# [§ 2409a. Repealed. Pub. L. 103–355, title VI , § 6005(b)(1), Oct. 13, 1994 , 108 Stat. 3365 ]
+# [§ 2409a. Renumbered § 4702]
 

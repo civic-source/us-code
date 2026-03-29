@@ -3,16 +3,16 @@ title: "Section 9036 - Payments in lieu of loan deficiency payments for grazed a
 usc_title: 7
 usc_section: "9036"
 chapter: 115
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 9036"
-generated_at: "2026-03-29T19:27:32.042Z"
+generated_at: "2026-03-29T19:43:58.479Z"
 ---
 
 # § 9036. Payments in lieu of loan deficiency payments for grazed acreage
 
 - **(a)**
-  - **(1)** Effective for each of the 2014 through 2018 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 9035 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
-  - **(2)** Effective for each of the 2014 through 2018 crop years, with respect to a producer on a farm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
+  - **(1)** Effective for each of the 2014 through 2023 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 9035 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+  - **(2)** Effective for each of the 2014 through 2023 crop years, with respect to a producer on a farm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
 - **(b)**
   - **(1)** The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) shall be equal to the amount determined by multiplying—
     - **(A)** the loan deficiency payment rate determined under section 9035(c) of this title in effect, as of the date of the agreement, for the county in which the farm is located; by
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T19:27:32.042Z"
   - **(2)**
     - **(A)** The Secretary shall establish an availability period for the payments authorized by this section.
     - **(B)** In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
-- **(d)** A 2014 through 2018 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title .
+- **(d)** A 2014 through 2023 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title .

@@ -3,9 +3,9 @@ title: "Section 7502 - Actions covered"
 usc_title: 5
 usc_section: "7502"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 7502"
-generated_at: "2026-03-29T19:27:05.333Z"
+generated_at: "2026-03-29T19:43:20.403Z"
 ---
 
 # § 7502. Actions covered

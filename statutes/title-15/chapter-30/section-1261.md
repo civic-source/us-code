@@ -3,9 +3,9 @@ title: "Section 1261 - Definitions"
 usc_title: 15
 usc_section: "1261"
 chapter: 30
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1261"
-generated_at: "2026-03-29T19:27:55.414Z"
+generated_at: "2026-03-29T19:44:42.711Z"
 ---
 
 # § 1261. Definitions
@@ -15,7 +15,7 @@ For the purposes of this chapter—
 - **(a)** The term “territory” means any territory or possession of the United States, including the District of Columbia and the Commonwealth of Puerto Rico but excluding the Canal Zone.
 - **(b)** The term “interstate commerce” means (1) commerce between any State or territory and any place outside thereof, and (2) commerce within the District of Columbia or within any territory not organized with a legislative body.
 - **(c)** The term “Commission” means the Consumer Product Safety Commission.
-- **(d)** Repealed. Pub. L. 110–314, title II , § 204(b)(4)(A), Aug. 14, 2008 , 122 Stat. 3041
+- **(d)** Repealed. Pub. L. 110–314, title II, § 204(b)(4)(A) , Aug. 14, 2008 , 122 Stat. 3041
 - **(e)** The term “person” includes an individual, partnership, corporation, and association.
 - **(f)** The term “hazardous substance” means:
   - **(1)**

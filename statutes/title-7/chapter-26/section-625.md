@@ -1,12 +1,12 @@
 ---
-title: "Section 625 - Repealed. Pub. L. 108–357, title VI , § 611(s), Oct. 22, 2004 , 118 Stat. 1523"
+title: "Section 625 - Repealed. Pub. L. 108–357, title VI, § 611(s) , Oct. 22, 2004 , 118 Stat. 1523"
 usc_title: 7
 usc_section: "625"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 625"
-generated_at: "2026-03-29T19:27:31.698Z"
+generated_at: "2026-03-29T19:43:58.075Z"
 ---
 
-# § 625. Repealed. Pub. L. 108–357, title VI , § 611(s), Oct. 22, 2004 , 118 Stat. 1523
+# § 625. Repealed. Pub. L. 108–357, title VI, § 611(s) , Oct. 22, 2004 , 118 Stat. 1523
 

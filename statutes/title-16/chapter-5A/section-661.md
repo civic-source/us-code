@@ -1,16 +1,14 @@
 ---
-title: "Section 661 - Declaration of purpose; cooperation of agencies; surveys and investigations; donations"
+title: "Section 661 - Short title; authorization"
 usc_title: 16
 usc_section: "661"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 661"
-generated_at: "2026-03-29T19:29:27.321Z"
+generated_at: "2026-03-29T19:41:13.564Z"
 ---
 
-# § 661. Declaration of purpose; cooperation of agencies; surveys and investigations; donations
+# § 661. Short title; authorization
 
-  - **(1)** to provide assistance to, and cooperate with, Federal, State, and public or private agencies and organizations in the development, protection, rearing, and stocking of all species of wildlife, resources thereof, and their habitat, in controlling losses of the same from disease or other causes, in minimizing damages from overabundant species, in providing public shooting and fishing areas, including easements across public lands for access thereto, and in carrying out other measures necessary to effectuate the purposes of said sections;
-  - **(2)** to make surveys and investigations of the wildlife of the public domain, including lands and waters or interests therein acquired or controlled by any agency of the United States; and
-  - **(3)** to accept donations of land and contributions of funds in furtherance of the purposes of said sections.
-
+- **(a)** This Act may be cited as the “Fish and Wildlife Coordination Act”.
+- **(b)** For the purpose of recognizing the vital contribution of our wildlife resources to the Nation, the increasing public interest and significance thereof due to expansion of our national economy and other factors, and to provide that wildlife conservation shall receive equal consideration and be coordinated with other features of water-resource development programs through the effectual and harmonious planning, development, maintenance, and coordination of wildlife conservation and rehabilitation for the purposes of this Act in the United States, its Territories and possessions, the Secretary of the Interior is authorized (1) to provide assistance to, and cooperate with, Federal, State, and public or private agencies and organizations in the development, protection, rearing, and stocking of all species of wildlife, resources thereof, and their habitat, in controlling losses of the same from disease or other causes, in minimizing damages from overabundant species, in providing public shooting and fishing areas, including easements across public lands for access thereto, and in carrying out other measures necessary to effectuate the purposes of this Act; (2) to make surveys and investigations of the wildlife of the public domain, including lands and waters or interests therein acquired or controlled by any agency of the United States; and (3) to accept donations of land and contributions of funds in furtherance of the purposes of this Act.

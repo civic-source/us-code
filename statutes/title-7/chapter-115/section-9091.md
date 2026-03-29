@@ -3,9 +3,9 @@ title: "Section 9091 - Administration generally"
 usc_title: 7
 usc_section: "9091"
 chapter: 115
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 9091"
-generated_at: "2026-03-29T19:27:32.046Z"
+generated_at: "2026-03-29T19:43:58.485Z"
 ---
 
 # § 9091. Administration generally
@@ -14,10 +14,9 @@ generated_at: "2026-03-29T19:27:32.046Z"
 - **(b)** A determination made by the Secretary under this chapter shall be final and conclusive.
 - **(c)**
   - **(1)** Except as otherwise provided in this subsection, not later than 90 days after February 7, 2014 , the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this chapter and the amendments made by this chapter.
-  - **(2)** The promulgation of the regulations and administration of this chapter and the amendments made by this chapter and sections 11003 and 11017 shall be made without regard to—
-    - **(A)** the notice and comment provisions of section 553 of title 5 ;
-    - **(B)** chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”); and
-    - **(C)** the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking.
+  - **(2)** The promulgation of the regulations and administration of this chapter and the amendments made by this chapter, sections 11003 and 11017, title I of the Agriculture Improvement Act of 2018 and the amendments made by that title, and section 10109 of that Act shall be made without regard to—
+    - **(A)** the notice and comment provisions of section 553 of title 5 ; and
+    - **(B)** chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
   - **(3)** In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5 .
 - **(d)**
   - **(1)** If the Secretary determines that expenditures under this chapter that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19 ) will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed the allowable levels.

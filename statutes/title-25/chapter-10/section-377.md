@@ -1,12 +1,12 @@
 ---
-title: "Section 377 - Repealed. Pub. L. 96–363 , § 2(a), Sept. 26, 1980 , 94 Stat. 1207"
+title: "Section 377 - Repealed. Pub. L. 96–363, § 2(a) , Sept. 26, 1980 , 94 Stat. 1207"
 usc_title: 25
 usc_section: "377"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 377"
-generated_at: "2026-03-29T19:29:34.753Z"
+generated_at: "2026-03-29T19:41:28.348Z"
 ---
 
-# § 377. Repealed. Pub. L. 96–363 , § 2(a), Sept. 26, 1980 , 94 Stat. 1207
+# § 377. Repealed. Pub. L. 96–363, § 2(a) , Sept. 26, 1980 , 94 Stat. 1207
 

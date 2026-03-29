@@ -1,14 +1,14 @@
 ---
-title: "Section 1605 - Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary of Agriculture to assist States, etc."
+title: "Section 1605 - Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc."
 usc_title: 16
 usc_section: "1605"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1605"
-generated_at: "2026-03-29T19:29:27.485Z"
+generated_at: "2026-03-29T19:41:13.731Z"
 ---
 
-# § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary of Agriculture to assist States, etc.
+# § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc.
 
-The Secretary of Agriculture may utilize the Assessment, resource surveys, and Program prepared pursuant to this subchapter to assist States and other organizations in proposing the planning for the protection, use, and management of renewable resources on non-Federal land.
+The Secretary may utilize the Assessment, resource surveys, and Program prepared pursuant to this subchapter to assist States and other organizations in proposing the planning for the protection, use, and management of renewable resources on non-Federal land.
 

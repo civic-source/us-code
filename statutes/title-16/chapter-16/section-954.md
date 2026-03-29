@@ -1,12 +1,12 @@
 ---
-title: "Section 954 - Repealed. Pub. L. 92–471, title II , § 203(b), Oct. 9, 1972 , 86 Stat. 787"
+title: "Section 954 - Repealed. Pub. L. 92–471, title II, § 203(b) , Oct. 9, 1972 , 86 Stat. 787"
 usc_title: 16
 usc_section: "954"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 954"
-generated_at: "2026-03-29T19:29:27.409Z"
+generated_at: "2026-03-29T19:41:13.653Z"
 ---
 
-# § 954. Repealed. Pub. L. 92–471, title II , § 203(b), Oct. 9, 1972 , 86 Stat. 787
+# § 954. Repealed. Pub. L. 92–471, title II, § 203(b) , Oct. 9, 1972 , 86 Stat. 787
 

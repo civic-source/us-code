@@ -3,9 +3,9 @@ title: "Section 1384 - Sale of assets"
 usc_title: 29
 usc_section: "1384"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1384"
-generated_at: "2026-03-29T19:30:07.617Z"
+generated_at: "2026-03-29T19:42:21.543Z"
 ---
 
 # § 1384. Sale of assets

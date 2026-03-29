@@ -1,12 +1,12 @@
 ---
-title: "Section 1406e - Repealed. Pub. L. 97–357, title III , § 307, Oct. 19, 1982 , 96 Stat. 1709"
+title: "Section 1406e - Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19, 1982 , 96 Stat. 1709"
 usc_title: 48
 usc_section: "1406e"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1406e"
-generated_at: "2026-03-29T19:31:53.948Z"
+generated_at: "2026-03-29T19:44:59.782Z"
 ---
 
-# §§ 1405z to 1406e. Repealed. Pub. L. 97–357, title III , § 307, Oct. 19, 1982 , 96 Stat. 1709
+# §§ 1405z to 1406e. Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19, 1982 , 96 Stat. 1709
 

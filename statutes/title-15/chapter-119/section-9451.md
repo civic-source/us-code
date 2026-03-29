@@ -3,9 +3,9 @@ title: "Section 9451 - Artificial intelligence research and education"
 usc_title: 15
 usc_section: "9451"
 chapter: 119
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 9451"
-generated_at: "2026-03-29T18:49:04.601Z"
+generated_at: "2026-03-29T19:44:43.009Z"
 ---
 
 # § 9451. Artificial intelligence research and education

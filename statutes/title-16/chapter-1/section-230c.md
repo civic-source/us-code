@@ -3,9 +3,9 @@ title: "Section 230c - Cooperative agreements; specific provisions"
 usc_title: 16
 usc_section: "230c"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 230c"
-generated_at: "2026-03-29T19:29:27.056Z"
+generated_at: "2026-03-29T19:41:13.310Z"
 ---
 
 # § 230c. Cooperative agreements; specific provisions

@@ -3,9 +3,9 @@ title: "Section 4121 - Imposition of tax"
 usc_title: 26
 usc_section: "4121"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4121"
-generated_at: "2026-03-29T19:30:20.075Z"
+generated_at: "2026-03-29T19:42:47.883Z"
 ---
 
 # § 4121. Imposition of tax
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T19:30:20.075Z"
     - **(B)** by substituting “$.25” for “$.55”, and
     - **(C)** by substituting “2 percent” for “4.4 percent”.
   - **(2)** For purposes of paragraph (1), the temporary increase termination date is the earlier of—
-    - **(A)** December 31, 2018 , or
+    - **(A)** December 31, 2021 , or
     - **(B)** the first December 31 after 2007 as of which there is—
       - **(i)** no balance of repayable advances made to the Black Lung Disability Trust Fund, and
       - **(ii)** no unpaid interest on such advances.

@@ -3,9 +3,9 @@ title: "Section 8479 - Exculpatory provisions; insurance"
 usc_title: 5
 usc_section: "8479"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8479"
-generated_at: "2026-03-29T19:27:05.386Z"
+generated_at: "2026-03-29T19:43:20.454Z"
 ---
 
 # § 8479. Exculpatory provisions; insurance

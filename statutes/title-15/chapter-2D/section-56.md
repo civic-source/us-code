@@ -3,9 +3,9 @@ title: "Section 56 - Transactions with certain affiliates"
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-29T19:27:55.286Z"
+generated_at: "2026-03-29T19:44:42.575Z"
 ---
 
 # § 80a–56. Transactions with certain affiliates
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:27:55.286Z"
 - **(h)** The directors of or general partners in any business development company shall adopt, and periodically review and update as appropriate, procedures reasonably designed to ensure that reasonable inquiry is made, prior to the consummation of any transaction in which such business development company or a company controlled by such business development company proposes to participate, with respect to the possible involvement in the transaction of persons described in subsections (b) and (e) of this section.
 - **(i)** Until the adoption by the Commission of rules or regulations under subsections (a) and (d) of this section, the rules and regulations of the Commission under subsections (a) and (d) of section 80a–17 of this title applicable to registered closed-end investment companies shall be deemed to apply to transactions subject to subsections (a) and (d) of this section. Any rules or regulations adopted by the Commission to implement this section shall be no more restrictive than the rules or regulations adopted by the Commission under subsections (a) and (d) of section 80a–17 of this title that are applicable to all registered closed-end investment companies.
 - **(j)** Notwithstanding subsections (a) and (d) of this section, any director, officer, or employee of, or general partner in, a business development company may—
-  - **(1)** acquire warrants, options, and rights to purchase voting securities of such business development company, and securities issued upon the exercise or conversion thereof, pursuant to an executive compensation plan offered by such company which meets the requirements of section 80a–60(a)(3)(B) of this title ; and
+  - **(1)** acquire warrants, options, and rights to purchase voting securities of such business development company, and securities issued upon the exercise or conversion thereof, pursuant to an executive compensation plan offered by such company which meets the requirements of section 80a–60(a)(4)(B) of this title ; and
   - **(2)** borrow money from such business development company for the purpose of purchasing securities issued by such company pursuant to an executive compensation plan, if each such loan—
     - **(A)** has a term of not more than ten years;
     - **(B)** becomes due within a reasonable time, not to exceed sixty days, after the termination of such person’s employment or service;
@@ -56,8 +56,8 @@ generated_at: "2026-03-29T19:27:55.286Z"
 - **(l)** The provisions of subsection (k) of this section shall apply to the following persons:
   - **(1)** Any affiliated person of a business development company.
   - **(2)**
-    - **(A)** Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person or any director, officer, employee, or member of an advisory board of the business development company.
-    - **(B)** Any person who is, within the meaning of section 82a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
+    - **(A)** Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person of any director, officer, employee, or member of an advisory board of the business development company.
+    - **(B)** Any person who is, within the meaning of section 80a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
     - **(C)** Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title , an affiliated person of any person who is an affiliated person of the business development company within the meaning of section 80a–2(a)(3)(A) of this title .
 - **(m)** For purposes of subsections (a) and (d), a person who is a director, officer, or employee of a party to a transaction and who receives his usual and ordinary fee or salary for usual and customary services as a director, officer, or employee from such party shall not be deemed to have a financial interest or to participate in the transaction solely by reason of his receipt of such fee or salary.
 - **(n)**
@@ -66,5 +66,5 @@ generated_at: "2026-03-29T19:27:55.286Z"
       - **(i)** in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection ( o )) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
       - **(ii)** in the case of a profit-sharing plan which includes one or more directors of the business development company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
     - **(B)** the aggregate amount of benefits which would be paid or accrued under such plan shall not exceed 20 per centum of the business development company’s net income after taxes in any fiscal year.
-  - **(2)** This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(3)(B) of this title , or has an investment adviser registered or required to be registered under subchapter II of this chapter.
+  - **(2)** This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(4)(B) of this title , or has an investment adviser registered or required to be registered under subchapter II of this chapter.
 - **(o)** The term “required majority”, when used with respect to the approval of a proposed transaction, plan, or arrangement, means both a majority of a business development company’s directors or general partners who have no financial interest in such transaction, plan, or arrangement and a majority of such directors or general partners who are not interested persons of such company.

@@ -3,9 +3,9 @@ title: "Section 119 - National highway performance program"
 usc_title: 23
 usc_section: "119"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 119"
-generated_at: "2026-03-29T19:29:58.392Z"
+generated_at: "2026-03-29T19:41:42.988Z"
 ---
 
 # § 119. National highway performance program
@@ -13,8 +13,9 @@ generated_at: "2026-03-29T19:29:58.392Z"
 - **(a)** The Secretary shall establish and implement a national highway performance program under this section.
 - **(b)** The purposes of the national highway performance program shall be—
   - **(1)** to provide support for the condition and performance of the National Highway System;
-  - **(2)** to provide support for the construction of new facilities on the National Highway System; and
-  - **(3)** to ensure that investments of Federal-aid funds in highway construction are directed to support progress toward the achievement of performance targets established in an asset management plan of a State for the National Highway System.
+  - **(2)** to provide support for the construction of new facilities on the National Highway System;
+  - **(3)** to ensure that investments of Federal-aid funds in highway construction are directed to support progress toward the achievement of performance targets established in an asset management plan of a State for the National Highway System; and
+  - **(4)** to provide support for activities to increase the resiliency of the National Highway System to mitigate the cost of damages from sea level rise, extreme weather events, flooding, wildfires, or other natural disasters.
 - **(c)** Except as provided in subsection (d), to be eligible for funding apportioned under section 104(b)(1) to carry out this section, a facility shall be located on the National Highway System, as defined in section 103.
 - **(d)** Funds apportioned to a State to carry out the national highway performance program may be obligated only for a project on an eligible facility that is—
   - **(1)**
@@ -40,6 +41,9 @@ generated_at: "2026-03-29T19:29:58.392Z"
     - **(N)** Control of noxious weeds and aquatic noxious weeds and establishment of native species in accordance with section 329.
     - **(O)** Environmental mitigation efforts related to projects funded under this section, as described in subsection (g).
     - **(P)** Construction of publicly owned intracity or intercity bus terminals servicing the National Highway System.
+    - **(Q)** Undergrounding public utility infrastructure carried out in conjunction with a project otherwise eligible under this section.
+    - **(R)** Resiliency improvements on the National Highway System, including protective features described in subsection (k)(2).
+    - **(S)** Implement activities to protect segments of the National Highway System from cybersecurity threats.
 - **(e)**
   - **(1)** A State shall develop a risk-based asset management plan for the National Highway System to improve or preserve the condition of the assets and the performance of the system.
   - **(2)** A State asset management plan shall include strategies leading to a program of projects that would make progress toward achievement of the State targets for asset condition and performance of the National Highway System in accordance with section 150(d) and supporting the progress toward the achievement of the national goals identified in section 150(b).
@@ -48,10 +52,12 @@ generated_at: "2026-03-29T19:29:58.392Z"
     - **(A)** a summary listing of the pavement and bridge assets on the National Highway System in the State, including a description of the condition of those assets;
     - **(B)** asset management objectives and measures;
     - **(C)** performance gap identification;
-    - **(D)** lifecycle cost and risk management analysis;
+    - **(D)** lifecycle cost and risk management analyses, both of which shall take into consideration extreme weather and resilience;
     - **(E)** a financial plan; and
     - **(F)** investment strategies.
-  - **(5)** Notwithstanding section 120, with respect to the second fiscal year beginning after the date of establishment of the process established in paragraph (8) or any subsequent fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity carried out by the State in that fiscal year under this section shall be 65 percent.
+  - **(5)**
+    - **(A)** Notwithstanding section 120, each fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity for which funds are obligated by the State in that fiscal year under this section shall be 65 percent.
+    - **(B)** The Secretary shall make the determination under subparagraph (A) for a fiscal year not later than the day before the beginning of such fiscal year.
   - **(6)**
     - **(A)** Not later than 90 days after the date on which a State submits a request for approval of the process used by the State to develop the State asset management plan for the National Highway System, the Secretary shall—
       - **(i)** review the process; and
@@ -71,8 +77,8 @@ generated_at: "2026-03-29T19:29:58.392Z"
       - **(ii)** to transfer, from the amounts apportioned to the State under section 104(b)(2) (other than amounts suballocated to metropolitan areas and other areas of the State under section 133(d)) to the apportionment of the State under section 104(b)(1), an amount equal to 10 percent of the amount of funds apportioned to the State for fiscal year 2009 under the Interstate maintenance program for the purposes described in this section (as in effect on the day before the date of enactment of the MAP–21).
     - **(B)** The obligation requirement for the Interstate System in a State required by subparagraph (A) for a fiscal year shall remain in effect for each subsequent fiscal year until such time as the condition of the Interstate System in the State exceeds the minimum condition level established by the Secretary.
   - **(2)**
-    - **(A)** If the Secretary determines that, for the 3-year-period preceding the date of the determination, more than 10 percent of the total deck area of bridges in the State on the National Highway System is located on bridges that have been classified as structurally deficient, an amount equal to 50 percent of funds apportioned to such State for fiscal year 2009 to carry out section 144 (as in effect the day before enactment of MAP–21) shall be set aside from amounts apportioned to a State for a fiscal year under section 104(b)(1) only for eligible projects on bridges on the National Highway System.
-    - **(B)** The set-aside requirement for bridges on the National Highway System in a State under subparagraph (A) for a fiscal year shall remain in effect for each subsequent fiscal year until such time as less than 10 percent of the total deck area of bridges in the State on the National Highway System is located on bridges that have been classified as structurally deficient, as determined by the Secretary.
+    - **(A)** If the Secretary determines that, for the 3-year-period preceding the date of the determination, more than 10 percent of the total deck area of bridges in the State on the National Highway System is located on bridges that have been classified as in poor condition, an amount equal to 50 percent of funds apportioned to such State for fiscal year 2009 to carry out section 144 (as in effect the day before enactment of MAP–21) shall be set aside from amounts apportioned to a State for a fiscal year under section 104(b)(1) only for eligible projects on bridges on the National Highway System.
+    - **(B)** The set-aside requirement for bridges on the National Highway System in a State under subparagraph (A) for a fiscal year shall remain in effect for each subsequent fiscal year until such time as less than 10 percent of the total deck area of bridges in the State on the National Highway System is located on bridges that have been classified as in poor condition, as determined by the Secretary.
 - **(g)**
   - **(1)** In accordance with all applicable Federal law (including regulations), environmental mitigation efforts referred to in subsection (d)(2)(O) include participation in natural habitat and wetlands mitigation efforts relating to projects funded under this title, which may include—
     - **(A)** participation in mitigation banking or other third-party mitigation arrangements, such as—
@@ -96,3 +102,17 @@ generated_at: "2026-03-29T19:29:58.392Z"
   - **(1)** In this subsection, the term “critical infrastructure” means those facilities the incapacity or failure of which would have a debilitating impact on national or regional economic security, national or regional energy security, national or regional public health or safety, or any combination of those matters.
   - **(2)** The asset management plan of a State may include consideration of critical infrastructure from among those facilities in the State that are eligible under subsection (c).
   - **(3)** A State may use funds apportioned under this section for projects intended to reduce the risk of failure of critical infrastructure in the State.
+- **(k)**
+  - **(1)** A State may use not more than 15 percent of the funds apportioned to the State under section 104(b)(1) for each fiscal year for 1 or more protective features on a Federal-aid highway or bridge not on the National Highway System, if the protective feature is designed to mitigate the risk of recurring damage or the cost of future repairs from extreme weather events, flooding, or other natural disasters.
+  - **(2)** A protective feature referred to in paragraph (1) includes—
+    - **(A)** raising roadway grades;
+    - **(B)** relocating roadways in a base floodplain to higher ground above projected flood elevation levels or away from slide prone areas;
+    - **(C)** stabilizing slide areas;
+    - **(D)** stabilizing slopes;
+    - **(E)** lengthening or raising bridges to increase waterway openings;
+    - **(F)** increasing the size or number of drainage structures;
+    - **(G)** replacing culverts with bridges or upsizing culverts;
+    - **(H)** installing seismic retrofits on bridges;
+    - **(I)** adding scour protection at bridges, installing riprap, or adding other scour, stream stability, coastal, or other hydraulic countermeasures, including spur dikes; and
+    - **(J)** the use of natural infrastructure to mitigate the risk of recurring damage or the cost of future repair from extreme weather events, flooding, or other natural disasters.
+  - **(3)** Nothing in this subsection limits the ability of a State to carry out a project otherwise eligible under subsection (d) using funds apportioned under section 104(b)(1).

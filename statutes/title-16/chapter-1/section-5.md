@@ -1,18 +1,14 @@
 ---
-title: "Section 5 - Management plan"
+title: "Section 5 - Protection of services and recreational opportunities"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T19:29:27.255Z"
+generated_at: "2026-03-29T19:41:13.505Z"
 ---
 
-# § 460zzz–5. Management plan
+# § 460ffff–5. Protection of services and recreational opportunities
 
-- **(a)** Not later than 3 years after March 30, 2009 , the Secretary shall develop a comprehensive management plan for the long-term protection and management of the Conservation Area.
-- **(b)** The management plan shall—
-  - **(1)** describe the appropriate uses and management of the Conservation Area;
-  - **(2)** be developed with extensive public input;
-  - **(3)** take into consideration any information developed in studies of the land within the Conservation Area; and
-  - **(4)** include a comprehensive travel management plan.
+- **(a)** Nothing in this subchapter limits commercial services for existing or historic recreation uses, as authorized by the permit process of the Bureau of Land Management.
+- **(b)** Commercial permits to exercise guided recreational opportunities for the public that are authorized as of March 12, 2019 , may continue to be authorized.

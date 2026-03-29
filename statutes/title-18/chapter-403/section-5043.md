@@ -3,9 +3,9 @@ title: "Section 5043 - Juvenile solitary confinement"
 usc_title: 18
 usc_section: "5043"
 chapter: 403
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 5043"
-generated_at: "2026-03-29T18:49:31.375Z"
+generated_at: "2026-03-29T19:41:06.896Z"
 ---
 
 # § 5043. Juvenile solitary confinement

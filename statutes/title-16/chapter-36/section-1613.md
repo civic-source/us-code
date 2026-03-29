@@ -3,12 +3,12 @@ title: "Section 1613 - Promulgation of regulations"
 usc_title: 16
 usc_section: "1613"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1613"
-generated_at: "2026-03-29T19:29:27.487Z"
+generated_at: "2026-03-29T19:41:13.732Z"
 ---
 
 # § 1613. Promulgation of regulations
 
-The Secretary of Agriculture shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
+The Secretary shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
 

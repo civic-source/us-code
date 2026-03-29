@@ -3,9 +3,9 @@ title: "Section 1102 - Fiscal year"
 usc_title: 31
 usc_section: "1102"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 1102"
-generated_at: "2026-03-29T19:30:24.752Z"
+generated_at: "2026-03-29T19:42:56.097Z"
 ---
 
 # § 1102. Fiscal year

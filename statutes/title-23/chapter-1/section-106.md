@@ -3,9 +3,9 @@ title: "Section 106 - Project approval and oversight"
 usc_title: 23
 usc_section: "106"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 106"
-generated_at: "2026-03-29T19:29:58.389Z"
+generated_at: "2026-03-29T19:41:42.983Z"
 ---
 
 # § 106. Project approval and oversight
@@ -64,7 +64,12 @@ generated_at: "2026-03-29T19:29:58.389Z"
   - **(2)**
     - **(A)** The Secretary shall perform annual reviews that address elements of the State transportation departments’ financial management systems that affect projects approved under subsection (a).
     - **(B)** The Secretary shall develop minimum standards for estimating project costs and shall periodically evaluate the practices of States for estimating project costs, awarding contracts, and reducing project costs.
-  - **(3)** The Secretary shall perform annual reviews that address elements of the project delivery system of a State, which elements include one or more activities that are involved in the life cycle of a project from conception to completion of the project.
+  - **(3)**
+    - **(A)** The Secretary shall perform reviews that address elements of the project delivery system of a State, which elements include one or more activities that are involved in the life cycle of a project from conception to completion of the project.
+    - **(B)**
+      - **(i)** Except as provided in clauses (ii) and (iii), the Secretary shall carry out a review under subparagraph (A) not less frequently than once every 2 years.
+      - **(ii)** The Secretary, after consultation with a State, may make a determination to carry out a review under subparagraph (A) for that State less frequently than provided under clause (i).
+      - **(iii)** If the Secretary determines that there is a specific reason to require a review more frequently than provided under clause (i) with respect to a State, the Secretary may carry out a review more frequently than provided under that clause.
   - **(4)**
     - **(A)** The States shall be responsible for determining that subrecipients of Federal funds under this title have—
       - **(i)** adequate project delivery systems for projects approved under this section; and
@@ -83,8 +88,9 @@ generated_at: "2026-03-29T19:29:58.389Z"
   - **(3)** A financial plan—
     - **(A)** shall be based on detailed estimates of the cost to complete the project;
     - **(B)** shall provide for the annual submission of updates to the Secretary that are based on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project;
-    - **(C)** may include a phasing plan that identifies fundable incremental improvements or phases that will address the purpose and the need of the project in the short term in the event there are insufficient financial resources to complete the entire project. If a phasing plan is adopted for a project pursuant to this section, the project shall be deemed to satisfy the fiscal constraint requirements in the statewide and metropolitan planning requirements in sections 134 and 135; and
-    - **(D)** shall assess the appropriateness of a public-private partnership to deliver the project.
+    - **(C)** may include a phasing plan that identifies fundable incremental improvements or phases that will address the purpose and the need of the project in the short term in the event there are insufficient financial resources to complete the entire project. If a phasing plan is adopted for a project pursuant to this section, the project shall be deemed to satisfy the fiscal constraint requirements in the statewide and metropolitan planning requirements in sections 134 and 135;
+    - **(D)** for a project in which the project sponsor intends to carry out the project through a public-private partnership agreement, shall include a detailed value for money analysis or similar comparative analysis for the project; and
+    - **(E)** shall assess the appropriateness of a public-private partnership to deliver the project.
 - **(i)** A recipient of Federal financial assistance for a project under this title with an estimated total cost of $100,000,000 or more that is not covered by subsection (h) shall prepare an annual financial plan. Annual financial plans prepared under this subsection shall be made available to the Secretary for review upon the request of the Secretary.
 - **(j)**
   - **(1)** In this subsection, the term “advanced modeling technology” means an available or developing technology, including 3-dimensional digital modeling, that can—

@@ -3,9 +3,9 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-29T19:30:19.643Z"
+generated_at: "2026-03-29T19:42:47.494Z"
 ---
 
 # § 41. Credit for increasing research activities
@@ -82,24 +82,18 @@ generated_at: "2026-03-29T19:30:19.643Z"
     - **(C)** In no event shall the fixed-base percentage exceed 16 percent.
     - **(D)** The percentages determined under subparagraphs (A) and (B)(ii) shall be rounded to the nearest 1/100th of 1 percent.
   - **(4)**
-    - **(A)** At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of—
-      - **(i)** 3 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
-      - **(ii)** 4 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
-      - **(iii)** 5 percent of so much of such expenses as exceeds 2 percent of such average.
-    - **(B)** An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
-  - **(5)**
-    - **(A)** At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent (12 percent in the case of taxable years ending before January 1, 2009 ) of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
+    - **(A)** At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
     - **(B)**
       - **(i)** The credit under this paragraph shall be determined under this subparagraph if the taxpayer has no qualified research expenses in any one of the 3 taxable years preceding the taxable year for which the credit is being determined.
       - **(ii)** The credit determined under this subparagraph shall be equal to 6 percent of the qualified research expenses for the taxable year.
-    - **(C)** An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary. An election under this paragraph may not be made for any taxable year to which an election under paragraph (4) applies.
-  - **(6)**
+    - **(C)** An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+  - **(5)**
     - **(A)** Notwithstanding whether the period for filing a claim for credit or refund has expired for any taxable year taken into account in determining the fixed-base percentage, the qualified research expenses taken into account in computing such percentage shall be determined on a basis consistent with the determination of qualified research expenses for the credit year.
     - **(B)** The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer’s qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into account in computing such taxpayer’s fixed-base percentage.
-  - **(7)** For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
+  - **(6)** For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified research” means research—
-    - **(A)** with respect to which expenditures may be treated as expenses under section 174,
+    - **(A)** 1 1 See Amendment of Subsection (d)(1)(A) note below. with respect to which expenditures may be treated as expenses under section 174,
     - **(B)** which is undertaken for the purpose of discovering information—
       - **(i)** which is technological in nature, and
       - **(ii)** the application of which is intended to be useful in the development of a new or improved business component of the taxpayer, and
@@ -165,8 +159,8 @@ generated_at: "2026-03-29T19:30:19.643Z"
         - **(I)** in computing the amount of the credit under this section (as in effect during the base period) during any taxable year in the base period, or
         - **(II)** as a basic research payment for purposes of this section.
     - **(C)**
-      - **(i)** The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting “calendar year 1987” for “calendar year 1992” in subparagraph (B) thereof.
-      - **(ii)** If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(B) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 1992. Such substitution shall be in lieu of the substitution under clause (i).
+      - **(i)** The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting “calendar year 1987” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(A)(ii) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 2016. Such substitution shall be in lieu of the substitution under clause (i).
   - **(6)** For purposes of this subsection, the term “qualified organization” means any of the following organizations:
     - **(A)** Any educational organization which—
       - **(i)** is an institution of higher education (within the meaning of section 3304(f)), and

@@ -3,9 +3,9 @@ title: "Section 210 - Pay of senior enlisted members during terminal leave and w
 usc_title: 37
 usc_section: "210"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 210"
-generated_at: "2026-03-29T19:30:34.088Z"
+generated_at: "2026-03-29T19:43:17.231Z"
 ---
 
 # § 210. Pay of senior enlisted members during terminal leave and while hospitalized
@@ -17,4 +17,5 @@ generated_at: "2026-03-29T19:30:34.088Z"
   - **(2)** The Master Chief Petty Officer of the Navy.
   - **(3)** The Chief Master Sergeant of the Air Force.
   - **(4)** The Sergeant Major of the Marine Corps.
-  - **(5)** The Master Chief Petty Officer of the Coast Guard.
+  - **(5)** The senior enlisted advisor of the Space Force.
+  - **(6)** The Master Chief Petty Officer of the Coast Guard.

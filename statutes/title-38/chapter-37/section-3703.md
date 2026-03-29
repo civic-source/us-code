@@ -3,9 +3,9 @@ title: "Section 3703 - Basic provisions relating to loan guaranty and insurance"
 usc_title: 38
 usc_section: "3703"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3703"
-generated_at: "2026-03-29T19:30:40.531Z"
+generated_at: "2026-03-29T19:43:27.032Z"
 ---
 
 # § 3703. Basic provisions relating to loan guaranty and insurance
@@ -17,10 +17,15 @@ generated_at: "2026-03-29T19:30:40.531Z"
         - **(I)** in the case of any loan of not more than $45,000, 50 percent of the loan;
         - **(II)** in the case of any loan of more than $45,000, but not more than $56,250, $22,500;
         - **(III)** except as provided in subclause (IV) of this clause, in the case of any loan of more than $56,250, the lesser of $36,000 or 40 percent of the loan; or
-        - **(IV)** in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of section 3710(a) of this title , the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or 25 percent of the loan; or
-      - **(ii)** the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) of this paragraph.
-    - **(B)** The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title .
-    - **(C)** In this paragraph, the term “maximum guaranty amount” means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1454(a)(2) ) for a single-family residence, as adjusted for the year involved.
+        - **(IV)** in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of section 3710(a) of this title , 25 percent of the loan; or
+      - **(ii)** the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) or (C).
+    - **(B)** With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title .
+    - **(C)**
+      - **(i)** With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a veteran not covered by clause (ii), the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the loan.
+      - **(ii)** With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a covered veteran, the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the Freddie Mac conforming loan limit, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title .
+      - **(iii)** In this subparagraph:
+        - **(I)** The term “covered veteran” means a veteran who has previously used entitlement under this chapter and for whom the full amount of entitlement so used has not been restored as a result of the exclusion in section 3702(b) of this title .
+        - **(II)** The term “Freddie Mac conforming loan limit” means the limit determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1454(a)(2) ) for a single-family residence, as adjusted for the year involved.
   - **(2)**
     - **(A)** Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insured by the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
     - **(B)** Loans insured under this section shall be made on such other terms, conditions, and restrictions as the Secretary may prescribe within the limitations set forth in this chapter.

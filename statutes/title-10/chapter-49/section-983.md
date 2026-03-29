@@ -3,9 +3,9 @@ title: "Section 983 - Institutions of higher education that prevent ROTC access 
 usc_title: 10
 usc_section: "983"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 983"
-generated_at: "2026-03-29T19:27:25.489Z"
+generated_at: "2026-03-29T19:43:37.870Z"
 ---
 
 # § 983. Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:27:25.489Z"
 - **(b)** No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
   - **(1)** the Secretary of a military department or the Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
   - **(2)** access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
-    - **(A)** Names, addresses, and telephone listings.
+    - **(A)** Names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings.
     - **(B)** Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 - **(c)** The limitation established in subsection (a) or (b) shall not apply to an institution of higher education (or any subelement of that institution) if the Secretary of Defense determines that—
   - **(1)** the institution (and each subelement of that institution) has ceased the policy or practice described in that subsection; or

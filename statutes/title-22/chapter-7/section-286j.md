@@ -3,9 +3,9 @@ title: "Section 286j - Use of Fund resources"
 usc_title: 22
 usc_section: "286j"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 286j"
-generated_at: "2026-03-29T19:29:46.671Z"
+generated_at: "2026-03-29T19:42:07.973Z"
 ---
 
 # § 286j. Use of Fund resources

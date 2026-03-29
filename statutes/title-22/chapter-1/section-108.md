@@ -1,12 +1,12 @@
 ---
-title: "Section 108 - Repealed. May 3, 1945, ch. 105 , § 11, 59 Stat. 105"
+title: "Section 108 - Repealed. May 3, 1945, ch. 105, § 11 , 59 Stat. 105"
 usc_title: 22
 usc_section: "108"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 108"
-generated_at: "2026-03-29T19:29:46.639Z"
+generated_at: "2026-03-29T19:42:07.922Z"
 ---
 
-# §§ 106 to 108. Repealed. May 3, 1945, ch. 105 , § 11, 59 Stat. 105
+# §§ 106 to 108. Repealed. May 3, 1945, ch. 105, § 11 , 59 Stat. 105
 

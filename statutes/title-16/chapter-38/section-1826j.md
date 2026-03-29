@@ -3,15 +3,15 @@ title: "Section 1826j - Illegal, unreported, or unregulated fishing"
 usc_title: 16
 usc_section: "1826j"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1826j"
-generated_at: "2026-03-29T19:29:27.499Z"
+generated_at: "2026-03-29T19:41:13.745Z"
 ---
 
 # § 1826j. Illegal, unreported, or unregulated fishing
 
 - **(a)**
-  - **(1)** The Secretary shall, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations, identify, and list in the report under section 1826h of this title , a nation if fishing vessels of that nation are engaged, or have been engaged at any point during the preceding 3 years, in illegal, unreported, or unregulated fishing—
+  - **(1)** The Secretary shall, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations, identify, and list in the report under section 1826h of this title , a nation if any fishing vessel of that nation is engaged, or has been engaged at any point during the preceding 3 years, in illegal, unreported, or unregulated fishing—
     - **(A)** that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
     - **(B)** where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
   - **(2)** Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—

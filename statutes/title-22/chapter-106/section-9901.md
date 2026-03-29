@@ -5,7 +5,7 @@ usc_section: "9901"
 chapter: 106
 current_through: "PL 117-81"
 classification: "22 U.S.C. § 9901"
-generated_at: "2026-03-29T18:44:49.571Z"
+generated_at: "2026-03-29T19:42:08.324Z"
 ---
 
 # § 9901. Findings

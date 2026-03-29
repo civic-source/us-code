@@ -3,9 +3,9 @@ title: "Section 3804 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3804"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 3804"
-generated_at: "2026-03-29T19:29:34.870Z"
+generated_at: "2026-03-29T19:41:28.464Z"
 ---
 
 # § 3804. Authorization of appropriations

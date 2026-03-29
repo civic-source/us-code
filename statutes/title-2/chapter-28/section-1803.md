@@ -3,12 +3,12 @@ title: "Section 1803 - Delegation of authority"
 usc_title: 2
 usc_section: "1803"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1803"
-generated_at: "2026-03-29T19:27:07.563Z"
+generated_at: "2026-03-29T19:42:59.663Z"
 ---
 
 # § 1803. Delegation of authority
 
-The Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003.
+The Architect of the Capitol may delegate the duties and authorities of the Architect to officers and employees of the Office of the Architect of the Capitol, as the Architect determines appropriate.
 

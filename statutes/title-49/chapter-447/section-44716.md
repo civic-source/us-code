@@ -3,9 +3,9 @@ title: "Section 44716 - Collision avoidance systems"
 usc_title: 49
 usc_section: "44716"
 chapter: 447
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44716"
-generated_at: "2026-03-29T19:32:28.880Z"
+generated_at: "2026-03-29T19:44:57.998Z"
 ---
 
 # § 44716. Collision avoidance systems

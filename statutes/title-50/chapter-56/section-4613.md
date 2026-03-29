@@ -3,9 +3,9 @@ title: "Section 4613 - Chemical and biological weapons proliferation sanctions"
 usc_title: 50
 usc_section: "4613"
 chapter: 56
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4613"
-generated_at: "2026-03-29T19:32:24.313Z"
+generated_at: "2026-03-29T19:44:52.930Z"
 ---
 
 # § 4613. Chemical and biological weapons proliferation sanctions
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:32:24.313Z"
       - **(i)** used chemical or biological weapons in violation of international law;
       - **(ii)** used lethal chemical or biological weapons against its own nationals; or
       - **(iii)** made substantial preparations to engage in the activities described in clause (i) or (ii);
-    - **(B)** any foreign country whose government is determined for purposes of section 4605(j) of this title to be a government that has repeatedly provided support for acts of international terrorism; or
+    - **(B)** any foreign country whose government is determined for purposes of section 4605(j) 1 1 See References in Text note below. of this title to be a government that has repeatedly provided support for acts of international terrorism; or
     - **(C)** any other foreign country, project, or entity designated by the President for purposes of this section.
   - **(3)** Sanctions shall be imposed pursuant to paragraph (1) on—
     - **(A)** the foreign person with respect to which the President makes the determination described in that paragraph;

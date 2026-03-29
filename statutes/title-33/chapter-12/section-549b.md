@@ -5,7 +5,7 @@ usc_section: "549b"
 chapter: 12
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 549b"
-generated_at: "2026-03-29T18:45:43.347Z"
+generated_at: "2026-03-29T19:43:07.571Z"
 ---
 
 # § 549b. Inclusion of project or facility in Corps of Engineers workplan

@@ -1,16 +1,16 @@
 ---
-title: "Section 905 - Art. 105. Misconduct as prisoner"
+title: "Section 905 - Art. 105. Forgery"
 usc_title: 10
 usc_section: "905"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 905"
-generated_at: "2026-03-29T19:27:25.476Z"
+generated_at: "2026-03-29T19:43:37.855Z"
 ---
 
-# § 905. Art. 105. Misconduct as prisoner
+# § 905. Art. 105. Forgery
 
-Any person subject to this chapter who, while in the hands of the enemy in time of war—
+Any person subject to this chapter who, with intent to defraud—
 
-  - **(1)** for the purpose of securing favorable treatment by his captors acts without proper authority in a manner contrary to law, custom, or regulation, to the detriment of others of whatever nationality held by the enemy as civilian or military prisoners; or
-  - **(2)** while in a position of authority over such persons maltreats them without justifiable cause;
+  - **(1)** falsely makes or alters any signature to, or any part of, any writing which would, if genuine, apparently impose a legal liability on another or change his legal right or liability to his prejudice; or
+  - **(2)** utters, offers, issues, or transfers such a writing, known by him to be so made or altered;

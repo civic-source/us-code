@@ -3,9 +3,9 @@ title: "Section 1175a - Voluntary separation pay and benefits"
 usc_title: 10
 usc_section: "1175a"
 chapter: 59
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1175a"
-generated_at: "2026-03-29T19:27:25.519Z"
+generated_at: "2026-03-29T19:43:37.908Z"
 ---
 
 # § 1175a. Voluntary separation pay and benefits
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T19:27:25.519Z"
   - **(1)** A member of the armed forces who is separated from active duty under subsection (c) shall be paid voluntary separation pay in accordance with subsection (g) in an amount determined by the Secretary concerned pursuant to subsection (f).
   - **(2)** A member who is not entitled to retired or retainer pay upon separation shall be entitled to the benefits and services provided under—
     - **(A)** chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
-    - **(B)** sections 474 and 476 of title 37.
+    - **(B)** sections 474 and 476 1 1 See References in Text note below. of title 37.
 - **(f)** The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under section 1174 of this title .
 - **(g)**
   - **(1)** Voluntary separation pay under this section may be paid in a single lump sum.
@@ -53,10 +53,13 @@ generated_at: "2026-03-29T19:27:25.519Z"
   - **(4)** The Secretary concerned may waive the requirement to repay voluntary separation pay under paragraphs (1) and (2) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 - **(i)** In this section, the term “retirement” includes a transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
 - **(j)**
-  - **(1)** Except as provided in paragraphs (2) and (3), a member of the armed forces who, after having received all or part of voluntary separation pay under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary separation pay received.
-  - **(2)** Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, or 12304 of this title or section 502(f)(1) of title 32 shall not be subject to this subsection.
-  - **(3)** Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(2) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
-  - **(4)** The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
+  - **(1)** Except as provided in paragraphs (2), (3), and (4), a member of the armed forces who, after having received all or part of voluntary separation pay under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary separation pay received.
+  - **(2)** Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, 12304, 12304a, or 12304b of this title or section 502(f)(1)(A) of title 32 shall not be subject to this subsection.
+  - **(3)** Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(1)(B) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
+  - **(4)** This subsection shall not apply to a member who—
+    - **(A)** is involuntarily recalled to active duty or full-time National Guard duty; and
+    - **(B)** in the course of such duty, incurs a service-connected disability rated as total under section 1155 of title 38 .
+  - **(5)** The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 - **(k)**
-  - **(1)** The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2018 .
+  - **(1)** The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2025 .
   - **(2)** A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.

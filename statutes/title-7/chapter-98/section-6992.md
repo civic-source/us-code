@@ -3,9 +3,9 @@ title: "Section 6992 - National Appeals Division and Director"
 usc_title: 7
 usc_section: "6992"
 chapter: 98
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6992"
-generated_at: "2026-03-29T19:27:31.962Z"
+generated_at: "2026-03-29T19:43:58.385Z"
 ---
 
 # § 6992. National Appeals Division and Director
@@ -22,4 +22,10 @@ generated_at: "2026-03-29T19:27:31.962Z"
     - **(C)** The Secretary may not delegate to any other officer or employee of the Department, other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
   - **(2)** The Assistant Secretary for Administration is authorized to investigate, enforce, and implement the provisions in law, Executive order, or regulations that relate in general to competitive and excepted service positions and employment within the Division, including the position of Director, and such authority may be further delegated to subordinate officials.
 - **(d)** If an officer, employee, or committee of an agency determines that a decision is not appealable and a participant appeals the decision to the Director, the Director shall determine whether the decision is adverse to the individual participant and thus appealable or is a matter of general applicability and thus not subject to appeal. The determination of the Director as to whether a decision is appealable shall be administratively final.
-- **(e)** The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.
+- **(e)**
+  - **(1)** The Director shall recommend to the Secretary persons for appointment as hearing officers as are necessary for the conduct of hearings under section 6997 of this title . The Director shall appoint such other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter. Each position of the Division shall be filled by an individual who is not a political appointee.
+  - **(2)** In this subsection, the term “political appointee” means an individual occupying—
+    - **(A)** a position described under sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
+    - **(B)** a noncareer position in the Senior Executive Service, as described under section 3132(a)(7) of that title;
+    - **(C)** a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations; or
+    - **(D)** a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.

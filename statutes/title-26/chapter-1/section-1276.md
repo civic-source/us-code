@@ -3,9 +3,9 @@ title: "Section 1276 - Disposition gain representing accrued market discount tre
 usc_title: 26
 usc_section: "1276"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1276"
-generated_at: "2026-03-29T19:30:19.983Z"
+generated_at: "2026-03-29T19:42:47.811Z"
 ---
 
 # § 1276. Disposition gain representing accrued market discount treated as ordinary income
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:30:19.983Z"
   - **(3)**
     - **(A)** Any partial principal payment on a market discount bond shall be included in gross income as ordinary income to the extent such payment does not exceed the accrued market discount on such bond.
     - **(B)** If subparagraph (A) applies to any partial principal payment on any market discount bond, for purposes of applying this section to any disposition of (or subsequent partial principal payment on) such bond, the amount of accrued market discount shall be reduced by the amount of such partial principal payment included in gross income under subparagraph (A).
-  - **(4)** Except for purposes of sections 103, 871(a),, 1 1 So in original. 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income under paragraph (1) or (3) shall be treated as interest for purposes of this title.
+  - **(4)** Except for purposes of sections 103, 871(a), 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income under paragraph (1) or (3) shall be treated as interest for purposes of this title.
 - **(b)** For purposes of this section—
   - **(1)** Except as otherwise provided in this subsection or subsection (c), the accrued market discount on any bond shall be an amount which bears the same ratio to the market discount on such bond as—
     - **(A)** the number of days which the taxpayer held the bond, bears to

@@ -3,9 +3,9 @@ title: "Section 3b - Products held for emergency use"
 usc_title: 21
 usc_section: "3b"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 3b"
-generated_at: "2026-03-29T19:29:50.399Z"
+generated_at: "2026-03-29T19:41:41.610Z"
 ---
 
 # § 360bbb–3b. Products held for emergency use
@@ -14,6 +14,6 @@ It is not a violation of any section of this chapter or of the Public Health Ser
 
   - **(1)** is intended to be held and not used; and
   - **(2)** is held and not used, unless and until that product—
-    - **(A)** is approved, cleared, or licensed under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ];
-    - **(B)** is authorized for investigational use under section 355 or 360j of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ]; or
-    - **(C)** is authorized for use under section 360bbb–3 of this title .
+    - **(A)** is approved, cleared, or licensed under section 355, 360(k), 360b, or 360e of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ] or conditionally approved under section 360ccc of this title ;
+    - **(B)** is authorized for investigational use under section 355, 360b, or 360j of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ]; or
+    - **(C)** is authorized for use under section 360bbb–3 of this title or section 360bbb–3a of this title .

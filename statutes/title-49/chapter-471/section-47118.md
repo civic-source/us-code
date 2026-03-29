@@ -3,9 +3,9 @@ title: "Section 47118 - Designating current and former military airports"
 usc_title: 49
 usc_section: "47118"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47118"
-generated_at: "2026-03-29T19:32:28.903Z"
+generated_at: "2026-03-29T19:44:58.032Z"
 ---
 
 # § 47118. Designating current and former military airports
@@ -14,8 +14,11 @@ generated_at: "2026-03-29T19:32:28.903Z"
   - **(1)** the airport is a former military installation closed or realigned under—
     - **(A)** section 2687 of title 10 ;
     - **(B)** section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act ( 10 U.S.C. 2687 note); or
-    - **(C)** section 2905 of the Defense Base Closure and Realignment Act of 1990 ( 10 U.S.C. 2687 note); or
-  - **(2)** the airport is a military installation with both military and civil aircraft operations.
+    - **(C)** section 2905 of the Defense Base Closure and Realignment Act of 1990 ( 10 U.S.C. 2687 note);
+  - **(2)** the airport is a military installation with both military and civil aircraft operations; or
+  - **(3)** the airport is—
+    - **(A)** a former military installation that, at any time after December 31, 1965 , was owned and operated by the Department of Defense; and
+    - **(B)** a nonhub primary airport.
 - **(b)** Not later than September 30, 1991 , the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under section 47104 of this title .
 - **(c)** In carrying out this section, the Secretary shall consider only current or former military airports for designation under this section if a grant under section 47117(e)(1)(B) would—
   - **(1)** reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings;

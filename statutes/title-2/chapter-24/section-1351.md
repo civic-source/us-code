@@ -3,9 +3,9 @@ title: "Section 1351 - Application of chapter 71 of title 5 relating to Federal 
 usc_title: 2
 usc_section: "1351"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1351"
-generated_at: "2026-03-29T19:27:07.552Z"
+generated_at: "2026-03-29T19:42:59.648Z"
 ---
 
 # § 1351. Application of chapter 71 of title 5 relating to Federal service labor-management relations; procedures for remedy of violations
@@ -13,6 +13,7 @@ generated_at: "2026-03-29T19:27:07.552Z"
 - **(a)**
   - **(1)** The rights, protections, and responsibilities established under sections 7102, 7106, 7111 through 7117, 7119 through 7122, and 7131 of title 5 shall apply to employing offices and to covered employees and representatives of those employees.
   - **(2)** For purposes of the application under this section of the sections referred to in paragraph (1), the term “agency” shall be deemed to include an employing office.
+  - **(3)** For purposes of this section, the term “covered employee” does not include an employee of the Library of Congress, and the term “employing office” does not include the Library of Congress.
 - **(b)** The remedy for a violation of subsection (a) shall be such remedy, including a remedy under section 7118(a)(7) of title 5 , as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a).
 - **(c)**
   - **(1)** For purposes of this section and except as otherwise provided in this section, the Board shall exercise the authorities of the Federal Labor Relations Authority under sections 7105, 7111, 7112, 7113, 7115, 7117, 7118, and 7122 of title 5 and of the President under section 7103(b) of title 5 . For purposes of this section, any petition or other submission that, under chapter 71 of title 5, would be submitted to the Federal Labor Relations Authority shall, if brought under this section, be submitted to the Board. The Board shall refer any matter under this paragraph to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title , subject to review by the Board pursuant to section 1406 of this title . The Board may direct that the General Counsel carry out the Board’s investigative authorities under this paragraph.
@@ -37,7 +38,7 @@ generated_at: "2026-03-29T19:27:07.552Z"
     - **(D)** the Office of the Speaker of the House of Representatives, the Office of the Majority Leader of the House of Representatives, the Office of the Minority Leader of the House of Representatives, the Offices of the Chief Deputy Majority Whips, the Offices of the Chief Deputy Minority Whips and the following offices within the Office of the Clerk of the House of Representatives: Offices of Legislative Operations, Official Reporters of Debate, Official Reporters to Committees, Printing Services, and Legislative Information;
     - **(E)** the Office of the Legislative Counsel of the Senate, the Office of the Senate Legal Counsel, the Office of the Legislative Counsel of the House of Representatives, the Office of the General Counsel of the House of Representatives, the Office of the Parliamentarian of the House of Representatives, and the Office of the Law Revision Counsel;
     - **(F)** the offices of any caucus or party organization;
-    - **(G)** the Congressional Budget Office, the Office of Technology Assessment, and the Office of Compliance; and
+    - **(G)** the Congressional Budget Office, the Office of Technology Assessment, and the Office of Congressional Workplace Rights; and
     - **(H)** such other offices that perform comparable functions which are identified under regulations of the Board.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), subsections (a) and (b) shall be effective on October 1, 1996 .

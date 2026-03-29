@@ -3,9 +3,9 @@ title: "Section 1145 - Health benefits"
 usc_title: 10
 usc_section: "1145"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1145"
-generated_at: "2026-03-29T19:27:25.515Z"
+generated_at: "2026-03-29T19:43:37.904Z"
 ---
 
 # § 1145. Health benefits
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:27:25.515Z"
     - **(B)** health benefits contracted under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
   - **(2)** This subsection applies to the following members of the armed forces:
     - **(A)** A member who is involuntarily separated from active duty.
-    - **(B)** A member of a reserve component who is separated from active duty to which called or ordered in support of a contingency operation if the active duty is active duty for a period of more than 30 days.
+    - **(B)** A member of a reserve component who is separated from active duty to which called or ordered under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title if the active duty is active duty for a period of more than 30 days.
     - **(C)** A member who is separated from active duty for which the member is involuntarily retained under section 12305 of this title in support of a contingency operation.
     - **(D)** A member who is separated from active duty served pursuant to a voluntary agreement of the member to remain on active duty for a period of less than one year in support of a contingency operation.
     - **(E)** A member who receives a sole survivorship discharge (as defined in section 1174(i) of this title ).
@@ -24,8 +24,12 @@ generated_at: "2026-03-29T19:27:25.515Z"
   - **(3)** In the case of a member described in paragraph (2)(B), the dental care to which the member is entitled under this subsection shall be the dental care to which a member of the uniformed services on active duty for more than 30 days is entitled under section 1074 of this title .
   - **(4)** Except as provided in paragraph (7), transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty. For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty.
   - **(5)**
-    - **(A)** The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
+    - **(A)** Except as provided in subparagraph (D), the Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination and a mental health assessment conducted pursuant to section 1074n of this title immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
     - **(B)** Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member’s unit commander.
+    - **(C)** The Secretary concerned shall ensure that each physical examination of a member under subparagraph (A) includes an assessment of whether the member was—
+      - **(i)** based or stationed at a location where an open burn pit, as defined in subsection (c) of section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 ( Public Law 112–260 ; 38 U.S.C. 527 note), was used; or
+      - **(ii)** exposed to toxic airborne chemicals or other airborne contaminants, including any information recorded as part of the registry established by the Secretary of Veterans Affairs under such section 201.
+    - **(D)** The requirement for a physical examination and mental health assessment under subparagraph (A) shall not apply with respect to a member of a reserve component described in paragraph (2)(B) unless the member is retiring, or being discharged or dismissed, from the armed forces.
   - **(6)**
     - **(A)** The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, ensure that appropriate actions are taken to assist a member of the armed forces who, as a result of a medical examination under paragraph (5), receives an indication for a referral for follow up treatment from the health care provider who performs the examination.
     - **(B)** Assistance provided to a member under paragraph (1) shall include the following:
@@ -51,5 +55,15 @@ generated_at: "2026-03-29T19:27:25.515Z"
 - **(c)**
   - **(1)** Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
   - **(2)** The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
-- **(d)** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
-- **(e)** The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
+- **(d)**
+  - **(1)** The Secretary concerned shall provide a physical examination pursuant to subsection (a)(5) to each member of a reserve component who—
+    - **(A)** during the two-year period before the date on which the member is scheduled to be separated from the armed forces served on active duty in support of a contingency operation for a period of more than 30 days;
+    - **(B)** will not otherwise receive such an examination under such subsection; and
+    - **(C)** elects to receive such a physical examination.
+  - **(2)** The Secretary concerned shall—
+    - **(A)** provide the physical examination under paragraph (1) to a member during the 90-day period before the date on which the member is scheduled to be separated from the armed forces; and
+    - **(B)** issue orders to such a member to receive such physical examination.
+  - **(3)** A member may not be entitled to health care benefits pursuant to subsection (a), (b), or (c) solely by reason of being provided a physical examination under paragraph (1).
+  - **(4)** In providing to a member a physical examination under paragraph (1), the Secretary concerned shall provide to the member a record of the physical examination.
+- **(e)** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
+- **(f)** The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.

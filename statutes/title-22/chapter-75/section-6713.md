@@ -3,9 +3,9 @@ title: "Section 6713 - Civil liability of United States"
 usc_title: 22
 usc_section: "6713"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6713"
-generated_at: "2026-03-29T19:29:46.928Z"
+generated_at: "2026-03-29T19:42:08.235Z"
 ---
 
 # § 6713. Civil liability of United States
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:29:46.928Z"
       - **(ii)** any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information.
     - **(B)**
       - **(i)** The United States Government shall not sell to a person described in subparagraph (A) any item on the United States Munitions List and shall terminate sales of any defense articles, defense services, or design and construction services to a person described in subparagraph (A) under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.].
-      - **(ii)** The authorities under section 6 of the Export Administration Act of 1979 [ 50 U.S.C. 4605 ] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [ 50 U.S.C. 4604(c)(1) ] to a person described in subparagraph (A).
+      - **(ii)** The authorities under section 6 1 1 See References in Text note below. of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) 1 of that Act to a person described in subparagraph (A).
       - **(iii)** The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a person described in subparagraph (A).
       - **(iv)** The United States shall not give approval to guarantee, insure, or extend credit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
       - **(v)** Regulations shall be issued to prohibit any United States bank from making any loan or providing any credit to a person described in subparagraph (A).
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T19:29:46.928Z"
       - **(i)** The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
       - **(ii)** Licenses shall not be issued for the export to the sanctioned country of any item on the United States Munitions List or commercial satellites.
       - **(iii)** No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).
-      - **(iv)** The authorities of section 6 of the Export Administration Act of 1979 [ 50 U.S.C. 4605 ] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [ 50 U.S.C. 4604(c)(1) ] to a country described in subparagraph (A).
+      - **(iv)** The authorities of section 6 1 of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) 1 of that Act to a country described in subparagraph (A).
       - **(v)** The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
       - **(vi)** The United States shall terminate all assistance to a country described in subparagraph (A) under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], except for urgent humanitarian assistance.
       - **(vii)** The United States shall not give approval to guarantee, insure, or extend credit, or participate in the extension of credit through the Export-Import Bank of the United States to a country described in subparagraph (A).
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T19:29:46.928Z"
   - **(5)** The President may waive some or all of the sanctions provided under paragraph (3) in a particular case if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that such waiver is necessary to protect the national security interests of the United States. The certification shall set forth the reasons supporting the determination and shall take effect on the date on which the certification is received by the Congress.
   - **(6)** Not later than five days after sanctions become effective against a foreign person pursuant to this chapter, the President shall transmit written notification of the imposition of sanctions against that foreign person to the chairmen and ranking members of the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
 - **(f)** The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998 —
-  - **(1)** is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses 1 1 So in original. Probably should be “losses”. or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
+  - **(1)** is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses 2 2 So in original. Probably should be “losses”. or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
   - **(2)** traffics in United States confidential business information, a proven claim to which is owned by a United States national;
   - **(3)** is a corporate officer, principal, shareholder with a controlling interest of an entity which has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
   - **(4)** is a spouse, minor child, or agent of a person excludable under paragraph (1), (2), or (3).

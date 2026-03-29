@@ -1,12 +1,16 @@
 ---
-title: "Section 4548 - Repealed. Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008 , 122 Stat. 2667"
+title: "Section 4548 - Regulations for use of credit scores"
 usc_title: 12
 usc_section: "4548"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 4548"
-generated_at: "2026-03-29T19:28:17.811Z"
+generated_at: "2026-03-29T19:44:54.286Z"
 ---
 
-# § 4548. Repealed. Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008 , 122 Stat. 2667
+# § 4548. Regulations for use of credit scores
 
+The Director shall—
+
+  - **(1)** by regulation, establish standards and criteria for any process used by an enterprise to validate and approve credit scoring models pursuant to section 1717(b)(7) of this title and section 1454(d) of this title ; and
+  - **(2)** ensure that any credit scoring model that is validated and approved by an enterprise under section 1717(b)(7) of this title or section 1454(d) of this title meets the requirements of clauses (i), (ii), and (iii) of section 1717(b)(7)(C) of this title and subparagraphs (A), (B), and (C) of section 1454(d) of this title , respectively.

@@ -5,7 +5,7 @@ usc_section: "0"
 chapter: 9
 current_through: "PL 117-81"
 classification: "21 U.S.C. § 0"
-generated_at: "2026-03-29T18:44:35.654Z"
+generated_at: "2026-03-29T19:41:41.607Z"
 ---
 
 # § 360bbb–0. Expanded access policy required for investigational drugs

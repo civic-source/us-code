@@ -1,17 +1,15 @@
 ---
-title: "Section 8024 - Director of Small Business Programs"
+title: "Section 8024 - Naval Research Advisory Committee"
 usc_title: 10
 usc_section: "8024"
 chapter: 803
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8024"
-generated_at: "2026-03-29T19:27:25.704Z"
+generated_at: "2026-03-29T19:43:38.098Z"
 ---
 
-# § 8024. Director of Small Business Programs
+# § 8024. Naval Research Advisory Committee
 
-- **(a)** There is a Director of Small Business Programs in the Department of the Air Force. The Director is appointed by the Secretary of the Air Force.
-- **(b)** The Office of Small Business Programs of the Department of the Air Force is the office that is established within the Department of the Air Force under section 15(k) of the Small Business Act ( 15 U.S.C. 644(k) ). The Director of Small Business Programs is the head of such office.
-- **(c)**
-  - **(1)** The Director of Small Business Programs shall, subject to paragraph (2), perform such duties regarding small business programs of the Department of the Air Force, and shall exercise such powers regarding those programs, as the Secretary of the Air Force may prescribe.
-  - **(2)** Section 15(k) of the Small Business Act ( 15 U.S.C. 644(k) ), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
+- **(a)** The Secretary of the Navy may appoint a Naval Research Advisory Committee consisting of not more than 15 civilians preeminent in the fields of science, research, and development work. One member of the Committee must be from the field of medicine. Each member serves for such term as the Secretary specifies.
+- **(b)** The Committee shall meet at such times as the Secretary specifies to consult with and advise the Chief of Naval Operations and the Chief of Naval Research.
+- **(c)** No law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States applies to members of the Committee solely by reason of their membership on the Committee.

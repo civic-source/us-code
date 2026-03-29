@@ -3,9 +3,9 @@ title: "Section 3720 - Powers of Secretary"
 usc_title: 38
 usc_section: "3720"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3720"
-generated_at: "2026-03-29T19:30:40.535Z"
+generated_at: "2026-03-29T19:43:27.037Z"
 ---
 
 # § 3720. Powers of Secretary
@@ -20,9 +20,7 @@ generated_at: "2026-03-29T19:30:40.535Z"
 - **(b)** The powers granted by this section may be exercised by the Secretary without regard to any other provision of law not enacted expressly in limitation of this section, which otherwise would govern the expenditure of public funds, except that division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.
 - **(c)** The financial transactions of the Secretary incident to, or arising out of, the guaranty or insurance of loans pursuant to this chapter, and the acquisition, management, and disposition of property, real, personal, or mixed, incident to such activities and pursuant to this section, shall be final and conclusive upon all officers of the Government.
 - **(d)** The right to redeem provided for by section 2410(c) of title 28 shall not arise in any case in which the subordinate lien or interest of the United States derives from a guaranteed or insured loan.
-- **[(e)** Repealed. Pub. L. 105–368, title VI , § 602(c)(1), Nov. 11, 1998 , 112 Stat. 3346 .]
+- **[(e)** Repealed. Pub. L. 105–368, title VI, § 602(c)(1) , Nov. 11, 1998 , 112 Stat. 3346 .]
 - **(f)** Whenever loss, destruction, or damage to any residential property securing loans guaranteed, insured, made, or acquired by the Secretary under this chapter occurs as the result of a major disaster as determined by the President under the Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), the Secretary shall (1) provide counseling and such other service to the owner of such property as may be feasible and shall inform such owner concerning the disaster assistance available from other Federal agencies and from State or local agencies, and (2) pursuant to subsection (a)(2) of this section, extend on an individual case basis such forebearance or indulgence to such owner as the Secretary determines to be warranted by the facts of the case and the circumstances of such owner.
 - **(g)** The Secretary shall, at the request of the Secretary of Housing and Urban Development and without reimbursement, certify to such Secretary whether an applicant for assistance under any law administered by the Department of Housing and Urban Development is a veteran.
-- **(h)**
-  - **(1)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
-  - **(2)** The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2017 .
+- **(h)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.

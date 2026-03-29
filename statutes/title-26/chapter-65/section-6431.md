@@ -1,36 +1,12 @@
 ---
-title: "Section 6431 - Credit for qualified bonds allowed to issuer"
+title: "Section 6431 - Repealed. Pub. L. 115–97, title I, § 13404(b) , Dec. 22, 2017 , 131 Stat. 2138 ]"
 usc_title: 26
 usc_section: "6431"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6431"
-generated_at: "2026-03-29T19:30:20.210Z"
+generated_at: "2026-03-29T19:42:47.988Z"
 ---
 
-# § 6431. Credit for qualified bonds allowed to issuer
+# [§ 6431. Repealed. Pub. L. 115–97, title I, § 13404(b) , Dec. 22, 2017 , 131 Stat. 2138 ]
 
-- **(a)** In the case of a qualified bond issued before January 1, 2011 , the issuer of such bond shall be allowed a credit with respect to each interest payment under such bond which shall be payable by the Secretary as provided in subsection (b).
-- **(b)** The Secretary shall pay (contemporaneously with each interest payment date under such bond) to the issuer of such bond (or to any person who makes such interest payments on behalf of the issuer) 35 percent of the interest payable under such bond on such date.
-- **(c)** For purposes of section 148, the yield on a qualified bond shall be reduced by the credit allowed under this section.
-- **(d)** For purposes of this subsection, the term “interest payment date” means each date on which interest is payable by the issuer under the terms of the bond.
-- **(e)** For purposes of this subsection, the term “qualified bond” has the meaning given such term in section 54AA(g).
-- **(f)**
-  - **(1)** In the case of any specified tax credit bond—
-    - **(A)** such bond shall be treated as a qualified bond for purposes of this section,
-    - **(B)** subsection (a) shall be applied without regard to the requirement that the qualified bond be issued before January 1, 2011 ,
-    - **(C)** the amount of the payment determined under subsection (b) with respect to any interest payment due under such bond shall be equal to the lesser of—
-      - **(i)** the amount of interest payable under such bond on such date, or
-      - **(ii)** the amount of interest which would have been payable under such bond on such date if such interest were determined at the applicable credit rate determined under section 54A(b)(3),
-    - **(D)** interest on any such bond shall be includible in gross income for purposes of this title,
-    - **(E)** no credit shall be allowed under section 54A with respect to such bond,
-    - **(F)** any payment made under subsection (b) shall not be includible as income for purposes of this title, and
-    - **(G)** the deduction otherwise allowed under this title to the issuer of such bond with respect to interest paid under such bond shall be reduced by the amount of the payment made under this section with respect to such interest.
-  - **(2)** In the case of any specified tax credit bond described in clause (i) or (ii) of paragraph (3)(A), the amount determined under paragraph (1)(C)(ii) shall be 70 percent of the amount so determined without regard to this paragraph and sections 54C(b) and 54D(b).
-  - **(3)** For purposes of this subsection, the term “specified tax credit bond” means any qualified tax credit bond (as defined in section 54A(d)) if—
-    - **(A)** such bond is—
-      - **(i)** a new clean renewable energy bond (as defined in section 54C),
-      - **(ii)** a qualified energy conservation bond (as defined in section 54D),
-      - **(iii)** a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for years after 2010 or any carryforward of any such allocation, or
-      - **(iv)** a qualified school construction bond (as defined in section 54F), and
-    - **(B)** the issuer of such bond makes an irrevocable election to have this subsection apply.

@@ -1,16 +1,12 @@
 ---
-title: "Section 2380 - Commercial item determinations by Department of Defense"
+title: "Section 2380 - Renumbered § 3456]"
 usc_title: 10
 usc_section: "2380"
 chapter: 140
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2380"
-generated_at: "2026-03-29T19:27:25.600Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# § 2380. Commercial item determinations by Department of Defense
+# [§ 2380. Renumbered § 3456]
 
-The Secretary of Defense shall—
-
-  - **(1)** establish and maintain a centralized capability with necessary expertise and resources to oversee the making of commercial item determinations for the purposes of procurements by the Department of Defense; and
-  - **(2)** provide public access to Department of Defense commercial item determinations for the purposes of procurements by the Department of Defense.

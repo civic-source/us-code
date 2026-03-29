@@ -3,9 +3,9 @@ title: "Section 557 - Expedited determination of interests in, and abandonment o
 usc_title: 11
 usc_section: "557"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 557"
-generated_at: "2026-03-29T19:28:02.015Z"
+generated_at: "2026-03-29T19:44:19.531Z"
 ---
 
 # § 557. Expedited determination of interests in, and abandonment or other disposition of grain assets
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T19:28:02.015Z"
     - **(B)** abandonment;
     - **(C)** distribution; or
     - **(D)** such other method as is equitable in the case;
-  - **(3)** subject to sections 701, 702, 703, 1104, 1202, and 1302 of this title, the appointment of a trustee or examiner and the retention and compensation of any professional person required to assist with respect to matters relevant to the determination of interests in or disposition of such grain or the proceeds of grain; and
+  - **(3)** subject to sections 701, 702, 703, 1104, 1183, 1202, and 1302 of this title, the appointment of a trustee or examiner and the retention and compensation of any professional person required to assist with respect to matters relevant to the determination of interests in or disposition of such grain or the proceeds of grain; and
   - **(4)** the determination of any dispute concerning a matter specified in paragraph (1), (2), or (3) of this subsection.
 - **(e)**
   - **(1)** Any governmental unit that has regulatory jurisdiction over the operation or liquidation of the debtor or the debtor’s business shall be given notice of any request made or order entered under subsection (c) of this section.

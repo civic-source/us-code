@@ -3,9 +3,9 @@ title: "Section 425 - Application of certain commercial items authorities to cer
 usc_title: 6
 usc_section: "425"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 425"
-generated_at: "2026-03-29T19:27:39.853Z"
+generated_at: "2026-03-29T19:43:43.791Z"
 ---
 
 # § 425. Application of certain commercial items authorities to certain procurements
@@ -14,9 +14,9 @@ generated_at: "2026-03-29T19:27:39.853Z"
   - **(1)** The head of an executive agency may apply the provisions of law listed in paragraph (2) to a procurement referred to in section 422 of this title without regard to whether the property or services are commercial items.
   - **(2)** The provisions of law referred to in paragraph (1) are as follows:
     - **(A)** Sections 1901 and 1906 of title 41.
-    - **(B)** Section 2304(g) of title 10 .
+    - **(B)** Section 3205 of title 10 .
     - **(C)** Section 3305 of title 41 .
 - **(b)**
-  - **(1)** The $5,000,000 limitation provided in section 1901(a)(2) of title 41 , section 2304(g)(1)(B) of title 10 , and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
+  - **(1)** The $5,000,000 limitation provided in section 1901(a)(2) of title 41 , section 3205(a)(2) of title 10 , and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
   - **(2)** The Director of the Office of Management and Budget shall issue guidance and procedures for the use of simplified acquisition procedures for a purchase of property or services in excess of $5,000,000 under the authority of this section.
 - **(c)** Authority under a provision of law referred to in subsection (a)(2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106 ; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b).

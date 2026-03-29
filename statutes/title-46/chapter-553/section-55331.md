@@ -3,9 +3,9 @@ title: "Section 55331 - Definitions"
 usc_title: 46
 usc_section: "55331"
 chapter: 553
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 55331"
-generated_at: "2026-03-29T19:32:17.380Z"
+generated_at: "2026-03-29T19:44:39.470Z"
 ---
 
 # § 55331. Definitions
@@ -14,4 +14,4 @@ In this subchapter:
 
   - **(1)** The term “American Great Lakes vessel” means a vessel so designated under section 55332 of this title , but only during the period the designation is in effect.
   - **(2)** The term “Great Lakes” means Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario, the Saint Lawrence River west of Saint Regis, New York, and their connecting and tributary waters.
-  - **(3)** The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Saint Lawrence Seaway Development Corporation.
+  - **(3)** The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Great Lakes St. Lawrence Seaway Development Corporation.

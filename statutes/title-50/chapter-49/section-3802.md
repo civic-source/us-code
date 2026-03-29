@@ -3,9 +3,9 @@ title: "Section 3802 - Registration"
 usc_title: 50
 usc_section: "3802"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3802"
-generated_at: "2026-03-29T19:32:24.261Z"
+generated_at: "2026-03-29T19:44:52.884Z"
 ---
 
 # § 3802. Registration

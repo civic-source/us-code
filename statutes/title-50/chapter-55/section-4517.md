@@ -3,9 +3,9 @@ title: "Section 4517 - Strengthening domestic capability"
 usc_title: 50
 usc_section: "4517"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4517"
-generated_at: "2026-03-29T19:32:24.295Z"
+generated_at: "2026-03-29T19:44:52.920Z"
 ---
 
 # § 4517. Strengthening domestic capability
@@ -16,8 +16,8 @@ generated_at: "2026-03-29T19:32:24.295Z"
   - **(2)** For purposes of this subsection, appropriate action may include—
     - **(A)** restricting contract solicitations to reliable sources;
     - **(B)** restricting contract solicitations to domestic sources pursuant to—
-      - **(i)** section 2304(b)(1)(B) or section 2304(c)(3) of title 10 ;
-      - **(ii)** section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41 ; or
+      - **(i)** section 3203(a)(1)(B) or 3204(a)(3) of title 10;
+      - **(ii)** section 3303(a)(1)(B) or 3304(a)(3) of title 41; or
       - **(iii)** other statutory authority;
     - **(C)** stockpiling critical components; and
     - **(D)** developing substitutes for a critical component or a critical technology item.

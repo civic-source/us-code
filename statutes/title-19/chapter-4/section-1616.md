@@ -1,12 +1,12 @@
 ---
-title: "Section 1616 - Repealed. Pub. L. 99–570, title I , § 1863(b), Oct. 27, 1986 , 100 Stat. 3207–54"
+title: "Section 1616 - Repealed. Pub. L. 99–570, title I, § 1863(b) , Oct. 27, 1986 , 100 Stat. 3207–54"
 usc_title: 19
 usc_section: "1616"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1616"
-generated_at: "2026-03-29T19:28:30.680Z"
+generated_at: "2026-03-29T19:41:21.572Z"
 ---
 
-# § 1616. Repealed. Pub. L. 99–570, title I , § 1863(b), Oct. 27, 1986 , 100 Stat. 3207–54
+# § 1616. Repealed. Pub. L. 99–570, title I, § 1863(b) , Oct. 27, 1986 , 100 Stat. 3207–54
 

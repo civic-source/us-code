@@ -3,9 +3,9 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-29T19:30:28.865Z"
+generated_at: "2026-03-29T19:43:07.723Z"
 ---
 
 # § 2712. Uses of Fund
@@ -16,14 +16,15 @@ generated_at: "2026-03-29T19:30:28.865Z"
     - **(B)** by a Governor or designated State official under subsection (d);
   - **(2)** the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under section 2706 of this title for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
   - **(3)** the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
-  - **(4)** the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
+  - **(4)** the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages; and
   - **(5)** the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and ( l ) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
-    - **(A)** not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
+    - **(A)** not more than $25,000,000 in each fiscal year shall be available to the Secretary for operations and support incurred by the Coast Guard;
     - **(B)** not more than $15,000,000 in each fiscal year shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred by, and activities related to, response and damage assessment capabilities of the National Oceanic and Atmospheric Administration;
     - **(C)** not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title , including the purchase and prepositioning of oil spill removal equipment; and
-    - **(D)** not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter; and
-  - **(6)** the making of loans pursuant to the program established under section 2713(f) of this title .
-- **(b)** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+    - **(D)** not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
+- **(b)**
+  - **(1)** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+  - **(2)** Except for a guarantor claim pursuant to a defense under section 2716(f)(1) of this title , Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
 - **(c)** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 - **(d)**
   - **(1)** In accordance with regulations promulgated under this section, the President, upon the request of the Governor of a State or pursuant to an agreement with a State under paragraph (2), may obligate the Fund for payment in an amount not to exceed $250,000 for removal costs consistent with the National Contingency Plan required for the immediate removal of a discharge, or the mitigation or prevention of a substantial threat of a discharge, of oil.
@@ -38,16 +39,6 @@ generated_at: "2026-03-29T19:30:28.865Z"
   - **(2)** not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.
 - **(f)** Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
 - **(g)**
-  - **(1)** The Comptroller General of the United States shall conduct an audit, including a detailed accounting of each disbursement from the Fund in excess of $500,000 that is—
-    - **(A)** disbursed by the National Pollution Fund Center and not reimbursed by the responsible party; and
-    - **(B)** administered and managed by the receiving Federal agencies, including final payments made to agencies and contractors and, to the extent possible, subcontractors.
-  - **(2)** The audits shall be conducted—
-    - **(A)** at least once every 3 years after October 15, 2010 , until 2016; and
-    - **(B)** at least once every 5 years after the last audit conducted under subparagraph (A).
-  - **(3)** The Comptroller shall submit the results of each audit conducted under paragraph (1) to—
-    - **(A)** the Senate Committee on Commerce, Science, and Transportation;
-    - **(B)** the House of Representatives Committee on Transportation and Infrastructure; and
-    - **(C)** the Secretary or Administrator of each agency referred to in paragraph (1)(B).
 - **(h)**
   - **(1)** No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
   - **(2)** No claim may be presented under this section for recovery of damages unless the claim is presented within 3 years after the date on which the injury and its connection with the discharge in question were reasonably discoverable with the exercise of due care, or in the case of natural resource damages under section 2702(b)(2)(A) of this title , if later, the date of completion of the natural resources damage assessment under section 2706(e) of this title .
@@ -62,12 +53,17 @@ generated_at: "2026-03-29T19:30:28.865Z"
   - **(1)** In the expenditure of Federal funds for removal of oil, including for distribution of supplies, construction, and other reasonable and appropriate activities, under a contract or agreement with a private person, preference shall be given, to the extent feasible and practicable, to private persons residing or doing business primarily in the area affected by the discharge of oil.
   - **(2)** This subsection shall not be considered to restrict the use of Department of Defense resources.
 - **(l)**
-  - **(1)** Within one year after October 15, 2010 , and annually thereafter, the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
+  - **(1)** Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31 , the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
     - **(A)** provide a report on disbursements for the preceding fiscal year from the Fund, regardless of whether those disbursements were subject to annual appropriations, to—
       - **(i)** the Senate Committee on Commerce, Science, and Transportation; and
       - **(ii)** the House of Representatives Committee on Transportation and Infrastructure; and
     - **(B)** make the report available to the public on the National Pollution Funds Center Internet website.
   - **(2)** The report shall include—
-    - **(A)** a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
-    - **(B)** a description of how each such use of the Fund meets the requirements of subsection (a).
+    - **(A)** a list of each incident that—
+      - **(i)** occurred in the preceding fiscal year; and
+      - **(ii)** resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more;
+    - **(B)** a list of each incident that—
+      - **(i)** occurred in the fiscal year preceding the preceding fiscal year; and
+      - **(ii)** resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more; and
+    - **(C)** an accounting of any amounts reimbursed to the Fund in the preceding fiscal year that were recovered from a responsible party for an incident that resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more.
   - **(3)** Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).

@@ -1,14 +1,12 @@
 ---
-title: "Section 773 - Application for benefits"
+title: "Section 773 - Transferred"
 usc_title: 33
 usc_section: "773"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 773"
-generated_at: "2026-03-29T19:30:28.744Z"
+generated_at: "2026-03-29T19:43:07.596Z"
 ---
 
-# § 773. Application for benefits
-
-Application for the benefits of sections 771 to 775 of this title shall be made in such manner and form as the Director of the Office of Personnel Management shall prescribe.
+# § 773. Transferred
 

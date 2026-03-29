@@ -1,14 +1,12 @@
 ---
-title: "Section 720 - Chief of Staff to President: appointment"
+title: "Section 720 - Repealed. Pub. L. 114–328, div. A, title V, § 502(g)(1) , Dec. 23, 2016 , 130 Stat. 2103 ]"
 usc_title: 10
 usc_section: "720"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 720"
-generated_at: "2026-03-29T19:27:25.462Z"
+generated_at: "2026-03-29T19:43:37.840Z"
 ---
 
-# § 720. Chief of Staff to President: appointment
-
-The President, by and with the advice and consent of the Senate, may appoint a general officer of the Army, Air Force, or Marine Corps or a flag officer of the Navy as the Chief of Staff to the President and may designate such position as a position of importance and responsibility under section 601 of this title .
+# [§ 720. Repealed. Pub. L. 114–328, div. A, title V, § 502(g)(1) , Dec. 23, 2016 , 130 Stat. 2103 ]
 

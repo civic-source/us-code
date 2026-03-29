@@ -3,9 +3,9 @@ title: "Section 822 - Persons required to register"
 usc_title: 21
 usc_section: "822"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 822"
-generated_at: "2026-03-29T19:29:50.473Z"
+generated_at: "2026-03-29T19:41:41.700Z"
 ---
 
 # § 822. Persons required to register
@@ -13,6 +13,18 @@ generated_at: "2026-03-29T19:29:50.473Z"
 - **(a)**
   - **(1)** Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
   - **(2)** Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (C), the registration of any registrant under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals terminates if and when such registrant—
+      - **(i)** dies;
+      - **(ii)** ceases legal existence;
+      - **(iii)** discontinues business or professional practice; or
+      - **(iv)** surrenders such registration.
+    - **(B)** In the case of such a registrant who ceases legal existence or discontinues business or professional practice, such registrant shall promptly notify the Attorney General in writing of such fact.
+    - **(C)** No registration under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals, and no authority conferred thereby, may be assigned or otherwise transferred except upon such conditions as the Attorney General may specify and then only pursuant to written consent. A registrant to whom a registration is assigned or transferred pursuant to the preceding sentence may not manufacture, distribute, or dispense controlled substances or list I chemicals pursuant to such registration until the Attorney General receives such written consent.
+    - **(D)** In the case of a registrant under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals desiring to discontinue business or professional practice altogether or with respect to controlled substances and list I chemicals (without assigning or transferring such business or professional practice to another entity), such registrant shall return to the Attorney General for cancellation—
+      - **(i)** the registrant’s certificate of registration;
+      - **(ii)** any unexecuted order forms in the registrant’s possession; and
+      - **(iii)** any other documentation that the Attorney General may require.
 - **(b)** Persons registered by the Attorney General under this subchapter to manufacture, distribute, or dispense controlled substances or list I chemicals are authorized to possess, manufacture, distribute, or dispense such substances or chemicals (including any such activity in the conduct of research) to the extent authorized by their registration and in conformity with the other provisions of this subchapter.
 - **(c)** The following persons shall not be required to register and may lawfully possess any controlled substance or list I chemical under this subchapter:
   - **(1)** An agent or employee of any registered manufacturer, distributor, or dispenser of any controlled substance or list I chemical if such agent or employee is acting in the usual course of his business or employment.
@@ -30,3 +42,20 @@ generated_at: "2026-03-29T19:29:50.473Z"
   - **(2)** In developing regulations under this subsection, the Attorney General shall take into consideration the public health and safety, as well as the ease and cost of program implementation and participation by various communities. Such regulations may not require any entity to establish or operate a delivery or disposal program.
   - **(3)** The Attorney General may, by regulation, authorize long-term care facilities, as defined by the Attorney General by regulation, to dispose of controlled substances on behalf of ultimate users who reside, or have resided, at such long-term care facilities in a manner that the Attorney General determines will provide effective controls against diversion and be consistent with the public health and safety.
   - **(4)** If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent’s property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
+  - **(5)**
+    - **(A)** In the case of a person receiving hospice care, an employee of a qualified hospice program, acting within the scope of employment, may handle, without being registered under this section, any controlled substance that was lawfully dispensed to the person receiving hospice care, for the purpose of disposal of the controlled substance so long as such disposal occurs onsite in accordance with all applicable Federal, State, Tribal, and local law and—
+      - **(i)** the disposal occurs after the death of a person receiving hospice care;
+      - **(ii)** the controlled substance is expired; or
+      - **(iii)**
+        - **(I)** the employee is—
+        - **(II)** the hospice patient no longer requires the controlled substance because the plan of care of the hospice patient has been modified.
+    - **(B)** For the purposes of this paragraph:
+      - **(i)** The terms “hospice care” and “hospice program” have the meanings given to those terms in section 1395x(dd) of title 42 .
+      - **(ii)** The term “employee of a qualified hospice program” means a physician, physician assistant, nurse, or other person who—
+        - **(I)** is employed by, or pursuant to arrangements made by, a qualified hospice program;
+        - **(II)**
+        - **(III)** has completed training through the qualified hospice program regarding the disposal of controlled substances in a secure and responsible manner so as to discourage abuse, misuse, or diversion.
+      - **(iii)** The term “qualified hospice program” means a hospice program that—
+        - **(I)** has written policies and procedures for assisting in the disposal of the controlled substances of a person receiving hospice care after the person’s death;
+        - **(II)** at the time when the controlled substances are first ordered—
+        - **(III)** at the time following the disposal of the controlled substances—

@@ -3,9 +3,9 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-29T19:27:31.753Z"
+generated_at: "2026-03-29T19:43:58.143Z"
 ---
 
 # § 1523. Pilot programs
@@ -40,10 +40,6 @@ generated_at: "2026-03-29T19:27:31.753Z"
   - **(7)** No action may be undertaken with respect to a risk under this subsection if the Corporation determines that insurance protection for livestock producers against the risk is generally available from private companies.
   - **(8)** The Corporation shall conduct the livestock pilot programs under this subsection in a number of counties that is determined by the Corporation to be adequate to provide a comprehensive evaluation of the feasibility, effectiveness, and demand among producers for the risk management tools evaluated in the pilot programs.
   - **(9)** Any producer of a type of livestock covered by a pilot program under this subsection that owns or operates a farm or ranch in a county selected as a location for that pilot program shall be eligible to participate in that pilot program.
-  - **(10)** The Corporation shall conduct all livestock programs under this subchapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs (other than research and development costs covered by section 1522 of this title ) are not expected to exceed the following:
-    - **(A)** $10,000,000 for each of fiscal years 2001 and 2002.
-    - **(B)** $15,000,000 for fiscal year 2003.
-    - **(C)** $20,000,000 for fiscal year 2004 and each subsequent fiscal year.
 - **(c)**
   - **(1)** Subject to section 1522(e)(4) of this title , 1 1 See References in Text note below. the Secretary shall carry out a pilot program in a limited number of counties, as determined by the Secretary, for crop years 1997 through 2001, under which a producer of wheat, feed grains, soybeans, or such other commodity as the Secretary considers appropriate may elect to receive insurance against loss of revenue, as determined by the Secretary.
   - **(2)** Revenue insurance under this subsection shall—
@@ -101,7 +97,7 @@ generated_at: "2026-03-29T19:27:31.753Z"
   - **(1)** In this subsection, the term “livestock commodity” includes cattle, sheep, swine, goats, and poultry, including pasture, rangeland, and forage as a source of feed for that livestock.
   - **(2)** Notwithstanding subsection (a)(2), the Corporation may conduct 2 or more pilot programs to provide producers of underserved specialty crops and livestock commodities with index-based weather insurance, subject to the requirements of this section.
   - **(3)**
-    - **(A)** The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph 2 2 So in original. Probably should be followed by a period.
+    - **(A)** The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph.
     - **(B)** To be eligible for approval under this subsection, the approved insurance provider shall have—
       - **(i)** adequate experience underwriting and administering policies or plans of insurance that are comparable to the proposed policy or plan of insurance;
       - **(ii)** sufficient assets or reinsurance to satisfy the underwriting obligations of the approved insurance provider, and possess a sufficient insurance credit rating from an appropriate credit rating bureau, in accordance with Board procedures; and

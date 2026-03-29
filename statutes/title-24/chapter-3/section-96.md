@@ -1,12 +1,12 @@
 ---
-title: "Section 96 - Repealed. Pub. L. 85–857 , § 14(16), (23), (25), Sept. 2, 1958 , 72 Stat. 1269 , 1270"
+title: "Section 96 - Repealed. Pub. L. 85–857, § 14(16) , (23), (25), Sept. 2, 1958 , 72 Stat. 1269 , 1270"
 usc_title: 24
 usc_section: "96"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "24 U.S.C. § 96"
-generated_at: "2026-03-29T19:29:35.064Z"
+generated_at: "2026-03-29T19:41:29.461Z"
 ---
 
-# §§ 93 to 96. Repealed. Pub. L. 85–857 , § 14(16), (23), (25), Sept. 2, 1958 , 72 Stat. 1269 , 1270
+# §§ 93 to 96. Repealed. Pub. L. 85–857, § 14(16) , (23), (25), Sept. 2, 1958 , 72 Stat. 1269 , 1270
 

@@ -3,9 +3,9 @@ title: "Section 36B - Refundable credit for coverage under a qualified health pl
 usc_title: 26
 usc_section: "36B"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 36B"
-generated_at: "2026-03-29T19:30:19.638Z"
+generated_at: "2026-03-29T19:42:47.490Z"
 ---
 
 # § 36B. Refundable credit for coverage under a qualified health plan
@@ -25,6 +25,9 @@ generated_at: "2026-03-29T19:30:19.638Z"
         - **(I)** Subject to subclause (II), in the case of taxable years beginning in any calendar year after 2014, the initial and final applicable percentages under clause (i) (as in effect for the preceding calendar year after application of this clause) shall be adjusted to reflect the excess of the rate of premium growth for the preceding calendar year over the rate of income growth for the preceding calendar year.
         - **(II)** Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.
         - **(III)** Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
+      - **(iii)** In the case of a taxable year beginning in 2021 or 2022—
+        - **(I)** clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and
+        - **(II)** the following table shall be applied in lieu of the table contained in clause (i): In the case of household income (expressed as a percent of poverty line) within the following income tier: The initial premium percentage is— The final premium percentage is— Up to 150.0 percent 0.0 0.0 150.0 percent up to 200.0 percent 0.0 2.0 200.0 percent up to 250.0 percent 2.0 4.0 250.0 percent up to 300.0 percent 4.0 6.0 300.0 percent up to 400.0 percent 6.0 8.5 400.0 percent and higher 8.5 8.5
     - **(B)** The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
       - **(i)** is offered through the same Exchange through which the qualified health plans taken into account under paragraph (2)(A) were offered, and
       - **(ii)** provides—
@@ -34,7 +37,7 @@ generated_at: "2026-03-29T19:30:19.638Z"
     - **(D)** If—
       - **(i)** a qualified health plan under section 1302(b)(5) of the Patient Protection and Affordable Care Act offers benefits in addition to the essential health benefits required to be provided by the plan, or
       - **(ii)** a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,
-    - **(E)** For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) 2 2 See References in Text note below. of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.
+    - **(E)** For purposes of determining the amount of any monthly premium, if an individual enrolls in both a qualified health plan and a plan described in section 1311(d)(2)(B)(ii)(I) 2 of the Patient Protection and Affordable Care Act for any plan year, the portion of the premium for the plan described in such section that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 1302(b)(1)(J) of such Act shall be treated as a premium payable for a qualified health plan.
 - **(c)** For purposes of this section—
   - **(1)**
     - **(A)** The term “applicable taxpayer” means, with respect to any taxable year, a taxpayer whose household income for the taxable year equals or exceeds 100 percent but does not exceed 400 percent of an amount equal to the poverty line for a family of the size involved.
@@ -43,6 +46,7 @@ generated_at: "2026-03-29T19:30:19.638Z"
       - **(ii)** the taxpayer is an alien lawfully present in the United States, but is not eligible for the medicaid program under title XIX of the Social Security Act by reason of such alien status,
     - **(C)** If the taxpayer is married (within the meaning of section 7703) at the close of the taxable year, the taxpayer shall be treated as an applicable taxpayer only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
     - **(D)** No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins.
+    - **(E)** In the case of a taxable year beginning in 2021 or 2022, subparagraph (A) shall be applied without regard to “but does not exceed 400 percent”.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “coverage month” means, with respect to an applicable taxpayer, any month if—
       - **(i)** as of the first day of such month the taxpayer, the taxpayer’s spouse, or any dependent of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A) that was enrolled in through an Exchange established by the State under section 1311 of the Patient Protection and Affordable Care Act, and
@@ -60,6 +64,17 @@ generated_at: "2026-03-29T19:30:19.638Z"
   - **(3)**
     - **(A)** The term “qualified health plan” has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
     - **(B)** The term “grandfathered health plan” has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.
+  - **(4)**
+    - **(A)** The term “coverage month” shall not include any month with respect to an employee (or any spouse or dependent of such employee) if for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage.
+    - **(B)** In the case of any employee who is provided a qualified small employer health reimbursement arrangement for any coverage month (determined without regard to subparagraph (A)), the credit otherwise allowable under subsection (a) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month.
+    - **(C)** For purposes of subparagraph (A), a qualified small employer health reimbursement arrangement shall be treated as constituting affordable coverage for a month if—
+      - **(i)** the excess of—
+        - **(I)** the amount that would be paid by the employee as the premium for such month for self-only coverage under the second lowest cost silver plan offered in the relevant individual health insurance market, over
+        - **(II)** 1 ⁄ 12 of the employee’s permitted benefit (as defined in section 9831(d)(3)(C)) under such arrangement, does not exceed—
+      - **(ii)** 1 ⁄ 12 of 9.5 percent of the employee’s household income.
+    - **(D)** For purposes of this paragraph, the term “qualified small employer health reimbursement arrangement” has the meaning given such term by section 9831(d)(2).
+    - **(E)** In the case of an employee who is provided a qualified small employer health reimbursement arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied by substituting “the number of months during the year for which such arrangement was provided” for “12”.
+    - **(F)** In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
 - **(d)** For purposes of this section—
   - **(1)** The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
   - **(2)**
@@ -90,10 +105,11 @@ generated_at: "2026-03-29T19:30:19.638Z"
   - **(2)**
     - **(A)** If the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess.
     - **(B)**
-      - **(i)** In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year): If the household income (expressed as a percent of poverty line) is: The applicable dollar amount is: Less than 200% $600 At least 200% but less than 300% $1,500 At least 300% but less than 400% $2,500.
+      - **(i)** In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) 2 for the taxable year): If the household income (expressed as a percent of poverty line) is: The applicable dollar amount is: Less than 200% $600 At least 200% but less than 300% $1,500 At least 300% but less than 400% $2,500.
       - **(ii)** In the case of any calendar year beginning after 2014, each of the dollar amounts in the table contained under clause (i) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(iii)** In the case of any taxable year beginning in 2020, for any taxpayer who files for such taxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying.
   - **(3)** Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the Patient Protection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
     - **(A)** The level of coverage described in section 1302(d) of the Patient Protection and Affordable Care Act and the period such coverage was in effect.
     - **(B)** The total premium for the coverage without regard to the credit under this section or cost-sharing reductions under section 1402 of such Act.
@@ -101,6 +117,15 @@ generated_at: "2026-03-29T19:30:19.638Z"
     - **(D)** The name, address, and TIN of the primary insured and the name and TIN of each other individual obtaining coverage under the policy.
     - **(E)** Any information provided to the Exchange, including any change of circumstances, necessary to determine eligibility for, and the amount of, such credit.
     - **(F)** Information necessary to determine whether a taxpayer has received excess advance payments.
-- **(g)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations which provide for—
+- **(g)**
+  - **(1)** For purposes of this section, in the case of a taxpayer who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the taxable year in which such week begins—
+    - **(A)** such taxpayer shall be treated as an applicable taxpayer, and
+    - **(B)** there shall not be taken into account any household income of the taxpayer in excess of 133 percent of the poverty line for a family of the size involved.
+  - **(2)** For purposes of this subsection, the term “unemployment compensation” has the meaning given such term in section 85(b).
+  - **(3)** For purposes of this subsection, a taxpayer shall not be treated as having received (or been approved to receive) unemployment compensation for any week unless such taxpayer provides self-attestation of, and such documentation as the Secretary shall prescribe which demonstrates, such receipt or approval.
+  - **(4)**
+    - **(A)** Paragraph (1)(A) shall not affect the application of subsection (c)(1)(C).
+    - **(B)** Paragraph (1)(B) shall not apply to any determination of household income for purposes of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c) 4 4 So in original. Probably should be followed by a period.
+- **(h)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations which provide for—
   - **(1)** the coordination of the credit allowed under this section with the program for advance payment of the credit under section 1412 of the Patient Protection and Affordable Care Act, and
   - **(2)** the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.

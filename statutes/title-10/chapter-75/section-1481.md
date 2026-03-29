@@ -3,9 +3,9 @@ title: "Section 1481 - Recovery, care, and disposition of remains: decedents cov
 usc_title: 10
 usc_section: "1481"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1481"
-generated_at: "2026-03-29T19:27:25.537Z"
+generated_at: "2026-03-29T19:43:37.929Z"
 ---
 
 # § 1481. Recovery, care, and disposition of remains: decedents covered
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:27:25.537Z"
       - **(i)** serving on funeral honors duty under section 12503 of this title or section 115 of title 32 ;
       - **(ii)** traveling directly to or from the place at which the member is to so serve; or
       - **(iii)** remaining overnight at or in the vicinity of that place before so serving, if the place is outside reasonable commuting distance from the member’s residence.
-  - **[(3)** Repealed. Pub. L. 99–661, div. A, title VI , § 604(e)(3)(B), Nov. 14, 1986 , 100 Stat. 3877 .]
+  - **[(3)** Repealed. Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B) , Nov. 14, 1986 , 100 Stat. 3877 .]
   - **(4)** Any member of, or applicant for membership in, a reserve officers’ training corps who dies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
   - **(5)** Any accepted applicant for enlistment in an armed force under his jurisdiction.
   - **(6)** Any person who has been discharged from an enlistment in an armed force under his jurisdiction while a patient in a United States hospital, and who continues to be such a patient until the date of his death.

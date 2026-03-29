@@ -1,14 +1,14 @@
 ---
-title: "Section 1414 - Settlement of complaints"
+title: "Section 1414 - Settlement"
 usc_title: 2
 usc_section: "1414"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1414"
-generated_at: "2026-03-29T19:27:07.556Z"
+generated_at: "2026-03-29T19:42:59.655Z"
 ---
 
-# § 1414. Settlement of complaints
+# § 1414. Settlement
 
 Any settlement entered into by the parties to a process described in section 1331, 1341, 1351, or 1401 of this title shall be in writing and not become effective unless it is approved by the Executive Director. Nothing in this chapter shall affect the power of the Senate and the House of Representatives, respectively, to establish rules governing the process by which a settlement may be entered into by such House or by any employing office of such House.
 

@@ -3,9 +3,9 @@ title: "Section 7631 - Presidential Task Force on Wildlife Trafficking"
 usc_title: 16
 usc_section: "7631"
 chapter: 95
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 7631"
-generated_at: "2026-03-29T19:29:27.636Z"
+generated_at: "2026-03-29T19:41:13.894Z"
 ---
 
 # § 7631. Presidential Task Force on Wildlife Trafficking
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:29:27.636Z"
   - **(5)** coordinate or carry out other functions as are necessary to implement this chapter.
 - **(b)** The Task Force shall—
   - **(1)** ensure that the activities of the Federal agencies involved in carrying out efforts under this chapter are coordinated and not duplicated; and
-  - **(2)** encourage efficiencies and coordination among the efforts of Federal agencies and interagency initiatives ongoing as of October 7, 2016 to address trafficking activities, including trafficking of wildlife, humans, weapons, and narcotics, illegal trade, transnational organized crime, or other illegal activities.
+  - **(2)** encourage efficiencies and coordination among the efforts of Federal agencies and interagency initiatives ongoing as of October 7, 2016 , to address trafficking activities, including trafficking of wildlife, humans, weapons, and narcotics, illegal trade, transnational organized crime, or other illegal activities.
 - **(c)** The Task Force shall carry out its responsibilities under this chapter in a manner consistent with the authorities and responsibilities of agencies represented on the Task Force.
 - **(d)** One year after October 7, 2016 , and annually thereafter, the Task Force shall submit a strategic assessment of its work and provide a briefing to the appropriate congressional committees that shall include—
   - **(1)** a review and assessment of the Task Force’s implementation of this chapter, identifying successes, failures, and gaps in its work, or that of agencies represented on the Task Force, including detailed descriptions of—
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T19:29:27.636Z"
   - **(3)** an account of total United States funding each year since fiscal year 2014 for all government agencies and programs involved in countering poaching and wildlife trafficking;
   - **(4)** an account of total United States funding since fiscal year 2014 to support the activities of the Task Force, including administrative overhead costs and congressional reporting; and
   - **(5)** recommendations for how to improve United States and international efforts to suppress and prevent illegal wildlife trafficking in the future, based upon the Task Force’s experience as of the time of the review.
-- **(e)** The statutory authorization for the Task Force provided by this chapter shall terminate 5 years after October 7, 2016 or such earlier date that the President terminates the Task Force by rescinding, superseding, or otherwise modifying relevant portions of Executive Order 13648.
+- **(e)** The statutory authorization for the Task Force provided by this chapter shall terminate 5 years after October 7, 2016 , or such earlier date that the President terminates the Task Force by rescinding, superseding, or otherwise modifying relevant portions of Executive Order 13648.

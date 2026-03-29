@@ -3,12 +3,12 @@ title: "Section 711 - Senior members of Military Staff Committee of United Natio
 usc_title: 10
 usc_section: "711"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 711"
-generated_at: "2026-03-29T19:27:25.461Z"
+generated_at: "2026-03-29T19:43:37.839Z"
 ---
 
 # § 711. Senior members of Military Staff Committee of United Nations: appointment
 
-The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force, as senior members of the Military Staff Committee of the United Nations. An officer so appointed has the grade of lieutenant general or vice admiral, as the case may be, while serving under that appointment.
+The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force or the Space Force, as senior members of the Military Staff Committee of the United Nations.
 

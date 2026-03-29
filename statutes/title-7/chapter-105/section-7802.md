@@ -3,9 +3,9 @@ title: "Section 7802 - Definitions"
 usc_title: 7
 usc_section: "7802"
 chapter: 105
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7802"
-generated_at: "2026-03-29T19:27:32.004Z"
+generated_at: "2026-03-29T19:43:58.431Z"
 ---
 
 # § 7802. Definitions

@@ -3,9 +3,9 @@ title: "Section 2032A - Valuation of certain farm, etc., real property"
 usc_title: 26
 usc_section: "2032A"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 2032A"
-generated_at: "2026-03-29T19:30:20.028Z"
+generated_at: "2026-03-29T19:42:47.839Z"
 ---
 
 # § 2032A. Valuation of certain farm, etc., real property
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:30:20.028Z"
   - **(2)** The aggregate decrease in the value of qualified real property taken into account for purposes of this chapter which results from the application of paragraph (1) with respect to any decedent shall not exceed $750,000.
   - **(3)** In the case of estates of decedents dying in a calendar year after 1998, the $750,000 amount contained in paragraph (2) shall be increased by an amount equal to—
     - **(A)** $750,000, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(b)**
   - **(1)** For purposes of this section, the term “qualified real property” means real property located in the United States which was acquired from or passed from the decedent to a qualified heir of the decedent and which, on the date of the decedent’s death, was being used for a qualified use by the decedent or a member of the decedent’s family, but only if—
     - **(A)** 50 percent or more of the adjusted value of the gross estate consists of the adjusted value of real or personal property which—

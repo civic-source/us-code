@@ -3,9 +3,9 @@ title: "Section 4942 - Taxes on failure to distribute income"
 usc_title: 26
 usc_section: "4942"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4942"
-generated_at: "2026-03-29T19:30:20.092Z"
+generated_at: "2026-03-29T19:42:47.898Z"
 ---
 
 # § 4942. Taxes on failure to distribute income
@@ -103,7 +103,7 @@ generated_at: "2026-03-29T19:30:20.092Z"
       - **(i)** its adjusted net income (as defined in subsection (f)), or
       - **(ii)** its minimum investment return; and
     - **(B)**
-      - **(i)** substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted.
+      - **(i)** substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted,
       - **(ii)** which normally makes qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated in an amount not less than two-thirds of its minimum investment return (as defined in subsection (e)), or
       - **(iii)** substantially all of the support (other than gross investment income as defined in section 509(e)) of which is normally received from the general public and from 5 or more exempt organizations which are not described in section 4946(a)(1)(H) with respect to each other or the recipient foundation; not more than 25 percent of the support (other than gross investment income) of which is normally received from any one such exempt organization; and not more than half of the support of which is normally received from gross investment income.
   - **(4)** The term “functionally related business” means—

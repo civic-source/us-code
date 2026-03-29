@@ -3,9 +3,9 @@ title: "Section 652 - Notice to Congress of proposed changes in units, assignmen
 usc_title: 10
 usc_section: "652"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 652"
-generated_at: "2026-03-29T19:27:25.457Z"
+generated_at: "2026-03-29T19:43:37.834Z"
 ---
 
 # § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
@@ -20,12 +20,12 @@ generated_at: "2026-03-29T19:27:25.457Z"
     - **(A)** a detailed description of, and justification for, the proposed change; and
     - **(B)** a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) 1 1 See References in Text note below. to males only.
   - **(4)** In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994 , by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
-  - **[(5)** Repealed. Pub. L. 114–92, div. A, title V , § 524(a)(2), Nov. 25, 2015 , 129 Stat. 813 .]
+  - **[(5)** Repealed. Pub. L. 114–92, div. A, title V, § 524(a)(2) , Nov. 25, 2015 , 129 Stat. 813 .]
   - **(6)** For purposes of this subsection, a military career designator is one that is related to military operations on the ground as of May 18, 2005 , and applies—
     - **(A)** for enlisted members and warrant officers, to military occupational specialties, specialty codes, enlisted designators, enlisted classification codes, additional skill identifiers, and special qualification identifiers; and
     - **(B)** for officers (other than warrant officers), to officer areas of concentration, occupational specialties, specialty codes, designators, additional skill identifiers, and special qualification identifiers.
 - **(b)**
-  - **(1)** Except in a case covered by section 6035 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+  - **(1)** Except in a case covered by section 8225 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
   - **(2)** Paragraph (1) applies to a proposed military personnel policy change, other than a policy change covered by subsection (a), that would make available to female members of the armed forces assignment to any of the following that, as of the date of the proposed change, is closed to such assignment:
     - **(A)** Any type of unit not covered by subsection (a).
     - **(B)** Any class of combat vessel.

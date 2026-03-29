@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-29T19:30:40.518Z"
+generated_at: "2026-03-29T19:43:27.015Z"
 ---
 
 # § 3319. Authority to transfer unused education benefits to family members
@@ -16,17 +16,16 @@ generated_at: "2026-03-29T19:30:40.518Z"
 - **(b)** An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual’s request to transfer entitlement to educational assistance under this section, has completed at least—
   - **(1)** six years of service in the Armed Forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
   - **(2)** the years of service as determined in regulations pursuant to subsection (j).
-- **(c)** An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement as follows:
-  - **(1)** To the individual’s spouse.
-  - **(2)** To one or more of the individual’s children.
-  - **(3)** To a combination of the individuals referred to in paragraphs (1) and (2).
+- **(c)**
+  - **(1)** An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement to an eligible dependent or a combination of eligible dependents.
+  - **(2)** For purposes of this subsection, the term “eligible dependent” has the meaning given the term “dependent” under subparagraphs (A), (I), and (D) of section 1072(2) of title 10 .
 - **(d)** The total number of months of entitlement transferred by a individual under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
 - **(e)** An individual transferring an entitlement to educational assistance under this section shall—
   - **(1)** designate the dependent or dependents to whom such entitlement is being transferred;
   - **(2)** designate the number of months of such entitlement to be transferred to each such dependent; and
   - **(3)** specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
 - **(f)**
-  - **(1)** Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
+  - **(1)** Subject to the time limitation for use of entitlement under section 3321, and except as provided in subsection (k) or ( l ), an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
   - **(2)**
     - **(A)** An individual transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred.
     - **(B)** The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
@@ -52,7 +51,7 @@ generated_at: "2026-03-29T19:30:40.518Z"
     - **(B)** in the case of a child, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer as if the individual were not on active duty.
   - **(4)** The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
   - **(5)**
-    - **(A)** A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
+    - **(A)** A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), 1 1 See Extension of Time Limitations for Use of Entitlement: Transfer Period note below. use any benefits so transferred after attaining the age of 26 years.
     - **(B)**
       - **(i)** Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
       - **(ii)** Clause (i) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual’s designation as such a primary provider under section 1720G(a)(7)(D).
@@ -78,3 +77,6 @@ generated_at: "2026-03-29T19:30:40.518Z"
     - **(A)** the manner of authorizing the transfer of entitlements under this section;
     - **(B)** the eligibility criteria in accordance with subsection (b); and
     - **(C)** the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
+  - **(3)** The Secretary of Defense may not prescribe any regulation that would provide for a limitation on eligibility to transfer unused education benefits to family members based on a maximum number of years of service in the Armed Forces.
+- **(k)** In the case of a dependent to whom entitlement to educational assistance is transferred under this section who dies before using all of such entitlement, the individual who transferred the entitlement to the dependent may transfer any remaining entitlement to a different eligible dependent, notwithstanding whether the individual is serving as a member of the Armed Forces when such transfer is executed.
+- **(l)** In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.

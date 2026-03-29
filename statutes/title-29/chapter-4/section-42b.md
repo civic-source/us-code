@@ -1,12 +1,12 @@
 ---
-title: "Section 42b - Repealed. Pub. L. 93–112, title V , § 500(a), Sept. 26, 1973 , 87 Stat. 390"
+title: "Section 42b - Repealed. Pub. L. 93–112, title V, § 500(a) , Sept. 26, 1973 , 87 Stat. 390"
 usc_title: 29
 usc_section: "42b"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 42b"
-generated_at: "2026-03-29T19:30:07.497Z"
+generated_at: "2026-03-29T19:42:21.414Z"
 ---
 
-# §§ 42–1 to 42b. Repealed. Pub. L. 93–112, title V , § 500(a), Sept. 26, 1973 , 87 Stat. 390
+# §§ 42–1 to 42b. Repealed. Pub. L. 93–112, title V, § 500(a) , Sept. 26, 1973 , 87 Stat. 390
 

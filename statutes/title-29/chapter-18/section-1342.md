@@ -3,9 +3,9 @@ title: "Section 1342 - Institution of termination proceedings by the corporation
 usc_title: 29
 usc_section: "1342"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1342"
-generated_at: "2026-03-29T19:30:07.612Z"
+generated_at: "2026-03-29T19:42:21.537Z"
 ---
 
 # § 1342. Institution of termination proceedings by the corporation
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:30:07.612Z"
       - **(ii)** to require the transfer of all (or any part) of the assets and records of the plan to himself as trustee;
       - **(iii)** to invest any assets of the plan which he holds in accordance with the provisions of the plan, regulations of the corporation, and applicable rules of law;
       - **(iv)** to limit payment of benefits under the plan to basic benefits or to continue payment of some or all of the benefits which were being paid prior to his appointment;
-      - **(v)** in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) to be performed by the plan sponsor or administrator;
+      - **(v)** in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) 1 1 So in original. Probably should be “subtitle E”. to be performed by the plan sponsor or administrator;
       - **(vi)** to do such other acts as he deems necessary to continue operation of the plan without increasing the potential liability of the corporation, if such acts may be done under the provisions of the plan; and
       - **(vii)** to require the plan sponsor, the plan administrator, any contributing or withdrawn employer, and any employee organization representing plan participants to furnish any information with respect to the plan which the trustee may reasonably need in order to administer the plan.
     - **(B)** If the court to which an application is made under subsection (c) issues the decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T19:30:07.612Z"
     - **(A)** the plan administrator,
     - **(B)** each participant in the plan and each beneficiary of a deceased participant,
     - **(C)** each employer who may be subject to liability under section 1362, 1363, or 1364 of this title,
-    - **(D)** each employer who is or may be liable to the plan under section 1 1 So in original. part 1 of subtitle E,
+    - **(D)** each employer who is or may be liable to the plan under section 3 3 So in original. part 1 of subtitle E,
     - **(E)** each employer who has an obligation to contribute, within the meaning of section 1392(a) of this title , under a multiemployer plan, and
     - **(F)** each employee organization which, for purposes of collective bargaining, represents plan participants employed by an employer described in subparagraph (C), (D), or (E).
   - **(3)** Except to the extent inconsistent with the provisions of this chapter, or as may be otherwise ordered by the court, a trustee appointed under this section shall be subject to the same duties as those of a trustee under section 704 of title 11 , and shall be, with respect to the plan, a fiduciary within the meaning of paragraph (21) of section 1002 of this title and under section 4975(e) of title 26 (except to the extent that the provisions of this subchapter are inconsistent with the requirements applicable under part 4 of subtitle B of subchapter I of this chapter and of such section 4975).

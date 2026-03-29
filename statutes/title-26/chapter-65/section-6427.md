@@ -3,9 +3,9 @@ title: "Section 6427 - Fuels not used for taxable purposes"
 usc_title: 26
 usc_section: "6427"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6427"
-generated_at: "2026-03-29T19:30:20.208Z"
+generated_at: "2026-03-29T19:42:47.985Z"
 ---
 
 # § 6427. Fuels not used for taxable purposes
@@ -42,8 +42,8 @@ generated_at: "2026-03-29T19:30:20.208Z"
   - **(5)** No amount shall be payable under paragraph (1) or (2) with respect to any mixture or alternative fuel if credit is not allowed with respect to such mixture or alternative fuel by reason of section 6426(i).
   - **(6)** This subsection shall not apply with respect to—
     - **(A)** any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2011 ,
-    - **(B)** any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2016 ,
-    - **(C)** any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2016 , and
+    - **(B)** any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2022 ,
+    - **(C)** any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2021 , and
     - **(D)** any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011 .
 - **[(f)**
 - **[(g)**

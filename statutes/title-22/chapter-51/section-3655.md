@@ -1,12 +1,12 @@
 ---
-title: "Section 3655 - Repealed. Pub. L. 105–85, div. C, title XXXV , § 3523(a)(1), Nov. 18, 1997 , 111 Stat. 2064"
+title: "Section 3655 - Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(1) , Nov. 18, 1997 , 111 Stat. 2064"
 usc_title: 22
 usc_section: "3655"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3655"
-generated_at: "2026-03-29T19:29:46.836Z"
+generated_at: "2026-03-29T19:42:08.151Z"
 ---
 
-# § 3655. Repealed. Pub. L. 105–85, div. C, title XXXV , § 3523(a)(1), Nov. 18, 1997 , 111 Stat. 2064
+# § 3655. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(1) , Nov. 18, 1997 , 111 Stat. 2064
 

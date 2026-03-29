@@ -3,9 +3,9 @@ title: "Section 633 - Small Business Administration"
 usc_title: 15
 usc_section: "633"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 633"
-generated_at: "2026-03-29T19:27:55.320Z"
+generated_at: "2026-03-29T19:44:42.609Z"
 ---
 
 # § 633. Small Business Administration
@@ -75,16 +75,35 @@ generated_at: "2026-03-29T19:27:55.320Z"
     - **(C)** repayment agreement entered into between the recipient and the custodial parent or State agency providing child support enforcement services,
   - **(2)** Not later than 6 months after October 22, 1994 , the Administration shall promulgate such regulations as may be necessary to enforce compliance with the requirements of this subsection.
 - **(g)**
-  - **(1)** Consistent with the requirements of paragraph (2), a Business Opportunity Specialist described under section 636(j)(10)(D) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a Business Opportunity Specialist who was serving on or before January 3, 2013 , may continue to serve as a Business Opportunity Specialist for a period of 5 years beginning on such date without such a certification.
+  - **(1)** The exclusive duties of a Business Opportunity Specialist employed by the Administrator and reporting to the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title (or the designee of such official) shall be to implement sections 636, 637, and 657r of this title and to complete other duties related to contracting programs under this chapter. Such duties shall include—
+    - **(A)** with respect to small business concerns eligible to receive contracts and subcontracts pursuant to section 637(a) of this title —
+      - **(i)** providing guidance, counseling, and referrals for assistance with technical, management, financial, or other matters that will improve the competitive viability of such concerns;
+      - **(ii)** identifying causes of success or failure of such concerns;
+      - **(iii)** providing comprehensive assessments of such concerns, including identifying the strengths and weaknesses of such concerns;
+      - **(iv)** monitoring and documenting compliance with the requirements of sections 636 and 637 of this title and any regulations implementing those sections;
+      - **(v)** explaining the requirements of sections 636, 637, 644, 657a, 657f, and 657r of this title; and
+      - **(vi)** advising on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of such a contract or subcontract;
+    - **(B)** reviewing and monitoring compliance with mentor-protege agreements under section 657r of this title ;
+    - **(C)** representing the interests of the Administrator and small business concerns in the award, modification, and administration of contracts and subcontracts awarded pursuant to section 637(a) of this title ; and
+    - **(D)** reporting fraud or abuse under section 636, 637, 644, 657a, 657f, or 657r of this title or any regulations implementing such sections.
   - **(2)**
-    - **(A)** The certification described in paragraph (1) is not required for any person serving as a Business Opportunity Specialist until the date that is one calendar year after the date such person is appointed as a Business Opportunity Specialist.
-    - **(B)** The requirements of subparagraph (A) shall—
-      - **(i)** be included in any initial job posting for the position of a Business Opportunity Specialist; and
-      - **(ii)** apply to any person appointed as a Business Opportunity Specialist after January 3, 2013 .
+    - **(A)** Consistent with the requirements of subparagraph (B), a Business Opportunity Specialist described under section 636(j)(10)(D) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification.
+    - **(B)** The certification described in subparagraph (A) is not required—
+      - **(i)** for any person serving as a Business Opportunity Specialist on December 12, 2017 , until the date that is one calendar year after the date such person was appointed as a Business Opportunity Specialist; or
+      - **(ii)** for any person serving as a Business Opportunity Specialist on or before January 3, 2013 , until January 3, 2020 .
+  - **(3)** The duties and certification requirements described in this subsection shall be included in any initial job posting for the position of a Business Opportunity Specialist.
 - **(h)**
-  - **(1)** Consistent with the requirements of paragraph (2), a commercial market representative referred to in section 644(q)(3) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a commercial market representative who was serving on or before November 25, 2015 , may continue to serve as a commercial market representative for a period of 5 years beginning on such date without such a certification.
+  - **(1)** The principal duties of a commercial market representative employed by the Administrator and reporting to the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title (or the designee of the official) shall be to advance the policies established in section 637(d)(1) of this title relating to subcontracting, including—
+    - **(A)** helping prime contractors to find small business concerns that are capable of performing subcontracts;
+    - **(B)** for contractors awarded contracts containing the clause described in section 637(d)(3) of this title , providing—
+      - **(i)** counseling on the responsibility of the contractor to maximize subcontracting opportunities for small business concerns;
+      - **(ii)** instruction on methods and tools to identify potential subcontractors that are small business concerns; and
+      - **(iii)** assistance to increase awards to subcontractors that are small business concerns through visits, training, and reviews of past performance;
+    - **(C)** providing counseling on how a small business concern may promote the capacity of the small business concern to contractors awarded contracts containing the clause described in section 637(d)(3) of this title ; and
+    - **(D)** conducting periodic reviews of contractors awarded contracts containing the clause described in section 637(d)(3) of this title to assess compliance with subcontracting plans required under section 637(d)(6) of this title .
   - **(2)**
-    - **(A)** The certification described in paragraph (1) is not required for any person serving as a commercial market representative until the date that is one calendar year after the date such person is appointed as a commercial market representative.
-    - **(B)** The requirements of subparagraph (A) shall—
-      - **(i)** be included in any initial job posting for the position of a commercial market representative; and
-      - **(ii)** apply to any person appointed as a commercial market representative after November 25, 2015 .
+    - **(A)** Consistent with the requirements of subparagraph (B), a commercial market representative referred to in section 644(q)(3) of this title shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification.
+    - **(B)** The certification described in subparagraph (A) is not required—
+      - **(i)** for any person serving as a commercial market representative on December 12, 2017 , until the date that is one calendar year after the date on which the person was appointed as a commercial market representative; or
+      - **(ii)** for any person serving as a commercial market representative on or before November 25, 2015 , until November 25, 2020 .
+  - **(3)** The duties and certification requirements described in this subsection shall be included in any initial job posting for the position of a commercial market representative.

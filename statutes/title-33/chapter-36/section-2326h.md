@@ -5,7 +5,7 @@ usc_section: "2326h"
 chapter: 36
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 2326h"
-generated_at: "2026-03-29T18:45:43.502Z"
+generated_at: "2026-03-29T19:43:07.708Z"
 ---
 
 # § 2326h. Five-year regional dredged material management plans

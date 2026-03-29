@@ -1,12 +1,12 @@
 ---
-title: "Section 904 - Repealed. Pub. L. 107–275 , § 2(c)(2), Nov. 2, 2002 , 116 Stat. 1926"
+title: "Section 904 - Repealed. Pub. L. 107–275, § 2(c)(2) , Nov. 2, 2002 , 116 Stat. 1926"
 usc_title: 30
 usc_section: "904"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 904"
-generated_at: "2026-03-29T19:30:05.260Z"
+generated_at: "2026-03-29T19:42:23.433Z"
 ---
 
-# § 904. Repealed. Pub. L. 107–275 , § 2(c)(2), Nov. 2, 2002 , 116 Stat. 1926
+# § 904. Repealed. Pub. L. 107–275, § 2(c)(2) , Nov. 2, 2002 , 116 Stat. 1926
 

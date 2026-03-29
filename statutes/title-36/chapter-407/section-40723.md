@@ -3,9 +3,9 @@ title: "Section 40723 - Eligibility for participation"
 usc_title: 36
 usc_section: "40723"
 chapter: 407
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 40723"
-generated_at: "2026-03-29T19:30:42.068Z"
+generated_at: "2026-03-29T19:43:23.289Z"
 ---
 
 # § 40723. Eligibility for participation

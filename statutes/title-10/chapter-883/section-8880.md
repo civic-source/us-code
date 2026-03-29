@@ -3,9 +3,9 @@ title: "Section 8880 - Appeals and amendments in prize causes"
 usc_title: 10
 usc_section: "8880"
 chapter: 883
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8880"
-generated_at: "2026-03-29T18:47:53.584Z"
+generated_at: "2026-03-29T19:43:38.122Z"
 ---
 
 # § 8880. Appeals and amendments in prize causes

@@ -1,14 +1,14 @@
 ---
-title: "Section 1073 - Flight to avoid prosecution or giving testi­mony"
+title: "Section 1073 - Flight to avoid prosecution or giving testimony"
 usc_title: 18
 usc_section: "1073"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1073"
-generated_at: "2026-03-29T19:28:33.824Z"
+generated_at: "2026-03-29T19:41:06.790Z"
 ---
 
-# § 1073. Flight to avoid prosecution or giving testi­mony
+# § 1073. Flight to avoid prosecution or giving testimony
 
   - **(1)** to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which he flees, for a crime, or an attempt to commit a crime, punishable by death or which is a felony under the laws of the place from which the fugitive flees, or
   - **(2)** to avoid giving testimony in any criminal proceedings in such place in which the commission of an offense punishable by death or which is a felony under the laws of such place, is charged, or

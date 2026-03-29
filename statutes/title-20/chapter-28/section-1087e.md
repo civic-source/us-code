@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-29T19:28:43.012Z"
+generated_at: "2026-03-29T19:41:03.232Z"
 ---
 
 # § 1087e. Terms and conditions of loans
@@ -130,9 +130,7 @@ generated_at: "2026-03-29T19:28:43.012Z"
   - **(3)** A borrower who chooses, or is required, to repay a loan made under this part pursuant to income contingent repayment, and for whom adjusted gross income is unavailable or does not reasonably reflect the borrower’s current income, shall provide to the Secretary other documentation of income satisfactory to the Secretary, which documentation the Secretary may use to determine an appropriate repayment schedule.
   - **(4)** Income contingent repayment schedules shall be established by regulations promulgated by the Secretary and shall require payments that vary in relation to the appropriate portion of the annual income of the borrower (and the borrower’s spouse, if applicable) as determined by the Secretary.
   - **(5)** The balance due on a loan made under this part that is repaid pursuant to income contingent repayment shall equal the unpaid principal amount of the loan, any accrued interest, and any fees, such as late charges, assessed on such loan. The Secretary may promulgate regulations limiting the amount of interest that may be capitalized on such loan, and the timing of any such capitalization.
-  - **(6)** The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
-    - **(A)** that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103( l )(13) of title 26; and
-    - **(B)** that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+  - **(6)** The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower, that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment, the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
   - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part D, or part E—
     - **(A)** is not in default on any loan that is included in the income contingent repayment plan; and
     - **(B)**
@@ -141,6 +139,14 @@ generated_at: "2026-03-29T19:28:43.012Z"
       - **(iii)** makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first made the election described in section 1098e(b)(1) of this title ;
       - **(iv)** makes payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A) with a repayment period of 10 years; or
       - **(v)** makes payments under an income contingent repayment plan under subsection (d)(1)(D).
+  - **(8)**
+    - **(A)** The Secretary shall establish and implement, with respect to any borrower described in subparagraph (B), procedures to—
+      - **(i)** use return information disclosed under section 6103( l )(13) of title 26, pursuant to approval provided under section 1098h of this title , to determine the repayment obligation of the borrower without further action by the borrower;
+      - **(ii)** allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103( l )(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this subsection); and
+      - **(iii)** provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
+    - **(B)** Subparagraph (A) shall apply to each borrower of a loan made under this part who, on or after the date on which the Secretary establishes procedures under such subparagraph—
+      - **(i)** selects, or is required to repay such loan pursuant to, an income-contingent repayment plan; or
+      - **(ii)** recertifies income or family size under such plan.
 - **(f)**
   - **(1)** A borrower of a loan made under this part who meets the requirements described in paragraph (2) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest—
     - **(A)** shall not accrue, in the case of a—
@@ -156,8 +162,16 @@ generated_at: "2026-03-29T19:28:43.012Z"
       - **(i)** is serving on active duty during a war or other military operation or national emergency; or
       - **(ii)** is performing qualifying National Guard duty during a war or other military operation or national emergency,
     - **(D)** not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085( o ) of this title, that the borrower has experienced or will experience an economic hardship.
-  - **(3)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
-  - **(4)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
+  - **(3)**
+    - **(A)** A borrower of a loan made under this part who meets the requirements of subparagraph (B) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest shall not accrue.
+    - **(B)** A borrower of a loan made under this part shall be eligible for a deferment during—
+      - **(i)** any period in which such borrower is receiving treatment for cancer; and
+      - **(ii)** the 6 months after such period.
+    - **(C)** This paragraph shall apply with respect to loans—
+      - **(i)** made on or after September 28, 2018 ; or
+      - **(ii)** in repayment on September 28, 2018 .
+  - **(4)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
+  - **(5)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
 - **(g)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
 - **(h)** Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 - **(i)** The common financial reporting form required in section 1090(a)(1) of this title shall constitute the application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
@@ -171,7 +185,7 @@ generated_at: "2026-03-29T19:28:43.012Z"
   - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
   - **(3)** All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 - **(l)**
-  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
 - **(m)**
   - **(1)** The Secretary shall cancel the balance of interest and principal due, in accordance with paragraph (2), on any eligible Federal Direct Loan not in default for a borrower who—
@@ -198,7 +212,7 @@ generated_at: "2026-03-29T19:28:43.012Z"
     - **(A)**
       - **(i)** is serving on active duty during a war or other military operation or national emergency; or
       - **(ii)** is performing qualifying National Guard duty during a war or other military operation or national emergency; and
-    - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310 of title 37 .
+    - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37.
   - **(4)** An individual who qualifies as an eligible military borrower under this subsection may receive the benefit of this subsection for not more than 60 months.
 - **(p)** Each institution of higher education with which the Secretary has an agreement under section 1087c of this title , and each contractor with which the Secretary has a contract under section 1087f of this title , shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 - **(q)**

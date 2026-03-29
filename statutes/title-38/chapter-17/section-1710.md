@@ -3,9 +3,9 @@ title: "Section 1710 - Eligibility for hospital, nursing home, and domiciliary c
 usc_title: 38
 usc_section: "1710"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1710"
-generated_at: "2026-03-29T19:30:40.473Z"
+generated_at: "2026-03-29T19:43:26.960Z"
 ---
 
 # § 1710. Eligibility for hospital, nursing home, and domiciliary care
@@ -16,9 +16,9 @@ generated_at: "2026-03-29T19:30:40.473Z"
     - **(B)** to any veteran who has a service-connected disability rated at 50 percent or more.
   - **(2)** The Secretary (subject to paragraph (4)) shall furnish hospital care and medical services, and may furnish nursing home care, which the Secretary determines to be needed to any veteran—
     - **(A)** who has a compensable service-connected disability rated less than 50 percent or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent;
-    - **(B)** whose discharge or release from active military, naval, or air service was for a disability that was incurred or aggravated in the line of duty;
+    - **(B)** whose discharge or release from active military, naval, air, or space service was for a disability that was incurred or aggravated in the line of duty;
     - **(C)** who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran’s continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
-    - **(D)** who is a former prisoner of war or who was awarded the Purple Heart;
+    - **(D)** who is a former prisoner of war, who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14, or who was awarded the Purple Heart;
     - **(E)** who is a veteran of the Mexican border period or of World War I;
     - **(F)** who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e); or
     - **(G)** who is unable to defray the expenses of necessary care as determined under section 1722(a) of this title .
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:30:40.473Z"
     - **(C)** Subject to paragraph (2) of this subsection, a veteran who served on active duty between August 2, 1990 , and November 11, 1998 , in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
     - **(D)** Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities after November 11, 1998 , is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
     - **(E)** Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as “Project Shipboard Hazard and Defense (SHAD)” and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
-    - **(F)** Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on August 1, 1953 and ending on December 31, 1987 , is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
+    - **(F)** Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on August 1, 1953 , and ending on December 31, 1987 , is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
       - **(i)** Esophageal cancer.
       - **(ii)** Lung cancer.
       - **(iii)** Breast cancer.
@@ -63,11 +63,11 @@ generated_at: "2026-03-29T19:30:40.473Z"
       - **(ii)** a disease for which the National Academy of Sciences, in a report issued in accordance with section 3 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
     - **(B)** In the case of a veteran described in subparagraph (C), (D), (E), or (F) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service or testing described in such subparagraph.
   - **(3)** In the case of care for a veteran described in paragraph (1)(D), hospital care, medical services, and nursing home care may be provided under or by virtue of subsection (a)(2)(F) only during the following periods:
-    - **(A)** Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 27, 2003 , the five-year period beginning on the date of such discharge or release.
-    - **(B)** With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 1, 2009 , and before January 1, 2011 , but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
-    - **(C)** With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service on or before January 27, 2003 , and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008 .
+    - **(A)** Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 27, 2003 , the five-year period beginning on the date of such discharge or release.
+    - **(B)** With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009 , and before January 1, 2011 , but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
+    - **(C)** With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003 , and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008 .
   - **(4)** For purposes of this subsection—
-    - **(A)** The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962 , and ending on May 7, 1975 , and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
+    - **(A)** The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam (including offshore of such Republic as described in section 1116A(d) of this title ) during the period beginning on January 9, 1962 , and ending on May 7, 1975 , and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
     - **(B)** The term “radiation-exposed veteran” has the meaning given that term in section 1112(c)(3) of this title .
   - **(5)** When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 months after first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
 - **(f)**
@@ -76,7 +76,7 @@ generated_at: "2026-03-29T19:30:40.473Z"
     - **(A)** the lesser of—
       - **(i)** the cost of furnishing such care, as determined by the Secretary; or
       - **(ii)** the amount determined under paragraph (3) of this subsection; and
-    - **(B)** before September 30, 2017 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+    - **(B)** before September 30, 2022 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
   - **(3)**
     - **(A)** In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
       - **(i)** the amount of the inpatient Medicare deductible, plus

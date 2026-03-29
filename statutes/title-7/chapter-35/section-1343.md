@@ -3,9 +3,9 @@ title: "Section 1343 - Referendum"
 usc_title: 7
 usc_section: "1343"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1343"
-generated_at: "2026-03-29T19:27:31.720Z"
+generated_at: "2026-03-29T19:43:58.102Z"
 ---
 
 # § 1343. Referendum

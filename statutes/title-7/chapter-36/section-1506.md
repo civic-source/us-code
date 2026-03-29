@@ -3,9 +3,9 @@ title: "Section 1506 - General powers"
 usc_title: 7
 usc_section: "1506"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1506"
-generated_at: "2026-03-29T19:27:31.742Z"
+generated_at: "2026-03-29T19:43:58.129Z"
 ---
 
 # § 1506. General powers
@@ -19,14 +19,23 @@ generated_at: "2026-03-29T19:27:31.742Z"
 - **(g)** The Corporation, with the consent of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this subchapter.
 - **(h)**
   - **(1)** The Corporation may conduct surveys and investigations relating to crop insurance, agriculture-related risks and losses, and other issues related to carrying out this subchapter.
-  - **(2)** The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
-  - **(3)** Notwithstanding section 1502(c) of this title , records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, and approved insurance providers for use in carrying out this subchapter, such section 7333 of this title , and other agricultural programs.
+  - **(2)**
+    - **(A)** The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+    - **(B)** Data collected by the National Agricultural Statistics Service, whether published or unpublished, shall be—
+      - **(i)** provided in an aggregate form to the Corporation for the purpose of providing insurance under this subchapter; and
+      - **(ii)** kept confidential by the Corporation in the same manner and to the same extent as is required under—
+        - **(I)** section 2276 of this title ; and
+        - **(II)** the Confidential Information Protection and Statistical Efficiency Act of 2002 ( 44 U.S.C. 3501 note; Public Law 107–347 ). 2 2 See References in Text note below.
+    - **(C)** In collecting data under this subsection, the Secretary shall ensure that—
+      - **(i)** appropriate data are collected through the noninsured crop disaster assistance program established by section 7333 of this title ; and
+      - **(ii)** not less frequently than annually, the Farm Service Agency shares, and the Corporation considers, the data described in clause (i).
+  - **(3)** Notwithstanding section 1502(c) of this title , records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under section 1522(b)(2)(E) of this title , and approved insurance providers for use in carrying out this subchapter, such section 7333 of this title , and other agricultural programs.
 - **(i)** The Corporation shall determine the character and necessity for its expenditures under this subchapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing the expenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
 - **(j)** The Corporation shall have the authority to make final and conclusive settlement and adjustment of any claim by or against the Corporation or a fiscal officer of the Corporation.
 - **(k)** The Corporation shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation and all such incidental powers as are customary in corporations generally.
 - **(l)** The Corporation may enter into and carry out contracts or agreements, and issue regulations, necessary in the conduct of its business, as determined by the Board. State and local laws or rules shall not apply to contracts, agreements, or regulations of the Corporation or the parties thereto to the extent that such contracts, agreements, or regulations provide that such laws or rules shall not apply, or to the extent that such laws or rules are inconsistent with such contracts, agreements, or regulations.
 - **(m)**
-  - **(1)** The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) 2 2 See References in Text note below. of title 42, and employer identification numbers, subject to the requirements of section 6109(f) of title 26 .
+  - **(1)** The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) 2 of title 42, and employer identification numbers, subject to the requirements of section 6109(f) of title 26 .
   - **(2)** Each policyholder shall notify each individual or other entity that acquires or holds a substantial beneficial interest in such policyholder of the requirements and limitations under this subchapter.
   - **(3)** The Manager of the Corporation may require each policyholder to provide to the Manager, at such times and in such manner as prescribed by the Manager, the name of each individual that holds or acquires a substantial beneficial interest in the policy­holder.
   - **(4)** For purposes of this subsection, the term “substantial beneficial interest” means not less than 5 percent of all beneficial interests in the policyholder.

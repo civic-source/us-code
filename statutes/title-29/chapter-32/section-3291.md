@@ -3,9 +3,9 @@ title: "Section 3291 - Reservation of funds; grants to eligible agencies; allotm
 usc_title: 29
 usc_section: "3291"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 3291"
-generated_at: "2026-03-29T19:30:07.672Z"
+generated_at: "2026-03-29T19:42:21.604Z"
 ---
 
 # § 3291. Reservation of funds; grants to eligible agencies; allotments

@@ -3,9 +3,9 @@ title: "Section 403 - Basic allowance for housing"
 usc_title: 37
 usc_section: "403"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 403"
-generated_at: "2026-03-29T19:30:34.105Z"
+generated_at: "2026-03-29T19:43:17.251Z"
 ---
 
 # § 403. Basic allowance for housing
@@ -38,7 +38,11 @@ generated_at: "2026-03-29T19:30:34.105Z"
     - **(B)** The Secretary of Defense shall base the amount of the increase to be made in the rates of basic allowance for housing for an area on a determination by the Secretary of the amount by which the costs of adequate housing for civilians have increased in the area by reason of the disaster or the influx of military personnel, except that the increase may not exceed the amount equal to 20 percent of the rate of basic allowance for housing otherwise prescribed for the area.
     - **(C)** A member may be paid a basic allowance for housing at a rate increased under this paragraph only if the member certifies to the Secretary concerned that the member has incurred increased housing costs in the area by reason of the disaster or the influx of military personnel.
     - **(D)** Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
-    - **(E)** An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2016 .
+    - **(E)** An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2022 .
+  - **(8)**
+    - **(A)** The Secretary of Defense may prescribe a temporary adjustment in the current rates of basic allowance for housing for a military housing area or a portion thereof (in this paragraph, “BAH rates”) if the Secretary determines that the actual costs of adequate housing for civilians in that military housing area or portion thereof differs from the current BAH rates by more than 20 percent.
+    - **(B)** Any temporary adjustment in BAH rates under this paragraph shall remain in effect only until the effective date of the first adjustment of BAH rates for the affected military housing area that occurs after the date of the adjustment under this paragraph.
+    - **(C)** This paragraph shall cease to be effective on September 30, 2022 .
 - **(c)**
   - **(1)** The Secretary of Defense may prescribe an overseas basic allowance for housing for a member of a uniformed service who is on duty outside of the United States. The Secretary shall establish the basic allowance for housing under this subsection on the basis of housing costs in the overseas area in which the member is assigned.
   - **(2)** So long as a member of a uniformed service retains uninterrupted eligibility to receive a basic allowance for housing in an overseas area and the actual monthly cost of housing for the member is not reduced, the monthly amount of the allowance in an area outside the United States may not be reduced as a result of changes in housing costs in the area or the promotion of the member. The monthly amount of the allowance may be adjusted to reflect changes in currency rates.
@@ -51,7 +55,7 @@ generated_at: "2026-03-29T19:30:34.105Z"
 - **(d)**
   - **(1)** A member of a uniformed service with dependents who is on permanent duty at a location described in paragraph (2) may be paid a family separation basic allowance for housing under this subsection at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to that location, for members in the same grade at that location without dependents.
   - **(2)** A permanent duty location referred to in paragraph (1) is a location—
-    - **(A)** to which the movement of the member’s dependents is not authorized at the expense of the United States under section 476 of this title , and the member’s dependents do not reside at or near the location; and
+    - **(A)** to which the movement of the member’s dependents is not authorized at the expense of the United States under section 476 1 1 See References in Text note below. of this title, and the member’s dependents do not reside at or near the location; and
     - **(B)** at which quarters of the United States are not available for assignment to the member.
   - **(3)** If a member with dependents is assigned to duty in an area that is different from the area in which the member’s dependents reside, the member is entitled to a basic allowance for housing as provided in subsection (b) or (c), whichever applies to the member, subject to the following:
     - **(A)** If the member’s assignment to duty in that area, or the circumstances of that assignment, require the member’s dependents to reside in a different area, as determined by the Secretary concerned, the amount of the basic allowance for housing for the member shall be based on the area in which the dependents reside or the member’s last duty station, whichever the Secretary concerned determines to be most equitable.
@@ -78,8 +82,8 @@ generated_at: "2026-03-29T19:30:34.105Z"
   - **(1)** A member of a reserve component without dependents who is called or ordered to active duty to attend accession training, in support of a contingency operation, or for a period of more than 30 days, or a retired member without dependents who is ordered to active duty under section 688(a) of title 10 in support of a contingency operation or for a period of more than 30 days, may not be denied a basic allowance for housing if, because of that call or order, the member is unable to continue to occupy a residence—
     - **(A)** which is maintained as the primary residence of the member at the time of the call or order; and
     - **(B)** which is owned by the member or for which the member is responsible for rental payments.
-  - **(2)** The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members in the same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 474 of this title , if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
-  - **(3)** Paragraphs (1) and (2) shall not apply if the member is authorized transportation of household goods under section 476 of this title as part of the call or order to active duty described in such paragraph.
+  - **(2)** The Secretary concerned may provide a basic allowance for housing to a member described in paragraph (1) at a monthly rate equal to the rate of the basic allowance for housing established under subsection (b) or the overseas basic allowance for housing established under subsection (c), whichever applies to the location at which the member is serving, for members in the same grade at that location without dependents. The member may receive both a basic allowance for housing under paragraph (1) and under this paragraph for the same month, but may not receive the portion of the allowance authorized under section 474 1 of this title, if any, for lodging expenses if a basic allowance for housing is provided under this paragraph.
+  - **(3)** Paragraphs (1) and (2) shall not apply if the member is authorized transportation of household goods under section 476 1 of this title as part of the call or order to active duty described in such paragraph.
   - **(4)** The rate of basic allowance for housing to be paid to the following members of a reserve component shall be equal to the rate in effect for similarly situated members of a regular component of the uniformed services:
     - **(A)** A member who is called or ordered to active duty for a period of more than 30 days.
     - **(B)** A member who is called or ordered to active duty for a period of 30 days or less in support of a contingency operation.
@@ -121,3 +125,6 @@ generated_at: "2026-03-29T19:30:34.105Z"
   - **(1)** A member of a uniformed service without dependents who is not entitled to receive a basic allowance for housing under subsection (b), (c), or (d) is entitled to a partial basic allowance for housing at a rate determined by the Secretary of Defense under paragraph (2).
   - **(2)** The rate of the partial basic allowance for housing is the partial rate of the basic allowance for quarters for the member’s pay grade as such partial rate was in effect on December 31, 1997 , under section 1009(c)(2) of this title (as such section was in effect on such date).
 - **(o)** In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned under the conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member’s entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.
+- **(p)** The Secretary concerned shall provide to each member of a uniformed service who receives a basic allowance for housing under this section information on the rights and protections available to such member under the Servicemembers Civil Relief Act ( 50 U.S.C. 3901 et seq.)—
+  - **(1)** when such member first receives such basic allowance for housing; and
+  - **(2)** each time such member receives a permanent change of station.

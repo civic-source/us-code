@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-29T19:28:30.693Z"
+generated_at: "2026-03-29T19:41:21.588Z"
 ---
 
 # § 1677. Definitions; special rules
@@ -40,7 +40,7 @@ For purposes of this subtitle—
         - **(II)** if added market value is taken into account, consider whether the value of the raw agricultural product constitutes a significant percentage of the value of the processed agricultural product.
       - **(iv)** For purposes of this subparagraph, the term “raw agricultural product” means any farm or fishery product.
       - **(v)** This subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authority and the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
-  - **(5)** (5B) Categories of noncountervailable subsidies
+  - **(5)**
     - **(A)** Except as provided in paragraph (5B), a countervailable subsidy is a subsidy described in this paragraph which is specific as described in paragraph (5A).
     - **(B)** A subsidy is described in this paragraph in the case in which an authority—
       - **(i)** provides a financial contribution,
@@ -57,7 +57,8 @@ For purposes of this subtitle—
       - **(ii)** in the case of a loan, if there is a difference between the amount the recipient of the loan pays on the loan and the amount the recipient would pay on a comparable commercial loan that the recipient could actually obtain on the market,
       - **(iii)** in the case of a loan guarantee, if there is a difference, after adjusting for any difference in guarantee fees, between the amount the recipient of the guarantee pays on the guaranteed loan and the amount the recipient would pay for a comparable commercial loan if there were no guarantee by the authority, and
       - **(iv)** in the case where goods or services are provided, if such goods or services are provided for less than adequate remuneration, and in the case where goods are purchased, if such goods are purchased for more than adequate remuneration.
-    - **(F)** A change in ownership of all or part of a foreign enterprise or the productive assets of a foreign enterprise does not by itself require a determination by the administering authority that a past countervailable subsidy received by the enterprise no longer continues to be countervailable, even if the change in ownership is accomplished through an arm’s length transaction. (5A) Specificity
+    - **(F)** A change in ownership of all or part of a foreign enterprise or the productive assets of a foreign enterprise does not by itself require a determination by the administering authority that a past countervailable subsidy received by the enterprise no longer continues to be countervailable, even if the change in ownership is accomplished through an arm’s length transaction.
+  - **(5A)**
     - **(A)** A subsidy is specific if it is an export subsidy described in subparagraph (B) or an import substitution subsidy described in subparagraph (C), or if it is determined to be specific pursuant to subparagraph (D).
     - **(B)** An export subsidy is a subsidy that is, in law or in fact, contingent upon export performance, alone or as 1 of 2 or more conditions.
     - **(C)** An import substitution subsidy is a subsidy that is contingent upon the use of domestic goods over imported goods, alone or as 1 of 2 or more conditions.
@@ -73,6 +74,7 @@ For purposes of this subtitle—
         - **(III)** An enterprise or industry receives a disproportionately large amount of the subsidy.
         - **(IV)** The manner in which the authority providing the subsidy has exercised discretion in the decision to grant the subsidy indicates that an enterprise or industry is favored over others.
       - **(iv)** Where a subsidy is limited to an enterprise or industry located within a designated geographical region within the jurisdiction of the authority providing the subsidy, the subsidy is specific.
+  - **(5B)**
     - **(A)** Notwithstanding the provisions of paragraphs (5) and (5A), in the case of merchandise imported from a Subsidies Agreement country, a subsidy shall be treated as noncountervailable if the administering authority determines in an investigation under part I of this subtitle or a review under part III of this subtitle that the subsidy meets all of the criteria described in subparagraph (B), (C), or (D), as the case may be, or the provisions of subparagraph (E)(i) apply.
     - **(B)**
       - **(i)** Except for a subsidy provided on the manufacture, production, or export of civil aircraft, a subsidy for research activities conducted by a person, or by a higher education or research establishment on a contract basis with a person, shall be treated as noncountervailable, if the subsidy covers not more than 75 percent of the costs of industrial research or not more than 50 percent of the costs of precompetitive development activity, and such subsidy is limited exclusively to—
@@ -250,7 +252,7 @@ For purposes of this subtitle—
         - **(II)** in accordance with terms of the Memorandum of Understanding in effect at the time of importation, or
       - **(ii)** the merchandise has no substantial nonmilitary use.
   - **(21)** The term “United States-Canada Agreement” means the United States-Canada Free-Trade Agreement.
-  - **(22)** The term “NAFTA” means the North American Free Trade Agreement.
+  - **(22)** The term “USMCA” has the meaning given that term in section 4502 of this title .
   - **(23)** The term “entry” includes, in appropriate circumstances as determined by the administering authority, a reconciliation entry created under a reconciliation process, defined in section 1401(s) of this title , that is initiated by an importer. The liability of an importer under an antidumping or countervailing duty proceeding for entries of merchandise subject to the proceeding will attach to the corresponding reconciliation entry or entries. Suspension of liquidation of the reconciliation entry or entries, for the purpose of enforcing this subtitle, is equivalent to the suspension of liquidation of the corresponding individual entries; but the suspension of liquidation of the reconciliation entry or entries for such purpose does not preclude liquidation for any other purpose.
   - **(24)**
     - **(A)**

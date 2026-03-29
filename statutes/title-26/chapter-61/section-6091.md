@@ -3,9 +3,9 @@ title: "Section 6091 - Place for filing returns or other documents"
 usc_title: 26
 usc_section: "6091"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6091"
-generated_at: "2026-03-29T19:30:20.163Z"
+generated_at: "2026-03-29T19:42:47.951Z"
 ---
 
 # § 6091. Place for filing returns or other documents
@@ -28,9 +28,8 @@ generated_at: "2026-03-29T19:30:20.163Z"
       - **(ii)** at a service center serving the internal revenue district referred to in clause (i), as the Secretary may by regulations designate.
     - **(B)** Returns of—
       - **(i)** corporations which have no principal place of business or principal office or agency in any internal revenue district,
-      - **(ii)** corporations which claim the benefits of section 936 (relating to possession tax credit), and 1 1 So in original. The word “and” probably should not appear.
-      - **(iii)** foreign corporations, and
-      - **(iv)** corporations with respect to which an assessment was made under section 6851(a) (relating to termination assessments) with respect to the taxable year,
+      - **(ii)** foreign corporations, and
+      - **(iii)** corporations with respect to which an assessment was made under section 6851(a) (relating to termination assessments) with respect to the taxable year,
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), returns of estate tax required under section 6018 shall be made to the Secretary—
       - **(i)** in the internal revenue district in which was the domicile of the decedent at the time of his death, or

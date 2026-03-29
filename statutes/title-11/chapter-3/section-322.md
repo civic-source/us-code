@@ -3,14 +3,14 @@ title: "Section 322 - Qualification of trustee"
 usc_title: 11
 usc_section: "322"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 322"
-generated_at: "2026-03-29T19:28:02.000Z"
+generated_at: "2026-03-29T19:44:19.511Z"
 ---
 
 # § 322. Qualification of trustee
 
-- **(a)** Except as provided in subsection (b)(1), a person selected under section 701, 702, 703, 1104, 1163, 1202, or 1302 of this title to serve as trustee in a case under this title qualifies if before seven days after such selection, and before beginning official duties, such person has filed with the court a bond in favor of the United States conditioned on the faithful performance of such official duties.
+- **(a)** Except as provided in subsection (b)(1), a person selected under section 701, 702, 703, 1104, 1163, 1183, 1202, or 1302 of this title to serve as trustee in a case under this title qualifies if before seven days after such selection, and before beginning official duties, such person has filed with the court a bond in favor of the United States conditioned on the faithful performance of such official duties.
 - **(b)**
   - **(1)** The United States trustee qualifies wherever such trustee serves as trustee in a case under this title.
   - **(2)** The United States trustee shall determine—

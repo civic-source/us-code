@@ -3,9 +3,9 @@ title: "Section 1531 - Feasibility study loan program"
 usc_title: 30
 usc_section: "1531"
 chapter: 27
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 1531"
-generated_at: "2026-03-29T19:30:05.305Z"
+generated_at: "2026-03-29T19:42:23.471Z"
 ---
 
 # § 1531. Feasibility study loan program
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T19:30:05.305Z"
   - **(2)** the project involved will comply with all applicable laws relating to protection of the environment, and
   - **(3)** the applicant requires such assistance to undertake and complete the project.
 - **(d)** Each loan made pursuant to this section shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 ( 42 U.S.C. 1962(d) –17(a)). 1 1 So in original. Should be “( 42 U.S.C. 1962d–17(a) ).” Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) or thirty years for loans under subsection (c).
-- **(e)** Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title ; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
+- **(e)** Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 2 2 See References in Text note below. of this title; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
 - **(f)** For loans under clause (A) of subsection (b)(1) for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed $5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) or under subsection (c) (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
 - **(g)** As used in this section, the term “person” includes municipalities, cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the districts referred to in subsection (a) and the other entities included within such term under section 1 of title 1 .

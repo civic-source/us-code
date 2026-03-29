@@ -3,9 +3,9 @@ title: "Section 1488 - Removal of remains"
 usc_title: 10
 usc_section: "1488"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1488"
-generated_at: "2026-03-29T19:27:25.538Z"
+generated_at: "2026-03-29T19:43:37.930Z"
 ---
 
 # § 1488. Removal of remains
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:27:25.538Z"
     - **(A)** demonstrates to the satisfaction of the Secretary of the Army that the member of the armed forces concerned has no known next of kin or other person who is interested in maintaining the place of burial; and
     - **(B)** undertakes full responsibility for all expenses of the removal of the remains and the reburial of the remains at another cemetery as authorized by this subsection.
   - **(4)** In this subsection:
-    - **(A)** The term “Army National Military Cemetery” means a cemetery specified in section 4721(b) of this title .
+    - **(A)** The term “Army National Military Cemetery” means a cemetery specified in section 7721(b) of this title .
     - **(B)** The term “covered member of the armed forces” means a member of the armed forces who—
       - **(i)** has been awarded the Medal of Honor; and
       - **(ii)** has no known next of kin.

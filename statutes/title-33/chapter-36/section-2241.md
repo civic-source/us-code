@@ -3,9 +3,9 @@ title: "Section 2241 - Definitions"
 usc_title: 33
 usc_section: "2241"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2241"
-generated_at: "2026-03-29T19:30:28.833Z"
+generated_at: "2026-03-29T19:43:07.691Z"
 ---
 
 # § 2241. Definitions
@@ -15,7 +15,7 @@ For purposes of this subchapter—
   - **(1)** The term “deep-draft harbor” means a harbor which is authorized to be constructed to a depth of more than 45 feet (other than a project which is authorized by section 202 of this title ).
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the term “eligible operations and maintenance” means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
-    - **(B)** As applied to the Saint Lawrence Seaway, the term “eligible operations and maintenance” means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Saint Lawrence Seaway Development Corporation in operation and reasonable state of repair.
+    - **(B)** As applied to the Saint Lawrence Seaway, the term “eligible operations and maintenance” means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Great Lakes St. Lawrence Seaway Development Corporation in operation and reasonable state of repair.
     - **(C)** The term “eligible operations and maintenance” does not include providing any lands, easements, or rights-of-way, or performing relocations required for project operations and maintenance.
   - **(3)** The term “general cargo harbor” means a harbor for which a project is authorized by section 202 of this title and any other harbor which is authorized to be constructed to a depth of more than 20 feet but not more than 45 feet;
   - **(4)** The term “harbor” means any channel or harbor, or element thereof, in the United States, capable of being utilized in the transportation of commercial cargo in domestic or foreign waterborne commerce by commercial vessels. The term does not include—

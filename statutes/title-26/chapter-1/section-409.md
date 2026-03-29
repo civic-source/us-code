@@ -3,9 +3,9 @@ title: "Section 409 - Qualifications for tax credit employee stock ownership pla
 usc_title: 26
 usc_section: "409"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-29T19:30:19.802Z"
+generated_at: "2026-03-29T19:42:47.642Z"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans
@@ -89,7 +89,7 @@ generated_at: "2026-03-29T19:30:19.802Z"
 - **(n)**
   - **(1)** A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
     - **(A)** during the nonallocation period, for the benefit of—
-      - **(i)** any taxpayer who makes an election under section 1042(a) with respect to employer securities,,, 2 2 So in original.
+      - **(i)** any taxpayer who makes an election under section 1042(a) with respect to employer securities,
       - **(ii)** any individual who is related to the taxpayer (within the meaning of section 267(b)), or
     - **(B)** for the benefit of any other person who owns (after application of section 318(a)) more than 25 percent of—
       - **(i)** any class of outstanding stock of the corporation which issued such employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of subsection ( l )(4)) as such corporation, or

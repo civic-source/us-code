@@ -3,12 +3,12 @@ title: "Section 51314 - Limitation on charges and fees for attendance"
 usc_title: 46
 usc_section: "51314"
 chapter: 513
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 51314"
-generated_at: "2026-03-29T19:32:17.364Z"
+generated_at: "2026-03-29T19:44:39.445Z"
 ---
 
 # § 51314. Limitation on charges and fees for attendance
 
 - **(a)** Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the United States Merchant Marine Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994 .
-- **(b)** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994 , or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees. The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection. Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
+- **(b)** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994 , or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees. The Secretary of Transportation shall present at the next meeting of the Board of Visitors, and post on a publicly available website, any change made by the Academy in the amount of a charge or fee authorized under this subsection. Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.

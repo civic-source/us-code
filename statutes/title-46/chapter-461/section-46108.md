@@ -3,12 +3,12 @@ title: "Section 46108 - Authorization of appropriations"
 usc_title: 46
 usc_section: "46108"
 chapter: 461
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 46108"
-generated_at: "2026-03-29T02:15:53.757Z"
+generated_at: "2026-03-29T19:44:39.439Z"
 ---
 
 # § 46108. Authorization of appropriations
 
-There is authorized to be appropriated to the Federal Maritime Commission $32,869,000 for fiscal year 2022, $38,260,000 for fiscal year 2023, $43,720,000 for fiscal year 2024, and $49,200,000 for fiscal year 2025 for the activities of the Commission authorized under this chapter and subtitle IV.
+There is authorized to be appropriated to the Federal Maritime Commission $29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021 for the activities of the Commission authorized under this chapter and subtitle IV.
 

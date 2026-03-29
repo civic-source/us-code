@@ -3,9 +3,9 @@ title: "Section 6038A - Information with respect to certain foreign-owned corpor
 usc_title: 26
 usc_section: "6038A"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6038A"
-generated_at: "2026-03-29T19:30:20.149Z"
+generated_at: "2026-03-29T19:42:47.938Z"
 ---
 
 # § 6038A. Information with respect to certain foreign-owned corporations
@@ -13,12 +13,16 @@ generated_at: "2026-03-29T19:30:20.149Z"
 - **(a)** If, at any time during a taxable year, a corporation (hereinafter in this section referred to as the “reporting corporation”)—
   - **(1)** is a domestic corporation, and
   - **(2)** is 25-percent foreign-owned,
-- **(b)** For purposes of subsection (a), the information described in this subsection is such information as the Secretary may prescribe by regulations relating to—
-  - **(1)** the name, principal place of business, nature of business, and country or countries in which organized or resident, of each person which—
-    - **(A)** is a related party to the reporting corporation, and
-    - **(B)** had any transaction with the reporting corporation during its taxable year,
-  - **(2)** the manner in which the reporting corporation is related to each person referred to in paragraph (1), and
-  - **(3)** transactions between the reporting corporation and each foreign person which is a related party to the reporting corporation.
+- **(b)**
+  - **(1)** For purposes of subsection (a), the information described in this subsection is such information as the Secretary prescribes by regulations relating to—
+    - **(A)** the name, principal place of business, nature of business, and country or countries in which organized or resident, of each person which—
+      - **(i)** is a related party to the reporting corporation, and
+      - **(ii)** had any transaction with the reporting corporation during its taxable year,
+    - **(B)** the manner in which the reporting corporation is related to each person referred to in subparagraph (A), and
+    - **(C)** transactions between the reporting corporation and each foreign person which is a related party to the reporting corporation.
+  - **(2)** For purposes of subsection (a) and section 6038C, if the reporting corporation or the foreign corporation to whom section 6038C applies is an applicable taxpayer, the information described in this subsection shall include—
+    - **(A)** such information as the Secretary determines necessary to determine the base erosion minimum tax amount, base erosion payments, and base erosion tax benefits of the taxpayer for purposes of section 59A for the taxable year, and
+    - **(B)** such other information as the Secretary determines necessary to carry out such section.
 - **(c)** For purposes of this section—
   - **(1)** A corporation is 25-percent foreign-owned if at least 25 percent of—
     - **(A)** the total voting power of all classes of stock of such corporation entitled to vote, or
@@ -36,7 +40,7 @@ generated_at: "2026-03-29T19:30:20.149Z"
   - **(1)** If a reporting corporation—
     - **(A)** fails to furnish (within the time prescribed by regulations) any information described in subsection (b), or
     - **(B)** fails to maintain (or cause another to maintain) records as required by subsection (a),
-  - **(2)** If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the reporting corporation, such corporation shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues after the expiration of such 90-day period.
+  - **(2)** If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the reporting corporation, such corporation shall pay a penalty (in addition to the amount required under paragraph (1)) of $25,000 for each 30-day period (or fraction thereof) during which such failure continues after the expiration of such 90-day period.
   - **(3)** For purposes of this subsection, the time prescribed by regulations to furnish information or maintain records (and the beginning of the 90-day period after notice by the Secretary) shall be treated as not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish the information or maintain the records.
 - **(e)**
   - **(1)** The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party’s limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.

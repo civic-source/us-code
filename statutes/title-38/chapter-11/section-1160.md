@@ -3,9 +3,9 @@ title: "Section 1160 - Special consideration for certain cases of loss of paired
 usc_title: 38
 usc_section: "1160"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1160"
-generated_at: "2026-03-29T19:30:40.468Z"
+generated_at: "2026-03-29T19:43:26.951Z"
 ---
 
 # § 1160. Special consideration for certain cases of loss of paired organs or extremities

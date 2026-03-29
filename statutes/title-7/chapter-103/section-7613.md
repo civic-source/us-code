@@ -3,9 +3,9 @@ title: "Section 7613 - Relevance and merit of agricultural research, extension, 
 usc_title: 7
 usc_section: "7613"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7613"
-generated_at: "2026-03-29T19:27:31.995Z"
+generated_at: "2026-03-29T19:43:58.418Z"
 ---
 
 # § 7613. Relevance and merit of agricultural research, extension, and education funded by the Department

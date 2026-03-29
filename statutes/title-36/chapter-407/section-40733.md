@@ -3,9 +3,9 @@ title: "Section 40733 - Applicability of other law"
 usc_title: 36
 usc_section: "40733"
 chapter: 407
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 40733"
-generated_at: "2026-03-29T19:30:42.068Z"
+generated_at: "2026-03-29T19:43:23.293Z"
 ---
 
 # § 40733. Applicability of other law

@@ -5,7 +5,7 @@ usc_section: "10641"
 chapter: 101
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 10641"
-generated_at: "2026-03-29T18:45:50.319Z"
+generated_at: "2026-03-29T19:42:53.094Z"
 ---
 
 # § 10641. Grant authority

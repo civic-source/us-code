@@ -1,16 +1,15 @@
 ---
-title: "Section 915 - Art. 115. Malingering"
+title: "Section 915 - Art. 115. Communicating threats"
 usc_title: 10
 usc_section: "915"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 915"
-generated_at: "2026-03-29T19:27:25.477Z"
+generated_at: "2026-03-29T19:43:37.856Z"
 ---
 
-# § 915. Art. 115. Malingering
+# § 915. Art. 115. Communicating threats
 
-Any person subject to this chapter who for the purpose of avoiding work, duty, or service—
-
-  - **(1)** feigns illness, physical disablement, mental lapse or derangement; or
-  - **(2)** intentionally inflicts self-injury;
+- **(a)** Any person subject to this chapter who wrongfully communicates a threat to injure the person, property, or reputation of another shall be punished as a court-martial may direct.
+- **(b)** Any person subject to this chapter who wrongfully communicates a threat to injure the person or property of another by use of (1) an explosive, (2) a weapon of mass destruction, (3) a biological or chemical agent, substance, or weapon, or (4) a hazardous material, shall be punished as a court-martial may direct.
+- **(c)** Any person subject to this chapter who maliciously communicates a false threat concerning injury to the person or property of another by use of (1) an explosive, (2) a weapon of mass destruction, (3) a biological or chemical agent, substance, or weapon, or (4) a hazardous material, shall be punished as a court-martial may direct. As used in the preceding sentence, the term “false threat” means a threat that, at the time the threat is communicated, is known to be false by the person communicating the threat.

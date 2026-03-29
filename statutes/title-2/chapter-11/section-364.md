@@ -3,9 +3,9 @@ title: "Section 364 - Provision relating to certain other pay adjustments"
 usc_title: 2
 usc_section: "364"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 364"
-generated_at: "2026-03-29T19:27:07.518Z"
+generated_at: "2026-03-29T19:42:59.609Z"
 ---
 
 # § 364. Provision relating to certain other pay adjustments

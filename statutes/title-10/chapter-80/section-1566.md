@@ -3,26 +3,26 @@ title: "Section 1566 - Voting assistance: compliance assessments; assistance"
 usc_title: 10
 usc_section: "1566"
 chapter: 80
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1566"
-generated_at: "2026-03-29T19:27:25.545Z"
+generated_at: "2026-03-29T19:43:37.940Z"
 ---
 
 # § 1566. Voting assistance: compliance assessments; assistance
 
-- **(a)** The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
+- **(a)** The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, Marine Corps, and Space Force ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
 - **(b)** In this section, the term “voting assistance programs” means—
   - **(1)** the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff et seq.); 1 1 See References in Text note below. and
   - **(2)** any similar program.
 - **(c)**
-  - **(1)** The Inspector General of each of the Army, Navy, Air Force, and Marine Corps shall conduct—
+  - **(1)** The Inspector General of each of the Army, Navy, Air Force, Marine Corps, and Space Force shall conduct—
     - **(A)** an annual review of the effectiveness of voting assistance programs; and
     - **(B)** an annual review of the compliance with voting assistance programs of that armed force.
   - **(2)** Upon the completion of each annual review under paragraph (1), each Inspector General specified in that paragraph shall submit to the Inspector General of the Department of Defense a report on the results of each such review. Such report shall be submitted in time each year to be reflected in the report of the Inspector General of the Department of Defense under paragraph (3).
   - **(3)** Not later than March 31 each year, the Inspector General of the Department of Defense shall submit to Congress a report on—
     - **(A)** the effectiveness during the preceding calendar year of voting assistance programs; and
-    - **(B)** the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, and Marine Corps.
-- **[(d)** Repealed. Pub. L. 109–364, div. A, title V , § 596(a), Oct. 17, 2006 , 120 Stat. 2235 .]
+    - **(B)** the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
+- **[(d)** Repealed. Pub. L. 109–364, div. A, title V, § 596(a) , Oct. 17, 2006 , 120 Stat. 2235 .]
 - **(e)** The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff et seq.) 1 and with Department of Defense regulations regarding the Federal Voting Assistance Program.
 - **(f)**
   - **(1)** Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.

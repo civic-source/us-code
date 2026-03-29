@@ -3,9 +3,9 @@ title: "Section 1078 - Federal payments to reduce student interest costs"
 usc_title: 20
 usc_section: "1078"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1078"
-generated_at: "2026-03-29T19:28:42.988Z"
+generated_at: "2026-03-29T19:41:03.205Z"
 ---
 
 # § 1078. Federal payments to reduce student interest costs
@@ -99,7 +99,8 @@ generated_at: "2026-03-29T19:28:42.988Z"
       - **(iii)** during which the borrower—
         - **(I)** is serving on active duty during a war or other military operation or national emergency; or
         - **(II)** is performing qualifying National Guard duty during a war or other military operation or national emergency,
-      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship;
+      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship; or
+      - **(v)** during which the borrower is receiving treatment for cancer and the 6 months after such period;
     - **(N)** provides that funds borrowed by a student—
       - **(i)** are disbursed to the institution by check or other means that is payable to, and requires the endorsement or other certification by, such student;
       - **(ii)** in the case of a student who is studying outside the United States in a program of study abroad that is approved for credit by the home institution at which such student is enrolled, and only after verification of the student’s enrollment by the lender or guaranty agency, are, at the request of the student, disbursed directly to the student by the means described in clause (i), unless such student requests that the check be endorsed, or the funds transfer be authorized, pursuant to an authorized power-of-attorney; or
@@ -382,6 +383,6 @@ generated_at: "2026-03-29T19:28:42.988Z"
   - **(3)** During fiscal years 1999 and 2000, the Secretary may permit, on a pilot basis, a limited number of guaranty agencies to offer blanket certificates of guaranty under this subsection. Beginning in fiscal year 2001, any guaranty agency that has an insurance program agreement with the Secretary may offer blanket certificates of guaranty under this subsection.
   - **(4)** The Secretary shall, at the conclusion of the pilot program under paragraph (3), provide a report to the authorizing committees on the impact of the blanket certificates of guaranty on program efficiency and integrity.
 - **(o)**
-  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest and any special allowance on a loan to a member of the Armed Forces that is made, insured, or guaranteed under this part, the Secretary shall pay the interest and special allowance on such loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest or any special allowance on such a loan out of any funds other than funds that have been so transferred.
+  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest and any special allowance on a loan to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, that is made, insured, or guaranteed under this part, the Secretary shall pay the interest and special allowance on such loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest or any special allowance on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the lender shall grant the borrower forbearance in accordance with the guaranty agreement under subsection (c)(3)(A)(i)(IV).
   - **(3)** For the purposes of this subsection, the term “special allowance”, 6 6 So in original. The comma probably should not appear. means a special allowance that is payable with respect to a loan under section 1087–1 of this title .

@@ -3,9 +3,9 @@ title: "Section 626 - Recordkeeping, investigation, and enforcement"
 usc_title: 29
 usc_section: "626"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 626"
-generated_at: "2026-03-29T19:30:07.523Z"
+generated_at: "2026-03-29T19:42:21.442Z"
 ---
 
 # § 626. Recordkeeping, investigation, and enforcement

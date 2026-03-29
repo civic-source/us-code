@@ -3,14 +3,19 @@ title: "Section 2021 - Homeless veterans reintegration programs"
 usc_title: 38
 usc_section: "2021"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 2021"
-generated_at: "2026-03-29T19:30:40.495Z"
+generated_at: "2026-03-29T19:43:26.989Z"
 ---
 
 # § 2021. Homeless veterans reintegration programs
 
-- **(a)** Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
+- **(a)** Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration into the labor force of—
+  - **(1)** homeless veterans (including veterans who were homeless but found housing during the 60-day period preceding the date on which the veteran begins to participate in a program under this section);
+  - **(2)** veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance is provided pursuant to section 1437f( o )(19) of title 42 or the Tribal HUD–VA Supportive Housing (Tribal HUD–VASH) program;
+  - **(3)** Indians who are veterans and receiving assistance under the Native American Housing Assistance and Self Determination Act of 1996 ( 25 U.S.C. 4101 et seq.);
+  - **(4)** veterans described in section 2023(d) of this title or any other veterans who are transitioning from being incarcerated; and
+  - **(5)** veterans participating in the Department of Veterans Affairs rapid rehousing and prevention program authorized in section 2044 of this title .
 - **(b)**
   - **(1)** The Secretary of Labor shall collect such information as that Secretary considers appropriate to monitor and evaluate the distribution and expenditure of funds appropriated to carry out this section. The information shall include data with respect to the results or outcomes of the services provided to each homeless veteran under this section.
   - **(2)** Information under paragraph (1) shall be furnished in such form and manner as the Secretary of Labor may specify.
@@ -23,5 +28,5 @@ generated_at: "2026-03-29T19:30:40.495Z"
     - **(C)** $50,000,000 for fiscal year 2004.
     - **(D)** $50,000,000 for fiscal year 2005.
     - **(E)** $50,000,000 for fiscal year 2006.
-    - **(F)** $50,000,000 for each of fiscal years 2007 through 2017.
+    - **(F)** $50,000,000 for each of fiscal years 2007 through 2022.
   - **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.

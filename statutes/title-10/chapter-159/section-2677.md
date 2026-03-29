@@ -1,12 +1,12 @@
 ---
-title: "Section 2677 - Repealed. Pub. L. 110–181, div. B, title XXVIII , § 2822(b)(1), Jan. 28, 2008 , 122 Stat. 544 ]"
+title: "Section 2677 - Repealed. Pub. L. 110–181, div. B, title XXVIII, § 2822(b)(1) , Jan. 28, 2008 , 122 Stat. 544 ]"
 usc_title: 10
 usc_section: "2677"
 chapter: 159
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2677"
-generated_at: "2026-03-29T19:27:25.632Z"
+generated_at: "2026-03-29T19:43:38.000Z"
 ---
 
-# [§ 2677. Repealed. Pub. L. 110–181, div. B, title XXVIII , § 2822(b)(1), Jan. 28, 2008 , 122 Stat. 544 ]
+# [§ 2677. Repealed. Pub. L. 110–181, div. B, title XXVIII, § 2822(b)(1) , Jan. 28, 2008 , 122 Stat. 544 ]
 

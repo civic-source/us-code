@@ -3,9 +3,9 @@ title: "Section 7511 - Definitions; application"
 usc_title: 5
 usc_section: "7511"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 7511"
-generated_at: "2026-03-29T19:27:05.333Z"
+generated_at: "2026-03-29T19:43:20.404Z"
 ---
 
 # § 7511. Definitions; application
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T19:27:05.333Z"
     - **(C)** the President or the head of an agency for a position excepted from the competitive service by statute;
   - **(3)** whose appointment is made by the President;
   - **(4)** who is receiving an annuity from the Civil Service Retirement and Disability Fund, or the Foreign Service Retirement and Disability Fund, based on the service of such employee;
-  - **(5)** who is described in section 8337(h)(1), relating to technicians in the National Guard;
+  - **[(5)** Repealed. Pub. L. 114–328, div. A, title V, § 512(c) , Dec. 23, 2016 , 130 Stat. 2112 .]
   - **(6)** who is a member of the Foreign Service, as described in section 103 of the Foreign Service Act of 1980;
   - **(7)** whose position is within the Central Intelligence Agency or the Government Accountability Office;
   - **(8)** whose position is within the United States Postal Service, the Postal Regulatory Commission, the Panama Canal Commission, the Tennessee Valley Authority, the Federal Bureau of Investigation, an intelligence component of the Department of Defense (as defined in section 1614 of title 10 ), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10, unless subsection (a)(1)(B) of this section or section 1005(a) of title 39 is the basis for this subchapter’s applicability;

@@ -3,9 +3,9 @@ title: "Section 4318 - Commercial risk assessment targeting and trade alerts"
 usc_title: 19
 usc_section: "4318"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 4318"
-generated_at: "2026-03-29T19:28:30.805Z"
+generated_at: "2026-03-29T19:41:21.698Z"
 ---
 
 # § 4318. Commercial risk assessment targeting and trade alerts

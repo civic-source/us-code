@@ -3,9 +3,9 @@ title: "Section 30109 - Enforcement"
 usc_title: 52
 usc_section: "30109"
 chapter: 301
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "52 U.S.C. § 30109"
-generated_at: "2026-03-29T19:32:34.079Z"
+generated_at: "2026-03-29T19:45:02.604Z"
 ---
 
 # § 30109. Enforcement
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:32:34.079Z"
       - **(iv)** In this subparagraph, the term “qualified disclosure requirement” means any requirement of—
         - **(I)** subsections 2 2 So in original. Probably should be “subsection”. (a), (c), (e), (f), (g), or (i) of section 30104 of this title ; or
         - **(II)** section 30105 of this title .
-      - **(v)** This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000 , and that end on or before December 31, 2018 .
+      - **(v)** This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000 , and that end on or before December 31, 2023 .
   - **(5)**
     - **(A)** If the Commission believes that a violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may include a requirement that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation.
     - **(B)** If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 30122 of this title , which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T19:32:34.079Z"
     - **(B)** Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaint by the Commission, within 60 days after the date of the dismissal.
     - **(C)** In any proceeding under this paragraph the court may declare that the dismissal of the complaint or the failure to act is contrary to law, and may direct the Commission to conform with such declaration within 30 days, failing which the complainant may bring, in the name of such complainant, a civil action to remedy the violation involved in the original complaint.
   - **(9)** Any judgment of a district court under this subsection may be appealed to the court of appeals, and the judgment of the court of appeals affirming or setting aside, in whole or in part, any such order of the district court shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
-  - **(10)** Repealed. Pub. L. 98–620, title IV , § 402(1)(A), Nov. 8, 1984 , 98 Stat. 3357 .
+  - **(10)** Repealed. Pub. L. 98–620, title IV, § 402(1)(A) , Nov. 8, 1984 , 98 Stat. 3357 .
   - **(11)** If the Commission determines after an investigation that any person has violated an order of the court entered in a proceeding brought under paragraph (6), it may petition the court for an order to hold such person in civil contempt, but if it believes the violation to be knowing and willful it may petition the court for an order to hold such person in criminal contempt.
   - **(12)**
     - **(A)** Any notification or investigation made under this section shall not be made public by the Commission or by any person without the written consent of the person receiving such notification or the person with respect to whom such investigation is made.

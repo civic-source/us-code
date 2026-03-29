@@ -5,7 +5,7 @@ usc_section: "702o"
 chapter: 15
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 702o"
-generated_at: "2026-03-29T18:45:43.372Z"
+generated_at: "2026-03-29T19:43:07.592Z"
 ---
 
 # § 702o. Mississippi River and Tributaries Project

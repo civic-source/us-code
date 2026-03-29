@@ -3,17 +3,17 @@ title: "Section 46103 - Service of notice, process, and actions"
 usc_title: 49
 usc_section: "46103"
 chapter: 461
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 46103"
-generated_at: "2026-03-29T19:32:28.893Z"
+generated_at: "2026-03-29T19:44:58.019Z"
 ---
 
 # § 46103. Service of notice, process, and actions
 
 - **(a)**
-  - **(1)** Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may be made.
+  - **(1)** Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) may be made.
   - **(2)** The designation—
-    - **(A)** shall be in writing and filed with the Secretary, Under Secretary, or Administrator; and
+    - **(A)** shall be in writing and filed with the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration; and
     - **(B)** may be changed in the same way as originally made.
 - **(b)**
   - **(1)** Service may be made—
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:32:28.893Z"
     - **(B)** on a designated agent; or
     - **(C)** by certified or registered mail to the person to be served or the designated agent of the person.
   - **(2)** The date of service made by certified or registered mail is the date of mailing.
-- **(c)** Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Under Secretary, or Administrator.
+- **(c)** Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.

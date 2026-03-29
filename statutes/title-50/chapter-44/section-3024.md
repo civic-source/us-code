@@ -3,9 +3,9 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-29T19:32:24.218Z"
+generated_at: "2026-03-29T19:44:52.825Z"
 ---
 
 # § 3024. Responsibilities and authorities of the Director of National Intelligence
@@ -106,7 +106,7 @@ generated_at: "2026-03-29T19:32:24.218Z"
       - **(i)** insofar as the President so directs;
       - **(ii)** with respect to clause (ii) of subparagraph (A), insofar as the Secretary of Defense exercises tasking authority under plans or arrangements agreed upon by the Secretary of Defense and the Director of National Intelligence; or
       - **(iii)** to the direct dissemination of information to State government and local government officials and private sector entities pursuant to sections 121 and 482 of title 6.
-  - **(2)** The Director of National Intelligence shall oversee the National Counterterrorism Center and may establish such other national intelligence centers as the Director determines necessary.
+  - **(2)** The Director of National Intelligence shall oversee the National Counterterrorism Center, the National Counterproliferation Center, and the National Counterintelligence and Security Center and may establish such other national intelligence centers as the Director determines necessary.
   - **(3)**
     - **(A)** The Director of National Intelligence shall prescribe, in consultation with the heads of other agencies or elements of the intelligence community, and the heads of their respective departments, personnel policies and programs applicable to the intelligence community that—
       - **(i)** encourage and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community;
@@ -183,6 +183,9 @@ generated_at: "2026-03-29T19:32:24.218Z"
       - **(ii)** The provision of rewards for service in positions undertaking analysis and planning of operations involving two or more elements of the intelligence community.
       - **(iii)** The establishment of requirements for education, training, service, and evaluation for service involving more than one element of the intelligence community.
     - **(C)** It is the sense of Congress that the mechanisms prescribed under this subsection should, to the extent practical, seek to duplicate for civilian personnel within the intelligence community the joint officer management policies established by chapter 38 of title 10 and the other amendments made by title IV of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 ( Public Law 99–433 ).
+    - **(D)** The mechanisms prescribed under subparagraph (A) and any other policies of the Director—
+      - **(i)** may not require an employee of an office of inspector general for an element of the intelligence community, including the Office of the Inspector General of the Intelligence Community, to rotate to a position in an office or organization of such an element over which such office of inspector general exercises jurisdiction; and
+      - **(ii)** shall be implemented in a manner that exempts employees of an office of inspector general from a rotation that may impact the independence of such office.
   - **(4)**
     - **(A)** Except as provided in subparagraph (B) and subparagraph (D), this subsection shall not apply with respect to personnel of the elements of the intelligence community who are members of the uniformed services.
     - **(B)** Mechanisms that establish requirements for education and training pursuant to paragraph (3)(B)(iii) may apply with respect to members of the uniformed services who are assigned to an element of the intelligence community funded through the National Intelligence Program, but such mechanisms shall not be inconsistent with personnel policies and education and training requirements otherwise applicable to members of the uniformed services.
@@ -226,7 +229,7 @@ generated_at: "2026-03-29T19:32:24.218Z"
 - **(p)** Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever such elements are performing Government-wide functions, the needs of other Federal departments and agencies.
 - **(q)**
   - **(1)** For each intelligence program within the National Intelligence Program for the acquisition of a major system, the Director of National Intelligence shall—
-    - **(A)** require the development and implementation of a program management plan that includes cost, schedule, and performance goals and program milestone criteria, except that with respect to Department of Defense programs the Director shall consult with the Secretary of Defense;
+    - **(A)** require the development and implementation of a program management plan that includes cost, schedule, security risks, and performance goals and program milestone criteria, except that with respect to Department of Defense programs the Director shall consult with the Secretary of Defense;
     - **(B)** serve as exclusive milestone decision authority, except that with respect to Department of Defense programs the Director shall serve as milestone decision authority jointly with the Secretary of Defense or the designee of the Secretary; and
     - **(C)** periodically—
       - **(i)** review and assess the progress made toward the achievement of the goals and milestones established in such plan; and
@@ -268,3 +271,15 @@ generated_at: "2026-03-29T19:32:24.218Z"
     - **(B)** each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
   - **(2)** conduct periodic assessments of each security plan required under paragraph (1)(A) to ensure such security plan complies with the requirements of such paragraph; and
   - **(3)** ensure that the insider threat detection capabilities and insider threat policies of the intelligence community apply to facilities of contractors with access to a classified network.
+- **(y)**
+  - **(1)** The Director of National Intelligence may engage in fundraising in an official capacity for the benefit of nonprofit organizations that—
+    - **(A)** provide support to surviving family members of a deceased employee of an element of the intelligence community; or
+    - **(B)** otherwise provide support for the welfare, education, or recreation of employees of an element of the intelligence community, former employees of an element of the intelligence community, or family members of such employees.
+  - **(2)** In this subsection, the term “fundraising” means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
+  - **(3)** Not later than 7 days after the date the Director engages in fundraising authorized by this subsection or at the time the decision is made to participate in such fundraising, the Director shall notify the congressional intelligence committees of such fundraising.
+  - **(4)** The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this subsection. Such regulations shall ensure that such authority is exercised in a manner that is consistent with all relevant ethical constraints and principles, including the avoidance of any prohibited conflict of interest or appearance of impropriety.
+- **(z)**
+  - **(1)** Not later than 20 days after the completion of a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials, the Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representative copies of such analytic materials, including any supplements or amendments to such analysis made by the Director.
+  - **(2)** Not later than 60 days after the completion of consideration by the United States Government of any investment described in paragraph (1), the Director shall determine whether such investment will have an operational impact on the intelligence community, and, if so, shall submit a report on such impact to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives. Each such report shall—
+    - **(A)** describe the operational impact of the investment on the intelligence community; and
+    - **(B)** describe any actions that have been or will be taken to mitigate such impact.

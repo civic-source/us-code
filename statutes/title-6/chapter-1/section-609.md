@@ -3,9 +3,9 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-29T19:27:39.866Z"
+generated_at: "2026-03-29T19:43:43.811Z"
 ---
 
 # § 609. Use of funds
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:27:39.866Z"
 - **(a)** The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, including by working in conjunction with a National Laboratory (as defined in section 15801(3) of title 42 ), through—
   - **(1)** developing and enhancing homeland security, emergency management, or other relevant plans, assessments, or mutual aid agreements;
   - **(2)** designing, conducting, and evaluating training and exercises, including training and exercises conducted under section 321a of this title and section 748 of this title ;
-  - **(3)** protecting a system or asset included on the prioritized critical infrastructure list established under section 124 l (a)(2) of this title;
+  - **(3)** protecting a system or asset included on the prioritized critical infrastructure list established under section 664(a)(2) of this title ;
   - **(4)** purchasing, upgrading, storing, or maintaining equipment, including computer hardware and software;
   - **(5)** ensuring operability and achieving interoperability of emergency communications;
   - **(6)** responding to an increase in the threat level under the Homeland Security Advisory System, or to the needs resulting from a National Special Security Event;
@@ -23,8 +23,9 @@ generated_at: "2026-03-29T19:27:39.866Z"
   - **(10)** supporting public safety answering points;
   - **(11)** paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
   - **(12)** paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
-  - **(13)** any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
-  - **(14)** any other appropriate activity, as determined by the Administrator.
+  - **(13)** any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
+  - **(14)** migrating any online service (as defined in section 3 of the DOTGOV Online Trust in Government Act of 2020) 1 1 See References in Text note below. to the .gov internet domain; and
+  - **(15)** any other appropriate activity, as determined by the Administrator.
 - **(b)**
   - **(1)** Funds provided under section 604 or 605 of this title may not be used—
     - **(A)** to supplant State or local funds, except that nothing in this paragraph shall prohibit the use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
@@ -36,7 +37,7 @@ generated_at: "2026-03-29T19:27:39.866Z"
     - **(A)** With respect to the use of amounts awarded to a grant recipient under section 604 or 605 of this title for personnel costs in accordance with paragraph (2) of this subsection, the Administrator may not—
       - **(i)** impose a limit on the amount of the award that may be used to pay for personnel, or personnel-related, costs that is higher or lower than the percent limit imposed in paragraph (2)(A); or
       - **(ii)** impose any additional limitation on the portion of the funds of a recipient that may be used for a specific type, purpose, or category of personnel, or personnel-related, costs.
-    - **(B)** If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
+    - **(B)** If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), 1 the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
   - **(4)**
     - **(A)** A grant awarded under section 604 or 605 of this title may not be used to acquire land or to construct buildings or other physical facilities.
     - **(B)**

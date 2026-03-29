@@ -3,9 +3,9 @@ title: "Section 332 - General bonus authority for officers"
 usc_title: 37
 usc_section: "332"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 332"
-generated_at: "2026-03-29T19:30:34.099Z"
+generated_at: "2026-03-29T19:43:17.246Z"
 ---
 
 # § 332. General bonus authority for officers
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:30:34.099Z"
 - **(c)**
   - **(1)** The Secretary concerned shall determine the amount of a bonus to be paid under this section, except that—
     - **(A)** a bonus paid under paragraph (1) of subsection (a) may not exceed $60,000 for a minimum three-year period of obligated service agreed to under subsection (d);
-    - **(B)** a bonus paid under paragraph (2) of subsection (a) may not exceed $12,000 for a minimum three-year period of obligated service agreed to under subsection (d);
+    - **(B)** a bonus paid under paragraph (2) of subsection (a) may not exceed $20,000 for a minimum three-year period of obligated service agreed to under subsection (d);
     - **(C)** a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component agreed to under subsection (d);
     - **(D)** a bonus paid under paragraph (3) of subsection (a) may not exceed $12,000 for each year of obligated service in a reserve component agreed to under subsection (d); and
     - **(E)** a bonus paid under paragraph (4) or (5) of subsection (a) may not exceed $10,000.
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T19:30:34.099Z"
   - **(4)** the type or conditions of the service.
 - **(e)** The bonus paid to a person or officer under this section is in addition to any other pay and allowance to which the person or officer is entitled.
 - **(f)** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title .
-- **(g)** No agreement may be entered into under this section after December 31, 2016 .
+- **(g)** No agreement may be entered into under this section after December 31, 2022 .

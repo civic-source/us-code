@@ -1,12 +1,12 @@
 ---
-title: "Section 864c - Repealed. June 3, 1948, ch. 390 , § 22(a), formerly § 21(a), 62 Stat. 300 ; renumbered § 22(a), Sept. 14, 1961 , Pub. L. 87–233 , § 1(f), 75 Stat. 506"
+title: "Section 864c - Repealed. June 3, 1948, ch. 390, § 22(a) , formerly § 21(a), 62 Stat. 300 ; renumbered § 22(a), Sept. 14, 1961 , Pub. L. 87–233, § 1(f) , 75 Stat. 506"
 usc_title: 33
 usc_section: "864c"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 864c"
-generated_at: "2026-03-29T19:30:28.746Z"
+generated_at: "2026-03-29T19:43:07.598Z"
 ---
 
-# §§ 864b, 864c. Repealed. June 3, 1948, ch. 390 , § 22(a), formerly § 21(a), 62 Stat. 300 ; renumbered § 22(a), Sept. 14, 1961 , Pub. L. 87–233 , § 1(f), 75 Stat. 506
+# §§ 864b, 864c. Repealed. June 3, 1948, ch. 390, § 22(a) , formerly § 21(a), 62 Stat. 300 ; renumbered § 22(a), Sept. 14, 1961 , Pub. L. 87–233, § 1(f) , 75 Stat. 506
 

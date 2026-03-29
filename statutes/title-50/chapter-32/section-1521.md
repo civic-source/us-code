@@ -3,9 +3,9 @@ title: "Section 1521 - Destruction of existing stockpile of lethal chemical agen
 usc_title: 50
 usc_section: "1521"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 1521"
-generated_at: "2026-03-29T19:32:24.103Z"
+generated_at: "2026-03-29T19:44:52.755Z"
 ---
 
 # § 1521. Destruction of existing stockpile of lethal chemical agents and munitions
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:32:24.103Z"
       - **(ii)** The date that is 180 days after the date of the completion of the destruction of lethal chemical agents and munitions at the installation or facility.
     - **(C)** Not later than December 15 of each year, the Administrator shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
 - **(f)**
-  - **(1)** The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
+  - **(1)** The Under Secretary of Defense for Acquisition and Sustainment and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
   - **(2)** The plan shall include, at a minimum, the following considerations:
     - **(A)** Realistic budgeting for stockpile destruction and related support programs.
     - **(B)** Contingency planning for foreseeable or anticipated problems.
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T19:32:24.103Z"
   - **(3)** The Secretary of Defense shall each year submit to the Committee on the Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the strategic plan as most recently prepared and updated under paragraph (1). Such submission shall be made each year at the time of the submission to the Congress that year of the President’s budget for the next fiscal year.
 - **(g)**
   - **(1)** In carrying out this section, the Secretary of Defense shall provide for a management organization within the Department of the Army. The Secretary of the Army shall be responsible for management of the destruction of agents and munitions at all sites except Blue Grass Army Depot, Kentucky, and Pueblo Chemical Depot, Colorado 1 1 So in original. Probably should be followed by a period.
-  - **(2)** The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition, Technology, and Logistics 1
+  - **(2)** The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition and Sustainment.
   - **(3)** The Secretary of Defense shall designate a general officer or civilian equivalent as the director of the management organization established under paragraph (1). Such officer shall have—
     - **(A)** experience in the acquisition, storage, and destruction of chemical agents and munitions; and
     - **(B)** outstanding qualifications regarding safety in handling chemical agents and munitions.
@@ -76,17 +76,8 @@ generated_at: "2026-03-29T19:32:24.103Z"
     - **(E)** A description of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolystates.
   - **(3)** The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 - **(j)**
-  - **(1)** Not later than March 1 and September 1 each year until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
-  - **(2)** Each report under paragraph (1) shall include the following:
-    - **(A)** The anticipated schedule at the time of such report for the completion of destruction of chemical agents, munitions, and materiel at each chemical weapons demilitarization facility in the United States.
-    - **(B)** A description of the options and alternatives for accelerating the completion of chemical weapons destruction at each such facility, particularly in time to meet the stockpile elimination deadline.
-    - **(C)** A description of the funding required to achieve each of the options for destruction described under subparagraph (B), and a detailed life-cycle cost estimate for each of the affected facilities included in each such funding profile.
-    - **(D)** A description of all actions being taken by the United States to accelerate the destruction of its entire stockpile of chemical weapons, agents, and materiel in order to meet the current stockpile elimination deadline under the Chemical Weapons Convention of April 29, 2012 , or as soon thereafter as possible.
-    - **(E)** A description and justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolysates. Such description and justification shall outline—
-      - **(i)** the need for the use of supplemental destruction technologies and technologies developed for the treatment and disposal of energetic or agent hydrolystates;
-      - **(ii)** site-by-site descriptions of the problematic aspects of the stockpile requiring the use of supplemental technologies;
-      - **(iii)** the type of supplemental destruction technologies used at each site; and
-      - **(iv)** any planned future use of other supplemental destruction technologies for each site.
+  - **(1)** Not later than 90 days after August 13, 2018 , and every 90 days thereafter until the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall brief the members and committees of Congress referred to in paragraph (3) on the progress made by the United States toward fulfilling its chemical weapons destruction obligations under the Chemical Weapons Convention.
+  - **(2)** Each briefing under paragraph (1) shall include a description of contractor costs and performance relative to schedule, the progress to date toward the complete destruction of the stockpile, and any other information the Secretary determines to be relevant.
   - **(3)** The members and committees of Congress referred to in this paragraph are—
     - **(A)** the majority leader and the minority leader of the Senate and the Committee on Armed Services and the Committee on Appropriations of the Senate; and
     - **(B)** the Speaker of the House of Representatives, the majority leader and the minority leader of the House of Representatives, and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.

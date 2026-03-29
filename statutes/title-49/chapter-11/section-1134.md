@@ -3,16 +3,16 @@ title: "Section 1134 - Inspections and autopsies"
 usc_title: 49
 usc_section: "1134"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 1134"
-generated_at: "2026-03-29T19:32:28.730Z"
+generated_at: "2026-03-29T19:44:57.830Z"
 ---
 
 # § 1134. Inspections and autopsies
 
 - **(a)** An officer or employee of the National Transportation Safety Board—
   - **(1)** on display of appropriate credentials and written notice of inspection authority, may enter property where a transportation accident has occurred or wreckage from the accident is located and do anything necessary to conduct an investigation; and
-  - **(2)** during reasonable hours, may inspect any record, process, control, or facility related to an accident investigation under this chapter.
+  - **(2)** during reasonable hours, may inspect any record, including an electronic record, process, control, or facility related to an accident investigation under this chapter.
 - **(b)**
   - **(1)** In investigating an aircraft accident under this chapter, the Board may inspect and test, to the extent necessary, any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce.
   - **(2)** Any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce shall be preserved, and may be moved, only as provided by regulations of the Board.

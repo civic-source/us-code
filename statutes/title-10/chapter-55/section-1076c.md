@@ -3,14 +3,16 @@ title: "Section 1076c - Dental insurance plan: certain retirees and their surviv
 usc_title: 10
 usc_section: "1076c"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1076c"
-generated_at: "2026-03-29T19:27:25.502Z"
+generated_at: "2026-03-29T19:43:37.888Z"
 ---
 
 # § 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents
 
-- **(a)** The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
+- **(a)**
+  - **(1)** The Secretary of Defense shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
+  - **(2)** The Secretary may satisfy the requirement under paragraph (1) by entering into an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (b) to enroll in an insurance plan under chapter 89A of title 5 that provides benefits similar to those benefits required to be provided under subsection (d).
 - **(b)** The following persons are eligible to enroll in the dental insurance plan established under subsection (a):
   - **(1)** Members of the uniformed services who are entitled to retired pay.
   - **(2)** Members of the Retired Reserve who would be entitled to retired pay under chapter 1223 of this title but for being under 60 years of age.

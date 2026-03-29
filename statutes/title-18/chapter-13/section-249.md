@@ -3,9 +3,9 @@ title: "Section 249 - Hate crime acts"
 usc_title: 18
 usc_section: "249"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 249"
-generated_at: "2026-03-29T19:28:33.788Z"
+generated_at: "2026-03-29T19:41:06.754Z"
 ---
 
 # § 249. Hate crime acts
@@ -49,3 +49,4 @@ generated_at: "2026-03-29T19:28:33.788Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), no person shall be prosecuted, tried, or punished for any offense under this section unless the indictment for such offense is found, or the information for such offense is instituted, not later than 7 years after the date on which the offense was committed.
   - **(2)** An indictment or information alleging that an offense under this section resulted in death may be found or instituted at any time without limitation.
+- **(e)** If a court includes, as a part of a sentence of imprisonment imposed for a violation of subsection (a), a requirement that the defendant be placed on a term of supervised release after imprisonment under section 3583, the court may order, as an explicit condition of supervised release, that the defendant undertake educational classes or community service directly related to the community harmed by the defendant’s offense.

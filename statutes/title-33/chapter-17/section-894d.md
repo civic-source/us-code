@@ -5,7 +5,7 @@ usc_section: "894d"
 chapter: 17
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 894d"
-generated_at: "2026-03-29T18:45:43.385Z"
+generated_at: "2026-03-29T19:43:07.602Z"
 ---
 
 # § 894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract

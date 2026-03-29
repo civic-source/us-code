@@ -1,12 +1,12 @@
 ---
-title: "Section 483 - Repealed. Pub. L. 91–173, title V , § 509, Dec. 30, 1969 , 83 Stat. 803"
+title: "Section 483 - Repealed. Pub. L. 91–173, title V, § 509 , Dec. 30, 1969 , 83 Stat. 803"
 usc_title: 30
 usc_section: "483"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 483"
-generated_at: "2026-03-29T19:30:05.236Z"
+generated_at: "2026-03-29T19:42:23.414Z"
 ---
 
-# §§ 451 to 460, 471 to 483. Repealed. Pub. L. 91–173, title V , § 509, Dec. 30, 1969 , 83 Stat. 803
+# §§ 451 to 460, 471 to 483. Repealed. Pub. L. 91–173, title V, § 509 , Dec. 30, 1969 , 83 Stat. 803
 

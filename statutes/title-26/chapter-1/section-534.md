@@ -3,9 +3,9 @@ title: "Section 534 - Burden of proof"
 usc_title: 26
 usc_section: "534"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 534"
-generated_at: "2026-03-29T19:30:19.881Z"
+generated_at: "2026-03-29T19:42:47.706Z"
 ---
 
 # § 534. Burden of proof
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T19:30:19.881Z"
   - **(1)** if notification has not been sent in accordance with subsection (b), be on the Secretary, or
   - **(2)** if the taxpayer has submitted the statement described in subsection (c), be on the Secretary with respect to the grounds set forth in such statement in accordance with the provisions of such subsection.
 - **(b)** Before mailing the notice of deficiency referred to in subsection (a), the Secretary may send by certified mail or registered mail a notification informing the taxpayer that the proposed notice of deficiency includes an amount with respect to the accumulated earnings tax imposed by section 531.
-- **(c)** Within such time (but not less than 30 days) after the mailing of the notification described in subsection (b) as the Secretary may prescribe by regulations, the taxpayer may submit a statement on the grounds (together with facts sufficient to show the basis thereof) on which the taxpayer relies to establish that all or any part of the earnings and profits have not been permitted to accumulate beyond the reasonable needs of the business.
+- **(c)** Within such time (but not less than 30 days) after the mailing of the notification described in subsection (b) as the Secretary may prescribe by regulations, the taxpayer may submit a statement of the grounds (together with facts sufficient to show the basis thereof) on which the taxpayer relies to establish that all or any part of the earnings and profits have not been permitted to accumulate beyond the reasonable needs of the business.
 - **(d)** If pursuant to section 6861(a) a jeopardy assessment is made before the mailing of the notice of deficiency referred to in subsection (a), for purposes of this section such notice of deficiency shall, to the extent that it informs the taxpayer that such deficiency includes the accumulated earnings tax imposed by section 531, constitute the notification described in subsection (b), and in that event the statement described in subsection (c) may be included in the taxpayer’s petition to the Tax Court.

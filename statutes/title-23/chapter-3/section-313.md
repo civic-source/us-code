@@ -3,9 +3,9 @@ title: "Section 313 - Buy America"
 usc_title: 23
 usc_section: "313"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 313"
-generated_at: "2026-03-29T19:29:58.422Z"
+generated_at: "2026-03-29T19:41:43.029Z"
 ---
 
 # § 313. Buy America
@@ -23,4 +23,10 @@ generated_at: "2026-03-29T19:29:58.422Z"
 - **(f)** If the Secretary, in consultation with the United States Trade Representative, determines that—
   - **(1)** a foreign country is a party to an agreement with the United States and pursuant to that agreement the head of an agency of the United States has waived the requirements of this section, and
   - **(2)** the foreign country has violated the terms of the agreement by discriminating against products covered by this section that are produced in the United States and are covered by the agreement,
-- **(g)** The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
+- **(g)**
+  - **(1)** Not less than 15 days before issuing a waiver under this section, the Secretary shall provide to the public—
+    - **(A)** notice of the proposed waiver;
+    - **(B)** an opportunity for comment on the proposed waiver; and
+    - **(C)** the reasons for the proposed waiver.
+  - **(2)** Not less frequently than annually, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the waivers provided under this section.
+- **(h)** The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.

@@ -3,9 +3,9 @@ title: "Section 5635 - Appraisals and valuations"
 usc_title: 25
 usc_section: "5635"
 chapter: 48
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 5635"
-generated_at: "2026-03-29T19:29:34.907Z"
+generated_at: "2026-03-29T19:41:28.508Z"
 ---
 
 # § 5635. Appraisals and valuations

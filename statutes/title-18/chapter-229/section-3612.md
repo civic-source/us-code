@@ -3,9 +3,9 @@ title: "Section 3612 - Collection of unpaid fine or restitution"
 usc_title: 18
 usc_section: "3612"
 chapter: 229
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 3612"
-generated_at: "2026-03-29T19:28:33.902Z"
+generated_at: "2026-03-29T19:41:06.877Z"
 ---
 
 # § 3612. Collection of unpaid fine or restitution
@@ -41,3 +41,21 @@ generated_at: "2026-03-29T19:28:33.902Z"
 - **(g)** If a fine or restitution becomes delinquent, the defendant shall pay, as a penalty, an amount equal to 10 percent of the principal amount that is delinquent. If a fine or restitution becomes in default, the defendant shall pay, as a penalty, an additional amount equal to 15 percent of the principal amount that is in default.
 - **(h)** The Attorney General may waive all or part of any interest or penalty under this section or any interest or penalty relating to a fine imposed under any prior law if, as determined by the Attorney General, reasonable efforts to collect the interest or penalty are not likely to be effective.
 - **(i)** Payments relating to fines and restitution shall be applied in the following order: (1) to principal; (2) to costs; (3) to interest; and (4) to penalties.
+- **(j)**
+  - **(1)** The Attorney General shall, as part of the regular evaluation process, evaluate each office of the United States attorney and each component of the Department of Justice on the performance of the office or the component, as the case may be, in seeking and recovering restitution for victims under each provision of this title and the Controlled Substances Act ( 21 U.S.C. 801 et seq.) that authorizes restitution.
+  - **(2)** Following an evaluation under paragraph (1), each office of the United States attorney and each component of the Department of Justice shall work to improve the practices of the office or component, as the case may be, with respect to seeking and recovering restitution for victims under each provision of this title and the Controlled Substances Act ( 21 U.S.C. 801 et seq.) that authorizes restitution.
+- **(k)**
+  - **(1)** Not later than 1 year after the date of enactment of this subsection, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on restitution sought by the Attorney General under each provision of this title and the Controlled Substances Act ( 21 U.S.C. 801 et seq.) that authorizes restitution during the 3-year period preceding the report.
+  - **(2)** The report required under paragraph (1) shall include statistically valid estimates of—
+    - **(A)** the number of cases in which a defendant was convicted and the Attorney General could seek restitution under this title or the Controlled Substances Act ( 21 U.S.C. 801 et seq.);
+    - **(B)** the number of cases in which the Attorney General sought restitution;
+    - **(C)** of the cases in which the Attorney General sought restitution, the number of times restitution was ordered by the district courts of the United States;
+    - **(D)** the amount of restitution ordered by the district courts of the United States;
+    - **(E)** the amount of restitution collected pursuant to the restitution orders described in subparagraph (D);
+    - **(F)** the percentage of restitution orders for which the full amount of restitution has not been collected; and
+    - **(G)** any other measurement the Comptroller General determines would assist in evaluating how to improve the restitution process in Federal criminal cases.
+  - **(3)** The report required under paragraph (1) shall include recommendations on the best practices for—
+    - **(A)** requesting restitution in cases in which restitution may be sought under each provision of this title and the Controlled Substances Act ( 21 U.S.C. 801 et seq.) that authorizes restitution;
+    - **(B)** obtaining restitution orders from the district courts of the United States; and
+    - **(C)** collecting restitution ordered by the district courts of the United States.
+  - **(4)** Not later than 3 years after the date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).

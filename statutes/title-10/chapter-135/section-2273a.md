@@ -1,53 +1,27 @@
 ---
-title: "Section 2273a - Operationally Responsive Space Program Office"
+title: "Section 2273a - Space Rapid Capabilities Office"
 usc_title: 10
 usc_section: "2273a"
 chapter: 135
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2273a"
-generated_at: "2026-03-29T19:27:25.577Z"
+generated_at: "2026-03-29T19:43:37.973Z"
 ---
 
-# § 2273a. Operationally Responsive Space Program Office
+# § 2273a. Space Rapid Capabilities Office
 
-- **(a)** There is within the Air Force Space and Missile Systems Center of the Department of Defense a joint program office known as the Operationally Responsive Space Program Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
-- **(b)** The head of the Office shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.
+- **(a)** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
+- **(b)** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Chief of Space Operations.
 - **(c)** The mission of the Office shall be—
-  - **(1)** to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution; and
-  - **(2)** to coordinate and execute operationally responsive space efforts across the Department of Defense with respect to planning, acquisition, and operations.
-- **(d)** The Secretary of Defense shall select the elements of the Department of Defense to be included in the Office so as to contribute to the development of capabilities for operationally responsive space and to achieve a balanced representation of the military departments in the Office to ensure proper acknowledgment of joint considerations in the activities of the Office, except that the Office shall include the following:
-  - **(1)** A science and technology element that shall pursue innovative approaches to the development of capabilities for operationally responsive space through basic and applied research focused on (but not limited to) payloads, bus, and launch equipment.
-  - **(2)** An acquisition element that shall undertake the acquisition of systems necessary to integrate, sustain, and launch assets for operationally responsive space.
-  - **(3)** An operations element that shall—
-    - **(A)** sustain and maintain assets for operationally responsive space prior to launch;
-    - **(B)** integrate and launch such assets; and
-    - **(C)** operate such assets in orbit.
-  - **(4)** A combatant command support element that shall serve as the primary intermediary between the military departments and the combatant commands in order to—
-    - **(A)** ascertain the needs of the commanders of the combatant commands; and
-    - **(B)** integrate operationally responsive space capabilities into—
-      - **(i)** operations plans of the combatant commands;
-      - **(ii)** techniques, tactics, and procedures of the military departments; and
-      - **(iii)** military exercises, demonstrations, and war games.
-  - **(5)** Such other elements as the Secretary of Defense may consider necessary.
-- **(e)** The acquisition activities of the Office shall be subject to the following:
-  - **(1)** The Program Executive Officer for Space shall be the Acquisition Executive of the Office and shall provide streamlined acquisition authorities for projects of the Office.
-  - **(2)** The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office for operational experimentation.
-  - **(3)** The commander of the United States Strategic Command, or the designee of the commander, shall—
-    - **(A)** validate all system requirements for systems to be acquired by the Office; and
-    - **(B)** participate in the approval of any acquisition program initiated by the Office.
-  - **(4)** To the maximum extent practicable, the procurement unit cost of a launch vehicle procured by the Office for launch to low earth orbit should not exceed $20,000,000 (in constant dollars).
-  - **(5)** To the maximum extent practicable, the procurement unit cost of an integrated satellite procured by the Office should not exceed $40,000,000 (in constant dollars).
-- **(f)**
-  - **(1)** The Secretary of Defense shall ensure that, within budget program elements for space programs of the Department of Defense, that—
-    - **(A)** there is a separate, dedicated program element for operationally responsive space;
-    - **(B)** to the extent applicable, relevant program elements should be consolidated into the program element required by subparagraph (A); and
-    - **(C)** the Office executes its responsibilities through this program element.
-  - **(2)** The Office shall manage the program element required by paragraph (1)(A).
-- **(g)**
-  - **(1)** The Secretary of Defense shall establish for the Office an Executive Committee (to be known as the “Operationally Responsive Space Executive Committee”) to provide coordination, oversight, and approval of projects of the Office.
-  - **(2)** The Executive Committee shall consist of the officials (and their duties) as follows:
-    - **(A)** The Department of Defense Executive Agent for Space, who shall serve as Chair of the Executive Committee and provide oversight, prioritization, coordination, and resources for the Office.
-    - **(B)** The Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall provide coordination and oversight of the Office and recommend funding sources for programs of the Office that exceed the approved program baseline.
-    - **(C)** The Commander of the United States Strategic Command, who shall validate requirements for systems to be acquired by the Office and participate in approval of any acquisition program initiated by the Office.
-    - **(D)** The Commander of the Air Force Space Command, the Commander of the Army Space and Missile Defense Command, and the Commander of the Space and Naval Warfare Systems Command, who shall jointly organize, train, and equip forces to support the acquisition programs of the Office.
-    - **(E)** Such other officials (and their duties) as the Secretary of Defense considers appropriate.
+  - **(1)** to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution;
+  - **(2)** to coordinate and execute space rapid capabilities efforts across the Department of Defense with respect to planning, acquisition, and operations; and
+  - **(3)** to rapidly develop and field new classified space capabilities.
+- **(d)** The acquisition activities of the Office shall be subject to the following:
+  - **(1)** The Secretary of the Air Force shall designate the acquisition executive of the Office who shall provide streamlined acquisition authorities for projects of the Office.
+  - **(2)** The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
+- **(e)**
+  - **(1)** The Secretary of the Air Force shall ensure, within budget program elements for space programs, that—
+    - **(A)** there are separate, dedicated unclassified and classified program elements for space rapid capabilities; and
+    - **(B)** the Office executes the responsibilities of the Office through such program elements.
+  - **(2)** The Office shall manage the program elements required by paragraph (1).
+- **(f)** The Secretary of the Air Force shall establish for the Office a Board of Directors (to be known as the “Space Rapid Capabilities Board of Directors”) to provide coordination, oversight, and approval of projects of the Office.

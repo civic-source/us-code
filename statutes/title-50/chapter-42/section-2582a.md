@@ -3,9 +3,9 @@ title: "Section 2582a - Future-years defense environmental cleanup plan"
 usc_title: 50
 usc_section: "2582a"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2582a"
-generated_at: "2026-03-29T19:32:24.202Z"
+generated_at: "2026-03-29T19:44:52.810Z"
 ---
 
 # § 2582a. Future-years defense environmental cleanup plan
@@ -20,6 +20,7 @@ generated_at: "2026-03-29T19:32:24.202Z"
     - **(A)** A statement of each milestone included in an enforceable agreement governing cleanup and waste remediation for that site for each fiscal year covered by the plan.
     - **(B)** For each such milestone, a statement with respect to whether each such milestone will be met in each such fiscal year.
     - **(C)** For any milestone that will not be met, an explanation of why the milestone will not be met and the date by which the milestone is expected to be met.
+    - **(D)** For any milestone that has been missed, renegotiated, or postponed, a statement of the current milestone, the original milestone, and any interim milestones.
 - **(c)** The sites specified in this subsection are the following:
   - **(1)** The Idaho National Laboratory, Idaho.
   - **(2)** The Waste Isolation Pilot Plant, Carlsbad, New Mexico.

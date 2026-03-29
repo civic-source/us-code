@@ -3,9 +3,9 @@ title: "Section 13102 - State recreational boating safety programs"
 usc_title: 46
 usc_section: "13102"
 chapter: 131
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 13102"
-generated_at: "2026-03-29T19:32:17.344Z"
+generated_at: "2026-03-29T19:44:39.421Z"
 ---
 
 # § 13102. State recreational boating safety programs

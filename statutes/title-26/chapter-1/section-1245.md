@@ -3,9 +3,9 @@ title: "Section 1245 - Gain from dispositions of certain depreciable property"
 usc_title: 26
 usc_section: "1245"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1245"
-generated_at: "2026-03-29T19:30:19.975Z"
+generated_at: "2026-03-29T19:42:47.804Z"
 ---
 
 # § 1245. Gain from dispositions of certain depreciable property
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:30:19.975Z"
       - **(i)** was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
       - **(ii)** constituted a research facility used in connection with any of the activities referred to in clause (i), or
       - **(iii)** constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
-    - **(C)** so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 185, 1 1 See References in Text note below. 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194, 2 2 Comma added editorially.
+    - **(C)** so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194 1 1 So in original. Probably should be followed by a comma.
     - **(D)** a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
     - **(E)** a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
     - **(F)** any railroad grading or tunnel bore (as defined in section 168(e)(4)).

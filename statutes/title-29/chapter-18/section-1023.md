@@ -3,9 +3,9 @@ title: "Section 1023 - Annual reports"
 usc_title: 29
 usc_section: "1023"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1023"
-generated_at: "2026-03-29T19:30:07.562Z"
+generated_at: "2026-03-29T19:42:21.477Z"
 ---
 
 # § 1023. Annual reports
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:30:07.562Z"
 - **(a)**
   - **(1)**
     - **(A)** An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with section 1024(a) of this title , and shall be made available and furnished to participants in accordance with section 1024(b) of this title .
-    - **(B)** The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
+    - **(B)** The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), (f), and (g) and shall also include—
       - **(i)** a financial statement and opinion, as required by paragraph (3) of this subsection, and
       - **(ii)** an actuarial statement and opinion, as required by paragraph (4) of this subsection.
   - **(2)** If some or all of the information necessary to enable the administrator to comply with the requirements of this subchapter is maintained by—
@@ -105,4 +105,6 @@ generated_at: "2026-03-29T19:30:07.562Z"
     - **(G)** Whether the plan was in critical or endangered status under section 1085 of this title for such plan year, and if so, a summary of any funding improvement or rehabilitation plan (or modification thereto) adopted during the plan year, and the funded percentage of the plan.
     - **(H)** The number of employers that withdrew from the plan during the preceding plan year and the aggregate amount of withdrawal liability assessed, or estimated to be assessed, against such withdrawn employers.
     - **(I)** In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
-- **(g)** With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
+- **(g)** An annual report under this section for a plan year shall include—
+  - **(1)** with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
+  - **(2)** with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.

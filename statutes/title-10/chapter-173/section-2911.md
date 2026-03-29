@@ -1,19 +1,27 @@
 ---
-title: "Section 2911 - Energy performance goals and master plan for the Department of Defense"
+title: "Section 2911 - Energy policy of the Department of Defense"
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-29T19:27:25.651Z"
+generated_at: "2026-03-29T19:43:38.026Z"
 ---
 
-# § 2911. Energy performance goals and master plan for the Department of Defense
+# § 2911. Energy policy of the Department of Defense
 
-- **(a)**
+- **(a)** The Secretary of Defense shall ensure the readiness of the armed forces for their military missions by pursuing energy security and energy resilience.
+- **(b)** In order to achieve the policy set forth in subsection (a), the Secretary of Defense may—
+  - **(1)** establish metrics and standards for the assessment of energy resilience;
+  - **(2)** require the Secretary of a military department to perform mission assurance and readiness assessments of energy power systems for mission critical assets and supporting infrastructure, applying uniform mission standards established by the Secretary of Defense;
+  - **(3)** require the Secretary of a military department to establish and maintain an energy resilience master plan for an installation;
+  - **(4)** authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
+  - **(5)** in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
+- **(c)**
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
   - **(2)** The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
-- **(b)**
+  - **(3)** The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the installation energy report submitted under section 2925(a) of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
+- **(d)**
   - **(1)** The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
   - **(2)** The master plan shall include the following:
     - **(A)** A separate master plan, developed by each military department and Defense Agency, for the achievement of energy performance goals.
@@ -23,9 +31,9 @@ generated_at: "2026-03-29T19:27:25.651Z"
     - **(E)** A description of specific requirements, and proposed investments, in connection with the achievement of energy performance goals reflected in the budget of the President for each fiscal year (as submitted to Congress under section 1105(a) of title 31 ).
     - **(F)** The up-to date list of energy-efficient products maintained under section 2915(e)(2) of this title .
   - **(3)** Not later than 30 days after the date on which the budget of the President is submitted to Congress for a fiscal year under section 1105(a) of title 31 , the Secretary shall submit the current version of the master plan to Congress.
-- **(c)** For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
-  - **(1)** Opportunities to reduce the current rate of consumption of energy.
-  - **(2)** Opportunities to reduce the future demand and the requirements for the use of energy.
+- **(e)** For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
+  - **(1)** Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
+  - **(2)** Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that affect mission assurance on military installations.
   - **(3)** Opportunities to implement conservation measures to improve the efficient use of energy.
   - **(4)** Opportunities to pursue alternative energy initiatives, including the use of alternative fuels and hybrid-electric drive in military vehicles and equipment.
   - **(5)** Opportunities for the high-performance construction, lease, operation, and maintenance of buildings.
@@ -36,12 +44,13 @@ generated_at: "2026-03-29T19:27:25.651Z"
   - **(10)** The value of incorporating electric, hybrid-electric, and high efficiency vehicles into vehicle fleets.
   - **(11)** The potential for an action to serve as an incentive for members of the armed forces and civilian personnel to reduce energy consumption or adopt an improved energy performance measure.
   - **(12)** Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
-- **(d)** For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
+  - **(13)** Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.
+- **(f)** For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
   - **(1)** are readily available;
   - **(2)** demonstrate an economic return on the investment;
   - **(3)** are consistent with the energy performance goals and energy performance master plan for the Department; and
   - **(4)** are supported by the special considerations specified in subsection (c).
-- **(e)**
+- **(g)**
   - **(1)** It shall be the goal of the Department of Defense—
     - **(A)** to produce or procure not less than 25 percent of the total quantity of facility energy it consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
     - **(B)** to produce or procure facility energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
@@ -56,3 +65,26 @@ generated_at: "2026-03-29T19:27:25.651Z"
     - **(D)** Subparagraph (B) does not prohibit the Secretary of a military department from entering into an agreement outside of the centralized purchasing authority if the Secretary will obtain the best value by bundling the renewable energy certificates with the facility energy project through a power purchase agreement or other contractual mechanism at the installation.
     - **(E)** Nothing in this paragraph shall be construed to authorize the purchase of renewable energy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
     - **(F)** This policy does not make the purchase of renewable energy certificates mandatory, but the policy shall apply whenever original renewable energy certificates are proposed to be swapped for replacement renewable energy certificates.
+- **(h)**
+  - **(1)** Consistent with the energy security and resilience goals of the Department of Defense and the energy performance master plan referred to in this section, the Secretary concerned shall consider, when feasible, projects for the production of installation energy that benefits military readiness and promotes installation energy security and energy resilience in the following manner:
+    - **(A)** Location of the energy-production infrastructure on the military installation that will consume the energy.
+    - **(B)** Incorporation of energy resilience features, such as microgrids, to ensure that energy remains available to the installation even when the installation is not connected to energy sources located off the installation.
+    - **(C)** Reduction in periodic refueling needs from sources off the installation to not more than once every two years.
+  - **(2)**
+    - **(A)** Using amounts made available for military construction projects under section 2914 of this title , the Secretary of Defense shall carry out at least four projects to promote installation energy security and energy resilience in the manner described in paragraph (1).
+    - **(B)** At least one project shall be designed to develop technology that demonstrates the ability to connect an existing on-site energy generation facility that uses solar power with one or more installation facilities performing critical missions in a manner that allows the generation facility to continue to provide electrical power to these facilities even if the installation is disconnected from the commercial power supply.
+    - **(C)** At least one project shall be designed to develop technology that demonstrates that one or more installation facilities performing critical missions can be isolated, for purposes of electrical power supply, from the remainder of the installation and from the commercial power supply in a manner that allows an on-site energy generation facility that uses a renewable energy source, other than solar energy, to provide the necessary power exclusively to these facilities.
+    - **(D)** At least two projects shall be designed to develop technology that demonstrates the ability to store sufficient electrical energy from an on-site energy generation facility that uses a renewable energy source to provide the electrical energy required to continue operation of installation facilities performing critical missions during nighttime operations.
+    - **(E)** The authority of the Secretary of Defense to commence a project under this paragraph expires on September 30, 2025 .
+  - **(3)** In this subsection, the term “microgrid” means an integrated energy system consisting of interconnected loads and energy resources that, if necessary, can be removed from the local utility grid and function as an integrated, stand-alone system.
+- **(i)**
+  - **(1)** Subject to the availability of appropriations, the Secretary of Defense shall develop and institute a process to ensure that the Department of Defense, when evaluating energy resilience measures, uses analytical tools that are accurate and effective in projecting the costs and performance of such measures.
+  - **(2)** Analytical tools used under paragraph (1) shall be—
+    - **(A)** designed to—
+      - **(i)** provide an accurate projection of the costs and performance of the energy resilience measure being analyzed;
+      - **(ii)** be used without specialized training; and
+      - **(iii)** produce resulting data that is understandable and usable by the typical source selection official;
+    - **(B)** consistent with standards and analytical tools commonly applied by the Department of Energy and by commercial industry;
+    - **(C)** adaptable to accommodate a rapidly changing technological environment;
+    - **(D)** peer reviewed for quality and precision and measured against the highest level of development for such tools; and
+    - **(E)** periodically reviewed and updated, but not less frequently than once every three years.

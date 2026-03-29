@@ -3,12 +3,12 @@ title: "Section 5306 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5306"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 5306"
-generated_at: "2026-03-29T19:29:27.605Z"
+generated_at: "2026-03-29T19:41:13.853Z"
 ---
 
 # § 5306. Authorization of appropriations
 
-- **(a)** There is authorized to be appropriated to the Fund $10,000,000 for each of fiscal years 2007 through 2012 to carry out this chapter, to remain available until expended.
+- **(a)** There is authorized to be appropriated to the Fund $10,000,000 for each of fiscal years 2019 through 2023 to carry out this chapter, to remain available until expended.
 - **(b)** Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.

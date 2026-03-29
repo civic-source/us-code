@@ -3,9 +3,9 @@ title: "Section 44504 - Improved aircraft, aircraft engines, propellers, and app
 usc_title: 49
 usc_section: "44504"
 chapter: 445
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44504"
-generated_at: "2026-03-29T19:32:28.874Z"
+generated_at: "2026-03-29T19:44:57.991Z"
 ---
 
 # § 44504. Improved aircraft, aircraft engines, propellers, and appliances

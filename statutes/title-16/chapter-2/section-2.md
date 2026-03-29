@@ -3,9 +3,9 @@ title: "Section 2 - Fish and game"
 usc_title: 16
 usc_section: "2"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T19:29:27.297Z"
+generated_at: "2026-03-29T19:41:13.542Z"
 ---
 
 # § 546a–2. Fish and game

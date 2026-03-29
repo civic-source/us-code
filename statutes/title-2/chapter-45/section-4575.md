@@ -3,9 +3,9 @@ title: "Section 4575 - Gross rate of compensation of employees paid by Secretary
 usc_title: 2
 usc_section: "4575"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 4575"
-generated_at: "2026-03-29T19:27:07.590Z"
+generated_at: "2026-03-29T19:42:59.696Z"
 ---
 
 # § 4575. Gross rate of compensation of employees paid by Secretary of Senate
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:27:07.590Z"
 - **(c)** In any case in which the rate of compensation of any employee or position, or class of employees or positions, the compensation for which is disbursed by the Secretary of the Senate, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or Senate resolution, and the rate so referred to or provided is a basic rate with respect to which additional compensation is provided by law, such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to August 1, 1967 , would receive (without regard to such statutory provision or resolution) under subsection (b) on and after such date.
 - **(d)**
   - **(1)**
-    - **(A)** Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following:
+    - **(A)** Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following: 1 1 See Codification note below.
         - **(I)** the population of such State (as determined for purposes of this paragraph) for the preceding fiscal year; or
         - **(II)** the population of such State as of the first day of such fiscal year, as determined by the latest census (provisional or otherwise) conducted prior to such first day by the Bureau of the Census within the Department of Commerce.
     - **(B)** In the case of gross compensation paid to employees in the office of a Senator for the period commencing January 1, 1988 , and ending September 30, 1988 , the total of—
@@ -30,9 +30,9 @@ generated_at: "2026-03-29T19:27:07.590Z"
       - **(ii)** the expenses paid to or on behalf of such Senator under authority of section 6314 of this title (as determined after application of subsection (b) of such section, but without regard to paragraph (3)(A)(ii) and (iv) thereof),
       - **(iii)** the amount determined under subparagraph (A) for such year, plus
       - **(iv)** the amount described in section 6314(b)(3) of this title (as determined without regard to subparagraph (A)(ii) and (iv) thereof).
-  - **(2)** Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $2,677 or in excess of $169,459 per annum. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
+  - **(2)** Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $3,164 1 or in excess of $173,900. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
 - **(e)**
-  - **(1)** , (2) Repealed. Pub. L. 96–304, title I , § 112(b)(1), July 8, 1980 , 94 Stat. 892 .
+  - **(1)** , (2) Repealed. Pub. L. 96–304, title I, § 112(b)(1) , July 8, 1980 , 94 Stat. 892 .
   - **(3)**
     - **(A)** In this paragraph—
       - **(i)** the term “committee of the Senate” means—
@@ -40,5 +40,5 @@ generated_at: "2026-03-29T19:27:07.590Z"
         - **(II)** any select committee (including the conference majority and conference minority of the Senate); or
         - **(III)** any joint committee the expenses of which are paid from the contingent fund of the Senate; and
       - **(ii)** an employee of a subcommittee shall be considered to be an employee of the full committee.
-    - **(B)** Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of $171,315.
-- **(f)** No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $2,677 or in excess of $169,459 unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
+    - **(B)** Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of $173,900.
+- **(f)** No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,164 1 or in excess of $173,900, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.

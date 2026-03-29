@@ -3,9 +3,9 @@ title: "Section 3502 - List or count of passengers"
 usc_title: 46
 usc_section: "3502"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 3502"
-generated_at: "2026-03-29T19:32:17.318Z"
+generated_at: "2026-03-29T19:44:39.390Z"
 ---
 
 # § 3502. List or count of passengers

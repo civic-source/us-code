@@ -3,9 +3,9 @@ title: "Section 461 - General rule for taxable year of deduction"
 usc_title: 26
 usc_section: "461"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 461"
-generated_at: "2026-03-29T19:30:19.855Z"
+generated_at: "2026-03-29T19:42:47.682Z"
 ---
 
 # § 461. General rule for taxable year of deduction
@@ -73,7 +73,7 @@ generated_at: "2026-03-29T19:30:19.855Z"
     - **(A)** any enterprise (other than a C corporation) if at any time interests in such enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having the authority to regulate the offering of securities for sale,
     - **(B)** any syndicate (within the meaning of section 1256(e)(3)(B)), and
     - **(C)** any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
-  - **(4)** In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in subsection (j) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
+  - **(4)** In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in subsection (k) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
   - **(5)** For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
 - **(j)**
   - **(1)** If a taxpayer other than a C corporation receives any applicable subsidy for any taxable year, any excess farm loss of the taxpayer for the taxable year shall not be allowed.
@@ -105,7 +105,7 @@ generated_at: "2026-03-29T19:30:19.855Z"
     - **(B)** each partner’s or shareholder’s proportionate share of the items of income, gain, or deduction of the partnership or S corporation for any taxable year from farming businesses attributable to the partnership or S corporation, and of any applicable subsidies received by the partnership or S corporation during the taxable year, shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
   - **(6)** The Secretary may prescribe such additional reporting requirements as the Secretary determines appropriate to carry out the purposes of this subsection.
   - **(7)** This subsection shall be applied before the application of section 469.
-- **(j)**
+- **(k)**
   - **(1)** For purposes of subsection (i)(4), the term “farming syndicate” means—
     - **(A)** a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if at any time interests in such partnership or enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having authority to regulate the offering of securities for sale, or
     - **(B)** a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if more than 35 percent of the losses during any period are allocable to limited partners or limited entrepreneurs.
@@ -119,3 +119,27 @@ generated_at: "2026-03-29T19:30:19.855Z"
   - **(4)** For purposes of this subsection, the term “limited entrepreneur” means a person who—
     - **(A)** has an interest in an enterprise other than as a limited partner, and
     - **(B)** does not actively participate in the management of such enterprise.
+- **(l)**
+  - **(1)** In the case of a taxpayer other than a corporation—
+    - **(A)** for any taxable year beginning after December 31, 2017 , and before January 1, 2026 , subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+    - **(B)** for any taxable year beginning after December 31, 2020 , and before January 1, 2026 , any excess business loss of the taxpayer for the taxable year shall not be allowed.
+  - **(2)** Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The term “excess business loss” means the excess (if any) of—
+      - **(i)** the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1) and without regard to any deduction allowable under section 172 or 199A), over
+      - **(ii)** the sum of—
+        - **(I)** the aggregate gross income or gain of such taxpayer for the taxable year which is attributable to such trades or businesses, plus
+        - **(II)** $250,000 (200 percent of such amount in the case of a joint return).
+    - **(B)**
+      - **(i)** Deductions for losses from sales or exchanges of capital assets shall not be taken into account under subparagraph (A)(i).
+      - **(ii)** The amount of gains from sales or exchanges of capital assets taken into account under subparagraph (A)(ii) shall not exceed the lesser of—
+        - **(I)** the capital gain net income determined by taking into account only gains and losses attributable to a trade or business, or
+        - **(II)** the capital gain net income.
+    - **(C)** In the case of any taxable year beginning after December 31, 2018 , the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
+      - **(i)** such dollar amount, multiplied by
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
+  - **(4)** In the case of a partnership or S corporation—
+    - **(A)** this subsection shall be applied at the partner or shareholder level, and
+    - **(B)** each partner’s or shareholder’s allocable share of the items of income, gain, deduction, or loss of the partnership or S corporation for any taxable year from trades or businesses attributable to the partnership or S corporation shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
+  - **(5)** The Secretary shall prescribe such additional reporting requirements as the Secretary determines necessary to carry out the purposes of this subsection.
+  - **(6)** This subsection shall be applied after the application of section 469.

@@ -3,9 +3,9 @@ title: "Section 2883 - Department of Defense Housing Funds"
 usc_title: 10
 usc_section: "2883"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2883"
-generated_at: "2026-03-29T19:27:25.650Z"
+generated_at: "2026-03-29T19:43:38.020Z"
 ---
 
 # § 2883. Department of Defense Housing Funds
@@ -33,10 +33,12 @@ generated_at: "2026-03-29T19:27:25.650Z"
     - **(E)** Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title , subject to the restrictions on the use of the transferred amounts specified in that section.
     - **(F)** Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title .
 - **(d)**
-  - **(1)** In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+  - **(1)**
+    - **(A)** In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+    - **(B)** The Secretary of Defense shall require that eligible entities receiving amounts from the Department of Defense Family Housing Improvement Fund prioritize the use of such amounts for expenditures related to asset recapitalization, operating expenses, and debt payments before other program management-incentive fee expenditures. In the case of asset recapitalization, the primary purpose of the expenditures must be to sustain existing housing units owned or managed by the eligible entity or for which the eligible entity is otherwise responsible.
   - **(2)** In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under this subchapter with respect to military unaccompanied housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
   - **(3)** Amounts made available under this subsection shall remain available until expended. The Secretary of Defense may transfer amounts made available under this subsection to the Secretaries of the military departments to permit such Secretaries to carry out the activities for which such amounts may be used.
 - **(e)**
   - **(1)** The Secretary may not incur an obligation under a contract or other agreement entered into under this subchapter in excess of the unobligated balance, at the time the contract is entered into, of the Fund required to be used to satisfy the obligation.
   - **(2)** The Funds established under subsection (a) shall be the sole source of funds for activities carried out under this subchapter.
-- **(f)** A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title .
+- **(f)** A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 14-day period beginning on the date the Secretary of Defense submits notice of, and justification for, the transfer to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title .

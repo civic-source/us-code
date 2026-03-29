@@ -1,20 +1,12 @@
 ---
-title: "Section 2455 - Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile"
+title: "Section 2455 - Repealed. Pub. L. 116–92, div. C, title XXXI, § 3132(a) , Dec. 20, 2019 , 133 Stat. 1958"
 usc_title: 50
 usc_section: "2455"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2455"
-generated_at: "2026-03-29T19:32:24.193Z"
+generated_at: "2026-03-29T19:44:52.800Z"
 ---
 
-# § 2455. Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile
+# § 2455. Repealed. Pub. L. 116–92, div. C, title XXXI, § 3132(a) , Dec. 20, 2019 , 133 Stat. 1958
 
-- **(a)**
-  - **(1)** For the nuclear security budget materials submitted in each fiscal year by the Administrator, the Comptroller General of the United States shall conduct a study on whether both the budget for the fiscal year following the fiscal year in which such budget materials are submitted and the future-years nuclear security program submitted to Congress in relation to such budget under section 2453 of this title provide for funding of the nuclear security enterprise at a level that is sufficient for the modernization and refurbishment of the nuclear security enterprise.
-  - **(2)** Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
-    - **(A)** the findings of such study; and
-    - **(B)** whether the nuclear security budget materials support the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
-- **(b)** In this section:
-  - **(1)** The term “budget” means the budget for a fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
-  - **(2)** The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.

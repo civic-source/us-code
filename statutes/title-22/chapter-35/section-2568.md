@@ -3,9 +3,9 @@ title: "Section 2568 - Program for visiting scholars"
 usc_title: 22
 usc_section: "2568"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2568"
-generated_at: "2026-03-29T19:29:46.794Z"
+generated_at: "2026-03-29T19:42:08.105Z"
 ---
 
 # § 2568. Program for visiting scholars

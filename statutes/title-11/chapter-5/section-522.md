@@ -3,9 +3,9 @@ title: "Section 522 - Exemptions"
 usc_title: 11
 usc_section: "522"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 522"
-generated_at: "2026-03-29T19:28:02.008Z"
+generated_at: "2026-03-29T19:44:19.523Z"
 ---
 
 # § 522. Exemptions
@@ -43,14 +43,14 @@ generated_at: "2026-03-29T19:28:02.008Z"
   - **(3)** a debt of a kind specified in section 523(a)(4) or 523(a)(6) of this title owed by an institution-affiliated party of an insured depository institution to a Federal depository institutions regulatory agency acting in its capacity as conservator, receiver, or liquidating agent for such institution; or
   - **(4)** a debt in connection with fraud in the obtaining or providing of any scholarship, grant, loan, tuition, discount, award, or other financial assistance for purposes of financing an education at an institution of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 )).
 - **(d)** The following property may be exempted under subsection (b)(2) of this section:
-  - **(1)** The debtor’s aggregate interest, not to exceed $15,000 in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
-  - **(2)** The debtor’s interest, not to exceed $2,400 in value, in one motor vehicle.
-  - **(3)** The debtor’s interest, not to exceed $400 in value in any particular item or $8,000 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
-  - **(4)** The debtor’s aggregate interest, not to exceed $1,000 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
-  - **(5)** The debtor’s aggregate interest in any property, not to exceed in value $800 plus up to $7,500 of any unused amount of the exemption provided under paragraph (1) of this subsection.
-  - **(6)** The debtor’s aggregate interest, not to exceed $1,500 in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
+  - **(1)** The debtor’s aggregate interest, not to exceed $15,000 1 1 See Adjustment of Dollar Amounts notes below. in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
+  - **(2)** The debtor’s interest, not to exceed $2,400 1 in value, in one motor vehicle.
+  - **(3)** The debtor’s interest, not to exceed $400 1 in value in any particular item or $8,000 1 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+  - **(4)** The debtor’s aggregate interest, not to exceed $1,000 1 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+  - **(5)** The debtor’s aggregate interest in any property, not to exceed in value $800 1 plus up to $7,500 1 of any unused amount of the exemption provided under paragraph (1) of this subsection.
+  - **(6)** The debtor’s aggregate interest, not to exceed $1,500 1 in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
   - **(7)** Any unmatured life insurance contract owned by the debtor, other than a credit life insurance contract.
-  - **(8)** The debtor’s aggregate interest, not to exceed in value $8,000 less any amount of property of the estate transferred in the manner specified in section 542(d) of this title , in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
+  - **(8)** The debtor’s aggregate interest, not to exceed in value $8,000 1 less any amount of property of the estate transferred in the manner specified in section 542(d) of this title , in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
   - **(9)** Professionally prescribed health aids for the debtor or a dependent of the debtor.
   - **(10)** The debtor’s right to receive—
     - **(A)** a social security benefit, unemployment compensation, or a local public assistance benefit;
@@ -65,7 +65,7 @@ generated_at: "2026-03-29T19:28:02.008Z"
     - **(A)** an award under a crime victim’s reparation law;
     - **(B)** a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
     - **(C)** a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual’s death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
-    - **(D)** a payment, not to exceed $15,000, on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
+    - **(D)** a payment, not to exceed $15,000, 1 on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
     - **(E)** a payment in compensation of loss of future earnings of the debtor or an individual of whom the debtor is or was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor.
   - **(12)** Retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
 - **(e)** A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b) of this section. A waiver by the debtor of a power under subsection (f) or (h) of this section to avoid a transfer, under subsection (g) or (i) of this section to exempt property, or under subsection (i) of this section to recover property or to preserve a transfer, is unenforceable in a case under this title.
@@ -105,9 +105,9 @@ generated_at: "2026-03-29T19:28:02.008Z"
       - **(xv)** 1 personal computer and related equipment.
     - **(B)** The term “household goods” does not include—
       - **(i)** works of art (unless by or of the debtor, or any relative of the debtor);
-      - **(ii)** electronic entertainment equipment with a fair market value of more than $500 in the aggregate (except 1 television, 1 radio, and 1 VCR);
-      - **(iii)** items acquired as antiques with a fair market value of more than $500 in the aggregate;
-      - **(iv)** jewelry with a fair market value of more than $500 in the aggregate (except wedding rings); and
+      - **(ii)** electronic entertainment equipment with a fair market value of more than $500 1 in the aggregate (except 1 television, 1 radio, and 1 VCR);
+      - **(iii)** items acquired as antiques with a fair market value of more than $500 1 in the aggregate;
+      - **(iv)** jewelry with a fair market value of more than $500 1 in the aggregate (except wedding rings); and
       - **(v)** a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 - **(g)** Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, if—
   - **(1)**
@@ -126,14 +126,14 @@ generated_at: "2026-03-29T19:28:02.008Z"
   - **(2)** any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
 - **(l)** The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
 - **(m)** Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
-- **(n)** For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
+- **(n)** For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 1 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
 - **(o)** For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
   - **(1)** real or personal property that the debtor or a dependent of the debtor uses as a residence;
   - **(2)** a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence;
   - **(3)** a burial plot for the debtor or a dependent of the debtor; or
   - **(4)** real or personal property that the debtor or a dependent of the debtor claims as a homestead;
 - **(p)**
-  - **(1)** Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 in value in—
+  - **(1)** Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 1 in value in—
     - **(A)** real or personal property that the debtor or a dependent of the debtor uses as a residence;
     - **(B)** a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence;
     - **(C)** a burial plot for the debtor or a dependent of the debtor; or
@@ -142,7 +142,7 @@ generated_at: "2026-03-29T19:28:02.008Z"
     - **(A)** The limitation under paragraph (1) shall not apply to an exemption claimed under subsection (b)(3)(A) by a family farmer for the principal residence of such farmer.
     - **(B)** For purposes of paragraph (1), any amount of such interest does not include any interest transferred from a debtor’s previous principal residence (which was acquired prior to the beginning of such 1215-day period) into the debtor’s current principal residence, if the debtor’s previous and current residences are located in the same State.
 - **(q)**
-  - **(1)** As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 if—
+  - **(1)** As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 1 if—
     - **(A)** the court determines, after notice and a hearing, that the debtor has been convicted of a felony (as defined in section 3156 of title 18 ), which under the circumstances, demonstrates that the filing of the case was an abuse of the provisions of this title; or
     - **(B)** the debtor owes a debt arising from—
       - **(i)** any violation of the Federal securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws;

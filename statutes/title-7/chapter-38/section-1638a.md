@@ -3,9 +3,9 @@ title: "Section 1638a - Notice of country of origin"
 usc_title: 7
 usc_section: "1638a"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1638a"
-generated_at: "2026-03-29T19:27:31.768Z"
+generated_at: "2026-03-29T19:43:58.164Z"
 ---
 
 # § 1638a. Notice of country of origin
@@ -59,4 +59,4 @@ generated_at: "2026-03-29T19:27:31.768Z"
   - **(2)** To certify the country of origin of a covered commodity, the Secretary may use as a model certification programs in existence on May 13, 2002 , including—
     - **(A)** the carcass grading and certification system carried out under this Act;
     - **(B)** the origin verification system established to carry out the child and adult care food program established under section 1766 of title 42 ; or
-    - **(C)** the origin verification system established to carry out the market access program under section 5623 of this title .
+    - **(C)** the origin verification system established to carry out the market access program under section 5623(b) of this title .

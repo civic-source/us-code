@@ -3,15 +3,15 @@ title: "Section 1881 - Definitions"
 usc_title: 50
 usc_section: "1881"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 1881"
-generated_at: "2026-03-29T19:32:24.118Z"
+generated_at: "2026-03-29T19:44:52.772Z"
 ---
 
 # § 1881. Definitions
 
-- **(a)** The terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in section 1801 of this title , except as specifically provided in this subchapter.
-- **(b)**
+- **(a)** In this subchapter, the terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in section 1801 of this title , except as specifically provided in this subchapter.
+- **(b)** In this subchapter:
   - **(1)** The term “congressional intelligence committees” means—
     - **(A)** the Select Committee on Intelligence of the Senate; and
     - **(B)** the Permanent Select Committee on Intelligence of the House of Representatives.

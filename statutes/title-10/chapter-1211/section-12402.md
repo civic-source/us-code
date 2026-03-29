@@ -3,9 +3,9 @@ title: "Section 12402 - Army and Air National Guard of the United States: commis
 usc_title: 10
 usc_section: "12402"
 chapter: 1211
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 12402"
-generated_at: "2026-03-29T19:27:25.732Z"
+generated_at: "2026-03-29T19:43:38.152Z"
 ---
 
 # § 12402. Army and Air National Guard of the United States: commissioned officers; duty in National Guard Bureau

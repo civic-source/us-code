@@ -3,9 +3,9 @@ title: "Section 7306 - General requirements and classifications for able seamen"
 usc_title: 46
 usc_section: "7306"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 7306"
-generated_at: "2026-03-29T19:32:17.327Z"
+generated_at: "2026-03-29T19:44:39.402Z"
 ---
 
 # § 7306. General requirements and classifications for able seamen

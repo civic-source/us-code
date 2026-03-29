@@ -3,9 +3,9 @@ title: "Section 3664 - Applicability of title 5"
 usc_title: 22
 usc_section: "3664"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3664"
-generated_at: "2026-03-29T19:29:46.837Z"
+generated_at: "2026-03-29T19:42:08.152Z"
 ---
 
 # § 3664. Applicability of title 5
@@ -22,7 +22,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
   - **(8)** Subchapter VI of chapter 55 (relating to accumulated and accrued leave).
   - **(9)** Subchapter IX of chapter 55 (relating to severance and back pay).
   - **(10)** Chapter 59 (relating to allowances).
-  - **(11)** Repealed. Pub. L. 105–261, div. C, title XXXV , § 3507(a), Oct. 17, 1998 , 112 Stat. 2269 .
+  - **(11)** Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a) , Oct. 17, 1998 , 112 Stat. 2269 .
   - **(12)** Section 6323 (relating to military leave; Reserves and National Guardsmen).
   - **(13)** Chapter 71 (relating to labor relations).
   - **(14)** Subchapters II and III of chapter 73 (relating to employment limitations and political activities, respectively) and all provisions of title 5 relating to the administration or enforcement or any other aspect thereof, as identified in regulations prescribed by the Commission in consultation with the Office of Personnel Management.

@@ -1,14 +1,12 @@
 ---
-title: "Section 251 - Setting up distillery"
+title: "Section 251 - Repealed. Pub. L. 115–304, § 1 , Dec. 11, 2018 , 132 Stat. 4401"
 usc_title: 25
 usc_section: "251"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 251"
-generated_at: "2026-03-29T19:29:34.743Z"
+generated_at: "2026-03-29T19:41:28.338Z"
 ---
 
-# § 251. Setting up distillery
-
-Every person who shall, within the Indian country, set up or continue any distillery for manufacturing ardent spirits, shall be liable to a penalty of $1,000; and the superintendent of Indian affairs, Indian agent, or subagent, within the limits of whose agency any distillery of ardent spirits is set up or continued, shall forthwith destroy and break up the same.
+# § 251. Repealed. Pub. L. 115–304, § 1 , Dec. 11, 2018 , 132 Stat. 4401
 

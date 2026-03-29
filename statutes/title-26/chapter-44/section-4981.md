@@ -3,9 +3,9 @@ title: "Section 4981 - Excise tax on undistributed income of real estate investm
 usc_title: 26
 usc_section: "4981"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4981"
-generated_at: "2026-03-29T19:30:20.111Z"
+generated_at: "2026-03-29T19:42:47.912Z"
 ---
 
 # § 4981. Excise tax on undistributed income of real estate investment trusts
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:30:20.111Z"
 - **(c)** For purposes of this section—
   - **(1)** The term “distributed amount” means, with respect to any calendar year, the sum of—
     - **(A)** the deduction for dividends paid (as defined in section 561) during such calendar year (but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)), and
-    - **(B)** any amount on which tax is imposed under subsection (b)(1) or (b)(3)(A) of section 857 for any taxable year ending in such calendar year.
+    - **(B)** any amount on which tax is imposed under subsection (b)(1) or (b)(3)(A) 1 1 See References in Text note below. of section 857 for any taxable year ending in such calendar year.
   - **(2)** The amount determined under paragraph (1) for any calendar year shall be increased by the excess (if any) of—
     - **(A)** the distributed amount for the preceding calendar year (determined with the application of this paragraph to such preceding calendar year), over
     - **(B)** the grossed up required distribution for such preceding calendar year.

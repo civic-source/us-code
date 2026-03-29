@@ -3,9 +3,9 @@ title: "Section 104 - Annual reports by trustees"
 usc_title: 20
 usc_section: "104"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 104"
-generated_at: "2026-03-29T19:28:42.930Z"
+generated_at: "2026-03-29T19:41:03.150Z"
 ---
 
 # § 104. Annual reports by trustees

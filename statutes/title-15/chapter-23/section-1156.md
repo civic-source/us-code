@@ -3,9 +3,9 @@ title: "Section 1156 - Use of existing facilities"
 usc_title: 15
 usc_section: "1156"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1156"
-generated_at: "2026-03-29T19:27:55.410Z"
+generated_at: "2026-03-29T19:44:42.706Z"
 ---
 
 # § 1156. Use of existing facilities

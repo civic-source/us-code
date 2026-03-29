@@ -3,34 +3,42 @@ title: "Section 3611 - Assessing and modeling named storms over coastal States"
 usc_title: 33
 usc_section: "3611"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3611"
-generated_at: "2026-03-29T19:30:28.888Z"
+generated_at: "2026-03-29T19:43:07.747Z"
 ---
 
 # § 3611. Assessing and modeling named storms over coastal States
 
 - **(a)** In this section:
   - **(1)** The term “COASTAL Formula” has the meaning given the term in section 4057(a) of title 42 .
-  - **(2)** The term “coastal State” has the meaning given the term “coastal state” in section 1453 of title 16 .
+  - **(2)** The term “coastal State” has the meaning given the term “coastal state” in section 1453 of title 16 , except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.
   - **(3)** The term “coastal waters” has the meaning given the term in such section.
   - **(4)** The term “covered data” means, with respect to a named storm identified by the Administrator under subsection (b)(2)(A), empirical data that are—
     - **(A)** collected before, during, or after such storm; and
     - **(B)** necessary to determine magnitude and timing of wind speeds, rainfall, the barometric pressure, river flows, the extent, height, and timing of storm surge, topographic and bathymetric data, and other measures required to accurately model and assess damage from such storm.
   - **(5)** The term “indeterminate loss” has the meaning given the term in section 4057(a) of title 42 .
-  - **(6)** The term “named storm” means any organized weather system with a defined surface circulation and maximum winds of at least 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
-  - **(7)** The term “Named Storm Event Model” means the official meteorological and oceanographic computerized model, developed by the Administrator under subsection (b)(1)(A), which utilizes covered data to replicate the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with named storms that threaten any portion of a coastal State.
+  - **(6)** The term “named storm” means any organized weather system with a defined surface circulation and maximum sustained winds of at least 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
+  - **(7)** The term “Named Storm Event Model” means the official meteorological and oceanographic computerized model, developed by the Administrator under subsection (b)(1)(A), which utilizes covered data to replicate the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with named storms for which post-storm assessments are conducted.
   - **(8)** The term “participant” means a Federal, State, or private entity that chooses to cooperate with the Administrator in carrying out the provisions of this section by collecting, contributing, and maintaining covered data.
   - **(9)** The term “post-storm assessment” means a scientific assessment produced and certified by the Administrator to determine the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with a specific named storm to be used in the COASTAL Formula.
   - **(10)** The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 - **(b)**
   - **(1)**
-    - **(A)** Not later than 540 days after July 6, 2012 , the Administrator shall develop by regulation the Named Storm Event Model.
-    - **(B)** The Named Storm Event Model shall be designed to generate post-storm assessments, as provided in paragraph (2), that have a degree of accuracy of not less than 90 percent for every indeterminate loss for which a post-storm assessment is utilized.
+    - **(A)** Not later than December 31, 2020 , the Administrator shall develop the Named Storm Event Model.
+    - **(B)** The Named Storm Event Model shall be designed to generate post-storm assessments, as provided in paragraph (2), that have a degree of accuracy of not less than 90 percent for an indeterminate loss for which a post-storm assessment is utilized.
+    - **(C)** The Administrator shall seek input and suggestions from the public before the Named Storm Event Model, or any modification to the Named Storm Event Model, takes effect.
   - **(2)**
     - **(A)** After the establishment of the COASTAL Formula, the Administrator shall, in consultation with the Secretary of Homeland Security, identify named storms that may reasonably constitute a threat to any portion of a coastal State.
-    - **(B)** Upon identification of a named storm under subparagraph (A), the Administrator shall develop a post-storm assessment for such named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
-    - **(C)** Not later than 90 days after an identification of a named storm is made under subparagraph (A), the Administrator shall submit to the Secretary of Homeland Security the post-storm assessment developed for such storm under subparagraph (B).
+    - **(B)**
+      - **(i)** Upon identification of a named storm under subparagraph (A), and pursuant to the protocol established under subsection (c), the Administrator may deploy sensors to enhance the collection of covered data in the areas in coastal States that the Administrator determines are at the highest risk of experiencing geophysical events that would cause indeterminate losses.
+      - **(ii)** If the Administrator takes action under clause (i), that action may not be construed as indicating that a post-storm assessment will be developed for any coastal State in which that action is taken.
+    - **(C)** Not later than 30 days after the first date on which sustained winds of not less than 39 miles per hour are measured in a coastal State during a named storm identified under subparagraph (A), the Secretary of Homeland Security shall notify the Administrator with respect to the existence of any indeterminate losses in that coastal State resulting from that named storm.
+    - **(D)** Upon confirmation of indeterminate losses identified under subparagraph (C) with respect to a named storm, the Administrator shall develop a post-storm assessment for each coastal State that suffered such indeterminate losses as a result of the named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
+    - **(E)** Not later than 90 days after any indeterminate losses are identified under subparagraph (C), the Administrator shall submit to the Secretary of Homeland Security the post-storm assessment developed under subparagraph (D) for any coastal State that suffered such indeterminate losses.
+    - **(F)**
+      - **(i)** The Administrator may conduct a separate post-storm assessment for each coastal State in which indeterminate losses are identified under subparagraph (C).
+      - **(ii)** If the Administrator conducts a separate post-storm assessment under clause (i), the Administrator shall complete the assessment based on the dates of actions that the Administrator takes under subparagraph (D).
   - **(3)** The Administrator shall ensure, to the greatest extent practicable, that each post-storm assessment developed under paragraph (2) has a degree of accuracy of not less than 90 percent.
   - **(4)** For each post-storm assessment carried out under paragraph (2), the Administrator shall—
     - **(A)** certify the degree of accuracy for such assessment, including specific reference to any segments or geographic areas for which the assessment is less than 90 percent accurate; and
@@ -38,8 +46,8 @@ generated_at: "2026-03-29T19:30:28.888Z"
   - **(5)** A certification of the degree of accuracy of a post-storm assessment under this subsection by the Administrator shall be final and shall not be subject to judicial review.
   - **(6)** The Administrator shall make available to the public the Named Storm Event Model and any post-storm assessment developed under this subsection.
 - **(c)**
-  - **(1)** Not later than 540 days after July 6, 2012 , the Administrator shall establish a protocol, based on the plan submitted under subsection (d)(3), to collect and assemble all covered data required by the Administrator to produce post-storm assessments required by subsection (b), including assembling data collected by participants and stored in the database established under subsection (f) and from such other sources as the Administrator considers appropriate.
-  - **(2)** If the Administrator is unable to use a public or private asset to obtain covered data as part of the protocol established under paragraph (1), the Administrator may acquire such sensors and structures for the placement of sensors as may be necessary to obtain such data.
+  - **(1)** Not later than December 31, 2020 , the Administrator shall establish a protocol, based on the plan submitted under subsection (d)(3), to collect and assemble all covered data required by the Administrator to produce post-storm assessments required by subsection (b), including assembling data collected by participants and stored in the database established under subsection (f) and from such other sources as the Administrator considers appropriate.
+  - **(2)** If the Administrator is unable to use a public or private asset to obtain covered data as part of the protocol established under paragraph (1), the Administrator may acquire such sensors and structures for the placement of sensors as may, in the discretion of the Administrator, be necessary to obtain such data.
   - **(3)** If the protocol requires placement of a sensor to develop assessments pursuant to subsection (b), the Administrator shall, to the extent practicable, use Federal assets for the placement of such sensors.
   - **(4)**
     - **(A)** If the Administrator acquires a structure for the placement of a sensor for purposes of such protocol, the Administrator shall to the extent practical permit other public and private entities to place sensors on such structure to collect—
@@ -48,7 +56,7 @@ generated_at: "2026-03-29T19:30:28.888Z"
       - **(iii)** navigation-related data;
       - **(iv)** hydrographic data; or
       - **(v)** such other data as the Administrator considers appropriate.
-    - **(B)** The Administrator may receive consideration for the placement of a sensor on a structure under subparagraph (A).
+    - **(B)** The Administrator may receive and expend consideration for the placement of a sensor on a structure under subparagraph (A).
     - **(C)** Consideration received under subparagraph (B) may be received in-kind.
     - **(D)** To the extent practicable, consideration received under subparagraph (B) shall be used for the maintenance of sensors used to collect covered data.
   - **(5)** The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperate with the Administrator in carrying out this subsection.

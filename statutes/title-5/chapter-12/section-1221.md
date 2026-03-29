@@ -3,9 +3,9 @@ title: "Section 1221 - Individual right of action in certain reprisal cases"
 usc_title: 5
 usc_section: "1221"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 1221"
-generated_at: "2026-03-29T19:27:05.238Z"
+generated_at: "2026-03-29T19:43:20.319Z"
 ---
 
 # § 1221. Individual right of action in certain reprisal cases
@@ -45,3 +45,4 @@ generated_at: "2026-03-29T19:27:05.238Z"
   - **(2)** A petition for review under this subsection shall be filed with such court, and within such time, as provided for under section 7703(b).
 - **(i)** Subsections (a) through (h) shall apply in any proceeding brought under section 7513(d) if, or to the extent that, a prohibited personnel practice as defined in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) is alleged.
 - **(j)** In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirement system established under a Federal statute nor any election made by such individual under any such system may be taken into account.
+- **(k)** If the Board grants a stay under subsection (c) and the employee who is the subject of the action is in probationary status, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.

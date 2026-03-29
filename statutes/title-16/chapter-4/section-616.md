@@ -3,9 +3,9 @@ title: "Section 616 - Exportation of timber cut on national forest or public lan
 usc_title: 16
 usc_section: "616"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 616"
-generated_at: "2026-03-29T19:29:27.315Z"
+generated_at: "2026-03-29T19:41:13.561Z"
 ---
 
 # § 616. Exportation of timber cut on national forest or public land in Alaska

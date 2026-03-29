@@ -3,9 +3,9 @@ title: "Section 2511 - General authority to modify discriminatory purchasing req
 usc_title: 19
 usc_section: "2511"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2511"
-generated_at: "2026-03-29T19:28:30.743Z"
+generated_at: "2026-03-29T19:41:21.640Z"
 ---
 
 # § 2511. General authority to modify discriminatory purchasing requirements
@@ -14,11 +14,11 @@ generated_at: "2026-03-29T19:28:30.743Z"
   - **(1)** to United States products and suppliers of such products; or
   - **(2)** to eligible products of another foreign country or instrumentality which is a party to the Agreement and suppliers of such products.
 - **(b)** The President may designate a foreign country or instrumentality for purposes of subsection (a) only if he determines that such country or instrumentality—
-  - **(1)** is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
+  - **(1)** is a country or instrumentality which (A) has become a party to the Agreement or the USMCA (as defined in section 4502 of this title ), and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
   - **(2)** is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
   - **(3)** is a country or instrumentality, other than a major industrial country, which will provide such opportunities to such products and suppliers; or
   - **(4)** is a least developed country.
 - **(c)** The President may modify or withdraw any waiver granted pursuant to subsection (a) or designation made pursuant to subsection (b).
 - **(d)**
-- **(e)** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 1001.1a–2 of the North American Free Trade Agreement to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
+- **(e)** Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in section 4502 of this title ) to procure eligible products in compliance with the procedural provisions of chapter 13 of the USMCA.
 - **(f)** The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.

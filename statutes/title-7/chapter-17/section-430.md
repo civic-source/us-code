@@ -1,14 +1,12 @@
 ---
-title: "Section 430 - Purchase and testing of serums or analogous products; dissemination of test results"
+title: "Section 430 - Transferred"
 usc_title: 7
 usc_section: "430"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 430"
-generated_at: "2026-03-29T19:27:31.678Z"
+generated_at: "2026-03-29T19:43:58.053Z"
 ---
 
-# § 430. Purchase and testing of serums or analogous products; dissemination of test results
-
-The Secretary of Agriculture may purchase in the open market from applicable appropriations samples of all tuberculin, serums, antitoxins, or analogous products, of foreign or domestic manufacture, which are sold in the United States, for the detection, prevention, treatment, or cure of diseases of domestic animals, test the same, and disseminate the results of said tests in such manner as he may deem best.
+# § 430. Transferred
 

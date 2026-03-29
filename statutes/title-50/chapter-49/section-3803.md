@@ -3,9 +3,9 @@ title: "Section 3803 - Persons liable for training and service"
 usc_title: 50
 usc_section: "3803"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3803"
-generated_at: "2026-03-29T19:32:24.261Z"
+generated_at: "2026-03-29T19:44:52.884Z"
 ---
 
 # § 3803. Persons liable for training and service
@@ -32,9 +32,9 @@ generated_at: "2026-03-29T19:32:24.261Z"
   - **(2)** Whenever the Congress shall by concurrent resolution declare—
     - **(A)** that the period of active service required of any age group or groups of persons inducted under this chapter should be decreased to any period less than twenty-four months which may be designated in such resolution; or
     - **(B)** that the period of active service required of any age group or groups of persons inducted under this chapter should be eliminated,
-  - **(3)** , (4) Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 656 .
+  - **(3)** , (4) Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 656 .
   - **(5)** The Commission shall, subject to the direction of the President, exercise general supervision over the training of the National Security Training Corps, which training shall be basic military training. The Commission shall establish such policies and standards with respect to the conduct of the training of members of the National Security Training Corps as are necessary to carry out the purposes of this Act. The Commission shall make adequate provisions for the moral and spiritual welfare of members of the National Security Training Corps. The Secretary of Defense shall designate the military departments to carry out such training. Each military department so designated shall carry out such military training in accordance with the policies and standards of the Commission. The military department or departments so designated to carry out such military training shall, subject to the approval of the Secretary of Defense, and subject to the policies and standards established by the Commission, determine the type or types of basic military training to be given to members of the National Security Training Corps.
-  - **(6)** Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 656 .
+  - **(6)** Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 656 .
   - **(7)** Not later than four months following confirmation of the members of the Commission, the Commission shall submit to the Congress legislative recommendations which shall include, but not be limited to—
     - **(A)** a broad outline for a program deemed by the Commission and approved by the Secretary of Defense to be appropriate to assure that the training carried out under the provisions of this Act shall be of a military nature, but nothing contained in this paragraph shall be construed to grant to the Commission the authority to prescribe the basic type or types of military training to be given members of the National Security Training Corps;
     - **(B)** measures for the personal safety, health, welfare and morals of members of the National Security Training Corps;

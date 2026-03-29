@@ -1,18 +1,14 @@
 ---
-title: "Section 2704 - Authorized levels of military strength and training"
+title: "Section 2704 - Equipment to prevent accidents"
 usc_title: 14
 usc_section: "2704"
 chapter: 27
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 2704"
-generated_at: "2026-03-29T19:27:45.918Z"
+generated_at: "2026-03-29T19:45:04.316Z"
 ---
 
-# § 2704. Authorized levels of military strength and training
+# § 2704. Equipment to prevent accidents
 
-- **(a)** The Coast Guard is authorized an end-of-year strength for active duty personnel of 43,000 for each of fiscal years 2016 and 2017.
-- **(b)** The Coast Guard is authorized average military training student loads for each of fiscal years 2016 and 2017 as follows:
-  - **(1)** For recruit and special training, 2,500 student years.
-  - **(2)** For flight training, 165 student years.
-  - **(3)** For professional training in military and civilian institutions, 350 student years.
-  - **(4)** For officer acquisition, 1,200 student years.
+The Coast Guard may make such expenditures as are deemed appropriate for promotion and maintenance of the safety and occupational health of, and the prevention of accidents affecting, personnel of the Coast Guard, including the purchase of clothing, equipment, and other materials necessary thereto.
+

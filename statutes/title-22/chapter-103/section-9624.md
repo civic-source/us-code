@@ -5,7 +5,7 @@ usc_section: "9624"
 chapter: 103
 current_through: "PL 117-81"
 classification: "22 U.S.C. § 9624"
-generated_at: "2026-03-29T18:44:49.565Z"
+generated_at: "2026-03-29T19:42:08.315Z"
 ---
 
 # § 9624. Termination

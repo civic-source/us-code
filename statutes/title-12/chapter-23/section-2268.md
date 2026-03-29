@@ -3,9 +3,9 @@ title: "Section 2268 - Penalty"
 usc_title: 12
 usc_section: "2268"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 2268"
-generated_at: "2026-03-29T19:28:17.737Z"
+generated_at: "2026-03-29T19:44:54.203Z"
 ---
 
 # § 2268. Penalty
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T19:28:17.737Z"
 - **(e)** If any System institution or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals has entered final judgment in favor of the Farm Credit Administration, the Farm Credit Administration shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action, the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 - **(f)** The Farm Credit Administration shall promulgate regulations establishing procedures necessary to implement section 2267 of this title and this section.
 - **(g)** All penalties collected under authority of this section shall be covered into the Treasury of the United States.
-- **(h)** For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(i) of this title shall be treated as an order that has become final and was issued under section 2261 of this title .
+- **(h)** For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(h) of this title shall be treated as an order that has become final and was issued under section 2261 of this title .

@@ -3,9 +3,9 @@ title: "Section 1595 - Civilian faculty members at certain Department of Defense
 usc_title: 10
 usc_section: "1595"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1595"
-generated_at: "2026-03-29T19:27:25.547Z"
+generated_at: "2026-03-29T19:43:37.942Z"
 ---
 
 # § 1595. Civilian faculty members at certain Department of Defense schools: employment and compensation
@@ -17,4 +17,8 @@ generated_at: "2026-03-29T19:27:25.547Z"
   - **(2)** The Foreign Language Center of the Defense Language Institute.
   - **(3)** The English Language Center of the Defense Language Institute.
   - **(4)** The Western Hemisphere Institute for Security Cooperation.
+  - **(5)** The Joint Special Operations University.
+  - **(6)** The Defense Security Cooperation University.
+  - **(7)** The Defense Institute for Security Governance.
+  - **(8)** The Defense Institute of International Legal Studies.
 - **(d)** In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990 .

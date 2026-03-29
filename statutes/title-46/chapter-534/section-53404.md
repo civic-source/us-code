@@ -3,14 +3,14 @@ title: "Section 53404 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53404"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 53404"
-generated_at: "2026-03-29T02:15:53.772Z"
+generated_at: "2026-03-29T19:44:39.456Z"
 ---
 
 # § 53404. Effectiveness of operating agreements
 
-- **(a)** Subject to the availability of appropriations for such purpose, the Secretary may enter into an operating agreement under this chapter for fiscal year 2022 and any subsequent fiscal year. The agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each fiscal year through the end of fiscal year 2040.
+- **(a)** Subject to the availability of appropriations for such purpose, the Secretary may enter into an operating agreement under this chapter for fiscal year 2022 and any subsequent fiscal year. The agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each fiscal year through the end of fiscal year 2035.
 - **(b)** Any vessel under long term charter to the United States is not eligible to participate in the Fleet.
 - **(c)**
   - **(1)** If the program participant with respect to an operating agreement materially fails to comply with the terms of the agreement—

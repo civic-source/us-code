@@ -3,9 +3,9 @@ title: "Section 3195 - Continuing animal health and disease, food security, and 
 usc_title: 7
 usc_section: "3195"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3195"
-generated_at: "2026-03-29T19:27:31.882Z"
+generated_at: "2026-03-29T19:43:58.292Z"
 ---
 
 # § 3195. Continuing animal health and disease, food security, and stewardship research, education, and extension programs
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:27:31.882Z"
     - **(C)** to provide a scientific peer review of each proposal conducted by a panel of subject matter experts from Federal agencies, academic institutions, State animal health agencies, and the animal agriculture industry; and
     - **(D)** to award competitive grants on the basis of merit, quality, and relevance.
 - **(c)**
-  - **(1)** There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.
+  - **(1)** There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2014 through 2023.
   - **(2)** The Secretary shall reserve not less than $5,000,000 of the funds made available under paragraph (1) to carry out the capacity and infrastructure program under subsection (a).
   - **(3)** The amounts made available under paragraph (1) that are remaining after the reservation of funds under paragraph (2), shall be apportioned as follows:
     - **(A)** 15 percent of such amounts shall be used to carry out the capacity and infrastructure program under subsection (a).

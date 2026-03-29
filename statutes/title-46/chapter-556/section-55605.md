@@ -1,16 +1,16 @@
 ---
-title: "Section 55605 - Short sea transportation defined"
+title: "Section 55605 - Marine highway transportation defined"
 usc_title: 46
 usc_section: "55605"
 chapter: 556
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 55605"
-generated_at: "2026-03-29T19:32:17.381Z"
+generated_at: "2026-03-29T19:44:39.473Z"
 ---
 
-# § 55605. Short sea transportation defined
+# § 55605. Marine highway transportation defined
 
-In this chapter, the term “short sea transportation” means the carriage by a documented vessel of cargo—
+In this chapter, the term “marine highway transportation” means the carriage by a documented vessel of cargo—
 
   - **(1)** that is—
     - **(A)** contained in intermodal cargo containers and loaded by crane on the vessel;

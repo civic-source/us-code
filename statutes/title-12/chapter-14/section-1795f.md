@@ -3,9 +3,9 @@ title: "Section 1795f - Powers of Board"
 usc_title: 12
 usc_section: "1795f"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1795f"
-generated_at: "2026-03-29T19:28:17.655Z"
+generated_at: "2026-03-29T19:44:54.114Z"
 ---
 
 # § 1795f. Powers of Board
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:28:17.655Z"
   - **(2)** prescribe rules and regulations to carry out this subchapter;
   - **(3)** determine the expenditures incurred by the Administration to carry out this subchapter, and the expenditures incurred by the Facility to carry out subchapters I and II of this chapter, and annually assess the Facility and the Administration accordingly;
   - **(4)** borrow from—
-    - **(A)** any source, provided that the total face value of these obligations shall not exceed twelve times the subscribed capital stock and surplus of the Facility; and
+    - **(A)** any source, provided that the total face value of these obligations shall not exceed twelve times the subscribed capital stock and surplus of the Facility, provided that, the total face value of such obligations shall not exceed 16 times the subscribed capital stock and surplus of the Facility for the period beginning on March 27, 2020 , and ending on December 31, 2021 ; and
     - **(B)** the National Credit Union Share Insurance Fund up to $500,000 to defray initial organizational and operating expenses of the Facility at such rates and terms consistent with prevailing market conditions;
   - **(5)** guarantee performance of the terms of any financial obligation of a member but only when such obligation bears a clear and conspicuous notice on its face that only the resources of the Facility underlie such guarantee;
   - **(6)** purchase any asset from a member with the member’s endorsement;

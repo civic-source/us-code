@@ -3,9 +3,9 @@ title: "Section 1781b - Department of Defense policy and plans for military fami
 usc_title: 10
 usc_section: "1781b"
 chapter: 88
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1781b"
-generated_at: "2026-03-29T19:27:25.554Z"
+generated_at: "2026-03-29T19:43:37.949Z"
 ---
 
 # § 1781b. Department of Defense policy and plans for military family readiness
@@ -23,4 +23,3 @@ generated_at: "2026-03-29T19:27:25.554Z"
   - **(3)** Policies on access to military family support programs and activities based on military family populations served and geographical location.
   - **(4)** Metrics to measure the performance and effectiveness of the military family readiness programs and activities of the Department of Defense.
   - **(5)** A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
-- **(d)** Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section.

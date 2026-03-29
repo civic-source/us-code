@@ -3,16 +3,16 @@ title: "Section 3045 - Computation of retired pay"
 usc_title: 33
 usc_section: "3045"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3045"
-generated_at: "2026-03-29T19:30:28.879Z"
+generated_at: "2026-03-29T19:43:07.735Z"
 ---
 
 # § 3045. Computation of retired pay
 
 - **(a)** Each officer on the retired list who first became a member of a uniformed service before September 8, 1980 , shall receive retired pay at the rate determined by multiplying—
   - **(1)** the retired pay base determined under section 1406(g) of title 10 ; by
-  - **(2)** 2½ percent of the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
+  - **(2)** the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
 - **(b)** Each officer on the retired list who first became a member of a uniformed service on or after September 8, 1980 , shall receive retired pay at the rate determined by multiplying—
   - **(1)** the retired pay base determined under section 1407 of title 10 ; by
   - **(2)** the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.

@@ -3,9 +3,9 @@ title: "Section 6398 - Coordination of migrant education activities"
 usc_title: 20
 usc_section: "6398"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 6398"
-generated_at: "2026-03-29T19:28:43.178Z"
+generated_at: "2026-03-29T19:41:03.397Z"
 ---
 
 # § 6398. Coordination of migrant education activities

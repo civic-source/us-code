@@ -3,9 +3,9 @@ title: "Section 5384 - Orderly liquidation of covered financial companies"
 usc_title: 12
 usc_section: "5384"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 5384"
-generated_at: "2026-03-29T19:28:17.865Z"
+generated_at: "2026-03-29T19:44:54.352Z"
 ---
 
 # § 5384. Orderly liquidation of covered financial companies

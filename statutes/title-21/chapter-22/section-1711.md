@@ -3,12 +3,12 @@ title: "Section 1711 - Authorization of appropriations"
 usc_title: 21
 usc_section: "1711"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 1711"
-generated_at: "2026-03-29T19:29:50.507Z"
+generated_at: "2026-03-29T19:41:41.741Z"
 ---
 
 # § 1711. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter except activities otherwise specified, to remain available until expended, such sums as may be necessary for each of fiscal years 2006 through 2010.
+There are authorized to be appropriated to carry out this chapter except activities otherwise specified, to remain available until expended, $18,400,000 for each of fiscal years 2018 through 2023.
 

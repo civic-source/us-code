@@ -3,9 +3,9 @@ title: "Section 40128 - Overflights of national parks"
 usc_title: 49
 usc_section: "40128"
 chapter: 401
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 40128"
-generated_at: "2026-03-29T19:32:28.860Z"
+generated_at: "2026-03-29T19:44:57.974Z"
 ---
 
 # § 40128. Overflights of national parks
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:32:28.860Z"
     - **(D)** Before granting an application under this paragraph, the Administrator, in cooperation with the Director, shall develop an air tour management plan in accordance with subsection (b) and implement such plan.
     - **(E)** The Administrator shall make every effort to act on any application under this paragraph and issue a decision on the application not later than 24 months after it is received or amended.
     - **(F)** In acting on applications under this paragraph to provide commercial air tour operations over a national park, the Administrator shall give priority to an application under this paragraph in any case in which a new entrant commercial air tour operator is seeking operating authority with respect to that national park.
-  - **(3)** Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of the 1 1 So in original. The word “the” probably should not appear. title 14, Code of Federal Regulations if—
+  - **(3)** Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of title 14, Code of Federal Regulations if—
     - **(A)** such activity is permitted under part 119 of such title;
     - **(B)** the operator secures a letter of agreement from the Administrator and the national park superintendent for that national park describing the conditions under which the operations will be conducted; and
     - **(C)** the total number of operations under this exception is limited to not more than five flights in any 30-day period over a particular park.

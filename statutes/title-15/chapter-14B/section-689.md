@@ -3,9 +3,9 @@ title: "Section 689 - Definitions"
 usc_title: 15
 usc_section: "689"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 689"
-generated_at: "2026-03-29T19:27:55.368Z"
+generated_at: "2026-03-29T19:44:42.665Z"
 ---
 
 # § 689. Definitions
@@ -26,7 +26,7 @@ In this part, the following definitions apply:
         - **(II)** that is not located within a metropolitan area, the median household income for such tract does not exceed 80 percent of the statewide median household income; or
       - **(iii)** as determined by the Administrator based on objective criteria, a substantial population of low-income individuals reside, an inadequate access to investment capital exists, or other indications of economic distress exist in that census tract; or
     - **(B)** any area located within—
-      - **(i)** a HUBZone (as defined in section 632(p) of this title and the implementing regulations issued under that section);
+      - **(i)** a HUBZone (as defined in section 632(p) 2 2 See References in Text note below. of this title and the implementing regulations issued under that section);
       - **(ii)** an urban empowerment zone or urban enterprise community (as designated by the Secretary of Housing and Urban Development); or
       - **(iii)** a rural empowerment zone or rural enterprise community (as designated by the Secretary of Agriculture).
   - **(4)** The term “New Markets Venture Capital company” means a company that—
@@ -40,4 +40,4 @@ In this part, the following definitions apply:
     - **(A)** invests solely in small business concerns that contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages;
     - **(B)** is organized or chartered under State business or nonprofit corporations statutes, or formed as a limited partnership; and
     - **(C)** was licensed under section 681(d) of this title , as in effect before September 30, 1996 .
-  - **(8)** The term “State” means such 2 2 So in original. Probably should be “each”. of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+  - **(8)** The term “State” means such 3 3 So in original. Probably should be “each”. of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.

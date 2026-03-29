@@ -5,7 +5,7 @@ usc_section: "5348"
 chapter: 46
 current_through: "PL 117-81"
 classification: "25 U.S.C. § 5348"
-generated_at: "2026-03-29T18:44:25.161Z"
+generated_at: "2026-03-29T19:41:28.492Z"
 ---
 
 # § 5348. Computation of student count

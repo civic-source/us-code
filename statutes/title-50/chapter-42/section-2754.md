@@ -3,14 +3,14 @@ title: "Section 2754 - Life-cycle cost estimates of certain atomic energy defens
 usc_title: 50
 usc_section: "2754"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 2754"
-generated_at: "2026-03-29T19:32:24.210Z"
+generated_at: "2026-03-29T19:44:52.819Z"
 ---
 
 # § 2754. Life-cycle cost estimates of certain atomic energy defense capital assets
 
-- **(a)** The Secretary of Energy shall ensure that an independent life-cycle cost estimate under Department of Energy Order 413.3 (relating to program management and project management for the acquisition of capital assets) of each capital asset described in subsection (b) is conducted before the asset achieves critical decision 2 in the acquisition process.
+- **(a)** The Secretary of Energy shall ensure that an independent life-cycle cost estimate under Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets), or a successor order, of each capital asset described in subsection (b) is conducted before the asset achieves critical decision 2 in the acquisition process.
 - **(b)** A capital asset described in this subsection is an atomic energy defense capital asset—
   - **(1)** the total project cost of which exceeds $100,000,000; and
   - **(2)** the purpose of which is to perform a limited-life, single-purpose mission.

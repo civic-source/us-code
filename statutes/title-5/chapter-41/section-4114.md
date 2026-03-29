@@ -1,12 +1,12 @@
 ---
-title: "Section 4114 - Repealed. Pub. L. 103–226 , § 2(a)(8), Mar. 30, 1994 , 108 Stat. 112 ]"
+title: "Section 4114 - Repealed. Pub. L. 103–226, § 2(a)(8) , Mar. 30, 1994 , 108 Stat. 112 ]"
 usc_title: 5
 usc_section: "4114"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 4114"
-generated_at: "2026-03-29T19:27:05.266Z"
+generated_at: "2026-03-29T19:43:20.341Z"
 ---
 
-# [§ 4114. Repealed. Pub. L. 103–226 , § 2(a)(8), Mar. 30, 1994 , 108 Stat. 112 ]
+# [§ 4114. Repealed. Pub. L. 103–226, § 2(a)(8) , Mar. 30, 1994 , 108 Stat. 112 ]
 

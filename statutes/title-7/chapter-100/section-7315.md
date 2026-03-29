@@ -3,9 +3,9 @@ title: "Section 7315 - Powers"
 usc_title: 7
 usc_section: "7315"
 chapter: 100
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7315"
-generated_at: "2026-03-29T19:27:31.977Z"
+generated_at: "2026-03-29T19:43:58.400Z"
 ---
 
 # § 7315. Powers

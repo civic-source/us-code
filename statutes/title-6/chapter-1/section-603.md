@@ -3,14 +3,14 @@ title: "Section 603 - Homeland security grant programs"
 usc_title: 6
 usc_section: "603"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 603"
-generated_at: "2026-03-29T19:27:39.865Z"
+generated_at: "2026-03-29T19:43:43.809Z"
 ---
 
 # § 603. Homeland security grant programs
 
-- **(a)** The Secretary, through the Administrator, may award grants under sections 604 and 605 of this title to State, local, and tribal governments.
+- **(a)** The Secretary, through the Administrator, may award grants under sections 604, 605, and 609a of this title to State, local, and tribal governments.
 - **(b)** This part shall not be construed to affect any of the following Federal programs:
   - **(1)** Firefighter and other assistance programs authorized under the Federal Fire Prevention and Control Act of 1974 ( 15 U.S.C. 2201 et seq.).
   - **(2)** Grants authorized under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
@@ -20,5 +20,5 @@ generated_at: "2026-03-29T19:27:39.865Z"
   - **(6)** The Interoperable Emergency Communications Grant Program authorized under subchapter XIII.
   - **(7)** Grant programs other than those administered by the Department.
 - **(c)**
-  - **(1)** The grant programs authorized under sections 604 and 605 of this title shall supercede all grant programs authorized under section 3714 of title 42 .
+  - **(1)** The grant programs authorized under sections 604 and 605 of this title shall supercede all grant programs authorized under section 1014 of the USA PATRIOT Act ( 42 U.S.C. 3714 ). 2 2 See References in Text note below.
   - **(2)** The allocation of grants authorized under section 604 or 605 of this title shall be governed by the terms of this part and not by any other provision of law.

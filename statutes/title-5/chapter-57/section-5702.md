@@ -3,9 +3,9 @@ title: "Section 5702 - Per diem; employees traveling on official business"
 usc_title: 5
 usc_section: "5702"
 chapter: 57
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 5702"
-generated_at: "2026-03-29T19:27:05.303Z"
+generated_at: "2026-03-29T19:43:20.373Z"
 ---
 
 # § 5702. Per diem; employees traveling on official business
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:05.303Z"
     - **(A)** a per diem allowance at a rate not to exceed that established by the Administrator of General Services for travel within the continental United States, and by the President or his designee for travel outside the continental United States;
     - **(B)** reimbursement for the actual and necessary expenses of official travel not to exceed an amount established by the Administrator for travel within the continental United States or an amount established by the President or his designee for travel outside the continental United States; or
     - **(C)** a combination of payments described in subparagraphs (A) and (B) of this paragraph.
-  - **(2)** Any per diem allowance or maximum amount of reimbursement shall be established, to the extent feasible, by locality.
+  - **(2)** Any per diem allowance or maximum amount of reimbursement shall be established, to the extent feasible, by locality. The Secretary of Defense shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the travel in the locality of an employee of the Department.
   - **(3)** For travel consuming less than a full day, the payment prescribed by regulation shall be allocated in such manner as the Administrator may prescribe.
 - **(b)**
   - **(1)** Under regulations prescribed pursuant to section 5707 of this title , an employee who is described in subsection (a) of this section and who abandons the travel assignment prior to its completion—

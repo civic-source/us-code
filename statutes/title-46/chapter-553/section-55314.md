@@ -3,14 +3,14 @@ title: "Section 55314 - Transportation requirements for certain exports sponsore
 usc_title: 46
 usc_section: "55314"
 chapter: 553
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 55314"
-generated_at: "2026-03-29T19:32:17.380Z"
+generated_at: "2026-03-29T19:44:39.470Z"
 ---
 
 # § 55314. Transportation requirements for certain exports sponsored by the Secretary of Agriculture
 
-- **[(a)** Repealed. Pub. L. 112–141, div. F, title I , § 100124(a)(1), July 6, 2012 , 126 Stat. 915 .]
+- **[(a)** Repealed. Pub. L. 112–141, div. F, title I, § 100124(a)(1) , July 6, 2012 , 126 Stat. 915 .]
 - **(b)** The activities specified in this subsection are export activities (except inspection or weighing activities, other activities carried out for health or safety, or technical assistance provided in the handling of commercial transactions) of the Secretary of Agriculture or the Commodity Credit Corporation—
   - **(1)** carried out under the Food for Peace Act ( 7 U.S.C. 1691 et seq.);
   - **(2)** carried out under section 416 of the Agricultural Act of 1949 ( 7 U.S.C. 1431 );
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:32:17.380Z"
   - **(5)** under which agricultural commodities or their products are made available for emergency food relief at less than prevailing world market prices;
   - **(6)** under which a cash grant is made directly or through an intermediary to a foreign purchaser to enable the purchaser to obtain United States agricultural commodities or their products in an amount greater than the difference between the prevailing world market price and the United States market price, free along side vessel at a United States port; or
   - **(7)** under which agricultural commodities owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services produced in foreign countries, except export activities described in section 55313(5) of this title .
-- **[(c)** Repealed. Pub. L. 112–141, div. F, title I , § 100124(a)(1), July 6, 2012 , 126 Stat. 915 .]
+- **[(c)** Repealed. Pub. L. 112–141, div. F, title I, § 100124(a)(1) , July 6, 2012 , 126 Stat. 915 .]

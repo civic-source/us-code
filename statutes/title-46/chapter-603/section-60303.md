@@ -3,9 +3,9 @@ title: "Section 60303 - Light money"
 usc_title: 46
 usc_section: "60303"
 chapter: 603
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 60303"
-generated_at: "2026-03-29T19:32:17.386Z"
+generated_at: "2026-03-29T19:44:39.482Z"
 ---
 
 # § 60303. Light money
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T19:32:17.386Z"
   - **(2)** The statement under paragraph (1)(B) shall be made by—
     - **(A)** an owner if one resides at the port of entry; or
     - **(B)** the master if an owner does not reside at the port of entry.
-- **(c)** Subsection (a) section does not apply to a vessel that—
+- **(c)** Subsection (a) does not apply to a vessel that—
   - **(1)** is owned only by citizens of the United States; and
   - **(2)** after entering a port of the United States, becomes documented as a vessel of the United States before leaving that port.

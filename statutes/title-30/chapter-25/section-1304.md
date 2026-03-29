@@ -3,9 +3,9 @@ title: "Section 1304 - Surface owner protection"
 usc_title: 30
 usc_section: "1304"
 chapter: 25
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 1304"
-generated_at: "2026-03-29T19:30:05.294Z"
+generated_at: "2026-03-29T19:42:23.462Z"
 ---
 
 # § 1304. Surface owner protection

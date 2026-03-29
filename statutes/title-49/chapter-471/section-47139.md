@@ -3,9 +3,9 @@ title: "Section 47139 - Emission credits for air quality projects"
 usc_title: 49
 usc_section: "47139"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47139"
-generated_at: "2026-03-29T19:32:28.905Z"
+generated_at: "2026-03-29T19:44:58.035Z"
 ---
 
 # § 47139. Emission credits for air quality projects
@@ -17,5 +17,4 @@ generated_at: "2026-03-29T19:32:28.905Z"
   - **(4)** Credits are provided to airport sponsors in a timely manner.
   - **(5)** The establishment of a method to assure the Secretary that, for any specific airport project for which funding is being requested, the appropriate credits will be granted.
 - **(b)** As a condition for making a grant for a project described in section 47102(3)(K), 47102(3)(L), or 47140 or as a condition for granting approval to collect or use a passenger facility charge for a project described in section 40117(a)(3)(G), 47102(3)(K), 47102(3)(L), or 47140, the Secretary must receive assurance from the State in which the project is located, or from the Administrator of the Environmental Protection Agency where there is a Federal implementation plan, that the airport sponsor will receive appropriate emission credits in accordance with the conditions of this section.
-- **(c)** The Administrator of the Environmental Protection Agency, in consultation with the Secretary, shall determine how to provide appropriate emissions credits to airport projects previously approved under section 47136 consistent with the guidance and conditions specified in subsection (a).
-- **(d)** Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act ( 42 U.S.C. 7416 ).
+- **(c)** Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act ( 42 U.S.C. 7416 ).

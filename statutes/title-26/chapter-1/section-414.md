@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-29T19:30:19.812Z"
+generated_at: "2026-03-29T19:42:47.649Z"
 ---
 
 # § 414. Definitions and special rules
@@ -96,7 +96,7 @@ generated_at: "2026-03-29T19:30:19.812Z"
 - **(i)** For purposes of this part, the term “defined contribution plan” means a plan which provides for an individual account for each participant and for benefits based solely on the amount contributed to the participant’s account, and any income, expenses, gains and losses, and any forfeitures of accounts of other participants which may be allocated to such participant’s account.
 - **(j)** For purposes of this part, the term “defined benefit plan” means any plan which is not a defined contribution plan.
 - **(k)** A defined benefit plan which provides a benefit derived from employer contributions which is based partly on the balance of the separate account of a participant shall—
-  - **(1)** for purposes of section 410 (relating to minimum participation standards), be treated as a defined contribution plan.
+  - **(1)** for purposes of section 410 (relating to minimum participation standards), be treated as a defined contribution plan,
   - **(2)** for purposes of sections 72(d) (relating to treatment of employee contributions as separate contract), 411(a)(7)(A) (relating to minimum vesting standards), 415 (relating to limitations on benefits and contributions under qualified plans), and 401(m) (relating to nondiscrimination tests for matching requirements and employee contributions), be treated as consisting of a defined contribution plan to the extent benefits are based on the separate account of a participant and as a defined benefit plan with respect to the remaining portion of benefits under the plan, and
   - **(3)** for purposes of section 4975 (relating to tax on prohibited transactions), be treated as a defined benefit plan.
 - **(l)**
@@ -304,7 +304,7 @@ generated_at: "2026-03-29T19:30:19.812Z"
     - **(B)** any allocation of any forfeiture with respect to the period of qualified military service.
   - **(4)** If any plan suspends the obligation to repay any loan made to an employee from such plan for any part of any period during which such employee is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code), whether or not qualified military service, such suspension shall not be taken into account for purposes of section 72(p), 401(a), or 4975(d)(1).
   - **(5)** For purposes of this subsection, the term “qualified military service” means any service in the uniformed services (as defined in chapter 43 of title 38, United States Code) by any individual if such individual is entitled to reemployment rights under such chapter with respect to such service.
-  - **(6)** For purposes of this subsection, the term “individual account plan” means any defined contribution plan 3 3 So in original. There is no closing parenthesis. (including any tax-sheltered annuity plan under section 403(b), any simplified employee pension under section 408(k), any qualified salary reduction arrangement under section 408(p), and any eligible deferred compensation plan (as defined in section 457(b)).
+  - **(6)** For purposes of this subsection, the term “individual account plan” means any defined contribution plan (including any tax-sheltered annuity plan under section 403(b), any simplified employee pension under section 408(k), any qualified salary reduction arrangement under section 408(p), and any eligible deferred compensation plan (as defined in section 457(b))).
   - **(7)** For purposes of sections 403(b)(3), 415(c)(3), and 457(e)(5), an employee who is in qualified military service shall be treated as receiving compensation from the employer during such period of qualified military service equal to—
     - **(A)** the compensation the employee would have received during such period if the employee were not in qualified military service, determined based on the rate of pay the employee would have received from the employer but for absence during the period of qualified military service, or
     - **(B)** if the compensation the employee would have received during such period was not reasonably certain, the employee’s average compensation from the employer during the 12-month period immediately preceding the qualified military service (or, if shorter, the period of employment immediately preceding the qualified military service).
@@ -326,7 +326,7 @@ generated_at: "2026-03-29T19:30:19.812Z"
       - **(ii)** the differential wage payment shall be treated as compensation, and
       - **(iii)** the plan shall not be treated as failing to meet the requirements of any provision described in paragraph (1)(C) by reason of any contribution or benefit which is based on the differential wage payment.
     - **(B)**
-      - **(i)** Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii), an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
+      - **(i)** Notwithstanding subparagraph (A)(i), for purposes of section 401(k)(2)(B)(i)(I), 403(b)(7)(A)(ii), 403(b)(11)(A), or 457(d)(1)(A)(ii), 2 2 See References in Text note below. an individual shall be treated as having been severed from employment during any period the individual is performing service in the uniformed services described in section 3401(h)(2)(A).
       - **(ii)** If an individual elects to receive a distribution by reason of clause (i), the plan shall provide that the individual may not make an elective deferral or employee contribution during the 6-month period beginning on the date of the distribution.
     - **(C)** Subparagraph (A)(iii) shall apply only if all employees of an employer (as determined under subsections (b), (c), (m), and ( o )) performing service in the uniformed services described in section 3401(h)(2)(A) are entitled to receive differential wage payments on reasonably equivalent terms and, if eligible to participate in a retirement plan maintained by the employer, to make contributions based on the payments on reasonably equivalent terms. For purposes of applying this subparagraph, the provisions of paragraphs (3), (4), and (5) of section 410(b) shall apply.
     - **(D)** For purposes of this paragraph, the term “differential wage payment” has the meaning given such term by section 3401(h)(2).
@@ -393,7 +393,7 @@ generated_at: "2026-03-29T19:30:19.812Z"
     - **(E)** a simple retirement account (as defined in section 408(p)).
   - **(6)** A withdrawal described in paragraph (1) (subject to the limitation of paragraph (2)(C)) shall not be taken into account for purposes of section 401(k)(3) or for purposes of applying the limitation under section 402(g)(1).
 - **(x)**
-  - **(1)** Except as provided in this subsection, the requirements of this title shall be applied to any defined benefit plan or applicable defined contribution plan which are 4 4 So in original. Probably should be “is”. part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
+  - **(1)** Except as provided in this subsection, the requirements of this title shall be applied to any defined benefit plan or applicable defined contribution plan which is part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “eligible combined plan” means a plan—
       - **(i)** which is maintained by an employer which, at the time the plan is established, is a small employer,
@@ -450,13 +450,18 @@ generated_at: "2026-03-29T19:30:19.812Z"
       - **(i)** section 104(a)(2) of such Act;
       - **(ii)** the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
       - **(iii)** paragraph (3)(B);
-    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3); or
+    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3);
     - **(C)** that, as of June 25, 2010 , was maintained by an employer—
-      - **(i)** described in section 501(c)(3) of such Code, 5 5 So in original. Probably means section 501(c)(3) of this title .
+      - **(i)** described in section 501(c)(3),
       - **(ii)** chartered under part B of subtitle II of title 36, United States Code,
       - **(iii)** with employees in at least 40 States, and
-      - **(iv)** whose primary exempt purpose is to provide services with respect to children.
-  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph 6 6 So in original. (B) and (C) of paragraph (1).
+      - **(iv)** whose primary exempt purpose is to provide services with respect to children; or
+    - **(D)** that, as of January 1, 2000 , was maintained by an employer—
+      - **(i)** described in section 501(c)(3),
+      - **(ii)** who has been in existence since at least 1938,
+      - **(iii)** who conducts medical research directly or indirectly through grant making, and
+      - **(iv)** whose primary exempt purpose is to provide services with respect to mothers and children.
+  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraphs (B) and (C) of paragraph (1).
   - **(3)**
     - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary.
     - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.

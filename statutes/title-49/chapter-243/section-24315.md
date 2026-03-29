@@ -3,9 +3,9 @@ title: "Section 24315 - Reports and audits"
 usc_title: 49
 usc_section: "24315"
 chapter: 243
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 24315"
-generated_at: "2026-03-29T19:32:28.806Z"
+generated_at: "2026-03-29T19:44:57.920Z"
 ---
 
 # § 24315. Reports and audits
@@ -18,16 +18,18 @@ generated_at: "2026-03-29T19:32:28.806Z"
     - **(D)** the revenue-to-cost ratio;
     - **(E)** revenues;
     - **(F)** the United States Government subsidy;
-    - **(G)** the subsidy not provided by the United States Government; and
-    - **(H)** on-time performance;
+    - **(G)** the subsidy not provided by the United States Government;
+    - **(H)** on-time performance; and
+    - **(I)** any change made to a route’s or service’s frequency or station stops;
   - **(2)** provides relevant information about a decision to pay an officer of Amtrak more than the rate for level I of the Executive Schedule under section 5312 of title 5 ; and
   - **(3)** specifies—
     - **(A)** significant operational problems Amtrak identifies; and
     - **(B)** proposals by Amtrak to solve those problems.
 - **(b)**
   - **(1)** Not later than February 15 of each year, Amtrak shall submit to the President and Congress a complete report of its operations, activities, and accomplishments, including a statement of revenues and expenditures for the prior fiscal year. The report—
-    - **(A)** shall include a discussion and accounting of Amtrak’s success in meeting the goal of section 24902(b) 1 1 See References in Text note below. of this title; and
-    - **(B)** may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance.
+    - **(A)** shall include a discussion and accounting of Amtrak’s success in meeting the goal described in section 24902(a);
+    - **(B)** may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance; and
+    - **(C)** shall incorporate the category described in section 24319(c)(2)(C).
   - **(2)** Amtrak may submit reports to the President and Congress at other times Amtrak considers desirable.
 - **(c)** The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title .
 - **(d)** An independent certified public accountant shall audit the financial statements of Amtrak each year. The audit shall be carried out at the place at which the financial statements normally are kept and under generally accepted auditing standards. A report of the audit shall be included in the report required by subsection (a) of this section.

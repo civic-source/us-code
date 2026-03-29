@@ -3,9 +3,9 @@ title: "Section 1322a - Multiemployer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322a"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1322a"
-generated_at: "2026-03-29T19:30:07.610Z"
+generated_at: "2026-03-29T19:42:21.534Z"
 ---
 
 # § 1322a. Multiemployer plan benefits guaranteed
@@ -86,8 +86,8 @@ generated_at: "2026-03-29T19:30:07.610Z"
   - **(5)** Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26 , but only with respect to benefits guaranteed under this subsection.
 - **(h)**
   - **(1)** Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980 , with respect to a participant or beneficiary under a multiemployer plan—
-  - **(1)** who is in pay status on July 29, 1980 , or
-  - **(2)** who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
+  - **(1)** 2 who is in pay status on July 29, 1980 , or
+    - **(2)** 3 3 So in original. Probably should be “(B)”. who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
   - **(2)** The benefits described in paragraph (1) shall be guaranteed by the corporation in the same manner and to the same extent as benefits are guaranteed by the corporation under section 1322 of this title (without regard to this section).
   - **(3)** This subsection does not apply with respect to a plan for plan years following a plan year—
     - **(A)** in which the plan has terminated within the meaning of section 1341a(a)(2) of this title , or

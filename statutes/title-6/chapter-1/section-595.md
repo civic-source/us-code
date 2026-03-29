@@ -1,14 +1,12 @@
 ---
-title: "Section 595 - Relationship to other Department entities and Federal agencies"
+title: "Section 595 - Repealed. Pub. L. 115–387, § 2(a)(4) , Dec. 21, 2018 , 132 Stat. 5163"
 usc_title: 6
 usc_section: "595"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 595"
-generated_at: "2026-03-29T19:27:39.865Z"
+generated_at: "2026-03-29T19:43:43.808Z"
 ---
 
-# § 595. Relationship to other Department entities and Federal agencies
-
-The authority of the Director under this subchapter shall not affect the authorities or responsibilities of any officer of the Department or of any officer of any other department or agency of the United States with respect to the command, control, or direction of the functions, personnel, funds, assets, and liabilities of any entity within the Department or any Federal department or agency.
+# § 595. Repealed. Pub. L. 115–387, § 2(a)(4) , Dec. 21, 2018 , 132 Stat. 5163
 

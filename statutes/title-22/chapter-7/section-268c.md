@@ -3,9 +3,9 @@ title: "Section 268c - Limitation on expenditure of funds for compensation of In
 usc_title: 22
 usc_section: "268c"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 268c"
-generated_at: "2026-03-29T19:29:46.651Z"
+generated_at: "2026-03-29T19:42:07.945Z"
 ---
 
 # § 268c. Limitation on expenditure of funds for compensation of International Boundary Commissioner to actual hours worked

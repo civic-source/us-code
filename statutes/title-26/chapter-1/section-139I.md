@@ -5,7 +5,7 @@ usc_section: "139I"
 chapter: 1
 current_through: "PL 117-81"
 classification: "26 U.S.C. § 139I"
-generated_at: "2026-03-29T18:45:36.867Z"
+generated_at: "2026-03-29T19:42:47.549Z"
 ---
 
 # § 139I. Continuation coverage premium assistance

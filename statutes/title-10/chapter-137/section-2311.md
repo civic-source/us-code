@@ -1,22 +1,12 @@
 ---
-title: "Section 2311 - Assignment and delegation of procurement functions and responsibilities"
+title: "Section 2311 - Renumbered § 3065]"
 usc_title: 10
 usc_section: "2311"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2311"
-generated_at: "2026-03-29T19:27:25.584Z"
+generated_at: "2026-03-29T19:43:37.975Z"
 ---
 
-# § 2311. Assignment and delegation of procurement functions and responsibilities
+# [§ 2311. Renumbered § 3065]
 
-- **(a)** Except to the extent expressly prohibited by another provision of law, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.
-- **(b)** Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in section 2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
-  - **(1)** the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
-  - **(2)** the heads of two or more agencies may by agreement delegate procurement functions and assign procurement responsibilities from one agency to another of those agencies or to an officer or civilian employee of another of those agencies; and
-  - **(3)** the heads of two or more agencies may create joint or combined offices to exercise procurement functions and responsibilities.
-- **(c)**
-  - **(1)** The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
-  - **(2)** The regulations shall include the following provisions:
-    - **(A)** A requirement that, before any such termination or substantial reduction in participation is approved, the proposed termination or reduction be reviewed by the Joint Requirements Oversight Council of the Department of Defense.
-    - **(B)** A provision that authorizes the Under Secretary of Defense for Acquisition, Technology, and Logistics to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.

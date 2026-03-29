@@ -3,18 +3,18 @@ title: "Section 505 - Regular components: qualifications, term, grade"
 usc_title: 10
 usc_section: "505"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 505"
-generated_at: "2026-03-29T19:27:25.445Z"
+generated_at: "2026-03-29T19:43:37.818Z"
 ---
 
 # § 505. Regular components: qualifications, term, grade
 
-- **(a)** The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
-- **(b)** A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
-- **(c)** The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
+- **(a)** The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
+- **(b)** A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
+- **(c)** The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be.
 - **(d)**
-  - **(1)** The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
+  - **(1)** The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
   - **(2)** In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than eight years.
   - **(3)** In the case of a member who has at least 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the Secretary concerned may accept a reenlistment for either—
     - **(A)** a specified period of at least two years but not more than eight years; or

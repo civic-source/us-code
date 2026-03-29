@@ -3,9 +3,9 @@ title: "Section 7447 - Retirement"
 usc_title: 26
 usc_section: "7447"
 chapter: 76
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7447"
-generated_at: "2026-03-29T19:30:20.248Z"
+generated_at: "2026-03-29T19:42:48.015Z"
 ---
 
 # § 7447. Retirement

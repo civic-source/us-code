@@ -3,13 +3,19 @@ title: "Section 844 - Art. 44. Former jeopardy"
 usc_title: 10
 usc_section: "844"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 844"
-generated_at: "2026-03-29T19:27:25.471Z"
+generated_at: "2026-03-29T19:43:37.847Z"
 ---
 
 # § 844. Art. 44. Former jeopardy
 
 - **(a)** No person may, without his consent, be tried a second time for the same offense.
 - **(b)** No proceeding in which an accused has been found guilty by a court-martial upon any charge or specification is a trial in the sense of this article until the finding of guilty has become final after review of the case has been fully completed.
-- **(c)** A proceeding which, after the introduction of evidence but before a finding, is dismissed or terminated by the convening authority or on motion of the prosecution for failure of available evidence or witnesses without any fault of the accused is a trial in the sense of this article.
+- **(c)**
+  - **(1)** A court-martial with a military judge alone is a trial in the sense of this section (article) if, without fault of the accused—
+    - **(A)** after introduction of evidence; and
+    - **(B)** before announcement of findings under section 853 of this title (article 53);
+  - **(2)** A court-martial with a military judge and members is a trial in the sense of this section (article) if, without fault of the accused—
+    - **(A)** after the members, having taken an oath as members under section 842 of this title (article 42) and after completion of challenges under section 841 of this title (article 41), are impaneled; and
+    - **(B)** before announcement of findings under section 853 of this title (article 53);

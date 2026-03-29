@@ -3,9 +3,9 @@ title: "Section 1087dd - Terms of loans"
 usc_title: 20
 usc_section: "1087dd"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1087dd"
-generated_at: "2026-03-29T19:28:43.018Z"
+generated_at: "2026-03-29T19:41:03.238Z"
 ---
 
 # § 1087dd. Terms of loans
@@ -51,8 +51,9 @@ generated_at: "2026-03-29T19:28:43.018Z"
       - **(iii)** during which the borrower—
         - **(I)** is serving on active duty during a war or other military operation or national emergency; or
         - **(II)** is performing qualifying National Guard duty during a war or other military operation or national emergency,
-      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship; or
-      - **(v)** during which the borrower is engaged in service described in section 1087ee(a)(2) of this title ;
+      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship;
+      - **(v)** during which the borrower is engaged in service described in section 1087ee(a)(2) of this title ; or
+      - **(vi)** during which the borrower is receiving treatment for cancer and the 6 months after such period;
     - **(B)** No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
     - **(C)** An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998 , shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
   - **(3)**
@@ -99,7 +100,7 @@ generated_at: "2026-03-29T19:28:43.018Z"
     - **(C)** include such other incentive repayment options as the institution determines will carry out the objectives of this subsection.
   - **(2)** No incentive repayment option under an incentive repayment program authorized by this subsection may be paid for with Federal funds, including any Federal funds from the student loan fund, or with institutional funds from the student loan fund.
 - **(j)**
-  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(1)(C).
 - **(k)** The Secretary may develop such additional safeguards as the Secretary determines necessary to prevent fraud and abuse in the cancellation of liability under subsection (c)(1)(F). Notwithstanding subsection (c)(1)(F), the Secretary may promulgate regulations to resume collection on loans cancelled under subsection (c)(1)(F) in any case in which—
   - **(1)** a borrower received a cancellation of liability under subsection (c)(1)(F) and after the cancellation the borrower—

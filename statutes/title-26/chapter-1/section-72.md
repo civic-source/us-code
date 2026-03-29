@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-29T19:30:19.685Z"
+generated_at: "2026-03-29T19:42:47.525Z"
 ---
 
 # § 72. Annuities; certain proceeds of endowment and life insurance contracts
@@ -170,7 +170,7 @@ generated_at: "2026-03-29T19:30:19.685Z"
   - **(3)**
     - **(A)** For purposes of this subsection, rules similar to the rules provided by subsection (p) (other than the exception contained in paragraph (2) thereof) shall apply.
     - **(B)** To the extent any amount of accumulated deductible employee contributions of an employee are applied to the purchase of life insurance contracts, such amount shall be treated as distributed to the employee in the year so applied.
-  - **(4)** For purposes of sections 402(c), 403(a)(4), and 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
+  - **(4)** For purposes of sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
   - **(5)** For purposes of this subsection—
     - **(A)** The term “deductible employee contributions” means any qualified voluntary employee contribution (as defined in section 219(e)(2)) made after December 31, 1981 , in a taxable year beginning after such date and made for a taxable year beginning before January 1, 1987 , and allowable as a deduction under section 219(a) for such taxable year.
     - **(B)** The term “accumulated deductible employee contributions” means the deductible employee contributions—
@@ -193,7 +193,8 @@ generated_at: "2026-03-29T19:30:19.685Z"
       - **(i)** Subparagraph (A) shall not apply to any loan unless such loan, by its terms, is required to be repaid within 5 years.
       - **(ii)** Clause (i) shall not apply to any loan used to acquire any dwelling unit which within a reasonable time is to be used (determined at the time the loan is made) as the principal residence of the participant.
     - **(C)** Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan (with payments not less frequently than quarterly) is required over the term of the loan.
-    - **(D)** For purposes of this paragraph—
+    - **(D)** Subparagraph (A) shall not apply to any loan which is made through the use of any credit card or any other similar arrangement.
+    - **(E)** For purposes of this paragraph—
       - **(i)** the rules of subsections (b), (c), and (m) of section 414 shall apply, and
       - **(ii)** all plans of an employer (determined after the application of such subsections) shall be treated as 1 plan.
   - **(3)**
@@ -212,7 +213,7 @@ generated_at: "2026-03-29T19:30:19.685Z"
   - **(5)** For purposes of this subsection, any amount received as a loan under a contract purchased under a qualified employer plan (and any assignment or pledge with respect to such a contract) shall be treated as a loan under such employer plan.
 - **(q)**
   - **(1)** If any taxpayer receives any amount under an annuity contract, the taxpayer’s tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of such amount which is includible in gross income.
-  - **(2)** Paragraph 1 shall not apply to any distribution—
+  - **(2)** Paragraph (1) shall not apply to any distribution—
     - **(A)** made on or after the date on which the taxpayer attains age 59½,
     - **(B)** made on or after the death of the holder (or, where the holder is not an individual, the death of the primary annuitant (as defined in subsection (s)(6)(B))),
     - **(C)** attributable to the taxpayer’s becoming disabled within the meaning of subsection (m)(7),
@@ -299,6 +300,25 @@ generated_at: "2026-03-29T19:30:19.685Z"
         - **(II)** such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37 , United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
         - **(III)** such distribution is made during the period beginning on the date of such order or call and ending at the close of the active duty period.
       - **(iv)** This subparagraph applies to individuals ordered or called to active duty after September 11, 2001 . In no event shall the 2-year period referred to in clause (ii) end before the date which is 2 years after the date of the enactment of this subparagraph.
+    - **(H)**
+      - **(i)** Any qualified birth or adoption distribution.
+      - **(ii)** The aggregate amount which may be treated as qualified birth or adoption distributions by any individual with respect to any birth or adoption shall not exceed $5,000.
+      - **(iii)** For purposes of this subparagraph—
+        - **(I)** The term “qualified birth or adoption distribution” means any distribution from an applicable eligible retirement plan to an individual if made during the 1-year period beginning on the date on which a child of the individual is born or on which the legal adoption by the individual of an eligible adoptee is finalized.
+        - **(II)** The term “eligible adoptee” means any individual (other than a child of the taxpayer’s spouse) who has not attained age 18 or is physically or mentally incapable of self-support.
+      - **(iv)**
+        - **(I)** If a distribution to an individual would (without regard to clause (ii)) be a qualified birth or adoption distribution, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as a qualified birth or adoption distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $5,000.
+        - **(II)** For purposes of subclause (I), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414.
+      - **(v)**
+        - **(I)** Any individual who receives a qualified birth or adoption distribution may make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+        - **(II)** The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to make contributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
+        - **(III)** If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an applicable eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received such distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+        - **(IV)** If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an individual retirement plan, then, to the extent of the amount of the contribution, such distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+      - **(vi)** For purposes of this subparagraph—
+        - **(I)** The term “applicable eligible retirement plan” means an eligible retirement plan (as defined in section 402(c)(8)(B)) other than a defined benefit plan.
+        - **(II)** For purposes of sections 401(a)(31), 402(f), and 3405, a qualified birth or adoption distribution shall not be treated as an eligible rollover distribution.
+        - **(III)** A distribution shall not be treated as a qualified birth or adoption distribution with respect to any child or eligible adoptee unless the taxpayer includes the name, age, and TIN of such child or eligible adoptee on the taxpayer’s return of tax for the taxable year.
+        - **(IV)** Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), and 457(d)(1)(A).
   - **(3)**
     - **(A)** Subparagraphs (A)(v) and (C) of paragraph (2) shall not apply to distributions from an individual retirement plan.
     - **(B)** Paragraph (2)(A)(iv) shall not apply to any amount paid from a trust described in section 401(a) which is exempt from tax under section 501(a) or from a contract described in section 72(e)(5)(D)(ii) unless the series of payments begins after the employee separates from service.

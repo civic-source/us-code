@@ -3,9 +3,9 @@ title: "Section 4721 - Referral of ethics violations by Senate Ethics Committee 
 usc_title: 2
 usc_section: "4721"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 4721"
-generated_at: "2026-03-29T19:27:07.593Z"
+generated_at: "2026-03-29T19:42:59.699Z"
 ---
 
 # § 4721. Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation

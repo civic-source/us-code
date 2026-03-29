@@ -1,17 +1,12 @@
 ---
-title: "Section 1413 - 470–512 MHz public safety spectrum"
+title: "Section 1413 - Repealed. Pub. L. 116–260, div. FF, title IX, § 902(b)(1) , Dec. 27, 2020 , 134 Stat. 3206"
 usc_title: 47
 usc_section: "1413"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 1413"
-generated_at: "2026-03-29T19:32:13.832Z"
+generated_at: "2026-03-29T19:44:37.262Z"
 ---
 
-# § 1413. 470–512 MHz public safety spectrum
+# § 1413. Repealed. Pub. L. 116–260, div. FF, title IX, § 902(b)(1) , Dec. 27, 2020 , 134 Stat. 3206
 
-- **(a)** Not later than 9 years after February 22, 2012 , the Commission shall—
-  - **(1)** reallocate the spectrum in the 470–512 MHz band (referred to in this section as the “T-Band spectrum”) currently used by public safety eligibles as identified in section 90.303 of title 47, Code of Federal Regulations; and
-  - **(2)** begin a system of competitive bidding under section 309(j) of this title to grant new initial licenses for the use of the spectrum described in paragraph (1).
-- **(b)** Proceeds (including deposits and upfront payments from successful bidders) from the competitive bidding system described in subsection (a)(2) shall be available to the Assistant Secretary to make grants in such sums as necessary to cover relocation costs for the relocation of public safety entities from the T-Band spectrum.
-- **(c)** Relocation shall be completed not later than 2 years after the date on which the system of competitive bidding described in subsection (a)(2) is completed.

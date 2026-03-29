@@ -3,9 +3,9 @@ title: "Section 1154 - Contract authority"
 usc_title: 20
 usc_section: "1154"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1154"
-generated_at: "2026-03-29T19:28:43.060Z"
+generated_at: "2026-03-29T19:41:03.284Z"
 ---
 
 # § 1154. Contract authority

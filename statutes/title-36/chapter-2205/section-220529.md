@@ -3,14 +3,14 @@ title: "Section 220529 - Arbitration of corporation determinations"
 usc_title: 36
 usc_section: "220529"
 chapter: 2205
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 220529"
-generated_at: "2026-03-29T19:30:42.096Z"
+generated_at: "2026-03-29T19:43:23.326Z"
 ---
 
 # § 220529. Arbitration of corporation determinations
 
-- **(a)** A party aggrieved by a determination of the corporation under section 220527 or 220528 of this title may obtain review by any regional office of the American Arbitration Association.
+- **(a)** A party aggrieved by a determination of the corporation under section 220527 or 220528 of this title may obtain review by the arbitration and mediation provider designated by the corporation under section 220522(a)(4).
 - **(b)**
   - **(1)** A demand for arbitration must be submitted within 30 days after the determination of the corporation.
   - **(2)** On receipt of a demand for arbitration, the Association shall serve notice on the parties to the arbitration and on the corporation, and shall immediately proceed with arbitration according to the commercial rules of the Association in effect at the time the demand is filed, except that—

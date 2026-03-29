@@ -3,9 +3,9 @@ title: "Section 40109 - Authority to exempt"
 usc_title: 49
 usc_section: "40109"
 chapter: 401
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 40109"
-generated_at: "2026-03-29T19:32:28.855Z"
+generated_at: "2026-03-29T19:44:57.970Z"
 ---
 
 # § 40109. Authority to exempt
@@ -15,8 +15,8 @@ generated_at: "2026-03-29T19:32:28.855Z"
     - **(A)** an air carrier not engaged directly in operating aircraft in air transportation; or
     - **(B)** a foreign air carrier not engaged directly in operating aircraft in foreign air transportation.
   - **(2)** The exemption is effective to the extent and for periods that the Secretary decides are in the public interest.
-- **(b)** The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119, 44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
-- **(c)** Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909 and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
+- **(b)** The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 1 1 So in original. Probably should be “section”. 40103(b)(1) and (2) of this title when the Administrator decides the exemption is in the public interest.
+- **(c)** Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909(a), 44909(b), and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
 - **(d)** The Secretary may not exempt an air carrier from section 42112 of this title . However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
   - **(1)** because of the limited extent of, or unusual circumstances affecting, the operation of the air carrier, the enforcement of section 42112(b)(1) and (2) of this title is or would be an unreasonable burden on the air carrier that would obstruct its development and prevent it from beginning or continuing operations; and
   - **(2)** the exemption would not affect adversely the public interest.
@@ -42,6 +42,9 @@ generated_at: "2026-03-29T19:32:28.855Z"
   - **(2)** When the Secretary grants an exemption to a foreign air carrier under this subsection, the Secretary shall—
     - **(A)** ensure that air transportation that the foreign air carrier provides under the exemption is made available on reasonable terms;
     - **(B)** monitor continuously the passenger load factor of air carriers in the market that hold certificates under section 41102 of this title ; and
-    - **(C)** review the exemption at least every 30 days to ensure that the unusual circumstances that established the need for the exemption still exist.
-  - **(3)** The Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days. An exemption may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease.
+    - **(C)** review the exemption at least every 30 days (or, in the case of an exemption that is necessary to provide and sustain air transportation in American Samoa between the islands of Tutuila and Manu’a, at least every 180 days) to ensure that the unusual circumstances that established the need for the exemption still exist.
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (B), the Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days.
+    - **(B)** The Secretary may renew an exemption (including renewals) under this subsection that is necessary to provide and sustain air transportation in American Samoa between the islands of Tutuila and Manu’a for not more than 180 days.
+  - **(4)** An exemption granted by the Secretary under this subsection may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease.
 - **(h)** The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.

@@ -3,9 +3,9 @@ title: "Section 47115 - Discretionary fund"
 usc_title: 49
 usc_section: "47115"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47115"
-generated_at: "2026-03-29T19:32:28.902Z"
+generated_at: "2026-03-29T19:44:58.031Z"
 ---
 
 # § 47115. Discretionary fund
@@ -39,5 +39,32 @@ generated_at: "2026-03-29T19:32:28.902Z"
   - **(2)** In a fiscal year in which the amount credited under subsection (a) is less than the minimum amount to be credited under paragraph (1), the total amount calculated under paragraph (3) shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals such minimum amount.
   - **(3)** For a fiscal year, the total amount available to make a reduction to carry out paragraph (2) is the total of the amounts determined under sections 47114(c)(1)(A), 47114(c)(2), 47114(d), and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.
 - **(h)** In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e).
-- **(i)** In order to assure that funding under this subchapter is provided to the greatest needs, the Secretary, in selecting a project described in section 47102(3)(J) 1 1 See References in Text note below. for a grant, shall consider the non-federal 2 2 So in original. Probably should be “non-Federal”. resources available to sponsor, the use of such non-federal 2 resources, and the degree to which the sponsor is providing increased funding for the project.
-- **(j)** For fiscal years 2012 through 2017, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+- **(i)** For fiscal years 2018 through 2023, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+- **(j)**
+  - **(1)** The Secretary shall establish a program to provide grants, subject to the conditions of this subsection, for any purpose for which amounts are made available under section 48103 that the Secretary considers most appropriate to carry out this subchapter.
+  - **(2)**
+    - **(A)** A grant made under this subsection shall be treated as having been made pursuant to the Secretary’s authority under section 47104(a) and from the Secretary’s discretionary fund under subsection (a) of this section.
+    - **(B)** Except as otherwise provided in this subsection, grants made under this subsection shall not be subject to subsection (c), section 47117(e), or any other apportionment formula, special apportionment category, or minimum percentage set forth in this chapter.
+  - **(3)**
+    - **(A)** The Secretary may provide grants under this subsection for an airport or terminal development project at any airport that is eligible to receive a grant from the discretionary fund under subsection (a) of this section.
+    - **(B)** Not less than 50 percent of the amounts available under this subsection shall 1 1 So in original. The word “be” probably should appear. used to provide grants at—
+      - **(i)** airports that are eligible for apportionment under section 47114(d)(3); and
+      - **(ii)** nonhub and small hub airports.
+  - **(4)**
+    - **(A)** There is authorized to be appropriated to the Secretary to carry out this subsection the following amounts:
+      - **(i)** $1,020,000,000 for fiscal year 2019.
+      - **(ii)** $1,041,000,000 for fiscal year 2020.
+      - **(iii)** $1,064,000,000 for fiscal year 2021.
+      - **(iv)** $1,087,000,000 for fiscal year 2022.
+      - **(v)** $1,110,000,000 for fiscal year 2023.
+    - **(B)** Sums authorized to be appropriated under subparagraph (A) shall remain available for 2 fiscal years.
+- **(k)**
+  - **(1)** The Secretary may make grants with funds made available under this section for an airport participating in the program under section 47134 if—
+    - **(A)** the Secretary has approved the application of an airport sponsor under section 47134(b) in fiscal year 2019; and
+    - **(B)** the grant will—
+      - **(i)** satisfy an obligation incurred by an airport sponsor under section 47110(e) or funded by a nonpublic sponsor for an airport development project on the airport; or
+      - **(ii)** provide partial Federal reimbursement for airport development (as defined in section 47102) on the airport layout plan initiated in the fiscal year in which the application was approved, or later, for over a period of not more than 10 years.
+  - **(2)** Grants made under this subsection shall not be subject to—
+    - **(A)** subsection (c) of this section;
+    - **(B)** section 47117(e); or
+    - **(C)** any other apportionment formula, special apportionment category, or minimum percentage set forth in this chapter.

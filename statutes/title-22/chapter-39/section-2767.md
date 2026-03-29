@@ -3,9 +3,9 @@ title: "Section 2767 - Authority of President to enter into cooperative projects
 usc_title: 22
 usc_section: "2767"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2767"
-generated_at: "2026-03-29T19:29:46.815Z"
+generated_at: "2026-03-29T19:42:08.129Z"
 ---
 
 # § 2767. Authority of President to enter into cooperative projects with friendly foreign countries
@@ -37,8 +37,8 @@ generated_at: "2026-03-29T19:29:46.815Z"
 - **(g)** In the case of a cooperative project with a North Atlantic Treaty Organization country, section, 3 3 So in original. The comma probably should not appear. 2776(b) of this title shall not apply to sales made under section 2761 or 2762 of this title and to production and exports made pursuant to cooperative projects under this section, and section 2776(c) of this title shall not apply to the issuance of licenses or other approvals under section 2778 of this title , if such sales are made, such production and exports ensue, or such licenses or approvals are issued, as part of a cooperative project.
 - **(h)** The authority under this section is in addition to the authority under sections 2761 and 2762 of this title and under any other provision of law.
 - **(i)**
-  - **(1)** With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date 4 4 See References in Text note below. of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
-  - **(2)** Notwithstanding the amendment made 5 5 So in original. The word “made” probably should not appear. to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date 4 of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date 4 of that amendment.
+  - **(1)** With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date 1 of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
+  - **(2)** Notwithstanding the amendment made 4 4 So in original. The word “made” probably should not appear. to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date 1 of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date 1 of that amendment.
 - **(j)**
   - **(1)** The President may enter into a cooperative project agreement with any friendly foreign country not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
   - **(2)** Omitted.

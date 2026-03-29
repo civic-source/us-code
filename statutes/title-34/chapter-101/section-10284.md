@@ -5,7 +5,7 @@ usc_section: "10284"
 chapter: 101
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 10284"
-generated_at: "2026-03-29T18:45:50.299Z"
+generated_at: "2026-03-29T19:42:53.073Z"
 ---
 
 # § 10284. Definitions

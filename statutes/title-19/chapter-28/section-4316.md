@@ -3,9 +3,9 @@ title: "Section 4316 - Commercial Customs Operations Advisory Committee"
 usc_title: 19
 usc_section: "4316"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 4316"
-generated_at: "2026-03-29T19:28:30.804Z"
+generated_at: "2026-03-29T19:41:21.698Z"
 ---
 
 # § 4316. Commercial Customs Operations Advisory Committee
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:28:30.804Z"
       - **(i)** to ensure that the membership of the Advisory Committee is representative of the individuals and firms affected by the commercial operations of U.S. Customs and Border Protection; and
       - **(ii)** without regard to political affiliation.
     - **(C)** Each individual appointed to the Advisory Committee under this paragraph shall be appointed for a term of not more than 3 years, and may be reappointed to subsequent terms, but may not serve more than 2 terms sequentially.
-  - **(3)** The Secretary of the Treasury and the Secretary of Homeland Security may transfer members serving on the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) on the day before February 24, 2016 , to the Advisory Committee established under subsection (a).
+  - **(3)** The Secretary of the Treasury and the Secretary of Homeland Security may transfer members serving on the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) 1 1 See References in Text note below. on the day before February 24, 2016 , to the Advisory Committee established under subsection (a).
 - **(c)** The Advisory Committee established under subsection (a) shall—
   - **(1)** advise the Secretary of the Treasury and the Secretary of Homeland Security on all matters involving the commercial operations of U.S. Customs and Border Protection, including advising with respect to significant changes that are proposed with respect to regulations, policies, or practices of U.S. Customs and Border Protection;
   - **(2)** provide recommendations to the Secretary of the Treasury and the Secretary of Homeland Security on improvements to the commercial operations of U.S. Customs and Border Protection;

@@ -3,9 +3,9 @@ title: "Section 1415 - Lump sum payment of certain retired pay"
 usc_title: 10
 usc_section: "1415"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1415"
-generated_at: "2026-03-29T19:27:25.530Z"
+generated_at: "2026-03-29T19:43:37.921Z"
 ---
 
 # § 1415. Lump sum payment of certain retired pay
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T19:27:25.530Z"
       - **(ii)** 25 percent of the amount of such covered retired pay during such period; and
     - **(B)** a monthly amount during the period described in subparagraph (A) equal to—
       - **(i)** in the case of an eligible person electing to receive an amount described in subparagraph (A)(i), 50 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period; and
-      - **(ii)** in the case of an eligible person electing to receive an amount described in subparagraph (A)(ii), 75 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period 1 1 So in original. Probably should be followed by a period.
+      - **(ii)** in the case of an eligible person electing to receive an amount described in subparagraph (A)(ii), 75 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period.
   - **(2)** The Secretary of Defense shall compute the discounted present value of amounts of covered retired pay that an eligible person is otherwise entitled to receive for a period for purposes of paragraph (1)(A) by—
     - **(A)** estimating the aggregate amount of retired pay the person would receive for the period, taking into account cost-of-living adjustments under section 1401a of this title projected by the Secretary at the time the person separates from service and would otherwise begin receiving covered retired pay; and
     - **(B)** reducing the aggregate amount estimated pursuant to subparagraph (A) by an appropriate percentage determined by the Secretary—
@@ -47,4 +47,4 @@ generated_at: "2026-03-29T19:27:25.530Z"
   - **(1)** Subject to paragraph (2), an eligible person who makes an election described in subsection (b)(1) shall be entitled to receive the eligible person’s monthly covered retired pay calculated in accordance with paragraph (2) after the eligible person attains the eligible person’s retirement age.
   - **(2)** The retired pay of an eligible person who makes an election described in subsection (a) shall be recomputed, effective on the first day of the first month beginning after the person attains the eligible person’s retirement age, so as to be an amount equal to the amount of covered retired pay to which the eligible person would otherwise be entitled on that date if the annual increases, in the retired pay of the eligible person made to reflect changes in the Consumer Price Index, had been made in accordance with section 1401a of this title .
 - **(d)** An eligible person who does not make the election described in subsection (b)(1) shall be paid the retired pay to which the eligible person is otherwise entitled under the applicable provisions of law referred to in subsection (a)(1).
-- **(e)** The Secretary of Defense concerned 2 2 So in original. shall prescribe regulations to carry out the provisions of this section.
+- **(e)** The Secretary of Defense shall prescribe regulations to carry out the provisions of this section.

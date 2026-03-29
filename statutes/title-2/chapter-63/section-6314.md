@@ -3,9 +3,9 @@ title: "Section 6314 - Mail, telegraph, telephone, stationery, office supplies, 
 usc_title: 2
 usc_section: "6314"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 6314"
-generated_at: "2026-03-29T19:27:07.603Z"
+generated_at: "2026-03-29T19:42:59.712Z"
 ---
 
 # § 6314. Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators
@@ -15,8 +15,7 @@ generated_at: "2026-03-29T19:27:07.603Z"
   - **(2)**
     - **(A)** stationery and other office supplies procured for use for official business, and
     - **(B)** metered charges for use of copying equipment provided by the Sergeant at Arms and Doorkeeper of the Senate;
-  - **(3)**
-    - **[(A)** Repealed. Pub. L. 101–520, title I , § 11, Nov. 5, 1990 , 104 Stat. 2260 ] (B) postage on, and fees and charges in connection with official mail matter sent through the mail other than the franking privilege upon certification by the Senate Sergeant at Arms and subject to such regulations as may be promulgated by the Committee on Rules and Administration, and (C) costs incurred in the preparation of required official reports, and the acquisition of mailing lists to be used for official purposes, and in the mailing, delivery, or transmitting of matters relating to official business;
+  - **(3)** [(A) Repealed. Pub. L. 101–520, title I, § 11 , Nov. 5, 1990 , 104 Stat. 2260 ] (B) postage on, and fees and charges in connection with official mail matter sent through the mail other than the franking privilege upon certification by the Senate Sergeant at Arms and subject to such regulations as may be promulgated by the Committee on Rules and Administration, and (C) costs incurred in the preparation of required official reports, and the acquisition of mailing lists to be used for official purposes, and in the mailing, delivery, or transmitting of matters relating to official business;
   - **(4)** official office expenses incurred (other than for equipment and furniture and expenses described in paragraphs (1) through (3)) for an office in his home State;
   - **(5)** expenses incurred for publications printed or recorded in any way for auditory and visual use (including subscriptions to books, newspapers, magazines, clipping, and other information services);
   - **(6)** subject to the provisions of subsection (e) of this section, reimbursement of travel expenses incurred by the Senator and employees in his office;

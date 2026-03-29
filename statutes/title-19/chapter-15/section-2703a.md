@@ -3,9 +3,9 @@ title: "Section 2703a - Special rules for Haiti"
 usc_title: 19
 usc_section: "2703a"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2703a"
-generated_at: "2026-03-29T19:28:30.751Z"
+generated_at: "2026-03-29T19:41:21.648Z"
 ---
 
 # § 2703a. Special rules for Haiti
@@ -66,7 +66,8 @@ generated_at: "2026-03-29T19:28:30.751Z"
         - **(III)** The following apparel articles of cotton, for men or boys, that are classifiable under subheading 6110.20.20 of the HTS:
         - **(IV)** Sweatshirts for men or boys, of man-made fibers and containing less than 65 percent by weight of man-made fibers, that are classifiable under subheading 6110.30.30 of the HTS.
       - **(iii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
-      - **(iv)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii). (2A) Special rule for certain woven articles and certain knit articles entered during fiscal year 2010 and succeeding 1-year periods
+      - **(iv)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii).
+  - **(2A)**
     - **(A)** Except as provided in subparagraphs (B) and (C) and subject to subparagraph (D), if 52,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) enter the United States during the 1-year period beginning October 1, 2009 , or any of the succeeding 1-year periods, the President shall extend the preferential treatment described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) to not more than 200,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) during that 1-year period, and shall publish notice of the extension in the Federal Register.
     - **(B)**
       - **(i)** In the case of apparel articles described in clause (ii), subparagraph (A) shall be applied by substituting “70,000,000” for “200,000,000”.
@@ -132,7 +133,7 @@ generated_at: "2026-03-29T19:28:30.751Z"
       - **(ii)** The Secretary of Commerce may establish and impose penalties for the submission to the Secretary of Commerce of fraudulent information under the program established under subparagraph (B), other than a claim described in clause (i).
   - **(5)**
     - **(A)** Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
-      - **(i)** Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
+      - **(i)** Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
       - **(ii)** Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
         - **(I)** section 2703(b)(2)(A)(v) of this title ;
         - **(II)** section 3721(b)(5) of this title ;

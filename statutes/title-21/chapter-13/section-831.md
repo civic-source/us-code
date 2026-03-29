@@ -3,9 +3,9 @@ title: "Section 831 - Additional requirements relating to online pharmacies and 
 usc_title: 21
 usc_section: "831"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 831"
-generated_at: "2026-03-29T19:29:50.478Z"
+generated_at: "2026-03-29T19:41:41.706Z"
 ---
 
 # § 831. Additional requirements relating to online pharmacies and telemedicine
@@ -40,7 +40,9 @@ generated_at: "2026-03-29T19:29:50.478Z"
     - **(B)** is registered under section 823(f) of this title in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
       - **(i)** is exempted from such registration in all States under section 822(d) of this title ; or
       - **(ii)** is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title .
-  - **(2)** The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration.
+  - **(2)** Not later than 1 year after October 24, 2018 , in consultation with the Secretary, the Attorney General shall promulgate final regulations specifying—
+    - **(A)** the limited circumstances in which a special registration under this subsection may be issued; and
+    - **(B)** the procedure for obtaining a special registration under this subsection.
   - **(3)** Proceedings to deny an application for registration under this subsection shall be conducted in accordance with section 824(c) of this title .
 - **(i)**
   - **(1)** Any practitioner issuing a prescription for a controlled substance under the authorization to conduct telemedicine during a medical emergency situation described in section 802(54)(F) of this title shall report to the Secretary of Veterans Affairs the authorization of that emergency prescription, in accordance with such requirements as the Secretary of Veterans Affairs shall, by regulation, establish.

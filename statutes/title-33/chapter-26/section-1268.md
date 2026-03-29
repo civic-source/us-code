@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-29T19:30:28.770Z"
+generated_at: "2026-03-29T19:43:07.621Z"
 ---
 
 # § 1268. Great Lakes
@@ -60,37 +60,62 @@ generated_at: "2026-03-29T19:30:28.770Z"
   - **(6)** The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
   - **(7)**
     - **(A)** There is established in the Agency a Great Lakes Restoration Initiative (referred to in this paragraph as the “Initiative”) to carry out programs and projects for Great Lakes protection and restoration.
-    - **(B)** The Initiative shall prioritize programs and projects carried out in coordination with non-Federal partners and programs and projects that address priority areas each fiscal year, including—
+    - **(B)** In carrying out the Initiative, the Administrator shall prioritize programs and projects, to be carried out in coordination with non-Federal partners, that address the priority areas described in the Initiative Action Plan, including—
       - **(i)** the remediation of toxic substances and areas of concern;
       - **(ii)** the prevention and control of invasive species and the impacts of invasive species;
       - **(iii)** the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
       - **(iv)** habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
       - **(v)** accountability, monitoring, evaluation, communication, and partnership activities.
-    - **(C)** Under the Initiative, the Agency shall collaborate with Federal partners, including the Great Lakes Interagency Task Force, to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
-      - **(i)** the ability to achieve strategic and measurable environmental outcomes that implement the Great Lakes Action Plan and the Great Lakes Water Quality Agreement;
-      - **(ii)** the feasibility of—
-        - **(I)** prompt implementation;
-        - **(II)** timely achievement of results; and
-        - **(III)** resource leveraging; and
-      - **(iii)** the opportunity to improve interagency and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
+    - **(C)**
+      - **(i)** In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order No. 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+        - **(I)** the ability to achieve strategic and measurable environmental outcomes that implement the Initiative Action Plan and the Great Lakes Water Quality Agreement;
+        - **(II)** the feasibility of—
+        - **(III)** the opportunity to improve interagency, intergovernmental, and interorganizational coordination and collaboration to reduce duplication and streamline efforts.
+      - **(ii)** In selecting the best combination of programs and projects for Great Lakes protection and restoration under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+      - **(iii)** The Administrator shall designate a point person from an appropriate Federal partner to coordinate, with Federal partners and Great Lakes States, Indian tribes, and other non-Federal stakeholders, projects and activities under the Initiative involving harmful algal blooms in the Great Lakes.
     - **(D)**
-      - **(i)** Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
-        - **(I)** Federal projects; and
-        - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.
+      - **(i)** Subject to subparagraph (J)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+        - **(I)** Federal projects;
+        - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations; and
+        - **(III)** operations and activities of the Program Office, including remediation of sediment contamination in areas of concern.
       - **(ii)** With amounts made available for the Initiative each fiscal year, the Administrator may—
-        - **(I)** transfer not more than the total amount appropriated under subparagraph (G)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
+        - **(I)** transfer not more than the total amount appropriated under subparagraph (J)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
         - **(II)** enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
+      - **(iii)**
+        - **(I)** The Administrator, or the head of any other Federal department or agency receiving funds under clause (ii)(I), may make a grant to, or otherwise enter into an agreement with, a qualified non-Federal entity, as determined by the Administrator or the applicable head of the other Federal department or agency receiving funds, for planning, research, monitoring, outreach, or implementation of a project selected under subparagraph (C), to support the Initiative Action Plan or the Great Lakes Water Quality Agreement.
+        - **(II)** For purposes of this clause, a qualified non-Federal entity may include a governmental entity, nonprofit organization, institution, or individual.
     - **(E)**
-      - **(i)** Projects shall be carried out under the Initiative on multiple levels, including—
-        - **(I)** Great Lakes-wide; and
-        - **(II)** Great Lakes basin-wide.
-      - **(ii)** No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which amounts are made available from—
-        - **(I)** a State water pollution control revolving fund established under subchapter VI; or
-        - **(II)** a State drinking water revolving loan fund established under section 300j–12 of title 42 .
+      - **(i)** Projects may be carried out under the Initiative on multiple levels, including—
+        - **(I)** locally;
+        - **(II)** Great Lakes-wide; or
+        - **(III)** Great Lakes basin-wide.
+      - **(ii)** No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which financial assistance is received—
+        - **(I)** from a State water pollution control revolving fund established under subchapter VI;
+        - **(II)** from a State drinking water revolving loan fund established under section 300j–12 of title 42 ; or
+        - **(III)** pursuant to the Water Infrastructure Finance and Innovation Act of 2014 ( 33 U.S.C. 3901 et seq.).
     - **(F)** Each relevant Federal department or agency shall, to the maximum extent practicable—
       - **(i)** maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
       - **(ii)** identify new activities and projects to support the environmental goals of the Initiative.
-    - **(G)** There are authorized to be appropriated to carry out this paragraph for fiscal year 2016, $300,000,000.
+    - **(G)**
+      - **(i)** Not less often than once every 5 years, the Administrator, in conjunction with the Great Lakes Interagency Task Force, shall review, and revise as appropriate, the Initiative Action Plan to guide the activities of the Initiative in addressing the restoration and protection of the Great Lakes system.
+      - **(ii)** In reviewing and revising the Initiative Action Plan under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+    - **(H)** The Administrator shall—
+      - **(i)** establish and maintain a process for monitoring and periodically reporting to the public on the progress made in implementing the Initiative Action Plan;
+      - **(ii)** make information about each project carried out under the Initiative Action Plan available on a public website; and
+      - **(iii)** provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a yearly detailed description of the progress of the Initiative and amounts transferred to participating Federal departments and agencies under subparagraph (D)(ii).
+    - **(I)** In this paragraph, the term “Initiative Action Plan” means the comprehensive, multiyear action plan for the restoration of the Great Lakes, first developed pursuant to the Joint Explanatory Statement of the Conference Report accompanying the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 ( Public Law 111–88 ).
+    - **(J)**
+      - **(i)** There are authorized to be appropriated to carry out this paragraph—
+        - **(I)** $300,000,000 for each of fiscal years 2017 through 2021;
+        - **(II)** $375,000,000 for fiscal year 2022;
+        - **(III)** $400,000,000 for fiscal year 2023;
+        - **(IV)** $425,000,000 for fiscal year 2024;
+        - **(V)** $450,000,000 for fiscal year 2025; and
+        - **(VI)** $475,000,000 for fiscal year 2026.
+      - **(ii)** Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—
+        - **(I)** this section;
+        - **(II)** the Initiative Action Plan; or
+        - **(III)** the Great Lakes Water Quality Agreement.
   - **(8)** The Administrator shall ensure that the Program Office enters into agreements with the various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
     - **(A)** the duties and responsibilities of each such element in the Agency with respect to the Great Lakes;
     - **(B)** the time periods for carrying out such duties and responsibilities; and
@@ -149,22 +174,22 @@ generated_at: "2026-03-29T19:30:28.770Z"
     - **(B)** There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2010.
 - **(d)**
   - **(1)** There is established within the National Oceanic and Atmospheric Administration the Great Lakes Research Office.
-  - **(2)** The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system 2 2 So in original. Probably should be capitalized. with respect to such issues.
-  - **(3)** The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system, 2 and shall update that inventory every four years.
+  - **(2)** The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system 3 3 So in original. Probably should be capitalized. with respect to such issues.
+  - **(3)** The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system, 3 and shall update that inventory every four years.
   - **(4)** The Research Office shall establish a Great Lakes research exchange for the purpose of facilitating the rapid identification, acquisition, retrieval, dissemination, and use of information concerning research projects which are ongoing or completed and which affect the Great Lakes System.
-  - **(5)** The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system. 2 The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
+  - **(5)** The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system. 3 The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
   - **(6)** The Research Office shall conduct, through the Great Lakes Environmental Research Laboratory, the National Sea Grant College program, other Federal laboratories, and the private sector, appropriate research and monitoring activities which address priority issues and current needs relating to the Great Lakes.
   - **(7)** The Research Office shall be located in a Great Lakes State.
 - **(e)**
   - **(1)** Before October 1 of each year, the Program Office and the Research Office shall prepare a joint research plan for the fiscal year which begins in the following calendar year.
   - **(2)** Each plan prepared under paragraph (1) shall—
-    - **(A)** identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; 3 3 So in original.
+    - **(A)** identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; 1
     - **(B)** include the Agency’s assessment of priorities for research needed to fulfill the terms of such Agreement; and
     - **(C)** identify all proposed research that may be used to develop a comprehensive environmental data base for the Great Lakes System and establish priorities for development of such data base.
   - **(3)**
     - **(A)** Not later than September 30, 1994 , the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of this report, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
     - **(B)** There is authorized to be appropriated to the Administrator to carry out this section not to exceed $3,000,000 for each of fiscal years 1992, 1993, and 1994.
-- **(f)** The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,. 3
+- **(f)** The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,. 1
 - **(g)** Nothing in this section shall be construed—
   - **(1)** to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
   - **(2)** to affect any other Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.

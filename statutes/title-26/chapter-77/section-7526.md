@@ -3,9 +3,9 @@ title: "Section 7526 - Low-income taxpayer clinics"
 usc_title: 26
 usc_section: "7526"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7526"
-generated_at: "2026-03-29T19:30:20.260Z"
+generated_at: "2026-03-29T19:42:48.022Z"
 ---
 
 # § 7526. Low-income taxpayer clinics
@@ -37,3 +37,6 @@ generated_at: "2026-03-29T19:30:20.260Z"
   - **(5)** A low-income taxpayer clinic must provide matching funds on a dollar-for-dollar basis for all grants provided under this section. Matching funds may include—
     - **(A)** the salary (including fringe benefits) of individuals performing services for the clinic; and
     - **(B)** the cost of equipment used in the clinic.
+  - **(6)** Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may—
+    - **(A)** advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from one or more specific qualified low-income taxpayer clinics receiving funding under this section, and
+    - **(B)** provide information regarding the location of, and contact information for, such clinics.

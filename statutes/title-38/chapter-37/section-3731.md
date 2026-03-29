@@ -3,9 +3,9 @@ title: "Section 3731 - Appraisals"
 usc_title: 38
 usc_section: "3731"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3731"
-generated_at: "2026-03-29T19:30:40.537Z"
+generated_at: "2026-03-29T19:43:27.038Z"
 ---
 
 # § 3731. Appraisals
@@ -17,6 +17,7 @@ generated_at: "2026-03-29T19:30:40.537Z"
 - **(b)**
   - **(1)** The Secretary shall select appraisers from a list required by subsection (a)(3) of this section on a rotating basis to make appraisals for the purposes of this chapter.
   - **(2)** If uniform qualifications become applicable for appraisers who perform appraisals for or in connection with the Federal Government, the qualifications required by subsection (a)(1) of this section may be more stringent than such uniform qualifications, but the Secretary may use no written test in determining the qualifications of appraisers other than the test prescribed to implement such uniform qualifications.
+  - **(3)** The Secretary shall permit an appraiser on a list developed and maintained under subsection (a)(3) to make an appraisal for the purposes of this chapter based solely on information gathered by a person with whom the appraiser has entered into an agreement for such services.
 - **(c)** Except as provided in subsection (f) of this section, the appraiser shall forward an appraisal report to the Secretary for review. Upon receipt of such report, the Secretary shall determine the reasonable value of the property, construction, repairs, or alterations for purposes of this chapter, and notify the veteran of such determination. Upon request, the Secretary shall furnish a copy of the appraisal made of property for the purposes of this chapter to the lender proposing to make the loan which is to be secured by such property and is to be guaranteed under this chapter.
 - **(d)** If a lender (other than a lender authorized under subsection (f) of this section to determine reasonable value)—
   - **(1)** has proposed to make a loan to be guaranteed under this chapter,
@@ -28,7 +29,7 @@ generated_at: "2026-03-29T19:30:40.537Z"
 - **(f)**
   - **(1)** Subject to the provisions of paragraphs (2) and (3) of this subsection, the Secretary may, in accordance with standards and procedures established in regulations prescribed by the Secretary, authorize a lender to determine the reasonable value of property for the purposes of this chapter if the lender is authorized to make loans which are automatically guaranteed under section 3702(d) of this title . In such a case, the appraiser selected by the Secretary pursuant to subsection (b) of this section shall submit the appraisal report directly to the lender for review, and the lender shall, as soon as possible thereafter, furnish a copy of the appraisal to the veteran who is applying for the loan concerned and to the Secretary.
   - **(2)** In exercising the authority provided in paragraph (1) of this subsection, the Secretary shall assign a sufficient number of personnel to carry out an appraisal-review system to monitor, on at least a random-sampling basis, the making of appraisals by appraisers and the effectiveness and the efficiency of the determination of reasonable value of property by lenders.
-  - **[(3)** Repealed. Pub. L. 104–110, title I , § 101(g), Feb. 13, 1996 , 110 Stat. 768 .]
+  - **[(3)** Repealed. Pub. L. 104–110, title I, § 101(g) , Feb. 13, 1996 , 110 Stat. 768 .]
   - **(4)** Not later than April 30 of each year following a year in which the Secretary authorizes lenders to determine reasonable value of property under this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report relating to the exercise of that authority during the year in which the authority was exercised.
   - **(5)** A report submitted pursuant to paragraph (4) of this subsection shall include, for the period covered by each report—
     - **(A)** the number and value of loans made by lenders exercising the authority of this subsection;

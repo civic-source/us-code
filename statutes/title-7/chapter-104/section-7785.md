@@ -3,9 +3,9 @@ title: "Section 7785 - Relationship to other programs"
 usc_title: 7
 usc_section: "7785"
 chapter: 104
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7785"
-generated_at: "2026-03-29T19:27:32.004Z"
+generated_at: "2026-03-29T19:43:58.430Z"
 ---
 
 # § 7785. Relationship to other programs

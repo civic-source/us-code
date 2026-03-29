@@ -3,12 +3,12 @@ title: "Section 2163 - Capitol Grounds shuttle service"
 usc_title: 2
 usc_section: "2163"
 chapter: 30
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 2163"
-generated_at: "2026-03-29T19:27:07.581Z"
+generated_at: "2026-03-29T19:42:59.683Z"
 ---
 
 # § 2163. Capitol Grounds shuttle service
 
-Funds appropriated for the Capitol Grounds after October 1, 1976 , shall be available for the purchase or rental, maintenance and operation of passenger motor vehicles to provide shuttle service for Members and employees of Congress to and from the buildings in the Legislative group.
+Funds appropriated for any available account of the Architect of the Capitol after October 1, 1976 , shall be available for the purchase or rental, maintenance and operation of passenger motor vehicles to provide shuttle service for Members and employees of Congress to and from the buildings in the Legislative group.
 

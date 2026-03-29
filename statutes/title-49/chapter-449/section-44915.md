@@ -3,14 +3,14 @@ title: "Section 44915 - Exemptions"
 usc_title: 49
 usc_section: "44915"
 chapter: 449
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44915"
-generated_at: "2026-03-29T19:32:28.886Z"
+generated_at: "2026-03-29T19:44:58.011Z"
 ---
 
 # § 44915. Exemptions
 
-The Under Secretary of Transportation for Security may exempt from sections 44901, 44903(a)–(c) and (e), 44906, 44935, and 44936 of this title airports in Alaska served only by air carriers that—
+The Administrator of the Transportation Security Administration may exempt from sections 44901, 44903(a)–(c) and (e), 44906, 44935, and 44936 of this title airports in Alaska served only by air carriers that—
 
   - **(1)** hold certificates issued under section 41102 of this title ;
   - **(2)** operate aircraft with certificates for a maximum gross takeoff weight of less than 12,500 pounds; and

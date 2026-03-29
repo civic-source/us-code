@@ -1,12 +1,12 @@
 ---
-title: "Section 2301 - Repealed. Pub. L. 103–355, title I , § 1501(a), Oct. 13, 1994 , 108 Stat. 3296 ]"
+title: "Section 2301 - Repealed. Pub. L. 103–355, title I, § 1501(a) , Oct. 13, 1994 , 108 Stat. 3296 ]"
 usc_title: 10
 usc_section: "2301"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2301"
-generated_at: "2026-03-29T19:27:25.579Z"
+generated_at: "2026-03-29T19:43:37.975Z"
 ---
 
-# [§ 2301. Repealed. Pub. L. 103–355, title I , § 1501(a), Oct. 13, 1994 , 108 Stat. 3296 ]
+# [§ 2301. Repealed. Pub. L. 103–355, title I, § 1501(a) , Oct. 13, 1994 , 108 Stat. 3296 ]
 

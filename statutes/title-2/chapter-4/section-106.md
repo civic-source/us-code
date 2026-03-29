@@ -3,9 +3,9 @@ title: "Section 106 - Transferred"
 usc_title: 2
 usc_section: "106"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 106"
-generated_at: "2026-03-29T19:27:07.495Z"
+generated_at: "2026-03-29T19:42:59.581Z"
 ---
 
 # § 106. Transferred

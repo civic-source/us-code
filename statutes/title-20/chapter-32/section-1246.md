@@ -1,12 +1,12 @@
 ---
-title: "Section 1246 - Repealed. Pub. L. 91–230, title IV , § 401(f)(8), (g)(6), Apr. 13, 1970 , 84 Stat. 174"
+title: "Section 1246 - Repealed. Pub. L. 91–230, title IV, § 401(f)(8) , (g)(6), Apr. 13, 1970 , 84 Stat. 174"
 usc_title: 20
 usc_section: "1246"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1246"
-generated_at: "2026-03-29T19:28:43.080Z"
+generated_at: "2026-03-29T19:41:03.303Z"
 ---
 
-# §§ 1245, 1246. Repealed. Pub. L. 91–230, title IV , § 401(f)(8), (g)(6), Apr. 13, 1970 , 84 Stat. 174
+# §§ 1245, 1246. Repealed. Pub. L. 91–230, title IV, § 401(f)(8) , (g)(6), Apr. 13, 1970 , 84 Stat. 174
 

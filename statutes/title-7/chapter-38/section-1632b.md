@@ -3,9 +3,9 @@ title: "Section 1632b - Agriculture Innovation Center Demonstration Program"
 usc_title: 7
 usc_section: "1632b"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1632b"
-generated_at: "2026-03-29T19:27:31.764Z"
+generated_at: "2026-03-29T19:43:58.157Z"
 ---
 
 # § 1632b. Agriculture Innovation Center Demonstration Program
@@ -31,12 +31,12 @@ generated_at: "2026-03-29T19:27:31.764Z"
       - **(iii)** the goals of the entity for increasing and improving the ability of local agricultural producers to develop markets and processes for value-added agricultural commodities or products;
     - **(C)** the entity demonstrates that adequate resources (in cash or in kind) are available, or have been committed to be made available, to the entity, to increase and improve the ability of local agricultural producers to develop markets and processes for value-added agricultural commodities or products; and
     - **(D)** the Agriculture Innovation Center of the entity has a board of directors established in accordance with paragraph (2).
-  - **(2)** Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of representatives of each of the following groups:
-    - **(A)** The 2 general agricultural organizations with the greatest number of members in the State in which the eligible entity is located.
-    - **(B)** The department of agriculture, or similar State department or agency, of the State in which the eligible entity is located.
-    - **(C)** Entities representing the 4 highest grossing commodities produced in the State, determined on the basis of annual gross cash sales.
+  - **(2)** Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of a diverse group of representatives of public and private entities, including the following:: 1 1 So in original.
+    - **(A)** Two general agricultural organizations with the greatest number of members in the State in which the eligible entity is located.
+    - **(B)** The department of agriculture, or similar State department or agency, or a State legislator, of the State in which the eligible entity is located.
+    - **(C)** Four entities representing commodities produced in the State.
 - **(e)**
-  - **(1)** Subject to subsection (i), under the Program, the Secretary shall make, on a competitive basis, annual grants to eligible entities.
+  - **(1)** Subject to subsection (g), under the Program, the Secretary shall make, on a competitive basis, annual grants to eligible entities.
   - **(2)** A grant under paragraph (1) shall be in an amount that does not exceed the lesser of—
     - **(A)** $1,000,000; or
     - **(B)** twice the dollar amount of the resources (in cash or in kind) that the eligible entity demonstrates are available, or have been committed to be made available, to the eligible entity in accordance with subsection (d)(1)(C).
@@ -48,25 +48,11 @@ generated_at: "2026-03-29T19:27:31.764Z"
   - **(4)**
     - **(A)** Subject to subparagraph (B), in the first 3 fiscal years of the Program, the Secretary shall not make a grant under the Program to more than 1 entity in any 1 State.
     - **(B)** Nothing in subparagraph (A) precludes a recipient of a grant under the Program from collaborating with any other institution with respect to activities conducted using the grant.
-- **(f)** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 1632a(d) of this title ):
+- **(f)** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 1627c(d)(2) of this title 2 2 So in original. Probably should be followed by a closing parenthesis. :
   - **(1)** Applied research.
   - **(2)** Consulting services.
   - **(3)** Hiring of employees, at the discretion of the board of directors of the Agriculture Innovation Center of the eligible entity.
   - **(4)** The making of matching grants, each of which shall be in an amount not to exceed $5,000, to agricultural producers, except that the aggregate amount of all such matching grants made by the eligible entity shall be not more than $50,000.
   - **(5)** Legal services.
   - **(6)** Any other related cost, as determined by the Secretary.
-- **(g)**
-  - **(1)** Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects for value-added agricultural commodities or products on agricultural producers and the commodity markets.
-  - **(2)** Research under paragraph (1) shall systematically examine, using linked, long-term, global projections of the agricultural sector, the potential effects of projects described in subparagraph (A) 1 1 So in original. Probably should be “paragraph (1)”. on—
-    - **(A)** demand for agricultural commodities;
-    - **(B)** market prices;
-    - **(C)** farm income; and
-    - **(D)** Federal outlays on commodity programs.
-- **(h)**
-  - **(1)** Not later than 3 years after the date on which the last of the first 10 grants is made under the Program, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on—
-    - **(A)** the effectiveness of the Program in improving and expanding the production of value-added agricultural commodities or products; and
-    - **(B)** the effects of the Program on the economic viability of agricultural producers.
-  - **(2)** The report under paragraph (1) shall—
-    - **(A)** include a description of the best practices and innovations found at each of the Agriculture Innovation Centers established under the Program; and
-    - **(B)** specify the number and type of activities assisted, and the type of assistance provided, under the Program.
-- **(i)** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
+- **(g)** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.

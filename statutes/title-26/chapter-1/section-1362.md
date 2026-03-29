@@ -3,9 +3,9 @@ title: "Section 1362 - Election; revocation; termination"
 usc_title: 26
 usc_section: "1362"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1362"
-generated_at: "2026-03-29T19:30:19.995Z"
+generated_at: "2026-03-29T19:42:47.821Z"
 ---
 
 # § 1362. Election; revocation; termination
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T19:30:19.995Z"
       - **(ii)** The term “passive investment income” shall not include interest on any obligation acquired in the ordinary course of the corporation’s trade or business from its sale of property described in section 1221(a)(1).
       - **(iii)** If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term “passive investment income” shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
       - **(iv)** If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
-      - **(v)** In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) ), 1 1 So in original. Another closing parenthesis probably should precede the comma. the term “passive investment income” shall not include—
+      - **(v)** In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) )), the term “passive investment income” shall not include—
         - **(I)** interest income earned by such bank or company, or
         - **(II)** dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
 - **(e)**

@@ -3,9 +3,9 @@ title: "Section 523 - Relocation of bridges"
 usc_title: 33
 usc_section: "523"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 523"
-generated_at: "2026-03-29T19:30:28.718Z"
+generated_at: "2026-03-29T19:43:07.567Z"
 ---
 
 # § 523. Relocation of bridges

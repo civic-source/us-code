@@ -3,9 +3,9 @@ title: "Section 2264 - Reimbursement for assistance provided to nongovernmental 
 usc_title: 10
 usc_section: "2264"
 chapter: 134
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2264"
-generated_at: "2026-03-29T19:27:25.575Z"
+generated_at: "2026-03-29T19:43:37.972Z"
 ---
 
 # § 2264. Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T19:27:25.575Z"
 - **(b)** The expenses referred to in subsection (a) are any expenses—
   - **(1)** incurred by the Department of Defense as a result of providing assistance to a nongovernmental entertainment-oriented media producer;
   - **(2)** for which the Department of Defense requires reimbursement under section 9701 of title 31 or any other provision of law; and
-  - **(3)** for which the Department of Defense received reimbursement after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
+  - **(3)** for which the Department of Defense received reimbursement after December 19, 2014 .

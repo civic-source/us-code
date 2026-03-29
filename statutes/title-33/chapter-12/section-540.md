@@ -3,9 +3,9 @@ title: "Section 540 - Investigations and improvements; control by Department of 
 usc_title: 33
 usc_section: "540"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 540"
-generated_at: "2026-03-29T19:30:28.720Z"
+generated_at: "2026-03-29T19:43:07.570Z"
 ---
 
 # § 540. Investigations and improvements; control by Department of the Army; wildlife conservation

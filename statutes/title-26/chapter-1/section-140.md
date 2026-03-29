@@ -3,18 +3,17 @@ title: "Section 140 - Cross references to other Acts"
 usc_title: 26
 usc_section: "140"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 140"
-generated_at: "2026-03-29T19:30:19.706Z"
+generated_at: "2026-03-29T19:42:47.549Z"
 ---
 
 # § 140. Cross references to other Acts
 
 - **(a)** For exemption of—
   - **(1)** Allowances and expenditures to meet losses sustained by persons serving the United States abroad, due to appreciation of foreign currencies, see section 5943 of title 5 , United States Code.
-  - **(2)** Amounts credited to the Maritime Administration under section 9(b)(6) of the Merchant Ship Sales Act of 1946, see section 9(c)(1) of that Act (50 U.S.C. App. 1742). 1 1 See References in Text note below.
-  - **(3)** Benefits under laws administered by the Veterans’ Administration, see section 5301 of title 38 , United States Code.
-  - **(4)** Earnings of ship contractors deposited in special reserve funds, see section 53507 of title 46 , United States Code.
-  - **(5)** Income derived from Federal Reserve banks, including capital stock and surplus, see section 7 of the Federal Reserve Act ( 12 U.S.C. 531 ).
-  - **(6)** Special pensions of persons on Army and Navy medal of honor roll, see 38 U.S.C. 1562(a) –(c).
+  - **(2)** Benefits under laws administered by the Department of Veterans Affairs, see section 5301 of title 38 , United States Code.
+  - **(3)** Earnings of ship contractors deposited in special reserve funds, see section 53507 of title 46 , United States Code.
+  - **(4)** Income derived from Federal Reserve banks, including capital stock and surplus, see section 7 of the Federal Reserve Act ( 12 U.S.C. 531 ).
+  - **(5)** Special pensions of persons on Army and Navy medal of honor roll, see 38 U.S.C. 1562(a) –(c).
 - **(b)** For extension of military income tax-exemption benefits to commissioned officers of Public Health Service in certain circumstances, see section 212 of the Public Health Service Act ( 42 U.S.C. 213 ).

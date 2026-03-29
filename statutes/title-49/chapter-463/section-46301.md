@@ -3,16 +3,16 @@ title: "Section 46301 - Civil penalties"
 usc_title: 49
 usc_section: "46301"
 chapter: 463
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 46301"
-generated_at: "2026-03-29T19:32:28.894Z"
+generated_at: "2026-03-29T19:44:58.019Z"
 ---
 
 # § 46301. Civil penalties
 
 - **(a)**
   - **(1)** A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
-    - **(A)** chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title ;
+    - **(A)** chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title ;
     - **(B)** a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
     - **(C)** any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title; or
     - **(D)** a regulation of the United States Postal Service under this part.
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:32:28.894Z"
   - **(4)** Notwithstanding paragraph (1) of this subsection, the maximum civil penalty for violating chapter 449 shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
   - **(5)**
     - **(A)** An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
-      - **(i)** chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or 1 1 So in original. The word “or” probably should not appear. chapter 451, or section 46314(a) of this title ; or
+      - **(i)** chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), chapter 451, or section 46314(a) of this title ; or
       - **(ii)** a regulation prescribed or order issued under any provision to which clause (i) applies.
     - **(B)** A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) committed by an individual or small business concern related to—
       - **(i)** the transportation of hazardous material;
@@ -30,8 +30,11 @@ generated_at: "2026-03-29T19:32:28.894Z"
       - **(iv)** a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
       - **(v)** a violation of section 40127 or section 41705, relating to discrimination.
     - **(C)** Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
-    - **(D)** Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
+    - **(D)** Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary of Transportation by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
   - **(6)** Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+  - **(7)**
+    - **(A)** The amount of a civil penalty assessed under this section for a violation of section 41705 that involves damage to a passenger’s wheelchair or other mobility aid or injury to a passenger with a disability may be increased above the otherwise applicable maximum amount under this section for a violation of section 41705 to an amount not to exceed 3 times the maximum penalty otherwise allowed.
+    - **(B)** Notwithstanding paragraph (2), a separate violation of section 41705 occurs for each act of discrimination prohibited by that section.
 - **(b)**
   - **(1)** A passenger may not tamper with, disable, or destroy a smoke alarm device located in a lavatory on an aircraft providing air transportation or intrastate air transportation.
   - **(2)** An individual violating this subsection is liable to the Government for a civil penalty of not more than $2,000.
@@ -48,9 +51,9 @@ generated_at: "2026-03-29T19:32:28.894Z"
     - **(B)** “mechanic” means an individual who holds a mechanic certificate issued under part 65 of title 14, Code of Federal Regulations.
     - **(C)** “pilot” means an individual who holds a pilot certificate issued under part 61 of title 14, Code of Federal Regulations.
     - **(D)** “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
-  - **(2)** The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
-  - **(3)** In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
-  - **(4)** Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator initiates if—
+  - **(2)** The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary of Transportation under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator of the Federal Aviation Administration shall give written notice of the finding of a violation and the penalty.
+  - **(3)** In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator of the Federal Aviation Administration under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+  - **(4)** Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator of the Federal Aviation Administration initiates if—
     - **(A)** the amount in controversy is more than—
       - **(i)** $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
       - **(ii)** $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
@@ -59,14 +62,14 @@ generated_at: "2026-03-29T19:32:28.894Z"
     - **(C)** the action involves an aircraft subject to a lien that has been seized by the Government; or
     - **(D)** another action has been brought for an injunction based on the same violation.
   - **(5)**
-    - **(A)** The Administrator may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
+    - **(A)** The Administrator of the Federal Aviation Administration may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator of the Federal Aviation Administration relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
     - **(B)** An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
-    - **(C)** When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
-    - **(D)** When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
-  - **(6)** An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title . The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+    - **(C)** When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration but is bound by all validly adopted interpretations of laws and regulations the Administrator of the Federal Aviation Administration carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+    - **(D)** When an individual files an appeal with the Board under this paragraph, the order of the Administrator of the Federal Aviation Administration is stayed.
+  - **(6)** An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator of the Federal Aviation Administration when the Administrator of the Federal Aviation Administration decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title . The Administrator of the Federal Aviation Administration shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
   - **(7)**
-    - **(A)** The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
-    - **(B)** In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator shall consider only whether—
+    - **(A)** The Administrator of the Federal Aviation Administration may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+    - **(B)** In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator of the Federal Aviation Administration shall consider only whether—
       - **(i)** each finding of fact is supported by a preponderance of reliable, probative, and substantial evidence;
       - **(ii)** each conclusion of law is made according to applicable law, precedent, and public policy; and
       - **(iii)** the judge committed a prejudicial error that supports the appeal.
@@ -75,26 +78,26 @@ generated_at: "2026-03-29T19:32:28.894Z"
       - **(i)** a civil penalty shall not be assessed against an individual;
       - **(ii)** a civil penalty may be compromised as provided under subsection (f); and
       - **(iii)** judicial review of any order assessing a civil penalty may be obtained only pursuant to section 46110 of this title .
-  - **(8)** The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is—
+  - **(8)** The maximum civil penalty the Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, or Board may impose under this subsection is—
     - **(A)** $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
     - **(B)** $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
     - **(C)** $50,000 if the violation was committed by an individual or small business concern on or after that date.
   - **(9)** This subsection applies only to a violation occurring after August 25, 1992 .
-- **(e)** In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary shall consider—
+- **(e)** In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary of Transportation shall consider—
   - **(1)** the nature, circumstances, extent, and gravity of the violation;
   - **(2)** with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue doing business; and
   - **(3)** other matters that justice requires.
 - **(f)**
   - **(1)**
     - **(A)** The Secretary may compromise the amount of a civil penalty imposed for violating—
-      - **(i)** chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or chapter 451 of this title; or
+      - **(i)** chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or chapter 451 of this title; or
       - **(ii)** a regulation prescribed or order issued under any provision to which clause (i) of this subparagraph applies.
     - **(B)** The Postal Service may compromise the amount of a civil penalty imposed under subsection (a)(1)(D) of this section.
   - **(2)** The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
-- **(g)** An order of the Secretary or the Administrator imposing a civil penalty may be reviewed judicially only under section 46110 of this title .
+- **(g)** An order of the Secretary or the Administrator of the Federal Aviation Administration imposing a civil penalty may be reviewed judicially only under section 46110 of this title .
 - **(h)**
   - **(1)** This section does not apply to the following when performing official duties:
     - **(A)** a member of the armed forces of the United States.
     - **(B)** a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.
-  - **(2)** The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
+  - **(2)** The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) a timely report on action taken.
 - **(i)** In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ( 15 U.S.C. 632 ).

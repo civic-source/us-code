@@ -3,9 +3,9 @@ title: "Section 131 - Omitted"
 usc_title: 8
 usc_section: "131"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 131"
-generated_at: "2026-03-29T19:27:14.425Z"
+generated_at: "2026-03-29T19:43:45.637Z"
 ---
 
 # § 131. Omitted

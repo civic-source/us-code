@@ -3,9 +3,9 @@ title: "Section 2182a - Agricultural and productive credit and self-help communi
 usc_title: 22
 usc_section: "2182a"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2182a"
-generated_at: "2026-03-29T19:29:46.742Z"
+generated_at: "2026-03-29T19:42:08.055Z"
 ---
 
 # § 2182a. Agricultural and productive credit and self-help community development programs
@@ -14,8 +14,8 @@ generated_at: "2026-03-29T19:29:46.742Z"
 - **(b)** To carry out the purposes of subsection (a), the agency primarily responsible for administering subchapter I of this chapter is authorized to issue guaranties, on such terms and conditions as it shall determine, to private lending institutions, cooperatives, and private nonprofit development organizations assuring against loss of not to exceed 50 per centum of the portfolio of such loans made by any lender to organized groups or individuals residing in a community to enable such groups or individuals to carry out agricultural credit and self-help community development projects for which they are unable to obtain financial assistance on reasonable terms. In no event shall the liability of the United States exceed 75 per centum of any one loan.
 - **(c)** The total face amount of guaranties issued under this section outstanding at any one time shall not exceed $20,000,000. Not more than 10 per centum of such sum shall be provided for any one institution, cooperative, or organization.
 - **(d)** The Inter-American Foundation shall be consulted in developing criteria for making loans eligible for guaranty coverage in Latin America under this section.
-- **(e)** Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 of this title .
-- **(f)** Funds held by the Overseas Private Investment Corporation pursuant to section 2196 of this title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976 .
-- **(g)** The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in section 2200 of this title .
+- **(e)** Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 1 1 See References in Text note below. of this title.
+- **(f)** Funds held by the Overseas Private Investment Corporation pursuant to section 2196 1 of this title may be available for meeting necessary administrative and operating expenses for carrying out the provisions of this section through June 30, 1976 .
+- **(g)** The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in section 2200 1 of this title.
 - **(h)** The authority of this section shall continue through September 30, 1988 .
 - **(i)** Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shall be in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.

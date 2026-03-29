@@ -3,9 +3,9 @@ title: "Section 942 - Coordination of 9–1–1, E9–1–1, and Next Generation
 usc_title: 47
 usc_section: "942"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 942"
-generated_at: "2026-03-29T19:32:13.824Z"
+generated_at: "2026-03-29T19:44:37.252Z"
 ---
 
 # § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
@@ -27,7 +27,6 @@ generated_at: "2026-03-29T19:32:13.824Z"
     - **(C)** advise and assist eligible entities in the preparation of implementation plans required under subsection (b)(3)(A)(iii);
     - **(D)** receive, review, and recommend the approval or disapproval of applications for grants under subsection (b); and
     - **(E)** oversee the use of funds provided by such grants in fulfilling such implementation plans.
-  - **(4)** The Assistant Secretary and the Administrator shall provide an annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services.
 - **(b)**
   - **(1)** The Assistant Secretary and the Administrator, acting through the Office, shall provide grants to eligible entities for—
     - **(A)** the implementation and operation of 9–1–1 services, E9–1–1 services, migration to an IP-enabled emergency network, and adoption and operation of Next Generation 9–1–1 services and applications;

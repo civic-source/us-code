@@ -3,9 +3,9 @@ title: "Section 1a - Definitions"
 usc_title: 7
 usc_section: "1a"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-29T19:27:31.595Z"
+generated_at: "2026-03-29T19:43:57.947Z"
 ---
 
 # § 1a. Definitions
@@ -57,7 +57,7 @@ As used in this chapter:
         - **(II)** any agreement, contract, or transaction described in section 2(c)(2)(C)(i) of this title or section 2(c)(2)(D)(i) of this title 1 1 So in original. Probably should be followed by a semicolon.
         - **(III)** any commodity option authorized under section 6c of this title ; or
         - **(IV)** any leverage transaction authorized under section 23 of this title ;
-      - **(ii)** for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the activities referred to in clause (i).
+      - **(ii)** for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the activities referred to in clause (i);
       - **(iii)** is registered with the Commission as a commodity trading advisor; or
       - **(iv)** the Commission, by rule or regulation, may include if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
     - **(B)** Subject to subparagraph (C), the term “commodity trading advisor” does not include—

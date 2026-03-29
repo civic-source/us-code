@@ -3,14 +3,14 @@ title: "Section 6212 - Requirement for authorization of appropriations"
 usc_title: 22
 usc_section: "6212"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 6212"
-generated_at: "2026-03-29T19:29:46.915Z"
+generated_at: "2026-03-29T19:42:08.222Z"
 ---
 
 # § 6212. Requirement for authorization of appropriations
 
-- **(a)** Notwithstanding any other provision of law, for the fiscal year 1994 and for each subsequent fiscal year, any funds appropriated for the purposes of broadcasting subject to supervision of the Board shall not be available for obligation or expenditure—
+- **(a)** Notwithstanding any other provision of law, for the fiscal year 1994 and for each subsequent fiscal year, any funds appropriated for the purposes of broadcasting subject to supervision of the Agency shall not be available for obligation or expenditure—
   - **(1)** unless such funds are appropriated pursuant to an authorization of appropriations; or
   - **(2)** in excess of the authorized level of appropriations.
 - **(b)** The limitation under subsection (a) shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.

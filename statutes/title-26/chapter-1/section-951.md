@@ -3,25 +3,19 @@ title: "Section 951 - Amounts included in gross income of United States sharehol
 usc_title: 26
 usc_section: "951"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 951"
-generated_at: "2026-03-29T19:30:19.946Z"
+generated_at: "2026-03-29T19:42:47.769Z"
 ---
 
 # § 951. Amounts included in gross income of United States shareholders
 
 - **(a)**
-  - **(1)** If a foreign corporation is a controlled foreign corporation for an uninterrupted period of 30 days or more during any taxable year, every person who is a United States shareholder (as defined in subsection (b)) of such corporation and who owns (within the meaning of section 958(a)) stock in such corporation on the last day, in such year, on which such corporation is a controlled foreign corporation shall include in his gross income, for his taxable year in which or with which such taxable year of the corporation ends—
-    - **(A)** the sum of—
-      - **(i)** his pro rata share (determined under paragraph (2)) of the corporation’s subpart F income for such year,
-      - **(ii)** his pro rata share (determined under section 955(a)(3) as in effect before the enactment of the Tax Reduction Act of 1975) of the corporation’s previously excluded subpart F income withdrawn from investment in less developed countries for such year, and
-      - **(iii)** his pro rata share (determined under section 955(a)(3)) of the corporation’s previously excluded subpart F income withdrawn from foreign base company shipping operations for such year; and
+  - **(1)** If a foreign corporation is a controlled foreign corporation at any time during any taxable year, every person who is a United States shareholder (as defined in subsection (b)) of such corporation and who owns (within the meaning of section 958(a)) stock in such corporation on the last day, in such year, on which such corporation is a controlled foreign corporation shall include in his gross income, for his taxable year in which or with which such taxable year of the corporation ends—
+    - **(A)** his pro rata share (determined under paragraph (2)) of the corporation’s subpart F income for such year, and
     - **(B)** the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2)).
   - **(2)** The pro rata share referred to in paragraph (1)(A)(i) in the case of any United States shareholder is the amount—
     - **(A)** which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to its subpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
     - **(B)** the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which would have been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
-  - **(3)** For purposes of paragraph (1)(A)(iii), the pro rata share of any United States shareholder of the previously excluded subpart F income of a controlled foreign corporation withdrawn from investment in foreign base company shipping operations shall not exceed an amount—
-    - **(A)** which bears the same ratio to his pro rata share of such income withdrawn (as determined under section 955(a)(3)) for the taxable year, as
-    - **(B)** the part of such year during which the corporation is a controlled foreign corporation bears to the entire year.
-- **(b)** For purposes of this subpart, the term “United States shareholder” means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation.
+- **(b)** For purposes of this title, the term “United States shareholder” means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation, or 10 percent or more of the total value of shares of all classes of stock of such foreign corporation.
 - **(c)** If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).

@@ -3,22 +3,22 @@ title: "Section 6402 - Authority to make credits or refunds"
 usc_title: 26
 usc_section: "6402"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6402"
-generated_at: "2026-03-29T19:30:20.201Z"
+generated_at: "2026-03-29T19:42:47.978Z"
 ---
 
 # § 6402. Authority to make credits or refunds
 
-- **(a)** In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), (e), and (f) 1 1 So in original. Probably should be followed by a comma. refund any balance to such person.
+- **(a)** In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), (e), and (f), refund any balance to such person.
 - **(b)** The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
-- **(c)** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of 2 2 So in original. such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
+- **(c)** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
 - **(d)**
   - **(1)** Upon receiving notice from any Federal agency that a named person owes a past-due legally enforceable debt (other than past-due support subject to the provisions of subsection (c)) to such agency, the Secretary shall—
     - **(A)** reduce the amount of any overpayment payable to such person by the amount of such debt;
     - **(B)** pay the amount by which such overpayment is reduced under subparagraph (A) to such agency; and
     - **(C)** notify the person making such overpayment that such overpayment has been reduced by an amount necessary to satisfy such debt.
-  - **(2)** Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) 3 3 See References in Text note below. of the Social Security Act and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+  - **(2)** Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 408(a)(3) of the Social Security Act ( 42 U.S.C. 608(a)(3) ) and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
   - **(3)**
     - **(A)** Paragraph (1) shall apply with respect to an OASDI overpayment only if the requirements of paragraphs (1) and (2) of section 3720A(f) of title 31 , United States Code, are met with respect to such overpayment.
     - **(B)**
@@ -85,3 +85,10 @@ generated_at: "2026-03-29T19:30:20.201Z"
 - **(j)** For procedures relating to agency notification of the Secretary, see section 3721 of title 31 , United States Code.
 - **(k)** Notwithstanding any other provision of law, in the case of an insolvent corporation which is a member of an affiliated group of corporations filing a consolidated return for any taxable year and which is subject to a statutory or court-appointed fiduciary, the Secretary may by regulation provide that any refund for such taxable year may be paid on behalf of such insolvent corporation to such fiduciary to the extent that the Secretary determines that the refund is attributable to losses or credits of such insolvent corporation.
 - **(l)** In the case of a disallowance of a claim for refund, the Secretary shall provide the taxpayer with an explanation for such disallowance.
+- **(m)** No credit or refund of an overpayment for a taxable year shall be made to a taxpayer before the 15th day of the second month following the close of such taxable year if a credit is allowed to such taxpayer under section 24 (by reason of subsection (d) thereof) or 32 for such taxable year.
+- **(n)** Not later than the date which is 6 months after the date of the enactment of the Taxpayer First Act, the Secretary shall prescribe regulations to establish procedures to allow for—
+  - **(1)** taxpayers to report instances in which a refund made by the Secretary by electronic funds transfer was not transferred to the account of the taxpayer;
+  - **(2)** coordination with financial institutions for the purpose of—
+    - **(A)** identifying the accounts to which transfers described in paragraph (1) were made; and
+    - **(B)** recovery of the amounts so transferred; and
+  - **(3)** the refund to be delivered to the correct account of the taxpayer.

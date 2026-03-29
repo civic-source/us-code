@@ -3,15 +3,15 @@ title: "Section 2663 - Funding"
 usc_title: 7
 usc_section: "2663"
 chapter: 59
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2663"
-generated_at: "2026-03-29T19:27:31.870Z"
+generated_at: "2026-03-29T19:43:58.275Z"
 ---
 
 # § 2663. Funding
 
 - **(a)** There are authorized to be appropriated such sums as are necessary to carry out the purposes of this subchapter.
-- **(b)** Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of this title shall be distributed by the Secretary of Agriculture as follows:
+- **(b)** Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of this title shall be distributed by the Secretary as follows:
   - **(1)** 4 per centum shall be retained by the Secretary for program administration and national coordination of State programs, and program assistance to the States;
   - **(2)** 10 per centum shall be used to finance work serving two or more States in which colleges or universities in two or more States cooperate or that is conducted by one college or university to serve two or more States;
   - **(3)** 20 per centum shall be allocated equally among the States; and

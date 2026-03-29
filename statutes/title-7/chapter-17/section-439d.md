@@ -1,14 +1,12 @@
 ---
-title: "Section 439d - Assumption of obligations of Reconstruction Finance Corporation covering Muscatine, Iowa, plant"
+title: "Section 439d - Omitted"
 usc_title: 7
 usc_section: "439d"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 439d"
-generated_at: "2026-03-29T19:27:31.678Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 439d. Assumption of obligations of Reconstruction Finance Corporation covering Muscatine, Iowa, plant
-
-The Secretary of Agriculture shall assume all obligations of the Reconstruction Finance Corporation covering operations of the Muscatine, Iowa, plant, equipment, facilities, and appurtenant property outstanding at the date of transfer.
+# § 439d. Omitted
 

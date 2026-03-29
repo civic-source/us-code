@@ -3,9 +3,9 @@ title: "Section 3943 - Appointments by the Secretary"
 usc_title: 22
 usc_section: "3943"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3943"
-generated_at: "2026-03-29T19:29:46.844Z"
+generated_at: "2026-03-29T19:42:08.161Z"
 ---
 
 # § 3943. Appointments by the Secretary

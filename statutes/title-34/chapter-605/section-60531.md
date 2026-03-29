@@ -5,7 +5,7 @@ usc_section: "60531"
 chapter: 605
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 60531"
-generated_at: "2026-03-29T18:45:50.426Z"
+generated_at: "2026-03-29T19:42:53.209Z"
 ---
 
 # § 60531. Community-based mentoring and transitional service grants to nonprofit organizations

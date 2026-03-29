@@ -3,9 +3,9 @@ title: "Section 330 - Compensation of officers"
 usc_title: 11
 usc_section: "330"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 330"
-generated_at: "2026-03-29T19:28:02.000Z"
+generated_at: "2026-03-29T19:44:19.512Z"
 ---
 
 # § 330. Compensation of officers
@@ -39,3 +39,12 @@ generated_at: "2026-03-29T19:28:02.000Z"
     - **(B)** may prescribe notice of appearance fees and fees charged against distributions in cases under this title;
 - **(c)** Unless the court orders otherwise, in a case under chapter 12 or 13 of this title the compensation paid to the trustee serving in the case shall not be less than $5 per month from any distribution under the plan during the administration of the plan.
 - **(d)** In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by section 589a of title 28 .
+- **(e)**
+  - **(1)** There is established a fund in the Treasury of the United States, to be known as the “Chapter 7 Trustee Fund”, which shall be administered by the Director of the Administrative Office of the United States Courts.
+  - **(2)** Deposits into the Chapter 7 Trustee Fund under section 589a(f)(1)(C) of title 28 shall be available until expended for the purposes described in paragraph (3).
+  - **(3)** For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a “chapter 7 case”) the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services.
+  - **(4)** The amount described in this paragraph shall be the lesser of—
+    - **(A)** $60; or
+    - **(B)** a pro rata share, for each chapter 7 case, of the fees collected under section 1930(a)(6) of title 28 and deposited to the United States Trustee System Fund under section 589a(f)(1) of title 28 , less the amounts specified in section 589a(f)(1)(A) and (B) of title 28.
+  - **(5)** The payment received by a trustee under paragraph (3) shall be paid in addition to the amount paid under subsection (b).
+  - **(6)** Not later than September 30, 2021 , the Director of the Administrative Office of the United States Courts shall promulgate regulations for the administration of this subsection.

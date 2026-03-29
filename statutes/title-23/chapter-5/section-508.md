@@ -1,12 +1,12 @@
 ---
-title: "Section 508 - Repealed. Pub. L. 114–94, div. A, title VI , § 6019(d)(1)(A), Dec. 4, 2015 , 129 Stat. 1581 ]"
+title: "Section 508 - Repealed. Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A) , Dec. 4, 2015 , 129 Stat. 1581 ]"
 usc_title: 23
 usc_section: "508"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 508"
-generated_at: "2026-03-29T19:29:58.433Z"
+generated_at: "2026-03-29T19:41:43.044Z"
 ---
 
-# [§ 508. Repealed. Pub. L. 114–94, div. A, title VI , § 6019(d)(1)(A), Dec. 4, 2015 , 129 Stat. 1581 ]
+# [§ 508. Repealed. Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A) , Dec. 4, 2015 , 129 Stat. 1581 ]
 

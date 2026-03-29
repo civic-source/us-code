@@ -3,12 +3,12 @@ title: "Section 70901 - Organization"
 usc_title: 36
 usc_section: "70901"
 chapter: 709
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 70901"
-generated_at: "2026-03-29T19:30:42.071Z"
+generated_at: "2026-03-29T19:43:23.296Z"
 ---
 
 # § 70901. Organization
 
-- **(a)** Future Farmers of America (in this chapter, the “corporation”) is a federally chartered corporation.
-- **(b)** Except as otherwise provided, the corporation has perpetual existence.
+- **(a)** Future Farmers of America (in this chapter, the “FFA”) is a federally chartered corporation.
+- **(b)** Except as otherwise provided, the FFA has perpetual existence.

@@ -3,9 +3,9 @@ title: "Section 402A - Optional treatment of elective deferrals as Roth contribu
 usc_title: 26
 usc_section: "402A"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 402A"
-generated_at: "2026-03-29T19:30:19.793Z"
+generated_at: "2026-03-29T19:42:47.635Z"
 ---
 
 # § 402A. Optional treatment of elective deferrals as Roth contributions
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:30:19.793Z"
     - **(E)** In the case of an applicable retirement plan which includes a qualified Roth contribution program—
       - **(i)** the plan may allow an individual to elect to have the plan transfer any amount not otherwise distributable under the plan to a designated Roth account maintained for the benefit of the individual,
       - **(ii)** such transfer shall be treated as a distribution to which this paragraph applies which was contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to such account, and
-      - **(iii)** the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5 , United States Code, solely by reason of such transfer.
+      - **(iii)** the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 1 1 See References in Text note below. 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5 , United States Code, solely by reason of such transfer.
 - **(d)** For purposes of this title—
   - **(1)** Any qualified distribution from a designated Roth account shall not be includible in gross income.
   - **(2)** For purposes of this subsection—

@@ -3,9 +3,9 @@ title: "Section 406 - Penalty for wrongful construction of bridges, piers, etc.;
 usc_title: 33
 usc_section: "406"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 406"
-generated_at: "2026-03-29T19:30:28.704Z"
+generated_at: "2026-03-29T19:43:07.554Z"
 ---
 
 # § 406. Penalty for wrongful construction of bridges, piers, etc.; removal of structures

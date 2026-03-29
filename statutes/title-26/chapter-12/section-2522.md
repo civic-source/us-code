@@ -3,9 +3,9 @@ title: "Section 2522 - Charitable and similar gifts"
 usc_title: 26
 usc_section: "2522"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 2522"
-generated_at: "2026-03-29T19:30:20.043Z"
+generated_at: "2026-03-29T19:42:47.849Z"
 ---
 
 # § 2522. Charitable and similar gifts
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:30:20.043Z"
   - **(4)** a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used within the United States exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
   - **(5)** posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings inures to the benefit of any private shareholder or individual.
 - **(c)**
-  - **(1)** No deduction shall be allowed under this section for a gift to of 1 1 So in original. Probably should be “or”. for the use of an organization or trust described in section 508(d) or 4948(c)(4) subject to the conditions specified in such sections.
+  - **(1)** No deduction shall be allowed under this section for a gift to or for the use of an organization or trust described in section 508(d) or 4948(c)(4) subject to the conditions specified in such sections.
   - **(2)** Where a donor transfers an interest in property (other than an interest described in section 170(f)(3)(B)) to a person, or for a use, described in subsection (a) or (b) and an interest in the same property is retained by the donor, or is transferred or has been transferred (for less than an adequate and full consideration in money or money’s worth) from the donor to a person, or for a use, not described in subsection (a) or (b), no deduction shall be allowed under this section for the interest which is, or has been transferred to the person, or for the use, described in subsection (a) or (b), unless—
     - **(A)** in the case of a remainder interest, such interest is in a trust which is a charitable remainder annuity trust or a charitable remainder unitrust (described in section 664) or a pooled income fund (described in section 642(c)(5)), or
     - **(B)** in the case of any other interest, such interest is in the form of a guaranteed annuity or is a fixed percentage distributed yearly of the fair market value of the property (to be determined yearly).

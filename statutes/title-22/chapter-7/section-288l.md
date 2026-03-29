@@ -3,9 +3,9 @@ title: "Section 288l - The Holy See"
 usc_title: 22
 usc_section: "288l"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 288l"
-generated_at: "2026-03-29T19:29:46.680Z"
+generated_at: "2026-03-29T19:42:07.985Z"
 ---
 
 # § 288l. The Holy See

@@ -3,12 +3,13 @@ title: "Section 819 - Art. 19. Jurisdiction of special courts-martial"
 usc_title: 10
 usc_section: "819"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 819"
-generated_at: "2026-03-29T19:27:25.469Z"
+generated_at: "2026-03-29T19:43:37.844Z"
 ---
 
 # § 819. Art. 19. Jurisdiction of special courts-martial
 
-Subject to section 817 of this title (article 17), special courts-martial have jurisdiction to try persons subject to this chapter for any noncapital offense made punishable by this chapter and, under such regulations as the President may prescribe, for capital offenses. Special courts-martial may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter except death, dishonorable discharge, dismissal, confinement for more than one year, hard labor without confinement for more than three months, forfeiture of pay exceeding two-thirds pay per month, or forfeiture of pay for more than one year. A bad-conduct discharge, confinement for more than six months, or forfeiture of pay for more than six months may not be adjudged unless a complete record of the proceedings and testimony has been made, counsel having the qualifications prescribed under section 827(b) of this title (article 27(b)) was detailed to represent the accused, and a military judge was detailed to the trial, except in any case in which a military judge could not be detailed to the trial because of physical conditions or military exigencies. In any such case in which a military judge was not detailed to the trial, the convening authority shall make a detailed written statement, to be appended to the record, stating the reason or reasons a military judge could not be detailed.
-
+- **(a)** Subject to section 817 of this title (article 17), special courts-martial have jurisdiction to try persons subject to this chapter for any noncapital offense made punishable by this chapter and, under such regulations as the President may prescribe, for capital offenses. Special courts-martial may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter except death, dishonorable discharge, dismissal, confinement for more than one year, hard labor without confinement for more than three months, forfeiture of pay exceeding two-thirds pay per month, or forfeiture of pay for more than one year.
+- **(b)** Neither a bad-conduct discharge, nor confinement for more than six months, nor forfeiture of pay for more than six months may be adjudged if charges and specifications are referred to a special court-martial consisting of a military judge alone under section 816(c)(2)(A) of this title (article 16(c)(2)(A)).
+- **(c)** If charges and specifications are referred to a special court-martial consisting of a military judge alone under section 816(c)(2)(A) of this title (article 16(c)(2)(A)), the military judge, with the consent of the parties, may designate a military magistrate to preside over the special court-martial.

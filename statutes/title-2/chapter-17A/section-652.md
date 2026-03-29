@@ -1,12 +1,12 @@
 ---
-title: "Section 652 - Repealed. Pub. L. 105–33, title X , § 10116(b), Aug. 5, 1997 , 111 Stat. 692"
+title: "Section 652 - Repealed. Pub. L. 105–33, title X, § 10116(b) , Aug. 5, 1997 , 111 Stat. 692"
 usc_title: 2
 usc_section: "652"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 652"
-generated_at: "2026-03-29T19:27:07.530Z"
+generated_at: "2026-03-29T19:42:59.623Z"
 ---
 
-# § 652. Repealed. Pub. L. 105–33, title X , § 10116(b), Aug. 5, 1997 , 111 Stat. 692
+# § 652. Repealed. Pub. L. 105–33, title X, § 10116(b) , Aug. 5, 1997 , 111 Stat. 692
 

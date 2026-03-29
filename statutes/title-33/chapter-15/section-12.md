@@ -3,9 +3,9 @@ title: "Section 12 - Modified Lower Mississippi River project as of August 18, 1
 usc_title: 33
 usc_section: "12"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 12"
-generated_at: "2026-03-29T19:30:28.739Z"
+generated_at: "2026-03-29T19:43:07.590Z"
 ---
 
 # § 702a–12. Modified Lower Mississippi River project as of August 18, 1941

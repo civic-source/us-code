@@ -1,14 +1,12 @@
 ---
-title: "Section 8303 - Service under licenses issued without examination"
+title: "Section 8303 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8503(a)(1), Jan. 1, 2021 , 134 Stat. 4747 ]"
 usc_title: 46
 usc_section: "8303"
 chapter: 83
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 8303"
-generated_at: "2026-03-29T19:32:17.334Z"
+generated_at: "2026-03-29T19:44:39.408Z"
 ---
 
-# § 8303. Service under licenses issued without examination
-
-An individual issued a license without examination before October 29, 1941 , to serve as master, mate, or engineer on a vessel not subject to inspection under part B of this subtitle, may not serve under authority of that license on a vessel that is subject to inspection under part B.
+# [§ 8303. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8503(a)(1), Jan. 1, 2021 , 134 Stat. 4747 ]
 

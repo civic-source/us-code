@@ -3,9 +3,9 @@ title: "Section 1232 - Protection for employees under Federal procurement, const
 usc_title: 29
 usc_section: "1232"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1232"
-generated_at: "2026-03-29T19:30:07.604Z"
+generated_at: "2026-03-29T19:42:21.528Z"
 ---
 
 # § 1232. Protection for employees under Federal procurement, construction, and research contracts and grants
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:30:07.604Z"
   - **(2)** with the heads of interested Federal departments and agencies.
 - **(c)** Within 1 year after the date on which he submits his report to the Congress under subsection (a), the Secretary of Labor shall, if he determines it to be feasible, develop regulations, which will provide the protection of pension and retirement rights and benefits referred to in subsection (a).
 - **(d)**
-  - **(1)** Any regulations developed pursuant to subsection (c)shall take effect if, and only if—
+  - **(1)** Any regulations developed pursuant to subsection (c) shall take effect if, and only if—
     - **(A)** the Secretary of Labor, not later than the day which is 3 years after September 2, 1974 , delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
     - **(B)** before the close of the 120–day period which begins on the day on which the copies of such regulations are delivered to the House of Representatives and to the Senate, neither the House of Representatives nor the Senate adopts, by an affirmative vote of a majority of those present and voting in that House, a resolution of disapproval.
   - **(2)** For purposes of this subsection, the term “resolution of disapproval” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the __ does not favor the taking effect of the regulations transmitted to the Congress by the Secretary of Labor on __”, the first blank space therein being filled with the name of the resolving House and the second blank space therein being filled with the day and year.

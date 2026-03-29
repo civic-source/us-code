@@ -3,14 +3,14 @@ title: "Section 4432 - Establishment of preclearance operations"
 usc_title: 19
 usc_section: "4432"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 4432"
-generated_at: "2026-03-29T19:28:30.810Z"
+generated_at: "2026-03-29T19:41:21.705Z"
 ---
 
 # § 4432. Establishment of preclearance operations
 
-Pursuant to section 1629 of this title and section 1103(a)(7) of title 8 , and provided that an aviation security preclearance agreement (as defined in section 44901(d)(4)(B) of title 49 ) is in effect, the Secretary may establish and maintain U.S. Customs and Border Protection preclearance operations in a foreign country—
+Pursuant to section 1629 of this title and section 1103(a)(7) of title 8 , and provided that an aviation security preclearance agreement (as defined in section 44901(d)(4)(B) 1 1 See References in Text note below. of title 49) is in effect, the Secretary may establish and maintain U.S. Customs and Border Protection preclearance operations in a foreign country—
 
   - **(1)** to prevent terrorists, instruments of terrorism, and other security threats from entering the United States;
   - **(2)** to prevent inadmissible persons from entering the United States;

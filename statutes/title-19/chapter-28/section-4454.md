@@ -3,9 +3,9 @@ title: "Section 4454 - Trade preferences for Nepal"
 usc_title: 19
 usc_section: "4454"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 4454"
-generated_at: "2026-03-29T19:28:30.812Z"
+generated_at: "2026-03-29T19:41:21.706Z"
 ---
 
 # § 4454. Trade preferences for Nepal

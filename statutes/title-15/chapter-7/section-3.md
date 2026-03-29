@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-29T19:27:55.304Z"
+generated_at: "2026-03-29T19:44:42.592Z"
 ---
 
 # § 278g–3. Computer standards program
@@ -13,8 +13,9 @@ generated_at: "2026-03-29T19:27:55.304Z"
 - **(a)** The Institute shall—
   - **(1)** have the mission of developing standards, guidelines, and associated methods and techniques for information systems;
   - **(2)** develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(5) 1 1 So in original. Probably should be “3552(b)(6)”. of title 44);
-  - **(3)** develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems; and
-  - **(4)** carry out the responsibilities described in paragraph (3) through the Computer Security Division.
+  - **(3)** develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems;
+  - **(4)** carry out the responsibilities described in paragraph (3) through the Computer Security Division; and
+  - **(5)** identify and develop standards and guidelines for improving the cybersecurity workforce for an agency as part of the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework.
 - **(b)** The standards and guidelines required by subsection (a) shall include, at a minimum—
   - **(1)**
     - **(A)** standards to be used by all agencies to categorize all information and information systems collected or maintained by or on behalf of each agency based on the objectives of providing appropriate levels of information security according to a range of risk levels;
@@ -40,7 +41,10 @@ generated_at: "2026-03-29T19:27:55.304Z"
     - **(A)** compliance with the standards and guidelines developed under subsection (a);
     - **(B)** detecting and handling information security incidents; and
     - **(C)** information security policies, procedures, and practices;
-  - **(3)** conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+  - **(3)** conduct research and analysis—
+    - **(A)** to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+    - **(B)** to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44, and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
+    - **(C)** to evaluate the effectiveness and sufficiency of, and challenges to, Federal agencies’ implementation of standards and guidelines developed under this section and policies and standards promulgated under section 11331 of title 40 ;
   - **(4)** develop and periodically revise performance indicators and measures for agency information security policies and practices;
   - **(5)** evaluate private sector information security policies and practices and commercially available information technologies to assess potential application by agencies to strengthen information security;
   - **(6)** evaluate security policies and practices developed for national security systems to assess potential application by agencies to strengthen information security;

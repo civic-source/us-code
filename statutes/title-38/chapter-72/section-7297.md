@@ -3,9 +3,9 @@ title: "Section 7297 - Survivor annuities"
 usc_title: 38
 usc_section: "7297"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 7297"
-generated_at: "2026-03-29T19:30:40.565Z"
+generated_at: "2026-03-29T19:43:27.071Z"
 ---
 
 # § 7297. Survivor annuities
@@ -76,3 +76,11 @@ generated_at: "2026-03-29T19:30:40.565Z"
 - **(m)** Nothing contained in this section shall be construed to prevent a surviving spouse eligible therefor from simultaneously receiving an annuity under this section and any annuity to which such spouse would otherwise be entitled under any other law without regard to this section, but in computing such other annuity service used in the computation of such spouse’s annuity under this section shall not be credited.
 - **(n)** A judge making an election under subsection (b) of this section shall, at the time of such election, waive all benefits under the civil service retirement laws except section 8440d of title 5 . Such a waiver shall be made in the same manner and shall have the same force and effect as an election filed under section 7296(d) of this title .
 - **(o)** Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors’ Annuities Fund are increased pursuant to section 376(m) of title 28 .
+- **(p)**
+  - **(1)** A covered judge who makes an election under subsection (b) may purchase, in 3-month increments, up to an additional year of service credit for each year of Federal judicial service completed, under the terms set forth in this section.
+  - **(2)** In this subsection, the term “covered judge” means any of the following:
+    - **(A)** A judge in regular active service.
+    - **(B)** A retired judge who is a recall-eligible retired judge pursuant to subsection (a) of section 7257 of this title .
+    - **(C)** A retired judge who would be a recall-eligible retired judge pursuant to subsection (a) of section 7257 but for—
+      - **(i)** meeting the aggregate recall service requirements under subsection (b)(3) of such section; or
+      - **(ii)** being permanently disabled as described by subsection (b)(4) of such section.

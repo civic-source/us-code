@@ -3,9 +3,9 @@ title: "Section 40125 - Qualifications for public aircraft status"
 usc_title: 49
 usc_section: "40125"
 chapter: 401
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 40125"
-generated_at: "2026-03-29T19:32:28.860Z"
+generated_at: "2026-03-29T19:44:57.973Z"
 ---
 
 # § 40125. Qualifications for public aircraft status
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:32:28.860Z"
     - **(A)** operated by the armed forces or an intelligence agency of the United States Government; or
     - **(B)** whose presence is required to perform, or is associated with the performance of, a governmental function.
   - **(4)** The term “armed forces” has the meaning given such term by section 101 of title 10 .
-- **(b)** An aircraft described in subparagraph (A), (B), (C), or (D) of section 40102(a)(41) does not qualify as a public aircraft under such section when the aircraft is used for commercial purposes or to carry an individual other than a crewmember or a qualified non-crewmember.
+- **(b)** An aircraft described in subparagraph (A), (B), (C), (D), or (F) of section 40102(a)(41) does not qualify as a public aircraft under such section when the aircraft is used for commercial purposes or to carry an individual other than a crewmember or a qualified non-crewmember.
 - **(c)**
   - **(1)** Subject to paragraph (2), an aircraft described in section 40102(a)(41)(E) qualifies as a public aircraft if—
     - **(A)** the aircraft is operated in accordance with title 10;

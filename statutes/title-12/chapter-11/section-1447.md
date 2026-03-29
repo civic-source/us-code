@@ -1,12 +1,12 @@
 ---
-title: "Section 1447 - Repealed. Pub. L. 106–102, title VI , § 606(c), Nov. 12, 1999 , 113 Stat. 1454"
+title: "Section 1447 - Repealed. Pub. L. 106–102, title VI, § 606(c) , Nov. 12, 1999 , 113 Stat. 1454"
 usc_title: 12
 usc_section: "1447"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1447"
-generated_at: "2026-03-29T19:28:17.541Z"
+generated_at: "2026-03-29T19:44:53.984Z"
 ---
 
-# § 1447. Repealed. Pub. L. 106–102, title VI , § 606(c), Nov. 12, 1999 , 113 Stat. 1454
+# § 1447. Repealed. Pub. L. 106–102, title VI, § 606(c) , Nov. 12, 1999 , 113 Stat. 1454
 

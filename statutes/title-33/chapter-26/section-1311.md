@@ -3,9 +3,9 @@ title: "Section 1311 - Effluent limitations"
 usc_title: 33
 usc_section: "1311"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1311"
-generated_at: "2026-03-29T19:30:28.782Z"
+generated_at: "2026-03-29T19:43:07.634Z"
 ---
 
 # § 1311. Effluent limitations
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:30:28.782Z"
     - **(C)** not later than July 1, 1977 , any more stringent limitation, including those necessary to meet water quality standards, treatment standards, or schedules of compliance, established pursuant to any State law or regulations (under authority preserved by section 1370 of this title ) or any other Federal law or regulation, or required to implement any applicable water quality standard established pursuant to this chapter.
   - **(2)**
     - **(A)** for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph, effluent limitations for categories and classes of point sources, other than publicly owned treatment works, which (i) shall require application of the best available technology economically achievable for such category or class, which will result in reasonable further progress toward the national goal of eliminating the discharge of all pollutants, as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title , which such effluent limitations shall require the elimination of discharges of all pollutants if the Administrator finds, on the basis of information available to him (including information developed pursuant to section 1325 of this title ), that such elimination is technologically and economically achievable for a category or class of point sources as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title , or (ii) in the case of the introduction of a pollutant into a publicly owned treatment works which meets the requirements of subparagraph (B) of this paragraph, shall require compliance with any applicable pretreatment requirements and any other requirement under section 1317 of this title ;
-    - **(B)** Repealed. Pub. L. 97–117 , § 21(b), Dec. 29, 1981 , 95 Stat. 1632 .
+    - **(B)** Repealed. Pub. L. 97–117, § 21(b) , Dec. 29, 1981 , 95 Stat. 1632 .
     - **(C)** with respect to all toxic pollutants referred to in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives compliance with effluent limitations in accordance with subparagraph (A) of this paragraph as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title , and in no case later than March 31, 1989 ;
     - **(D)** for all toxic pollutants listed under paragraph (1) of subsection (a) of section 1317 of this title which are not referred to in subparagraph (C) of this paragraph compliance with effluent limitations in accordance with subparagraph (A) of this paragraph as expeditiously as practicable, but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title , and in no case later than March 31, 1989 ;
     - **(E)** as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title , and in no case later than March 31, 1989 , compliance with effluent limitations for categories and classes of point sources, other than publicly owned treatment works, which in the case of pollutants identified pursuant to section 1314(a)(4) of this title shall require application of the best conventional pollutant control technology as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(4) of this title ; and

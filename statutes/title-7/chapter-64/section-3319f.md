@@ -1,92 +1,12 @@
 ---
-title: "Section 3319f - Beginning farmer and rancher development program"
+title: "Section 3319f - Repealed. Pub. L. 115–334, title XII, § 12301(a)(1) , Dec. 20, 2018 , 132 Stat. 4950"
 usc_title: 7
 usc_section: "3319f"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3319f"
-generated_at: "2026-03-29T19:27:31.888Z"
+generated_at: "2026-03-29T19:43:58.299Z"
 ---
 
-# § 3319f. Beginning farmer and rancher development program
+# § 3319f. Repealed. Pub. L. 115–334, title XII, § 12301(a)(1) , Dec. 20, 2018 , 132 Stat. 4950
 
-- **(a)** In this section, the term “beginning farmer or rancher” means a person that—
-  - **(1)**
-    - **(A)** has not operated a farm or ranch; or
-    - **(B)** has operated a farm or ranch for not more than 10 years; and
-  - **(2)** meets such other criteria as the Secretary may establish.
-- **(b)** The Secretary shall establish a beginning farmer and rancher development program to provide training, education, outreach, and technical assistance initiatives for beginning farmers or ranchers.
-- **(c)**
-  - **(1)** In carrying out this section, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for beginning farmers or ranchers, including programs and services (as appropriate) relating to—
-    - **(A)** basic livestock, forest management, and crop farming practices;
-    - **(B)** innovative farm, ranch, and private, nonindustrial forest land transfer strategies;
-    - **(C)** entrepreneurship and business training;
-    - **(D)** financial and risk management training (including the acquisition and management of agricultural credit);
-    - **(E)** natural resource management and planning;
-    - **(F)** diversification and marketing strategies;
-    - **(G)** curriculum development;
-    - **(H)** mentoring, apprenticeships, and internships;
-    - **(I)** resources and referral;
-    - **(J)** farm financial benchmarking;
-    - **(K)** assisting beginning farmers or ranchers in acquiring land from retiring farmers and ranchers;
-    - **(L)** agricultural rehabilitation and vocational training for veterans;
-    - **(M)** farm safety and awareness; and
-    - **(N)** other similar subject areas of use to beginning farmers or ranchers.
-  - **(2)** To be eligible to receive a grant under this subsection, the recipient shall be a collaborative State, tribal, local, or regionally-based network or partnership of public or private entities, which may include—
-    - **(A)** a State cooperative extension service;
-    - **(B)** a Federal, State, or tribal agency;
-    - **(C)** a community-based or nongovernmental organization;
-    - **(D)** a college or university (including an institution awarding an associate’s degree) or foundation maintained by a college or university; or
-    - **(E)** any other appropriate partner, as determined by the Secretary.
-  - **(3)**
-    - **(A)** A grant under this subsection shall—
-      - **(i)** have a term that is not more than 3 years; and
-      - **(ii)** be in an amount that is not more than $250,000 for each year.
-    - **(B)** An eligible recipient may receive consecutive grants under this subsection.
-  - **(4)** To be eligible to receive a grant under this subsection, a recipient shall provide a match in the form of cash or in-kind contributions in an amount equal to 25 percent of the funds provided by the grant.
-  - **(5)** In making grants under this subsection, the Secretary shall evaluate—
-    - **(A)** relevancy;
-    - **(B)** technical merit;
-    - **(C)** achievability;
-    - **(D)** the expertise and track record of 1 or more applicants;
-    - **(E)** the adequacy of plans for the participatory evaluation process, outcome-based reporting, and the communication of findings and results beyond the immediate target audience; and
-    - **(F)** other appropriate factors, as determined by the Secretary.
-  - **(6)** In making grants under this subsection, the Secretary shall, to the maximum extent practicable, ensure geographical diversity.
-  - **(7)** In making grants under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental, community-based organizations, and school-based agricultural educational organizations with expertise in new agricultural producer training and outreach.
-  - **(8)**
-    - **(A)** Not less than 5 percent of the funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
-      - **(i)** limited resource beginning farmers or ranchers (as defined by the Secretary);
-      - **(ii)** socially disadvantaged farmers or ranchers (as defined in section 2003(e) of this title ) who are beginning farmers or ranchers; and
-      - **(iii)** farmworkers desiring to become farmers or ranchers.
-    - **(B)** Not less than 5 percent of the funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of veteran farmers and ranchers (as defined in section 2279(e) of this title ).
-  - **(9)** A grant made under this subsection may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
-  - **(10)** The Secretary shall use not more than 4 percent of the funds made available to carry out this subsection for administrative costs incurred by the Secretary in carrying out this section.
-  - **(11)** A recipient of a grant under this subsection may not use more than 10 percent of the funds provided by the grant for the indirect costs of carrying out the initiatives described in paragraph (1).
-  - **(12)** A recipient of a grant under this subsection using the grant as described in paragraph (8)(B) may coordinate with a recipient of a grant under section 5933 of this title in addressing the needs of veteran farmers and ranchers with disabilities.
-- **(d)**
-  - **(1)** In carrying out this section, the Secretary shall establish beginning farmer and rancher education teams to develop curricula and conduct educational programs and workshops for beginning farmers or ranchers in diverse geographical areas of the United States.
-  - **(2)** In promoting the development of curricula, the Secretary shall, to the maximum extent practicable, include modules tailored to specific audiences of beginning farmers or ranchers, based on crop or regional diversity.
-  - **(3)** In establishing an education team for a specific program or workshop, the Secretary shall, to the maximum extent practicable—
-    - **(A)** obtain the short-term services of specialists with knowledge and expertise in programs serving beginning farmers or ranchers; and
-    - **(B)** use officers and employees of the Department with direct experience in programs of the Department that may be taught as part of the curriculum for the program or workshop.
-  - **(4)**
-    - **(A)** In carrying out this subsection, the Secretary shall cooperate, to the maximum extent practicable, with—
-      - **(i)** State cooperative extension services;
-      - **(ii)** Federal and State agencies;
-      - **(iii)** community-based and nongovernmental organizations;
-      - **(iv)** colleges and universities (including an institution awarding an associate’s degree) or foundations maintained by a college or university; and
-      - **(v)** other appropriate partners, as determined by the Secretary.
-    - **(B)** Notwithstanding chapter 63 of title 31, the Secretary may enter into a cooperative agreement to reflect the terms of any cooperation under subparagraph (A).
-- **(e)** The Secretary shall establish an online clearinghouse that makes available to beginning farmers or ranchers education curricula and training materials and programs, which may include online courses for direct use by beginning farmers or ranchers.
-- **(f)** In carrying out this section, the Secretary shall seek stakeholder input from—
-  - **(1)** beginning farmers and ranchers;
-  - **(2)** national, State, tribal, and local organizations and other persons with expertise in operating beginning farmer and rancher programs; and
-  - **(3)** the Advisory Committee on Beginning Farmers and Ranchers established under section 5 of the Agricultural Credit Improvement Act of 1992 ( 7 U.S.C. 1929 note; Public Law 102–554 ).
-- **(g)** Nothing in this section prohibits the Secretary from allowing farmers and ranchers who are not beginning farmers or ranchers from participating in programs authorized under this section to the extent that the Secretary determines that such participation is appropriate and will not detract from the primary purpose of educating beginning farmers and ranchers.
-- **(h)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
-    - **(A)** $18,000,000 for fiscal year 2009;
-    - **(B)** $19,000,000 for each of fiscal years 2010 through 2012; and
-    - **(C)** $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
-  - **(2)** In addition to funds provided under paragraph (1), there is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2014 through 2018.
-  - **(3)** There is authorized to be appropriated to carry out this section $30,000,000 for fiscal year 2013.

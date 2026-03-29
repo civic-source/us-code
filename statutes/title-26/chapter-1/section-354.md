@@ -3,9 +3,9 @@ title: "Section 354 - Exchanges of stock and securities in certain reorganizatio
 usc_title: 26
 usc_section: "354"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 354"
-generated_at: "2026-03-29T19:30:19.777Z"
+generated_at: "2026-03-29T19:42:47.619Z"
 ---
 
 # § 354. Exchanges of stock and securities in certain reorganizations
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:19.777Z"
       - **(i)** Nonqualified preferred stock (as defined in section 351(g)(2)) received in exchange for stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
       - **(ii)**
         - **(I)** Clause (i) shall not apply in the case of a recapitalization under section 368(a)(1)(E) of a family-owned corporation.
-        - **(II)** For purposes of this clause, except as provided in regulations, the term “family-owned corporation” means any corporation which is described in clause (i) of section 447(d)(2)(C) throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
+        - **(II)** For purposes of this clause, except as provided in regulations, the term “family-owned corporation” means any corporation which is described in clause (i) of section 447(d)(2)(C) 1 1 See References in Text note below. throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
         - **(III)** The statutory period for the assessment of any deficiency attributable to a corporation failing to be a family-owned corporation shall not expire before the expiration of 3 years after the date the Secretary is notified by the corporation (in such manner as the Secretary may prescribe) of such failure, and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
   - **(3)**
     - **(A)** For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.

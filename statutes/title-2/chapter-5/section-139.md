@@ -3,9 +3,9 @@ title: "Section 139 - Omitted"
 usc_title: 2
 usc_section: "139"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 139"
-generated_at: "2026-03-29T19:27:07.497Z"
+generated_at: "2026-03-29T19:42:59.586Z"
 ---
 
 # § 139. Omitted

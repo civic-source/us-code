@@ -3,16 +3,16 @@ title: "Section 2733 - Property loss; personal injury or death: incident to nonc
 usc_title: 10
 usc_section: "2733"
 chapter: 163
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2733"
-generated_at: "2026-03-29T19:27:25.638Z"
+generated_at: "2026-03-29T19:43:38.009Z"
 ---
 
 # § 2733. Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force
 
 - **(a)** Under such regulations as the Secretary concerned may prescribe, he, or, subject to appeal to him, the Judge Advocate General of an armed force under his jurisdiction, or the chief Counsel of the Coast Guard, as appropriate, if designated by him, may settle, and pay in an amount not more than $100,000, a claim against the United States for—
   - **(1)** damage to or loss of real property, including damage or loss incident to use and occupancy;
-  - **(2)** damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
+  - **(2)** damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be; or
   - **(3)** personal injury or death;
 - **(b)** A claim may be allowed under subsection (a) only if—
   - **(1)** it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;

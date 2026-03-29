@@ -3,9 +3,9 @@ title: "Section 3704 - Strategic research plan"
 usc_title: 33
 usc_section: "3704"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3704"
-generated_at: "2026-03-29T19:30:28.889Z"
+generated_at: "2026-03-29T19:43:07.748Z"
 ---
 
 # § 3704. Strategic research plan
@@ -31,8 +31,9 @@ generated_at: "2026-03-29T19:30:28.889Z"
   - **(5)** consider and utilize, as appropriate, reports and studies conducted by Federal agencies, the National Research Council, or other entities;
   - **(6)** make recommendations for the coordination of the ocean acidification research and monitoring activities of the United States with such activities of other nations and international organizations;
   - **(7)** outline budget requirements for Federal ocean acidification research and monitoring and assessment activities to be conducted by each agency under the plan;
-  - **(8)** identify the monitoring systems and sampling programs currently employed in collecting data relevant to ocean acidification and prioritize additional monitoring systems that may be needed to ensure adequate data collection and monitoring of ocean acidification and its impacts; and
-  - **(9)** describe specific activities designed to facilitate outreach and data and information exchange with stakeholder communities.
+  - **(8)** identify the monitoring systems and sampling programs currently employed in collecting data relevant to ocean acidification and prioritize additional monitoring systems that may be needed to ensure adequate data collection and monitoring of ocean acidification and its impacts;
+  - **(9)** describe specific activities designed to facilitate outreach and data and information exchange with stakeholder communities; and
+  - **(10)** make recommendations for research to be conducted, including in the social sciences and economics, to address the key knowledge gaps identified in the Ocean Chemistry Coastal Community Vulnerability Assessment conducted under section 3703(c)(4) of this title .
 - **(c)** The plan shall include at a minimum the following program elements:
   - **(1)** Monitoring of ocean chemistry and biological impacts associated with ocean acidification at selected coastal and open-ocean monitoring stations, including satellite-based monitoring to characterize—
     - **(A)** marine ecosystems;
@@ -42,5 +43,7 @@ generated_at: "2026-03-29T19:30:28.889Z"
   - **(3)** Modeling to predict changes in the ocean carbon cycle as a function of carbon dioxide and atmosphere-induced changes in temperature, ocean circulation, biogeochemistry, ecosystem and terrestrial input, and modeling to determine impacts on marine ecosystems and individual marine organisms.
   - **(4)** Technology development and standardization of carbonate chemistry measurements on moorings and autonomous floats.
   - **(5)** Assessment of socioeconomic impacts of ocean acidification and development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems.
+  - **(6)** Research to understand the combined impact of changes in ocean chemistry and other stressors, including sediment delivery, hypoxia, and harmful algal blooms, on each other and on living marine resources, including aquaculture and coastal ecosystems.
+  - **(7)** Applied research to identify adaptation strategies for species impacted by changes in ocean chemistry including vegetation-based systems, shell recycling, species and genetic diversity, applied technologies, aquaculture methodologies, and management recommendations.
 - **(d)** The Secretary shall enter into an agreement with the National Academy of Sciences to review the plan.
-- **(e)** In developing the plan, the Subcommittee shall consult with representatives of academic, State, industry and environmental groups. Not later than 90 days before the plan, or any revision thereof, is submitted to the Congress, the plan shall be published in the Federal Register for a public comment period of not less than 60 days.
+- **(e)** In developing the plan, the Subcommittee shall consult with representatives of academic, State, industry and environmental groups, tribal governments, and subsistence users. Not later than 90 days before the plan, or any revision thereof, is submitted to the Congress, the plan shall be published in the Federal Register for a public comment period of not less than 60 days.

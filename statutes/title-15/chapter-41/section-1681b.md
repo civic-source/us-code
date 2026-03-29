@@ -3,15 +3,15 @@ title: "Section 1681b - Permissible purposes of consumer reports"
 usc_title: 15
 usc_section: "1681b"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1681b"
-generated_at: "2026-03-29T19:27:55.454Z"
+generated_at: "2026-03-29T19:44:42.754Z"
 ---
 
 # § 1681b. Permissible purposes of consumer reports
 
 - **(a)** Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
-  - **(1)** In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
+  - **(1)** In response to the order of a court having jurisdiction to issue such an order, a subpoena issued in connection with proceedings before a Federal grand jury, or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18 .
   - **(2)** In accordance with the written instructions of the consumer to whom it relates.
   - **(3)** To a person which it has reason to believe—
     - **(A)** intends to use the information in connection with a credit transaction involving the consumer on whom the information is to be furnished and involving the extension of credit to, or review or collection of an account of, the consumer; or

@@ -3,9 +3,9 @@ title: "Section 3947 - Entry levels for Foreign Service officer candidates"
 usc_title: 22
 usc_section: "3947"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3947"
-generated_at: "2026-03-29T19:29:46.844Z"
+generated_at: "2026-03-29T19:42:08.161Z"
 ---
 
 # § 3947. Entry levels for Foreign Service officer candidates

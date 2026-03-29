@@ -3,9 +3,9 @@ title: "Section 1681a - Definitions; rules of construction"
 usc_title: 15
 usc_section: "1681a"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1681a"
-generated_at: "2026-03-29T19:27:55.453Z"
+generated_at: "2026-03-29T19:44:42.753Z"
 ---
 
 # § 1681a. Definitions; rules of construction
@@ -136,3 +136,7 @@ generated_at: "2026-03-29T19:27:55.453Z"
       - **(v)** pursuant to section 1681f of this title .
   - **(2)** After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
   - **(3)** For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title ), any entity established under title I of the Sarbanes-Oxley Act of 2002 [ 15 U.S.C. 7211 et seq.], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
+- **(z)** The term “veteran” has the meaning given the term in section 101 of title 38 .
+- **(aa)** The term “veteran’s medical debt”—
+  - **(1)** means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
+  - **(2)** includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.

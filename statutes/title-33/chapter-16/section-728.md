@@ -1,14 +1,12 @@
 ---
-title: "Section 728 - Sufficiency of cession by State; service of State process in lands ceded"
+title: "Section 728 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(3), Jan. 1, 2021 , 134 Stat. 4759"
 usc_title: 33
 usc_section: "728"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 728"
-generated_at: "2026-03-29T19:30:28.743Z"
+generated_at: "2026-03-29T19:43:07.595Z"
 ---
 
-# § 728. Sufficiency of cession by State; service of State process in lands ceded
-
-A cession by a State of jurisdiction over a place selected as the site of a lighthouse, or other structure or work, shall be deemed sufficient within section 727 of this title , notwithstanding it contains a reservation that process issued under authority of such State may continue to be served within such place. And notwithstanding any such cession of jurisdiction contains no such reservation, all process may be served and executed within the place ceded, in the same manner as if no cession had been made.
+# § 728. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(3), Jan. 1, 2021 , 134 Stat. 4759
 

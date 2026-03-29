@@ -3,9 +3,9 @@ title: "Section 5371 - Leverage and risk-based capital requirements"
 usc_title: 12
 usc_section: "5371"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 5371"
-generated_at: "2026-03-29T19:28:17.863Z"
+generated_at: "2026-03-29T19:44:54.347Z"
 ---
 
 # § 5371. Leverage and risk-based capital requirements
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T19:28:17.863Z"
   - **(5)** This section shall not apply to—
     - **(A)** debt or equity instruments issued to the United States or any agency or instrumentality thereof pursuant to the Emergency Economic Stabilization Act of 2008 [ 12 U.S.C. 5201 et seq.], and prior to October 4, 2010 ;
     - **(B)** any Federal home loan bank; or
-    - **(C)** any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”.
+    - **(C)** any bank holding company or savings and loan holding company that is subject to the application of appendix C to part 225 of title 12, Code of Federal Regulations (commonly known as the “Small Bank Holding Company and Savings and Loan Holding Company Policy Statement”).
   - **(6)**
     - **(A)** The Comptroller General of the United States, after consultation with the Federal banking agencies, shall conduct a study of access to capital by smaller insured depository institutions.
     - **(B)** For purposes of this study required by subparagraph (A), the term “smaller insured depository institution” means an insured depository institution with total consolidated assets of $5,000,000,000 or less.

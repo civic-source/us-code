@@ -1,14 +1,12 @@
 ---
-title: "Section 6914 - Consolidation of headquarters offices"
+title: "Section 6914 - Repealed. Pub. L. 115–334, title XII, § 12414(a)(2) , (3), Dec. 20, 2018 , 132 Stat. 4981"
 usc_title: 7
 usc_section: "6914"
 chapter: 98
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6914"
-generated_at: "2026-03-29T19:27:31.956Z"
+generated_at: "2026-03-29T19:43:58.374Z"
 ---
 
-# § 6914. Consolidation of headquarters offices
-
-Subject to the availability of appropriated funds for this purpose, the Secretary shall develop and carry out a plan to consolidate offices located in Washington, District of Columbia, of agencies, offices, and other administrative units of the Department.
+# §§ 6913, 6914. Repealed. Pub. L. 115–334, title XII, § 12414(a)(2) , (3), Dec. 20, 2018 , 132 Stat. 4981
 

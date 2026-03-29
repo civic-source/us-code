@@ -3,9 +3,9 @@ title: "Section 594 - When immediate possession of land may be taken"
 usc_title: 33
 usc_section: "594"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 594"
-generated_at: "2026-03-29T19:30:28.725Z"
+generated_at: "2026-03-29T19:43:07.577Z"
 ---
 
 # § 594. When immediate possession of land may be taken

@@ -3,9 +3,9 @@ title: "Section 30B - Alternative motor vehicle credit"
 usc_title: 26
 usc_section: "30B"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 30B"
-generated_at: "2026-03-29T19:30:19.631Z"
+generated_at: "2026-03-29T19:42:47.484Z"
 ---
 
 # § 30B. Alternative motor vehicle credit
@@ -172,7 +172,7 @@ generated_at: "2026-03-29T19:30:19.631Z"
   - **(1)** Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
   - **(2)** The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.
 - **(k)** This section shall not apply to any property purchased after—
-  - **(1)** in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2016 ,
+  - **(1)** in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2021 ,
   - **(2)** in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010 ,
   - **(3)** in the case of a new qualified hybrid motor vehicle (as described in subsection (d)(2)(B)), December 31, 2009 , and
   - **(4)** in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010 .

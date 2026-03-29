@@ -1,14 +1,12 @@
 ---
-title: "Section 431 - Purchase of tags, labels, stamps, and certificates"
+title: "Section 431 - Transferred"
 usc_title: 7
 usc_section: "431"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 431"
-generated_at: "2026-03-29T19:27:31.678Z"
+generated_at: "2026-03-29T19:43:58.053Z"
 ---
 
-# § 431. Purchase of tags, labels, stamps, and certificates
-
-The Secretary of Agriculture is authorized to expend appropriations for meat inspection for the purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
+# § 431. Transferred
 

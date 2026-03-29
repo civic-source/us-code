@@ -1,12 +1,12 @@
 ---
-title: "Section 2329 - Repealed. Pub. L. 103–355, title I , § 1506(a), Oct. 13, 1994 , 108 Stat. 3298 ]"
+title: "Section 2329 - Renumbered § 4506]"
 usc_title: 10
 usc_section: "2329"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2329"
-generated_at: "2026-03-29T19:27:25.589Z"
+generated_at: "2026-03-29T19:43:37.975Z"
 ---
 
-# [§ 2329. Repealed. Pub. L. 103–355, title I , § 1506(a), Oct. 13, 1994 , 108 Stat. 3298 ]
+# [§ 2329. Renumbered § 4506]
 

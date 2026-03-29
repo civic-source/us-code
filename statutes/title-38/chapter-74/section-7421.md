@@ -3,9 +3,9 @@ title: "Section 7421 - Personnel administration: in general"
 usc_title: 38
 usc_section: "7421"
 chapter: 74
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 7421"
-generated_at: "2026-03-29T19:30:40.577Z"
+generated_at: "2026-03-29T19:43:27.083Z"
 ---
 
 # § 7421. Personnel administration: in general

@@ -1,12 +1,12 @@
 ---
-title: "Section 91 - Repealed. Pub. L. 104–186, title II , § 204(33), Aug. 20, 1996 , 110 Stat. 1734"
+title: "Section 91 - Repealed. Pub. L. 104–186, title II, § 204(33) , Aug. 20, 1996 , 110 Stat. 1734"
 usc_title: 2
 usc_section: "91"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 91"
-generated_at: "2026-03-29T19:27:07.494Z"
+generated_at: "2026-03-29T19:42:59.580Z"
 ---
 
-# §§ 90, 91. Repealed. Pub. L. 104–186, title II , § 204(33), Aug. 20, 1996 , 110 Stat. 1734
+# §§ 90, 91. Repealed. Pub. L. 104–186, title II, § 204(33) , Aug. 20, 1996 , 110 Stat. 1734
 

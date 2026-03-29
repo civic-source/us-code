@@ -1,12 +1,12 @@
 ---
-title: "Section 28 - Repealed. Pub. L. 103–325, title VI , § 602(e)(1), Sept. 23, 1994 , 108 Stat. 2291"
+title: "Section 28 - Repealed. Pub. L. 103–325, title VI, § 602(e)(1) , Sept. 23, 1994 , 108 Stat. 2291"
 usc_title: 12
 usc_section: "28"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 28"
-generated_at: "2026-03-29T19:28:17.482Z"
+generated_at: "2026-03-29T19:44:53.921Z"
 ---
 
-# § 28. Repealed. Pub. L. 103–325, title VI , § 602(e)(1), Sept. 23, 1994 , 108 Stat. 2291
+# § 28. Repealed. Pub. L. 103–325, title VI, § 602(e)(1) , Sept. 23, 1994 , 108 Stat. 2291
 

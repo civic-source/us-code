@@ -3,9 +3,9 @@ title: "Section 251a - State authority over fees"
 usc_title: 47
 usc_section: "251a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 251a"
-generated_at: "2026-03-29T02:15:59.191Z"
+generated_at: "2026-03-29T19:44:37.170Z"
 ---
 
 # § 251a. State authority over fees

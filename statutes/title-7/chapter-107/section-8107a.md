@@ -3,9 +3,9 @@ title: "Section 8107a - Rural energy savings program"
 usc_title: 7
 usc_section: "8107a"
 chapter: 107
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 8107a"
-generated_at: "2026-03-29T19:27:32.019Z"
+generated_at: "2026-03-29T19:43:58.449Z"
 ---
 
 # § 8107a. Rural energy savings program
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:27:32.019Z"
     - **(A)** any public power district, public utility district, or similar entity, or any electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26, that borrowed and repaid, prepaid, or is paying an electric loan made or guaranteed by the Rural Utilities Service (or any predecessor agency);
     - **(B)** any entity primarily owned or controlled by 1 or more entities described in subparagraph (A); or
     - **(C)** any other entity that is an eligible borrower of the Rural Utilities Service, as determined under section 1710.101 of title 7, Code of Federal Regulations (or a successor regulation).
-  - **(2)** The term “energy efficiency measures” means, for or at property served by an eligible entity, structural improvements and investments in cost-effective, commercial technologies to increase energy efficiency.
+  - **(2)** The term “energy efficiency measures” means, for or at property served by an eligible entity, structural improvements and investments in cost-effective, commercial technologies to increase energy efficiency (including cost-effective on- or off-grid renewable energy or energy storage systems).
   - **(3)** The term “qualified consumer” means a consumer served by an eligible entity that has the ability to repay a loan made under subsection (d), as determined by the eligible entity.
   - **(4)** The term “Secretary” means the Secretary of Agriculture, acting through the Administrator of the Rural Utilities Service.
 - **(c)**
@@ -32,25 +32,27 @@ generated_at: "2026-03-29T19:27:32.019Z"
     - **(B)** Subject to the approval of the Secretary, an eligible entity may update the list required under subparagraph (A)(i) to account for newly available efficiency technologies.
     - **(C)** An eligible entity that, at any time before the date that is 60 days after February 7, 2014 , has established an energy efficiency program for qualified consumers may use an existing list of energy efficiency measures, implementation plan, or measurement and verification system of that program to satisfy the requirements of subparagraph (A) if the Secretary determines the list, plan, or systems are consistent with the purposes of this section.
   - **(3)** A loan under this subsection shall bear no interest.
-  - **(4)** With respect to a loan under paragraph (1)—
+  - **(4)** The Secretary shall not include any debt incurred by a borrower under this section in the calculation of the debt-equity ratio of the borrower for purposes of eligibility for loans under the Rural Electrification Act of 1936 ( 7 U.S.C. 901 et seq.).
+  - **(5)** With respect to a loan under paragraph (1)—
     - **(A)** the term shall not exceed 20 years from the date on which the loan is closed; and
-    - **(B)** except as provided in paragraph (6), the repayment of each advance shall be amortized for a period not to exceed 10 years.
-  - **(5)** Any advance of loan funds to an eligible entity in any single year shall not exceed 50 percent of the approved loan amount.
-  - **(6)**
+    - **(B)** except as provided in paragraph (7), the repayment of each advance shall be amortized for a period not to exceed 10 years.
+  - **(6)** Any advance of loan funds to an eligible entity in any single year shall not exceed 50 percent of the approved loan amount.
+  - **(7)**
     - **(A)** In order to assist an eligible entity in defraying the appropriate start-up costs (as determined by the Secretary) of establishing new programs or modifying existing programs to carry out subsection (d), the Secretary shall allow an eligible entity to request a special advance.
     - **(B)** No eligible entity may receive a special advance under this paragraph for an amount that is greater than 4 percent of the loan amount received by the eligible entity under paragraph (1).
     - **(C)** Repayment of the special advance—
       - **(i)** shall be required during the 10-year period beginning on the date on which the special advance is made; and
       - **(ii)** at the election of the eligible entity, may be deferred to the end of the 10-year period.
-  - **(7)** All special advances shall be made under a loan described in paragraph (1) during the first 10 years of the term of the loan.
+  - **(8)** All special advances shall be made under a loan described in paragraph (1) during the first 10 years of the term of the loan.
+  - **(9)** The Secretary shall take appropriate steps to streamline the accounting requirements on borrowers under this section while maintaining adequate assurances of the repayment of the loans.
 - **(d)**
   - **(1)** Loans made by an eligible entity to qualified consumers using loan funds provided by the Secretary under subsection (c)—
-    - **(A)** may bear interest, not to exceed 3 percent, to be used for purposes that include—
+    - **(A)** may bear interest, not to exceed 5 percent, to be used for purposes that include—
       - **(i)** to establish a loan loss reserve; and
       - **(ii)** to offset personnel and program costs of eligible entities to provide the loans;
     - **(B)** shall finance energy efficiency measures for the purpose of decreasing energy usage or costs of the qualified consumer by an amount that ensures, to the maximum extent practicable, that a loan term of not more than 10 years will not pose an undue financial burden on the qualified consumer, as determined by the eligible entity;
     - **(C)** shall not be used to fund purchases of, or modifications to, personal property unless the personal property is or becomes attached to real property (including a manufactured home) as a fixture;
-    - **(D)** shall be repaid through charges added to the electric bill for the property for, or at which, energy efficiency measures are or will be implemented, on the condition that this requirement does not prohibit—
+    - **(D)** shall be repaid through charges added to the recurring service bill for the property for, or at which, energy efficiency measures are or will be implemented, on the condition that this requirement does not prohibit—
       - **(i)** the voluntary prepayment of a loan by the owner of the property; or
       - **(ii)** the use of any additional repayment mechanisms that are—
         - **(I)** demonstrated to have appropriate risk mitigation features, as determined by the eligible entity; or
@@ -66,4 +68,8 @@ generated_at: "2026-03-29T19:27:32.019Z"
   - **(2)** A qualified entity that enters into a contract under paragraph (1) may use subcontractors to assist the qualified entity in carrying out the contract.
 - **(f)** The authority provided in this section is in addition to any other authority of the Secretary to offer loans under any other law.
 - **(g)** Subject to the availability of funds and except as otherwise provided in this section, the loans and other expenditures required to be made under this section shall be available until expended, with the Secretary authorized to make new loans as loans are repaid.
-- **(h)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
+- **(h)** Not later than 120 days after the end of each fiscal year, the Secretary shall publish a description of—
+  - **(1)** the number of applications received under this section for that fiscal year;
+  - **(2)** the number of loans made to eligible entities under this section for that fiscal year; and
+  - **(3)** the recipients of the loans described in paragraph (2).
+- **(i)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.

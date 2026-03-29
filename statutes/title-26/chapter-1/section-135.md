@@ -3,9 +3,9 @@ title: "Section 135 - Income from United States savings bonds used to pay higher
 usc_title: 26
 usc_section: "135"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 135"
-generated_at: "2026-03-29T19:30:19.704Z"
+generated_at: "2026-03-29T19:42:47.547Z"
 ---
 
 # § 135. Income from United States savings bonds used to pay higher education tuition and fees
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:19.704Z"
     - **(A)** If the modified adjusted gross income of the taxpayer for the taxable year exceeds $40,000 ($60,000 in the case of a joint return), the amount which would (but for this paragraph) be excludable from gross income under subsection (a) shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which would be so excludable as such excess bears to $15,000 ($30,000 in the case of a joint return).
     - **(B)** In the case of any taxable year beginning in a calendar year after 1990, the $40,000 and $60,000 amounts contained in subparagraph (A) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 1989” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 1989” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(C)** If any amount as adjusted under subparagraph (B) is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
 - **(c)** For purposes of this section—
   - **(1)** The term “qualified United States savings bond” means any United States savings bond issued—
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T19:30:19.704Z"
     - **(C)** Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
   - **(3)** The term “eligible educational institution” has the meaning given such term by section 529(e)(5).
   - **(4)** The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year determined—
-    - **(A)** without regard to this section and sections 137, 199, 221, 222, 911, 931, and 933, and
+    - **(A)** without regard to this section and sections 85(c), 137, 221, 911, 931, and 933, and
     - **(B)** after the application of sections 86, 469, and 219.
 - **(d)**
   - **(1)** The amount of qualified higher education expenses otherwise taken into account under subsection (a) with respect to the education of an individual shall be reduced (before the application of subsection (b)) by the sum of the amounts received with respect to such individual for the taxable year as—

@@ -3,9 +3,9 @@ title: "Section 187 - Strategic Materials Protection Board"
 usc_title: 10
 usc_section: "187"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 187"
-generated_at: "2026-03-29T19:27:25.432Z"
+generated_at: "2026-03-29T19:43:37.787Z"
 ---
 
 # § 187. Strategic Materials Protection Board
@@ -17,13 +17,13 @@ generated_at: "2026-03-29T19:27:25.432Z"
     - **(B)** The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
     - **(C)** A designee of the Assistant Secretary of the Army for Acquisition, Logistics, and Technology.
     - **(D)** A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
-    - **(E)** A designee of the Assistant Secretary of the Air Force for Acquisition.
+    - **(E)** A designee of the Assistant Secretary of the Air Force for Acquisition. 1 1 See Change of Name note below.
 - **(b)** In addition to other matters assigned to it by the Secretary of Defense, the Board shall—
   - **(1)** determine the need to provide a long term secure supply of materials designated as critical to national security to ensure that national defense needs are met;
   - **(2)** analyze the risk associated with each material designated as critical to national security and the effect on national defense that the nonavailability of such material would have;
   - **(3)** recommend a strategy to the Secretary to ensure a secure supply of materials designated as critical to national security;
   - **(4)** recommend such other strategies to the Secretary as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security; and
-  - **(5)** publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of section 2533b of this title .
+  - **(5)** publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of section 4863 of this title .
 - **(c)** The Board shall meet as determined necessary by the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy but not less frequently than once every two years to make recommendations regarding materials critical to national security as described in subsection (b)(5).
 - **(d)**
   - **(1)** Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of the meeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.

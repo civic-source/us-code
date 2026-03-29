@@ -1,16 +1,12 @@
 ---
-title: "Section 2540d - Definitions"
+title: "Section 2540d - Renumbered § 4975]"
 usc_title: 10
 usc_section: "2540d"
 chapter: 148
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2540d"
-generated_at: "2026-03-29T19:27:25.620Z"
+generated_at: "2026-03-29T19:43:37.989Z"
 ---
 
-# § 2540d. Definitions
+# [§ 2540d. Renumbered § 4975]
 
-In this subchapter:
-
-  - **(1)** The terms “defense article”, “defense services”, and “design and construction services” have the meanings given those terms in section 47 of the Arms Export Control Act ( 22 U.S.C. 2794 ).
-  - **(2)** The term “cost”, with respect to a loan guarantee, has the meaning given that term in section 502 of the Congressional Budget and Impoundment Control Act of 1974 ( 2 U.S.C. 661a ).

@@ -3,9 +3,9 @@ title: "Section 554 - Assistants to Secretary"
 usc_title: 29
 usc_section: "554"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 554"
-generated_at: "2026-03-29T19:30:07.520Z"
+generated_at: "2026-03-29T19:42:21.438Z"
 ---
 
 # § 554. Assistants to Secretary

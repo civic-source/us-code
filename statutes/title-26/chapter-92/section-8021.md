@@ -3,9 +3,9 @@ title: "Section 8021 - Powers"
 usc_title: 26
 usc_section: "8021"
 chapter: 92
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 8021"
-generated_at: "2026-03-29T19:30:20.282Z"
+generated_at: "2026-03-29T19:42:48.041Z"
 ---
 
 # § 8021. Powers
@@ -19,6 +19,3 @@ generated_at: "2026-03-29T19:30:20.282Z"
 - **(c)** The Joint Committee, or any subcommittee thereof, is authorized to have such printing and binding done as it deems advisable.
 - **(d)** The Joint Committee, or any subcommittee thereof, is authorized to make such expenditures as it deems advisable.
 - **(e)** The Joint Committee shall review all requests (other than requests by the chairman or ranking member of a committee or subcommittee) for investigations of the Internal Revenue Service by the Government Accountability Office, and approve such requests when appropriate, with a view towards eliminating overlapping investigations, ensuring that the Government Accountability Office has the capacity to handle the investigation, and ensuring that investigations focus on areas of primary importance to tax administration.
-- **(f)**
-  - **(1)** The Chief of Staff, and the staff of the Joint Committee, shall provide such assistance as is required for joint reviews described in paragraph (2).
-  - **(2)** Before June 1 of each calendar year after 1998 and before 2005, there shall be a joint review of the strategic plans and budget for the Internal Revenue Service and such other matters as the Chairman of the Joint Committee deems appropriate. Such joint review shall be held at the call of the Chairman of the Joint Committee and shall include two members of the majority and one member of the minority from each of the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives.

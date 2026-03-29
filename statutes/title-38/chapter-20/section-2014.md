@@ -5,7 +5,7 @@ usc_section: "2014"
 chapter: 20
 current_through: "PL 117-81"
 classification: "38 U.S.C. § 2014"
-generated_at: "2026-03-29T18:46:01.620Z"
+generated_at: "2026-03-29T19:43:26.989Z"
 ---
 
 # § 2014. Authorization of appropriations

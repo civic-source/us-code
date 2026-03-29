@@ -5,7 +5,7 @@ usc_section: "20141"
 chapter: 201
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 20141"
-generated_at: "2026-03-29T18:45:50.370Z"
+generated_at: "2026-03-29T19:42:53.152Z"
 ---
 
 # § 20141. Services to victims

@@ -3,9 +3,9 @@ title: "Section 5384 - Amelioration and sweetening limitations for natural fruit
 usc_title: 26
 usc_section: "5384"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 5384"
-generated_at: "2026-03-29T19:30:20.129Z"
+generated_at: "2026-03-29T19:42:47.924Z"
 ---
 
 # § 5384. Amelioration and sweetening limitations for natural fruit and berry wines

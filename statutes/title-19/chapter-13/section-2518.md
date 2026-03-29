@@ -3,9 +3,9 @@ title: "Section 2518 - Definitions"
 usc_title: 19
 usc_section: "2518"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 2518"
-generated_at: "2026-03-29T19:28:30.744Z"
+generated_at: "2026-03-29T19:41:21.641Z"
 ---
 
 # § 2518. Definitions
@@ -22,7 +22,7 @@ As used in this subchapter—
   - **(4)**
     - **(A)** The term “eligible product” means, with respect to any foreign country or instrumentality that is—
       - **(i)** a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States;
-      - **(ii)** a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States;
+      - **(ii)** Mexico, as a party to the USMCA (as defined in section 4502 of this title ), a product or service of that country or instrumentality which is covered under the USMCA for procurement by the United States;
       - **(iii)** a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003 , and before January 2, 2005 , a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
       - **(iv)** a party to the Dominican Republic-Central America-United States Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States;
       - **(v)** a party to a free trade agreement that entered into force with respect to the United States after December 31, 2005 , and before July 2, 2006 , a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;

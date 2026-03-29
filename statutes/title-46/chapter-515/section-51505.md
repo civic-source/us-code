@@ -3,9 +3,9 @@ title: "Section 51505 - Annual payments for maintenance and support"
 usc_title: 46
 usc_section: "51505"
 chapter: 515
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 51505"
-generated_at: "2026-03-29T19:32:17.365Z"
+generated_at: "2026-03-29T19:44:39.449Z"
 ---
 
 # § 51505. Annual payments for maintenance and support
@@ -15,6 +15,4 @@ generated_at: "2026-03-29T19:32:17.365Z"
   - **(2)** Each regional maritime academy that satisfies section 51506(a) of this title .
 - **(b)**
   - **(1)** Subject to paragraph (2), an annual payment to an academy under subsection (a) shall be at least equal to the amount given to the academy for its maintenance and support by the State in which it is located, or, for a regional maritime academy, by all States cooperating to sponsor the academy.
-  - **(2)** The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies section 51506(b) of this title , the amount shall be—
-    - **(A)** $100,000 for a State maritime academy; and
-    - **(B)** $300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter for a regional maritime academy.
+  - **(2)** The amount under paragraph (1) may not be more than $25,000, unless the academy satisfies section 51506(b) of this title .

@@ -1,12 +1,12 @@
 ---
-title: "Section 2 - Repealed. Pub. L. 103–199, title V , § 501(c), Dec. 17, 1993 , 107 Stat. 2325"
+title: "Section 2 - Repealed. Pub. L. 103–199, title V, § 501(c) , Dec. 17, 1993 , 107 Stat. 2325"
 usc_title: 22
 usc_section: "2"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-29T19:29:46.641Z"
+generated_at: "2026-03-29T19:42:07.927Z"
 ---
 
-# § 254c–2. Repealed. Pub. L. 103–199, title V , § 501(c), Dec. 17, 1993 , 107 Stat. 2325
+# § 254c–2. Repealed. Pub. L. 103–199, title V, § 501(c) , Dec. 17, 1993 , 107 Stat. 2325
 

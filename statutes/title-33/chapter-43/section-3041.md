@@ -3,9 +3,9 @@ title: "Section 3041 - Involuntary retirement or separation"
 usc_title: 33
 usc_section: "3041"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3041"
-generated_at: "2026-03-29T19:30:28.879Z"
+generated_at: "2026-03-29T19:43:07.734Z"
 ---
 
 # § 3041. Involuntary retirement or separation
@@ -15,3 +15,7 @@ generated_at: "2026-03-29T19:30:28.879Z"
   - **(2)** an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant (junior grade) who is not qualified for retirement may be separated from the service.
 - **(b)** In any fiscal year, the total number of officers selected for retirement or separation under subsection (a) plus the number of officers retired for age may not exceed the whole number nearest 4 percent of the total number of officers authorized to be on the active list, except as otherwise provided by law.
 - **(c)** A retirement or separation under subsection (a) shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.
+- **(d)**
+  - **(1)** If the Secretary determines that the evaluation of the medical condition of an officer requires hospitalization or medical observation that cannot be completed with confidence in a manner consistent with the officer’s well-being before the date on which the officer would otherwise be required to retire or be separated under this section, the Secretary may defer the retirement or separation of the officer.
+  - **(2)** A deferment may only be made with the written consent of the officer involved. If the officer does not provide written consent to the deferment, the officer shall be retired or separated as scheduled.
+  - **(3)** A deferment of retirement or separation under this subsection may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.

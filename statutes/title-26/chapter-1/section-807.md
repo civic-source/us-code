@@ -3,9 +3,9 @@ title: "Section 807 - Rules for certain reserves"
 usc_title: 26
 usc_section: "807"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 807"
-generated_at: "2026-03-29T19:30:19.903Z"
+generated_at: "2026-03-29T19:42:47.728Z"
 ---
 
 # § 807. Rules for certain reserves
@@ -28,98 +28,66 @@ generated_at: "2026-03-29T19:30:19.903Z"
   - **(5)** Premiums received in advance, and liabilities for premium deposit funds.
   - **(6)** Reasonable special contingency reserves under contracts of group term life insurance or group accident and health insurance which are established and maintained for the provision of insurance on retired lives, for premium stabilization, or for a combination thereof.
 - **(d)**
-  - **(1)** For purposes of this part (other than section 816), the amount of the life insurance reserves for any contract shall be the greater of—
-    - **(A)** the net surrender value of such contract, or
-    - **(B)** the reserve determined under paragraph (2).
-  - **(2)** The amount of the reserve determined under this paragraph with respect to any contract shall be determined by using—
-    - **(A)** the tax reserve method applicable to such contract,
-    - **(B)** the greater of—
-      - **(i)** the applicable Federal interest rate, or
-      - **(ii)** the prevailing State assumed interest rate, and
-    - **(C)** the prevailing commissioners’ standard tables for mortality and morbidity adjusted as appropriate to reflect the risks (such as substandard risks) incurred under the contract which are not otherwise taken into account.
+  - **(1)**
+    - **(A)** For purposes of this part (other than section 816), the amount of the life insurance reserves for any contract (other than a contract to which subparagraph (B) applies) shall be the greater of—
+      - **(i)** the net surrender value of such contract, or
+      - **(ii)** 92.81 percent of the reserve determined under paragraph (2).
+    - **(B)** For purposes of this part (other than section 816), the amount of the life insurance reserves for a variable contract shall be equal to the sum of—
+      - **(i)** the greater of—
+        - **(I)** the net surrender value of such contract, or
+        - **(II)** the portion of the reserve that is separately accounted for under section 817, plus
+      - **(ii)** 92.81 percent of the excess (if any) of the reserve determined under paragraph (2) over the amount in clause (i).
+    - **(C)** In no event shall the reserves determined under subparagraphs (A) or (B) for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining statutory reserves (as defined in paragraph (4)).
+    - **(D)** In no event shall any amount or item be taken into account more than once in determining any reserve under this subchapter.
+  - **(2)** The amount of the reserve determined under this paragraph with respect to any contract shall be determined by using the tax reserve method applicable to such contract.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “tax reserve method” means—
       - **(i)** The CRVM in the case of a contract covered by the CRVM.
       - **(ii)** The CARVM in the case of a contract covered by the CARVM.
-      - **(iii)** In the case of any noncancellable accident and health insurance contract (other than a qualified long-term care insurance contract, as defined in section 7702B(b)), a 2-year full preliminary term method.
+      - **(iii)** In the case of any noncancellable accident and health insurance contract, the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract as of the date the reserve is determined.
       - **(iv)** In the case of any contract not described in clause (i), (ii), or (iii)—
-        - **(I)** the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract (as of the date of issuance), or
-        - **(II)** if no reserve method has been prescribed by the National Association of Insurance Commissioners which covers such contract, a reserve method which is consistent with the reserve method required under clause (i), (ii), or (iii) or under subclause (I) of this clause as of the date of the issuance of such contract (whichever is most appropriate).
+        - **(I)** the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract (as of the date the reserve is determined), or
+        - **(II)** if no reserve method has been prescribed by the National Association of Insurance Commissioners which covers such contract, a reserve method which is consistent with the reserve method required under clause (i), (ii), or (iii) or under subclause (I) of this clause as of the date the reserve is determined for such contract (whichever is most appropriate).
     - **(B)** For purposes of this paragraph—
-      - **(i)** The term “CRVM” means the Commissioners’ Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
-      - **(ii)** The term “CARVM” means the Commissioners’ Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
+      - **(i)** The term “CRVM” means the Commissioners’ Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
+      - **(ii)** The term “CARVM” means the Commissioners’ Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
     - **(C)** Nothing in any reserve method described under this paragraph shall permit any increase in the reserve because the net premium (computed on the basis of assumptions required under this subsection) exceeds the actual premiums or other consideration charged for the benefit.
-  - **(4)** For purposes of this subsection—
-    - **(A)**
-      - **(i)** Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
-      - **(ii)**
-        - **(I)** In computing the amount of the reserve with respect to any contract to which an election under this clause applies for periods during any recomputation period, the applicable Federal interest rate shall be the annual rate determined by the Secretary under section 846(c)(2) for the 1st year of such period. No change in the applicable Federal interest rate shall be made under the preceding sentence unless such change would equal or exceed ½ of 1 percentage point.
-        - **(II)** For purposes of subclause (I), the term “recomputation period” means, with respect to any contract, the 5 calendar year period beginning with the 5th calendar year beginning after the calendar year in which the contract was issued (and each subsequent 5 calendar year period).
-        - **(III)** An election under this clause shall apply to all contracts issued during the calendar year for which the election was made or during any subsequent calendar year unless such election is revoked with the consent of the Secretary.
-        - **(IV)** Subsection (f) shall not apply to any adjustment required under this clause.
-    - **(B)**
-      - **(i)** The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
-      - **(ii)** The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
-  - **(5)** For purposes of this subsection—
-    - **(A)** The term “prevailing commissioners’ standard tables” means, with respect to any contract, the most recent commissioners’ standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued.
-    - **(B)** If the prevailing commissioners’ standard tables as of the beginning of any calendar year (hereinafter in this subparagraph referred to as the “year of change”) is different from the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
-    - **(C)** If there are no commissioners’ standard tables applicable to any contract when it is issued, the mortality and morbidity tables used for purposes of paragraph (2)(C) shall be determined under regulations prescribed by the Secretary. When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner’s standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.
-    - **(D)** If—
-      - **(i)** a contract was issued before 1948, and
-      - **(ii)** there were no commissioners’ standard tables applicable to such contract when it was issued,
-    - **(E)** If, with respect to any category of risks, there are 2 or more tables (or options under 1 or more tables) which meet the requirements of subparagraph (A) (or, where applicable, subparagraph (B) or (C)), the table (and option thereunder) which generally yields the lowest reserves shall be used for purposes of paragraph (2)(C).
-  - **(6)** The term “statutory reserves” means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
+  - **(4)** The term “statutory reserves” means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
 - **(e)**
   - **(1)** For purposes of this section—
     - **(A)** The net surrender value of any contract shall be determined—
       - **(i)** with regard to any penalty or charge which would be imposed on surrender, but
       - **(ii)** without regard to any market value adjustment on surrender.
     - **(B)** In the case of a pension plan contract, the balance in the policyholder’s fund shall be treated as the net surrender value of such contract. For purposes of the preceding sentence, such balance shall be determined with regard to any penalty or forfeiture which would be imposed on surrender but without regard to any market value adjustment.
-  - **(2)** For purposes of this section, in the case of a group contract, the date on which such contract is issued shall be the date as of which the master plan is issued (or, with respect to a benefit guaranteed to a participant after such date, the date as of which such benefit is guaranteed).
-  - **(3)**
-    - **(A)** For purposes of this part, the amount of the life insurance reserve for any qualified supplemental benefit—
-      - **(i)** shall be computed separately as though such benefit were under a separate contract, and
-      - **(ii)** shall, except to the extent otherwise provided in regulations, be the reserve taken into account for purposes of the annual statement approved by the National Association of Insurance Commissioners.
-    - **(B)** In the case of any supplemental benefit described in subparagraph (D) which is not a qualified supplemental benefit, the amount of the reserve determined under paragraph (2) of subsection (d) shall, except to the extent otherwise provided in regulations, be the reserve taken into account for purposes of the annual statement approved by the National Association of Insurance Commissioners.
-    - **(C)** For purposes of this paragraph, the term “qualified supplemental benefit” means any supplemental benefit described in subparagraph (D) if—
+  - **(2)**
+    - **(A)** For purposes of this part, the amount of the life insurance reserve for any qualified supplemental benefit shall be computed separately as though such benefit were under a separate contract.
+    - **(B)** For purposes of this paragraph, the term “qualified supplemental benefit” means any supplemental benefit described in subparagraph (C) if—
       - **(i)** there is a separately identified premium or charge for such benefit, and
       - **(ii)** any net surrender value under the contract attributable to any other benefit is not available to fund such benefit.
-    - **(D)** For purposes of this paragraph, the supplemental benefits described in this subparagraph are any—
+    - **(C)** For purposes of this paragraph, the supplemental benefits described in this subparagraph are any—
       - **(i)** guaranteed insurability,
       - **(ii)** accidental death or disability benefit,
       - **(iii)** convertibility,
       - **(iv)** disability waiver benefit, or
       - **(v)** other benefit prescribed by regulations,
-  - **(4)**
+  - **(3)**
     - **(A)** In the case of any qualified foreign contract, the amount of the reserve shall be not less than the minimum reserve required by the laws, regulations, or administrative guidance of the regulatory authority of the foreign country referred to in subparagraph (B) (but not to exceed the net level reserves for such contract).
     - **(B)** For purposes of subparagraph (A), the term “qualified foreign contract” means any contract issued by a foreign life insurance branch (which has its principal place of business in a foreign country) of a domestic life insurance company if—
       - **(i)** such contract is issued on the life or health of a resident of such country,
       - **(ii)** such domestic life insurance company was required by such foreign country (as of the time it began operations in such country) to operate in such country through a branch, and
       - **(iii)** such foreign country is not contiguous to the United States.
-  - **(5)**
-    - **(A)** Except to the extent provided in regulations, the amount of the life insurance reserve for any qualified substandard risk shall be computed separately under subsection (d)(1) from any other reserve under the contract.
-    - **(B)** For purposes of subparagraph (A), the term “qualified substandard risk” means any substandard risk if—
-      - **(i)** the insurance company maintains a separate reserve for such risk,
-      - **(ii)** there is a separately identified premium or charge for such risk,
-      - **(iii)** the amount of the net surrender value under the contract is not increased or decreased by reason of such risk, and
-      - **(iv)** the net surrender value under the contract is not regularly used to pay premium charges for such risk.
-    - **(C)** The amount of the life insurance reserve determined for any qualified substandard risk shall in no event exceed the sum of the separately identified premiums charged for such risk plus interest less mortality charges for such risk.
-    - **(D)** The aggregate amount of insurance in force under contracts to which this paragraph applies shall not exceed 10 percent of the insurance in force (other than term insurance) under life insurance contracts of the company.
-  - **(6)** For purposes of this part—
+  - **(4)** For purposes of this part—
     - **(A)** In the case of a life insurance contract issued before January 1, 1989 , under an existing plan of insurance, the life insurance reserve for any benefit to which this paragraph applies shall be computed separately under subsection (d)(1) from any other reserve under the contract.
     - **(B)** This paragraph applies to any term insurance or annuity benefit with respect to which the requirements of clauses (i) and (ii) of paragraph (3)(C) are met.
     - **(C)** For purposes of this paragraph, the term “existing plan of insurance” means, with respect to any contract, any plan of insurance which was filed by the company using such contract in one or more States before January 1, 1984 , and is on file in the appropriate State for such contract.
-  - **(7)**
+  - **(5)**
     - **(A)** The amount taken into account for purposes of subsections (a) and (b) as—
-      - **(i)** the opening balance of the items referred to in subparagraph (C), 1 1 So in original. Probably should be “subparagraph (B),”. See 2014 Amendment note below. and
+      - **(i)** the opening balance of the items referred to in subparagraph (B), and
       - **(ii)** the closing balance of such items,
     - **(B)** For purposes of this paragraph, the items referred to in this subparagraph are the items described in subsection (c) which consist of unearned premiums and premiums received in advance under insurance contracts not described in section 816(b)(1)(B).
+  - **(6)** The Secretary shall require reporting (at such time and in such manner as the Secretary shall prescribe) with respect to the opening balance and closing balance of reserves and with respect to the method of computing reserves for purposes of determining income.
 - **(f)**
-  - **(1)**
-    - **(A)** For purposes of this part, if the basis for determining any item referred to in subsection (c) as of the close of any taxable year differs from the basis for such determination as of the close of the preceding taxable year, then so much of the difference between—
-      - **(i)** the amount of the item at the close of the taxable year, computed on the new basis, and
-      - **(ii)** the amount of the item at the close of the taxable year, computed on the old basis,
-    - **(B)** The method provided in this subparagraph is as follows:
-      - **(i)** if the amount determined under subparagraph (A)(i) exceeds the amount determined under subparagraph (A)(ii), ⅒ of such excess shall be taken into account, for each of the succeeding 10 taxable years, as a deduction under section 805(a)(2); or
-      - **(ii)** if the amount determined under subparagraph (A)(ii) exceeds the amount determined under subparagraph (A)(i), ⅒ of such excess shall be included in gross income, for each of the 10 succeeding taxable years, under section 803(a)(2).
+  - **(1)** If the basis for determining any item referred to in subsection (c) as of the close of any taxable year differs from the basis for such determination as of the close of the preceding taxable year, then so much of the difference between—
+    - **(A)** the amount of the item at the close of the taxable year, computed on the new basis, and
+    - **(B)** the amount of the item at the close of the taxable year, computed on the old basis,
   - **(2)** Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.

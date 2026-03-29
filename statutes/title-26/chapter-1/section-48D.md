@@ -1,71 +1,12 @@
 ---
-title: "Section 48D - Qualifying therapeutic discovery project credit"
+title: "Section 48D - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(3)(A) , Mar. 23, 2018 , 132 Stat. 1209 ]"
 usc_title: 26
 usc_section: "48D"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 48D"
-generated_at: "2026-03-29T19:30:19.669Z"
+generated_at: "2026-03-29T19:42:47.515Z"
 ---
 
-# § 48D. Qualifying therapeutic discovery project credit
+# [§ 48D. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(3)(A) , Mar. 23, 2018 , 132 Stat. 1209 ]
 
-- **(a)** For purposes of section 46, the qualifying therapeutic discovery project credit for any taxable year is an amount equal to 50 percent of the qualified investment for such taxable year with respect to any qualifying therapeutic discovery project of an eligible taxpayer.
-- **(b)**
-  - **(1)** For purposes of subsection (a), the qualified investment for any taxable year is the aggregate amount of the costs paid or incurred in such taxable year for expenses necessary for and directly related to the conduct of a qualifying therapeutic discovery project.
-  - **(2)** The amount which is treated as qualified investment for all taxable years with respect to any qualifying therapeutic discovery project shall not exceed the amount certified by the Secretary as eligible for the credit under this section.
-  - **(3)** The qualified investment for any taxable year with respect to any qualifying therapeutic discovery project shall not take into account any cost—
-    - **(A)** for remuneration for an employee described in section 162(m)(3),
-    - **(B)** for interest expenses,
-    - **(C)** for facility maintenance expenses,
-    - **(D)** which is identified as a service cost under section 1.263A–1(e)(4) of title 26, Code of Federal Regulations, or
-    - **(E)** for any other expense as determined by the Secretary as appropriate to carry out the purposes of this section.
-  - **(4)** In the case of costs described in paragraph (1) that are paid for property of a character subject to an allowance for depreciation, rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.
-  - **(5)** An investment shall be considered a qualified investment under this subsection only if such investment is made in a taxable year beginning in 2009 or 2010.
-- **(c)**
-  - **(1)** The term “qualifying therapeutic discovery project” means a project which is designed—
-    - **(A)** to treat or prevent diseases or conditions by conducting pre-clinical activities, clinical trials, and clinical studies, or carrying out research protocols, for the purpose of securing approval of a product under section 505(b) of the Federal Food, Drug, and Cosmetic Act or section 351(a) of the Public Health Service Act,
-    - **(B)** to diagnose diseases or conditions or to determine molecular factors related to diseases or conditions by developing molecular diagnostics to guide therapeutic decisions, or
-    - **(C)** to develop a product, process, or technology to further the delivery or administration of therapeutics.
-  - **(2)**
-    - **(A)** The term “eligible taxpayer” means a taxpayer which employs not more than 250 employees in all businesses of the taxpayer at the time of the submission of the application under subsection (d)(2).
-    - **(B)** All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or ( o ) of section 414, shall be so treated for purposes of this paragraph.
-  - **(3)** The term “facility maintenance expenses” means costs paid or incurred to maintain a facility, including—
-    - **(A)** mortgage or rent payments,
-    - **(B)** insurance payments,
-    - **(C)** utility and maintenance costs, and
-    - **(D)** costs of employment of maintenance personnel.
-- **(d)**
-  - **(1)**
-    - **(A)** Not later than 60 days after the date of the enactment of this section, the Secretary, in consultation with the Secretary of Health and Human Services, shall establish a qualifying therapeutic discovery project program to consider and award certifications for qualified investments eligible for credits under this section to qualifying therapeutic discovery project sponsors.
-    - **(B)** The total amount of credits that may be allocated under the program shall not exceed $1,000,000,000 for the 2-year period beginning with 2009.
-  - **(2)**
-    - **(A)** Each applicant for certification under this paragraph shall submit an application containing such information as the Secretary may require during the period beginning on the date the Secretary establishes the program under paragraph (1).
-    - **(B)** The Secretary shall take action to approve or deny any application under subparagraph (A) within 30 days of the submission of such application.
-    - **(C)** An application for certification under subparagraph (A) may include a request for an allocation of credits for more than 1 of the years described in paragraph (1)(B).
-  - **(3)** In determining the qualifying therapeutic discovery projects with respect to which qualified investments may be certified under this section, the Secretary—
-    - **(A)** shall take into consideration only those projects that show reasonable potential—
-      - **(i)** to result in new therapies—
-        - **(I)** to treat areas of unmet medical need, or
-        - **(II)** to prevent, detect, or treat chronic or acute diseases and conditions,
-      - **(ii)** to reduce long-term health care costs in the United States, or
-      - **(iii)** to significantly advance the goal of curing cancer within the 30-year period beginning on the date the Secretary establishes the program under paragraph (1), and
-    - **(B)** shall take into consideration which projects have the greatest potential—
-      - **(i)** to create and sustain (directly or indirectly) high quality, high-paying jobs in the United States, and
-      - **(ii)** to advance United States competitiveness in the fields of life, biological, and medical sciences.
-  - **(4)** The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
-- **(e)**
-  - **(1)** For purposes of this subtitle, if a credit is allowed under this section for an expenditure related to property of a character subject to an allowance for depreciation, the basis of such property shall be reduced by the amount of such credit.
-  - **(2)**
-    - **(A)** A credit shall not be allowed under this section for any investment for which bonus depreciation is allowed under section 168(k), 1400L(b)(1), or 1400N(d)(1).
-    - **(B)** No deduction under this subtitle shall be allowed for the portion of the expenses otherwise allowable as a deduction taken into account in determining the credit under this section for the taxable year which is equal to the amount of the credit determined for such taxable year under subsection (a) attributable to such portion. This subparagraph shall not apply to expenses related to property of a character subject to an allowance for depreciation the basis of which is reduced under paragraph (1), or which are described in section 280C(g).
-    - **(C)**
-      - **(i)** Except as provided in clause (ii), any expenses taken into account under this section for a taxable year shall not be taken into account for purposes of determining the credit allowable under section 41 or 45C for such taxable year.
-      - **(ii)** Any expenses for any taxable year which are qualified research expenses (within the meaning of section 41(b)) shall be taken into account in determining base period research expenses for purposes of applying section 41 to subsequent taxable years.
-- **(f)** In the case of any investment with respect to which the Secretary makes a grant under section 9023(e) of the Patient Protection and Affordable Care Act of 2009—
-  - **(1)** No credit shall be determined under this section with respect to such investment for the taxable year in which such grant is made or any subsequent taxable year.
-  - **(2)** If a credit was determined under this section with respect to such investment for any taxable year ending before such grant is made—
-    - **(A)** the tax imposed under subtitle A on the taxpayer for the taxable year in which such grant is made shall be increased by so much of such credit as was allowed under section 38,
-    - **(B)** the general business carryforwards under section 39 shall be adjusted so as to recapture the portion of such credit which was not so allowed, and
-    - **(C)** the amount of such grant shall be determined without regard to any reduction in the basis of any property of a character subject to an allowance for depreciation by reason of such credit.
-  - **(3)** Any such grant shall not be includible in the gross income of the taxpayer.

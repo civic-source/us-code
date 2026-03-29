@@ -3,9 +3,9 @@ title: "Section 47175 - Definitions"
 usc_title: 49
 usc_section: "47175"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47175"
-generated_at: "2026-03-29T19:32:28.907Z"
+generated_at: "2026-03-29T19:44:58.036Z"
 ---
 
 # § 47175. Definitions
@@ -25,3 +25,6 @@ In this subchapter, the following definitions apply:
   - **(5)** The term “aviation security project” means a security project at an airport required by the Department of Homeland Security.
   - **(6)** The term “Federal agency” means a department or agency of the United States Government.
   - **(7)** The term “joint use airport” means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
+  - **(8)** The term “general aviation airport construction or improvement project” means—
+    - **(A)** a project for the construction or extension of a runway, including any land acquisition, helipad, taxiway, safety area, apron, or navigational aids associated with the runway or runway extension, at a general aviation airport, a reliever airport, or a commercial service airport that is not a primary airport (as such terms are defined in section 47102); and
+    - **(B)** any other airport development project that the Secretary designates as facilitating aviation capacity building projects at a general aviation airport.

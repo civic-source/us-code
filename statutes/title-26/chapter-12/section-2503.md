@@ -3,9 +3,9 @@ title: "Section 2503 - Taxable gifts"
 usc_title: 26
 usc_section: "2503"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 2503"
-generated_at: "2026-03-29T19:30:20.041Z"
+generated_at: "2026-03-29T19:42:47.847Z"
 ---
 
 # § 2503. Taxable gifts
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:30:20.041Z"
   - **(1)** In the case of gifts (other than gifts of future interests in property) made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsection (a), be included in the total amount of gifts made during such year. Where there has been a transfer to any person of a present interest in property, the possibility that such interest may be diminished by the exercise of a power shall be disregarded in applying this subsection, if no part of such interest will at any time pass to any other person.
   - **(2)** In the case of gifts made in a calendar year after 1998, the $10,000 amount contained in paragraph (1) shall be increased by an amount equal to—
     - **(A)** $10,000, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(c)** No part of a gift to an individual who has not attained the age of 21 years on the date of such transfer shall be considered a gift of a future interest in property for purposes of subsection (b) if the property and the income therefrom—
   - **(1)** may be expended by, or for the benefit of, the donee before his attaining the age of 21 years, and
   - **(2)** will to the extent not so expended—

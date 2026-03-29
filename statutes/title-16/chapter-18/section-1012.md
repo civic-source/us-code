@@ -3,9 +3,9 @@ title: "Section 1012 - Rehabilitation of structural measures near, at, or past t
 usc_title: 16
 usc_section: "1012"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1012"
-generated_at: "2026-03-29T19:29:27.417Z"
+generated_at: "2026-03-29T19:41:13.659Z"
 ---
 
 # § 1012. Rehabilitation of structural measures near, at, or past their evaluated life expectancy
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T19:29:27.417Z"
     - **(B)** $55,000,000 for fiscal year 2004;
     - **(C)** $65,000,000 for fiscal year 2005;
     - **(D)** $75,000,000 for fiscal year 2006; and
-    - **(E)** $85,000,000 for each of fiscal years 2008 through 2018.
+    - **(E)** $85,000,000 for each of fiscal years 2008 through 2023.
 - **(i)** The Secretary, in concert with the responsible State agencies, shall conduct an assessment of the rehabilitation needs of covered water resource projects in all States in which such projects are located.
 - **(j)**
   - **(1)** The Secretary shall maintain a data base to track the benefits derived from rehabilitation projects supported under this section and the expenditures made under this section. On the basis of such data and the reports submitted under paragraph (2), the Secretary shall prepare and submit to Congress an annual report providing the status of activities conducted under this section.

@@ -1,12 +1,12 @@
 ---
-title: "Section 1163 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(i)(2), Oct. 5, 1994 , 108 Stat. 2998 ]"
+title: "Section 1163 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(i)(2) , Oct. 5, 1994 , 108 Stat. 2998 ]"
 usc_title: 10
 usc_section: "1163"
 chapter: 59
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1163"
-generated_at: "2026-03-29T19:27:25.517Z"
+generated_at: "2026-03-29T19:43:37.907Z"
 ---
 
-# [§§ 1162, 1163. Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(i)(2), Oct. 5, 1994 , 108 Stat. 2998 ]
+# [§§ 1162, 1163. Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(i)(2) , Oct. 5, 1994 , 108 Stat. 2998 ]
 

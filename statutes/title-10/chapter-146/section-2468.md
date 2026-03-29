@@ -1,12 +1,12 @@
 ---
-title: "Section 2468 - Repealed. Pub. L. 107–107, div. A, title X , § 1048(e)(10)(A), Dec. 28, 2001 , 115 Stat. 1228 ]"
+title: "Section 2468 - Repealed. Pub. L. 107–107, div. A, title X, § 1048(e)(10)(A) , Dec. 28, 2001 , 115 Stat. 1228 ]"
 usc_title: 10
 usc_section: "2468"
 chapter: 146
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2468"
-generated_at: "2026-03-29T19:27:25.612Z"
+generated_at: "2026-03-29T19:43:37.983Z"
 ---
 
-# [§ 2468. Repealed. Pub. L. 107–107, div. A, title X , § 1048(e)(10)(A), Dec. 28, 2001 , 115 Stat. 1228 ]
+# [§ 2468. Repealed. Pub. L. 107–107, div. A, title X, § 1048(e)(10)(A) , Dec. 28, 2001 , 115 Stat. 1228 ]
 

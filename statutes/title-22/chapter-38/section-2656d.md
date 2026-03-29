@@ -3,9 +3,9 @@ title: "Section 2656d - Responsibilities of Secretary of State"
 usc_title: 22
 usc_section: "2656d"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2656d"
-generated_at: "2026-03-29T19:29:46.798Z"
+generated_at: "2026-03-29T19:42:08.110Z"
 ---
 
 # § 2656d. Responsibilities of Secretary of State
@@ -23,3 +23,7 @@ generated_at: "2026-03-29T19:29:46.798Z"
   - **(1)** in the application of science and technology to problems of United States foreign policy and international relations generally; and
   - **(2)** in the skills of long-range planning and analysis with respect to the scientific and technological aspects of United States foreign policy.
 - **(d)** In obtaining assistance pursuant to subsection (c) in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
+- **(e)**
+  - **(1)** The Secretary is authorized to make grants or enter into cooperative agreements related to Department of State science and technology fellowship programs, including for assistance in recruiting fellows and the payment of stipends, travel, and other appropriate expenses to fellows.
+  - **(2)** Stipends under paragraph (1) shall not be considered compensation for purposes of section 209 of title 18 .
+  - **(3)** The total amount of grants made pursuant to this subsection may not exceed $500,000 in any fiscal year.

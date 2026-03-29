@@ -3,9 +3,9 @@ title: "Section 3362 - Distance education grants for insular areas"
 usc_title: 7
 usc_section: "3362"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3362"
-generated_at: "2026-03-29T19:27:31.890Z"
+generated_at: "2026-03-29T19:43:58.301Z"
 ---
 
 # § 3362. Distance education grants for insular areas
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T19:27:31.890Z"
   - **(2)** If the Secretary establishes a matching requirement under paragraph (1), the Secretary shall retain an option to waive the requirement for an eligible institution for any fiscal year if the Secretary determines that the institution will be unlikely to meet the matching requirement for the fiscal year.
 - **(f)** There is authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2002 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.

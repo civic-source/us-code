@@ -3,9 +3,9 @@ title: "Section 4145b - Use of amounts for housing activities"
 usc_title: 25
 usc_section: "4145b"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 4145b"
-generated_at: "2026-03-29T19:29:34.879Z"
+generated_at: "2026-03-29T19:41:28.472Z"
 ---
 
 # § 4145b. Use of amounts for housing activities

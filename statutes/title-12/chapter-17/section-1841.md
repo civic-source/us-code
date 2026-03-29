@@ -3,9 +3,9 @@ title: "Section 1841 - Definitions"
 usc_title: 12
 usc_section: "1841"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1841"
-generated_at: "2026-03-29T19:28:17.708Z"
+generated_at: "2026-03-29T19:44:54.173Z"
 ---
 
 # § 1841. Definitions
@@ -86,7 +86,7 @@ generated_at: "2026-03-29T19:28:17.708Z"
   - **(3)** any savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under section 1467a( l ) of this title.
 - **(k)** For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
 - **(l)** For purposes of this chapter, the term “savings bank holding company” means any company which controls one or more qualified savings banks if the aggregate total assets of such savings banks constitute, upon formation of the holding company and at all times thereafter, at least 70 percent of the total assets of such company.
-- **(m)** [Repealed]
+- **(m)**
 - **(n)** For purposes of this chapter, the terms “depository institution”, “insured depository institution”, “appropriate Federal banking agency”, “default”, “in danger of default”, and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act [ 12 U.S.C. 1813 ].
 - **(o)** For purposes of this chapter, the following definitions shall apply:
   - **(1)**

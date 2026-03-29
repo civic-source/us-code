@@ -3,9 +3,9 @@ title: "Section 1141 - College access challenge grant program"
 usc_title: 20
 usc_section: "1141"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1141"
-generated_at: "2026-03-29T19:28:43.060Z"
+generated_at: "2026-03-29T19:41:03.283Z"
 ---
 
 # § 1141. College access challenge grant program
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T19:28:43.060Z"
     - **(F)** Professional development for guidance counselors at middle schools and secondary schools, and financial aid administrators and college admissions counselors at institutions of higher education, to improve such individuals’ capacity to assist students and parents with—
       - **(i)** understanding—
         - **(I)** entrance requirements for admission to institutions of higher education; and
-        - **(II)** State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 of this title , and other financial assistance that is dependent upon a student’s coursework;
+        - **(II)** State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 2 2 See References in Text note below. of this title, and other financial assistance that is dependent upon a student’s coursework;
       - **(ii)** applying to institutions of higher education;
       - **(iii)** applying for Federal student financial assistance and other State, local, and private student financial assistance and scholarships;
       - **(iv)** activities that increase students’ ability to successfully complete the coursework required for a postsecondary degree, including activities such as tutoring or mentoring; and

@@ -3,9 +3,9 @@ title: "Section 545b - Opal Creek Wilderness and Scenic Recreation Area"
 usc_title: 16
 usc_section: "545b"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 545b"
-generated_at: "2026-03-29T19:29:27.295Z"
+generated_at: "2026-03-29T19:41:13.540Z"
 ---
 
 # § 545b. Opal Creek Wilderness and Scenic Recreation Area
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T19:29:27.295Z"
         - **(III)** for removal of hazard trees along trails and roadways.
       - **(ii)** The Secretary may not allow a salvage sale in the Scenic Recreation Area.
   - **(7)**
-    - **(A)** 2 2 So in original. No subpar. (B) has been enacted. subject 3 3 So in original. Probably should be capitalized. to valid existing rights, all lands in the Scenic Recreation Area are withdrawn from—
+    - **(A)** 1 subject 2 2 So in original. Probably should be capitalized. to valid existing rights, all lands in the Scenic Recreation Area are withdrawn from—
       - **(i)** any form of entry, appropriation, or disposal under the public lands laws;
       - **(ii)** location, entry, and patent under the mining laws; and
       - **(iii)** disposition under the mineral and geothermal leasing laws.
@@ -110,7 +110,7 @@ generated_at: "2026-03-29T19:29:27.295Z"
     - **(B)** Any lands or interests in land owned by a State or a political subdivision of a State may be acquired only by donation or exchange.
     - **(C)** Within the boundaries of the Opal Creek Wilderness or the Scenic Recreation Area, the Secretary may not acquire any privately owned land or interest in land without the consent of the owner unless the Secretary finds that—
       - **(i)** the nature of land use has changed significantly, or the landowner has demonstrated intent to change the land use significantly, from the use that existed on November 12, 1996 ; and
-      - **(ii)** acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title 4 4 So in original. Probably should be “section”. or the management plan prepared under subsection (d)(2).
+      - **(ii)** acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title 3 3 So in original. Probably should be “section”. or the management plan prepared under subsection (d)(2).
     - **(D)** Nothing in this section shall be construed to enhance or diminish the condemnation authority available to the Secretary outside the boundaries of the Opal Creek Wilderness or the Scenic Recreation Area.
   - **(2)**
     - **(A)** Nothing in this section shall limit the authority of the Secretary or a responsible party to conduct an environmental response action in the Scenic Recreation Area in connection with the release, threatened release, or cleanup of a hazardous substance, pollutant, or contaminant, including a response action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 et seq.).
@@ -130,11 +130,11 @@ generated_at: "2026-03-29T19:29:27.295Z"
     - **(D)** Section 2, Township 17 South, Range 4 East, SW¼SW¼ (40 acres);
     - **(E)** Section 2, Township 17 South, Range 4 East, NW¼SE¼ (40 acres);
     - **(F)** Section 8, Township 17 South, Range 4 East, SE¼SW¼ (40 acres);
-    - **(G)** Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); 5 5 So in original. The semicolon probably should be a period.
+    - **(G)** Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); 4 4 So in original. The semicolon probably should be a period.
   - **(4)** The land and interests in land exchanged under this subsection shall be of equal market value as determined by nationally recognized appraisal standards, including, to the extent appropriate, the Uniform Standards for Federal Land Acquisition, the Uniform Standards of Professional Appraisal Practice, or shall be equalized by way of payment of cash pursuant to the provisions of section 1716(d) of title 43 , and other applicable law. The appraisal shall consider access costs for the parcels involved.
   - **(5)**
     - **(A)** The exchange directed by this subsection shall be consummated not later than 120 days after the date Rosboro offers and conveys the property described in paragraph (2) to the United States.
-    - **(B)** The authority provided by this subsection shall lapse of 6 6 So in original. Probably should be “if”. Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996 .
+    - **(B)** The authority provided by this subsection shall lapse of 5 5 So in original. Probably should be “if”. Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996 .
   - **(6)** Rosboro shall have the right to challenge in the United States District Court for the District of Oregon a determination of marketability under paragraph (1) and a determination of value for the lands described in paragraphs (2) and (3) by the Secretary of Agriculture. The court shall have the authority to order the Secretary to complete the transaction contemplated in this subsection.
   - **(7)** There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 - **(h)**

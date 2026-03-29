@@ -1,19 +1,12 @@
 ---
-title: "Section 70304 - Duties of Administrator"
+title: "Section 70304 - Repealed. Pub. L. 115–10, title IV, § 416(b) , Mar. 21, 2017 , 131 Stat. 35 ]"
 usc_title: 51
 usc_section: "70304"
 chapter: 703
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 70304"
-generated_at: "2026-03-29T19:32:32.751Z"
+generated_at: "2026-03-29T19:45:16.684Z"
 ---
 
-# § 70304. Duties of Administrator
+# [§§ 70301 to 70304. Repealed. Pub. L. 115–10, title IV, § 416(b) , Mar. 21, 2017 , 131 Stat. 35 ]
 
-- **(a)** The Administrator shall establish and implement a pricing system to recover reimbursement in accordance with the pricing policy under section 70302 of this title from each commercial or foreign user of the Space Transportation System, which, except as provided in subsections (c), (d), and (e), shall include a base price of not less than $74,000,000 for each flight of the Space Transportation System in 1982 dollars.
-- **(b)** Each year the Administrator shall submit to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science and Technology of the House of Representatives a report, transmitted contemporaneously with the annual budget request of the President, which shall inform Congress how the policy goals contained in section 70302 of this title are being furthered by the shuttle price for foreign and commercial users.
-- **(c)**
-  - **(1)** If at any time the Administrator finds that the policy goals contained in section 70302 of this title are not being achieved, the Administrator shall have authority to reduce the base price established in subsection (a) after 45 days following receipt by the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science and Technology of the House of Representatives of a notice by the Administrator containing a description of the proposed reduction together with a full and complete statement of the facts and circumstances which necessitate such proposed reduction.
-  - **(2)** In no case shall the minimum price established under paragraph (1) be less than additive cost.
-- **(d)** The Administrator may set a price lower than the price determined under subsection (a) or (c), or provide no-cost flights, for any commercial or foreign user of the Space Transportation System that is involved in research, development, or demonstration programs with the Administration.
-- **(e)** Notwithstanding the provisions of subsection (a), the Administrator shall have the authority to offer reasonable customer incentives consistent with the policy goals in section 70302 of this title .

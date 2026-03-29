@@ -3,9 +3,9 @@ title: "Section 652 - Cybersecurity and Infrastructure Security Agency"
 usc_title: 6
 usc_section: "652"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 652"
-generated_at: "2026-03-29T18:47:07.399Z"
+generated_at: "2026-03-29T19:43:43.818Z"
 ---
 
 # § 652. Cybersecurity and Infrastructure Security Agency
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T18:47:07.399Z"
   - **(9)** carry out emergency communications responsibilities, in accordance with subchapter XIII;
   - **(10)** carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate;
   - **(11)** provide education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security;
-  - **(12)** appoint a Cybersecurity State Coordinator in each State, as described in section 665c of this title ;
+  - **(12)** appoint a Cybersecurity State Coordinator in each State, as described in section 665f of this title ;
   - **(13)** carry out the duties and authorities relating to the .gov internet domain, as described in section 665 of this title ; and
   - **(14)** carry out such other duties and powers prescribed by law or delegated by the Secretary.
 - **(d)** There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructure Security who shall—

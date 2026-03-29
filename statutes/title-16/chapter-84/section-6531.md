@@ -1,14 +1,12 @@
 ---
-title: "Section 6531 - Biomass commercial utilization grant program"
+title: "Section 6531 - Repealed. Pub. L. 115–334, title VIII, § 8403(a) , Dec. 20, 2018 , 132 Stat. 4841"
 usc_title: 16
 usc_section: "6531"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 6531"
-generated_at: "2026-03-29T19:29:27.617Z"
+generated_at: "2026-03-29T19:41:13.866Z"
 ---
 
-# § 6531. Biomass commercial utilization grant program
+# § 6531. Repealed. Pub. L. 115–334, title VIII, § 8403(a) , Dec. 20, 2018 , 132 Stat. 4841
 
-- **(a)** In addition to any other authority of the Secretary of Agriculture to make grants to a person that owns or operates a facility that uses biomass as a raw material to produce electric energy, sensible heat, transportation fuel, or substitutes for petroleum-based products, the Secretary may make grants to a person that owns or operates a facility that uses biomass for wood-based products or other commercial purposes to offset the costs incurred to purchase biomass.
-- **(b)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.

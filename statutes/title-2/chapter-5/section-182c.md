@@ -3,9 +3,9 @@ title: "Section 182c - Revolving fund for FEDLINK program and Federal Research p
 usc_title: 2
 usc_section: "182c"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 182c"
-generated_at: "2026-03-29T19:27:07.506Z"
+generated_at: "2026-03-29T19:42:59.599Z"
 ---
 
 # § 182c. Revolving fund for FEDLINK program and Federal Research program
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:27:07.506Z"
       - **(ii)** the total value of the liabilities attributable to such program.
 - **(e)** Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the program covered by each such account.
 - **(f)**
-  - **(1)** In this section, the “FEDLINK program” is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, and the District of Columbia:
+  - **(1)** In this section, the “FEDLINK program” is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B) ) and the District of Columbia:
     - **(A)** The procurement of commercial information services, publications in any format, and library support services.
     - **(B)** Related accounting services.
     - **(C)** Related education, information, and support services.

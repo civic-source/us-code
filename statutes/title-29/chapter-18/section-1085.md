@@ -3,9 +3,9 @@ title: "Section 1085 - Additional funding rules for multiemployer plans in endan
 usc_title: 29
 usc_section: "1085"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1085"
-generated_at: "2026-03-29T19:30:07.580Z"
+generated_at: "2026-03-29T19:42:21.497Z"
 ---
 
 # § 1085. Additional funding rules for multiemployer plans in endangered status or critical status
@@ -103,7 +103,7 @@ generated_at: "2026-03-29T19:30:07.580Z"
   - **(5)**
     - **(A)** If the funded percentage of a plan in seriously endangered status was more than 70 percent as of the beginning of the initial determination year—
       - **(i)** paragraphs (3)(B) and (4)(B) shall apply only if the plan’s actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
-      - **(ii)** if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
+      - **(ii)** if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph 4 4 So in original. Probably should be “paragraphs”. (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
     - **(B)** Notwithstanding subparagraph (A)(ii), if, for any plan year ending after the date described in subparagraph (A)(ii), the plan actuary certifies (at the time of the annual certification under subsection (b)(3)(A) for such plan year) that, based on the terms of the plan and collective bargaining agreements in effect at the time of that annual certification, the plan is not projected to be able to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), paragraphs (3)(B) and (4)(B) shall continue to apply for such year.
   - **(6)**
     - **(A)** The plan sponsor shall annually update the funding improvement plan and shall file the update with the plan’s annual report under section 1024 of this title .
@@ -151,12 +151,12 @@ generated_at: "2026-03-29T19:30:07.580Z"
       - **(ii)** If—
         - **(I)** a collective bargaining agreement providing for contributions under a multiemployer plan in accordance with a schedule provided by the plan sponsor pursuant to a rehabilitation plan (or imposed under subparagraph (C)(i)) expires while the plan is still in critical status, and
         - **(II)** after receiving one or more updated schedules from the plan sponsor under subparagraph (B)(ii), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the updated rehabilitation plan and a schedule from the plan sponsor,
-      - **(iii)** The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) or (ii) expires.
+      - **(iii)** The date specified in this subparagraph 5 5 So in original. Probably should be “clause”. is the date which is 180 days after the date on which the collective bargaining agreement described in clause (i) or (ii) expires.
       - **(iv)** Any failure to make a contribution under a schedule of contribution rates provided under this subsection shall be treated as a delinquent contribution under section 1145 of this title and shall be enforceable as such.
   - **(4)** For purposes of this section—
     - **(A)** The rehabilitation period for a plan in critical status is the 10-year period beginning on the first day of the first plan year of the multiemployer plan following the earlier of—
       - **(i)** the second anniversary of the date of the adoption of the rehabilitation plan, or
-      - **(ii)** the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
+      - **(ii)** the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date 6 6 So in original. Probably should be followed by a comma. at least 75 percent of the active participants in such multiemployer plan.
     - **(B)**
       - **(i)** A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that—
         - **(I)** the plan is not described in one or more of the subparagraphs in subsection (b)(2) as of the beginning of the plan year;
@@ -326,7 +326,7 @@ generated_at: "2026-03-29T19:30:07.580Z"
       - **(iii)** any new direct or indirect exclusion of younger or newly hired employees from plan participation, and
     - **(B)** no amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law.
 - **(g)**
-  - **(1)** Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), 4 4 So in original. There is no opening parenthesis corresponding to the second closing parenthesis. unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under section 1381 of this title .
+  - **(1)** Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), 7 7 So in original. There is no opening parenthesis corresponding to the second closing parenthesis. unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under section 1381 of this title .
   - **(2)** Any surcharges under subsection (e)(7) shall be disregarded in determining the allocation of unfunded vested benefits to an employer under section 1391 of this title and in determining the highest contribution rate under section 1399(c) of this title , except for purposes of determining the unfunded vested benefits attributable to an employer under section 1391(c)(4) of this title or a comparable method approved under section 1391(c)(5) of this title .
   - **(3)**
     - **(A)** Any increase in the contribution rate (or other increase in contribution requirements unless due to increased levels of work, employment, or periods for which compensation is provided) that is required or made in order to enable the plan to meet the requirement of the funding improvement plan or rehabilitation plan shall be disregarded in determining the allocation of unfunded vested benefits to an employer under section 1391 of this title and in determining the highest contribution rate under section 1399(c) of this title , except for purposes of determining the unfunded vested benefits attributable to an employer under section 1391(c)(4) of this title or a comparable method approved under section 1391(c)(5) of this title .

@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-29T19:30:07.560Z"
+generated_at: "2026-03-29T19:42:21.473Z"
 ---
 
 # § 1021. Duty of disclosure and reporting
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T19:30:07.560Z"
       - **(vi)** in the case of a multiemployer plan, whether the plan was in critical and declining status under section 1085 of this title for such plan year and, if so—
         - **(I)** the projected date of insolvency;
         - **(II)** a clear statement that such insolvency may result in benefit reductions; and
-        - **(III)** a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+        - **(III)** a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency. 2 2 So in original. The period probably should be a comma.
       - **(vii)** in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
       - **(viii)**
         - **(I)** in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
@@ -66,10 +66,10 @@ generated_at: "2026-03-29T19:30:07.560Z"
       - **(ii)** any additional information which the plan administrator elects to include to the extent not inconsistent with regulations prescribed by the Secretary.
     - **(D)**
       - **(i)** In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
-        - **(I)** a statement that the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
-        - **(II)** a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
+        - **(I)** a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,, 3 3 So in original. The second comma probably should not appear. the Bipartisan Budget Act of 2015,, 3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+        - **(II)** a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014,, 3 the Bipartisan Budget Act of 2015,, 3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
         - **(III)** a table which shows (determined both with and without regard to section 1083(h)(2)(C)(iv) of this title ) the funding target attainment percentage (as defined in section 1083(d)(2) of this title ), the funding shortfall (as defined in section 1083(c)(4) of this title ), and the minimum required contribution (as determined under section 1083 of this title ), for the applicable plan year and each of the 2 preceding plan years.
-      - **(ii)** For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011 , and before January 1, 2023 , for which—
+      - **(ii)** For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011 , and before January 1, 2034 , for which—
         - **(I)** the funding target (as defined in section 1083(d)(2) of this title ) is less than 95 percent of such funding target determined without regard to section 1083(h)(2)(C)(iv) of this title ,
         - **(II)** the plan has a funding shortfall (as defined in section 1083(c)(4) of this title and determined without regard to section 1083(h)(2)(C)(iv) of this title ) greater than $500,000, and
         - **(III)** the plan had 50 or more participants on any day during the preceding plan year.
@@ -126,7 +126,7 @@ generated_at: "2026-03-29T19:30:07.560Z"
       - **(i)** covered only one individual (or the individual and the individual’s spouse) and the individual (or the individual and the individual’s spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
       - **(ii)** covered only one or more partners (or partners and their spouses) in the plan sponsor.
 - **(j)** The plan administrator of a single-employer plan shall provide a written notice to plan participants and beneficiaries within 30 days—
-  - **(1)** after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title ), 2 2 So in original. The closing parenthesis probably should not appear.
+  - **(1)** after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title ), 4 4 So in original. The closing parenthesis probably should not appear.
   - **(2)** in the case of a plan to which section 1056(g)(4) of this title applies, after the valuation date for the plan year described in section 1056(g)(4)(A) of this title for which the plan’s adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under section 1056(g)(7) of this title ), and
   - **(3)** at such other time as may be determined by the Secretary of the Treasury.
 - **(k)**

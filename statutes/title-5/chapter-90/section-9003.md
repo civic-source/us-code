@@ -3,9 +3,9 @@ title: "Section 9003 - Contracting authority"
 usc_title: 5
 usc_section: "9003"
 chapter: 90
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 9003"
-generated_at: "2026-03-29T19:27:05.402Z"
+generated_at: "2026-03-29T19:43:20.468Z"
 ---
 
 # § 9003. Contracting authority
@@ -37,3 +37,4 @@ generated_at: "2026-03-29T19:27:05.402Z"
     - **(B)** The period described in this subparagraph is the 7-year period beginning on the earliest date as of which any long-term care insurance coverage under this chapter becomes effective.
   - **(3)** No later than 180 days after receiving the second report required under section 9006(c), the President (or his designee) shall submit to the Committees on Government Reform and on Armed Services of the House of Representatives and the Committees on Governmental Affairs and on Armed Services of the Senate, a written recommendation as to whether the program under this chapter should be continued without modification, terminated, or restructured. During the 180-day period following the date on which the President (or his designee) submits the recommendation required under the preceding sentence, the Office of Personnel Management may not take any steps to rebid or otherwise contract for any coverage to be available at any time following the expiration of the 7-year period described in paragraph (2)(B).
   - **(4)** Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
+- **(e)** Coverage under a master contract under this chapter for long-term care insurance for an employee or member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.

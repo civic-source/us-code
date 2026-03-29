@@ -1,14 +1,12 @@
 ---
-title: "Section 1141i - Examination of books and accounts"
+title: "Section 1141i - Repealed. Pub. L. 115–334, title V, § 5411(57) , Dec. 20, 2018 , 132 Stat. 4685"
 usc_title: 12
 usc_section: "1141i"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 1141i"
-generated_at: "2026-03-29T19:28:17.528Z"
+generated_at: "2026-03-29T19:44:53.971Z"
 ---
 
-# § 1141i. Examination of books and accounts
-
-Vouchers approved by the Governor of the Farm Credit Administration for expenditures from the revolving fund pursuant to any loan or advance or from insurance moneys pursuant to any insurance agreement, shall be final and conclusive upon all officers of the Government; except that all financial transactions of the administration shall, subject to the above limitations, be examined by the Government Accountability Office at such times and in such manner as the Comptroller General of the United States may by regulation prescribe.
+# § 1141i. Repealed. Pub. L. 115–334, title V, § 5411(57) , Dec. 20, 2018 , 132 Stat. 4685
 

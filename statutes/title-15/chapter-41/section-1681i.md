@@ -3,16 +3,16 @@ title: "Section 1681i - Procedure in case of disputed accuracy"
 usc_title: 15
 usc_section: "1681i"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1681i"
-generated_at: "2026-03-29T19:27:55.459Z"
+generated_at: "2026-03-29T19:44:42.762Z"
 ---
 
 # § 1681i. Procedure in case of disputed accuracy
 
 - **(a)**
   - **(1)**
-    - **(A)** Subject to subsection (f), if the completeness or accuracy of any item of information contained in a consumer’s file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
+    - **(A)** Subject to subsection (f) and except as provided in subsection (g), if the completeness or accuracy of any item of information contained in a consumer’s file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
     - **(B)** Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reporting agency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
     - **(C)** Subparagraph (B) shall not apply to any reinvestigation in which, during the 30-day period described in subparagraph (A), the information that is the subject of the reinvestigation is found to be inaccurate or incomplete or the consumer reporting agency determines that the information cannot be verified.
   - **(2)**
@@ -76,3 +76,7 @@ generated_at: "2026-03-29T19:27:55.459Z"
     - **(A)** the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) shall be provided to the reseller in lieu of the consumer; and
     - **(B)** the reseller shall immediately reconvey such notice to the consumer, including any notice of a deletion by telephone in the manner required under paragraph (8)(A).
   - **(4)** No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
+- **(g)**
+  - **(1)** With respect to a veteran’s medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.
+  - **(2)** The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran’s medical debt.
+  - **(3)** If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran’s medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.

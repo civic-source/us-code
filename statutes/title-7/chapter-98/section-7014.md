@@ -3,9 +3,9 @@ title: "Section 7014 - Termination of authority"
 usc_title: 7
 usc_section: "7014"
 chapter: 98
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7014"
-generated_at: "2026-03-29T19:27:31.964Z"
+generated_at: "2026-03-29T19:43:58.387Z"
 ---
 
 # § 7014. Termination of authority
@@ -19,7 +19,9 @@ generated_at: "2026-03-29T19:27:31.964Z"
   - **(5)** The authority of the Secretary to establish within the Department the position of Assistant Secretary of Agriculture for Civil Rights, and delegate duties to the Assistant Secretary, under section 6918 of this title .
   - **(6)** The authority of the Secretary to establish in the Department, under section 6971 of this title —
     - **(A)** the position of Under Secretary of Agriculture for Research, Education, and Economics;
-    - **(B)** the Research, Education, and Extension Office; and
+    - **(B)** the Office of the Chief Scientist; and
     - **(C)** the National Institute of Food and Agriculture.
   - **(7)** The authority of the Secretary to establish in the Department the Office of Advocacy and Outreach in accordance with section 6934 of this title .
   - **(8)** The authority of the Secretary to carry out amendments made to this chapter by the Agricultural Act of 2014.
+  - **(9)** The authority of the Secretary to carry out the amendments made to this chapter by section 772 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018.
+  - **(10)** The authority of the Secretary to carry out the amendments made to this chapter by the Agriculture Improvement Act of 2018.

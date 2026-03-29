@@ -3,9 +3,9 @@ title: "Section 1 - Program authorized"
 usc_title: 20
 usc_section: "1"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-29T19:28:42.932Z"
+generated_at: "2026-03-29T19:41:03.153Z"
 ---
 
 # § 130aa–1. Program authorized

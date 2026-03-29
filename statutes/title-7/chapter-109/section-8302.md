@@ -3,9 +3,9 @@ title: "Section 8302 - Definitions"
 usc_title: 7
 usc_section: "8302"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 8302"
-generated_at: "2026-03-29T19:27:32.023Z"
+generated_at: "2026-03-29T19:43:58.454Z"
 ---
 
 # § 8302. Definitions
@@ -48,3 +48,4 @@ In this chapter:
   - **(15)** The term “State” means any of the States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, or any territory or possession of the United States.
   - **(16)** Except when used in this section, the term “this chapter” includes any regulation or order issued by the Secretary under the authority of this chapter.
   - **(17)** The term “United States” means all of the States.
+  - **(18)** The term “veterinary countermeasure” means any biological product (including an animal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.

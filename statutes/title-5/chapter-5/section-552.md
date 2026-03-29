@@ -3,9 +3,9 @@ title: "Section 552 - Public information; agency rules, opinions, orders, record
 usc_title: 5
 usc_section: "552"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 552"
-generated_at: "2026-03-29T19:27:05.212Z"
+generated_at: "2026-03-29T19:43:20.301Z"
 ---
 
 # § 552. Public information; agency rules, opinions, orders, records, and proceedings
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T19:27:05.212Z"
         - **(II)**
     - **(B)** On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency’s determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
     - **(C)** Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead to any complaint made under this subsection within thirty days after service upon the defendant of the pleading in which such complaint is made, unless the court otherwise directs for good cause shown.
-    - **[(D)** Repealed. Pub. L. 98–620, title IV , § 402(2), Nov. 8, 1984 , 98 Stat. 3357 .]
+    - **[(D)** Repealed. Pub. L. 98–620, title IV, § 402(2) , Nov. 8, 1984 , 98 Stat. 3357 .]
     - **(E)**
       - **(i)** The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this section in which the complainant has substantially prevailed.
       - **(ii)** For purposes of this subparagraph, a complainant has substantially prevailed if the complainant has obtained relief through either—

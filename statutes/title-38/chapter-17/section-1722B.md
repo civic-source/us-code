@@ -3,9 +3,9 @@ title: "Section 1722B - Copayments: waiver of collection of copayments for teleh
 usc_title: 38
 usc_section: "1722B"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1722B"
-generated_at: "2026-03-29T19:30:40.480Z"
+generated_at: "2026-03-29T19:43:26.970Z"
 ---
 
 # § 1722B. Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans

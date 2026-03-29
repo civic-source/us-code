@@ -3,9 +3,9 @@ title: "Section 319 - National Integration Center"
 usc_title: 6
 usc_section: "319"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 319"
-generated_at: "2026-03-29T19:27:39.846Z"
+generated_at: "2026-03-29T19:43:43.780Z"
 ---
 
 # § 319. National Integration Center
@@ -23,6 +23,6 @@ generated_at: "2026-03-29T19:27:39.846Z"
     - **(B)** The chain of the command specified in the National Response Plan shall—
       - **(i)** provide for a role for the Administrator consistent with the role of the Administrator as the principal emergency management advisor to the President, the Homeland Security Council, and the Secretary under section 313(c)(4) of this title and the responsibility of the Administrator under the Post-Katrina Emergency Management Reform Act of 2006, and the amendments made by that Act, relating to natural disasters, acts of terrorism, and other man-made disasters; and
       - **(ii)** provide for a role for the Federal Coordinating Officer consistent with the responsibilities under section 5143(b) of title 42 .
-  - **(2)** The Principal Federal Official (or the successor thereto) shall not—
+  - **(2)** The Principal Federal Official (or the successor thereto) or Director of a Joint Task Force established under section 348 of this title shall not—
     - **(A)** direct or replace the incident command structure established at the incident; or
     - **(B)** have directive authority over the Senior Federal Law Enforcement Official, Federal Coordinating Officer, or other Federal and State officials.

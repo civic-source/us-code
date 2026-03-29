@@ -5,7 +5,7 @@ usc_section: "60521"
 chapter: 605
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 60521"
-generated_at: "2026-03-29T18:45:50.426Z"
+generated_at: "2026-03-29T19:42:53.209Z"
 ---
 
 # § 60521. Offender reentry substance abuse and criminal justice collaboration program

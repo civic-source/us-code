@@ -3,9 +3,9 @@ title: "Section 2519 - Conclusiveness of judgment"
 usc_title: 28
 usc_section: "2519"
 chapter: 165
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 2519"
-generated_at: "2026-03-29T19:30:04.400Z"
+generated_at: "2026-03-29T19:42:27.383Z"
 ---
 
 # § 2519. Conclusiveness of judgment

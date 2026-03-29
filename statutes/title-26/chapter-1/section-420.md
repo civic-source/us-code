@@ -3,9 +3,9 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-29T19:30:19.826Z"
+generated_at: "2026-03-29T19:42:47.658Z"
 ---
 
 # § 420. Transfers of excess pension assets to retiree health accounts
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:30:19.826Z"
   - **(4)** No transfer made after December 31, 2025 , shall be treated as a qualified transfer.
 - **(c)**
   - **(1)**
-    - **(A)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) 1 1 See References in Text note below. for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
+    - **(A)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(E)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
     - **(B)**
       - **(i)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) which are not used as provided in subparagraph (A) shall be transferred out of the account to the transferor plan.
       - **(ii)** Any amount transferred out of an account under clause (i)—
@@ -137,4 +137,14 @@ generated_at: "2026-03-29T19:30:19.826Z"
       - **(i)** applicable life insurance benefits which are provided to retired employees who, immediately before the transfer, are entitled to receive such benefits by reason of retirement, and
       - **(ii)** if specified by the provisions of the collective bargaining agreement governing the transfer, applicable life insurance benefits which will be provided at retirement to employees who are not retired employees at the time of the transfer.
     - **(E)** The term “collectively bargained plan” means a group health plan or arrangement for retired employees and their spouses and dependents, or a group-term life insurance plan or arrangement for retired employees, that is maintained pursuant to 1 or more collective bargaining agreements.
+  - **(7)**
+    - **(A)** In the case of an employer maintaining a plan which has made a qualified future transfer under this subsection, such employer may, not later than December 31, 2021 , elect to terminate the transfer period with respect to such transfer effective as of any taxable year specified by the taxpayer that begins after the date of such election.
+    - **(B)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified future transfer (and any income allocable thereto) which are not used as of the effective date of the election to terminate the transfer period with respect to such transfer under subparagraph (A), shall be transferred out of the account to the transferor plan within a reasonable period of time. The transfer required by this subparagraph shall be treated as an employer reversion for purposes of section 4980 (other than subsection (d) thereof), unless before the end of the 5-year period beginning after the original transfer period an equivalent amount is transferred back to such health benefits account, or applicable life insurance account, as the case may be. Any such transfer back pursuant to the preceding sentence may be made without regard to section 401(h)(1).
+    - **(C)** The requirements of subsection (c)(3) and paragraph (2)(D) shall apply with respect to a qualified future transfer without regard to any election under subparagraph (A) with respect to such transfer.
+    - **(D)** The requirements of paragraph (2)(B) shall apply without regard to any such election, and clause (i) thereof shall be applied by substituting “100 percent” for “120 percent” during the original transfer period.
+    - **(E)**
+      - **(i)** In the case of a plan with respect to which there is an excess described in paragraph (2)(B)(ii) as of the valuation date of the plan year in the last year of the original transfer period, paragraph (2)(B) shall apply for 5 years after the original transfer period in the same manner as during a transfer period by substituting the applicable percentage for “120 percent” in clause (i) thereof.
+      - **(ii)** For purposes of this subparagraph, the applicable percentage shall be determined under the following table: For the valuation date of the plan year in the following year after the original transfer period: The applicable percentage is: 1st 104 percent 2nd 108 percent 3rd 112 percent 4th 116 percent 5th 120 percent
+      - **(iii)** If, as of the valuation date of any plan year in the first 4 years after the original transfer period with respect to a qualified future transfer, there would be no excess determined under this subparagraph were the applicable percentage 120 percent, then this subparagraph shall cease to apply with respect to the plan.
+    - **(F)** For purposes of this paragraph, the term “original transfer period” means the transfer period under this subsection with respect to a qualified future transfer determined without regard to the election under subparagraph (A).
 - **(g)** For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.

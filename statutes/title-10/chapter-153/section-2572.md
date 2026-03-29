@@ -3,9 +3,9 @@ title: "Section 2572 - Documents, historical artifacts, and condemned or obsolet
 usc_title: 10
 usc_section: "2572"
 chapter: 153
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2572"
-generated_at: "2026-03-29T19:27:25.623Z"
+generated_at: "2026-03-29T19:43:37.992Z"
 ---
 
 # § 2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
@@ -35,11 +35,11 @@ generated_at: "2026-03-29T19:27:25.623Z"
 - **(e)**
   - **(1)** Except as provided in paragraph (3), and notwithstanding this section or any other provision of law, the President may not transfer a veterans memorial object to a foreign country or an entity controlled by a foreign government, or otherwise transfer or convey such an object to any person or entity for purposes of the ultimate transfer or conveyance of the object to a foreign country or entity controlled by a foreign government.
   - **(2)** In this subsection:
-    - **(A)** The term “entity controlled by a foreign government” has the meaning given that term in section 2536(c)(1) of this title .
+    - **(A)** The term “entity controlled by a foreign government” has the meaning given that term in section 4874(c)(1) of this title .
     - **(B)** The term “veterans memorial object” means any object, including a physical structure or portion thereof, that—
       - **(i)** is located at a cemetery of the National Cemetery System, war memorial, or military installation in the United States;
       - **(ii)** is dedicated to, or otherwise memorializes, the death in combat or combat-related duties of members of the armed forces; and
-      - **(iii)** was brought to the United States from abroad as a memorial of combat abroad.
+      - **(iii)** was brought to the United States from abroad before 1907 as a memorial of combat abroad.
   - **(3)** The prohibition imposed by paragraph (1) does not apply to a transfer of a veterans memorial object if—
     - **(A)** the transfer of that veterans memorial object is specifically authorized by law; or
-    - **(B)** the transfer is made after September 30, 2017 .
+    - **(B)** the transfer is made after September 30, 2022 .

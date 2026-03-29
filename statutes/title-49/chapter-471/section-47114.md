@@ -3,9 +3,9 @@ title: "Section 47114 - Apportionments"
 usc_title: 49
 usc_section: "47114"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47114"
-generated_at: "2026-03-29T19:32:28.901Z"
+generated_at: "2026-03-29T19:44:58.030Z"
 ---
 
 # § 47114. Apportionments
@@ -30,10 +30,17 @@ generated_at: "2026-03-29T19:32:28.901Z"
       - **(i)** passenger boardings at the airport fell below 10,000 in the calendar year used to calculate the apportionment;
       - **(ii)** the airport had at least 10,000 passenger boardings in the calendar year prior to the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
       - **(iii)** the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
-    - **(F)** Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for fiscal year 2017 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+    - **(F)** Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph 1 1 So in original. Probably means “subparagraph (A)”. for each of fiscal years 2018 through 2020 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
       - **(i)** had 10,000 or more passenger boardings during calendar year 2012;
-      - **(ii)** had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A); and
-      - **(iii)** had scheduled air service at any point during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A).
+      - **(ii)** had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2018, 2019, or 2020, as applicable, under subparagraph (A); and
+      - **(iii)** had scheduled air service at any point in the calendar year used to calculate the apportionment.
+    - **(G)** The authority to make apportionments in the manner prescribed in subparagraph (F) may be utilized no more than 3 years in a row. The Secretary may waive this limitation if the Secretary determines that an airport’s enplanements are substantially close to 10,000 enplanements and the airport sponsor or affected communities are taking reasonable steps to restore enplanements above 10,000.
+    - **(H)** Not less than $600,000 may be apportioned under subparagraph (A) for each fiscal year to each sponsor of a commercial service airport that had fewer than 10,000 passenger boardings, but at least 8,000 passenger boardings, during the prior calendar year.
+    - **(I)** Notwithstanding section 47102, if the Secretary determines that a commercial service airport with at least 8,000 passenger boardings receives scheduled air carrier service for fewer than 6 months in the calendar year used to calculate apportionments to airport sponsors in a fiscal year, then the Secretary shall consider the airport to be a nonhub primary airport for purposes of this chapter.
+    - **(J)** Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary shall apportion in fiscal years 2022 and 2023 to the sponsor of the airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount:
+      - **(i)** Calendar year 2018.
+      - **(ii)** Calendar year 2019.
+      - **(iii)** The prior full calendar year prior to the current fiscal year.
   - **(2)**
     - **(A)** Subject to subparagraph (D), the Secretary shall apportion an amount equal to 3.5 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds.
     - **(B)** Any funds apportioned under subparagraph (A) to sponsors of airports described in subparagraph (A) shall be allocated among those airports in the proportion that the total annual landed weight of aircraft described in subparagraph (A) landing at each of those airports bears to the total annual landed weight of those aircraft landing at all those airports.
@@ -56,12 +63,17 @@ generated_at: "2026-03-29T19:32:28.901Z"
       - **(i)** 0.62 percent of the remaining amount to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands.
       - **(ii)** Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in clause (i) in the proportion that the population of each of those States bears to the total population of all of those States.
       - **(iii)** Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in clause (i) in the proportion that the area of each of those States bears to the total area of all of those States.
+    - **(C)** During fiscal years 2019 and 2020—
+      - **(i)** an airport that accrued apportionment funds under subparagraph (A) in fiscal year 2013 that is listed as having an unclassified status under the most recent national plan of integrated airport systems shall continue to accrue apportionment funds under subparagraph (A) at the same amount the airport accrued apportionment funds in fiscal year 2013, subject to the conditions of this paragraph;
+      - **(ii)** notwithstanding the period of availability as described in section 47117(b), an amount apportioned to an airport under clause (i) shall be available to the airport only during the fiscal year in which the amount is apportioned; and
+      - **(iii)** notwithstanding the waiver permitted under section 47117(c)(2), an airport receiving apportionment funds under clause (i) may not waive its claim to any part of the apportioned funds in order to make the funds available for a grant for another public-use airport.
+    - **(D)** An airport that re-establishes its classified status shall be eligible to accrue apportionment funds pursuant to subparagraph (A) so long as such airport retains its classified status.
   - **(4)** An amount apportioned under paragraph (2) or (3) to Alaska, Puerto Rico, or Hawaii for airports in such State may be made available by the Secretary for any public airport in those respective jurisdictions.
-  - **(5)**
-    - **(A)** The Secretary may permit the use of State highway specifications for airfield pavement construction using funds made available under this subsection at nonprimary airports with runways of 5,000 feet or shorter serving aircraft that do not exceed 60,000 pounds gross weight if the Secretary determines that—
+  - **(5)** The Secretary shall use the highway specifications of a State for airfield pavement construction and improvement using funds made available under this subsection at nonprimary airports serving aircraft that do not exceed 60,000 pounds gross weight if—
+    - **(A)** such State requests the use of such specifications; and
+    - **(B)** the Secretary determines that—
       - **(i)** safety will not be negatively affected; and
-      - **(ii)** the life of the pavement will not be shorter than it would be if constructed using Administration standards.
-    - **(B)** An airport may not seek funds under this subchapter for runway rehabilitation or reconstruction of any such airfield pavement constructed using State highway specifications for a period of 10 years after construction is completed unless the Secretary determines that the rehabilitation or reconstruction is required for safety reasons.
+      - **(ii)** the life of the pavement, with necessary maintenance and upkeep, will not be shorter than it would be if constructed using Administration standards.
   - **(6)** Notwithstanding any other provision of this subsection, funds made available under this subsection may be used for integrated airport system planning that encompasses one or more primary airports.
   - **(7)** Notwithstanding any other provision of this subsection, the Secretary may apportion to an airport sponsor in a fiscal year an amount equal to the minimum apportionment available under subsection (c)(1)(B) if the Secretary finds that the airport—
     - **(A)** received scheduled or unscheduled air service from a large certificated air carrier (as defined in part 241 of title 14, Code of Federal Regulations, or such other regulations as may be issued by the Secretary under the authority of section 41709) in the calendar year used to calculate the apportionment; and

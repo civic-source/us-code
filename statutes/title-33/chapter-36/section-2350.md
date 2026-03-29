@@ -3,9 +3,9 @@ title: "Section 2350 - Corrosion prevention"
 usc_title: 33
 usc_section: "2350"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2350"
-generated_at: "2026-03-29T19:30:28.859Z"
+generated_at: "2026-03-29T19:43:07.716Z"
 ---
 
 # § 2350. Corrosion prevention
@@ -25,3 +25,6 @@ generated_at: "2026-03-29T19:30:28.859Z"
   - **(1)** the application and inspection of protective coatings for complex work involving steel and cementitious structures, including structures that will be exposed in immersion;
   - **(2)** the installation, testing, and inspection of cathodic protection systems; and
   - **(3)** any other activities related to corrosion prevention the Secretary determines appropriate.
+- **(d)** In the first annual report submitted to Congress after December 16, 2016 , in accordance with section 556 of this title , and section 2295(b) of this title , the Secretary shall report on the corrosion prevention activities encouraged under this section, including—
+  - **(1)** a description of the actions the Secretary has taken to implement this section; and
+  - **(2)** a description of the projects utilizing corrosion prevention activities, including which activities were undertaken.

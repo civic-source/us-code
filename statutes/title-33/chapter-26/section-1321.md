@@ -3,9 +3,9 @@ title: "Section 1321 - Oil and hazardous substance liability"
 usc_title: 33
 usc_section: "1321"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1321"
-generated_at: "2026-03-29T19:30:28.788Z"
+generated_at: "2026-03-29T19:43:07.643Z"
 ---
 
 # § 1321. Oil and hazardous substance liability
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:28.788Z"
   - **(8)** “remove” or “removal” refers to containment and removal of the oil or hazardous substances from the water and shorelines or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
   - **(9)** “contiguous zone” means the entire zone established or to be established by the United States under article 24 of the Convention on the Territorial Sea and the Contiguous Zone;
   - **(10)** “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
-  - **(11)** “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
+  - **(11)** “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel, and, for the purposes of applying subsections (b), (c), (e), and ( o ), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act 2 2 See References in Text note below. ) or any other facility located seaward of the exclusive economic zone;
   - **(12)** “act of God” means an act occasioned by an unanticipated grave natural disaster;
   - **(13)** “barrel” means 42 United States gallons at 60 degrees Fahrenheit;
   - **(14)** “hazardous substance” means any substance designated pursuant to subsection (b)(2) of this section;
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:30:28.788Z"
     - **(A)** is at least 400 gross tons as measured under section 14302 of title 46 or, for vessels not measured under that section, as measured under section 14502 of that title;
     - **(B)** is not a tank vessel;
     - **(C)** carries oil of any kind as fuel for main propulsion; and
-    - **(D)** operates on the navigable waters of the United States, as defined in section 2101(17a) of that title;
+    - **(D)** operates on the navigable waters of the United States, as defined in section 2101(23) of that title;
   - **(27)** the term “best available science” means science that—
     - **(A)** maximizes the quality, objectivity, and integrity of information, including statistical information;
     - **(B)** uses peer-reviewed and publicly available data; and
@@ -106,7 +106,7 @@ generated_at: "2026-03-29T19:30:28.788Z"
   - **(11)** Civil penalties shall not be assessed under both this section and section 1319 of this title for the same discharge.
   - **(12)** If any owner, operator, or person in charge of a vessel is liable for a civil penalty under this subsection, or if reasonable cause exists to believe that the owner, operator, or person in charge may be subject to a civil penalty under this subsection, the Secretary of the Treasury, upon the request of the Secretary of the department in which the Coast Guard is operating or the Administrator, shall with respect to such vessel refuse or revoke—
     - **(A)** the clearance required by section 60105 of title 46 ;
-    - **(B)** a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313); 2 2 See References in Text note below. and
+    - **(B)** a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313); 2 and
     - **(C)** a permit to depart required under section 1443 2 of title 19;
 - **(c)**
   - **(1)**

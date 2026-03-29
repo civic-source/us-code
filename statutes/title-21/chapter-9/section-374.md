@@ -3,9 +3,9 @@ title: "Section 374 - Inspection"
 usc_title: 21
 usc_section: "374"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 374"
-generated_at: "2026-03-29T19:29:50.414Z"
+generated_at: "2026-03-29T19:41:41.629Z"
 ---
 
 # § 374. Inspection
@@ -24,7 +24,9 @@ generated_at: "2026-03-29T19:29:50.414Z"
     - **(A)** Any records or other information that the Secretary may inspect under this section from a person that owns or operates an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug shall, upon the request of the Secretary, be provided to the Secretary by such person, in advance of or in lieu of an inspection, within a reasonable timeframe, within reasonable limits, and in a reasonable manner, and in either electronic or physical form, at the expense of such person. The Secretary’s request shall include a sufficient description of the records requested.
     - **(B)** Upon receipt of the records requested under subparagraph (A), the Secretary shall provide to the person confirmation of receipt.
     - **(C)** Nothing in this paragraph supplants the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
-- **(b)** Upon completion of any such inspection of a factory, warehouse, consulting laboratory, or other establishment, and prior to leaving the premises, the officer or employee making the inspection shall give to the owner, operator, or agent in charge a report in writing setting forth any conditions or practices observed by him which, in his judgment, indicate that any food, drug, device, tobacco product, or cosmetic in such establishment (1) consists in whole or in part of any filthy, putrid, or decomposed substance, or (2) has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. A copy of such report shall be sent promptly to the Secretary.
+- **(b)**
+  - **(1)** Upon completion of any such inspection of a factory, warehouse, consulting laboratory, or other establishment, and prior to leaving the premises, the officer or employee making the inspection shall give to the owner, operator, or agent in charge a report in writing setting forth any conditions or practices observed by him which, in his judgment, indicate that any food, drug, device, tobacco product, or cosmetic in such establishment (A) consists in whole or in part of any filthy, putrid, or decomposed substance, or (B) has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. A copy of such report shall be sent promptly to the Secretary.
+  - **(2)** In carrying out this subsection with respect to any establishment manufacturing a drug approved under subsection (c) or (j) of section 355 of this title for which a notification has been submitted in accordance with section 356c of this title is, or has been in the last 5 years, listed on the drug shortage list under section 356e of this title , or that is described in section 355(j)(11)(A) of this title , a copy of the report shall be sent promptly to the appropriate offices of the Food and Drug Administration with expertise regarding drug shortages.
 - **(c)** If the officer or employee making any such inspection of a factory, warehouse, or other establishment has obtained any sample in the course of the inspection, upon completion of the inspection and prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained.
 - **(d)** Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 - **(e)** Every person required under section 360i or 360j(g) of this title to maintain records and every person who is in charge or custody of such records shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to, and to copy and verify, such records.
@@ -101,7 +103,7 @@ generated_at: "2026-03-29T19:29:50.414Z"
       - **(i)** The term “base amount” means the inspection budget determined under subparagraph (B) for fiscal year 2002.
       - **(ii)** The term “adjusted base amount”, in the case of applicability to fiscal year 2003, means an amount equal to the base amount increased by 5 percent.
       - **(iii)** The term “adjusted base amount”, with respect to applicability to fiscal year 2004 or any subsequent fiscal year, means the adjusted base amount applicable to the preceding year increased by 5 percent.
-  - **(11)** The authority provided by this subsection terminates on October 1, 2017 .
+  - **(11)** The authority provided by this subsection terminates on October 1, 2022 .
   - **(12)** No later than four years after October 26, 2002 , the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
     - **(A)** the number of inspections conducted by accredited persons pursuant to this subsection and the number of inspections conducted by Federal employees pursuant to section 360(h) of this title and of device establishments required to register under section 360(i) of this title ;
     - **(B)** the number of persons who sought accreditation under this subsection, as well as the number of persons who were accredited under this subsection;
@@ -112,3 +114,22 @@ generated_at: "2026-03-29T19:29:50.414Z"
     - **(G)** whether the Congress should continue, modify, or terminate the program under this subsection.
   - **(13)** The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under this subsection for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
   - **(14)** Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in section 383(b) of this title between the Secretary and a foreign country.
+  - **(15)**
+    - **(A)** Notwithstanding any other provision of this subsection, the Secretary may recognize auditing organizations that are recognized by organizations established by governments to facilitate international harmonization for purposes of conducting inspections of—
+      - **(i)** establishments that manufacture, prepare, propagate, compound, or process devices (other than types of devices licensed under section 262 of title 42 ), as required under section 360(h) of this title ; or
+      - **(ii)** establishments required to register pursuant to section 360(i) of this title .
+    - **(B)** Nothing in this paragraph affects—
+      - **(i)** the authority of the Secretary to inspect any device establishment pursuant to this chapter; or
+      - **(ii)** the authority of the Secretary to determine the official classification of an inspection.
+- **(h)**
+  - **(1)** In the case of inspections other than for-cause inspections, the Secretary shall review processes and standards applicable to inspections of domestic and foreign device establishments in effect as of August 18, 2017 , and update such processes and standards through the adoption of uniform processes and standards applicable to such inspections. Such uniform processes and standards shall provide for—
+    - **(A)** exceptions to such processes and standards, as appropriate;
+    - **(B)** announcing the inspection of the establishment within a reasonable time before such inspection occurs, including by providing to the owner, operator, or agent in charge of the establishment a notification regarding the type and nature of the inspection;
+    - **(C)** a reasonable estimate of the timeframe for the inspection, an opportunity for advance communications between the officers or employees carrying out the inspection under subsection (a)(1) and the owner, operator, or agent in charge of the establishment concerning appropriate working hours during the inspection, and, to the extent feasible, advance notice of some records that will be requested; and
+    - **(D)** regular communications during the inspection with the owner, operator, or agent in charge of the establishment regarding inspection status, which may be recorded by either party with advance notice and mutual consent.
+  - **(2)**
+    - **(A)** The Secretary shall, with respect to a request described in subparagraph (B), provide nonbinding feedback with respect to such request not later than 45 days after the Secretary receives such request.
+    - **(B)** A request described in this subparagraph is a request for feedback—
+      - **(i)** that is made by the owner, operator, or agent in charge of such establishment in a timely manner; and
+      - **(ii)** with respect to actions proposed to be taken by a device establishment in a response to a report received by such establishment pursuant to subsection (b) that involve a public health priority, that implicate systemic or major actions, or relate to emerging safety issues (as determined by the Secretary).
+  - **(3)** Nothing in this subsection affects the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.

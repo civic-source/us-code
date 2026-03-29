@@ -3,15 +3,15 @@ title: "Section 1035 - Certain exchanges of insurance policies"
 usc_title: 26
 usc_section: "1035"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1035"
-generated_at: "2026-03-29T19:30:19.962Z"
+generated_at: "2026-03-29T19:42:47.790Z"
 ---
 
 # § 1035. Certain exchanges of insurance policies
 
 - **(a)** No gain or loss shall be recognized on the exchange of—
-  - **(1)** a contract of life insurance for another contract of life insurance or for an endowment or annuity contract or for a qualified long-term care insurance contract; or 1 1 So in original. The word “or” probably should not appear.
+  - **(1)** a contract of life insurance for another contract of life insurance or for an endowment or annuity contract or for a qualified long-term care insurance contract;
   - **(2)** a contract of endowment insurance (A) for another contract of endowment insurance which provides for regular payments beginning at a date not later than the date payments would have begun under the contract exchanged, or (B) for an annuity contract, or (C) for a qualified long-term care insurance contract;
   - **(3)** an annuity contract for an annuity contract or for a qualified long-term care insurance contract; or
   - **(4)** a qualified long-term care insurance contract for a qualified long-term care insurance contract.

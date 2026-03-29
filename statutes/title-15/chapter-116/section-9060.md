@@ -3,9 +3,9 @@ title: "Section 9060 - Reports"
 usc_title: 15
 usc_section: "9060"
 chapter: 116
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 9060"
-generated_at: "2026-03-29T18:49:04.593Z"
+generated_at: "2026-03-29T19:44:42.999Z"
 ---
 
 # § 9060. Reports
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T18:49:04.593Z"
       - **(i)** not later than 7 days after the Board authorizes a new facility or other financial assistance in accordance with section 343(3)(C)(i) of title 12 ; and
       - **(ii)** once every 30 days with respect to outstanding loans or financial assistance in accordance with section 343(3)(C)(ii) of title 12 .
     - **(B)** Not later than 7 days after the Board of Governors of the Federal Reserve System submits a report under subparagraph (A) to the committees of Congress described in subparagraph (A), the Board shall publish on its website such report.
-- **(c)** The Secretary and the Chairman of the Board of Governors of the Federal Reserve System shall testify, on a semiannual basis, before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives regarding the obligations of the Department of the Treasury and the Federal Reserve System, and transactions entered into, under this Act. This subsection shall have no force or effect after December 31, 2027 .
+- **(c)** The Secretary and the Chairman of the Board of Governors of the Federal Reserve System shall testify, on a quarterly basis, before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives regarding the obligations of the Department of the Treasury and the Federal Reserve System, and transactions entered into, under this Act.
 - **(d)** The Secretary shall post on the website of the Department of the Treasury all criteria, guidelines, eligibility requirements, and application materials for the making of any loan or loan guarantee under paragraph (1), (2), or (3) of section 9042(b) of this title .
 - **(e)** Not later than 24 hours after the Secretary enters into a contract in connection with the administration of any loan or loan guarantee authorized to be made under paragraph (1), (2), or (3) of section 9042(b) of this title , the Secretary shall post on the website of the Department of the Treasury a copy of the contract.
 - **(f)**

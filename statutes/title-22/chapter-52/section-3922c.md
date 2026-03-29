@@ -5,7 +5,7 @@ usc_section: "3922c"
 chapter: 52
 current_through: "PL 117-81"
 classification: "22 U.S.C. § 3922c"
-generated_at: "2026-03-29T18:44:49.400Z"
+generated_at: "2026-03-29T19:42:08.159Z"
 ---
 
 # § 3922c. Integration of foreign economic policy

@@ -1,12 +1,12 @@
 ---
-title: "Section 2667 - Repealed. Pub. L. 99–93, title I , § 125(c), Aug. 16, 1985 , 99 Stat. 417"
+title: "Section 2667 - Repealed. Pub. L. 99–93, title I, § 125(c) , Aug. 16, 1985 , 99 Stat. 417"
 usc_title: 22
 usc_section: "2667"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2667"
-generated_at: "2026-03-29T19:29:46.800Z"
+generated_at: "2026-03-29T19:42:08.112Z"
 ---
 
-# §§ 2666, 2667. Repealed. Pub. L. 99–93, title I , § 125(c), Aug. 16, 1985 , 99 Stat. 417
+# §§ 2666, 2667. Repealed. Pub. L. 99–93, title I, § 125(c) , Aug. 16, 1985 , 99 Stat. 417
 

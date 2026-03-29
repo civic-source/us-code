@@ -3,9 +3,9 @@ title: "Section 1077 - Eligibility of student borrowers and terms of federally i
 usc_title: 20
 usc_section: "1077"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1077"
-generated_at: "2026-03-29T19:28:42.986Z"
+generated_at: "2026-03-29T19:41:03.203Z"
 ---
 
 # § 1077. Eligibility of student borrowers and terms of federally insured student loans
@@ -22,13 +22,14 @@ generated_at: "2026-03-29T19:28:42.986Z"
       - **(i)** during which the borrower—
         - **(I)** is pursuing at least a half-time course of study as determined by an eligible institution; or
         - **(II)** is pursuing a course of study pursuant to a graduate fellowship program approved by the Secretary, or pursuant to a rehabilitation training program for individuals with disabilities approved by the Secretary,
-      - **(ii)** not in excess of 3 years during which the borrower is seeking and unable to find full-time employment; or
-      - **(iii)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship;
+      - **(ii)** not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
+      - **(iii)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship; or
+      - **(iv)** in which the borrower is receiving treatment for cancer and the 6 months after such period. 1 1 So in original. The period probably should be a semicolon.
     - **(D)** provides for interest on the unpaid principal balance of the loan at a yearly rate, not exceeding the applicable maximum rate prescribed in section 1077a of this title , which interest shall be payable in installments over the period of the loan except that, if provided in the note or other written agreement, any interest payable by the student may be deferred until not later than the date upon which repayment of the first installment of principal falls due, in which case interest accrued during that period may be added on that date to the principal;
     - **(E)** provides that the lender will not collect or attempt to collect from the borrower any portion of the interest on the note which is payable by the Secretary under this part, and that the lender will enter into such agreements with the Secretary as may be necessary for the purpose of section 1087 of this title ;
     - **(F)** entitles the student borrower to accelerate without penalty repayment of the whole or any part of the loan;
     - **(G)**
-      - **(i)** contains a notice of the system, 1 1 So in original. The comma probably should not appear. of disclosure of information concerning such loan to consumer reporting agencies under section 1080a of this title , and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies;
+      - **(i)** contains a notice of the system, 2 2 So in original. The comma probably should not appear. of disclosure of information concerning such loan to consumer reporting agencies under section 1080a of this title , and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies;
     - **(H)** provides that, no more than 6 months prior to the date on which the borrower’s first payment on a loan is due, the lender shall offer the borrower the option of repaying the loan in accordance with a graduated or income-sensitive repayment schedule established by the lender and in accordance with the regulations of the Secretary; and
     - **(I)** contains such other terms and conditions, consistent with the provisions of this part and with the regulations issued by the Secretary pursuant to this part, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan;
   - **(3)** the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except—

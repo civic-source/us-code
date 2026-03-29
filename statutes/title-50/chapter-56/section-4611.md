@@ -3,9 +3,9 @@ title: "Section 4611 - Multilateral export control violations"
 usc_title: 50
 usc_section: "4611"
 chapter: 56
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4611"
-generated_at: "2026-03-29T19:32:24.312Z"
+generated_at: "2026-03-29T19:44:52.929Z"
 ---
 
 # § 4611. Multilateral export control violations
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:32:24.312Z"
   - **(2)** the government with jurisdiction over the parent, affiliate, subsidiary, or successor entity has improved its export control system as measured by the criteria set forth in subsection (d)(2);
   - **(3)** the parent, affiliate, subsidiary, or successor entity, has instituted improvements in internal controls sufficient to detect and prevent violations of the export control regime implemented under paragraph (2); and
   - **(4)** the impact of the sanctions imposed on the parent, affiliate, subsidiary, or successor entity is proportionate to the increased defense expenditures imposed on the United States.
-- **(g)** The President shall include in the annual report submitted under section 4616 of this title , a report on the status of any sanctions imposed under this section, including any exceptions, exclusions, or modifications of sanctions that have been applied under subsection (c), (d), or (f).
+- **(g)** The President shall include in the annual report submitted under section 4616 1 1 See References in Text note below. of this title, a report on the status of any sanctions imposed under this section, including any exceptions, exclusions, or modifications of sanctions that have been applied under subsection (c), (d), or (f).
 - **(h)** If the President determines that a foreign person has violated a regulation issued by a country to control exports for national security purposes pursuant to the agreement of the group known as the Coordinating Committee, but in a case in which subsection (a)(2) may not apply, the President may apply the sanctions referred to in subsection (b) against that foreign person for a period of not more than 5 years.
 - **(i)**
   - **(1)** In cases in which sanctions have been applied against a foreign person under subsection (a), the President shall initiate discussions with the foreign person and the government with jurisdiction over that foreign person regarding compensation on the part of the foreign person in an amount proportionate to the costs of research and development and procurement of new defensive systems by the United States and the allies of the United States to counteract the effect of the technological advance achieved by the Soviet Union as a result of the violation by that foreign person.
@@ -55,5 +55,5 @@ generated_at: "2026-03-29T19:32:24.312Z"
   - **(3)** consult with and report to the Congress on the nature of the violation and the actions the President proposes to take, or has taken, to rectify the situation.
 - **(k)**
   - **(1)** In any case in which the President makes a determination under subsection (a), the Secretary of Defense shall determine the costs of restoring the military preparedness of the United States on account of the violation involved. The Secretary of Defense shall notify the Attorney General of his determination, and the Attorney General may bring an action for damages, in any appropriate district court of the United States, to recover such costs against the person who committed the violation, any person that is owned or controlled by the person who committed the violation, and any person who owns and controls the person who committed the violation.
-  - **(3)** 1 1 So in original. Subsec. (k) was enacted without a par. (2). The total amount awarded in any case brought under paragraph (2) 1 shall be determined by the court in light of the facts and circumstances, but shall not exceed the amount of the net loss to the national security of the United States. An action under this subsection shall be commenced not later than 3 years after the violation occurs, or one year after the violation is discovered, whichever is later.
+  - **(3)** 2 2 So in original. Subsec. (k) was enacted without a par. (2). The total amount awarded in any case brought under paragraph (2) 2 shall be determined by the court in light of the facts and circumstances, but shall not exceed the amount of the net loss to the national security of the United States. An action under this subsection shall be commenced not later than 3 years after the violation occurs, or one year after the violation is discovered, whichever is later.
 - **(l)** For purposes of this section, the term “foreign person” means any person other than a United States person.

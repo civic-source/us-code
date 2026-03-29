@@ -3,9 +3,9 @@ title: "Section 154 - Vice Chairman"
 usc_title: 10
 usc_section: "154"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 154"
-generated_at: "2026-03-29T19:27:25.426Z"
+generated_at: "2026-03-29T19:43:37.779Z"
 ---
 
 # § 154. Vice Chairman
@@ -13,11 +13,14 @@ generated_at: "2026-03-29T19:27:25.426Z"
 - **(a)**
   - **(1)** There is a Vice Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
   - **(2)** The Chairman and Vice Chairman may not be members of the same armed force. However, the President may waive the restriction in the preceding sentence for a limited period of time in order to provide for the orderly transition of officers appointed to serve in the positions of Chairman and Vice Chairman.
-  - **(3)** The Vice Chairman serves at the pleasure of the President for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
+  - **(3)** The Vice Chairman serves at the pleasure of the President for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.
+  - **(4)**
+    - **(A)** The Vice Chairman shall not be eligible for promotion to the position of Chairman or any other position in the armed forces.
+    - **(B)** The President may waive subparagraph (A) if the President determines such action is necessary in the national interest.
 - **(b)**
   - **(1)** The President may appoint an officer as Vice Chairman of the Joint Chiefs of Staff only if the officer—
     - **(A)** has the joint specialty under section 661 of this title ; and
-    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title ) as a general or flag officer.
+    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 1 1 See References in Text note below. of this title) as a general or flag officer.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 - **(c)** The Vice Chairman performs the duties prescribed for him as a member of the Joint Chiefs of Staff and such other duties as may be prescribed by the Chairman with the approval of the Secretary of Defense.
 - **(d)** When there is a vacancy in the office of Chairman or in the absence or disability of the Chairman, the Vice Chairman acts as Chairman and performs the duties of the Chairman until a successor is appointed or the absence or disability ceases.

@@ -1,38 +1,45 @@
 ---
-title: "Section 47136 - Inherently low-emission airport vehicle pilot program"
+title: "Section 47136 - Zero-emission airport vehicles and infrastructure"
 usc_title: 49
 usc_section: "47136"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 47136"
-generated_at: "2026-03-29T19:32:28.905Z"
+generated_at: "2026-03-29T19:44:58.034Z"
 ---
 
-# § 47136. Inherently low-emission airport vehicle pilot program
+# § 47136. Zero-emission airport vehicles and infrastructure
 
-- **(a)** The Secretary of Transportation shall carry out a pilot program at not more than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding any other provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
-- **(b)**
-  - **(1)** A public-use airport shall be eligible for participation in the pilot program only if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act ( 42 U.S.C. 7501(2) ).
-  - **(2)** If the Secretary receives an insufficient number of applications from public-use airports located in such areas, then the Secretary may consider applications from public-use airports that are not located in such areas.
-- **(c)** In selecting from among applicants for participation in the pilot program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the pilot program.
-- **(d)** Notwithstanding any other provision of this subchapter, the United States Government’s share of the costs of a project carried out under the pilot program shall be 50 percent.
-- **(e)** Not more than $2,000,000 may be expended under the pilot program at any single public-use airport.
-- **(f)**
-  - **(1)** The sponsor of a public-use airport carrying out inherently low-emission vehicle activities under the pilot program may use not more than 10 percent of the amounts made available for expenditure at the airport in a fiscal year under the pilot program to receive technical assistance in carrying out such activities.
-  - **(2)** To the maximum extent practicable, participants in the pilot program shall use a university transportation center (as defined in section 5506 1 1 See References in text note below. of this title) in the region of the airport to receive technical assistance described in paragraph (1).
-- **(g)** The Administrator may develop and make available materials identifying best practices for carrying out low-emission vehicle activities based on the projects carried out under the pilot program and other sources.
-- **(h)** Not later than 18 months after the date of the enactment of this section, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
-  - **(1)** an evaluation of the effectiveness of the pilot program;
-  - **(2)** an identification of other public-use airports that expressed an interest in participating in the pilot program; and
-  - **(3)** a description of the mechanisms used by the Secretary to ensure that the information and know-how gained by participants in the pilot program is transferred among the participants and to other interested parties, including other public-use airports.
-- **(i)** In this section, the term “inherently low-emission vehicle activity” means—
-  - **(1)** the construction of infrastructure or modifications at public-use airports to enable the delivery of fuel and services necessary for the use of vehicles that are certified as inherently low-emission vehicles under title 40 of the Code of Federal Regulations and that—
-    - **(A)** operate exclusively on compressed natural gas, liquefied natural gas, liquefied petroleum gas, electricity, hydrogen, or a blend at least 85 percent of which is methanol;
-    - **(B)** are labeled in accordance with section 88.312–93(c) of such title; and
-    - **(C)** are located or primarily used at public-use airports;
-  - **(2)** the construction of infrastructure or modifications at public-use airports to enable the delivery of fuel and services necessary for the use of nonroad vehicles that—
-    - **(A)** operate exclusively on compressed natural gas, liquefied natural gas, liquefied petroleum gas, electricity, hydrogen, or a blend at least 85 percent of which is methanol;
-    - **(B)** meet or exceed the standards set forth in section 86.1708–99 of such title or the standards set forth in section 89.112(a) of such title, and are in compliance with the requirements of section 89.112(b) of such title; and
-    - **(C)** are located or primarily used at public-use airports;
-  - **(3)** the payment of that portion of the cost of acquiring vehicles described in this subsection that exceeds the cost of acquiring other vehicles or engines that would be used for the same purpose; or
-  - **(4)** the acquisition of technological capital equipment to enable the delivery of fuel and services necessary for the use of vehicles described in paragraph (1).
+- **(a)** The Secretary of Transportation may establish a pilot program under which the sponsors of public-use airports may use funds made available under this chapter or section 48103 for use at such airports to carry out—
+  - **(1)** activities associated with the acquisition, by purchase or lease, and operation of eligible zero-emission vehicles and equipment, including removable power sources for such vehicles; and
+  - **(2)** the construction or modification of infrastructure to facilitate the delivery of fuel, power or services necessary for the use of such vehicles.
+- **(b)** A public-use airport is eligible for participation in the program if the eligible vehicles or equipment are—
+  - **(1)** used exclusively on airport property; or
+  - **(2)** used exclusively to transport passengers and employees between the airport and—
+    - **(A)** nearby facilities which are owned or controlled by the airport or which otherwise directly support the functions or services provided by the airport; or
+    - **(B)** an intermodal surface transportation facility adjacent to the airport.
+- **(c)** In selecting from among applicants for participation in the program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the program.
+- **(d)** The Federal share of the cost of a project carried out under the program shall be the Federal share specified in section 47109.
+- **(e)**
+  - **(1)** The sponsor of a public-use airport may use not more than 10 percent of the amounts made available to the sponsor under the program in any fiscal year for—
+    - **(A)** technical assistance; and
+    - **(B)** project management support to assist the airport with the solicitation, acquisition, and deployment of zero-emission vehicles, related equipment, and supporting infrastructure.
+  - **(2)** To receive the technical assistance or project management support described in paragraph (1), participants in the program may use—
+    - **(A)** a nonprofit organization selected by the Secretary; or
+    - **(B)** a university transportation center receiving grants under section 5505 in the region of the airport.
+- **(f)** The Secretary may create and make available materials identifying best practices for carrying out activities funded under the program based on previous related projects and other sources.
+- **(g)** The allowable project cost for the acquisition of a zero-emission vehicle shall be the total cost of purchasing or leasing the vehicle, including the cost of technical assistance or project management support described in subsection (e).
+- **(h)** A sponsor of a public-use airport may use funds made available under the program to acquire, by purchase or lease, a zero-emission vehicle and a removable power source in separate transactions, including transactions by which the airport purchases the vehicle and leases the removable power source.
+- **(i)**
+  - **(1)** A sponsor of a public-use airport may not use funds made available under the program to acquire a zero-emission vehicle unless that make, model, or type of vehicle has been tested by a Federal vehicle testing facility acceptable to the Secretary.
+  - **(2)** A certification of compliance under paragraph (1) shall be considered a certification required under this subchapter for purposes of section 47126.
+- **(j)** In this section, the following definitions apply:
+  - **(1)** The term “eligible zero-emission vehicle and equipment” means a zero-emission vehicle, equipment related to such a vehicle, or ground support equipment that includes zero-emission technology that is—
+    - **(A)** used exclusively on airport property; or
+    - **(B)** used exclusively to transport passengers and employees between the airport and—
+      - **(i)** nearby facilities which are owned or controlled by the airport or which otherwise directly support the functions or services provided by the airport; or
+      - **(ii)** an intermodal surface transportation facility adjacent to the airport.
+  - **(2)** The term “removable power source” means a power source that is separately installed in, and removable from, a zero-emission vehicle and may include a battery, a fuel cell, an ultra-capacitor, or other power source used in a zero-emission vehicle.
+  - **(3)** The term “zero-emission vehicle” means—
+    - **(A)** a zero-emission vehicle as defined in section 88.102–94 of title 40, Code of Federal Regulations; or
+    - **(B)** a vehicle that produces zero exhaust emissions of any criteria pollutant (or precursor pollutant) under any possible operational modes and conditions.

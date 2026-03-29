@@ -1,12 +1,72 @@
 ---
-title: "Section 3831a - Repealed. Pub. L. 113–79, title II , § 2702(a), Feb. 7, 2014 , 128 Stat. 766"
+title: "Section 3831a - Conservation reserve enhancement program"
 usc_title: 16
 usc_section: "3831a"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 3831a"
-generated_at: "2026-03-29T19:29:27.565Z"
+generated_at: "2026-03-29T19:41:13.811Z"
 ---
 
-# § 3831a. Repealed. Pub. L. 113–79, title II , § 2702(a), Feb. 7, 2014 , 128 Stat. 766
+# § 3831a. Conservation reserve enhancement program
 
+- **(a)** In this section:
+  - **(1)** The term “CREP” means a conservation reserve enhancement program carried out under subsection (b)(1).
+  - **(2)** The term “eligible land” means land that is eligible to be included in the program established under this subpart.
+  - **(3)** The term “eligible partner” means—
+    - **(A)** a State;
+    - **(B)** a political subdivision of a State;
+    - **(C)** an Indian tribe (as defined in section 5304 of title 25 ); or
+    - **(D)** a nongovernmental organization.
+  - **(4)** The term “management” means an activity conducted by an owner or operator under a contract entered into under this subpart after the establishment of a conservation practice on eligible land, to regularly maintain or enhance the vegetative cover established by the conservation practice—
+    - **(A)** throughout the term of the contract; and
+    - **(B)** consistent with the conservation plan that covers the eligible land.
+- **(b)**
+  - **(1)** The Secretary may enter into an agreement with an eligible partner to carry out a conservation reserve enhancement program—
+    - **(A)** to assist in enrolling eligible land in the program established under this subpart; and
+    - **(B)** that the Secretary determines will advance the purposes of this subpart.
+  - **(2)** An agreement entered into under paragraph (1) shall—
+    - **(A)** describe—
+      - **(i)** 1 or more specific State or nationally significant conservation concerns to be addressed by the agreement;
+      - **(ii)** quantifiable environmental goals for addressing the concerns under clause (i);
+      - **(iii)** a suitable acreage goal for enrollment of eligible land under the agreement, as determined by the Secretary;
+      - **(iv)** the location of eligible land to be enrolled in the project area identified under the agreement;
+      - **(v)** the payments to be offered by the Secretary and eligible partner to an owner or operator; and
+      - **(vi)** an appropriate list of conservation reserve program conservation practices that are appropriate to meeting the concerns described under clause (i), as determined by the Secretary in consultation with eligible partners;
+    - **(B)** subject to subparagraph (C), require the eligible partner to provide matching funds—
+      - **(i)** in an amount determined during a negotiation between the Secretary and 1 or more eligible partners, if the majority of the matching funds to carry out the agreement are provided by 1 or more eligible partners that are not nongovernmental organizations; or
+      - **(ii)** in an amount not less than 30 percent of the cost required to carry out the conservation measures and practices described in the agreement, if a majority of the matching funds to carry out the agreement are provided by 1 or more nongovernmental organizations; and
+    - **(C)** include procedures to allow for a temporary waiver of the matching requirements under subparagraph (B), or continued enrollment with a temporary suspension of incentives or eligible partner contributions for new agreements, during a period when an eligible partner loses the authority or ability to provide matching contributions, if the Secretary determines that the temporary waiver or continued enrollment with a temporary suspension will advance the purposes of this subpart.
+  - **(3)**
+    - **(A)** Subject to subparagraph (B), an agreement under this subsection shall not affect, modify, or interfere with existing agreements under this subpart.
+    - **(B)** To implement this section, the signatories to an agreement under this subsection may mutually agree to a modification of an agreement entered into before December 20, 2018 , under the Conservation Reserve Enhancement Program established by the Secretary under this subpart.
+- **(c)**
+  - **(1)** Funds provided by an eligible partner may be in cash, in-kind contributions, or technical assistance, as determined by the Secretary.
+  - **(2)** The Secretary shall ensure that cost-share payments to an owner or operator to install stream fencing, crossings, and alternative water development on marginal pastureland under a CREP reflect the fair market value of the cost of installation.
+  - **(3)**
+    - **(A)** On request of an owner or operator, the Secretary shall provide cost-share payments when a major component of a conservation practice is completed under a CREP, as determined by the Secretary.
+    - **(B)** For purposes of implementing conservation practices on land enrolled under a CREP, the Secretary may waive the contribution limitation described in section 3834(b)(2)(A) of this title .
+  - **(4)**
+    - **(A)** In the case of an agreement under subsection (b)(1) that includes riparian buffers as an eligible practice, the Secretary shall make cost-share payments to encourage the regular management of the riparian buffer throughout the term of the agreement, consistent with the conservation plan that covers the eligible land.
+    - **(B)** The amount of payments received by an owner or operator under subparagraph (A) shall not be greater than 100 percent of the normal and customary projected management cost, as determined by the Secretary, in consultation with the applicable State technical committee established under section 3861(a) of this title .
+- **(d)**
+  - **(1)** In the case of an agreement under subsection (b)(1) that includes forested riparian buffers as an eligible practice, the Secretary shall allow an owner or operator—
+    - **(A)** to plant food-producing woody plants in the forested riparian buffers, on the conditions that—
+      - **(i)** the plants shall contribute to the conservation of soil, water quality, and wildlife habitat; and
+      - **(ii)** the planting shall be consistent with—
+        - **(I)** recommendations of the applicable State technical committee established under section 3861(a) of this title ; and
+        - **(II)** technical guide standards of the applicable field office of the Natural Resources Conservation Service; and
+    - **(B)** to harvest from plants described in subparagraph (A), on the conditions that—
+      - **(i)** the harvesting shall not damage the conserving cover or otherwise have a negative impact on the conservation concerns targeted by the CREP;
+      - **(ii)** only native plant species appropriate to the region shall be used within 35 feet of the watercourse; and
+      - **(iii)** the producer shall be subject to a reduction in the rental rate commensurate to the value of the crop harvested.
+  - **(2)** For the purpose of enrolling forested riparian buffers in a CREP, the Administrator of the Farm Service Agency shall coordinate with the applicable State forestry agency.
+- **(e)** In the case of an agreement under subsection (b)(1) to address regional drought concerns, in accordance with the conservation purposes of the CREP, the Secretary, in consultation with the applicable State technical committee established under section 3861(a) of this title , may—
+  - **(1)** notwithstanding subsection (a)(2), enroll other agricultural land on which the resource concerns identified in the agreement can be addressed if the enrollment of the land is critical to the accomplishment of the purposes of the agreement;
+  - **(2)** permit dryland agricultural uses with the adoption of best management practices on enrolled land if the agreement involves the significant long-term reduction of consumptive water use and dryland production is compatible with the agreement; and
+  - **(3)** calculate annual rental payments consistent with existing administrative practice for similar drought and water conservation agreements under this subchapter and ensure regional consistency in those rates.
+- **(f)** Not later than 180 days after the end of each fiscal year, the Secretary shall submit to Congress a report that describes, with respect to each agreement entered into under subsection (b)(1)—
+  - **(1)** the status of the agreement;
+  - **(2)** the purposes and objectives of the agreement;
+  - **(3)** the Federal and eligible partner commitments made under the agreement; and
+  - **(4)** the progress made in fulfilling those commitments.

@@ -3,9 +3,9 @@ title: "Section 3203 - Voluntary services"
 usc_title: 50
 usc_section: "3203"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3203"
-generated_at: "2026-03-29T19:32:24.242Z"
+generated_at: "2026-03-29T19:44:52.848Z"
 ---
 
 # § 3203. Voluntary services
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:32:24.242Z"
     - **(B)** Chapter 11 of title 18 (relating to conflicts of interest).
   - **(2)**
     - **(A)** With respect to voluntary services under paragraph (1) provided by an individual that are within the scope of the services accepted under that paragraph, the individual shall be deemed to be a volunteer of a governmental entity or nonprofit institution for purposes of the Volunteer Protection Act of 1997 ( 42 U.S.C. 14501 et seq.).
-    - **(B)** In the case of any claim against such an individual with respect to the provision of such services, section 4(d) of such Act ( 42 U.S.C. 14503(d) ) shall not apply.
+    - **(B)** In the case of any claim against such an individual with respect to the provision of such services, section 4(d) of such Act ( 42 U.S.C. 14503(d) ) 1 1 See References in Text note below. shall not apply.
   - **(3)** Acceptance of voluntary services under this section shall have no bearing on the issuance or renewal of a security clearance.
 - **(e)**
   - **(1)** The head of a covered element of the intelligence community may reimburse an individual for incidental expenses incurred by the individual in providing voluntary services under subsection (a). The head of a covered element of the intelligence community shall determine which expenses are eligible for reimbursement under this subsection.

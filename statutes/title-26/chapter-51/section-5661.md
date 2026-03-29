@@ -3,9 +3,9 @@ title: "Section 5661 - Penalty and forfeiture for violation of laws and regulati
 usc_title: 26
 usc_section: "5661"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 5661"
-generated_at: "2026-03-29T19:30:20.134Z"
+generated_at: "2026-03-29T19:42:47.929Z"
 ---
 
 # § 5661. Penalty and forfeiture for violation of laws and regulations relating to wine

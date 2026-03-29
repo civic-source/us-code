@@ -1,20 +1,12 @@
 ---
-title: "Section 857a - Art. 57a. Deferment of sentences"
+title: "Section 857a - Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(1) , Dec. 23, 2016 , 130 Stat. 2923 ]"
 usc_title: 10
 usc_section: "857a"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 857a"
-generated_at: "2026-03-29T19:27:25.472Z"
+generated_at: "2026-03-29T19:43:37.848Z"
 ---
 
-# § 857a. Art. 57a. Deferment of sentences
+# [§ 857a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(1) , Dec. 23, 2016 , 130 Stat. 2923 ]
 
-- **(a)** On application by an accused who is under sentence to confinement that has not been ordered executed, the convening authority or, if the accused is no longer under his jurisdiction, the officer exercising general court-martial jurisdiction over the command to which the accused is currently assigned, may in his sole discretion defer service of the sentence to confinement. The deferment shall terminate when the sentence is ordered executed. The deferment may be rescinded at any time by the officer who granted it or, if the accused is no longer under his jurisdiction, by the officer exercising general court-martial jurisdiction over the command to which the accused is currently assigned.
-- **(b)**
-  - **(1)** In any case in which a court-martial sentences a person referred to in paragraph (2) to confinement, the convening authority may defer the service of the sentence to confinement, without the consent of that person, until after the person has been permanently released to the armed forces by a State or foreign country referred to in that paragraph.
-  - **(2)** Paragraph (1) applies to a person subject to this chapter who—
-    - **(A)** while in the custody of a State or foreign country is temporarily returned by that State or foreign country to the armed forces for trial by court-martial; and
-    - **(B)** after the court-martial, is returned to that State or foreign country under the authority of a mutual agreement or treaty, as the case may be.
-  - **(3)** In this subsection, the term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
-- **(c)** In any case in which a court-martial sentences a person to confinement and the sentence to confinement has been ordered executed, but in which review of the case under section 867(a)(2) of this title (article 67(a)(2)) is pending, the Secretary concerned may defer further service of the sentence to confinement while that review is pending.

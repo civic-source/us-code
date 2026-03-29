@@ -3,9 +3,9 @@ title: "Section 106 - Certain service deemed to be active service"
 usc_title: 38
 usc_section: "106"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 106"
-generated_at: "2026-03-29T19:30:40.453Z"
+generated_at: "2026-03-29T19:43:26.931Z"
 ---
 
 # § 106. Certain service deemed to be active service
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:30:40.453Z"
   - **(1)** Service as a member of the Women’s Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943 , was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women’s Army Auxiliary Corps or the Women’s Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
   - **(2)** Any person entitled to compensation or pension by reason of this subsection and to employees’ compensation based upon the same service under subchapter I of chapter 81 of title 5 must elect which benefit she will receive.
 - **(b)** Any person—
-  - **(1)** who has applied for enlistment or enrollment in the active military, naval, or air service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
+  - **(1)** who has applied for enlistment or enrollment in the active military, naval, air, or space service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
   - **(2)** who has been selected or drafted for service in the Armed Forces and has reported pursuant to the call of the person’s local draft board and before rejection; or
   - **(3)** who has been called into the Federal service as a member of the National Guard, but has not been enrolled for the Federal service; and
 - **(c)** For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual’s home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.

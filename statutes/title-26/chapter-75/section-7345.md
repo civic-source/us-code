@@ -3,9 +3,9 @@ title: "Section 7345 - Revocation or denial of passport in case of certain tax d
 usc_title: 26
 usc_section: "7345"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7345"
-generated_at: "2026-03-29T19:30:20.242Z"
+generated_at: "2026-03-29T19:42:48.009Z"
 ---
 
 # § 7345. Revocation or denial of passport in case of certain tax delinquencies
@@ -32,9 +32,9 @@ generated_at: "2026-03-29T19:30:20.242Z"
     - **(D)** In the case of a certification found to be erroneous, such notification shall be made as soon as practicable after such finding.
 - **(d)** The Commissioner shall contemporaneously notify an individual of any certification under subsection (a), or any reversal of certification under subsection (c), with respect to such individual. Such notice shall include a description in simple and nontechnical terms of the right to bring a civil action under subsection (e).
 - **(e)**
-  - **(1)** After the Commissioner notifies an individual under subsection (d), the taxpayer may bring a civil action against the United States in a district court of the United States or the Tax Court to determine whether the certification was erroneous or whether the Commissioner has failed to reverse the certification.
+  - **(1)** After the Commissioner notifies an individual under subsection (d), the taxpayer may bring a civil action against the United States in a district court of the United States, or against the Commissioner in the Tax Court, to determine whether the certification was erroneous or whether the Commissioner has failed to reverse the certification. For purposes of the preceding sentence, the court first acquiring jurisdiction over such an action shall have sole jurisdiction.
   - **(2)** If the court determines that such certification was erroneous, then the court may order the Secretary to notify the Secretary of State that such certification was erroneous.
-- **(f)** In the case of a calendar year beginning after 2016, the dollar amount in subsection (a) shall be increased by an amount equal to—
+- **(f)** In the case of a calendar year beginning after 2016, the dollar amount in subsection (b)(1)(B) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(g)** A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.

@@ -3,14 +3,14 @@ title: "Section 1974 - Capitol Police special officers"
 usc_title: 2
 usc_section: "1974"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1974"
-generated_at: "2026-03-29T19:27:07.573Z"
+generated_at: "2026-03-29T19:42:59.675Z"
 ---
 
 # § 1974. Capitol Police special officers
 
-- **(a)** In the event of an emergency, as determined by the Capitol Police Board or in a concurrent resolution of Congress, the Chief of the Capitol Police may appoint—
+- **(a)** In the event of an emergency, as determined by the Capitol Police Board or in a concurrent resolution of Congress, or as determined by the Chief of the Capitol Police in accordance with section 1970(a)(4)(B)(ii)(III) of this title , the Chief of the Capitol Police may appoint—
   - **(1)** any law enforcement officer from any Federal agency or State or local government agency made available by that agency to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds; and
   - **(2)** any member of the uniformed services, including members of the National Guard, made available by the appropriate authority to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds.
 - **(b)** An individual appointed as a special officer under this section shall—
@@ -18,10 +18,6 @@ generated_at: "2026-03-29T19:27:07.573Z"
   - **(2)** serve as a special officer no longer than a period specified at the time of appointment;
   - **(3)** not be a Federal employee by reason of service as a special officer, except as provided under paragraph (4); and
   - **(4)** shall be an employee of the Government for purposes of chapter 171 of title 28 if that individual is acting within the scope of his office or employment in service as a special officer.
-- **(c)** Any individual appointed under subsection (a) shall be subject to—
-  - **(1)** qualification requirements as the Chief of the Capitol Police determines necessary; and
-  - **(2)** approval by the Capitol Police Board.
-- **(d)** Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided under this section with any Federal, State, or local agency.
-- **(e)** Any appointment under this section shall be subject to initial approval by the Capitol Police Board and to final approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly.
-- **(f)** Subject to approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly, the Capitol Police Board may prescribe regulations to carry out this section.
-- **(g)** This section shall take effect on February 20, 2003 , and shall apply to fiscal year 2003 and each fiscal year thereafter.
+- **(c)** Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided under this section with any Federal, State, or local agency.
+- **(d)** Subject to approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the Majority Leader of the Senate (in consultation with the Minority Leader of the Senate), acting jointly, the Capitol Police Board may prescribe regulations to carry out this section.
+- **(e)** This section shall take effect on February 20, 2003 , and shall apply to fiscal year 2003 and each fiscal year thereafter.

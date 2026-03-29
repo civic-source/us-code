@@ -3,18 +3,18 @@ title: "Section 1606a - Reforestation Trust Fund"
 usc_title: 16
 usc_section: "1606a"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1606a"
-generated_at: "2026-03-29T19:29:27.486Z"
+generated_at: "2026-03-29T19:41:13.731Z"
 ---
 
 # § 1606a. Reforestation Trust Fund
 
 - **(a)** There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2).
 - **(b)**
-  - **(1)** Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989 , under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading 9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
-  - **(2)** The Secretary shall not transfer more than $30,000,000 to the Trust Fund for any fiscal year.
-  - **(3)** The amounts required to be transferred to the Trust Fund under paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustment shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+  - **(1)** The Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989 , under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading 9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
+  - **(2)** The amounts required to be transferred to the Trust Fund under paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury.
+  - **(3)** Proper adjustment shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 - **(c)**
   - **(1)** It shall be the duty of the Secretary of the Treasury to hold the Trust Fund, and (after consultation with the Secretary of Agriculture) to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next fiscal year. Such report shall be printed as both a House and Senate document of the session of the Congress to which the report is made.
   - **(2)**
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T19:29:27.486Z"
     - **(B)** Any obligation acquired by the Trust Fund (except special obligations issued exclusively to the Trust Fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
     - **(C)** The interest on, and the proceeds from the sale or redemption of, any obligations held in Trust Fund shall be credited to and form a part of the Trust Fund.
 - **(d)** The Secretary of Agriculture is on and after December 19, 1985 , authorized to obligate such sums as are available in the Trust Fund (including any amounts not obligated in previous fiscal years) for—
-  - **(1)** reforestation and timber stand improvement as specified in section 1601(d) of this title and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System; and
+  - **(1)** reforestation and timber stand improvement as specified in subsection (e) of section 1601 of this title and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System; and
   - **(2)** properly allocable administrative costs of the Federal Government for the activities specified above.

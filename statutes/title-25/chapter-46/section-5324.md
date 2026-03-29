@@ -3,9 +3,9 @@ title: "Section 5324 - Contract or grant provisions and administration"
 usc_title: 25
 usc_section: "5324"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 5324"
-generated_at: "2026-03-29T19:29:34.894Z"
+generated_at: "2026-03-29T19:41:28.488Z"
 ---
 
 # § 5324. Contract or grant provisions and administration
@@ -93,3 +93,12 @@ generated_at: "2026-03-29T19:29:34.894Z"
 - **(o)**
   - **(1)** At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
   - **(2)** Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
+- **(p)** Except as otherwise provided by law, the Secretary shall interpret all Federal laws (including regulations) and Executive orders in a manner that facilitates, to the maximum extent practicable—
+  - **(1)** the inclusion in self-determination contracts and funding agreements of—
+    - **(A)** applicable programs, services, functions, and activities (or portions thereof); and
+    - **(B)** funds associated with those programs, services, functions, and activities;
+  - **(2)** the implementation of self-determination contracts and funding agreements; and
+  - **(3)** the achievement of Tribal health objectives.
+- **(q)**
+  - **(1)** 3 3 So in original. The heading of par. (1) was probably meant for subsec. (q), the heading of which was editorially supplied. In considering proposals for, amendments to, or in the course of, a contract under this subchapter and compacts under subchapters IV and V of this chapter, if the Secretary determines that the Indian Tribe lacks adequate internal controls necessary to manage the contracted program or programs, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Indian Tribe in developing adequate internal controls. As part of that technical assistance, the Secretary and the Tribe shall develop a plan for assessing the subsequent effectiveness of such technical assistance. The inability of the Secretary to provide technical assistance or lack of a plan under this subsection shall not result in the reassumption of an existing agreement, contract, or compact, or declination or rejection of a new agreement, contract, or compact.
+  - **(2)** The Secretary shall prepare a report to be included in the information required for the reports under sections 5372(b)(2)(A) and 5394(b)(2)(A) of this title. The Secretary shall include in this report, in the aggregate, a description of the internal controls that were inadequate, the technical assistance provided, and a description of Secretarial actions taken to address any remaining inadequate internal controls after the provision of technical assistance and implementation of the plan required by paragraph (1).

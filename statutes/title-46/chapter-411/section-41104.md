@@ -3,15 +3,14 @@ title: "Section 41104 - Common carriers"
 usc_title: 46
 usc_section: "41104"
 chapter: 411
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 41104"
-generated_at: "2026-03-29T19:32:17.358Z"
+generated_at: "2026-03-29T19:44:39.435Z"
 ---
 
 # § 41104. Common carriers
 
-A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
-
+- **(a)** A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
   - **(1)** allow a person to obtain transportation for property at less than the rates or charges established by the carrier in its tariff or service contract by means of false billing, false classification, false weighing, false measurement, or any other unjust or unfair device or means;
   - **(2)** provide service in the liner trade that is—
     - **(A)** not in accordance with the rates, charges, classifications, rules, and practices contained in a tariff published or a service contract entered into under chapter 405 of this title, unless excepted or exempted under section 40103 or 40501(a)(2) of this title; or
@@ -29,5 +28,8 @@ A common carrier, either alone or in conjunction with any other person, directly
   - **(8)** for service pursuant to a tariff, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage;
   - **(9)** for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any port;
   - **(10)** unreasonably refuse to deal or negotiate;
-  - **(11)** knowingly and willfully accept cargo from or transport cargo for the account of an ocean transportation intermediary that does not have a tariff as required by section 40501 of this title and a bond, insurance, or other surety as required by section 40902 of this title ; or
-  - **(12)** knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by section 40501 of this title and a bond, insurance, or other surety as required by section 40902 of this title , or with an affiliate of such an ocean transportation intermediary.
+  - **(11)** knowingly and willfully accept cargo from or transport cargo for the account of a non-vessel-operating common carrier that does not have a tariff as required by section 40501 of this title , or an ocean transportation intermediary that does not have a bond, insurance, or other surety as required by section 40902 of this title ;
+  - **(12)** knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by section 40501 of this title and a bond, insurance, or other surety as required by section 40902 of this title , or with an affiliate of such an ocean transportation intermediary; or
+  - **(13)** continue to participate simultaneously in a rate discussion agreement and an agreement to share vessels, in the same trade, if the interplay of the authorities exercised by the specified agreements is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost.
+- **(b)** Notwithstanding any other provision of law, there is no private right of action to enforce the prohibition under subsection (a)(13).
+- **(c)** Participants in an agreement found by the Commission to violate subsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.

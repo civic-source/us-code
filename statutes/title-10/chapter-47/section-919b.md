@@ -3,9 +3,9 @@ title: "Section 919b - Art. 119b. Child endangerment"
 usc_title: 10
 usc_section: "919b"
 chapter: 47
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 919b"
-generated_at: "2026-03-29T18:47:53.300Z"
+generated_at: "2026-03-29T19:43:37.857Z"
 ---
 
 # § 919b. Art. 119b. Child endangerment

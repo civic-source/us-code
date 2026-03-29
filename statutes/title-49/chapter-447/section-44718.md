@@ -1,27 +1,34 @@
 ---
-title: "Section 44718 - Structures interfering with air commerce"
+title: "Section 44718 - Structures interfering with air commerce or national security"
 usc_title: 49
 usc_section: "44718"
 chapter: 447
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44718"
-generated_at: "2026-03-29T19:32:28.880Z"
+generated_at: "2026-03-29T19:44:57.998Z"
 ---
 
-# § 44718. Structures interfering with air commerce
+# § 44718. Structures interfering with air commerce or national security
 
 - **(a)** By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice, in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
-  - **(1)** safety in air commerce; and
-  - **(2)** the efficient use and preservation of the navigable airspace and of airport traffic capacity at public-use airports.
+  - **(1)** safety in air commerce;
+  - **(2)** the efficient use and preservation of the navigable airspace and of airport traffic capacity at public-use airports; or
+  - **(3)** the interests of national security, as determined by the Secretary of Defense.
 - **(b)**
-  - **(1)** Under regulations prescribed by the Secretary, if the Secretary decides that constructing or altering a structure may result in an obstruction of the navigable airspace or an interference with air or space navigation facilities and equipment or the navigable airspace, the Secretary shall conduct an aeronautical study to decide the extent of any adverse impact on the safe and efficient use of the airspace, facilities, or equipment. In conducting the study, the Secretary shall consider factors relevant to the efficient and effective use of the navigable airspace, including—
-    - **(A)** the impact on arrival, departure, and en route procedures for aircraft operating under visual flight rules;
-    - **(B)** the impact on arrival, departure, and en route procedures for aircraft operating under instrument flight rules;
-    - **(C)** the impact on existing public-use airports and aeronautical facilities;
-    - **(D)** the impact on planned public-use airports and aeronautical facilities;
-    - **(E)** the cumulative impact resulting from the proposed construction or alteration of a structure when combined with the impact of other existing or proposed structures; and
-    - **(F)** the impact on launch and reentry for launch and reentry vehicles arriving or departing from a launch site or reentry site licensed by the Secretary.
-  - **(2)** On completing the study, the Secretary shall issue a report disclosing completely the extent of the adverse impact on the safe and efficient use of the navigable airspace that the Secretary finds will result from constructing or altering the structure.
+  - **(1)** Under regulations prescribed by the Secretary, if the Secretary decides that constructing or altering a structure may result in an obstruction of the navigable airspace, an interference with air or space navigation facilities and equipment or the navigable airspace, or, after consultation with the Secretary of Defense, an adverse impact on military operations and readiness, the Secretary of Transportation shall conduct an aeronautical study to decide the extent of any adverse impact on the safe and efficient use of the airspace, facilities, or equipment. In conducting the study, the Secretary shall—
+    - **(A)** consider factors relevant to the efficient and effective use of the navigable airspace, including—
+      - **(i)** the impact on arrival, departure, and en route procedures for aircraft operating under visual flight rules;
+      - **(ii)** the impact on arrival, departure, and en route procedures for aircraft operating under instrument flight rules;
+      - **(iii)** the impact on existing public-use airports and aeronautical facilities;
+      - **(iv)** the impact on planned public-use airports and aeronautical facilities;
+      - **(v)** the cumulative impact resulting from the proposed construction or alteration of a structure when combined with the impact of other existing or proposed structures;
+      - **(vi)** the impact on launch and reentry for launch and reentry vehicles arriving or departing from a launch site or reentry site licensed by the Secretary of Transportation; and
+      - **(vii)** other factors relevant to the efficient and effective use of navigable airspace; and
+    - **(B)** include the finding made by the Secretary of Defense under subsection (f).
+  - **(2)** On completing the study, the Secretary of Transportation shall issue a report disclosing the extent of the—
+    - **(A)** adverse impact on the safe and efficient use of the navigable airspace that the Secretary finds will result from constructing or altering the structure; and
+    - **(B)** unacceptable risk to the national security of the United States, as determined by the Secretary of Defense under subsection (f).
+  - **(3)** A determination by the Secretary of Transportation on hazard to air navigation under this section shall remain independent of a determination of unacceptable risk to the national security of the United States by the Secretary of Defense under subsection (f).
 - **(c)** In carrying out laws related to a broadcast application and conducting an aeronautical study related to broadcast towers, the Administrator of the Federal Aviation Administration and the Federal Communications Commission shall take action necessary to coordinate efficiently—
   - **(1)** the receipt and consideration of, and action on, the application; and
   - **(2)** the completion of any associated aeronautical study.
@@ -29,3 +36,10 @@ generated_at: "2026-03-29T19:32:28.880Z"
   - **(1)** No person shall construct or establish a municipal solid waste landfill (as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that the Administrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
   - **(2)** Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
 - **(e)** The Administrator of the Federal Aviation Administration shall develop procedures to allow the Department of Defense and the Department of Homeland Security to review and comment on an aeronautical study conducted pursuant to subsection (b) prior to the completion of the study.
+- **(f)** As part of an aeronautical study conducted under subsection (b) and in accordance with section 183a(e) of title 10 , the Secretary of Defense shall—
+  - **(1)** make a finding on whether the construction, alteration, establishment, or expansion of a structure or sanitary landfill included in the study would result in an unacceptable risk to the national security of the United States; and
+  - **(2)** transmit the finding to the Secretary of Transportation for inclusion in the report required under subsection (b)(2).
+- **(g)** In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10 , the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10 , the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since the project was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
+- **(h)** In this section, the following definitions apply:
+  - **(1)** The term “adverse impact on military operations and readiness” has the meaning given the term in section 183a(h)(1) of title 10 .
+  - **(2)** The term “unacceptable risk to the national security of the United States” has the meaning given the term in section 183a(h)(7) 1 1 See References in Text note below. of title 10.

@@ -3,18 +3,18 @@ title: "Section 1174 - Separation pay upon involuntary discharge or release from
 usc_title: 10
 usc_section: "1174"
 chapter: 59
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1174"
-generated_at: "2026-03-29T19:27:25.517Z"
+generated_at: "2026-03-29T19:43:37.907Z"
 ---
 
 # § 1174. Separation pay upon involuntary discharge or release from active duty
 
 - **(a)**
-  - **(1)** A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 6383 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
-  - **(2)** A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
+  - **(1)** A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 8372 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
+  - **(2)** A regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
   - **(3)** Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title .
-  - **(4)** Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
+  - **(4)** Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 8372 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
 - **(b)**
   - **(1)** A regular enlisted member of an armed force who is discharged involuntarily or as the result of the denial of the reenlistment of the member and who has completed six or more, but less than 20, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d) unless the Secretary concerned determines that the conditions under which the member is discharged do not warrant payment of such pay.
   - **(2)** Separation pay of an enlisted member shall be computed under paragraph (1) of subsection (d), except that such pay shall be computed under paragraph (2) of such subsection in the case of a member who is discharged under criteria prescribed by the Secretary of Defense.
@@ -53,5 +53,5 @@ generated_at: "2026-03-29T19:27:25.517Z"
       - **(ii)** was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
     - **(B)** the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
 - **(j)**
-  - **(1)** The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
+  - **(1)** The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, Marine Corps, and Space Force, for the administration of this section.
   - **(2)** Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.

@@ -3,9 +3,9 @@ title: "Section 9705 - Transfers"
 usc_title: 26
 usc_section: "9705"
 chapter: 99
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 9705"
-generated_at: "2026-03-29T19:30:20.294Z"
+generated_at: "2026-03-29T19:42:48.052Z"
 ---
 
 # § 9705. Transfers
@@ -26,5 +26,5 @@ generated_at: "2026-03-29T19:30:20.294Z"
       - **(ii)** shall not be includible in the gross income of any employer maintaining the 1950 UMWA Pension Plan.
   - **(5)** Any transfer pursuant to paragraph (1) shall not be deemed to violate, or to be prohibited by, any provision of law, or to cause the settlors, joint board of trustees, employers or any related person to incur or be subject to liability, taxes, fines, or penalties of any kind whatsoever.
 - **(b)**
-  - **(1)** The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232(h) ). 1 1 So in original. Probably should be “( 30 U.S.C. 1232 ).”
-  - **(2)** Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts 2 2 So in original. Probably should be “Act”. described in paragraph (1).
+  - **(1)** The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 ).
+  - **(2)** Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Act described in paragraph (1).

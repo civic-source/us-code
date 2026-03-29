@@ -3,9 +3,9 @@ title: "Section 1855 - Other requirements and authority"
 usc_title: 16
 usc_section: "1855"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1855"
-generated_at: "2026-03-29T19:29:27.506Z"
+generated_at: "2026-03-29T19:41:13.751Z"
 ---
 
 # § 1855. Other requirements and authority
@@ -115,7 +115,7 @@ generated_at: "2026-03-29T19:29:27.506Z"
       - **(iii)** The panel shall—
         - **(I)** administer those aspects of the program not otherwise addressed in this paragraph, either through private contractual arrangement or through recommendations to the North Pacific Council, the Secretary, or the State of Alaska, as the case may be; and
         - **(II)** coordinate and facilitate activities of the entities under the program.
-      - **(iv)** The panel may act only by unanimous vote of all 6 members of the panel and may not act if there is a vacancy in the membership of the panel.
+      - **(iv)** The panel may act only by the affirmative vote of at least 5 of its members, except that any decision made pursuant to the last sentence of subparagraph (C) shall require the unanimous vote of all 6 members of the panel.
     - **(H)**
       - **(i)** During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entity participating in the program based on the criteria described in clause (ii).
       - **(ii)** The panel shall establish a system to be applied under this subparagraph that allows each entity participating in the program to assign relative values to the following criteria to reflect the particular needs of its villages:

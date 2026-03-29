@@ -3,9 +3,9 @@ title: "Section 312 - Terrorism and financial intelligence"
 usc_title: 31
 usc_section: "312"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 312"
-generated_at: "2026-03-29T19:30:24.743Z"
+generated_at: "2026-03-29T19:42:56.088Z"
 ---
 
 # § 312. Terrorism and financial intelligence
@@ -24,9 +24,10 @@ generated_at: "2026-03-29T19:30:24.743Z"
     - **(B)** United States economic sanctions programs;
     - **(C)** combating terrorist financing;
     - **(D)** combating financial crimes, including money laundering, counterfeiting, and other offenses threatening the integrity of the banking and financial systems;
-    - **(E)** other enforcement matters;
-    - **(F)** those intelligence analysis and coordination functions described in subsection (b); and
-    - **(G)** the security functions and programs of the Department of the Treasury.
+    - **(E)** combating illicit financing relating to human trafficking;
+    - **(F)** other enforcement matters;
+    - **(G)** those intelligence analysis and coordination functions described in subsection (b); and
+    - **(H)** the security functions and programs of the Department of the Treasury.
   - **(5)** The Undersecretary for Terrorism and Financial Crimes and the Assistant Secretary for Terrorist Financing shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 72 hours after proposing by rule, regulation, order, or otherwise, any measure to reorganize the structure of the Department for combatting money laundering and terrorist financing, before any such proposal becomes effective.
   - **(6)** Notwithstanding any other provision of law, the following offices of the Department of the Treasury shall be within the OTFI:
     - **(A)** The Office of the Assistant Secretary for Intelligence and Analysis, which shall report directly to the Undersecretary for Terrorism and Financial Crimes.
@@ -38,6 +39,13 @@ generated_at: "2026-03-29T19:30:24.743Z"
   - **(7)**
     - **(A)** The Financial Crimes Enforcement Network (in this section referred to as “FinCEN”), a bureau of the Department of the Treasury, shall report to the Undersecretary for Terrorism and Financial Crimes. The Undersecretary for Terrorism and Financial Crimes may not redelegate its reporting authority over FinCEN.
     - **(B)** There is established within FinCEN, an Office of Compliance.
+  - **(8)** The Secretary of the Treasury, after consultation with the Undersecretary for Terrorism and Financial Crimes, shall designate an office within the OTFI that shall coordinate efforts to combat the illicit financing of human trafficking with—
+    - **(A)** other offices of the Department of the Treasury;
+    - **(B)** other Federal agencies, including—
+      - **(i)** the Office to Monitor and Combat Trafficking in Persons of the Department of State; and
+      - **(ii)** the Interagency Task Force to Monitor and Combat Trafficking;
+    - **(C)** State and local law enforcement agencies; and
+    - **(D)** foreign governments.
 - **(b)**
   - **(1)** The Assistant Secretary for Intelligence and Analysis shall head the OIA.
   - **(2)** The OIA shall be responsible for the receipt, analysis, collation, and dissemination of intelligence and counterintelligence information related to the operations and responsibilities of the entire Department of the Treasury, including all components and bureaus of the Department.
@@ -53,3 +61,7 @@ generated_at: "2026-03-29T19:30:24.743Z"
 - **(d)** The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31 , United States Code, and other relevant authorities.
 - **(e)** The Secretary may employ personnel, facilities, and other Department of the Treasury resources available to the Secretary on the date of enactment of this section in carrying out this section, except as otherwise prohibited by law.
 - **(f)** References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
+- **(g)**
+  - **(1)** The Secretary of the Treasury may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the OTFI.
+  - **(2)** The primary responsibility of candidates appointed under paragraph (1) shall be to provide substantive support in support of the duties described in subparagraphs (A) through (G) of subsection (a)(4).
+- **(h)** The Secretary of the Treasury may detail, without regard to the provisions of section 300.301 of title 5, Code of Federal Regulations, any employee in the OTFI to any position in the OTFI for which the Secretary has determined there is a need.

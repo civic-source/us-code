@@ -3,9 +3,9 @@ title: "Section 1532 - Program authorization"
 usc_title: 21
 usc_section: "1532"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 1532"
-generated_at: "2026-03-29T19:29:50.498Z"
+generated_at: "2026-03-29T19:41:41.729Z"
 ---
 
 # § 1532. Program authorization
@@ -24,23 +24,23 @@ generated_at: "2026-03-29T19:29:50.498Z"
       - **(viii)** Religious or fraternal organizations.
       - **(ix)** Civic and volunteer groups.
       - **(x)** Health care professionals.
-      - **(xi)** State, local, or tribal governmental agencies with expertise in the field of substance abuse (including, if applicable, the State authority with primary authority for substance abuse).
-      - **(xii)** Other organizations involved in reducing substance abuse.
+      - **(xi)** State, local, or tribal governmental agencies with expertise in the field of substance use and misuse (including, if applicable, the State authority with primary authority for substance use and misuse).
+      - **(xii)** Other organizations involved in reducing substance use and misuse.
     - **(B)** If feasible, in addition to representatives from the categories listed in subparagraph (A), the coalition shall have an elected official (or a representative of an elected official) from—
       - **(i)** the Federal Government; and
       - **(ii)** the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 5304(e) of title 25 ).
     - **(C)** An individual who is a member of the coalition may serve on the coalition as a representative of not more than 1 category listed under subparagraph (A).
   - **(3)** The coalition shall demonstrate, to the satisfaction of the Administrator—
-    - **(A)** that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title , for a period of not less than 6 months, acting through entities such as task forces, subcommittees, or community boards; and
+    - **(A)** that the representatives of the coalition have worked together on substance use and misuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title , for a period of not less than 6 months, acting through entities such as task forces, subcommittees, or community boards; and
     - **(B)** substantial participation from volunteer leaders in the community involved (especially in cooperation with individuals involved with youth such as parents, teachers, coaches, youth workers, and members of the clergy).
   - **(4)** The coalition shall, with respect to the community involved—
-    - **(A)** have as its principal mission the reduction of substance abuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title , in a comprehensive and long-term manner, with a primary focus on youth in the community;
-    - **(B)** describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title , in the community;
+    - **(A)** have as its principal mission the reduction of substance use and misuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title , in a comprehensive and long-term manner, with a primary focus on youth in the community;
+    - **(B)** describe and document the nature and extent of the substance use and misuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title , in the community;
     - **(C)**
-      - **(i)** provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title , in existence at the time of the grant application; and
-      - **(ii)** identify substance abuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title , in the community;
-    - **(D)** develop a strategic plan to reduce substance abuse among youth, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title , in a comprehensive and long-term fashion; and
-    - **(E)** work to develop a consensus regarding the priorities of the community to combat substance abuse among youth, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title .
+      - **(i)** provide a description of substance use and misuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title , in existence at the time of the grant application; and
+      - **(ii)** identify substance use and misuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title , in the community;
+    - **(D)** develop a strategic plan to reduce substance use and misuse among youth, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title , in a comprehensive and long-term fashion; and
+    - **(E)** work to develop a consensus regarding the priorities of the community to combat substance use and misuse among youth, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title .
   - **(5)** The coalition shall demonstrate that the coalition is an ongoing concern by demonstrating that the coalition—
     - **(A)** is—
       - **(i)**
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T19:29:50.498Z"
       - **(i)** for an initial grant under this part, an initial benchmark survey of drug use among youth (or use local surveys or performance measures available or accessible in the community at the time of the grant application); and
       - **(ii)** biennial surveys (or incorporate local surveys in existence at the time of the evaluation) to measure the progress and effectiveness of the coalition; and
     - **(C)** provide assurances that the entity conducting an evaluation under this paragraph, or from which the coalition receives information, has experience—
-      - **(i)** in gathering data related to substance abuse among youth; or
+      - **(i)** in gathering data related to substance use and misuse among youth; or
       - **(ii)** in evaluating the effectiveness of community anti-drug coalitions.
   - **(7)** The Director shall not impose any eligibility criteria on new applicants or renewal grantees not provided in this subchapter.
 - **(b)**
@@ -85,11 +85,11 @@ generated_at: "2026-03-29T19:29:50.498Z"
     - **(A)** Subject to subparagraph (F), the Administrator may award an additional grant under this paragraph to an eligible coalition awarded a grant under paragraph (1) or (2) for any first fiscal year after the end of the 4-year period following the period of the initial grant under paragraph (1) or (2), as the case may be.
     - **(B)** A coalition awarded a grant under paragraph (1) or (2), including a renewal grant under such paragraph, may not be awarded another grant under such paragraph, and is eligible for an additional grant under this section only under this paragraph.
     - **(C)** The Administrator may not afford a higher priority in the award of an additional grant under this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
-    - **(D)** Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
-      - **(i)** For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
-      - **(ii)** For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+    - **(D)** Subject to clause (iv), 1 1 So in original. Probably should be “subparagraph (F),”. the Administrator may award a renewal grant to a grant recipient under this subparagraph 2 2 So in original. Probably should be “this paragraph”. for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
+      - **(i)** For the first and second fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 125 percent of the amount awarded.
+      - **(ii)** For the third and fourth fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
     - **(E)** If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
     - **(F)** The amount of a grant award under this paragraph may not exceed $125,000 for a fiscal year.
   - **(4)** A grantee shall not be suspended or terminated under paragraph (1)(A)(ii), (2)(A)(iii), or (3)(E) unless that grantee is afforded a fair, timely, and independent appeal prior to such suspension or termination.
-- **(c)** Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition for purposes of this section.
+- **(c)** Funds appropriated for the substance use and misuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance use and misuse may be counted as non-Federal funds raised by the coalition for purposes of this section.
 - **(d)** In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.

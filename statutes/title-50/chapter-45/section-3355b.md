@@ -3,9 +3,9 @@ title: "Section 3355b - Identification, collection, and review for declassificat
 usc_title: 50
 usc_section: "3355b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3355b"
-generated_at: "2026-03-29T02:16:14.795Z"
+generated_at: "2026-03-29T19:44:52.864Z"
 ---
 
 # § 3355b. Identification, collection, and review for declassification of information of archival value or extraordinary public interest
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T02:16:14.795Z"
 - **(e)**
   - **(1)** If requested by the President, the Board shall review in a timely manner certain records or declinations to declassify specific records, the declassification of which has been the subject of specific congressional request described in section 3355a(b)(5) of this title .
   - **(2)** Upon receiving a congressional request described in section 3355a(b)(5) of this title , the Board may conduct the review and make the recommendations described in that section, regardless of whether such a review is requested by the President.
-  - **(3)** Any recommendations submitted to the President by the Board under section 3355a(b)(5) of this title shall be submitted to the chairman and ranking minority member of the committee of Congress that made the request relating to such recommendations.
+  - **(3)** Any recommendations submitted to the President by the Board under section 3355a(b)(5) of this title , 1 1 So in original. shall be submitted to the chairman and ranking minority member of the committee of Congress that made the request relating to such recommendations.

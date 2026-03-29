@@ -3,9 +3,9 @@ title: "Section 151 - Purposes of chapter; Federal Communications Commission cre
 usc_title: 47
 usc_section: "151"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 151"
-generated_at: "2026-03-29T19:32:13.737Z"
+generated_at: "2026-03-29T19:44:37.142Z"
 ---
 
 # § 151. Purposes of chapter; Federal Communications Commission created

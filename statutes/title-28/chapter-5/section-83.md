@@ -3,19 +3,17 @@ title: "Section 83 - Arkansas"
 usc_title: 28
 usc_section: "83"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 83"
-generated_at: "2026-03-29T19:30:04.329Z"
+generated_at: "2026-03-29T19:42:27.315Z"
 ---
 
 # § 83. Arkansas
 
-- **(a)** The Eastern District comprises five divisions.
-  - **(1)** The Eastern Division comprises the counties of Cross, Lee, Monroe, Phillips, Saint Francis, and Woodruff. Court for the Eastern Division shall be held at Helena.
-  - **(2)** The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White, and Yell. Court for the Western Division shall be held at Little Rock.
-  - **(3)** The Pine Bluff Division comprises the counties of Arkansas, Chicot, Cleveland, Dallas, Desha, Drew, Grant, Jefferson, and Lincoln. Court for the Pine Bluff Division shall be held at Pine Bluff.
-  - **(4)** The Northern Division comprises the counties of Cleburne, Fulton, Independence, Izard, Jackson, Sharp, and Stone. Court for the Northern Division shall be held at Batesville.
-  - **(5)** The Jonesboro Division comprises the counties of Clay, Craighead, Crittenden, Greene, Lawrence, Mississippi, Poinsett, and Randolph. Court for the Jonesboro Division shall be held at Jonesboro. Western District
+- **(a)** The Eastern District comprises three divisions.
+  - **(1)** The Central Division comprises the counties of Cleburne, Cleveland, Conway, Dallas, Drew, Faulkner, Grant, Jefferson, Lincoln, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Stone, Van Buren, White, and Yell. Court for the Central Division shall be held at Little Rock.
+  - **(2)** The Delta Division comprises the counties of Arkansas, Chicot, Crittenden, Desha, Lee, Monroe, Phillips, and St. Francis. Court for the Delta Division shall be held at Helena.
+  - **(3)** The Northern Division comprises the counties of Clay, Craighead, Cross, Fulton, Greene, Independence, Izard, Jackson, Lawrence, Mississippi, Poinsett, Randolph, Sharp, and Woodruff. Court for the Northern Division shall be held at Jonesboro. Western District
 - **(b)** The Western District comprises six divisions.
   - **(1)** The Texarkana Division comprises the counties of Hempstead, Howard, Lafayette, Little River, Miller, Nevada, and Sevier. Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
   - **(2)** The El Dorado Division comprises the counties of Ashley, Bradley, Calhoun, Columbia, Ouachita, and Union. Court for the El Dorado Division shall be held at El Dorado.

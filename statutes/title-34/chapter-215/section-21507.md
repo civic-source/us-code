@@ -5,7 +5,7 @@ usc_section: "21507"
 chapter: 215
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 21507"
-generated_at: "2026-03-29T18:45:50.391Z"
+generated_at: "2026-03-29T19:42:53.175Z"
 ---
 
 # § 21507. Implementation plan

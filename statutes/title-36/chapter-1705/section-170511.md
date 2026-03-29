@@ -3,9 +3,9 @@ title: "Section 170511 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "170511"
 chapter: 1705
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 170511"
-generated_at: "2026-03-29T19:30:42.090Z"
+generated_at: "2026-03-29T19:43:23.319Z"
 ---
 
 # § 170511. Liability for acts of officers and agents

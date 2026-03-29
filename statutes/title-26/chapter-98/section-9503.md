@@ -3,22 +3,22 @@ title: "Section 9503 - Highway Trust Fund"
 usc_title: 26
 usc_section: "9503"
 chapter: 98
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 9503"
-generated_at: "2026-03-29T19:30:20.289Z"
+generated_at: "2026-03-29T19:42:48.047Z"
 ---
 
 # § 9503. Highway Trust Fund
 
 - **(a)** There is established in the Treasury of the United States a trust fund to be known as the “Highway Trust Fund”, consisting of such amounts as may be appropriated or credited to the Highway Trust Fund as provided in this section or section 9602(b).
 - **(b)**
-  - **(1)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes received in the Treasury before October 1, 2022 , under the following provisions—
+  - **(1)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes received in the Treasury before October 1, 2028 , under the following provisions—
     - **(A)** section 4041 (relating to taxes on diesel fuels and special motor fuels),
     - **(B)** section 4051 (relating to retail tax on heavy trucks and trailers),
     - **(C)** section 4071 (relating to tax on tires),
     - **(D)** section 4081 (relating to tax on gasoline, diesel fuel, and kerosene), and
     - **(E)** section 4481 (relating to tax on use of certain vehicles).
-  - **(2)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2022 , and before July 1, 2023 , and which are attributable to liability for tax incurred before October 1, 2022 , under the provisions described in paragraph (1).
+  - **(2)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2028 , and before July 1, 2029 , and which are attributable to liability for tax incurred before October 1, 2028 , under the provisions described in paragraph (1).
   - **[(3)**
   - **(4)** For purposes of paragraphs (1) and (2), there shall not be taken into account the taxes imposed by—
     - **(A)** section 4041(d),
@@ -37,13 +37,13 @@ generated_at: "2026-03-29T19:30:20.289Z"
     - **(A)** Except as provided in subparagraph (B), no amount may be appropriated to the Highway Trust Fund on and after the date of any expenditure from the Highway Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
       - **(i)** any provision of law which is not contained or referenced in this title or in a revenue Act, and
       - **(ii)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
-    - **(B)** Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020 , in accordance with the provisions of this section.
+    - **(B)** Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2026 , in accordance with the provisions of this section.
 - **(c)**
-  - **(1)** Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2020 , to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
-  - **(2)** The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2023 , under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
+  - **(1)** Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2026 , to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Infrastructure Investment and Jobs Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+  - **(2)** The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2029 , under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
   - **(3)**
     - **(A)**
-      - **(i)** The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005 , and before October 1, 2022 .
+      - **(i)** The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005 , and before October 1, 2028 .
       - **(ii)** The aggregate amount transferred under this subparagraph during any fiscal year shall not exceed $1,000,000.
     - **(B)** Any amounts in the Highway Trust Fund—
       - **(i)** which are attributable to motorboat fuel taxes, and
@@ -51,9 +51,9 @@ generated_at: "2026-03-29T19:30:20.289Z"
     - **(C)** For purposes of this paragraph, the term “motorboat fuel taxes” means the taxes under section 4041(a)(2) with respect to special motor fuels used as fuel in motorboats and under section 4081 with respect to gasoline used as fuel in motorboats, but only to the extent such taxes are deposited into the Highway Trust Fund.
     - **(D)** The amount of payments made under this paragraph after October 1, 1986 shall be determined by the Secretary in accordance with the methodology described in the Treasury Department’s Report to Congress of June 1986 entitled “Gasoline Excise Tax Revenues Attributable to Fuel Used in Recreational Motorboats.”
   - **(4)**
-    - **(A)** The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990 , and before October 1, 2022 .
+    - **(A)** The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990 , and before October 1, 2028 .
     - **(B)** For purposes of this paragraph, the term “small-engine fuel taxes” means the taxes under section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
-  - **(5)** The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005 , and before October 1, 2011 , under section 4081 with respect to so much of the rate of tax as does not exceed—
+  - **(5)** The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005 , under section 4081 with respect to so much of the rate of tax as does not exceed—
     - **(A)** 4.3 cents per gallon of kerosene subject to section 6427( l )(4)(A) with respect to which a payment has been made by the Secretary under section 6427( l ), and
     - **(B)** 21.8 cents per gallon of kerosene subject to section 6427( l )(4)(B) with respect to which a payment has been made by the Secretary under section 6427( l ).
 - **(d)**
@@ -85,10 +85,10 @@ generated_at: "2026-03-29T19:30:20.289Z"
   - **(2)** The Secretary of the Treasury shall transfer to the Mass Transit Account the mass transit portion of the amounts appropriated to the Highway Trust Fund under subsection (b) which are attributable to taxes under sections 4041 and 4081 imposed after March 31, 1983 . For purposes of the preceding sentence, the term “mass transit portion” means, for any fuel with respect to which tax was imposed under section 4041 or 4081 and otherwise deposited into the Highway Trust Fund, the amount determined at the rate of—
     - **(A)** except as otherwise provided in this sentence, 2.86 cents per gallon,
     - **(B)** 1.43 cents per gallon in the case of any partially exempt methanol or ethanol fuel (as defined in section 4041(m)) none of the alcohol in which consists of ethanol,
-    - **(C)** 1.86 cents per gallon in the case of liquefied natural gas,
-    - **(D)** 2.13 cents per gallon in the case of liquefied petroleum gas, and
+    - **(C)** 1.86 cents per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D)) in the case of liquefied natural gas,
+    - **(D)** 2.13 cents per energy equivalent of a gallon of gasoline (as defined in section 4041(a)(2)(C)) in the case of liquefied petroleum gas, and
     - **(E)** 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
-  - **(3)** Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2020 , in accordance with the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+  - **(3)** Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2026 , in accordance with the Infrastructure Investment and Jobs Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
   - **(4)** Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.
   - **(5)**
     - **(A)** Transfers under paragraphs (2) and (3) of subsection (c) shall be borne by the Highway Account and the Mass Transit Account in proportion to the respective revenues transferred under this section to the Highway Account (after the application of paragraph (2)) and the Mass Transit Account.
@@ -115,4 +115,10 @@ generated_at: "2026-03-29T19:30:20.289Z"
     - **(A)** $51,900,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
     - **(B)** $18,100,000,000 to the Mass Transit Account in the Highway Trust Fund.
   - **(9)** There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(4).
-  - **(10)** Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
+  - **(10)** Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+    - **(A)** $10,400,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+    - **(B)** $3,200,000,000 to the Mass Transit Account in the Highway Trust Fund.
+  - **(11)** Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+    - **(A)** $90,000,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+    - **(B)** $28,000,000,000 to the Mass Transit Account in the Highway Trust Fund.
+  - **(12)** Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.

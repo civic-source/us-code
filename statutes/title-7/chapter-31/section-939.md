@@ -3,12 +3,12 @@ title: "Section 939 - Loan terms and conditions"
 usc_title: 7
 usc_section: "939"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 939"
-generated_at: "2026-03-29T19:27:31.704Z"
+generated_at: "2026-03-29T19:43:58.082Z"
 ---
 
 # § 939. Loan terms and conditions
 
-Loans made from or insured through the fund shall be for the same purposes and on the same terms and conditions as are provided for loans in subchapters I and II of this chapter except as otherwise provided in sections 933 to 938 inclusive. The preceding sentence shall not be construed to make section 948(b)(2) or 950b of this title applicable to this subchapter.
+Loans made from or insured through the fund shall be for the same purposes and on the same terms and conditions as are provided for loans in subchapters I and II of this chapter except as otherwise provided in sections 933 to 938 inclusive.
 

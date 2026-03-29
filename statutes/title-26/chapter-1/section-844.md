@@ -1,17 +1,12 @@
 ---
-title: "Section 844 - Special loss carryover rules"
+title: "Section 844 - Repealed. Pub. L. 115–97, title I, § 13511(b)(2)(A) , Dec. 22, 2017 , 131 Stat. 2142 ]"
 usc_title: 26
 usc_section: "844"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 844"
-generated_at: "2026-03-29T19:30:19.909Z"
+generated_at: "2026-03-29T19:42:47.733Z"
 ---
 
-# § 844. Special loss carryover rules
+# [§ 844. Repealed. Pub. L. 115–97, title I, § 13511(b)(2)(A) , Dec. 22, 2017 , 131 Stat. 2142 ]
 
-- **(a)** If an insurance company—
-  - **(1)** is subject to the tax imposed by part I or II of this subchapter for the taxable year, and
-  - **(2)** was subject to the tax imposed by a different part of this subchapter for a prior taxable year,
-- **(b)** The amount included under section 810(a) or 832(c)(10) (as the case may be) by reason of the application of subsection (a) shall not exceed the amount that would have constituted the loss carryover under such section if for all relevant taxable years the company had been subject to the tax imposed by the part referred to in subsection (a)(1) rather than the part referred to in subsection (a)(2). For purposes of applying the preceding sentence, section 810(b)(1)(C) (relating to additional years to which losses may be carried by new life insurance companies) shall not apply.
-- **(c)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.

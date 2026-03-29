@@ -1,12 +1,12 @@
 ---
-title: "Section 3314 - Repealed. Pub. L. 105–185, title I , § 103(f)(3)(C), June 23, 1998 , 112 Stat. 528"
+title: "Section 3314 - Repealed. Pub. L. 105–185, title I, § 103(f)(3)(C) , June 23, 1998 , 112 Stat. 528"
 usc_title: 7
 usc_section: "3314"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3314"
-generated_at: "2026-03-29T19:27:31.887Z"
+generated_at: "2026-03-29T19:43:58.297Z"
 ---
 
-# § 3314. Repealed. Pub. L. 105–185, title I , § 103(f)(3)(C), June 23, 1998 , 112 Stat. 528
+# § 3314. Repealed. Pub. L. 105–185, title I, § 103(f)(3)(C) , June 23, 1998 , 112 Stat. 528
 

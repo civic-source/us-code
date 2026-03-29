@@ -3,9 +3,9 @@ title: "Section 1904 - Interpretation of and United States policy regarding Comp
 usc_title: 48
 usc_section: "1904"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1904"
-generated_at: "2026-03-29T19:31:53.972Z"
+generated_at: "2026-03-29T19:44:59.803Z"
 ---
 
 # § 1904. Interpretation of and United States policy regarding Compact of Free Association

@@ -3,9 +3,9 @@ title: "Section 9525 - Minimizing disruptions to existing MBDA Business Center p
 usc_title: 15
 usc_section: "9525"
 chapter: 120
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 9525"
-generated_at: "2026-03-29T18:49:04.605Z"
+generated_at: "2026-03-29T19:44:43.012Z"
 ---
 
 # § 9525. Minimizing disruptions to existing MBDA Business Center program

@@ -3,9 +3,9 @@ title: "Section 8927 - Expanded broadcasting in countries of the former Soviet U
 usc_title: 22
 usc_section: "8927"
 chapter: 96
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8927"
-generated_at: "2026-03-29T19:29:46.999Z"
+generated_at: "2026-03-29T19:42:08.297Z"
 ---
 
 # § 8927. Expanded broadcasting in countries of the former Soviet Union

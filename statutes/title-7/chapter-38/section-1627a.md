@@ -3,9 +3,9 @@ title: "Section 1627a - Sheep production and marketing grant program"
 usc_title: 7
 usc_section: "1627a"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1627a"
-generated_at: "2026-03-29T19:27:31.761Z"
+generated_at: "2026-03-29T19:43:58.152Z"
 ---
 
 # § 1627a. Sheep production and marketing grant program
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T19:27:31.761Z"
     - **(C)** resource development; and
   - **(2)** the development of innovative approaches to solve long-term needs.
 - **(b)** The Secretary shall make grants under this section to at least one national entity, the mission of which is consistent with the purpose of the grant program.
-- **(c)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,500,000 for fiscal year 2014, to remain available until expended.
+- **(c)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $2,000,000 for fiscal year 2019, to remain available until expended.

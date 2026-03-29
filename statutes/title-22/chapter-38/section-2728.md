@@ -3,9 +3,9 @@ title: "Section 2728 - Crimes committed by diplomats"
 usc_title: 22
 usc_section: "2728"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2728"
-generated_at: "2026-03-29T19:29:46.810Z"
+generated_at: "2026-03-29T19:42:08.122Z"
 ---
 
 # § 2728. Crimes committed by diplomats

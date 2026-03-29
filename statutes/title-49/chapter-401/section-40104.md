@@ -3,13 +3,31 @@ title: "Section 40104 - Promotion of civil aeronautics and safety of air commerc
 usc_title: 49
 usc_section: "40104"
 chapter: 401
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 40104"
-generated_at: "2026-03-29T19:32:28.855Z"
+generated_at: "2026-03-29T19:44:57.969Z"
 ---
 
 # § 40104. Promotion of civil aeronautics and safety of air commerce
 
 - **(a)** The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
-- **(b)** The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator’s foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
-- **(c)** In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47176. 1 1 See References in Text note below.
+- **(b)**
+  - **(1)** The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator’s foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
+  - **(2)** The Administrator shall—
+    - **(A)** in consultation with the Secretary of State, engage bilaterally and multilaterally, including with the International Civil Aviation Organization, on an ongoing basis to bolster international collaboration, data sharing, and harmonization of international aviation safety requirements including through—
+      - **(i)** sharing of continued operational safety information;
+      - **(ii)** prioritization of pilot training deficiencies, including manual flying skills and flight crew training, to discourage over reliance on automation, further bolstering the components of airmanship;
+      - **(iii)** encouraging the consideration of the safety advantages of appropriate Federal regulations, which may include relevant Federal regulations pertaining to flight crew training requirements; and
+      - **(iv)** prioritizing any other flight crew training areas that the Administrator believes will enhance all international aviation safety; and
+    - **(B)** seek to expand technical assistance provided by the Federal Aviation Administration in support of enhancing international aviation safety, including by—
+      - **(i)** promoting and enhancing effective oversight systems, including operational safety enhancements identified through data collection and analysis;
+      - **(ii)** promoting and encouraging compliance with international safety standards by counterpart civil aviation authorities;
+      - **(iii)** minimizing cybersecurity threats and vulnerabilities across the aviation ecosystem;
+      - **(iv)** supporting the sharing of safety information, best practices, risk assessments, and mitigations through established international aviation safety groups; and
+      - **(v)** providing technical assistance on any other aspect of aviation safety that the Administrator determines is likely to enhance international aviation safety.
+- **(c)** In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47175.
+- **(d)** The Secretary shall take appropriate actions to—
+  - **(1)** promote United States aerospace-related safety standards abroad;
+  - **(2)** facilitate and vigorously defend approvals of United States aerospace products and services abroad;
+  - **(3)** with respect to bilateral partners, utilize bilateral safety agreements and other mechanisms to improve validation of United States certificated aeronautical products, services, and appliances and enhance mutual acceptance in order to eliminate redundancies and unnecessary costs; and
+  - **(4)** with respect to the aeronautical safety authorities of a foreign country, streamline validation and coordination processes.

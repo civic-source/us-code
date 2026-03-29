@@ -3,9 +3,9 @@ title: "Section 1362 - Definitions"
 usc_title: 33
 usc_section: "1362"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1362"
-generated_at: "2026-03-29T19:30:28.805Z"
+generated_at: "2026-03-29T19:43:07.664Z"
 ---
 
 # § 1362. Definitions
@@ -57,3 +57,4 @@ Except as otherwise specifically provided, when used in this chapter:
       - **(i)** is engaged in commercial use; or
       - **(ii)** carries paying passengers.
   - **(26)** The term “treatment works” has the meaning given the term in section 1292 of this title .
+  - **(27)** The term “green infrastructure” means the range of measures that use plant or soil systems, permeable pavement or other permeable surfaces or substrates, stormwater harvest and reuse, or landscaping to store, infiltrate, or evapotranspirate stormwater and reduce flows to sewer systems or to surface waters.

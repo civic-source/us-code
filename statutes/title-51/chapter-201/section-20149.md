@@ -3,9 +3,9 @@ title: "Section 20149 - Medical monitoring and research relating to human space 
 usc_title: 51
 usc_section: "20149"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 20149"
-generated_at: "2026-03-29T02:16:19.245Z"
+generated_at: "2026-03-29T19:45:16.669Z"
 ---
 
 # § 20149. Medical monitoring and research relating to human space flight

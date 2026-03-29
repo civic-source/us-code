@@ -5,7 +5,7 @@ usc_section: "4264"
 chapter: 55
 current_through: "PL 117-81"
 classification: "33 U.S.C. § 4264"
-generated_at: "2026-03-29T18:45:43.557Z"
+generated_at: "2026-03-29T19:43:07.761Z"
 ---
 
 # § 4264. Enhancing international outreach and partnership of United States agencies involved in marine debris activities

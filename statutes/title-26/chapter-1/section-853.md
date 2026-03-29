@@ -3,9 +3,9 @@ title: "Section 853 - Foreign tax credit allowed to shareholders"
 usc_title: 26
 usc_section: "853"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 853"
-generated_at: "2026-03-29T19:30:19.914Z"
+generated_at: "2026-03-29T19:42:47.739Z"
 ---
 
 # § 853. Foreign tax credit allowed to shareholders

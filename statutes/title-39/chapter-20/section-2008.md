@@ -3,9 +3,9 @@ title: "Section 2008 - Audit and expenditures"
 usc_title: 39
 usc_section: "2008"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "39 U.S.C. § 2008"
-generated_at: "2026-03-29T19:30:48.543Z"
+generated_at: "2026-03-29T19:43:19.853Z"
 ---
 
 # § 2008. Audit and expenditures

@@ -3,9 +3,9 @@ title: "Section 1478 - Death gratuity: amount"
 usc_title: 10
 usc_section: "1478"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1478"
-generated_at: "2026-03-29T19:27:25.537Z"
+generated_at: "2026-03-29T19:43:37.929Z"
 ---
 
 # § 1478. Death gratuity: amount
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:27:25.537Z"
   - **(8)** A person covered by section 1475 or 1476 of this title who performed active duty, or inactive duty training, without pay is considered to have been entitled to basic pay while performing that duty or training.
   - **(9)** A person covered by section 1475 or 1476 of this title who incurred a disability while on active duty or inactive duty training and who became entitled to basic pay while receiving hospital or medical care, including out-patient care, for that disability, is considered to have been on active duty or inactive duty training, as the case may be, for as long as he is entitled to that pay.
 - **(b)** A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
-- **[(c)** Repealed. Pub. L. 109–163, div. A, title VI , § 664(a)(2)(B), Jan. 6, 2006 , 119 Stat. 3316 .]
+- **[(c)** Repealed. Pub. L. 109–163, div. A, title VI, § 664(a)(2)(B) , Jan. 6, 2006 , 119 Stat. 3316 .]
 - **(d)**
   - **(1)** In the case of a person described in paragraph (2), a death gratuity shall be payable, subject to section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (a).
   - **(2)** This subsection applies in the case of a person who died during the period beginning on October 7, 2001 , and ending on August 31, 2005 , while a member of the armed forces on active duty and whose death did not establish eligibility for an additional death gratuity under the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13 ; 119 Stat. 247 ), because the person was not described in paragraph (2) of that prior subsection.

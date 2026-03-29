@@ -3,9 +3,9 @@ title: "Section 480 - Reports to Congress: submission in electronic form"
 usc_title: 10
 usc_section: "480"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 480"
-generated_at: "2026-03-29T19:27:25.442Z"
+generated_at: "2026-03-29T19:43:37.813Z"
 ---
 
 # § 480. Reports to Congress: submission in electronic form

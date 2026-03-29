@@ -3,9 +3,9 @@ title: "Section 3201 - Judgment liens"
 usc_title: 28
 usc_section: "3201"
 chapter: 176
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 3201"
-generated_at: "2026-03-29T19:30:04.408Z"
+generated_at: "2026-03-29T19:42:27.390Z"
 ---
 
 # § 3201. Judgment liens

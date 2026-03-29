@@ -3,9 +3,9 @@ title: "Section 1720G - Assistance and support services for caregivers"
 usc_title: 38
 usc_section: "1720G"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1720G"
-generated_at: "2026-03-29T19:30:40.479Z"
+generated_at: "2026-03-29T19:43:26.967Z"
 ---
 
 # § 1720G. Assistance and support services for caregivers
@@ -16,11 +16,17 @@ generated_at: "2026-03-29T19:30:40.479Z"
     - **(B)** The Secretary shall only provide support under the program required by subparagraph (A) to a family caregiver of an eligible veteran if the Secretary determines it is in the best interest of the eligible veteran to do so.
   - **(2)** For purposes of this subsection, an eligible veteran is any individual who—
     - **(A)** is a veteran or member of the Armed Forces undergoing medical discharge from the Armed Forces;
-    - **(B)** has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001 ; and
+    - **(B)** for assistance provided under this subsection—
+      - **(i)** before the date on which the Secretary submits to Congress a certification that the Department has fully implemented the information technology system required by section 162(a) of the Caring for Our Veterans Act of 2018, has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service on or after September 11, 2001 ;
+      - **(ii)** during the 2-year period beginning on the date on which the Secretary submitted to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service—
+        - **(I)** on or before May 7, 1975 ; or
+        - **(II)** on or after September 11, 2001 ; or
+      - **(iii)** after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service; and
     - **(C)** is in need of personal care services because of—
       - **(i)** an inability to perform one or more activities of daily living;
-      - **(ii)** a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury; or
-      - **(iii)** such other matters as the Secretary considers appropriate.
+      - **(ii)** a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury;
+      - **(iii)** a need for regular or extensive instruction or supervision without which the ability of the veteran to function in daily life would be seriously impaired; or
+      - **(iv)** such other matters as the Secretary considers appropriate.
   - **(3)**
     - **(A)** As part of the program required by paragraph (1), the Secretary shall provide to family caregivers of eligible veterans the following assistance:
       - **(i)** To each family caregiver who is approved as a provider of personal care services for an eligible veteran under paragraph (6)—
@@ -32,15 +38,21 @@ generated_at: "2026-03-29T19:30:40.479Z"
         - **(I)** the assistance described in clause (i);
         - **(II)** such mental health services as the Secretary determines appropriate;
         - **(III)** respite care of not less than 30 days annually, including 24-hour per day care of the veteran commensurate with the care provided by the family caregiver to permit extended respite;
-        - **(IV)** medical care under section 1781 of this title ; and
-        - **(V)** a monthly personal caregiver stipend.
+        - **(IV)** medical care under section 1781 of this title ;
+        - **(V)** a monthly personal caregiver stipend; and
+        - **(VI)** through the use of contracts with, or the provision of grants to, public or private entities—
     - **(B)** Respite care provided under subparagraph (A)(ii)(III) shall be medically and age-appropriate and include in-home care.
     - **(C)**
       - **(i)** The amount of the monthly personal caregiver stipend provided under subparagraph (A)(ii)(V) shall be determined in accordance with a schedule established by the Secretary that specifies stipends based upon the amount and degree of personal care services provided.
       - **(ii)** The Secretary shall ensure, to the extent practicable, that the schedule required by clause (i) specifies that the amount of the monthly personal caregiver stipend provided to a primary provider of personal care services for the provision of personal care services to an eligible veteran is not less than the monthly amount a commercial home health care entity would pay an individual in the geographic area of the eligible veteran to provide equivalent personal care services to the eligible veteran.
-      - **(iii)** If personal care services are not available from a commercial home health entity in the geographic area of an eligible veteran, the amount of the monthly personal caregiver stipend payable under the schedule required by clause (i) with respect to the eligible veteran shall be determined by taking into consideration the costs of commercial providers of personal care services in providing personal care services in geographic areas other than the geographic area of the eligible veteran with similar costs of living.
+      - **(iii)** In determining the amount and degree of personal care services provided under clause (i) with respect to an eligible veteran whose need for personal care services is based in whole or in part on a need for supervision or protection under paragraph (2)(C)(ii) or regular instruction or supervision under paragraph (2)(C)(iii), the Secretary shall take into account the following:
+        - **(I)** The assessment by the family caregiver of the needs and limitations of the veteran.
+        - **(II)** The extent to which the veteran can function safely and independently in the absence of such supervision, protection, or instruction.
+        - **(III)** The amount of time required for the family caregiver to provide such supervision, protection, or instruction to the veteran.
+      - **(iv)** If personal care services are not available from a commercial home health entity in the geographic area of an eligible veteran, the amount of the monthly personal caregiver stipend payable under the schedule required by clause (i) with respect to the eligible veteran shall be determined by taking into consideration the costs of commercial providers of personal care services in providing personal care services in geographic areas other than the geographic area of the eligible veteran with similar costs of living.
+    - **(D)** In providing instruction, preparation, and training under subparagraph (A)(i)(I) and technical support under subparagraph (A)(i)(II) to each family caregiver who is approved as a provider of personal care services for an eligible veteran under paragraph (6), the Secretary shall periodically evaluate the needs of the eligible veteran and the skills of the family caregiver of such veteran to determine if additional instruction, preparation, training, or technical support under those subparagraphs is necessary.
   - **(4)** An eligible veteran and a family member of the eligible veteran seeking to participate in the program required by paragraph (1) shall jointly submit to the Secretary an application therefor in such form and in such manner as the Secretary considers appropriate.
-  - **(5)** For each application submitted jointly by an eligible veteran and family member, the Secretary shall evaluate—
+  - **(5)** For each application submitted jointly by an eligible veteran and family member, the Secretary shall evaluate (in collaboration with the primary care team for the eligible veteran to the maximum extent practicable)—
     - **(A)** the eligible veteran—
       - **(i)** to identify the personal care services required by the eligible veteran; and
       - **(ii)** to determine whether such requirements could be significantly or substantially satisfied through the provision of personal care services from a family member; and
@@ -74,6 +86,28 @@ generated_at: "2026-03-29T19:30:40.479Z"
         - **(I)** providing additional training to a family caregiver; and
         - **(II)** suspending or revoking the approval of a family caregiver under paragraph (6) or the designation of a family caregiver under paragraph (7).
   - **(10)** The Secretary shall carry out outreach to inform eligible veterans and family members of eligible veterans of the program required by paragraph (1) and the benefits of participating in the program.
+  - **(11)**
+    - **(A)** In providing assistance under this subsection to family caregivers of eligible veterans, the Secretary may enter into contracts, provider agreements, and memoranda of understanding with Federal agencies, States, and private, nonprofit, and other entities to provide such assistance to such family caregivers.
+    - **(B)** The Secretary may provide assistance under this paragraph only if such assistance is reasonably accessible to the family caregiver and is substantially equivalent or better in quality to similar services provided by the Department.
+    - **(C)** The Secretary may provide fair compensation to Federal agencies, States, and other entities that provide assistance under this paragraph.
+  - **(12)**
+    - **(A)** The Secretary shall notify the individuals described in subparagraph (C) regarding decisions affecting the furnishing of assistance under this subsection using standardized letters, as the Secretary determines such notifications and letters to be appropriate.
+    - **(B)** A notification provided under subparagraph (A) shall include the elements required for notices of decisions under section 5104(b) of this title to the extent that those elements apply to such notification, unless, not later than 60 days after the date of the enactment of the Transparency and Effective Accountability Measures for Veteran Caregivers Act, the Secretary determines that it would not be feasible to include such elements in such notifications and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report setting forth the reasons for such determination.
+    - **(C)** The individuals described in this subparagraph shall include—
+      - **(i)** an individual who submits an application for the program established under paragraph (1);
+      - **(ii)** an individual determined by the Secretary to be an eligible veteran pursuant to such an application; and
+      - **(iii)** a family caregiver of an eligible veteran who is—
+        - **(I)** approved as a provider of personal care services under paragraph (6)(B); or
+        - **(II)** designated as a primary provider of personal care services under paragraph (7)(A).
+  - **(13)**
+    - **(A)** If the Secretary determines that a veteran receiving services under the program established under paragraph (1) is no longer eligible for such program solely because of improvement in the condition of the veteran—
+      - **(i)** the effective date of discharge of the veteran from the program shall be not earlier than the date that is 60 days after the date on which the Secretary provides notice of such lack of eligibility under paragraph (12)(A) to the relevant individuals described in paragraph (12)(C); and
+      - **(ii)** the Secretary shall extend benefits under the program established under paragraph (1) for a family caregiver of the veteran described in paragraph (12)(C)(iii), including stipends under paragraph (3)(A)(ii)(V), if such an extension is determined appropriate by the Secretary, for a 90-day period following discharge of the veteran from the program.
+    - **(B)** This paragraph shall not be construed to limit the authority of the Secretary—
+      - **(i)** to prescribe regulations addressing other bases for—
+        - **(I)** the discharge of a veteran from the program established under paragraph (1); or
+        - **(II)** the revocation of the designation of a family caregiver of a veteran as a primary provider of personal care services under paragraph (7)(A); or
+      - **(ii)** to provide advance notice and extended benefits under the program, as appropriate, if another basis for discharge of a veteran described in subclause (I) of clause (i) or revocation of a designation described in subclause (II) of such clause applies.
 - **(b)**
   - **(1)** The Secretary shall establish a program of support services for caregivers of covered veterans who are enrolled in the health care system established under section 1705(a) of this title (including caregivers who do not reside with such veterans).
   - **(2)** For purposes of this subsection, a covered veteran is any individual who needs personal care services because of—
@@ -109,10 +143,7 @@ generated_at: "2026-03-29T19:30:40.479Z"
       - **(v)** an extended family member; or
     - **(B)** lives with the veteran but is not a member of the family of the veteran.
   - **(4)** The term “personal care services”, with respect to an eligible veteran under subsection (a) or a covered veteran under subsection (b), means services that provide the veteran the following:
-    - **(A)** Assistance with one or more independent activities of daily living.
-    - **(B)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title ).
-- **(e)** There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
-  - **(1)** $60,000,000 for fiscal year 2010;
-  - **(2)** $1,542,000,000 for the period of fiscal years 2011 through 2015;
-  - **(3)** $625,000,000 for fiscal year 2016; and
-  - **(4)** $734,628,000 for fiscal year 2017.
+    - **(A)** Assistance with one or more activities of daily living.
+    - **(B)** Supervision or protection based on symptoms or residuals of neurological or other impairment or injury.
+    - **(C)** Regular or extensive instruction or supervision without which the ability of the veteran to function in daily life would be seriously impaired.
+    - **(D)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title ).

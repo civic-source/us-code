@@ -3,9 +3,9 @@ title: "Section 1932 - Assistance for rural entities"
 usc_title: 7
 usc_section: "1932"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1932"
-generated_at: "2026-03-29T19:27:31.789Z"
+generated_at: "2026-03-29T19:43:58.188Z"
 ---
 
 # § 1932. Assistance for rural entities
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:27:31.789Z"
   - **(4)** No loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
 - **(b)**
   - **(1)** The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
-  - **(2)** There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2014 through 2023.
 - **(c)**
   - **(1)** The Secretary may make grants under this subsection to eligible entities described in paragraph (2) in rural areas that primarily serve rural areas for purposes described in paragraph (3).
   - **(2)** The Secretary may make grants under this subsection to—
@@ -36,14 +36,14 @@ generated_at: "2026-03-29T19:27:31.789Z"
       - **(ii)** identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
       - **(iii)** assist in the establishment of new rural businesses and the maintenance of existing businesses, including through business support centers;
       - **(iv)** conduct regional, community, and local economic development planning and coordination, and leadership development; and
-      - **(v)** establish centers for training, technology, and trade that will provide training to rural businesses in the use of interactive communications technologies to develop international trade opportunities and markets; and
+      - **(v)** establish centers for training, technology, and trade that will provide training to rural businesses in the use of interactive communications technologies to develop international trade opportunities and markets; or
     - **(B)** projects that support the development of business enterprises that finance or facilitate—
       - **(i)** the development of small and emerging private business enterprise;
       - **(ii)** the establishment, expansion, and operation of rural distance learning networks;
       - **(iii)** the development of rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students; and
       - **(iv)** the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities.
   - **(4)**
-    - **(A)** There is authorized to be appropriated to the Secretary to carry out this subsection $65,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+    - **(A)** There is authorized to be appropriated to the Secretary to carry out this subsection $65,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
     - **(B)** Of the funds made available under subparagraph (A) for a fiscal year, not more than 10 percent shall be used for the purposes described in paragraph (3)(A).
 - **(d)**
   - **(1)** The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
@@ -90,20 +90,17 @@ generated_at: "2026-03-29T19:27:31.789Z"
   - **(7)** The Secretary may extend for 1 additional 12-month period the period in which a grantee may use a grant made under this subsection.
   - **(8)** In carrying out this subsection, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment, underemployment, outmigration, or low employment growth in economically distressed rural areas that the Secretary determines have a substantial need for the assistance. The assistance may include planning and feasibility studies, management and operational assistance, and studies evaluating the need for development potential of projects that increase employment and improve economic growth in the areas.
   - **(9)** The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
-  - **(10)** The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research on the effects of all types of cooperatives on the national economy.
+  - **(10)** The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research (including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census) on the effects of all types of cooperatives on the national economy.
   - **(11)**
     - **(A)** In this paragraph, the term “socially disadvantaged group” has the meaning given the term in section 2003(e) of this title .
     - **(B)**
-      - **(i)** If the total amount appropriated under paragraph (12) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
+      - **(i)** If the total amount appropriated under paragraph (13) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
         - **(I)** that serve socially disadvantaged groups; and
         - **(II)** a majority of the boards of directors or governing boards of which are comprised of individuals who are members of socially disadvantaged groups.
       - **(ii)** To the extent there are insufficient applications to carry out clause (i), the Secretary shall use the funds as otherwise authorized by this subsection.
   - **(12)** Not later than 90 days after February 7, 2014 , the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
-  - **(13)** There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2018.
+  - **(13)** There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2023.
 - **(f)**
-  - **(1)** In this subsection, the term “statewide” means having a coverage area of not less than 90 percent of the population of a State and not less than 80 percent of the rural land area of the State (as determined by the Secretary).
-  - **(2)** The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures, start-up and program costs, and other costs necessary to the operation of such demonstrations.
-  - **(3)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
 - **(g)**
   - **(1)** In this subsection, the term “business and industry loan” means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A), including guarantees described in paragraph (3)(A)(ii).
   - **(2)**
@@ -153,7 +150,7 @@ generated_at: "2026-03-29T19:27:31.789Z"
       - **(ii)** The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipient sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
       - **(iii)** In making or guaranteeing a loan under clause (i), the Secretary shall give priority to projects that have components benefitting underserved communities.
       - **(iv)**
-        - **(I)** For each of fiscal years 2008 through 2018, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
+        - **(I)** For each of fiscal years 2008 through 2023, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
         - **(II)** Funds reserved under subclause (I) for a fiscal year shall be reserved until April 1 of the fiscal year.
 - **(h)** The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title .
 - **(i)**
@@ -171,5 +168,5 @@ generated_at: "2026-03-29T19:27:31.789Z"
   - **(3)**
     - **(A)** The Secretary shall carry out the program under this subsection by making a grant to, or offering to enter into a cooperative agreement with, a national nonprofit agricultural assistance institution.
     - **(B)** A grant made, or cooperative agreement entered into, under subparagraph (A) shall provide 100 percent of the cost of providing information described in paragraph (2).
-  - **(4)** There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2018.
-- **(j)** Effective beginning on the date of enactment of this subsection through September 30, 2018 , the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
+  - **(4)** There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2023.
+- **(j)** Effective beginning on the date of enactment of this subsection through September 30, 2023 , the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.

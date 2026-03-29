@@ -3,9 +3,9 @@ title: "Section 1906 - Construction contract assistance"
 usc_title: 48
 usc_section: "1906"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1906"
-generated_at: "2026-03-29T19:31:53.973Z"
+generated_at: "2026-03-29T19:44:59.805Z"
 ---
 
 # § 1906. Construction contract assistance

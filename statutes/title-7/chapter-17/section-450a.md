@@ -1,14 +1,12 @@
 ---
-title: "Section 450a - Cooperative research projects; agreements with and receipt of funds from State and other agencies"
+title: "Section 450a - Transferred"
 usc_title: 7
 usc_section: "450a"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 450a"
-generated_at: "2026-03-29T19:27:31.679Z"
+generated_at: "2026-03-29T19:43:58.054Z"
 ---
 
-# § 450a. Cooperative research projects; agreements with and receipt of funds from State and other agencies
-
-On and after December 30, 1963 , the Administrator of the Agricultural Research Service may enter into agreements with and receive funds from any State, other political subdivision, organization, or individual for the purpose of conducting cooperative research projects with such cooperators.
+# § 450a. Transferred
 

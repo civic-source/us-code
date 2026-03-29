@@ -3,14 +3,14 @@ title: "Section 801 - Article 1. Definitions"
 usc_title: 10
 usc_section: "801"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 801"
-generated_at: "2026-03-29T19:27:25.464Z"
+generated_at: "2026-03-29T19:43:37.841Z"
 ---
 
 # § 801. Article 1. Definitions
 
-In this chapter:
+In this chapter (the Uniform Code of Military Justice):
 
   - **(1)** The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.
   - **(2)** The Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy, shall be considered as one armed force.
@@ -21,12 +21,12 @@ In this chapter:
   - **(7)** The term “midshipman” means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
   - **(8)** The term “military” refers to any or all of the armed forces.
   - **(9)** The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
-  - **(10)** The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
-  - **[(11)** Repealed. Pub. L. 109–241, title II , § 218(a)(1), July 11, 2006 , 120 Stat. 526 .]
+  - **(10)** The term “military judge” means a judge advocate designated under section 826(c) of this title (article 26(c)) who is detailed under section 826(a) or section 830a of this title (article 26(a) or 30a).
+  - **[(11)** Repealed. Pub. L. 109–241, title II, § 218(a)(1) , July 11, 2006 , 120 Stat. 526 .]
   - **(12)** The term “legal officer” means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
   - **(13)** The term “judge advocate” means—
-    - **(A)** an officer of the Judge Advocate General’s Corps of the Army or the Navy;
-    - **(B)** an officer of the Air Force or the Marine Corps who is designated as a judge advocate; or
+    - **(A)** an officer of the Judge Advocate General’s Corps of the Army, the Navy, or the Air Force;
+    - **(B)** an officer of the Marine Corps who is designated as a judge advocate; or
     - **(C)** a commissioned officer of the Coast Guard designated for special duty (law).
   - **(14)** The term “record”, when used in connection with the proceedings of a court-martial, means—
     - **(A)** an official written transcript, written summary, or other writing relating to the proceedings; or

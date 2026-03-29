@@ -3,22 +3,25 @@ title: "Section 44731 - Collection of data on helicopter air ambulance operation
 usc_title: 49
 usc_section: "44731"
 chapter: 447
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44731"
-generated_at: "2026-03-29T19:32:28.882Z"
+generated_at: "2026-03-29T19:44:58.000Z"
 ---
 
 # § 44731. Collection of data on helicopter air ambulance operations
 
-- **(a)** The Administrator of the Federal Aviation Administration shall require a part 135 certificate holder providing helicopter air ambulance services to submit to the Administrator, not later than 1 year after the date of enactment of this section, and annually thereafter, a report containing, at a minimum, the following data:
+- **(a)** The Administrator of the Federal Aviation Administration shall require a part 135 certificate holder providing helicopter air ambulance services to submit to the Administrator, annually, a report containing, at a minimum, the following data:
   - **(1)** The number of helicopters that the certificate holder uses to provide helicopter air ambulance services and the base locations of the helicopters.
-  - **(2)** The number of flights and hours flown, by registration number, during which helicopters operated by the certificate holder were providing helicopter air ambulance services.
-  - **(3)** The number of flight requests for a helicopter providing air ambulance services that were accepted or declined by the certificate holder and the type of each such flight request (such as scene response, interfacility transport, organ transport, or ferry or repositioning flight).
+  - **(2)** The number of hours flown by the helicopters operated by the certificate holder.
+  - **(3)** The number of patients transported and the number of patient transport requests for a helicopter providing air ambulance services that were accepted or declined by the certificate holder and the type of each such flight request (such as scene response, interfacility transport, or organ transport).
   - **(4)** The number of accidents, if any, involving helicopters operated by the certificate holder while providing air ambulance services and a description of the accidents.
-  - **(5)** The number of flights and hours flown under instrument flight rules by helicopters operated by the certificate holder while providing air ambulance services.
-  - **(6)** The time of day of each flight flown by helicopters operated by the certificate holder while providing air ambulance services.
+  - **(5)** The number of hours flown under instrument flight rules by helicopters operated by the certificate holder.
+  - **(6)** The number of hours flown at night by helicopters operated by the certificate holder.
   - **(7)** The number of incidents, if any, in which a helicopter was not directly dispatched and arrived to transport patients but was not utilized for patient transport.
 - **(b)** Data contained in a report submitted by a part 135 certificate holder under subsection (a) shall relate to such reporting period as the Administrator determines appropriate.
 - **(c)** Not later than 180 days after the date of enactment of this section, the Administrator shall develop a method to collect and store the data collected under subsection (a), including a method to protect the confidentiality of any trade secret or proprietary information provided in response to this section.
-- **(d)** Not later than 2 years after the date of enactment of this section, and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a).
-- **(e)** In this section, the terms “part 135” and “part 135 certificate holder” have the meanings given such terms in section 44730.
+- **(d)** The Administrator shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a). The report shall include the number of accidents experienced by helicopter air ambulance operations, the number of fatal accidents experienced by helicopter air ambulance operations, and the rate, per 100,000 flight hours, of accidents and fatal accidents experienced by operators providing helicopter air ambulance services.
+- **(e)** In carrying out this section, the Administrator, in collaboration with part 135 certificate holders providing helicopter air ambulance services, shall—
+  - **(1)** propose and develop a method to collect and store the data submitted under subsection (a), including a method to protect the confidentiality of any trade secret or proprietary information submitted; and
+  - **(2)** ensure that the database under subsection (c) and the report under subsection (d) include data and analysis that will best inform efforts to improve the safety of helicopter air ambulance operations.
+- **(f)** In this section, the terms “part 135” and “part 135 certificate holder” have the meanings given such terms in section 44730.

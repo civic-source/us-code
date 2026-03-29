@@ -3,9 +3,9 @@ title: "Section 601 - Generally applicable provisions"
 usc_title: 23
 usc_section: "601"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 601"
-generated_at: "2026-03-29T19:29:58.434Z"
+generated_at: "2026-03-29T19:41:43.046Z"
 ---
 
 # § 601. Generally applicable provisions
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T19:29:58.434Z"
       - **(ii)** receiving an investment grade rating from a rating agency;
       - **(iii)** compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and
       - **(iv)** the availability of funds to carry out the TIFIA program; and
-    - **(E)** require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
+    - **(E)** require that contingent commitments result in a financial close and obligation of credit assistance not later than 5 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
   - **(11)** The term “obligor” means a party that—
     - **(A)** is primarily liable for payment of the principal of or interest on a Federal credit instrument; and
     - **(B)** may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
@@ -65,8 +65,20 @@ generated_at: "2026-03-29T19:29:58.434Z"
       - **(ii)** may involve the combining of private and public sector funds, including investment of public funds in private sector facility improvements;
       - **(iii)** if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port; and
       - **(iv)** is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge;
-    - **(E)** a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(3)(G)(v) of title 49 , and related infrastructure; and
-    - **(F)** the capitalization of a rural projects fund.
+    - **(E)** a project to improve or construct public infrastructure—
+      - **(i)** that—
+        - **(I)** is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) 1 1 So in original. Probably should be “section 5302(4)(G)(vi)”. of title 49, and related infrastructure; or
+        - **(II)** is a project for economic development, including commercial and residential development, and related infrastructure and activities—
+      - **(ii)** for which, by not later than September 30, 2026 , the Secretary has—
+        - **(I)** received a letter of interest; and
+        - **(II)** determined that the project is eligible for assistance;
+    - **(F)** the capitalization of a rural projects fund;
+    - **(G)** an eligible airport-related project (as defined in section 40117(a) of title 49 ) for which, not later than September 30, 2025 , the Secretary has—
+      - **(i)** received a letter of interest; and
+      - **(ii)** determined that the project is eligible for assistance; and
+    - **(H)** a project for the acquisition of plant and wildlife habitat pursuant to a conservation plan that—
+      - **(i)** has been approved by the Secretary of the Interior pursuant to section 10 of the Endangered Species Act of 1973 ( 16 U.S.C. 1539 ); and
+      - **(ii)** in the judgment of the Secretary, would mitigate the environmental impacts of transportation infrastructure projects otherwise eligible for assistance under this title.
   - **(13)** The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
   - **(14)** The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as that term is defined in section 3(a) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a) )).
   - **(15)** The term “rural infrastructure project” means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.

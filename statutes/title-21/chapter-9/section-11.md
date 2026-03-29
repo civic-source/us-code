@@ -3,16 +3,20 @@ title: "Section 11 - Definitions"
 usc_title: 21
 usc_section: "11"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 11"
-generated_at: "2026-03-29T19:29:50.422Z"
+generated_at: "2026-03-29T19:41:41.641Z"
 ---
 
 # § 379j–11. Definitions
 
 For purposes of this subpart:
 
-  - **(1)** The term “animal drug application” means an application for approval of any new animal drug submitted under section 360b(b)(1) of this title . Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
+  - **(1)**
+    - **(A)** The term “animal drug application” means—
+      - **(i)** an application for approval of any new animal drug submitted under section 360b(b)(1) of this title ; or
+      - **(ii)** an application for conditional approval of a new animal drug submitted under section 360ccc of this title .
+    - **(B)** Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
   - **(2)** The term “supplemental animal drug application” means—
     - **(A)** a request to the Secretary to approve a change in an animal drug application which has been approved; or
     - **(B)** a request to the Secretary to approve a change to an application approved under section 360b(c)(2) of this title for which data with respect to safety or effectiveness are required.
@@ -32,6 +36,7 @@ For purposes of this subpart:
     - **(F)** Development of standards for products subject to review.
     - **(G)** Meetings between the agency and the animal drug sponsor.
     - **(H)** Review of advertising and labeling prior to approval of an animal drug application or supplemental animal drug application, but not after such application has been approved.
+    - **(I)** The activities necessary for implementation of the United States and European Union Good Manufacturing Practice Mutual Inspection Agreement with respect to animal drug products subject to review, including implementation activities prior to and following product approval.
   - **(9)** The term “costs of resources allocated for the process for the review of animal drug applications” means the expenses in connection with the process for the review of animal drug applications for—
     - **(A)** officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific animal drug applications, supplemental animal drug applications, or investigational animal drug submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
     - **(B)** management of information and the acquisition, maintenance, and repair of computer resources;

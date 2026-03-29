@@ -3,9 +3,9 @@ title: "Section 207 - Recovery of damages"
 usc_title: 47
 usc_section: "207"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "47 U.S.C. § 207"
-generated_at: "2026-03-29T19:32:13.748Z"
+generated_at: "2026-03-29T19:44:37.149Z"
 ---
 
 # § 207. Recovery of damages

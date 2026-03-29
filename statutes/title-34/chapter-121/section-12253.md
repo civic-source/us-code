@@ -5,7 +5,7 @@ usc_section: "12253"
 chapter: 121
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 12253"
-generated_at: "2026-03-29T18:45:50.347Z"
+generated_at: "2026-03-29T19:42:53.125Z"
 ---
 
 # § 12253. Report

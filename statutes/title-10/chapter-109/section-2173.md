@@ -3,9 +3,9 @@ title: "Section 2173 - Education loan repayment program: commissioned officers i
 usc_title: 10
 usc_section: "2173"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2173"
-generated_at: "2026-03-29T19:27:25.566Z"
+generated_at: "2026-03-29T19:43:37.962Z"
 ---
 
 # § 2173. Education loan repayment program: commissioned officers in specified health professions
@@ -33,5 +33,5 @@ generated_at: "2026-03-29T19:27:25.566Z"
   - **(2)** For persons on active duty before entering into the agreement, the active duty service obligation shall be served consecutively to any other obligation incurred under the agreement.
 - **(g)**
   - **(1)** A commissioned officer who is relieved of the officer’s active duty obligation under this section before the completion of that obligation may be given, with or without the consent of the officer, any alternative obligation comparable to any of the alternative obligations authorized by section 2123(e) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
-  - **(2)** An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of section 303a(e) of title 37 .
+  - **(2)** An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(h)** The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.

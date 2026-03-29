@@ -3,9 +3,9 @@ title: "Section 457 - Operational files previously maintained by or concerning a
 usc_title: 10
 usc_section: "457"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 457"
-generated_at: "2026-03-29T19:27:25.442Z"
+generated_at: "2026-03-29T19:43:37.812Z"
 ---
 
 # § 457. Operational files previously maintained by or concerning activities of National Photographic Interpretation Center: authority to withhold from public disclosure

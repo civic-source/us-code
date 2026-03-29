@@ -3,9 +3,9 @@ title: "Section 1654 - Short title"
 usc_title: 19
 usc_section: "1654"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1654"
-generated_at: "2026-03-29T19:28:30.683Z"
+generated_at: "2026-03-29T19:41:21.577Z"
 ---
 
 # § 1654. Short title

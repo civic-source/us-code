@@ -3,12 +3,13 @@ title: "Section 2104 - Benefits additional to benefits under other laws"
 usc_title: 38
 usc_section: "2104"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 2104"
-generated_at: "2026-03-29T19:30:40.500Z"
+generated_at: "2026-03-29T19:43:26.995Z"
 ---
 
 # § 2104. Benefits additional to benefits under other laws
 
-- **(a)** Any individual who accepts the benefits of this chapter shall not by reason thereof be denied the benefits of chapter 37 of this title; however, except as provided in subsection (b) of this section, the assistance authorized by section 2101 of this title shall not be available to any individual more than once.
-- **(b)** An individual eligible for assistance under section 2101(b) of this title shall not by reason of such eligibility be denied benefits for which such individual becomes eligible under section 2101(a) of this title or benefits relating to home health services under section 1717(a)(2) of this title . However, no particular type of adaptation, improvement, or structural alteration provided to an individual under section 1717(a)(2) of this title may be provided to such individual under section 2101(b) of this title .
+- **(a)** Any individual who accepts the benefits of this chapter shall not by reason thereof be denied the benefits of chapter 37 of this title.
+- **(b)** An individual eligible for assistance under section 2101(b) of this title shall not by reason of such eligibility be denied benefits for which such individual becomes eligible under section 2101(a) of this title or benefits relating to home health services under section 1717(a)(2) of this title .
+- **(c)** The Secretary may not provide assistance to a veteran under this chapter if the Secretary determines such assistance would result in a duplication of benefits under this title to the veteran.

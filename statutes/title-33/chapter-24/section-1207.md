@@ -3,9 +3,9 @@ title: "Section 1207 - Regulations"
 usc_title: 33
 usc_section: "1207"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1207"
-generated_at: "2026-03-29T19:30:28.763Z"
+generated_at: "2026-03-29T19:43:07.616Z"
 ---
 
 # § 1207. Regulations

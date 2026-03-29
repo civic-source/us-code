@@ -3,9 +3,9 @@ title: "Section 597 - Treatment of transactions in which Federal financial assis
 usc_title: 26
 usc_section: "597"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 597"
-generated_at: "2026-03-29T19:30:19.887Z"
+generated_at: "2026-03-29T19:42:47.711Z"
 ---
 
 # § 597. Treatment of transactions in which Federal financial assistance provided
@@ -18,6 +18,6 @@ generated_at: "2026-03-29T19:30:19.887Z"
   - **(2)** In the case of any transaction not described in paragraph (1), the regulations prescribed under subsection (a) shall provide for the proper treatment of Federal financial assistance and appropriate adjustments to basis or other tax attributes in connection with such assistance.
   - **(3)** No regulations prescribed under this section shall permit the utilization of any deduction (or other tax benefit) if such amount was in effect reimbursed by nontaxable Federal financial assistance.
 - **(c)** For purposes of this section, the term “Federal financial assistance” means—
-  - **(1)** any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A 1 1 See References in Text note below. of the Federal Home Loan Bank Act (or under any other similar provision of law), and
+  - **(1)** any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act (or under any other similar provision of law), and
   - **(2)** any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit Insurance Act (or under any other similar provision of law),
 - **(d)** For purposes of this section, the term “domestic building and loan association” has the meaning given such term by section 7701(a)(19) without regard to subparagraph (C) thereof.

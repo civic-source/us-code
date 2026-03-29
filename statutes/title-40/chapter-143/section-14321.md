@@ -3,9 +3,9 @@ title: "Section 14321 - Grants and other assistance"
 usc_title: 40
 usc_section: "14321"
 chapter: 143
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 14321"
-generated_at: "2026-03-29T19:30:36.707Z"
+generated_at: "2026-03-29T19:43:21.277Z"
 ---
 
 # § 14321. Grants and other assistance
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:30:36.707Z"
       - **(iii)** in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this subtitle.
     - **(B)**
       - **(i)** Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
-      - **(ii)** For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year.
+      - **(ii)** For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
   - **(3)** Grant amounts may be provided entirely from appropriations to carry out this section, in combination with amounts available under other federal or federal grant programs, or from any other source.
   - **(4)** Notwithstanding any law limiting the federal share in any other federal or federal grant program, amounts appropriated to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
 - **(b)**

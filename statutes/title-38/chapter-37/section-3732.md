@@ -3,9 +3,9 @@ title: "Section 3732 - Procedure on default"
 usc_title: 38
 usc_section: "3732"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3732"
-generated_at: "2026-03-29T19:30:40.537Z"
+generated_at: "2026-03-29T19:43:27.038Z"
 ---
 
 # § 3732. Procedure on default
@@ -60,4 +60,3 @@ generated_at: "2026-03-29T19:30:40.537Z"
       - **(i)** by the Department of Veterans Affairs (including any delay caused by its failure to provide bidding instructions in a timely fashion); or
       - **(ii)** by a voluntary case commenced under title 11, United States Code (relating to bankruptcy);
     - **(D)** For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
-  - **(11)** This subsection shall apply to loans closed before October 1, 2017 .

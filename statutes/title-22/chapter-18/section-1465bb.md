@@ -3,14 +3,14 @@ title: "Section 1465bb - Television broadcasting to Cuba"
 usc_title: 22
 usc_section: "1465bb"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1465bb"
-generated_at: "2026-03-29T19:29:46.704Z"
+generated_at: "2026-03-29T19:42:08.012Z"
 ---
 
 # § 1465bb. Television broadcasting to Cuba
 
-- **(a)** In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the “Agency” 1 1 So in original. Probably should be “ ‘Board’ ”. ) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
+- **(a)** In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the “Agency” shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
 - **(b)** Television broadcasting to Cuba under this subchapter shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
 - **(c)** Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated the “Television Marti Program”.
 - **(d)**

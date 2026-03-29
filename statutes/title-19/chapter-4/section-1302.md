@@ -3,9 +3,9 @@ title: "Section 1302 - Omitted"
 usc_title: 19
 usc_section: "1302"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1302"
-generated_at: "2026-03-29T19:28:30.643Z"
+generated_at: "2026-03-29T19:41:21.533Z"
 ---
 
 # § 1302. Omitted

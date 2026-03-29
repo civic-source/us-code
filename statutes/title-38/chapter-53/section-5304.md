@@ -3,9 +3,9 @@ title: "Section 5304 - Prohibition against duplication of benefits"
 usc_title: 38
 usc_section: "5304"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 5304"
-generated_at: "2026-03-29T19:30:40.552Z"
+generated_at: "2026-03-29T19:43:27.056Z"
 ---
 
 # § 5304. Prohibition against duplication of benefits
@@ -18,3 +18,6 @@ generated_at: "2026-03-29T19:30:40.552Z"
   - **(2)** Benefits other than insurance under laws administered by the Secretary may not be paid or furnished to or on account of any child by reason of the death of more than one parent in the same parental line; however, the child may elect one or more times to receive benefits by reason of the death of any one of such parents.
   - **(3)** Benefits other than insurance under laws administered by the Secretary may not be paid to any person by reason of the death of more than one person to whom such person was married; however, the person may elect one or more times to receive benefits by reason of the death of any one spouse.
 - **(c)** Pension, compensation, or retirement pay on account of any person’s own service shall not be paid to such person for any period for which such person receives active service pay.
+- **(d)**
+  - **(1)** Other than amounts payable under section 1413a or 1414 of title 10, the amount of pension and compensation benefits payable to a person under this title shall be reduced by the amount of any lump sum payment made to such person under section 1415 of title 10 .
+  - **(2)** The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.

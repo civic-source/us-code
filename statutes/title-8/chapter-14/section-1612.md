@@ -3,9 +3,9 @@ title: "Section 1612 - Limited eligibility of qualified aliens for certain Feder
 usc_title: 8
 usc_section: "1612"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 1612"
-generated_at: "2026-03-29T19:27:14.522Z"
+generated_at: "2026-03-29T19:43:45.729Z"
 ---
 
 # § 1612. Limited eligibility of qualified aliens for certain Federal programs
@@ -98,6 +98,7 @@ generated_at: "2026-03-29T19:27:14.522Z"
     - **(D)** An alien who on August 22, 1996 , is lawfully residing in any State and is receiving benefits under such program on August 22, 1996 , shall continue to be eligible to receive such benefits until January 1, 1997 .
     - **(E)** With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), section 1611(a) of this title and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G).
     - **(F)** An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
+    - **(G)** With respect to eligibility for benefits for the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program), paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.
   - **(3)** For purposes of this chapter, the term “designated Federal program” means any of the following:
     - **(A)** The program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
     - **(B)** The program of block grants to States for social services under title XX of the Social Security Act [ 42 U.S.C. 1397 et seq.].

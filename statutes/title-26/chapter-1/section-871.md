@@ -3,9 +3,9 @@ title: "Section 871 - Tax on nonresident alien individuals"
 usc_title: 26
 usc_section: "871"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 871"
-generated_at: "2026-03-29T19:30:19.925Z"
+generated_at: "2026-03-29T19:42:47.750Z"
 ---
 
 # § 871. Tax on nonresident alien individuals
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:19.925Z"
   - **(2)** In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
   - **(3)** For purposes of this section and section 1441—
     - **(A)** 85 percent of any social security benefit (as defined in section 86(d)) shall be included in gross income (notwithstanding section 207 of the Social Security Act), and
-    - **(B)** section 86 shall not apply. For treatment of certain citizens of possessions of the United States, see section 932(c). 1 1 See References in Text note below.
+    - **(B)** section 86 shall not apply.
 - **(b)**
   - **(1)** A nonresident alien individual engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 1 or 55 on his taxable income which is effectively connected with the conduct of a trade or business within the United States.
   - **(2)** In determining taxable income for purposes of paragraph (1), gross income includes only gross income which is effectively connected with the conduct of a trade or business within the United States.

@@ -3,9 +3,9 @@ title: "Section 10102 - Reservation of right to amend or repeal"
 usc_title: 36
 usc_section: "10102"
 chapter: 101
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 10102"
-generated_at: "2026-03-29T19:30:42.055Z"
+generated_at: "2026-03-29T19:43:23.278Z"
 ---
 
 # § 10102. Reservation of right to amend or repeal

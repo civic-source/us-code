@@ -3,9 +3,9 @@ title: "Section 360ff - Priority review to encourage treatments for rare pediatr
 usc_title: 21
 usc_section: "360ff"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 360ff"
-generated_at: "2026-03-29T19:29:50.394Z"
+generated_at: "2026-03-29T19:41:41.603Z"
 ---
 
 # § 360ff. Priority review to encourage treatments for rare pediatric diseases
@@ -17,10 +17,14 @@ generated_at: "2026-03-29T19:29:50.394Z"
     - **(A)** The disease is a serious or life-threatening disease in which the serious or life-threatening manifestations primarily affect individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.
     - **(B)** The disease is a rare disease or condition, within the meaning of section 360bb of this title .
   - **(4)** The term “rare pediatric disease product application” means a human drug application, as defined in section 379g(1) of this title , that—
-    - **(A)** is for a drug or biological product—
-      - **(i)** that is for the prevention or treatment of a rare pediatric disease; and
-      - **(ii)** that contains no active ingredient (including any ester or salt of the active ingredient) that has been previously approved in any other application under section 355(b)(1), 355(b)(2), or 355(j) of this title or section 351(a) or 351(k) of the Public Health Service Act [ 42 U.S.C. 262(a) , 262(k)];
-    - **(B)** is submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ];
+    - **(A)** is for a drug or biological product that is for the prevention or treatment of a rare pediatric disease;
+    - **(B)**
+      - **(i)** is for such a drug—
+        - **(I)** that contains no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) that has been previously approved in any other application under subsection (b)(1), (b)(2), or (j) of section 355 of this title ; and
+        - **(II)** that is the subject of an application submitted under section 355(b)(1) of this title ; or
+      - **(ii)** is for such a biological product—
+        - **(I)** that contains no active ingredient that has been previously approved in any other application under section 351(a) or 351(k) of the Public Health Service Act [ 42 U.S.C. 262(a) , 262(k)]; and
+        - **(II)** that is the subject of an application submitted under section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ];
     - **(C)** the Secretary deems eligible for priority review;
     - **(D)** that 1 1 So in original. The word “that” probably should not appear. relies on clinical data derived from studies examining a pediatric population and dosages of the drug intended for that population;
     - **(E)** that 1 does not seek approval for an adult indication in the original rare pediatric disease product application; and
@@ -40,7 +44,9 @@ generated_at: "2026-03-29T19:29:50.394Z"
     - **(B)**
       - **(i)** The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay the user fee to be assessed in accordance with this section.
       - **(ii)** The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under clause (i) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
-  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016 .
+  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2024 , unless the rare pediatric disease product application—
+    - **(A)** is for a drug that, not later than September 30, 2024 , is designated under subsection (d) as a drug for a rare pediatric disease; and
+    - **(B)** is, not later than September 30, 2026 , approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ].
 - **(c)**
   - **(1)** The Secretary shall establish a user fee program under which a sponsor of a human drug application that is the subject of a priority review voucher shall pay to the Secretary a fee determined under paragraph (2). Such fee shall be in addition to any fee required to be submitted by the sponsor under subchapter VII.
   - **(2)** The amount of the priority review user fee shall be determined each fiscal year by the Secretary, based on the difference between—

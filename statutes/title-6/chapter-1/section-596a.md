@@ -3,9 +3,9 @@ title: "Section 596a - Joint annual interagency review of global nuclear detecti
 usc_title: 6
 usc_section: "596a"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 596a"
-generated_at: "2026-03-29T19:27:39.865Z"
+generated_at: "2026-03-29T19:43:43.808Z"
 ---
 
 # § 596a. Joint annual interagency review of global nuclear detection architecture
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:27:39.865Z"
       - **(i)** evaluates the deployment and operation of nuclear or radiological detection technologies under the global nuclear detection architecture by that agency, office, or entity;
       - **(ii)** identifies performance deficiencies and operational or technical deficiencies in nuclear or radiological detection technologies deployed under the global nuclear detection architecture; and
       - **(iii)** assesses the capacity of that agency, office, or entity to implement the responsibilities of that agency, office, or entity under the global nuclear detection architecture; and
-    - **(C)** the Director of the Domestic Nuclear Detection Office and each of the relevant departments that are partners in the National Technical Forensics Center—
+    - **(C)** the Assistant Secretary and each of the relevant departments that are partners in the National Technical Forensics Center—
       - **(i)** include, as part of the assessments, evaluations, and reviews required under this paragraph, each office’s or department’s activities and investments in support of nuclear forensics and attribution activities and specific goals and objectives accomplished during the previous year pursuant to the national strategic five-year plan for improving the nuclear forensic and attribution capabilities of the United States required under section 1036 of the National Defense Authorization Act for Fiscal Year 2010;
       - **(ii)** attaches, as an appendix to the Joint Interagency Annual Review, the most current version of such strategy and plan; and
       - **(iii)** includes a description of new or amended bilateral and multilateral agreements and efforts in support of nuclear forensics and attribution activities accomplished during the previous year.

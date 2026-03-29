@@ -3,25 +3,23 @@ title: "Section 243 - Dividends received by corporations"
 usc_title: 26
 usc_section: "243"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 243"
-generated_at: "2026-03-29T19:30:19.759Z"
+generated_at: "2026-03-29T19:42:47.600Z"
 ---
 
 # § 243. Dividends received by corporations
 
 - **(a)** In the case of a corporation, there shall be allowed as a deduction an amount equal to the following percentages of the amount received as dividends from a domestic corporation which is subject to taxation under this chapter:
-  - **(1)** 70 percent, in the case of dividends other than dividends described in paragraph (2) or (3);
+  - **(1)** 50 percent, in the case of dividends other than dividends described in paragraph (2) or (3);
   - **(2)** 100 percent, in the case of dividends received by a small business investment company operating under the Small Business Investment Act of 1958 ( 15 U.S.C. 661 and following); and
   - **(3)** 100 percent, in the case of qualifying dividends (as defined in subsection (b)(1)).
 - **(b)**
   - **(1)** For purposes of this section, the term “qualifying dividend” means any dividend received by a corporation—
     - **(A)** if at the close of the day on which such dividend is received, such corporation is a member of the same affiliated group as the corporation distributing such dividend, and
-    - **(B)** if—
-      - **(i)** such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963 , for which an election under section 1562 was not in effect, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group, or
-      - **(ii)** such dividend is paid by a corporation with respect to which an election under section 936 is in effect for the taxable year in which such dividend is paid.
+    - **(B)** if such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963 , and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group.
   - **(2)** For purposes of this subsection:
-    - **(A)** The term “affiliated group” has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply.
+    - **(A)** The term “affiliated group” has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2) and 1504(c) shall not apply.
     - **(B)** The requirements of paragraph (1)(A) shall not be treated as being met with respect to any dividend received by a corporation if, for any taxable year which includes the day on which such dividend is received—
       - **(i)** 1 or more members of the affiliated group referred to in paragraph (1)(A) choose to any extent to take the benefits of section 901, and
       - **(ii)** 1 or more other members of such group claim to any extent a deduction for taxes otherwise creditable under section 901.
@@ -32,7 +30,7 @@ generated_at: "2026-03-29T19:30:19.759Z"
       - **(ii)** for purposes of this subsection, a distribution by any member of such group which is subject to tax under section 801 shall not be treated as a qualifying dividend if such distribution is out of earnings and profits for a taxable year for which an election under this paragraph is not effective and for which such distributing corporation was not a component member of a controlled group of corporations within the meaning of section 1563 solely by reason of section 1563(b)(2)(D).
     - **(C)** An election under this paragraph shall be made by the common parent of the affiliated group and at such time and in such manner as the Secretary shall by regulations prescribe. Any such election shall be binding on all members of such group and may be revoked only with the consent of the Secretary.
 - **(c)**
-  - **(1)** In the case of any dividend received from a 20-percent owned corporation, subsection (a)(1) shall be applied by substituting “80 percent” for “70 percent”.
+  - **(1)** In the case of any dividend received from a 20-percent owned corporation, subsection (a)(1) shall be applied by substituting “65 percent” for “50 percent”.
   - **(2)** For purposes of this section, the term “20-percent owned corporation” means any corporation if 20 percent or more of the stock of such corporation (by vote and value) is owned by the taxpayer. For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.
 - **(d)** For purposes of subsection (a)—
   - **(1)** Any amount allowed as a deduction under section 591 (relating to deduction for dividends paid by mutual savings banks, etc.) shall not be treated as a dividend.

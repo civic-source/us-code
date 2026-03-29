@@ -3,9 +3,9 @@ title: "Section 1903 - Speculation in stocks or commodities affecting crop insur
 usc_title: 18
 usc_section: "1903"
 chapter: 93
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1903"
-generated_at: "2026-03-29T19:28:33.846Z"
+generated_at: "2026-03-29T19:41:06.810Z"
 ---
 
 # § 1903. Speculation in stocks or commodities affecting crop insurance

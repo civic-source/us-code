@@ -1,14 +1,12 @@
 ---
-title: "Section 717 - Detail of Army engineers as construction aids"
+title: "Section 717 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(5), Jan. 1, 2021 , 134 Stat. 4759"
 usc_title: 33
 usc_section: "717"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 717"
-generated_at: "2026-03-29T19:30:28.743Z"
+generated_at: "2026-03-29T19:43:07.595Z"
 ---
 
-# § 717. Detail of Army engineers as construction aids
-
-The President may detail officers of the Engineer Corps of the United States Army for consultation or to superintend the construction or repair of any aid to navigation authorized by Congress.
+# § 717. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(5), Jan. 1, 2021 , 134 Stat. 4759
 

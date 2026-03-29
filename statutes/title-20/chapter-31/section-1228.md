@@ -1,14 +1,12 @@
 ---
-title: "Section 1228 - Prohibition against use of appropriated funds for busing"
+title: "Section 1228 - Repealed. Pub. L. 116–260, div. H, title III, § 314(a) , Dec. 27, 2020 , 134 Stat. 1610"
 usc_title: 20
 usc_section: "1228"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1228"
-generated_at: "2026-03-29T19:28:43.074Z"
+generated_at: "2026-03-29T19:41:03.297Z"
 ---
 
-# § 1228. Prohibition against use of appropriated funds for busing
-
-No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except for funds appropriated pursuant to title VII of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7701 et seq.], but not including any portion of such funds as are attributable to children counted under section 7003(d) of such Act [ 20 U.S.C. 7703(d) ] or residing on property described in section 7013(10) of such Act [ 20 U.S.C. 7713(10) ].
+# § 1228. Repealed. Pub. L. 116–260, div. H, title III, § 314(a) , Dec. 27, 2020 , 134 Stat. 1610
 

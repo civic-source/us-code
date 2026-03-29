@@ -3,23 +3,30 @@ title: "Section 9081 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "9081"
 chapter: 115
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 9081"
-generated_at: "2026-03-29T19:27:32.045Z"
+generated_at: "2026-03-29T19:43:58.483Z"
 ---
 
 # § 9081. Supplemental agricultural disaster assistance
 
 - **(a)** In this section:
-  - **(1)**
+  - **(1)** The term “covered producer” means an eligible producer on a farm that is—
+    - **(A)** as determined by the Secretary—
+      - **(i)** a beginning farmer or rancher;
+      - **(ii)** a socially disadvantaged farmer or rancher; or
+      - **(iii)** a limited resource farmer or rancher; or
+    - **(B)** a veteran farmer or rancher, as defined in section 2279(a) of this title .
+  - **(2)**
     - **(A)** The term “eligible producer on a farm” means an individual or entity described in subparagraph (B) that, as determined by the Secretary, assumes the production and market risks associated with the agricultural production of crops or livestock.
     - **(B)** An individual or entity referred to in subparagraph (A) is—
       - **(i)** a citizen of the United States;
       - **(ii)** a resident alien;
-      - **(iii)** a partnership of citizens of the United States; or
-      - **(iv)** a corporation, limited liability corporation, or other farm organizational structure organized under State law.
-  - **(2)** The term “farm-raised fish” means any aquatic species that is propagated and reared in a controlled environment.
-  - **(3)** The term “livestock” includes—
+      - **(iii)** an Indian tribe or tribal organization (as those terms are defined in section 5304 of title 25 );
+      - **(iv)** a partnership of citizens of the United States; or
+      - **(v)** a corporation, limited liability corporation, or other farm organizational structure organized under State law.
+  - **(3)** The term “farm-raised fish” means any aquatic species that is propagated and reared in a controlled environment.
+  - **(4)** The term “livestock” includes—
     - **(A)** cattle (including dairy cattle);
     - **(B)** bison;
     - **(C)** poultry;
@@ -27,13 +34,21 @@ generated_at: "2026-03-29T19:27:32.045Z"
     - **(E)** swine;
     - **(F)** horses; and
     - **(G)** other livestock, as determined by the Secretary.
-  - **(4)** The term “Secretary” means the Secretary of Agriculture.
+  - **(5)** The term “Secretary” means the Secretary of Agriculture.
 - **(b)**
-  - **(1)** For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality, as determined by the Secretary, due to—
-    - **(A)** attacks by animals reintroduced into the wild by the Federal Government or protected by Federal law, including wolves and avian predators; or
-    - **(B)** adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
-  - **(2)** Indemnity payments to an eligible producer on a farm under paragraph (1) shall be made at a rate of 75 percent of the market value of the applicable livestock on the day before the date of death of the livestock, as determined by the Secretary.
+  - **(1)** For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality, sold livestock for a reduced sale price, or both as determined by the Secretary, due to—
+    - **(A)** attacks by animals reintroduced into the wild by the Federal Government or protected by Federal law, including wolves and avian predators;
+    - **(B)** adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold, on the condition that in the case of the death loss of unweaned livestock due to that adverse weather, the Secretary may disregard any management practice, vaccination protocol, or lack of vaccination by the eligible producer on a farm; or
+    - **(C)** disease that, as determined by the Secretary—
+      - **(i)** is caused or transmitted by a vector; and
+      - **(ii)** is not susceptible to control by vaccination or acceptable management practices.
+  - **(2)** Indemnity payments to an eligible producer on a farm under paragraph (1) shall be made at a rate of 75 percent of the market value of the affected livestock, as determined by the Secretary, on, as applicable—
+    - **(A)** the day before the date of death of the livestock; or
+    - **(B)** the day before the date of the event that caused the harm to the livestock that resulted in a reduced sale price.
   - **(3)** The Secretary shall ensure that payments made to an eligible producer under paragraph (1) are not made for the same livestock losses for which compensation is provided pursuant to section 8306(d) of this title .
+  - **(4)** A payment made under paragraph (1) to an eligible producer on a farm that sold livestock for a reduced sale price shall—
+    - **(A)** be made if the sale occurs within a reasonable period following the event, as determined by the Secretary; and
+    - **(B)** be reduced by the amount that the producer received for the sale.
 - **(c)**
   - **(1)** In this subsection:
     - **(A)**
@@ -99,9 +114,10 @@ generated_at: "2026-03-29T19:27:32.045Z"
       - **(ii)** An eligible livestock producer may only receive assistance under this paragraph for losses that occur on not more than 180 days per year.
   - **(5)** An eligible livestock producer may elect to receive assistance for grazing or pasture feed losses due to drought conditions under paragraph (3) or fire under paragraph (4), but not both for the same loss, as determined by the Secretary.
 - **(d)**
-  - **(1)** For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use not more than $20,000,000 of the funds of the Commodity Credit Corporation to provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease (including cattle tick fever), adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b) or (c).
-  - **(2)** Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary.
+  - **(1)** For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use the funds of the Commodity Credit Corporation to provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease (including cattle tick fever), adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b) or (c).
+  - **(2)** Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary, including inspections of cattle tick fever.
   - **(3)** Any funds made available under this subsection shall remain available until expended.
+  - **(4)** In the case of a covered producer that is eligible to receive assistance under this subsection, the Secretary shall provide reimbursement of 90 percent of the cost of losses described in paragraph (1) or (2).
 - **(e)**
   - **(1)** In this subsection:
     - **(A)** The term “eligible orchardist” means a person that produces annual crops from trees for commercial purposes.
@@ -113,16 +129,16 @@ generated_at: "2026-03-29T19:27:32.045Z"
       - **(i)** under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
       - **(ii)** under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees but lost the trees as a result of a natural disaster, as determined by the Secretary.
     - **(B)** An eligible orchardist or nursery tree grower shall qualify for assistance under subparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
-  - **(3)** Subject to paragraph (4), the assistance provided by the Secretary to eligible orchardists and nursery tree growers for losses described in paragraph (2) shall consist of—
+  - **(3)** Subject to paragraphs (4) and (5), the assistance provided by the Secretary to eligible orchardists and nursery tree growers for losses described in paragraph (2) shall consist of—
     - **(A)**
       - **(i)** reimbursement of 65 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of 15 percent mortality (adjusted for normal mortality); or
       - **(ii)** at the option of the Secretary, sufficient seedlings to reestablish a stand; and
     - **(B)** reimbursement of 50 percent of the cost of pruning, removal, and other costs incurred by an eligible orchardist or nursery tree grower to salvage existing trees or, in the case of tree mortality, to prepare the land to replant trees as a result of damage or tree mortality due to a natural disaster, as determined by the Secretary, in excess of 15 percent damage or mortality (adjusted for normal tree damage and mortality).
   - **(4)**
     - **(A)** In this paragraph, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 ( 7 U.S.C. 1308(a) ).
-    - **(B)** The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under this subsection may not exceed $125,000 for any crop year, or an equivalent value in tree seedlings.
-    - **(C)** The total quantity of acres planted to trees or tree seedlings for which a person or legal entity shall be entitled to receive payments under this subsection may not exceed 500 acres.
+    - **(B)** The total quantity of acres planted to trees or tree seedlings for which a person or legal entity shall be entitled to receive payments under this subsection may not exceed 1,000 acres.
+  - **(5)** Subject to paragraph (4), in the case of a beginning farmer or rancher or a veteran farmer or rancher (as those terms are defined in subsection (a) of section 2279 of this title ) that is eligible to receive assistance under this subsection, the Secretary shall provide reimbursement of 75 percent of the costs under subparagraphs (A)(i) and (B) of paragraph (3).
 - **(f)**
   - **(1)** In this subsection, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 ( 7 U.S.C. 1308(a) ).
-  - **(2)** The total amount of disaster assistance payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under this section (excluding payments received under subsection (e)) may not exceed $125,000 for any crop year.
+  - **(2)** The total amount of disaster assistance payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under subsection (c) may not exceed $125,000 for any crop year.
   - **(3)** Subsections (e) and (f) of section 1001 of the Food Security Act of 1985 ( 7 U.S.C. 1308 ) or any successor provisions relating to direct attribution shall apply with respect to assistance provided under this section.

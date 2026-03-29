@@ -3,9 +3,9 @@ title: "Section 60114 - One-call notification systems"
 usc_title: 49
 usc_section: "60114"
 chapter: 601
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 60114"
-generated_at: "2026-03-29T19:32:28.917Z"
+generated_at: "2026-03-29T19:44:58.050Z"
 ---
 
 # § 60114. One-call notification systems

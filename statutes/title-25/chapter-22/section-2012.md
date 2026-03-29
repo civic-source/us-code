@@ -3,9 +3,9 @@ title: "Section 2012 - Indian education personnel"
 usc_title: 25
 usc_section: "2012"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 2012"
-generated_at: "2026-03-29T19:29:34.824Z"
+generated_at: "2026-03-29T19:41:28.416Z"
 ---
 
 # § 2012. Indian education personnel

@@ -1,12 +1,12 @@
 ---
-title: "Section 769 - Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561"
+title: "Section 769 - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "769"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 769"
-generated_at: "2026-03-29T19:30:28.744Z"
+generated_at: "2026-03-29T19:43:07.596Z"
 ---
 
-# §§ 767 to 769. Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561
+# §§ 767 to 769. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561
 

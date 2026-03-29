@@ -1,78 +1,34 @@
 ---
-title: "Section 5 - Regional innovation grants program"
+title: "Section 5 - Issuance and guarantee of trust certificates"
 usc_title: 7
 usc_section: "5"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T19:27:31.821Z"
+generated_at: "2026-03-29T19:43:58.218Z"
 ---
 
-# § 2009dd–5. Regional innovation grants program
+# § 2009cc–5. Issuance and guarantee of trust certificates
 
-- **(a)**
-  - **(1)** The Secretary shall provide, on a competitive basis, regional innovation grants to Regional Boards for use in implementing projects and initiatives that are identified in a regional rural investment strategy approved under section 2009dd–4 of this title .
-  - **(2)** After October 1, 2008 , the Secretary shall provide awards under this section on a quarterly funding cycle.
-- **(b)** To be eligible to receive a regional innovation grant, a Regional Board shall demonstrate to the Secretary that—
-  - **(1)** the regional rural investment strategy of a Regional Board has been reviewed by the National Board prior to approval by the Secretary;
-  - **(2)** the management and organizational structure of the Regional Board is sufficient to oversee grant projects, including management of Federal funds; and
-  - **(3)** the Regional Board has a plan to achieve, to the maximum extent practicable, the performance-based benchmarks of the project in the regional rural investment strategy.
-- **(c)**
-  - **(1)** A Regional Board may not receive more than $6,000,000 in regional innovation grants under this section during any 5-year period.
-  - **(2)** The Secretary shall determine the amount of a regional innovation grant based on—
-    - **(A)** the needs of the region being addressed by the applicable regional rural investment strategy consistent with the purposes described in subsection (f)(2); and
-    - **(B)** the size of the geographical area of the region.
-  - **(3)** The Secretary shall ensure that not more than 10 percent of funding made available under this section is provided to Regional Boards in any State.
+- **(a)** The Secretary may issue trust certificates representing ownership of all or a fractional part of debentures issued by a rural business investment company and guaranteed by the Secretary under this subchapter, if the certificates are based on and backed by a trust or pool approved by the Secretary and composed solely of guaranteed debentures.
+- **(b)**
+  - **(1)** The Secretary may, under such terms and conditions as the Secretary considers appropriate, guarantee the timely payment of the principal of and interest on trust certificates issued by the Secretary or agents of the Secretary for purposes of this section.
+  - **(2)** Each guarantee under this subsection shall be limited to the extent of principal and interest on the guaranteed debentures that compose the trust or pool.
+  - **(3)**
+    - **(A)**
+      - **(i)** A debenture may be prepaid at any time without penalty.
+      - **(ii)** Subject to clause (i), if a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest the prepaid debenture represents in the trust or pool.
+    - **(B)** Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Secretary only through the date of payment of the guarantee.
+    - **(C)** At any time during its term, a trust certificate may be called for redemption due to prepayment or default of all debentures.
+- **(c)** Section 2009g(i) of this title shall apply to any guarantee of a trust certificate issued by the Secretary under this section.
 - **(d)**
-  - **(1)** Subject to paragraph (2), the amount of a grant made under this section shall not exceed 50 percent of the cost of the project.
-  - **(2)** The Secretary may waive the limitation in paragraph (1) under special circumstances, as determined by the Secretary, including—
-    - **(A)** a sudden or severe economic dislocation;
-    - **(B)** significant chronic unemployment or poverty;
-    - **(C)** a natural disaster; or
-    - **(D)** other severe economic, social, or cultural duress.
-  - **(3)** For the purpose of determining cost-share limitations for any other Federal program, funds provided under this section shall be considered to be non-Federal funds.
-- **(e)** In providing regional innovation grants under this section, the Secretary shall give—
-  - **(1)** a high priority to strategies that demonstrate significant leverage of capital and quality job creation; and
-  - **(2)** a preference to an application proposing projects and initiatives that would—
-    - **(A)** advance the overall regional competitiveness of a region;
-    - **(B)** address the priorities of a regional rural investment strategy, including priorities that—
-      - **(i)** promote cross-sector collaboration, public-private partnerships, or the provision of interim financing or seed capital for program implementation;
-      - **(ii)** exhibit collaborative innovation and entrepreneurship, particularly within a public-private partnership; and
-      - **(iii)** represent a broad coalition of interests described in section 2009dd–3(a) of this title ;
-    - **(C)** include a strategy to leverage public non-Federal and private funds and existing assets, including agricultural, natural resource, and public infrastructure assets, with substantial emphasis placed on the existence of real financial commitments to leverage available funds;
-    - **(D)** create quality jobs;
-    - **(E)** enhance the role, relevance, and leveraging potential of community and regional foundations in support of regional investment strategies;
-    - **(F)** demonstrate a history, or involve organizations with a history, of successful leveraging of capital for economic development and public purposes;
-    - **(G)** address gaps in existing basic services, including technology, within a region;
-    - **(H)** address economic diversification, including agricultural and non-agriculturally based economies, within a regional framework;
-    - **(I)** improve the overall quality of life in the region;
-    - **(J)** enhance the potential to expand economic development successes across diverse stakeholder groups within the region;
-    - **(K)** include an effective working relationship with 1 or more institutions of higher education, tribally controlled colleges or universities, or tribal technical institutions;
-    - **(L)** help to meet the other regional competitiveness needs identified by a Regional Board; or
-    - **(M)** protect and promote rural heritage.
-- **(f)**
-  - **(1)** A Regional Board shall prioritize projects and initiatives carried out using funds from a regional innovation grant provided under this section, based in part on the degree to which members of the Regional Board are able to leverage additional funds for the implementation of the projects.
-  - **(2)** A Regional Board may use a regional innovation grant—
-    - **(A)** to support the development of critical infrastructure (including technology deployment and services) necessary to facilitate the competitiveness of a region;
-    - **(B)** to provide assistance to entities within the region that provide essential public and community services;
-    - **(C)** to enhance the value-added production, marketing, and use of agricultural and natural resources within the region, including activities relating to renewable and alternative energy production and usage;
-    - **(D)** to assist with entrepreneurship, job training, workforce development, housing, educational, or other quality of life services or needs, relating to the development and maintenance of strong local and regional economies;
-    - **(E)** to assist in the development of unique new collaborations that link public, private, and philanthropic resources, including community foundations;
-    - **(F)** to provide support for business and entrepreneurial investment, strategy, expansion, and development, including feasibility strategies, technical assistance, peer networks, business development funds, and other activities to strengthen the economic competitiveness of the region;
-    - **(G)** to provide matching funds to enable community foundations located within the region to build endowments which provide permanent philanthropic resources to implement a regional investment strategy; and
-    - **(H)** to preserve and promote rural heritage.
-  - **(3)** The funds made available to a Regional Board or any other eligible grantee through a regional innovation grant shall remain available for the 7-year period beginning on the date on which the award is provided, on the condition that the Regional Board or other grantee continues to be certified by the Secretary as making adequate progress toward achieving established benchmarks.
-- **(g)**
-  - **(1)** The Secretary may waive the share of a grantee of the costs of a project funded by a regional innovation grant under this section if the Secretary determines that such a waiver is appropriate, including with respect to special circumstances within tribal regions, in the event an area experiences—
-    - **(A)** a sudden or severe economic dislocation;
-    - **(B)** significant chronic unemployment or poverty;
-    - **(C)** a natural disaster; or
-    - **(D)** other severe economic, social, or cultural duress.
-  - **(2)** For the purpose of determining cost-sharing requirements for any other Federal program, funds provided as a regional innovation grant under this section shall be considered to be non-Federal funds.
-- **(h)** If a Regional Board or other eligible grantee fails to comply with any requirement relating to the use of funds provided under this section, the Secretary may—
-  - **(1)** take such actions as are necessary to obtain reimbursement of unused grant funds; and
-  - **(2)** reprogram the recaptured funds for purposes relating to implementation of this subchapter.
-- **(i)**
-  - **(1)** Subject to paragraph (3), in providing rural development assistance under other programs, the Secretary shall give a high priority to areas that receive innovation grants under this section.
-  - **(2)** The Secretary shall consult with the heads of other Federal agencies to promote the development of priorities similar to those described in paragraph (1).
-  - **(3)** Paragraph (1) shall not apply to the provision of rural development assistance under any program relating to basic health, safety, or infrastructure, including broadband deployment or minimum environmental needs.
+  - **(1)** If the Secretary pays a claim under a guarantee issued under this section, the claim shall be subrogated fully to the rights satisfied by the payment.
+  - **(2)** No Federal, State, or local law shall preclude or limit the exercise by the Secretary of the ownership rights of the Secretary in a debenture residing in a trust or pool against which 1 or more trust certificates are issued under this section.
+- **(e)**
+  - **(1)** The Secretary shall provide for a central registration of all trust certificates issued under this section.
+  - **(2)** The Secretary may—
+    - **(A)** maintain such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate the creation of trusts or pools backed by debentures guaranteed under this subchapter; and
+    - **(B)** issue trust certificates to facilitate the creation of those trusts or pools.
+  - **(3)** Any agent performing functions on behalf of the Secretary under this paragraph shall provide a fidelity bond or insurance in such amount as the Secretary considers to be necessary to fully protect the interests of the United States.
+  - **(4)** The Secretary may regulate brokers and dealers in trust certificates issued under this section.
+  - **(5)** Nothing in this subsection prohibits the use of a book-entry or other electronic form of registration for trust certificates issued under this section.

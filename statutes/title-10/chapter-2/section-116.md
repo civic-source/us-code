@@ -3,15 +3,15 @@ title: "Section 116 - Annual operations and maintenance report"
 usc_title: 10
 usc_section: "116"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 116"
-generated_at: "2026-03-29T19:27:25.418Z"
+generated_at: "2026-03-29T19:43:37.767Z"
 ---
 
 # § 116. Annual operations and maintenance report
 
 - **(a)**
-  - **(1)** The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, and Marine Corps for the next fiscal year. The Secretary shall include in each such report recommendations for—
+  - **(1)** The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, Marine Corps, and Space Force for the next fiscal year. The Secretary shall include in each such report recommendations for—
     - **(A)** the number of aircraft flying hours for the Army, Navy, Air Force, and Marine Corps for the next fiscal year, the number of ship steaming hours for the Navy for the next fiscal year, and the number of field training days for the combat arms battalions of the Army and Marine Corps for the next fiscal year;
     - **(B)** the number of ships over 3,000 tons (full load displacement) in each Navy ship classification on which major repair work should be performed during the next fiscal year; and
     - **(C)** the number of airframe reworks, aircraft engine reworks, and vehicle overhauls which should be performed by the Army, Navy, Air Force, and Marine Corps during the next fiscal year.

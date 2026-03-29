@@ -3,9 +3,9 @@ title: "Section 522 - Monopolies or restraints of trade; service of complaint by
 usc_title: 15
 usc_section: "522"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 522"
-generated_at: "2026-03-29T19:27:55.315Z"
+generated_at: "2026-03-29T19:44:42.606Z"
 ---
 
 # § 522. Monopolies or restraints of trade; service of complaint by Secretary of Commerce; hearing; order to cease and desist; jurisdiction of district court

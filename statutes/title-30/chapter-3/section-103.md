@@ -3,9 +3,9 @@ title: "Section 103 - Patents for oil or gas lands not denied because of transfe
 usc_title: 30
 usc_section: "103"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 103"
-generated_at: "2026-03-29T19:30:05.218Z"
+generated_at: "2026-03-29T19:42:23.399Z"
 ---
 
 # § 103. Patents for oil or gas lands not denied because of transfer before discovery of oil or gas; acreage limitation; nonapplication to withdraw lands

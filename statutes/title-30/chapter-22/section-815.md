@@ -3,9 +3,9 @@ title: "Section 815 - Procedure for enforcement"
 usc_title: 30
 usc_section: "815"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 815"
-generated_at: "2026-03-29T19:30:05.247Z"
+generated_at: "2026-03-29T19:42:23.425Z"
 ---
 
 # § 815. Procedure for enforcement

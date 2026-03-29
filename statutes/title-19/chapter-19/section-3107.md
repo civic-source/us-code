@@ -3,9 +3,9 @@ title: "Section 3107 - Compensation authority"
 usc_title: 19
 usc_section: "3107"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 3107"
-generated_at: "2026-03-29T19:28:30.761Z"
+generated_at: "2026-03-29T19:41:21.661Z"
 ---
 
 # § 3107. Compensation authority

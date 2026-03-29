@@ -3,9 +3,9 @@ title: "Section 7544 - Program authorized"
 usc_title: 20
 usc_section: "7544"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 7544"
-generated_at: "2026-03-29T19:28:43.215Z"
+generated_at: "2026-03-29T19:41:03.430Z"
 ---
 
 # § 7544. Program authorized
@@ -63,7 +63,7 @@ generated_at: "2026-03-29T19:28:43.215Z"
     - **(J)** Programs and strategies that increase connections between and among schools, families, and communities, including positive youth-adult relationships, to—
       - **(i)** promote the academic progress and positive development of Alaska Native children and youth; and
       - **(ii)** improve conditions for learning at home, in the community, and at school.
-    - **(K)** Career preparation activities to enable Alaska Native children and adults to prepare for meaningful employment, including programs providing tech-prep, mentoring, training, and apprenticeship activities.
+    - **(K)** Career preparation activities to enable Alaska Native children and adults to prepare for meaningful employment, including programs providing mentoring, training, and apprenticeship activities.
     - **(L)** Support for the development and operational activities of regional vocational schools in rural areas of Alaska to provide students with necessary resources to prepare for skilled employment opportunities.
     - **(M)** Regional leadership academies that demonstrate effectiveness in building respect and understanding, and fostering a sense of Alaska Native identity in Alaska Native students to promote their pursuit of and success in completing higher education or career training.
     - **(N)** Other activities, consistent with the purposes of this part, to meet the educational needs of Alaska Native children and adults.

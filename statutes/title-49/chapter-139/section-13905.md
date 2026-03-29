@@ -3,9 +3,9 @@ title: "Section 13905 - Effective periods of registration"
 usc_title: 49
 usc_section: "13905"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 13905"
-generated_at: "2026-03-29T19:32:28.776Z"
+generated_at: "2026-03-29T19:44:57.886Z"
 ---
 
 # § 13905. Effective periods of registration
@@ -50,3 +50,4 @@ generated_at: "2026-03-29T19:32:28.776Z"
     - **(B)** shall revoke the registration of a motor carrier that has been prohibited from operating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
   - **(2)** Notwithstanding subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier if the Secretary finds that the carrier is or was conducting unsafe operations that are or were an imminent hazard to public health or property.
   - **(3)** The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
+- **(g)** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposing limitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.

@@ -3,9 +3,9 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-29T19:27:25.516Z"
+generated_at: "2026-03-29T19:43:37.906Z"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:27:25.516Z"
   - **(6)** The term “Program” means the Troops-to-Teachers Program authorized by this section.
   - **(7)** The term “Secretary” means the Secretary of Defense.
   - **(8)** The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
-- **(b)** The Secretary of Defense may carry out a Troops-to-Teachers Program—
+- **(b)** The Secretary of Defense shall carry out a Troops-to-Teachers Program—
   - **(1)** to assist eligible members of the armed forces described in subsection (d) to meet the requirements necessary to become a teacher in a school described in paragraph (2); and
   - **(2)** to facilitate the employment of such members—
     - **(A)** by local educational agencies or charter schools that the Secretary of Education identifies as—
@@ -48,14 +48,14 @@ generated_at: "2026-03-29T19:27:25.516Z"
     - **(C)** Any member who, on or after January 8, 2002 , is retired or separated for physical disability under chapter 61 of this title.
   - **(2)**
     - **(A)** Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
-    - **(B)** In the case of an eligible member of the armed forces described in subparagraph (A)(i), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
+    - **(B)** In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
   - **(3)**
     - **(A)** The Secretary shall prescribe the criteria to be used to select eligible members of the armed forces to participate in the Program.
     - **(B)** If a member of the armed forces is applying for the Program to receive assistance for placement as an elementary school or secondary school teacher, the Secretary shall require the member to have received a baccalaureate or advanced degree from an accredited institution of higher education.
     - **(C)** If a member of the armed forces is applying for the Program to receive assistance for placement as a career or technical teacher, the Secretary shall require the member—
       - **(i)** to have received the equivalent of one year of college from an accredited institution of higher education or the equivalent in military education and training as certified by the Department of Defense; or
       - **(ii)** to otherwise meet the certification or licensing requirements for a career or technical teacher in the State in which the member seeks assistance for placement under the Program.
-    - **(D)** A member of the armed forces is eligible to participate in the Program only if the member’s last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member or the separation or release of the member from active duty may continue to participate in the Program after the retirement, separation, or release only if the member’s last period of service is characterized as honorable by the Secretary concerned.
+    - **(D)** A member of the armed forces is eligible to participate in the Program only if the member’s last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member, the transfer of the member to the Retired Reserve, or the separation or release of the member from active duty may continue to participate in the Program after the retirement, transfer, separation, or release only if the member’s last period of service is characterized as honorable by the Secretary concerned.
   - **(4)** In selecting eligible members of the armed forces to receive assistance under the Program, the Secretary—
     - **(A)** shall give priority to members who—
       - **(i)** have educational or military experience in science, mathematics, special education, foreign language, or career or technical subjects; and
@@ -102,4 +102,14 @@ generated_at: "2026-03-29T19:27:25.516Z"
   - **(2)**
     - **(A)** Subject to subparagraph (B), the Secretary may make grants to States participating in the Program, or to consortia of such States, in order to permit such States or consortia of States to operate offices for purposes of recruiting eligible members of the armed forces for participation in the Program and facilitating the employment of participants as elementary school teachers, secondary school teachers, and career or technical teachers.
     - **(B)** The total amount of grants made under subparagraph (A) in any fiscal year may not exceed $5,000,000.
-- **(i)** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
+- **(i)**
+  - **(1)** Not later than December 1, 2022 , and annually thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report on the Program.
+  - **(2)** The report required under paragraph (1) shall include the following elements:
+    - **(A)** The total cost of the Program for the most recent fiscal year.
+    - **(B)** The total number of teachers placed during such fiscal year and the locations of such placements.
+    - **(C)** An assessment of the STEM backgrounds of the teachers placed, the number of placements in high-need schools, and any other metric or information the Secretary considers appropriate to illustrate the cost and benefits of the program to members of the armed forces, veterans, and local educational agencies.
+  - **(3)** In this subsection, the term “appropriate congressional committees” means—
+    - **(A)** the Committee on Armed Services and the Committee on Help, Education, Labor, and Pensions of the Senate; and
+    - **(B)** the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives.
+- **(j)** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
+- **(k)** The Program shall terminate on July 1, 2025 , with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.

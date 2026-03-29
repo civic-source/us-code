@@ -3,19 +3,42 @@ title: "Section 2231 - Study of water resources development projects by non-Fede
 usc_title: 33
 usc_section: "2231"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2231"
-generated_at: "2026-03-29T19:30:28.829Z"
+generated_at: "2026-03-29T19:43:07.687Z"
 ---
 
 # § 2231. Study of water resources development projects by non-Federal interests
 
 - **(a)**
-  - **(1)** A non-Federal interest may undertake a feasibility study of a proposed water resources development project and submit the study to the Secretary.
-  - **(2)** To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies.
-- **(b)** The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
-- **(c)** Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
-  - **(1)** the results of the Secretary’s review of the study under subsection (b), including a determination of whether the project is feasible;
-  - **(2)** any recommendations the Secretary may have concerning the plan or design of the project; and
-  - **(3)** any conditions the Secretary may require for construction of the project.
+  - **(1)** A non-Federal interest may undertake a federally authorized feasibility study of a proposed water resources development project, or, upon the written approval of the Secretary that the modifications are consistent with the authorized purposes of the project, undertake a feasibility study on modifications to a water resources development project constructed by the Corps of Engineers, and submit the study to the Secretary.
+  - **(2)** To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for the formulation of feasibility studies of water resources development projects undertaken by non-Federal interests to—
+    - **(A)** ensure that any feasibility study with respect to which the Secretary submits an assessment to Congress under subsection (c) complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and
+    - **(B)** provide sufficient information for the formulation of the studies, including processes and procedures related to reviews and assistance under subsection (e).
+- **(b)**
+  - **(1)** The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
+  - **(2)** The Secretary may not submit to Congress an assessment of a feasibility study under this section until such time as the Secretary—
+    - **(A)** determines that the feasibility study complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and
+    - **(B)** completes all of the Federal analyses, reviews, and compliance processes under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), that would be required with respect to the proposed project if the Secretary had undertaken the feasibility study.
+  - **(3)**
+    - **(A)**
+      - **(i)** The non-Federal interest may submit to the Secretary a request that the Secretary initiate the analyses, reviews, and compliance processes described in paragraph (2)(B) with respect to the proposed project prior to the non-Federal interest’s submission of a feasibility study under subsection (a)(1).
+      - **(ii)** Receipt by the Secretary of a request submitted under clause (i) shall be considered the receipt of a proposal or application that will lead to a major Federal action that is subject to the requirements of section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ) that would be required if the Secretary were to undertake the feasibility study.
+    - **(B)** Not later than 10 days after the Secretary receives a request under this paragraph, the Secretary shall begin the required analyses, reviews, and compliance processes.
+  - **(4)** Upon receipt of a request under paragraph (3), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the request and a timeline for completion of the required analyses, reviews, and compliance processes.
+  - **(5)** Not later than 30 days after receiving a request under paragraph (3), and every 30 days thereafter until the Secretary submits an assessment under subsection (c) for the applicable feasibility study, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the non-Federal interest of the status of the Secretary’s required analyses, reviews, and compliance processes.
+- **(c)**
+  - **(1)** Not later than 180 days after the completion of review of a feasibility study under subsection (b), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an assessment that describes—
+    - **(A)** the results of the Secretary’s review of the study under subsection (b), including a determination of whether the project is feasible;
+    - **(B)** any recommendations the Secretary may have concerning the plan or design of the project; and
+    - **(C)** any conditions the Secretary may require for construction of the project.
+  - **(2)** The completion of the review by the Secretary of a feasibility study that has been submitted under subsection (a)(1) may not be delayed as a result of consideration being given to changes in policy or priority with respect to project consideration.
 - **(d)** If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the date of the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
+- **(e)**
+  - **(1)** The Secretary may accept and expend funds provided by non-Federal interests to undertake reviews, inspections, certifications, and other activities that are the responsibility of the Secretary in carrying out this section.
+  - **(2)** At the request of a non-Federal interest, the Secretary shall provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.
+  - **(3)** Funds provided by non-Federal interests under this subsection shall not be eligible for credit under subsection (d) or reimbursement.
+  - **(4)** In carrying out this section, the Secretary shall ensure that the use of funds accepted from a non-Federal interest will not affect the impartial decisionmaking of the Secretary, either substantively or procedurally.
+  - **(5)** The provision of technical assistance by the Secretary under paragraph (2)—
+    - **(A)** shall not be considered to be an approval or endorsement of the feasibility study; and
+    - **(B)** shall not affect the responsibilities of the Secretary under subsections (b) and (c).

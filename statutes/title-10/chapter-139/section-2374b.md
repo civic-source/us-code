@@ -1,12 +1,12 @@
 ---
-title: "Section 2374b - Repealed. Pub. L. 112–239, div. A, title X , § 1076(g)(4), Jan. 2, 2013 , 126 Stat. 1955 ]"
+title: "Section 2374b - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]"
 usc_title: 10
 usc_section: "2374b"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2374b"
-generated_at: "2026-03-29T19:27:25.599Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# [§ 2374b. Repealed. Pub. L. 112–239, div. A, title X , § 1076(g)(4), Jan. 2, 2013 , 126 Stat. 1955 ]
+# [§ 2374b. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]
 

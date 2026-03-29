@@ -3,9 +3,9 @@ title: "Section 3303a - Levee safety initiative"
 usc_title: 33
 usc_section: "3303a"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3303a"
-generated_at: "2026-03-29T19:30:28.883Z"
+generated_at: "2026-03-29T19:43:07.742Z"
 ---
 
 # § 3303a. Levee safety initiative
@@ -15,24 +15,24 @@ generated_at: "2026-03-29T19:30:28.883Z"
   - **(1)** an administrator of the levee safety initiative; and
   - **(2)** such staff as are necessary to implement the initiative.
 - **(c)**
-  - **(1)** Not later than 1 year after June 10, 2014 , the Secretary, in consultation with the Administrator and in coordination with State, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—
-    - **(A)** are available for common, uniform use by all Federal, State, tribal, and local agencies;
+  - **(1)** Not later than 1 year after December 16, 2016 , the Secretary, in consultation with the Administrator and in coordination with State, regional, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—
+    - **(A)** are available for common, uniform use by all Federal, State, regional, local, and tribal agencies;
     - **(B)** incorporate policies, procedures, standards, and criteria for a range of levee types, canal structures, and related facilities and features; and
     - **(C)** provide for adaptation to local, regional, or watershed conditions.
   - **(2)** The policies, procedures, standards, and criteria under paragraph (1)(B) shall be developed taking into consideration the levee hazard potential classification system established under subsection (d).
   - **(3)** The guidelines shall address, to the maximum extent practicable—
-    - **(A)** the activities and practices carried out by State, local, and tribal governments, and the private sector to safely build, regulate, operate, and maintain levees; and
-    - **(B)** Federal activities that facilitate State efforts to develop and implement effective State programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.
+    - **(A)** the activities and practices carried out by State, regional, local, and tribal governments and the private sector to safely build, regulate, operate, and maintain levees; and
+    - **(B)** Federal activities that facilitate State, regional, or tribal efforts to develop and implement effective State, regional, or tribal programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.
   - **(4)** To the maximum extent practicable, all Federal agencies shall consider the levee safety guidelines in carrying out activities relating to the management of levees.
   - **(5)** Prior to finalizing the guidelines under this subsection, the Secretary shall—
-    - **(A)** issue draft guidelines for public comment, including comment by States, non-Federal interests, and other appropriate stakeholders; and
+    - **(A)** issue draft guidelines for public comment, including comment by States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders; and
     - **(B)** consider any comments received in the development of final guidelines.
 - **(d)**
   - **(1)** The Secretary shall establish a hazard potential classification system for use under the levee safety initiative and participating programs.
   - **(2)** The Secretary shall review and, as necessary, revise the hazard potential classification system not less frequently than once every 5 years.
   - **(3)** The hazard potential classification system established pursuant to this subsection shall be consistent with and incorporated into the levee safety action classification tool developed by the Corps of Engineers.
 - **(e)**
-  - **(1)** The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, communities, and levee owners in—
+  - **(1)** The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, regional districts, Indian tribes, communities, and levee owners in—
     - **(A)** developing levee safety programs;
     - **(B)** identifying and reducing flood risks associated with levees;
     - **(C)** identifying local actions that may be carried out to reduce flood risks in leveed areas; and
@@ -48,8 +48,8 @@ generated_at: "2026-03-29T19:30:28.883Z"
     - **(B)** promote consistency in the transmission of information regarding levees among Federal agencies and regarding risk communication at the State and local levels.
 - **(g)**
   - **(1)**
-    - **(A)** Not later than 1 year after June 10, 2014 , in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State or tribal levee safety program as a participating program.
-    - **(B)** The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State and Indian tribe to certify to the Secretary that the State or Indian tribe, as applicable—
+    - **(A)** Not later than 1 year after December 16, 2016 , in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State, regional, or tribal levee safety program as a participating program.
+    - **(B)** The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State, regional district, and Indian tribe to certify to the Secretary that the State, regional district, or Indian tribe, as applicable—
       - **(i)** has the authority to participate in the levee safety initiative;
       - **(ii)** can receive funds under this chapter;
       - **(iii)** has adopted any levee safety guidelines developed under this chapter;
@@ -61,15 +61,15 @@ generated_at: "2026-03-29T19:30:28.883Z"
       - **(i)** issue draft guidelines for public comment; and
       - **(ii)** consider any comments received in the development of final guidelines.
   - **(2)**
-    - **(A)** The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).
-    - **(B)** To be eligible to receive assistance under this section, a State or Indian tribe shall—
+    - **(A)** The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States, regional districts, and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).
+    - **(B)** To be eligible to receive assistance under this section, a State, regional district, or Indian tribe shall—
       - **(i)** meet the requirements of a participating program established by the guidelines issued under paragraph (1);
-      - **(ii)** use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or on land of the Indian tribe;
-      - **(iii)** submit to the Secretary and Administrator any information collected by the State or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
+      - **(ii)** use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or regional district or on land of the Indian tribe;
+      - **(iii)** submit to the Secretary and Administrator any information collected by the State, regional district, or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
       - **(iv)** identify actions to address hazard mitigation activities associated with levees and leveed areas identified in the hazard mitigation plan of the State approved by the Administrator of the Federal Emergency Management Agency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
     - **(C)**
       - **(i)** Not later than 1 year after June 10, 2014 , the Administrator shall implement quantifiable performance measures and metrics to assess the effectiveness of the assistance provided in accordance with subparagraph (A).
-      - **(ii)** In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State or tribal program—
+      - **(ii)** In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State, regional, or tribal program—
         - **(I)** ensures that human lives and property that are protected by new and existing levees are safe;
         - **(II)** encourages the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operation and maintenance, inspection, assessment, and emergency preparedness;
         - **(III)** develops and supports public education and awareness projects to increase public acceptance and support of levee safety programs and provide information;
@@ -77,36 +77,36 @@ generated_at: "2026-03-29T19:30:28.883Z"
         - **(V)** develops technical assistance materials, seminars, and guidelines to improve the security of levees of the United States.
     - **(D)** Technical assistance or grants may not be provided to a State under this subsection during a fiscal year unless the State enters into an agreement with the Administrator to ensure that the State will maintain during that fiscal year aggregate expenditures for programs to ensure levee safety that equal or exceed the average annual level of such expenditures for the State for the 2 fiscal years preceding that fiscal year.
     - **(E)**
-      - **(i)** There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2015 through 2019.
-      - **(ii)** For each fiscal year, amounts made available under this subparagraph shall be allocated among the States and Indian tribes as follows:
-        - **(I)** ⅓ among States and Indian tribes that qualify for assistance under this subsection.
-        - **(II)** ⅔ among States and Indian tribes that qualify for assistance under this subsection, to each such State or Indian tribe in the proportion that—
-      - **(iii)** The amounts allocated to a State or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State or tribal levee safety program.
+      - **(i)** There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
+      - **(ii)** For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
+        - **(I)** ⅓ among States, regional districts, and Indian tribes that qualify for assistance under this subsection.
+        - **(II)** ⅔ among States, regional districts, and Indian tribes that qualify for assistance under this subsection, to each such State, regional district, or Indian tribe in the proportion that—
+      - **(iii)** The amounts allocated to a State, regional district, or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State, regional, or tribal levee safety program.
     - **(F)** No amounts made available to the Administrator under this chapter shall be used for levee construction, rehabilitation, repair, operations, or maintenance.
 - **(h)**
-  - **(1)** The Secretary shall provide assistance to States, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
-  - **(2)** To be eligible to receive assistance under this subsection, a State, Indian tribe, or local government shall—
+  - **(1)** The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
+  - **(2)** To be eligible to receive assistance under this subsection, a State, regional district, Indian tribe, or local government shall—
     - **(A)** participate in, and comply with, all applicable Federal floodplain management and flood insurance programs;
     - **(B)** have in place a hazard mitigation plan that—
       - **(i)** includes all levee risks; and
       - **(ii)** complies with the Disaster Mitigation Act of 2000 ( Public Law 106–390 ; 114 Stat. 1552 );
     - **(C)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;
     - **(D)** commit to provide normal operation and maintenance of the project for the 50 year-period following completion of rehabilitation; and
-    - **(E)** comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State or tribal levee safety program—
+    - **(E)** comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State, regional, or tribal levee safety program—
       - **(i)** acts in accordance with the guidelines developed under subsection (c); and
       - **(ii)** carries out activities relating to the public in the leveed area in accordance with the hazard mitigation plan described in subparagraph (B).
   - **(3)**
-    - **(A)** Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.
+    - **(A)** Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, regional district, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.
     - **(B)** A plan under subparagraph (A) shall address—
       - **(i)** potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in each applicable leveed area;
       - **(ii)** plans for flood fighting and evacuation; and
       - **(iii)** public education and awareness of flood risks.
     - **(C)** Not later than 1 year after the date of completion of construction of the applicable project, a floodplain management plan prepared under subparagraph (A) shall be implemented.
-    - **(D)** Not later than 180 days after June 10, 2014 , the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
+    - **(D)** Not later than 180 days after December 16, 2016 , the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
     - **(E)** The Secretary may provide technical support for the development and implementation of floodplain management plans prepared under this paragraph.
   - **(4)**
     - **(A)** Assistance provided under this subsection may be used—
-      - **(i)** for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State or tribal levee safety program; and
+      - **(i)** for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State, regional, or tribal levee safety program; and
       - **(ii)** only for a levee that is not federally operated and maintained.
     - **(B)** Assistance provided under this subsection shall not be used—
       - **(i)** to perform routine operation or maintenance for a levee; or

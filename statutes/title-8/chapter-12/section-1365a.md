@@ -3,9 +3,9 @@ title: "Section 1365a - Integrated entry and exit data system"
 usc_title: 8
 usc_section: "1365a"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "8 U.S.C. § 1365a"
-generated_at: "2026-03-29T19:27:14.497Z"
+generated_at: "2026-03-29T19:43:45.707Z"
 ---
 
 # § 1365a. Integrated entry and exit data system
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:27:14.497Z"
 - **(c)**
   - **(1)** Nothing in this section shall be construed to permit the Attorney General or the Secretary of State to impose any new documentary or data collection requirements on any person in order to satisfy the requirements of this section, including—
     - **(A)** requirements on any alien for whom the documentary requirements in section 1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title ; or
-    - **(B)** requirements that are inconsistent with the North American Free Trade Agreement.
+    - **(B)** requirements that are inconsistent with the USMCA (as defined in section 4502 of title 19 ).
   - **(2)** Nothing in this section shall be construed to reduce or curtail any authority of the Attorney General or the Secretary of State under any other provision of law.
 - **(d)**
   - **(1)** Not later than December 31, 2003 , the Attorney General shall implement the integrated entry and exit data system using available alien arrival and departure data described in subsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at an airport or seaport. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at an airport or seaport, are entered into the system and can be accessed by immigration officers at other airports and seaports.

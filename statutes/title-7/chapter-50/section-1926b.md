@@ -1,12 +1,12 @@
 ---
-title: "Section 1926b - Repealed. Pub. L. 104–127, title VII , § 743, Apr. 4, 1996 , 110 Stat. 1125"
+title: "Section 1926b - Repealed. Pub. L. 104–127, title VII, § 743 , Apr. 4, 1996 , 110 Stat. 1125"
 usc_title: 7
 usc_section: "1926b"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1926b"
-generated_at: "2026-03-29T19:27:31.787Z"
+generated_at: "2026-03-29T19:43:58.186Z"
 ---
 
-# § 1926b. Repealed. Pub. L. 104–127, title VII , § 743, Apr. 4, 1996 , 110 Stat. 1125
+# § 1926b. Repealed. Pub. L. 104–127, title VII, § 743 , Apr. 4, 1996 , 110 Stat. 1125
 

@@ -3,9 +3,9 @@ title: "Section 7881 - Participation by private school children and teachers"
 usc_title: 20
 usc_section: "7881"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 7881"
-generated_at: "2026-03-29T19:28:43.229Z"
+generated_at: "2026-03-29T19:41:03.443Z"
 ---
 
 # § 7881. Participation by private school children and teachers
@@ -26,8 +26,9 @@ generated_at: "2026-03-29T19:28:43.229Z"
     - **(A)** part C of subchapter I;
     - **(B)** part A of subchapter II;
     - **(C)** part A of subchapter III;
-    - **(D)** part A of subchapter IV; and
-    - **(E)** part B of subchapter IV.
+    - **(D)** part A of subchapter IV;
+    - **(E)** part B of subchapter IV; and
+    - **(F)** section 7281 of this title , with regard to Project SERV.
   - **(2)** For the purpose of this section, the term “eligible children” means children eligible for services under a program described in paragraph (1).
 - **(c)**
   - **(1)** To ensure timely and meaningful consultation, a State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity shall consult with appropriate private school officials. Such agency and private school officials shall both have the goal of reaching agreement on how to provide equitable and effective programs for eligible private school children, on issues such as—

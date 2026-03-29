@@ -3,9 +3,9 @@ title: "Section 2147 - Right of member after reenlisting to transfer entitlement
 usc_title: 10
 usc_section: "2147"
 chapter: 106
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2147"
-generated_at: "2026-03-29T19:27:25.563Z"
+generated_at: "2026-03-29T19:43:37.960Z"
 ---
 
 # § 2147. Right of member after reenlisting to transfer entitlement to spouse or dependent children

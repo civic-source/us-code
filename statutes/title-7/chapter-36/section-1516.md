@@ -3,9 +3,9 @@ title: "Section 1516 - Funding"
 usc_title: 7
 usc_section: "1516"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1516"
-generated_at: "2026-03-29T19:27:31.750Z"
+generated_at: "2026-03-29T19:43:58.138Z"
 ---
 
 # § 1516. Funding
@@ -15,14 +15,14 @@ generated_at: "2026-03-29T19:27:31.750Z"
   - **(2)** There are authorized to be appropriated such sums as are necessary to cover for each of the 1999 and subsequent reinsurance years the following:
     - **(A)** The administrative and operating expenses of the Corporation for the sales commissions of agents.
     - **(B)** Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
-    - **(C)** Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title , subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title .
+    - **(C)** Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title , subject to the limitations in subsection (a)(3)(E)(ii) of that section.
     - **(D)** Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title .
 - **(b)**
   - **(1)** For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) all expenses of the Corporation (other than expenses covered by subsection (a)(1) and expenses covered by paragraph (2)(A)), including the following:
     - **(A)** Premium subsidies and indemnities.
     - **(B)** Administrative and operating expenses of the Corporation necessary to pay the sales commissions of agents.
     - **(C)** All administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
-    - **(D)** Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title , subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title .
+    - **(D)** Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title , subject to the limitations in subsection (a)(3)(E)(ii) of that section.
     - **(E)** Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title .
   - **(2)**
     - **(A)** For each of the 1999 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $3,500,000 for each fiscal year, to pay the following:
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:27:31.750Z"
       - **(ii)** Costs to contract for the review of policies, plans of insurance, and related materials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
     - **(B)** Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
     - **(C)**
-      - **(i)** For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+      - **(i)** For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $7,000,000 for each fiscal year, to pay costs—
         - **(I)** to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
         - **(II)** to assist the Corporation in maintaining program actuarial soundness and financial integrity.
       - **(ii)** For the purposes described in clause (i), the Secretary may, without further appropriation—

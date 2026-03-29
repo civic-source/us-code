@@ -3,9 +3,9 @@ title: "Section 155 - Joint Staff"
 usc_title: 10
 usc_section: "155"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 155"
-generated_at: "2026-03-29T19:27:25.426Z"
+generated_at: "2026-03-29T19:43:37.779Z"
 ---
 
 # § 155. Joint Staff
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:27:25.426Z"
   - **(2)** Officers of the armed forces (other than the Coast Guard) assigned to serve on the Joint Staff shall be selected by the Chairman in approximately equal numbers from—
     - **(A)** the Army;
     - **(B)** the Navy and the Marine Corps; and
-    - **(C)** the Air Force.
+    - **(C)** the Air Force and the Space Force.
   - **(3)** Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 - **(b)** The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and with the approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
 - **(c)** The Chairman of the Joint Chiefs of Staff manages the Joint Staff and the Director of the Joint Staff. The Joint Staff shall perform such duties as the Chairman prescribes and shall perform such duties under such procedures as the Chairman prescribes.
@@ -34,3 +34,8 @@ generated_at: "2026-03-29T19:27:25.426Z"
 - **(g)**
   - **(1)** The Joint Staff is composed of all members of the armed forces and civilian employees assigned or detailed to permanent duty in the executive part of the Department of Defense to perform the functions and duties prescribed under subsections (a) and (c).
   - **(2)** The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
+- **(h)**
+  - **(1)** The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty for the Joint Staff may not exceed 2,250.
+  - **(2)** Not more than 1,500 members of the armed forces on the active-duty list may be assigned or detailed to permanent duty for the Joint Staff.
+  - **(3)** The limitations in paragraphs (1) and (2) do not apply in time of war.
+  - **(4)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

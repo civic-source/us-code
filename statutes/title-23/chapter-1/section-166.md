@@ -3,9 +3,9 @@ title: "Section 166 - HOV facilities"
 usc_title: 23
 usc_section: "166"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "23 U.S.C. § 166"
-generated_at: "2026-03-29T19:29:58.413Z"
+generated_at: "2026-03-29T19:41:43.015Z"
 ---
 
 # § 166. HOV facilities
@@ -39,6 +39,7 @@ generated_at: "2026-03-29T19:29:58.413Z"
       - **(i)** establishes a program that addresses the selection of vehicles under this paragraph; and
       - **(ii)** establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
     - **(C)** Under this paragraph, a public authority may charge no toll or may charge a toll that is less than or equal to tolls charged under paragraph (4).
+  - **(6)** The public authority may allow blood transport vehicles that are transporting blood between a collection point and a hospital or storage center to use the HOV facility if the public authority establishes requirements for clearly identifying such vehicles.
 - **(c)**
   - **(1)** Notwithstanding section 301, tolls may be charged under paragraphs (4) and (5) of subsection (b), subject to the requirements of section 129.
   - **(2)** Toll revenue collected under this section is subject to the requirements of section 129(a)(3).

@@ -1,14 +1,14 @@
 ---
-title: "Section 78 - Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit"
+title: "Section 78 - Gross up for deemed paid foreign tax credit"
 usc_title: 26
 usc_section: "78"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 78"
-generated_at: "2026-03-29T19:30:19.689Z"
+generated_at: "2026-03-29T19:42:47.529Z"
 ---
 
-# § 78. Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit
+# § 78. Gross up for deemed paid foreign tax credit
 
-If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under section 902(a) (relating to credit for corporate stockholder in foreign corporation) or under section 960(a)(1) (relating to taxes paid by foreign corporation) for such taxable year shall be treated for purposes of this title (other than section 245) as a dividend received by such domestic corporation from the foreign corporation.
+If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under subsections (a), (b), and (d) of section 960 (determined without regard to the phrase “80 percent of” in subsection (d)(1) thereof) for such taxable year shall be treated for purposes of this title (other than sections 245 and 245A) as a dividend received by such domestic corporation from the foreign corporation.
 

@@ -3,9 +3,9 @@ title: "Section 3305 - Functions of Council"
 usc_title: 12
 usc_section: "3305"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 3305"
-generated_at: "2026-03-29T19:28:17.775Z"
+generated_at: "2026-03-29T19:44:54.244Z"
 ---
 
 # § 3305. Functions of Council

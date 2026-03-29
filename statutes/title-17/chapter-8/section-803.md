@@ -3,9 +3,9 @@ title: "Section 803 - Proceedings of Copyright Royalty Judges"
 usc_title: 17
 usc_section: "803"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "17 U.S.C. § 803"
-generated_at: "2026-03-29T19:28:20.879Z"
+generated_at: "2026-03-29T19:40:56.338Z"
 ---
 
 # § 803. Proceedings of Copyright Royalty Judges
@@ -75,7 +75,7 @@ generated_at: "2026-03-29T19:28:20.879Z"
     - **(E)**
       - **(i)** If the decision of the Copyright Royalty Judges on any motion for a rehearing is not rendered before the expiration of the statutory rates and terms that were previously in effect, in the case of a proceeding to determine successors to rates and terms that expire on a specified date, then—
         - **(I)** the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion shall be effective as of the day following the date on which the rates and terms that were previously in effect expire; and
-        - **(II)** in the case of a proceeding under section 114(f)(1)(C) or 114(f)(2)(C), royalty rates and terms shall, for purposes of section 114(f)(4)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination.
+        - **(II)** in the case of a proceeding under section 114(f)(1)(C), royalty rates and terms shall, for purposes of section 114(f)(3)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination.
       - **(ii)** The pendency of a motion for a rehearing under this paragraph shall not relieve persons obligated to make royalty payments who would be affected by the determination on that motion from providing the statements of account and any reports of use, to the extent required, and paying the royalties required under the relevant determination or regulations.
       - **(iii)** Notwithstanding clause (ii), whenever royalties described in clause (ii) are paid to a person other than the Copyright Office, the entity designated by the Copyright Royalty Judges to which such royalties are paid by the copyright user (and any successor thereto) shall, within 60 days after the motion for rehearing is resolved or, if the motion is granted, within 60 days after the rehearing is concluded, return any excess amounts previously paid to the extent necessary to comply with the final determination of royalty rates by the Copyright Royalty Judges. Any underpayment of royalties resulting from a rehearing shall be paid within the same period.
   - **(3)** A determination of the Copyright Royalty Judges shall be supported by the written record and shall set forth the findings of fact relied on by the Copyright Royalty Judges. Among other terms adopted in a determination, the Copyright Royalty Judges may specify notice and recordkeeping requirements of users of the copyrights at issue that apply in lieu of those that would otherwise apply under regulations.
@@ -96,6 +96,6 @@ generated_at: "2026-03-29T19:28:20.879Z"
   - **(3)** Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies or vacates a determination of the Copyright Royalty Judges, the court may enter its own determination with respect to the amount or distribution of royalty fees and costs, and order the repayment of any excess fees, the payment of any underpaid fees, and the payment of interest pertaining respectively thereto, in accordance with its final judgment. The court may also vacate the determination of the Copyright Royalty Judges and remand the case to the Copyright Royalty Judges for further proceedings in accordance with subsection (a).
 - **(e)**
   - **(1)**
-    - **(A)** The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the 3 staff members appointed under section 802(b).
+    - **(A)** The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the staff members appointed under section 802(b).
     - **(B)** There are authorized to be appropriated such sums as may be necessary to pay the costs incurred under this chapter not covered by the filing fees collected under subsection (b). All funds made available pursuant to this subparagraph shall remain available until expended.
   - **(2)** Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10.

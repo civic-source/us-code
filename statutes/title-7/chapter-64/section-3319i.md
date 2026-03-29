@@ -3,9 +3,9 @@ title: "Section 3319i - Capacity building grants for NLGCA Institutions"
 usc_title: 7
 usc_section: "3319i"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3319i"
-generated_at: "2026-03-29T19:27:31.888Z"
+generated_at: "2026-03-29T19:43:58.299Z"
 ---
 
 # § 3319i. Capacity building grants for NLGCA Institutions
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T19:27:31.888Z"
       - **(i)** the purchase or other acquisition of equipment and other infrastructure (not including alteration, repair, renovation, or construction of buildings);
       - **(ii)** the professional growth and development of the faculty of the NLGCA Institution; and
       - **(iii)** the development of graduate assistantships.
-- **(b)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2018.
+- **(b)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2023.

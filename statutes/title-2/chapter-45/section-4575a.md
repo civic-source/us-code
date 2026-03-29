@@ -3,9 +3,9 @@ title: "Section 4575a - Change in maximum rates of pay for statutory employees"
 usc_title: 2
 usc_section: "4575a"
 chapter: 45
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 4575a"
-generated_at: "2026-03-29T18:46:52.530Z"
+generated_at: "2026-03-29T19:42:59.696Z"
 ---
 
 # § 4575a. Change in maximum rates of pay for statutory employees

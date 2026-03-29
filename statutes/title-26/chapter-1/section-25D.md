@@ -3,19 +3,20 @@ title: "Section 25D - Residential energy efficient property"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-29T19:30:19.627Z"
+generated_at: "2026-03-29T19:42:47.481Z"
 ---
 
 # § 25D. Residential energy efficient property
 
-- **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
-  - **(1)** 30 percent of the qualified solar electric property expenditures made by the taxpayer during such year,
-  - **(2)** 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year,
-  - **(3)** 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
-  - **(4)** 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
-  - **(5)** 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year.
+- **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of—
+  - **(1)** the qualified solar electric property expenditures,
+  - **(2)** the qualified solar water heating property expenditures,
+  - **(3)** the qualified fuel cell property expenditures,
+  - **(4)** the qualified small wind energy property expenditures,
+  - **(5)** the qualified geothermal heat pump property expenditures, and
+  - **(6)** the qualified biomass fuel property expenditures, and
 - **(b)**
   - **(1)** In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section 48(c)(1)) to which such expenditure relates.
   - **(2)** No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
@@ -30,6 +31,11 @@ generated_at: "2026-03-29T19:30:19.627Z"
     - **(B)** The term “qualified geothermal heat pump property” means any equipment which—
       - **(i)** uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
       - **(ii)** meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
+  - **(6)**
+    - **(A)** The term “qualified biomass fuel property expenditure” means an expenditure for property—
+      - **(i)** which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
+      - **(ii)** which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
+    - **(B)** For purposes of this section, the term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis.
 - **(e)** For purposes of this section—
   - **(1)** Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
   - **(2)** No expenditure relating to a solar panel or other property installed as a roof (or portion thereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed.
@@ -50,4 +56,8 @@ generated_at: "2026-03-29T19:30:19.627Z"
     - **(A)** Except as provided in subparagraph (B), an expenditure with respect to an item shall be treated as made when the original installation of the item is completed.
     - **(B)** In the case of an expenditure in connection with the construction or reconstruction of a structure, such expenditure shall be treated as made when the original use of the constructed or reconstructed structure by the taxpayer begins.
 - **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
-- **(g)** The credit allowed under this section shall not apply to property placed in service after December 31, 2016 .
+- **(g)** For purposes of subsection (a), the applicable percentage shall be—
+  - **(1)** in the case of property placed in service after December 31, 2016 , and before January 1, 2020 , 30 percent,
+  - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2023 , 26 percent, and
+  - **(3)** in the case of property placed in service after December 31, 2022 , and before January 1, 2024 , 22 percent.
+- **(h)** The credit allowed under this section shall not apply to property placed in service after December 31, 2023 .

@@ -3,16 +3,16 @@ title: "Section 4865 - Security requirements for United States diplomatic facili
 usc_title: 22
 usc_section: "4865"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4865"
-generated_at: "2026-03-29T19:29:46.884Z"
+generated_at: "2026-03-29T19:42:08.197Z"
 ---
 
 # § 4865. Security requirements for United States diplomatic facilities
 
 - **(a)** The following security requirements shall apply with respect to United States diplomatic facilities and specified personnel:
   - **(1)**
-    - **(A)** The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
+    - **(A)** The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title ), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
     - **(B)** The Security Environment Threat List shall contain a section that addresses potential acts of international terrorism against United States diplomatic facilities based on threat identification criteria that emphasize the threat of transnational terrorism and include the local security environment, host government support, and other relevant factors such as cultural realities. Such plan shall be reviewed and updated every six months.
   - **(2)**
     - **(A)** In selecting a site for any new United States diplomatic facility abroad, the Secretary shall ensure that all United States Government personnel at the post (except those under the command of an area military commander) will be located on the site.
@@ -46,6 +46,6 @@ generated_at: "2026-03-29T19:29:46.884Z"
       - **(i)** The President shall develop a plan to replace on a priority basis the current FEST aircraft funded by the Department of Defense with a dedicated, capable, and reliable replacement aircraft and backup aircraft to be operated and maintained by the Department of Defense.
       - **(ii)** Not later than 60 days after November 29, 1999 , the President shall submit a report to the appropriate congressional committees describing the aircraft selected pursuant to clause (i) and the arrangements for the funding, operation, and maintenance of such aircraft.
       - **(iii)** Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General’s authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
-  - **(7)** The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities.
+  - **(7)** The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities, including at high risk, high threat posts (as such term is defined in section 4803 of this title ), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack.
   - **(8)** All United States diplomatic facilities shall have emergency equipment and records required in case of an emergency situation stored at an off-site facility.
 - **(b)** Nothing in this section alters or amends existing security requirements not addressed by this section.

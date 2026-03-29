@@ -5,7 +5,7 @@ usc_section: "9621"
 chapter: 103
 current_through: "PL 117-81"
 classification: "22 U.S.C. § 9621"
-generated_at: "2026-03-29T18:44:49.563Z"
+generated_at: "2026-03-29T19:42:08.314Z"
 ---
 
 # § 9621. Authorities relating to provision of support

@@ -3,9 +3,9 @@ title: "Section 933 - Coast Guard ensigns and pennants"
 usc_title: 14
 usc_section: "933"
 chapter: 9
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "14 U.S.C. § 933"
-generated_at: "2026-03-29T18:48:09.817Z"
+generated_at: "2026-03-29T19:45:04.302Z"
 ---
 
 # § 933. Coast Guard ensigns and pennants

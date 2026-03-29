@@ -1,12 +1,12 @@
 ---
-title: "Section 1434 - Repealed. Pub. L. 96–60, title II , § 203(a)(1), Aug. 15, 1979 , 93 Stat. 398"
+title: "Section 1434 - Repealed. Pub. L. 96–60, title II, § 203(a)(1) , Aug. 15, 1979 , 93 Stat. 398"
 usc_title: 22
 usc_section: "1434"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1434"
-generated_at: "2026-03-29T19:29:46.699Z"
+generated_at: "2026-03-29T19:42:08.008Z"
 ---
 
-# § 1434. Repealed. Pub. L. 96–60, title II , § 203(a)(1), Aug. 15, 1979 , 93 Stat. 398
+# § 1434. Repealed. Pub. L. 96–60, title II, § 203(a)(1) , Aug. 15, 1979 , 93 Stat. 398
 

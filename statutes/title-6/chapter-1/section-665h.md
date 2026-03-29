@@ -3,9 +3,9 @@ title: "Section 665h - National Cyber Exercise Program"
 usc_title: 6
 usc_section: "665h"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 665h"
-generated_at: "2026-03-29T18:47:07.410Z"
+generated_at: "2026-03-29T19:43:43.827Z"
 ---
 
 # § 665h. National Cyber Exercise Program
@@ -28,4 +28,4 @@ generated_at: "2026-03-29T18:47:07.410Z"
 - **(b)** In this section:
   - **(1)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
   - **(2)** The term “private entity” has the meaning given such term in section 1501 of this title .
-- **(c)** Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section 748 of this title .
+- **(c)** Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section748 of this title.

@@ -3,9 +3,9 @@ title: "Section 9831 - General exceptions"
 usc_title: 26
 usc_section: "9831"
 chapter: 100
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 9831"
-generated_at: "2026-03-29T19:30:20.299Z"
+generated_at: "2026-03-29T19:42:48.063Z"
 ---
 
 # § 9831. General exceptions
@@ -23,3 +23,33 @@ generated_at: "2026-03-29T19:30:20.299Z"
     - **(B)** There is no coordination between the provision of such benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor.
     - **(C)** Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor.
   - **(3)** The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(4) if the benefits are provided under a separate policy, certificate, or contract of insurance.
+- **(d)**
+  - **(1)** For purposes of this title (and notwithstanding any other provision of this title), the term “group health plan” shall not include any qualified small employer health reimbursement arrangement.
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “qualified small employer health reimbursement arrangement” means an arrangement which—
+      - **(i)** is described in subparagraph (B), and
+      - **(ii)** is provided on the same terms to all eligible employees of the eligible employer.
+    - **(B)** An arrangement is described in this subparagraph if—
+      - **(i)** such arrangement is funded solely by an eligible employer and no salary reduction contributions may be made under such arrangement,
+      - **(ii)** such arrangement provides, after the employee provides proof of coverage, for the payment of, or reimbursement of, an eligible employee for expenses for medical care (as defined in section 213(d)) incurred by the eligible employee or the eligible employee’s family members (as determined under the terms of the arrangement), and
+      - **(iii)** the amount of payments and reimbursements described in clause (ii) for any year do not exceed $4,950 ($10,000 in the case of an arrangement that also provides for payments or reimbursements for family members of the employee).
+    - **(C)** For purposes of subparagraph (A)(ii), an arrangement shall not fail to be treated as provided on the same terms to each eligible employee merely because the employee’s permitted benefit under such arrangement varies in accordance with the variation in the price of an insurance policy in the relevant individual health insurance market based on—
+      - **(i)** the age of the eligible employee (and, in the case of an arrangement which covers medical expenses of the eligible employee’s family members, the age of such family members), or
+      - **(ii)** the number of family members of the eligible employee the medical expenses of which are covered under such arrangement.
+    - **(D)**
+      - **(i)** In the case of an individual who is not covered by an arrangement for the entire year, the limitation under subparagraph (B)(iii) for such year shall be an amount which bears the same ratio to the amount which would (but for this clause) be in effect for such individual for such year under subparagraph (B)(iii) as the number of months for which such individual is covered by the arrangement for such year bears to 12.
+      - **(ii)** In the case of any year beginning after 2016, each of the dollar amounts in subparagraph (B)(iii) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The term “eligible employee” means any employee of an eligible employer, except that the terms of the arrangement may exclude from consideration employees described in any clause of section 105(h)(3)(B) (applied by substituting “90 days” for “3 years” in clause (i) thereof).
+    - **(B)** The term “eligible employer” means an employer that—
+      - **(i)** is not an applicable large employer as defined in section 4980H(c)(2), and
+      - **(ii)** does not offer a group health plan to any of its employees.
+    - **(C)** The term “permitted benefit” means, with respect to any eligible employee, the maximum dollar amount of payments and reimbursements which may be made under the terms of the qualified small employer health reimbursement arrangement for the year with respect to such employee.
+  - **(4)**
+    - **(A)** An employer funding a qualified small employer health reimbursement arrangement for any year shall, not later than 90 days before the beginning of such year (or, in the case of an employee who is not eligible to participate in the arrangement as of the beginning of such year, the date on which such employee is first so eligible), provide a written notice to each eligible employee which includes the information described in subparagraph (B).
+    - **(B)** The notice required under subparagraph (A) shall include each of the following:
+      - **(i)** A statement of the amount which would be such eligible employee’s permitted benefit under the arrangement for the year.
+      - **(ii)** A statement that the eligible employee should provide the information described in clause (i) to any health insurance exchange to which the employee applies for advance payment of the premium assistance tax credit.
+      - **(iii)** A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for such month and reimbursements under the arrangement may be includible in gross income.

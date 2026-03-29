@@ -1,12 +1,12 @@
 ---
-title: "Section 934A - Repealed. Pub. L. 99–514, title XII , § 1275(c)(3), Oct. 22, 1986 , 100 Stat. 2599 ]"
+title: "Section 934A - Repealed. Pub. L. 99–514, title XII, § 1275(c)(3) , Oct. 22, 1986 , 100 Stat. 2599 ]"
 usc_title: 26
 usc_section: "934A"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 934A"
-generated_at: "2026-03-29T19:30:19.943Z"
+generated_at: "2026-03-29T19:42:47.769Z"
 ---
 
-# [§ 934A. Repealed. Pub. L. 99–514, title XII , § 1275(c)(3), Oct. 22, 1986 , 100 Stat. 2599 ]
+# [§ 934A. Repealed. Pub. L. 99–514, title XII, § 1275(c)(3) , Oct. 22, 1986 , 100 Stat. 2599 ]
 

@@ -5,7 +5,7 @@ usc_section: "7113"
 chapter: 71
 current_through: "PL 117-81"
 classification: "38 U.S.C. § 7113"
-generated_at: "2026-03-29T18:46:01.693Z"
+generated_at: "2026-03-29T19:43:27.067Z"
 ---
 
 # § 7113. Evidentiary record before the Board of Veterans’ Appeals

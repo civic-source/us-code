@@ -3,9 +3,9 @@ title: "Section 161d - Disposition of accrued interest"
 usc_title: 25
 usc_section: "161d"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 161d"
-generated_at: "2026-03-29T19:29:34.740Z"
+generated_at: "2026-03-29T19:41:28.336Z"
 ---
 
 # § 161d. Disposition of accrued interest

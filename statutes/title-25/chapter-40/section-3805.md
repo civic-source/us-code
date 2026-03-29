@@ -5,7 +5,7 @@ usc_section: "3805"
 chapter: 40
 current_through: "PL 117-81"
 classification: "25 U.S.C. § 3805"
-generated_at: "2026-03-29T18:44:25.133Z"
+generated_at: "2026-03-29T19:41:28.464Z"
 ---
 
 # § 3805. Indian dam safety

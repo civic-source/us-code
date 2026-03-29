@@ -5,7 +5,7 @@ usc_section: "11103"
 chapter: 111
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 11103"
-generated_at: "2026-03-29T18:45:50.326Z"
+generated_at: "2026-03-29T19:42:53.103Z"
 ---
 
 # § 11103. Definitions

@@ -3,9 +3,9 @@ title: "Section 187 - Homeland Security Advanced Research Projects Agency"
 usc_title: 6
 usc_section: "187"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 187"
-generated_at: "2026-03-29T19:27:39.832Z"
+generated_at: "2026-03-29T19:43:43.758Z"
 ---
 
 # § 187. Homeland Security Advanced Research Projects Agency
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:27:39.832Z"
     - **(D)** conduct research and development for the purpose of advancing technology for the investigation of child exploitation crimes, including child victim identification, trafficking in persons, and child pornography, and for advanced forensics.
   - **(4)** The Director may solicit proposals to address specific vulnerabilities identified by the Director.
   - **(5)** The Director shall ensure that the activities of HSARPA are coordinated with those of other relevant research agencies, and may run projects jointly with other agencies.
-  - **(6)** In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ( 5 U.S.C. 3104 note; Public Law 105–261 ). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before the granting of any extension under subsection (c)(2) of that section.
+  - **(6)** In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 1 1 See References in Text note below. of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ( 5 U.S.C. 3104 note; Public Law 105–261 ). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before the granting of any extension under subsection (c)(2) of that section.
   - **(7)** The Director, periodically, shall hold homeland security technology demonstrations to improve contact among technology developers, vendors and acquisition personnel.
 - **(c)**
   - **(1)** There is established the Acceleration Fund for Research and Development of Homeland Security Technologies, which shall be administered by the Director of HSARPA.

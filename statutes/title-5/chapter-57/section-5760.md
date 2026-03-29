@@ -3,9 +3,9 @@ title: "Section 5760 - Travel and transportation allowances: transportation of f
 usc_title: 5
 usc_section: "5760"
 chapter: 57
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 5760"
-generated_at: "2026-03-29T19:27:05.310Z"
+generated_at: "2026-03-29T19:43:20.379Z"
 ---
 
 # § 5760. Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive
@@ -19,10 +19,10 @@ generated_at: "2026-03-29T19:27:05.310Z"
 - **(b)** An employee described in this subsection is an employee (as defined in section 2105 of this title ) who—
   - **(1)** was held captive, as determined by the head of an agency concerned; and
   - **(2)** is repatriated to a site inside or outside the United States.
-- **(c)** In this section, the term “family member” has the meaning given the term in section 481h(b) of title 37 .
+- **(c)** In this section, the term “family member” has the meaning given the term in section 481h(b) of title 37 . 1 1 See References in Text note below.
 - **(d)**
   - **(1)** The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
-  - **(2)** In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of title 37 .
-  - **(3)** The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) of title 37 .
+  - **(2)** In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of title 37 . 1
+  - **(3)** The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) of title 37 . 1
   - **(4)** An allowance under this subsection may be paid in advance.
   - **(5)** Reimbursement payable under this subsection may not exceed the cost of government-procured round-trip air travel.

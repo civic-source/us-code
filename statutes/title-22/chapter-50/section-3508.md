@@ -3,9 +3,9 @@ title: "Section 3508 - Fellowships"
 usc_title: 22
 usc_section: "3508"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3508"
-generated_at: "2026-03-29T19:29:46.834Z"
+generated_at: "2026-03-29T19:42:08.148Z"
 ---
 
 # § 3508. Fellowships

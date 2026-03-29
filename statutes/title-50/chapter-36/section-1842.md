@@ -3,9 +3,9 @@ title: "Section 1842 - Pen registers and trap and trace devices for foreign inte
 usc_title: 50
 usc_section: "1842"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 1842"
-generated_at: "2026-03-29T19:32:24.114Z"
+generated_at: "2026-03-29T19:44:52.769Z"
 ---
 
 # § 1842. Pen registers and trap and trace devices for foreign intelligence and international terrorism investigations
@@ -47,6 +47,7 @@ generated_at: "2026-03-29T19:32:24.114Z"
         - **(II)** the address of such customer or subscriber;
         - **(III)** the telephone or instrument number, or other subscriber number or identifier, of such customer or subscriber, including any temporarily assigned network address or associated routing or transmission information; and
         - **(IV)** the length of the provision of service by such provider to such customer or subscriber and the types of services utilized by such customer or subscriber.
+  - **(3)** A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title .
 - **(e)**
   - **(1)** Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d). The period of extension shall be for a period not to exceed 90 days.
   - **(2)** In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extension of an order, under this section may be for a period not to exceed one year.

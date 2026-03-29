@@ -3,9 +3,9 @@ title: "Section 10101 - Reserve components named"
 usc_title: 10
 usc_section: "10101"
 chapter: 1003
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 10101"
-generated_at: "2026-03-29T19:27:25.720Z"
+generated_at: "2026-03-29T19:43:38.139Z"
 ---
 
 # § 10101. Reserve components named

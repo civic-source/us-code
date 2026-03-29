@@ -3,9 +3,9 @@ title: "Section 1531 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "1531"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1531"
-generated_at: "2026-03-29T19:27:31.754Z"
+generated_at: "2026-03-29T19:43:58.144Z"
 ---
 
 # § 1531. Supplemental agricultural disaster assistance
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T19:27:31.754Z"
   - **(15)** The term “normal production on the farm” means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
   - **(16)** The term “qualifying natural disaster declaration” means a natural disaster declared by the Secretary for production losses under section 1961(a) of this title .
   - **(17)** The term “Secretary” means the Secretary of Agriculture.
-  - **(18)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) of this title .
+  - **(18)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1 1 See References in Text note below. of this title.
   - **(19)** The term “State” means—
     - **(A)** a State;
     - **(B)** the District of Columbia;
@@ -91,13 +91,13 @@ generated_at: "2026-03-29T19:27:31.754Z"
     - **(C)** Notwithstanding subparagraph (A), in the case of a noninsurable commodity for which the noninsured crop assistance program provides for an adjustment in the level of assistance, such as in the case of unharvested crops, the adjusted assistance level shall be the basis for determining the disaster assistance program guarantee for the noninsurable commodity.
     - **(D)** The Secretary shall establish equitable treatment for non-yield based policies and plans of insurance, such as the Adjusted Gross Revenue Lite insurance program.
   - **(4)**
-    - **(A)** For purposes of this subsection, the total farm revenue for a farm, 1 1 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
+    - **(A)** For purposes of this subsection, the total farm revenue for a farm, 2 2 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
       - **(i)** the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
         - **(I)** the actual production by crop on a farm for purposes of determining losses under subchapter I or the noninsured crop assistance program; and
         - **(II)** subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
-      - **(ii)** 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 2 2 See References in Text note below. of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8713 , 8753] or successor sections;
-      - **(iii)** the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 2 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8714 , 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 2 of that Act [ 7 U.S.C. 8715 ];
-      - **(iv)** the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C 2 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8731 et seq., 8751 et seq.] or successor subtitles;
+      - **(ii)** 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 1 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8713 , 8753] or successor sections;
+      - **(iii)** the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 1 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8714 , 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 1 of that Act [ 7 U.S.C. 8715 ];
+      - **(iv)** the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C 1 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8731 et seq., 8751 et seq.] or successor subtitles;
       - **(v)** the amount of payments for prevented planting on a farm;
       - **(vi)** the amount of crop insurance indemnities received by an eligible producer on a farm for each crop on a farm;
       - **(vii)** the amount of payments an eligible producer on a farm received under the noninsured crop assistance program for each crop on a farm; and

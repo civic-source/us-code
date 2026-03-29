@@ -3,9 +3,9 @@ title: "Section 20145 - Lease of non-excess property"
 usc_title: 51
 usc_section: "20145"
 chapter: 201
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "51 U.S.C. § 20145"
-generated_at: "2026-03-29T19:32:32.733Z"
+generated_at: "2026-03-29T19:45:16.668Z"
 ---
 
 # § 20145. Lease of non-excess property
@@ -29,4 +29,4 @@ generated_at: "2026-03-29T19:32:32.733Z"
 - **(f)** The Administrator shall submit an annual report by January 31st of each year. The report shall include the following:
   - **(1)** Information that identifies and quantifies the value of the arrangements and expenditures of revenues received under this section.
   - **(2)** The availability and use of funds received under this section for the Administration’s operating plan.
-- **(g)** The authority to enter into leases under this section shall expire 10 years after December 26, 2007 . The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
+- **(g)** The authority to enter into leases under this section shall expire December 31, 2021 . The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.

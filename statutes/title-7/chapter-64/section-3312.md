@@ -3,12 +3,12 @@ title: "Section 3312 - Authorization of appropriations for extension education"
 usc_title: 7
 usc_section: "3312"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 3312"
-generated_at: "2026-03-29T19:27:31.887Z"
+generated_at: "2026-03-29T19:43:58.297Z"
 ---
 
 # § 3312. Authorization of appropriations for extension education
 
-Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977 , there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture such sums as may be necessary for each of fiscal years 1991 through 2018.
+Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977 , there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture such sums as may be necessary for each of fiscal years 1991 through 2023.
 

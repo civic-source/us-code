@@ -3,9 +3,9 @@ title: "Section 25 - Interest on certain home mortgages"
 usc_title: 26
 usc_section: "25"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 25"
-generated_at: "2026-03-29T19:30:19.624Z"
+generated_at: "2026-03-29T19:42:47.479Z"
 ---
 
 # § 25. Interest on certain home mortgages
@@ -67,7 +67,7 @@ generated_at: "2026-03-29T19:30:19.624Z"
     - **(B)** The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount (if any) by which the applicable tax limit for such taxable year exceeds the sum of—
       - **(i)** the credit allowable under subsection (a) for such taxable year determined without regard to this paragraph, and
       - **(ii)** the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.
-    - **(C)** For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C).
+    - **(C)** For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23 and 25D).
   - **(2)** Subsection (a) shall not apply to any indebtedness if all the requirements of subsection (c)(1), (d), (e), (f), and (i) of section 143 and clauses (iv), (v), and (vii) of subsection (c)(2)(A), were not in fact met with respect to such indebtedness. Except to the extent provided in regulations, the requirements described in the preceding sentence shall be treated as met if there is a certification, under penalty of perjury, that such requirements are met.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), a mortgage credit certificate shall be treated as in effect with respect to interest attributable to the period—

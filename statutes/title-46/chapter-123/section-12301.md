@@ -3,12 +3,12 @@ title: "Section 12301 - Numbering vessels"
 usc_title: 46
 usc_section: "12301"
 chapter: 123
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 12301"
-generated_at: "2026-03-29T19:32:17.344Z"
+generated_at: "2026-03-29T19:44:39.420Z"
 ---
 
 # § 12301. Numbering vessels
 
 - **(a)** An undocumented vessel equipped with propulsion machinery of any kind shall have a number issued by the proper issuing authority in the State in which the vessel principally is operated.
-- **(b)** The Secretary shall require an undocumented barge more than 100 gross tons operating on the navigable waters of the United States to be numbered.
+- **(b)** The Secretary may require an undocumented barge of more than 100 gross tons operating on the navigable waters of the United States to be numbered.

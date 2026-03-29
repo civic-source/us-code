@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-29T19:30:19.694Z"
+generated_at: "2026-03-29T19:42:47.534Z"
 ---
 
 # § 108. Income from discharge of indebtedness
@@ -17,8 +17,8 @@ generated_at: "2026-03-29T19:30:19.694Z"
     - **(C)** the indebtedness discharged is qualified farm indebtedness,
     - **(D)** in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
     - **(E)** the indebtedness discharged is qualified principal residence indebtedness which is discharged—
-      - **(i)** before January 1, 2017 , or
-      - **(ii)** subject to an arrangement that is entered into and evidenced in writing before January 1, 2017 .
+      - **(i)** before January 1, 2026 , or
+      - **(ii)** subject to an arrangement that is entered into and evidenced in writing before January 1, 2026 .
   - **(2)**
     - **(A)** Subparagraphs (B), (C), (D), and (E) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case.
     - **(B)** Subparagraphs (C) and (D) of paragraph (1) shall not apply to a discharge to the extent the taxpayer is insolvent.
@@ -130,6 +130,16 @@ generated_at: "2026-03-29T19:30:19.694Z"
       - **(ii)** pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a).
   - **(3)** Paragraph (1) shall not apply to the discharge of a loan made by an organization described in paragraph (2)(D) if the discharge is on account of services performed for either such organization.
   - **(4)** In the case of an individual, gross income shall not include any amount received under section 338B(g) of the Public Health Service Act, under a State program described in section 338I of such Act, or under any other State loan repayment or loan forgiveness program that is intended to provide for the increased availability of health care services in underserved or health professional shortage areas (as determined by such State).
+  - **(5)** Gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) after December 31, 2020 , and before January 1, 2026 , of—
+    - **(A)** any loan provided expressly for postsecondary educational expenses, regardless of whether provided through the educational institution or directly to the borrower, if such loan was made, insured, or guaranteed by—
+      - **(i)** the United States, or an instrumentality or agency thereof,
+      - **(ii)** a State, territory, or possession of the United States, or the District of Columbia, or any political subdivision thereof, or
+      - **(iii)** an eligible educational institution (as defined in section 25A),
+    - **(B)** any private education loan (as defined in section 140(a)(7) 1 1 So in original. Probably should be “140(a)(8)”. See References in Text note below. of the Truth in Lending Act),
+    - **(C)** any loan made by any educational organization described in section 170(b)(1)(A)(ii) if such loan is made—
+      - **(i)** pursuant to an agreement with any entity described in subparagraph (A) or any private education 2 2 So in original. Such section defines the term “private educational lender”. lender (as defined in section 140(a) of the Truth in Lending Act) under which the funds from which the loan was made were provided to such educational organization, or
+      - **(ii)** pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a), or
+    - **(D)** any loan made by an educational organization described in section 170(b)(1)(A)(ii) or by an organization exempt from tax under section 501(a) to refinance a loan to an individual to assist the individual in attending any such educational organization but only if the refinancing loan is pursuant to a program of the refinancing organization which is designed as described in subparagraph (C)(ii).
 - **(g)**
   - **(1)**
     - **(A)** Subparagraph (C) of subsection (a)(1) shall apply only if the discharge is by a qualified person.
@@ -146,7 +156,7 @@ generated_at: "2026-03-29T19:30:19.694Z"
     - **(D)** For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 - **(h)**
   - **(1)** The amount excluded from gross income by reason of subsection (a)(1)(E) shall be applied to reduce (but not below zero) the basis of the principal residence of the taxpayer.
-  - **(2)** For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$2,000,000 ($1,000,000” for “$1,000,000 ($500,000” in clause (ii) thereof) with respect to the principal residence of the taxpayer.
+  - **(2)** For purposes of this section, the term “qualified principal residence indebtedness” means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting “$750,000 ($375,000” for “$1,000,000 ($500,000” in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
   - **(3)** Subsection (a)(1)(E) shall not apply to the discharge of a loan if the discharge is on account of services performed for the lender or any other factor not directly related to a decline in the value of the residence or to the financial condition of the taxpayer.
   - **(4)** If any loan is discharged, in whole or in part, and only a portion of such loan is qualified principal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
   - **(5)** For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 121.

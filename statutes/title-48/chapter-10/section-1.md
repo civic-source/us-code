@@ -3,9 +3,9 @@ title: "Section 1 - Full amounts to be covered into treasuries of Guam, Northern
 usc_title: 48
 usc_section: "1"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-29T19:31:53.956Z"
+generated_at: "2026-03-29T19:44:59.787Z"
 ---
 
 # § 1469a–1. Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited

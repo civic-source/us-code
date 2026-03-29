@@ -5,7 +5,7 @@ usc_section: "30308"
 chapter: 303
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 30308"
-generated_at: "2026-03-29T18:45:50.399Z"
+generated_at: "2026-03-29T19:42:53.182Z"
 ---
 
 # § 30308. Requirement that accreditation organizations adopt accreditation standards

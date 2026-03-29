@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-29T19:30:20.051Z"
+generated_at: "2026-03-29T19:42:47.857Z"
 ---
 
 # § 3121. Definitions
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
     - **(A)** sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term “wages” only payments which are received under a workman’s compensation law), or
     - **(B)** medical or hospitalization expenses in connection with sickness or accident disability, or
     - **(C)** death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee;
-  - **[(3)** Repealed. Pub. L. 98–21, title III , § 324(a)(3)(B), Apr. 20, 1983 , 97 Stat. 123 ]
+  - **[(3)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B) , Apr. 20, 1983 , 97 Stat. 123 ]
   - **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
   - **(5)** any payment made to, or on behalf of, an employee or his beneficiary—
     - **(A)** from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust,
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
     - **(B)** cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless—
       - **(i)** the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or
       - **(ii)** the employer’s expenditures for agricultural labor in such year equal or exceed $2,500,
-  - **[(9)** Repealed. Pub. L. 98–21, title III , § 324(a)(3)(B), Apr. 20, 1983 , 97 Stat. 123 ]
+  - **[(9)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B) , Apr. 20, 1983 , 97 Stat. 123 ]
   - **(10)** remuneration paid by an employer in any calendar year to an employee for service described in subsection (d)(3)(C) (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
   - **(11)** remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n));
   - **(12)**
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
   - **(14)** any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died;
   - **(15)** any payment made by an employer to an employee, if at the time such payment is made such employee is entitled to disability insurance benefits under section 223(a) of the Social Security Act and such entitlement commenced prior to the calendar year in which such payment is made, and if such employee did not perform any services for such employer during the period for which such payment is made;
   - **(16)** remuneration paid by an organization exempt from income tax under section 501(a) (other than an organization described in section 401(a)) or under section 521 in any calendar year to an employee for service rendered in the employ of such organization, if the remuneration paid in such year by the organization to the employee for such service is less than $100;
-  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(19)(B)(iv), Dec. 19, 2014 , 128 Stat. 4040 ]
+  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv) , Dec. 19, 2014 , 128 Stat. 4040 ]
   - **(18)** any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
   - **(19)** the value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
   - **(20)** any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132;
@@ -60,7 +60,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
   - **(22)** remuneration on account of—
     - **(A)** a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b)) or under an employee stock purchase plan (as defined in section 423(b)), or
     - **(B)** any disposition by the individual of such stock; or
-  - **(23)** any benefit or payment which is excludable from the gross income of the employee under section 139B(b).
+  - **(23)** any benefit or payment which is excludable from the gross income of the employee under section section 1 1 So in original. 139B(a).
 - **(b)** For purposes of this chapter, the term “employment” means any service, of whatever nature, performed (A) by an employee for the person employing him, irrespective of the citizenship or residence of either, (i) within the United States, or (ii) on or in connection with an American vessel or American aircraft under a contract of service which is entered into within the United States or during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, if the employee is employed on and in connection with such vessel or aircraft when outside the United States, or (B) outside the United States by a citizen or resident of the United States as an employee for an American employer (as defined in subsection (h)), or (C) if it is service, regardless of where or by whom performed, which is designated as employment or recognized as equivalent to employment under an agreement entered into under section 233 of the Social Security Act; except that such term shall not include—
   - **(1)** service performed by foreign agricultural workers lawfully admitted to the United States from the Bahamas, Jamaica, and the other British West Indies, or from any other foreign country or possession thereof, on a temporary basis to perform agricultural labor;
   - **(2)** domestic service performed in a local college club, or local chapter of a college fraternity or sorority, by a student who is enrolled and is regularly attending classes at a school, college, or university;
@@ -79,7 +79,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
         - **(II)** if an individual performing service described in subparagraph (A) returns to the performance of such service after being detailed or transferred to an international organization as described under section 3343 of subchapter III of chapter 33 of title 5, United States Code, or under section 3581 of chapter 35 of such title, then the service performed for that organization shall be considered service described in subparagraph (A),
         - **(III)** if an individual performing service described in subparagraph (A) is reemployed or reinstated after being separated from such service for the purpose of accepting employment with the American Institute in Taiwan as provided under section 3310 of chapter 48 of title 22, United States Code, then the service performed for that Institute shall be considered service described in subparagraph (A),
         - **(IV)** if an individual performing service described in subparagraph (A) returns to the performance of such service after performing service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, United States Code, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
-        - **(V)** if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 105(e)(2) 1 1 See References in Text note below. of the Indian Self-Determination Act applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
+        - **(V)** if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 104(e)(2) of the Indian Self-Determination Act applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
       - **(ii)** is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed service);
     - **(C)** service performed as the President or Vice President of the United States,
     - **(D)** service performed—
@@ -93,7 +93,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
       - **(ii)** is performed by an individual who has, at any time after December 31, 1983 , received a lump-sum payment under section 8342(a) of title 5 , United States Code, or under the corresponding provision of the law establishing the other retirement system described in clause (i), or
       - **(iii)** is performed by an individual after such individual has otherwise ceased to be subject to subchapter III of chapter 83 of title 5, United States Code (without having an application pending for coverage under such subchapter), while performing service in the legislative branch (determined without regard to the provisions of subparagraph (B) relating to continuity of employment), for any period of time after December 31, 1983 ,
     - **(H)** service performed by an individual—
-      - **(i)** on or after the effective date of an election by such individual, under section 301 of the Federal Employees’ Retirement System Act of 1986, section 307 of the Central Intelligence Agency Retirement Act ( 50 U.S.C. 2157 ), or the Federal Employees’ Retirement System Open Enrollment Act of 1997 2 2 So in original. Probably should be followed by a comma. to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5, United States Code, or
+      - **(i)** on or after the effective date of an election by such individual, under section 301 of the Federal Employees’ Retirement System Act of 1986, section 307 of the Central Intelligence Agency Retirement Act ( 50 U.S.C. 2157 ), or the Federal Employees’ Retirement System Open Enrollment Act of 1997, to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5, United States Code, or
       - **(ii)** on or after the effective date of an election by such individual, under regulations issued under section 860 of the Foreign Service Act of 1980, to become subject to the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of such Act;
   - **(6)** service performed in the employ of the United States or any instrumentality of the United States if such service is performed—
     - **(A)** in a penal institution of the United States by an inmate thereof;
@@ -137,7 +137,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
     - **(A)** such individual undertakes to produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land,
     - **(B)** the agricultural or horticultural commodities produced by such individual, or the proceeds therefrom, are to be divided between such individual and such owner or tenant, and
     - **(C)** the amount of such individual’s share depends on the amount of the agricultural or horticultural commodities produced;
-  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(99)(C)(i), Dec. 19, 2014 , 128 Stat. 4052 ]
+  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(i) , Dec. 19, 2014 , 128 Stat. 4052 ]
   - **(18)** service performed in Guam by a resident of the Republic of the Philippines while in Guam on a temporary basis as a nonimmigrant alien admitted to Guam pursuant to section 101(a)(15)(H)(ii) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii) );
   - **(19)** Service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
   - **(20)** service (other than service described in paragraph (3)(A)) performed by an individual on a boat engaged in catching fish or other forms of aquatic animal life under an arrangement with the owner or operator of such boat pursuant to which—
@@ -149,7 +149,8 @@ generated_at: "2026-03-29T19:30:20.051Z"
     - **(C)** the amount of such individual’s share depends on the amount of the boat’s (or the boats’ in the case of a fishing operation involving more than one boat) catch of fish or other forms of aquatic animal life,
   - **(21)** domestic service in a private home of the employer which—
     - **(A)** is performed in any year by an individual under the age of 18 during any portion of such year; and
-    - **(B)** is not the principal occupation of such employee.
+    - **(B)** is not the principal occupation of such employee; or
+  - **(22)** service performed by members of Indian tribal councils as tribal council members in the employ of an Indian tribal government, except that this paragraph shall not apply in the case of service included under an agreement under section 218A of the Social Security Act.
 - **(c)** For purposes of this chapter, if the services performed during one-half or more of any pay period by an employee for the person employing him constitute employment, all the services of such employee for such period shall be deemed to be employment; but if the services performed during more than one-half of any such pay period by an employee for the person employing him do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in this subsection, the term “pay period” means a period (of not more than 31 consecutive days) for which a payment of remuneration is ordinarily made to the employee by the person employing him. This subsection shall not be applicable with respect to services performed in a pay period by an employee for the person employing him, where any of such service is excepted by subsection (b)(9).
 - **(d)** For purposes of this chapter, the term “employee” means—
   - **(1)** any officer of a corporation; or
@@ -159,7 +160,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
     - **(B)** as a full-time life insurance salesman;
     - **(C)** as a home worker performing work, according to specifications furnished by the person for whom the services are performed, on materials or goods furnished by such person which are required to be returned to such person or a person designated by him; or
     - **(D)** as a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for side-line sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations;
-  - **(4)** any individual who performs services that are included under an agreement entered into pursuant to section 218 of the Social Security Act.
+  - **(4)** any individual who performs services that are included under an agreement entered into pursuant to section 218 or 218A of the Social Security Act.
 - **(e)** For purposes of this chapter—
   - **(1)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
   - **(2)** The term “United States” when used in a geographical sense includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
@@ -226,7 +227,7 @@ generated_at: "2026-03-29T19:30:20.051Z"
     - **(B)** service performed by an individual as a member of a uniformed service on inactive duty training.
   - **(2)** The term “active duty” means “active duty” as described in paragraph (21) of section 101 of title 38 , United States Code, except that it shall also include “active duty for training” as described in paragraph (22) of such section.
   - **(3)** The term “inactive duty training” means “inactive duty training” as described in paragraph (23) of such section 101.
-- **(n)** For purposes of this chapter, the term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38 , United States Code), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
+- **(n)** For purposes of this chapter, the term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38 , United States Code), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps 2 2 See Change of Name note below. of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
   - **(1)** a retired member of any of those services;
   - **(2)** a member of the Fleet Reserve or Fleet Marine Corps Reserve;
   - **(3)** a cadet at the United States Military Academy, a midshipman at the United States Naval Academy, and a cadet at the United States Coast Guard Academy or United States Air Force Academy;

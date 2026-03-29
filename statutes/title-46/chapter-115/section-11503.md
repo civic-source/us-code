@@ -3,9 +3,9 @@ title: "Section 11503 - Duties of consular officers related to insubordination"
 usc_title: 46
 usc_section: "11503"
 chapter: 115
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 11503"
-generated_at: "2026-03-29T19:32:17.341Z"
+generated_at: "2026-03-29T19:44:39.417Z"
 ---
 
 # § 11503. Duties of consular officers related to insubordination

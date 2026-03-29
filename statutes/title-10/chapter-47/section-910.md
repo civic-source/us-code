@@ -1,14 +1,14 @@
 ---
-title: "Section 910 - Art. 110. Improper hazarding of vessel"
+title: "Section 910 - Art. 110. Improper hazarding of vessel or aircraft"
 usc_title: 10
 usc_section: "910"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 910"
-generated_at: "2026-03-29T19:27:25.476Z"
+generated_at: "2026-03-29T19:43:37.856Z"
 ---
 
-# § 910. Art. 110. Improper hazarding of vessel
+# § 910. Art. 110. Improper hazarding of vessel or aircraft
 
-- **(a)** Any person subject to this chapter who willfully and wrongfully hazards or suffers to be hazarded any vessel of the armed forces shall suffer death or such other punishment as a court-martial may direct.
-- **(b)** Any person subject to this chapter who negligently hazards or suffers to be hazarded any vessel of the armed forces shall be punished as a court-martial may direct.
+- **(a)** Any person subject to this chapter who, willfully and wrongfully, hazards or suffers to be hazarded any vessel or aircraft of the armed forces shall be punished by death or such other punishment as a court-martial may direct.
+- **(b)** Any person subject to this chapter who negligently hazards or suffers to be hazarded any vessel or aircraft of the armed forces shall be punished as a court-martial may direct.

@@ -3,9 +3,9 @@ title: "Section 2264 - Restitution"
 usc_title: 18
 usc_section: "2264"
 chapter: 110
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2264"
-generated_at: "2026-03-29T19:28:33.859Z"
+generated_at: "2026-03-29T19:41:06.825Z"
 ---
 
 # § 2264. Restitution
@@ -19,8 +19,9 @@ generated_at: "2026-03-29T19:28:33.859Z"
     - **(B)** physical and occupational therapy or rehabilitation;
     - **(C)** necessary transportation, temporary housing, and child care expenses;
     - **(D)** lost income;
-    - **(E)** attorneys’ fees, plus any costs incurred in obtaining a civil protection order; and
-    - **(F)** any other losses suffered by the victim as a proximate result of the offense.
+    - **(E)** attorneys’ fees, plus any costs incurred in obtaining a civil protection order;
+    - **(F)** veterinary services relating to physical care for the victim’s pet, service animal, emotional support animal, or horse; and
+    - **(G)** any other losses suffered by the victim as a proximate result of the offense.
   - **(4)**
     - **(A)** The issuance of a restitution order under this section is mandatory.
     - **(B)** A court may not decline to issue an order under this section because of—

@@ -3,14 +3,14 @@ title: "Section 364 - Obtaining credit"
 usc_title: 11
 usc_section: "364"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "11 U.S.C. § 364"
-generated_at: "2026-03-29T19:28:02.005Z"
+generated_at: "2026-03-29T19:44:19.516Z"
 ---
 
 # § 364. Obtaining credit
 
-- **(a)** If the trustee is authorized to operate the business of the debtor under section 721, 1108, 1203, 1204, or 1304 of this title, unless the court orders otherwise, the trustee may obtain unsecured credit and incur unsecured debt in the ordinary course of business allowable under section 503(b)(1) of this title as an administrative expense.
+- **(a)** If the trustee is authorized to operate the business of the debtor under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title, unless the court orders otherwise, the trustee may obtain unsecured credit and incur unsecured debt in the ordinary course of business allowable under section 503(b)(1) of this title as an administrative expense.
 - **(b)** The court, after notice and a hearing, may authorize the trustee to obtain unsecured credit or to incur unsecured debt other than under subsection (a) of this section, allowable under section 503(b)(1) of this title as an administrative expense.
 - **(c)** If the trustee is unable to obtain unsecured credit allowable under section 503(b)(1) of this title as an administrative expense, the court, after notice and a hearing, may authorize the obtaining of credit or the incurring of debt—
   - **(1)** with priority over any or all administrative expenses of the kind specified in section 503(b) or 507(b) of this title;

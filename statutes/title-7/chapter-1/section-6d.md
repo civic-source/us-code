@@ -3,9 +3,9 @@ title: "Section 6d - Dealing by unregistered futures commission merchants or int
 usc_title: 7
 usc_section: "6d"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6d"
-generated_at: "2026-03-29T19:27:31.605Z"
+generated_at: "2026-03-29T19:43:57.962Z"
 ---
 
 # § 6d. Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; conflict-of-interest systems and procedures; Chief Compliance Officer; rules to avoid duplicative regulations; swap requirements; portfolio margining accounts

@@ -3,9 +3,9 @@ title: "Section 6508 - Transfers from appropriations account for expenses of Off
 usc_title: 2
 usc_section: "6508"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 6508"
-generated_at: "2026-03-29T19:27:07.605Z"
+generated_at: "2026-03-29T19:42:59.717Z"
 ---
 
 # § 6508. Transfers from appropriations account for expenses of Office of Secretary of Senate and Office of Sergeant at Arms and Doorkeeper of Senate

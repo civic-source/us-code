@@ -1,16 +1,16 @@
 ---
-title: "Section 1781 - Office of Family Policy"
+title: "Section 1781 - Office of Military Family Readiness Policy"
 usc_title: 10
 usc_section: "1781"
 chapter: 88
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1781"
-generated_at: "2026-03-29T19:27:25.553Z"
+generated_at: "2026-03-29T19:43:37.949Z"
 ---
 
-# § 1781. Office of Family Policy
+# § 1781. Office of Military Family Readiness Policy
 
-- **(a)** There is in the Office of the Secretary of Defense an Office of Family Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
+- **(a)** There is in the Office of the Secretary of Defense an Office of Military Family Readiness Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Military Family Readiness Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 - **(b)** The Office—
   - **(1)** shall coordinate programs and activities of the military departments to the extent that they relate to military families; and
   - **(2)** shall make recommendations to the Secretaries of the military departments with respect to programs and policies regarding military families.

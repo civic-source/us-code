@@ -3,9 +3,9 @@ title: "Section 53 - Grants for Federal work-study programs"
 usc_title: 20
 usc_section: "53"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 53"
-generated_at: "2026-03-29T19:28:43.011Z"
+generated_at: "2026-03-29T19:41:03.230Z"
 ---
 
 # § 1087–53. Grants for Federal work-study programs
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:28:43.011Z"
   - **(2)** provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
     - **(A)** for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
     - **(B)** an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with section 1096 of this title , may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with section 1087–56 of this title , and may transfer funds in accordance with the provisions of section 1095 of this title ;
-  - **(3)** provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F and meet the requirements of section 1091 of this title will be assisted, except that if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
+  - **(3)** provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F of this subchapter and meet the requirements of section 1091 of this title will be assisted, except that if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
   - **(4)** provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student’s need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
   - **(5)** provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent, except that—
     - **(A)** the Federal share may exceed 75 percent, but not exceed 90 percent, if, consistent with regulations of the Secretary—

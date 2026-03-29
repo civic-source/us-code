@@ -1,12 +1,12 @@
 ---
-title: "Section 740b - Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561"
+title: "Section 740b - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "740b"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 740b"
-generated_at: "2026-03-29T19:30:28.743Z"
+generated_at: "2026-03-29T19:43:07.595Z"
 ---
 
-# §§ 739 to 740b. Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561
+# §§ 739 to 740b. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561
 

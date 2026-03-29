@@ -3,9 +3,9 @@ title: "Section 2276 - Confidentiality of information"
 usc_title: 7
 usc_section: "2276"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2276"
-generated_at: "2026-03-29T19:27:31.859Z"
+generated_at: "2026-03-29T19:43:58.261Z"
 ---
 
 # § 2276. Confidentiality of information
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:27:31.859Z"
 - **(a)** In the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
   - **(1)** use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
   - **(2)** disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
-  - **(3)** in the case of information collected under the authority described in subsection (d)(12), disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
+  - **(3)** in the case of information collected under the authority described in paragraph (12) or (13) of subsection (d), disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
 - **(b)**
   - **(1)** In carrying out a provision of law referred to in subsection (d), no department, agency, officer, or employee of the Federal Government, other than the Secretary of Agriculture, shall require a person to furnish a copy of statistical information provided to the Department of Agriculture.
   - **(2)** A copy of such information—
@@ -31,6 +31,7 @@ generated_at: "2026-03-29T19:27:31.859Z"
   - **(8)** section 4 of the Act entitled “An Act to establish the Department of Commerce and Labor”, approved February 14, 1903 ( 15 U.S.C. 1516 );
   - **(9)** section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 ( 15 U.S.C. 1516a );
   - **(10)** section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 ( 16 U.S.C. 1642(e) );
-  - **(11)** section 2204g of this title ; or
-  - **(12)** section 302 of the Rural Development Act of 1972 ( 7 U.S.C. 1010a ) regarding the authority to collect data for the National Resources Inventory.
+  - **(11)** section 2204g of this title ;
+  - **(12)** section 302 of the Rural Development Act of 1972 ( 7 U.S.C. 1010a ) regarding the authority to collect data for the National Resources Inventory; or
+  - **(13)** section 10109 of the Agriculture Improvement Act of 2018.
 - **(e)** This section shall not prohibit the release of information under section 2204g(f)(2) of this title .

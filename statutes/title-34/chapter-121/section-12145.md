@@ -5,7 +5,7 @@ usc_section: "12145"
 chapter: 121
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 12145"
-generated_at: "2026-03-29T18:45:50.343Z"
+generated_at: "2026-03-29T19:42:53.119Z"
 ---
 
 # § 12145. Reports

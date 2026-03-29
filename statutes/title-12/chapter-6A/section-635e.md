@@ -3,16 +3,16 @@ title: "Section 635e - Aggregate loan, guarantee, and insurance authority"
 usc_title: 12
 usc_section: "635e"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 635e"
-generated_at: "2026-03-29T19:28:17.523Z"
+generated_at: "2026-03-29T19:44:53.965Z"
 ---
 
 # § 635e. Aggregate loan, guarantee, and insurance authority
 
 - **(a)**
   - **(1)** The Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
-  - **(2)** In this subsection, the term “applicable amount”, for each of fiscal years 2015 through 2019, means $135,000,000,000.
+  - **(2)** In this subsection, the term “applicable amount”, for each of fiscal years 2020 through 2027, means $135,000,000,000.
   - **(3)** If the rate calculated under section 635g(g)(1) of this title is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under section 635g(g)(1) of this title is less than 2 percent.
   - **(4)** All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 - **(b)** The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.

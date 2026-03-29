@@ -3,15 +3,15 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-29T19:27:25.514Z"
+generated_at: "2026-03-29T19:43:37.904Z"
 ---
 
 # § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
 
 - **(a)**
-  - **(1)** The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title , except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
+  - **(1)** The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title , except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
   - **(2)** The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
   - **(3)** The Secretaries referred to in paragraph (1) shall enter into a detailed agreement to carry out this section.
 - **(b)** In establishing and carrying out a program under this section, the Secretary of Labor shall do the following:
@@ -22,8 +22,9 @@ generated_at: "2026-03-29T19:27:25.514Z"
   - **(5)** Provide information and other assistance to such members in their efforts to obtain loans and grants from the Small Business Administration and other Federal, State, and local agencies.
   - **(6)** Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
   - **(7)** Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
-  - **(8)** Provide information regarding the public and community service jobs program carried out under section 1143a of this title .
-  - **(9)** Provide information about disability-related employment and education protections.
+  - **(8)** Provide information about disability-related employment and education protections.
+  - **(9)** Provide information regarding the required deduction, pursuant to subsection (h) of section 1175a of this title , from disability compensation paid by the Secretary of Veterans Affairs of amounts equal to any voluntary separation pay received by the member under such section.
+  - **(10)** Acting through the Secretary of the department in which the Coast Guard is operating, provide information on career and employment opportunities available to members with transportation security cards issued under section 70105 of title 46 .
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
   - **(2)** The Secretary of Defense and the Secretary of Homeland Security may, under regulations such Secretaries shall prescribe, waive the participation requirement of paragraph (1) with respect to—
@@ -42,9 +43,18 @@ generated_at: "2026-03-29T19:27:25.514Z"
   - **(7)** take other necessary action to develop and furnish the information and services to be provided under this section.
 - **(e)** As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 - **(f)**
-  - **(1)** As part of the program carried out under this section, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall permit a member of the armed forces eligible for assistance under the program to elect to receive additional training in any of the following subjects:
-    - **(A)** Preparation for higher education or training.
-    - **(B)** Preparation for career or technical training.
-    - **(C)** Preparation for entrepreneurship.
-    - **(D)** Other training options determined by the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy.
-  - **(2)** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall ensure that a member of the armed forces who elects to receive additional training in subjects available under paragraph (1) is able to receive the training.
+  - **(1)** The program carried out under this section shall consist of instruction as follows:
+    - **(A)** One day of preseparation training specific to the armed force concerned, as determined by the Secretary concerned.
+    - **(B)** One day of instruction regarding—
+      - **(i)** benefits under laws administered by the Secretary of Veterans Affairs; and
+      - **(ii)** other subjects determined by the Secretary concerned.
+    - **(C)** One day of instruction regarding preparation for employment.
+    - **(D)** Two days of instruction regarding a topic selected by the member from the following subjects:
+      - **(i)** Preparation for employment.
+      - **(ii)** Preparation for education.
+      - **(iii)** Preparation for vocational training.
+      - **(iv)** Preparation for entrepreneurship.
+      - **(v)** Other options determined by the Secretary concerned.
+  - **(2)** The Secretary concerned may permit a member to attend training and instruction under the program established under this section—
+    - **(A)** before the time periods established under section 1142(a)(3) of this title ;
+    - **(B)** in addition to such training and instruction required during such time periods.

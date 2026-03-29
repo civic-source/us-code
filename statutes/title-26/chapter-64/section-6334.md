@@ -3,9 +3,9 @@ title: "Section 6334 - Property exempt from levy"
 usc_title: 26
 usc_section: "6334"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6334"
-generated_at: "2026-03-29T19:30:20.199Z"
+generated_at: "2026-03-29T19:42:47.977Z"
 ---
 
 # § 6334. Property exempt from levy
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:20.199Z"
   - **(8)** If the taxpayer is required by judgment of a court of competent jurisdiction, entered prior to the date of levy, to contribute to the support of his minor children, so much of his salary, wages, or other income as is necessary to comply with such judgment.
   - **(9)** Any amount payable to or received by an individual as wages or salary for personal services, or as income derived from other sources, during any period, to the extent that the total of such amounts payable to or received by him during such period does not exceed the applicable exempt amount determined under subsection (d).
   - **(10)** Any amount payable to an individual as a service-connected (within the meaning of section 101(16) of title 38 , United States Code) disability benefit under—
-    - **(A)** subchapter II, III, IV, V,, 1 1 So in original. or VI of chapter 11 of such title 38, or
+    - **(A)** subchapter II, III, IV, V, or VI of chapter 11 of such title 38, or
     - **(B)** chapter 13, 21, 23, 31, 32, 34, 35, 37, or 39 of such title 38.
   - **(11)** Any amount payable to an individual as a recipient of public assistance under—
     - **(A)** title IV or title XVI (relating to supplemental security income for the aged, blind, and disabled) of the Social Security Act, or
@@ -44,6 +44,15 @@ generated_at: "2026-03-29T19:30:20.199Z"
       - **(ii)** the aggregate amount of the deductions for personal exemptions allowed the taxpayer under section 151 in the taxable year in which such levy occurs, divided by
     - **(B)** 52.
   - **(3)** In the case of any individual not described in paragraph (1), the amount of the wages, salary, and other income payable to or received by him during any applicable pay period or other fiscal period (as determined under regulations prescribed by the Secretary) which is exempt from levy under subsection (a)(9) shall be an amount (determined under such regulations) which as nearly as possible will result in the same total exemption from levy for such individual over a period of time as he would have under paragraph (1) if (during such period of time) he were paid or received such wages, salary, and other income on a regular weekly basis.
+  - **(4)**
+    - **(A)** In the case of any taxable year in which the exemption amount under section 151(d) is zero, paragraph (2) shall not apply and for purposes of paragraph (1) the term “exempt amount” means an amount equal to—
+      - **(i)** the sum of the amount determined under subparagraph (B) and the standard deduction, divided by
+      - **(ii)** 52.
+    - **(B)** For purposes of subparagraph (A), the amount determined under this subparagraph is $4,150 multiplied by the number of the taxpayer’s dependents for the taxable year in which the levy occurs.
+    - **(C)** In the case of any taxable year beginning in a calendar year after 2018, the $4,150 amount in subparagraph (B) shall be increased by an amount equal to—
+      - **(i)** such dollar amount, multiplied by
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
+    - **(D)** Unless the taxpayer submits to the Secretary a written and properly verified statement specifying the facts necessary to determine the proper amount under subparagraph (A), subparagraph (A) shall be applied as if the taxpayer were a married individual filing a separate return with no dependents.
 - **(e)**
   - **(1)**
     - **(A)** A principal residence shall not be exempt from levy if a judge or magistrate of a district court of the United States approves (in writing) the levy of such residence.
@@ -55,5 +64,5 @@ generated_at: "2026-03-29T19:30:20.199Z"
 - **(g)**
   - **(1)** In the case of any calendar year beginning after 1999, each dollar amount referred to in paragraphs (2) and (3) of subsection (a) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.

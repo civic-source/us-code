@@ -3,9 +3,9 @@ title: "Section 8510 - Finality of decisions"
 usc_title: 38
 usc_section: "8510"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 8510"
-generated_at: "2026-03-29T19:30:40.597Z"
+generated_at: "2026-03-29T19:43:27.111Z"
 ---
 
 # § 8510. Finality of decisions

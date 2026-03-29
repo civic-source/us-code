@@ -3,9 +3,9 @@ title: "Section 7705 - Candidate countries"
 usc_title: 22
 usc_section: "7705"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 7705"
-generated_at: "2026-03-29T19:29:46.964Z"
+generated_at: "2026-03-29T19:42:08.263Z"
 ---
 
 # § 7705. Candidate countries
@@ -13,14 +13,23 @@ generated_at: "2026-03-29T19:29:46.964Z"
 - **(a)**
   - **(1)** A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2004 if—
     - **(A)** the country is eligible for assistance from the International Development Association, and the per capita income of the country is equal to or less than the historical ceiling of the International Development Association for that year, as defined by the International Bank for Reconstruction and Development; and
-    - **(B)** subject to paragraph (3), the country is not ineligible to receive United States economic assistance under part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] by reason of the application of any provision of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] or any other provision of law.
-  - **(2)** A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2005 or a subsequent fiscal year if—
+    - **(B)** subject to paragraph (4), the country is not ineligible to receive United States economic assistance under part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] by reason of the application of any provision of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] or any other provision of law.
+  - **(2)** A country shall be a candidate country for purposes of eligibility for assistance for each of fiscal years 2005 through 2012 if—
     - **(A)** the per capita income of the country is equal to or less than the historical ceiling of the International Development Association for the fiscal year involved, as defined by the International Bank for Reconstruction and Development; and
     - **(B)** the country meets the requirements of paragraph (1)(B).
-  - **(3)** For the purposes of determining whether a country is eligible for receiving assistance under section 7704 of this title pursuant to paragraph (1)(B), the exercise by the President, the Secretary of State, or any other officer or employee of the United States of any waiver or suspension of any provision of law referred to in such paragraph, and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirement of such paragraph.
+  - **(3)** A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
+    - **(A)** has a per capita income not greater than the lower middle income country threshold established by the International Bank for Reconstruction and Development for such fiscal year;
+    - **(B)** is among the 75 countries identified by the International Bank for Reconstruction and Development as having the lowest per capita income; and
+    - **(C)** meets the requirements under paragraph (1)(B).
+  - **(4)** For the purposes of determining whether a country is eligible for receiving assistance under section 7704 of this title pursuant to paragraph (1)(B), the exercise by the President, the Secretary of State, or any other officer or employee of the United States of any waiver or suspension of any provision of law referred to in such paragraph, and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirement of such paragraph.
 - **(b)**
-  - **(1)** In addition to countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2006 or a subsequent fiscal year if the country—
+  - **(1)** In addition to countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal years 2006 through 2012 if the country—
     - **(A)** is classified as a lower middle income country in the then most recent edition of the World Development Report for Reconstruction and Development published by the International Bank for Reconstruction and Development and has an income greater than the historical ceiling for International Development Association eligibility for the fiscal year involved; and
     - **(B)** meets the requirements of subsection (a)(1)(B).
-  - **(2)** The total amount of assistance provided to countries described in paragraph (1) for fiscal year 2006 or any subsequent fiscal year may not exceed 25 percent of the total amount of assistance provided to all countries under section 7704 of this title for fiscal year 2006 or the subsequent fiscal year, as the case may be.
-- **(c)** The Board shall identify whether a country is a candidate country for purposes of this section.
+  - **(2)** In addition to the countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
+    - **(A)** has a per capita income not greater than the lower middle income country threshold established by the International Bank for Reconstruction and Development for the fiscal year;
+    - **(B)** is not among the 75 countries identified by the International Bank for Reconstruction and Development as having the lowest per capita income; and
+    - **(C)** meets the requirements under subsection (a)(1)(B).
+  - **(3)** The total amount of assistance provided to countries described in paragraph (1) for fiscal year 2006 or any subsequent fiscal year may not exceed 25 percent of the total amount of assistance provided to all countries under section 7704 of this title for fiscal year 2006 or the subsequent fiscal year, as the case may be.
+- **(c)** A country qualifying for candidate status under this section with a per capita income that changes during the fiscal year such that the country would be reclassified from a low income country to a lower middle income country or from a lower middle income country to a low income country shall retain its candidacy status in its former income classification for such fiscal year and the 2 subsequent fiscal years.
+- **(d)** The Board shall identify whether a country is a candidate country for purposes of this section.

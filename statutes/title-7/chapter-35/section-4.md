@@ -3,9 +3,9 @@ title: "Section 4 - Education program"
 usc_title: 7
 usc_section: "4"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T19:27:31.716Z"
+generated_at: "2026-03-29T19:43:58.096Z"
 ---
 
 # § 1308–4. Education program

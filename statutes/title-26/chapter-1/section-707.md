@@ -3,9 +3,9 @@ title: "Section 707 - Transactions between partner and partnership"
 usc_title: 26
 usc_section: "707"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 707"
-generated_at: "2026-03-29T19:30:19.899Z"
+generated_at: "2026-03-29T19:42:47.724Z"
 ---
 
 # § 707. Transactions between partner and partnership
@@ -27,6 +27,6 @@ generated_at: "2026-03-29T19:30:19.899Z"
     - **(B)** two partnerships in which the same persons own, directly or indirectly, more than 50 percent of the capital interests or profits interests.
   - **(2)** In the case of a sale or exchange, directly or indirectly, of property, which in the hands of the transferee, is property other than a capital asset as defined in section 1221—
     - **(A)** between a partnership and a person owning, directly or indirectly, more than 50 percent of the capital interest, or profits interest, in such partnership, or
-    - **(B)** between two partnerships in which the same persons own, directly or indirectly, more than 50 percent of the capital interest or profits interests,
+    - **(B)** between two partnerships in which the same persons own, directly or indirectly, more than 50 percent of the capital interests or profits interests,
   - **(3)** For purposes of paragraphs (1) and (2) of this subsection, the ownership of a capital or profits interest in a partnership shall be determined in accordance with the rules for constructive ownership of stock provided in section 267(c) other than paragraph (3) of such section.
 - **(c)** To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a member of the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).

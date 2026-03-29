@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 31
 usc_section: "9101"
 chapter: 91
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 9101"
-generated_at: "2026-03-29T19:30:24.810Z"
+generated_at: "2026-03-29T19:42:56.165Z"
 ---
 
 # § 9101. Definitions
@@ -21,10 +21,9 @@ In this chapter—
     - **(E)** the Federal Land Banks.
     - **(F)** the National Credit Union Administration Central Liquidity Facility.
     - **(G)** the Regional Banks for Cooperatives.
-    - **(H)** the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ( 7 U.S.C. 950(a) ).
-    - **(I)** the Financing Corporation.
-    - **(J)** the Resolution Trust Corporation.
-    - **(K)** the Resolution Funding Corporation.
+    - **(H)** the Financing Corporation.
+    - **(I)** the Resolution Trust Corporation.
+    - **(J)** the Resolution Funding Corporation.
   - **(3)** “wholly owned Government corporation” means—
     - **(A)** the Commodity Credit Corporation.
     - **(B)** the Community Development Financial Institutions Fund.
@@ -33,14 +32,12 @@ In this chapter—
     - **(E)** Federal Prison Industries, Incorporated.
     - **(F)** the Corporation for National and Community Service.
     - **(G)** the Government National Mortgage Association.
-    - **(H)** the Overseas Private Investment Corporation.
+    - **(H)** the United States International Development Finance Corporation.
     - **(I)** the Pennsylvania Avenue Development Corporation.
     - **(J)** the Pension Benefit Guaranty Corporation.
-    - **(K)** the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ( 7 U.S.C. 950(a) ).
-    - **(L)** the Saint Lawrence Seaway Development Corporation.
-    - **(M)** the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
-    - **(N)** the Tennessee Valley Authority.
-    - **[(O)** Repealed. Pub. L. 104–134, title III , § 3117(a), Apr. 26, 1996 , 110 Stat. 1321–350 .]
-    - **(P)** the Panama Canal Commission.
-    - **(Q)** the Millennium Challenge Corporation.
-    - **(R)** the International Clean Energy Foundation.
+    - **(K)** the Great Lakes St. Lawrence Seaway Development Corporation.
+    - **(L)** the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
+    - **(M)** the Tennessee Valley Authority.
+    - **(N)** the Panama Canal Commission.
+    - **(O)** the Millennium Challenge Corporation.
+    - **(P)** the International Clean Energy Foundation.

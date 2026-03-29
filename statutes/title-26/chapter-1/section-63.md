@@ -3,17 +3,19 @@ title: "Section 63 - Taxable income defined"
 usc_title: 26
 usc_section: "63"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-29T19:30:19.683Z"
+generated_at: "2026-03-29T19:42:47.524Z"
 ---
 
 # § 63. Taxable income defined
 
 - **(a)** Except as provided in subsection (b), for purposes of this subtitle, the term “taxable income” means gross income minus the deductions allowed by this chapter (other than the standard deduction).
 - **(b)** In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
-  - **(1)** the standard deduction, and
-  - **(2)** the deduction for personal exemptions provided in section 151.
+  - **(1)** the standard deduction,
+  - **(2)** the deduction for personal exemptions provided in section 151,
+  - **(3)** any deduction provided in section 199A, and
+  - **(4)** the deduction provided in section 170(p).
 - **(c)** For purposes of this subtitle—
   - **(1)** Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
     - **(A)** the basic standard deduction, and
@@ -27,7 +29,7 @@ generated_at: "2026-03-29T19:30:19.683Z"
   - **(3)** For purposes of paragraph (1), the additional standard deduction is the sum of each additional amount to which the taxpayer is entitled under subsection (f).
   - **(4)** In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(C), or (5) or subsection (f) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 2016” in subparagraph (A)(ii) thereof—
       - **(i)** “calendar year 1987” in the case of the dollar amounts contained in paragraph (2)(B), (2)(C), or (5)(A) or subsection (f), and
       - **(ii)** “calendar year 1997” in the case of the dollar amount contained in paragraph (5)(B).
   - **(5)** In the case of an individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, the basic standard deduction applicable to such individual for such individual’s taxable year shall not exceed the greater of—
@@ -38,9 +40,18 @@ generated_at: "2026-03-29T19:30:19.683Z"
     - **(B)** a nonresident alien individual,
     - **(C)** an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period, or
     - **(D)** an estate or trust, common trust fund, or partnership,
+  - **(7)** In the case of a taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+    - **(A)** Paragraph (2) shall be applied—
+      - **(i)** by substituting “$18,000” for “$4,400” in subparagraph (B), and
+      - **(ii)** by substituting “$12,000” for “$3,000” in subparagraph (C).
+    - **(B)**
+      - **(i)** Paragraph (4) shall not apply to the dollar amounts contained in paragraphs (2)(B) and (2)(C).
+      - **(ii)** In the case of a taxable year beginning after 2018, the $18,000 and $12,000 amounts in subparagraph (A) shall each be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
 - **(d)** For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
   - **(1)** the deductions allowable in arriving at adjusted gross income, and
-  - **(2)** the deduction for personal exemptions provided by section 151.
+  - **(2)** any deduction referred to in any paragraph of subsection (b).
 - **(e)**
   - **(1)** Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
   - **(2)** Any election under this subsection shall be made on the taxpayer’s return, and the Secretary shall prescribe the manner of signifying such election on the return.

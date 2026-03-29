@@ -3,9 +3,9 @@ title: "Section 9035 - Loan deficiency payments"
 usc_title: 7
 usc_section: "9035"
 chapter: 115
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 9035"
-generated_at: "2026-03-29T19:27:32.042Z"
+generated_at: "2026-03-29T19:43:58.479Z"
 ---
 
 # § 9035. Loan deficiency payments
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:27:32.042Z"
   - **(1)** Except as provided in subsection (d), the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under section 9031 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
   - **(2)**
     - **(A)** Subject to subparagraph (B), nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 9031 of this title .
-    - **(B)** Effective for each of the 2014 through 2018 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
+    - **(B)** Effective for each of the 2014 through 2023 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
 - **(b)** A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) shall be equal to the product obtained by multiplying—
   - **(1)** the payment rate determined under subsection (c) for the commodity; by
   - **(2)** the quantity of the commodity produced by the eligible producers, excluding any quantity for which the producers obtain a marketing assistance loan under section 9031 of this title .

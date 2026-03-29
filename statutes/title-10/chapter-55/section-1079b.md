@@ -3,15 +3,18 @@ title: "Section 1079b - Procedures for charging fees for care provided to civili
 usc_title: 10
 usc_section: "1079b"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1079b"
-generated_at: "2026-03-29T19:27:25.505Z"
+generated_at: "2026-03-29T19:43:37.894Z"
 ---
 
 # § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
 
 - **(a)** The Secretary of Defense shall implement procedures under which a military medical treatment facility may charge civilians who are not covered beneficiaries (or their insurers) fees representing the costs, as determined by the Secretary, of trauma and other medical care provided to such civilians.
-- **(b)** A military medical treatment facility may retain and use the amounts collected under subsection (a) for—
+- **(b)** The Secretary may waive a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
+  - **(1)** the civilian is unable to pay for the costs of the trauma or other medical care provided to the civilian (including any such costs remaining after the Secretary receives payment from an insurer for such care, as applicable); and
+  - **(2)** the provision of such care enhances the knowledge, skills, and abilities of health care providers, as determined by the Secretary.
+- **(c)** A military medical treatment facility may retain and use the amounts collected under subsection (a) for—
   - **(1)** trauma consortium activities;
   - **(2)** administrative, operating, and equipment costs; and
   - **(3)** readiness training.

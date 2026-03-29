@@ -3,9 +3,9 @@ title: "Section 8468 - Annuities and pay on reemployment"
 usc_title: 5
 usc_section: "8468"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8468"
-generated_at: "2026-03-29T19:27:05.383Z"
+generated_at: "2026-03-29T19:43:20.451Z"
 ---
 
 # § 8468. Annuities and pay on reemployment
@@ -76,7 +76,7 @@ generated_at: "2026-03-29T19:27:05.383Z"
   - **(6)**
     - **(A)** Any hours of training or mentoring of employees by any limited time appointee employed under this subsection shall not be included in the hours of service performed for purposes of paragraph (3), but those hours of training or mentoring may not exceed 520 hours.
     - **(B)** If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
-  - **(7)** The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate on December 31, 2019 .
+  - **(7)** The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate on December 31, 2024 .
 - **(j)**
   - **(1)** For the purpose of subsections (f) through (i), “Executive agency” shall not include the Government Accountability Office.
   - **(2)** An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.

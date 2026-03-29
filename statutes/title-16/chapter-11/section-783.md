@@ -3,9 +3,9 @@ title: "Section 783 - Punishment for violations of law; liability of vessels"
 usc_title: 16
 usc_section: "783"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 783"
-generated_at: "2026-03-29T19:29:27.360Z"
+generated_at: "2026-03-29T19:41:13.603Z"
 ---
 
 # § 783. Punishment for violations of law; liability of vessels

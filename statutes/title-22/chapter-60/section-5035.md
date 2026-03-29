@@ -1,12 +1,12 @@
 ---
-title: "Section 5035 - Repealed. Pub. L. 103–149 , § 4(a)(2), Nov. 23, 1993 , 107 Stat. 1505"
+title: "Section 5035 - Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 , 107 Stat. 1505"
 usc_title: 22
 usc_section: "5035"
 chapter: 60
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 5035"
-generated_at: "2026-03-29T19:29:46.885Z"
+generated_at: "2026-03-29T19:42:08.199Z"
 ---
 
-# §§ 5034, 5035. Repealed. Pub. L. 103–149 , § 4(a)(2), Nov. 23, 1993 , 107 Stat. 1505
+# §§ 5034, 5035. Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 , 107 Stat. 1505
 

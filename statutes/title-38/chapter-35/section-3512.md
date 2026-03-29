@@ -3,9 +3,9 @@ title: "Section 3512 - Periods of eligibility"
 usc_title: 38
 usc_section: "3512"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3512"
-generated_at: "2026-03-29T19:30:40.522Z"
+generated_at: "2026-03-29T19:43:27.020Z"
 ---
 
 # § 3512. Periods of eligibility
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:30:40.522Z"
     - **(B)** Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph may, subject to the Secretary’s approval, elect a later beginning date for the 10-year period than would otherwise be applicable to the person under that subparagraph. The beginning date so elected may be any date between the beginning date determined for the person under subparagraph (A) and whichever of the following dates applies:
       - **(i)** The date on which the Secretary notifies the veteran from whom eligibility is derived that the veteran has a service-connected total disability permanent in nature.
       - **(ii)** The date on which the Secretary determines that the veteran from whom eligibility is derived died of a service-connected disability.
-      - **(iii)** The date on which the Secretary notifies the member of the Armed Forces from whom eligibility is derived that the member has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service.
+      - **(iii)** The date on which the Secretary notifies the member of the Armed Forces from whom eligibility is derived that the member has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service.
     - **(C)** Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph who is made eligible under section 3501(a)(1)(B) of this title by reason of the death of a person on active duty may be afforded educational assistance under this chapter during the 20-year period beginning on the date (as determined by the Secretary) such person becomes an eligible person within the meaning of such section.
     - **(D)** Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph who is made eligible under section 3501(a)(1)(D)(i) of this title by reason of a service-connected disability that was determined to be a total disability permanent in nature not later than three years after discharge from service may be afforded educational assistance under this chapter during the 20-year period beginning on the date the disability was so determined to be a total disability permanent in nature, but only if the eligible person remains the spouse of the disabled person throughout the period.
   - **(2)** Notwithstanding the provisions of paragraph (1) of this subsection, in the case of any eligible person (as defined in section 3501(a)(1)(B), (C), (D), or (E) of this title) whose eligibility is based on the death or disability of a spouse or on a spouse being listed in one of the categories referred to in section 3501(a)(1)(C) of this title who was prevented from initiating or completing such person’s chosen program of education within such period because of a physical or mental disability which was not the result of such person’s own willful misconduct, such person shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) October 1, 1980 , whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such person was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted under the exception in the preceding sentence, the delimiting period will again begin running on the first day following such eligible person’s recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such eligible person to initiate or resume pursuit of a program of education with educational assistance under this chapter.
@@ -51,6 +51,6 @@ generated_at: "2026-03-29T19:30:40.522Z"
     - **(B)** the date of the person’s thirty-first birthday.
 - **(d)** The term “first finds” as used in this section means the effective date of the rating or date of notification to the person from whom eligibility is derived establishing a service-connected total disability permanent in nature whichever is more advantageous to the eligible person.
 - **(e)** No person made eligible by section 3501(a)(1)(C) of this title based on a spouse being listed in one of the categories referred to in section 3501(a)(1)(C) of this title may be afforded educational assistance under this chapter beyond 10 years after the date on which the spouse was so listed.
-- **[(f)** Repealed. Pub. L. 108–183, title III , § 306(f)(2), Dec. 16, 2003 , 117 Stat. 2661 .]
-- **[(g)** Repealed. Pub. L. 107–103, title I , § 108(b)(2), Dec. 27, 2001 , 115 Stat. 985 .]
+- **[(f)** Repealed. Pub. L. 108–183, title III, § 306(f)(2) , Dec. 16, 2003 , 117 Stat. 2661 .]
+- **[(g)** Repealed. Pub. L. 107–103, title I, § 108(b)(2) , Dec. 27, 2001 , 115 Stat. 985 .]
 - **(h)** Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, or is involuntarily ordered to full-time National Guard duty under section 502(f) of title 32 , such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.

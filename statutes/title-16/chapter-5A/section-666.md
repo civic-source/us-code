@@ -3,12 +3,12 @@ title: "Section 666 - Authorization of appropriations"
 usc_title: 16
 usc_section: "666"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 666"
-generated_at: "2026-03-29T19:29:27.322Z"
+generated_at: "2026-03-29T19:41:13.565Z"
 ---
 
 # § 666. Authorization of appropriations
 
-There is hereby authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of sections 661 to 666c of this title and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under said sections, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
+There is authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of this Act and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under this Act, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
 

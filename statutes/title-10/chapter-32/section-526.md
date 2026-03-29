@@ -3,9 +3,9 @@ title: "Section 526 - Authorized strength: general and flag officers on active d
 usc_title: 10
 usc_section: "526"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 526"
-generated_at: "2026-03-29T19:27:25.449Z"
+generated_at: "2026-03-29T19:43:37.821Z"
 ---
 
 # § 526. Authorized strength: general and flag officers on active duty
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:27:25.449Z"
   - **(1)** For the Army, 231.
   - **(2)** For the Navy, 162.
   - **(3)** For the Air Force, 198.
-  - **(4)** For the Marine Corps, 61.
+  - **(4)** For the Marine Corps, 62.
 - **(b)**
   - **(1)** The Secretary of Defense may designate up to 310 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.
   - **(2)** Unless the Secretary of Defense determines that a lower number is in the best interest of the Department, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:27:25.449Z"
     - **(C)** For the Air Force, 73.
     - **(D)** For the Marine Corps, 21.
   - **(3)** The number excluded under paragraph (1) and serving in positions designated under that paragraph—
-    - **(A)** in the grade of general or admiral may not exceed 20;
+    - **(A)** in the grade of general or admiral may not exceed 19;
     - **(B)** in a grade above the grade of major general or rear admiral may not exceed 68; and
     - **(C)** in the grade of major general or rear admiral may not exceed 144.
   - **(4)** Not later than 30 days after determining to raise or lower a number specified in paragraph (2), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such determination.
@@ -60,3 +60,11 @@ generated_at: "2026-03-29T19:27:25.449Z"
 - **(j)** Not later than March 1, 2015 , and each March 1 thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report specifying—
   - **(1)** the numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a); and
   - **(2)** the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
+- **(k)**
+  - **(1)** The Secretary of Defense may increase the maximum number of brigadier generals or major generals in the Army, Air Force, Marine Corps, or Space Force, or rear admirals (lower half) or rear admirals in the Navy, allowed under subsection (a) and section 525 of this title , and the President may appoint officers in the equivalent grades equal to the number increased by the Secretary of Defense, if each appointment is made in conjunction with an offsetting reduction under paragraph (2).
+  - **(2)** For each increase and appointment made under the authority of paragraph (1) in the Army, Navy, Air Force, Marine Corps, or Space Force, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an increase and appointment is made, the Secretary of Defense shall specify the armed force in which the reduction required by this paragraph is to be made.
+  - **(3)** The total number of general officers and flag officers increased under paragraph (1), combined with the total number of general officers and flag officers increased under section 526a(i)(1) 1 1 See References in Text note below. of this title, may not exceed 15 at any one time.
+  - **(4)** The Secretary may not increase the maximum number of general officers or flag officers under paragraph (1) until the date that is 30 days after the date on which the Secretary provides, to the Committees on Armed Services of the Senate and the House of Representatives, written notice of—
+    - **(A)** such increase; and
+    - **(B)** each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
+- **(l)** The provisions of this section shall not apply to the number of general officers and flag officers in the armed forces after December 31, 2022 . For provisions applicable to the number of such officers after that date, see section 526a of this title .

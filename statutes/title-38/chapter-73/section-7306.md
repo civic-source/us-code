@@ -3,9 +3,9 @@ title: "Section 7306 - Office of the Under Secretary for Health"
 usc_title: 38
 usc_section: "7306"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 7306"
-generated_at: "2026-03-29T19:30:40.567Z"
+generated_at: "2026-03-29T19:43:27.072Z"
 ---
 
 # § 7306. Office of the Under Secretary for Health
@@ -23,7 +23,8 @@ generated_at: "2026-03-29T19:30:40.567Z"
     - **(A)** serve in a full-time capacity at the Central Office of the Department;
     - **(B)** be a qualified physician assistant; and
     - **(C)** be responsible and report directly to the Chief Patient Care Services Officer of the Veterans Health Administration on all matters relating to the education and training, employment, appropriate use, and optimal participation of physician assistants within the programs and initiatives of the Administration.
-  - **(10)** Such other personnel as may be authorized by this chapter.
+  - **(10)** The Chief Officer of Women’s Health.
+  - **(11)** Such other personnel as may be authorized by this chapter.
 - **(b)** Of the Assistant Under Secretaries for Health appointed under subsection (a)(3)—
   - **(1)** not more than two may be persons qualified in the administration of health services who are not doctors of medicine, dental surgery, or dental medicines;
   - **(2)** one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary for Health for the operation of the Dental Service; and

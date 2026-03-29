@@ -3,9 +3,9 @@ title: "Section 6515 - Requirements of certifying agents"
 usc_title: 7
 usc_section: "6515"
 chapter: 94
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 6515"
-generated_at: "2026-03-29T19:27:31.947Z"
+generated_at: "2026-03-29T19:43:58.365Z"
 ---
 
 # § 6515. Requirements of certifying agents
@@ -26,5 +26,11 @@ generated_at: "2026-03-29T19:27:31.947Z"
   - **(3)** provide advice concerning organic practices or techniques for a fee, other than fees established under such program.
 - **(h)** A certifying agent that is a private person shall nominate the individual who controls the day-to-day operation of the agent.
 - **(i)**
-  - **(1)** If the Secretary or the governing State official (if applicable) determines that a certifying agent is not properly adhering to the provisions of this chapter, the Secretary or such governing State official may suspend such certifying agent’s accreditation.
-  - **(2)** If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
+  - **(1)** If the Secretary or the governing State official (if applicable) determines that a certifying agent or an entity acting as an agent of the certifying agent is not properly adhering to the provisions of this chapter, the Secretary or such governing State official may suspend such certifying agent’s accreditation.
+  - **(2)**
+    - **(A)** If the Secretary determines that an office of a certifying agent or entity described in paragraph (1) is not complying with the provisions of this chapter, the Secretary may suspend the operations of the certifying agent or the noncompliant office, including—
+      - **(i)** an office operating in a foreign country; and
+      - **(ii)** an office operating in the United States, including an office acting on behalf of a foreign-domiciled entity.
+    - **(B)** The Secretary shall provide for a process that is otherwise consistent with this section that authorizes a suspended office to resume operations.
+  - **(3)** If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
+- **(j)** Not later than 90 days after the date on which a new certifying office performing certification activities opens, an accredited certifying agent shall notify the Secretary of the opening.

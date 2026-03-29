@@ -3,9 +3,9 @@ title: "Section 2005 - Soil and water conservation program"
 usc_title: 16
 usc_section: "2005"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 2005"
-generated_at: "2026-03-29T19:29:27.515Z"
+generated_at: "2026-03-29T19:41:13.763Z"
 ---
 
 # § 2005. Soil and water conservation program
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:29:27.515Z"
   - **(8)** investigation and analysis of alternative irrigation techniques regarding their costs, benefits, and impact on soil and water conservation, crop production, and environmental factors.
 - **(b)** In evaluating existing conservation programs, the Secretary shall emphasize demonstration, innovation, and monitoring of specific program components in order to encourage further development and adoption of practices and performance-based standards.
 - **(c)** In developing a national soil and water conservation program under subsection (a), the Secretary shall solicit and evaluate recommendations for improving the program, including the content, scope, process, participation in, and other elements of the program, as determined by the Secretary.
-- **(d)** The initial program shall be completed not later than December 31, 2011 , and December 31, 2016 , respectively. 1 1 So in original. See 2008 Amendment note below.
+- **(d)** The initial program shall be completed not later than December 31, 2011 , and December 31, 2016 , and a program update shall be completed by December 31, 2023 .

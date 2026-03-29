@@ -3,9 +3,9 @@ title: "Section 3715 - Use of contributions to Department of Defense Cooperative
 usc_title: 50
 usc_section: "3715"
 chapter: 48
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3715"
-generated_at: "2026-03-29T19:32:24.260Z"
+generated_at: "2026-03-29T19:44:52.883Z"
 ---
 
 # § 3715. Use of contributions to Department of Defense Cooperative Threat Reduction Program
@@ -20,13 +20,9 @@ generated_at: "2026-03-29T19:32:24.260Z"
     - **(A)** specifying the value of the contribution and the purpose for which the contribution was made; and
     - **(B)** identifying the person who made the contribution.
   - **(2)** The Secretary may not obligate funds contributed pursuant to subsection (a) until a period of 15 days elapses following the date on which the Secretary submits the notice under paragraph (1).
-- **(e)** Not later than the first Monday in February of each year, the Secretary shall submit to the appropriate congressional committees a report on amounts contributed pursuant to subsection (a) during the preceding fiscal year. Each such report shall include, for the fiscal year covered by the report, the following:
-  - **(1)** A statement of any funds contributed pursuant to subsection (a), including, for each such contribution, the value of the contribution and the identity of the person who made the contribution.
-  - **(2)** A statement of any funds so contributed that were obligated or expended by the Secretary, including, for each such contribution, the purposes for which the funds were obligated or expended.
-  - **(3)** A statement of any funds so contributed that were retained but not obligated or expended, including, for each such contribution, the purposes (if known) for which the Secretary intends to obligate or expend the amount.
-- **(f)** The Secretary shall submit to the congressional defense committees—
+- **(e)** The Secretary shall submit to the congressional defense committees—
   - **(1)** an implementation plan for the authority provided under this section prior to obligating or expending any funds contributed pursuant to subsection (a); and
   - **(2)** any updates to such plan that the Secretary considers appropriate.
-- **(g)** In this section, the term “appropriate congressional committees” means the following:
+- **(f)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The congressional defense committees.
   - **(2)** The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.

@@ -5,7 +5,7 @@ usc_section: "21901"
 chapter: 219
 current_through: "PL 117-81"
 classification: "34 U.S.C. § 21901"
-generated_at: "2026-03-29T18:45:50.394Z"
+generated_at: "2026-03-29T19:42:53.176Z"
 ---
 
 # § 21901. Definitions

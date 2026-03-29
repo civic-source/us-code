@@ -3,9 +3,9 @@ title: "Section 751 - Clerks"
 usc_title: 28
 usc_section: "751"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "28 U.S.C. § 751"
-generated_at: "2026-03-29T19:30:04.367Z"
+generated_at: "2026-03-29T19:42:27.352Z"
 ---
 
 # § 751. Clerks

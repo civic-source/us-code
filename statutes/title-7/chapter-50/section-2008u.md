@@ -3,9 +3,9 @@ title: "Section 2008u - Health care services"
 usc_title: 7
 usc_section: "2008u"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 2008u"
-generated_at: "2026-03-29T19:27:31.809Z"
+generated_at: "2026-03-29T19:43:58.209Z"
 ---
 
 # § 2008u. Health care services
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T19:27:31.809Z"
     - **(C)** health care job training programs; and
   - **(2)** the development and expansion of public health-related facilities in the Delta region to address longstanding and unmet health needs of the region.
 - **(d)** As a condition of the receipt of the grant, the eligible entity shall use the grant to fund projects and activities described in subsection (c), based on input solicited from local governments, public health care providers, and other entities in the Delta region.
-- **(e)** There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2018.
+- **(e)** There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2023.

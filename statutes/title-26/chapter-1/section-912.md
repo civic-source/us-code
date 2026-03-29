@@ -3,9 +3,9 @@ title: "Section 912 - Exemption for certain allowances"
 usc_title: 26
 usc_section: "912"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 912"
-generated_at: "2026-03-29T19:30:19.942Z"
+generated_at: "2026-03-29T19:42:47.768Z"
 ---
 
 # § 912. Exemption for certain allowances
@@ -14,7 +14,7 @@ The following items shall not be included in gross income, and shall be exempt f
 
   - **(1)** In the case of civilian officers and employees of the Government of the United States, amounts received as allowances or otherwise (but not amounts received as post differentials) under—
     - **(A)** chapter 9 of title I of the Foreign Service Act of 1980,
-    - **(B)** section 4 of the Central Intelligence Agency Act of 1949, as amended (50 U.S.C., sec. 403e), 1 1 See References in Text note below.
+    - **(B)** section 4 of the Central Intelligence Agency Act of 1949, as amended ( 50 U.S.C. 3505 ),
     - **(C)** title II of the Overseas Differentials and Allowances Act, or
     - **(D)** subsection (e) or (f) of the first section of the Administrative Expenses Act of 1946, as amended, or section 22 of such Act.
   - **(2)** In the case of civilian officers or employees of the Government of the United States stationed outside the continental United States (other than Alaska), amounts (other than amounts received under title II of the Overseas Differentials and Allowances Act) received as cost-of-living allowances in accordance with regulations approved by the President (or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations).

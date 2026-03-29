@@ -3,14 +3,14 @@ title: "Section 591 - Deduction for dividends paid on deposits"
 usc_title: 26
 usc_section: "591"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 591"
-generated_at: "2026-03-29T19:30:19.886Z"
+generated_at: "2026-03-29T19:42:47.710Z"
 ---
 
 # § 591. Deduction for dividends paid on deposits
 
-- **(a)** In the case of mutual savings banks, cooperative banks, and domestic building and loan associations and other savings institutions chartered and supervised as savings and loan or similar associations under Federal or State law, there shall be allowed as deductions in computing taxable income amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts, if such amounts paid or credited are withdrawable on demand subject only to customary notice of intention to withdraw.
+- **(a)** In the case of mutual savings banks, cooperative banks, domestic building and loan associations, and other savings institutions chartered and supervised as savings and loan or similar associations under Federal or State law, there shall be allowed as deductions in computing taxable income amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts, if such amounts paid or credited are withdrawable on demand subject only to customary notice of intention to withdraw.
 - **(b)** For purposes of this part, the term “mutual savings bank” includes any bank—
   - **(1)** which has capital stock represented by shares, and
   - **(2)** which is subject to, and operates under, Federal or State laws relating to mutual savings bank.

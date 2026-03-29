@@ -3,15 +3,15 @@ title: "Section 7 - Department of Agriculture minor use program"
 usc_title: 7
 usc_section: "7"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-03-29T19:27:31.644Z"
+generated_at: "2026-03-29T19:43:58.010Z"
 ---
 
 # § 136w–7. Department of Agriculture minor use program
 
 - **(a)** The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall assure the coordination of the responsibilities of the Department of Agriculture related to minor uses of pesticides, including—
-  - **(1)** carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ( 7 U.S.C. 450i(e) ) and the national pesticide resistance monitoring program established under section 1651 1 1 See References in Text note below. of the Food, Agriculture, Conservation, and Trade Act of 1990 ( 7 U.S.C. 5882 );
+  - **(1)** carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ( 7 U.S.C. 450i(e) ) 1 1 See References in Text note below. and the national pesticide resistance monitoring program established under section 1651 1 of the Food, Agriculture, Conservation, and Trade Act of 1990 ( 7 U.S.C. 5882 );
   - **(2)** supporting integrated pest management research;
   - **(3)** consulting with growers to develop data for minor uses; and
   - **(4)** providing assistance for minor use registrations, tolerances, and reregistrations with the Environmental Protection Agency.

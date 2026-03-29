@@ -3,9 +3,9 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-29T19:27:25.634Z"
+generated_at: "2026-03-29T19:43:38.003Z"
 ---
 
 # § 2688. Utility systems: conveyance authority
@@ -22,17 +22,19 @@ generated_at: "2026-03-29T19:27:25.634Z"
   - **(2)** If the utility services proposed to be provided as consideration under paragraph (1) are subject to regulation by a Federal or State agency, any reduction in the rate charged for the utility services shall be subject to establishment or approval by that agency.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
-  - **(2)** The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.
+  - **(2)** The Secretary concerned may authorize a contract for utility services described in paragraph (1) or the renewal of such a contract to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary concerned determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract or contract renewal. The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3). A renewal of a contract pursuant to this paragraph may be entered into only within the last five years of the existing contract term.
 - **(e)**
   - **(1)** A lump sum payment received under subsection (c) shall be credited, at the election of the Secretary concerned—
     - **(A)** to an appropriation of the military department concerned available for the procurement of the same utility services as are provided by the utility system conveyed under this section;
     - **(B)** to an appropriation of the military department available for carrying out energy savings projects or water conservation projects; or
     - **(C)** to an appropriation of the military department available for improvements to other utility systems.
   - **(2)** Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
-- **[(f)** Repealed. Pub. L. 112–81, div. A, title X , § 1061(21)(C), Dec. 31, 2011 , 125 Stat. 1584 .]
+- **[(f)** Repealed. Pub. L. 112–81, div. A, title X, § 1061(21)(C) , Dec. 31, 2011 , 125 Stat. 1584 .]
 - **(g)**
   - **(1)** The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
   - **(2)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
+  - **(3)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with energy resilience and cybersecurity requirements and associated metrics provided to the conveyee to ensure that the reliability of the utility system meets mission requirements.
+  - **(4)** The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the installation energy report submitted under section 2925(a) of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
 - **(h)** In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed.
 - **(i)**
   - **(1)** In this section, the term “utility system” means any of the following:
@@ -50,4 +52,5 @@ generated_at: "2026-03-29T19:27:25.634Z"
     - **(A)** the additional utility infrastructure cannot operate without being a part of the conveyed utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and
     - **(B)** the military department receives as consideration an amount for the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
   - **(2)** The conveyance under this paragraph may consist of all right, title, and interest of the United States or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
-- **(k)** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
+- **(k)** In the case of a utility system that is conveyed under this section and that only provides utility services to a military installation, the Secretary concerned may use amounts authorized to be appropriated for military construction to improve the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.
+- **(l)** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.

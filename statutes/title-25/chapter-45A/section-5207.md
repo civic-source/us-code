@@ -5,7 +5,7 @@ usc_section: "5207"
 chapter: 45
 current_through: "PL 117-81"
 classification: "25 U.S.C. § 5207"
-generated_at: "2026-03-29T18:44:25.155Z"
+generated_at: "2026-03-29T19:41:28.486Z"
 ---
 
 # § 5207. Availability and allocation of funds; royalties from mineral deposits

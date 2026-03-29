@@ -3,14 +3,14 @@ title: "Section 3203 - Safety management system"
 usc_title: 46
 usc_section: "3203"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 3203"
-generated_at: "2026-03-29T19:32:17.315Z"
+generated_at: "2026-03-29T19:44:39.387Z"
 ---
 
 # § 3203. Safety management system
 
-- **(a)** The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies, including—
+- **(a)** The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies (including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5)), including—
   - **(1)** a safety and environmental protection policy;
   - **(2)** instructions and procedures to ensure safe operation of those vessels and protection of the environment in compliance with international and United States law;
   - **(3)** defined levels of authority and lines of communications between, and among, personnel on shore and on the vessel;

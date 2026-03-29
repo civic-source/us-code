@@ -3,9 +3,9 @@ title: "Section 1394 - Tax-exempt enterprise zone facility bonds"
 usc_title: 26
 usc_section: "1394"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 1394"
-generated_at: "2026-03-29T19:30:20.001Z"
+generated_at: "2026-03-29T19:42:47.826Z"
 ---
 
 # § 1394. Tax-exempt enterprise zone facility bonds
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:20.001Z"
     - **(B)** In applying section 1397C for purposes of this section—
       - **(i)**
         - **(I)** Except as provided in subclause (II), references in section 1397C to empowerment zones shall be treated as including references to enterprise communities.
-        - **(II)** For purposes of subsection 1 1 So in original. Probably should be “subsections”. (b)(6) and (c)(5) of section 1397C, an employee shall be treated as a resident of an empowerment zone if such employee is a resident of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction.
+        - **(II)** For purposes of subsections (b)(6) and (c)(5) of section 1397C, an employee shall be treated as a resident of an empowerment zone if such employee is a resident of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction.
       - **(ii)** A business shall not fail to be treated as an enterprise zone business during the startup period if—
         - **(I)** as of the beginning of the startup period, it is reasonably expected that such business will be an enterprise zone business (as defined in section 1397C as modified by this paragraph) at the end of such period, and
         - **(II)** such business makes bona fide efforts to be such a business.

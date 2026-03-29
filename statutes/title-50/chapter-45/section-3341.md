@@ -3,9 +3,9 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-29T19:32:24.246Z"
+generated_at: "2026-03-29T19:44:52.859Z"
 ---
 
 # § 3341. Security clearances
@@ -135,3 +135,4 @@ generated_at: "2026-03-29T19:32:24.246Z"
     - **(A)** agency action under this section; or
     - **(B)** action of the appellate review procedures established under paragraph (5).
   - **(7)** Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
+  - **(8)** In this subsection, the term “employee” includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term “employing agency” shall be deemed to be the contracting agency.

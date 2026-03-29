@@ -3,14 +3,14 @@ title: "Section 1139 - Assistance to families of passengers involved in rail pas
 usc_title: 49
 usc_section: "1139"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 1139"
-generated_at: "2026-03-29T19:32:28.730Z"
+generated_at: "2026-03-29T19:44:57.831Z"
 ---
 
 # § 1139. Assistance to families of passengers involved in rail passenger accidents
 
-- **(a)** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+- **(a)** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
   - **(1)** designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
   - **(2)** designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 - **(b)** The Board shall have primary Federal responsibility for—
@@ -38,9 +38,12 @@ generated_at: "2026-03-29T19:32:28.730Z"
   - **(2)** No unsolicited communication concerning a potential action or settlement offer for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation, including the railroad carrier or rail passenger carrier, to an individual (other than an employee of the rail passenger carrier) injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
   - **(3)** No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
 - **(h)** In this section:
-  - **(1)** The term “rail passenger accident” means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
-    - **(A)** interstate intercity rail passenger transportation (as such term is defined in section 24102); or
-    - **(B)** interstate or intrastate high-speed rail (as such term is defined in section 26105) transportation,
+  - **(1)** The term “rail passenger accident” means any rail passenger disaster that—
+    - **(A)** results in any loss of life;
+    - **(B)** the National Transportation Safety Board will serve as the lead investigative agency for; and
+    - **(C)** occurs in the provision of—
+      - **(i)** interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+      - **(ii)** high-speed rail (as such term is defined in section 26105) transportation, regardless of its cause or suspected cause.
   - **(2)** The term “rail passenger carrier” means a rail carrier providing—
     - **(A)** interstate intercity rail passenger transportation (as such term is defined in section 24102); or
     - **(B)** interstate or intrastate high-speed rail (as such term is defined in section 26105) transportation,

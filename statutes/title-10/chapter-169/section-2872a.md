@@ -3,9 +3,9 @@ title: "Section 2872a - Utilities and services"
 usc_title: 10
 usc_section: "2872a"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2872a"
-generated_at: "2026-03-29T19:27:25.649Z"
+generated_at: "2026-03-29T19:43:38.020Z"
 ---
 
 # § 2872a. Utilities and services
@@ -24,6 +24,8 @@ generated_at: "2026-03-29T19:27:25.649Z"
   - **(10)** Telecommunications service.
   - **(11)** Firefighting and fire protection services.
   - **(12)** Police protection services.
+  - **(13)** Street sweeping.
+  - **(14)** Tree trimming and removal.
 - **(c)**
   - **(1)** The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
   - **(2)** The amount of any cash payment received under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—

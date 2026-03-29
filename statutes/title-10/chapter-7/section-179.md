@@ -3,19 +3,20 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-29T19:27:25.431Z"
+generated_at: "2026-03-29T19:43:37.783Z"
 ---
 
 # § 179. Nuclear Weapons Council
 
 - **(a)** There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
-  - **(1)** The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+  - **(1)** The Under Secretary of Defense for Acquisition and Sustainment.
   - **(2)** The Vice Chairman of the Joint Chiefs of Staff.
   - **(3)** The Under Secretary for Nuclear Security of the Department of Energy.
-  - **(4)** The Under Secretary of Defense for Policy.
-  - **(5)** The Commander of the United States Strategic Command.
+  - **(4)** The Under Secretary of Defense for Research and Engineering.
+  - **(5)** The Under Secretary of Defense for Policy.
+  - **(6)** The Commander of the United States Strategic Command.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
   - **(2)** A meeting of the Council shall be chaired by the Under Secretary for Nuclear Security of the Department of Energy whenever the matter under consideration is within the primary responsibility or concern of the Department of Energy, as determined by majority vote of the Council.
@@ -35,9 +36,10 @@ generated_at: "2026-03-29T19:27:25.431Z"
   - **(6)** Ensuring that adequate consideration is given to design, performance, and cost tradeoffs for all proposed new nuclear weapons programs.
   - **(7)** Providing specific guidance regarding priorities for research on nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.
   - **(8)** Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.
-  - **(9)** Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
-  - **(10)** Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
-  - **(11)** Providing—
+  - **(9)** Reviewing proposed capabilities, and establishing and validating performance requirements (as defined in section 181(h) of this title ), for nuclear warhead programs.
+  - **(10)** Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
+  - **(11)** Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+  - **(12)** Providing—
     - **(A)** broad guidance regarding priorities for research on improved conventional weapons, and
     - **(B)** comments on annual proposals for budget levels for research on improved conventional weapons,
 - **(e)** The Council shall submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
@@ -49,7 +51,7 @@ generated_at: "2026-03-29T19:27:25.431Z"
     - **(B)** A report described in this subparagraph is a report that includes the following:
       - **(i)** Except as provided by subparagraph (C), certification that, during the fiscal year prior to the fiscal year covered by the budget for which the report is submitted, the Secretary of Energy obligated or expended any amounts covered by a proposed transfer of estimated nuclear budget request authority made for such prior fiscal year in a manner consistent with a memorandum of agreement that was developed by the Nuclear Weapons Council and entered into by the Secretary of Defense and the Secretary of Energy.
       - **(ii)** A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
-      - **(iii)** An assessment from each of the Chairman of the Joints 1 1 So in original. Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+      - **(iii)** An assessment from each of the Chairman of the Joint Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
     - **(C)** With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
       - **(i)** determines that such waiver is in the national security interests of the United States; and
       - **(ii)** instead of the certification described in such clause (i), includes as part of such report—
@@ -63,7 +65,14 @@ generated_at: "2026-03-29T19:27:25.431Z"
     - **(B)** Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under subparagraph (A), the Chairman shall submit to the congressional defense committees—
       - **(i)** such assessment as it was submitted to the Chairman; and
       - **(ii)** any comments of the Chairman.
-  - **(6)** In this subsection:
+  - **(6)** If a House of Congress adopts a bill authorizing or appropriating funds for the Department of Defense that, as determined by the Council, provides funds in an amount that will result in a delay in the nuclear certification or delivery of F–35A dual-capable aircraft, the Council shall notify the congressional defense committees of the determination.
+  - **(7)** In this subsection:
     - **(A)** The term “budget” has the meaning given that term in section 231(f) of this title .
     - **(B)** The term “defense budget materials” has the meaning given that term in section 231(f) of this title .
     - **(C)** The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
+- **(g)**
+  - **(1)** Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a semiannual update including, with respect to the six-month period preceding the update—
+    - **(A)** the dates on which the Council met; and
+    - **(B)** except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
+  - **(2)** The Council shall not be required to include in a semiannual update under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the semiannual update.
+  - **(3)** The Council may provide a semiannual update under paragraph (1) either in the form of a briefing or a written report.

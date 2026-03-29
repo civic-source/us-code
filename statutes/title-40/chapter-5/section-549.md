@@ -3,9 +3,9 @@ title: "Section 549 - Donation of personal property through state agencies"
 usc_title: 40
 usc_section: "549"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 549"
-generated_at: "2026-03-29T19:30:36.678Z"
+generated_at: "2026-03-29T19:43:21.240Z"
 ---
 
 # § 549. Donation of personal property through state agencies
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:30:36.678Z"
       - **(iv)** a school for the mentally retarded or physically handicapped;
       - **(v)** a child care center;
       - **(vi)** a radio or television station licensed by the Federal Communications Commission as an educational radio or educational television station;
-      - **(vii)** a museum attended by the public;
+      - **(vii)** a museum attended by the public, and, for purposes of determining whether a museum is attended by the public, the Administrator shall consider a museum to be public if the nonprofit educational or public health institution or organization, at minimum, accedes to any request submitted for access during business hours;
       - **(viii)** a library serving free all residents of a community, district, State, or region; or
       - **(ix)** a historic light station as defined under section 305101(4) of title 54 , including a historic light station conveyed under section 305103 of title 54 , notwithstanding the number of hours that the historic light station is open to the public; or
     - **(C)** for purposes of providing services to veterans (as defined in section 101 of title 38 ), to an organization whose—

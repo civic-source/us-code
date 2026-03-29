@@ -3,9 +3,9 @@ title: "Section 55112 - Vessel escort operations and towing assistance"
 usc_title: 46
 usc_section: "55112"
 chapter: 551
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 55112"
-generated_at: "2026-03-29T19:32:17.379Z"
+generated_at: "2026-03-29T19:44:39.468Z"
 ---
 
 # § 55112. Vessel escort operations and towing assistance
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:32:17.379Z"
 - **(a)** Except in the case of a vessel in distress, only a vessel of the United States may perform the following escort vessel operations within the navigable waters of the United States:
   - **(1)** Operations that commence or terminate at a port or place in the United States.
   - **(2)** Operations required by United States law or regulation.
-  - **(3)** Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
+  - **(3)** Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the Great Lakes St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
 - **(b)** For purposes of this section, an escort vessel is—
   - **(1)** any vessel that is assigned and dedicated to assist another vessel, whether or not tethered to that vessel, solely as a safety precaution to assist in controlling the speed or course of the assisted vessel in the event of a steering or propulsion equipment failure, or any other similar emergency circumstance, or in restricted waters where additional assistance in maneuvering the vessel is required to ensure its safe operation; and
   - **(2)** in the case of a vessel being towed under section 55111 of this title , any vessel that is assigned and dedicated to the vessel being towed in addition to any towing vessel required under that section.

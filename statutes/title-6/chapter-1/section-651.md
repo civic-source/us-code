@@ -3,9 +3,9 @@ title: "Section 651 - Definitions"
 usc_title: 6
 usc_section: "651"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 651"
-generated_at: "2026-03-29T18:47:07.399Z"
+generated_at: "2026-03-29T19:43:43.818Z"
 ---
 
 # § 651. Definitions
@@ -23,4 +23,3 @@ In this part:
     - **(E)** providing guidance on how best to utilize Federal resources and capabilities in a timely, effective manner to speed recovery from cybersecurity risks.
   - **(5)** The term “Sector Risk Management Agency” means a Federal department or agency, designated by law or presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.
   - **(6)** The term “sharing” has the meaning given the term in section 659 of this title .
-  - **(7)** The term “SLTT entity” means a domestic government entity that is a State government, local government, Tribal government, territorial government, or any subdivision thereof.

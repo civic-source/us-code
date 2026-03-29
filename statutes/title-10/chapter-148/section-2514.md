@@ -1,19 +1,12 @@
 ---
-title: "Section 2514 - Encouragement of technology transfer"
+title: "Section 2514 - Renumbered § 4832]"
 usc_title: 10
 usc_section: "2514"
 chapter: 148
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2514"
-generated_at: "2026-03-29T19:27:25.616Z"
+generated_at: "2026-03-29T19:43:37.989Z"
 ---
 
-# § 2514. Encouragement of technology transfer
+# [§ 2514. Renumbered § 4832]
 
-- **(a)** The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department of Defense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title .
-- **(b)** The Secretary shall examine and implement methods, in addition to the encouragement referred to in subsection (a) and the program described in subsection (c), that are consistent with national security objectives and will enable Department of Defense personnel to promote technology transfer.
-- **(c)**
-  - **(1)** The Secretary of Defense shall establish and implement a program to be known as the Federal Defense Laboratory Diversification Program (hereinafter in this subsection referred to as the “Program”). The purpose of the Program shall be to encourage greater cooperation in research and production activities carried out by defense laboratories and by private industry of the United States in order to enhance and improve the products of such research and production activities.
-  - **(2)** Under the Program, the defense laboratories, in coordination with the Office of Technology Transfer in the Office of the Secretary of Defense, shall carry out cooperative activities with private industry in order to promote (by the use or exchange of patents, licenses, cooperative research and development agreements and other cooperative agreements, and the use of symposia, meetings, and other similar mechanisms) the transfer of defense or dual-use technologies from the defense laboratories to private industry, and the development and application of such technologies by the defense laboratories and private industry, for the purpose of the commercial utilization of such technologies by private industry.
-  - **(3)** The Secretary of Defense shall develop and annually update a plan for each defense laboratory that participates in the Program under which plan the laboratory shall carry out cooperative activities with private industry to promote the transfers described in subsection (b).
-  - **(4)** In this subsection, the term “defense laboratory” means any laboratory owned or operated by the Department of Defense that carries out research in fiscal year 1993 in an amount in excess of $50,000,000.

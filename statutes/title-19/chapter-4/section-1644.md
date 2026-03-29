@@ -1,14 +1,14 @@
 ---
-title: "Section 1644 - Application of section 1644a(b)(1) of this title and section 1518(d) of title 33"
+title: "Section 1644 - Application of the Federal Aviation Act and section 1518(d) of title 33"
 usc_title: 19
 usc_section: "1644"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "19 U.S.C. § 1644"
-generated_at: "2026-03-29T19:28:30.683Z"
+generated_at: "2026-03-29T19:41:21.576Z"
 ---
 
-# § 1644. Application of section 1644a(b)(1) of this title and section 1518(d) of title 33
+# § 1644. Application of the Federal Aviation Act and section 1518(d) of title 33
 
 - **(a)** The authority vested by section 1644a(b)(1) of this title in the Secretary of the Treasury, by regulation to provide for the application to civil air navigation of the laws and regulations relating to the administration of customs, and of the laws and regulations relating to the entry and clearance of vessels, shall extend to the application in like manner of any of the provisions of this chapter, or of the Anti-Smuggling Act of 1935 [ 19 U.S.C. 1701 et seq.], or of any regulations promulgated hereunder.
 - **(b)** For purposes of section 1518(d) of title 33 , the term “customs laws administered by the Secretary of the Treasury” shall mean this chapter and any other provisions of law classified to this title.

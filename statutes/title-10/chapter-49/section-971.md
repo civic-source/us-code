@@ -3,9 +3,9 @@ title: "Section 971 - Service credit: officers may not count service performed w
 usc_title: 10
 usc_section: "971"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 971"
-generated_at: "2026-03-29T19:27:25.486Z"
+generated_at: "2026-03-29T19:43:37.868Z"
 ---
 
 # § 971. Service credit: officers may not count service performed while serving as cadet or midshipman
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:27:25.486Z"
 - **(a)** The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Navy Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.
 - **(b)** In computing length of service for any purpose, service as a cadet or midshipman may not be credited to any of the following officers:
   - **(1)** An officer of the Navy or Marine Corps.
-  - **(2)** A commissioned officer of the Army or Air Force.
+  - **(2)** A commissioned officer of the Army, Air Force, or Space Force.
   - **(3)** An officer of the Coast Guard.
   - **(4)** An officer in the Commissioned Corps of the Public Health Service.
 - **(c)** In this section, the term “service as a cadet or midshipman” means—

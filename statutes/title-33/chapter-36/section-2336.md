@@ -3,9 +3,9 @@ title: "Section 2336 - Abandoned and inactive noncoal mine restoration"
 usc_title: 33
 usc_section: "2336"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2336"
-generated_at: "2026-03-29T19:30:28.853Z"
+generated_at: "2026-03-29T19:43:07.711Z"
 ---
 
 # § 2336. Abandoned and inactive noncoal mine restoration
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T19:30:28.853Z"
 - **(c)** The non-Federal share of the cost of assistance under subsection (a) shall be 50 percent, except that the Federal share with respect to projects located on land owned by the United States shall be 100 percent.
 - **(d)** Nothing in this section affects the authority of the Secretary of the Interior under title IV of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1231 et seq.).
 - **(e)** The Secretary may provide assistance to non-Federal and nonprofit entities to develop, manage, and maintain a database of conventional and innovative, cost-effective technologies for reclamation of abandoned and inactive noncoal mine sites. Such assistance shall be provided through the Rehabilitation of Abandoned Mine Sites Program managed by the Sacramento District Office of the Corps of Engineers.
-- **(f)** There is authorized to be appropriated to carry out this section $20,000,000.
+- **(f)** There is authorized to be appropriated to carry out this section $30,000,000.

@@ -3,9 +3,9 @@ title: "Section 2012 - Support and services for eligible organizations and activ
 usc_title: 10
 usc_section: "2012"
 chapter: 101
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-03-29T19:27:25.557Z"
+generated_at: "2026-03-29T19:43:37.954Z"
 ---
 
 # § 2012. Support and services for eligible organizations and activities outside Department of Defense
@@ -30,7 +30,8 @@ generated_at: "2026-03-29T19:27:25.557Z"
 - **(e)** The following organizations and activities are eligible for assistance under this section:
   - **(1)** Any Federal, regional, State, or local governmental entity.
   - **(2)** Youth and charitable organizations specified in section 508 of title 32 .
-  - **(3)** Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
+  - **(3)** Owners and operators of critical infrastructure (as such term is defined in section 1016(e) of Public Law 107–56 ( 42 U.S.C. 5195c(e) )).
+  - **(4)** Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
 - **(f)** The Secretary of Defense shall prescribe regulations governing the provision of assistance under this section. The regulations shall include the following:
   - **(1)** Rules governing the types of assistance that may be provided.
   - **(2)** Procedures governing the delivery of assistance that ensure, to the maximum extent practicable, that such assistance is provided in conjunction with, rather than separate from, civilian efforts.
@@ -38,6 +39,7 @@ generated_at: "2026-03-29T19:27:25.557Z"
     - **(A)** meets a valid need; and
     - **(B)** does not duplicate other available public services.
   - **(4)** Procedures to ensure that Department of Defense resources are not applied exclusively to the program receiving the assistance.
+  - **(5)** Procedures to ensure that assistance provided to an entity specified in subsection (e)(3) is provided in a manner that is consistent with similar assistance provided under authorities applicable to other Federal departments and agencies, including the authorities of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security pursuant to title XXII of the Homeland Security Act of 2002 ( 6 U.S.C. 651 et seq.).
 - **(g)**
   - **(1)** The Secretary of a military department may not require or request a member of the armed forces to submit for consideration by a selection board (including a promotion board, command selection board, or any other kind of selection board) evidence of the member’s participation in the provision of support and services to non-Department of Defense organizations and activities under this section or the member’s involvement in, or support of, other community relations and public affairs activities of the armed forces.
   - **(2)** Paragraph (1) does not prevent a selection board from considering material submitted voluntarily by a member of the armed forces which provides evidence of the participation of that member or another member in activities described in that paragraph.

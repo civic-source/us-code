@@ -3,9 +3,9 @@ title: "Section 312b - Special pay: nuclear career accession bonus"
 usc_title: 37
 usc_section: "312b"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 312b"
-generated_at: "2026-03-29T19:30:34.097Z"
+generated_at: "2026-03-29T19:43:17.240Z"
 ---
 
 # § 312b. Special pay: nuclear career accession bonus
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T19:30:34.097Z"
 - **(b)** The Secretary of the Navy shall determine annually the total amount of the bonus to be paid under this section and of that amount the portions that are to be paid—
   - **(1)** upon selection for officer naval nuclear power training; and
   - **(2)** upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
-- **(c)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2016 , have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+- **(c)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2018 , have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.

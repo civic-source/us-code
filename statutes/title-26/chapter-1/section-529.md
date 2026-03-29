@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-29T19:30:19.877Z"
+generated_at: "2026-03-29T19:42:47.703Z"
 ---
 
 # § 529. Qualified tuition programs
@@ -48,8 +48,9 @@ generated_at: "2026-03-29T19:30:19.877Z"
         - **(II)** the total amount of qualified higher education expenses otherwise taken into account under clauses (i) and (ii) (after the application of clause (v)) for such year,
     - **(C)**
       - **(i)** Subparagraph (A) shall not apply to that portion of any distribution which, within 60 days of such distribution, is transferred—
-        - **(I)** to another qualified tuition program for the benefit of the designated beneficiary, or
-        - **(II)** to the credit of another designated beneficiary under a qualified tuition program who is a member of the family of the designated beneficiary with respect to which the distribution was made.
+        - **(I)** to another qualified tuition program for the benefit of the designated beneficiary,
+        - **(II)** to the credit of another designated beneficiary under a qualified tuition program who is a member of the family of the designated beneficiary with respect to which the distribution was made, or
+        - **(III)** before January 1, 2026 , to an ABLE account (as defined in section 529A(e)(6)) of the designated beneficiary or a member of the family of the designated beneficiary.
       - **(ii)** Any change in the designated beneficiary of an interest in a qualified tuition program shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is a member of the family of the old beneficiary.
       - **(iii)** Clause (i)(I) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified tuition program for the benefit of the designated beneficiary.
     - **(D)** In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
@@ -62,7 +63,15 @@ generated_at: "2026-03-29T19:30:19.877Z"
     - **(B)** The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) unless the new beneficiary is—
       - **(i)** assigned to the same generation as (or a higher generation than) the old beneficiary (determined in accordance with section 2651), and
       - **(ii)** a member of the family of the old beneficiary.
-  - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from an 1 1 So in original. Probably should be “a”. Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
+  - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from a Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
+  - **(7)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
+  - **(8)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for fees, books, supplies, and equipment required for the participation of a designated beneficiary in an apprenticeship program registered and certified with the Secretary of Labor under section 1 of the National Apprenticeship Act ( 29 U.S.C. 50 ).
+  - **(9)**
+    - **(A)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to amounts paid as principal or interest on any qualified education loan (as defined in section 221(d)) of the designated beneficiary or a sibling of the designated beneficiary.
+    - **(B)** The amount of distributions treated as a qualified higher education expense under this paragraph with respect to the loans of any individual shall not exceed $10,000 (reduced by the amount of distributions so treated for all prior taxable years).
+    - **(C)**
+      - **(i)** For purposes of subparagraph (B) and subsection (d), amounts treated as a qualified higher education expense with respect to the loans of a sibling of the designated beneficiary shall be taken into account with respect to such sibling and not with respect to such designated beneficiary.
+      - **(ii)** For purposes of this paragraph, the term “sibling” means an individual who bears a relationship to the designated beneficiary which is described in section 152(d)(2)(B).
 - **(d)** Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** For purposes of this section—
   - **(1)** The term “designated beneficiary” means—
@@ -76,8 +85,8 @@ generated_at: "2026-03-29T19:30:19.877Z"
     - **(D)** any first cousin of such beneficiary.
   - **(3)**
     - **(A)** The term “qualified higher education expenses” means—
-      - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
-      - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance 2 2 So in original. Probably should be followed by “; and”.
+      - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution,
+      - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance, and
       - **(iii)** expenses for the purchase of computer or peripheral equipment (as defined in section 168(i)(2)(B)), computer software (as defined in section 197(e)(3)(B)), or Internet access and related services, if such equipment, software, or services are to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible educational institution.
     - **(B)**
       - **(i)** In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.

@@ -1,12 +1,21 @@
 ---
-title: "Section 2001 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(a)(3)(A), Oct. 5, 1994 , 108 Stat. 2980 ]"
+title: "Section 2001 - Human relations training"
 usc_title: 10
 usc_section: "2001"
 chapter: 101
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2001"
-generated_at: "2026-03-29T19:27:25.555Z"
+generated_at: "2026-03-29T19:43:37.953Z"
 ---
 
-# [§ 2001. Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(a)(3)(A), Oct. 5, 1994 , 108 Stat. 2980 ]
+# § 2001. Human relations training
 
+- **(a)**
+  - **(1)**
+    - **(A)** The Secretary of Defense shall ensure that the Secretary of each military department conducts ongoing programs for human relations training for all members of the armed forces under the jurisdiction of the Secretary.
+    - **(B)** Matters covered by such training include race relations, equal opportunity, opposition to gender discrimination, and sensitivity to hate group activity.
+    - **(C)** Such training shall be provided during basic training (or other initial military training) and on a regular basis thereafter.
+  - **(2)** The Secretary of Defense shall ensure that a unit commander is aware of the responsibility to ensure that impermissible activity, based upon discriminatory motives, does not occur in a unit under the command of such commander.
+- **(b)** The Secretary of Defense shall ensure that—
+  - **(1)** each individual preparing to enter an officer accession program or to execute an original enlistment agreement is provided information concerning the meaning of the oath of office or oath of enlistment for service in the armed forces in terms of the equal protection and civil liberties guarantees of the Constitution; and
+  - **(2)** each such individual is informed that if supporting such guarantees is not possible personally for that individual, then that individual should decline to enter the armed forces.

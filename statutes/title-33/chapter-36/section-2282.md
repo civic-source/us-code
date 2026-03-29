@@ -3,9 +3,9 @@ title: "Section 2282 - Feasibility reports"
 usc_title: 33
 usc_section: "2282"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2282"
-generated_at: "2026-03-29T19:30:28.836Z"
+generated_at: "2026-03-29T19:43:07.695Z"
 ---
 
 # § 2282. Feasibility reports
@@ -20,6 +20,21 @@ generated_at: "2026-03-29T19:30:28.836Z"
     - **(D)** general studies not intended to lead to recommendation of a specific water resources project.
   - **(4)** In this subsection, the term “feasibility report” means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 ( 114 Stat. 2680–2694 ), a general reevaluation report, and a limited reevaluation report.
 - **(b)**
+  - **(1)**
+    - **(A)** In preparing a feasibility report under subsection (a) for a study that will benefit an economically disadvantaged community, upon request by the non-Federal interest for the study, the Secretary shall first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
+    - **(B)**
+      - **(i)** In preparing a feasibility report under subsection (a) for a study that will benefit a covered community, upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 3 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
+      - **(ii)** In this subparagraph, the term “covered community” means a community that—
+        - **(I)** is not an economically disadvantaged community; and
+        - **(II)** the Secretary finds has a compelling need for the Secretary to make a determination under clause (i).
+  - **(2)** The costs of a determination under paragraph (1)—
+    - **(A)** shall be at Federal expense; and
+    - **(B)** shall not exceed $200,000.
+  - **(3)** A determination under paragraph (1) shall be completed by not later than 120 days after the date on which funds are made available to the Secretary to carry out the determination.
+  - **(4)**
+    - **(A)** The period during which a determination is being completed under paragraph (1) for a study shall not be included for purposes of the deadline to complete a final feasibility report under section 2282c(a)(1) of this title .
+    - **(B)** The cost of a determination under paragraph (1) shall not be included for purposes of the maximum Federal cost under section 2282c(a)(2) of this title .
+  - **(5)** If, based on a determination under paragraph (1), the Secretary determines that a study or project is not in the Federal interest because the project will not result, or is unlikely to result, in a recommended plan that will produce national economic development benefits greater than cost, but may result in a technically sound and environmentally acceptable plan that is otherwise consistent with section 2281 of this title , the Secretary shall issue a report to the non-Federal interest with recommendations on how the non-Federal interest might modify the proposal such that the project could be in the Federal interest and feasible.
 - **(c)** In the case of any water resources project-related study authorized to be undertaken by the Secretary without specific authorization by Congress in law or otherwise, the Secretary shall prepare a detailed project report.
 - **(d)** For purposes of studies undertaken pursuant to this section, the Secretary is authorized to consider benefits which may accrue to Indian tribes as a result of a project resulting from such a study.
 - **(e)** The Secretary shall undertake such measures as are necessary to ensure that standard and uniform procedures and practices are followed by each district office (and each division office for any area in which there is no district office) of the United States Army Corps of Engineers in the preparation of feasibility reports on water resources projects.

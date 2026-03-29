@@ -3,9 +3,9 @@ title: "Section 6107 - Reissuance of benefits"
 usc_title: 38
 usc_section: "6107"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 6107"
-generated_at: "2026-03-29T19:30:40.560Z"
+generated_at: "2026-03-29T19:43:27.064Z"
 ---
 
 # § 6107. Reissuance of benefits
@@ -17,10 +17,7 @@ generated_at: "2026-03-29T19:30:40.560Z"
     - **(B)** A case in which the Secretary was notified of allegations of misuse, but failed to act within 60 days of the date of such notification to terminate the fiduciary.
     - **(C)** In any other case in which actual negligence is shown.
 - **(b)**
-  - **(1)** In any case in which a fiduciary described in paragraph (2) misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
-  - **(2)** Paragraph (1) applies to a fiduciary that—
-    - **(A)** is not an individual; or
-    - **(B)** is an individual who, for any month during a period when misuse occurs, serves 10 or more individuals who are beneficiaries under this title.
-  - **(3)** In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary as the case may be.
+  - **(1)** In any case not covered by subsection (a) in which a fiduciary misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
+  - **(2)** In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary as the case may be.
 - **(c)** The total of the amounts paid to a beneficiary (or a beneficiary’s successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
 - **(d)** In any case in which the Secretary reissues a benefit payment (in whole or in part) under subsection (a) or (b), the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.

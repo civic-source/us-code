@@ -3,9 +3,9 @@ title: "Section 289 - Dividends and surplus funds of reserve banks; transfer for
 usc_title: 12
 usc_section: "289"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 289"
-generated_at: "2026-03-29T19:28:17.500Z"
+generated_at: "2026-03-29T19:44:53.937Z"
 ---
 
 # § 289. Dividends and surplus funds of reserve banks; transfer for fiscal year 2000
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:28:17.500Z"
     - **(C)** The Board of Governors of the Federal Reserve System shall annually adjust the dollar amounts of total consolidated assets specified under subparagraph (A) to reflect the change in the Gross Domestic Product Price Index, published by the Bureau of Economic Analysis.
   - **(2)** That portion of net earnings of each Federal reserve bank which remains after dividend claims under paragraph (1)(A) have been fully met shall be deposited in the surplus fund of the bank.
   - **(3)**
-    - **(A)** The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $10,000,000,000.
+    - **(A)** The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $6,825,000,000.
     - **(B)** Any amounts of the surplus funds of the Federal reserve banks that exceed, or would exceed, the limitation under subparagraph (A) shall be transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 - **(b)**
   - **(1)** The Federal reserve banks shall transfer from the surplus funds of such banks to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $3,752,000,000 in fiscal year 2000.

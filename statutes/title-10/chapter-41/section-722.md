@@ -1,14 +1,12 @@
 ---
-title: "Section 722 - Attending Physician to the Congress: grade"
+title: "Section 722 - Repealed. Pub. L. 114–328, div. A, title V, § 502(h)(1) , Dec. 23, 2016 , 130 Stat. 2103 ]"
 usc_title: 10
 usc_section: "722"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 722"
-generated_at: "2026-03-29T19:27:25.462Z"
+generated_at: "2026-03-29T19:43:37.840Z"
 ---
 
-# § 722. Attending Physician to the Congress: grade
-
-A general officer serving as Attending Physician to the Congress, while so serving, holds the grade of major general. A flag officer serving as Attending Physician to the Congress, while so serving, holds the grade of rear admiral.
+# [§ 722. Repealed. Pub. L. 114–328, div. A, title V, § 502(h)(1) , Dec. 23, 2016 , 130 Stat. 2103 ]
 

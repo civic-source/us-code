@@ -1,14 +1,18 @@
 ---
-title: "Section 906 - Art. 106. Spies"
+title: "Section 906 - Art. 106. Impersonation of officer, noncommissioned or petty officer, or agent or official"
 usc_title: 10
 usc_section: "906"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 906"
-generated_at: "2026-03-29T19:27:25.476Z"
+generated_at: "2026-03-29T19:43:37.855Z"
 ---
 
-# § 906. Art. 106. Spies
+# § 906. Art. 106. Impersonation of officer, noncommissioned or petty officer, or agent or official
 
-Any person who in time of war is found lurking as a spy or acting as a spy in or about any place, vessel, or aircraft, within the control or jurisdiction of any of the armed forces, or in or about any shipyard, any manufacturing or industrial plant, or any other place or institution engaged in work in aid of the prosecution of the war by the United States, or elsewhere, shall be tried by a general court-martial or by a military commission and on conviction shall be punished by death. This section does not apply to a military commission established under chapter 47A of this title.
-
+- **(a)** Any person subject to this chapter who, wrongfully and willfully, impersonates—
+  - **(1)** an officer, a noncommissioned officer, or a petty officer;
+  - **(2)** an agent of superior authority of one of the armed forces; or
+  - **(3)** an official of a government;
+- **(b)** Any person subject to this chapter who, wrongfully, willfully, and with intent to defraud, impersonates any person referred to in paragraph (1), (2), or (3) of subsection (a) shall be punished as a court-martial may direct.
+- **(c)** Any person subject to this chapter who, wrongfully, willfully, and without intent to defraud, impersonates an official of a government by committing an act that exercises or asserts the authority of the office that the person claims to have shall be punished as a court-martial may direct.

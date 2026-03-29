@@ -1,14 +1,14 @@
 ---
-title: "Section 453B - Gain or loss disposition of installment obligations"
+title: "Section 453B - Gain or loss on disposition of installment obligations"
 usc_title: 26
 usc_section: "453B"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 453B"
-generated_at: "2026-03-29T19:30:19.850Z"
+generated_at: "2026-03-29T19:42:47.677Z"
 ---
 
-# § 453B. Gain or loss disposition of installment obligations
+# § 453B. Gain or loss on disposition of installment obligations
 
 - **(a)** If an installment obligation is satisfied at other than its face value or distributed, transmitted, sold, or otherwise disposed of, gain or loss shall result to the extent of the difference between the basis of the obligation and—
   - **(1)** the amount realized, in the case of satisfaction at other than face value or a sale or exchange, or
@@ -20,7 +20,12 @@ generated_at: "2026-03-29T19:30:19.850Z"
   - **(1)** In the case of a disposition of an installment obligation by any person other than a life insurance company (as defined in section 816(a)) to such an insurance company or to a partnership of which such an insurance company is a partner, no provision of this subtitle providing for the nonrecognition of gain shall apply with respect to any gain resulting under subsection (a). If a corporation which is a life insurance company for the taxable year was (for the preceding taxable year) a corporation which was not a life insurance company, such corporation shall, for purposes of this subsection and subsection (a), be treated as having transferred to a life insurance company, on the last day of the preceding taxable year, all installment obligations which it held on such last day. A partnership of which a life insurance company becomes a partner shall, for purposes of this subsection and subsection (a), be treated as having transferred to a life insurance company, on the last day of the preceding taxable year of such partnership, all installment obligations which it holds at the time such insurance company becomes a partner.
   - **(2)** Paragraph (1) shall not apply to any transfer or deemed transfer of an installment obligation if the life insurance company elects (at such time and in such manner as the Secretary may by regulations prescribe) to determine its life insurance company taxable income—
     - **(A)** by returning the income on such installment obligation under the installment method prescribed in section 453, and
-    - **(B)** as if such income were an item attributable to a noninsurance business (as defined in section 806(b)(3)).
+    - **(B)** as if such income were an item attributable to a noninsurance business.
+  - **(3)**
+    - **(A)** For purposes of this subsection, the term “noninsurance business” means any activity which is not an insurance business.
+    - **(B)** For purposes of subparagraph (A), any activity which is not an insurance business shall be treated as an insurance business if—
+      - **(i)** it is of a type traditionally carried on by life insurance companies for investment purposes, but only if the carrying on of such activity (other than in the case of real estate) does not constitute the active conduct of a trade or business, or
+      - **(ii)** it involves the performance of administrative services in connection with plans providing life insurance, pension, or accident and health benefits.
 - **(f)** For purposes of this section, if any installment obligation is canceled or otherwise becomes unenforceable—
   - **(1)** the obligation shall be treated as if it were disposed of in a transaction other than a sale or exchange, and
   - **(2)** if the obligor and obligee are related persons (within the meaning of section 453(f)(1)), the fair market value of the obligation shall be treated as not less than its face amount.

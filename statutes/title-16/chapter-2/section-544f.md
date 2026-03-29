@@ -3,9 +3,9 @@ title: "Section 544f - Administration of special management areas"
 usc_title: 16
 usc_section: "544f"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 544f"
-generated_at: "2026-03-29T19:29:27.290Z"
+generated_at: "2026-03-29T19:41:13.536Z"
 ---
 
 # § 544f. Administration of special management areas
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:29:27.290Z"
   - **(1)** based on the resource inventory prepared by the Secretary pursuant to this section; and
   - **(2)** consistent with the standards established in section 544d of this title .
 - **(f)**
-  - **(1)** 2 2 So in original. No par. (2) has been enacted. Within three years after November 17, 1986 , the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
+  - **(1)** 1 Within three years after November 17, 1986 , the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
 - **(h)**
   - **(1)** Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection ( l ) of this section.
   - **(2)** Within two hundred seventy days of receipt of the management plan, each county shall adopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.

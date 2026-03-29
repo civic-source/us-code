@@ -3,12 +3,12 @@ title: "Section 1070 - Appeals to Trademark Trial and Appeal Board from decision
 usc_title: 15
 usc_section: "1070"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 1070"
-generated_at: "2026-03-29T19:27:55.403Z"
+generated_at: "2026-03-29T19:44:42.700Z"
 ---
 
 # § 1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
 
-An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee.
+An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
 

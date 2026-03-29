@@ -3,15 +3,15 @@ title: "Section 1302 - Determination of pay grade"
 usc_title: 38
 usc_section: "1302"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 1302"
-generated_at: "2026-03-29T19:30:40.468Z"
+generated_at: "2026-03-29T19:43:26.952Z"
 ---
 
 # § 1302. Determination of pay grade
 
-- **(a)** With respect to a veteran who died in the active military, naval, or air service, such veteran’s pay grade shall be determined as of the date of such veteran’s death or as of the date of a promotion after death while in a missing status.
-- **(b)** With respect to a veteran who did not die in the active military, naval, or air service, such veteran’s pay grade shall be determined as of—
+- **(a)** With respect to a veteran who died in the active military, naval, air, or space service, such veteran’s pay grade shall be determined as of the date of such veteran’s death or as of the date of a promotion after death while in a missing status.
+- **(b)** With respect to a veteran who did not die in the active military, naval, air, or space service, such veteran’s pay grade shall be determined as of—
   - **(1)** the time of such veteran’s last discharge or release from active duty under conditions other than dishonorable; or
   - **(2)** the time of such veteran’s discharge or release from any period of active duty for training or inactive duty training, if such veteran’s death results from service-connected disability incurred during such period and if such veteran was not thereafter discharged or released under conditions other than dishonorable from active duty.
 - **(c)** The pay grade of any veteran described in section 106(b) of this title shall be that to which such veteran would have been assigned upon final acceptance or entry upon active duty.

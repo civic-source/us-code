@@ -3,9 +3,9 @@ title: "Section 3741 - Postal service"
 usc_title: 22
 usc_section: "3741"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 3741"
-generated_at: "2026-03-29T19:29:46.839Z"
+generated_at: "2026-03-29T19:42:08.156Z"
 ---
 
 # § 3741. Postal service

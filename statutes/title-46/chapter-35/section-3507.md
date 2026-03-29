@@ -3,9 +3,9 @@ title: "Section 3507 - Passenger vessel security and safety requirements"
 usc_title: 46
 usc_section: "3507"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 3507"
-generated_at: "2026-03-29T19:32:17.318Z"
+generated_at: "2026-03-29T19:44:39.391Z"
 ---
 
 # § 3507. Passenger vessel security and safety requirements
@@ -20,12 +20,36 @@ generated_at: "2026-03-29T19:32:17.318Z"
     - **(D)** The vessel shall integrate technology that can be used for capturing images of passengers or detecting passengers who have fallen overboard, to the extent that such technology is available.
     - **(E)** The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the United States Coast Guard).
   - **(2)** In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
-  - **(3)**
-    - **(A)** Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
-    - **(B)** The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
 - **(b)**
-  - **(1)** The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
-  - **(2)** The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
+  - **(1)**
+    - **(A)** The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes.
+    - **(B)**
+      - **(i)** Not later than 18 months after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, the Commandant in consultation with other relevant Federal agencies or entities as determined by the Commandant, shall establish guidance for performance of the risk assessment described in paragraph (2) regarding the appropriate placement of video surveillance equipment in passenger and crew common areas where there is no reasonable expectation of privacy.
+      - **(ii)** Not later than 1 year after the Commandant establishes the guidance described in paragraph (1), the owner shall conduct the risk assessment required under paragraph (1) and shall—
+        - **(I)** evaluate the placement of video surveillance equipment to deter, prevent, and record a sexual assault aboard the vessel considering factors such as: ship layout and design, itinerary, crew complement, number of passengers, passenger demographics, and historical data on the type and location of prior sexual assault incident allegations;
+        - **(II)** incorporate to the maximum extent practicable the video surveillance guidance established by the Commandant regarding the appropriate placement of video surveillance equipment;
+        - **(III)** arrange for the risk assessment to be conducted by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent and record criminal behavior; and
+        - **(IV)** the independent third party referred to in paragraph (C) shall be a company that has been accepted by a classification society that is a member of the International Association of Classification Societies (hereinafter referred to as “IACS”) or another classification society recognized by the Secretary as meeting acceptable standards for such a society pursuant to section 3316(b).
+    - **(C)** Not later than 180 days after completion of the risk assessment conducted under subparagraph (B)(ii), the owner of a vessel shall develop a plan to install video surveillance equipment in places determined to be appropriate in accordance with the results of the risk assessment conducted under subparagraph (B)(ii), except in areas where a person has a reasonable expectation of privacy. Such plan shall be evaluated and approved by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent and record criminal behavior that has been accepted as set forth in paragraph (2)(D).
+    - **(D)** The owner of a vessel to which this section applies shall, consistent with the surveillance plan approved under subparagraph (C), install appropriate video surveillance equipment aboard the vessel not later than 2 years after approval of the plan, or during the next scheduled drydock, whichever is later.
+    - **(E)** At the time of initial installation under subparagraph (D), the vessel owner shall obtain written attestations from—
+      - **(i)** an IACS classification society that the video surveillance equipment is installed in accordance with the surveillance plan required under subparagraph (C); and
+      - **(ii)** the company security officer that the surveillance equipment and associated systems are operational, which attestation shall be obtained each year thereafter.
+    - **(F)** The vessel owner shall ensure the risk assessment described in subparagraph (B)(ii) and installation plan in subparagraph (C) are updated not later than 5 years after the initial installation conducted under subparagraph (D), and every 5 years thereafter. The updated assessment and plan shall be approved by an independent third party with expertise in the use and placement of camera surveillance to deter, prevent, and record criminal behavior that has been accepted by an IACS classification society. The vessel owner shall implement the updated installation plan not later than 180 days after approval.
+    - **(G)** Each risk assessment, installation plan and attestation shall be protected from disclosure under the Freedom of Information Act, section 552 of title 5 but shall be available to the Coast Guard—
+      - **(i)** upon request, and
+      - **(ii)** at the time of the certificate of compliance or certificate of inspection examination.
+    - **(H)** For purposes of this section a “ship security officer” is an individual that, with the master’s approval, has full responsibility for vessel security consistent with the International Ship and Port Facility Security Code.
+  - **(2)** The owner of a vessel to which this section applies shall provide clear and conspicuous signs on board the vessel notifying the public of the presence of video surveillance equipment.
+  - **(3)**
+    - **(A)** The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
+    - **(B)** Except as proscribed by law enforcement authorities or court order, the owner of a vessel to which this section applies shall, upon written request, provide to any individual or the individual’s legal representative a copy of all records of video surveillance—
+      - **(i)** in which the individual is a subject of the video surveillance; and
+      - **(ii)** that may provide evidence of any sexual assault incident in a civil action.
+    - **(C)** The owner of a vessel to which this section applies shall ensure that access to records of video surveillance is limited to the purposes described in this paragraph.
+  - **(4)** The owner of a vessel to which this section applies shall retain all records of video surveillance for not less than 20 days after the footage is obtained. The vessel owner shall include a statement in the security guide required by subsection (c)(1)(A) that the vessel owner is required by law to retain video surveillance footage for the period specified in this paragraph. If an incident described in subsection (g)(3)(A)(i) is alleged and reported to law enforcement, all records of video surveillance from the voyage that the Federal Bureau of Investigation determines are relevant shall—
+    - **(A)** be provided to the Federal Bureau of Investigation; and
+    - **(B)** be preserved by the vessel owner for not less than 4 years from the date of the alleged incident.
 - **(c)**
   - **(1)** The owner of a vessel to which this section applies (or the owner’s designee) shall—
     - **(A)** have available for each passenger a guide (referred to in this subsection as the “security guide”), written in commonly understood English, which—
@@ -55,7 +79,7 @@ generated_at: "2026-03-29T19:32:17.318Z"
     - **(A)** information, other than medical findings, necessary for the owner or master of the vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
     - **(B)** information to secure the safety of passengers or crew on board the vessel; or
     - **(C)** any information to law enforcement officials performing official duties in the course and scope of an investigation; and
-  - **(2)** treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
+  - **(2)** treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services as confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
 - **(f)** The owner of a vessel to which this section applies shall—
   - **(1)** establish and implement procedures and restrictions concerning—
     - **(A)** which crewmembers have access to passenger staterooms; and
@@ -109,15 +133,12 @@ generated_at: "2026-03-29T19:32:17.318Z"
   - **(2)** The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
     - **(A)** commits an act or omission for which a penalty may be imposed under this subsection; or
     - **(B)** fails to pay a penalty imposed on the owner under this subsection.
-- **(i)** Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
+- **(i)** The Secretary shall maintain guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
 - **(j)** The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
 - **(k)**
-  - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
+  - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
     - **(A)** is authorized to carry at least 250 passengers;
-    - **(B)** has onboard sleeping facilities for each passenger;
-    - **(C)** is on a voyage that embarks or disembarks passengers in the United States; and
-    - **(D)** is not engaged on a coastwise voyage.
+    - **(B)** has onboard sleeping facilities for each passenger; and
+    - **(C)** is on a voyage that embarks or disembarks passengers in the United States.
   - **(2)** This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
-- **(l)** In this section and section 3508:
-  - **(1)** The term “Commandant” means the Commandant of the Coast Guard.
-  - **(2)** The term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
+- **(l)** In this section and section 3508, the term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.

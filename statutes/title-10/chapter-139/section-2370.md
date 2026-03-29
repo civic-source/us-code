@@ -1,12 +1,12 @@
 ---
-title: "Section 2370 - Repealed. Pub. L. 104–106, div. A, title X , § 1061(j)(1), Feb. 10, 1996 , 110 Stat. 443 ]"
+title: "Section 2370 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(j)(1) , Feb. 10, 1996 , 110 Stat. 443 ]"
 usc_title: 10
 usc_section: "2370"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2370"
-generated_at: "2026-03-29T19:27:25.598Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# [§ 2370. Repealed. Pub. L. 104–106, div. A, title X , § 1061(j)(1), Feb. 10, 1996 , 110 Stat. 443 ]
+# [§ 2370. Repealed. Pub. L. 104–106, div. A, title X, § 1061(j)(1) , Feb. 10, 1996 , 110 Stat. 443 ]
 

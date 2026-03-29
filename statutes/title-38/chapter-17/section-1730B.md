@@ -5,7 +5,7 @@ usc_section: "1730B"
 chapter: 17
 current_through: "PL 117-81"
 classification: "38 U.S.C. § 1730B"
-generated_at: "2026-03-29T18:46:01.603Z"
+generated_at: "2026-03-29T19:43:26.972Z"
 ---
 
 # § 1730B. Access to State prescription drug monitoring programs

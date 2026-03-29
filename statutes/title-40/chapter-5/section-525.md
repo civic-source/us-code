@@ -3,9 +3,9 @@ title: "Section 525 - Excess personal property for federal agency grantees"
 usc_title: 40
 usc_section: "525"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "40 U.S.C. § 525"
-generated_at: "2026-03-29T19:30:36.677Z"
+generated_at: "2026-03-29T19:43:21.239Z"
 ---
 
 # § 525. Excess personal property for federal agency grantees

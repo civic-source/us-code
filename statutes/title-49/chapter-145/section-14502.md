@@ -3,15 +3,15 @@ title: "Section 14502 - Tax discrimination against motor carrier transportation 
 usc_title: 49
 usc_section: "14502"
 chapter: 145
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 14502"
-generated_at: "2026-03-29T19:32:28.781Z"
+generated_at: "2026-03-29T19:44:57.888Z"
 ---
 
 # § 14502. Tax discrimination against motor carrier transportation property
 
 - **(a)** In this section, the following definitions apply:
-  - **(1)** The term “assessment” means valuation for a property tax levied by a taxing district.
+  - **(1)** The term “assessment” means valuation for a property tax levied by a taxing district.+
   - **(2)** The term “assessment jurisdiction” means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
   - **(3)** The term “motor carrier transportation property” means property, as defined by the Secretary, owned or used by a motor carrier providing transportation in interstate commerce whether or not such transportation is subject to jurisdiction under subchapter I of chapter 135.
   - **(4)** The term “commercial and industrial property” means property, other than transportation property and land used primarily for agricultural purposes or timber growing, devoted to a commercial or industrial use, and subject to a property tax levy.

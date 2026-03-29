@@ -3,14 +3,16 @@ title: "Section 44735 - Limitation on disclosure of safety information"
 usc_title: 49
 usc_section: "44735"
 chapter: 447
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 44735"
-generated_at: "2026-03-29T19:32:28.882Z"
+generated_at: "2026-03-29T19:44:58.001Z"
 ---
 
 # § 44735. Limitation on disclosure of safety information
 
-- **(a)** Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosed to the public by the Administrator of the Federal Aviation Administration pursuant to section 552(b)(3)(B) of title 5 if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law.
+- **(a)** Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosed to the public by the Administrator of the Federal Aviation Administration pursuant to section 552(b)(3)(B) of title 5 —
+  - **(1)** if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law; or
+  - **(2)** if the report, data, or other information is submitted to the Federal Aviation Administration pursuant to section 102(e) of the Aircraft Certification, Safety, and Accountability Act.
 - **(b)** The limitation established by subsection (a) shall apply to the following:
   - **(1)** Reports, data, or other information developed under the Aviation Safety Action Program.
   - **(2)** Reports, data, or other information produced or collected under the Flight Operational Quality Assurance Program.

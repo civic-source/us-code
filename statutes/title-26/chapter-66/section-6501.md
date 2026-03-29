@@ -3,9 +3,9 @@ title: "Section 6501 - Limitations on assessment and collection"
 usc_title: 26
 usc_section: "6501"
 chapter: 66
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6501"
-generated_at: "2026-03-29T19:30:20.210Z"
+generated_at: "2026-03-29T19:42:47.988Z"
 ---
 
 # § 6501. Limitations on assessment and collection
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:30:20.210Z"
   - **(2)** In case of a willful attempt in any manner to defeat or evade tax imposed by this title (other than tax imposed by subtitle A or B), the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time.
   - **(3)** In the case of failure to file a return, the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time.
   - **(4)**
-    - **(A)** Where, before the expiration of the time prescribed in this section for the assessment of any tax imposed by this title, except the estate tax provided in chapter 11, both the Secretary and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
+    - **(A)** Where, before the expiration of the time prescribed for the assessment of any tax imposed by this title, except the estate tax provided in chapter 11, both the Secretary and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
     - **(B)** The Secretary shall notify the taxpayer of the taxpayer’s right to refuse to extend the period of limitations, or to limit such extension to particular issues or to a particular period of time, on each occasion when the taxpayer is requested to provide such consent.
   - **(5)** For special rules applicable in cases where the adjustment of certain taxes allowed as a credit against income taxes or estate taxes results in additional tax, see section 905(c) (relating to the foreign tax credit for income tax purposes) and section 2016 (relating to taxes of foreign countries, States, etc., claimed as credit against estate taxes).
   - **(6)** In the case of a tax on termination of private foundation status under section 507, such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time.
@@ -34,6 +34,9 @@ generated_at: "2026-03-29T19:30:20.210Z"
     - **(A)** the date on which the Secretary is furnished the information so required, or
     - **(B)** the date that a material advisor meets the requirements of section 6112 with respect to a request by the Secretary under section 6112(b) relating to such transaction with respect to such taxpayer.
   - **(11)** In the case of any amount described in section 6201(a)(4), such amount may be assessed, or a proceeding in court for the collection of such amount may be begun without assessment, at any time.
+  - **(12)** In the case of any partnership adjustment determined under subchapter C of chapter 63, the period for assessment of any tax imposed under chapter 2 or 2A which is attributable to such adjustment shall not expire before the date that is 1 year after—
+    - **(A)** in the case of an adjustment pursuant to the decision of a court in a proceeding brought under section 6234, such decision becomes final, or
+    - **(B)** in any other case, 90 days after the date on which the notice of the final partnership adjustment is mailed under section 6231.
 - **(d)** Except as otherwise provided in subsection (c), (e), or (f), in the case of any tax (other than the tax imposed by chapter 11 of subtitle B, relating to estate taxes) for which return is required in the case of a decedent, or by his estate during the period of administration, or by a corporation, the tax shall be assessed, and any proceeding in court without assessment for the collection of such tax shall be begun, within 18 months after written request therefor (filed after the return is made and filed in such manner and such form as may be prescribed by regulations of the Secretary) by the executor, administrator, or other fiduciary representing the estate of such decedent, or by the corporation, but not after the expiration of 3 years after the return was filed. This subsection shall not apply in the case of a corporation unless—
   - **(1)**
     - **(A)** such written request notifies the Secretary that the corporation contemplates dissolution at or before the expiration of such 18-month period, (B) the dissolution is in good faith begun before the expiration of such 18-month period, and (C) the dissolution is completed;
@@ -71,8 +74,5 @@ generated_at: "2026-03-29T19:30:20.210Z"
   - **(1)** For purposes of any tax imposed by section 4912, by chapter 42 (other than section 4940), or by section 4975, the return referred to in this section shall be the return filed by the private foundation, plan, trust, or other organization (as the case may be) for the year in which the act (or failure to act) giving rise to liability for such tax occurred. For purposes of section 4940, such return is the return filed by the private foundation for the taxable year for which the tax is imposed.
   - **(2)** In the case of a deficiency of tax of a private foundation making a contribution in the manner provided in section 4942(g)(3) (relating to certain contributions to section 501(c)(3) organizations) attributable to the failure of a section 501(c)(3) organization to make the distribution prescribed by section 4942(g)(3), such deficiency may be assessed at any time before the expiration of one year after the expiration of the period within which a deficiency may be assessed for the taxable year with respect to which the contribution was made.
   - **(3)** In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
-- **(m)** The period for assessing a deficiency attributable to any election under 1 1 So in original. Probably should be followed by “section”. 30B(h)(9), 30C(e)(5), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
-- **(n)**
-  - **(1)** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
-  - **(2)** For extension of period in the case of partnership items (as defined in section 6231(a)(3)), see section 6229.
-  - **(3)** For declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return, see section 6234.
+- **(m)** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+- **(n)** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).

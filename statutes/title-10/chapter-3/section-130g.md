@@ -1,14 +1,12 @@
 ---
-title: "Section 130g - Authorities concerning military cyber operations"
+title: "Section 130g - Renumbered § 394]"
 usc_title: 10
 usc_section: "130g"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 130g"
-generated_at: "2026-03-29T19:27:25.422Z"
+generated_at: "2026-03-29T19:43:37.774Z"
 ---
 
-# § 130g. Authorities concerning military cyber operations
-
-The Secretary of Defense shall develop, prepare, and coordinate; make ready all armed forces for purposes of; and, when appropriately authorized to do so, conduct, a military cyber operation in response to malicious cyber activity carried out against the United States or a United States person by a foreign power (as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 )).
+# [§ 130g. Renumbered § 394]
 

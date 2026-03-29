@@ -3,9 +3,9 @@ title: "Section 4612 - Missile proliferation control violations"
 usc_title: 50
 usc_section: "4612"
 chapter: 56
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4612"
-generated_at: "2026-03-29T19:32:24.312Z"
+generated_at: "2026-03-29T19:44:52.929Z"
 ---
 
 # § 4612. Missile proliferation control violations
@@ -13,13 +13,13 @@ generated_at: "2026-03-29T19:32:24.312Z"
 - **(a)**
   - **(1)**
     - **(A)** If the President determines that a United States person knowingly—
-      - **(i)** exports, transfers, or otherwise engages in the trade of any item on the MTCR Annex, in violation of the provisions of section 38 ( 22 U.S.C. 2778 ) or chapter 7 of the Arms Export Control Act [ 22 U.S.C. 2797 et seq.], section 4604 or 4605 of this title, or any regulations or orders issued under any such provisions,
+      - **(i)** exports, transfers, or otherwise engages in the trade of any item on the MTCR Annex, in violation of the provisions of section 38 ( 22 U.S.C. 2778 ) or chapter 7 of the Arms Export Control Act [ 22 U.S.C. 2797 et seq.], section 4604 or 4605 1 1 See References in Text note below. of this title, or any regulations or orders issued under any such provisions,
       - **(ii)** conspires to or attempts to engage in such export, transfer, or trade, or
       - **(iii)** facilitates such export, transfer, or trade by any other person,
     - **(B)** The sanctions which apply to a United States person under subparagraph (A) are the following:
       - **(i)** If the item on the MTCR Annex involved in the export, transfer, or trade is missile equipment or technology within category II of the MTCR Annex, then the President shall deny to such United States person, for a period of 2 years, licenses for the transfer of missile equipment or technology controlled under this chapter.
       - **(ii)** If the item on the MTCR Annex involved in the export, transfer, or trade is missile equipment or technology within category I of the MTCR Annex, then the President shall deny to such United States person, for a period of not less than 2 years, all licenses for items the export of which is controlled under this chapter.
-  - **(2)** In the case of any determination referred to in paragraph (1), the Secretary may pursue any other appropriate penalties under section 4610 of this title .
+  - **(2)** In the case of any determination referred to in paragraph (1), the Secretary may pursue any other appropriate penalties under section 4610 1 of this title.
   - **(3)** The President may waive the imposition of sanctions under paragraph (1) on a person with respect to a product or service if the President certifies to the Congress that—
     - **(A)** the product or service is essential to the national security of the United States; and
     - **(B)** such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T19:32:24.312Z"
       - **(ii)** component parts, but not finished products, essential to United States products or production,
       - **(iii)** routine services and maintenance of products, to the extent that alternative sources are not readily or reasonably available, or
       - **(iv)** information and technology essential to United States products or production.
-- **(c)** For purposes of this section and subsections (k) and ( l ) of section 4605 of this title —
+- **(c)** For purposes of this section and subsections (k) and ( l ) of section 4605 1 of this title—
   - **(1)** the term “missile” means a category I system as defined in the MTCR Annex, and any other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
   - **(2)** the term “Missile Technology Control Regime” or “MTCR” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987 , to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
   - **(3)** the term “MTCR adherent” means a country that participates in the MTCR or that, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;

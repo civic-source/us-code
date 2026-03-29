@@ -3,9 +3,9 @@ title: "Section 2780 - Transactions with countries supporting acts of internatio
 usc_title: 22
 usc_section: "2780"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2780"
-generated_at: "2026-03-29T19:29:46.819Z"
+generated_at: "2026-03-29T19:42:08.135Z"
 ---
 
 # § 2780. Transactions with countries supporting acts of international terrorism
@@ -61,9 +61,9 @@ generated_at: "2026-03-29T19:29:46.819Z"
   - **(1)** With regard to munitions items controlled pursuant to this chapter, the provisions of this section shall apply notwithstanding any other provision of law, other than section 614(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2364(a) ).
   - **(2)** If the authority of section 614(a) of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2364(a) ] is used to permit a transaction under that Act [ 22 U.S.C. 2151 et seq.] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
 - **(j)** Any person who willfully violates this section shall be fined for each violation not more than $1,000,000, imprisoned not more than 20 years, or both.
-- **(k)** In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 [ 50 U.S.C. 4610(c) , (e), (g), 4614(a)] (subject to the same terms and conditions as are applicable to such powers under that Act [ 50 U.S.C. 4601 et seq.]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
+- **(k)** In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) 1 1 See References in Text note below. of the Export Administration Act of 1979 (subject to the same terms and conditions as are applicable to such powers under that Act), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
 - **(l)** As used in this section—
-  - **(1)** the term “munitions item” means any item enumerated on the United States Munitions list 1 1 So in original. Probably should be capitalized. (without regard to whether the item is imported into or exported from the United States);
+  - **(1)** the term “munitions item” means any item enumerated on the United States Munitions list 2 2 So in original. Probably should be capitalized. (without regard to whether the item is imported into or exported from the United States);
   - **(2)** the term “United States”, when used geographically, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States;
   - **(3)** the term “United States person” means—
     - **(A)** any citizen or permanent resident alien of the United States;

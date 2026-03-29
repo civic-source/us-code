@@ -1,12 +1,12 @@
 ---
-title: "Section 301 - Repealed. May 29, 1928, ch. 901 , § 1, 45 Stat. 990 , 991"
+title: "Section 301 - Repealed. May 29, 1928, ch. 901, § 1 , 45 Stat. 990 , 991"
 usc_title: 25
 usc_section: "301"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "25 U.S.C. § 301"
-generated_at: "2026-03-29T19:29:34.745Z"
+generated_at: "2026-03-29T19:41:28.341Z"
 ---
 
-# §§ 299 to 301. Repealed. May 29, 1928, ch. 901 , § 1, 45 Stat. 990 , 991
+# §§ 299 to 301. Repealed. May 29, 1928, ch. 901, § 1 , 45 Stat. 990 , 991
 

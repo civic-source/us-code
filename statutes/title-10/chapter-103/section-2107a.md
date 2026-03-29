@@ -3,9 +3,9 @@ title: "Section 2107a - Financial assistance program for specially selected memb
 usc_title: 10
 usc_section: "2107a"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2107a"
-generated_at: "2026-03-29T19:27:25.560Z"
+generated_at: "2026-03-29T19:43:37.957Z"
 ---
 
 # § 2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:27:25.560Z"
 - **(c)**
   - **(1)** The Secretary of the Army shall provide for the payment of all expenses of the Department of the Army in administering the financial assistance program under this section, including the cost of tuition, fees, books, and laboratory expenses which are incurred by members of the program appointed as cadets under this section while such members are students at a military junior college.
   - **(2)** In the case of a cadet eligible to receive financial assistance under paragraph (1), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for such cadet and other expenses required by the educational institution.
-  - **[(3)** Repealed. Pub. L. 109–163, div. A, title V , § 531(b), Jan. 6, 2006 , 119 Stat. 3247 .]
+  - **[(3)** Repealed. Pub. L. 109–163, div. A, title V, § 531(b) , Jan. 6, 2006 , 119 Stat. 3247 .]
   - **(4)**
     - **(A)** The Secretary of the Army may provide an individual who received a commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
     - **(B)** Such assistance is in addition to any provided under paragraph (1) or (2).

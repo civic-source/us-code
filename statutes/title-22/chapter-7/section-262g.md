@@ -3,9 +3,9 @@ title: "Section 262g - Human nutrition in developing countries and United States
 usc_title: 22
 usc_section: "262g"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 262g"
-generated_at: "2026-03-29T19:29:46.642Z"
+generated_at: "2026-03-29T19:42:07.929Z"
 ---
 
 # § 262g. Human nutrition in developing countries and United States assistance policies with international financial institutions; declaration of policy

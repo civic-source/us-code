@@ -1,12 +1,12 @@
 ---
-title: "Section 673f - Repealed. Pub. L. 105–362, title IX , § 901(b)(1), Nov. 10, 1998 , 112 Stat. 3289"
+title: "Section 673f - Repealed. Pub. L. 105–362, title IX, § 901(b)(1) , Nov. 10, 1998 , 112 Stat. 3289"
 usc_title: 16
 usc_section: "673f"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 673f"
-generated_at: "2026-03-29T19:29:27.330Z"
+generated_at: "2026-03-29T19:41:13.577Z"
 ---
 
-# § 673f. Repealed. Pub. L. 105–362, title IX , § 901(b)(1), Nov. 10, 1998 , 112 Stat. 3289
+# § 673f. Repealed. Pub. L. 105–362, title IX, § 901(b)(1) , Nov. 10, 1998 , 112 Stat. 3289
 

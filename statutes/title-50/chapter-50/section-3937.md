@@ -3,9 +3,9 @@ title: "Section 3937 - Maximum rate of interest on debts incurred before militar
 usc_title: 50
 usc_section: "3937"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3937"
-generated_at: "2026-03-29T19:32:24.270Z"
+generated_at: "2026-03-29T19:44:52.893Z"
 ---
 
 # § 3937. Maximum rate of interest on debts incurred before military service
@@ -17,7 +17,15 @@ generated_at: "2026-03-29T19:32:24.270Z"
   - **(2)** Interest at a rate in excess of 6 percent per year that would otherwise be incurred but for the prohibition in paragraph (1) is forgiven.
   - **(3)** The amount of any periodic payment due from a servicemember under the terms of the instrument that created an obligation or liability covered by this section shall be reduced by the amount of the interest forgiven under paragraph (2) that is allocable to the period for which such payment is made.
 - **(b)**
-  - **(1)** In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember’s termination or release from military service.
+  - **(1)**
+    - **(A)** Not later than 180 days after the date of a servicemember’s termination or release from military service, in order for an obligation or liability of the servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of—
+      - **(i)** the military orders calling the servicemember to military service and any orders further extending military service; or
+      - **(ii)** any other appropriate indicator of military service, including a certified letter from a commanding officer.
+    - **(B)**
+      - **(i)** A creditor may use, in lieu of notice and documentation under subparagraph (A), information retrieved from the Defense Manpower Data Center through the creditor’s normal business reviews of such Center for purposes of obtaining information indicating that the servicemember is on active duty.
+      - **(ii)** A creditor that uses the information retrieved from the Defense Manpower Data Center under clause (i) with respect to a servicemember has not failed to treat the debt of the servicemember in accordance with subsection (a) if—
+        - **(I)** such information indicates that, on the date the creditor retrieves such information, the servicemember is not on active duty; and
+        - **(II)** the creditor has not, by the end of the 180-day period under subparagraph (A), received the written notice and documentation required under that subparagraph with respect to the servicemember.
   - **(2)** Upon receipt of written notice and a copy of orders calling a servicemember to military service, the creditor shall treat the debt in accordance with subsection (a), effective as of the date on which the servicemember is called to military service.
 - **(c)** A court may grant a creditor relief from the limitations of this section if, in the opinion of the court, the ability of the servicemember to pay interest upon the obligation or liability at a rate in excess of 6 percent per year is not materially affected by reason of the servicemember’s military service.
 - **(d)** In this section:

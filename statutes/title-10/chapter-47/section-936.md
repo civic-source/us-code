@@ -1,14 +1,14 @@
 ---
-title: "Section 936 - Art. 136. Authority to administer oaths and to act as notary"
+title: "Section 936 - Art. 136. Authority to administer oaths"
 usc_title: 10
 usc_section: "936"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 936"
-generated_at: "2026-03-29T19:27:25.478Z"
+generated_at: "2026-03-29T19:43:37.859Z"
 ---
 
-# § 936. Art. 136. Authority to administer oaths and to act as notary
+# § 936. Art. 136. Authority to administer oaths
 
 - **(a)** The following persons on active duty or performing inactive-duty training may administer oaths for the purposes of military administration, including military justice:
   - **(1)** All judge advocates.
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T19:27:25.478Z"
   - **(4)** All persons detailed to conduct an investigation.
   - **(5)** All recruiting officers.
   - **(6)** All other persons designated by regulations of the armed forces or by statute.
-- **(c)** The judges of the United States Court of Appeals for the Armed Forces may administer the oaths authorized by subsections (a) and (b).
+- **(c)** Each judge and senior judge of the United States Court of Appeals for the Armed Forces shall have the powers relating to oaths, affirmations, and acknowledgments provided to justices and judges of the United States by section 459 of title 28 .

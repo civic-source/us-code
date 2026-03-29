@@ -3,14 +3,14 @@ title: "Section 7407 - Action to enjoin tax return preparers"
 usc_title: 26
 usc_section: "7407"
 chapter: 76
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 7407"
-generated_at: "2026-03-29T19:30:20.243Z"
+generated_at: "2026-03-29T19:42:48.010Z"
 ---
 
 # § 7407. Action to enjoin tax return preparers
 
-- **(a)** A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further action as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
+- **(a)** A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further acting as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
 - **(b)** In any action under subsection (a), if the court finds—
   - **(1)** that a tax return preparer has—
     - **(A)** engaged in any conduct subject to penalty under section 6694 or 6695, or subject to any criminal penalty provided by this title,

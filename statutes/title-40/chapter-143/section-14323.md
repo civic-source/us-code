@@ -5,7 +5,7 @@ usc_section: "14323"
 chapter: 143
 current_through: "PL 117-81"
 classification: "40 U.S.C. § 14323"
-generated_at: "2026-03-29T18:46:11.065Z"
+generated_at: "2026-03-29T19:43:21.277Z"
 ---
 
 # § 14323. Congressional notification

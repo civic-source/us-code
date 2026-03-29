@@ -1,16 +1,12 @@
 ---
-title: "Section 772 - Death of employee due to non-service-connected causes after 15 years’ service; amount of payment"
+title: "Section 772 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(15), Jan. 1, 2021 , 134 Stat. 4759"
 usc_title: 33
 usc_section: "772"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 772"
-generated_at: "2026-03-29T19:30:28.744Z"
+generated_at: "2026-03-29T19:43:07.596Z"
 ---
 
-# § 772. Death of employee due to non-service-connected causes after 15 years’ service; amount of payment
+# § 772. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(15), Jan. 1, 2021 , 134 Stat. 4759
 
-Where—
-
-  - **(1)** any employee of the Lighthouse Service has died or shall hereafter die from non-service-connected causes after fifteen or more years of employment in such service, and
-  - **(2)** the surviving spouse of the employee has not since remarried,

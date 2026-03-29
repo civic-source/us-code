@@ -3,9 +3,9 @@ title: "Section 419A - Qualified asset account; limitation on additions to accou
 usc_title: 26
 usc_section: "419A"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 419A"
-generated_at: "2026-03-29T19:30:19.825Z"
+generated_at: "2026-03-29T19:42:47.658Z"
 ---
 
 # § 419A. Qualified asset account; limitation on additions to account
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:30:19.825Z"
     - **(A)** An applicable account limit for any taxable year may include a reserve in an amount not to exceed 35 percent of the sum of—
       - **(i)** the qualified direct costs, and
       - **(ii)** the change in claims incurred but unpaid,
-    - **(B)** For purposes of this subsection, the term “applicable account limit” means an account limit for a qualified asset account with respect to medical benefits provided through a plan maintained by a bona fide association (as defined in section 2791(d)(3) of the Public Health Service Act ( 42 U.S.C. 300gg–91(d)(3) ). 1 1 So in original. The period probably should be preceded by an additional closing parenthesis.
+    - **(B)** For purposes of this subsection, the term “applicable account limit” means an account limit for a qualified asset account with respect to medical benefits provided through a plan maintained by a bona fide association (as defined in section 2791(d)(3) of the Public Health Service Act ( 42 U.S.C. 300gg–91(d)(3) )).
 - **(d)**
   - **(1)** In the case of any employee who is a key employee—
     - **(A)** a separate account shall be established for any medical benefits or life insurance benefits provided with respect to such employee after retirement, and
@@ -77,8 +77,8 @@ generated_at: "2026-03-29T19:30:19.825Z"
       - **(ii)** the account limit determined under this section (without regard to this paragraph) for the taxable year for which such increase is being computed.
     - **(D)** This paragraph shall apply only to a welfare benefit fund which, as of July 18, 1984 , had assets set aside for purposes described in subsection (a).
 - **(g)**
-  - **(1)** In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), (17), or (20) 2 2 See References in Text note below. of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund’s deemed unrelated income for the fund’s taxable year ending within the employer’s taxable year.
-  - **(2)** For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), (17), or (20) 2 of section 501(c).
+  - **(1)** In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), or (17) of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund’s deemed unrelated income for the fund’s taxable year ending within the employer’s taxable year.
+  - **(2)** For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), or (17) of section 501(c).
   - **(3)** If any amount is included in the gross income of an employer for any taxable year under paragraph (1) with respect to any welfare benefit fund—
     - **(A)** the amount of the tax imposed by this chapter which is attributable to the amount so included shall be treated as a contribution paid to such welfare benefit fund on the last day of such taxable year, and
     - **(B)** the tax so attributable shall be treated as imposed on the fund for purposes of section 419(c)(4)(A).

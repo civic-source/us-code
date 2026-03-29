@@ -3,9 +3,9 @@ title: "Section 812 - Advisory committees"
 usc_title: 30
 usc_section: "812"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 812"
-generated_at: "2026-03-29T19:30:05.245Z"
+generated_at: "2026-03-29T19:42:23.424Z"
 ---
 
 # § 812. Advisory committees

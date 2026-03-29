@@ -1,12 +1,12 @@
 ---
-title: "Section 1076b - Repealed. Pub. L. 109–364, div. A, title VII , § 706(d), Oct. 17, 2006 , 120 Stat. 2282 ]"
+title: "Section 1076b - Repealed. Pub. L. 109–364, div. A, title VII, § 706(d) , Oct. 17, 2006 , 120 Stat. 2282 ]"
 usc_title: 10
 usc_section: "1076b"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 1076b"
-generated_at: "2026-03-29T19:27:25.502Z"
+generated_at: "2026-03-29T19:43:37.888Z"
 ---
 
-# [§ 1076b. Repealed. Pub. L. 109–364, div. A, title VII , § 706(d), Oct. 17, 2006 , 120 Stat. 2282 ]
+# [§ 1076b. Repealed. Pub. L. 109–364, div. A, title VII, § 706(d) , Oct. 17, 2006 , 120 Stat. 2282 ]
 

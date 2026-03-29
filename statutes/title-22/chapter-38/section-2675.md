@@ -3,9 +3,9 @@ title: "Section 2675 - Allocation or transfer to other agencies of funds appropr
 usc_title: 22
 usc_section: "2675"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2675"
-generated_at: "2026-03-29T19:29:46.801Z"
+generated_at: "2026-03-29T19:42:08.115Z"
 ---
 
 # § 2675. Allocation or transfer to other agencies of funds appropriated to Department of State; authority for expenditure of funds

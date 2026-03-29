@@ -3,9 +3,9 @@ title: "Section 148 - Arbitrage"
 usc_title: 26
 usc_section: "148"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 148"
-generated_at: "2026-03-29T19:30:19.717Z"
+generated_at: "2026-03-29T19:42:47.561Z"
 ---
 
 # § 148. Arbitrage
@@ -136,10 +136,9 @@ generated_at: "2026-03-29T19:30:19.717Z"
         - **(I)** Except as provided in this clause, clause (vii)(II), and the last sentence of clause (x), this subparagraph shall not apply to any refunding bond and no proceeds of a refunded bond shall be treated for purposes of this subparagraph as proceeds of a refunding bond.
         - **(II)** For purposes of clause (v), any portion of an issue which is used to refund any issue (or portion thereof) shall be treated as a separate issue.
         - **(III)** The requirements of paragraph (2) shall be treated as met with respect to earnings for any period if a penalty is paid under clause (vii) or (viii) with respect to such earnings for such period.
-      - **(xiv)** For purposes of this subpargraph, 1 1 So in original. Probably should be “subparagraph,”. the end of the initial temporary period shall be determined without regard to section 149(d)(3)(A)(iv).
-      - **(xv)** Any election under this subparagraph (other than clauses (viii) and (ix)) shall be made on or before the date the bonds are issued; and, once made, shall be irrevocable.
-      - **(xvi)** Any penalty under this subparagraph shall be paid to the United States not later than 90 days after the period to which the penalty relates.
-      - **(xvii)** If the spending requirements of clause (ii) are met with respect to the available construction proceeds of a construction issue, then paragraph (2) shall not apply to earnings on a bona fide debt service fund for such issue.
+      - **(xiv)** Any election under this subparagraph (other than clauses (viii) and (ix)) shall be made on or before the date the bonds are issued; and, once made, shall be irrevocable.
+      - **(xv)** Any penalty under this subparagraph shall be paid to the United States not later than 90 days after the period to which the penalty relates.
+      - **(xvi)** If the spending requirements of clause (ii) are met with respect to the available construction proceeds of a construction issue, then paragraph (2) shall not apply to earnings on a bona fide debt service fund for such issue.
     - **(D)**
       - **(i)** An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraphs (2) and (3) if—
         - **(I)** the issue is issued by a governmental unit with general taxing powers,

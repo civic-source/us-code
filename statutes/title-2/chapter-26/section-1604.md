@@ -3,9 +3,9 @@ title: "Section 1604 - Reports by registered lobbyists"
 usc_title: 2
 usc_section: "1604"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 1604"
-generated_at: "2026-03-29T19:27:07.561Z"
+generated_at: "2026-03-29T19:42:59.660Z"
 ---
 
 # § 1604. Reports by registered lobbyists
@@ -19,8 +19,9 @@ generated_at: "2026-03-29T19:27:07.561Z"
     - **(C)** a list of the employees of the registrant who acted as lobbyists on behalf of the client; and
     - **(D)** a description of the interest, if any, of any foreign entity identified under section 1603(b)(4) of this title in the specific issues listed under subparagraph (A);
   - **(3)** in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;
-  - **(4)** in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period; and
-  - **(5)** for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments.
+  - **(4)** in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period;
+  - **(5)** for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments; and
+  - **(6)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 - **(c)** For purposes of this section, estimates of income or expenses shall be made as follows:
   - **(1)** Estimates of amounts in excess of $5,000 shall be rounded to the nearest $10,000.
   - **(2)** In the event income or expenses do not exceed $5,000, the registrant shall include a statement that income or expenses totaled less than $5,000 for the reporting period.

@@ -3,12 +3,12 @@ title: "Section 460u - Establishment; description of area"
 usc_title: 16
 usc_section: "460u"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 460u"
-generated_at: "2026-03-29T19:29:27.190Z"
+generated_at: "2026-03-29T19:41:13.446Z"
 ---
 
 # § 460u. Establishment; description of area
 
-In order to preserve for the educational, inspirational, and recreational use of the public certain portions of the Indiana dunes and other areas of scenic, scientific, and historic interest and recreational value in the State of Indiana, the Secretary of the Interior is authorized to establish and administer the Indiana Dunes National Lakeshore (hereinafter referred to as the “lakeshore”) in accordance with the provisions of this subchapter. The lakeshore shall comprise the area within the boundaries delineated on a map identified as “Boundary Map, Indiana Dunes National Lakeshore”, dated October 1992, and numbered 626–80,039–C, which map is on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
+In order to preserve for the educational, inspirational, and recreational use of the public certain portions of the Indiana dunes and other areas of scenic, scientific, and historic interest and recreational value in the State of Indiana, the Secretary of the Interior is authorized to establish and administer the Indiana Dunes National Park (hereinafter referred to as the “Park”) in accordance with the provisions of this subchapter. The Park shall comprise the area within the boundaries delineated on a map identified as “Boundary Map, Indiana Dunes National Lakeshore”, dated October 1992, and numbered 626–80,039–C, which map is on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
 

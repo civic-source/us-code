@@ -1,34 +1,12 @@
 ---
-title: "Section 2366a - Major defense acquisition programs: determination required before Milestone A approval"
+title: "Section 2366a - Renumbered § 4251]"
 usc_title: 10
 usc_section: "2366a"
 chapter: 139
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2366a"
-generated_at: "2026-03-29T19:27:25.597Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# § 2366a. Major defense acquisition programs: determination required before Milestone A approval
+# [§ 2366a. Renumbered § 4251]
 
-- **(a)** Before granting Milestone A approval for a major defense acquisition program or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
-  - **(1)** information about the program or subprogram is sufficient to warrant entry of the program or subprogram into the risk reduction phase;
-  - **(2)** the Secretary of the military department concerned and the Chief of the armed force concerned concur in the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program; and
-  - **(3)** there are sound plans for progression of the program or subprogram to the development phase.
-- **(b)** A major defense acquisition program or subprogram may not receive Milestone A approval or otherwise be initiated prior to Milestone B approval until the milestone decision authority determines in writing, after consultation with the Joint Requirements Oversight Council on matters related to program requirements and military needs—
-  - **(1)** that the program fulfills an approved initial capabilities document;
-  - **(2)** that the program has been developed in light of appropriate market research;
-  - **(3)** if the program duplicates a capability already provided by an existing system, the duplication provided by such program is necessary and appropriate;
-  - **(4)** that, with respect to any identified areas of risk, there is a plan to reduce the risk;
-  - **(5)** that planning for sustainment has been addressed and that a determination of applicability of core logistics capabilities requirements has been made;
-  - **(6)** that an analysis of alternatives has been performed consistent with study guidance developed by the Director of Cost Assessment and Program Evaluation;
-  - **(7)** that a cost estimate for the program has been submitted, with the concurrence of the Director of Cost Assessment and Program Evaluation, and that the level of resources required to develop, procure, and sustain the program is sufficient for successful program execution; and
-  - **(8)** that the program or subprogram meets any other considerations the milestone decision authority considers relevant.
-- **(c)** At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination. The explanation shall be submitted in unclassified form, but may include a classified annex.
-- **(d)** In this section:
-  - **(1)** The term “major defense acquisition program” has the meaning provided in section 2430 of this title .
-  - **(2)** The term “initial capabilities document” means any capabilities requirement document approved by the Joint Requirements Oversight Council that establishes the need for a materiel approach to resolve a capability gap.
-  - **(3)** The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
-  - **(4)** The term “Milestone B approval” has the meaning provided that term in section 2366(e)(7) of this title .
-  - **(5)** The term “core logistics capabilities” means the core logistics capabilities identified under section 2464(a) of this title .
-  - **(6)** the term “major subprogram” means a major subprogram of a major defense acquisition program designated under section 2430a(a)(1) of this title .
-  - **(7)** The term “milestone decision authority”, with respect to a major defense acquisition program or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.

@@ -3,9 +3,9 @@ title: "Section 8682 - Service craft stricken from Naval Vessel Register; obsole
 usc_title: 10
 usc_section: "8682"
 chapter: 863
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 8682"
-generated_at: "2026-03-29T18:47:53.576Z"
+generated_at: "2026-03-29T19:43:38.115Z"
 ---
 
 # § 8682. Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale

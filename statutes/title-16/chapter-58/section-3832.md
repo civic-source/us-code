@@ -3,9 +3,9 @@ title: "Section 3832 - Duties of owners and operators"
 usc_title: 16
 usc_section: "3832"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 3832"
-generated_at: "2026-03-29T19:29:27.565Z"
+generated_at: "2026-03-29T19:41:13.813Z"
 ---
 
 # § 3832. Duties of owners and operators
@@ -29,8 +29,11 @@ generated_at: "2026-03-29T19:29:27.565Z"
     - **(B)** to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
   - **(8)** not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except as provided in subsection (b) or (c) of section 3833 of this title ;
   - **(9)** not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
-  - **(10)** not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
-  - **(11)** to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
+  - **(10)** on land devoted to hardwood or other trees, excluding windbreaks and shelterbelts, to carry out proper thinning and other practices—
+    - **(A)** to enhance the conservation benefits and wildlife habitat resources addressed by the conservation practice under which the land is enrolled; and
+    - **(B)** to promote forest management;
+  - **(11)** not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
+  - **(12)** to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
 - **(b)** The plan referred to in subsection (a)(1) shall set forth—
   - **(1)** the conservation measures and practices to be carried out by the owner or operator during the term of the contract; and
   - **(2)** the commercial use, if any, to be permitted on the land during the term.

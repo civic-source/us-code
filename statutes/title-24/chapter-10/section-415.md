@@ -3,9 +3,9 @@ title: "Section 415 - Chief Operating Officer"
 usc_title: 24
 usc_section: "415"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "24 U.S.C. § 415"
-generated_at: "2026-03-29T19:29:35.074Z"
+generated_at: "2026-03-29T19:41:29.467Z"
 ---
 
 # § 415. Chief Operating Officer
@@ -36,5 +36,5 @@ generated_at: "2026-03-29T19:29:35.074Z"
     - **(A)** a staff member who is a member of the Armed Forces on active duty or who is a full-time officer or employee of the United States may not receive additional pay by reason of service on the administrative staff; and
     - **(B)** the limitations in section 5373 of title 5 , relating to pay set by administrative action, shall apply to the rates of pay prescribed under this paragraph.
 - **(f)**
-  - **(1)** The Chief Operating Officer may accept gifts of money, property, and facilities on behalf of the Retirement Home.
+  - **(1)** The Chief Operating Officer may accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property, or any income therefrom or other interest therein, for the benefit of the Retirement Home.
   - **(2)** Monies received as gifts, or realized from the disposition of property and facilities received as gifts, shall be deposited in the Armed Forces Retirement Home Trust Fund.

@@ -3,9 +3,9 @@ title: "Section 4071d - Entitlement to annuity"
 usc_title: 22
 usc_section: "4071d"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 4071d"
-generated_at: "2026-03-29T19:29:46.860Z"
+generated_at: "2026-03-29T19:42:08.176Z"
 ---
 
 # § 4071d. Entitlement to annuity

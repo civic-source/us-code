@@ -3,16 +3,18 @@ title: "Section 4001 - Residence for tax purposes"
 usc_title: 50
 usc_section: "4001"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 4001"
-generated_at: "2026-03-29T19:32:24.273Z"
+generated_at: "2026-03-29T19:44:52.898Z"
 ---
 
 # § 4001. Residence for tax purposes
 
 - **(a)**
   - **(1)** A servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the servicemember by reason of being absent or present in any tax jurisdiction of the United States solely in compliance with military orders.
-  - **(2)** A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+  - **(2)**
+    - **(A)** A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+    - **(B)** For any taxable year of the marriage, the spouse of a servicemember may elect to use the same residence for purposes of taxation as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
 - **(b)** Compensation of a servicemember for military service shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States if the servicemember is not a resident or domiciliary of the jurisdiction in which the servicemember is serving in compliance with military orders.
 - **(c)** Income for services performed by the spouse of a servicemember shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States if the spouse is not a resident or domiciliary of the jurisdiction in which the income is earned because the spouse is in the jurisdiction solely to be with the servicemember serving in compliance with military orders.
 - **(d)**

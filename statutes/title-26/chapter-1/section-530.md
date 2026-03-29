@@ -3,9 +3,9 @@ title: "Section 530 - Coverdell education savings accounts"
 usc_title: 26
 usc_section: "530"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 530"
-generated_at: "2026-03-29T19:30:19.880Z"
+generated_at: "2026-03-29T19:42:47.705Z"
 ---
 
 # § 530. Coverdell education savings accounts
@@ -30,8 +30,9 @@ generated_at: "2026-03-29T19:30:19.880Z"
     - **(A)** The term “qualified elementary and secondary education expenses” means—
       - **(i)** expenses for tuition, fees, academic tutoring, special needs services in the case of a special needs beneficiary, books, supplies, and other equipment which are incurred in connection with the enrollment or attendance of the designated beneficiary of the trust as an elementary or secondary school student at a public, private, or religious school,
       - **(ii)** expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
-      - **(iii)** expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) 1 1 See References in Text note below. or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
+      - **(iii)** expenses for the purchase of any computer technology or equipment or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
     - **(B)** The term “school” means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
+    - **(C)** The term “computer technology or equipment” means computer software (as defined by section 197(e)(3)(B)), computer or peripheral equipment (as defined by section 168(i)(2)(B)), and fiber optic cable related to computer use.
   - **(4)** An individual shall be deemed to have made a contribution to an education individual retirement account on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
 - **(c)**
   - **(1)** In the case of a contributor who is an individual, the maximum amount the contributor could otherwise make to an account under this section shall be reduced by an amount which bears the same ratio to such maximum amount as—
@@ -73,7 +74,7 @@ generated_at: "2026-03-29T19:30:19.880Z"
     - **(A)** For purposes of this section, the term “rollover contribution” includes a contribution to a Coverdell education savings account made before the end of the 1-year period beginning on the date on which the contributor receives an amount under section 1477 of title 10 , United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
       - **(i)** the sum of the amounts received during such period by such contributor under such sections with respect to such person, reduced by
       - **(ii)** the amounts so received which were contributed to a Roth IRA under section 408A(e)(2) or to another Coverdell education savings account.
-    - **(B)** The last sentence of paragraph (5) shall not apply with respect to amounts treated as a rollover by the 1 1 So in original. The word “the” probably should not appear. subparagraph (A).
+    - **(B)** The last sentence of paragraph (5) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
     - **(C)** For purposes of applying section 72 in the case of a distribution which is includible in gross income under paragraph (1), the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
 - **(e)** Rules similar to the rules of paragraphs (2) and (4) of section 408(e) shall apply to any Coverdell education savings account.
 - **(f)** This section shall be applied without regard to any community property laws.

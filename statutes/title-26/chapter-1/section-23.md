@@ -3,9 +3,9 @@ title: "Section 23 - Adoption expenses"
 usc_title: 26
 usc_section: "23"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 23"
-generated_at: "2026-03-29T19:30:19.623Z"
+generated_at: "2026-03-29T19:42:47.478Z"
 ---
 
 # § 23. Adoption expenses
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T19:30:19.623Z"
     - **(A)** No credit shall be allowed under subsection (a) for any expense for which a deduction or credit is allowed under any other provision of this chapter.
     - **(B)** No credit shall be allowed under subsection (a) for any expense to the extent that funds for such expense are received under any Federal, State, or local program.
 - **(c)**
-  - **(1)** If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D and 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+  - **(1)** If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
   - **(2)** No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses—
@@ -53,5 +53,5 @@ generated_at: "2026-03-29T19:30:19.623Z"
 - **(g)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 - **(h)** In the case of a taxable year beginning after December 31, 2002 , each of the dollar amounts in subsection (a)(3) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(i)** The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).

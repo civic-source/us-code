@@ -3,9 +3,9 @@ title: "Section 10908 - Regulation of solid waste rail transfer facilities"
 usc_title: 49
 usc_section: "10908"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 10908"
-generated_at: "2026-03-29T19:32:28.766Z"
+generated_at: "2026-03-29T19:44:57.876Z"
 ---
 
 # § 10908. Regulation of solid waste rail transfer facilities

@@ -1,17 +1,12 @@
 ---
-title: "Section 2541b - Administration"
+title: "Section 2541b - Renumbered § 4983]"
 usc_title: 10
 usc_section: "2541b"
 chapter: 148
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2541b"
-generated_at: "2026-03-29T19:27:25.620Z"
+generated_at: "2026-03-29T19:43:37.989Z"
 ---
 
-# § 2541b. Administration
+# [§ 2541b. Renumbered § 4983]
 
-- **(a)** The Secretary of Defense may enter into one or more agreements, each with an appropriate Federal or private entity, under which such entity may, under this subchapter—
-  - **(1)** process applications for loan guarantees;
-  - **(2)** administer repayment of loans; and
-  - **(3)** provide any other services to the Secretary to administer this subchapter.
-- **(b)** The costs of such agreements shall be considered, for purposes of the special account established under section 2541a(c), to be costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under this subchapter.

@@ -3,15 +3,15 @@ title: "Section 5341 - Representational allowance for Members of House of Repres
 usc_title: 2
 usc_section: "5341"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 5341"
-generated_at: "2026-03-29T19:27:07.598Z"
+generated_at: "2026-03-29T19:42:59.704Z"
 ---
 
 # § 5341. Representational allowance for Members of House of Representatives
 
-- **(a)** There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
+- **(a)** There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member or Member-elect of the House of Representatives with respect to the district from which the Member or Member-elect is elected.
 - **(b)** The Clerk Hire Allowance, the Official Expenses Allowance, and the Official Mail Allowance, as in effect on the day before September 1, 1995 , are merged into the Members’ Representational Allowance.
 - **(c)** As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
-- **(d)** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
+- **(d)** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.
 - **(e)** This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.

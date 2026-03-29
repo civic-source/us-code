@@ -3,9 +3,9 @@ title: "Section 8956 - Election of coverage"
 usc_title: 5
 usc_section: "8956"
 chapter: 89
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8956"
-generated_at: "2026-03-29T19:27:05.400Z"
+generated_at: "2026-03-29T19:43:20.467Z"
 ---
 
 # § 8956. Election of coverage
@@ -19,3 +19,4 @@ generated_at: "2026-03-29T19:27:05.400Z"
     - **(A)** before the start of any contract term in which there is a change in rates charged or benefits provided, in which a new plan is offered, or in which an existing plan is terminated; or
     - **(B)** during other times and under other circumstances specified by the Office.
   - **(2)** A transfer under paragraph (1) shall be subject to waiting periods provided under a new plan.
+- **(d)** Coverage under a dental benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.

@@ -3,9 +3,9 @@ title: "Section 1504 - Procedure"
 usc_title: 33
 usc_section: "1504"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1504"
-generated_at: "2026-03-29T19:30:28.816Z"
+generated_at: "2026-03-29T19:43:07.675Z"
 ---
 
 # § 1504. Procedure
@@ -54,3 +54,6 @@ generated_at: "2026-03-29T19:30:28.816Z"
     - **(B)** any significant differences between anticipated completion dates for the proposed deepwater ports; and
     - **(C)** any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
   - **(4)** The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
+- **(j)**
+  - **(1)** The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
+  - **(2)** When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.

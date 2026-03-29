@@ -3,9 +3,9 @@ title: "Section 488c - Administrative provisions"
 usc_title: 6
 usc_section: "488c"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "6 U.S.C. § 488c"
-generated_at: "2026-03-29T19:27:39.860Z"
+generated_at: "2026-03-29T19:43:43.802Z"
 ---
 
 # § 488c. Administrative provisions

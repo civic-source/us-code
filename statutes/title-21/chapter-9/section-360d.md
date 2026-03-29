@@ -3,9 +3,9 @@ title: "Section 360d - Performance standards"
 usc_title: 21
 usc_section: "360d"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 360d"
-generated_at: "2026-03-29T19:29:50.384Z"
+generated_at: "2026-03-29T19:41:41.591Z"
 ---
 
 # § 360d. Performance standards
@@ -50,8 +50,16 @@ generated_at: "2026-03-29T19:29:50.384Z"
     - **(B)** The Secretary shall establish advisory committees (which may not be panels under section 360c of this title ) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
 - **(c)**
   - **(1)**
-    - **(A)** In addition to establishing a performance standard under this section, the Secretary shall, by publication in the Federal Register, recognize all or part of an appropriate standard established by a nationally or internationally recognized standard development organization for which a person may submit a declaration of conformity in order to meet a premarket submission requirement or other requirement under this chapter to which such standard is applicable.
+    - **(A)** In addition to establishing a performance standard under this section, the Secretary shall, by publication in the Federal Register (or, with respect to a susceptibility test interpretive criteria standard under section 360a–2 of this title , by posting on the Interpretive Criteria Website in accordance with such section), recognize all or part of an appropriate standard established by a nationally or internationally recognized standard development organization for which a person may submit a declaration of conformity in order to meet a premarket submission requirement or other requirement under this chapter to which such standard is applicable.
     - **(B)** If a person elects to use a standard recognized by the Secretary under subparagraph (A) to meet the requirements described in such subparagraph, the person shall provide a declaration of conformity to the Secretary that certifies that the device is in conformity with such standard. A person may elect to use data, or information, other than data required by a standard recognized under subparagraph (A) to meet any requirement regarding devices under this chapter.
+    - **(C)**
+      - **(i)** Any person may submit a request for recognition under subparagraph (A) of all or part of an appropriate standard established by a nationally or internationally recognized standard organization. 1 1 So in original. Probably should be “standard development organization.”
+      - **(ii)** Not later than 60 calendar days after the Secretary receives such a request, the Secretary shall—
+        - **(I)** make a determination to recognize all, part, or none of the standard that is the subject of the request; and
+        - **(II)** issue to the person who submitted such request a response in writing that states the Secretary’s rationale for that determination, including the scientific, technical, regulatory, or other basis for such determination.
+      - **(iii)** The Secretary shall make a response issued under clause (ii)(II) publicly available, in such a manner as the Secretary determines appropriate.
+      - **(iv)** The Secretary shall take such actions as may be necessary to implement all or part of a standard recognized under clause (ii)(I), in accordance with subparagraph (A).
+    - **(D)** The Secretary shall make publicly available, in such manner as the Secretary determines appropriate, the rationale for recognition under subparagraph (A) of all, part, or none of a standard, including the scientific, technical, regulatory, or other basis for the decision regarding such recognition.
   - **(2)** The Secretary may withdraw such recognition of a standard through publication of a notice in the Federal Register if the Secretary determines that the standard is no longer appropriate for meeting a requirement regarding devices under this chapter.
   - **(3)**
     - **(A)** Subject to subparagraph (B), the Secretary shall accept a declaration of conformity that a device is in conformity with a standard recognized under paragraph (1) unless the Secretary finds—
@@ -59,3 +67,25 @@ generated_at: "2026-03-29T19:29:50.384Z"
       - **(ii)** that the standard identified in the declaration of conformity is not applicable to the particular device under review.
     - **(B)** The Secretary may request, at any time, the data or information relied on by the person to make a declaration of conformity with respect to a standard recognized under paragraph (1).
     - **(C)** A person making a declaration of conformity with respect to a standard recognized under paragraph (1) shall maintain the data and information demonstrating conformity of the device to the standard for a period of two years after the date of the classification or approval of the device by the Secretary or a period equal to the expected design life of the device, whichever is longer.
+  - **(4)** The Secretary shall provide to all employees of the Food and Drug Administration who review premarket submissions for devices periodic training on the concept and use of recognized standards for purposes of meeting a premarket submission requirement or other applicable requirement under this chapter, including standards relevant to an employee’s area of device review.
+- **(d)**
+  - **(1)** The Secretary shall establish a pilot program under which—
+    - **(A)** testing laboratories may be accredited, by accreditation bodies meeting criteria specified by the Secretary, to assess the conformance of a device with certain standards recognized under this section; and
+    - **(B)** subject to paragraph (2), determinations by testing laboratories so accredited that a device conforms with such standard or standards shall be accepted by the Secretary for purposes of demonstrating such conformity under this section unless the Secretary finds that a particular such determination shall not be so accepted.
+  - **(2)** The Secretary may—
+    - **(A)** review determinations by testing laboratories accredited pursuant to this subsection, including by conducting periodic audits of such determinations or processes of accredited bodies or testing laboratories and, following such review, taking additional measures under this chapter, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A) or requesting additional information with respect to such device, as the Secretary determines appropriate; and
+    - **(B)** if the Secretary becomes aware of information materially bearing on safety or effectiveness of a device assessed for conformity by a testing laboratory so accredited, take such additional measures under this chapter as the Secretary determines appropriate, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A), or requesting additional information with regard to such device.
+  - **(3)**
+    - **(A)** The Secretary shall publish in the Federal Register a notice of a public meeting to be held no later than September 30, 2018 , to discuss and obtain input and recommendations from stakeholders regarding the goals and scope of, and a suitable framework and procedures and requirements for, the pilot program under this subsection.
+    - **(B)** The Secretary shall—
+      - **(i)** not later than September 30, 2019 , issue draft guidance regarding the goals and implementation of the pilot program under this subsection; and
+      - **(ii)** not later than September 30, 2021 , issue final guidance with respect to the implementation of such program.
+    - **(C)** Not later than September 30, 2020 , the Secretary shall initiate the pilot program under this subsection.
+    - **(D)** The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the pilot program under this subsection.
+  - **(4)** As of October 1, 2022 —
+    - **(A)** the authority for accreditation bodies to accredit testing laboratories pursuant to paragraph (1)(A) shall cease to have force or effect;
+    - **(B)** the Secretary—
+      - **(i)** may not accept a determination pursuant to paragraph (1)(B) made by a testing laboratory after such date; and
+      - **(ii)** may accept such a determination made prior to such date;
+    - **(C)** except for purposes of accepting a determination described in subparagraph (B)(ii), the Secretary shall not continue to recognize the accreditation of testing laboratories accredited under paragraph (1)(A); and
+    - **(D)** the Secretary may take actions in accordance with paragraph (2) with respect to the determinations made prior to such date and recognition of the accreditation of testing laboratories pursuant to determinations made prior to such date.

@@ -3,9 +3,9 @@ title: "Section 3416 - Judicial review"
 usc_title: 15
 usc_section: "3416"
 chapter: 60
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 3416"
-generated_at: "2026-03-29T19:27:55.543Z"
+generated_at: "2026-03-29T19:44:42.865Z"
 ---
 
 # § 3416. Judicial review

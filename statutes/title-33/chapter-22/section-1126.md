@@ -3,9 +3,9 @@ title: "Section 1126 - Sea grant colleges and sea grant institutes"
 usc_title: 33
 usc_section: "1126"
 chapter: 22
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1126"
-generated_at: "2026-03-29T19:30:28.762Z"
+generated_at: "2026-03-29T19:43:07.612Z"
 ---
 
 # § 1126. Sea grant colleges and sea grant institutes
@@ -24,7 +24,11 @@ generated_at: "2026-03-29T19:30:28.762Z"
   - **(3)** The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant institute if the institution, association, or alliance—
     - **(A)** meets the qualifications in paragraph (1); and
     - **(B)** maintains a program which includes, at a minimum, research and extension services.
-- **(b)** Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998 , shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998 , if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
+- **(b)**
+  - **(1)**
+    - **(A)** Not less than 30 days before designating an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a), the Secretary shall notify Congress in writing of the proposed designation. The notification shall include an evaluation and justification for the designation.
+    - **(B)** The Secretary may not designate an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a) if, before the end of the 30-day period described in subparagraph (A), a joint resolution disapproving the designation is enacted.
+  - **(2)** Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998 , shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998 , if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
 - **(c)** The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
 - **(d)** Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
   - **(1)** to develop and implement, in consultation with the Secretary and the Board, a program that is consistent with the guidelines and priorities established under section 1123(c) of this title ; and

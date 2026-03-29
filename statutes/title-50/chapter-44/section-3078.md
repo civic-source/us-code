@@ -3,9 +3,9 @@ title: "Section 3078 - Repealing and savings provisions"
 usc_title: 50
 usc_section: "3078"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3078"
-generated_at: "2026-03-29T02:16:14.767Z"
+generated_at: "2026-03-29T19:44:52.839Z"
 ---
 
 # § 3078. Repealing and savings provisions

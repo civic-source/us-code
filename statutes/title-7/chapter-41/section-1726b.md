@@ -1,14 +1,14 @@
 ---
-title: "Section 1726b - Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods"
+title: "Section 1726b - International food relief partnership"
 usc_title: 7
 usc_section: "1726b"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1726b"
-generated_at: "2026-03-29T19:27:31.772Z"
+generated_at: "2026-03-29T19:43:58.170Z"
 ---
 
-# § 1726b. Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods
+# § 1726b. International food relief partnership
 
 - **(a)** The Administrator may provide grants to—
   - **(1)** United States nonprofit organizations (described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of title 26 ) for the preparation of shelf-stable prepackaged foods requested by eligible organizations and the establishment and maintenance of stockpiles of the foods in the United States; and
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T19:27:31.772Z"
 - **(c)** Not less than 20 percent of the amount made available to carry out this section shall be used to provide grants under subsection (a)(2).
 - **(d)** Not more than 10 percent of the amount made available to carry out this section may be used by the Administrator for the administration of grants under subsection (a).
 - **(e)** Not later than 180 days after November 9, 2000 , the Administrator, in consultation with the Secretary, shall issue such regulations or guidelines as the Administrator determines to be necessary to carry out this section, including regulations or guidelines that provide to United States nonprofit organizations eligible to receive grants under subsection (a)(1) guidance with respect to the requirements for qualified shelf-stable prepackaged foods and the quantity of the foods to be stockpiled by the organizations.
-- **(f)** There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+- **(f)** There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.

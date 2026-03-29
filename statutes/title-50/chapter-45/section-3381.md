@@ -3,17 +3,17 @@ title: "Section 3381 - Coordination of counterintelligence activities"
 usc_title: 50
 usc_section: "3381"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "50 U.S.C. § 3381"
-generated_at: "2026-03-29T19:32:24.250Z"
+generated_at: "2026-03-29T19:44:52.872Z"
 ---
 
 # § 3381. Coordination of counterintelligence activities
 
 - **(a)** There is established within the executive branch of Government a National Counterintelligence Policy Board (in this section referred to as the “Board”). The Board shall report to the President through the National Security Council.
-- **(b)** The National Counterintelligence Executive under section 902 of the Counterintelligence Enhancement Act of 2002 [ 50 U.S.C. 3382 ] shall serve as the chairperson of the Board.
+- **(b)** The Director of the National Counterintelligence and Security Center appointed under section 902 of the Counterintelligence Enhancement Act of 2002 ( 50 U.S.C. 3382 ) shall serve as the chairperson of the Board.
 - **(c)** The membership of the National Counterintelligence Policy Board shall consist of the following:
-  - **(1)** The National Counterintelligence Executive.
+  - **(1)** The Director of the National Counterintelligence and Security Center.
   - **(2)** Senior personnel of departments and elements of the United States Government, appointed by the head of the department or element concerned, as follows:
     - **(A)** The Department of Justice, including the Federal Bureau of Investigation.
     - **(B)** The Department of Defense, including the Joint Chiefs of Staff.
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:32:24.250Z"
       - **(ii)** upon the direction of the President, resolving conflicts that arise between elements of the Government conducting such activities; and
     - **(B)** act as an interagency working group to—
       - **(i)** ensure the discussion and review of matters relating to the implementation of the Counterintelligence Enhancement Act of 2002; and
-      - **(ii)** provide advice to the National Counterintelligence Executive on priorities in the implementation of the National Counterintelligence Strategy produced by the Office of the National Counterintelligence Executive under section 904(e)(2) of that Act. 1 1 See References in Text note below.
+      - **(ii)** provide advice to the Director of the National Counterintelligence and Security Center on priorities in the implementation of the National Counterintelligence Strategy produced pursuant to section 904(d)(2) of that Act ( 50 U.S.C. 3383(d)(2) ).
   - **(2)** The Board may, for purposes of carrying out its functions under this section, establish such interagency boards and working groups as the Board considers appropriate.
 - **(e)**
   - **(1)** Except as provided in paragraph (5), the head of each department or agency within the executive branch shall ensure that—
@@ -47,4 +47,4 @@ generated_at: "2026-03-29T19:32:24.250Z"
     - **(B)** A department or agency may not conduct a polygraph examination, interrogate, or otherwise take any action that is likely to alert an employee covered by a notice under subparagraph (A) of an investigation described in that subparagraph without prior coordination and consultation with the Federal Bureau of Investigation.
   - **(5)** Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1), (2), or (3), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
   - **(6)** Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
-  - **(7)** As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections 2 2 So in original. Probably should be “section”. 1801(a) and (b), respectively, of this title.
+  - **(7)** As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections 1 1 So in original. Probably should be “section”. 1801(a) and (b), respectively, of this title.

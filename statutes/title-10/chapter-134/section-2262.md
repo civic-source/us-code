@@ -3,9 +3,9 @@ title: "Section 2262 - Department of Defense conferences: collection of fees to 
 usc_title: 10
 usc_section: "2262"
 chapter: 134
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2262"
-generated_at: "2026-03-29T19:27:25.575Z"
+generated_at: "2026-03-29T19:43:37.972Z"
 ---
 
 # § 2262. Department of Defense conferences: collection of fees to cover Department of Defense costs
@@ -15,12 +15,3 @@ generated_at: "2026-03-29T19:27:25.575Z"
   - **(2)** The Secretary may provide for the collection of fees under this section directly or by contract. The fees may be collected in advance of a conference.
 - **(b)** Amounts collected under subsection (a) with respect to a conference shall be credited to the appropriation or account from which the costs of the conference are paid and shall be available to pay the costs of the Department of Defense with respect to the conference or to reimburse the Department for costs incurred with respect to the conference.
 - **(c)** In the event the total amount of fees collected under subsection (a) with respect to a conference exceeds the actual costs of the Department of Defense with respect to the conference, the amount of such excess shall be deposited into the Treasury as miscellaneous receipts.
-- **(d)**
-  - **(1)** Not later than 45 days after the President submits to Congress the budget for a fiscal year under section 1105 of title 31 , the Secretary of Defense shall submit to the congressional defense committees a budget justification document summarizing the use of the fee-collection authority provided by this section.
-  - **(2)** Each report shall include the following:
-    - **(A)** A list of all conferences conducted during the preceding two calendar years for which fees were collected under this section.
-    - **(B)** For each conference included on the list under subparagraph (A):
-      - **(i)** The estimated costs of the Department for the conference.
-      - **(ii)** The actual costs of the Department for the conference, including a separate statement of the amount of any conference coordinator fees associated with the conference.
-      - **(iii)** The amount of fees collected under this section for the conference.
-    - **(C)** An estimate of the number of conferences to be conducted during the calendar year in which the report is submitted for which the Department will collect fees under this section.

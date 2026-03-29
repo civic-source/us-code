@@ -1,23 +1,39 @@
 ---
-title: "Section 2687a - Overseas base closures and realignments and basing master plans"
+title: "Section 2687a - Overseas base closures and realignments and status of United States overseas military locations"
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-29T19:27:25.634Z"
+generated_at: "2026-03-29T19:43:38.002Z"
 ---
 
-# § 2687a. Overseas base closures and realignments and basing master plans
+# § 2687a. Overseas base closures and realignments and status of United States overseas military locations
 
 - **(a)**
   - **(1)** At the same time that the budget is submitted under section 1105(a) of title 31 for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on—
     - **(A)** the status of overseas base closure and realignment actions undertaken as part of a global defense posture realignment strategy; and
-    - **(B)** the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations.
-  - **(2)** A report under paragraph (1) shall address the following:
-    - **(A)** How the master plans described in paragraph (1)(B) would support the security commitments undertaken by the United States pursuant to any international security treaty.
-    - **(B)** The impact of such plans on the current security environments in the combatant commands, including United States participation in theater security cooperation activities and bilateral partnership, exchanges, and training exercises.
-    - **(C)** Any comments of the Secretary of Defense resulting from an interagency review of these plans that includes the Department of State and other Federal departments and agencies that the Secretary of Defense considers necessary for national security.
+    - **(B)** the status of overseas military locations, whether such a location is designated as an enduring location or contingency location.
+  - **(2)** To satisfy the reporting requirement specified in paragraph (1)(B), a report under paragraph (1) shall contain the following:
+    - **(A)** A list of overseas military locations. For any overseas military location established during the previous fiscal year, the reasons for the establishment of the overseas military location.
+    - **(B)** A description of the strategic goal and operational requirements supported by each overseas military location.
+    - **(C)** A list of each construction or facility improvement project carried out by the Department of Defense regardless of the funding source, and each construction or facility improvement project accepted as a payment-in-kind, at overseas military locations during the previous fiscal year if the construction or facility improvement project was not specifically authorized in a Military Construction Authorization Act or congressional notice of the construction or facility improvement project was not provided by another means. Each construction or facility improvement project on the list shall be delineated by project location, project title or description, project cost, including costs covered by the host country, and authority used to undertake the project.
+    - **(D)** For each overseas military location first designated as an enduring location in one of the previous two required reports, a list of required construction and facility improvement projects anticipated to be carried out by the Department of Defense directly or through the acceptance of payments-in-kind during the fiscal year in which the report is submitted and the next four fiscal years. Each construction or facility improvement project on the list shall be delineated by project location, project title or description, estimated project cost, including costs anticipated to be covered by the host country, and authority to be used to undertake the project.
+    - **(E)** An overview of any annual lease or access costs to the United States for each overseas military location designated as an enduring location.
+    - **(F)** A description of any plans to transition an existing contingency overseas military location to an enduring overseas military location, or to upgrade or downgrade the designation of an existing enduring or contingency overseas military location, during the fiscal year in which the report is submitted.
+    - **(G)** A list of any overseas military locations that, during the previous fiscal year, were transferred to the control of security forces of the host country or another military force, closed, or for any other reason no longer used by the armed forces, including a summary of any costs associated with the transfer or closure of the overseas military location.
+    - **(H)** A summary of any force protection risks identified for cooperative security locations and contingency locations, the actions proposed to mitigate such risks, and the resourcing and implementation plan to implement the mitigation actions.
+    - **(I)** Such other such matters related to overseas military locations as the Secretary of Defense considers appropriate.
+  - **(3)** In this subsection:
+    - **(A)**
+      - **(i)** The term “overseas military location” covers both enduring locations and contingency locations established outside the United States.
+      - **(ii)** An enduring location is primarily characterized either by the presence of permanently assigned United States forces with robust infrastructure and quality of life amenities to support that presence, by the sustained presence of allocated United States forces with infrastructure and quality of life amenities consistent with that presence, or by the periodic presence of allocated United States forces with little or no permanent United States military presence or controlled infrastructure. Enduring locations include main operating bases, forward operating sites, and cooperative security locations.
+      - **(iii)** A contingency location refers to a location outside of the United States that is not covered by subparagraph (B), but that is used by United States forces to support and sustain operations during named and unnamed contingency operations or other operations as directed by appropriate authority and is categorized by mission life-cycle requirements as initial, temporary, or semi-permanent.
+    - **(B)**
+      - **(i)** The term “construction or facility improvement project” includes any construction, development, conversion, or extension of a building, structure, or other improvement to real property carried out at an overseas military location, whether to satisfy temporary or permanent requirements, and any acquisition of land for an overseas military location.
+      - **(ii)** The term does not include repairs to a building, structure, or other improvement to real property, unless the building, structure, or other improvement cannot effectively be used for its designated functional purpose in the absence of the repairs.
+  - **(4)** The Secretary of Defense shall prepare the report under paragraph (1) in coordination with the Under Secretary of Defense for Policy and the Under Secretary of Defense for Acquisition and Sustainment.
+  - **(5)** A report under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex as necessary.
 - **(b)**
   - **(1)** Except as provided in subsection (c), amounts paid to the United States, pursuant to any treaty, status of forces agreement, or other international agreement to which the United States is a party, for the residual value of real property or improvements to real property used by civilian or military personnel of the Department of Defense shall be deposited into the Department of Defense Overseas Military Facility Investment Recovery Account.
   - **(2)** Money deposited in the Department of Defense Overseas Military Facility Investment Recovery Account shall be available to the Secretary of Defense for payment, as provided in appropriation Acts, of costs incurred by the Department of Defense in connection with—
@@ -34,24 +50,28 @@ generated_at: "2026-03-29T19:27:25.634Z"
     - **(A)** A description of the military construction project or facility improvement project.
     - **(B)** An explanation of the military requirement to be satisfied with the project.
     - **(C)** A certification that the project is included in the current future-years defense program.
-  - **(2)** Before concluding an agreement for acceptance of host nation support or host nation payment of operating costs of United States forces as a payment-in-kind, the Secretary of Defense shall submit to the congressional defense committees a notification on the proposed agreement. Any such notification shall contain the following:
+  - **(2)** Before concluding an agreement for acceptance of host country support or host country payment of operating costs of United States forces as a payment-in-kind, the Secretary of Defense shall submit to the congressional defense committees a notification on the proposed agreement. Any such notification shall contain the following:
     - **(A)** A description of each activity to be covered by the payment-in-kind.
     - **(B)** A certification that the costs to be covered by the payment-in-kind are included in the budget of one or more of the military departments or that it will otherwise be necessary to provide for payment of such costs in a budget of one or more of the military departments in the current or the next fiscal year.
   - **(3)** When the Secretary of Defense submits a notification of a proposed agreement under paragraph (1) or (2), the Secretary may then enter into the agreement described in the notification only after the end of the 30-day period beginning on the date on which the notification is submitted or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
 - **(f)**
-  - **(1)** A military construction project, as defined in chapter 159 of this title, may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.
-  - **(2)** Operations of United States forces may be funded through payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country under this section only if the costs covered by such payment or contribution are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under section 1105 of title 31 .
-  - **(3)** If funds previously appropriated for a military construction project or operating costs are subsequently addressed in an agreement for payment-in-kind or by an in-kind contribution required by a bilateral agreement with a host country, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
-  - **(4)** This subsection does not apply to a military construction project that—
-    - **(A)** was specified in a bilateral agreement with a host country that was entered into before December 26, 2013 ;
-    - **(B)** was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015;
-    - **(C)** was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) before December 26, 2013 ; or
-    - **(D)** subject to paragraph (6), will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.
-  - **(5)** This subsection does not apply to an in-kind contribution toward operating costs that—
-    - **(A)** was specified in a bilateral agreement with a host country that was entered into before December 26, 2013 ;
-    - **(B)** was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015; or
-    - **(C)** was accepted as an in-kind contribution for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) before December 26, 2013 .
-  - **(6)** In the case of a military construction project excluded pursuant to paragraph (4)(D) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
+  - **(1)**
+    - **(A)** Except as provided in subparagraph (B), a military construction project costing more than $6,000,000 may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.
+    - **(B)** Subparagraph (A) does not apply to a military construction project that—
+      - **(i)** was specified in a bilateral agreement with a host country that was entered into before December 26, 2013 ;
+      - **(ii)** was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015; or
+      - **(iii)** was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510 ; 10 U.S.C. 2687 note) before December 26, 2013 .
+  - **(2)**
+    - **(A)** If the Secretary of Defense accepts a military construction project to be built for Department of Defense personnel outside the United States as a payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country, the Secretary shall submit to the congressional defense committees a written notification at least 30 days before the initiation date for any such military construction project.
+    - **(B)** A notification under subparagraph (A) with respect to a proposed military construction project shall include the following:
+      - **(i)** The requirements for, and purpose and description of, the proposed project.
+      - **(ii)** The cost of the proposed project.
+      - **(iii)** The scope of the proposed project.
+      - **(iv)** The schedule for the proposed project.
+      - **(v)** Such other details as the Secretary considers relevant.
+    - **(C)** Subparagraph (A) shall not apply to a military construction project authorized in a Military Construction Authorization Act.
+  - **(3)** To the extent that a payment-in-kind or an in-kind contribution is provided under a bilateral agreement with a host country with respect to a military construction project for which funds have already been obligated or expended by the Secretary of Defense, the Secretary shall return to the Treasury funds in an amount equal to the value of the funds already obligated or expended for the project.
+  - **(4)** In this subsection, the term “military construction project” has the meaning given such term in section 2801 of this title .
 - **(g)** In this section:
   - **(1)** The term “fair market value of the improvements” means the value of improvements determined by the Secretary of Defense on the basis of their highest use.
   - **(2)** The term “improvements” includes new construction of facilities and all additions, improvements, modifications, or renovations made to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.

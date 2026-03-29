@@ -3,9 +3,9 @@ title: "Section 8440f - Maximum percentage allowable for certain participants"
 usc_title: 5
 usc_section: "8440f"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8440f"
-generated_at: "2026-03-29T19:27:05.379Z"
+generated_at: "2026-03-29T19:43:20.447Z"
 ---
 
 # § 8440f. Maximum percentage allowable for certain participants

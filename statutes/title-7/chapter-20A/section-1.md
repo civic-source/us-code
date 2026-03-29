@@ -3,9 +3,9 @@ title: "Section 1 - Products produced in distinct geographic areas"
 usc_title: 7
 usc_section: "1"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T19:27:31.682Z"
+generated_at: "2026-03-29T19:43:58.056Z"
 ---
 
 # § 499b–1. Products produced in distinct geographic areas

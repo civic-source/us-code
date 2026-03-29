@@ -1,14 +1,14 @@
 ---
-title: "Section 3533 - Special assistance for the educationally dis­advantaged"
+title: "Section 3533 - Special assistance for the educationally disadvantaged"
 usc_title: 38
 usc_section: "3533"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 3533"
-generated_at: "2026-03-29T19:30:40.524Z"
+generated_at: "2026-03-29T19:43:27.022Z"
 ---
 
-# § 3533. Special assistance for the educationally dis­advantaged
+# § 3533. Special assistance for the educationally disadvantaged
 
 - **(a)**
   - **(1)** Any eligible person shall be entitled to the assistance provided an eligible veteran under section 3491(a) (if pursued in a State) of this title and be paid an educational assistance allowance therefor in the manner prescribed by section 3491(b) of this title , except that the corresponding rate provisions of this chapter shall apply, as determined by the Secretary, to such pursuit by an eligible person.

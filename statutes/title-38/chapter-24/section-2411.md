@@ -3,9 +3,9 @@ title: "Section 2411 - Prohibition against interment or memorialization in the N
 usc_title: 38
 usc_section: "2411"
 chapter: 24
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "38 U.S.C. § 2411"
-generated_at: "2026-03-29T19:30:40.504Z"
+generated_at: "2026-03-29T19:43:26.999Z"
 ---
 
 # § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:30:40.504Z"
     - **(A)** is found (as provided in subsection (c)) to have committed a Federal capital crime or a State capital crime, but
     - **(B)** has not been convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
   - **(4)** A person—
-    - **(A)** who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ( 42 U.S.C. 16901 et seq.);
+    - **(A)** who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ( 42 U.S.C. 16901 et seq.); 1 1 See References in Text note below.
     - **(B)** who, for such crime, is sentenced to a minimum of life imprisonment; and
     - **(C)** whose conviction is final (other than a person whose sentence was commuted by the President or Governor of a State, as the case may be).
 - **(c)** A finding under subsection (b)(3) shall be made by the appropriate Federal official. Any such finding may only be made based upon a showing of clear and convincing evidence, after an opportunity for a hearing in a manner prescribed by the appropriate Federal official.

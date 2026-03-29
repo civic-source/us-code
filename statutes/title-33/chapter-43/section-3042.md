@@ -3,9 +3,9 @@ title: "Section 3042 - Separation pay"
 usc_title: 33
 usc_section: "3042"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 3042"
-generated_at: "2026-03-29T19:30:28.879Z"
+generated_at: "2026-03-29T19:43:07.735Z"
 ---
 
 # § 3042. Separation pay
@@ -17,3 +17,6 @@ generated_at: "2026-03-29T19:30:28.879Z"
     - **(B)** 12 times the monthly basic pay to which the officer was entitled at the time of separation.
   - **(2)** In the case of an officer who has completed three or more but fewer than six years of continuous active service immediately before that separation, the amount of separation pay to be paid to the officer under this section is one-half of the amount computed under paragraph (1).
 - **(c)** The provisions of subsections (f), (g), and (h) of section 1174 of title 10 shall apply to separation pay under this section in the same manner as such provisions apply to separation pay under that section.
+- **(d)** An officer discharged for twice failing selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer—
+  - **(1)** expresses a desire not to be selected for promotion; or
+  - **(2)** requests removal from the list of selectees.

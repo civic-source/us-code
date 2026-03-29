@@ -1,20 +1,19 @@
 ---
-title: "Section 2387 - Procurement of table and kitchen equipment for officers’ quarters: limitation on"
+title: "Section 2387 - Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life"
 usc_title: 10
 usc_section: "2387"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 2387"
-generated_at: "2026-03-29T19:27:25.600Z"
+generated_at: "2026-03-29T19:43:37.979Z"
 ---
 
-# § 2387. Procurement of table and kitchen equipment for officers’ quarters: limitation on
+# § 2387. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life
 
-- **(a)** Except under regulations approved by the Secretary of Defense and providing for uniform practices among the armed forces under his jurisdiction, no part of any appropriation of the Department of Defense may be used to supply or replace table linen, dishes, glassware, silver, and kitchen utensils for use in the residences on shore, or quarters on shore, of officers of those armed forces.
-- **(b)** This section does not apply to—
-  - **(1)** field messes;
-  - **(2)** messes temporarily set up on shore for bachelor officers and officers attached to seagoing or district defense vessels;
-  - **(3)** aviation units based on seagoing vessels;
-  - **(4)** fleet air bases;
-  - **(5)** submarine bases; and
-  - **(6)** landing forces and expeditions.
+- **(a)** Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require, and shall contain a contract term, that the dog be transferred to the 341st Training Squadron and assigned for veterinary screening and care in accordance with section 2583 of this title after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with such section.
+- **(b)** The service life of a contract working dog has terminated and the dog is available for transfer to the 341st Training Squadron pursuant to a contract under subsection (a) only if the contracting officer concerned has determined that—
+  - **(1)** the final contractual obligation of the dog preceding such transfer is with the Department of Defense; and
+  - **(2)** the dog cannot be used by another department or agency of the Federal Government due to age, injury, or performance.
+- **(c)** In this section, the term “contract working dog” means a dog—
+  - **(1)** that performs a service for the Department of Defense pursuant to a contract; and
+  - **(2)** that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.

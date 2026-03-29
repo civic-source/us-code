@@ -1,12 +1,12 @@
 ---
-title: "Section 282 - Repealed. Pub. L. 93–43 , § 7(a)(6), (8), (10)–(12), (60), June 18, 1973 , 87 Stat. 82 , 88"
+title: "Section 282 - Repealed. Pub. L. 93–43, § 7(a)(6) , (8), (10)–(12), (60), June 18, 1973 , 87 Stat. 82 , 88"
 usc_title: 24
 usc_section: "282"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "24 U.S.C. § 282"
-generated_at: "2026-03-29T19:29:35.071Z"
+generated_at: "2026-03-29T19:41:29.465Z"
 ---
 
-# §§ 281 to 282. Repealed. Pub. L. 93–43 , § 7(a)(6), (8), (10)–(12), (60), June 18, 1973 , 87 Stat. 82 , 88
+# §§ 281 to 282. Repealed. Pub. L. 93–43, § 7(a)(6) , (8), (10)–(12), (60), June 18, 1973 , 87 Stat. 82 , 88
 

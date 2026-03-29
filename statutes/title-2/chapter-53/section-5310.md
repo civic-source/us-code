@@ -3,9 +3,9 @@ title: "Section 5310 - Certificate of salary during recess"
 usc_title: 2
 usc_section: "5310"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 5310"
-generated_at: "2026-03-29T19:27:07.597Z"
+generated_at: "2026-03-29T19:42:59.703Z"
 ---
 
 # § 5310. Certificate of salary during recess

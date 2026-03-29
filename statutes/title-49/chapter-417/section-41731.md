@@ -3,9 +3,9 @@ title: "Section 41731 - Definitions"
 usc_title: 49
 usc_section: "41731"
 chapter: 417
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "49 U.S.C. § 41731"
-generated_at: "2026-03-29T19:32:28.868Z"
+generated_at: "2026-03-29T19:44:57.982Z"
 ---
 
 # § 41731. Definitions
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:32:28.868Z"
         - **(I)** was an eligible point under section 419 of the Federal Aviation Act of 1958 before October 1, 1988 ;
         - **(II)** received scheduled air transportation at any time after January 1, 1990 ; and
         - **(III)** is not listed in Department of Transportation Orders 89–9–37 and 89–12–52 as a place ineligible for compensation under this subchapter; or
-      - **(ii)** was determined, on or after October 1, 1988 , and before the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, under this subchapter by the Secretary of Transportation to be eligible to receive subsidized small community air service under section 41736(a);
+      - **(ii)** was determined, on or after October 1, 1988 , and before the date of the enactment of the FAA Extension, Safety, and Security Act of 2016 ( Public Law 114–190 ), under this subchapter by the Secretary of Transportation to be eligible to receive subsidized small community air service under section 41736(a);
     - **(B)** had an average of 10 enplanements per service day or more, as determined by the Secretary, during the most recent fiscal year beginning after September 30, 2012 ;
     - **(C)** had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary; and
     - **(D)** is a community that, at any time during the period between September 30, 2010 , and September 30, 2011 , inclusive—

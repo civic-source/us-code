@@ -3,9 +3,9 @@ title: "Section 9832 - Definitions"
 usc_title: 20
 usc_section: "9832"
 chapter: 78
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 9832"
-generated_at: "2026-03-29T19:28:43.257Z"
+generated_at: "2026-03-29T19:41:03.470Z"
 ---
 
 # § 9832. Definitions

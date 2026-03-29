@@ -1,12 +1,12 @@
 ---
-title: "Section 279d - Repealed. Pub. L. 93–43 , § 7(a)(1), (4), (5), (7), June 18, 1973 , 87 Stat. 82"
+title: "Section 279d - Repealed. Pub. L. 93–43, § 7(a)(1) , (4), (5), (7), June 18, 1973 , 87 Stat. 82"
 usc_title: 24
 usc_section: "279d"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "24 U.S.C. § 279d"
-generated_at: "2026-03-29T19:29:35.071Z"
+generated_at: "2026-03-29T19:41:29.465Z"
 ---
 
-# §§ 278 to 279d. Repealed. Pub. L. 93–43 , § 7(a)(1), (4), (5), (7), June 18, 1973 , 87 Stat. 82
+# §§ 278 to 279d. Repealed. Pub. L. 93–43, § 7(a)(1) , (4), (5), (7), June 18, 1973 , 87 Stat. 82
 

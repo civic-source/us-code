@@ -3,9 +3,9 @@ title: "Section 150705 - Board of directors"
 usc_title: 36
 usc_section: "150705"
 chapter: 1507
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "36 U.S.C. § 150705"
-generated_at: "2026-03-29T19:30:42.079Z"
+generated_at: "2026-03-29T19:43:23.305Z"
 ---
 
 # § 150705. Board of directors

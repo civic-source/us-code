@@ -3,9 +3,9 @@ title: "Section 4002 - Expedited funds availability schedules"
 usc_title: 12
 usc_section: "4002"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "12 U.S.C. § 4002"
-generated_at: "2026-03-29T19:28:17.788Z"
+generated_at: "2026-03-29T19:44:54.261Z"
 ---
 
 # § 4002. Expedited funds availability schedules
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T19:28:17.788Z"
 - **(d)**
   - **(1)** Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
   - **(2)** Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 1 business day in the case of any deposit which is both—
-    - **(A)** deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
+    - **(A)** deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the Virgin Islands; and
     - **(B)** deposited by a check drawn on an originating depository institution which is not located in the same State, commonwealth, or territory as the receiving depository institution.
 - **(e)**
   - **(1)**

@@ -3,9 +3,9 @@ title: "Section 6050W - Returns relating to payments made in settlement of payme
 usc_title: 26
 usc_section: "6050W"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 6050W"
-generated_at: "2026-03-29T19:30:20.160Z"
+generated_at: "2026-03-29T19:42:47.947Z"
 ---
 
 # § 6050W. Returns relating to payments made in settlement of payment card and third party network transactions
@@ -27,13 +27,13 @@ generated_at: "2026-03-29T19:30:20.160Z"
 - **(c)** For purposes of this section—
   - **(1)** The term “reportable payment transaction” means any payment card transaction and any third party network transaction.
   - **(2)** The term “payment card transaction” means any transaction in which a payment card is accepted as payment.
-  - **(3)** The term “third party network transaction” means any transaction which is settled through a third party payment network.
+  - **(3)** The term “third party network transaction” means any transaction described in subsection (d)(3)(A)(iii) which is settled through a third party payment network.
 - **(d)** For purposes of this section—
   - **(1)**
     - **(A)** The term “participating payee” means—
       - **(i)** in the case of a payment card transaction, any person who accepts a payment card as payment, and
       - **(ii)** in the case of a third party network transaction, any person who accepts payment from a third party settlement organization in settlement of such transaction.
-    - **(B)** Except as provided by the Secretary in regulations or other guidance, such term shall not include any person with a foreign address.
+    - **(B)** Except as provided by the Secretary in regulations or other guidance, such term shall not include any person with a foreign address. Notwithstanding the preceding sentence, a person with only a foreign address shall not be treated as a participating payee with respect to any payment settlement entity solely because such person receives payments from such payment settlement entity in dollars.
     - **(C)** The term “person” includes any governmental unit (and any agency or instrumentality thereof).
   - **(2)** The term “payment card” means any card which is issued pursuant to an agreement or arrangement which provides for—
     - **(A)** one or more issuers of such cards,
@@ -46,9 +46,7 @@ generated_at: "2026-03-29T19:30:20.160Z"
       - **(iii)** have agreed to settle transactions for the provision of such goods or services pursuant to such agreement or arrangement,
     - **(B)** which provides for standards and mechanisms for settling such transactions, and
     - **(C)** which guarantees persons providing goods or services pursuant to such agreement or arrangement that such persons will be paid for providing such goods or services.
-- **(e)** A third party settlement organization shall be required to report any information under subsection (a) with respect to third party network transactions of any participating payee only if—
-  - **(1)** the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions exceeds $20,000, and
-  - **(2)** the aggregate number of such transactions exceeds 200.
+- **(e)** A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
 - **(f)** Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
   - **(2)** the gross amount of the reportable payment transactions with respect to the person required to be shown on the return.

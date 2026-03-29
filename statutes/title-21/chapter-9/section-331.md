@@ -3,9 +3,9 @@ title: "Section 331 - Prohibited acts"
 usc_title: 21
 usc_section: "331"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 331"
-generated_at: "2026-03-29T19:29:50.332Z"
+generated_at: "2026-03-29T19:41:41.518Z"
 ---
 
 # § 331. Prohibited acts
@@ -26,7 +26,7 @@ The following acts and the causing thereof are prohibited:
   - **(3)** The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 - **(j)** The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2, 374, 379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b) of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section.. 2 2 So in original. This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
 - **(k)** The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, tobacco product, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
-- **(l)** Repealed. Pub. L. 105–115, title IV , § 421, Nov. 21, 1997 , 111 Stat. 2380 .
+- **(l)** Repealed. Pub. L. 105–115, title IV, § 421 , Nov. 21, 1997 , 111 Stat. 2380 .
 - **(m)** The sale or offering for sale of colored oleomargarine or colored margarine, or the possession or serving of colored oleomargarine or colored margarine in violation of subsections (b) or (c) of section 347 of this title .
 - **(n)** The using, in labeling, advertising or other sales promotion of any reference to any report or analysis furnished in compliance with section 374 of this title .
 - **(o)** In the case of a prescription drug distributed or offered for sale in interstate commerce, the failure of the manufacturer, packer, or distributor thereof to maintain for transmittal, or to transmit, to any practitioner licensed by applicable State law to administer such drug who makes written request for information as to such drug, true and correct copies of all printed matter which is required to be included in any package in which that drug is distributed or sold, or such other printed matter as is approved by the Secretary. Nothing in this paragraph shall be construed to exempt any person from any labeling requirement imposed by or under other provisions of this chapter.
@@ -37,7 +37,7 @@ The following acts and the causing thereof are prohibited:
     - **(B)** to furnish any notification or other material or information required by or under section 360i, 360j(g), 387d, 387i, or 387t of this title; or
     - **(C)** to comply with a requirement under section 360 l or 387m of this title.
   - **(2)** With respect to any device or tobacco product, the submission of any report that is required by or under this chapter that is false or misleading in any material respect.
-- **(r)** The movement of a device or tobacco product in violation of an order under section 334(g) of this title or the removal or alteration of any mark or label required by the order to identify the device or tobacco product as detained.
+- **(r)** The movement of a device, drug, or tobacco product in violation of an order under section 334(g) of this title or the removal or alteration of any mark or label required by the order to identify the device, drug, or tobacco product as detained.
 - **(s)** The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title , the failure to retain the records required by section 350a(b)(4) of this title , or the failure to meet the requirements prescribed under section 350a(f)(3) of this title .
 - **(t)** The importation of a drug in violation of section 381(d)(1) of this title , the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title , the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title , the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title , the distribution of drugs in violation of section 353(e) of this title , failure to comply with the requirements under section 360eee–1 of this title , the failure to comply with the requirements under section 360eee–3 of this title , as applicable, or the failure to otherwise comply with the requirements of section 353(e) of this title .
 - **(u)** The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
@@ -51,7 +51,7 @@ The following acts and the causing thereof are prohibited:
 - **(z)** Omitted.
 - **(aa)** The importation of a prescription drug in violation of section 384 of this title , the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
 - **(bb)** The transfer of an article of food in violation of an order under section 334(h) of this title , or the removal or alteration of any mark or label required by the order to identify the article as detained.
-- **(cc)** The importing or offering for import into the United States of an article of food by, with the assistance of, or at the direction of, a person debarred under section 335a(b)(3) of this title .
+- **(cc)** The importing or offering for import into the United States of an article of food or a drug by, with the assistance of, or at the direction of, a person debarred from such activity under section 335a(b)(3) of this title .
 - **(dd)** The failure to register in accordance with section 350d of this title .
 - **(ee)** The importing or offering for import into the United States of an article of food in violation of the requirements under section 381(m) of this title .
 - **(ff)** The importing or offering for import into the United States of a drug or device with respect to which there is a failure to comply with a request of the Secretary to submit to the Secretary a statement under section 381( o ) of this title.
@@ -107,3 +107,4 @@ The following acts and the causing thereof are prohibited:
   - **(2)** In this paragraph—
     - **(A)** the term “plastic microbead” means any solid plastic particle that is less than five millimeters in size and is intended to be used to exfoliate or cleanse the human body or any part thereof; and
     - **(B)** the term “rinse-off cosmetic” includes toothpaste.
+- **(eee)** The failure to comply with any order issued under section 360bbb–8d of this title .

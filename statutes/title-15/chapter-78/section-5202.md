@@ -3,9 +3,9 @@ title: "Section 5202 - National Action Plan on Advanced Superconductivity Resear
 usc_title: 15
 usc_section: "5202"
 chapter: 78
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "15 U.S.C. § 5202"
-generated_at: "2026-03-29T19:27:55.569Z"
+generated_at: "2026-03-29T19:44:42.900Z"
 ---
 
 # § 5202. National Action Plan on Advanced Superconductivity Research and Development
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T19:27:55.569Z"
   - **(3)** recommendation of proposed funding levels for activities relating to superconductivity of the 5 years following November 19, 1988 , for each of the participating departments, agencies, and organizational elements therein; and
   - **(4)** proposals for the participation by industry and academia in the planning and implementation of the Superconductivity Action Plan.
 - **(c)** The Office of Science and Technology Policy, in conjunction with the National Critical Materials Council, shall submit a report detailing the Superconductivity Action Plan to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate, within 9 months after November 19, 1988 .
-- **(d)** The Office of Science and Technology Policy, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 ( 30 U.S.C. 1801 et seq.), shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departments and agencies involved with superconductivity. This report shall be submitted with the President’s annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.
+- **(d)** The Office of Science and Technology Policy shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departments and agencies involved with superconductivity. This report shall be submitted with the President’s annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.

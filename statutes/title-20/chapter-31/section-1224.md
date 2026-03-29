@@ -1,12 +1,12 @@
 ---
-title: "Section 1224 - Repealed. Pub. L. 93–380, title V , § 506(a)(1)(B), Aug. 21, 1974 , 88 Stat. 562"
+title: "Section 1224 - Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Aug. 21, 1974 , 88 Stat. 562"
 usc_title: 20
 usc_section: "1224"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "20 U.S.C. § 1224"
-generated_at: "2026-03-29T19:28:43.073Z"
+generated_at: "2026-03-29T19:41:03.296Z"
 ---
 
-# § 1224. Repealed. Pub. L. 93–380, title V , § 506(a)(1)(B), Aug. 21, 1974 , 88 Stat. 562
+# § 1224. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Aug. 21, 1974 , 88 Stat. 562
 

@@ -3,9 +3,9 @@ title: "Section 263 - Capital expenditures"
 usc_title: 26
 usc_section: "263"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 263"
-generated_at: "2026-03-29T19:30:19.761Z"
+generated_at: "2026-03-29T19:42:47.603Z"
 ---
 
 # § 263. Capital expenditures
@@ -17,13 +17,12 @@ generated_at: "2026-03-29T19:30:19.761Z"
     - **(C)** soil and water conservation expenditures deductible under section 175,
     - **(D)** expenditures by farmers for fertilizer, etc., deductible under section 180,
     - **(E)** expenditures for removal of architectural and transportation barriers to the handicapped and elderly which the taxpayer elects to deduct under section 190,
-    - **(F)** expenditures for tertiary injectants with respect to which a deduction is allowed under section 193; 1 1 So in original. The semicolon probably should be a comma.
-    - **(G)** expenditures for which a deduction is allowed under section 179; 1
-    - **[(H)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(34)(D), Dec. 19, 2014 , 128 Stat. 4042 .]
-    - **(I)** expenditures for which a deduction is allowed under section 179B,
-    - **(J)** expenditures for which a deduction is allowed under section 179C,
-    - **(K)** expenditures for which a deduction is allowed under section 179D, or
-    - **(L)** expenditures for which a deduction is allowed under section 179E.
+    - **(F)** expenditures for tertiary injectants with respect to which a deduction is allowed under section 193,
+    - **(G)** expenditures for which a deduction is allowed under section 179,
+    - **(H)** expenditures for which a deduction is allowed under section 179B,
+    - **(I)** expenditures for which a deduction is allowed under section 179C,
+    - **(J)** expenditures for which a deduction is allowed under section 179D, or
+    - **(K)** expenditures for which a deduction is allowed under section 179E.
   - **(2)** Any amount expended in restoring property or in making good the exhaustion thereof for which an allowance is or has been made.
 - **[(b)**
 - **(c)** Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.

@@ -3,9 +3,9 @@ title: "Section 8421a - Reductions on account of earnings from work performed wh
 usc_title: 5
 usc_section: "8421a"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "5 U.S.C. § 8421a"
-generated_at: "2026-03-29T19:27:05.369Z"
+generated_at: "2026-03-29T19:43:20.439Z"
 ---
 
 # § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
@@ -27,5 +27,5 @@ generated_at: "2026-03-29T19:27:05.369Z"
       - **(i)** in determining the excess earnings of any individual, only earnings attributable to periods during which such individual was entitled to an annuity supplement under section 8421 shall be considered; and
       - **(ii)** any earnings attributable to a period before attaining the applicable retirement age under section 8412(h) shall not be considered in determining the excess earnings of an individual who retires under section 8412(d) or (e), or section 8414(c).
   - **(5)** Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
-- **(c)** This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed full-time as an air traffic control instructor under contract with the Federal Aviation Administration, including an instructor working at an on-site facility (such as an airport).
+- **(c)** This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed as an air traffic control instructor, or supervisor thereof, under contract with the Federal Aviation Administration, including an instructor or supervisor working at an on-site facility (such as an airport).
 - **(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.

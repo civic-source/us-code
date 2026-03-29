@@ -3,9 +3,9 @@ title: "Section 2238b - Funding for harbor maintenance programs"
 usc_title: 33
 usc_section: "2238b"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2238b"
-generated_at: "2026-03-29T19:30:28.832Z"
+generated_at: "2026-03-29T19:43:07.690Z"
 ---
 
 # § 2238b. Funding for harbor maintenance programs
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:30:28.832Z"
   - **(1)** The term “total amount of harbor maintenance taxes received” means, with respect to a fiscal year, the aggregate of amounts appropriated, transferred, or credited to the Harbor Maintenance Trust Fund under section 9505(a) of title 26 for that fiscal year as set forth in the current year estimate provided in the President’s budget request for the subsequent fiscal year, submitted pursuant to section 1105 of title 31 .
   - **(2)** The term “total budget resources” means the total amount made available by appropriations Acts from the Harbor Maintenance Trust Fund for a fiscal year for making expenditures under section 9505(c) of title 26 .
 - **(b)**
-  - **(1)** The target total budget resources made available to the Secretary from the Harbor Maintenance Trust Fund for a fiscal year shall be not less than the following:
+  - **(1)** Except as provided in subsection (c), the target total budget resources made available to the Secretary from the Harbor Maintenance Trust Fund for a fiscal year shall be not less than the following:
     - **(A)** For fiscal year 2015, 67 percent of the total amount of harbor maintenance taxes received in fiscal year 2014.
     - **(B)** For fiscal year 2016, 69 percent of the total amount of harbor maintenance taxes received in fiscal year 2015.
     - **(C)** For fiscal year 2017, 71 percent of the total amount of harbor maintenance taxes received in fiscal year 2016.
@@ -27,6 +27,9 @@ generated_at: "2026-03-29T19:30:28.832Z"
     - **(J)** For fiscal year 2024, 95 percent of the total amount of harbor maintenance taxes received in fiscal year 2023.
     - **(K)** For fiscal year 2025, and each fiscal year thereafter, 100 percent of the total amount of harbor maintenance taxes received in the previous fiscal year.
   - **(2)** The total budget resources described in paragraph (1) may be used only for making expenditures under section 9505(c) of title 26 .
-- **(c)**
+- **(c)** If the target total budget resources for a fiscal year described in subparagraphs (A) through (J) of subsection (b)(1) is lower than the target total budget resources for the previous fiscal year, the target total budget resources shall be adjusted to be equal to the lesser of—
+  - **(1)** 103 percent of the total budget resources appropriated for the previous fiscal year; or
+  - **(2)** 100 percent of the total amount of harbor maintenance taxes received in the previous fiscal year.
+- **(d)**
   - **(1)** It is the sense of Congress that any increase in funding for harbor maintenance programs under this section shall result from an overall increase in appropriations for the civil works program of the Corps of Engineers and not from reductions in the appropriations for other programs, projects, and activities carried out by the Corps of Engineers for other authorized purposes.
   - **(2)** The target total budget resources for a fiscal year specified in subsection (b)(1) shall only apply in a fiscal year for which the level of appropriations provided for the civil works program of the Corps of Engineers in that fiscal year is increased, as compared to the previous fiscal year, by a dollar amount that is at least equivalent to the dollar amount necessary to address such target total budget resources in that fiscal year.

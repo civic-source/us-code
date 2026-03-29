@@ -3,9 +3,9 @@ title: "Section 8513b - Expansion of, and reports on, mandatory sanctions with r
 usc_title: 22
 usc_section: "8513b"
 chapter: 92
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 8513b"
-generated_at: "2026-03-29T19:29:46.985Z"
+generated_at: "2026-03-29T19:42:08.281Z"
 ---
 
 # § 8513b. Expansion of, and reports on, mandatory sanctions with respect to financial institutions that engage in certain activities
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:29:46.985Z"
     - **(B)** the ways in which funds move into and out of financial institutions described in section 8513(c)(2)(E)(ii) of this title , with specific attention to the use of other Iranian financial institutions and other foreign financial institutions to receive and transfer funds for financial institutions described in that section.
   - **(2)** Each report submitted under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 - **(d)** In this section:
-  - **(1)** The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of section 5312(a)(2) of title 31 .
+  - **(1)** The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Z) of section 5312(a)(2) of title 31 .
   - **(2)** The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title .
   - **(3)** The term “Iranian financial institution” means—
     - **(A)** a financial institution organized under the laws of Iran or any jurisdiction within Iran, including a foreign branch of such an institution;

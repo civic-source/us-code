@@ -3,9 +3,9 @@ title: "Section 53511 - Tax treatment of nonqualified withdrawals"
 usc_title: 46
 usc_section: "53511"
 chapter: 535
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "46 U.S.C. § 53511"
-generated_at: "2026-03-29T19:32:17.372Z"
+generated_at: "2026-03-29T19:44:39.459Z"
 ---
 
 # § 53511. Tax treatment of nonqualified withdrawals
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T19:32:17.372Z"
   - **(1)** For a taxable year for which there is a nonqualified withdrawal (including an amount treated as a nonqualified withdrawal under subsection (e)), the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1) shall be determined by—
     - **(A)** excluding the withdrawal from gross income; and
     - **(B)** increasing the tax imposed by chapter 1 of such Code by the product of the amount of the withdrawal and the highest tax rate specified in section 1 (or section 11 for a corporation) of such Code ( 26 U.S.C. 1 , 11).
-  - **(2)** For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code ( 26 U.S.C. 1(h) , 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
+  - **(2)** For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) 1 1 See References in Text note below. of such Code ( 26 U.S.C. 1(h) , 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
   - **(3)** If any portion of a nonqualified withdrawal is properly attributable to deposits (except earnings on deposits) made by the taxpayer in a taxable year that did not reduce the taxpayer’s liability for tax under chapter 1 of such Code (26 U.S.C. ch. 1) for a taxable year before the taxable year in which the withdrawal occurs—
     - **(A)** that portion shall not be taken into account under paragraph (1); and
     - **(B)** an amount equal to that portion shall be allowed as a deduction under section 172 of such Code ( 26 U.S.C. 172 ) for the taxable year in which the withdrawal occurs.

@@ -3,9 +3,9 @@ title: "Section 2826 - Omitted"
 usc_title: 22
 usc_section: "2826"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2826"
-generated_at: "2026-03-29T19:29:46.824Z"
+generated_at: "2026-03-29T19:42:08.141Z"
 ---
 
 # §§ 2821 to 2826. Omitted

@@ -3,9 +3,9 @@ title: "Section 5350 - Delivery of reports of disbursements"
 usc_title: 2
 usc_section: "5350"
 chapter: 53
-current_through: "PL 117-200"
+current_through: "PL 117-81"
 classification: "2 U.S.C. § 5350"
-generated_at: "2026-03-29T18:46:52.538Z"
+generated_at: "2026-03-29T19:42:59.705Z"
 ---
 
 # § 5350. Delivery of reports of disbursements

@@ -3,9 +3,9 @@ title: "Section 1532 - Definitions"
 usc_title: 16
 usc_section: "1532"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "16 U.S.C. § 1532"
-generated_at: "2026-03-29T19:29:27.478Z"
+generated_at: "2026-03-29T19:41:13.722Z"
 ---
 
 # § 1532. Definitions
@@ -31,7 +31,7 @@ For the purposes of this chapter—
     - **(C)** between a person within the United States and a person in a foreign country; or
     - **(D)** between persons within the United States, where the fish and wildlife in question are moving in any country or countries outside the United States.
   - **(10)** The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
-  - **(11)** Repealed. Pub. L. 97–304 , § 4(b), Oct. 13, 1982 , 96 Stat. 1420 .
+  - **(11)** Repealed. Pub. L. 97–304, § 4(b) , Oct. 13, 1982 , 96 Stat. 1420 .
   - **(12)** The term “permit or license applicant” means, when used with respect to an action of a Federal agency for which exemption is sought under section 1536 of this title , any person whose application to such agency for a permit or license has been denied primarily because of the application of section 1536(a) of this title to such agency action.
   - **(13)** The term “person” means an individual, corporation, partnership, trust, association, or any other private entity; or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State, municipality, or political subdivision of a State, or of any foreign government; any State, municipality, or political subdivision of a State; or any other entity subject to the jurisdiction of the United States.
   - **(14)** The term “plant” means any member of the plant kingdom, including seeds, roots and other parts thereof.

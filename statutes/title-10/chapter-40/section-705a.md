@@ -3,9 +3,9 @@ title: "Section 705a - Rest and recuperation absence: certain members undergoing
 usc_title: 10
 usc_section: "705a"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "10 U.S.C. § 705a"
-generated_at: "2026-03-29T19:27:25.461Z"
+generated_at: "2026-03-29T19:43:37.838Z"
 ---
 
 # § 705a. Rest and recuperation absence: certain members undergoing extended deployment to a combat zone
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:27:25.461Z"
 - **(b)** A member of the armed forces described in this subsection is any member who—
   - **(1)** is assigned or deployed for at least 270 days in an area or location—
     - **(A)** that is designated by the President as a combat zone; and
-    - **(B)** in which hardship duty pay is authorized to be paid under section 305 of title 37 ; and
+    - **(B)** in which hardship duty pay is authorized to be paid under section 305 or 352(a) of title 37; and
   - **(2)** meets such other criteria as the Secretary of Defense may prescribe in the regulations required by subsection (a).
 - **(c)** The benefits described in this subsection are the following:
   - **(1)** A period of rest and recuperation absence for not more than 15 days.
