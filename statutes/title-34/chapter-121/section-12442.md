@@ -3,9 +3,9 @@ title: "Section 12442 - Purpose areas"
 usc_title: 34
 usc_section: "12442"
 chapter: 121
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "34 U.S.C. § 12442"
-generated_at: "2026-03-29T20:39:11.603Z"
+generated_at: "2026-03-29T20:45:02.700Z"
 ---
 
 # § 12442. Purpose areas

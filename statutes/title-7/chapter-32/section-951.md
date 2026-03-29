@@ -3,9 +3,9 @@ title: "Section 951 - Collection and publication; facts required; submission of 
 usc_title: 7
 usc_section: "951"
 chapter: 32
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 951"
-generated_at: "2026-03-29T20:37:01.698Z"
+generated_at: "2026-03-29T20:42:35.247Z"
 ---
 
 # § 951. Collection and publication; facts required; submission of report

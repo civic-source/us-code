@@ -3,9 +3,9 @@ title: "Section 2389 - Status and benefits of personnel assigned or detailed to 
 usc_title: 22
 usc_section: "2389"
 chapter: 32
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 2389"
-generated_at: "2026-03-29T20:38:29.701Z"
+generated_at: "2026-03-29T20:44:16.908Z"
 ---
 
 # § 2389. Status and benefits of personnel assigned or detailed to foreign governments or international organizations

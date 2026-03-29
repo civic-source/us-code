@@ -3,9 +3,9 @@ title: "Section 3748 - Preference for disabled veterans"
 usc_title: 38
 usc_section: "3748"
 chapter: 37
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "38 U.S.C. § 3748"
-generated_at: "2026-03-29T20:39:27.791Z"
+generated_at: "2026-03-29T20:45:33.654Z"
 ---
 
 # § 3748. Preference for disabled veterans

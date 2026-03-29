@@ -3,9 +3,9 @@ title: "Section 57503 - Competitive bidding"
 usc_title: 46
 usc_section: "57503"
 chapter: 575
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 57503"
-generated_at: "2026-03-29T20:40:51.662Z"
+generated_at: "2026-03-29T20:47:08.378Z"
 ---
 
 # § 57503. Competitive bidding

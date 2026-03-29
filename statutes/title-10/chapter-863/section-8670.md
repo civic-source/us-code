@@ -3,9 +3,9 @@ title: "Section 8670 - Contracts for nuclear ships: sales of naval shipyard arti
 usc_title: 10
 usc_section: "8670"
 chapter: 863
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 8670"
-generated_at: "2026-03-29T20:36:24.463Z"
+generated_at: "2026-03-29T20:42:48.817Z"
 ---
 
 # § 8670. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards

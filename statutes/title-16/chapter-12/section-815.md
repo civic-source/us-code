@@ -3,9 +3,9 @@ title: "Section 815 - Contract to furnish power extending beyond period of licen
 usc_title: 16
 usc_section: "815"
 chapter: 12
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 815"
-generated_at: "2026-03-29T20:38:03.601Z"
+generated_at: "2026-03-29T20:43:30.656Z"
 ---
 
 # § 815. Contract to furnish power extending beyond period of license; obligations of new licensee

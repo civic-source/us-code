@@ -3,9 +3,9 @@ title: "Section 1374 - Measurement of farms and report of plantings; remeasureme
 usc_title: 7
 usc_section: "1374"
 chapter: 35
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 1374"
-generated_at: "2026-03-29T20:37:01.715Z"
+generated_at: "2026-03-29T20:42:35.265Z"
 ---
 
 # § 1374. Measurement of farms and report of plantings; remeasurement

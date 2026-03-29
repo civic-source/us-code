@@ -3,9 +3,9 @@ title: "Section 2555 - Transportation services: international Girl Scout events"
 usc_title: 10
 usc_section: "2555"
 chapter: 152
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2555"
-generated_at: "2026-03-29T20:36:24.329Z"
+generated_at: "2026-03-29T20:42:48.667Z"
 ---
 
 # § 2555. Transportation services: international Girl Scout events

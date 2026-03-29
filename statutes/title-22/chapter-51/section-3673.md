@@ -3,9 +3,9 @@ title: "Section 3673 - Transition separation incentive payments"
 usc_title: 22
 usc_section: "3673"
 chapter: 51
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 3673"
-generated_at: "2026-03-29T20:38:29.775Z"
+generated_at: "2026-03-29T20:44:16.979Z"
 ---
 
 # § 3673. Transition separation incentive payments

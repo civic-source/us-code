@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 12
 usc_section: "1"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-29T20:37:24.043Z"
+generated_at: "2026-03-29T20:43:00.486Z"
 ---
 
 # § 1750a–1. Omitted

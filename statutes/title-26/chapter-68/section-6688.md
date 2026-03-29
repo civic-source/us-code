@@ -3,9 +3,9 @@ title: "Section 6688 - Assessable penalties with respect to information required
 usc_title: 26
 usc_section: "6688"
 chapter: 68
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 6688"
-generated_at: "2026-03-29T20:39:05.114Z"
+generated_at: "2026-03-29T20:44:54.079Z"
 ---
 
 # § 6688. Assessable penalties with respect to information required to be furnished under section 7654

@@ -3,9 +3,9 @@ title: "Section 28504 - Applicability of other laws"
 usc_title: 49
 usc_section: "28504"
 chapter: 285
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 28504"
-generated_at: "2026-03-29T20:41:16.275Z"
+generated_at: "2026-03-29T20:47:02.844Z"
 ---
 
 # § 28504. Applicability of other laws

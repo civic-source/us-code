@@ -3,9 +3,9 @@ title: "Section 4015 - Administration of dispute settlement proceedings"
 usc_title: 19
 usc_section: "4015"
 chapter: 26
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "19 U.S.C. § 4015"
-generated_at: "2026-03-29T20:38:07.453Z"
+generated_at: "2026-03-29T20:43:18.337Z"
 ---
 
 # § 4015. Administration of dispute settlement proceedings

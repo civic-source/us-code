@@ -3,9 +3,9 @@ title: "Section 1731 - Handwriting"
 usc_title: 28
 usc_section: "1731"
 chapter: 115
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 1731"
-generated_at: "2026-03-29T20:38:47.215Z"
+generated_at: "2026-03-29T20:44:27.719Z"
 ---
 
 # § 1731. Handwriting

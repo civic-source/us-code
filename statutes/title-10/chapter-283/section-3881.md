@@ -3,9 +3,9 @@ title: "Section 3881 - Contracts: consideration of national security objectives"
 usc_title: 10
 usc_section: "3881"
 chapter: 283
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 3881"
-generated_at: "2026-03-29T20:36:24.399Z"
+generated_at: "2026-03-29T20:42:48.751Z"
 ---
 
 # § 3881. Contracts: consideration of national security objectives

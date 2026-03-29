@@ -3,9 +3,9 @@ title: "Section 2953 - Reports to Congress on additional employee requirements"
 usc_title: 5
 usc_section: "2953"
 chapter: 29
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 2953"
-generated_at: "2026-03-29T20:35:49.131Z"
+generated_at: "2026-03-29T20:42:02.851Z"
 ---
 
 # § 2953. Reports to Congress on additional employee requirements

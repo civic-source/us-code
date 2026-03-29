@@ -3,9 +3,9 @@ title: "Section 744a - End of Conrail commuter service obligation"
 usc_title: 45
 usc_section: "744a"
 chapter: 16
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "45 U.S.C. § 744a"
-generated_at: "2026-03-29T20:39:48.280Z"
+generated_at: "2026-03-29T20:45:44.718Z"
 ---
 
 # § 744a. End of Conrail commuter service obligation

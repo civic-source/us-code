@@ -3,9 +3,9 @@ title: "Section 15921 - Management of Federal oil and gas leasing programs"
 usc_title: 42
 usc_section: "15921"
 chapter: 149
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 15921"
-generated_at: "2026-03-29T20:40:43.157Z"
+generated_at: "2026-03-29T20:46:41.498Z"
 ---
 
 # § 15921. Management of Federal oil and gas leasing programs

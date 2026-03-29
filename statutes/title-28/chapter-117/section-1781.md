@@ -3,9 +3,9 @@ title: "Section 1781 - Transmittal of letter rogatory or request"
 usc_title: 28
 usc_section: "1781"
 chapter: 117
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 1781"
-generated_at: "2026-03-29T20:38:47.216Z"
+generated_at: "2026-03-29T20:44:27.721Z"
 ---
 
 # § 1781. Transmittal of letter rogatory or request

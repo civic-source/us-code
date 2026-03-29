@@ -3,9 +3,9 @@ title: "Section 606 - Offense for unlawful cutting on mineral lands; punishment"
 usc_title: 16
 usc_section: "606"
 chapter: 4
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 606"
-generated_at: "2026-03-29T20:38:03.551Z"
+generated_at: "2026-03-29T20:43:30.592Z"
 ---
 
 # § 606. Offense for unlawful cutting on mineral lands; punishment

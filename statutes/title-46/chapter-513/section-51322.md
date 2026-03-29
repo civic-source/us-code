@@ -3,9 +3,9 @@ title: "Section 51322 - Protection of cadets from sexual assault onboard vessels
 usc_title: 46
 usc_section: "51322"
 chapter: 513
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 51322"
-generated_at: "2026-03-29T20:40:51.637Z"
+generated_at: "2026-03-29T20:47:08.351Z"
 ---
 
 # § 51322. Protection of cadets from sexual assault onboard vessels

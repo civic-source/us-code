@@ -3,9 +3,9 @@ title: "Section 736 - Omitted"
 usc_title: 25
 usc_section: "736"
 chapter: 14
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 736"
-generated_at: "2026-03-29T20:38:40.892Z"
+generated_at: "2026-03-29T20:44:07.082Z"
 ---
 
 # § 736. Omitted

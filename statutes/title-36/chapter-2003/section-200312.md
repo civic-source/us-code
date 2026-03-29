@@ -3,9 +3,9 @@ title: "Section 200312 - Annual report"
 usc_title: 36
 usc_section: "200312"
 chapter: 2003
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "36 U.S.C. § 200312"
-generated_at: "2026-03-29T20:39:42.232Z"
+generated_at: "2026-03-29T20:45:20.956Z"
 ---
 
 # § 200312. Annual report

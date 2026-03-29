@@ -3,9 +3,9 @@ title: "Section 9405 - Imposition of additional sanctions with respect to person
 usc_title: 22
 usc_section: "9405"
 chapter: 101
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 9405"
-generated_at: "2026-03-29T20:38:29.950Z"
+generated_at: "2026-03-29T20:44:17.131Z"
 ---
 
 # § 9405. Imposition of additional sanctions with respect to persons responsible for human rights abuses

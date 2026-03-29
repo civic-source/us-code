@@ -3,9 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-29T20:39:04.692Z"
+generated_at: "2026-03-29T20:44:53.561Z"
 ---
 
 # § 219. Retirement savings

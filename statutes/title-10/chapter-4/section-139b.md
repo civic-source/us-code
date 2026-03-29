@@ -3,9 +3,9 @@ title: "Section 139b - Secretariat for Special Operations; Special Operations Po
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-29T20:36:24.073Z"
+generated_at: "2026-03-29T20:42:48.365Z"
 ---
 
 # § 139b. Secretariat for Special Operations; Special Operations Policy and Oversight Council

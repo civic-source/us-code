@@ -3,9 +3,9 @@ title: "Section 1825 - Payment of fees"
 usc_title: 28
 usc_section: "1825"
 chapter: 119
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 1825"
-generated_at: "2026-03-29T20:38:47.217Z"
+generated_at: "2026-03-29T20:44:27.721Z"
 ---
 
 # § 1825. Payment of fees

@@ -3,9 +3,9 @@ title: "Section 283ii - Securities issued by the Corporation"
 usc_title: 22
 usc_section: "283ii"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 283ii"
-generated_at: "2026-03-29T20:38:29.592Z"
+generated_at: "2026-03-29T20:44:16.808Z"
 ---
 
 # § 283ii. Securities issued by the Corporation

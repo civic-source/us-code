@@ -3,9 +3,9 @@ title: "Section 7103 - Interagency Task Force to Monitor and Combat Trafficking"
 usc_title: 22
 usc_section: "7103"
 chapter: 78
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 7103"
-generated_at: "2026-03-29T20:38:29.880Z"
+generated_at: "2026-03-29T20:44:17.068Z"
 ---
 
 # § 7103. Interagency Task Force to Monitor and Combat Trafficking

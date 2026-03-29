@@ -3,9 +3,9 @@ title: "Section 11386b - Allocation of amounts and incentives for specific eligi
 usc_title: 42
 usc_section: "11386b"
 chapter: 119
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 11386b"
-generated_at: "2026-03-29T20:40:43.015Z"
+generated_at: "2026-03-29T20:46:41.359Z"
 ---
 
 # § 11386b. Allocation of amounts and incentives for specific eligible activities

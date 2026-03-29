@@ -3,9 +3,9 @@ title: "Section 28 - Authorization of appropriations"
 usc_title: 22
 usc_section: "28"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 28"
-generated_at: "2026-03-29T20:38:29.582Z"
+generated_at: "2026-03-29T20:44:16.801Z"
 ---
 
 # § 277d–28. Authorization of appropriations

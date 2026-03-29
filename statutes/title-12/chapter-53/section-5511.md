@@ -3,9 +3,9 @@ title: "Section 5511 - Purpose, objectives, and functions"
 usc_title: 12
 usc_section: "5511"
 chapter: 53
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "12 U.S.C. § 5511"
-generated_at: "2026-03-29T20:37:24.320Z"
+generated_at: "2026-03-29T20:43:00.764Z"
 ---
 
 # § 5511. Purpose, objectives, and functions

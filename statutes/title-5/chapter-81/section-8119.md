@@ -3,9 +3,9 @@ title: "Section 8119 - Notice of injury or death"
 usc_title: 5
 usc_section: "8119"
 chapter: 81
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 8119"
-generated_at: "2026-03-29T20:35:49.198Z"
+generated_at: "2026-03-29T20:42:02.931Z"
 ---
 
 # § 8119. Notice of injury or death

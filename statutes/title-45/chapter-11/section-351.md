@@ -3,9 +3,9 @@ title: "Section 351 - Definitions"
 usc_title: 45
 usc_section: "351"
 chapter: 11
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "45 U.S.C. § 351"
-generated_at: "2026-03-29T20:39:48.259Z"
+generated_at: "2026-03-29T20:45:44.698Z"
 ---
 
 # § 351. Definitions

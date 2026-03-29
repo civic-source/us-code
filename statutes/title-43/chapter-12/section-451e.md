@@ -3,9 +3,9 @@ title: "Section 451e - Amendment of farm unit; application; amount of land; exch
 usc_title: 43
 usc_section: "451e"
 chapter: 12
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "43 U.S.C. § 451e"
-generated_at: "2026-03-29T20:39:58.711Z"
+generated_at: "2026-03-29T20:46:09.633Z"
 ---
 
 # § 451e. Amendment of farm unit; application; amount of land; exchange; waiver

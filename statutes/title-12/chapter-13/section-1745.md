@@ -3,9 +3,9 @@ title: "Section 1745 - Insurance of mortgages on sales of Government housing; li
 usc_title: 12
 usc_section: "1745"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "12 U.S.C. § 1745"
-generated_at: "2026-03-29T20:37:24.036Z"
+generated_at: "2026-03-29T20:43:00.481Z"
 ---
 
 # § 1745. Insurance of mortgages on sales of Government housing; limits and conditions; Greenbelt towns; State housing

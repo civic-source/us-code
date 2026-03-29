@@ -3,9 +3,9 @@ title: "Section 14322 - Rechargeable consumer products and labeling"
 usc_title: 42
 usc_section: "14322"
 chapter: 137
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 14322"
-generated_at: "2026-03-29T20:40:43.127Z"
+generated_at: "2026-03-29T20:46:41.469Z"
 ---
 
 # § 14322. Rechargeable consumer products and labeling

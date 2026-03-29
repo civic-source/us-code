@@ -3,9 +3,9 @@ title: "Section 629 - Federal Judicial Center Foundation"
 usc_title: 28
 usc_section: "629"
 chapter: 42
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 629"
-generated_at: "2026-03-29T20:38:47.195Z"
+generated_at: "2026-03-29T20:44:27.699Z"
 ---
 
 # § 629. Federal Judicial Center Foundation

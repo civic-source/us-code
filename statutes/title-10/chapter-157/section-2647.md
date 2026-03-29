@@ -3,9 +3,9 @@ title: "Section 2647 - Next-of-kin of persons unaccounted for from conflicts aft
 usc_title: 10
 usc_section: "2647"
 chapter: 157
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2647"
-generated_at: "2026-03-29T20:36:24.338Z"
+generated_at: "2026-03-29T20:42:48.683Z"
 ---
 
 # § 2647. Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings

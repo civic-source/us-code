@@ -3,9 +3,9 @@ title: "Section 1556 - Definitions"
 usc_title: 43
 usc_section: "1556"
 chapter: 32
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "43 U.S.C. § 1556"
-generated_at: "2026-03-29T20:39:58.769Z"
+generated_at: "2026-03-29T20:46:09.694Z"
 ---
 
 # § 1556. Definitions

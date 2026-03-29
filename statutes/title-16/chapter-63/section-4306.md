@@ -3,9 +3,9 @@ title: "Section 4306 - Prohibited acts and criminal penalties"
 usc_title: 16
 usc_section: "4306"
 chapter: 63
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 4306"
-generated_at: "2026-03-29T20:38:03.820Z"
+generated_at: "2026-03-29T20:43:30.935Z"
 ---
 
 # § 4306. Prohibited acts and criminal penalties

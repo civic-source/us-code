@@ -3,9 +3,9 @@ title: "Section 3 - Use of certain local currency"
 usc_title: 7
 usc_section: "3"
 chapter: 41
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-29T20:37:01.777Z"
+generated_at: "2026-03-29T20:42:35.320Z"
 ---
 
 # § 1736g–3. Use of certain local currency

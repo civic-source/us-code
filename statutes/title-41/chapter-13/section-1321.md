@@ -3,9 +3,9 @@ title: "Section 1321 - Definitions"
 usc_title: 41
 usc_section: "1321"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "41 U.S.C. § 1321"
-generated_at: "2026-03-29T20:39:46.705Z"
+generated_at: "2026-03-29T20:45:42.998Z"
 ---
 
 # § 1321. Definitions

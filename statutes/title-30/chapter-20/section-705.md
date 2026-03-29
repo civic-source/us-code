@@ -3,9 +3,9 @@ title: "Section 705 - Purchase price of conveyed interest; installment payments"
 usc_title: 30
 usc_section: "705"
 chapter: 20
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "30 U.S.C. § 705"
-generated_at: "2026-03-29T20:38:44.902Z"
+generated_at: "2026-03-29T20:44:42.804Z"
 ---
 
 # § 705. Purchase price of conveyed interest; installment payments

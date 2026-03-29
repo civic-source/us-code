@@ -3,9 +3,9 @@ title: "Section 1632 - Safe water and sanitary waste disposal facilities"
 usc_title: 25
 usc_section: "1632"
 chapter: 18
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 1632"
-generated_at: "2026-03-29T20:38:40.914Z"
+generated_at: "2026-03-29T20:44:07.103Z"
 ---
 
 # § 1632. Safe water and sanitary waste disposal facilities

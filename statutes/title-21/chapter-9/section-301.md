@@ -3,9 +3,9 @@ title: "Section 301 - Short title"
 usc_title: 21
 usc_section: "301"
 chapter: 9
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 301"
-generated_at: "2026-03-29T20:38:14.188Z"
+generated_at: "2026-03-29T20:44:11.370Z"
 ---
 
 # § 301. Short title

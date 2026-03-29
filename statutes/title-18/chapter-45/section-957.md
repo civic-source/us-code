@@ -3,9 +3,9 @@ title: "Section 957 - Possession of property in aid of foreign government"
 usc_title: 18
 usc_section: "957"
 chapter: 45
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 957"
-generated_at: "2026-03-29T20:37:48.534Z"
+generated_at: "2026-03-29T20:43:23.230Z"
 ---
 
 # § 957. Possession of property in aid of foreign government

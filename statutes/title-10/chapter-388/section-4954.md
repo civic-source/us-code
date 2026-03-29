@@ -3,9 +3,9 @@ title: "Section 4954 - Distribution"
 usc_title: 10
 usc_section: "4954"
 chapter: 388
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 4954"
-generated_at: "2026-03-29T20:36:24.426Z"
+generated_at: "2026-03-29T20:42:48.779Z"
 ---
 
 # § 4954. Distribution

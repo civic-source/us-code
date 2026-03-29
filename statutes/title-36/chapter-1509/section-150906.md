@@ -3,9 +3,9 @@ title: "Section 150906 - Restrictions"
 usc_title: 36
 usc_section: "150906"
 chapter: 1509
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "36 U.S.C. § 150906"
-generated_at: "2026-03-29T20:39:42.218Z"
+generated_at: "2026-03-29T20:45:20.942Z"
 ---
 
 # § 150906. Restrictions

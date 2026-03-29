@@ -3,9 +3,9 @@ title: "Section 6992i - General provisions"
 usc_title: 42
 usc_section: "6992i"
 chapter: 82
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 6992i"
-generated_at: "2026-03-29T20:40:42.732Z"
+generated_at: "2026-03-29T20:46:41.103Z"
 ---
 
 # § 6992i. General provisions

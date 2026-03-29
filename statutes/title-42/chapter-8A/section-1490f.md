@@ -3,9 +3,9 @@ title: "Section 1490f - Loans and insurance of loans for condominium housing in 
 usc_title: 42
 usc_section: "1490f"
 chapter: 8
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 1490f"
-generated_at: "2026-03-29T20:40:42.306Z"
+generated_at: "2026-03-29T20:46:40.716Z"
 ---
 
 # § 1490f. Loans and insurance of loans for condominium housing in rural areas

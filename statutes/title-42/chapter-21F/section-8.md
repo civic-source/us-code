@@ -3,9 +3,9 @@ title: "Section 8 - Construction"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T20:40:42.405Z"
+generated_at: "2026-03-29T20:46:40.803Z"
 ---
 
 # § 2000ff–8. Construction

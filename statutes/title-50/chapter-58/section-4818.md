@@ -3,9 +3,9 @@ title: "Section 4818 - Review relating to countries subject to comprehensive Uni
 usc_title: 50
 usc_section: "4818"
 chapter: 58
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 4818"
-generated_at: "2026-03-29T20:40:58.404Z"
+generated_at: "2026-03-29T20:47:12.803Z"
 ---
 
 # § 4818. Review relating to countries subject to comprehensive United States arms embargo

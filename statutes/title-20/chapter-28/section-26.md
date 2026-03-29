@@ -3,9 +3,9 @@ title: "Section 26 - 21st Century Scholar Certificates"
 usc_title: 20
 usc_section: "26"
 chapter: 28
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "20 U.S.C. § 26"
-generated_at: "2026-03-29T20:37:54.576Z"
+generated_at: "2026-03-29T20:43:59.731Z"
 ---
 
 # § 1070a–26. 21st Century Scholar Certificates

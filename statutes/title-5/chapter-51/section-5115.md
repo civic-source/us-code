@@ -3,9 +3,9 @@ title: "Section 5115 - Regulations"
 usc_title: 5
 usc_section: "5115"
 chapter: 51
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 5115"
-generated_at: "2026-03-29T20:35:49.151Z"
+generated_at: "2026-03-29T20:42:02.874Z"
 ---
 
 # § 5115. Regulations

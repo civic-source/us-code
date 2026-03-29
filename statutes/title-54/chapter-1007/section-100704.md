@@ -3,9 +3,9 @@ title: "Section 100704 - Inventory and monitoring program"
 usc_title: 54
 usc_section: "100704"
 chapter: 1007
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "54 U.S.C. § 100704"
-generated_at: "2026-03-29T20:41:25.015Z"
+generated_at: "2026-03-29T20:47:22.620Z"
 ---
 
 # § 100704. Inventory and monitoring program

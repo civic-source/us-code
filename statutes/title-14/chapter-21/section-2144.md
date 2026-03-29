@@ -3,9 +3,9 @@ title: "Section 2144 - Regular Coast Guard; officers serving under temporary app
 usc_title: 14
 usc_section: "2144"
 chapter: 21
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "14 U.S.C. § 2144"
-generated_at: "2026-03-29T20:37:10.915Z"
+generated_at: "2026-03-29T20:42:52.746Z"
 ---
 
 # § 2144. Regular Coast Guard; officers serving under temporary appointments

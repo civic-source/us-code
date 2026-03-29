@@ -3,9 +3,9 @@ title: "Section 6363 - Establishment of leave banks"
 usc_title: 5
 usc_section: "6363"
 chapter: 63
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 6363"
-generated_at: "2026-03-29T20:35:49.184Z"
+generated_at: "2026-03-29T20:42:02.912Z"
 ---
 
 # § 6363. Establishment of leave banks

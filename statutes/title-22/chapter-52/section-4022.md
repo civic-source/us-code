@@ -3,9 +3,9 @@ title: "Section 4022 - Foreign language requirements"
 usc_title: 22
 usc_section: "4022"
 chapter: 52
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 4022"
-generated_at: "2026-03-29T20:38:29.795Z"
+generated_at: "2026-03-29T20:44:16.992Z"
 ---
 
 # § 4022. Foreign language requirements

@@ -3,9 +3,9 @@ title: "Section 3905 - Payment provisions relating to construction contracts"
 usc_title: 31
 usc_section: "3905"
 chapter: 39
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "31 U.S.C. § 3905"
-generated_at: "2026-03-29T20:39:09.983Z"
+generated_at: "2026-03-29T20:45:11.374Z"
 ---
 
 # § 3905. Payment provisions relating to construction contracts

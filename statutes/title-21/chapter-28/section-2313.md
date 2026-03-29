@@ -3,9 +3,9 @@ title: "Section 2313 - Description of sanctions"
 usc_title: 21
 usc_section: "2313"
 chapter: 28
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 2313"
-generated_at: "2026-03-29T20:38:14.407Z"
+generated_at: "2026-03-29T20:44:11.560Z"
 ---
 
 # § 2313. Description of sanctions

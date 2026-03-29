@@ -3,9 +3,9 @@ title: "Section 1314 - Payments; Federal share of operating expenses"
 usc_title: 30
 usc_section: "1314"
 chapter: 25
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "30 U.S.C. § 1314"
-generated_at: "2026-03-29T20:38:44.952Z"
+generated_at: "2026-03-29T20:44:42.853Z"
 ---
 
 # § 1314. Payments; Federal share of operating expenses

@@ -3,9 +3,9 @@ title: "Section 14703 - Authorization of appropriations"
 usc_title: 40
 usc_section: "14703"
 chapter: 147
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "40 U.S.C. § 14703"
-generated_at: "2026-03-29T20:39:32.184Z"
+generated_at: "2026-03-29T20:45:40.434Z"
 ---
 
 # § 14703. Authorization of appropriations

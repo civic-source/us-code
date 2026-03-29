@@ -3,9 +3,9 @@ title: "Section 5662 - Penalty for alteration of wine labels"
 usc_title: 26
 usc_section: "5662"
 chapter: 51
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 5662"
-generated_at: "2026-03-29T20:39:05.044Z"
+generated_at: "2026-03-29T20:44:53.963Z"
 ---
 
 # § 5662. Penalty for alteration of wine labels

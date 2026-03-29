@@ -3,9 +3,9 @@ title: "Section 2737 - Silver star medal"
 usc_title: 14
 usc_section: "2737"
 chapter: 27
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "14 U.S.C. § 2737"
-generated_at: "2026-03-29T20:37:10.921Z"
+generated_at: "2026-03-29T20:42:52.750Z"
 ---
 
 # § 2737. Silver star medal

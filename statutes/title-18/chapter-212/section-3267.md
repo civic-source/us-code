@@ -3,9 +3,9 @@ title: "Section 3267 - Definitions"
 usc_title: 18
 usc_section: "3267"
 chapter: 212
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 3267"
-generated_at: "2026-03-29T20:37:48.608Z"
+generated_at: "2026-03-29T20:43:23.314Z"
 ---
 
 # § 3267. Definitions

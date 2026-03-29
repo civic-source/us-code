@@ -3,9 +3,9 @@ title: "Section 6385 - Prohibition of coercion"
 usc_title: 5
 usc_section: "6385"
 chapter: 63
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 6385"
-generated_at: "2026-03-29T20:35:49.185Z"
+generated_at: "2026-03-29T20:42:02.913Z"
 ---
 
 # § 6385. Prohibition of coercion

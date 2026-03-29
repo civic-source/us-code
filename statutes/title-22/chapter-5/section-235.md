@@ -3,9 +3,9 @@ title: "Section 235 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 22
 usc_section: "235"
 chapter: 5
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 235"
-generated_at: "2026-03-29T20:38:29.560Z"
+generated_at: "2026-03-29T20:44:16.780Z"
 ---
 
 # §§ 234, 235. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

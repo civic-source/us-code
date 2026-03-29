@@ -3,9 +3,9 @@ title: "Section 1776j - Omitted"
 usc_title: 25
 usc_section: "1776j"
 chapter: 19
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 1776j"
-generated_at: "2026-03-29T20:38:40.933Z"
+generated_at: "2026-03-29T20:44:07.122Z"
 ---
 
 # § 1776j. Omitted

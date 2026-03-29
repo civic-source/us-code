@@ -3,9 +3,9 @@ title: "Section 2200c - Special considerations in awarding scholarships and gran
 usc_title: 10
 usc_section: "2200c"
 chapter: 112
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2200c"
-generated_at: "2026-03-29T20:36:24.264Z"
+generated_at: "2026-03-29T20:42:48.552Z"
 ---
 
 # § 2200c. Special considerations in awarding scholarships and grants

@@ -3,9 +3,9 @@ title: "Section 7451 - Regulations"
 usc_title: 7
 usc_section: "7451"
 chapter: 101
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 7451"
-generated_at: "2026-03-29T20:37:01.988Z"
+generated_at: "2026-03-29T20:42:35.535Z"
 ---
 
 # § 7451. Regulations

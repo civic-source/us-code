@@ -3,9 +3,9 @@ title: "Section 12107 - Wrecked vessels"
 usc_title: 46
 usc_section: "12107"
 chapter: 121
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 12107"
-generated_at: "2026-03-29T20:40:51.604Z"
+generated_at: "2026-03-29T20:47:08.322Z"
 ---
 
 # § 12107. Wrecked vessels

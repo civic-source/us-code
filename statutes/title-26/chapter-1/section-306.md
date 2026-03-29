@@ -3,9 +3,9 @@ title: "Section 306 - Dispositions of certain stock"
 usc_title: 26
 usc_section: "306"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 306"
-generated_at: "2026-03-29T20:39:04.712Z"
+generated_at: "2026-03-29T20:44:53.582Z"
 ---
 
 # § 306. Dispositions of certain stock

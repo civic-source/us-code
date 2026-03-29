@@ -3,9 +3,9 @@ title: "Section 53904 - Liability insurance for persons involved in war or defen
 usc_title: 46
 usc_section: "53904"
 chapter: 539
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 53904"
-generated_at: "2026-03-29T20:40:51.654Z"
+generated_at: "2026-03-29T20:47:08.368Z"
 ---
 
 # § 53904. Liability insurance for persons involved in war or defense efforts

@@ -3,9 +3,9 @@ title: "Section 3262 - Programs"
 usc_title: 22
 usc_section: "3262"
 chapter: 47
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 3262"
-generated_at: "2026-03-29T20:38:29.766Z"
+generated_at: "2026-03-29T20:44:16.969Z"
 ---
 
 # § 3262. Programs

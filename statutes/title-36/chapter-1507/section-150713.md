@@ -3,9 +3,9 @@ title: "Section 150713 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "150713"
 chapter: 1507
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "36 U.S.C. § 150713"
-generated_at: "2026-03-29T20:39:42.218Z"
+generated_at: "2026-03-29T20:45:20.941Z"
 ---
 
 # § 150713. Distribution of assets on dissolution or final liquidation

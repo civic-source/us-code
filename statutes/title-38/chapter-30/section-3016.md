@@ -3,9 +3,9 @@ title: "Section 3016 - Inservice enrollment in a program of education"
 usc_title: 38
 usc_section: "3016"
 chapter: 30
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "38 U.S.C. § 3016"
-generated_at: "2026-03-29T20:39:27.755Z"
+generated_at: "2026-03-29T20:45:33.615Z"
 ---
 
 # § 3016. Inservice enrollment in a program of education

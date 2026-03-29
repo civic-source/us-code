@@ -3,9 +3,9 @@ title: "Section 400 - Advances as item of cost of construction and maintenance o
 usc_title: 43
 usc_section: "400"
 chapter: 12
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "43 U.S.C. § 400"
-generated_at: "2026-03-29T20:39:58.703Z"
+generated_at: "2026-03-29T20:46:09.625Z"
 ---
 
 # § 400. Advances as item of cost of construction and maintenance of project

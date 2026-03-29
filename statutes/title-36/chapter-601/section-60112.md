@@ -3,9 +3,9 @@ title: "Section 60112 - Annual report"
 usc_title: 36
 usc_section: "60112"
 chapter: 601
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "36 U.S.C. § 60112"
-generated_at: "2026-03-29T20:39:42.206Z"
+generated_at: "2026-03-29T20:45:20.930Z"
 ---
 
 # § 60112. Annual report

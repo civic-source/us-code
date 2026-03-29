@@ -3,9 +3,9 @@ title: "Section 101922 - Use of nonmonetary consideration in concession contract
 usc_title: 54
 usc_section: "101922"
 chapter: 1019
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "54 U.S.C. § 101922"
-generated_at: "2026-03-29T20:41:25.024Z"
+generated_at: "2026-03-29T20:47:22.626Z"
 ---
 
 # § 101922. Use of nonmonetary consideration in concession contracts

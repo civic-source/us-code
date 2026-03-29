@@ -3,9 +3,9 @@ title: "Section 7 - Implementation and transition provisions for whistleblower p
 usc_title: 15
 usc_section: "7"
 chapter: 2
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-29T20:37:42.116Z"
+generated_at: "2026-03-29T20:43:06.918Z"
 ---
 
 # § 78u–7. Implementation and transition provisions for whistleblower protection

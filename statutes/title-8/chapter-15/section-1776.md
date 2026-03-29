@@ -3,9 +3,9 @@ title: "Section 1776 - Training program"
 usc_title: 8
 usc_section: "1776"
 chapter: 15
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "8 U.S.C. § 1776"
-generated_at: "2026-03-29T20:36:07.527Z"
+generated_at: "2026-03-29T20:42:22.212Z"
 ---
 
 # § 1776. Training program

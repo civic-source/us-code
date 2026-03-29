@@ -3,9 +3,9 @@ title: "Section 18647 - Science laboratories infrastructure program"
 usc_title: 42
 usc_section: "18647"
 chapter: 161
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 18647"
-generated_at: "2026-03-29T20:40:43.269Z"
+generated_at: "2026-03-29T20:46:41.624Z"
 ---
 
 # § 18647. Science laboratories infrastructure program

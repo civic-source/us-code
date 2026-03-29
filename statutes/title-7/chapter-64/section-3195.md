@@ -3,9 +3,9 @@ title: "Section 3195 - Continuing animal health and disease, food security, and 
 usc_title: 7
 usc_section: "3195"
 chapter: 64
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 3195"
-generated_at: "2026-03-29T20:37:01.887Z"
+generated_at: "2026-03-29T20:42:35.427Z"
 ---
 
 # § 3195. Continuing animal health and disease, food security, and stewardship research, education, and extension programs

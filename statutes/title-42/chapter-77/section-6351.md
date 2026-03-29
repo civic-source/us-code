@@ -3,9 +3,9 @@ title: "Section 6351 - Coordination of research and development of energy effici
 usc_title: 42
 usc_section: "6351"
 chapter: 77
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 6351"
-generated_at: "2026-03-29T20:40:42.676Z"
+generated_at: "2026-03-29T20:46:41.054Z"
 ---
 
 # § 6351. Coordination of research and development of energy efficient technologies for industry

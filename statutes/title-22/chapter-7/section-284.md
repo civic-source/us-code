@@ -3,9 +3,9 @@ title: "Section 284 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "284"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 284"
-generated_at: "2026-03-29T20:38:29.592Z"
+generated_at: "2026-03-29T20:44:16.808Z"
 ---
 
 # § 284. Acceptance of membership by United States in International Development Association

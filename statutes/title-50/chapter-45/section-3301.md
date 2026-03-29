@@ -3,9 +3,9 @@ title: "Section 3301 - Multiyear national intelligence program"
 usc_title: 50
 usc_section: "3301"
 chapter: 45
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 3301"
-generated_at: "2026-03-29T20:40:58.337Z"
+generated_at: "2026-03-29T20:47:12.722Z"
 ---
 
 # § 3301. Multiyear national intelligence program

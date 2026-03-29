@@ -3,9 +3,9 @@ title: "Section 18 - Same; parliamentary procedure at joint meeting"
 usc_title: 3
 usc_section: "18"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "3 U.S.C. § 18"
-generated_at: "2026-03-29T20:35:44.138Z"
+generated_at: "2026-03-29T20:41:58.803Z"
 ---
 
 # § 18. Same; parliamentary procedure at joint meeting

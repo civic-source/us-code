@@ -3,9 +3,9 @@ title: "Section 1375c - Protections, remedies, and limitations on issuance for A
 usc_title: 8
 usc_section: "1375c"
 chapter: 12
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "8 U.S.C. § 1375c"
-generated_at: "2026-03-29T20:36:07.503Z"
+generated_at: "2026-03-29T20:42:22.191Z"
 ---
 
 # § 1375c. Protections, remedies, and limitations on issuance for A–3 and G–5 visas

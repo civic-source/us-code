@@ -3,9 +3,9 @@ title: "Section 2254 - Assessment of operation and maintenance needs of the Atla
 usc_title: 33
 usc_section: "2254"
 chapter: 36
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "33 U.S.C. § 2254"
-generated_at: "2026-03-29T20:39:21.014Z"
+generated_at: "2026-03-29T20:45:06.832Z"
 ---
 
 # § 2254. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway

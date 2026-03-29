@@ -3,9 +3,9 @@ title: "Section 1721 - Management and liquidation functions of Government Nation
 usc_title: 12
 usc_section: "1721"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "12 U.S.C. § 1721"
-generated_at: "2026-03-29T20:37:24.025Z"
+generated_at: "2026-03-29T20:43:00.469Z"
 ---
 
 # § 1721. Management and liquidation functions of Government National Mortgage Association

@@ -3,9 +3,9 @@ title: "Section 40504 - Grants for the assistance of organizations to find missi
 usc_title: 34
 usc_section: "40504"
 chapter: 405
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "34 U.S.C. § 40504"
-generated_at: "2026-03-29T20:39:11.654Z"
+generated_at: "2026-03-29T20:45:02.747Z"
 ---
 
 # § 40504. Grants for the assistance of organizations to find missing adults

@@ -3,9 +3,9 @@ title: "Section 6432 - Continuation coverage premium assistance"
 usc_title: 26
 usc_section: "6432"
 chapter: 65
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 6432"
-generated_at: "2026-03-29T20:39:05.103Z"
+generated_at: "2026-03-29T20:44:54.064Z"
 ---
 
 # § 6432. Continuation coverage premium assistance

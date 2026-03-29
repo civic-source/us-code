@@ -3,9 +3,9 @@ title: "Section 890 - Review of Federal sales of chemicals usable to manufacture
 usc_title: 21
 usc_section: "890"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 890"
-generated_at: "2026-03-29T20:38:14.377Z"
+generated_at: "2026-03-29T20:44:11.534Z"
 ---
 
 # § 890. Review of Federal sales of chemicals usable to manufacture controlled substances

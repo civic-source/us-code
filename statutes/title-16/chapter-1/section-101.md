@@ -3,9 +3,9 @@ title: "Section 101 - Land exchange, Roaring Springs Ranch"
 usc_title: 16
 usc_section: "101"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 101"
-generated_at: "2026-03-29T20:38:03.481Z"
+generated_at: "2026-03-29T20:43:30.515Z"
 ---
 
 # § 460nnn–101. Land exchange, Roaring Springs Ranch

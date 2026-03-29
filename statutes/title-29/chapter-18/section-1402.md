@@ -3,9 +3,9 @@ title: "Section 1402 - Reimbursements for uncollectible withdrawal liability"
 usc_title: 29
 usc_section: "1402"
 chapter: 18
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "29 U.S.C. § 1402"
-generated_at: "2026-03-29T20:38:49.755Z"
+generated_at: "2026-03-29T20:44:23.690Z"
 ---
 
 # § 1402. Reimbursements for uncollectible withdrawal liability

@@ -3,9 +3,9 @@ title: "Section 4505 - Awards to former employees"
 usc_title: 5
 usc_section: "4505"
 chapter: 45
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 4505"
-generated_at: "2026-03-29T20:35:49.148Z"
+generated_at: "2026-03-29T20:42:02.870Z"
 ---
 
 # § 4505. Awards to former employees

@@ -3,9 +3,9 @@ title: "Section 8507 - Miscellaneous matters"
 usc_title: 7
 usc_section: "8507"
 chapter: 111
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 8507"
-generated_at: "2026-03-29T20:37:02.039Z"
+generated_at: "2026-03-29T20:42:35.583Z"
 ---
 
 # § 8507. Miscellaneous matters

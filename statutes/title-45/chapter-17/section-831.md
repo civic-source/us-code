@@ -3,9 +3,9 @@ title: "Section 831 - Transferred"
 usc_title: 45
 usc_section: "831"
 chapter: 17
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "45 U.S.C. § 831"
-generated_at: "2026-03-29T20:39:48.285Z"
+generated_at: "2026-03-29T20:45:44.723Z"
 ---
 
 # § 831. Transferred

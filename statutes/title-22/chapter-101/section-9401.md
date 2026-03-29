@@ -3,9 +3,9 @@ title: "Section 9401 - Definitions"
 usc_title: 22
 usc_section: "9401"
 chapter: 101
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 9401"
-generated_at: "2026-03-29T20:38:29.949Z"
+generated_at: "2026-03-29T20:44:17.130Z"
 ---
 
 # § 9401. Definitions

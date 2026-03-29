@@ -3,9 +3,9 @@ title: "Section 4056 - Emergency implementation of flood insurance program; appl
 usc_title: 42
 usc_section: "4056"
 chapter: 50
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 4056"
-generated_at: "2026-03-29T20:40:42.536Z"
+generated_at: "2026-03-29T20:46:40.915Z"
 ---
 
 # § 4056. Emergency implementation of flood insurance program; applicability of other provisions of law

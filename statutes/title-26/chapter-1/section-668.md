@@ -3,9 +3,9 @@ title: "Section 668 - Interest charge on accumulation distributions from foreign
 usc_title: 26
 usc_section: "668"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 668"
-generated_at: "2026-03-29T20:39:04.843Z"
+generated_at: "2026-03-29T20:44:53.690Z"
 ---
 
 # § 668. Interest charge on accumulation distributions from foreign trusts

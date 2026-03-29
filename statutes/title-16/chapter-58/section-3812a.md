@@ -3,9 +3,9 @@ title: "Section 3812a - Development and implementation of conservation plans and
 usc_title: 16
 usc_section: "3812a"
 chapter: 58
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 3812a"
-generated_at: "2026-03-29T20:38:03.793Z"
+generated_at: "2026-03-29T20:43:30.898Z"
 ---
 
 # § 3812a. Development and implementation of conservation plans and conservation systems

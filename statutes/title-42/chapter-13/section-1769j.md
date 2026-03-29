@@ -3,9 +3,9 @@ title: "Section 1769j - Ensuring safety of school meals"
 usc_title: 42
 usc_section: "1769j"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 1769j"
-generated_at: "2026-03-29T20:40:42.345Z"
+generated_at: "2026-03-29T20:46:40.750Z"
 ---
 
 # § 1769j. Ensuring safety of school meals

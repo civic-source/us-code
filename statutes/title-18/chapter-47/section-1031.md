@@ -3,9 +3,9 @@ title: "Section 1031 - Major fraud against the United States"
 usc_title: 18
 usc_section: "1031"
 chapter: 47
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 1031"
-generated_at: "2026-03-29T20:37:48.541Z"
+generated_at: "2026-03-29T20:43:23.242Z"
 ---
 
 # § 1031. Major fraud against the United States

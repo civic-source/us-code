@@ -3,9 +3,9 @@ title: "Section 12120 - Liquified gas tankers"
 usc_title: 46
 usc_section: "12120"
 chapter: 121
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 12120"
-generated_at: "2026-03-29T20:40:51.608Z"
+generated_at: "2026-03-29T20:47:08.324Z"
 ---
 
 # § 12120. Liquified gas tankers

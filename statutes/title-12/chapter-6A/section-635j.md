@@ -3,9 +3,9 @@ title: "Section 635j - Export financing program to foster foreign trade and comm
 usc_title: 12
 usc_section: "635j"
 chapter: 6
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "12 U.S.C. § 635j"
-generated_at: "2026-03-29T20:37:23.929Z"
+generated_at: "2026-03-29T20:43:00.366Z"
 ---
 
 # § 635j. Export financing program to foster foreign trade and commercial interest of the United States

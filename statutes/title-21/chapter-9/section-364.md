@@ -3,9 +3,9 @@ title: "Section 364 - Repealed. Pub. L. 86–618, title I, § 103(a)(3) , July 1
 usc_title: 21
 usc_section: "364"
 chapter: 9
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 364"
-generated_at: "2026-03-29T20:38:14.290Z"
+generated_at: "2026-03-29T20:44:11.462Z"
 ---
 
 # § 364. Repealed. Pub. L. 86–618, title I, § 103(a)(3) , July 12, 1960 , 74 Stat. 398

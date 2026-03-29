@@ -3,9 +3,9 @@ title: "Section 2399c - Coordination of policies and programs"
 usc_title: 22
 usc_section: "2399c"
 chapter: 32
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 2399c"
-generated_at: "2026-03-29T20:38:29.705Z"
+generated_at: "2026-03-29T20:44:16.911Z"
 ---
 
 # § 2399c. Coordination of policies and programs

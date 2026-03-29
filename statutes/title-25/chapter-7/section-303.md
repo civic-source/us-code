@@ -3,9 +3,9 @@ title: "Section 303 - Omitted"
 usc_title: 25
 usc_section: "303"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 303"
-generated_at: "2026-03-29T20:38:40.871Z"
+generated_at: "2026-03-29T20:44:07.061Z"
 ---
 
 # § 303. Omitted

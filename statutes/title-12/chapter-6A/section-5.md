@@ -3,9 +3,9 @@ title: "Section 5 - Environmental policy and procedures"
 usc_title: 12
 usc_section: "5"
 chapter: 6
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-29T20:37:23.928Z"
+generated_at: "2026-03-29T20:43:00.365Z"
 ---
 
 # § 635i–5. Environmental policy and procedures

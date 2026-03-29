@@ -3,9 +3,9 @@ title: "Section 4102 - Exceptions; Presidential authority"
 usc_title: 5
 usc_section: "4102"
 chapter: 41
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 4102"
-generated_at: "2026-03-29T20:35:49.146Z"
+generated_at: "2026-03-29T20:42:02.868Z"
 ---
 
 # § 4102. Exceptions; Presidential authority

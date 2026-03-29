@@ -3,9 +3,9 @@ title: "Section 1998 - Guaranteed farm loan programs"
 usc_title: 7
 usc_section: "1998"
 chapter: 50
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 1998"
-generated_at: "2026-03-29T20:37:01.804Z"
+generated_at: "2026-03-29T20:42:35.346Z"
 ---
 
 # § 1998. Guaranteed farm loan programs

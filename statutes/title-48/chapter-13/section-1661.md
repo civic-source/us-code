@@ -3,9 +3,9 @@ title: "Section 1661 - Islands of eastern Samoa"
 usc_title: 48
 usc_section: "1661"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "48 U.S.C. § 1661"
-generated_at: "2026-03-29T20:40:48.341Z"
+generated_at: "2026-03-29T20:47:06.371Z"
 ---
 
 # § 1661. Islands of eastern Samoa

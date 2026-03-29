@@ -3,9 +3,9 @@ title: "Section 1828 - Special interpretation services"
 usc_title: 28
 usc_section: "1828"
 chapter: 119
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 1828"
-generated_at: "2026-03-29T20:38:47.218Z"
+generated_at: "2026-03-29T20:44:27.722Z"
 ---
 
 # § 1828. Special interpretation services

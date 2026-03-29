@@ -3,9 +3,9 @@ title: "Section 503 - Purpose of Foundation"
 usc_title: 15
 usc_section: "503"
 chapter: 13
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "15 U.S.C. § 503"
-generated_at: "2026-03-29T20:37:42.187Z"
+generated_at: "2026-03-29T20:43:06.983Z"
 ---
 
 # § 503. Purpose of Foundation

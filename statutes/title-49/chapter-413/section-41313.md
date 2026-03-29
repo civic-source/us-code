@@ -3,9 +3,9 @@ title: "Section 41313 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "41313"
 chapter: 413
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 41313"
-generated_at: "2026-03-29T20:41:16.322Z"
+generated_at: "2026-03-29T20:47:02.898Z"
 ---
 
 # § 41313. Plans to address needs of families of passengers involved in foreign air carrier accidents

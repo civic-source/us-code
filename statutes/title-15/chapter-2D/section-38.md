@@ -3,9 +3,9 @@ title: "Section 38 - Procedure for issuance of rules and regulations"
 usc_title: 15
 usc_section: "38"
 chapter: 2
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "15 U.S.C. § 38"
-generated_at: "2026-03-29T20:37:42.147Z"
+generated_at: "2026-03-29T20:43:06.946Z"
 ---
 
 # § 80a–38. Procedure for issuance of rules and regulations

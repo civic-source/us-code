@@ -3,9 +3,9 @@ title: "Section 3373 - Repealed. Pub. L. 91–609, title V, § 503(6) , Dec. 31,
 usc_title: 42
 usc_section: "3373"
 chapter: 41
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 3373"
-generated_at: "2026-03-29T20:40:42.507Z"
+generated_at: "2026-03-29T20:46:40.889Z"
 ---
 
 # §§ 3372, 3373. Repealed. Pub. L. 91–609, title V, § 503(6) , Dec. 31, 1970 , 84 Stat. 1786

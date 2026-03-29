@@ -3,9 +3,9 @@ title: "Section 1524 - Agreements to provide support to vaccination programs of 
 usc_title: 50
 usc_section: "1524"
 chapter: 32
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 1524"
-generated_at: "2026-03-29T20:40:58.250Z"
+generated_at: "2026-03-29T20:47:12.615Z"
 ---
 
 # § 1524. Agreements to provide support to vaccination programs of Department of Health and Human Services

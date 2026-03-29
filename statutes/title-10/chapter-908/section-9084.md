@@ -3,9 +3,9 @@ title: "Section 9084 - Space Development Agency"
 usc_title: 10
 usc_section: "9084"
 chapter: 908
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 9084"
-generated_at: "2026-03-29T20:36:24.477Z"
+generated_at: "2026-03-29T20:42:48.834Z"
 ---
 
 # § 9084. 1 1 Another section 9084 is set out after section 9083 of this title . Space Development Agency

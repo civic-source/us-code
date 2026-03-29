@@ -3,9 +3,9 @@ title: "Section 9502 - Definitions"
 usc_title: 31
 usc_section: "9502"
 chapter: 95
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "31 U.S.C. § 9502"
-generated_at: "2026-03-29T20:39:10.021Z"
+generated_at: "2026-03-29T20:45:11.407Z"
 ---
 
 # § 9502. Definitions

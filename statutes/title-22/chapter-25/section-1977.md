@@ -3,9 +3,9 @@ title: "Section 1977 - Reimbursement for seized commercial fishermen"
 usc_title: 22
 usc_section: "1977"
 chapter: 25
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 1977"
-generated_at: "2026-03-29T20:38:29.648Z"
+generated_at: "2026-03-29T20:44:16.859Z"
 ---
 
 # § 1977. Reimbursement for seized commercial fishermen

@@ -3,9 +3,9 @@ title: "Section 2001 - Accreditation for the basic education of Indian children 
 usc_title: 25
 usc_section: "2001"
 chapter: 22
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 2001"
-generated_at: "2026-03-29T20:38:40.942Z"
+generated_at: "2026-03-29T20:44:07.127Z"
 ---
 
 # § 2001. Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools

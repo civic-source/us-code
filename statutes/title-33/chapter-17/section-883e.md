@@ -3,9 +3,9 @@ title: "Section 883e - Agreements for surveys and investigations; contribution o
 usc_title: 33
 usc_section: "883e"
 chapter: 17
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "33 U.S.C. § 883e"
-generated_at: "2026-03-29T20:39:20.921Z"
+generated_at: "2026-03-29T20:45:06.737Z"
 ---
 
 # § 883e. Agreements for surveys and investigations; contribution of costs incurred by National Oceanic and Atmospheric Administration

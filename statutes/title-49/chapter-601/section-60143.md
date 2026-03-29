@@ -3,9 +3,9 @@ title: "Section 60143 - Idled pipelines"
 usc_title: 49
 usc_section: "60143"
 chapter: 601
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 60143"
-generated_at: "2026-03-29T20:41:16.410Z"
+generated_at: "2026-03-29T20:47:02.994Z"
 ---
 
 # § 60143. Idled pipelines

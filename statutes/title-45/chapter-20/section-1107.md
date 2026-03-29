@@ -3,9 +3,9 @@ title: "Section 1107 - Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)
 usc_title: 45
 usc_section: "1107"
 chapter: 20
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "45 U.S.C. § 1107"
-generated_at: "2026-03-29T20:39:48.291Z"
+generated_at: "2026-03-29T20:45:44.728Z"
 ---
 
 # § 1107. Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(I) , Oct. 21, 1986 , 100 Stat. 1908

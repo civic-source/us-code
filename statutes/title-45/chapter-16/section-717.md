@@ -3,9 +3,9 @@ title: "Section 717 - Adoption of final system plan"
 usc_title: 45
 usc_section: "717"
 chapter: 16
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "45 U.S.C. § 717"
-generated_at: "2026-03-29T20:39:48.273Z"
+generated_at: "2026-03-29T20:45:44.710Z"
 ---
 
 # § 717. Adoption of final system plan

@@ -3,9 +3,9 @@ title: "Section 1843 - Obsolete references"
 usc_title: 2
 usc_section: "1843"
 chapter: 28
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 1843"
-generated_at: "2026-03-29T20:36:02.721Z"
+generated_at: "2026-03-29T20:42:17.908Z"
 ---
 
 # § 1843. Obsolete references

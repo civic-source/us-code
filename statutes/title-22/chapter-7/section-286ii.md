@@ -3,9 +3,9 @@ title: "Section 286ii - Limitations on Bank policy based lending; actions requir
 usc_title: 22
 usc_section: "286ii"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 286ii"
-generated_at: "2026-03-29T20:38:29.601Z"
+generated_at: "2026-03-29T20:44:16.816Z"
 ---
 
 # § 286ii. Limitations on Bank policy based lending; actions required to be taken to oppose excessive policy based lending by Bank

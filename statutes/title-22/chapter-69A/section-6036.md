@@ -3,9 +3,9 @@ title: "Section 6036 - Assistance by independent states of former Soviet Union f
 usc_title: 22
 usc_section: "6036"
 chapter: 69
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 6036"
-generated_at: "2026-03-29T20:38:29.849Z"
+generated_at: "2026-03-29T20:44:17.041Z"
 ---
 
 # § 6036. Assistance by independent states of former Soviet Union for Cuban Government

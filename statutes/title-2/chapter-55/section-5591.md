@@ -3,9 +3,9 @@ title: "Section 5591 - Media support services"
 usc_title: 2
 usc_section: "5591"
 chapter: 55
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 5591"
-generated_at: "2026-03-29T20:36:02.761Z"
+generated_at: "2026-03-29T20:42:17.946Z"
 ---
 
 # § 5591. Media support services

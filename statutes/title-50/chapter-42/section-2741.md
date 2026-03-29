@@ -3,9 +3,9 @@ title: "Section 2741 - Definitions"
 usc_title: 50
 usc_section: "2741"
 chapter: 42
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 2741"
-generated_at: "2026-03-29T20:40:58.306Z"
+generated_at: "2026-03-29T20:47:12.683Z"
 ---
 
 # § 2741. Definitions

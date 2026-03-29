@@ -3,9 +3,9 @@ title: "Section 505 - Regular components: qualifications, term, grade"
 usc_title: 10
 usc_section: "505"
 chapter: 31
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 505"
-generated_at: "2026-03-29T20:36:24.110Z"
+generated_at: "2026-03-29T20:42:48.401Z"
 ---
 
 # § 505. Regular components: qualifications, term, grade

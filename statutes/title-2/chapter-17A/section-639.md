@@ -3,9 +3,9 @@ title: "Section 639 - Reports, summaries, and projections of Congressional budge
 usc_title: 2
 usc_section: "639"
 chapter: 17
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 639"
-generated_at: "2026-03-29T20:36:02.675Z"
+generated_at: "2026-03-29T20:42:17.866Z"
 ---
 
 # § 639. Reports, summaries, and projections of Congressional budget actions

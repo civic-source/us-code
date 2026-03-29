@@ -3,9 +3,9 @@ title: "Section 4112 - United States citizens serving in allied forces"
 usc_title: 50
 usc_section: "4112"
 chapter: 51
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 4112"
-generated_at: "2026-03-29T20:40:58.375Z"
+generated_at: "2026-03-29T20:47:12.771Z"
 ---
 
 # § 4112. United States citizens serving in allied forces

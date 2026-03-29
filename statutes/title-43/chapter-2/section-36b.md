@@ -3,9 +3,9 @@ title: "Section 36b - Acquisition of lands or interests therein for use in gagin
 usc_title: 43
 usc_section: "36b"
 chapter: 2
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "43 U.S.C. § 36b"
-generated_at: "2026-03-29T20:39:58.675Z"
+generated_at: "2026-03-29T20:46:09.597Z"
 ---
 
 # § 36b. Acquisition of lands or interests therein for use in gaging streams or underground water resources

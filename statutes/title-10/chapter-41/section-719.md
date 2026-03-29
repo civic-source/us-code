@@ -3,9 +3,9 @@ title: "Section 719 - Department of Commerce: assignment or detail of members of
 usc_title: 10
 usc_section: "719"
 chapter: 41
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 719"
-generated_at: "2026-03-29T20:36:24.134Z"
+generated_at: "2026-03-29T20:42:48.423Z"
 ---
 
 # § 719. Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration

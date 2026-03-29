@@ -3,9 +3,9 @@ title: "Section 60112 - Transfer of Landsat 6 program responsibilities"
 usc_title: 51
 usc_section: "60112"
 chapter: 601
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "51 U.S.C. § 60112"
-generated_at: "2026-03-29T20:41:32.728Z"
+generated_at: "2026-03-29T20:47:18.841Z"
 ---
 
 # § 60112. Transfer of Landsat 6 program responsibilities

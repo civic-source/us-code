@@ -3,9 +3,9 @@ title: "Section 24909 - Authorization of appropriations"
 usc_title: 49
 usc_section: "24909"
 chapter: 249
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 24909"
-generated_at: "2026-03-29T20:41:16.272Z"
+generated_at: "2026-03-29T20:47:02.841Z"
 ---
 
 # § 24909. Authorization of appropriations

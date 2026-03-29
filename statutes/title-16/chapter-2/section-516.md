@@ -3,9 +3,9 @@ title: "Section 516 - Exchange of lands in the public interest; equal value; cut
 usc_title: 16
 usc_section: "516"
 chapter: 2
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 516"
-generated_at: "2026-03-29T20:38:03.508Z"
+generated_at: "2026-03-29T20:43:30.544Z"
 ---
 
 # § 516. Exchange of lands in the public interest; equal value; cutting and removing timber; publication of contemplated exchange

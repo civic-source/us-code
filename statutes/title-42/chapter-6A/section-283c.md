@@ -3,9 +3,9 @@ title: "Section 283c - Office of Behavioral and Social Sciences Research"
 usc_title: 42
 usc_section: "283c"
 chapter: 6
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 283c"
-generated_at: "2026-03-29T20:40:41.507Z"
+generated_at: "2026-03-29T20:46:39.991Z"
 ---
 
 # § 283c. Office of Behavioral and Social Sciences Research

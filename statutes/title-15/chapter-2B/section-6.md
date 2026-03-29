@@ -3,9 +3,9 @@ title: "Section 6 - Securities whistleblower incentives and protection"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-29T20:37:42.115Z"
+generated_at: "2026-03-29T20:43:06.917Z"
 ---
 
 # § 78u–6. Securities whistleblower incentives and protection

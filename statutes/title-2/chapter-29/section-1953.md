@@ -3,9 +3,9 @@ title: "Section 1953 - Tax treatment of Fund"
 usc_title: 2
 usc_section: "1953"
 chapter: 29
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 1953"
-generated_at: "2026-03-29T20:36:02.727Z"
+generated_at: "2026-03-29T20:42:17.914Z"
 ---
 
 # § 1953. Tax treatment of Fund

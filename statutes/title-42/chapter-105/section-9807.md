@@ -3,9 +3,9 @@ title: "Section 9807 - Financial assistance requirements"
 usc_title: 42
 usc_section: "9807"
 chapter: 105
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 9807"
-generated_at: "2026-03-29T20:40:42.928Z"
+generated_at: "2026-03-29T20:46:41.279Z"
 ---
 
 # § 9807. Financial assistance requirements

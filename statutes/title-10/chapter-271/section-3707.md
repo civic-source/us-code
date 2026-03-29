@@ -3,9 +3,9 @@ title: "Section 3707 - Interest and penalties for certain overpayments"
 usc_title: 10
 usc_section: "3707"
 chapter: 271
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 3707"
-generated_at: "2026-03-29T20:36:24.391Z"
+generated_at: "2026-03-29T20:42:48.744Z"
 ---
 
 # § 3707. Interest and penalties for certain overpayments

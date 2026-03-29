@@ -3,9 +3,9 @@ title: "Section 2 - Special rules for capital gains invested in opportunity zone
 usc_title: 26
 usc_section: "2"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 2"
-generated_at: "2026-03-29T20:39:04.946Z"
+generated_at: "2026-03-29T20:44:53.799Z"
 ---
 
 # § 1400Z–2. Special rules for capital gains invested in opportunity zones

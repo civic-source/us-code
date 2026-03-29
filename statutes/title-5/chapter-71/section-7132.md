@@ -3,9 +3,9 @@ title: "Section 7132 - Subpenas"
 usc_title: 5
 usc_section: "7132"
 chapter: 71
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 7132"
-generated_at: "2026-03-29T20:35:49.189Z"
+generated_at: "2026-03-29T20:42:02.920Z"
 ---
 
 # § 7132. Subpenas

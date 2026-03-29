@@ -3,9 +3,9 @@ title: "Section 1127 - Modification of plan"
 usc_title: 11
 usc_section: "1127"
 chapter: 11
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "11 U.S.C. § 1127"
-generated_at: "2026-03-29T20:37:12.460Z"
+generated_at: "2026-03-29T20:43:10.818Z"
 ---
 
 # § 1127. Modification of plan

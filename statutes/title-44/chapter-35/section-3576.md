@@ -3,9 +3,9 @@ title: "Section 3576 - Designated statistical agencies"
 usc_title: 44
 usc_section: "3576"
 chapter: 35
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "44 U.S.C. § 3576"
-generated_at: "2026-03-29T20:39:49.869Z"
+generated_at: "2026-03-29T20:45:52.894Z"
 ---
 
 # § 3576. Designated statistical agencies

@@ -3,9 +3,9 @@ title: "Section 665 - Duties and authorities relating to .gov internet domain"
 usc_title: 6
 usc_section: "665"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "6 U.S.C. § 665"
-generated_at: "2026-03-29T20:36:08.789Z"
+generated_at: "2026-03-29T20:42:29.731Z"
 ---
 
 # § 665. Duties and authorities relating to .gov internet domain

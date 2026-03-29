@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 92–342 , July 10, 1972 , 86 Stat. 435"
 usc_title: 2
 usc_section: "5"
 chapter: 3
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 5"
-generated_at: "2026-03-29T20:36:02.629Z"
+generated_at: "2026-03-29T20:42:17.831Z"
 ---
 
 # § 46d–5. Repealed. Pub. L. 92–342 , July 10, 1972 , 86 Stat. 435

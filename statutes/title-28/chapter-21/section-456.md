@@ -3,9 +3,9 @@ title: "Section 456 - Traveling expenses of justices and judges; official duty s
 usc_title: 28
 usc_section: "456"
 chapter: 21
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 456"
-generated_at: "2026-03-29T20:38:47.181Z"
+generated_at: "2026-03-29T20:44:27.683Z"
 ---
 
 # § 456. Traveling expenses of justices and judges; official duty stations

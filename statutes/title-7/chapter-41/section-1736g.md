@@ -3,9 +3,9 @@ title: "Section 1736g - Coordination of foreign assistance programs"
 usc_title: 7
 usc_section: "1736g"
 chapter: 41
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 1736g"
-generated_at: "2026-03-29T20:37:01.776Z"
+generated_at: "2026-03-29T20:42:35.320Z"
 ---
 
 # § 1736g. Coordination of foreign assistance programs

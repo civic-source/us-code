@@ -3,9 +3,9 @@ title: "Section 664 - Theft or embezzlement from employee benefit plan"
 usc_title: 18
 usc_section: "664"
 chapter: 31
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 664"
-generated_at: "2026-03-29T20:37:48.516Z"
+generated_at: "2026-03-29T20:43:23.211Z"
 ---
 
 # § 664. Theft or embezzlement from employee benefit plan

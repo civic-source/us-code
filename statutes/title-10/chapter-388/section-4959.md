@@ -3,9 +3,9 @@ title: "Section 4959 - Administrative and other costs"
 usc_title: 10
 usc_section: "4959"
 chapter: 388
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 4959"
-generated_at: "2026-03-29T20:36:24.426Z"
+generated_at: "2026-03-29T20:42:48.779Z"
 ---
 
 # § 4959. Administrative and other costs

@@ -3,9 +3,9 @@ title: "Section 1698 - Prompt delivery of mail from vessel"
 usc_title: 18
 usc_section: "1698"
 chapter: 83
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 1698"
-generated_at: "2026-03-29T20:37:48.558Z"
+generated_at: "2026-03-29T20:43:23.261Z"
 ---
 
 # § 1698. Prompt delivery of mail from vessel

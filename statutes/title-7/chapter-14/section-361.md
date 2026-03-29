@@ -3,9 +3,9 @@ title: "Section 361 - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674"
 usc_title: 7
 usc_section: "361"
 chapter: 14
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 361"
-generated_at: "2026-03-29T20:37:01.659Z"
+generated_at: "2026-03-29T20:42:35.210Z"
 ---
 
 # § 361. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674

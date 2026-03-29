@@ -3,9 +3,9 @@ title: "Section 8415 - Reserve student aviation pilots; reserve aviation pilots:
 usc_title: 10
 usc_section: "8415"
 chapter: 851
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 8415"
-generated_at: "2026-03-29T20:36:24.454Z"
+generated_at: "2026-03-29T20:42:48.809Z"
 ---
 
 # § 8415. Reserve student aviation pilots; reserve aviation pilots: appointments in commissioned grade

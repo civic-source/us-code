@@ -3,9 +3,9 @@ title: "Section 1610 - Implementation of provisions by Secretary; utilization of
 usc_title: 16
 usc_section: "1610"
 chapter: 36
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 1610"
-generated_at: "2026-03-29T20:38:03.717Z"
+generated_at: "2026-03-29T20:43:30.812Z"
 ---
 
 # § 1610. Implementation of provisions by Secretary; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined

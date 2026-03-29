@@ -3,9 +3,9 @@ title: "Section 2903 - Issuance of orders"
 usc_title: 7
 usc_section: "2903"
 chapter: 62
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 2903"
-generated_at: "2026-03-29T20:37:01.878Z"
+generated_at: "2026-03-29T20:42:35.417Z"
 ---
 
 # § 2903. Issuance of orders

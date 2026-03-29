@@ -3,9 +3,9 @@ title: "Section 2754 - Life-cycle cost estimates of certain atomic energy defens
 usc_title: 50
 usc_section: "2754"
 chapter: 42
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 2754"
-generated_at: "2026-03-29T20:40:58.307Z"
+generated_at: "2026-03-29T20:47:12.685Z"
 ---
 
 # § 2754. Life-cycle cost estimates of certain atomic energy defense capital assets

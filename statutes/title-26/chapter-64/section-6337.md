@@ -3,9 +3,9 @@ title: "Section 6337 - Redemption of property"
 usc_title: 26
 usc_section: "6337"
 chapter: 64
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 6337"
-generated_at: "2026-03-29T20:39:05.093Z"
+generated_at: "2026-03-29T20:44:54.053Z"
 ---
 
 # § 6337. Redemption of property

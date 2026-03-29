@@ -3,9 +3,9 @@ title: "Section 6 - Domestic food assistance programs"
 usc_title: 7
 usc_section: "6"
 chapter: 26
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-29T20:37:01.683Z"
+generated_at: "2026-03-29T20:42:35.232Z"
 ---
 
 # § 612c–6. Domestic food assistance programs

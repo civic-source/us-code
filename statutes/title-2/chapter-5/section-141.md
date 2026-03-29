@@ -3,9 +3,9 @@ title: "Section 141 - Allocation of responsibilities for Library buildings and g
 usc_title: 2
 usc_section: "141"
 chapter: 5
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 141"
-generated_at: "2026-03-29T20:36:02.641Z"
+generated_at: "2026-03-29T20:42:17.837Z"
 ---
 
 # § 141. Allocation of responsibilities for Library buildings and grounds

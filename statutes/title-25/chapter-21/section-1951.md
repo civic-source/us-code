@@ -3,9 +3,9 @@ title: "Section 1951 - Information availability to and disclosure by Secretary"
 usc_title: 25
 usc_section: "1951"
 chapter: 21
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 1951"
-generated_at: "2026-03-29T20:38:40.941Z"
+generated_at: "2026-03-29T20:44:07.126Z"
 ---
 
 # § 1951. Information availability to and disclosure by Secretary

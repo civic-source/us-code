@@ -3,9 +3,9 @@ title: "Section 1406 - Administration"
 usc_title: 16
 usc_section: "1406"
 chapter: 31
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 1406"
-generated_at: "2026-03-29T20:38:03.690Z"
+generated_at: "2026-03-29T20:43:30.782Z"
 ---
 
 # § 1406. Administration

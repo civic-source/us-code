@@ -3,9 +3,9 @@ title: "Section 6612 - Definitions"
 usc_title: 7
 usc_section: "6612"
 chapter: 95
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 6612"
-generated_at: "2026-03-29T20:37:01.950Z"
+generated_at: "2026-03-29T20:42:35.496Z"
 ---
 
 # § 6612. Definitions

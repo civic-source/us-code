@@ -3,9 +3,9 @@ title: "Section 5722 - Presidential order"
 usc_title: 22
 usc_section: "5722"
 chapter: 66
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 5722"
-generated_at: "2026-03-29T20:38:29.842Z"
+generated_at: "2026-03-29T20:44:17.032Z"
 ---
 
 # § 5722. Presidential order

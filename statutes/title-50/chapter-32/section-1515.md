@@ -3,9 +3,9 @@ title: "Section 1515 - Suspension; Presidential authorization"
 usc_title: 50
 usc_section: "1515"
 chapter: 32
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 1515"
-generated_at: "2026-03-29T20:40:58.246Z"
+generated_at: "2026-03-29T20:47:12.613Z"
 ---
 
 # § 1515. Suspension; Presidential authorization

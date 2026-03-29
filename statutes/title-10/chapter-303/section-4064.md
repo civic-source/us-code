@@ -3,9 +3,9 @@ title: "Section 4064 - Joint reserve detachment of the Defense Innovation Unit"
 usc_title: 10
 usc_section: "4064"
 chapter: 303
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 4064"
-generated_at: "2026-03-29T20:36:24.402Z"
+generated_at: "2026-03-29T20:42:48.754Z"
 ---
 
 # § 4064. Joint reserve detachment of the Defense Innovation Unit

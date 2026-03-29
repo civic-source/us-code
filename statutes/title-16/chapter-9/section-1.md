@@ -3,9 +3,9 @@ title: "Section 1 - Authority to use available law enforcement funds"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T20:38:03.588Z"
+generated_at: "2026-03-29T20:43:30.634Z"
 ---
 
 # § 742l–1. Authority to use available law enforcement funds

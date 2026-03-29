@@ -3,9 +3,9 @@ title: "Section 425o - Authorization of appropriations"
 usc_title: 16
 usc_section: "425o"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 425o"
-generated_at: "2026-03-29T20:38:03.385Z"
+generated_at: "2026-03-29T20:43:30.413Z"
 ---
 
 # § 425o. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 46105 - Regulations"
 usc_title: 46
 usc_section: "46105"
 chapter: 461
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 46105"
-generated_at: "2026-03-29T20:40:51.626Z"
+generated_at: "2026-03-29T20:47:08.344Z"
 ---
 
 # § 46105. Regulations

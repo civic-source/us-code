@@ -3,9 +3,9 @@ title: "Section 1592a - Special provisions regarding certain violations"
 usc_title: 19
 usc_section: "1592a"
 chapter: 4
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "19 U.S.C. § 1592a"
-generated_at: "2026-03-29T20:38:07.346Z"
+generated_at: "2026-03-29T20:43:18.210Z"
 ---
 
 # § 1592a. Special provisions regarding certain violations

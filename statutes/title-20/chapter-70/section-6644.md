@@ -3,9 +3,9 @@ title: "Section 6644 - Subgrants to eligible entities in support of kindergarten
 usc_title: 20
 usc_section: "6644"
 chapter: 70
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "20 U.S.C. § 6644"
-generated_at: "2026-03-29T20:37:54.797Z"
+generated_at: "2026-03-29T20:43:59.942Z"
 ---
 
 # § 6644. Subgrants to eligible entities in support of kindergarten through grade 12 literacy

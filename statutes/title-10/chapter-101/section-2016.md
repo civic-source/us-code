@@ -3,9 +3,9 @@ title: "Section 2016 - Undergraduate nurse training program: establishment throu
 usc_title: 10
 usc_section: "2016"
 chapter: 101
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2016"
-generated_at: "2026-03-29T20:36:24.251Z"
+generated_at: "2026-03-29T20:42:48.539Z"
 ---
 
 # § 2016. Undergraduate nurse training program: establishment through agreement with academic institution

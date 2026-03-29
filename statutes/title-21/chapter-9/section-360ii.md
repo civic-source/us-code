@@ -3,9 +3,9 @@ title: "Section 360ii - Program of control"
 usc_title: 21
 usc_section: "360ii"
 chapter: 9
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 360ii"
-generated_at: "2026-03-29T20:38:14.269Z"
+generated_at: "2026-03-29T20:44:11.443Z"
 ---
 
 # § 360ii. Program of control

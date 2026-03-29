@@ -3,9 +3,9 @@ title: "Section 1747 - Acquisition fellowship program"
 usc_title: 10
 usc_section: "1747"
 chapter: 87
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 1747"
-generated_at: "2026-03-29T20:36:24.246Z"
+generated_at: "2026-03-29T20:42:48.533Z"
 ---
 
 # § 1747. Acquisition fellowship program

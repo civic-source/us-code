@@ -3,9 +3,9 @@ title: "Section 1964 - Civil remedies"
 usc_title: 18
 usc_section: "1964"
 chapter: 96
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 1964"
-generated_at: "2026-03-29T20:37:48.568Z"
+generated_at: "2026-03-29T20:43:23.272Z"
 ---
 
 # § 1964. Civil remedies

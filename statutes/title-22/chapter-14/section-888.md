@@ -3,9 +3,9 @@ title: "Section 888 - Repealed. Pub. L. 86–707, title V, § 511(a)(1) , Sept. 
 usc_title: 22
 usc_section: "888"
 chapter: 14
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 888"
-generated_at: "2026-03-29T20:38:29.623Z"
+generated_at: "2026-03-29T20:44:16.837Z"
 ---
 
 # § 888. Repealed. Pub. L. 86–707, title V, § 511(a)(1) , Sept. 6, 1960 , 74 Stat. 800

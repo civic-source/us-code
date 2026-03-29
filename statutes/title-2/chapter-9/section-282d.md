@@ -3,9 +3,9 @@ title: "Section 282d - Official mail matter"
 usc_title: 2
 usc_section: "282d"
 chapter: 9
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 282d"
-generated_at: "2026-03-29T20:36:02.656Z"
+generated_at: "2026-03-29T20:42:17.850Z"
 ---
 
 # § 282d. Official mail matter

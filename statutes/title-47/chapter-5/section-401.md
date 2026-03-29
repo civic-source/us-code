@@ -3,9 +3,9 @@ title: "Section 401 - Enforcement provisions"
 usc_title: 47
 usc_section: "401"
 chapter: 5
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "47 U.S.C. § 401"
-generated_at: "2026-03-29T20:40:49.602Z"
+generated_at: "2026-03-29T20:47:05.322Z"
 ---
 
 # § 401. Enforcement provisions

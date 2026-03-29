@@ -3,9 +3,9 @@ title: "Section 8742 - Physical examination: employees engaged in hazardous occu
 usc_title: 10
 usc_section: "8742"
 chapter: 871
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 8742"
-generated_at: "2026-03-29T20:36:24.467Z"
+generated_at: "2026-03-29T20:42:48.824Z"
 ---
 
 # § 8742. Physical examination: employees engaged in hazardous occupations

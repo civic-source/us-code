@@ -3,9 +3,9 @@ title: "Section 4605 - Findings and issuance of order"
 usc_title: 7
 usc_section: "4605"
 chapter: 77
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 4605"
-generated_at: "2026-03-29T20:37:01.908Z"
+generated_at: "2026-03-29T20:42:35.448Z"
 ---
 
 # § 4605. Findings and issuance of order

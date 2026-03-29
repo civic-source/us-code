@@ -3,9 +3,9 @@ title: "Section 2380 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "2380"
 chapter: 140
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2380"
-generated_at: "2026-03-29T20:36:24.304Z"
+generated_at: "2026-03-29T20:42:48.600Z"
 ---
 
 # § 2380. Commercial product and commercial service determinations by Department of Defense

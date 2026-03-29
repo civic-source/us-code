@@ -3,9 +3,9 @@ title: "Section 2606 - Import restrictions"
 usc_title: 19
 usc_section: "2606"
 chapter: 14
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "19 U.S.C. § 2606"
-generated_at: "2026-03-29T20:38:07.420Z"
+generated_at: "2026-03-29T20:43:18.296Z"
 ---
 
 # § 2606. Import restrictions

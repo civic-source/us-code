@@ -3,9 +3,9 @@ title: "Section 3015 - Simplified acquisition threshold"
 usc_title: 10
 usc_section: "3015"
 chapter: 201
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 3015"
-generated_at: "2026-03-29T20:36:24.376Z"
+generated_at: "2026-03-29T20:42:48.727Z"
 ---
 
 # § 3015. Simplified acquisition threshold

@@ -3,9 +3,9 @@ title: "Section 1660 - Urban Health Programs Branch"
 usc_title: 25
 usc_section: "1660"
 chapter: 18
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 1660"
-generated_at: "2026-03-29T20:38:40.922Z"
+generated_at: "2026-03-29T20:44:07.108Z"
 ---
 
 # § 1660. Urban Health Programs Branch

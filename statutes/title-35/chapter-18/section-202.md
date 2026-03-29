@@ -3,9 +3,9 @@ title: "Section 202 - Disposition of rights"
 usc_title: 35
 usc_section: "202"
 chapter: 18
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "35 U.S.C. § 202"
-generated_at: "2026-03-29T20:39:21.501Z"
+generated_at: "2026-03-29T20:45:07.449Z"
 ---
 
 # § 202. Disposition of rights

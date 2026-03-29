@@ -3,9 +3,9 @@ title: "Section 8112 - Definition"
 usc_title: 15
 usc_section: "8112"
 chapter: 107
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "15 U.S.C. § 8112"
-generated_at: "2026-03-29T20:37:42.567Z"
+generated_at: "2026-03-29T20:43:07.374Z"
 ---
 
 # § 8112. Definition

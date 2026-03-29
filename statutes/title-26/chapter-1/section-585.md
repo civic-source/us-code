@@ -3,9 +3,9 @@ title: "Section 585 - Reserves for losses on loans of banks"
 usc_title: 26
 usc_section: "585"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 585"
-generated_at: "2026-03-29T20:39:04.833Z"
+generated_at: "2026-03-29T20:44:53.681Z"
 ---
 
 # § 585. Reserves for losses on loans of banks

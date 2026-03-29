@@ -3,9 +3,9 @@ title: "Section 80301 - Organization"
 usc_title: 36
 usc_section: "80301"
 chapter: 803
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "36 U.S.C. § 80301"
-generated_at: "2026-03-29T20:39:42.209Z"
+generated_at: "2026-03-29T20:45:20.933Z"
 ---
 
 # § 80301. Organization

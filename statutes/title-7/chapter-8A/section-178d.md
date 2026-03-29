@@ -3,9 +3,9 @@ title: "Section 178d - Research and development program by Secretary of Commerce
 usc_title: 7
 usc_section: "178d"
 chapter: 8
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 178d"
-generated_at: "2026-03-29T20:37:01.646Z"
+generated_at: "2026-03-29T20:42:35.199Z"
 ---
 
 # § 178d. Research and development program by Secretary of Commerce

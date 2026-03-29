@@ -3,9 +3,9 @@ title: "Section 4004 - Procurement for experimental purposes"
 usc_title: 10
 usc_section: "4004"
 chapter: 301
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 4004"
-generated_at: "2026-03-29T20:36:24.401Z"
+generated_at: "2026-03-29T20:42:48.753Z"
 ---
 
 # § 4004. Procurement for experimental purposes

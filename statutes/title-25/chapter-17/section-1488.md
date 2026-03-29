@@ -3,9 +3,9 @@ title: "Section 1488 - Lenders authorized to make loans; decrease or increase of
 usc_title: 25
 usc_section: "1488"
 chapter: 17
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 1488"
-generated_at: "2026-03-29T20:38:40.903Z"
+generated_at: "2026-03-29T20:44:07.091Z"
 ---
 
 # § 1488. Lenders authorized to make loans; decrease or increase of liability under the guaranty

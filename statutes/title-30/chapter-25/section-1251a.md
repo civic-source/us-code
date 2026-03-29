@@ -3,9 +3,9 @@ title: "Section 1251a - Abandoned coal refuse sites"
 usc_title: 30
 usc_section: "1251a"
 chapter: 25
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "30 U.S.C. § 1251a"
-generated_at: "2026-03-29T20:38:44.939Z"
+generated_at: "2026-03-29T20:44:42.841Z"
 ---
 
 # § 1251a. Abandoned coal refuse sites

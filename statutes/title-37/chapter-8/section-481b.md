@@ -3,9 +3,9 @@ title: "Section 481b - Travel and transportation allowances: travel performed in
 usc_title: 37
 usc_section: "481b"
 chapter: 8
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "37 U.S.C. § 481b"
-generated_at: "2026-03-29T20:39:28.932Z"
+generated_at: "2026-03-29T20:45:22.754Z"
 ---
 
 # § 481b. Travel and transportation allowances: travel performed in connection with leave between consecutive overseas tours

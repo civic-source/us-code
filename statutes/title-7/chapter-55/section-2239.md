@@ -3,9 +3,9 @@ title: "Section 2239 - Funds for printing, binding, and scientific and technical
 usc_title: 7
 usc_section: "2239"
 chapter: 55
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 2239"
-generated_at: "2026-03-29T20:37:01.862Z"
+generated_at: "2026-03-29T20:42:35.398Z"
 ---
 
 # § 2239. Funds for printing, binding, and scientific and technical article reprint purchases

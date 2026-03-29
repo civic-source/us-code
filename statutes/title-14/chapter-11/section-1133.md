@@ -3,9 +3,9 @@ title: "Section 1133 - Preliminary development and demonstration"
 usc_title: 14
 usc_section: "1133"
 chapter: 11
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "14 U.S.C. § 1133"
-generated_at: "2026-03-29T20:37:10.909Z"
+generated_at: "2026-03-29T20:42:52.740Z"
 ---
 
 # § 1133. Preliminary development and demonstration

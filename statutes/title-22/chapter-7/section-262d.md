@@ -3,9 +3,9 @@ title: "Section 262d - Human rights and United States assistance policies with i
 usc_title: 22
 usc_section: "262d"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 262d"
-generated_at: "2026-03-29T20:38:29.562Z"
+generated_at: "2026-03-29T20:44:16.782Z"
 ---
 
 # § 262d. Human rights and United States assistance policies with international financial institutions

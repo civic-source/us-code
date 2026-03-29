@@ -3,9 +3,9 @@ title: "Section 1293 - Twenty years or more: warrant officers"
 usc_title: 10
 usc_section: "1293"
 chapter: 65
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 1293"
-generated_at: "2026-03-29T20:36:24.210Z"
+generated_at: "2026-03-29T20:42:48.494Z"
 ---
 
 # § 1293. Twenty years or more: warrant officers

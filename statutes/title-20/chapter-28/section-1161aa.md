@@ -3,9 +3,9 @@ title: "Section 1161aa - Masters degree programs"
 usc_title: 20
 usc_section: "1161aa"
 chapter: 28
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "20 U.S.C. § 1161aa"
-generated_at: "2026-03-29T20:37:54.678Z"
+generated_at: "2026-03-29T20:43:59.834Z"
 ---
 
 # § 1161aa. Masters degree programs

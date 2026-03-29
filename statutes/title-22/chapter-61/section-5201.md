@@ -3,9 +3,9 @@ title: "Section 5201 - Findings; determinations"
 usc_title: 22
 usc_section: "5201"
 chapter: 61
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 5201"
-generated_at: "2026-03-29T20:38:29.832Z"
+generated_at: "2026-03-29T20:44:17.023Z"
 ---
 
 # § 5201. Findings; determinations

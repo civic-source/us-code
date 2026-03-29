@@ -3,9 +3,9 @@ title: "Section 201 - Repealed. Pub. L. 114–125, title VIII, § 802(g)(2) , Fe
 usc_title: 6
 usc_section: "201"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "6 U.S.C. § 201"
-generated_at: "2026-03-29T20:36:08.730Z"
+generated_at: "2026-03-29T20:42:29.674Z"
 ---
 
 # § 201. Repealed. Pub. L. 114–125, title VIII, § 802(g)(2) , Feb. 24, 2016 , 130 Stat. 212

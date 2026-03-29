@@ -3,9 +3,9 @@ title: "Section 30126 - Used motor vehicles"
 usc_title: 49
 usc_section: "30126"
 chapter: 301
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 30126"
-generated_at: "2026-03-29T20:41:16.279Z"
+generated_at: "2026-03-29T20:47:02.847Z"
 ---
 
 # § 30126. Used motor vehicles

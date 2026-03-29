@@ -3,9 +3,9 @@ title: "Section 131 - Examination of application"
 usc_title: 35
 usc_section: "131"
 chapter: 12
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "35 U.S.C. § 131"
-generated_at: "2026-03-29T20:39:21.498Z"
+generated_at: "2026-03-29T20:45:07.445Z"
 ---
 
 # § 131. Examination of application

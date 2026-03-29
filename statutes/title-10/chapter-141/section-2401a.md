@@ -3,9 +3,9 @@ title: "Section 2401a - Lease of vehicles, equipment, vessels, and aircraft"
 usc_title: 10
 usc_section: "2401a"
 chapter: 141
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2401a"
-generated_at: "2026-03-29T20:36:24.306Z"
+generated_at: "2026-03-29T20:42:48.605Z"
 ---
 
 # § 2401a. Lease of vehicles, equipment, vessels, and aircraft

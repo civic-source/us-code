@@ -3,9 +3,9 @@ title: "Section 664 - Charitable remainder trusts"
 usc_title: 26
 usc_section: "664"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 664"
-generated_at: "2026-03-29T20:39:04.842Z"
+generated_at: "2026-03-29T20:44:53.689Z"
 ---
 
 # § 664. Charitable remainder trusts

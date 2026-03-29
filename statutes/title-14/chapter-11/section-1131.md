@@ -3,9 +3,9 @@ title: "Section 1131 - Identification of major system acquisitions"
 usc_title: 14
 usc_section: "1131"
 chapter: 11
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "14 U.S.C. § 1131"
-generated_at: "2026-03-29T20:37:10.909Z"
+generated_at: "2026-03-29T20:42:52.740Z"
 ---
 
 # § 1131. Identification of major system acquisitions

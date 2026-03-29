@@ -3,9 +3,9 @@ title: "Section 1356 - Disposition of moneys collected under the provisions of t
 usc_title: 8
 usc_section: "1356"
 chapter: 12
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "8 U.S.C. § 1356"
-generated_at: "2026-03-29T20:36:07.489Z"
+generated_at: "2026-03-29T20:42:22.183Z"
 ---
 
 # § 1356. Disposition of moneys collected under the provisions of this subchapter

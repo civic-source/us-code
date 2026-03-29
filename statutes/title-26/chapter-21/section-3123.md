@@ -3,9 +3,9 @@ title: "Section 3123 - Deductions as constructive payments"
 usc_title: 26
 usc_section: "3123"
 chapter: 21
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "26 U.S.C. § 3123"
-generated_at: "2026-03-29T20:39:04.975Z"
+generated_at: "2026-03-29T20:44:53.847Z"
 ---
 
 # § 3123. Deductions as constructive payments

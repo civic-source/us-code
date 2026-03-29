@@ -3,9 +3,9 @@ title: "Section 2131 - License required"
 usc_title: 42
 usc_section: "2131"
 chapter: 23
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 2131"
-generated_at: "2026-03-29T20:40:42.418Z"
+generated_at: "2026-03-29T20:46:40.815Z"
 ---
 
 # § 2131. License required

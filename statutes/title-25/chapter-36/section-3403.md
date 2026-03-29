@@ -3,9 +3,9 @@ title: "Section 3403 - Integration of services authorized"
 usc_title: 25
 usc_section: "3403"
 chapter: 36
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 3403"
-generated_at: "2026-03-29T20:38:40.983Z"
+generated_at: "2026-03-29T20:44:07.169Z"
 ---
 
 # § 3403. Integration of services authorized

@@ -3,9 +3,9 @@ title: "Section 2624 - Funding for termination costs of River Protection Project
 usc_title: 50
 usc_section: "2624"
 chapter: 42
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "50 U.S.C. § 2624"
-generated_at: "2026-03-29T20:40:58.302Z"
+generated_at: "2026-03-29T20:47:12.678Z"
 ---
 
 # § 2624. Funding for termination costs of River Protection Project, Richland, Washington

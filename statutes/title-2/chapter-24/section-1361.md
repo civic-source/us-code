@@ -3,9 +3,9 @@ title: "Section 1361 - Generally applicable remedies and limitations"
 usc_title: 2
 usc_section: "1361"
 chapter: 24
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 1361"
-generated_at: "2026-03-29T20:36:02.703Z"
+generated_at: "2026-03-29T20:42:17.892Z"
 ---
 
 # § 1361. Generally applicable remedies and limitations

@@ -3,9 +3,9 @@ title: "Section 9815 - Reporting requirement"
 usc_title: 5
 usc_section: "9815"
 chapter: 98
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "5 U.S.C. § 9815"
-generated_at: "2026-03-29T20:35:49.249Z"
+generated_at: "2026-03-29T20:42:02.997Z"
 ---
 
 # § 9815. Reporting requirement

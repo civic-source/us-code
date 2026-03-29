@@ -3,9 +3,9 @@ title: "Section 3598 - Special provisions for Indian country"
 usc_title: 18
 usc_section: "3598"
 chapter: 228
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 3598"
-generated_at: "2026-03-29T20:37:48.620Z"
+generated_at: "2026-03-29T20:43:23.329Z"
 ---
 
 # § 3598. Special provisions for Indian country

@@ -3,9 +3,9 @@ title: "Section 7108 - Limitation on authority under sections 7105–7107"
 usc_title: 31
 usc_section: "7108"
 chapter: 71
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "31 U.S.C. § 7108"
-generated_at: "2026-03-29T20:39:10.018Z"
+generated_at: "2026-03-29T20:45:11.403Z"
 ---
 
 # § 7108. Limitation on authority under sections 7105–7107

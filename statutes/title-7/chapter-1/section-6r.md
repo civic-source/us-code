@@ -3,9 +3,9 @@ title: "Section 6r - Reporting and recordkeeping for uncleared swaps"
 usc_title: 7
 usc_section: "6r"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 6r"
-generated_at: "2026-03-29T20:37:01.570Z"
+generated_at: "2026-03-29T20:42:35.131Z"
 ---
 
 # § 6r. Reporting and recordkeeping for uncleared swaps

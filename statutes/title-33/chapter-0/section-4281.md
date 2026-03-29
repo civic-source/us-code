@@ -3,9 +3,9 @@ title: "Section 4281 - Strategy for improving post-consumer materials management
 usc_title: 33
 usc_section: "4281"
 chapter: 0
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "33 U.S.C. § 4281"
-generated_at: "2026-03-29T20:39:21.085Z"
+generated_at: "2026-03-29T20:45:06.905Z"
 ---
 
 # § 4281. Strategy for improving post-consumer materials management and water management

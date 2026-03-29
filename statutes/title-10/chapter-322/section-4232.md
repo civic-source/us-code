@@ -3,9 +3,9 @@ title: "Section 4232 - Prohibition on use of lowest price technically acceptable
 usc_title: 10
 usc_section: "4232"
 chapter: 322
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 4232"
-generated_at: "2026-03-29T20:36:24.407Z"
+generated_at: "2026-03-29T20:42:48.761Z"
 ---
 
 # § 4232. Prohibition on use of lowest price technically acceptable source selection process

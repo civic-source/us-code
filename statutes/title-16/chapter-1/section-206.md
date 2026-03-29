@@ -3,9 +3,9 @@ title: "Section 206 - Exchange of lands within exterior boundaries; removal of t
 usc_title: 16
 usc_section: "206"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "16 U.S.C. § 206"
-generated_at: "2026-03-29T20:38:03.291Z"
+generated_at: "2026-03-29T20:43:30.312Z"
 ---
 
 # § 206. Exchange of lands within exterior boundaries; removal of timber

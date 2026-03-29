@@ -3,9 +3,9 @@ title: "Section 724 - Renumbered §§ 1321 to 1324]"
 usc_title: 49
 usc_section: "724"
 chapter: 7
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 724"
-generated_at: "2026-03-29T20:41:16.183Z"
+generated_at: "2026-03-29T20:47:02.748Z"
 ---
 
 # [§§ 721 to 724. Renumbered §§ 1321 to 1324]

@@ -3,9 +3,9 @@ title: "Section 12115 - Temporary endorsement for vessels procured outside the U
 usc_title: 46
 usc_section: "12115"
 chapter: 121
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "46 U.S.C. § 12115"
-generated_at: "2026-03-29T20:40:51.605Z"
+generated_at: "2026-03-29T20:47:08.323Z"
 ---
 
 # § 12115. Temporary endorsement for vessels procured outside the United States

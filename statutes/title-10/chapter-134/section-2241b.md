@@ -3,9 +3,9 @@ title: "Section 2241b - Prohibition on contracts providing payments for activiti
 usc_title: 10
 usc_section: "2241b"
 chapter: 134
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 2241b"
-generated_at: "2026-03-29T20:36:24.270Z"
+generated_at: "2026-03-29T20:42:48.559Z"
 ---
 
 # § 2241b. Prohibition on contracts providing payments for activities at sporting events to honor members of the armed forces

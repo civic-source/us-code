@@ -3,9 +3,9 @@ title: "Section 21132 - Transfer of functions"
 usc_title: 52
 usc_section: "21132"
 chapter: 209
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "52 U.S.C. § 21132"
-generated_at: "2026-03-29T20:41:28.771Z"
+generated_at: "2026-03-29T20:47:15.748Z"
 ---
 
 # § 21132. Transfer of functions

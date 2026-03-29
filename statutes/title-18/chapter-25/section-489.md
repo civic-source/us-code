@@ -3,9 +3,9 @@ title: "Section 489 - Making or possessing likeness of coins"
 usc_title: 18
 usc_section: "489"
 chapter: 25
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 489"
-generated_at: "2026-03-29T20:37:48.509Z"
+generated_at: "2026-03-29T20:43:23.202Z"
 ---
 
 # § 489. Making or possessing likeness of coins

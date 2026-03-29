@@ -3,9 +3,9 @@ title: "Section 805 - Technical assistance, studies, and publication of informat
 usc_title: 20
 usc_section: "805"
 chapter: 23
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "20 U.S.C. § 805"
-generated_at: "2026-03-29T20:37:54.533Z"
+generated_at: "2026-03-29T20:43:59.682Z"
 ---
 
 # § 805. Technical assistance, studies, and publication of information

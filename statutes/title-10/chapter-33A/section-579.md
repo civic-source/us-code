@@ -3,9 +3,9 @@ title: "Section 579 - Removal from a promotion list"
 usc_title: 10
 usc_section: "579"
 chapter: 33
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 579"
-generated_at: "2026-03-29T20:36:24.119Z"
+generated_at: "2026-03-29T20:42:48.407Z"
 ---
 
 # § 579. Removal from a promotion list

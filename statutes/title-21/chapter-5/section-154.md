@@ -3,9 +3,9 @@ title: "Section 154 - Regulations for preparation and sale; licenses"
 usc_title: 21
 usc_section: "154"
 chapter: 5
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 154"
-generated_at: "2026-03-29T20:38:14.186Z"
+generated_at: "2026-03-29T20:44:11.368Z"
 ---
 
 # § 154. Regulations for preparation and sale; licenses

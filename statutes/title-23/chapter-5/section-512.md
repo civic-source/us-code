@@ -3,9 +3,9 @@ title: "Section 512 - National ITS program plan"
 usc_title: 23
 usc_section: "512"
 chapter: 5
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "23 U.S.C. § 512"
-generated_at: "2026-03-29T20:38:31.818Z"
+generated_at: "2026-03-29T20:44:08.752Z"
 ---
 
 # § 512. National ITS program plan

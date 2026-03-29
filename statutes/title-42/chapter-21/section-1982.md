@@ -3,9 +3,9 @@ title: "Section 1982 - Property rights of citizens"
 usc_title: 42
 usc_section: "1982"
 chapter: 21
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "42 U.S.C. § 1982"
-generated_at: "2026-03-29T20:40:42.388Z"
+generated_at: "2026-03-29T20:46:40.786Z"
 ---
 
 # § 1982. Property rights of citizens

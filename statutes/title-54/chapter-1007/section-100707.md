@@ -3,9 +3,9 @@ title: "Section 100707 - Confidentiality of information"
 usc_title: 54
 usc_section: "100707"
 chapter: 1007
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "54 U.S.C. § 100707"
-generated_at: "2026-03-29T20:41:25.015Z"
+generated_at: "2026-03-29T20:47:22.620Z"
 ---
 
 # § 100707. Confidentiality of information

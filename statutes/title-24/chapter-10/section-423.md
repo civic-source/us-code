@@ -3,9 +3,9 @@ title: "Section 423 - Preservation of historic buildings and grounds at the Arme
 usc_title: 24
 usc_section: "423"
 chapter: 10
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "24 U.S.C. § 423"
-generated_at: "2026-03-29T20:38:10.854Z"
+generated_at: "2026-03-29T20:44:11.759Z"
 ---
 
 # § 423. Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington

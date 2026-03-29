@@ -3,9 +3,9 @@ title: "Section 4315 - Certification of organizations; applicable criteria and c
 usc_title: 7
 usc_section: "4315"
 chapter: 74
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 4315"
-generated_at: "2026-03-29T20:37:01.904Z"
+generated_at: "2026-03-29T20:42:35.444Z"
 ---
 
 # § 4315. Certification of organizations; applicable criteria and considerations

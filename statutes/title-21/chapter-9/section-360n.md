@@ -3,9 +3,9 @@ title: "Section 360n - Priority review to encourage treatments for tropical dise
 usc_title: 21
 usc_section: "360n"
 chapter: 9
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "21 U.S.C. § 360n"
-generated_at: "2026-03-29T20:38:14.267Z"
+generated_at: "2026-03-29T20:44:11.441Z"
 ---
 
 # § 360n. Priority review to encourage treatments for tropical diseases

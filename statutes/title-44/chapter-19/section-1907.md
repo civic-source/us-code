@@ -3,9 +3,9 @@ title: "Section 1907 - Libraries of executive departments, service academies, an
 usc_title: 44
 usc_section: "1907"
 chapter: 19
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "44 U.S.C. § 1907"
-generated_at: "2026-03-29T20:39:49.853Z"
+generated_at: "2026-03-29T20:45:52.878Z"
 ---
 
 # § 1907. Libraries of executive departments, service academies, and independent agencies constituted depositories; certifications of need; disposal of unwanted publications

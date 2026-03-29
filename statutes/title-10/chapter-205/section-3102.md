@@ -3,9 +3,9 @@ title: "Section 3102 - Customer-oriented acquisition system"
 usc_title: 10
 usc_section: "3102"
 chapter: 205
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 3102"
-generated_at: "2026-03-29T20:36:24.377Z"
+generated_at: "2026-03-29T20:42:48.728Z"
 ---
 
 # § 3102. Customer-oriented acquisition system

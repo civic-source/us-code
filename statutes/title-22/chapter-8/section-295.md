@@ -3,9 +3,9 @@ title: "Section 295 - Authorization of appropriations; Foreign Service Building 
 usc_title: 22
 usc_section: "295"
 chapter: 8
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "22 U.S.C. § 295"
-generated_at: "2026-03-29T20:38:29.617Z"
+generated_at: "2026-03-29T20:44:16.830Z"
 ---
 
 # § 295. Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies

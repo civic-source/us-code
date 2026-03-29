@@ -3,9 +3,9 @@ title: "Section 148 - Highway safety improvement program"
 usc_title: 23
 usc_section: "148"
 chapter: 1
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "23 U.S.C. § 148"
-generated_at: "2026-03-29T20:38:31.788Z"
+generated_at: "2026-03-29T20:44:08.724Z"
 ---
 
 # § 148. Highway safety improvement program

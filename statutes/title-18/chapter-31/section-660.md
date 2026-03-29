@@ -3,9 +3,9 @@ title: "Section 660 - Carrier’s funds derived from commerce; State prosecution
 usc_title: 18
 usc_section: "660"
 chapter: 31
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "18 U.S.C. § 660"
-generated_at: "2026-03-29T20:37:48.516Z"
+generated_at: "2026-03-29T20:43:23.211Z"
 ---
 
 # § 660. Carrier’s funds derived from commerce; State prosecutions

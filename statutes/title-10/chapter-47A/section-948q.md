@@ -3,9 +3,9 @@ title: "Section 948q - Charges and specifications"
 usc_title: 10
 usc_section: "948q"
 chapter: 47
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 948q"
-generated_at: "2026-03-29T20:36:24.160Z"
+generated_at: "2026-03-29T20:42:48.445Z"
 ---
 
 # § 948q. Charges and specifications

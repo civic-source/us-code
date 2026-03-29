@@ -3,9 +3,9 @@ title: "Section 2512 - Disbursing officers; relief"
 usc_title: 28
 usc_section: "2512"
 chapter: 165
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "28 U.S.C. § 2512"
-generated_at: "2026-03-29T20:38:47.231Z"
+generated_at: "2026-03-29T20:44:27.738Z"
 ---
 
 # § 2512. Disbursing officers; relief

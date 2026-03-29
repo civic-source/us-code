@@ -3,9 +3,9 @@ title: "Section 48107 - Civil aviation security research and development"
 usc_title: 49
 usc_section: "48107"
 chapter: 481
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "49 U.S.C. § 48107"
-generated_at: "2026-03-29T20:41:16.392Z"
+generated_at: "2026-03-29T20:47:02.974Z"
 ---
 
 # § 48107. Civil aviation security research and development

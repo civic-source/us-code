@@ -3,9 +3,9 @@ title: "Section 142b - Certifying officers of the Library of Congress; accountab
 usc_title: 2
 usc_section: "142b"
 chapter: 5
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "2 U.S.C. § 142b"
-generated_at: "2026-03-29T20:36:02.642Z"
+generated_at: "2026-03-29T20:42:17.837Z"
 ---
 
 # § 142b. Certifying officers of the Library of Congress; accountability; relief by Comptroller General

@@ -3,9 +3,9 @@ title: "Section 5885 - Repealed. Pub. L. 104–127, title VIII, § 862(a) , Apr.
 usc_title: 7
 usc_section: "5885"
 chapter: 88
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 5885"
-generated_at: "2026-03-29T20:37:01.926Z"
+generated_at: "2026-03-29T20:42:35.468Z"
 ---
 
 # §§ 5881 to 5885. Repealed. Pub. L. 104–127, title VIII, § 862(a) , Apr. 4, 1996 , 110 Stat. 1174

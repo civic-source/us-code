@@ -3,9 +3,9 @@ title: "Section 9034 - Vice Chief of Staff"
 usc_title: 10
 usc_section: "9034"
 chapter: 905
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 9034"
-generated_at: "2026-03-29T20:36:24.474Z"
+generated_at: "2026-03-29T20:42:48.832Z"
 ---
 
 # § 9034. Vice Chief of Staff

@@ -3,9 +3,9 @@ title: "Section 4402 - Requirement to address modular open system approach in pr
 usc_title: 10
 usc_section: "4402"
 chapter: 327
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "10 U.S.C. § 4402"
-generated_at: "2026-03-29T20:36:24.412Z"
+generated_at: "2026-03-29T20:42:48.766Z"
 ---
 
 # § 4402. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design

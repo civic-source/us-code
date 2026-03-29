@@ -3,9 +3,9 @@ title: "Section 918b - Acquisition of existing systems in rural communities with
 usc_title: 7
 usc_section: "918b"
 chapter: 31
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "7 U.S.C. § 918b"
-generated_at: "2026-03-29T20:37:01.688Z"
+generated_at: "2026-03-29T20:42:35.237Z"
 ---
 
 # § 918b. Acquisition of existing systems in rural communities with high energy costs

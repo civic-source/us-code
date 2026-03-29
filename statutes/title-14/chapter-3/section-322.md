@@ -3,9 +3,9 @@ title: "Section 322 - Redistricting notification requirement"
 usc_title: 14
 usc_section: "322"
 chapter: 3
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "14 U.S.C. § 322"
-generated_at: "2026-03-29T20:37:10.900Z"
+generated_at: "2026-03-29T20:42:52.731Z"
 ---
 
 # § 322. Redistricting notification requirement

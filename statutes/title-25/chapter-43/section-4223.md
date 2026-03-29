@@ -3,9 +3,9 @@ title: "Section 4223 - Housing plan"
 usc_title: 25
 usc_section: "4223"
 chapter: 43
-current_through: "PL 117-26"
+current_through: "PL 117-28"
 classification: "25 U.S.C. § 4223"
-generated_at: "2026-03-29T20:38:41.005Z"
+generated_at: "2026-03-29T20:44:07.191Z"
 ---
 
 # § 4223. Housing plan
