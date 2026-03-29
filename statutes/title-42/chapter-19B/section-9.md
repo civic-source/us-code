@@ -3,9 +3,9 @@ title: "Section 9 - Information from Federal agencies for Delmarva Peninsula stu
 usc_title: 42
 usc_section: "9"
 chapter: 19
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T22:51:39.949Z"
+generated_at: "2026-03-29T23:07:11.171Z"
 ---
 
 # § 1962d–9. Information from Federal agencies for Delmarva Peninsula study

@@ -3,9 +3,9 @@ title: "Section 4278 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4278"
 chapter: 53
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 4278"
-generated_at: "2026-03-29T22:51:40.109Z"
+generated_at: "2026-03-29T23:07:11.301Z"
 ---
 
 # § 4278. Authorization of appropriations

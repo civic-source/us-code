@@ -3,9 +3,9 @@ title: "Section 4872 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-29T22:47:53.372Z"
+generated_at: "2026-03-29T23:03:46.971Z"
 ---
 
 # § 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition

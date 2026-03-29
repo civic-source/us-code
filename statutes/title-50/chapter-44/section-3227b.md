@@ -3,9 +3,9 @@ title: "Section 3227b - Reporting"
 usc_title: 50
 usc_section: "3227b"
 chapter: 44
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 3227b"
-generated_at: "2026-03-29T22:52:07.237Z"
+generated_at: "2026-03-29T23:07:21.157Z"
 ---
 
 # § 3227b. Reporting

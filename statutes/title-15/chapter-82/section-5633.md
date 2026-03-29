@@ -3,9 +3,9 @@ title: "Section 5633 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5633"
 chapter: 82
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 5633"
-generated_at: "2026-03-29T22:48:36.437Z"
+generated_at: "2026-03-29T23:04:11.783Z"
 ---
 
 # §§ 5631 to 5633. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

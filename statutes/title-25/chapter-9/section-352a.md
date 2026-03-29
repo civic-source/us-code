@@ -3,9 +3,9 @@ title: "Section 352a - Cancellation of patents in fee simple for allotments held
 usc_title: 25
 usc_section: "352a"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 352a"
-generated_at: "2026-03-29T22:49:11.602Z"
+generated_at: "2026-03-29T23:04:57.076Z"
 ---
 
 # § 352a. Cancellation of patents in fee simple for allotments held in trust

@@ -3,9 +3,9 @@ title: "Section 756 - Investigations, surveys, and experiments; construction and
 usc_title: 16
 usc_section: "756"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 756"
-generated_at: "2026-03-29T22:48:52.863Z"
+generated_at: "2026-03-29T23:04:44.139Z"
 ---
 
 # § 756. Investigations, surveys, and experiments; construction and installation of conservation devices, etc.

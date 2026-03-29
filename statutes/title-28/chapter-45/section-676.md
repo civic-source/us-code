@@ -3,9 +3,9 @@ title: "Section 676 - Printing and binding"
 usc_title: 28
 usc_section: "676"
 chapter: 45
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "28 U.S.C. § 676"
-generated_at: "2026-03-29T22:49:25.419Z"
+generated_at: "2026-03-29T23:05:50.118Z"
 ---
 
 # § 676. Printing and binding

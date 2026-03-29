@@ -3,9 +3,9 @@ title: "Section 7327 - Centers for research, education, and clinical activities 
 usc_title: 38
 usc_section: "7327"
 chapter: 73
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 7327"
-generated_at: "2026-03-29T22:50:10.037Z"
+generated_at: "2026-03-29T23:06:35.194Z"
 ---
 
 # § 7327. Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries

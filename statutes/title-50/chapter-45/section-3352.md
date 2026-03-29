@@ -3,9 +3,9 @@ title: "Section 3352 - Definitions"
 usc_title: 50
 usc_section: "3352"
 chapter: 45
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 3352"
-generated_at: "2026-03-29T22:52:07.248Z"
+generated_at: "2026-03-29T23:07:21.167Z"
 ---
 
 # § 3352. Definitions

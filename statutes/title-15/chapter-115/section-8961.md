@@ -3,9 +3,9 @@ title: "Section 8961 - PFAS destruction and disposal guidance"
 usc_title: 15
 usc_section: "8961"
 chapter: 115
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 8961"
-generated_at: "2026-03-29T22:48:36.507Z"
+generated_at: "2026-03-29T23:04:11.833Z"
 ---
 
 # § 8961. PFAS destruction and disposal guidance

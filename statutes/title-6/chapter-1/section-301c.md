@@ -3,9 +3,9 @@ title: "Section 301c - Definitions"
 usc_title: 6
 usc_section: "301c"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 301c"
-generated_at: "2026-03-29T22:48:07.065Z"
+generated_at: "2026-03-29T23:03:09.132Z"
 ---
 
 # § 301c. Definitions

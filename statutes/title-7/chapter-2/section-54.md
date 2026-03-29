@@ -3,9 +3,9 @@ title: "Section 54 - Classification by Department of Agriculture; certification 
 usc_title: 7
 usc_section: "54"
 chapter: 2
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 54"
-generated_at: "2026-03-29T22:48:19.614Z"
+generated_at: "2026-03-29T23:03:33.240Z"
 ---
 
 # § 54. Classification by Department of Agriculture; certification thereof; effect of certificate; regulations for classification

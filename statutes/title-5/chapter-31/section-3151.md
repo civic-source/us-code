@@ -3,9 +3,9 @@ title: "Section 3151 - The Federal Bureau of Investigation and Drug Enforcement 
 usc_title: 5
 usc_section: "3151"
 chapter: 31
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "5 U.S.C. § 3151"
-generated_at: "2026-03-29T22:47:33.443Z"
+generated_at: "2026-03-29T23:02:59.649Z"
 ---
 
 # § 3151. The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service

@@ -3,9 +3,9 @@ title: "Section 1302 - Regulations"
 usc_title: 5
 usc_section: "1302"
 chapter: 13
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "5 U.S.C. § 1302"
-generated_at: "2026-03-29T22:47:33.437Z"
+generated_at: "2026-03-29T23:02:59.643Z"
 ---
 
 # § 1302. Regulations

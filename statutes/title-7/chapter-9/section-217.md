@@ -3,9 +3,9 @@ title: "Section 217 - Proceedings for suspension of orders"
 usc_title: 7
 usc_section: "217"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 217"
-generated_at: "2026-03-29T22:48:19.674Z"
+generated_at: "2026-03-29T23:03:33.299Z"
 ---
 
 # § 217. Proceedings for suspension of orders

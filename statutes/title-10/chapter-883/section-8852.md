@@ -3,9 +3,9 @@ title: "Section 8852 - Jurisdiction"
 usc_title: 10
 usc_section: "8852"
 chapter: 883
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 8852"
-generated_at: "2026-03-29T22:47:53.644Z"
+generated_at: "2026-03-29T23:03:47.017Z"
 ---
 
 # § 8852. Jurisdiction

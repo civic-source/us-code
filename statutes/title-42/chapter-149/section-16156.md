@@ -3,9 +3,9 @@ title: "Section 16156 - Technical Advisory Committee"
 usc_title: 42
 usc_section: "16156"
 chapter: 149
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 16156"
-generated_at: "2026-03-29T22:51:40.686Z"
+generated_at: "2026-03-29T23:07:11.878Z"
 ---
 
 # § 16156. Technical Advisory Committee

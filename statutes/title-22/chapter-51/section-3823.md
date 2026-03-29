@@ -3,9 +3,9 @@ title: "Section 3823 - Regulations governing inspection"
 usc_title: 22
 usc_section: "3823"
 chapter: 51
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 3823"
-generated_at: "2026-03-29T22:49:19.995Z"
+generated_at: "2026-03-29T23:04:55.196Z"
 ---
 
 # § 3823. Regulations governing inspection

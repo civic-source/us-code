@@ -3,9 +3,9 @@ title: "Section 10302 - Shipping articles agreements"
 usc_title: 46
 usc_section: "10302"
 chapter: 103
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "46 U.S.C. § 10302"
-generated_at: "2026-03-29T22:51:53.605Z"
+generated_at: "2026-03-29T23:07:23.751Z"
 ---
 
 # § 10302. Shipping articles agreements

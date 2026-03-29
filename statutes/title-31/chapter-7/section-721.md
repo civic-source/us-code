@@ -3,9 +3,9 @@ title: "Section 721 - Access to certain information"
 usc_title: 31
 usc_section: "721"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "31 U.S.C. § 721"
-generated_at: "2026-03-29T22:49:54.585Z"
+generated_at: "2026-03-29T23:06:28.373Z"
 ---
 
 # § 721. Access to certain information

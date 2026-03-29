@@ -3,9 +3,9 @@ title: "Section 14a - Transferred"
 usc_title: 21
 usc_section: "14a"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "21 U.S.C. § 14a"
-generated_at: "2026-03-29T22:49:13.973Z"
+generated_at: "2026-03-29T23:05:33.622Z"
 ---
 
 # § 14a. Transferred

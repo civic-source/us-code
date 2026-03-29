@@ -3,9 +3,9 @@ title: "Section 42 - Repealed. Pub. L. 104–186, title II, § 203(9)(A) , (10),
 usc_title: 2
 usc_section: "42"
 chapter: 3
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 42"
-generated_at: "2026-03-29T22:47:36.135Z"
+generated_at: "2026-03-29T23:02:31.078Z"
 ---
 
 # §§ 41, 42. Repealed. Pub. L. 104–186, title II, § 203(9)(A) , (10), Aug. 20, 1996 , 110 Stat. 1726

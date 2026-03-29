@@ -3,9 +3,9 @@ title: "Section 2056a - Standards and consumer registration of durable nursery p
 usc_title: 15
 usc_section: "2056a"
 chapter: 47
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 2056a"
-generated_at: "2026-03-29T22:48:36.347Z"
+generated_at: "2026-03-29T23:04:11.697Z"
 ---
 
 # § 2056a. Standards and consumer registration of durable nursery products

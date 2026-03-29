@@ -3,9 +3,9 @@ title: "Section 1536 - Prohibition against fraudulent use of “Made in America�
 usc_title: 15
 usc_section: "1536"
 chapter: 40
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 1536"
-generated_at: "2026-03-29T22:48:36.293Z"
+generated_at: "2026-03-29T23:04:11.651Z"
 ---
 
 # § 1536. Prohibition against fraudulent use of “Made in America” labels

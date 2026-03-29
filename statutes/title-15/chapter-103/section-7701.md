@@ -3,9 +3,9 @@ title: "Section 7701 - Congressional findings and policy"
 usc_title: 15
 usc_section: "7701"
 chapter: 103
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 7701"
-generated_at: "2026-03-29T22:48:36.484Z"
+generated_at: "2026-03-29T23:04:11.814Z"
 ---
 
 # § 7701. Congressional findings and policy

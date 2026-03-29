@@ -3,9 +3,9 @@ title: "Section 1a - Repealed. Pub. L. 90–57, § 105(i)(4) , (5), July 28, 196
 usc_title: 2
 usc_section: "1a"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-29T22:47:36.138Z"
+generated_at: "2026-03-29T23:02:31.080Z"
 ---
 
 # §§ 72a–1, 72a–1a. Repealed. Pub. L. 90–57, § 105(i)(4) , (5), July 28, 1967 , 81 Stat. 144

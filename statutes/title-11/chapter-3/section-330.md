@@ -3,9 +3,9 @@ title: "Section 330 - Compensation of officers"
 usc_title: 11
 usc_section: "330"
 chapter: 3
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "11 U.S.C. § 330"
-generated_at: "2026-03-29T22:48:38.885Z"
+generated_at: "2026-03-29T23:03:58.578Z"
 ---
 
 # § 330. Compensation of officers

@@ -3,9 +3,9 @@ title: "Section 220522 - Eligibility requirements"
 usc_title: 36
 usc_section: "220522"
 chapter: 2205
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 220522"
-generated_at: "2026-03-29T22:50:25.243Z"
+generated_at: "2026-03-29T23:06:36.603Z"
 ---
 
 # § 220522. Eligibility requirements

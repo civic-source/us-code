@@ -3,9 +3,9 @@ title: "Section 7l - Nationwide program for national and State background checks
 usc_title: 42
 usc_section: "7l"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 7l"
-generated_at: "2026-03-29T22:51:39.512Z"
+generated_at: "2026-03-29T23:07:10.764Z"
 ---
 
 # § 1320a–7l. Nationwide program for national and State background checks on direct patient access employees of long-term care facilities and providers

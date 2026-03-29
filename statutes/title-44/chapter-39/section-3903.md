@@ -3,9 +3,9 @@ title: "Section 3903 - Duties, responsibilities, authority, and reports"
 usc_title: 44
 usc_section: "3903"
 chapter: 39
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "44 U.S.C. § 3903"
-generated_at: "2026-03-29T22:50:36.326Z"
+generated_at: "2026-03-29T23:06:48.178Z"
 ---
 
 # § 3903. Duties, responsibilities, authority, and reports

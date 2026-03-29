@@ -3,9 +3,9 @@ title: "Section 22308 - Principal office"
 usc_title: 36
 usc_section: "22308"
 chapter: 223
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 22308"
-generated_at: "2026-03-29T22:50:25.202Z"
+generated_at: "2026-03-29T23:06:36.569Z"
 ---
 
 # § 22308. Principal office

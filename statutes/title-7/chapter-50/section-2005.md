@@ -3,9 +3,9 @@ title: "Section 2005 - Payment of losses on guaranteed loans"
 usc_title: 7
 usc_section: "2005"
 chapter: 50
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 2005"
-generated_at: "2026-03-29T22:48:19.843Z"
+generated_at: "2026-03-29T23:03:33.444Z"
 ---
 
 # § 2005. Payment of losses on guaranteed loans

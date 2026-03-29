@@ -3,9 +3,9 @@ title: "Section 443 - War contracts"
 usc_title: 18
 usc_section: "443"
 chapter: 23
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 443"
-generated_at: "2026-03-29T22:48:44.578Z"
+generated_at: "2026-03-29T23:04:35.574Z"
 ---
 
 # § 443. War contracts

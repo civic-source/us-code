@@ -3,9 +3,9 @@ title: "Section 10501 - General jurisdiction"
 usc_title: 49
 usc_section: "10501"
 chapter: 105
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "49 U.S.C. § 10501"
-generated_at: "2026-03-29T22:52:18.528Z"
+generated_at: "2026-03-29T23:07:41.042Z"
 ---
 
 # § 10501. General jurisdiction

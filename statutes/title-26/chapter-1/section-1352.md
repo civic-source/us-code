@@ -3,9 +3,9 @@ title: "Section 1352 - Alternative tax on qualifying shipping activities"
 usc_title: 26
 usc_section: "1352"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 1352"
-generated_at: "2026-03-29T22:49:48.879Z"
+generated_at: "2026-03-29T23:06:05.059Z"
 ---
 
 # § 1352. Alternative tax on qualifying shipping activities

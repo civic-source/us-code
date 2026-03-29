@@ -3,9 +3,9 @@ title: "Section 64b - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "64b"
 chapter: 3
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "45 U.S.C. § 64b"
-generated_at: "2026-03-29T22:50:40.907Z"
+generated_at: "2026-03-29T23:06:52.963Z"
 ---
 
 # §§ 61 to 64b. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

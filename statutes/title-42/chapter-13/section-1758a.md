@@ -3,9 +3,9 @@ title: "Section 1758a - State performance on enrolling children receiving progra
 usc_title: 42
 usc_section: "1758a"
 chapter: 13
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 1758a"
-generated_at: "2026-03-29T22:51:39.899Z"
+generated_at: "2026-03-29T23:07:11.122Z"
 ---
 
 # § 1758a. State performance on enrolling children receiving program benefits for free school meals

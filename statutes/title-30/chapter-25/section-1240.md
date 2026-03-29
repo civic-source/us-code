@@ -3,9 +3,9 @@ title: "Section 1240 - Emergency powers"
 usc_title: 30
 usc_section: "1240"
 chapter: 25
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "30 U.S.C. § 1240"
-generated_at: "2026-03-29T22:49:26.362Z"
+generated_at: "2026-03-29T23:05:38.515Z"
 ---
 
 # § 1240. Emergency powers

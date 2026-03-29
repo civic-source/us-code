@@ -3,9 +3,9 @@ title: "Section 552 - Savings provisions"
 usc_title: 6
 usc_section: "552"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 552"
-generated_at: "2026-03-29T22:48:07.097Z"
+generated_at: "2026-03-29T23:03:09.154Z"
 ---
 
 # § 552. Savings provisions

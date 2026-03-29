@@ -3,9 +3,9 @@ title: "Section 4514 - Consultation and layover provisions for, and effective da
 usc_title: 19
 usc_section: "4514"
 chapter: 29
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "19 U.S.C. § 4514"
-generated_at: "2026-03-29T22:48:58.939Z"
+generated_at: "2026-03-29T23:04:38.282Z"
 ---
 
 # § 4514. Consultation and layover provisions for, and effective date of, proclaimed actions

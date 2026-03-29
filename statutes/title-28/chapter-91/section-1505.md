@@ -3,9 +3,9 @@ title: "Section 1505 - Indian claims"
 usc_title: 28
 usc_section: "1505"
 chapter: 91
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "28 U.S.C. § 1505"
-generated_at: "2026-03-29T22:49:25.433Z"
+generated_at: "2026-03-29T23:05:50.129Z"
 ---
 
 # § 1505. Indian claims

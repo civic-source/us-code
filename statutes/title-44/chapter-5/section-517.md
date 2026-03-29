@@ -3,9 +3,9 @@ title: "Section 517 - Purchase of paper in open market"
 usc_title: 44
 usc_section: "517"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "44 U.S.C. § 517"
-generated_at: "2026-03-29T22:50:36.299Z"
+generated_at: "2026-03-29T23:06:48.150Z"
 ---
 
 # § 517. Purchase of paper in open market

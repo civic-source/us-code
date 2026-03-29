@@ -3,9 +3,9 @@ title: "Section 44732 - Prohibition on personal use of electronic devices on fli
 usc_title: 49
 usc_section: "44732"
 chapter: 447
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "49 U.S.C. § 44732"
-generated_at: "2026-03-29T22:52:18.667Z"
+generated_at: "2026-03-29T23:07:41.158Z"
 ---
 
 # § 44732. Prohibition on personal use of electronic devices on flight deck

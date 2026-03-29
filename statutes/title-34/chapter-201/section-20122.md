@@ -3,9 +3,9 @@ title: "Section 20122 - Education, training, and enhanced services to end violen
 usc_title: 34
 usc_section: "20122"
 chapter: 201
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "34 U.S.C. § 20122"
-generated_at: "2026-03-29T22:50:01.829Z"
+generated_at: "2026-03-29T23:06:19.146Z"
 ---
 
 # § 20122. Education, training, and enhanced services to end violence against and abuse of individuals with disabilities and Deaf people

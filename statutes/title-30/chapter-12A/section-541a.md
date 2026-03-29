@@ -3,9 +3,9 @@ title: "Section 541a - Claims located prior to May 25, 1955 ; extra­lateral rig
 usc_title: 30
 usc_section: "541a"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "30 U.S.C. § 541a"
-generated_at: "2026-03-29T22:49:26.327Z"
+generated_at: "2026-03-29T23:05:38.472Z"
 ---
 
 # § 541a. Claims located prior to May 25, 1955 ; extra­lateral rights; amended notice of mining location

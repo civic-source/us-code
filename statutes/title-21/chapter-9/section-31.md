@@ -3,9 +3,9 @@ title: "Section 31 - Authority to collect and use fees"
 usc_title: 21
 usc_section: "31"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "21 U.S.C. § 31"
-generated_at: "2026-03-29T22:49:14.082Z"
+generated_at: "2026-03-29T23:05:33.735Z"
 ---
 
 # § 379j–31. Authority to collect and use fees

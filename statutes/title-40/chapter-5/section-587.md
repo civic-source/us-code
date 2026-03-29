@@ -3,9 +3,9 @@ title: "Section 587 - Telecommuting and other alternative workplace arrangements
 usc_title: 40
 usc_section: "587"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "40 U.S.C. § 587"
-generated_at: "2026-03-29T22:50:06.356Z"
+generated_at: "2026-03-29T23:06:32.091Z"
 ---
 
 # § 587. Telecommuting and other alternative workplace arrangements

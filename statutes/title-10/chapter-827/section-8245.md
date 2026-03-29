@@ -3,9 +3,9 @@ title: "Section 8245 - Flight rations"
 usc_title: 10
 usc_section: "8245"
 chapter: 827
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 8245"
-generated_at: "2026-03-29T22:47:53.394Z"
+generated_at: "2026-03-29T23:03:46.996Z"
 ---
 
 # § 8245. Flight rations

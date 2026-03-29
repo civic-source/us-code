@@ -3,9 +3,9 @@ title: "Section 1451 - Definitions"
 usc_title: 12
 usc_section: "1451"
 chapter: 11
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "12 U.S.C. § 1451"
-generated_at: "2026-03-29T22:48:29.372Z"
+generated_at: "2026-03-29T23:04:21.176Z"
 ---
 
 # § 1451. Definitions

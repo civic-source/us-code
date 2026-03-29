@@ -3,9 +3,9 @@ title: "Section 1074m - Mental health assessments for members of the armed force
 usc_title: 10
 usc_section: "1074m"
 chapter: 55
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 1074m"
-generated_at: "2026-03-29T22:47:53.195Z"
+generated_at: "2026-03-29T23:03:46.779Z"
 ---
 
 # § 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation

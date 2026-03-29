@@ -3,9 +3,9 @@ title: "Section 1684 - Expenditure of funds for administration of Trust Territor
 usc_title: 48
 usc_section: "1684"
 chapter: 14
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "48 U.S.C. § 1684"
-generated_at: "2026-03-29T22:52:03.802Z"
+generated_at: "2026-03-29T23:07:16.366Z"
 ---
 
 # § 1684. Expenditure of funds for administration of Trust Territory of the Pacific Islands

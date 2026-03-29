@@ -3,9 +3,9 @@ title: "Section 5101 - Employment of administrative assistants for Speaker and H
 usc_title: 2
 usc_section: "5101"
 chapter: 51
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 5101"
-generated_at: "2026-03-29T22:47:36.251Z"
+generated_at: "2026-03-29T23:02:31.177Z"
 ---
 
 # § 5101. Employment of administrative assistants for Speaker and House Majority and Minority Leaders; compensation; appropriations

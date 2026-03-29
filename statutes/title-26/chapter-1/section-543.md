@@ -3,9 +3,9 @@ title: "Section 543 - Personal holding company income"
 usc_title: 26
 usc_section: "543"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 543"
-generated_at: "2026-03-29T22:49:48.778Z"
+generated_at: "2026-03-29T23:06:04.978Z"
 ---
 
 # § 543. Personal holding company income

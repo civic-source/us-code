@@ -3,9 +3,9 @@ title: "Section 657 - Cyber Security Enhancement Act of 2002"
 usc_title: 6
 usc_section: "657"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 657"
-generated_at: "2026-03-29T22:48:07.115Z"
+generated_at: "2026-03-29T23:03:09.167Z"
 ---
 
 # § 657. Cyber Security Enhancement Act of 2002

@@ -3,9 +3,9 @@ title: "Section 2241a - Prohibition on use of funds for publicity or propaganda 
 usc_title: 10
 usc_section: "2241a"
 chapter: 134
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 2241a"
-generated_at: "2026-03-29T22:47:53.263Z"
+generated_at: "2026-03-29T23:03:46.863Z"
 ---
 
 # § 2241a. Prohibition on use of funds for publicity or propaganda purposes within the United States

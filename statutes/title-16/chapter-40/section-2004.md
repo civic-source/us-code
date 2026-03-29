@@ -3,9 +3,9 @@ title: "Section 2004 - Continuing appraisal of soil, water, and related resource
 usc_title: 16
 usc_section: "2004"
 chapter: 40
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 2004"
-generated_at: "2026-03-29T22:48:53.026Z"
+generated_at: "2026-03-29T23:04:44.272Z"
 ---
 
 # § 2004. Continuing appraisal of soil, water, and related resources

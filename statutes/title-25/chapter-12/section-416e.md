@@ -3,9 +3,9 @@ title: "Section 416e - Approval of leases"
 usc_title: 25
 usc_section: "416e"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 416e"
-generated_at: "2026-03-29T22:49:11.612Z"
+generated_at: "2026-03-29T23:04:57.083Z"
 ---
 
 # § 416e. Approval of leases

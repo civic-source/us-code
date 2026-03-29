@@ -3,9 +3,9 @@ title: "Section 6133 - Chiefs of Staff for Senate Majority and Minority Leaders;
 usc_title: 2
 usc_section: "6133"
 chapter: 61
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 6133"
-generated_at: "2026-03-29T22:47:36.257Z"
+generated_at: "2026-03-29T23:02:31.185Z"
 ---
 
 # § 6133. Chiefs of Staff for Senate Majority and Minority Leaders; appointment; compensation

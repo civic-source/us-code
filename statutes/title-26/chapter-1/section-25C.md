@@ -3,9 +3,9 @@ title: "Section 25C - Nonbusiness energy property"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-29T22:49:48.538Z"
+generated_at: "2026-03-29T23:06:04.796Z"
 ---
 
 # § 25C. Nonbusiness energy property

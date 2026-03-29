@@ -3,9 +3,9 @@ title: "Section 796 - Effect of subchapter on other criminal laws"
 usc_title: 50
 usc_section: "796"
 chapter: 23
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 796"
-generated_at: "2026-03-29T22:52:07.132Z"
+generated_at: "2026-03-29T23:07:21.074Z"
 ---
 
 # § 796. Effect of subchapter on other criminal laws

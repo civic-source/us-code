@@ -3,9 +3,9 @@ title: "Section 1315 - Dependency and indemnity compensation to parents"
 usc_title: 38
 usc_section: "1315"
 chapter: 13
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 1315"
-generated_at: "2026-03-29T22:50:09.929Z"
+generated_at: "2026-03-29T23:06:35.106Z"
 ---
 
 # § 1315. Dependency and indemnity compensation to parents

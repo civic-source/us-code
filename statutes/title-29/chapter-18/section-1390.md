@@ -3,9 +3,9 @@ title: "Section 1390 - Nonapplicability of withdrawal liability for certain temp
 usc_title: 29
 usc_section: "1390"
 chapter: 18
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "29 U.S.C. § 1390"
-generated_at: "2026-03-29T22:49:28.626Z"
+generated_at: "2026-03-29T23:06:15.200Z"
 ---
 
 # § 1390. Nonapplicability of withdrawal liability for certain temporary contribution obligation periods; exception

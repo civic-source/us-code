@@ -3,9 +3,9 @@ title: "Section 7410 - Cross references"
 usc_title: 26
 usc_section: "7410"
 chapter: 76
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 7410"
-generated_at: "2026-03-29T22:49:49.081Z"
+generated_at: "2026-03-29T23:06:05.220Z"
 ---
 
 # § 7410. Cross references

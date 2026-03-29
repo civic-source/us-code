@@ -3,9 +3,9 @@ title: "Section 21752 - Best practices and model legislation for guardianship pr
 usc_title: 34
 usc_section: "21752"
 chapter: 217
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "34 U.S.C. § 21752"
-generated_at: "2026-03-29T22:50:01.851Z"
+generated_at: "2026-03-29T23:06:19.170Z"
 ---
 
 # § 21752. Best practices and model legislation for guardianship proceedings

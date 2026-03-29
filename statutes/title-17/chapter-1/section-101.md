@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 17
 usc_section: "101"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "17 U.S.C. § 101"
-generated_at: "2026-03-29T22:48:41.833Z"
+generated_at: "2026-03-29T23:04:24.643Z"
 ---
 
 # § 101. Definitions

@@ -3,9 +3,9 @@ title: "Section 8859 - Libel and proceedings by United States attorney"
 usc_title: 10
 usc_section: "8859"
 chapter: 883
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 8859"
-generated_at: "2026-03-29T22:47:53.645Z"
+generated_at: "2026-03-29T23:03:47.017Z"
 ---
 
 # § 8859. Libel and proceedings by United States attorney

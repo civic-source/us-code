@@ -3,9 +3,9 @@ title: "Section 4377 - Breach of critical cost growth threshold: actions if prog
 usc_title: 10
 usc_section: "4377"
 chapter: 325
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 4377"
-generated_at: "2026-03-29T22:47:53.360Z"
+generated_at: "2026-03-29T23:03:46.960Z"
 ---
 
 # § 4377. Breach of critical cost growth threshold: actions if program not terminated

@@ -3,9 +3,9 @@ title: "Section 9102 - Definitions"
 usc_title: 42
 usc_section: "9102"
 chapter: 99
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 9102"
-generated_at: "2026-03-29T22:51:40.427Z"
+generated_at: "2026-03-29T23:07:11.621Z"
 ---
 
 # § 9102. Definitions

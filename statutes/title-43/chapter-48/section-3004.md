@@ -3,9 +3,9 @@ title: "Section 3004 - National goal for renewable energy production on Federal 
 usc_title: 43
 usc_section: "3004"
 chapter: 48
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 3004"
-generated_at: "2026-03-29T22:50:31.060Z"
+generated_at: "2026-03-29T23:06:40.236Z"
 ---
 
 # § 3004. National goal for renewable energy production on Federal land

@@ -3,9 +3,9 @@ title: "Section 2181 - Physical fitness of officers"
 usc_title: 14
 usc_section: "2181"
 chapter: 21
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "14 U.S.C. § 2181"
-generated_at: "2026-03-29T22:48:24.115Z"
+generated_at: "2026-03-29T23:04:03.816Z"
 ---
 
 # § 2181. Physical fitness of officers

@@ -3,9 +3,9 @@ title: "Section 1703B - Access standards"
 usc_title: 38
 usc_section: "1703B"
 chapter: 17
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 1703B"
-generated_at: "2026-03-29T22:50:09.933Z"
+generated_at: "2026-03-29T23:06:35.109Z"
 ---
 
 # § 1703B. Access standards

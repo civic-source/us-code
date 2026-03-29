@@ -3,9 +3,9 @@ title: "Section 206 - Standard gauge for sheet and plate iron and steel"
 usc_title: 15
 usc_section: "206"
 chapter: 6
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 206"
-generated_at: "2026-03-29T22:48:36.154Z"
+generated_at: "2026-03-29T23:04:11.534Z"
 ---
 
 # § 206. Standard gauge for sheet and plate iron and steel

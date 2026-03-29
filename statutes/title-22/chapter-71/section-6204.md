@@ -3,9 +3,9 @@ title: "Section 6204 - Authorities of Chief Executive Officer"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-29T22:49:20.057Z"
+generated_at: "2026-03-29T23:04:55.249Z"
 ---
 
 # § 6204. Authorities of Chief Executive Officer
@@ -44,5 +44,7 @@ generated_at: "2026-03-29T22:49:20.057Z"
 - **(b)** The Secretary of State and the Chief Executive Officer, in carrying out their functions, shall respect the professional independence and integrity of the Agency, its broadcasting services, and the grantees of the Agency.
 - **(c)**
   - **(1)** The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as “Agency Grantee Networks”) unless the incorporation documents of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
-  - **(2)** The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+  - **(2)**
+    - **(A)** The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+    - **(B)** A full-time employee of a Federal agency may not serve on a corporate board of any grantee under subsection (a).
   - **(3)** Individuals appointed under subsection (a) to the Board of Directors of any of the Agency Grantee Networks shall have requisite expertise in journalism, technology, broadcasting, or diplomacy, or appropriate language or cultural understanding relevant to the grantee’s mission.

@@ -3,9 +3,9 @@ title: "Section 1328 - Aquaculture"
 usc_title: 33
 usc_section: "1328"
 chapter: 26
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "33 U.S.C. § 1328"
-generated_at: "2026-03-29T22:49:57.123Z"
+generated_at: "2026-03-29T23:06:21.465Z"
 ---
 
 # § 1328. Aquaculture

@@ -3,9 +3,9 @@ title: "Section 5711 - Authority to issue subpoenas"
 usc_title: 38
 usc_section: "5711"
 chapter: 57
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 5711"
-generated_at: "2026-03-29T22:50:10.022Z"
+generated_at: "2026-03-29T23:06:35.182Z"
 ---
 
 # § 5711. Authority to issue subpoenas

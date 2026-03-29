@@ -3,9 +3,9 @@ title: "Section 2534 - Application for benefits"
 usc_title: 14
 usc_section: "2534"
 chapter: 25
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "14 U.S.C. § 2534"
-generated_at: "2026-03-29T22:48:24.117Z"
+generated_at: "2026-03-29T23:04:03.821Z"
 ---
 
 # § 2534. Application for benefits

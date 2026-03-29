@@ -3,9 +3,9 @@ title: "Section 79h - Memorial groves named for benefactors"
 usc_title: 16
 usc_section: "79h"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 79h"
-generated_at: "2026-03-29T22:48:52.558Z"
+generated_at: "2026-03-29T23:04:43.877Z"
 ---
 
 # § 79h. Memorial groves named for benefactors

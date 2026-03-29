@@ -3,9 +3,9 @@ title: "Section 4021 - Purpose"
 usc_title: 25
 usc_section: "4021"
 chapter: 42
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 4021"
-generated_at: "2026-03-29T22:49:11.724Z"
+generated_at: "2026-03-29T23:04:57.170Z"
 ---
 
 # § 4021. Purpose

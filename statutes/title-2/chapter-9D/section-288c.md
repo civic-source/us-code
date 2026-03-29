@@ -3,9 +3,9 @@ title: "Section 288c - Defending the Senate, committee, subcommittee, member, of
 usc_title: 2
 usc_section: "288c"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 288c"
-generated_at: "2026-03-29T22:47:36.159Z"
+generated_at: "2026-03-29T23:02:31.096Z"
 ---
 
 # § 288c. Defending the Senate, committee, subcommittee, member, officer, or employee of Senate

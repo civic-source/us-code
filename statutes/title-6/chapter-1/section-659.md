@@ -3,9 +3,9 @@ title: "Section 659 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "659"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 659"
-generated_at: "2026-03-29T22:48:07.116Z"
+generated_at: "2026-03-29T23:03:09.167Z"
 ---
 
 # § 659. National cybersecurity and communications integration center
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T22:48:07.116Z"
     - **(A)** conducting integration and analysis, including cross-sector integration and analysis, of cyber threat indicators, defensive measures, cybersecurity risks, and incidents;
     - **(B)** sharing mitigation protocols to counter cybersecurity vulnerabilities pursuant to subsection (n), as appropriate; and
     - **(C)** sharing the analysis conducted under subparagraph (A) and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B), as appropriate, with Federal and non-Federal entities;
-  - **(6)** upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;
+  - **(6)** upon request, providing operational and timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;
   - **(7)** providing information and recommendations on security and resilience measures to Federal and non-Federal entities, including information and recommendations to—
     - **(A)** facilitate information security;
     - **(B)** strengthen information systems against cybersecurity risks and incidents; and
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T22:48:07.116Z"
       - **(iv)** private entities, including cybersecurity specialists;
     - **(C)** components within the Center that carry out cybersecurity and communications activities;
     - **(D)** a designated Federal official for operational coordination with and across each sector;
-    - **(E)** an entity that collaborates with State and local governments on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and
+    - **(E)** an entity that collaborates with State and local governments, including an entity that collaborates with election officials, on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and
     - **(F)** other appropriate representatives or entities, as determined by the Secretary.
   - **(2)** In the event of an incident, during exigent circumstances the Secretary may grant a Federal or non-Federal entity immediate temporary access to the Center.
 - **(e)** In carrying out the functions under subsection (c), the Center shall ensure—
@@ -185,3 +185,31 @@ generated_at: "2026-03-29T22:48:07.116Z"
   - **(3)** provide cybersecurity technical assistance to industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control system stakeholders to identify, evaluate, assess, and mitigate vulnerabilities;
   - **(4)** collect, coordinate, and provide vulnerability information to the industrial control systems community by, as appropriate, working closely with security researchers, industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control systems stakeholders; and
   - **(5)** conduct such other efforts and assistance as the Secretary determines appropriate.
+- **(p)**
+  - **(1)** The Center shall, upon request and to the extent practicable, and in coordination as appropriate with Federal and non-Federal entities, such as the Multi-State Information Sharing and Analysis Center—
+    - **(A)** conduct exercises with SLTT entities;
+    - **(B)** provide operational and technical cybersecurity training to SLTT entities to address cybersecurity risks or incidents, with or without reimbursement, related to—
+      - **(i)** cyber threat indicators;
+      - **(ii)** defensive measures;
+      - **(iii)** cybersecurity risks;
+      - **(iv)** vulnerabilities; and
+      - **(v)** incident response and management;
+    - **(C)** in order to increase situational awareness and help prevent incidents, assist SLTT entities in sharing, in real time, with the Federal Government as well as among SLTT entities, actionable—
+      - **(i)** cyber threat indicators;
+      - **(ii)** defensive measures;
+      - **(iii)** information about cybersecurity risks; and
+      - **(iv)** information about incidents;
+    - **(D)** provide SLTT entities notifications containing specific incident and malware information that may affect them or their residents;
+    - **(E)** provide to, and periodically update, SLTT entities via an easily accessible platform and other means—
+      - **(i)** information about tools;
+      - **(ii)** information about products;
+      - **(iii)** resources;
+      - **(iv)** policies;
+      - **(v)** guidelines;
+      - **(vi)** controls; and
+      - **(vii)** other cybersecurity standards and best practices and procedures related to information security, including, as appropriate, information produced by other Federal agencies;
+    - **(F)** work with senior SLTT entity officials, including chief information officers and senior election officials and through national associations, to coordinate the effective implementation by SLTT entities of tools, products, resources, policies, guidelines, controls, and procedures related to information security to secure the information systems, including election systems, of SLTT entities;
+    - **(G)** provide operational and technical assistance to SLTT entities to implement tools, products, resources, policies, guidelines, controls, and procedures on information security;
+    - **(H)** assist SLTT entities in developing policies and procedures for coordinating vulnerability disclosures consistent with international and national standards in the information technology industry; and
+    - **(I)** promote cybersecurity education and awareness through engagements with Federal agencies and non-Federal entities.
+- **(q)** Not later than 1 year after June 21, 2022 , and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.

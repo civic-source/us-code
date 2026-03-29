@@ -3,9 +3,9 @@ title: "Section 7843 - Facilitating submission of applications for admission as 
 usc_title: 22
 usc_section: "7843"
 chapter: 85
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 7843"
-generated_at: "2026-03-29T22:49:20.107Z"
+generated_at: "2026-03-29T23:04:55.299Z"
 ---
 
 # § 7843. Facilitating submission of applications for admission as a refugee

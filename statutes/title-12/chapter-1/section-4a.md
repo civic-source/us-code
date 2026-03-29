@@ -3,9 +3,9 @@ title: "Section 4a - Delegation of authority by Comptroller"
 usc_title: 12
 usc_section: "4a"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "12 U.S.C. § 4a"
-generated_at: "2026-03-29T22:48:29.312Z"
+generated_at: "2026-03-29T23:04:21.124Z"
 ---
 
 # § 4a. Delegation of authority by Comptroller

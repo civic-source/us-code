@@ -3,9 +3,9 @@ title: "Section 11277 - Evaluation and information"
 usc_title: 34
 usc_section: "11277"
 chapter: 111
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "34 U.S.C. § 11277"
-generated_at: "2026-03-29T22:50:01.791Z"
+generated_at: "2026-03-29T23:06:19.115Z"
 ---
 
 # § 11277. Evaluation and information

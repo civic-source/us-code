@@ -3,9 +3,9 @@ title: "Section 301a - Port of entry donation authority"
 usc_title: 6
 usc_section: "301a"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 301a"
-generated_at: "2026-03-29T22:48:07.061Z"
+generated_at: "2026-03-29T23:03:09.131Z"
 ---
 
 # § 301a. Port of entry donation authority
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T22:48:07.061Z"
   - **(5)** The Commissioner of U.S. Customs and Border Protection, or the Administrator of General Services, as applicable, may return any donation made pursuant to subsection (a) or (b). No interest shall be owed to the donor with respect to any donation provided under such subsections that is returned pursuant to this subsection.
   - **(6)**
     - **(A)** Except as provided in subsections (a) and (b) regarding the acceptance of donations, the Commissioner of U.S. Customs and Border Protection and the Administrator of General Services, as applicable, may not, with respect to an agreement entered into under either of such subsections, obligate or expend amounts in excess of amounts that have been appropriated pursuant to any appropriations Act for purposes specified in either of such subsections or otherwise made available for any of such purposes.
-    - **(B)** Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that 1
+    - **(B)** Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that 2 2 So in original. Probably should be followed by a dash.
       - **(i)** the donation will not be used for the construction of a detention facility or a border fence or wall; and
       - **(ii)** the donor will be notified in the Donations Acceptance Agreement that the donor shall be financially responsible for all costs and operating expenses related to the operation, maintenance, and repair of the donated real property until such time as U.S. Customs and Border Protection provides the donor written notice otherwise.
   - **(7)** The Commissioner of U.S. Customs and Border Protection, in collaboration with the Administrator of General Services, as applicable, shall submit an annual report identifying the activities undertaken and agreements entered into pursuant to subsections (a) and (b) to—
@@ -84,7 +84,7 @@ generated_at: "2026-03-29T22:48:07.061Z"
     - **(H)** the Committee on the Judiciary of the House of Representatives;
     - **(I)** the Committee on Transportation and Infrastructure of the House of Representatives; and
     - **(J)** the Committee on Ways and Means of the House of Representatives.
-- **(d)** The Comptroller General of the United States shall submit an biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
+- **(d)** The Comptroller General of the United States shall submit an 3 3 So in original. Probably should be “a”. biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
   - **(1)** fee agreements entered into pursuant to section 301 of this title ;
   - **(2)** donation agreements entered into pursuant to subsections (a) and (b); and
   - **(3)** the fees and donations received by U.S. Customs and Border Protection pursuant to such agreements.

@@ -3,9 +3,9 @@ title: "Section 4654 - Litigation expenses"
 usc_title: 42
 usc_section: "4654"
 chapter: 61
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 4654"
-generated_at: "2026-03-29T22:51:40.122Z"
+generated_at: "2026-03-29T23:07:11.315Z"
 ---
 
 # § 4654. Litigation expenses

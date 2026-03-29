@@ -3,9 +3,9 @@ title: "Section 3073 - Protection of identity"
 usc_title: 18
 usc_section: "3073"
 chapter: 204
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 3073"
-generated_at: "2026-03-29T22:48:44.683Z"
+generated_at: "2026-03-29T23:04:35.666Z"
 ---
 
 # § 3073. Protection of identity

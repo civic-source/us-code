@@ -3,9 +3,9 @@ title: "Section 2208 - Prohibition against use of signed ballots"
 usc_title: 12
 usc_section: "2208"
 chapter: 23
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "12 U.S.C. § 2208"
-generated_at: "2026-03-29T22:48:29.545Z"
+generated_at: "2026-03-29T23:04:21.357Z"
 ---
 
 # § 2208. Prohibition against use of signed ballots

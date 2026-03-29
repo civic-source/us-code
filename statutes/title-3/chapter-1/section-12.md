@@ -3,9 +3,9 @@ title: "Section 12 - Failure of certificates of electors to reach President of t
 usc_title: 3
 usc_section: "12"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "3 U.S.C. § 12"
-generated_at: "2026-03-29T22:47:24.234Z"
+generated_at: "2026-03-29T23:02:32.545Z"
 ---
 
 # § 12. Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate

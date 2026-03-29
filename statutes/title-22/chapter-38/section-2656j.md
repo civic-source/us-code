@@ -3,9 +3,9 @@ title: "Section 2656j - Countering white identity terrorism globally"
 usc_title: 22
 usc_section: "2656j"
 chapter: 38
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 2656j"
-generated_at: "2026-03-29T22:49:19.952Z"
+generated_at: "2026-03-29T23:04:55.154Z"
 ---
 
 # § 2656j. Countering white identity terrorism globally

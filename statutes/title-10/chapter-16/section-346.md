@@ -3,9 +3,9 @@ title: "Section 346 - Distribution to certain foreign personnel of education and
 usc_title: 10
 usc_section: "346"
 chapter: 16
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 346"
-generated_at: "2026-03-29T22:47:53.127Z"
+generated_at: "2026-03-29T23:03:46.709Z"
 ---
 
 # § 346. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces

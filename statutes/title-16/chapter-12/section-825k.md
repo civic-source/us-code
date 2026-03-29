@@ -3,9 +3,9 @@ title: "Section 825k - Publication and sale of reports"
 usc_title: 16
 usc_section: "825k"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 825k"
-generated_at: "2026-03-29T22:48:52.894Z"
+generated_at: "2026-03-29T23:04:44.164Z"
 ---
 
 # § 825k. Publication and sale of reports

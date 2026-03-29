@@ -3,9 +3,9 @@ title: "Section 6516 - Sale of waste paper and condemned furniture"
 usc_title: 2
 usc_section: "6516"
 chapter: 65
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 6516"
-generated_at: "2026-03-29T22:47:36.261Z"
+generated_at: "2026-03-29T23:02:31.190Z"
 ---
 
 # § 6516. Sale of waste paper and condemned furniture

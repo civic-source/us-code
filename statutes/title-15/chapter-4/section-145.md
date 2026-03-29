@@ -3,9 +3,9 @@ title: "Section 145 - Certificate of incorporation"
 usc_title: 15
 usc_section: "145"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 145"
-generated_at: "2026-03-29T22:48:36.150Z"
+generated_at: "2026-03-29T23:04:11.531Z"
 ---
 
 # § 145. Certificate of incorporation

@@ -3,9 +3,9 @@ title: "Section 3708 - Temporary members of the Reserve; certificate of honorabl
 usc_title: 14
 usc_section: "3708"
 chapter: 37
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "14 U.S.C. § 3708"
-generated_at: "2026-03-29T22:48:24.121Z"
+generated_at: "2026-03-29T23:04:03.825Z"
 ---
 
 # § 3708. Temporary members of the Reserve; certificate of honorable service

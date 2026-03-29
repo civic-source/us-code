@@ -3,9 +3,9 @@ title: "Section 557a - Publication of pamphlets, maps, brochures, and other mate
 usc_title: 33
 usc_section: "557a"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "33 U.S.C. § 557a"
-generated_at: "2026-03-29T22:49:57.046Z"
+generated_at: "2026-03-29T23:06:21.395Z"
 ---
 
 # § 557a. Publication of pamphlets, maps, brochures, and other material

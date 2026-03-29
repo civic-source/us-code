@@ -3,9 +3,9 @@ title: "Section 1842 - Fishermen’s Contingency Fund"
 usc_title: 43
 usc_section: "1842"
 chapter: 36
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 1842"
-generated_at: "2026-03-29T22:50:31.045Z"
+generated_at: "2026-03-29T23:06:40.218Z"
 ---
 
 # § 1842. Fishermen’s Contingency Fund

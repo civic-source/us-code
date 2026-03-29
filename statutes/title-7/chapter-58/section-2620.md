@@ -3,9 +3,9 @@ title: "Section 2620 - Procedural rights of persons subject to plan"
 usc_title: 7
 usc_section: "2620"
 chapter: 58
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 2620"
-generated_at: "2026-03-29T22:48:19.899Z"
+generated_at: "2026-03-29T23:03:33.511Z"
 ---
 
 # § 2620. Procedural rights of persons subject to plan

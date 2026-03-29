@@ -3,9 +3,9 @@ title: "Section 3455 - Procurement of a major weapon system as a commercial prod
 usc_title: 10
 usc_section: "3455"
 chapter: 247
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 3455"
-generated_at: "2026-03-29T22:47:53.336Z"
+generated_at: "2026-03-29T23:03:46.936Z"
 ---
 
 # § 3455. Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress

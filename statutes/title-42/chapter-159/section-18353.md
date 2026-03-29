@@ -3,9 +3,9 @@ title: "Section 18353 - Maintenance of the United States segment and assurance o
 usc_title: 42
 usc_section: "18353"
 chapter: 159
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18353"
-generated_at: "2026-03-29T22:51:40.767Z"
+generated_at: "2026-03-29T23:07:11.971Z"
 ---
 
 # § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station.
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T22:51:40.767Z"
   - **(3)** The determination of the schedule and payload for the mission authorized by paragraph (1) shall take into account the following:
     - **(A)** The supply and logistics delivery requirements of the ISS.
     - **(B)** The findings of the study required by paragraph (2).
-  - **(4)** Amounts authorized to be appropriated by section 101(2)(B) 1 1 See References in Text note below. shall be available for the mission authorized by paragraph (1).
+  - **(4)** Amounts authorized to be appropriated by section 101(2)(B) 1 shall be available for the mission authorized by paragraph (1).
 - **(f)**
   - **(1)** The Administrator shall take all actions necessary to preserve Space Shuttle launch capability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010 .
   - **(2)** The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or the Space Launch System described in section 18322 of this title .

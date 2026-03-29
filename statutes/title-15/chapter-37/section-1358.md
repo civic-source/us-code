@@ -3,9 +3,9 @@ title: "Section 1358 - Consent of Congress for interstate compacts; reservation 
 usc_title: 15
 usc_section: "1358"
 chapter: 37
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 1358"
-generated_at: "2026-03-29T22:48:36.288Z"
+generated_at: "2026-03-29T23:04:11.646Z"
 ---
 
 # § 1358. Consent of Congress for interstate compacts; reservation of right to alter, amend, or repeal

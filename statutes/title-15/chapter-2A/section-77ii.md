@@ -3,9 +3,9 @@ title: "Section 77ii - Subscriptions accepted by Corporation as loans; repayment
 usc_title: 15
 usc_section: "77ii"
 chapter: 2
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 77ii"
-generated_at: "2026-03-29T22:48:36.059Z"
+generated_at: "2026-03-29T23:04:11.451Z"
 ---
 
 # § 77ii. Subscriptions accepted by Corporation as loans; repayment

@@ -3,9 +3,9 @@ title: "Section 85 - Suspension, revocation, and refusal to renew licenses; hear
 usc_title: 7
 usc_section: "85"
 chapter: 3
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 85"
-generated_at: "2026-03-29T22:48:19.618Z"
+generated_at: "2026-03-29T23:03:33.247Z"
 ---
 
 # § 85. Suspension, revocation, and refusal to renew licenses; hearing; grounds; temporary suspension

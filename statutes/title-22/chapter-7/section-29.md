@@ -3,9 +3,9 @@ title: "Section 29 - Rio Grande canalization project; flood and sediment control
 usc_title: 22
 usc_section: "29"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 29"
-generated_at: "2026-03-29T22:49:19.802Z"
+generated_at: "2026-03-29T23:04:55.024Z"
 ---
 
 # § 277d–29. Rio Grande canalization project; flood and sediment control; agreements authorized; control gates; costs; authorization of appropriations

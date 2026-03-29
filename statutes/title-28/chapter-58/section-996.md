@@ -3,9 +3,9 @@ title: "Section 996 - Director and staff"
 usc_title: 28
 usc_section: "996"
 chapter: 58
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "28 U.S.C. § 996"
-generated_at: "2026-03-29T22:49:25.425Z"
+generated_at: "2026-03-29T23:05:50.121Z"
 ---
 
 # § 996. Director and staff

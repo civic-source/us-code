@@ -3,9 +3,9 @@ title: "Section 2323 - Collection and publication of data and reports; informati
 usc_title: 19
 usc_section: "2323"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "19 U.S.C. § 2323"
-generated_at: "2026-03-29T22:48:58.860Z"
+generated_at: "2026-03-29T23:04:38.196Z"
 ---
 
 # § 2323. Collection and publication of data and reports; information to workers

@@ -3,9 +3,9 @@ title: "Section 16513 - Eligible projects"
 usc_title: 42
 usc_section: "16513"
 chapter: 149
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 16513"
-generated_at: "2026-03-29T22:51:40.715Z"
+generated_at: "2026-03-29T23:07:11.909Z"
 ---
 
 # § 16513. Eligible projects
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T22:51:40.715Z"
   - **(10)** Refineries, meaning facilities at which crude oil is refined into gasoline.
   - **(11)** Energy storage technologies for residential, industrial, transportation, and power generation applications.
   - **(12)** Technologies or processes for reducing greenhouse gas emissions from industrial applications, including iron, steel, cement, and ammonia production, hydrogen production, and the generation of high-temperature heat.
-  - **(13)** Projects that increase the domestically produced supply of critical minerals (as defined in section 1606(a) of title 30 , including through the production, processing, manufacturing, recycling, or fabrication of mineral alternatives.
+  - **(13)** Projects that increase the domestically produced supply of critical minerals (as defined in section 1606(a) of title 30 ), including through the production, processing, manufacturing, recycling, or fabrication of mineral alternatives.
 - **(c)** The Secretary may make guarantees for the following gasification projects:
   - **(1)** Integrated gasification combined cycle plants meeting the emission levels under subsection (d), including—
     - **(A)** projects for the generation of electricity—

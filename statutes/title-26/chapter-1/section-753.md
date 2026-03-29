@@ -3,9 +3,9 @@ title: "Section 753 - Partner receiving income in respect of decedent"
 usc_title: 26
 usc_section: "753"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 753"
-generated_at: "2026-03-29T22:49:48.798Z"
+generated_at: "2026-03-29T23:06:04.994Z"
 ---
 
 # § 753. Partner receiving income in respect of decedent

@@ -3,9 +3,9 @@ title: "Section 1403a - Expenditure of bond proceeds for public improvements"
 usc_title: 48
 usc_section: "1403a"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "48 U.S.C. § 1403a"
-generated_at: "2026-03-29T22:52:03.784Z"
+generated_at: "2026-03-29T23:07:16.348Z"
 ---
 
 # § 1403a. Expenditure of bond proceeds for public improvements

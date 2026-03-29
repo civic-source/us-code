@@ -3,9 +3,9 @@ title: "Section 50107 - Repayment"
 usc_title: 34
 usc_section: "50107"
 chapter: 501
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "34 U.S.C. § 50107"
-generated_at: "2026-03-29T22:50:01.876Z"
+generated_at: "2026-03-29T23:06:19.191Z"
 ---
 
 # § 50107. Repayment

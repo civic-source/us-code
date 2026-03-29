@@ -3,9 +3,9 @@ title: "Section 403b - Administration, protection, and development; Federal Powe
 usc_title: 16
 usc_section: "403b"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 403b"
-generated_at: "2026-03-29T22:48:52.600Z"
+generated_at: "2026-03-29T23:04:43.912Z"
 ---
 
 # § 403b. Administration, protection, and development; Federal Power Act inapplicable; minimum area

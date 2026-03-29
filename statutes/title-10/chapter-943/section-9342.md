@@ -3,9 +3,9 @@ title: "Section 9342 - Higher grade for service in special positions"
 usc_title: 10
 usc_section: "9342"
 chapter: 943
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 9342"
-generated_at: "2026-03-29T22:47:53.655Z"
+generated_at: "2026-03-29T23:03:47.027Z"
 ---
 
 # § 9342. Higher grade for service in special positions

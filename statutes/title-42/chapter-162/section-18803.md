@@ -3,9 +3,9 @@ title: "Section 18803 - Commercial building energy consumption information shari
 usc_title: 42
 usc_section: "18803"
 chapter: 162
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18803"
-generated_at: "2026-03-29T22:51:40.786Z"
+generated_at: "2026-03-29T23:07:11.987Z"
 ---
 
 # § 18803. Commercial building energy consumption information sharing
@@ -35,6 +35,6 @@ generated_at: "2026-03-29T22:51:40.786Z"
   - **(2)** is required to be publicly available on the internet under State and local government building energy disclosure laws (including regulations); and
   - **(3)** includes information on private sector buildings that are not less than 250,000 square feet.
 - **(e)** In carrying out the agreement, the Administrator and the Administrator of the Environmental Protection Agency shall protect information in accordance with—
-  - **(1)** section 552(b)(4) of title 5 (commonly known as the “Freedom of Information Act” 1 1 See References in Text note below. );
+  - **(1)** section 552(b)(4) of title 5 (commonly known as the “Freedom of Information Act”);
   - **(2)** subchapter III of chapter 35 of title 44; and
   - **(3)** any other applicable law (including regulations).

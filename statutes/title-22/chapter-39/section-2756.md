@@ -3,9 +3,9 @@ title: "Section 2756 - Foreign intimidation and harassment of individuals in Uni
 usc_title: 22
 usc_section: "2756"
 chapter: 39
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 2756"
-generated_at: "2026-03-29T22:49:19.967Z"
+generated_at: "2026-03-29T23:04:55.169Z"
 ---
 
 # § 2756. Foreign intimidation and harassment of individuals in United States

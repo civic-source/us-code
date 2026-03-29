@@ -3,9 +3,9 @@ title: "Section 3511 - Judicial review of requests for information"
 usc_title: 18
 usc_section: "3511"
 chapter: 223
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 3511"
-generated_at: "2026-03-29T22:48:44.698Z"
+generated_at: "2026-03-29T23:04:35.677Z"
 ---
 
 # § 3511. Judicial review of requests for information

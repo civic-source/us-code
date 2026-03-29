@@ -3,9 +3,9 @@ title: "Section 18792 - Energy efficiency revolving loan fund capitalization gra
 usc_title: 42
 usc_section: "18792"
 chapter: 162
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18792"
-generated_at: "2026-03-29T22:51:40.785Z"
+generated_at: "2026-03-29T23:07:11.986Z"
 ---
 
 # § 18792. Energy efficiency revolving loan fund capitalization grant program
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T22:51:40.785Z"
     - **(B)**
       - **(i)** A State that receives a capitalization grant under the program may provide a loan to an eligible recipient described in clause (iv) to conduct a residential energy audit.
       - **(ii)** A residential energy audit conducted using a loan under clause (i) shall—
-        - **(I)** utilize the same evaluation criteria as the Home Performance Assessment used in the Energy Star program established under section 324A of the Energy Policy and Conservation Act ( 42 U.S.C. 6294a );
+        - **(I)** utilize the same evaluation criteria as the Home Performance Assessment used in the Energy Star program established under section 6294a of this title ;
         - **(II)** recommend lifecycle cost-effective opportunities to reduce energy consumption within the residential building of the eligible recipient, including through energy efficient—
         - **(III)** recommend controls and management systems to reduce or redistribute peak energy consumption;
         - **(IV)** compare the energy consumption of the residential building of the eligible recipient to comparable residential buildings in the same geographic area; and
@@ -83,7 +83,7 @@ generated_at: "2026-03-29T22:51:40.785Z"
       - **(i)** a business that—
         - **(I)** is an eligible recipient described in paragraph (2)(A)(iv); and
         - **(II)** has fewer than 500 employees; or
-      - **(ii)** a low-income individual (as defined in section 3102 of this title ) that owns a residential building.
+      - **(ii)** a low-income individual (as defined in section 3102 of title 29 ) that owns a residential building.
   - **(4)** A State that provides a capitalization grant under paragraph (2)(C) to an eligible recipient described in clause (ii) of that paragraph may, not later than 1 year after the date on which the upgrades or retrofits funded by the grant under that paragraph are completed, provide to the eligible recipient a loan or, in accordance with paragraph (3), a grant to conduct a final energy audit that assesses the total energy savings from the upgrades or retrofits.
   - **(5)** A State that receives a capitalization grant under the program may use not more than 10 percent of the grant funds for administrative expenses.
 - **(f)** A State receiving a capitalization grant under the program is encouraged to utilize and build on existing programs and infrastructure within the State that may aid the State in carrying out a revolving loan fund program.

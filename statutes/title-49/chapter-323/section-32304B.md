@@ -3,9 +3,9 @@ title: "Section 32304B - Child safety"
 usc_title: 49
 usc_section: "32304B"
 chapter: 323
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "49 U.S.C. § 32304B"
-generated_at: "2026-03-29T22:52:18.618Z"
+generated_at: "2026-03-29T23:07:41.119Z"
 ---
 
 # § 32304B. Child safety

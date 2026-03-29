@@ -3,9 +3,9 @@ title: "Section 9243 - Report on and imposition of sanctions with respect to ser
 usc_title: 22
 usc_section: "9243"
 chapter: 99
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 9243"
-generated_at: "2026-03-29T22:49:20.145Z"
+generated_at: "2026-03-29T23:04:55.334Z"
 ---
 
 # § 9243. Report on and imposition of sanctions with respect to serious human rights abuses or censorship in North Korea

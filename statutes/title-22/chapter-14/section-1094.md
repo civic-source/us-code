@@ -3,9 +3,9 @@ title: "Section 1094 - Repealed. Pub. L. 94–350, title V, § 516 , July 12, 19
 usc_title: 22
 usc_section: "1094"
 chapter: 14
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 1094"
-generated_at: "2026-03-29T22:49:19.843Z"
+generated_at: "2026-03-29T23:04:55.060Z"
 ---
 
 # § 1094. Repealed. Pub. L. 94–350, title V, § 516 , July 12, 1976 , 90 Stat. 845

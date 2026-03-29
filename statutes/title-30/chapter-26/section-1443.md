@@ -3,9 +3,9 @@ title: "Section 1443 - Protection of interim investments"
 usc_title: 30
 usc_section: "1443"
 chapter: 26
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "30 U.S.C. § 1443"
-generated_at: "2026-03-29T22:49:26.381Z"
+generated_at: "2026-03-29T23:05:38.537Z"
 ---
 
 # § 1443. Protection of interim investments

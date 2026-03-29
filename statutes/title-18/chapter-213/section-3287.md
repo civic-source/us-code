@@ -3,9 +3,9 @@ title: "Section 3287 - Wartime suspension of limitations"
 usc_title: 18
 usc_section: "3287"
 chapter: 213
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 3287"
-generated_at: "2026-03-29T22:48:44.693Z"
+generated_at: "2026-03-29T23:04:35.673Z"
 ---
 
 # § 3287. Wartime suspension of limitations

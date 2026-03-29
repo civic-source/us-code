@@ -3,9 +3,9 @@ title: "Section 1300a - Omitted"
 usc_title: 25
 usc_section: "1300a"
 chapter: 14
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 1300a"
-generated_at: "2026-03-29T22:49:11.623Z"
+generated_at: "2026-03-29T23:04:57.093Z"
 ---
 
 # § 1300a. Omitted

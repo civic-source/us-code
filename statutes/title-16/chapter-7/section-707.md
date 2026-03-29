@@ -3,9 +3,9 @@ title: "Section 707 - Violations and penalties; forfeitures"
 usc_title: 16
 usc_section: "707"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 707"
-generated_at: "2026-03-29T22:48:52.855Z"
+generated_at: "2026-03-29T23:04:44.131Z"
 ---
 
 # § 707. Violations and penalties; forfeitures

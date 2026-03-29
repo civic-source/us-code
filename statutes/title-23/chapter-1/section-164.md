@@ -3,9 +3,9 @@ title: "Section 164 - Minimum penalties for repeat offenders for driving while i
 usc_title: 23
 usc_section: "164"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "23 U.S.C. § 164"
-generated_at: "2026-03-29T22:49:09.276Z"
+generated_at: "2026-03-29T23:05:01.898Z"
 ---
 
 # § 164. Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence

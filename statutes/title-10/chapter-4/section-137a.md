@@ -3,9 +3,9 @@ title: "Section 137a - Deputy Under Secretaries of Defense"
 usc_title: 10
 usc_section: "137a"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 137a"
-generated_at: "2026-03-29T22:47:53.102Z"
+generated_at: "2026-03-29T23:03:46.689Z"
 ---
 
 # § 137a. Deputy Under Secretaries of Defense

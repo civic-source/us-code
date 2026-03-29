@@ -3,9 +3,9 @@ title: "Section 4372 - Definitions"
 usc_title: 26
 usc_section: "4372"
 chapter: 34
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 4372"
-generated_at: "2026-03-29T22:49:48.942Z"
+generated_at: "2026-03-29T23:06:05.112Z"
 ---
 
 # § 4372. Definitions

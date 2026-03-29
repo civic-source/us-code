@@ -3,9 +3,9 @@ title: "Section 923a - Enrollment of certain additional children on tuition-free
 usc_title: 20
 usc_section: "923a"
 chapter: 25
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "20 U.S.C. § 923a"
-generated_at: "2026-03-29T22:49:03.436Z"
+generated_at: "2026-03-29T23:04:33.492Z"
 ---
 
 # § 923a. Enrollment of certain additional children on tuition-free basis

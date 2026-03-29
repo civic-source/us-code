@@ -3,9 +3,9 @@ title: "Section 1006 - Technical requirements and standards; extension of compli
 usc_title: 47
 usc_section: "1006"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "47 U.S.C. § 1006"
-generated_at: "2026-03-29T22:52:02.117Z"
+generated_at: "2026-03-29T23:07:17.574Z"
 ---
 
 # § 1006. Technical requirements and standards; extension of compliance date

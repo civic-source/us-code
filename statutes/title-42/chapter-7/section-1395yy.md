@@ -3,9 +3,9 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-29T22:51:39.728Z"
+generated_at: "2026-03-29T23:07:10.951Z"
 ---
 
 # § 1395yy. Payment to skilled nursing facilities for routine service costs

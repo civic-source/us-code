@@ -3,9 +3,9 @@ title: "Section 14102 - Leased motor vehicles"
 usc_title: 49
 usc_section: "14102"
 chapter: 141
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "49 U.S.C. § 14102"
-generated_at: "2026-03-29T22:52:18.543Z"
+generated_at: "2026-03-29T23:07:41.056Z"
 ---
 
 # § 14102. Leased motor vehicles

@@ -3,9 +3,9 @@ title: "Section 2706 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(22)(
 usc_title: 10
 usc_section: "2706"
 chapter: 160
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 2706"
-generated_at: "2026-03-29T22:47:53.299Z"
+generated_at: "2026-03-29T23:03:46.901Z"
 ---
 
 # [§ 2706. Repealed. Pub. L. 112–81, div. A, title X, § 1061(22)(A) , Dec. 31, 2011 , 125 Stat. 1584 ]

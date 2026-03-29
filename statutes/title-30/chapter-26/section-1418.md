@@ -3,9 +3,9 @@ title: "Section 1418 - Diligence requirements"
 usc_title: 30
 usc_section: "1418"
 chapter: 26
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "30 U.S.C. § 1418"
-generated_at: "2026-03-29T22:49:26.379Z"
+generated_at: "2026-03-29T23:05:38.536Z"
 ---
 
 # § 1418. Diligence requirements

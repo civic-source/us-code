@@ -3,9 +3,9 @@ title: "Section 2252C - Misleading words or digital images on the Internet"
 usc_title: 18
 usc_section: "2252C"
 chapter: 110
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 2252C"
-generated_at: "2026-03-29T22:48:44.653Z"
+generated_at: "2026-03-29T23:04:35.640Z"
 ---
 
 # § 2252C. Misleading words or digital images on the Internet

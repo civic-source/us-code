@@ -3,9 +3,9 @@ title: "Section 597 - Chief Medical Officer"
 usc_title: 6
 usc_section: "597"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 597"
-generated_at: "2026-03-29T22:48:07.103Z"
+generated_at: "2026-03-29T23:03:09.158Z"
 ---
 
 # § 597. Chief Medical Officer

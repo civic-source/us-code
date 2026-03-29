@@ -3,9 +3,9 @@ title: "Section 50e - USGS energy and minerals research facility"
 usc_title: 43
 usc_section: "50e"
 chapter: 2
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 50e"
-generated_at: "2026-03-29T22:50:30.904Z"
+generated_at: "2026-03-29T23:06:40.092Z"
 ---
 
 # § 50e. USGS energy and minerals research facility

@@ -3,9 +3,9 @@ title: "Section 40 - Establishment of Office"
 usc_title: 42
 usc_section: "40"
 chapter: 6
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 40"
-generated_at: "2026-03-29T22:51:39.321Z"
+generated_at: "2026-03-29T23:07:10.578Z"
 ---
 
 # § 300cc–40. Establishment of Office

@@ -3,9 +3,9 @@ title: "Section 3174 - Provision of comprehensive economic development strategie
 usc_title: 42
 usc_section: "3174"
 chapter: 38
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 3174"
-generated_at: "2026-03-29T22:51:40.070Z"
+generated_at: "2026-03-29T23:07:11.267Z"
 ---
 
 # § 3174. Provision of comprehensive economic development strategies to Regional Commissions

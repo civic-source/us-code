@@ -3,9 +3,9 @@ title: "Section 8247 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8247"
 chapter: 70
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "20 U.S.C. § 8247"
-generated_at: "2026-03-29T22:49:03.785Z"
+generated_at: "2026-03-29T23:04:33.774Z"
 ---
 
 # §§ 8241 to 8247. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986

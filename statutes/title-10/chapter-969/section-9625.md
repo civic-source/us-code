@@ -3,9 +3,9 @@ title: "Section 9625 - Ordnance property: officers of the armed forces; civilian
 usc_title: 10
 usc_section: "9625"
 chapter: 969
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 9625"
-generated_at: "2026-03-29T22:47:53.668Z"
+generated_at: "2026-03-29T23:03:47.034Z"
 ---
 
 # § 9625. Ordnance property: officers of the armed forces; civilian employees of the Department of the Air Force; American National Red Cross; educational institutions; homes for veterans’ orphans

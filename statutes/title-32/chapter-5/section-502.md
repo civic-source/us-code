@@ -3,9 +3,9 @@ title: "Section 502 - Required drills and field exercises"
 usc_title: 32
 usc_section: "502"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "32 U.S.C. § 502"
-generated_at: "2026-03-29T22:49:51.418Z"
+generated_at: "2026-03-29T23:06:17.236Z"
 ---
 
 # § 502. Required drills and field exercises

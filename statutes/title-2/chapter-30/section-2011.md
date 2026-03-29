@@ -3,9 +3,9 @@ title: "Section 2011 - Assignment of unoccupied space"
 usc_title: 2
 usc_section: "2011"
 chapter: 30
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 2011"
-generated_at: "2026-03-29T22:47:36.229Z"
+generated_at: "2026-03-29T23:02:31.153Z"
 ---
 
 # § 2011. Assignment of unoccupied space

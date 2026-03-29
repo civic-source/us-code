@@ -3,9 +3,9 @@ title: "Section 2106 - Administration"
 usc_title: 20
 usc_section: "2106"
 chapter: 43
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "20 U.S.C. § 2106"
-generated_at: "2026-03-29T22:49:03.644Z"
+generated_at: "2026-03-29T23:04:33.675Z"
 ---
 
 # § 2106. Administration

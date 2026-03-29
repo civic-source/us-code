@@ -3,9 +3,9 @@ title: "Section 3503 - Procurement authorities"
 usc_title: 50
 usc_section: "3503"
 chapter: 46
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 3503"
-generated_at: "2026-03-29T22:52:07.259Z"
+generated_at: "2026-03-29T23:07:21.176Z"
 ---
 
 # § 3503. Procurement authorities

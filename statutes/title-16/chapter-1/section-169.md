@@ -3,9 +3,9 @@ title: "Section 169 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 16
 usc_section: "169"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 169"
-generated_at: "2026-03-29T22:48:52.572Z"
+generated_at: "2026-03-29T23:04:43.888Z"
 ---
 
 # § 169. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

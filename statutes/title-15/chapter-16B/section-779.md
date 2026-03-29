@@ -3,9 +3,9 @@ title: "Section 779 - Coordination with, and technical assistance to, State gove
 usc_title: 15
 usc_section: "779"
 chapter: 16
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 779"
-generated_at: "2026-03-29T22:48:36.263Z"
+generated_at: "2026-03-29T23:04:11.622Z"
 ---
 
 # § 779. Coordination with, and technical assistance to, State governments

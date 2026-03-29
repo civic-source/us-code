@@ -3,9 +3,9 @@ title: "Section 363 - Repealed. June 14, 1926, ch. 578, § 5 , as added June 4, 
 usc_title: 48
 usc_section: "363"
 chapter: 2
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "48 U.S.C. § 363"
-generated_at: "2026-03-29T22:52:03.774Z"
+generated_at: "2026-03-29T23:07:16.342Z"
 ---
 
 # § 363. Repealed. June 14, 1926, ch. 578, § 5 , as added June 4, 1954, ch. 263 , 68 Stat. 175

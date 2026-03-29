@@ -3,9 +3,9 @@ title: "Section 4713 - Authorities relating to mitigating supply chain risks in 
 usc_title: 41
 usc_section: "4713"
 chapter: 47
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "41 U.S.C. § 4713"
-generated_at: "2026-03-29T22:50:33.543Z"
+generated_at: "2026-03-29T23:06:50.035Z"
 ---
 
 # § 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles

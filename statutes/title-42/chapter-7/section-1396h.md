@@ -3,9 +3,9 @@ title: "Section 1396h - State false claims act requirements for increased State 
 usc_title: 42
 usc_section: "1396h"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 1396h"
-generated_at: "2026-03-29T22:51:39.765Z"
+generated_at: "2026-03-29T23:07:10.987Z"
 ---
 
 # § 1396h. State false claims act requirements for increased State share of recoveries

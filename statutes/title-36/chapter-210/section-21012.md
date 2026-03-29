@@ -3,9 +3,9 @@ title: "Section 21012 - Annual report"
 usc_title: 36
 usc_section: "21012"
 chapter: 210
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 21012"
-generated_at: "2026-03-29T22:50:25.200Z"
+generated_at: "2026-03-29T23:06:36.567Z"
 ---
 
 # § 21012. Annual report

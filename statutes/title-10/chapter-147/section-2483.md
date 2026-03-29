@@ -3,9 +3,9 @@ title: "Section 2483 - Commissary stores: use of appropriated funds to cover ope
 usc_title: 10
 usc_section: "2483"
 chapter: 147
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 2483"
-generated_at: "2026-03-29T22:47:53.276Z"
+generated_at: "2026-03-29T23:03:46.877Z"
 ---
 
 # § 2483. Commissary stores: use of appropriated funds to cover operating expenses

@@ -3,9 +3,9 @@ title: "Section 16091 - Clean school bus program"
 usc_title: 42
 usc_section: "16091"
 chapter: 149
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 16091"
-generated_at: "2026-03-29T22:51:40.681Z"
+generated_at: "2026-03-29T23:07:11.870Z"
 ---
 
 # § 16091. Clean school bus program
@@ -88,7 +88,7 @@ generated_at: "2026-03-29T22:51:40.681Z"
       - **(ii)** the build-out of associated infrastructure and advance planning with the local electricity supplier;
       - **(iii)** workforce development, training, and Registered Apprenticeships that meet the requirements under parts 29 and 30 of title 29, Code of Federal Regulations (as in effect on December 1, 2019 ); and
       - **(iv)** any other information that is necessary, as determined by the Administrator; and
-    - **(E)** include, as appropriate, information from the annual report required under subsection (b)(7). 1 1 So in original. Probably should be “subsection (b)(8).”.
+    - **(E)** include, as appropriate, information from the annual report required under subsection (b)(7). 1 1 So in original. Probably should be “subsection (b)(8).”
 - **(d)** The Administrator may use, for the administrative costs of carrying out this section, not more than 3 percent of the amounts made available to carry out this section for any fiscal year.
 - **(e)** The Administrator shall have the authority to issue such regulations or other guidance, forms, instructions, and publications as may be necessary or appropriate to carry out the programs, projects, or activities authorized under this section, including to ensure that such programs, projects, or activities are completed in a timely and effective manner, result in emissions reductions, and maximize public health benefits.
 - **(f)** There is authorized to be appropriated to the Administrator to carry out this section, to remain available until expended, $1,000,000,000 for each of fiscal years 2022 through 2026, of which—

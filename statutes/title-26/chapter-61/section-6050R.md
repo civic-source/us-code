@@ -3,9 +3,9 @@ title: "Section 6050R - Returns relating to certain purchases of fish"
 usc_title: 26
 usc_section: "6050R"
 chapter: 61
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 6050R"
-generated_at: "2026-03-29T22:49:49.014Z"
+generated_at: "2026-03-29T23:06:05.166Z"
 ---
 
 # § 6050R. Returns relating to certain purchases of fish

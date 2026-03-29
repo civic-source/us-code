@@ -3,9 +3,9 @@ title: "Section 8811 - National Quantum Initiative Program"
 usc_title: 15
 usc_section: "8811"
 chapter: 114
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 8811"
-generated_at: "2026-03-29T22:48:36.504Z"
+generated_at: "2026-03-29T23:04:11.829Z"
 ---
 
 # § 8811. National Quantum Initiative Program

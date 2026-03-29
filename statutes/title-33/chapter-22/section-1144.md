@@ -3,9 +3,9 @@ title: "Section 1144 - Funding"
 usc_title: 33
 usc_section: "1144"
 chapter: 22
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "33 U.S.C. § 1144"
-generated_at: "2026-03-29T22:49:57.087Z"
+generated_at: "2026-03-29T23:06:21.431Z"
 ---
 
 # § 1144. Funding

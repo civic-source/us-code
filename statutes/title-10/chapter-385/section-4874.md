@@ -3,9 +3,9 @@ title: "Section 4874 - Award of certain contracts to entities controlled by a fo
 usc_title: 10
 usc_section: "4874"
 chapter: 385
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 4874"
-generated_at: "2026-03-29T22:47:53.373Z"
+generated_at: "2026-03-29T23:03:46.972Z"
 ---
 
 # § 4874. Award of certain contracts to entities controlled by a foreign government: prohibition

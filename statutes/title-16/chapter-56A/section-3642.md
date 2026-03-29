@@ -3,9 +3,9 @@ title: "Section 3642 - Disposition of property of International Pacific Salmon F
 usc_title: 16
 usc_section: "3642"
 chapter: 56
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 3642"
-generated_at: "2026-03-29T22:48:53.063Z"
+generated_at: "2026-03-29T23:04:44.307Z"
 ---
 
 # § 3642. Disposition of property of International Pacific Salmon Fisheries Commission

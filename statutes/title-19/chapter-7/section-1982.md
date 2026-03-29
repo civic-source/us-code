@@ -3,9 +3,9 @@ title: "Section 1982 - Marketing agreements"
 usc_title: 19
 usc_section: "1982"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "19 U.S.C. § 1982"
-generated_at: "2026-03-29T22:48:58.842Z"
+generated_at: "2026-03-29T23:04:38.176Z"
 ---
 
 # § 1982. Marketing agreements

@@ -3,9 +3,9 @@ title: "Section 22904 - Membership"
 usc_title: 36
 usc_section: "22904"
 chapter: 229
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 22904"
-generated_at: "2026-03-29T22:50:25.203Z"
+generated_at: "2026-03-29T23:06:36.570Z"
 ---
 
 # § 22904. Membership

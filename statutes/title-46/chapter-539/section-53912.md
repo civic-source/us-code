@@ -3,9 +3,9 @@ title: "Section 53912 - Repealed. Pub. L. 115–232, div. C, title XXXV, § 3504
 usc_title: 46
 usc_section: "53912"
 chapter: 539
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "46 U.S.C. § 53912"
-generated_at: "2026-03-29T22:51:53.658Z"
+generated_at: "2026-03-29T23:07:23.802Z"
 ---
 
 # [§ 53912. Repealed. Pub. L. 115–232, div. C, title XXXV, § 3504(a) , Aug. 13, 2018 , 132 Stat. 2308 ]

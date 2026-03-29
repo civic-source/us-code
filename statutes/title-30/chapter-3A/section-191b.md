@@ -3,9 +3,9 @@ title: "Section 191b - Collection of unpaid and underpaid royalties and late pay
 usc_title: 30
 usc_section: "191b"
 chapter: 3
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "30 U.S.C. § 191b"
-generated_at: "2026-03-29T22:49:26.317Z"
+generated_at: "2026-03-29T23:05:38.451Z"
 ---
 
 # § 191b. Collection of unpaid and underpaid royalties and late payment interest owed by lessees

@@ -3,9 +3,9 @@ title: "Section 3369a - Report on deepfake technology, foreign weaponization of 
 usc_title: 50
 usc_section: "3369a"
 chapter: 45
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 3369a"
-generated_at: "2026-03-29T22:52:07.255Z"
+generated_at: "2026-03-29T23:07:21.173Z"
 ---
 
 # § 3369a. Report on deepfake technology, foreign weaponization of deepfakes, and related notifications

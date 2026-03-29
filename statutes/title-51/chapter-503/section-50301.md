@@ -3,9 +3,9 @@ title: "Section 50301 - Definitions"
 usc_title: 51
 usc_section: "50301"
 chapter: 503
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "51 U.S.C. § 50301"
-generated_at: "2026-03-29T22:52:36.510Z"
+generated_at: "2026-03-29T23:07:44.637Z"
 ---
 
 # § 50301. Definitions

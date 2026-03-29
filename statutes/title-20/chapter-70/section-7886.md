@@ -3,9 +3,9 @@ title: "Section 7886 - Private, religious, and home schools"
 usc_title: 20
 usc_section: "7886"
 chapter: 70
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "20 U.S.C. § 7886"
-generated_at: "2026-03-29T22:49:03.778Z"
+generated_at: "2026-03-29T23:04:33.770Z"
 ---
 
 # § 7886. Private, religious, and home schools

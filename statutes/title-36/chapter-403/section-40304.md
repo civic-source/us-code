@@ -3,9 +3,9 @@ title: "Section 40304 - Powers"
 usc_title: 36
 usc_section: "40304"
 chapter: 403
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 40304"
-generated_at: "2026-03-29T22:50:25.208Z"
+generated_at: "2026-03-29T23:06:36.574Z"
 ---
 
 # § 40304. Powers

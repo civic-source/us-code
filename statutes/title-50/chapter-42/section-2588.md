@@ -3,9 +3,9 @@ title: "Section 2588 - Public participation in planning for defense environmenta
 usc_title: 50
 usc_section: "2588"
 chapter: 42
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 2588"
-generated_at: "2026-03-29T22:52:07.195Z"
+generated_at: "2026-03-29T23:07:21.125Z"
 ---
 
 # § 2588. Public participation in planning for defense environmental cleanup

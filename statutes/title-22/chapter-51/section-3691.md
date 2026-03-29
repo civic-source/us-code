@@ -3,9 +3,9 @@ title: "Section 3691 - Individuals considered employees"
 usc_title: 22
 usc_section: "3691"
 chapter: 51
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 3691"
-generated_at: "2026-03-29T22:49:19.991Z"
+generated_at: "2026-03-29T23:04:55.193Z"
 ---
 
 # § 3691. Individuals considered employees

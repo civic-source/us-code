@@ -3,9 +3,9 @@ title: "Section 3404 - Transfer of facilities of United States Sinai Field Missi
 usc_title: 22
 usc_section: "3404"
 chapter: 49
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 3404"
-generated_at: "2026-03-29T22:49:19.985Z"
+generated_at: "2026-03-29T23:04:55.187Z"
 ---
 
 # § 3404. Transfer of facilities of United States Sinai Field Mission to Egypt

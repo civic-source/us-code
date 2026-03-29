@@ -3,9 +3,9 @@ title: "Section 5141 - Operation of the Bureau"
 usc_title: 31
 usc_section: "5141"
 chapter: 51
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "31 U.S.C. § 5141"
-generated_at: "2026-03-29T22:49:54.639Z"
+generated_at: "2026-03-29T23:06:28.408Z"
 ---
 
 # § 5141. Operation of the Bureau

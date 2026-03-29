@@ -3,9 +3,9 @@ title: "Section 192 - Transferred"
 usc_title: 50
 usc_section: "192"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 192"
-generated_at: "2026-03-29T22:52:07.128Z"
+generated_at: "2026-03-29T23:07:21.068Z"
 ---
 
 # § 192. Transferred

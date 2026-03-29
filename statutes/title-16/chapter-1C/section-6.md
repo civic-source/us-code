@@ -3,9 +3,9 @@ title: "Section 6 - Civil penalties"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T22:48:52.772Z"
+generated_at: "2026-03-29T23:04:44.065Z"
 ---
 
 # § 470aaa–6. Civil penalties

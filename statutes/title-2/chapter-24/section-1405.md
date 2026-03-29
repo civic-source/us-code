@@ -3,9 +3,9 @@ title: "Section 1405 - Hearing"
 usc_title: 2
 usc_section: "1405"
 chapter: 24
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 1405"
-generated_at: "2026-03-29T22:47:36.205Z"
+generated_at: "2026-03-29T23:02:31.132Z"
 ---
 
 # § 1405. Hearing

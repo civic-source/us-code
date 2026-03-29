@@ -3,9 +3,9 @@ title: "Section 18725 - Cybersecurity plan"
 usc_title: 42
 usc_section: "18725"
 chapter: 162
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18725"
-generated_at: "2026-03-29T22:51:40.779Z"
+generated_at: "2026-03-29T23:07:11.979Z"
 ---
 
 # § 18725. Cybersecurity plan
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T22:51:40.779Z"
   - **(1)** maximize the use of open guidance and standards, including, wherever possible—
     - **(A)** the Cybersecurity Capability Maturity Model of the Department (or a successor model); and
     - **(B)** the Framework for Improving Critical Infrastructure Cybersecurity of the National Institute of Standards and Technology; and
-  - **(2)** document —
+  - **(2)** document—
     - **(A)** any deviation from open standards; and
     - **(B)** the utilization of proprietary standards where the recipient determines that such deviation necessary.
 - **(d)** The Office of Cybersecurity, Energy Security, and Emergency Response of the Department shall review each cybersecurity plan submitted under subsection (a) to ensure integration with Department research, development, and demonstration programs.

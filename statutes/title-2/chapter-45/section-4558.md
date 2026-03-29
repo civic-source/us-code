@@ -3,9 +3,9 @@ title: "Section 4558 - Withholding of charitable contributions; definitions"
 usc_title: 2
 usc_section: "4558"
 chapter: 45
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 4558"
-generated_at: "2026-03-29T22:47:36.246Z"
+generated_at: "2026-03-29T23:02:31.171Z"
 ---
 
 # § 4558. Withholding of charitable contributions; definitions

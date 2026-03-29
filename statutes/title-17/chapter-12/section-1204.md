@@ -3,9 +3,9 @@ title: "Section 1204 - Criminal offenses and penalties"
 usc_title: 17
 usc_section: "1204"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "17 U.S.C. § 1204"
-generated_at: "2026-03-29T22:48:41.869Z"
+generated_at: "2026-03-29T23:04:24.672Z"
 ---
 
 # § 1204. Criminal offenses and penalties

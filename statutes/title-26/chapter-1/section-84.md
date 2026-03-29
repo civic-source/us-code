@@ -3,9 +3,9 @@ title: "Section 84 - Transfer of appreciated property to political organizations
 usc_title: 26
 usc_section: "84"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 84"
-generated_at: "2026-03-29T22:49:48.589Z"
+generated_at: "2026-03-29T23:06:04.838Z"
 ---
 
 # § 84. Transfer of appreciated property to political organizations

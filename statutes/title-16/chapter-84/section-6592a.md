@@ -3,9 +3,9 @@ title: "Section 6592a - Ecosystem restoration"
 usc_title: 16
 usc_section: "6592a"
 chapter: 84
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 6592a"
-generated_at: "2026-03-29T22:48:53.119Z"
+generated_at: "2026-03-29T23:04:44.366Z"
 ---
 
 # § 6592a. Ecosystem restoration
@@ -64,7 +64,7 @@ generated_at: "2026-03-29T22:48:53.119Z"
         - **(II)** does substantially decrease the cost of conducting ecological restoration projects involving vegetation removal on the unit; or
       - **(ii)** that has received financial assistance under paragraph (3).
 - **(e)**
-  - **(1)** Of the amounts made available under subsection (b)(7), $45,000,000 shall be made available to the Secretary of the Interior and $35,000,000 shall be made available the Secretary of Agriculture to restore, prepare, or adapt recreation sites on Federal land, including Indian forest land or rangeland, that have experienced or may likely experience visitation and use beyond the carrying capacity of the sites.
+  - **(1)** Of the amounts made available under subsection (b)(7), $45,000,000 shall be made available to the Secretary of the Interior and $35,000,000 shall be made available the 1 1 So in original. Probably should be preceded by “to”. Secretary of Agriculture to restore, prepare, or adapt recreation sites on Federal land, including Indian forest land or rangeland, that have experienced or may likely experience visitation and use beyond the carrying capacity of the sites.
   - **(2)**
     - **(A)** Of the amounts made available under subsection (b)(7), $20,000,000 shall be made available to the Secretary of Agriculture for—
       - **(i)** the operation, repair, reconstruction, and construction of public use recreation cabins on National Forest System land; and

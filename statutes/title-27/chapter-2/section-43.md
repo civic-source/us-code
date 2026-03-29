@@ -3,9 +3,9 @@ title: "Section 43 - Repealed. Aug. 27, 1935, ch. 740 , title III, § 308(a), 49
 usc_title: 27
 usc_section: "43"
 chapter: 2
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "27 U.S.C. § 43"
-generated_at: "2026-03-29T22:49:22.872Z"
+generated_at: "2026-03-29T23:05:43.847Z"
 ---
 
 # §§ 41 to 43. Repealed. Aug. 27, 1935, ch. 740 , title III, § 308(a), 49 Stat. 880

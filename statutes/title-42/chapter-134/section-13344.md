@@ -3,9 +3,9 @@ title: "Section 13344 - Rare earth elements"
 usc_title: 42
 usc_section: "13344"
 chapter: 134
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 13344"
-generated_at: "2026-03-29T22:51:40.634Z"
+generated_at: "2026-03-29T23:07:11.811Z"
 ---
 
 # § 13344. Rare earth elements

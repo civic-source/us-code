@@ -3,9 +3,9 @@ title: "Section 1747 - Authorization of appropriations; determination of value o
 usc_title: 7
 usc_section: "1747"
 chapter: 42
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 1747"
-generated_at: "2026-03-29T22:48:19.820Z"
+generated_at: "2026-03-29T23:03:33.420Z"
 ---
 
 # § 1747. Authorization of appropriations; determination of value of transferred commodity

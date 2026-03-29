@@ -3,9 +3,9 @@ title: "Section 1512 - Apportionment and reserves"
 usc_title: 31
 usc_section: "1512"
 chapter: 15
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "31 U.S.C. § 1512"
-generated_at: "2026-03-29T22:49:54.600Z"
+generated_at: "2026-03-29T23:06:28.384Z"
 ---
 
 # § 1512. Apportionment and reserves

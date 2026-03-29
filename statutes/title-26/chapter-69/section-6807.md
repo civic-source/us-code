@@ -3,9 +3,9 @@ title: "Section 6807 - Stamping, marking, and branding seized goods"
 usc_title: 26
 usc_section: "6807"
 chapter: 69
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 6807"
-generated_at: "2026-03-29T22:49:49.071Z"
+generated_at: "2026-03-29T23:06:05.215Z"
 ---
 
 # § 6807. Stamping, marking, and branding seized goods

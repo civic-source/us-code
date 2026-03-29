@@ -3,9 +3,9 @@ title: "Section 356g - Standards for regenerative medicine and regenerative adva
 usc_title: 21
 usc_section: "356g"
 chapter: 9
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "21 U.S.C. § 356g"
-generated_at: "2026-03-29T22:49:14.025Z"
+generated_at: "2026-03-29T23:05:33.690Z"
 ---
 
 # § 356g. Standards for regenerative medicine and regenerative advanced therapies

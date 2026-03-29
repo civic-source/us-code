@@ -3,9 +3,9 @@ title: "Section 20146 - Retrocession of jurisdiction"
 usc_title: 51
 usc_section: "20146"
 chapter: 201
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "51 U.S.C. § 20146"
-generated_at: "2026-03-29T22:52:36.496Z"
+generated_at: "2026-03-29T23:07:44.627Z"
 ---
 
 # § 20146. Retrocession of jurisdiction

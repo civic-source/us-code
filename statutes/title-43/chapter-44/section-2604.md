@@ -3,9 +3,9 @@ title: "Section 2604 - Rules and regulations generally; consultation and agreeme
 usc_title: 43
 usc_section: "2604"
 chapter: 44
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 2604"
-generated_at: "2026-03-29T22:50:31.055Z"
+generated_at: "2026-03-29T23:06:40.229Z"
 ---
 
 # § 2604. Rules and regulations generally; consultation and agreements with other agencies regarding fire regulations

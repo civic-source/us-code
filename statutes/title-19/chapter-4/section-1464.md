@@ -3,9 +3,9 @@ title: "Section 1464 - Penalties in connection with sealed vessels and vehicles 
 usc_title: 19
 usc_section: "1464"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "19 U.S.C. § 1464"
-generated_at: "2026-03-29T22:48:58.794Z"
+generated_at: "2026-03-29T23:04:38.123Z"
 ---
 
 # § 1464. Penalties in connection with sealed vessels and vehicles 1 1 See Codification note below.

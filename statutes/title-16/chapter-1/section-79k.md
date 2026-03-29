@@ -3,9 +3,9 @@ title: "Section 79k - Mitigation of adverse economic impacts to local economy re
 usc_title: 16
 usc_section: "79k"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 79k"
-generated_at: "2026-03-29T22:48:52.559Z"
+generated_at: "2026-03-29T23:04:43.877Z"
 ---
 
 # § 79k. Mitigation of adverse economic impacts to local economy resulting from additional lands; analysis of Federal actions necessary or desirable; consultations and considerations by Secretaries concerned; reports to Congress; implementation of programs; funding requirements

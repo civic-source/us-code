@@ -3,9 +3,9 @@ title: "Section 102 - Construction; severability"
 usc_title: 6
 usc_section: "102"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 102"
-generated_at: "2026-03-29T22:48:07.028Z"
+generated_at: "2026-03-29T23:03:09.106Z"
 ---
 
 # § 102. Construction; severability

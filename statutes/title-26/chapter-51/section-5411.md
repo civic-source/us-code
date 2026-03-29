@@ -3,9 +3,9 @@ title: "Section 5411 - Use of brewery"
 usc_title: 26
 usc_section: "5411"
 chapter: 51
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 5411"
-generated_at: "2026-03-29T22:49:48.987Z"
+generated_at: "2026-03-29T23:06:05.147Z"
 ---
 
 # § 5411. Use of brewery

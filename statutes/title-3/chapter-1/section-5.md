@@ -3,9 +3,9 @@ title: "Section 5 - Determination of controversy as to appointment of electors"
 usc_title: 3
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "3 U.S.C. § 5"
-generated_at: "2026-03-29T22:47:24.234Z"
+generated_at: "2026-03-29T23:02:32.544Z"
 ---
 
 # § 5. Determination of controversy as to appointment of electors

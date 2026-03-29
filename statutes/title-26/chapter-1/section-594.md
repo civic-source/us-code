@@ -3,9 +3,9 @@ title: "Section 594 - Alternative tax for mutual savings banks conducting life i
 usc_title: 26
 usc_section: "594"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 594"
-generated_at: "2026-03-29T22:49:48.782Z"
+generated_at: "2026-03-29T23:06:04.982Z"
 ---
 
 # § 594. Alternative tax for mutual savings banks conducting life insurance business

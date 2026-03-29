@@ -3,9 +3,9 @@ title: "Section 262k - Financial assistance to international financial instituti
 usc_title: 22
 usc_section: "262k"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 262k"
-generated_at: "2026-03-29T22:49:19.786Z"
+generated_at: "2026-03-29T23:04:55.009Z"
 ---
 
 # § 262k. Financial assistance to international financial institutions; considerations and criteria

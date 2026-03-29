@@ -3,9 +3,9 @@ title: "Section 2038 - Revocable transfers"
 usc_title: 26
 usc_section: "2038"
 chapter: 11
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 2038"
-generated_at: "2026-03-29T22:49:48.901Z"
+generated_at: "2026-03-29T23:06:05.077Z"
 ---
 
 # § 2038. Revocable transfers

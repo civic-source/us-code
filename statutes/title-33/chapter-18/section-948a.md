@@ -3,9 +3,9 @@ title: "Section 948a - Discrimination against employees who bring proceedings; p
 usc_title: 33
 usc_section: "948a"
 chapter: 18
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "33 U.S.C. § 948a"
-generated_at: "2026-03-29T22:49:57.083Z"
+generated_at: "2026-03-29T23:06:21.428Z"
 ---
 
 # § 948a. Discrimination against employees who bring proceedings; penalties; deposit of payments in special fund; civil actions; entitlement to restoration of employment and compensation, qualifications requirement; liability of employer for penalties and payments; insurance policy exemption from liability

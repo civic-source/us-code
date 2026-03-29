@@ -3,9 +3,9 @@ title: "Section 481 - Short title; findings; and sense of Congress"
 usc_title: 6
 usc_section: "481"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 481"
-generated_at: "2026-03-29T22:48:07.092Z"
+generated_at: "2026-03-29T23:03:09.149Z"
 ---
 
 # § 481. Short title; findings; and sense of Congress

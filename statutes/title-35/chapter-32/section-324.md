@@ -3,9 +3,9 @@ title: "Section 324 - Institution of post-grant review"
 usc_title: 35
 usc_section: "324"
 chapter: 32
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "35 U.S.C. § 324"
-generated_at: "2026-03-29T22:49:51.931Z"
+generated_at: "2026-03-29T23:06:22.810Z"
 ---
 
 # § 324. Institution of post-grant review

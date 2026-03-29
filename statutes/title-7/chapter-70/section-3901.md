@@ -3,9 +3,9 @@ title: "Section 3901 - Congressional findings"
 usc_title: 7
 usc_section: "3901"
 chapter: 70
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 3901"
-generated_at: "2026-03-29T22:48:19.929Z"
+generated_at: "2026-03-29T23:03:33.549Z"
 ---
 
 # § 3901. Congressional findings

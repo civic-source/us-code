@@ -3,9 +3,9 @@ title: "Section 9824 - Increasing transparency by removing gag clauses on price 
 usc_title: 26
 usc_section: "9824"
 chapter: 100
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 9824"
-generated_at: "2026-03-29T22:49:49.138Z"
+generated_at: "2026-03-29T23:06:05.263Z"
 ---
 
 # § 9824. Increasing transparency by removing gag clauses on price and quality information

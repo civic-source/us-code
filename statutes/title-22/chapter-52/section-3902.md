@@ -3,9 +3,9 @@ title: "Section 3902 - Definitions"
 usc_title: 22
 usc_section: "3902"
 chapter: 52
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 3902"
-generated_at: "2026-03-29T22:49:19.995Z"
+generated_at: "2026-03-29T23:04:55.197Z"
 ---
 
 # § 3902. Definitions

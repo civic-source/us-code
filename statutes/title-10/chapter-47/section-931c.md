@@ -3,9 +3,9 @@ title: "Section 931c - Art. 131c. Misprision of serious offense"
 usc_title: 10
 usc_section: "931c"
 chapter: 47
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 931c"
-generated_at: "2026-03-29T22:47:53.175Z"
+generated_at: "2026-03-29T23:03:46.755Z"
 ---
 
 # § 931c. Art. 131c. Misprision of serious offense

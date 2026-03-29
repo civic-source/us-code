@@ -3,9 +3,9 @@ title: "Section 669i - Rules and regulations"
 usc_title: 16
 usc_section: "669i"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 669i"
-generated_at: "2026-03-29T22:48:52.837Z"
+generated_at: "2026-03-29T23:04:44.118Z"
 ---
 
 # § 669i. Rules and regulations

@@ -3,9 +3,9 @@ title: "Section 467 - Inspection services"
 usc_title: 21
 usc_section: "467"
 chapter: 10
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "21 U.S.C. § 467"
-generated_at: "2026-03-29T22:49:14.115Z"
+generated_at: "2026-03-29T23:05:33.763Z"
 ---
 
 # § 467. Inspection services

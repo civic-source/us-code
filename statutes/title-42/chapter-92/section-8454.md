@@ -3,9 +3,9 @@ title: "Section 8454 - Study of compliance problem of small electric utility sys
 usc_title: 42
 usc_section: "8454"
 chapter: 92
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 8454"
-generated_at: "2026-03-29T22:51:40.411Z"
+generated_at: "2026-03-29T23:07:11.608Z"
 ---
 
 # § 8454. Study of compliance problem of small electric utility systems

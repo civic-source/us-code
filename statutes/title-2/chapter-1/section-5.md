@@ -3,9 +3,9 @@ title: "Section 5 - Nominations for Representatives at large"
 usc_title: 2
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 5"
-generated_at: "2026-03-29T22:47:36.129Z"
+generated_at: "2026-03-29T23:02:31.075Z"
 ---
 
 # § 5. Nominations for Representatives at large

@@ -3,9 +3,9 @@ title: "Section 547 - Preferences"
 usc_title: 11
 usc_section: "547"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "11 U.S.C. § 547"
-generated_at: "2026-03-29T22:48:38.901Z"
+generated_at: "2026-03-29T23:03:58.591Z"
 ---
 
 # § 547. Preferences

@@ -3,9 +3,9 @@ title: "Section 3677 - Contracts for lease or use of vessels for a term of great
 usc_title: 10
 usc_section: "3677"
 chapter: 257
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 3677"
-generated_at: "2026-03-29T22:47:53.338Z"
+generated_at: "2026-03-29T23:03:46.939Z"
 ---
 
 # § 3677. Contracts for lease or use of vessels for a term of greater than two years but less than five years: prior notice to congressional committees

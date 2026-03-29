@@ -3,9 +3,9 @@ title: "Section 6702 - Local and regional project assistance"
 usc_title: 49
 usc_section: "6702"
 chapter: 67
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "49 U.S.C. § 6702"
-generated_at: "2026-03-29T22:52:18.527Z"
+generated_at: "2026-03-29T23:07:41.041Z"
 ---
 
 # § 6702. Local and regional project assistance
@@ -94,7 +94,9 @@ generated_at: "2026-03-29T22:52:18.527Z"
     - **(B)** not more than 50 percent shall be allocated for eligible projects located in urbanized areas.
   - **(2)** Of the total amount made available to carry out the program for each fiscal year, not less than 1 percent shall be awarded for projects in historically disadvantaged communities or areas of persistent poverty.
   - **(3)** In selecting projects to receive grants under the program, the Secretary shall take into consideration geographical and modal diversity.
-- **(g)** Of the amounts made available to carry out the program for each fiscal year, not less than 5 percent shall be made available for the planning, preparation, or design of eligible projects.
+- **(g)**
+  - **(1)** Of the amounts made available to carry out the program for each fiscal year, not less than 5 percent shall be made available for the planning, preparation, or design of eligible projects.
+  - **(2)** Subparagraphs (A) and (B) of subsection (c)(2) shall not apply with respect to amounts made available for planning, preparation, or design under paragraph (1).
 - **(h)** Of the amounts made available to carry out the program for each fiscal year, the Secretary may transfer not more than 2 percent for a fiscal year to the Administrator of any of the Federal Highway Administration, the Federal Transit Administration, the Federal Railroad Administration, or the Maritime Administration to award and oversee grants and credit assistance in accordance with this section.
 - **(i)**
   - **(1)** Subject to paragraph (2), at the request of an eligible entity, the Secretary may use a grant provided to the eligible entity under the program to pay the subsidy or credit risk premium, and the administrative costs, of an eligible project that is eligible for Federal credit assistance under—

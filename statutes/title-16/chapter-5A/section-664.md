@@ -3,9 +3,9 @@ title: "Section 664 - Administration; rules and regulations; availability of lan
 usc_title: 16
 usc_section: "664"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 664"
-generated_at: "2026-03-29T22:48:52.828Z"
+generated_at: "2026-03-29T23:04:44.111Z"
 ---
 
 # § 664. Administration; rules and regulations; availability of lands to State agencies

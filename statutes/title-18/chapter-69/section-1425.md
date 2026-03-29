@@ -3,9 +3,9 @@ title: "Section 1425 - Procurement of citizenship or naturalization unlawfully"
 usc_title: 18
 usc_section: "1425"
 chapter: 69
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 1425"
-generated_at: "2026-03-29T22:48:44.623Z"
+generated_at: "2026-03-29T23:04:35.615Z"
 ---
 
 # § 1425. Procurement of citizenship or naturalization unlawfully

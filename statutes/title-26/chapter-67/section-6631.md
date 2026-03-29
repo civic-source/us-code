@@ -3,9 +3,9 @@ title: "Section 6631 - Notice requirements"
 usc_title: 26
 usc_section: "6631"
 chapter: 67
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 6631"
-generated_at: "2026-03-29T22:49:49.060Z"
+generated_at: "2026-03-29T23:06:05.204Z"
 ---
 
 # § 6631. Notice requirements

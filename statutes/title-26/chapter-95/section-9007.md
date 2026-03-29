@@ -3,9 +3,9 @@ title: "Section 9007 - Examinations and audits; repayments"
 usc_title: 26
 usc_section: "9007"
 chapter: 95
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 9007"
-generated_at: "2026-03-29T22:49:49.117Z"
+generated_at: "2026-03-29T23:06:05.249Z"
 ---
 
 # § 9007. Examinations and audits; repayments

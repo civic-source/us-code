@@ -3,9 +3,9 @@ title: "Section 2021A - Homeless women veterans and homeless veterans with child
 usc_title: 38
 usc_section: "2021A"
 chapter: 20
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 2021A"
-generated_at: "2026-03-29T22:50:09.959Z"
+generated_at: "2026-03-29T23:06:35.131Z"
 ---
 
 # § 2021A. Homeless women veterans and homeless veterans with children reintegration grant program

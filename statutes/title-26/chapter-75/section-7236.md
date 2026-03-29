@@ -3,9 +3,9 @@ title: "Section 7236 - Repealed. Pub. L. 93–490, § 3(b)(1) , Oct. 26, 1974 , 
 usc_title: 26
 usc_section: "7236"
 chapter: 75
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 7236"
-generated_at: "2026-03-29T22:49:49.076Z"
+generated_at: "2026-03-29T23:06:05.218Z"
 ---
 
 # [§ 7236. Repealed. Pub. L. 93–490, § 3(b)(1) , Oct. 26, 1974 , 88 Stat. 1466 ]

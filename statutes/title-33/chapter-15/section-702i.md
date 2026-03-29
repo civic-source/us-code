@@ -3,9 +3,9 @@ title: "Section 702i - Certain sections applicable to property and rights acquir
 usc_title: 33
 usc_section: "702i"
 chapter: 15
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "33 U.S.C. § 702i"
-generated_at: "2026-03-29T22:49:57.064Z"
+generated_at: "2026-03-29T23:06:21.413Z"
 ---
 
 # § 702i. Certain sections applicable to property and rights acquired or constructed

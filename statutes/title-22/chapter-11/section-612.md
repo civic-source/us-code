@@ -3,9 +3,9 @@ title: "Section 612 - Registration statement"
 usc_title: 22
 usc_section: "612"
 chapter: 11
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 612"
-generated_at: "2026-03-29T22:49:19.838Z"
+generated_at: "2026-03-29T23:04:55.056Z"
 ---
 
 # § 612. Registration statement

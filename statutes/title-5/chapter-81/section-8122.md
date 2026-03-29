@@ -3,9 +3,9 @@ title: "Section 8122 - Time for making claim"
 usc_title: 5
 usc_section: "8122"
 chapter: 81
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "5 U.S.C. § 8122"
-generated_at: "2026-03-29T22:47:33.507Z"
+generated_at: "2026-03-29T23:02:59.717Z"
 ---
 
 # § 8122. Time for making claim

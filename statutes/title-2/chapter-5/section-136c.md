@@ -3,9 +3,9 @@ title: "Section 136c - Authorized additional expenses and services for which Lib
 usc_title: 2
 usc_section: "136c"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 136c"
-generated_at: "2026-03-29T22:47:36.142Z"
+generated_at: "2026-03-29T23:02:31.083Z"
 ---
 
 # § 136c. Authorized additional expenses and services for which Library of Congress salary appropriations are available

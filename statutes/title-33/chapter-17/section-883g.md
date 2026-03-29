@@ -3,9 +3,9 @@ title: "Section 883g - Repealed. Pub. L. 88–611, § 4(a)(2) , Oct. 2, 1964 , 7
 usc_title: 33
 usc_section: "883g"
 chapter: 17
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "33 U.S.C. § 883g"
-generated_at: "2026-03-29T22:49:57.070Z"
+generated_at: "2026-03-29T23:06:21.417Z"
 ---
 
 # § 883g. Repealed. Pub. L. 88–611, § 4(a)(2) , Oct. 2, 1964 , 78 Stat. 991

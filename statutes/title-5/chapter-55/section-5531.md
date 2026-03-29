@@ -3,9 +3,9 @@ title: "Section 5531 - Definitions"
 usc_title: 5
 usc_section: "5531"
 chapter: 55
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "5 U.S.C. § 5531"
-generated_at: "2026-03-29T22:47:33.472Z"
+generated_at: "2026-03-29T23:02:59.680Z"
 ---
 
 # § 5531. Definitions

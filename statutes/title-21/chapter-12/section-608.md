@@ -3,9 +3,9 @@ title: "Section 608 - Sanitary inspection and regulation of slaughtering and pac
 usc_title: 21
 usc_section: "608"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "21 U.S.C. § 608"
-generated_at: "2026-03-29T22:49:14.118Z"
+generated_at: "2026-03-29T23:05:33.768Z"
 ---
 
 # § 608. Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products

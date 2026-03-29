@@ -3,9 +3,9 @@ title: "Section 644 - Preference right to entryman under State laws"
 usc_title: 43
 usc_section: "644"
 chapter: 14
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 644"
-generated_at: "2026-03-29T22:50:30.962Z"
+generated_at: "2026-03-29T23:06:40.146Z"
 ---
 
 # § 644. Preference right to entryman under State laws

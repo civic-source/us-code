@@ -3,9 +3,9 @@ title: "Section 15091 - Findings, purposes, and policy"
 usc_title: 42
 usc_section: "15091"
 chapter: 144
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 15091"
-generated_at: "2026-03-29T22:51:40.664Z"
+generated_at: "2026-03-29T23:07:11.848Z"
 ---
 
 # § 15091. Findings, purposes, and policy

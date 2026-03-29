@@ -3,9 +3,9 @@ title: "Section 17282 - Renewable energy deployment"
 usc_title: 42
 usc_section: "17282"
 chapter: 152
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 17282"
-generated_at: "2026-03-29T22:51:40.740Z"
+generated_at: "2026-03-29T23:07:11.938Z"
 ---
 
 # § 17282. Renewable energy deployment

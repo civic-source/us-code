@@ -3,9 +3,9 @@ title: "Section 384 - Separability"
 usc_title: 15
 usc_section: "384"
 chapter: 10
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 384"
-generated_at: "2026-03-29T22:48:36.175Z"
+generated_at: "2026-03-29T23:04:11.547Z"
 ---
 
 # § 384. Separability

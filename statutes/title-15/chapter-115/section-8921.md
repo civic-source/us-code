@@ -3,9 +3,9 @@ title: "Section 8921 - Additions to toxics release inventory"
 usc_title: 15
 usc_section: "8921"
 chapter: 115
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 8921"
-generated_at: "2026-03-29T22:48:36.506Z"
+generated_at: "2026-03-29T23:04:11.832Z"
 ---
 
 # § 8921. Additions to toxics release inventory

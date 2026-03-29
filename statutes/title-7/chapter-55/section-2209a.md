@@ -3,9 +3,9 @@ title: "Section 2209a - Advances to chiefs of field parties"
 usc_title: 7
 usc_section: "2209a"
 chapter: 55
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 2209a"
-generated_at: "2026-03-29T22:48:19.886Z"
+generated_at: "2026-03-29T23:03:33.497Z"
 ---
 
 # § 2209a. Advances to chiefs of field parties

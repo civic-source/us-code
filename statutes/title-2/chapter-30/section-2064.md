@@ -3,9 +3,9 @@ title: "Section 2064 - Senate Employee Child Care Center employee benefits"
 usc_title: 2
 usc_section: "2064"
 chapter: 30
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 2064"
-generated_at: "2026-03-29T22:47:36.232Z"
+generated_at: "2026-03-29T23:02:31.155Z"
 ---
 
 # § 2064. Senate Employee Child Care Center employee benefits

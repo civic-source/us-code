@@ -3,9 +3,9 @@ title: "Section 9371 - Air University: civilian faculty members"
 usc_title: 10
 usc_section: "9371"
 chapter: 947
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 9371"
-generated_at: "2026-03-29T22:47:53.656Z"
+generated_at: "2026-03-29T23:03:47.028Z"
 ---
 
 # § 9371. Air University: civilian faculty members

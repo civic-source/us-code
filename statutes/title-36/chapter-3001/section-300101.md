@@ -3,9 +3,9 @@ title: "Section 300101 - Organization"
 usc_title: 36
 usc_section: "300101"
 chapter: 3001
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 300101"
-generated_at: "2026-03-29T22:50:25.248Z"
+generated_at: "2026-03-29T23:06:36.607Z"
 ---
 
 # § 300101. Organization

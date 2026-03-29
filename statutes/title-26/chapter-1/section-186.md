@@ -3,9 +3,9 @@ title: "Section 186 - Recoveries of damages for antitrust violations, etc."
 usc_title: 26
 usc_section: "186"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 186"
-generated_at: "2026-03-29T22:49:48.650Z"
+generated_at: "2026-03-29T23:06:04.879Z"
 ---
 
 # § 186. Recoveries of damages for antitrust violations, etc.

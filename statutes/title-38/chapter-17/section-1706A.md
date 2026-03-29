@@ -3,9 +3,9 @@ title: "Section 1706A - Remediation of medical service lines"
 usc_title: 38
 usc_section: "1706A"
 chapter: 17
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 1706A"
-generated_at: "2026-03-29T22:50:09.936Z"
+generated_at: "2026-03-29T23:06:35.111Z"
 ---
 
 # § 1706A. Remediation of medical service lines

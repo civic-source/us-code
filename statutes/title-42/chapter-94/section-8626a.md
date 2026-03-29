@@ -3,9 +3,9 @@ title: "Section 8626a - Incentive program for leveraging non-Federal resources"
 usc_title: 42
 usc_section: "8626a"
 chapter: 94
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 8626a"
-generated_at: "2026-03-29T22:51:40.419Z"
+generated_at: "2026-03-29T23:07:11.612Z"
 ---
 
 # § 8626a. Incentive program for leveraging non-Federal resources

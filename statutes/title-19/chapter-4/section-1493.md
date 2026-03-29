@@ -3,9 +3,9 @@ title: "Section 1493 - Proceeds of sale"
 usc_title: 19
 usc_section: "1493"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "19 U.S.C. § 1493"
-generated_at: "2026-03-29T22:48:58.797Z"
+generated_at: "2026-03-29T23:04:38.126Z"
 ---
 
 # § 1493. Proceeds of sale

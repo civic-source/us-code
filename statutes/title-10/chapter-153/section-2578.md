@@ -3,9 +3,9 @@ title: "Section 2578 - Vessels: transfer between departments"
 usc_title: 10
 usc_section: "2578"
 chapter: 153
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 2578"
-generated_at: "2026-03-29T22:47:53.282Z"
+generated_at: "2026-03-29T23:03:46.886Z"
 ---
 
 # § 2578. Vessels: transfer between departments

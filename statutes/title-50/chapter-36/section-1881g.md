@@ -3,9 +3,9 @@ title: "Section 1881g - Savings provision"
 usc_title: 50
 usc_section: "1881g"
 chapter: 36
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 1881g"
-generated_at: "2026-03-29T22:52:07.157Z"
+generated_at: "2026-03-29T23:07:21.094Z"
 ---
 
 # § 1881g. Savings provision

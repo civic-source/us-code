@@ -3,9 +3,9 @@ title: "Section 9007 - Minority Business Development Agency"
 usc_title: 15
 usc_section: "9007"
 chapter: 116
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 9007"
-generated_at: "2026-03-29T22:48:36.509Z"
+generated_at: "2026-03-29T23:04:11.834Z"
 ---
 
 # § 9007. Minority Business Development Agency

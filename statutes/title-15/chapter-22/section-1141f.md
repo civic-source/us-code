@@ -3,9 +3,9 @@ title: "Section 1141f - Effect of filing a request for extension of protection o
 usc_title: 15
 usc_section: "1141f"
 chapter: 22
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 1141f"
-generated_at: "2026-03-29T22:48:36.276Z"
+generated_at: "2026-03-29T23:04:11.634Z"
 ---
 
 # § 1141f. Effect of filing a request for extension of protection of an international registration to the United States

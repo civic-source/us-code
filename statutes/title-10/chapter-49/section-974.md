@@ -3,9 +3,9 @@ title: "Section 974 - Military musical units and musicians: performance policies
 usc_title: 10
 usc_section: "974"
 chapter: 49
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 974"
-generated_at: "2026-03-29T22:47:53.181Z"
+generated_at: "2026-03-29T23:03:46.764Z"
 ---
 
 # § 974. Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians

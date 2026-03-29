@@ -3,9 +3,9 @@ title: "Section 7904 - Trade-related barriers to export of greenhouse gas intens
 usc_title: 22
 usc_section: "7904"
 chapter: 86
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 7904"
-generated_at: "2026-03-29T22:49:20.108Z"
+generated_at: "2026-03-29T23:04:55.299Z"
 ---
 
 # § 7904. Trade-related barriers to export of greenhouse gas intensity reducing technologies

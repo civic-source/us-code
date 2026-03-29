@@ -3,9 +3,9 @@ title: "Section 8507 - Payment of small shipping charges"
 usc_title: 38
 usc_section: "8507"
 chapter: 85
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "38 U.S.C. § 8507"
-generated_at: "2026-03-29T22:50:10.063Z"
+generated_at: "2026-03-29T23:06:35.217Z"
 ---
 
 # § 8507. Payment of small shipping charges

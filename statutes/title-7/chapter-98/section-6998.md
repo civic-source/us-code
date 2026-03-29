@@ -3,9 +3,9 @@ title: "Section 6998 - Director review of determinations of hearing officers"
 usc_title: 7
 usc_section: "6998"
 chapter: 98
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 6998"
-generated_at: "2026-03-29T22:48:20.008Z"
+generated_at: "2026-03-29T23:03:33.631Z"
 ---
 
 # § 6998. Director review of determinations of hearing officers

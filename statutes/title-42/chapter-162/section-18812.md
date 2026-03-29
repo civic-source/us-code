@@ -1,14 +1,14 @@
 ---
-title: "Section 18812 - Leveraging Existing Agency Programs To Assist Small and Medium Manufacturers"
+title: "Section 18812 - Leveraging existing agency programs to assist small and medium manufacturers"
 usc_title: 42
 usc_section: "18812"
 chapter: 162
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18812"
-generated_at: "2026-03-29T22:51:40.786Z"
+generated_at: "2026-03-29T23:07:11.987Z"
 ---
 
-# § 18812. Leveraging Existing Agency Programs To Assist Small and Medium Manufacturers
+# § 18812. Leveraging existing agency programs to assist small and medium manufacturers
 
 The Secretary shall expand the scope of technologies covered by the industrial research and assessment centers of the Department—
 

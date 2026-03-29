@@ -3,9 +3,9 @@ title: "Section 4305 - Exemptions and equivalents"
 usc_title: 46
 usc_section: "4305"
 chapter: 43
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "46 U.S.C. § 4305"
-generated_at: "2026-03-29T22:51:53.589Z"
+generated_at: "2026-03-29T23:07:23.737Z"
 ---
 
 # § 4305. Exemptions and equivalents

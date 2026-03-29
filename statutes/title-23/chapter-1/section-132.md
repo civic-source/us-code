@@ -3,9 +3,9 @@ title: "Section 132 - Payments on Federal-aid projects undertaken by a Federal a
 usc_title: 23
 usc_section: "132"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "23 U.S.C. § 132"
-generated_at: "2026-03-29T22:49:09.257Z"
+generated_at: "2026-03-29T23:05:01.884Z"
 ---
 
 # § 132. Payments on Federal-aid projects undertaken by a Federal agency

@@ -3,9 +3,9 @@ title: "Section 25g - Awareness campaigns"
 usc_title: 42
 usc_section: "25g"
 chapter: 6
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 25g"
-generated_at: "2026-03-29T22:51:39.190Z"
+generated_at: "2026-03-29T23:07:10.469Z"
 ---
 
 # § 290bb–25g. Awareness campaigns

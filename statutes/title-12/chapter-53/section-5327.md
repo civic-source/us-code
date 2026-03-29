@@ -3,9 +3,9 @@ title: "Section 5327 - Treatment of certain companies that cease to be bank hold
 usc_title: 12
 usc_section: "5327"
 chapter: 53
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "12 U.S.C. § 5327"
-generated_at: "2026-03-29T22:48:29.658Z"
+generated_at: "2026-03-29T23:04:21.480Z"
 ---
 
 # § 5327. Treatment of certain companies that cease to be bank holding companies

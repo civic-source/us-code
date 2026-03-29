@@ -3,9 +3,9 @@ title: "Section 541 - Property of the estate"
 usc_title: 11
 usc_section: "541"
 chapter: 5
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "11 U.S.C. § 541"
-generated_at: "2026-03-29T22:48:38.899Z"
+generated_at: "2026-03-29T23:03:58.590Z"
 ---
 
 # § 541. Property of the estate
@@ -69,8 +69,7 @@ generated_at: "2026-03-29T22:48:38.899Z"
     - **(B)** only to the extent that such funds—
       - **(i)** are not pledged or promised to any entity in connection with any extension of credit; and
       - **(ii)** are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
-    - **(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; 2 or
-  - **(11)** recovery rebates made under section 6428 of the Internal Revenue Code of 1986.
+    - **(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225. 2
 - **(c)**
   - **(1)** Except as provided in paragraph (2) of this subsection, an interest of the debtor in property becomes property of the estate under subsection (a)(1), (a)(2), or (a)(5) of this section notwithstanding any provision in an agreement, transfer instrument, or applicable nonbankruptcy law—
     - **(A)** that restricts or conditions transfer of such interest by the debtor; or

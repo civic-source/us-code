@@ -3,9 +3,9 @@ title: "Section 1112 - Tax treatment of any gift, devise or bequest to the Commi
 usc_title: 16
 usc_section: "1112"
 chapter: 22
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 1112"
-generated_at: "2026-03-29T22:48:52.931Z"
+generated_at: "2026-03-29T23:04:44.197Z"
 ---
 
 # § 1112. Tax treatment of any gift, devise or bequest to the Commission

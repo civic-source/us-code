@@ -3,15 +3,15 @@ title: "Section 18724 - Enhanced grid security"
 usc_title: 42
 usc_section: "18724"
 chapter: 162
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18724"
-generated_at: "2026-03-29T22:51:40.779Z"
+generated_at: "2026-03-29T23:07:11.978Z"
 ---
 
 # § 18724. Enhanced grid security
 
 - **(a)** In this section:
-  - **(1)** The term “electric utility” has the meaning given the term in section 796 of title 16 ).
+  - **(1)** The term “electric utility” has the meaning given the term in section 796 of title 16 .
   - **(2)** The term “E-ISAC” means the Electricity Information Sharing and Analysis Center.
 - **(b)**
   - **(1)** The Secretary, in coordination with the Secretary of Homeland Security and in consultation with, as determined appropriate, other Federal agencies, the energy sector, the States, Indian Tribes, Tribal organizations, territories or freely associated states, and other stakeholders, shall develop and carry out a program—

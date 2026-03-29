@@ -3,9 +3,9 @@ title: "Section 704 - Relationship to other laws"
 usc_title: 31
 usc_section: "704"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "31 U.S.C. § 704"
-generated_at: "2026-03-29T22:49:54.580Z"
+generated_at: "2026-03-29T23:06:28.371Z"
 ---
 
 # § 704. Relationship to other laws

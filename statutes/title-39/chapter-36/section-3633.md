@@ -3,9 +3,9 @@ title: "Section 3633 - Provisions applicable to rates for competitive products"
 usc_title: 39
 usc_section: "3633"
 chapter: 36
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "39 U.S.C. § 3633"
-generated_at: "2026-03-29T22:50:10.475Z"
+generated_at: "2026-03-29T23:06:30.453Z"
 ---
 
 # § 3633. Provisions applicable to rates for competitive products

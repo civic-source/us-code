@@ -3,9 +3,9 @@ title: "Section 303 - Distributions in redemption of stock to pay death taxes"
 usc_title: 26
 usc_section: "303"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 303"
-generated_at: "2026-03-29T22:49:48.677Z"
+generated_at: "2026-03-29T23:06:04.899Z"
 ---
 
 # § 303. Distributions in redemption of stock to pay death taxes

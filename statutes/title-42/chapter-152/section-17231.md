@@ -3,9 +3,9 @@ title: "Section 17231 - Energy storage competitiveness"
 usc_title: 42
 usc_section: "17231"
 chapter: 152
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 17231"
-generated_at: "2026-03-29T22:51:40.734Z"
+generated_at: "2026-03-29T23:07:11.933Z"
 ---
 
 # § 17231. Energy storage competitiveness
@@ -120,7 +120,7 @@ generated_at: "2026-03-29T22:51:40.734Z"
     - **(A)** The term “battery recycling and second-life applications program” means the electric drive vehicle battery recycling and second-life applications program established under paragraph (3).
     - **(B)** The term “critical material” has the meaning given the term in section 1606(a) of title 30 .
     - **(C)** The term “economically distressed area” means an area described in section 3161(a) of this title .
-    - **(D)** The term “electric drive 1 1 So in original. vehicle battery” means any battery that is a motive power source for an electric drive vehicle.
+    - **(D)** The term “electric drive 2 2 So in original. vehicle battery” means any battery that is a motive power source for an electric drive vehicle.
     - **(E)** The term “eligible entity” means an entity described in any of paragraphs (1) through (5) of section 16353(b) of this title .
   - **(2)** The Secretary shall carry out a program of research, development, and demonstration of—
     - **(A)** second-life applications for electric drive vehicle batteries that have been used to power electric drive vehicles; and
@@ -174,7 +174,7 @@ generated_at: "2026-03-29T22:51:40.734Z"
 - **(o)** On the business day that is 5 years after December 19, 2007 , the Secretary shall offer to enter into an arrangement with the National Academy of Sciences to assess the performance of the Department in carrying out this section.
 - **(p)** There are authorized to be appropriated to carry out—
   - **(1)** the basic research program under subsection (f) $50,000,000 for each of fiscal years 2009 through 2018;
-  - **(2)** the applied research program under subsection (g) $80,000,000 for each of fiscal years 2009 through 2018; and; 2 2 So in original.
+  - **(2)** the applied research program under subsection (g) $80,000,000 for each of fiscal years 2009 through 2018; and; 2
   - **(3)** the energy storage research center program under subsection (h) $100,000,000 for each of fiscal years 2009 through 2018;
   - **(4)** the energy storage systems demonstration program under subsection (i) $30,000,000 for each of fiscal years 2009 through 2018;
   - **(5)** the vehicle energy storage demonstration program under subsection (j) $30,000,000 for each of fiscal years 2009 through 2018; and

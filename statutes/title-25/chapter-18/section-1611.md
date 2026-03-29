@@ -3,9 +3,9 @@ title: "Section 1611 - Congressional statement of purpose"
 usc_title: 25
 usc_section: "1611"
 chapter: 18
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 1611"
-generated_at: "2026-03-29T22:49:11.632Z"
+generated_at: "2026-03-29T23:04:57.101Z"
 ---
 
 # § 1611. Congressional statement of purpose

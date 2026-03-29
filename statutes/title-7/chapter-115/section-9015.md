@@ -3,9 +3,9 @@ title: "Section 9015 - Producer election"
 usc_title: 7
 usc_section: "9015"
 chapter: 115
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 9015"
-generated_at: "2026-03-29T22:48:20.083Z"
+generated_at: "2026-03-29T23:03:33.724Z"
 ---
 
 # § 9015. Producer election

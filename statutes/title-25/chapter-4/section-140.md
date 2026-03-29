@@ -3,9 +3,9 @@ title: "Section 140 - Diversion of appropriations for employees and supplies"
 usc_title: 25
 usc_section: "140"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 140"
-generated_at: "2026-03-29T22:49:11.589Z"
+generated_at: "2026-03-29T23:04:57.066Z"
 ---
 
 # § 140. Diversion of appropriations for employees and supplies

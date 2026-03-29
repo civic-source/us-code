@@ -3,9 +3,9 @@ title: "Section 2593b - Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)
 usc_title: 22
 usc_section: "2593b"
 chapter: 35
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 2593b"
-generated_at: "2026-03-29T22:49:19.946Z"
+generated_at: "2026-03-29T23:04:55.147Z"
 ---
 
 # § 2593b. Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(4) , Dec. 27, 2021 , 135 Stat. 2352

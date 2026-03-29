@@ -3,9 +3,9 @@ title: "Section 3671 - Requirement for authorization by law of certain contracts
 usc_title: 10
 usc_section: "3671"
 chapter: 257
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 3671"
-generated_at: "2026-03-29T22:47:53.338Z"
+generated_at: "2026-03-29T23:03:46.938Z"
 ---
 
 # § 3671. Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles

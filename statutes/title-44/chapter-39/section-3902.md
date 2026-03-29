@@ -3,9 +3,9 @@ title: "Section 3902 - Appointment of Inspector General; supervision; removal; p
 usc_title: 44
 usc_section: "3902"
 chapter: 39
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "44 U.S.C. § 3902"
-generated_at: "2026-03-29T22:50:36.326Z"
+generated_at: "2026-03-29T23:06:48.178Z"
 ---
 
 # § 3902. Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel

@@ -3,9 +3,9 @@ title: "Section 673 - Protection of voluntarily shared critical infrastructure i
 usc_title: 6
 usc_section: "673"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "6 U.S.C. § 673"
-generated_at: "2026-03-29T22:48:07.125Z"
+generated_at: "2026-03-29T23:03:09.176Z"
 ---
 
 # § 673. Protection of voluntarily shared critical infrastructure information

@@ -3,9 +3,9 @@ title: "Section 3254 - General program requirements"
 usc_title: 29
 usc_section: "3254"
 chapter: 32
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "29 U.S.C. § 3254"
-generated_at: "2026-03-29T22:49:28.679Z"
+generated_at: "2026-03-29T23:06:15.246Z"
 ---
 
 # § 3254. General program requirements

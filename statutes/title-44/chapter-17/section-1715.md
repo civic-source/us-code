@@ -3,9 +3,9 @@ title: "Section 1715 - Publications for department or officer or for congression
 usc_title: 44
 usc_section: "1715"
 chapter: 17
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "44 U.S.C. § 1715"
-generated_at: "2026-03-29T22:50:36.308Z"
+generated_at: "2026-03-29T23:06:48.158Z"
 ---
 
 # § 1715. Publications for department or officer or for congressional committees

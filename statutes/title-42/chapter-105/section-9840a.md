@@ -3,9 +3,9 @@ title: "Section 9840a - Early Head Start programs"
 usc_title: 42
 usc_section: "9840a"
 chapter: 105
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 9840a"
-generated_at: "2026-03-29T22:51:40.477Z"
+generated_at: "2026-03-29T23:07:11.664Z"
 ---
 
 # § 9840a. Early Head Start programs

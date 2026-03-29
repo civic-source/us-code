@@ -3,9 +3,9 @@ title: "Section 130 - Withholding of moneys or goods on account of intoxicating 
 usc_title: 25
 usc_section: "130"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 130"
-generated_at: "2026-03-29T22:49:11.588Z"
+generated_at: "2026-03-29T23:04:57.066Z"
 ---
 
 # § 130. Withholding of moneys or goods on account of intoxicating liquors

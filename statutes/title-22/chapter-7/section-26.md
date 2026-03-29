@@ -3,9 +3,9 @@ title: "Section 26 - Lower Colorado River emergency flood control works; agreeme
 usc_title: 22
 usc_section: "26"
 chapter: 7
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "22 U.S.C. § 26"
-generated_at: "2026-03-29T22:49:19.801Z"
+generated_at: "2026-03-29T23:04:55.024Z"
 ---
 
 # § 277d–26. Lower Colorado River emergency flood control works; agreements with Mexico for joint construction, operation and maintenance

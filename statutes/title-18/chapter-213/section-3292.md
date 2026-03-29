@@ -3,9 +3,9 @@ title: "Section 3292 - Suspension of limitations to permit United States to obta
 usc_title: 18
 usc_section: "3292"
 chapter: 213
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "18 U.S.C. § 3292"
-generated_at: "2026-03-29T22:48:44.693Z"
+generated_at: "2026-03-29T23:04:35.674Z"
 ---
 
 # § 3292. Suspension of limitations to permit United States to obtain foreign evidence

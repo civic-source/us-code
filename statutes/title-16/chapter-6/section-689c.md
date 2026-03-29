@@ -3,9 +3,9 @@ title: "Section 689c - Rules and regulations for administration of the Tahquitz 
 usc_title: 16
 usc_section: "689c"
 chapter: 6
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 689c"
-generated_at: "2026-03-29T22:48:52.844Z"
+generated_at: "2026-03-29T23:04:44.123Z"
 ---
 
 # § 689c. Rules and regulations for administration of the Tahquitz Preserve; predatory animals

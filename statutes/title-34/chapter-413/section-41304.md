@@ -3,9 +3,9 @@ title: "Section 41304 - Family and domestic violence: data collection and report
 usc_title: 34
 usc_section: "41304"
 chapter: 413
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "34 U.S.C. § 41304"
-generated_at: "2026-03-29T22:50:01.873Z"
+generated_at: "2026-03-29T23:06:19.189Z"
 ---
 
 # § 41304. Family and domestic violence: data collection and reporting

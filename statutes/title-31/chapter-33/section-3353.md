@@ -3,9 +3,9 @@ title: "Section 3353 - Compliance"
 usc_title: 31
 usc_section: "3353"
 chapter: 33
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "31 U.S.C. § 3353"
-generated_at: "2026-03-29T22:49:54.612Z"
+generated_at: "2026-03-29T23:06:28.390Z"
 ---
 
 # § 3353. Compliance

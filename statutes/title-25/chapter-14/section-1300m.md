@@ -3,9 +3,9 @@ title: "Section 1300m - Omitted"
 usc_title: 25
 usc_section: "1300m"
 chapter: 14
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "25 U.S.C. § 1300m"
-generated_at: "2026-03-29T22:49:11.625Z"
+generated_at: "2026-03-29T23:04:57.094Z"
 ---
 
 # § 1300m. Omitted

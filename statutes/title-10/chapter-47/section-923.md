@@ -3,9 +3,9 @@ title: "Section 923 - Art. 123. Offenses concerning Government computers"
 usc_title: 10
 usc_section: "923"
 chapter: 47
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 923"
-generated_at: "2026-03-29T22:47:53.173Z"
+generated_at: "2026-03-29T23:03:46.754Z"
 ---
 
 # § 923. Art. 123. Offenses concerning Government computers

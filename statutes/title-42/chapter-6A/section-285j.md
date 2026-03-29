@@ -3,9 +3,9 @@ title: "Section 285j - Purpose of Institute"
 usc_title: 42
 usc_section: "285j"
 chapter: 6
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 285j"
-generated_at: "2026-03-29T22:51:39.164Z"
+generated_at: "2026-03-29T23:07:10.446Z"
 ---
 
 # § 285j. Purpose of Institute

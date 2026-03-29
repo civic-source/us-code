@@ -3,9 +3,9 @@ title: "Section 620f - Powerplant operations"
 usc_title: 43
 usc_section: "620f"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 620f"
-generated_at: "2026-03-29T22:50:30.958Z"
+generated_at: "2026-03-29T23:06:40.144Z"
 ---
 
 # § 620f. Powerplant operations

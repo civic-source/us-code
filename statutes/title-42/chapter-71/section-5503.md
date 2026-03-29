@@ -3,9 +3,9 @@ title: "Section 5503 - Development and demonstration of solar heating systems fo
 usc_title: 42
 usc_section: "5503"
 chapter: 71
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 5503"
-generated_at: "2026-03-29T22:51:40.181Z"
+generated_at: "2026-03-29T23:07:11.374Z"
 ---
 
 # § 5503. Development and demonstration of solar heating systems for use in residential dwellings

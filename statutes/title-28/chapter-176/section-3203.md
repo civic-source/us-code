@@ -3,9 +3,9 @@ title: "Section 3203 - Execution"
 usc_title: 28
 usc_section: "3203"
 chapter: 176
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "28 U.S.C. § 3203"
-generated_at: "2026-03-29T22:49:25.459Z"
+generated_at: "2026-03-29T23:05:50.151Z"
 ---
 
 # § 3203. Execution

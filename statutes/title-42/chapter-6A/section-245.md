@@ -3,9 +3,9 @@ title: "Section 245 - Public awareness campaign on the importance of vaccination
 usc_title: 42
 usc_section: "245"
 chapter: 6
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 245"
-generated_at: "2026-03-29T22:51:39.031Z"
+generated_at: "2026-03-29T23:07:10.334Z"
 ---
 
 # § 245. Public awareness campaign on the importance of vaccinations

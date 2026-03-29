@@ -3,9 +3,9 @@ title: "Section 719a - Congressional statement of purpose"
 usc_title: 15
 usc_section: "719a"
 chapter: 15
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "15 U.S.C. § 719a"
-generated_at: "2026-03-29T22:48:36.257Z"
+generated_at: "2026-03-29T23:04:11.616Z"
 ---
 
 # § 719a. Congressional statement of purpose

@@ -3,9 +3,9 @@ title: "Section 7675 - American innovation and manufacturing"
 usc_title: 42
 usc_section: "7675"
 chapter: 85
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 7675"
-generated_at: "2026-03-29T22:51:40.379Z"
+generated_at: "2026-03-29T23:07:11.575Z"
 ---
 
 # § 7675. American innovation and manufacturing
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T22:51:40.379Z"
 - **(a)** This section may be cited as the “American Innovation and Manufacturing Act of 2020”.
 - **(b)** In this section:
   - **(1)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
-  - **(2)** The term “allowance”’ means a limited authorization for the production or consumption of a regulated substance established under subsection (e).
+  - **(2)** The term “allowance” means a limited authorization for the production or consumption of a regulated substance established under subsection (e).
   - **(3)** The term “consumption”, with respect to a regulated substance, means a quantity equal to the difference between—
     - **(A)** a quantity equal to the sum of—
       - **(i)** the quantity of that regulated substance produced in the United States; and

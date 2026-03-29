@@ -3,9 +3,9 @@ title: "Section 3642 - New products and transfers of products between the market
 usc_title: 39
 usc_section: "3642"
 chapter: 36
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "39 U.S.C. § 3642"
-generated_at: "2026-03-29T22:50:10.476Z"
+generated_at: "2026-03-29T23:06:30.454Z"
 ---
 
 # § 3642. New products and transfers of products between the market-dominant and competitive categories of mail

@@ -3,9 +3,9 @@ title: "Section 17232 - Better energy storage technology"
 usc_title: 42
 usc_section: "17232"
 chapter: 152
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 17232"
-generated_at: "2026-03-29T22:51:40.736Z"
+generated_at: "2026-03-29T23:07:11.934Z"
 ---
 
 # § 17232. Better energy storage technology
@@ -87,7 +87,7 @@ generated_at: "2026-03-29T22:51:40.736Z"
   - **(2)**
     - **(A)** In this paragraph, the term “eligible entity” means—
       - **(i)** a State energy office (as defined in section 15821(a) of this title );
-      - **(ii)** an Indian Tribe (as defined in section 4103 of title 25 ;
+      - **(ii)** an Indian Tribe (as defined in section 4103 of title 25 ; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
       - **(iii)** a Tribal organization (as defined in section 3765 of title 38 );
       - **(iv)** an institution of higher education (as defined in section 1001 of title 20 );
       - **(v)** an electric utility, including—

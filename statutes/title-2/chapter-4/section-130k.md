@@ -3,9 +3,9 @@ title: "Section 130k - Transferred"
 usc_title: 2
 usc_section: "130k"
 chapter: 4
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "2 U.S.C. § 130k"
-generated_at: "2026-03-29T22:47:36.141Z"
+generated_at: "2026-03-29T23:02:31.082Z"
 ---
 
 # § 130k. Transferred

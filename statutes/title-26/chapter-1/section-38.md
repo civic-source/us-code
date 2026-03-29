@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-29T22:49:48.549Z"
+generated_at: "2026-03-29T23:06:04.805Z"
 ---
 
 # § 38. General business credit

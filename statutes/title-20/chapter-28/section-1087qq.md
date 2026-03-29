@@ -3,9 +3,9 @@ title: "Section 1087qq - Family contribution for independent students with depen
 usc_title: 20
 usc_section: "1087qq"
 chapter: 28
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "20 U.S.C. § 1087qq"
-generated_at: "2026-03-29T22:49:03.537Z"
+generated_at: "2026-03-29T23:04:33.594Z"
 ---
 
 # § 1087qq. Family contribution for independent students with dependents other than a spouse

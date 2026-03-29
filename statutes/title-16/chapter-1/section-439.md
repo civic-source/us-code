@@ -3,9 +3,9 @@ title: "Section 439 - Land for use of Secretary of the Treasury"
 usc_title: 16
 usc_section: "439"
 chapter: 1
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "16 U.S.C. § 439"
-generated_at: "2026-03-29T22:48:52.678Z"
+generated_at: "2026-03-29T23:04:43.978Z"
 ---
 
 # § 439. Land for use of Secretary of the Treasury

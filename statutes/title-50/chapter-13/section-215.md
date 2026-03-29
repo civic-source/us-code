@@ -3,9 +3,9 @@ title: "Section 215 - Institution of confiscation proceedings"
 usc_title: 50
 usc_section: "215"
 chapter: 13
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 215"
-generated_at: "2026-03-29T22:52:07.129Z"
+generated_at: "2026-03-29T23:07:21.069Z"
 ---
 
 # § 215. Institution of confiscation proceedings

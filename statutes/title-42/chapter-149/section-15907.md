@@ -3,9 +3,9 @@ title: "Section 15907 - Orphaned well site plugging, remediation, and restoratio
 usc_title: 42
 usc_section: "15907"
 chapter: 149
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 15907"
-generated_at: "2026-03-29T22:51:40.672Z"
+generated_at: "2026-03-29T23:07:11.860Z"
 ---
 
 # § 15907. Orphaned well site plugging, remediation, and restoration
@@ -21,9 +21,8 @@ generated_at: "2026-03-29T22:51:40.672Z"
   - **(4)** The term “operator”, with respect to an oil or gas operation, means any entity, including a lessee or operating rights owner, that has provided to a relevant authority a written statement that the entity is responsible for the oil or gas operation, or any portion of the operation.
   - **(5)** The term “orphaned well”—
     - **(A)** with respect to Federal land or Tribal land, means a well—
-      - **(i)**
-        - **(I)** 1 1 So in original. No cl. (ii) enacted. that is not used for an authorized purpose, such as production, injection, or monitoring; and
-        - **(II)**
+      - **(i)** 1 1 So in original. No cl. (ii) has been enacted. (I) that is not used for an authorized purpose, such as production, injection, or monitoring; and
+    - **(II)**
     - **(B)** with respect to State or private land—
       - **(i)** has the meaning given the term by the applicable State; or
       - **(ii)** if that State uses different terminology, has the meaning given another term used by the State to describe a well eligible for plugging, remediation, and reclamation by the State.

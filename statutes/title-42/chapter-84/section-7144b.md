@@ -3,9 +3,9 @@ title: "Section 7144b - Office of Intelligence and Counterintelligence"
 usc_title: 42
 usc_section: "7144b"
 chapter: 84
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 7144b"
-generated_at: "2026-03-29T22:51:40.282Z"
+generated_at: "2026-03-29T23:07:11.487Z"
 ---
 
 # § 7144b. Office of Intelligence and Counterintelligence

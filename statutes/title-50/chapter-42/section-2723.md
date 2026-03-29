@@ -3,9 +3,9 @@ title: "Section 2723 - Fellowship program for development of skills critical to 
 usc_title: 50
 usc_section: "2723"
 chapter: 42
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "50 U.S.C. § 2723"
-generated_at: "2026-03-29T22:52:07.199Z"
+generated_at: "2026-03-29T23:07:21.128Z"
 ---
 
 # § 2723. Fellowship program for development of skills critical to the nuclear security enterprise

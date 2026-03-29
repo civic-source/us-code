@@ -3,9 +3,9 @@ title: "Section 70706 - Property exempt from taxation"
 usc_title: 36
 usc_section: "70706"
 chapter: 707
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 70706"
-generated_at: "2026-03-29T22:50:25.215Z"
+generated_at: "2026-03-29T23:06:36.579Z"
 ---
 
 # § 70706. Property exempt from taxation

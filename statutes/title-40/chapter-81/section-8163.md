@@ -3,9 +3,9 @@ title: "Section 8163 - Use of greenhouses and nursery for trees, shrubs, and pla
 usc_title: 40
 usc_section: "8163"
 chapter: 81
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "40 U.S.C. § 8163"
-generated_at: "2026-03-29T22:50:06.374Z"
+generated_at: "2026-03-29T23:06:32.108Z"
 ---
 
 # § 8163. Use of greenhouses and nursery for trees, shrubs, and plants

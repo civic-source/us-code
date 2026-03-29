@@ -3,9 +3,9 @@ title: "Section 618k - Definitions"
 usc_title: 43
 usc_section: "618k"
 chapter: 12
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "43 U.S.C. § 618k"
-generated_at: "2026-03-29T22:50:30.954Z"
+generated_at: "2026-03-29T23:06:40.141Z"
 ---
 
 # § 618k. Definitions

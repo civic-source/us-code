@@ -3,9 +3,9 @@ title: "Section 3736 - Donation of air traffic control equipment to eligible sub
 usc_title: 19
 usc_section: "3736"
 chapter: 23
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "19 U.S.C. § 3736"
-generated_at: "2026-03-29T22:48:58.908Z"
+generated_at: "2026-03-29T23:04:38.250Z"
 ---
 
 # § 3736. Donation of air traffic control equipment to eligible sub-Saharan African countries

@@ -3,9 +3,9 @@ title: "Section 7651 - Nutrient composition data"
 usc_title: 7
 usc_section: "7651"
 chapter: 103
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 7651"
-generated_at: "2026-03-29T22:48:20.042Z"
+generated_at: "2026-03-29T23:03:33.669Z"
 ---
 
 # § 7651. Nutrient composition data

@@ -3,9 +3,9 @@ title: "Section 4607 - Permissive terms and provisions"
 usc_title: 7
 usc_section: "4607"
 chapter: 77
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 4607"
-generated_at: "2026-03-29T22:48:19.938Z"
+generated_at: "2026-03-29T23:03:33.561Z"
 ---
 
 # § 4607. Permissive terms and provisions

@@ -3,9 +3,9 @@ title: "Section 8039 - Deputy Commander of the Naval Sea Systems Command for the
 usc_title: 10
 usc_section: "8039"
 chapter: 805
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "10 U.S.C. § 8039"
-generated_at: "2026-03-29T22:47:53.390Z"
+generated_at: "2026-03-29T23:03:46.993Z"
 ---
 
 # § 8039. Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair

@@ -3,9 +3,9 @@ title: "Section 150903 - Membership"
 usc_title: 36
 usc_section: "150903"
 chapter: 1509
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "36 U.S.C. § 150903"
-generated_at: "2026-03-29T22:50:25.224Z"
+generated_at: "2026-03-29T23:06:36.587Z"
 ---
 
 # § 150903. Membership

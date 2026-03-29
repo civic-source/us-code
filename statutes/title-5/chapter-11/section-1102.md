@@ -3,9 +3,9 @@ title: "Section 1102 - Director; Deputy Director; Associate Directors"
 usc_title: 5
 usc_section: "1102"
 chapter: 11
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "5 U.S.C. § 1102"
-generated_at: "2026-03-29T22:47:33.432Z"
+generated_at: "2026-03-29T23:02:59.639Z"
 ---
 
 # § 1102. Director; Deputy Director; Associate Directors

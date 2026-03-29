@@ -3,9 +3,9 @@ title: "Section 12110 - Payments to eligible States for incarceration of crimina
 usc_title: 34
 usc_section: "12110"
 chapter: 121
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "34 U.S.C. § 12110"
-generated_at: "2026-03-29T22:50:01.797Z"
+generated_at: "2026-03-29T23:06:19.119Z"
 ---
 
 # § 12110. Payments to eligible States for incarceration of criminal aliens

@@ -3,9 +3,9 @@ title: "Section 7110 - Regulations"
 usc_title: 7
 usc_section: "7110"
 chapter: 99
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "7 U.S.C. § 7110"
-generated_at: "2026-03-29T22:48:20.014Z"
+generated_at: "2026-03-29T23:03:33.637Z"
 ---
 
 # § 7110. Regulations

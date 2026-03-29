@@ -3,9 +3,9 @@ title: "Section 18831 - Grants for energy efficiency improvements and renewable 
 usc_title: 42
 usc_section: "18831"
 chapter: 162
-current_through: "PL 117-139"
+current_through: "PL 117-159"
 classification: "42 U.S.C. § 18831"
-generated_at: "2026-03-29T22:51:40.787Z"
+generated_at: "2026-03-29T23:07:11.988Z"
 ---
 
 # § 18831. Grants for energy efficiency improvements and renewable energy improvements at public school facilities
