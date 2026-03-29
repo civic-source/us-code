@@ -3,9 +3,9 @@ title: "Section 1546 - Repealed. Pub. L. 97–164, title I, § 134 , Apr. 2, 198
 usc_title: 28
 usc_section: "1546"
 chapter: 93
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 1546"
-generated_at: "2026-03-29T22:20:14.386Z"
+generated_at: "2026-03-29T22:26:26.706Z"
 ---
 
 # [§§ 1541 to 1546. Repealed. Pub. L. 97–164, title I, § 134 , Apr. 2, 1982 , 96 Stat. 41 ]

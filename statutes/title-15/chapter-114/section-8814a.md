@@ -3,9 +3,9 @@ title: "Section 8814a - Subcommittee on the Economic and Security Implications o
 usc_title: 15
 usc_section: "8814a"
 chapter: 114
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 8814a"
-generated_at: "2026-03-29T22:19:03.030Z"
+generated_at: "2026-03-29T22:25:16.190Z"
 ---
 
 # § 8814a. Subcommittee on the Economic and Security Implications of Quantum Information Science

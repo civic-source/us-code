@@ -3,9 +3,9 @@ title: "Section 223 - Border security metrics"
 usc_title: 6
 usc_section: "223"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "6 U.S.C. § 223"
-generated_at: "2026-03-29T22:17:49.126Z"
+generated_at: "2026-03-29T22:24:14.162Z"
 ---
 
 # § 223. Border security metrics

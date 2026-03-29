@@ -3,9 +3,9 @@ title: "Section 715 - Audit of accounts and operations of the District of Columb
 usc_title: 31
 usc_section: "715"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "31 U.S.C. § 715"
-generated_at: "2026-03-29T22:21:07.391Z"
+generated_at: "2026-03-29T22:27:17.722Z"
 ---
 
 # § 715. Audit of accounts and operations of the District of Columbia government

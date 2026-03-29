@@ -3,9 +3,9 @@ title: "Section 9021a - Air Force Reserve Forces Policy Committee"
 usc_title: 10
 usc_section: "9021a"
 chapter: 903
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 9021a"
-generated_at: "2026-03-29T22:18:46.090Z"
+generated_at: "2026-03-29T22:24:51.842Z"
 ---
 
 # § 9021a. Air Force Reserve Forces Policy Committee

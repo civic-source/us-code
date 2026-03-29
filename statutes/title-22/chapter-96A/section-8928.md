@@ -3,9 +3,9 @@ title: "Section 8928 - Support for Russian democracy and civil society organizat
 usc_title: 22
 usc_section: "8928"
 chapter: 96
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 8928"
-generated_at: "2026-03-29T22:19:53.152Z"
+generated_at: "2026-03-29T22:26:06.234Z"
 ---
 
 # § 8928. Support for Russian democracy and civil society organizations

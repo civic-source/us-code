@@ -3,9 +3,9 @@ title: "Section 2294a - Contracts for periodic payments to offset costs of purch
 usc_title: 12
 usc_section: "2294a"
 chapter: 24
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "12 U.S.C. § 2294a"
-generated_at: "2026-03-29T22:18:56.506Z"
+generated_at: "2026-03-29T22:25:04.983Z"
 ---
 
 # § 2294a. Contracts for periodic payments to offset costs of purchase of obligations of local public housing agencies

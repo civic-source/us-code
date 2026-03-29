@@ -3,9 +3,9 @@ title: "Section 832m - Sale of excess Federal power; fish and wildlife conservat
 usc_title: 16
 usc_section: "832m"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 832m"
-generated_at: "2026-03-29T22:19:14.376Z"
+generated_at: "2026-03-29T22:25:36.757Z"
 ---
 
 # § 832m. Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility

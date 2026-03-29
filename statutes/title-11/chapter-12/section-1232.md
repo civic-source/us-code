@@ -3,9 +3,9 @@ title: "Section 1232 - Claim by a governmental unit based on the disposition of 
 usc_title: 11
 usc_section: "1232"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "11 U.S.C. § 1232"
-generated_at: "2026-03-29T22:18:51.156Z"
+generated_at: "2026-03-29T22:25:17.723Z"
 ---
 
 # § 1232. Claim by a governmental unit based on the disposition of property used in a farming operation

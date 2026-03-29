@@ -3,9 +3,9 @@ title: "Section 21508 - Technical assistance"
 usc_title: 34
 usc_section: "21508"
 chapter: 215
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "34 U.S.C. § 21508"
-generated_at: "2026-03-29T22:20:59.751Z"
+generated_at: "2026-03-29T22:27:35.767Z"
 ---
 
 # § 21508. Technical assistance

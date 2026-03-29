@@ -3,9 +3,9 @@ title: "Section 1334 - Naval Intelligence Office: additional copies of publicati
 usc_title: 44
 usc_section: "1334"
 chapter: 13
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "44 U.S.C. § 1334"
-generated_at: "2026-03-29T22:21:34.835Z"
+generated_at: "2026-03-29T22:28:56.270Z"
 ---
 
 # § 1334. Naval Intelligence Office: additional copies of publications

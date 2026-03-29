@@ -3,9 +3,9 @@ title: "Section 364a - Board on Geographic Names; establishment and membership; 
 usc_title: 43
 usc_section: "364a"
 chapter: 11
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 364a"
-generated_at: "2026-03-29T22:21:42.234Z"
+generated_at: "2026-03-29T22:28:42.283Z"
 ---
 
 # § 364a. Board on Geographic Names; establishment and membership; appointment and term of office

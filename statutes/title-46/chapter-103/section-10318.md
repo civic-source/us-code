@@ -3,9 +3,9 @@ title: "Section 10318 - Wages on discharge in foreign ports"
 usc_title: 46
 usc_section: "10318"
 chapter: 103
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 10318"
-generated_at: "2026-03-29T22:23:02.681Z"
+generated_at: "2026-03-29T22:30:18.659Z"
 ---
 
 # § 10318. Wages on discharge in foreign ports

@@ -3,9 +3,9 @@ title: "Section 941g - Authorization of appropriations"
 usc_title: 16
 usc_section: "941g"
 chapter: 15
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 941g"
-generated_at: "2026-03-29T22:19:14.393Z"
+generated_at: "2026-03-29T22:25:36.774Z"
 ---
 
 # § 941g. Authorization of appropriations

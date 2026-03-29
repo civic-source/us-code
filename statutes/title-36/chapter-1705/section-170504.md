@@ -3,9 +3,9 @@ title: "Section 170504 - Membership"
 usc_title: 36
 usc_section: "170504"
 chapter: 1705
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "36 U.S.C. § 170504"
-generated_at: "2026-03-29T22:21:13.711Z"
+generated_at: "2026-03-29T22:28:14.947Z"
 ---
 
 # § 170504. Membership

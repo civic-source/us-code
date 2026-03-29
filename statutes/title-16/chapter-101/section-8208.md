@@ -3,9 +3,9 @@ title: "Section 8208 - Interagency operational plan"
 usc_title: 16
 usc_section: "8208"
 chapter: 101
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 8208"
-generated_at: "2026-03-29T22:19:14.637Z"
+generated_at: "2026-03-29T22:25:37.074Z"
 ---
 
 # § 8208. Interagency operational plan

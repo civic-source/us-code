@@ -3,9 +3,9 @@ title: "Section 290 - Acceptance of membership by the United States"
 usc_title: 22
 usc_section: "290"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 290"
-generated_at: "2026-03-29T22:19:52.792Z"
+generated_at: "2026-03-29T22:26:05.845Z"
 ---
 
 # § 290. Acceptance of membership by the United States

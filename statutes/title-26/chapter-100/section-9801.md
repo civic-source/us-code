@@ -3,9 +3,9 @@ title: "Section 9801 - Increased portability through limitation on preexisting c
 usc_title: 26
 usc_section: "9801"
 chapter: 100
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 9801"
-generated_at: "2026-03-29T22:20:51.761Z"
+generated_at: "2026-03-29T22:27:06.104Z"
 ---
 
 # § 9801. Increased portability through limitation on preexisting condition exclusions

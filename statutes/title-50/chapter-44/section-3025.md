@@ -3,9 +3,9 @@ title: "Section 3025 - Office of the Director of National Intelligence"
 usc_title: 50
 usc_section: "3025"
 chapter: 44
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 3025"
-generated_at: "2026-03-29T22:22:36.047Z"
+generated_at: "2026-03-29T22:30:08.988Z"
 ---
 
 # § 3025. Office of the Director of National Intelligence

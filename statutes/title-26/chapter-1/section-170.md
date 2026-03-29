@@ -3,9 +3,9 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-03-29T22:20:51.116Z"
+generated_at: "2026-03-29T22:27:05.444Z"
 ---
 
 # § 170. Charitable, etc., contributions and gifts

@@ -3,9 +3,9 @@ title: "Section 1502 - Certificate of nationality issued by Secretary of State f
 usc_title: 8
 usc_section: "1502"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "8 U.S.C. § 1502"
-generated_at: "2026-03-29T22:17:54.361Z"
+generated_at: "2026-03-29T22:24:16.034Z"
 ---
 
 # § 1502. Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a foreign state

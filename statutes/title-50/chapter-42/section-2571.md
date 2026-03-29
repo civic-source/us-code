@@ -3,9 +3,9 @@ title: "Section 2571 - Nuclear Nonproliferation Fellowships for scientists emplo
 usc_title: 50
 usc_section: "2571"
 chapter: 42
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2571"
-generated_at: "2026-03-29T22:22:36.022Z"
+generated_at: "2026-03-29T22:30:08.966Z"
 ---
 
 # § 2571. Nuclear Nonproliferation Fellowships for scientists employed by United States and Russian Federation

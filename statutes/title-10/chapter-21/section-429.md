@@ -3,9 +3,9 @@ title: "Section 429 - Appropriations for Defense intelligence elements: accounts
 usc_title: 10
 usc_section: "429"
 chapter: 21
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 429"
-generated_at: "2026-03-29T22:18:45.821Z"
+generated_at: "2026-03-29T22:24:51.432Z"
 ---
 
 # § 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority

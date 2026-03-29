@@ -3,9 +3,9 @@ title: "Section 30910 - Exoneration and limitation"
 usc_title: 46
 usc_section: "30910"
 chapter: 309
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 30910"
-generated_at: "2026-03-29T22:23:02.702Z"
+generated_at: "2026-03-29T22:30:18.678Z"
 ---
 
 # § 30910. Exoneration and limitation

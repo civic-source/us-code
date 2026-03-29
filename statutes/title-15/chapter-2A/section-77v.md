@@ -3,9 +3,9 @@ title: "Section 77v - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "77v"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 77v"
-generated_at: "2026-03-29T22:19:02.477Z"
+generated_at: "2026-03-29T22:25:15.628Z"
 ---
 
 # § 77v. Jurisdiction of offenses and suits

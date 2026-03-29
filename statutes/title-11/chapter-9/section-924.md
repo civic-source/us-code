@@ -3,9 +3,9 @@ title: "Section 924 - List of creditors"
 usc_title: 11
 usc_section: "924"
 chapter: 9
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "11 U.S.C. § 924"
-generated_at: "2026-03-29T22:18:51.146Z"
+generated_at: "2026-03-29T22:25:17.710Z"
 ---
 
 # § 924. List of creditors

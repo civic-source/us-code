@@ -3,9 +3,9 @@ title: "Section 126 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 16
 usc_section: "126"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 126"
-generated_at: "2026-03-29T22:19:14.070Z"
+generated_at: "2026-03-29T22:25:36.356Z"
 ---
 
 # §§ 125, 126. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

@@ -3,9 +3,9 @@ title: "Section 6114 - Treaty-based return positions"
 usc_title: 26
 usc_section: "6114"
 chapter: 61
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 6114"
-generated_at: "2026-03-29T22:20:51.631Z"
+generated_at: "2026-03-29T22:27:05.970Z"
 ---
 
 # § 6114. Treaty-based return positions

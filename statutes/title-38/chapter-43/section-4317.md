@@ -3,9 +3,9 @@ title: "Section 4317 - Health plans"
 usc_title: 38
 usc_section: "4317"
 chapter: 43
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 4317"
-generated_at: "2026-03-29T22:21:25.555Z"
+generated_at: "2026-03-29T22:28:32.317Z"
 ---
 
 # § 4317. Health plans

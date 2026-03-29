@@ -3,9 +3,9 @@ title: "Section 6307 - Furnishing of information, data, or reports by Federal ag
 usc_title: 49
 usc_section: "6307"
 chapter: 63
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 6307"
-generated_at: "2026-03-29T22:23:16.312Z"
+generated_at: "2026-03-29T22:30:14.792Z"
 ---
 
 # § 6307. Furnishing of information, data, or reports by Federal agencies

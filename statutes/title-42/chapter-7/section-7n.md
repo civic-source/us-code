@@ -3,9 +3,9 @@ title: "Section 7n - Disclosure of predictive modeling and other analytics techn
 usc_title: 42
 usc_section: "7n"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 7n"
-generated_at: "2026-03-29T22:22:16.376Z"
+generated_at: "2026-03-29T22:29:56.588Z"
 ---
 
 # § 1320a–7n. Disclosure of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse

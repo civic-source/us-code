@@ -3,9 +3,9 @@ title: "Section 1431 - Children born outside the United States and lawfully admi
 usc_title: 8
 usc_section: "1431"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "8 U.S.C. § 1431"
-generated_at: "2026-03-29T22:17:54.355Z"
+generated_at: "2026-03-29T22:24:16.026Z"
 ---
 
 # § 1431. Children born outside the United States and lawfully admitted for permanent residence; conditions under which citizenship automatically acquired

@@ -3,9 +3,9 @@ title: "Section 76h - Board of Trustees"
 usc_title: 20
 usc_section: "76h"
 chapter: 3
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "20 U.S.C. § 76h"
-generated_at: "2026-03-29T22:19:22.697Z"
+generated_at: "2026-03-29T22:25:48.010Z"
 ---
 
 # § 76h. Board of Trustees

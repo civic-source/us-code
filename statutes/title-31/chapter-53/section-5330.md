@@ -3,9 +3,9 @@ title: "Section 5330 - Registration of money transmitting businesses"
 usc_title: 31
 usc_section: "5330"
 chapter: 53
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "31 U.S.C. § 5330"
-generated_at: "2026-03-29T22:21:07.456Z"
+generated_at: "2026-03-29T22:27:17.795Z"
 ---
 
 # § 5330. Registration of money transmitting businesses

@@ -3,9 +3,9 @@ title: "Section 3194 - Transportation of fugitive by receiving agent"
 usc_title: 18
 usc_section: "3194"
 chapter: 209
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 3194"
-generated_at: "2026-03-29T22:19:32.725Z"
+generated_at: "2026-03-29T22:25:27.091Z"
 ---
 
 # § 3194. Transportation of fugitive by receiving agent

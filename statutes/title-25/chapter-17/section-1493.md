@@ -3,9 +3,9 @@ title: "Section 1493 - Loan refusal; conditions; prohibition against acquisition
 usc_title: 25
 usc_section: "1493"
 chapter: 17
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 1493"
-generated_at: "2026-03-29T22:20:08.558Z"
+generated_at: "2026-03-29T22:25:56.718Z"
 ---
 
 # § 1493. Loan refusal; conditions; prohibition against acquisition of additional loans; payment of claims on loans made in good faith

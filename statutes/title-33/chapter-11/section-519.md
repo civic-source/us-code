@@ -3,9 +3,9 @@ title: "Section 519 - Noncompliance with orders; penalties; removal of bridge"
 usc_title: 33
 usc_section: "519"
 chapter: 11
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 519"
-generated_at: "2026-03-29T22:21:04.511Z"
+generated_at: "2026-03-29T22:27:50.921Z"
 ---
 
 # § 519. Noncompliance with orders; penalties; removal of bridge

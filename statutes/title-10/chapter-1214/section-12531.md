@@ -3,9 +3,9 @@ title: "Section 12531 - Purchase of insurance"
 usc_title: 10
 usc_section: "12531"
 chapter: 1214
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 12531"
-generated_at: "2026-03-29T22:18:46.118Z"
+generated_at: "2026-03-29T22:24:51.884Z"
 ---
 
 # § 12531. Purchase of insurance

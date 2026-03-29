@@ -3,9 +3,9 @@ title: "Section 460ll - Findings and declaration of policy"
 usc_title: 16
 usc_section: "460ll"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 460ll"
-generated_at: "2026-03-29T22:19:14.221Z"
+generated_at: "2026-03-29T22:25:36.544Z"
 ---
 
 # § 460ll. Findings and declaration of policy

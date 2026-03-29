@@ -3,9 +3,9 @@ title: "Section 12103 - Violent offender incarceration grants"
 usc_title: 34
 usc_section: "12103"
 chapter: 121
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "34 U.S.C. § 12103"
-generated_at: "2026-03-29T22:20:59.687Z"
+generated_at: "2026-03-29T22:27:35.709Z"
 ---
 
 # § 12103. Violent offender incarceration grants

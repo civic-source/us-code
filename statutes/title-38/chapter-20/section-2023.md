@@ -3,9 +3,9 @@ title: "Section 2023 - Referral and counseling services: veterans at risk of hom
 usc_title: 38
 usc_section: "2023"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 2023"
-generated_at: "2026-03-29T22:21:25.462Z"
+generated_at: "2026-03-29T22:28:32.253Z"
 ---
 
 # § 2023. Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions

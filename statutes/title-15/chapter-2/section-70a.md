@@ -3,9 +3,9 @@ title: "Section 70a - Violations of Federal Trade Commission Act"
 usc_title: 15
 usc_section: "70a"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 70a"
-generated_at: "2026-03-29T22:19:02.466Z"
+generated_at: "2026-03-29T22:25:15.615Z"
 ---
 
 # § 70a. Violations of Federal Trade Commission Act

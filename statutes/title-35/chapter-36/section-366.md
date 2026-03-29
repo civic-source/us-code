@@ -3,9 +3,9 @@ title: "Section 366 - Withdrawn international application"
 usc_title: 35
 usc_section: "366"
 chapter: 36
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "35 U.S.C. § 366"
-generated_at: "2026-03-29T22:20:55.100Z"
+generated_at: "2026-03-29T22:27:10.717Z"
 ---
 
 # § 366. Withdrawn international application

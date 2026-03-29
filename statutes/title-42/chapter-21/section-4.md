@@ -3,9 +3,9 @@ title: "Section 4 - Construction of provisions not to exclude operation of State
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T22:22:16.911Z"
+generated_at: "2026-03-29T22:29:57.123Z"
 ---
 
 # § 2000h–4. Construction of provisions not to exclude operation of State laws and not to invalidate consistent State laws

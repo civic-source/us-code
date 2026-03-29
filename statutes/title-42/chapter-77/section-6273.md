@@ -3,9 +3,9 @@ title: "Section 6273 - Advisory committees"
 usc_title: 42
 usc_section: "6273"
 chapter: 77
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 6273"
-generated_at: "2026-03-29T22:22:17.192Z"
+generated_at: "2026-03-29T22:29:57.390Z"
 ---
 
 # § 6273. Advisory committees

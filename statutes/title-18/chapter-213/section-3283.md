@@ -3,9 +3,9 @@ title: "Section 3283 - Offenses against children"
 usc_title: 18
 usc_section: "3283"
 chapter: 213
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 3283"
-generated_at: "2026-03-29T22:19:32.726Z"
+generated_at: "2026-03-29T22:25:27.093Z"
 ---
 
 # § 3283. Offenses against children

@@ -3,9 +3,9 @@ title: "Section 315l - Lands under national-forest administration"
 usc_title: 43
 usc_section: "315l"
 chapter: 8
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 315l"
-generated_at: "2026-03-29T22:21:42.229Z"
+generated_at: "2026-03-29T22:28:42.277Z"
 ---
 
 # § 315l. Lands under national-forest administration

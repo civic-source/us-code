@@ -3,9 +3,9 @@ title: "Section 3049a - Special pay authority for science, technology, engineeri
 usc_title: 50
 usc_section: "3049a"
 chapter: 44
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 3049a"
-generated_at: "2026-03-29T22:22:36.054Z"
+generated_at: "2026-03-29T22:30:08.993Z"
 ---
 
 # § 3049a. Special pay authority for science, technology, engineering, or mathematics positions

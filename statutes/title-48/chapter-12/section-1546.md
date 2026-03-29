@@ -3,9 +3,9 @@ title: "Section 1546 - Authorization of appropriations"
 usc_title: 48
 usc_section: "1546"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "48 U.S.C. § 1546"
-generated_at: "2026-03-29T22:22:29.309Z"
+generated_at: "2026-03-29T22:30:04.001Z"
 ---
 
 # § 1546. Authorization of appropriations

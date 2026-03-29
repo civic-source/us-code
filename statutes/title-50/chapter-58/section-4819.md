@@ -3,9 +3,9 @@ title: "Section 4819 - Penalties"
 usc_title: 50
 usc_section: "4819"
 chapter: 58
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 4819"
-generated_at: "2026-03-29T22:22:36.180Z"
+generated_at: "2026-03-29T22:30:09.106Z"
 ---
 
 # § 4819. Penalties

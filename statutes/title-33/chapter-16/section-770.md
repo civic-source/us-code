@@ -3,9 +3,9 @@ title: "Section 770 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "770"
 chapter: 16
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 770"
-generated_at: "2026-03-29T22:21:04.543Z"
+generated_at: "2026-03-29T22:27:50.959Z"
 ---
 
 # § 770. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(14), Jan. 1, 2021 , 134 Stat. 4759

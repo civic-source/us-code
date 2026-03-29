@@ -3,9 +3,9 @@ title: "Section 16501 - Commercial byproducts from municipal solid waste and cel
 usc_title: 42
 usc_section: "16501"
 chapter: 149
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 16501"
-generated_at: "2026-03-29T22:22:17.876Z"
+generated_at: "2026-03-29T22:29:57.997Z"
 ---
 
 # § 16501. Commercial byproducts from municipal solid waste and cellulosic biomass loan guarantee program

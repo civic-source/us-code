@@ -3,9 +3,9 @@ title: "Section 3723 - STEM apprenticeship programs"
 usc_title: 15
 usc_section: "3723"
 chapter: 63
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 3723"
-generated_at: "2026-03-29T22:19:02.938Z"
+generated_at: "2026-03-29T22:25:16.085Z"
 ---
 
 # § 3723. STEM apprenticeship programs

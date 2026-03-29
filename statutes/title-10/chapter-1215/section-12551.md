@@ -3,9 +3,9 @@ title: "Section 12551 - Repealed. Pub. L. 107–314, div. A, title V, § 515(a) 
 usc_title: 10
 usc_section: "12551"
 chapter: 1215
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 12551"
-generated_at: "2026-03-29T22:18:46.119Z"
+generated_at: "2026-03-29T22:24:51.884Z"
 ---
 
 # [§ 12551. Repealed. Pub. L. 107–314, div. A, title V, § 515(a) , Dec. 2, 2002 , 116 Stat. 2539 ]

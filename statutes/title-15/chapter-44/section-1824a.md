@@ -3,9 +3,9 @@ title: "Section 1824a - Export of horses"
 usc_title: 15
 usc_section: "1824a"
 chapter: 44
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 1824a"
-generated_at: "2026-03-29T22:19:02.836Z"
+generated_at: "2026-03-29T22:25:15.981Z"
 ---
 
 # § 1824a. Export of horses

@@ -3,9 +3,9 @@ title: "Section 488 - Making or possessing counterfeit dies for foreign coins"
 usc_title: 18
 usc_section: "488"
 chapter: 25
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 488"
-generated_at: "2026-03-29T22:19:32.603Z"
+generated_at: "2026-03-29T22:25:26.968Z"
 ---
 
 # § 488. Making or possessing counterfeit dies for foreign coins

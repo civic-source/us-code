@@ -3,9 +3,9 @@ title: "Section 2631 - Establishment"
 usc_title: 29
 usc_section: "2631"
 chapter: 28
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "29 U.S.C. § 2631"
-generated_at: "2026-03-29T22:20:18.511Z"
+generated_at: "2026-03-29T22:26:32.970Z"
 ---
 
 # § 2631. Establishment

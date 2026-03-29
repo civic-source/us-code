@@ -3,9 +3,9 @@ title: "Section 6945 - Rural Development Disaster Assistance Fund"
 usc_title: 7
 usc_section: "6945"
 chapter: 98
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 6945"
-generated_at: "2026-03-29T22:18:14.361Z"
+generated_at: "2026-03-29T22:24:25.215Z"
 ---
 
 # § 6945. Rural Development Disaster Assistance Fund

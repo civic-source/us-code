@@ -3,9 +3,9 @@ title: "Section 7555 - Formulation of long-term strategy for Afghanistan"
 usc_title: 22
 usc_section: "7555"
 chapter: 82
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 7555"
-generated_at: "2026-03-29T22:19:53.103Z"
+generated_at: "2026-03-29T22:26:06.184Z"
 ---
 
 # § 7555. Formulation of long-term strategy for Afghanistan

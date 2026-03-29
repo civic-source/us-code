@@ -3,9 +3,9 @@ title: "Section 487b - Transferred"
 usc_title: 48
 usc_section: "487b"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "48 U.S.C. § 487b"
-generated_at: "2026-03-29T22:22:29.285Z"
+generated_at: "2026-03-29T22:30:03.981Z"
 ---
 
 # §§ 487 to 487b. Transferred

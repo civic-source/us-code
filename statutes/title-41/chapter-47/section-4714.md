@@ -3,9 +3,9 @@ title: "Section 4714 - Prohibition on criminal history inquiries by contractors 
 usc_title: 41
 usc_section: "4714"
 chapter: 47
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "41 U.S.C. § 4714"
-generated_at: "2026-03-29T22:21:32.372Z"
+generated_at: "2026-03-29T22:28:48.695Z"
 ---
 
 # § 4714. Prohibition on criminal history inquiries by contractors prior to conditional offer

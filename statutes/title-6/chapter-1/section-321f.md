@@ -3,9 +3,9 @@ title: "Section 321f - Nuclear incident response"
 usc_title: 6
 usc_section: "321f"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "6 U.S.C. § 321f"
-generated_at: "2026-03-29T22:17:49.143Z"
+generated_at: "2026-03-29T22:24:14.175Z"
 ---
 
 # § 321f. Nuclear incident response

@@ -3,9 +3,9 @@ title: "Section 8082a - Deputy Chief of Chaplains"
 usc_title: 10
 usc_section: "8082a"
 chapter: 809
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 8082a"
-generated_at: "2026-03-29T22:18:46.067Z"
+generated_at: "2026-03-29T22:24:51.801Z"
 ---
 
 # § 8082a. Deputy Chief of Chaplains

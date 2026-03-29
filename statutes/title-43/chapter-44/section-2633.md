@@ -3,9 +3,9 @@ title: "Section 2633 - Designation of national-forest areas within counties; dis
 usc_title: 43
 usc_section: "2633"
 chapter: 44
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 2633"
-generated_at: "2026-03-29T22:21:42.439Z"
+generated_at: "2026-03-29T22:28:42.424Z"
 ---
 
 # § 2633. Designation of national-forest areas within counties; disposition of revenues; approval by court

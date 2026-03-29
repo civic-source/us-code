@@ -3,9 +3,9 @@ title: "Section 3 - Rulemaking process"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-29T22:19:02.461Z"
+generated_at: "2026-03-29T22:25:15.611Z"
 ---
 
 # § 57b–3. Rulemaking process

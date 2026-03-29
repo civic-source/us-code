@@ -3,9 +3,9 @@ title: "Section 1 - Limitation on educational assistance"
 usc_title: 33
 usc_section: "1"
 chapter: 43
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-29T22:21:04.697Z"
+generated_at: "2026-03-29T22:27:51.126Z"
 ---
 
 # § 3079–1. Limitation on educational assistance

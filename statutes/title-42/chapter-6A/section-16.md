@@ -3,9 +3,9 @@ title: "Section 16 - Voluntary application and use of adopted standards and impl
 usc_title: 42
 usc_section: "16"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-29T22:22:16.202Z"
+generated_at: "2026-03-29T22:29:56.421Z"
 ---
 
 # § 300jj–16. Voluntary application and use of adopted standards and implementation specifications by private entities

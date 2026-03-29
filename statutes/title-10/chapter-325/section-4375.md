@@ -3,9 +3,9 @@ title: "Section 4375 - Breach of significant cost growth threshold or critical c
 usc_title: 10
 usc_section: "4375"
 chapter: 325
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 4375"
-generated_at: "2026-03-29T22:18:46.033Z"
+generated_at: "2026-03-29T22:24:51.749Z"
 ---
 
 # § 4375. Breach of significant cost growth threshold or critical cost growth threshold: required action

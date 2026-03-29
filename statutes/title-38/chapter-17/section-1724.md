@@ -3,9 +3,9 @@ title: "Section 1724 - Hospital care, medical services, and nursing home care ab
 usc_title: 38
 usc_section: "1724"
 chapter: 17
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 1724"
-generated_at: "2026-03-29T22:21:25.429Z"
+generated_at: "2026-03-29T22:28:32.232Z"
 ---
 
 # § 1724. Hospital care, medical services, and nursing home care abroad

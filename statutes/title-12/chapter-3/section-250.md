@@ -3,9 +3,9 @@ title: "Section 250 - Independence of financial regulatory agencies"
 usc_title: 12
 usc_section: "250"
 chapter: 3
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "12 U.S.C. § 250"
-generated_at: "2026-03-29T22:18:56.261Z"
+generated_at: "2026-03-29T22:25:04.615Z"
 ---
 
 # § 250. Independence of financial regulatory agencies

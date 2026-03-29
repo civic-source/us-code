@@ -3,9 +3,9 @@ title: "Section 6 - Sale of surplus agricultural commodities to foreign governme
 usc_title: 15
 usc_section: "6"
 chapter: 15
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-29T22:19:02.716Z"
+generated_at: "2026-03-29T22:25:15.850Z"
 ---
 
 # § 713a–6. Sale of surplus agricultural commodities to foreign governments

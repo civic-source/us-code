@@ -3,9 +3,9 @@ title: "Section 2256 - Inspections, analyses, and tests for other Government dep
 usc_title: 7
 usc_section: "2256"
 chapter: 55
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 2256"
-generated_at: "2026-03-29T22:18:14.252Z"
+generated_at: "2026-03-29T22:24:25.071Z"
 ---
 
 # § 2256. Inspections, analyses, and tests for other Government departments and agencies; reimbursement

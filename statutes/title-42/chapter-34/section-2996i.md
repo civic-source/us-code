@@ -3,9 +3,9 @@ title: "Section 2996i - Financing"
 usc_title: 42
 usc_section: "2996i"
 chapter: 34
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 2996i"
-generated_at: "2026-03-29T22:22:16.988Z"
+generated_at: "2026-03-29T22:29:57.201Z"
 ---
 
 # § 2996i. Financing

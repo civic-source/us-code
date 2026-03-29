@@ -3,9 +3,9 @@ title: "Section 242 - Department of Homeland Security Blue Campaign"
 usc_title: 6
 usc_section: "242"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "6 U.S.C. § 242"
-generated_at: "2026-03-29T22:17:49.129Z"
+generated_at: "2026-03-29T22:24:14.165Z"
 ---
 
 # § 242. Department of Homeland Security Blue Campaign

@@ -3,9 +3,9 @@ title: "Section 2144 - Review of activities to ensure compliance with Fiscal Pla
 usc_title: 48
 usc_section: "2144"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "48 U.S.C. § 2144"
-generated_at: "2026-03-29T22:22:29.347Z"
+generated_at: "2026-03-29T22:30:04.034Z"
 ---
 
 # § 2144. Review of activities to ensure compliance with Fiscal Plan

@@ -3,9 +3,9 @@ title: "Section 3374 - Acquisition of property at or near military bases which h
 usc_title: 42
 usc_section: "3374"
 chapter: 41
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 3374"
-generated_at: "2026-03-29T22:22:17.034Z"
+generated_at: "2026-03-29T22:29:57.243Z"
 ---
 
 # § 3374. Acquisition of property at or near military bases which have been ordered to be closed and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses

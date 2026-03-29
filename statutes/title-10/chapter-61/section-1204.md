@@ -3,9 +3,9 @@ title: "Section 1204 - Members on active duty for 30 days or less or on inactive
 usc_title: 10
 usc_section: "1204"
 chapter: 61
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 1204"
-generated_at: "2026-03-29T22:18:45.897Z"
+generated_at: "2026-03-29T22:24:51.548Z"
 ---
 
 # § 1204. Members on active duty for 30 days or less or on inactive-duty training: retirement

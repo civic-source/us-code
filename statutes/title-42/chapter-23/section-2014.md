@@ -3,9 +3,9 @@ title: "Section 2014 - Definitions"
 usc_title: 42
 usc_section: "2014"
 chapter: 23
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 2014"
-generated_at: "2026-03-29T22:22:16.919Z"
+generated_at: "2026-03-29T22:29:57.133Z"
 ---
 
 # § 2014. Definitions

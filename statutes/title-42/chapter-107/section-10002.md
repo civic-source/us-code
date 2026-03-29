@@ -3,9 +3,9 @@ title: "Section 10002 - Statement of purpose"
 usc_title: 42
 usc_section: "10002"
 chapter: 107
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 10002"
-generated_at: "2026-03-29T22:22:17.574Z"
+generated_at: "2026-03-29T22:29:57.731Z"
 ---
 
 # § 10002. Statement of purpose

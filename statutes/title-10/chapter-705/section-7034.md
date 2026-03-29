@@ -3,9 +3,9 @@ title: "Section 7034 - Vice Chief of Staff"
 usc_title: 10
 usc_section: "7034"
 chapter: 705
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 7034"
-generated_at: "2026-03-29T22:18:46.049Z"
+generated_at: "2026-03-29T22:24:51.770Z"
 ---
 
 # § 7034. Vice Chief of Staff

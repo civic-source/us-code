@@ -3,9 +3,9 @@ title: "Section 7627 - Air pollution from Outer Continental Shelf activities"
 usc_title: 42
 usc_section: "7627"
 chapter: 85
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 7627"
-generated_at: "2026-03-29T22:22:17.401Z"
+generated_at: "2026-03-29T22:29:57.581Z"
 ---
 
 # § 7627. Air pollution from Outer Continental Shelf activities

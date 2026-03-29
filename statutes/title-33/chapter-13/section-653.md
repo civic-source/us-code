@@ -3,9 +3,9 @@ title: "Section 653 - Extension of jurisdiction of Mississippi River Commission"
 usc_title: 33
 usc_section: "653"
 chapter: 13
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 653"
-generated_at: "2026-03-29T22:21:04.527Z"
+generated_at: "2026-03-29T22:27:50.942Z"
 ---
 
 # § 653. Extension of jurisdiction of Mississippi River Commission

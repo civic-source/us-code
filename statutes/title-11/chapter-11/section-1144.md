@@ -3,9 +3,9 @@ title: "Section 1144 - Revocation of an order of confirmation"
 usc_title: 11
 usc_section: "1144"
 chapter: 11
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "11 U.S.C. § 1144"
-generated_at: "2026-03-29T22:18:51.151Z"
+generated_at: "2026-03-29T22:25:17.717Z"
 ---
 
 # § 1144. Revocation of an order of confirmation

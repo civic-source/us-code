@@ -3,9 +3,9 @@ title: "Section 6083 - Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 3
 usc_title: 42
 usc_section: "6083"
 chapter: 75
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 6083"
-generated_at: "2026-03-29T22:22:17.183Z"
+generated_at: "2026-03-29T22:29:57.381Z"
 ---
 
 # §§ 6081 to 6083. Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 30, 2000 , 114 Stat. 1737

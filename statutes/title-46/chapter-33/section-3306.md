@@ -3,9 +3,9 @@ title: "Section 3306 - Regulations"
 usc_title: 46
 usc_section: "3306"
 chapter: 33
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 3306"
-generated_at: "2026-03-29T22:23:02.652Z"
+generated_at: "2026-03-29T22:30:18.634Z"
 ---
 
 # § 3306. Regulations

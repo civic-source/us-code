@@ -3,9 +3,9 @@ title: "Section 1053 - Delegation of responsibility for operation"
 usc_title: 16
 usc_section: "1053"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 1053"
-generated_at: "2026-03-29T22:19:14.404Z"
+generated_at: "2026-03-29T22:25:36.788Z"
 ---
 
 # § 1053. Delegation of responsibility for operation

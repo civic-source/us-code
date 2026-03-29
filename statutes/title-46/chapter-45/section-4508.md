@@ -3,9 +3,9 @@ title: "Section 4508 - Repealed. Pub. L. 115–282, title VI, § 601(c)(1) , Dec
 usc_title: 46
 usc_section: "4508"
 chapter: 45
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 4508"
-generated_at: "2026-03-29T22:23:02.662Z"
+generated_at: "2026-03-29T22:30:18.647Z"
 ---
 
 # [§ 4508. Repealed. Pub. L. 115–282, title VI, § 601(c)(1) , Dec. 4, 2018 , 132 Stat. 4289 ]

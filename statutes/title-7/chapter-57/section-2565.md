@@ -3,9 +3,9 @@ title: "Section 2565 - Attorney fees"
 usc_title: 7
 usc_section: "2565"
 chapter: 57
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 2565"
-generated_at: "2026-03-29T22:18:14.262Z"
+generated_at: "2026-03-29T22:24:25.085Z"
 ---
 
 # § 2565. Attorney fees

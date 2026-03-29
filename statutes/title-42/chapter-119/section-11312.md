@@ -3,9 +3,9 @@ title: "Section 11312 - Membership"
 usc_title: 42
 usc_section: "11312"
 chapter: 119
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 11312"
-generated_at: "2026-03-29T22:22:17.625Z"
+generated_at: "2026-03-29T22:29:57.779Z"
 ---
 
 # § 11312. Membership

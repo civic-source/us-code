@@ -3,9 +3,9 @@ title: "Section 1715w - Mortgage insurance for nursing homes, intermediate care 
 usc_title: 12
 usc_section: "1715w"
 chapter: 13
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "12 U.S.C. § 1715w"
-generated_at: "2026-03-29T22:18:56.348Z"
+generated_at: "2026-03-29T22:25:04.752Z"
 ---
 
 # § 1715w. Mortgage insurance for nursing homes, intermediate care facilities, and board and care homes

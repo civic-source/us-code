@@ -3,9 +3,9 @@ title: "Section 5845 - Definitions"
 usc_title: 26
 usc_section: "5845"
 chapter: 53
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 5845"
-generated_at: "2026-03-29T22:20:51.592Z"
+generated_at: "2026-03-29T22:27:05.928Z"
 ---
 
 # § 5845. Definitions

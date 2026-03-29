@@ -3,9 +3,9 @@ title: "Section 101332 - General authority of Secretary"
 usc_title: 54
 usc_section: "101332"
 chapter: 1013
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "54 U.S.C. § 101332"
-generated_at: "2026-03-29T22:23:22.767Z"
+generated_at: "2026-03-29T22:30:22.575Z"
 ---
 
 # § 101332. General authority of Secretary

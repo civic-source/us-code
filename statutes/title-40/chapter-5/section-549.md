@@ -3,9 +3,9 @@ title: "Section 549 - Donation of personal property through state agencies"
 usc_title: 40
 usc_section: "549"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "40 U.S.C. § 549"
-generated_at: "2026-03-29T22:21:17.247Z"
+generated_at: "2026-03-29T22:28:09.574Z"
 ---
 
 # § 549. Donation of personal property through state agencies

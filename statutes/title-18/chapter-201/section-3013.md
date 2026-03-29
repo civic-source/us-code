@@ -3,9 +3,9 @@ title: "Section 3013 - Special assessment on convicted persons"
 usc_title: 18
 usc_section: "3013"
 chapter: 201
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 3013"
-generated_at: "2026-03-29T22:19:32.714Z"
+generated_at: "2026-03-29T22:25:27.080Z"
 ---
 
 # § 3013. Special assessment on convicted persons

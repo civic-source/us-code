@@ -3,9 +3,9 @@ title: "Section 1022c - Inclusion of priority policies and programs in President
 usc_title: 15
 usc_section: "1022c"
 chapter: 21
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 1022c"
-generated_at: "2026-03-29T22:19:02.742Z"
+generated_at: "2026-03-29T22:25:15.877Z"
 ---
 
 # § 1022c. Inclusion of priority policies and programs in President’s Budget

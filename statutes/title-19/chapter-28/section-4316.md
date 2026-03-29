@@ -3,9 +3,9 @@ title: "Section 4316 - Commercial Customs Operations Advisory Committee"
 usc_title: 19
 usc_section: "4316"
 chapter: 28
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "19 U.S.C. § 4316"
-generated_at: "2026-03-29T22:19:36.475Z"
+generated_at: "2026-03-29T22:25:41.842Z"
 ---
 
 # § 4316. Commercial Customs Operations Advisory Committee

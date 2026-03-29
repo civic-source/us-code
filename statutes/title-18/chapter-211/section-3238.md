@@ -3,9 +3,9 @@ title: "Section 3238 - Offenses not committed in any district"
 usc_title: 18
 usc_section: "3238"
 chapter: 211
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 3238"
-generated_at: "2026-03-29T22:19:32.725Z"
+generated_at: "2026-03-29T22:25:27.092Z"
 ---
 
 # § 3238. Offenses not committed in any district

@@ -3,9 +3,9 @@ title: "Section 32308 - General prohibitions, civil penalty, and enforcement"
 usc_title: 49
 usc_section: "32308"
 chapter: 323
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 32308"
-generated_at: "2026-03-29T22:23:16.419Z"
+generated_at: "2026-03-29T22:30:14.900Z"
 ---
 
 # § 32308. General prohibitions, civil penalty, and enforcement

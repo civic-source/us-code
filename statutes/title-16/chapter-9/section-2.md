@@ -3,9 +3,9 @@ title: "Section 2 - Uniform allowance"
 usc_title: 16
 usc_section: "2"
 chapter: 9
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T22:19:14.342Z"
+generated_at: "2026-03-29T22:25:36.710Z"
 ---
 
 # § 742j–2. Uniform allowance

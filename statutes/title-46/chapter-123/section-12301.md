@@ -3,9 +3,9 @@ title: "Section 12301 - Numbering vessels"
 usc_title: 46
 usc_section: "12301"
 chapter: 123
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 12301"
-generated_at: "2026-03-29T22:23:02.690Z"
+generated_at: "2026-03-29T22:30:18.671Z"
 ---
 
 # § 12301. Numbering vessels

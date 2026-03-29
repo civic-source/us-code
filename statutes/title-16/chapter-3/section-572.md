@@ -3,9 +3,9 @@ title: "Section 572 - Cooperation between Secretary of Agriculture and public or
 usc_title: 16
 usc_section: "572"
 chapter: 3
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 572"
-generated_at: "2026-03-29T22:19:14.301Z"
+generated_at: "2026-03-29T22:25:36.650Z"
 ---
 
 # § 572. Cooperation between Secretary of Agriculture and public or private agencies in working land under State or private ownership

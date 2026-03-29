@@ -3,9 +3,9 @@ title: "Section 8454 - Medical examination"
 usc_title: 5
 usc_section: "8454"
 chapter: 84
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "5 U.S.C. § 8454"
-generated_at: "2026-03-29T22:17:32.174Z"
+generated_at: "2026-03-29T22:24:09.945Z"
 ---
 
 # § 8454. Medical examination

@@ -3,9 +3,9 @@ title: "Section 132 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(18), 
 usc_title: 22
 usc_section: "132"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 132"
-generated_at: "2026-03-29T22:19:52.741Z"
+generated_at: "2026-03-29T22:26:05.789Z"
 ---
 
 # § 132. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(18), 60 Stat. 1036

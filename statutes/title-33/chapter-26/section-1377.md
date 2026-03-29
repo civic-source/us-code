@@ -3,9 +3,9 @@ title: "Section 1377 - Indian tribes"
 usc_title: 33
 usc_section: "1377"
 chapter: 26
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 1377"
-generated_at: "2026-03-29T22:21:04.620Z"
+generated_at: "2026-03-29T22:27:51.042Z"
 ---
 
 # § 1377. Indian tribes

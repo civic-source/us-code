@@ -3,9 +3,9 @@ title: "Section 3697B - On-campus educational and vocational counseling"
 usc_title: 38
 usc_section: "3697B"
 chapter: 36
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 3697B"
-generated_at: "2026-03-29T22:21:25.528Z"
+generated_at: "2026-03-29T22:28:32.297Z"
 ---
 
 # § 3697B. On-campus educational and vocational counseling

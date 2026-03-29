@@ -3,9 +3,9 @@ title: "Section 1 - Interstate consolidations and mergers"
 usc_title: 12
 usc_section: "1"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-29T22:18:56.258Z"
+generated_at: "2026-03-29T22:25:04.610Z"
 ---
 
 # § 215a–1. Interstate consolidations and mergers

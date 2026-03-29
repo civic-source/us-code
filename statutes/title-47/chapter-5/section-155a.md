@@ -3,9 +3,9 @@ title: "Section 155a - Authority of Chief Information Officer"
 usc_title: 47
 usc_section: "155a"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "47 U.S.C. § 155a"
-generated_at: "2026-03-29T22:22:58.524Z"
+generated_at: "2026-03-29T22:30:16.318Z"
 ---
 
 # § 155a. Authority of Chief Information Officer

@@ -3,9 +3,9 @@ title: "Section 60301 - Capital representation improvement grants"
 usc_title: 34
 usc_section: "60301"
 chapter: 603
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "34 U.S.C. § 60301"
-generated_at: "2026-03-29T22:20:59.783Z"
+generated_at: "2026-03-29T22:27:35.801Z"
 ---
 
 # § 60301. Capital representation improvement grants

@@ -3,9 +3,9 @@ title: "Section 58102 - Default on payment or maintenance of reserves"
 usc_title: 46
 usc_section: "58102"
 chapter: 581
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 58102"
-generated_at: "2026-03-29T22:23:02.758Z"
+generated_at: "2026-03-29T22:30:18.727Z"
 ---
 
 # § 58102. Default on payment or maintenance of reserves

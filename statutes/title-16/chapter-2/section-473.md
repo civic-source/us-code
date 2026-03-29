@@ -3,9 +3,9 @@ title: "Section 473 - Revocation, modification, or vacation of orders or proclam
 usc_title: 16
 usc_section: "473"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 473"
-generated_at: "2026-03-29T22:19:14.267Z"
+generated_at: "2026-03-29T22:25:36.605Z"
 ---
 
 # § 473. Revocation, modification, or vacation of orders or proclamations establishing national forests

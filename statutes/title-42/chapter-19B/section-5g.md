@@ -3,9 +3,9 @@ title: "Section 5g - Hydroelectric power resources"
 usc_title: 42
 usc_section: "5g"
 chapter: 19
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 5g"
-generated_at: "2026-03-29T22:22:16.894Z"
+generated_at: "2026-03-29T22:29:57.105Z"
 ---
 
 # § 1962d–5g. Hydroelectric power resources

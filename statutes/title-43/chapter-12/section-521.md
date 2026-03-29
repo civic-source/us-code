@@ -3,9 +3,9 @@ title: "Section 521 - Sale of surplus waters generally"
 usc_title: 43
 usc_section: "521"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 521"
-generated_at: "2026-03-29T22:21:42.273Z"
+generated_at: "2026-03-29T22:28:42.313Z"
 ---
 
 # § 521. Sale of surplus waters generally

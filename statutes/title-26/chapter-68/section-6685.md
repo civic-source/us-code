@@ -3,9 +3,9 @@ title: "Section 6685 - Assessable penalty with respect to public inspection requ
 usc_title: 26
 usc_section: "6685"
 chapter: 68
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 6685"
-generated_at: "2026-03-29T22:20:51.681Z"
+generated_at: "2026-03-29T22:27:06.026Z"
 ---
 
 # § 6685. Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations

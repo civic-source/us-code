@@ -3,9 +3,9 @@ title: "Section 673 - Consideration of application for permanent change of stati
 usc_title: 10
 usc_section: "673"
 chapter: 39
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 673"
-generated_at: "2026-03-29T22:18:45.841Z"
+generated_at: "2026-03-29T22:24:51.461Z"
 ---
 
 # § 673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense

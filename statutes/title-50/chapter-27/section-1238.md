@@ -3,9 +3,9 @@ title: "Section 1238 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1238"
 chapter: 27
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 1238"
-generated_at: "2026-03-29T22:22:35.953Z"
+generated_at: "2026-03-29T22:30:08.906Z"
 ---
 
 # §§ 1231 to 1238. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

@@ -3,9 +3,9 @@ title: "Section 8481 - Repealed. Pub. L. 100–42, § 1(a)(7) , May 21, 1987 , 1
 usc_title: 42
 usc_section: "8481"
 chapter: 92
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 8481"
-generated_at: "2026-03-29T22:22:17.473Z"
+generated_at: "2026-03-29T22:29:57.639Z"
 ---
 
 # § 8481. Repealed. Pub. L. 100–42, § 1(a)(7) , May 21, 1987 , 101 Stat. 310

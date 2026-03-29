@@ -3,9 +3,9 @@ title: "Section 601 - Interstate Commerce Commission and Postmaster General; dut
 usc_title: 47
 usc_section: "601"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "47 U.S.C. § 601"
-generated_at: "2026-03-29T22:22:58.604Z"
+generated_at: "2026-03-29T22:30:16.393Z"
 ---
 
 # § 601. Interstate Commerce Commission and Postmaster General; duties, powers, and functions transferred to Commission

@@ -3,9 +3,9 @@ title: "Section 9 - Capital increase"
 usc_title: 22
 usc_section: "9"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 9"
-generated_at: "2026-03-29T22:19:52.799Z"
+generated_at: "2026-03-29T22:26:05.851Z"
 ---
 
 # § 290l–9. Capital increase

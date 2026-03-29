@@ -3,9 +3,9 @@ title: "Section 1507 - Construction and preemption"
 usc_title: 6
 usc_section: "1507"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "6 U.S.C. § 1507"
-generated_at: "2026-03-29T22:17:49.248Z"
+generated_at: "2026-03-29T22:24:14.278Z"
 ---
 
 # § 1507. Construction and preemption

@@ -3,9 +3,9 @@ title: "Section 50 - Separability"
 usc_title: 15
 usc_section: "50"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 50"
-generated_at: "2026-03-29T22:19:02.582Z"
+generated_at: "2026-03-29T22:25:15.725Z"
 ---
 
 # § 80a–50. Separability

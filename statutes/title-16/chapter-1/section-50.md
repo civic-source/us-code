@@ -3,9 +3,9 @@ title: "Section 50 - Authorization of appropriations"
 usc_title: 16
 usc_section: "50"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 50"
-generated_at: "2026-03-29T22:19:14.227Z"
+generated_at: "2026-03-29T22:25:36.553Z"
 ---
 
 # § 460uu–50. Authorization of appropriations

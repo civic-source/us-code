@@ -3,9 +3,9 @@ title: "Section 20962 - Process for adoption"
 usc_title: 52
 usc_section: "20962"
 chapter: 209
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "52 U.S.C. § 20962"
-generated_at: "2026-03-29T22:23:19.971Z"
+generated_at: "2026-03-29T22:30:21.689Z"
 ---
 
 # § 20962. Process for adoption

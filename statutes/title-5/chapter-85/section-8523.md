@@ -3,9 +3,9 @@ title: "Section 8523 - Dissemination of information"
 usc_title: 5
 usc_section: "8523"
 chapter: 85
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "5 U.S.C. § 8523"
-generated_at: "2026-03-29T22:17:32.179Z"
+generated_at: "2026-03-29T22:24:09.953Z"
 ---
 
 # § 8523. Dissemination of information

@@ -3,9 +3,9 @@ title: "Section 2011 - Repealed. Pub. L. 103–429, § 11(b) , Oct. 31, 1994 , 1
 usc_title: 15
 usc_section: "2011"
 chapter: 46
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 2011"
-generated_at: "2026-03-29T22:19:02.839Z"
+generated_at: "2026-03-29T22:25:15.983Z"
 ---
 
 # § 2011. Repealed. Pub. L. 103–429, § 11(b) , Oct. 31, 1994 , 108 Stat. 4392

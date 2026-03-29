@@ -3,9 +3,9 @@ title: "Section 1862a - Use of construction project funds to reimburse Capitol P
 usc_title: 2
 usc_section: "1862a"
 chapter: 28
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "2 U.S.C. § 1862a"
-generated_at: "2026-03-29T22:17:45.490Z"
+generated_at: "2026-03-29T22:24:03.494Z"
 ---
 
 # § 1862a. Use of construction project funds to reimburse Capitol Police for related overtime costs

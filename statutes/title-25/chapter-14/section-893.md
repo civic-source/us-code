@@ -3,9 +3,9 @@ title: "Section 893 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "893"
 chapter: 14
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 893"
-generated_at: "2026-03-29T22:20:08.547Z"
+generated_at: "2026-03-29T22:25:56.707Z"
 ---
 
 # § 893. Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 Stat. 770

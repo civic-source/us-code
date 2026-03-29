@@ -3,9 +3,9 @@ title: "Section 426a - Additional investigations concerning erosion of shores of
 usc_title: 33
 usc_section: "426a"
 chapter: 9
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 426a"
-generated_at: "2026-03-29T22:21:04.500Z"
+generated_at: "2026-03-29T22:27:50.911Z"
 ---
 
 # § 426a. Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; “shores” defined

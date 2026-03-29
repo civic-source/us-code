@@ -3,9 +3,9 @@ title: "Section 2416 - Time for commencing actions brought by the United States�
 usc_title: 28
 usc_section: "2416"
 chapter: 161
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 2416"
-generated_at: "2026-03-29T22:20:14.408Z"
+generated_at: "2026-03-29T22:26:26.727Z"
 ---
 
 # § 2416. Time for commencing actions brought by the United States—Exclusions

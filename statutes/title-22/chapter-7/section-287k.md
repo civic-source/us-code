@@ -3,9 +3,9 @@ title: "Section 287k - Congressional expression of satisfaction that expenditure
 usc_title: 22
 usc_section: "287k"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 287k"
-generated_at: "2026-03-29T22:19:52.789Z"
+generated_at: "2026-03-29T22:26:05.842Z"
 ---
 
 # § 287k. Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are “expenses of the Organization”

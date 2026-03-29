@@ -3,9 +3,9 @@ title: "Section 676 - Omitted"
 usc_title: 20
 usc_section: "676"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "20 U.S.C. § 676"
-generated_at: "2026-03-29T22:19:22.721Z"
+generated_at: "2026-03-29T22:25:48.036Z"
 ---
 
 # §§ 671 to 676. Omitted

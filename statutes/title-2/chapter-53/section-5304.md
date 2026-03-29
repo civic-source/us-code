@@ -3,9 +3,9 @@ title: "Section 5304 - Salaries of Representatives, Delegates, and Resident Comm
 usc_title: 2
 usc_section: "5304"
 chapter: 53
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "2 U.S.C. § 5304"
-generated_at: "2026-03-29T22:17:45.528Z"
+generated_at: "2026-03-29T22:24:03.540Z"
 ---
 
 # § 5304. Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms

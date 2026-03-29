@@ -3,9 +3,9 @@ title: "Section 18773 - Expansion of energy consumption surveys"
 usc_title: 42
 usc_section: "18773"
 chapter: 162
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 18773"
-generated_at: "2026-03-29T22:22:17.980Z"
+generated_at: "2026-03-29T22:29:58.085Z"
 ---
 
 # § 18773. Expansion of energy consumption surveys

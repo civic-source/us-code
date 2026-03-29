@@ -3,9 +3,9 @@ title: "Section 2101 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "2101"
 chapter: 53
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 2101"
-generated_at: "2026-03-29T22:18:14.238Z"
+generated_at: "2026-03-29T22:24:25.052Z"
 ---
 
 # § 2101. Congressional declaration of policy

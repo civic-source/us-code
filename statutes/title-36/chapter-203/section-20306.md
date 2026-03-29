@@ -3,9 +3,9 @@ title: "Section 20306 - Annual report"
 usc_title: 36
 usc_section: "20306"
 chapter: 203
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "36 U.S.C. § 20306"
-generated_at: "2026-03-29T22:21:13.675Z"
+generated_at: "2026-03-29T22:28:14.905Z"
 ---
 
 # § 20306. Annual report

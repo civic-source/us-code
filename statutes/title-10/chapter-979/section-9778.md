@@ -3,9 +3,9 @@ title: "Section 9778 - Licenses: military reservations; erection and use of buil
 usc_title: 10
 usc_section: "9778"
 chapter: 979
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 9778"
-generated_at: "2026-03-29T22:18:46.104Z"
+generated_at: "2026-03-29T22:24:51.863Z"
 ---
 
 # § 9778. Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association

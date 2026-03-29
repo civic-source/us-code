@@ -3,9 +3,9 @@ title: "Section 4023 - Procurement for experimental purposes"
 usc_title: 10
 usc_section: "4023"
 chapter: 301
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 4023"
-generated_at: "2026-03-29T22:18:46.020Z"
+generated_at: "2026-03-29T22:24:51.736Z"
 ---
 
 # § 4023. Procurement for experimental purposes

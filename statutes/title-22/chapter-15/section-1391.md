@@ -3,9 +3,9 @@ title: "Section 1391 - Transfer of property and rights to Philippine Commonwealt
 usc_title: 22
 usc_section: "1391"
 chapter: 15
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 1391"
-generated_at: "2026-03-29T22:19:52.813Z"
+generated_at: "2026-03-29T22:26:05.868Z"
 ---
 
 # § 1391. Transfer of property and rights to Philippine Commonwealth

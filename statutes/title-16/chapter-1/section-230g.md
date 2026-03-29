@@ -3,9 +3,9 @@ title: "Section 230g - Authorization of appropriations; general management plan;
 usc_title: 16
 usc_section: "230g"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 230g"
-generated_at: "2026-03-29T22:19:14.083Z"
+generated_at: "2026-03-29T22:25:36.373Z"
 ---
 
 # § 230g. Authorization of appropriations; general management plan; submission to Congressional committees

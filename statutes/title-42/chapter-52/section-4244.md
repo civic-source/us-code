@@ -3,9 +3,9 @@ title: "Section 4244 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96
 usc_title: 42
 usc_section: "4244"
 chapter: 52
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 4244"
-generated_at: "2026-03-29T22:22:17.074Z"
+generated_at: "2026-03-29T22:29:57.280Z"
 ---
 
 # §§ 4241 to 4244. Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 Stat. 1068

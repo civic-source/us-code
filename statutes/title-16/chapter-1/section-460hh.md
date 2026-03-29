@@ -3,9 +3,9 @@ title: "Section 460hh - Establishment; boundaries; publication in Federal Regist
 usc_title: 16
 usc_section: "460hh"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 460hh"
-generated_at: "2026-03-29T22:19:14.217Z"
+generated_at: "2026-03-29T22:25:36.540Z"
 ---
 
 # § 460hh. Establishment; boundaries; publication in Federal Register

@@ -3,9 +3,9 @@ title: "Section 2532 - Renumbered § 4852]"
 usc_title: 10
 usc_section: "2532"
 chapter: 148
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 2532"
-generated_at: "2026-03-29T22:18:45.968Z"
+generated_at: "2026-03-29T22:24:51.651Z"
 ---
 
 # [§ 2532. Renumbered § 4852]

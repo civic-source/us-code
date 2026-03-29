@@ -3,9 +3,9 @@ title: "Section 703 - Allotments: members of Coast Guard"
 usc_title: 37
 usc_section: "703"
 chapter: 13
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "37 U.S.C. § 703"
-generated_at: "2026-03-29T22:21:26.913Z"
+generated_at: "2026-03-29T22:27:55.041Z"
 ---
 
 # § 703. Allotments: members of Coast Guard

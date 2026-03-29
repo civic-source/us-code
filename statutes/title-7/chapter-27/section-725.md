@@ -3,9 +3,9 @@ title: "Section 725 - Repealed. Feb. 10, 1936, ch. 42 , 49 Stat. 1106"
 usc_title: 7
 usc_section: "725"
 chapter: 27
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 725"
-generated_at: "2026-03-29T22:18:14.095Z"
+generated_at: "2026-03-29T22:24:24.851Z"
 ---
 
 # § 725. Repealed. Feb. 10, 1936, ch. 42 , 49 Stat. 1106

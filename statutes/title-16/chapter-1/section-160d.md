@@ -3,9 +3,9 @@ title: "Section 160d - Concession contracts with former owners of commercial, re
 usc_title: 16
 usc_section: "160d"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 160d"
-generated_at: "2026-03-29T22:19:14.073Z"
+generated_at: "2026-03-29T22:25:36.359Z"
 ---
 
 # § 160d. Concession contracts with former owners of commercial, recreational, resort, or similar properties within park boundaries

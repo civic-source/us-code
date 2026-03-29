@@ -3,9 +3,9 @@ title: "Section 11050 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11050"
 chapter: 116
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 11050"
-generated_at: "2026-03-29T22:22:17.620Z"
+generated_at: "2026-03-29T22:29:57.774Z"
 ---
 
 # § 11050. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 204 - Codes and Supplements as evidence of the laws of United St
 usc_title: 1
 usc_section: "204"
 chapter: 3
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "1 U.S.C. § 204"
-generated_at: "2026-03-29T22:17:28.068Z"
+generated_at: "2026-03-29T22:23:58.727Z"
 ---
 
 # § 204. Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements

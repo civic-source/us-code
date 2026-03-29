@@ -3,9 +3,9 @@ title: "Section 1465 - Repealed. Pub. L. 103–182, title VI, § 690(b)(7) , Dec
 usc_title: 19
 usc_section: "1465"
 chapter: 4
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "19 U.S.C. § 1465"
-generated_at: "2026-03-29T22:19:36.303Z"
+generated_at: "2026-03-29T22:25:41.673Z"
 ---
 
 # § 1465. Repealed. Pub. L. 103–182, title VI, § 690(b)(7) , Dec. 8, 1993 , 107 Stat. 2223

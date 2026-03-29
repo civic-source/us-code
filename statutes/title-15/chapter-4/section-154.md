@@ -3,9 +3,9 @@ title: "Section 154 - Investigations by registrar; revocation of certificate of 
 usc_title: 15
 usc_section: "154"
 chapter: 4
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 154"
-generated_at: "2026-03-29T22:19:02.594Z"
+generated_at: "2026-03-29T22:25:15.736Z"
 ---
 
 # § 154. Investigations by registrar; revocation of certificate of incorporation

@@ -3,9 +3,9 @@ title: "Section 154 - Division of businesses; chief judge"
 usc_title: 28
 usc_section: "154"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 154"
-generated_at: "2026-03-29T22:20:14.341Z"
+generated_at: "2026-03-29T22:26:26.665Z"
 ---
 
 # § 154. Division of businesses; chief judge

@@ -3,9 +3,9 @@ title: "Section 4303 - Floral research and promotion orders"
 usc_title: 7
 usc_section: "4303"
 chapter: 74
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 4303"
-generated_at: "2026-03-29T22:18:14.297Z"
+generated_at: "2026-03-29T22:24:25.129Z"
 ---
 
 # § 4303. Floral research and promotion orders

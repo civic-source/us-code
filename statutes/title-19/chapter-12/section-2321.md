@@ -3,9 +3,9 @@ title: "Section 2321 - Subpoena power"
 usc_title: 19
 usc_section: "2321"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "19 U.S.C. § 2321"
-generated_at: "2026-03-29T22:19:36.385Z"
+generated_at: "2026-03-29T22:25:41.757Z"
 ---
 
 # § 2321. Subpoena power

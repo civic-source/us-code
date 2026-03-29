@@ -3,9 +3,9 @@ title: "Section 12304a - Army Reserve, Navy Reserve, Marine Corps Reserve, and A
 usc_title: 10
 usc_section: "12304a"
 chapter: 1209
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 12304a"
-generated_at: "2026-03-29T22:18:46.116Z"
+generated_at: "2026-03-29T22:24:51.881Z"
 ---
 
 # § 12304a. Army Reserve, Navy Reserve, Marine Corps Reserve, and Air Force Reserve: order to active duty to provide assistance in response to a major disaster or emergency

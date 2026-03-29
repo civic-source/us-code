@@ -3,9 +3,9 @@ title: "Section 1902a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV
 usc_title: 33
 usc_section: "1902a"
 chapter: 33
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 1902a"
-generated_at: "2026-03-29T22:21:04.634Z"
+generated_at: "2026-03-29T22:27:51.057Z"
 ---
 
 # § 1902a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(a)(1), Jan. 1, 2021 , 134 Stat. 4746

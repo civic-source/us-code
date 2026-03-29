@@ -3,9 +3,9 @@ title: "Section 7474 - Minimum grant criteria"
 usc_title: 20
 usc_section: "7474"
 chapter: 70
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "20 U.S.C. § 7474"
-generated_at: "2026-03-29T22:19:23.076Z"
+generated_at: "2026-03-29T22:25:48.406Z"
 ---
 
 # § 7474. Minimum grant criteria

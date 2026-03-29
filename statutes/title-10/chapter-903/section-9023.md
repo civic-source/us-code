@@ -3,9 +3,9 @@ title: "Section 9023 - Chief of Legislative Liaison"
 usc_title: 10
 usc_section: "9023"
 chapter: 903
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 9023"
-generated_at: "2026-03-29T22:18:46.091Z"
+generated_at: "2026-03-29T22:24:51.843Z"
 ---
 
 # § 9023. Chief of Legislative Liaison

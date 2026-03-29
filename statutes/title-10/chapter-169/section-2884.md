@@ -3,9 +3,9 @@ title: "Section 2884 - Reports"
 usc_title: 10
 usc_section: "2884"
 chapter: 169
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 2884"
-generated_at: "2026-03-29T22:18:45.996Z"
+generated_at: "2026-03-29T22:24:51.696Z"
 ---
 
 # § 2884. Reports

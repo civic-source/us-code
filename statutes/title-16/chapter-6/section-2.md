@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of Tallgrass Prairie National Preserve"
 usc_title: 16
 usc_section: "2"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T22:19:14.334Z"
+generated_at: "2026-03-29T22:25:36.697Z"
 ---
 
 # § 698u–2. Establishment of Tallgrass Prairie National Preserve

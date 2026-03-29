@@ -3,9 +3,9 @@ title: "Section 2279d - Limitation on construction on United States territory of
 usc_title: 10
 usc_section: "2279d"
 chapter: 135
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 2279d"
-generated_at: "2026-03-29T22:18:45.954Z"
+generated_at: "2026-03-29T22:24:51.632Z"
 ---
 
 # § 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments

@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-29T22:19:02.661Z"
+generated_at: "2026-03-29T22:25:15.798Z"
 ---
 
 # § 638. Research and development

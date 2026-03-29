@@ -3,9 +3,9 @@ title: "Section 1538 - Notice of reprogramming"
 usc_title: 15
 usc_section: "1538"
 chapter: 40
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 1538"
-generated_at: "2026-03-29T22:19:02.777Z"
+generated_at: "2026-03-29T22:25:15.915Z"
 ---
 
 # § 1538. Notice of reprogramming

@@ -3,9 +3,9 @@ title: "Section 306a - Advances for support of old, disabled, or indigent allott
 usc_title: 25
 usc_section: "306a"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 306a"
-generated_at: "2026-03-29T22:20:08.524Z"
+generated_at: "2026-03-29T22:25:56.684Z"
 ---
 
 # § 306a. Advances for support of old, disabled, or indigent allottees; lien against land

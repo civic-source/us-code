@@ -3,9 +3,9 @@ title: "Section 3224a - Studies and agreements by Secretary of Energy on multina
 usc_title: 22
 usc_section: "3224a"
 chapter: 47
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 3224a"
-generated_at: "2026-03-29T22:19:52.969Z"
+generated_at: "2026-03-29T22:26:06.036Z"
 ---
 
 # § 3224a. Studies and agreements by Secretary of Energy on multinational or international basis concerning spent fuel storage facilities and transportation systems; congressional consent; authorization of appropriations; limitations on use of funds; exceptions; special nuclear material for India

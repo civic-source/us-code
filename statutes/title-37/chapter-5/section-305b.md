@@ -3,9 +3,9 @@ title: "Section 305b - Special pay: service as member of Weapons of Mass Destruc
 usc_title: 37
 usc_section: "305b"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "37 U.S.C. § 305b"
-generated_at: "2026-03-29T22:21:26.886Z"
+generated_at: "2026-03-29T22:27:55.013Z"
 ---
 
 # § 305b. Special pay: service as member of Weapons of Mass Destruction Civil Support Team

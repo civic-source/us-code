@@ -3,9 +3,9 @@ title: "Section 1930 - Bankruptcy fees"
 usc_title: 28
 usc_section: "1930"
 chapter: 123
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 1930"
-generated_at: "2026-03-29T22:20:14.397Z"
+generated_at: "2026-03-29T22:26:26.718Z"
 ---
 
 # § 1930. Bankruptcy fees

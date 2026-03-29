@@ -3,9 +3,9 @@ title: "Section 208 - Variations"
 usc_title: 15
 usc_section: "208"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 208"
-generated_at: "2026-03-29T22:19:02.600Z"
+generated_at: "2026-03-29T22:25:15.741Z"
 ---
 
 # § 208. Variations

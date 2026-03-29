@@ -3,9 +3,9 @@ title: "Section 9611 - Statement of policy"
 usc_title: 22
 usc_section: "9611"
 chapter: 103
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 9611"
-generated_at: "2026-03-29T22:19:53.172Z"
+generated_at: "2026-03-29T22:26:06.255Z"
 ---
 
 # § 9611. Statement of policy

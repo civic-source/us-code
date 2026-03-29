@@ -3,9 +3,9 @@ title: "Section 10463 - Reports"
 usc_title: 34
 usc_section: "10463"
 chapter: 101
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "34 U.S.C. § 10463"
-generated_at: "2026-03-29T22:20:59.651Z"
+generated_at: "2026-03-29T22:27:35.677Z"
 ---
 
 # § 10463. Reports

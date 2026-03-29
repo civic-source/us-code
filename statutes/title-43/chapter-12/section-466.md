@@ -3,9 +3,9 @@ title: "Section 466 - Surveys to correct errors or inequalities in original basi
 usc_title: 43
 usc_section: "466"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 466"
-generated_at: "2026-03-29T22:21:42.263Z"
+generated_at: "2026-03-29T22:28:42.306Z"
 ---
 
 # § 466. Surveys to correct errors or inequalities in original basis of project

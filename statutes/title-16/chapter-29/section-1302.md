@@ -3,9 +3,9 @@ title: "Section 1302 - Conservation agreements to effectuate water bank program;
 usc_title: 16
 usc_section: "1302"
 chapter: 29
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 1302"
-generated_at: "2026-03-29T22:19:14.429Z"
+generated_at: "2026-03-29T22:25:36.820Z"
 ---
 
 # § 1302. Conservation agreements to effectuate water bank program; duration and renewal; adjustment of payment rate for renewal period; “wetlands” defined; duration of ownership or control of land as determining eligibility for agreements; protection of and compensation for tenants and sharecroppers; participation by owner or operator in other Federal or State programs

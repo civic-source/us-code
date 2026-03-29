@@ -3,9 +3,9 @@ title: "Section 1484 - Pensioners, indigent patients, and persons who die on mil
 usc_title: 10
 usc_section: "1484"
 chapter: 75
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 1484"
-generated_at: "2026-03-29T22:18:45.917Z"
+generated_at: "2026-03-29T22:24:51.574Z"
 ---
 
 # § 1484. Pensioners, indigent patients, and persons who die on military reservations

@@ -3,9 +3,9 @@ title: "Section 219 - Reports by carriers; contents and requirements generally"
 usc_title: 47
 usc_section: "219"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "47 U.S.C. § 219"
-generated_at: "2026-03-29T22:22:58.533Z"
+generated_at: "2026-03-29T22:30:16.322Z"
 ---
 
 # § 219. Reports by carriers; contents and requirements generally

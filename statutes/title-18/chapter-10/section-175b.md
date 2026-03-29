@@ -3,9 +3,9 @@ title: "Section 175b - Possession by restricted persons"
 usc_title: 18
 usc_section: "175b"
 chapter: 10
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 175b"
-generated_at: "2026-03-29T22:19:32.591Z"
+generated_at: "2026-03-29T22:25:26.954Z"
 ---
 
 # § 175b. Possession by restricted persons

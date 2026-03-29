@@ -3,9 +3,9 @@ title: "Section 7065 - Assignment and detail: officers assigned or detailed to b
 usc_title: 10
 usc_section: "7065"
 chapter: 707
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 7065"
-generated_at: "2026-03-29T22:18:46.050Z"
+generated_at: "2026-03-29T22:24:51.771Z"
 ---
 
 # § 7065. Assignment and detail: officers assigned or detailed to basic and special branches

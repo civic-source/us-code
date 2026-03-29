@@ -3,9 +3,9 @@ title: "Section 1861 - Definitions"
 usc_title: 50
 usc_section: "1861"
 chapter: 36
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 1861"
-generated_at: "2026-03-29T22:22:35.976Z"
+generated_at: "2026-03-29T22:30:08.924Z"
 ---
 
 # § 1861. Definitions

@@ -3,9 +3,9 @@ title: "Section 1063c - Reporting and audit requirements"
 usc_title: 20
 usc_section: "1063c"
 chapter: 28
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "20 U.S.C. § 1063c"
-generated_at: "2026-03-29T22:19:22.758Z"
+generated_at: "2026-03-29T22:25:48.077Z"
 ---
 
 # § 1063c. Reporting and audit requirements

@@ -3,9 +3,9 @@ title: "Section 2572 - International agreements on nuclear weapons data"
 usc_title: 50
 usc_section: "2572"
 chapter: 42
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2572"
-generated_at: "2026-03-29T22:22:36.022Z"
+generated_at: "2026-03-29T22:30:08.967Z"
 ---
 
 # § 2572. International agreements on nuclear weapons data

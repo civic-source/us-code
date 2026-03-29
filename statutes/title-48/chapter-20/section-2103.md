@@ -3,9 +3,9 @@ title: "Section 2103 - Supremacy"
 usc_title: 48
 usc_section: "2103"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "48 U.S.C. § 2103"
-generated_at: "2026-03-29T22:22:29.343Z"
+generated_at: "2026-03-29T22:30:04.030Z"
 ---
 
 # § 2103. Supremacy

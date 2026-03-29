@@ -3,9 +3,9 @@ title: "Section 665 - Utilization of services and facilities of Federal departme
 usc_title: 45
 usc_section: "665"
 chapter: 15
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "45 U.S.C. § 665"
-generated_at: "2026-03-29T22:21:35.557Z"
+generated_at: "2026-03-29T22:28:47.896Z"
 ---
 
 # § 665. Utilization of services and facilities of Federal departments and agencies; reimbursement; consultation with Board; coordination of activities with Federal departments and agencies

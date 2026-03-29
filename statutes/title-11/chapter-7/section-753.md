@@ -3,9 +3,9 @@ title: "Section 753 - Stockbroker liquidation and forward contract merchants, co
 usc_title: 11
 usc_section: "753"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "11 U.S.C. § 753"
-generated_at: "2026-03-29T22:18:51.145Z"
+generated_at: "2026-03-29T22:25:17.708Z"
 ---
 
 # § 753. Stockbroker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants

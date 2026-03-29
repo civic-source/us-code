@@ -3,9 +3,9 @@ title: "Section 4304 - Award of costs, including attorney’s fees, to substanti
 usc_title: 15
 usc_section: "4304"
 chapter: 69
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 4304"
-generated_at: "2026-03-29T22:19:02.947Z"
+generated_at: "2026-03-29T22:25:16.094Z"
 ---
 
 # § 4304. Award of costs, including attorney’s fees, to substantially prevailing party; offset

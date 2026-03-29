@@ -3,9 +3,9 @@ title: "Section 31502 - Requirements for qualifications, hours of service, safet
 usc_title: 49
 usc_section: "31502"
 chapter: 315
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 31502"
-generated_at: "2026-03-29T22:23:16.416Z"
+generated_at: "2026-03-29T22:30:14.898Z"
 ---
 
 # § 31502. Requirements for qualifications, hours of service, safety, and equipment standards

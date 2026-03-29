@@ -3,9 +3,9 @@ title: "Section 6057 - Annual registration, etc."
 usc_title: 26
 usc_section: "6057"
 chapter: 61
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 6057"
-generated_at: "2026-03-29T22:20:51.616Z"
+generated_at: "2026-03-29T22:27:05.952Z"
 ---
 
 # § 6057. Annual registration, etc.

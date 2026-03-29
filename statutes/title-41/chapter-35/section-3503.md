@@ -3,9 +3,9 @@ title: "Section 3503 - Exceptions"
 usc_title: 41
 usc_section: "3503"
 chapter: 35
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "41 U.S.C. § 3503"
-generated_at: "2026-03-29T22:21:32.363Z"
+generated_at: "2026-03-29T22:28:48.686Z"
 ---
 
 # § 3503. Exceptions

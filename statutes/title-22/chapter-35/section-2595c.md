@@ -3,9 +3,9 @@ title: "Section 2595c - Definitions"
 usc_title: 22
 usc_section: "2595c"
 chapter: 35
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 2595c"
-generated_at: "2026-03-29T22:19:52.927Z"
+generated_at: "2026-03-29T22:26:05.992Z"
 ---
 
 # § 2595c. Definitions

@@ -3,9 +3,9 @@ title: "Section 31i - Report on resource research activities"
 usc_title: 43
 usc_section: "31i"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 31i"
-generated_at: "2026-03-29T22:21:42.219Z"
+generated_at: "2026-03-29T22:28:42.268Z"
 ---
 
 # § 31i. Report on resource research activities

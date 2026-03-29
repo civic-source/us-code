@@ -3,9 +3,9 @@ title: "Section 1207 - Pipeline security inspections and enforcement"
 usc_title: 6
 usc_section: "1207"
 chapter: 4
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "6 U.S.C. § 1207"
-generated_at: "2026-03-29T22:17:49.243Z"
+generated_at: "2026-03-29T22:24:14.271Z"
 ---
 
 # § 1207. Pipeline security inspections and enforcement

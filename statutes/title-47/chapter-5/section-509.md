@@ -3,9 +3,9 @@ title: "Section 509 - Prohibited practices in contests of knowledge, skill, or c
 usc_title: 47
 usc_section: "509"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "47 U.S.C. § 509"
-generated_at: "2026-03-29T22:22:58.591Z"
+generated_at: "2026-03-29T22:30:16.378Z"
 ---
 
 # § 509. Prohibited practices in contests of knowledge, skill, or chance

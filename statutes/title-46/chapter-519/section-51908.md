@@ -3,9 +3,9 @@ title: "Section 51908 - Prohibition against unauthorized manufacture, sale, poss
 usc_title: 46
 usc_section: "51908"
 chapter: 519
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 51908"
-generated_at: "2026-03-29T22:23:02.728Z"
+generated_at: "2026-03-29T22:30:18.701Z"
 ---
 
 # § 51908. Prohibition against unauthorized manufacture, sale, possession, or display of awards

@@ -3,9 +3,9 @@ title: "Section 870 - Grants of land in aid of common or public schools; extensi
 usc_title: 43
 usc_section: "870"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 870"
-generated_at: "2026-03-29T22:21:42.302Z"
+generated_at: "2026-03-29T22:28:42.334Z"
 ---
 
 # § 870. Grants of land in aid of common or public schools; extension to those mineral in character; effect of leases

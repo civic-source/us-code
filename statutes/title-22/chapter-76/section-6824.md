@@ -3,9 +3,9 @@ title: "Section 6824 - Advisory Board"
 usc_title: 22
 usc_section: "6824"
 chapter: 76
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 6824"
-generated_at: "2026-03-29T22:19:53.082Z"
+generated_at: "2026-03-29T22:26:06.162Z"
 ---
 
 # § 6824. Advisory Board

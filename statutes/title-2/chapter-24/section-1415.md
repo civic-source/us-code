@@ -3,9 +3,9 @@ title: "Section 1415 - Payments"
 usc_title: 2
 usc_section: "1415"
 chapter: 24
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "2 U.S.C. § 1415"
-generated_at: "2026-03-29T22:17:45.478Z"
+generated_at: "2026-03-29T22:24:03.478Z"
 ---
 
 # § 1415. Payments

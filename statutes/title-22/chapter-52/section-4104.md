@@ -3,9 +3,9 @@ title: "Section 4104 - Employee rights"
 usc_title: 22
 usc_section: "4104"
 chapter: 52
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 4104"
-generated_at: "2026-03-29T22:19:53.011Z"
+generated_at: "2026-03-29T22:26:06.076Z"
 ---
 
 # § 4104. Employee rights

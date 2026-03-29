@@ -3,9 +3,9 @@ title: "Section 3023 - Appeal procedures applicable upon denial or restriction o
 usc_title: 12
 usc_section: "3023"
 chapter: 31
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "12 U.S.C. § 3023"
-generated_at: "2026-03-29T22:18:56.518Z"
+generated_at: "2026-03-29T22:25:04.996Z"
 ---
 
 # § 3023. Appeal procedures applicable upon denial or restriction of application for assistance

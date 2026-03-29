@@ -3,9 +3,9 @@ title: "Section 2353 - Repealed. Pub. L. 97–164, title I, § 138 , Apr. 2, 198
 usc_title: 28
 usc_section: "2353"
 chapter: 158
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 2353"
-generated_at: "2026-03-29T22:20:14.406Z"
+generated_at: "2026-03-29T22:26:26.725Z"
 ---
 
 # [§ 2353. Repealed. Pub. L. 97–164, title I, § 138 , Apr. 2, 1982 , 96 Stat. 42 ]

@@ -3,9 +3,9 @@ title: "Section 3 - Withdrawals and expenditures"
 usc_title: 20
 usc_section: "3"
 chapter: 8
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-29T22:19:22.715Z"
+generated_at: "2026-03-29T22:25:48.033Z"
 ---
 
 # § 130aa–3. Withdrawals and expenditures

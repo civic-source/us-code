@@ -3,9 +3,9 @@ title: "Section 605 - Budget estimates"
 usc_title: 28
 usc_section: "605"
 chapter: 41
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 605"
-generated_at: "2026-03-29T22:20:14.367Z"
+generated_at: "2026-03-29T22:26:26.689Z"
 ---
 
 # § 605. Budget estimates

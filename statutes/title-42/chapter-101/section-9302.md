@@ -3,9 +3,9 @@ title: "Section 9302 - Definitions"
 usc_title: 42
 usc_section: "9302"
 chapter: 101
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 9302"
-generated_at: "2026-03-29T22:22:17.499Z"
+generated_at: "2026-03-29T22:29:57.660Z"
 ---
 
 # § 9302. Definitions

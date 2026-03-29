@@ -3,9 +3,9 @@ title: "Section 1 - Investigation requirement"
 usc_title: 33
 usc_section: "1"
 chapter: 17
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-29T22:21:04.551Z"
+generated_at: "2026-03-29T22:27:50.969Z"
 ---
 
 # § 894d–1. Investigation requirement

@@ -3,9 +3,9 @@ title: "Section 1687 - Omitted"
 usc_title: 48
 usc_section: "1687"
 chapter: 14
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "48 U.S.C. § 1687"
-generated_at: "2026-03-29T22:22:29.317Z"
+generated_at: "2026-03-29T22:30:04.007Z"
 ---
 
 # §§ 1686, 1687. Omitted

@@ -3,9 +3,9 @@ title: "Section 275a - Service charges"
 usc_title: 15
 usc_section: "275a"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 275a"
-generated_at: "2026-03-29T22:19:02.605Z"
+generated_at: "2026-03-29T22:25:15.745Z"
 ---
 
 # § 275a. Service charges

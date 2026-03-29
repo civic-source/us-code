@@ -3,9 +3,9 @@ title: "Section 1413 - Implementation and evaluation of Program"
 usc_title: 19
 usc_section: "1413"
 chapter: 4
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "19 U.S.C. § 1413"
-generated_at: "2026-03-29T22:19:36.298Z"
+generated_at: "2026-03-29T22:25:41.667Z"
 ---
 
 # § 1413. Implementation and evaluation of Program

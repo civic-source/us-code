@@ -3,9 +3,9 @@ title: "Section 40A - Operation of unauthorized unmanned aircraft over wildfires
 usc_title: 18
 usc_section: "40A"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 40A"
-generated_at: "2026-03-29T22:19:32.586Z"
+generated_at: "2026-03-29T22:25:26.951Z"
 ---
 
 # § 40A. Operation of unauthorized unmanned aircraft over wildfires

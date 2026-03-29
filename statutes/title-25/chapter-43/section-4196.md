@@ -3,9 +3,9 @@ title: "Section 4196 - Demonstration program for guaranteed loans to finance tri
 usc_title: 25
 usc_section: "4196"
 chapter: 43
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 4196"
-generated_at: "2026-03-29T22:20:08.682Z"
+generated_at: "2026-03-29T22:25:56.836Z"
 ---
 
 # § 4196. Demonstration program for guaranteed loans to finance tribal community and economic development activities

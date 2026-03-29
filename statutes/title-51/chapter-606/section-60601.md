@@ -3,9 +3,9 @@ title: "Section 60601 - Space weather"
 usc_title: 51
 usc_section: "60601"
 chapter: 606
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "51 U.S.C. § 60601"
-generated_at: "2026-03-29T22:23:25.253Z"
+generated_at: "2026-03-29T22:30:23.207Z"
 ---
 
 # § 60601. Space weather

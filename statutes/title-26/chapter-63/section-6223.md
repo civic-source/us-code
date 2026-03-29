@@ -3,9 +3,9 @@ title: "Section 6223 - Partners bound by actions of partnership"
 usc_title: 26
 usc_section: "6223"
 chapter: 63
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 6223"
-generated_at: "2026-03-29T22:20:51.639Z"
+generated_at: "2026-03-29T22:27:05.979Z"
 ---
 
 # § 6223. Partners bound by actions of partnership

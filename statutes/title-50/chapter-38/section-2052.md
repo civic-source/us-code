@@ -3,9 +3,9 @@ title: "Section 2052 - Death in service"
 usc_title: 50
 usc_section: "2052"
 chapter: 38
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2052"
-generated_at: "2026-03-29T22:22:35.996Z"
+generated_at: "2026-03-29T22:30:08.942Z"
 ---
 
 # § 2052. Death in service

@@ -3,9 +3,9 @@ title: "Section 6310 - Limitations on statutory construction"
 usc_title: 49
 usc_section: "6310"
 chapter: 63
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 6310"
-generated_at: "2026-03-29T22:23:16.312Z"
+generated_at: "2026-03-29T22:30:14.792Z"
 ---
 
 # § 6310. Limitations on statutory construction

@@ -3,9 +3,9 @@ title: "Section 3292 - Performance accountability system"
 usc_title: 29
 usc_section: "3292"
 chapter: 32
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "29 U.S.C. § 3292"
-generated_at: "2026-03-29T22:20:18.560Z"
+generated_at: "2026-03-29T22:26:33.019Z"
 ---
 
 # § 3292. Performance accountability system

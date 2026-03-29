@@ -3,9 +3,9 @@ title: "Section 973q - Secretary of State to act for United States"
 usc_title: 16
 usc_section: "973q"
 chapter: 16
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 973q"
-generated_at: "2026-03-29T22:19:14.398Z"
+generated_at: "2026-03-29T22:25:36.782Z"
 ---
 
 # § 973q. Secretary of State to act for United States

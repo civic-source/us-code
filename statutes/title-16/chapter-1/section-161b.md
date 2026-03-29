@@ -3,9 +3,9 @@ title: "Section 161b - Designation for purposes of administration, promotion, de
 usc_title: 16
 usc_section: "161b"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 161b"
-generated_at: "2026-03-29T22:19:14.073Z"
+generated_at: "2026-03-29T22:25:36.360Z"
 ---
 
 # § 161b. Designation for purposes of administration, promotion, development, and support

@@ -3,9 +3,9 @@ title: "Section 1926 - Authority for higher interest rates for amounts payable t
 usc_title: 38
 usc_section: "1926"
 chapter: 19
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 1926"
-generated_at: "2026-03-29T22:21:25.447Z"
+generated_at: "2026-03-29T22:28:32.243Z"
 ---
 
 # § 1926. Authority for higher interest rates for amounts payable to beneficiaries

@@ -3,9 +3,9 @@ title: "Section 7108 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7108"
 chapter: 99
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "7 U.S.C. § 7108"
-generated_at: "2026-03-29T22:18:14.371Z"
+generated_at: "2026-03-29T22:24:25.225Z"
 ---
 
 # § 7108. Investigations and power to subpoena

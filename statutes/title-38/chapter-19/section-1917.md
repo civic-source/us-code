@@ -3,9 +3,9 @@ title: "Section 1917 - Insurance maturing on or after August 1, 1946"
 usc_title: 38
 usc_section: "1917"
 chapter: 19
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 1917"
-generated_at: "2026-03-29T22:21:25.444Z"
+generated_at: "2026-03-29T22:28:32.241Z"
 ---
 
 # § 1917. Insurance maturing on or after August 1, 1946

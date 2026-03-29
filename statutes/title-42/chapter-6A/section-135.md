@@ -3,9 +3,9 @@ title: "Section 135 - Air ambulance services"
 usc_title: 42
 usc_section: "135"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 135"
-generated_at: "2026-03-29T22:22:16.187Z"
+generated_at: "2026-03-29T22:29:56.407Z"
 ---
 
 # § 300gg–135. Air ambulance services

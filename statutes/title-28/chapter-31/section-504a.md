@@ -3,9 +3,9 @@ title: "Section 504a - Associate Attorney General"
 usc_title: 28
 usc_section: "504a"
 chapter: 31
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "28 U.S.C. § 504a"
-generated_at: "2026-03-29T22:20:14.352Z"
+generated_at: "2026-03-29T22:26:26.677Z"
 ---
 
 # § 504a. Associate Attorney General

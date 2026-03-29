@@ -3,9 +3,9 @@ title: "Section 33 - Jurisdiction and venue of actions and offenses"
 usc_title: 47
 usc_section: "33"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "47 U.S.C. § 33"
-generated_at: "2026-03-29T22:22:58.519Z"
+generated_at: "2026-03-29T22:30:16.315Z"
 ---
 
 # § 33. Jurisdiction and venue of actions and offenses

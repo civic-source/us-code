@@ -3,9 +3,9 @@ title: "Section 418a - Voluntary agreements for coverage of Indian tribal counci
 usc_title: 42
 usc_section: "418a"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 418a"
-generated_at: "2026-03-29T22:22:16.253Z"
+generated_at: "2026-03-29T22:29:56.469Z"
 ---
 
 # § 418a. Voluntary agreements for coverage of Indian tribal council members

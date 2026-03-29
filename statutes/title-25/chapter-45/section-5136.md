@@ -3,9 +3,9 @@ title: "Section 5136 - Loans to purchasers of highly fractioned land"
 usc_title: 25
 usc_section: "5136"
 chapter: 45
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 5136"
-generated_at: "2026-03-29T22:20:08.693Z"
+generated_at: "2026-03-29T22:25:56.847Z"
 ---
 
 # § 5136. Loans to purchasers of highly fractioned land

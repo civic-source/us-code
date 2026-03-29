@@ -3,9 +3,9 @@ title: "Section 10213 - Reserve components: dual membership prohibited"
 usc_title: 10
 usc_section: "10213"
 chapter: 1007
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 10213"
-generated_at: "2026-03-29T22:18:46.107Z"
+generated_at: "2026-03-29T22:24:51.869Z"
 ---
 
 # § 10213. Reserve components: dual membership prohibited

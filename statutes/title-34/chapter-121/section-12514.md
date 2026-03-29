@@ -3,9 +3,9 @@ title: "Section 12514 - Pilot program on restorative practices"
 usc_title: 34
 usc_section: "12514"
 chapter: 121
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "34 U.S.C. § 12514"
-generated_at: "2026-03-29T22:20:59.710Z"
+generated_at: "2026-03-29T22:27:35.731Z"
 ---
 
 # § 12514. Pilot program on restorative practices

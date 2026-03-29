@@ -3,9 +3,9 @@ title: "Section 6336 - Restoration of transferred leave"
 usc_title: 5
 usc_section: "6336"
 chapter: 63
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "5 U.S.C. § 6336"
-generated_at: "2026-03-29T22:17:32.116Z"
+generated_at: "2026-03-29T22:24:09.881Z"
 ---
 
 # § 6336. Restoration of transferred leave

@@ -3,9 +3,9 @@ title: "Section 2332 - Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a
 usc_title: 10
 usc_section: "2332"
 chapter: 137
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 2332"
-generated_at: "2026-03-29T22:18:45.956Z"
+generated_at: "2026-03-29T22:24:51.635Z"
 ---
 
 # [§ 2332. Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a)(3)(A) , Aug. 13, 2018 , 132 Stat. 1847 ]

@@ -3,9 +3,9 @@ title: "Section 11161 - Implementation of cost accounting principles"
 usc_title: 49
 usc_section: "11161"
 chapter: 111
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 11161"
-generated_at: "2026-03-29T22:23:16.325Z"
+generated_at: "2026-03-29T22:30:14.806Z"
 ---
 
 # § 11161. Implementation of cost accounting principles

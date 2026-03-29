@@ -3,9 +3,9 @@ title: "Section 7653 - Annual reports on prevention of mother-to-child transmiss
 usc_title: 22
 usc_section: "7653"
 chapter: 83
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 7653"
-generated_at: "2026-03-29T22:19:53.111Z"
+generated_at: "2026-03-29T22:26:06.191Z"
 ---
 
 # § 7653. Annual reports on prevention of mother-to-child transmission of the HIV infection

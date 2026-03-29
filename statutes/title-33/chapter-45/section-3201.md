@@ -3,9 +3,9 @@ title: "Section 3201 - Definitions"
 usc_title: 33
 usc_section: "3201"
 chapter: 45
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 3201"
-generated_at: "2026-03-29T22:21:04.697Z"
+generated_at: "2026-03-29T22:27:51.127Z"
 ---
 
 # § 3201. Definitions

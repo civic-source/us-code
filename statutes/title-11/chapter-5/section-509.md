@@ -3,9 +3,9 @@ title: "Section 509 - Claims of codebtors"
 usc_title: 11
 usc_section: "509"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "11 U.S.C. § 509"
-generated_at: "2026-03-29T22:18:51.129Z"
+generated_at: "2026-03-29T22:25:17.686Z"
 ---
 
 # § 509. Claims of codebtors

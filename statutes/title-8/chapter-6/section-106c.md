@@ -3,9 +3,9 @@ title: "Section 106c - Repealed. Oct. 14, 1940, ch. 876 , title I, subch. V, § 
 usc_title: 8
 usc_section: "106c"
 chapter: 6
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "8 U.S.C. § 106c"
-generated_at: "2026-03-29T22:17:54.258Z"
+generated_at: "2026-03-29T22:24:15.930Z"
 ---
 
 # §§ 106 to 106c. Repealed. Oct. 14, 1940, ch. 876 , title I, subch. V, § 504, 54 Stat. 1172

@@ -3,9 +3,9 @@ title: "Section 86 - Accounting for fees for notices of cancellation of entries"
 usc_title: 43
 usc_section: "86"
 chapter: 4
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 86"
-generated_at: "2026-03-29T22:21:42.223Z"
+generated_at: "2026-03-29T22:28:42.271Z"
 ---
 
 # § 86. Accounting for fees for notices of cancellation of entries

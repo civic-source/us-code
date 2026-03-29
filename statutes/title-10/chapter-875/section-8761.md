@@ -3,9 +3,9 @@ title: "Section 8761 - Obsolete and other material: gift or sale to Boy Scouts o
 usc_title: 10
 usc_section: "8761"
 chapter: 875
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 8761"
-generated_at: "2026-03-29T22:18:46.086Z"
+generated_at: "2026-03-29T22:24:51.832Z"
 ---
 
 # § 8761. Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League

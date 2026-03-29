@@ -3,9 +3,9 @@ title: "Section 2734 - Programs for persons who may have been exposed to radiati
 usc_title: 50
 usc_section: "2734"
 chapter: 42
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2734"
-generated_at: "2026-03-29T22:22:36.030Z"
+generated_at: "2026-03-29T22:30:08.974Z"
 ---
 
 # § 2734. Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation

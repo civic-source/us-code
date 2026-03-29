@@ -3,9 +3,9 @@ title: "Section 18421 - Study of potential commercial orbital platform program i
 usc_title: 42
 usc_section: "18421"
 chapter: 159
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 18421"
-generated_at: "2026-03-29T22:22:17.962Z"
+generated_at: "2026-03-29T22:29:58.069Z"
 ---
 
 # § 18421. Study of potential commercial orbital platform program impact on science, technology, engineering, and mathematics

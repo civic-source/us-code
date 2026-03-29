@@ -3,9 +3,9 @@ title: "Section 1012 - Rehabilitation of structural measures near, at, or past t
 usc_title: 16
 usc_section: "1012"
 chapter: 18
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 1012"
-generated_at: "2026-03-29T22:19:14.400Z"
+generated_at: "2026-03-29T22:25:36.785Z"
 ---
 
 # § 1012. Rehabilitation of structural measures near, at, or past their evaluated life expectancy

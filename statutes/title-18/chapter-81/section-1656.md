@@ -3,9 +3,9 @@ title: "Section 1656 - Conversion or surrender of vessel"
 usc_title: 18
 usc_section: "1656"
 chapter: 81
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 1656"
-generated_at: "2026-03-29T22:19:32.662Z"
+generated_at: "2026-03-29T22:25:27.026Z"
 ---
 
 # § 1656. Conversion or surrender of vessel

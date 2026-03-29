@@ -3,9 +3,9 @@ title: "Section 3959 - Extension of protections to dependents"
 usc_title: 50
 usc_section: "3959"
 chapter: 50
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 3959"
-generated_at: "2026-03-29T22:22:36.134Z"
+generated_at: "2026-03-29T22:30:09.062Z"
 ---
 
 # § 3959. Extension of protections to dependents

@@ -3,9 +3,9 @@ title: "Section 9493 - Activities performed as federally chartered nonprofit cor
 usc_title: 10
 usc_section: "9493"
 chapter: 959
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 9493"
-generated_at: "2026-03-29T22:18:46.100Z"
+generated_at: "2026-03-29T22:24:51.856Z"
 ---
 
 # § 9493. Activities performed as federally chartered nonprofit corporation

@@ -3,9 +3,9 @@ title: "Section 78hhh - Examining authority functions"
 usc_title: 15
 usc_section: "78hhh"
 chapter: 1
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 78hhh"
-generated_at: "2026-03-29T22:19:02.561Z"
+generated_at: "2026-03-29T22:25:15.706Z"
 ---
 
 # § 78hhh. Examining authority functions

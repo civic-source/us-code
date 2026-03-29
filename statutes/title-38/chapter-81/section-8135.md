@@ -3,9 +3,9 @@ title: "Section 8135 - Applications with respect to projects; payments"
 usc_title: 38
 usc_section: "8135"
 chapter: 81
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 8135"
-generated_at: "2026-03-29T22:21:25.637Z"
+generated_at: "2026-03-29T22:28:32.373Z"
 ---
 
 # § 8135. Applications with respect to projects; payments

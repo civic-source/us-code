@@ -3,9 +3,9 @@ title: "Section 1351 - Nonimmigrant visa fees"
 usc_title: 8
 usc_section: "1351"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "8 U.S.C. § 1351"
-generated_at: "2026-03-29T22:17:54.336Z"
+generated_at: "2026-03-29T22:24:16.008Z"
 ---
 
 # § 1351. Nonimmigrant visa fees

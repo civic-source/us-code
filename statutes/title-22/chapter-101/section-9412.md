@@ -3,9 +3,9 @@ title: "Section 9412 - Report and annual briefing on Iranian expenditures suppor
 usc_title: 22
 usc_section: "9412"
 chapter: 101
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 9412"
-generated_at: "2026-03-29T22:19:53.166Z"
+generated_at: "2026-03-29T22:26:06.249Z"
 ---
 
 # § 9412. Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities

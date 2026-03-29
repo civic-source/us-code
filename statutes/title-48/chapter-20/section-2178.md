@@ -3,9 +3,9 @@ title: "Section 2178 - Disclosure by professional persons seeking approval of co
 usc_title: 48
 usc_section: "2178"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "48 U.S.C. § 2178"
-generated_at: "2026-03-29T22:22:29.353Z"
+generated_at: "2026-03-29T22:30:04.037Z"
 ---
 
 # § 2178. Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title

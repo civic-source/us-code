@@ -3,9 +3,9 @@ title: "Section 444 - Support from Central Intelligence Agency"
 usc_title: 10
 usc_section: "444"
 chapter: 22
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 444"
-generated_at: "2026-03-29T22:18:45.822Z"
+generated_at: "2026-03-29T22:24:51.433Z"
 ---
 
 # § 444. Support from Central Intelligence Agency

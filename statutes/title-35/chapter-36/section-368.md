@@ -3,9 +3,9 @@ title: "Section 368 - Secrecy of certain inventions; filing international applic
 usc_title: 35
 usc_section: "368"
 chapter: 36
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "35 U.S.C. § 368"
-generated_at: "2026-03-29T22:20:55.100Z"
+generated_at: "2026-03-29T22:27:10.717Z"
 ---
 
 # § 368. Secrecy of certain inventions; filing international applications in foreign countries

@@ -3,9 +3,9 @@ title: "Section 130e - Treatment under Freedom of Information Act of certain cri
 usc_title: 10
 usc_section: "130e"
 chapter: 3
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 130e"
-generated_at: "2026-03-29T22:18:45.791Z"
+generated_at: "2026-03-29T22:24:51.388Z"
 ---
 
 # § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information

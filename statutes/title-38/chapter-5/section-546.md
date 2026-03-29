@@ -3,9 +3,9 @@ title: "Section 546 - Advisory Committee on Disability Compensation"
 usc_title: 38
 usc_section: "546"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 546"
-generated_at: "2026-03-29T22:21:25.387Z"
+generated_at: "2026-03-29T22:28:32.201Z"
 ---
 
 # § 546. Advisory Committee on Disability Compensation

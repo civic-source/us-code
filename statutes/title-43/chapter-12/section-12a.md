@@ -3,9 +3,9 @@ title: "Section 12a - North San Diego County Area Water Recycling Project"
 usc_title: 43
 usc_section: "12a"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 12a"
-generated_at: "2026-03-29T22:21:42.245Z"
+generated_at: "2026-03-29T22:28:42.291Z"
 ---
 
 # § 390h–12a. North San Diego County Area Water Recycling Project

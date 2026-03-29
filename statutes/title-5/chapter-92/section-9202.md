@@ -3,9 +3,9 @@ title: "Section 9202 - Limitations on requests for criminal history record infor
 usc_title: 5
 usc_section: "9202"
 chapter: 92
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "5 U.S.C. § 9202"
-generated_at: "2026-03-29T22:17:32.193Z"
+generated_at: "2026-03-29T22:24:09.969Z"
 ---
 
 # § 9202. Limitations on requests for criminal history record information

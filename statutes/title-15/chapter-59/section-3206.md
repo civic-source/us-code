@@ -3,9 +3,9 @@ title: "Section 3206 - Gas utility rate design proposals"
 usc_title: 15
 usc_section: "3206"
 chapter: 59
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 3206"
-generated_at: "2026-03-29T22:19:02.922Z"
+generated_at: "2026-03-29T22:25:16.067Z"
 ---
 
 # § 3206. Gas utility rate design proposals

@@ -3,9 +3,9 @@ title: "Section 2922e - Acquisition of certain fuel sources: authority to waive 
 usc_title: 10
 usc_section: "2922e"
 chapter: 173
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 2922e"
-generated_at: "2026-03-29T22:18:46.001Z"
+generated_at: "2026-03-29T22:24:51.706Z"
 ---
 
 # § 2922e. Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority

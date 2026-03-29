@@ -3,9 +3,9 @@ title: "Section 2279g - Transactions to accomplish mergers exempt from certain S
 usc_title: 12
 usc_section: "2279g"
 chapter: 23
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "12 U.S.C. § 2279g"
-generated_at: "2026-03-29T22:18:56.499Z"
+generated_at: "2026-03-29T22:25:04.975Z"
 ---
 
 # § 2279g. Transactions to accomplish mergers exempt from certain State taxes

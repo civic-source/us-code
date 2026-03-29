@@ -3,9 +3,9 @@ title: "Section 1861 - Definition of tribally controlled postsecondary career an
 usc_title: 25
 usc_section: "1861"
 chapter: 20
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 1861"
-generated_at: "2026-03-29T22:20:08.596Z"
+generated_at: "2026-03-29T22:25:56.759Z"
 ---
 
 # § 1861. Definition of tribally controlled postsecondary career and technical institution

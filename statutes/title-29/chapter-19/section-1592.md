@@ -3,9 +3,9 @@ title: "Section 1592 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1592"
 chapter: 19
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "29 U.S.C. § 1592"
-generated_at: "2026-03-29T22:20:18.496Z"
+generated_at: "2026-03-29T22:26:32.958Z"
 ---
 
 # § 1592. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

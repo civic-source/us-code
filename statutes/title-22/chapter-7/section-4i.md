@@ -3,9 +3,9 @@ title: "Section 4i - Multilateral development banks and debt-for-nature exchange
 usc_title: 22
 usc_section: "4i"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 4i"
-generated_at: "2026-03-29T22:19:52.754Z"
+generated_at: "2026-03-29T22:26:05.802Z"
 ---
 
 # § 262p–4i. Multilateral development banks and debt-for-nature exchanges

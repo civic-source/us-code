@@ -3,9 +3,9 @@ title: "Section 3612 - Enforcement by Secretary"
 usc_title: 42
 usc_section: "3612"
 chapter: 45
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 3612"
-generated_at: "2026-03-29T22:22:17.047Z"
+generated_at: "2026-03-29T22:29:57.255Z"
 ---
 
 # § 3612. Enforcement by Secretary

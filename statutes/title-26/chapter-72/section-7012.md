@@ -3,9 +3,9 @@ title: "Section 7012 - Cross references"
 usc_title: 26
 usc_section: "7012"
 chapter: 72
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 7012"
-generated_at: "2026-03-29T22:20:51.691Z"
+generated_at: "2026-03-29T22:27:06.036Z"
 ---
 
 # § 7012. Cross references

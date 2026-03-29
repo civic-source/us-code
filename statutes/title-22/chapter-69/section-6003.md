@@ -3,9 +3,9 @@ title: "Section 6003 - International cooperation"
 usc_title: 22
 usc_section: "6003"
 chapter: 69
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 6003"
-generated_at: "2026-03-29T22:19:53.050Z"
+generated_at: "2026-03-29T22:26:06.126Z"
 ---
 
 # § 6003. International cooperation

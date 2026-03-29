@@ -3,9 +3,9 @@ title: "Section 1651 - Congressional findings and declaration"
 usc_title: 43
 usc_section: "1651"
 chapter: 34
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "43 U.S.C. § 1651"
-generated_at: "2026-03-29T22:21:42.407Z"
+generated_at: "2026-03-29T22:28:42.391Z"
 ---
 
 # § 1651. Congressional findings and declaration

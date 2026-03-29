@@ -3,9 +3,9 @@ title: "Section 2000a - Prohibition against discrimination or segregation in pla
 usc_title: 42
 usc_section: "2000a"
 chapter: 21
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 2000a"
-generated_at: "2026-03-29T22:22:16.902Z"
+generated_at: "2026-03-29T22:29:57.113Z"
 ---
 
 # § 2000a. Prohibition against discrimination or segregation in places of public accommodation

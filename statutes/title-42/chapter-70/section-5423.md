@@ -3,9 +3,9 @@ title: "Section 5423 - Grants to States"
 usc_title: 42
 usc_section: "5423"
 chapter: 70
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 5423"
-generated_at: "2026-03-29T22:22:17.169Z"
+generated_at: "2026-03-29T22:29:57.368Z"
 ---
 
 # § 5423. Grants to States

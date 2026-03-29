@@ -3,9 +3,9 @@ title: "Section 191a - Transfer of Secretary of Transportation’s powers to Sec
 usc_title: 50
 usc_section: "191a"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 191a"
-generated_at: "2026-03-29T22:22:35.945Z"
+generated_at: "2026-03-29T22:30:08.898Z"
 ---
 
 # § 191a. Transfer of Secretary of Transportation’s powers to Secretary of Navy when Coast Guard operates as part of Navy

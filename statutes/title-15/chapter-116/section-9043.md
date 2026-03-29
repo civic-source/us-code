@@ -3,9 +3,9 @@ title: "Section 9043 - Limitation on certain employee compensation"
 usc_title: 15
 usc_section: "9043"
 chapter: 116
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 9043"
-generated_at: "2026-03-29T22:19:03.046Z"
+generated_at: "2026-03-29T22:25:16.208Z"
 ---
 
 # § 9043. Limitation on certain employee compensation

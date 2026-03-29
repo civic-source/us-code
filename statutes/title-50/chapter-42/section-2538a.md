@@ -3,9 +3,9 @@ title: "Section 2538a - Plutonium pit production capacity"
 usc_title: 50
 usc_section: "2538a"
 chapter: 42
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2538a"
-generated_at: "2026-03-29T22:22:36.016Z"
+generated_at: "2026-03-29T22:30:08.963Z"
 ---
 
 # § 2538a. Plutonium pit production capacity

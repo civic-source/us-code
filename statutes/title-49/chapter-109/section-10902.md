@@ -3,9 +3,9 @@ title: "Section 10902 - Short line purchases by Class II and Class III rail carr
 usc_title: 49
 usc_section: "10902"
 chapter: 109
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 10902"
-generated_at: "2026-03-29T22:23:16.321Z"
+generated_at: "2026-03-29T22:30:14.799Z"
 ---
 
 # § 10902. Short line purchases by Class II and Class III rail carriers

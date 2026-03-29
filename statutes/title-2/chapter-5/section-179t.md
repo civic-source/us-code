@@ -3,9 +3,9 @@ title: "Section 179t - Staff of Board; experts and consultants"
 usc_title: 2
 usc_section: "179t"
 chapter: 5
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "2 U.S.C. § 179t"
-generated_at: "2026-03-29T22:17:45.419Z"
+generated_at: "2026-03-29T22:24:03.411Z"
 ---
 
 # § 179t. Staff of Board; experts and consultants

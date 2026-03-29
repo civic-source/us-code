@@ -3,9 +3,9 @@ title: "Section 1031 - Administration of oath"
 usc_title: 10
 usc_section: "1031"
 chapter: 53
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 1031"
-generated_at: "2026-03-29T22:18:45.869Z"
+generated_at: "2026-03-29T22:24:51.503Z"
 ---
 
 # § 1031. Administration of oath

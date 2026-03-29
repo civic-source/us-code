@@ -3,9 +3,9 @@ title: "Section 1397ff - Process for submission, approval, and amendment of Stat
 usc_title: 42
 usc_section: "1397ff"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 1397ff"
-generated_at: "2026-03-29T22:22:16.754Z"
+generated_at: "2026-03-29T22:29:56.962Z"
 ---
 
 # § 1397ff. Process for submission, approval, and amendment of State child health plans

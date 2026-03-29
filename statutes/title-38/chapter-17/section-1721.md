@@ -3,9 +3,9 @@ title: "Section 1721 - Power to make rules and regulations"
 usc_title: 38
 usc_section: "1721"
 chapter: 17
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 1721"
-generated_at: "2026-03-29T22:21:25.428Z"
+generated_at: "2026-03-29T22:28:32.232Z"
 ---
 
 # § 1721. Power to make rules and regulations

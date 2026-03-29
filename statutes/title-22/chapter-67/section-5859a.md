@@ -3,9 +3,9 @@ title: "Section 5859a - International nonproliferation initiative"
 usc_title: 22
 usc_section: "5859a"
 chapter: 67
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 5859a"
-generated_at: "2026-03-29T22:19:53.048Z"
+generated_at: "2026-03-29T22:26:06.124Z"
 ---
 
 # § 5859a. International nonproliferation initiative

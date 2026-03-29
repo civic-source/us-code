@@ -3,9 +3,9 @@ title: "Section 17503 - Transferred"
 usc_title: 42
 usc_section: "17503"
 chapter: 153
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 17503"
-generated_at: "2026-03-29T22:22:17.931Z"
+generated_at: "2026-03-29T22:29:58.042Z"
 ---
 
 # § 17503. Transferred

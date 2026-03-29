@@ -3,9 +3,9 @@ title: "Section 3669 - Conveyances carrying liquor"
 usc_title: 18
 usc_section: "3669"
 chapter: 232
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "18 U.S.C. § 3669"
-generated_at: "2026-03-29T22:19:32.754Z"
+generated_at: "2026-03-29T22:25:27.117Z"
 ---
 
 # § 3669. Conveyances carrying liquor

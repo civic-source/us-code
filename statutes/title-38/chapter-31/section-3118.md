@@ -3,9 +3,9 @@ title: "Section 3118 - Personnel training, development, and qualifications"
 usc_title: 38
 usc_section: "3118"
 chapter: 31
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "38 U.S.C. § 3118"
-generated_at: "2026-03-29T22:21:25.492Z"
+generated_at: "2026-03-29T22:28:32.273Z"
 ---
 
 # § 3118. Personnel training, development, and qualifications

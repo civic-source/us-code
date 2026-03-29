@@ -3,9 +3,9 @@ title: "Section 7037 - Judge Advocate General, Deputy Judge Advocate General, an
 usc_title: 10
 usc_section: "7037"
 chapter: 705
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 7037"
-generated_at: "2026-03-29T22:18:46.049Z"
+generated_at: "2026-03-29T22:24:51.771Z"
 ---
 
 # § 7037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties

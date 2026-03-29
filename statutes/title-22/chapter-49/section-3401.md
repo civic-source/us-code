@@ -3,9 +3,9 @@ title: "Section 3401 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "3401"
 chapter: 49
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 3401"
-generated_at: "2026-03-29T22:19:52.972Z"
+generated_at: "2026-03-29T22:26:06.039Z"
 ---
 
 # § 3401. Congressional findings and declaration of policy

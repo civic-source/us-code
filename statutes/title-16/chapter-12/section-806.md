@@ -3,9 +3,9 @@ title: "Section 806 - Time limit for construction of project works; extension of
 usc_title: 16
 usc_section: "806"
 chapter: 12
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 806"
-generated_at: "2026-03-29T22:19:14.352Z"
+generated_at: "2026-03-29T22:25:36.724Z"
 ---
 
 # § 806. Time limit for construction of project works; extension of time; termination or revocation of licenses for delay

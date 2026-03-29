@@ -3,9 +3,9 @@ title: "Section 1203 - Radiotelephone requirement"
 usc_title: 33
 usc_section: "1203"
 chapter: 24
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 1203"
-generated_at: "2026-03-29T22:21:04.565Z"
+generated_at: "2026-03-29T22:27:50.983Z"
 ---
 
 # § 1203. Radiotelephone requirement

@@ -3,9 +3,9 @@ title: "Section 5032 - Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5032"
 chapter: 60
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 5032"
-generated_at: "2026-03-29T22:19:53.034Z"
+generated_at: "2026-03-29T22:26:06.107Z"
 ---
 
 # §§ 5031, 5032. Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 , 107 Stat. 1505

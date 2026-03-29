@@ -3,9 +3,9 @@ title: "Section 18371 - Interagency collaboration implementation approach"
 usc_title: 42
 usc_section: "18371"
 chapter: 159
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 18371"
-generated_at: "2026-03-29T22:22:17.960Z"
+generated_at: "2026-03-29T22:29:58.068Z"
 ---
 
 # § 18371. Interagency collaboration implementation approach

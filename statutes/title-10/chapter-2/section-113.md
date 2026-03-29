@@ -3,9 +3,9 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-29T22:18:45.782Z"
+generated_at: "2026-03-29T22:24:51.375Z"
 ---
 
 # § 113. Secretary of Defense

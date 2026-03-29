@@ -3,9 +3,9 @@ title: "Section 46103 - Service of notice, process, and actions"
 usc_title: 49
 usc_section: "46103"
 chapter: 461
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "49 U.S.C. § 46103"
-generated_at: "2026-03-29T22:23:16.496Z"
+generated_at: "2026-03-29T22:30:14.974Z"
 ---
 
 # § 46103. Service of notice, process, and actions

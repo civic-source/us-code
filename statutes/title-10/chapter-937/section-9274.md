@@ -3,9 +3,9 @@ title: "Section 9274 - Medal of honor; Air Force cross; distinguished-service me
 usc_title: 10
 usc_section: "9274"
 chapter: 937
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 9274"
-generated_at: "2026-03-29T22:18:46.095Z"
+generated_at: "2026-03-29T22:24:51.848Z"
 ---
 
 # § 9274. Medal of honor; Air Force cross; distinguished-service medal: limitations on award

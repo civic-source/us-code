@@ -3,9 +3,9 @@ title: "Section 217 - Report to Congress"
 usc_title: 27
 usc_section: "217"
 chapter: 8
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "27 U.S.C. § 217"
-generated_at: "2026-03-29T22:20:15.821Z"
+generated_at: "2026-03-29T22:26:23.797Z"
 ---
 
 # § 217. Report to Congress

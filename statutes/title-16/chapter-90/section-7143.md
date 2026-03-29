@@ -3,9 +3,9 @@ title: "Section 7143 - Certification"
 usc_title: 16
 usc_section: "7143"
 chapter: 90
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 7143"
-generated_at: "2026-03-29T22:19:14.624Z"
+generated_at: "2026-03-29T22:25:37.056Z"
 ---
 
 # § 7143. Certification

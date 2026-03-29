@@ -3,9 +3,9 @@ title: "Section 5552 - Installation of meters, tanks, and other apparatus"
 usc_title: 26
 usc_section: "5552"
 chapter: 51
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 5552"
-generated_at: "2026-03-29T22:20:51.583Z"
+generated_at: "2026-03-29T22:27:05.920Z"
 ---
 
 # § 5552. Installation of meters, tanks, and other apparatus

@@ -3,9 +3,9 @@ title: "Section 35 - Placer claims; entry and proceedings for patent under provi
 usc_title: 30
 usc_section: "35"
 chapter: 2
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "30 U.S.C. § 35"
-generated_at: "2026-03-29T22:20:15.391Z"
+generated_at: "2026-03-29T22:26:29.084Z"
 ---
 
 # § 35. Placer claims; entry and proceedings for patent under provisions applicable to vein or lode claims; conforming entry to legal subdivisions and surveys; limitation of claims; homestead entry of segregated agricultural land

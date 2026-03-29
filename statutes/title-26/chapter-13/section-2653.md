@@ -3,9 +3,9 @@ title: "Section 2653 - Taxation of multiple skips"
 usc_title: 26
 usc_section: "2653"
 chapter: 13
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "26 U.S.C. § 2653"
-generated_at: "2026-03-29T22:20:51.485Z"
+generated_at: "2026-03-29T22:27:05.824Z"
 ---
 
 # § 2653. Taxation of multiple skips

@@ -3,9 +3,9 @@ title: "Section 1406 - Retired pay base for members who first became members bef
 usc_title: 10
 usc_section: "1406"
 chapter: 71
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 1406"
-generated_at: "2026-03-29T22:18:45.903Z"
+generated_at: "2026-03-29T22:24:51.555Z"
 ---
 
 # § 1406. Retired pay base for members who first became members before September 8, 1980 : final basic pay

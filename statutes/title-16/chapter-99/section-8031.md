@@ -3,9 +3,9 @@ title: "Section 8031 - Interagency Working Group on IUU fishing"
 usc_title: 16
 usc_section: "8031"
 chapter: 99
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "16 U.S.C. § 8031"
-generated_at: "2026-03-29T22:19:14.634Z"
+generated_at: "2026-03-29T22:25:37.071Z"
 ---
 
 # § 8031. Interagency Working Group on IUU fishing

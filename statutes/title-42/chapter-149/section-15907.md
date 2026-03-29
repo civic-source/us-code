@@ -3,9 +3,9 @@ title: "Section 15907 - Orphaned well site plugging, remediation, and restoratio
 usc_title: 42
 usc_section: "15907"
 chapter: 149
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 15907"
-generated_at: "2026-03-29T22:22:17.811Z"
+generated_at: "2026-03-29T22:29:57.943Z"
 ---
 
 # § 15907. Orphaned well site plugging, remediation, and restoration

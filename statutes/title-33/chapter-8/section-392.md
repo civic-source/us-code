@@ -3,9 +3,9 @@ title: "Section 392 - Complaint and answer; jury trial"
 usc_title: 33
 usc_section: "392"
 chapter: 8
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "33 U.S.C. § 392"
-generated_at: "2026-03-29T22:21:04.494Z"
+generated_at: "2026-03-29T22:27:50.907Z"
 ---
 
 # § 392. Complaint and answer; jury trial

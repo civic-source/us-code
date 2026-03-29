@@ -3,9 +3,9 @@ title: "Section 403 - Repealed. Pub. L. 93–608, § 1(12) , Jan. 2, 1975 , 88 S
 usc_title: 30
 usc_section: "403"
 chapter: 8
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "30 U.S.C. § 403"
-generated_at: "2026-03-29T22:20:15.412Z"
+generated_at: "2026-03-29T22:26:29.109Z"
 ---
 
 # § 403. Repealed. Pub. L. 93–608, § 1(12) , Jan. 2, 1975 , 88 Stat. 1969

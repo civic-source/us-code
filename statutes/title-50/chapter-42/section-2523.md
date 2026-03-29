@@ -3,9 +3,9 @@ title: "Section 2523 - Nuclear weapons stockpile stewardship, management, and re
 usc_title: 50
 usc_section: "2523"
 chapter: 42
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2523"
-generated_at: "2026-03-29T22:22:36.012Z"
+generated_at: "2026-03-29T22:30:08.957Z"
 ---
 
 # § 2523. Nuclear weapons stockpile stewardship, management, and responsiveness plan

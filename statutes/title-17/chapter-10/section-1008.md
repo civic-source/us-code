@@ -3,9 +3,9 @@ title: "Section 1008 - Prohibition on certain infringement actions"
 usc_title: 17
 usc_section: "1008"
 chapter: 10
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "17 U.S.C. § 1008"
-generated_at: "2026-03-29T22:19:06.645Z"
+generated_at: "2026-03-29T22:25:22.114Z"
 ---
 
 # § 1008. Prohibition on certain infringement actions

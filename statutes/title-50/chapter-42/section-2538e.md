@@ -3,9 +3,9 @@ title: "Section 2538e - W93 nuclear warhead acquisition process"
 usc_title: 50
 usc_section: "2538e"
 chapter: 42
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "50 U.S.C. § 2538e"
-generated_at: "2026-03-29T22:22:36.020Z"
+generated_at: "2026-03-29T22:30:08.964Z"
 ---
 
 # § 2538e. W93 nuclear warhead acquisition process

@@ -3,9 +3,9 @@ title: "Section 467a - Administrative detention; duration; pending judicial proc
 usc_title: 21
 usc_section: "467a"
 chapter: 10
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "21 U.S.C. § 467a"
-generated_at: "2026-03-29T22:19:44.019Z"
+generated_at: "2026-03-29T22:26:14.021Z"
 ---
 
 # § 467a. Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official marks

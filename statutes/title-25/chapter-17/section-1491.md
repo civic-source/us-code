@@ -3,9 +3,9 @@ title: "Section 1491 - Defaults; written notification; pro rata payments; subrog
 usc_title: 25
 usc_section: "1491"
 chapter: 17
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 1491"
-generated_at: "2026-03-29T22:20:08.557Z"
+generated_at: "2026-03-29T22:25:56.718Z"
 ---
 
 # § 1491. Defaults; written notification; pro rata payments; subrogation and assignment rights of Secretary; cancellation of uncollectable portion of obligations; forbearance for benefit of borrower; interest or charges cessation date

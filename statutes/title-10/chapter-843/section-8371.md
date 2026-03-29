@@ -3,9 +3,9 @@ title: "Section 8371 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "8371"
 chapter: 843
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 8371"
-generated_at: "2026-03-29T22:18:46.072Z"
+generated_at: "2026-03-29T22:24:51.815Z"
 ---
 
 # § 8371. Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority

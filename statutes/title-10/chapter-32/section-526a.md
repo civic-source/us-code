@@ -3,9 +3,9 @@ title: "Section 526a - Authorized strength after December 31, 2022 : general off
 usc_title: 10
 usc_section: "526a"
 chapter: 32
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "10 U.S.C. § 526a"
-generated_at: "2026-03-29T22:18:45.829Z"
+generated_at: "2026-03-29T22:24:51.446Z"
 ---
 
 # § 526a. Authorized strength after December 31, 2022 : general officers and flag officers on active duty

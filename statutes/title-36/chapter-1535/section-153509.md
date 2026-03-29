@@ -3,9 +3,9 @@ title: "Section 153509 - Records and inspection"
 usc_title: 36
 usc_section: "153509"
 chapter: 1535
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "36 U.S.C. § 153509"
-generated_at: "2026-03-29T22:21:13.708Z"
+generated_at: "2026-03-29T22:28:14.943Z"
 ---
 
 # § 153509. Records and inspection

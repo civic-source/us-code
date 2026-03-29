@@ -3,9 +3,9 @@ title: "Section 1124 - Importation of goods bearing infringing marks or names fo
 usc_title: 15
 usc_section: "1124"
 chapter: 22
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 1124"
-generated_at: "2026-03-29T22:19:02.750Z"
+generated_at: "2026-03-29T22:25:15.885Z"
 ---
 
 # § 1124. Importation of goods bearing infringing marks or names forbidden

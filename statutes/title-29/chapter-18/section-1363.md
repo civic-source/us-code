@@ -3,9 +3,9 @@ title: "Section 1363 - Liability of substantial employer for withdrawal from sin
 usc_title: 29
 usc_section: "1363"
 chapter: 18
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "29 U.S.C. § 1363"
-generated_at: "2026-03-29T22:20:18.485Z"
+generated_at: "2026-03-29T22:26:32.944Z"
 ---
 
 # § 1363. Liability of substantial employer for withdrawal from single-employer plans under multiple controlled groups

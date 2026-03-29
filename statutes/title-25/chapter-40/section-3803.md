@@ -3,9 +3,9 @@ title: "Section 3803 - Dam Safety Maintenance and Repair Program"
 usc_title: 25
 usc_section: "3803"
 chapter: 40
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "25 U.S.C. § 3803"
-generated_at: "2026-03-29T22:20:08.668Z"
+generated_at: "2026-03-29T22:25:56.821Z"
 ---
 
 # § 3803. Dam Safety Maintenance and Repair Program

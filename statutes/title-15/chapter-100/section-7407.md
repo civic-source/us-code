@@ -3,9 +3,9 @@ title: "Section 7407 - Authorization of appropriations"
 usc_title: 15
 usc_section: "7407"
 chapter: 100
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "15 U.S.C. § 7407"
-generated_at: "2026-03-29T22:19:03.005Z"
+generated_at: "2026-03-29T22:25:16.156Z"
 ---
 
 # § 7407. Authorization of appropriations

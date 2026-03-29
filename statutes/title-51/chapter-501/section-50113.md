@@ -3,9 +3,9 @@ title: "Section 50113 - Acquisition of space science data"
 usc_title: 51
 usc_section: "50113"
 chapter: 501
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "51 U.S.C. § 50113"
-generated_at: "2026-03-29T22:23:25.240Z"
+generated_at: "2026-03-29T22:30:23.193Z"
 ---
 
 # § 50113. Acquisition of space science data

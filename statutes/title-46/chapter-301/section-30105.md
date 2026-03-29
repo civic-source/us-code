@@ -3,9 +3,9 @@ title: "Section 30105 - Restriction on recovery by non-citizens and non-resident
 usc_title: 46
 usc_section: "30105"
 chapter: 301
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "46 U.S.C. § 30105"
-generated_at: "2026-03-29T22:23:02.696Z"
+generated_at: "2026-03-29T22:30:18.676Z"
 ---
 
 # § 30105. Restriction on recovery by non-citizens and non-resident aliens for incidents in waters of other countries

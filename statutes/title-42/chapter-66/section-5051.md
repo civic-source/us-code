@@ -3,9 +3,9 @@ title: "Section 5051 - Performance of functions by existing departments or offic
 usc_title: 42
 usc_section: "5051"
 chapter: 66
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "42 U.S.C. § 5051"
-generated_at: "2026-03-29T22:22:17.114Z"
+generated_at: "2026-03-29T22:29:57.318Z"
 ---
 
 # § 5051. Performance of functions by existing departments or offices rather than new departments or offices

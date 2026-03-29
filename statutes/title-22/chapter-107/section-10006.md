@@ -3,9 +3,9 @@ title: "Section 10006 - Support for accountability for war crimes, crimes agains
 usc_title: 22
 usc_section: "10006"
 chapter: 107
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "22 U.S.C. § 10006"
-generated_at: "2026-03-29T22:19:53.184Z"
+generated_at: "2026-03-29T22:26:06.267Z"
 ---
 
 # § 10006. Support for accountability for war crimes, crimes against humanity, and genocide in Sudan

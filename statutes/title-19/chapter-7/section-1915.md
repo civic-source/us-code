@@ -3,9 +3,9 @@ title: "Section 1915 - Repealed. Pub. L. 93–618, title VI, § 602(e) , Jan. 3,
 usc_title: 19
 usc_section: "1915"
 chapter: 7
-current_through: "PL 117-116"
+current_through: "PL 117-122"
 classification: "19 U.S.C. § 1915"
-generated_at: "2026-03-29T22:19:36.361Z"
+generated_at: "2026-03-29T22:25:41.733Z"
 ---
 
 # §§ 1911 to 1915. Repealed. Pub. L. 93–618, title VI, § 602(e) , Jan. 3, 1975 , 88 Stat. 2072
