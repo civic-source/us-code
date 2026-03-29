@@ -3,9 +3,9 @@ title: "Section 50701 - Information on suicide in law enforcement"
 usc_title: 34
 usc_section: "50701"
 chapter: 507
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 50701"
-generated_at: "2026-03-29T23:42:25.831Z"
+generated_at: "2026-03-29T23:45:32.744Z"
 ---
 
 # § 50701. Information on suicide in law enforcement

@@ -3,9 +3,9 @@ title: "Section 61b - Transferred"
 usc_title: 2
 usc_section: "61b"
 chapter: 4
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "2 U.S.C. § 61b"
-generated_at: "2026-03-29T23:41:11.217Z"
+generated_at: "2026-03-29T23:43:24.094Z"
 ---
 
 # § 61b. Transferred

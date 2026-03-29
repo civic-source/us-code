@@ -3,9 +3,9 @@ title: "Section 3 - Commissioner; appointment and tenure of office; compensation
 usc_title: 29
 usc_section: "3"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "29 U.S.C. § 3"
-generated_at: "2026-03-29T23:42:11.955Z"
+generated_at: "2026-03-29T23:45:02.679Z"
 ---
 
 # § 3. Commissioner; appointment and tenure of office; compensation

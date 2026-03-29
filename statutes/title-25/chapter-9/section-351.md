@@ -3,9 +3,9 @@ title: "Section 351 - Patents with restrictions for lots in villages in Washingt
 usc_title: 25
 usc_section: "351"
 chapter: 9
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "25 U.S.C. § 351"
-generated_at: "2026-03-29T23:42:03.894Z"
+generated_at: "2026-03-29T23:44:34.206Z"
 ---
 
 # § 351. Patents with restrictions for lots in villages in Washington

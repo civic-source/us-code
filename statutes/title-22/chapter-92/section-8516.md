@@ -3,9 +3,9 @@ title: "Section 8516 - Authority to implement United Nations Security Council re
 usc_title: 22
 usc_section: "8516"
 chapter: 92
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 8516"
-generated_at: "2026-03-29T23:42:07.404Z"
+generated_at: "2026-03-29T23:44:53.618Z"
 ---
 
 # § 8516. Authority to implement United Nations Security Council resolutions imposing sanctions with respect to Iran

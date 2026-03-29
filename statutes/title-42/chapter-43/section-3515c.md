@@ -3,9 +3,9 @@ title: "Section 3515c - Offset against Federal payments to States for provision 
 usc_title: 42
 usc_section: "3515c"
 chapter: 43
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 3515c"
-generated_at: "2026-03-29T23:42:47.724Z"
+generated_at: "2026-03-29T23:46:25.452Z"
 ---
 
 # § 3515c. Offset against Federal payments to States for provision of services

@@ -3,9 +3,9 @@ title: "Section 1863 - National Science Board"
 usc_title: 42
 usc_section: "1863"
 chapter: 16
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 1863"
-generated_at: "2026-03-29T23:42:47.669Z"
+generated_at: "2026-03-29T23:46:25.403Z"
 ---
 
 # § 1863. National Science Board

@@ -3,9 +3,9 @@ title: "Section 451 - Repealed. Pub. L. 104–333, div. I, title VIII, § 801 , 
 usc_title: 16
 usc_section: "451"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 451"
-generated_at: "2026-03-29T23:42:00.203Z"
+generated_at: "2026-03-29T23:44:20.842Z"
 ---
 
 # § 451. Repealed. Pub. L. 104–333, div. I, title VIII, § 801 , Nov. 12, 1996 , 110 Stat. 4186

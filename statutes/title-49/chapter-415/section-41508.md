@@ -3,9 +3,9 @@ title: "Section 41508 - Authority of the Secretary of Transportation to adjust d
 usc_title: 49
 usc_section: "41508"
 chapter: 415
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "49 U.S.C. § 41508"
-generated_at: "2026-03-29T23:42:54.940Z"
+generated_at: "2026-03-29T23:46:53.427Z"
 ---
 
 # § 41508. Authority of the Secretary of Transportation to adjust divisions of joint prices for foreign air transportation

@@ -3,9 +3,9 @@ title: "Section 30916 - Recovery by the United States for salvage services"
 usc_title: 46
 usc_section: "30916"
 chapter: 309
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "46 U.S.C. § 30916"
-generated_at: "2026-03-29T23:42:56.285Z"
+generated_at: "2026-03-29T23:46:38.388Z"
 ---
 
 # § 30916. Recovery by the United States for salvage services

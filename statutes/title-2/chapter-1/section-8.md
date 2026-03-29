@@ -3,9 +3,9 @@ title: "Section 8 - Vacancies"
 usc_title: 2
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "2 U.S.C. § 8"
-generated_at: "2026-03-29T23:41:11.215Z"
+generated_at: "2026-03-29T23:43:24.092Z"
 ---
 
 # § 8. Vacancies

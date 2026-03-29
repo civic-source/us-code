@@ -3,9 +3,9 @@ title: "Section 7642 - Food Animal Residue Avoidance Database program"
 usc_title: 7
 usc_section: "7642"
 chapter: 103
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 7642"
-generated_at: "2026-03-29T23:41:30.581Z"
+generated_at: "2026-03-29T23:43:33.935Z"
 ---
 
 # § 7642. Food Animal Residue Avoidance Database program

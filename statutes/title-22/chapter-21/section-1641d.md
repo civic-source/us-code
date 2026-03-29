@@ -3,9 +3,9 @@ title: "Section 1641d - Claims of nationals of the United States against the Sov
 usc_title: 22
 usc_section: "1641d"
 chapter: 21
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 1641d"
-generated_at: "2026-03-29T23:42:07.296Z"
+generated_at: "2026-03-29T23:44:53.510Z"
 ---
 
 # § 1641d. Claims of nationals of the United States against the Soviet Union

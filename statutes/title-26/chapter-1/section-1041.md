@@ -3,9 +3,9 @@ title: "Section 1041 - Transfers of property between spouses or incident to divo
 usc_title: 26
 usc_section: "1041"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 1041"
-generated_at: "2026-03-29T23:42:21.959Z"
+generated_at: "2026-03-29T23:45:28.956Z"
 ---
 
 # § 1041. Transfers of property between spouses or incident to divorce

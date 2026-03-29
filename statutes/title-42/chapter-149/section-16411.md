@@ -3,9 +3,9 @@ title: "Section 16411 - Workforce trends and traineeship grants"
 usc_title: 42
 usc_section: "16411"
 chapter: 149
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 16411"
-generated_at: "2026-03-29T23:42:48.001Z"
+generated_at: "2026-03-29T23:46:25.709Z"
 ---
 
 # § 16411. Workforce trends and traineeship grants

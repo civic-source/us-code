@@ -3,9 +3,9 @@ title: "Section 30181 - Policy"
 usc_title: 49
 usc_section: "30181"
 chapter: 301
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "49 U.S.C. § 30181"
-generated_at: "2026-03-29T23:42:54.920Z"
+generated_at: "2026-03-29T23:46:53.412Z"
 ---
 
 # § 30181. Policy

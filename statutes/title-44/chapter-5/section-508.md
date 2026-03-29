@@ -3,9 +3,9 @@ title: "Section 508 - Annual estimates of quantity of paper required for public 
 usc_title: 44
 usc_section: "508"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "44 U.S.C. § 508"
-generated_at: "2026-03-29T23:42:33.461Z"
+generated_at: "2026-03-29T23:46:13.351Z"
 ---
 
 # § 508. Annual estimates of quantity of paper required for public printing and binding

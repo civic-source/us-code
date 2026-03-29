@@ -3,9 +3,9 @@ title: "Section 7304 - Penalty for fraudulently claiming drawback"
 usc_title: 26
 usc_section: "7304"
 chapter: 75
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 7304"
-generated_at: "2026-03-29T23:42:22.055Z"
+generated_at: "2026-03-29T23:45:29.049Z"
 ---
 
 # § 7304. Penalty for fraudulently claiming drawback

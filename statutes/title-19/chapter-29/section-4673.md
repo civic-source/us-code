@@ -3,9 +3,9 @@ title: "Section 4673 - Funding"
 usc_title: 19
 usc_section: "4673"
 chapter: 29
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "19 U.S.C. § 4673"
-generated_at: "2026-03-29T23:41:48.945Z"
+generated_at: "2026-03-29T23:44:27.777Z"
 ---
 
 # § 4673. Funding

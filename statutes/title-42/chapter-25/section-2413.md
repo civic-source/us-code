@@ -3,9 +3,9 @@ title: "Section 2413 - Repealed. Pub. L. 90–448, title XIII, § 1303(c) , Aug.
 usc_title: 42
 usc_section: "2413"
 chapter: 25
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 2413"
-generated_at: "2026-03-29T23:42:47.703Z"
+generated_at: "2026-03-29T23:46:25.433Z"
 ---
 
 # §§ 2401 to 2413. Repealed. Pub. L. 90–448, title XIII, § 1303(c) , Aug. 1, 1968 , 82 Stat. 573

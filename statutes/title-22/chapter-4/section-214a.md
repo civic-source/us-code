@@ -3,9 +3,9 @@ title: "Section 214a - Fees erroneously charged and paid; refund"
 usc_title: 22
 usc_section: "214a"
 chapter: 4
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 214a"
-generated_at: "2026-03-29T23:42:07.267Z"
+generated_at: "2026-03-29T23:44:53.477Z"
 ---
 
 # § 214a. Fees erroneously charged and paid; refund

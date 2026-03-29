@@ -3,9 +3,9 @@ title: "Section 697f - Prepayment of development company debentures"
 usc_title: 15
 usc_section: "697f"
 chapter: 14
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 697f"
-generated_at: "2026-03-29T23:41:37.766Z"
+generated_at: "2026-03-29T23:43:51.244Z"
 ---
 
 # § 697f. Prepayment of development company debentures

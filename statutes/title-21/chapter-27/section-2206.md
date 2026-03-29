@@ -3,9 +3,9 @@ title: "Section 2206 - Alcohol-related facilities"
 usc_title: 21
 usc_section: "2206"
 chapter: 27
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "21 U.S.C. § 2206"
-generated_at: "2026-03-29T23:42:04.965Z"
+generated_at: "2026-03-29T23:44:35.939Z"
 ---
 
 # § 2206. Alcohol-related facilities

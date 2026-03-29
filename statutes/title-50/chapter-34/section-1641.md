@@ -3,9 +3,9 @@ title: "Section 1641 - Accountability and reporting requirements of President"
 usc_title: 50
 usc_section: "1641"
 chapter: 34
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 1641"
-generated_at: "2026-03-29T23:43:03.548Z"
+generated_at: "2026-03-29T23:46:37.289Z"
 ---
 
 # § 1641. Accountability and reporting requirements of President

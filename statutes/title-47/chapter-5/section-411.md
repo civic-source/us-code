@@ -3,9 +3,9 @@ title: "Section 411 - Joinder of parties"
 usc_title: 47
 usc_section: "411"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "47 U.S.C. § 411"
-generated_at: "2026-03-29T23:42:52.708Z"
+generated_at: "2026-03-29T23:46:50.141Z"
 ---
 
 # § 411. Joinder of parties

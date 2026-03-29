@@ -3,9 +3,9 @@ title: "Section 5533 - Dual pay from more than one position; limitations; except
 usc_title: 5
 usc_section: "5533"
 chapter: 55
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "5 U.S.C. § 5533"
-generated_at: "2026-03-29T23:40:59.044Z"
+generated_at: "2026-03-29T23:43:25.511Z"
 ---
 
 # § 5533. Dual pay from more than one position; limitations; exceptions

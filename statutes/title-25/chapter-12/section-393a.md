@@ -3,9 +3,9 @@ title: "Section 393a - Lands of Five Civilized Tribes"
 usc_title: 25
 usc_section: "393a"
 chapter: 12
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "25 U.S.C. § 393a"
-generated_at: "2026-03-29T23:42:03.895Z"
+generated_at: "2026-03-29T23:44:34.207Z"
 ---
 
 # § 393a. Lands of Five Civilized Tribes

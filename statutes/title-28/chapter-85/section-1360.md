@@ -3,9 +3,9 @@ title: "Section 1360 - State civil jurisdiction in actions to which Indians are 
 usc_title: 28
 usc_section: "1360"
 chapter: 85
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "28 U.S.C. § 1360"
-generated_at: "2026-03-29T23:42:10.265Z"
+generated_at: "2026-03-29T23:45:08.260Z"
 ---
 
 # § 1360. State civil jurisdiction in actions to which Indians are parties

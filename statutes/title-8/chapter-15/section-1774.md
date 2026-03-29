@@ -3,9 +3,9 @@ title: "Section 1774 - Annual report on aliens who fail to appear after release 
 usc_title: 8
 usc_section: "1774"
 chapter: 15
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "8 U.S.C. § 1774"
-generated_at: "2026-03-29T23:41:14.383Z"
+generated_at: "2026-03-29T23:43:42.439Z"
 ---
 
 # § 1774. Annual report on aliens who fail to appear after release on own recognizance

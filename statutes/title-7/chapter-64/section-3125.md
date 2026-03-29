@@ -3,9 +3,9 @@ title: "Section 3125 - Annual report of Secretary of Agriculture to President an
 usc_title: 7
 usc_section: "3125"
 chapter: 64
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 3125"
-generated_at: "2026-03-29T23:41:30.531Z"
+generated_at: "2026-03-29T23:43:33.885Z"
 ---
 
 # § 3125. Annual report of Secretary of Agriculture to President and Congress

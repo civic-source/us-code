@@ -3,9 +3,9 @@ title: "Section 18013 - Annual report on self-insured plans"
 usc_title: 42
 usc_section: "18013"
 chapter: 157
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 18013"
-generated_at: "2026-03-29T23:42:48.024Z"
+generated_at: "2026-03-29T23:46:25.730Z"
 ---
 
 # § 18013. Annual report on self-insured plans

@@ -3,9 +3,9 @@ title: "Section 39 - Repealed. Pub. L. 114–255, div. B, title IX, § 9017 , De
 usc_title: 42
 usc_section: "39"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-29T23:42:47.342Z"
+generated_at: "2026-03-29T23:46:25.094Z"
 ---
 
 # § 290bb–39. Repealed. Pub. L. 114–255, div. B, title IX, § 9017 , Dec. 13, 2016 , 130 Stat. 1248

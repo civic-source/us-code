@@ -3,9 +3,9 @@ title: "Section 11182 - Administrative authority"
 usc_title: 34
 usc_section: "11182"
 chapter: 111
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 11182"
-generated_at: "2026-03-29T23:42:25.794Z"
+generated_at: "2026-03-29T23:45:32.708Z"
 ---
 
 # § 11182. Administrative authority

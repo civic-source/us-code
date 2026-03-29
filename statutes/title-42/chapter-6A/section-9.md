@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. Pub. L. 112–240, title VI, § 642(a) , Jan. 2, 2
 usc_title: 42
 usc_section: "9"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T23:42:47.421Z"
+generated_at: "2026-03-29T23:46:25.174Z"
 ---
 
 # §§ 300ll to 300ll–9. Repealed. Pub. L. 112–240, title VI, § 642(a) , Jan. 2, 2013 , 126 Stat. 2358

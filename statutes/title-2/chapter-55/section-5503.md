@@ -3,9 +3,9 @@ title: "Section 5503 - Actions against officers for official acts"
 usc_title: 2
 usc_section: "5503"
 chapter: 55
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "2 U.S.C. § 5503"
-generated_at: "2026-03-29T23:41:11.258Z"
+generated_at: "2026-03-29T23:43:24.139Z"
 ---
 
 # § 5503. Actions against officers for official acts

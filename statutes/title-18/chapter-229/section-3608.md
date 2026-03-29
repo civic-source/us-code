@@ -3,9 +3,9 @@ title: "Section 3608 - Drug testing of Federal offenders on post-conviction rele
 usc_title: 18
 usc_section: "3608"
 chapter: 229
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "18 U.S.C. § 3608"
-generated_at: "2026-03-29T23:41:53.946Z"
+generated_at: "2026-03-29T23:44:23.827Z"
 ---
 
 # § 3608. Drug testing of Federal offenders on post-conviction release

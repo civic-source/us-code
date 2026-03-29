@@ -3,9 +3,9 @@ title: "Section 383 - “Net income tax” defined"
 usc_title: 15
 usc_section: "383"
 chapter: 10
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 383"
-generated_at: "2026-03-29T23:41:37.738Z"
+generated_at: "2026-03-29T23:43:51.214Z"
 ---
 
 # § 383. “Net income tax” defined

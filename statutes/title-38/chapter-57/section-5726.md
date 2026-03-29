@@ -3,9 +3,9 @@ title: "Section 5726 - Reports and notice to Congress on data breaches"
 usc_title: 38
 usc_section: "5726"
 chapter: 57
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 5726"
-generated_at: "2026-03-29T23:42:31.309Z"
+generated_at: "2026-03-29T23:46:03.133Z"
 ---
 
 # § 5726. Reports and notice to Congress on data breaches

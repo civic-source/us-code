@@ -3,9 +3,9 @@ title: "Section 12132 - Loss of coastwise trade privileges"
 usc_title: 46
 usc_section: "12132"
 chapter: 121
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "46 U.S.C. § 12132"
-generated_at: "2026-03-29T23:42:56.281Z"
+generated_at: "2026-03-29T23:46:38.384Z"
 ---
 
 # § 12132. Loss of coastwise trade privileges

@@ -3,9 +3,9 @@ title: "Section 44710 - Revocations of airman certificates for controlled substa
 usc_title: 49
 usc_section: "44710"
 chapter: 447
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "49 U.S.C. § 44710"
-generated_at: "2026-03-29T23:42:54.948Z"
+generated_at: "2026-03-29T23:46:53.434Z"
 ---
 
 # § 44710. Revocations of airman certificates for controlled substance violations

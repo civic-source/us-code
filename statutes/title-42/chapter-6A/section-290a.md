@@ -3,9 +3,9 @@ title: "Section 290a - Victims of fire"
 usc_title: 42
 usc_section: "290a"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 290a"
-generated_at: "2026-03-29T23:42:47.335Z"
+generated_at: "2026-03-29T23:46:25.087Z"
 ---
 
 # § 290a. Victims of fire

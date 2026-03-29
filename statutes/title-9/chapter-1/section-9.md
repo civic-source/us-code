@@ -3,9 +3,9 @@ title: "Section 9 - Award of arbitrators; confirmation; jurisdiction; procedure"
 usc_title: 9
 usc_section: "9"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "9 U.S.C. § 9"
-generated_at: "2026-03-29T23:41:12.595Z"
+generated_at: "2026-03-29T23:43:28.975Z"
 ---
 
 # § 9. Award of arbitrators; confirmation; jurisdiction; procedure

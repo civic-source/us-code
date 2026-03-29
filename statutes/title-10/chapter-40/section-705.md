@@ -3,9 +3,9 @@ title: "Section 705 - Rest and recuperation absence: qualified members extending
 usc_title: 10
 usc_section: "705"
 chapter: 40
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 705"
-generated_at: "2026-03-29T23:41:20.444Z"
+generated_at: "2026-03-29T23:43:41.735Z"
 ---
 
 # § 705. Rest and recuperation absence: qualified members extending duty at designated locations overseas

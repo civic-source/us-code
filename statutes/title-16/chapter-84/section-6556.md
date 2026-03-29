@@ -3,9 +3,9 @@ title: "Section 6556 - Termination of effectiveness"
 usc_title: 16
 usc_section: "6556"
 chapter: 84
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 6556"
-generated_at: "2026-03-29T23:42:00.383Z"
+generated_at: "2026-03-29T23:44:21.023Z"
 ---
 
 # § 6556. Termination of effectiveness

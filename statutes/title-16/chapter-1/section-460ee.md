@@ -3,9 +3,9 @@ title: "Section 460ee - Establishment"
 usc_title: 16
 usc_section: "460ee"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 460ee"
-generated_at: "2026-03-29T23:42:00.218Z"
+generated_at: "2026-03-29T23:44:20.855Z"
 ---
 
 # § 460ee. Establishment

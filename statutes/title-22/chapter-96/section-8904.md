@@ -3,9 +3,9 @@ title: "Section 8904 - Recovery of assets linked to governmental corruption in U
 usc_title: 22
 usc_section: "8904"
 chapter: 96
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 8904"
-generated_at: "2026-03-29T23:42:07.408Z"
+generated_at: "2026-03-29T23:44:53.622Z"
 ---
 
 # § 8904. Recovery of assets linked to governmental corruption in Ukraine

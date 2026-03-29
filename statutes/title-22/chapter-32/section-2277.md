@@ -3,9 +3,9 @@ title: "Section 2277 - Strategy to advance prosperity, combat corruption, streng
 usc_title: 22
 usc_section: "2277"
 chapter: 32
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 2277"
-generated_at: "2026-03-29T23:42:07.312Z"
+generated_at: "2026-03-29T23:44:53.526Z"
 ---
 
 # § 2277. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras

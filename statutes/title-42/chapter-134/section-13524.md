@@ -3,9 +3,9 @@ title: "Section 13524 - Costs related to decommissioning and storage and disposa
 usc_title: 42
 usc_section: "13524"
 chapter: 134
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 13524"
-generated_at: "2026-03-29T23:42:47.967Z"
+generated_at: "2026-03-29T23:46:25.677Z"
 ---
 
 # § 13524. Costs related to decommissioning and storage and disposal of nuclear waste

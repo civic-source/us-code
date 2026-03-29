@@ -3,9 +3,9 @@ title: "Section 6342 - Survey and Registry"
 usc_title: 42
 usc_section: "6342"
 chapter: 77
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 6342"
-generated_at: "2026-03-29T23:42:47.788Z"
+generated_at: "2026-03-29T23:46:25.510Z"
 ---
 
 # § 6342. Survey and Registry

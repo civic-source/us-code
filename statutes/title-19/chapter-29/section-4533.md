@@ -3,9 +3,9 @@ title: "Section 4533 - Actions regarding verification of claims under the USMCA"
 usc_title: 19
 usc_section: "4533"
 chapter: 29
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "19 U.S.C. § 4533"
-generated_at: "2026-03-29T23:41:48.942Z"
+generated_at: "2026-03-29T23:44:27.775Z"
 ---
 
 # § 4533. Actions regarding verification of claims under the USMCA

@@ -3,9 +3,9 @@ title: "Section 375a - Sale under sections 374 and 375 of lands appraised at not
 usc_title: 43
 usc_section: "375a"
 chapter: 12
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "43 U.S.C. § 375a"
-generated_at: "2026-03-29T23:42:34.577Z"
+generated_at: "2026-03-29T23:46:07.358Z"
 ---
 
 # § 375a. Sale under sections 374 and 375 of lands appraised at not exceeding $300

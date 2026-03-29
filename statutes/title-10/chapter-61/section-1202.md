@@ -3,9 +3,9 @@ title: "Section 1202 - Regulars and members on active duty for more than 30 days
 usc_title: 10
 usc_section: "1202"
 chapter: 61
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 1202"
-generated_at: "2026-03-29T23:41:20.472Z"
+generated_at: "2026-03-29T23:43:41.761Z"
 ---
 
 # § 1202. Regulars and members on active duty for more than 30 days: temporary disability retired list

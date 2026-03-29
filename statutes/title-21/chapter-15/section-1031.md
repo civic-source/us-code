@@ -3,9 +3,9 @@ title: "Section 1031 - Congressional statement of findings"
 usc_title: 21
 usc_section: "1031"
 chapter: 15
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "21 U.S.C. § 1031"
-generated_at: "2026-03-29T23:42:04.956Z"
+generated_at: "2026-03-29T23:44:35.930Z"
 ---
 
 # § 1031. Congressional statement of findings

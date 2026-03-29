@@ -3,9 +3,9 @@ title: "Section 50108 - Recordkeeping requirement"
 usc_title: 34
 usc_section: "50108"
 chapter: 501
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 50108"
-generated_at: "2026-03-29T23:42:25.830Z"
+generated_at: "2026-03-29T23:45:32.743Z"
 ---
 
 # § 50108. Recordkeeping requirement

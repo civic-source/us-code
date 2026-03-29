@@ -3,9 +3,9 @@ title: "Section 50906 - Experimental permits"
 usc_title: 51
 usc_section: "50906"
 chapter: 509
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "51 U.S.C. § 50906"
-generated_at: "2026-03-29T23:43:07.773Z"
+generated_at: "2026-03-29T23:46:55.517Z"
 ---
 
 # § 50906. Experimental permits

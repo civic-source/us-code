@@ -3,9 +3,9 @@ title: "Section 1424c - Review of claims respecting land on Guam"
 usc_title: 48
 usc_section: "1424c"
 chapter: 8
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "48 U.S.C. § 1424c"
-generated_at: "2026-03-29T23:42:51.648Z"
+generated_at: "2026-03-29T23:46:28.742Z"
 ---
 
 # § 1424c. Review of claims respecting land on Guam

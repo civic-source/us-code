@@ -3,9 +3,9 @@ title: "Section 607 - Sale by Secretary; additional options; validation of assig
 usc_title: 7
 usc_section: "607"
 chapter: 26
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 607"
-generated_at: "2026-03-29T23:41:30.450Z"
+generated_at: "2026-03-29T23:43:33.806Z"
 ---
 
 # § 607. Sale by Secretary; additional options; validation of assignments; publication of information

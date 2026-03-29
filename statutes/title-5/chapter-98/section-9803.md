@@ -3,9 +3,9 @@ title: "Section 9803 - Restrictions"
 usc_title: 5
 usc_section: "9803"
 chapter: 98
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "5 U.S.C. § 9803"
-generated_at: "2026-03-29T23:40:59.082Z"
+generated_at: "2026-03-29T23:43:25.548Z"
 ---
 
 # § 9803. Restrictions

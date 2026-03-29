@@ -3,9 +3,9 @@ title: "Section 1465c - Advisory Board for Cuba Broadcasting"
 usc_title: 22
 usc_section: "1465c"
 chapter: 18
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 1465c"
-generated_at: "2026-03-29T23:42:07.293Z"
+generated_at: "2026-03-29T23:44:53.508Z"
 ---
 
 # § 1465c. Advisory Board for Cuba Broadcasting

@@ -3,9 +3,9 @@ title: "Section 184 - Joint Safety Council"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-29T23:41:20.426Z"
+generated_at: "2026-03-29T23:43:41.716Z"
 ---
 
 # § 184. Joint Safety Council

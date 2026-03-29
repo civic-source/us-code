@@ -3,9 +3,9 @@ title: "Section 1506 - Repealed. Pub. L. 97–164, title I, § 133(h) , Apr. 2, 
 usc_title: 28
 usc_section: "1506"
 chapter: 91
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "28 U.S.C. § 1506"
-generated_at: "2026-03-29T23:42:10.267Z"
+generated_at: "2026-03-29T23:45:08.261Z"
 ---
 
 # [§ 1506. Repealed. Pub. L. 97–164, title I, § 133(h) , Apr. 2, 1982 , 96 Stat. 41 ]

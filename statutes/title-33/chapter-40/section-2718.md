@@ -3,9 +3,9 @@ title: "Section 2718 - Relationship to other law"
 usc_title: 33
 usc_section: "2718"
 chapter: 40
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "33 U.S.C. § 2718"
-generated_at: "2026-03-29T23:42:26.815Z"
+generated_at: "2026-03-29T23:45:48.251Z"
 ---
 
 # § 2718. Relationship to other law

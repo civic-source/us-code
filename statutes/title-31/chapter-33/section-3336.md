@@ -3,9 +3,9 @@ title: "Section 3336 - Electronic benefit transfer pilot"
 usc_title: 31
 usc_section: "3336"
 chapter: 33
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "31 U.S.C. § 3336"
-generated_at: "2026-03-29T23:42:25.036Z"
+generated_at: "2026-03-29T23:45:40.457Z"
 ---
 
 # § 3336. Electronic benefit transfer pilot

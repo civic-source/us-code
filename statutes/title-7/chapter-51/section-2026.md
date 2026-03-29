@@ -3,9 +3,9 @@ title: "Section 2026 - Research, demonstration, and evaluations"
 usc_title: 7
 usc_section: "2026"
 chapter: 51
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 2026"
-generated_at: "2026-03-29T23:41:30.514Z"
+generated_at: "2026-03-29T23:43:33.868Z"
 ---
 
 # § 2026. Research, demonstration, and evaluations

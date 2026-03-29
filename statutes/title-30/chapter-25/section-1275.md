@@ -3,9 +3,9 @@ title: "Section 1275 - Review by Secretary"
 usc_title: 30
 usc_section: "1275"
 chapter: 25
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "30 U.S.C. § 1275"
-generated_at: "2026-03-29T23:42:10.795Z"
+generated_at: "2026-03-29T23:45:01.689Z"
 ---
 
 # § 1275. Review by Secretary

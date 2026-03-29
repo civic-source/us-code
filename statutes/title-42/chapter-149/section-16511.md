@@ -3,9 +3,9 @@ title: "Section 16511 - Definitions"
 usc_title: 42
 usc_section: "16511"
 chapter: 149
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 16511"
-generated_at: "2026-03-29T23:42:48.003Z"
+generated_at: "2026-03-29T23:46:25.710Z"
 ---
 
 # § 16511. Definitions

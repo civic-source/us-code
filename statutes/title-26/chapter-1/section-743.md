@@ -3,9 +3,9 @@ title: "Section 743 - Special rules where section 754 election or substantial bu
 usc_title: 26
 usc_section: "743"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 743"
-generated_at: "2026-03-29T23:42:21.934Z"
+generated_at: "2026-03-29T23:45:28.931Z"
 ---
 
 # § 743. Special rules where section 754 election or substantial built-in loss

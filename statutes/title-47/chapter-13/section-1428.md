@@ -3,9 +3,9 @@ title: "Section 1428 - Permanent self-funding; duty to assess and collect fees f
 usc_title: 47
 usc_section: "1428"
 chapter: 13
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "47 U.S.C. § 1428"
-generated_at: "2026-03-29T23:42:52.724Z"
+generated_at: "2026-03-29T23:46:50.157Z"
 ---
 
 # § 1428. Permanent self-funding; duty to assess and collect fees for network use

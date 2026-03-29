@@ -3,9 +3,9 @@ title: "Section 14101 - Findings and purposes"
 usc_title: 40
 usc_section: "14101"
 chapter: 141
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "40 U.S.C. § 14101"
-generated_at: "2026-03-29T23:42:29.905Z"
+generated_at: "2026-03-29T23:45:55.324Z"
 ---
 
 # § 14101. Findings and purposes

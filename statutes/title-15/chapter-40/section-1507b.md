@@ -3,9 +3,9 @@ title: "Section 1507b - Assistant Secretary of Commerce; appointment; compensati
 usc_title: 15
 usc_section: "1507b"
 chapter: 40
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 1507b"
-generated_at: "2026-03-29T23:41:37.788Z"
+generated_at: "2026-03-29T23:43:51.265Z"
 ---
 
 # § 1507b. Assistant Secretary of Commerce; appointment; compensation; duties

@@ -3,9 +3,9 @@ title: "Section 4815 - Enforcement"
 usc_title: 7
 usc_section: "4815"
 chapter: 79
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 4815"
-generated_at: "2026-03-29T23:41:30.545Z"
+generated_at: "2026-03-29T23:43:33.899Z"
 ---
 
 # § 4815. Enforcement

@@ -3,9 +3,9 @@ title: "Section 3103 - Omitted"
 usc_title: 42
 usc_section: "3103"
 chapter: 37
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 3103"
-generated_at: "2026-03-29T23:42:47.720Z"
+generated_at: "2026-03-29T23:46:25.447Z"
 ---
 
 # §§ 3102, 3103. Omitted

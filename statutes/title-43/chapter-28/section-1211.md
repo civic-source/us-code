@@ -3,9 +3,9 @@ title: "Section 1211 - Transferred"
 usc_title: 43
 usc_section: "1211"
 chapter: 28
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "43 U.S.C. § 1211"
-generated_at: "2026-03-29T23:42:34.597Z"
+generated_at: "2026-03-29T23:46:07.377Z"
 ---
 
 # § 1211. Transferred

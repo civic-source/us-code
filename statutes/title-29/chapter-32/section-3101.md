@@ -3,9 +3,9 @@ title: "Section 3101 - Purposes"
 usc_title: 29
 usc_section: "3101"
 chapter: 32
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "29 U.S.C. § 3101"
-generated_at: "2026-03-29T23:42:12.019Z"
+generated_at: "2026-03-29T23:45:02.746Z"
 ---
 
 # § 3101. Purposes

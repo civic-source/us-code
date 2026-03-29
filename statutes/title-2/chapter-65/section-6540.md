@@ -3,9 +3,9 @@ title: "Section 6540 - Adjustment of rate of compensation by Secretary of Senate
 usc_title: 2
 usc_section: "6540"
 chapter: 65
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "2 U.S.C. § 6540"
-generated_at: "2026-03-29T23:41:11.262Z"
+generated_at: "2026-03-29T23:43:24.143Z"
 ---
 
 # § 6540. Adjustment of rate of compensation by Secretary of Senate

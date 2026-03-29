@@ -3,9 +3,9 @@ title: "Section 4825 - Effect on other acts"
 usc_title: 50
 usc_section: "4825"
 chapter: 58
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 4825"
-generated_at: "2026-03-29T23:43:03.618Z"
+generated_at: "2026-03-29T23:46:37.367Z"
 ---
 
 # § 4825. Effect on other acts

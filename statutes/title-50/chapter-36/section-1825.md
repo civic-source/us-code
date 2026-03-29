@@ -3,9 +3,9 @@ title: "Section 1825 - Use of information"
 usc_title: 50
 usc_section: "1825"
 chapter: 36
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 1825"
-generated_at: "2026-03-29T23:43:03.550Z"
+generated_at: "2026-03-29T23:46:37.294Z"
 ---
 
 # § 1825. Use of information

@@ -3,9 +3,9 @@ title: "Section 4542 - Congressional declaration for utilization of programs und
 usc_title: 42
 usc_section: "4542"
 chapter: 60
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 4542"
-generated_at: "2026-03-29T23:42:47.743Z"
+generated_at: "2026-03-29T23:46:25.468Z"
 ---
 
 # § 4542. Congressional declaration for utilization of programs under other Federal laws in fields of health and social services

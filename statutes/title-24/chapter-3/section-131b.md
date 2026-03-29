@@ -3,9 +3,9 @@ title: "Section 131b - Omitted"
 usc_title: 24
 usc_section: "131b"
 chapter: 3
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "24 U.S.C. § 131b"
-generated_at: "2026-03-29T23:42:02.179Z"
+generated_at: "2026-03-29T23:44:32.378Z"
 ---
 
 # §§ 131a, 131b. Omitted

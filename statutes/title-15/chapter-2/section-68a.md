@@ -3,9 +3,9 @@ title: "Section 68a - Misbranding declared unlawful"
 usc_title: 15
 usc_section: "68a"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 68a"
-generated_at: "2026-03-29T23:41:37.685Z"
+generated_at: "2026-03-29T23:43:51.161Z"
 ---
 
 # § 68a. Misbranding declared unlawful

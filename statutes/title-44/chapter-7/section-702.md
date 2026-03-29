@@ -3,9 +3,9 @@ title: "Section 702 - Extra copies of documents and reports"
 usc_title: 44
 usc_section: "702"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "44 U.S.C. § 702"
-generated_at: "2026-03-29T23:42:33.462Z"
+generated_at: "2026-03-29T23:46:13.352Z"
 ---
 
 # § 702. Extra copies of documents and reports

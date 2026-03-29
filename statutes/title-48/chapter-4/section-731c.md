@@ -3,9 +3,9 @@ title: "Section 731c - Submission of sections 731b to 731e of this title to peop
 usc_title: 48
 usc_section: "731c"
 chapter: 4
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "48 U.S.C. § 731c"
-generated_at: "2026-03-29T23:42:51.642Z"
+generated_at: "2026-03-29T23:46:28.738Z"
 ---
 
 # § 731c. Submission of sections 731b to 731e of this title to people of Puerto Rico for referendum; convening of constitutional convention; requisites of constitution

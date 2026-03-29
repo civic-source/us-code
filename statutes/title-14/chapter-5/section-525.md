@@ -3,9 +3,9 @@ title: "Section 525 - Special agents of the Coast Guard Investigative Service la
 usc_title: 14
 usc_section: "525"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "14 U.S.C. § 525"
-generated_at: "2026-03-29T23:41:34.611Z"
+generated_at: "2026-03-29T23:44:05.275Z"
 ---
 
 # § 525. Special agents of the Coast Guard Investigative Service law enforcement authority

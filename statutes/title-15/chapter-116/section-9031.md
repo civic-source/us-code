@@ -3,9 +3,9 @@ title: "Section 9031 - Funding for the DOL Office of Inspector General for overs
 usc_title: 15
 usc_section: "9031"
 chapter: 116
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 9031"
-generated_at: "2026-03-29T23:41:37.888Z"
+generated_at: "2026-03-29T23:43:51.366Z"
 ---
 
 # § 9031. Funding for the DOL Office of Inspector General for oversight of unemployment provisions

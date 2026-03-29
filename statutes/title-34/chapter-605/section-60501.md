@@ -3,9 +3,9 @@ title: "Section 60501 - Purposes; findings"
 usc_title: 34
 usc_section: "60501"
 chapter: 605
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 60501"
-generated_at: "2026-03-29T23:42:25.832Z"
+generated_at: "2026-03-29T23:45:32.745Z"
 ---
 
 # § 60501. Purposes; findings

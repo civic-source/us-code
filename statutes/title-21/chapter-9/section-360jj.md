@@ -3,9 +3,9 @@ title: "Section 360jj - Studies by Secretary"
 usc_title: 21
 usc_section: "360jj"
 chapter: 9
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "21 U.S.C. § 360jj"
-generated_at: "2026-03-29T23:42:04.913Z"
+generated_at: "2026-03-29T23:44:35.890Z"
 ---
 
 # § 360jj. Studies by Secretary

@@ -3,9 +3,9 @@ title: "Section 30307 - Commercial aviation accidents"
 usc_title: 46
 usc_section: "30307"
 chapter: 303
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "46 U.S.C. § 30307"
-generated_at: "2026-03-29T23:42:56.285Z"
+generated_at: "2026-03-29T23:46:38.386Z"
 ---
 
 # § 30307. Commercial aviation accidents

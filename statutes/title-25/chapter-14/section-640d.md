@@ -3,9 +3,9 @@ title: "Section 640d - Omitted"
 usc_title: 25
 usc_section: "640d"
 chapter: 14
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "25 U.S.C. § 640d"
-generated_at: "2026-03-29T23:42:03.900Z"
+generated_at: "2026-03-29T23:44:34.211Z"
 ---
 
 # § 640d. Omitted

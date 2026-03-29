@@ -3,9 +3,9 @@ title: "Section 2270 - Authority of Office of Inspector General"
 usc_title: 7
 usc_section: "2270"
 chapter: 55
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 2270"
-generated_at: "2026-03-29T23:41:30.522Z"
+generated_at: "2026-03-29T23:43:33.876Z"
 ---
 
 # § 2270. Authority of Office of Inspector General

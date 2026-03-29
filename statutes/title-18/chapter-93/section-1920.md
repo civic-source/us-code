@@ -3,9 +3,9 @@ title: "Section 1920 - False statement or fraud to obtain Federal employees’ c
 usc_title: 18
 usc_section: "1920"
 chapter: 93
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "18 U.S.C. § 1920"
-generated_at: "2026-03-29T23:41:53.919Z"
+generated_at: "2026-03-29T23:44:23.805Z"
 ---
 
 # § 1920. False statement or fraud to obtain Federal employees’ compensation

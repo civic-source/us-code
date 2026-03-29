@@ -3,9 +3,9 @@ title: "Section 7595 - Army Military History Institute: fee for providing histor
 usc_title: 10
 usc_section: "7595"
 chapter: 767
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 7595"
-generated_at: "2026-03-29T23:41:20.546Z"
+generated_at: "2026-03-29T23:43:41.831Z"
 ---
 
 # § 7595. Army Military History Institute: fee for providing historical information to the public

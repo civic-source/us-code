@@ -3,9 +3,9 @@ title: "Section 2903 - Reimbursement for adoption expenses"
 usc_title: 14
 usc_section: "2903"
 chapter: 29
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "14 U.S.C. § 2903"
-generated_at: "2026-03-29T23:41:34.620Z"
+generated_at: "2026-03-29T23:44:05.283Z"
 ---
 
 # § 2903. Reimbursement for adoption expenses

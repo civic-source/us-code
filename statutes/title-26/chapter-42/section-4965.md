@@ -3,9 +3,9 @@ title: "Section 4965 - Excise tax on certain tax-exempt entities entering into p
 usc_title: 26
 usc_section: "4965"
 chapter: 42
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 4965"
-generated_at: "2026-03-29T23:42:22.003Z"
+generated_at: "2026-03-29T23:45:29.000Z"
 ---
 
 # § 4965. Excise tax on certain tax-exempt entities entering into prohibited tax shelter transactions

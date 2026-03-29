@@ -3,9 +3,9 @@ title: "Section 21 - Submarine cables; willful injury to; punishment"
 usc_title: 47
 usc_section: "21"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "47 U.S.C. § 21"
-generated_at: "2026-03-29T23:42:52.688Z"
+generated_at: "2026-03-29T23:46:50.121Z"
 ---
 
 # § 21. Submarine cables; willful injury to; punishment

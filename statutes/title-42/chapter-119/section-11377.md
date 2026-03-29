@@ -3,9 +3,9 @@ title: "Section 11377 - Repealed. Pub. L. 111–22, div. B, title II, § 1201(2)
 usc_title: 42
 usc_section: "11377"
 chapter: 119
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 11377"
-generated_at: "2026-03-29T23:42:47.923Z"
+generated_at: "2026-03-29T23:46:25.636Z"
 ---
 
 # § 11377. Repealed. Pub. L. 111–22, div. B, title II, § 1201(2) , May 20, 2009 , 123 Stat. 1678

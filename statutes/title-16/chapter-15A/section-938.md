@@ -3,9 +3,9 @@ title: "Section 938 - Notice of proposals"
 usc_title: 16
 usc_section: "938"
 chapter: 15
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 938"
-generated_at: "2026-03-29T23:42:00.296Z"
+generated_at: "2026-03-29T23:44:20.936Z"
 ---
 
 # § 938. Notice of proposals

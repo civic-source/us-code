@@ -3,9 +3,9 @@ title: "Section 20943 - Membership of Standards Board"
 usc_title: 52
 usc_section: "20943"
 chapter: 209
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "52 U.S.C. § 20943"
-generated_at: "2026-03-29T23:43:07.319Z"
+generated_at: "2026-03-29T23:47:03.854Z"
 ---
 
 # § 20943. Membership of Standards Board

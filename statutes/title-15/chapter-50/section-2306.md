@@ -3,9 +3,9 @@ title: "Section 2306 - Service contracts; rules for full, clear and conspicuous 
 usc_title: 15
 usc_section: "2306"
 chapter: 50
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 2306"
-generated_at: "2026-03-29T23:41:37.821Z"
+generated_at: "2026-03-29T23:43:51.299Z"
 ---
 
 # § 2306. Service contracts; rules for full, clear and conspicuous disclosure of terms and conditions; addition to or in lieu of written warranty

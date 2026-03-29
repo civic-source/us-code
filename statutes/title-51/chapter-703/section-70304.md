@@ -3,9 +3,9 @@ title: "Section 70304 - Repealed. Pub. L. 115–10, title IV, § 416(b) , Mar. 2
 usc_title: 51
 usc_section: "70304"
 chapter: 703
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "51 U.S.C. § 70304"
-generated_at: "2026-03-29T23:43:07.776Z"
+generated_at: "2026-03-29T23:46:55.520Z"
 ---
 
 # [§§ 70301 to 70304. Repealed. Pub. L. 115–10, title IV, § 416(b) , Mar. 21, 2017 , 131 Stat. 35 ]

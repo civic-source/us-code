@@ -3,9 +3,9 @@ title: "Section 755 - Rules for allocation of basis"
 usc_title: 26
 usc_section: "755"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 755"
-generated_at: "2026-03-29T23:42:21.935Z"
+generated_at: "2026-03-29T23:45:28.931Z"
 ---
 
 # § 755. Rules for allocation of basis

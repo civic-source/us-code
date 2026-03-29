@@ -3,9 +3,9 @@ title: "Section 30304 - Prison rape prevention and prosecution"
 usc_title: 34
 usc_section: "30304"
 chapter: 303
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 30304"
-generated_at: "2026-03-29T23:42:25.821Z"
+generated_at: "2026-03-29T23:45:32.735Z"
 ---
 
 # § 30304. Prison rape prevention and prosecution

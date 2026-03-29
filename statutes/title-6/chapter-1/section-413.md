@@ -3,9 +3,9 @@ title: "Section 413 - Use of counternarcotics enforcement activities in certain 
 usc_title: 6
 usc_section: "413"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "6 U.S.C. § 413"
-generated_at: "2026-03-29T23:41:13.792Z"
+generated_at: "2026-03-29T23:43:29.835Z"
 ---
 
 # § 413. Use of counternarcotics enforcement activities in certain employee performance appraisals

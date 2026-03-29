@@ -3,9 +3,9 @@ title: "Section 518c - Administration"
 usc_title: 7
 usc_section: "518c"
 chapter: 21
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 518c"
-generated_at: "2026-03-29T23:41:30.448Z"
+generated_at: "2026-03-29T23:43:33.805Z"
 ---
 
 # § 518c. Administration

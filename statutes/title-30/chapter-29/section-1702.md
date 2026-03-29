@@ -3,9 +3,9 @@ title: "Section 1702 - Definitions"
 usc_title: 30
 usc_section: "1702"
 chapter: 29
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "30 U.S.C. § 1702"
-generated_at: "2026-03-29T23:42:10.800Z"
+generated_at: "2026-03-29T23:45:01.694Z"
 ---
 
 # § 1702. Definitions

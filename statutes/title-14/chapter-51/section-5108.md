@@ -3,9 +3,9 @@ title: "Section 5108 - Unfunded priorities list"
 usc_title: 14
 usc_section: "5108"
 chapter: 51
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "14 U.S.C. § 5108"
-generated_at: "2026-03-29T23:41:34.623Z"
+generated_at: "2026-03-29T23:44:05.285Z"
 ---
 
 # § 5108. Unfunded priorities list

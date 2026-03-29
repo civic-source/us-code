@@ -3,9 +3,9 @@ title: "Section 100755 - Applicability of other laws"
 usc_title: 54
 usc_section: "100755"
 chapter: 1007
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "54 U.S.C. § 100755"
-generated_at: "2026-03-29T23:43:11.808Z"
+generated_at: "2026-03-29T23:47:01.846Z"
 ---
 
 # § 100755. Applicability of other laws

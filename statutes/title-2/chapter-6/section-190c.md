@@ -3,9 +3,9 @@ title: "Section 190c - Repealed. S. Res. 274, § 2(a), Nov. 14, 1979"
 usc_title: 2
 usc_section: "190c"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "2 U.S.C. § 190c"
-generated_at: "2026-03-29T23:41:11.223Z"
+generated_at: "2026-03-29T23:43:24.100Z"
 ---
 
 # §§ 190b, 190c. Repealed. S. Res. 274, § 2(a), Nov. 14, 1979

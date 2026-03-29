@@ -3,9 +3,9 @@ title: "Section 163 - Authority of other agencies"
 usc_title: 13
 usc_section: "163"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "13 U.S.C. § 163"
-generated_at: "2026-03-29T23:41:39.122Z"
+generated_at: "2026-03-29T23:43:51.425Z"
 ---
 
 # § 163. Authority of other agencies

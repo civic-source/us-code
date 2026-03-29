@@ -3,9 +3,9 @@ title: "Section 8753 - Tolls and fares: payment or reimbursement"
 usc_title: 10
 usc_section: "8753"
 chapter: 873
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 8753"
-generated_at: "2026-03-29T23:41:20.557Z"
+generated_at: "2026-03-29T23:43:41.842Z"
 ---
 
 # § 8753. Tolls and fares: payment or reimbursement

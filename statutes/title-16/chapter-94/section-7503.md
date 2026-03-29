@@ -3,9 +3,9 @@ title: "Section 7503 - National Oceans and Coastal Security Fund"
 usc_title: 16
 usc_section: "7503"
 chapter: 94
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 7503"
-generated_at: "2026-03-29T23:42:00.393Z"
+generated_at: "2026-03-29T23:44:21.032Z"
 ---
 
 # § 7503. National Oceans and Coastal Security Fund

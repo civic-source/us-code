@@ -3,9 +3,9 @@ title: "Section 4442 - Administrative provisions"
 usc_title: 20
 usc_section: "4442"
 chapter: 56
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 4442"
-generated_at: "2026-03-29T23:41:51.844Z"
+generated_at: "2026-03-29T23:44:18.241Z"
 ---
 
 # § 4442. Administrative provisions

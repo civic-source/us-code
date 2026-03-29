@@ -3,9 +3,9 @@ title: "Section 8156 - Coordination with health services development activities 
 usc_title: 38
 usc_section: "8156"
 chapter: 81
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 8156"
-generated_at: "2026-03-29T23:42:31.324Z"
+generated_at: "2026-03-29T23:46:03.149Z"
 ---
 
 # § 8156. Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of 1974

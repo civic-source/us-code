@@ -3,9 +3,9 @@ title: "Section 905 - Use of facilities and services of other law enforcement ag
 usc_title: 38
 usc_section: "905"
 chapter: 9
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 905"
-generated_at: "2026-03-29T23:42:31.267Z"
+generated_at: "2026-03-29T23:46:03.089Z"
 ---
 
 # § 905. Use of facilities and services of other law enforcement agencies

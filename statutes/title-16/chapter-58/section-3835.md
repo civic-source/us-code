@@ -3,9 +3,9 @@ title: "Section 3835 - Contracts"
 usc_title: 16
 usc_section: "3835"
 chapter: 58
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 3835"
-generated_at: "2026-03-29T23:42:00.362Z"
+generated_at: "2026-03-29T23:44:21.001Z"
 ---
 
 # § 3835. Contracts

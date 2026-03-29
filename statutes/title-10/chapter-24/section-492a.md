@@ -3,9 +3,9 @@ title: "Section 492a - Annual report on the plan for the nuclear weapons stockpi
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-29T23:41:20.435Z"
+generated_at: "2026-03-29T23:43:41.727Z"
 ---
 
 # § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system

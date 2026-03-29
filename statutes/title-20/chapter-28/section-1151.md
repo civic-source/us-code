@@ -3,9 +3,9 @@ title: "Section 1151 - Repealed. Pub. L. 113–128, title V, § 511(b) , July 22
 usc_title: 20
 usc_section: "1151"
 chapter: 28
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 1151"
-generated_at: "2026-03-29T23:41:51.810Z"
+generated_at: "2026-03-29T23:44:18.208Z"
 ---
 
 # § 1151. Repealed. Pub. L. 113–128, title V, § 511(b) , July 22, 2014 , 128 Stat. 1705

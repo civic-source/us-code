@@ -3,9 +3,9 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-29T23:41:20.461Z"
+generated_at: "2026-03-29T23:43:41.750Z"
 ---
 
 # § 1073c. Administration of Defense Health Agency and military medical treatment facilities

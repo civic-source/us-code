@@ -3,9 +3,9 @@ title: "Section 31308 - Commercial driver’s license"
 usc_title: 49
 usc_section: "31308"
 chapter: 313
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "49 U.S.C. § 31308"
-generated_at: "2026-03-29T23:42:54.927Z"
+generated_at: "2026-03-29T23:46:53.417Z"
 ---
 
 # § 31308. Commercial driver’s license

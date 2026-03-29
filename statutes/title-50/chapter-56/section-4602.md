@@ -3,9 +3,9 @@ title: "Section 4602 - Repealed. Pub. L. 115–232, div. A, title XVII, § 1766(
 usc_title: 50
 usc_section: "4602"
 chapter: 56
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 4602"
-generated_at: "2026-03-29T23:43:03.615Z"
+generated_at: "2026-03-29T23:46:37.363Z"
 ---
 
 # § 4602. Repealed. Pub. L. 115–232, div. A, title XVII, § 1766(a) , Aug. 13, 2018 , 132 Stat. 2232

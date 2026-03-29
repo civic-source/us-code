@@ -3,9 +3,9 @@ title: "Section 3491 - Elementary and secondary education and preparatory educat
 usc_title: 38
 usc_section: "3491"
 chapter: 34
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 3491"
-generated_at: "2026-03-29T23:42:31.293Z"
+generated_at: "2026-03-29T23:46:03.117Z"
 ---
 
 # § 3491. Elementary and secondary education and preparatory educational assistance

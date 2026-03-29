@@ -3,9 +3,9 @@ title: "Section 1672 - General program authorization"
 usc_title: 16
 usc_section: "1672"
 chapter: 36
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 1672"
-generated_at: "2026-03-29T23:42:00.329Z"
+generated_at: "2026-03-29T23:44:20.968Z"
 ---
 
 # § 1672. General program authorization

@@ -3,9 +3,9 @@ title: "Section 12134 - Regulations"
 usc_title: 42
 usc_section: "12134"
 chapter: 126
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 12134"
-generated_at: "2026-03-29T23:42:47.931Z"
+generated_at: "2026-03-29T23:46:25.644Z"
 ---
 
 # § 12134. Regulations

@@ -3,9 +3,9 @@ title: "Section 3805 - Utilization of personnel, facilities or equipment of othe
 usc_title: 33
 usc_section: "3805"
 chapter: 51
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "33 U.S.C. § 3805"
-generated_at: "2026-03-29T23:42:26.825Z"
+generated_at: "2026-03-29T23:45:48.260Z"
 ---
 
 # § 3805. Utilization of personnel, facilities or equipment of other Federal departments and agencies

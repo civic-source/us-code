@@ -3,9 +3,9 @@ title: "Section 6134 - Compensation and appointment of employees by Senate Major
 usc_title: 2
 usc_section: "6134"
 chapter: 61
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "2 U.S.C. § 6134"
-generated_at: "2026-03-29T23:41:11.260Z"
+generated_at: "2026-03-29T23:43:24.141Z"
 ---
 
 # § 6134. Compensation and appointment of employees by Senate Majority and Minority Whips

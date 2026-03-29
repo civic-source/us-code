@@ -3,9 +3,9 @@ title: "Section 1181e - Transferred"
 usc_title: 43
 usc_section: "1181e"
 chapter: 28
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "43 U.S.C. § 1181e"
-generated_at: "2026-03-29T23:42:34.597Z"
+generated_at: "2026-03-29T23:46:07.377Z"
 ---
 
 # § 1181e. Transferred

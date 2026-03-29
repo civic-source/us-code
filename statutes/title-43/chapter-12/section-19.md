@@ -3,9 +3,9 @@ title: "Section 19 - Williamson County, Texas, water recycling and reuse project
 usc_title: 43
 usc_section: "19"
 chapter: 12
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "43 U.S.C. § 19"
-generated_at: "2026-03-29T23:42:34.580Z"
+generated_at: "2026-03-29T23:46:07.360Z"
 ---
 
 # § 390h–19. Williamson County, Texas, water recycling and reuse project

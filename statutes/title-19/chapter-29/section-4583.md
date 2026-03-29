@@ -3,9 +3,9 @@ title: "Section 4583 - Testimony and production of papers in extraordinary chall
 usc_title: 19
 usc_section: "4583"
 chapter: 29
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "19 U.S.C. § 4583"
-generated_at: "2026-03-29T23:41:48.943Z"
+generated_at: "2026-03-29T23:44:27.777Z"
 ---
 
 # § 4583. Testimony and production of papers in extraordinary challenges

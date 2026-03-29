@@ -3,9 +3,9 @@ title: "Section 746 - Repealed. Pub. L. 92–318, title I, § 161(b)(3) , June 2
 usc_title: 20
 usc_section: "746"
 chapter: 21
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 746"
-generated_at: "2026-03-29T23:41:51.756Z"
+generated_at: "2026-03-29T23:44:18.156Z"
 ---
 
 # § 746. Repealed. Pub. L. 92–318, title I, § 161(b)(3) , June 23, 1972 , 86 Stat. 303

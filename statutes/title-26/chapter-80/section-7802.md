@@ -3,9 +3,9 @@ title: "Section 7802 - Internal Revenue Service Oversight Board"
 usc_title: 26
 usc_section: "7802"
 chapter: 80
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 7802"
-generated_at: "2026-03-29T23:42:22.067Z"
+generated_at: "2026-03-29T23:45:29.062Z"
 ---
 
 # § 7802. Internal Revenue Service Oversight Board

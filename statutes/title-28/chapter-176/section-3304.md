@@ -3,9 +3,9 @@ title: "Section 3304 - Transfer fraudulent as to a debt to the United States"
 usc_title: 28
 usc_section: "3304"
 chapter: 176
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "28 U.S.C. § 3304"
-generated_at: "2026-03-29T23:42:10.279Z"
+generated_at: "2026-03-29T23:45:08.273Z"
 ---
 
 # § 3304. Transfer fraudulent as to a debt to the United States

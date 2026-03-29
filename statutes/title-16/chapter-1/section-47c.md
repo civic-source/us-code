@@ -3,9 +3,9 @@ title: "Section 47c - Acquisition of certain lands for preservation and consolid
 usc_title: 16
 usc_section: "47c"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 47c"
-generated_at: "2026-03-29T23:42:00.148Z"
+generated_at: "2026-03-29T23:44:20.785Z"
 ---
 
 # § 47c. Acquisition of certain lands for preservation and consolidation of timber stands

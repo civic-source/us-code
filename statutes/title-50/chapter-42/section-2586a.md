@@ -3,9 +3,9 @@ title: "Section 2586a - Other programs relating to technology development"
 usc_title: 50
 usc_section: "2586a"
 chapter: 42
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 2586a"
-generated_at: "2026-03-29T23:43:03.567Z"
+generated_at: "2026-03-29T23:46:37.314Z"
 ---
 
 # § 2586a. Other programs relating to technology development

@@ -3,9 +3,9 @@ title: "Section 603 - Process for establishing motor vehicle pools and transport
 usc_title: 40
 usc_section: "603"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "40 U.S.C. § 603"
-generated_at: "2026-03-29T23:42:29.895Z"
+generated_at: "2026-03-29T23:45:55.315Z"
 ---
 
 # § 603. Process for establishing motor vehicle pools and transportation systems

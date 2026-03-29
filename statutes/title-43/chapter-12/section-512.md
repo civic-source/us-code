@@ -3,9 +3,9 @@ title: "Section 512 - Release of Government liens after contract with irrigation
 usc_title: 43
 usc_section: "512"
 chapter: 12
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "43 U.S.C. § 512"
-generated_at: "2026-03-29T23:42:34.586Z"
+generated_at: "2026-03-29T23:46:07.367Z"
 ---
 
 # § 512. Release of Government liens after contract with irrigation districts

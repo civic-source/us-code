@@ -3,9 +3,9 @@ title: "Section 576 - Reforestation; establishment of forest tree nurseries; tre
 usc_title: 16
 usc_section: "576"
 chapter: 3
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 576"
-generated_at: "2026-03-29T23:42:00.255Z"
+generated_at: "2026-03-29T23:44:20.894Z"
 ---
 
 # § 576. Reforestation; establishment of forest tree nurseries; tree planting; seed sowing and forest improvement work

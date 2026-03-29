@@ -3,9 +3,9 @@ title: "Section 1274 - Determination of issue price in the case of certain debt 
 usc_title: 26
 usc_section: "1274"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 1274"
-generated_at: "2026-03-29T23:42:21.965Z"
+generated_at: "2026-03-29T23:45:28.963Z"
 ---
 
 # § 1274. Determination of issue price in the case of certain debt instruments issued for property

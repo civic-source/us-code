@@ -3,9 +3,9 @@ title: "Section 2511 - Definitions"
 usc_title: 25
 usc_section: "2511"
 chapter: 27
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "25 U.S.C. § 2511"
-generated_at: "2026-03-29T23:42:03.928Z"
+generated_at: "2026-03-29T23:44:34.240Z"
 ---
 
 # § 2511. Definitions

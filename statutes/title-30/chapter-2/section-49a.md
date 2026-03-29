@@ -3,9 +3,9 @@ title: "Section 49a - Mining laws of United States extended to Alaska; explorati
 usc_title: 30
 usc_section: "49a"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "30 U.S.C. § 49a"
-generated_at: "2026-03-29T23:42:10.770Z"
+generated_at: "2026-03-29T23:45:01.663Z"
 ---
 
 # § 49a. Mining laws of United States extended to Alaska; exploration and mining for precious metals; regulations; conflict of laws; permits; dumping tailings; pumping from sea; reservation of roadway; title to land below line of high tide or high-water mark; transfer of title to future State

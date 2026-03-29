@@ -3,9 +3,9 @@ title: "Section 9704 - Pilot projects for managerial accountability and flexibil
 usc_title: 31
 usc_section: "9704"
 chapter: 97
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "31 U.S.C. § 9704"
-generated_at: "2026-03-29T23:42:25.058Z"
+generated_at: "2026-03-29T23:45:40.479Z"
 ---
 
 # § 9704. Pilot projects for managerial accountability and flexibility

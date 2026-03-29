@@ -3,9 +3,9 @@ title: "Section 1014 - New career training assistance"
 usc_title: 45
 usc_section: "1014"
 chapter: 19
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "45 U.S.C. § 1014"
-generated_at: "2026-03-29T23:42:37.546Z"
+generated_at: "2026-03-29T23:46:13.600Z"
 ---
 
 # § 1014. New career training assistance

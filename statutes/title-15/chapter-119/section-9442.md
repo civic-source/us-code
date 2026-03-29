@@ -3,9 +3,9 @@ title: "Section 9442 - National Oceanic and Atmospheric Administration Artificia
 usc_title: 15
 usc_section: "9442"
 chapter: 119
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 9442"
-generated_at: "2026-03-29T23:41:37.895Z"
+generated_at: "2026-03-29T23:43:51.373Z"
 ---
 
 # § 9442. National Oceanic and Atmospheric Administration Artificial Intelligence Center

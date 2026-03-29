@@ -3,9 +3,9 @@ title: "Section 1845 - Use of information"
 usc_title: 50
 usc_section: "1845"
 chapter: 36
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 1845"
-generated_at: "2026-03-29T23:43:03.551Z"
+generated_at: "2026-03-29T23:46:37.294Z"
 ---
 
 # § 1845. Use of information

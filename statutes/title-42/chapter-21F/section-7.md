@@ -3,9 +3,9 @@ title: "Section 7 - Disparate impact"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-29T23:42:47.682Z"
+generated_at: "2026-03-29T23:46:25.414Z"
 ---
 
 # § 2000ff–7. Disparate impact

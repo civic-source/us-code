@@ -3,9 +3,9 @@ title: "Section 713 - Omitted"
 usc_title: 15
 usc_section: "713"
 chapter: 15
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 713"
-generated_at: "2026-03-29T23:41:37.767Z"
+generated_at: "2026-03-29T23:43:51.244Z"
 ---
 
 # § 713. Omitted

@@ -3,9 +3,9 @@ title: "Section 218a - Training of officers"
 usc_title: 42
 usc_section: "218a"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 218a"
-generated_at: "2026-03-29T23:42:47.272Z"
+generated_at: "2026-03-29T23:46:25.027Z"
 ---
 
 # § 218a. Training of officers

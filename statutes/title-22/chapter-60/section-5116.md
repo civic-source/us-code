@@ -3,9 +3,9 @@ title: "Section 5116 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5116"
 chapter: 60
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 5116"
-generated_at: "2026-03-29T23:42:07.368Z"
+generated_at: "2026-03-29T23:44:53.583Z"
 ---
 
 # §§ 5115, 5116. Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 , 107 Stat. 1504

@@ -3,9 +3,9 @@ title: "Section 5301 - Findings"
 usc_title: 15
 usc_section: "5301"
 chapter: 79
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 5301"
-generated_at: "2026-03-29T23:41:37.855Z"
+generated_at: "2026-03-29T23:43:51.332Z"
 ---
 
 # § 5301. Findings

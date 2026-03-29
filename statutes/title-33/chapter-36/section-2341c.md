@@ -3,9 +3,9 @@ title: "Section 2341c - Criteria for funding environmental infrastructure projec
 usc_title: 33
 usc_section: "2341c"
 chapter: 36
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "33 U.S.C. § 2341c"
-generated_at: "2026-03-29T23:42:26.810Z"
+generated_at: "2026-03-29T23:45:48.246Z"
 ---
 
 # § 2341c. Criteria for funding environmental infrastructure projects

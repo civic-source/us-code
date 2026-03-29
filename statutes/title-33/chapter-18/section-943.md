@@ -3,9 +3,9 @@ title: "Section 943 - Repealed. Pub. L. 89–348, § 1(15) , Nov. 8, 1965 , 79 S
 usc_title: 33
 usc_section: "943"
 chapter: 18
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "33 U.S.C. § 943"
-generated_at: "2026-03-29T23:42:26.771Z"
+generated_at: "2026-03-29T23:45:48.208Z"
 ---
 
 # § 943. Repealed. Pub. L. 89–348, § 1(15) , Nov. 8, 1965 , 79 Stat. 1311

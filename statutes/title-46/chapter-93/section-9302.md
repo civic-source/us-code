@@ -3,9 +3,9 @@ title: "Section 9302 - Great Lakes pilots required"
 usc_title: 46
 usc_section: "9302"
 chapter: 93
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "46 U.S.C. § 9302"
-generated_at: "2026-03-29T23:42:56.278Z"
+generated_at: "2026-03-29T23:46:38.381Z"
 ---
 
 # § 9302. Great Lakes pilots required

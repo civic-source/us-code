@@ -3,9 +3,9 @@ title: "Section 3921 - Administration by Secretary of State"
 usc_title: 22
 usc_section: "3921"
 chapter: 52
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 3921"
-generated_at: "2026-03-29T23:42:07.352Z"
+generated_at: "2026-03-29T23:44:53.566Z"
 ---
 
 # § 3921. Administration by Secretary of State

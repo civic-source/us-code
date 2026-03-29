@@ -3,9 +3,9 @@ title: "Section 689 - Retired members: grade in which ordered to active duty and
 usc_title: 10
 usc_section: "689"
 chapter: 39
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 689"
-generated_at: "2026-03-29T23:41:20.443Z"
+generated_at: "2026-03-29T23:43:41.734Z"
 ---
 
 # § 689. Retired members: grade in which ordered to active duty and upon release from active duty

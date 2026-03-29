@@ -3,9 +3,9 @@ title: "Section 8504 - Establishment of quarantine protocols to control the intr
 usc_title: 7
 usc_section: "8504"
 chapter: 111
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 8504"
-generated_at: "2026-03-29T23:41:30.595Z"
+generated_at: "2026-03-29T23:43:33.950Z"
 ---
 
 # § 8504. Establishment of quarantine protocols to control the introduction and spread of the brown tree snake

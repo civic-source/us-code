@@ -3,9 +3,9 @@ title: "Section 151906 - Restrictions"
 usc_title: 36
 usc_section: "151906"
 chapter: 1519
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "36 U.S.C. § 151906"
-generated_at: "2026-03-29T23:42:29.165Z"
+generated_at: "2026-03-29T23:45:50.676Z"
 ---
 
 # § 151906. Restrictions

@@ -3,9 +3,9 @@ title: "Section 4q - Opposition to assistance by international financial institu
 usc_title: 22
 usc_section: "4q"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 4q"
-generated_at: "2026-03-29T23:42:07.271Z"
+generated_at: "2026-03-29T23:44:53.482Z"
 ---
 
 # § 262p–4q. Opposition to assistance by international financial institutions to terrorist states

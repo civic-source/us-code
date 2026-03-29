@@ -3,9 +3,9 @@ title: "Section 9605 - Regional advisory committees"
 usc_title: 20
 usc_section: "9605"
 chapter: 76
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 9605"
-generated_at: "2026-03-29T23:41:51.884Z"
+generated_at: "2026-03-29T23:44:18.280Z"
 ---
 
 # § 9605. Regional advisory committees

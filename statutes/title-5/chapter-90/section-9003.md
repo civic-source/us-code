@@ -3,9 +3,9 @@ title: "Section 9003 - Contracting authority"
 usc_title: 5
 usc_section: "9003"
 chapter: 90
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "5 U.S.C. § 9003"
-generated_at: "2026-03-29T23:40:59.081Z"
+generated_at: "2026-03-29T23:43:25.546Z"
 ---
 
 # § 9003. Contracting authority

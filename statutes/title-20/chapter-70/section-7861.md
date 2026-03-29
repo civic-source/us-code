@@ -3,9 +3,9 @@ title: "Section 7861 - Waivers of statutory and regulatory requirements"
 usc_title: 20
 usc_section: "7861"
 chapter: 70
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 7861"
-generated_at: "2026-03-29T23:41:51.875Z"
+generated_at: "2026-03-29T23:44:18.271Z"
 ---
 
 # § 7861. Waivers of statutory and regulatory requirements

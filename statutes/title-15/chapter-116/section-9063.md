@@ -3,9 +3,9 @@ title: "Section 9063 - Termination of authority"
 usc_title: 15
 usc_section: "9063"
 chapter: 116
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 9063"
-generated_at: "2026-03-29T23:41:37.891Z"
+generated_at: "2026-03-29T23:43:51.369Z"
 ---
 
 # § 9063. Termination of authority

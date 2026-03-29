@@ -3,9 +3,9 @@ title: "Section 543 - Interference with aids to navigation; penalty"
 usc_title: 14
 usc_section: "543"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "14 U.S.C. § 543"
-generated_at: "2026-03-29T23:41:34.612Z"
+generated_at: "2026-03-29T23:44:05.275Z"
 ---
 
 # § 543. Interference with aids to navigation; penalty

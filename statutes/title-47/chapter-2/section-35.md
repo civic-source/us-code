@@ -3,9 +3,9 @@ title: "Section 35 - Withholding or revoking of licenses by President; terms and
 usc_title: 47
 usc_section: "35"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "47 U.S.C. § 35"
-generated_at: "2026-03-29T23:42:52.689Z"
+generated_at: "2026-03-29T23:46:50.121Z"
 ---
 
 # § 35. Withholding or revoking of licenses by President; terms and conditions of licenses

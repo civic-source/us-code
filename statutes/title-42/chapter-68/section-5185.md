@@ -3,9 +3,9 @@ title: "Section 5185 - Emergency communications"
 usc_title: 42
 usc_section: "5185"
 chapter: 68
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 5185"
-generated_at: "2026-03-29T23:42:47.761Z"
+generated_at: "2026-03-29T23:46:25.484Z"
 ---
 
 # § 5185. Emergency communications

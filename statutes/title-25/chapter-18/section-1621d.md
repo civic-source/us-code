@@ -3,9 +3,9 @@ title: "Section 1621d - Other authority for provision of services"
 usc_title: 25
 usc_section: "1621d"
 chapter: 18
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "25 U.S.C. § 1621d"
-generated_at: "2026-03-29T23:42:03.909Z"
+generated_at: "2026-03-29T23:44:34.220Z"
 ---
 
 # § 1621d. Other authority for provision of services

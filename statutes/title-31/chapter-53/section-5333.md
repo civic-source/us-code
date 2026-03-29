@@ -3,9 +3,9 @@ title: "Section 5333 - Safe harbor with respect to keep open directives"
 usc_title: 31
 usc_section: "5333"
 chapter: 53
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "31 U.S.C. § 5333"
-generated_at: "2026-03-29T23:42:25.051Z"
+generated_at: "2026-03-29T23:45:40.471Z"
 ---
 
 # § 5333. Safe harbor with respect to keep open directives

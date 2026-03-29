@@ -3,9 +3,9 @@ title: "Section 406c - Renumbered § 476c]"
 usc_title: 37
 usc_section: "406c"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "37 U.S.C. § 406c"
-generated_at: "2026-03-29T23:42:29.498Z"
+generated_at: "2026-03-29T23:45:53.346Z"
 ---
 
 # [§ 406c. Renumbered § 476c]

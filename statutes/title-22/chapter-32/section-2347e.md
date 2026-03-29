@@ -3,9 +3,9 @@ title: "Section 2347e - Prohibition on grant assistance for certain high income 
 usc_title: 22
 usc_section: "2347e"
 chapter: 32
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 2347e"
-generated_at: "2026-03-29T23:42:07.317Z"
+generated_at: "2026-03-29T23:44:53.532Z"
 ---
 
 # § 2347e. Prohibition on grant assistance for certain high income foreign countries

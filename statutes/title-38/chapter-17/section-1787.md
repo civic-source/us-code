@@ -3,9 +3,9 @@ title: "Section 1787 - Health care of family members of veterans stationed at Ca
 usc_title: 38
 usc_section: "1787"
 chapter: 17
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 1787"
-generated_at: "2026-03-29T23:42:31.278Z"
+generated_at: "2026-03-29T23:46:03.101Z"
 ---
 
 # § 1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina

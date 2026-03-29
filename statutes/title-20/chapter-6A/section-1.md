@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 93–516, title II, § 205 , Dec. 7, 1974 
 usc_title: 20
 usc_section: "1"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-29T23:41:51.754Z"
+generated_at: "2026-03-29T23:44:18.154Z"
 ---
 
 # § 107e–1. Repealed. Pub. L. 93–516, title II, § 205 , Dec. 7, 1974 , 88 Stat. 1626

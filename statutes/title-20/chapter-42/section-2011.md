@@ -3,9 +3,9 @@ title: "Section 2011 - Executive Secretary of Foundation"
 usc_title: 20
 usc_section: "2011"
 chapter: 42
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 2011"
-generated_at: "2026-03-29T23:41:51.830Z"
+generated_at: "2026-03-29T23:44:18.228Z"
 ---
 
 # § 2011. Executive Secretary of Foundation

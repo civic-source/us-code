@@ -3,9 +3,9 @@ title: "Section 1546 - Congressional priority procedures for concurrent resoluti
 usc_title: 50
 usc_section: "1546"
 chapter: 33
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 1546"
-generated_at: "2026-03-29T23:43:03.547Z"
+generated_at: "2026-03-29T23:46:37.289Z"
 ---
 
 # § 1546. Congressional priority procedures for concurrent resolution

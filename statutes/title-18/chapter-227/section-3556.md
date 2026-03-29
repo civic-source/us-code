@@ -3,9 +3,9 @@ title: "Section 3556 - Order of restitution"
 usc_title: 18
 usc_section: "3556"
 chapter: 227
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "18 U.S.C. § 3556"
-generated_at: "2026-03-29T23:41:53.944Z"
+generated_at: "2026-03-29T23:44:23.825Z"
 ---
 
 # § 3556. Order of restitution

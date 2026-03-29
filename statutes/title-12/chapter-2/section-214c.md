@@ -3,9 +3,9 @@ title: "Section 214c - Conversions in contravention of State law"
 usc_title: 12
 usc_section: "214c"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "12 U.S.C. § 214c"
-generated_at: "2026-03-29T23:41:45.309Z"
+generated_at: "2026-03-29T23:44:04.284Z"
 ---
 
 # § 214c. Conversions in contravention of State law

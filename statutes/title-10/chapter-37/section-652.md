@@ -3,9 +3,9 @@ title: "Section 652 - Notice to Congress of proposed changes in units, assignmen
 usc_title: 10
 usc_section: "652"
 chapter: 37
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 652"
-generated_at: "2026-03-29T23:41:20.443Z"
+generated_at: "2026-03-29T23:43:41.733Z"
 ---
 
 # § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned

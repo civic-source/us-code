@@ -3,9 +3,9 @@ title: "Section 2062 - Repealed. Pub. L. 97–35, title XII, § 1211(b) , Aug. 1
 usc_title: 15
 usc_section: "2062"
 chapter: 47
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 2062"
-generated_at: "2026-03-29T23:41:37.814Z"
+generated_at: "2026-03-29T23:43:51.291Z"
 ---
 
 # § 2062. Repealed. Pub. L. 97–35, title XII, § 1211(b) , Aug. 13, 1981 , 95 Stat. 721

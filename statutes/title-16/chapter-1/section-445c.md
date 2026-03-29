@@ -3,9 +3,9 @@ title: "Section 445c - Pipestone National Monument"
 usc_title: 16
 usc_section: "445c"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 445c"
-generated_at: "2026-03-29T23:42:00.200Z"
+generated_at: "2026-03-29T23:44:20.839Z"
 ---
 
 # § 445c. Pipestone National Monument

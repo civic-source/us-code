@@ -3,9 +3,9 @@ title: "Section 1125 - Research; studies; annual report"
 usc_title: 20
 usc_section: "1125"
 chapter: 28
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 1125"
-generated_at: "2026-03-29T23:41:51.806Z"
+generated_at: "2026-03-29T23:44:18.204Z"
 ---
 
 # § 1125. Research; studies; annual report

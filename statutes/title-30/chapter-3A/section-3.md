@@ -3,9 +3,9 @@ title: "Section 3 - Lands not subject to oil and gas leasing"
 usc_title: 30
 usc_section: "3"
 chapter: 3
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "30 U.S.C. § 3"
-generated_at: "2026-03-29T23:42:10.775Z"
+generated_at: "2026-03-29T23:45:01.668Z"
 ---
 
 # § 226–3. Lands not subject to oil and gas leasing

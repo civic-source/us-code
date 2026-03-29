@@ -3,9 +3,9 @@ title: "Section 2642 - Responsibilities of Secretary"
 usc_title: 16
 usc_section: "2642"
 chapter: 46
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 2642"
-generated_at: "2026-03-29T23:42:00.347Z"
+generated_at: "2026-03-29T23:44:20.986Z"
 ---
 
 # § 2642. Responsibilities of Secretary

@@ -3,9 +3,9 @@ title: "Section 545a - Establishment of Mount Pleasant National Scenic Area"
 usc_title: 16
 usc_section: "545a"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 545a"
-generated_at: "2026-03-29T23:42:00.252Z"
+generated_at: "2026-03-29T23:44:20.891Z"
 ---
 
 # § 545a. Establishment of Mount Pleasant National Scenic Area

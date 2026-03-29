@@ -3,9 +3,9 @@ title: "Section 10512 - Applications"
 usc_title: 34
 usc_section: "10512"
 chapter: 101
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 10512"
-generated_at: "2026-03-29T23:42:25.786Z"
+generated_at: "2026-03-29T23:45:32.701Z"
 ---
 
 # § 10512. Applications

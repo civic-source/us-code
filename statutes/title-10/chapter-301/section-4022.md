@@ -3,9 +3,9 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-29T23:41:20.530Z"
+generated_at: "2026-03-29T23:43:41.816Z"
 ---
 
 # § 4022. Authority of the Department of Defense to carry out certain prototype projects

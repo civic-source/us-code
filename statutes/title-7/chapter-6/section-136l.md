@@ -3,9 +3,9 @@ title: "Section 136l - Penalties"
 usc_title: 7
 usc_section: "136l"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 136l"
-generated_at: "2026-03-29T23:41:30.427Z"
+generated_at: "2026-03-29T23:43:33.785Z"
 ---
 
 # § 136l. Penalties

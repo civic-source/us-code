@@ -3,9 +3,9 @@ title: "Section 2321 - Operation and maintenance of navigation and hydroelectric
 usc_title: 33
 usc_section: "2321"
 chapter: 36
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "33 U.S.C. § 2321"
-generated_at: "2026-03-29T23:42:26.807Z"
+generated_at: "2026-03-29T23:45:48.243Z"
 ---
 
 # § 2321. Operation and maintenance of navigation and hydroelectric facilities

@@ -3,9 +3,9 @@ title: "Section 6020 - Returns prepared for or executed by Secretary"
 usc_title: 26
 usc_section: "6020"
 chapter: 61
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "26 U.S.C. § 6020"
-generated_at: "2026-03-29T23:42:22.021Z"
+generated_at: "2026-03-29T23:45:29.017Z"
 ---
 
 # § 6020. Returns prepared for or executed by Secretary

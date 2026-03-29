@@ -3,9 +3,9 @@ title: "Section 270g - Repealed. Pub. L. 88–619, § 3 , Oct. 3, 1964 , 78 Stat
 usc_title: 22
 usc_section: "270g"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 270g"
-generated_at: "2026-03-29T23:42:07.273Z"
+generated_at: "2026-03-29T23:44:53.485Z"
 ---
 
 # §§ 270 to 270g. Repealed. Pub. L. 88–619, § 3 , Oct. 3, 1964 , 78 Stat. 995

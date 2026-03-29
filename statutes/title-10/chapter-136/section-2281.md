@@ -3,9 +3,9 @@ title: "Section 2281 - Global Positioning System"
 usc_title: 10
 usc_section: "2281"
 chapter: 136
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 2281"
-generated_at: "2026-03-29T23:41:20.499Z"
+generated_at: "2026-03-29T23:43:41.786Z"
 ---
 
 # § 2281. Global Positioning System

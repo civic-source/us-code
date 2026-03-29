@@ -3,9 +3,9 @@ title: "Section 1125 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1125"
 chapter: 25
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 1125"
-generated_at: "2026-03-29T23:43:03.544Z"
+generated_at: "2026-03-29T23:46:37.287Z"
 ---
 
 # § 1125. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

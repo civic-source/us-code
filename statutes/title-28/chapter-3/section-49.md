@@ -3,9 +3,9 @@ title: "Section 49 - Assignment of judges to division to appoint independent cou
 usc_title: 28
 usc_section: "49"
 chapter: 3
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "28 U.S.C. § 49"
-generated_at: "2026-03-29T23:42:10.248Z"
+generated_at: "2026-03-29T23:45:08.244Z"
 ---
 
 # § 49. Assignment of judges to division to appoint independent counsels

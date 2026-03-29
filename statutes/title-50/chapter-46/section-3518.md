@@ -3,9 +3,9 @@ title: "Section 3518 - Special annuity computation rules for certain employees�
 usc_title: 50
 usc_section: "3518"
 chapter: 46
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 3518"
-generated_at: "2026-03-29T23:43:03.594Z"
+generated_at: "2026-03-29T23:46:37.344Z"
 ---
 
 # § 3518. Special annuity computation rules for certain employees’ service abroad

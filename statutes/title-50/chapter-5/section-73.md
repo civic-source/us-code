@@ -3,9 +3,9 @@ title: "Section 73 - Repealed. Aug. 1, 1953, ch. 305 , title VI, § 645, 67 Stat
 usc_title: 50
 usc_section: "73"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 73"
-generated_at: "2026-03-29T23:43:03.539Z"
+generated_at: "2026-03-29T23:46:37.281Z"
 ---
 
 # § 73. Repealed. Aug. 1, 1953, ch. 305 , title VI, § 645, 67 Stat. 357

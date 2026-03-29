@@ -3,9 +3,9 @@ title: "Section 1121 - Quarterly priority progress reviews and use of performanc
 usc_title: 31
 usc_section: "1121"
 chapter: 11
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "31 U.S.C. § 1121"
-generated_at: "2026-03-29T23:42:25.031Z"
+generated_at: "2026-03-29T23:45:40.451Z"
 ---
 
 # § 1121. Quarterly priority progress reviews and use of performance information

@@ -3,9 +3,9 @@ title: "Section 2009m - Electronic transfer"
 usc_title: 7
 usc_section: "2009m"
 chapter: 50
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 2009m"
-generated_at: "2026-03-29T23:41:30.503Z"
+generated_at: "2026-03-29T23:43:33.858Z"
 ---
 
 # § 2009m. Electronic transfer

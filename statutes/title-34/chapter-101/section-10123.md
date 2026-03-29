@@ -3,9 +3,9 @@ title: "Section 10123 - Authority for 100 per centum grants"
 usc_title: 34
 usc_section: "10123"
 chapter: 101
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 10123"
-generated_at: "2026-03-29T23:42:25.777Z"
+generated_at: "2026-03-29T23:45:32.691Z"
 ---
 
 # § 10123. Authority for 100 per centum grants

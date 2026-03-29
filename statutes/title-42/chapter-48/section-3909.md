@@ -3,9 +3,9 @@ title: "Section 3909 - Repealed. Pub. L. 98–181, title I [title IV, § 474(e)]
 usc_title: 42
 usc_section: "3909"
 chapter: 48
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 3909"
-generated_at: "2026-03-29T23:42:47.731Z"
+generated_at: "2026-03-29T23:46:25.458Z"
 ---
 
 # §§ 3908, 3909. Repealed. Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983 , 97 Stat. 1239

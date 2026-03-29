@@ -3,9 +3,9 @@ title: "Section 2103 - The excepted service"
 usc_title: 5
 usc_section: "2103"
 chapter: 21
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "5 U.S.C. § 2103"
-generated_at: "2026-03-29T23:40:59.029Z"
+generated_at: "2026-03-29T23:43:25.497Z"
 ---
 
 # § 2103. The excepted service

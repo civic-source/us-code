@@ -3,9 +3,9 @@ title: "Section 1e - Repealed. Pub. L. 115–377, § 2(3) , Dec. 21, 2018 , 132 
 usc_title: 42
 usc_section: "1e"
 chapter: 6
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 1e"
-generated_at: "2026-03-29T23:42:47.309Z"
+generated_at: "2026-03-29T23:46:25.062Z"
 ---
 
 # § 280b–1e. Repealed. Pub. L. 115–377, § 2(3) , Dec. 21, 2018 , 132 Stat. 5114

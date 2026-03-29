@@ -3,9 +3,9 @@ title: "Section 2522 - Definitions"
 usc_title: 22
 usc_section: "2522"
 chapter: 34
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "22 U.S.C. § 2522"
-generated_at: "2026-03-29T23:42:07.329Z"
+generated_at: "2026-03-29T23:44:53.543Z"
 ---
 
 # § 2522. Definitions

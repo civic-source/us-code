@@ -3,9 +3,9 @@ title: "Section 316 - Rights of several roads through canyons"
 usc_title: 25
 usc_section: "316"
 chapter: 8
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "25 U.S.C. § 316"
-generated_at: "2026-03-29T23:42:03.893Z"
+generated_at: "2026-03-29T23:44:34.205Z"
 ---
 
 # § 316. Rights of several roads through canyons

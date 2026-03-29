@@ -3,9 +3,9 @@ title: "Section 5321 - Financial Stability Oversight Council established"
 usc_title: 12
 usc_section: "5321"
 chapter: 53
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "12 U.S.C. § 5321"
-generated_at: "2026-03-29T23:41:45.454Z"
+generated_at: "2026-03-29T23:44:04.419Z"
 ---
 
 # § 5321. Financial Stability Oversight Council established

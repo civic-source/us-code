@@ -3,9 +3,9 @@ title: "Section 1151 - Benefits for persons disabled by treatment or vocational 
 usc_title: 38
 usc_section: "1151"
 chapter: 11
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 1151"
-generated_at: "2026-03-29T23:42:31.268Z"
+generated_at: "2026-03-29T23:46:03.091Z"
 ---
 
 # § 1151. Benefits for persons disabled by treatment or vocational rehabilitation

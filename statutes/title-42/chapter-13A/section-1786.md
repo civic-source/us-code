@@ -3,9 +3,9 @@ title: "Section 1786 - Special supplemental nutrition program for women, infants
 usc_title: 42
 usc_section: "1786"
 chapter: 13
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 1786"
-generated_at: "2026-03-29T23:42:47.659Z"
+generated_at: "2026-03-29T23:46:25.394Z"
 ---
 
 # § 1786. Special supplemental nutrition program for women, infants, and children

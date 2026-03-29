@@ -3,9 +3,9 @@ title: "Section 40311 - Findings"
 usc_title: 34
 usc_section: "40311"
 chapter: 403
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "34 U.S.C. § 40311"
-generated_at: "2026-03-29T23:42:25.824Z"
+generated_at: "2026-03-29T23:45:32.737Z"
 ---
 
 # § 40311. Findings

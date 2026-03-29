@@ -3,9 +3,9 @@ title: "Section 777h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "777h"
 chapter: 10
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "16 U.S.C. § 777h"
-generated_at: "2026-03-29T23:42:00.278Z"
+generated_at: "2026-03-29T23:44:20.917Z"
 ---
 
 # § 777h. Requirements and restrictions concerning use of amounts for expenses for administration

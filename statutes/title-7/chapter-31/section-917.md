@@ -3,9 +3,9 @@ title: "Section 917 - Prohibition on restricting water and waste facility servic
 usc_title: 7
 usc_section: "917"
 chapter: 31
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 917"
-generated_at: "2026-03-29T23:41:30.453Z"
+generated_at: "2026-03-29T23:43:33.810Z"
 ---
 
 # § 917. Prohibition on restricting water and waste facility services to electric customers

@@ -3,9 +3,9 @@ title: "Section 18981 - Definitions"
 usc_title: 42
 usc_section: "18981"
 chapter: 163
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 18981"
-generated_at: "2026-03-29T23:42:48.044Z"
+generated_at: "2026-03-29T23:46:25.750Z"
 ---
 
 # § 18981. Definitions

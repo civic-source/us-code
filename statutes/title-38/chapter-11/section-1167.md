@@ -3,9 +3,9 @@ title: "Section 1167 - Outreach pursuant to changes in presumptions of service c
 usc_title: 38
 usc_section: "1167"
 chapter: 11
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "38 U.S.C. § 1167"
-generated_at: "2026-03-29T23:42:31.269Z"
+generated_at: "2026-03-29T23:46:03.091Z"
 ---
 
 # § 1167. Outreach pursuant to changes in presumptions of service connection

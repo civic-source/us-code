@@ -3,9 +3,9 @@ title: "Section 3a - Repealed. Pub. L. 104–127, title I, § 171(b)(2)(D) , Apr
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-29T23:41:30.469Z"
+generated_at: "2026-03-29T23:43:33.825Z"
 ---
 
 # § 1445b–3a. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(D) , Apr. 4, 1996 , 110 Stat. 938

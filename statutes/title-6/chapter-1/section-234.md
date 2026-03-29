@@ -3,9 +3,9 @@ title: "Section 234 - Preservation of Transportation Security Administration as 
 usc_title: 6
 usc_section: "234"
 chapter: 1
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "6 U.S.C. § 234"
-generated_at: "2026-03-29T23:41:13.784Z"
+generated_at: "2026-03-29T23:43:29.827Z"
 ---
 
 # § 234. Preservation of Transportation Security Administration as a distinct entity

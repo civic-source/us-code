@@ -3,9 +3,9 @@ title: "Section 5808 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5808"
 chapter: 84
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 5808"
-generated_at: "2026-03-29T23:41:37.857Z"
+generated_at: "2026-03-29T23:43:51.334Z"
 ---
 
 # §§ 5805 to 5808. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

@@ -3,9 +3,9 @@ title: "Section 1732 - Definitions"
 usc_title: 7
 usc_section: "1732"
 chapter: 41
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 1732"
-generated_at: "2026-03-29T23:41:30.487Z"
+generated_at: "2026-03-29T23:43:33.843Z"
 ---
 
 # § 1732. Definitions

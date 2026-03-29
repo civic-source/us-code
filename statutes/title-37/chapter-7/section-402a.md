@@ -3,9 +3,9 @@ title: "Section 402a - Supplemental subsistence allowance for low-income members
 usc_title: 37
 usc_section: "402a"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "37 U.S.C. § 402a"
-generated_at: "2026-03-29T23:42:29.497Z"
+generated_at: "2026-03-29T23:45:53.345Z"
 ---
 
 # § 402a. Supplemental subsistence allowance for low-income members with dependents

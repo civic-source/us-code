@@ -3,9 +3,9 @@ title: "Section 16161e - Laboratory management"
 usc_title: 42
 usc_section: "16161e"
 chapter: 149
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 16161e"
-generated_at: "2026-03-29T23:42:47.990Z"
+generated_at: "2026-03-29T23:46:25.697Z"
 ---
 
 # § 16161e. Laboratory management

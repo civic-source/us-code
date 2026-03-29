@@ -3,9 +3,9 @@ title: "Section 399 - Domestic raising of fur-bearing animals; classification"
 usc_title: 7
 usc_section: "399"
 chapter: 15
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 399"
-generated_at: "2026-03-29T23:41:30.445Z"
+generated_at: "2026-03-29T23:43:33.801Z"
 ---
 
 # § 399. Domestic raising of fur-bearing animals; classification

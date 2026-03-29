@@ -3,9 +3,9 @@ title: "Section 1517 - Separability"
 usc_title: 7
 usc_section: "1517"
 chapter: 36
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "7 U.S.C. § 1517"
-generated_at: "2026-03-29T23:41:30.476Z"
+generated_at: "2026-03-29T23:43:33.831Z"
 ---
 
 # § 1517. Separability

@@ -3,9 +3,9 @@ title: "Section 7276d - Property protection program for power marketing administ
 usc_title: 42
 usc_section: "7276d"
 chapter: 84
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 7276d"
-generated_at: "2026-03-29T23:42:47.818Z"
+generated_at: "2026-03-29T23:46:25.537Z"
 ---
 
 # § 7276d. Property protection program for power marketing administrations

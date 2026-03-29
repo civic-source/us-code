@@ -3,9 +3,9 @@ title: "Section 3334 - Intelligence community public-private talent exchange"
 usc_title: 50
 usc_section: "3334"
 chapter: 45
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "50 U.S.C. § 3334"
-generated_at: "2026-03-29T23:43:03.586Z"
+generated_at: "2026-03-29T23:46:37.336Z"
 ---
 
 # § 3334. Intelligence community public-private talent exchange

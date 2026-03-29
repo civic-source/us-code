@@ -3,9 +3,9 @@ title: "Section 183a - Military Aviation and Installation Assurance Clearinghous
 usc_title: 10
 usc_section: "183a"
 chapter: 7
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 183a"
-generated_at: "2026-03-29T23:41:20.425Z"
+generated_at: "2026-03-29T23:43:41.716Z"
 ---
 
 # § 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions

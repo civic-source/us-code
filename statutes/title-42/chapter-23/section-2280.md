@@ -3,9 +3,9 @@ title: "Section 2280 - Injunction proceedings"
 usc_title: 42
 usc_section: "2280"
 chapter: 23
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "42 U.S.C. § 2280"
-generated_at: "2026-03-29T23:42:47.696Z"
+generated_at: "2026-03-29T23:46:25.428Z"
 ---
 
 # § 2280. Injunction proceedings

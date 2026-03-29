@@ -3,9 +3,9 @@ title: "Section 100503 - Five-year strategic plans"
 usc_title: 54
 usc_section: "100503"
 chapter: 1005
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "54 U.S.C. § 100503"
-generated_at: "2026-03-29T23:43:11.808Z"
+generated_at: "2026-03-29T23:47:01.845Z"
 ---
 
 # § 100503. Five-year strategic plans

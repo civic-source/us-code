@@ -3,9 +3,9 @@ title: "Section 704 - Military medals or decorations"
 usc_title: 18
 usc_section: "704"
 chapter: 33
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "18 U.S.C. § 704"
-generated_at: "2026-03-29T23:41:53.899Z"
+generated_at: "2026-03-29T23:44:23.787Z"
 ---
 
 # § 704. Military medals or decorations

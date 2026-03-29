@@ -3,9 +3,9 @@ title: "Section 1003 - Additional definitions"
 usc_title: 20
 usc_section: "1003"
 chapter: 28
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "20 U.S.C. § 1003"
-generated_at: "2026-03-29T23:41:51.760Z"
+generated_at: "2026-03-29T23:44:18.159Z"
 ---
 
 # § 1003. Additional definitions

@@ -3,9 +3,9 @@ title: "Section 517 - Authorized enlisted end strength: members in pay grades E�
 usc_title: 10
 usc_section: "517"
 chapter: 31
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "10 U.S.C. § 517"
-generated_at: "2026-03-29T23:41:20.437Z"
+generated_at: "2026-03-29T23:43:41.728Z"
 ---
 
 # § 517. Authorized enlisted end strength: members in pay grades E–8 and E–9

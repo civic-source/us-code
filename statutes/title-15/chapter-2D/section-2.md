@@ -3,9 +3,9 @@ title: "Section 2 - Definitions"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T23:41:37.726Z"
+generated_at: "2026-03-29T23:43:51.203Z"
 ---
 
 # § 80b–2. Definitions

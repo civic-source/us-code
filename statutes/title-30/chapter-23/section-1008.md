@@ -3,9 +3,9 @@ title: "Section 1008 - Byproducts"
 usc_title: 30
 usc_section: "1008"
 chapter: 23
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "30 U.S.C. § 1008"
-generated_at: "2026-03-29T23:42:10.788Z"
+generated_at: "2026-03-29T23:45:01.681Z"
 ---
 
 # § 1008. Byproducts

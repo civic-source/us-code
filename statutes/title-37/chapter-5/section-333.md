@@ -3,9 +3,9 @@ title: "Section 333 - Special bonus and incentive pay authorities for nuclear of
 usc_title: 37
 usc_section: "333"
 chapter: 5
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "37 U.S.C. § 333"
-generated_at: "2026-03-29T23:42:29.495Z"
+generated_at: "2026-03-29T23:45:53.343Z"
 ---
 
 # § 333. Special bonus and incentive pay authorities for nuclear officers

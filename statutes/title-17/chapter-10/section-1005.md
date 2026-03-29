@@ -3,9 +3,9 @@ title: "Section 1005 - Deposit of royalty payments and deduction of expenses"
 usc_title: 17
 usc_section: "1005"
 chapter: 10
-current_through: "PL 117-227"
+current_through: "PL 117-228"
 classification: "17 U.S.C. § 1005"
-generated_at: "2026-03-29T23:41:52.080Z"
+generated_at: "2026-03-29T23:44:22.006Z"
 ---
 
 # § 1005. Deposit of royalty payments and deduction of expenses
