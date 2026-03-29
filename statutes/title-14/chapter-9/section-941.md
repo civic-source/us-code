@@ -3,9 +3,9 @@ title: "Section 941 - Coast Guard Supply Fund"
 usc_title: 14
 usc_section: "941"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 941"
-generated_at: "2026-03-29T19:58:08.505Z"
+generated_at: "2026-03-29T20:03:17.288Z"
 ---
 
 # § 941. Coast Guard Supply Fund

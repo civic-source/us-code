@@ -3,9 +3,9 @@ title: "Section 2363 - Renumbered § 4123]"
 usc_title: 10
 usc_section: "2363"
 chapter: 139
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2363"
-generated_at: "2026-03-29T19:58:02.163Z"
+generated_at: "2026-03-29T20:03:09.678Z"
 ---
 
 # [§ 2363. Renumbered § 4123]

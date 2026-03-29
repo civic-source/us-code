@@ -3,9 +3,9 @@ title: "Section 2007 - Allotment formula"
 usc_title: 25
 usc_section: "2007"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 2007"
-generated_at: "2026-03-29T19:59:16.371Z"
+generated_at: "2026-03-29T20:04:54.395Z"
 ---
 
 # § 2007. Allotment formula

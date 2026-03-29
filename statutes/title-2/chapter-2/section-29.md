@@ -5,7 +5,7 @@ usc_section: "29"
 chapter: 2
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 29"
-generated_at: "2026-03-29T20:01:46.474Z"
+generated_at: "2026-03-29T20:02:11.233Z"
 ---
 
 # § 29. Condensed and simplified versions of House precedents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies

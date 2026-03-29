@@ -3,9 +3,9 @@ title: "Section 7506 - Assurances; anticipated use"
 usc_title: 7
 usc_section: "7506"
 chapter: 102
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 7506"
-generated_at: "2026-03-29T19:57:39.452Z"
+generated_at: "2026-03-29T20:02:52.809Z"
 ---
 
 # § 7506. Assurances; anticipated use

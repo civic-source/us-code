@@ -5,7 +5,7 @@ usc_section: "6278"
 chapter: 607
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6278"
-generated_at: "2026-03-29T02:10:45.263Z"
+generated_at: "2026-03-29T20:03:09.827Z"
 ---
 
 # § 6278. Authority for emergency planning, design, and construction activities

@@ -3,9 +3,9 @@ title: "Section 1332 - National marketing quota"
 usc_title: 7
 usc_section: "1332"
 chapter: 35
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1332"
-generated_at: "2026-03-29T19:57:38.989Z"
+generated_at: "2026-03-29T20:02:52.482Z"
 ---
 
 # § 1332. National marketing quota

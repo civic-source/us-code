@@ -3,9 +3,9 @@ title: "Section 8726 - Reports on, and authorization of imposition of sanctions 
 usc_title: 22
 usc_section: "8726"
 chapter: 94
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 8726"
-generated_at: "2026-03-29T19:59:24.321Z"
+generated_at: "2026-03-29T20:04:47.004Z"
 ---
 
 # § 8726. Reports on, and authorization of imposition of sanctions with respect to, the provision of specialized financial messaging services to the Central Bank of Iran and other sanctioned Iranian financial institutions

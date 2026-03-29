@@ -5,7 +5,7 @@ usc_section: "1202"
 chapter: 23
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1202"
-generated_at: "2026-03-29T20:01:46.545Z"
+generated_at: "2026-03-29T20:02:11.291Z"
 ---
 
 # §§ 1201, 1202. Transferred

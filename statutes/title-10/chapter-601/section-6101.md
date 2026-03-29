@@ -5,7 +5,7 @@ usc_section: "6101"
 chapter: 601
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6101"
-generated_at: "2026-03-29T02:10:45.245Z"
+generated_at: "2026-03-29T20:03:09.812Z"
 ---
 
 # § 6101. Definitions

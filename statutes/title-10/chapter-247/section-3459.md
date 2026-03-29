@@ -5,7 +5,7 @@ usc_section: "3459"
 chapter: 247
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3459"
-generated_at: "2026-03-29T02:10:45.188Z"
+generated_at: "2026-03-29T20:03:09.758Z"
 ---
 
 # § 3459. Limitation on required flowdown of contract clauses to subcontractors providing commercial products or commercial services

@@ -3,9 +3,9 @@ title: "Section 2711 - Consultation on removal actions"
 usc_title: 33
 usc_section: "2711"
 chapter: 40
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2711"
-generated_at: "2026-03-29T20:00:31.418Z"
+generated_at: "2026-03-29T20:05:35.851Z"
 ---
 
 # § 2711. Consultation on removal actions

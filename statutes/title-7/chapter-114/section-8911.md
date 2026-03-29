@@ -3,9 +3,9 @@ title: "Section 8911 - Repealed. Pub. L. 115–334, title XII, § 12201 , Dec. 2
 usc_title: 7
 usc_section: "8911"
 chapter: 114
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8911"
-generated_at: "2026-03-29T19:57:39.510Z"
+generated_at: "2026-03-29T20:02:52.867Z"
 ---
 
 # § 8911. Repealed. Pub. L. 115–334, title XII, § 12201 , Dec. 20, 2018 , 132 Stat. 4944

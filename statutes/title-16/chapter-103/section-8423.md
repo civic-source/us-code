@@ -3,9 +3,9 @@ title: "Section 8423 - Range access"
 usc_title: 16
 usc_section: "8423"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8423"
-generated_at: "2026-03-29T19:59:08.545Z"
+generated_at: "2026-03-29T20:04:20.520Z"
 ---
 
 # § 8423. Range access

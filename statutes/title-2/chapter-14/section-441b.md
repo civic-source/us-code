@@ -5,7 +5,7 @@ usc_section: "441b"
 chapter: 14
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 441b"
-generated_at: "2026-03-29T20:01:46.510Z"
+generated_at: "2026-03-29T20:02:11.261Z"
 ---
 
 # § 441b. Transferred

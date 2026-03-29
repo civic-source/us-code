@@ -5,7 +5,7 @@ usc_section: "2043"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2043"
-generated_at: "2026-03-29T20:01:46.593Z"
+generated_at: "2026-03-29T20:02:11.325Z"
 ---
 
 # § 2043. Authorization and direction to effectuate purposes of sections 2042 to 2047 of this title

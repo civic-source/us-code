@@ -3,9 +3,9 @@ title: "Section 4027 - Disclosure requirements for recipients of research and de
 usc_title: 10
 usc_section: "4027"
 chapter: 301
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4027"
-generated_at: "2026-03-29T19:58:02.246Z"
+generated_at: "2026-03-29T20:03:09.775Z"
 ---
 
 # § 4027. Disclosure requirements for recipients of research and development funds

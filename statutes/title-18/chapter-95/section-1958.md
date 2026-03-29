@@ -3,9 +3,9 @@ title: "Section 1958 - Use of interstate commerce facilities in the commission o
 usc_title: 18
 usc_section: "1958"
 chapter: 95
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1958"
-generated_at: "2026-03-29T19:58:59.706Z"
+generated_at: "2026-03-29T20:03:53.763Z"
 ---
 
 # § 1958. Use of interstate commerce facilities in the commission of murder-for-hire

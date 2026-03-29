@@ -5,7 +5,7 @@ usc_section: "417"
 chapter: 4
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 417"
-generated_at: "2026-03-29T20:01:52.099Z"
+generated_at: "2026-03-29T20:02:37.737Z"
 ---
 
 # § 417. Special provisions concerning the Department of Homeland Security

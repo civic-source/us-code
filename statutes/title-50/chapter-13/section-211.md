@@ -3,9 +3,9 @@ title: "Section 211 - Investigations to detect and prevent frauds and abuses"
 usc_title: 50
 usc_section: "211"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 211"
-generated_at: "2026-03-29T20:01:54.625Z"
+generated_at: "2026-03-29T20:06:21.030Z"
 ---
 
 # § 211. Investigations to detect and prevent frauds and abuses

@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-29T20:01:32.701Z"
+generated_at: "2026-03-29T20:06:10.746Z"
 ---
 
 # § 1396d. Definitions
@@ -54,7 +54,7 @@ For purposes of this subchapter—
   - **(30)** subject to subsection (gg), routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in such subsection);
   - **(31)** certified community behavioral health clinic services, as defined in subsection (jj); and
   - **(32)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
-    - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section,or, at the option of the State, for an individual who is an eligible juvenile (as defined in section 1396a(nn)(2) of this title ), while such individual is an inmate of a public institution (as defined in section 1396a(nn)(3) of this title ) pending disposition of charges); or
+    - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section, or, at the option of the State, for an individual who is an eligible juvenile (as defined in section 1396a(nn)(2) of this title ), while such individual is an inmate of a public institution (as defined in section 1396a(nn)(3) of this title ) pending disposition of charges); or
     - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
       - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
       - **(ii)** relatives specified in section 606(b)(1) 1 1 See References in Text note below. of this title with whom a child is living if such child is (or would, if needy, be) a dependent child under part A of subchapter IV,
@@ -364,7 +364,9 @@ For purposes of this subchapter—
     - **(B)** shall not be taken into account in calculating the enhanced FMAP of a State under section 1397ee of this title ;
     - **(C)** shall not be taken into account for purposes of part A, D, or E of subchapter IV; and
     - **(D)** shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of section 1308 of this title .
-  - **(3)** For purposes of this subsection, the term “qualifying State” means a State which has not expended amounts for all individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title before March 11, 2021 .
+  - **(3)** For purposes of this subsection, the term “qualifying State” means a State which—
+    - **(A)** has not expended amounts for all individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title before March 11, 2021 ; and
+    - **(B)** begins to expend amounts for all such individuals prior to January 1, 2026 .
 - **(jj)**
   - **(1)** The term “certified community behavioral health services” means any of the following services when furnished to an individual as a patient of a certified community behavioral health clinic (as defined in paragraph (2)), in a manner reflecting person-centered care and which, if not available directly through a certified community behavioral health clinic, may be provided or referred through formal relationships with other providers:
     - **(A)** Crisis mental health services, including 24-hour mobile crisis teams, emergency crisis intervention services, and crisis stabilization.
@@ -380,3 +382,4 @@ For purposes of this subchapter—
     - **(A)** has been certified by a State as meeting the criteria established by the Secretary pursuant to subsection (a) of section 223 of the Protecting Access to Medicare Act 1 as of January 1, 2024 , and any subsequent updates to such criteria, regardless of whether the State is carrying out a demonstration program under this subchapter under subsection (d) of such section;
     - **(B)** is engaged in furnishing all of the services described in paragraph (1); and
     - **(C)** agrees, as a condition of the certification described in subparagraph (A), to furnish to the State or Secretary any data required as part of ongoing monitoring of the organization’s provision of services, including encounter data, clinical outcomes data, quality data, and such other data as the State or Secretary may require.
+- **(kk)** Notwithstanding subsection 10 10 So in original. Probably should be “subsections”. (y) and (z), beginning on October 1, 2026 , the Federal medical assistance percentage for payments for care and services described in paragraph (2) of subsection 11 11 So in original. Probably should be “section”. 1396b(v) of this title furnished to an alien described in paragraph (1) of such subsection 11 shall not exceed the Federal medical assistance percentage determined under subsection (b) for such State.

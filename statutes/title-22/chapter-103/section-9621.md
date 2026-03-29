@@ -3,9 +3,9 @@ title: "Section 9621 - Authorities relating to provision of support"
 usc_title: 22
 usc_section: "9621"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9621"
-generated_at: "2026-03-29T19:59:24.349Z"
+generated_at: "2026-03-29T20:04:47.036Z"
 ---
 
 # § 9621. Authorities relating to provision of support
@@ -24,22 +24,36 @@ generated_at: "2026-03-29T19:59:24.349Z"
   - **(3)** The Corporation shall develop guidelines and criteria to require that the use of the authority provided by paragraph (1) with respect to a project has a clearly defined development and foreign policy purpose, taking into account the following objectives:
     - **(A)** The support for the project would be more likely than not to substantially reduce or overcome the effect of an identified market failure in the country in which the project is carried out.
     - **(B)** The project would not have proceeded or would have been substantially delayed without the support.
-    - **(C)** The support would meaningfully contribute to transforming local conditions to promote the development of markets.
+    - **(C)** The support would meaningfully contribute to transforming local conditions to promote the development of markets, localized workforces, and partner country economic security.
     - **(D)** The support can be shown to be aligned with commercial partner incentives.
     - **(E)** The support can be shown to have significant developmental impact and will contribute to long-term commercial sustainability.
     - **(F)** The support furthers the policy of the United States described in section 9611 of this title .
   - **(4)**
-    - **(A)** The aggregate amount of support provided under this subsection with respect to any project shall not exceed 30 percent of the aggregate amount of all equity investment made to the project at the time that the Corporation approves support of the project.
+    - **(A)** The aggregate amount of support provided under this subsection with respect to any project shall not exceed 40 percent of the aggregate amount of all equity investment made to the project at the time that the Corporation approves support of the project.
     - **(B)** Support provided pursuant to this subsection shall be limited to not more than 35 percent of the Corporation’s aggregate exposure on the date that such support is provided.
   - **(5)** The Corporation shall seek to sell and liquidate any support for a project provided under this subsection as soon as commercially feasible, commensurate with other similar investors in the project and taking into consideration the national security interests of the United States.
   - **(6)** The Corporation shall create a project-specific timetable for support provided under paragraph (1).
+  - **(7)**
+    - **(A)** There is established in the Treasury of the United States a fund to be known as the “Development Finance Corporate Equity Investment Account” (referred to in this division as the “Equity Investment Account”), which shall be administered by the Corporation as a revolving account to carry out the purposes of this section.
+    - **(B)** The Corporation shall—
+      - **(i)** manage the Equity Investment Account in ways that demonstrate a commitment to pursuing catalytic investments in less developed countries in accordance with section 9612(c)(1) of this title and paragraph (1); and
+      - **(ii)** collect data and information about the use of the Equity Investment Account to inform the Corporation’s record of returns on investments and reevaluation of equity investment subsidy rates prior to the termination of the authorities provided under this subchapter.
+    - **(C)** There is authorized to be appropriated to the Equity Investment Account $5,000,000,000 for fiscal years 2026 through 2031.
+    - **(D)** Earnings and proceeds from the sale or redemption of, and fees, credits, and other collections from, the equity investments of the Corporation under the Equity Investment Account shall be retained and deposited into the Fund and shall remain available to carry out this subsection without fiscal year limitation without further appropriation.
+    - **(E)** The Corporation shall ensure that at least 25 percent of its obligations from funds authorized to be appropriated under subparagraph (C) or otherwise made available for the Fund for Corporation projects are rated in the upper 20 percent on the Impact Quotient tier system, or any similar or successor assessment tool, developed pursuant to section 9652(b)(1) of this title .
 - **(d)** The Corporation may issue insurance or reinsurance, upon such terms and conditions as the Corporation may determine, to private sector entities and qualifying sovereign entities assuring protection of their investments in whole or in part against any or all political risks such as currency inconvertibility and transfer restrictions, expropriation, war, terrorism, civil disturbance, breach of contract, or nonhonoring of financial obligations.
 - **(e)**
   - **(1)** In order to carry out the purpose of the Corporation described in section 9612(b) of this title , the Corporation may initiate and support, through financial participation, incentive grant, or otherwise, and on such terms and conditions as the Corporation may determine, feasibility studies for the planning, development, and management of, and procurement for, potential bilateral and multilateral development projects eligible for support under this subchapter, including training activities undertaken in connection with such projects, for the purpose of promoting investment in such projects and the identification, assessment, surveying, and promotion of private investment opportunities, utilizing wherever feasible and effective, the facilities of private investors.
   - **(2)** The Corporation shall, to the maximum extent practicable, require any person receiving funds under the authorities of this subsection to—
     - **(A)** share the costs of feasibility studies and other project planning services funded under this subsection; and
     - **(B)** reimburse the Corporation those funds provided under this section, if the person succeeds in project implementation.
-- **(f)** The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings, or intermediate financial and investment institutions or cooperatives, and including the initiation of incentives, grants, or studies for energy, women’s economic empowerment, microenterprise households, or other small business activities.
+- **(f)** The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation—
+  - **(1)** for the provision of post-investment technical assistance for existing projects of the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, or capital savings; or
+  - **(2)** subject to the nondelegable review and approval of the Board, by creating companies, corporations, and partnerships that advance both the development objectives and foreign policy interests outlined in the purpose of this division if, not later than 30 days prior to entering into an agreement or other arrangement to provide support pursuant to this section, the Chief Executive Officer—
+    - **(A)** notifies the appropriate congressional committees; and
+    - **(B)** includes in the notification required by subparagraph (A) a certification that such support—
+      - **(i)** is designed to meet an exigent need that is critical to the national security interests of the United States; and
+      - **(ii)** could not otherwise be secured utilizing the authorities under this section.
 - **(g)**
   - **(1)** The Corporation may, following consultation with the Secretary of State, the Administrator of the United States Agency for International Development, and the heads of other relevant departments or agencies, establish and operate enterprise funds in accordance with this subsection.
   - **(2)** Nothing in this section shall be construed to make an enterprise fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an enterprise fund officers or employees of the United States for purposes of title 5.

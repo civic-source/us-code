@@ -3,9 +3,9 @@ title: "Section 6325 - Release of lien or discharge of property"
 usc_title: 26
 usc_section: "6325"
 chapter: 64
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6325"
-generated_at: "2026-03-29T19:59:49.602Z"
+generated_at: "2026-03-29T20:05:22.694Z"
 ---
 
 # § 6325. Release of lien or discharge of property

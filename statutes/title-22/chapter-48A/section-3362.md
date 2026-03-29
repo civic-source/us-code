@@ -3,9 +3,9 @@ title: "Section 3362 - Task force to counter economic coercion by the People’s
 usc_title: 22
 usc_section: "3362"
 chapter: 48
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3362"
-generated_at: "2026-03-29T19:59:24.176Z"
+generated_at: "2026-03-29T20:04:46.849Z"
 ---
 
 # § 3362. Task force to counter economic coercion by the People’s Republic of China

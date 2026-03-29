@@ -3,9 +3,9 @@ title: "Section 598b - Minimum real estate interest"
 usc_title: 33
 usc_section: "598b"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 598b"
-generated_at: "2026-03-29T20:00:31.255Z"
+generated_at: "2026-03-29T20:05:35.669Z"
 ---
 
 # § 598b. Minimum real estate interest

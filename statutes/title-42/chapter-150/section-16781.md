@@ -3,9 +3,9 @@ title: "Section 16781 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16781"
 chapter: 150
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 16781"
-generated_at: "2026-03-29T20:01:33.813Z"
+generated_at: "2026-03-29T20:06:11.819Z"
 ---
 
 # § 16781. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

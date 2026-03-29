@@ -3,9 +3,9 @@ title: "Section 933 - Compensation for injuries where third persons are liable"
 usc_title: 33
 usc_section: "933"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 933"
-generated_at: "2026-03-29T20:00:31.291Z"
+generated_at: "2026-03-29T20:05:35.707Z"
 ---
 
 # § 933. Compensation for injuries where third persons are liable

@@ -3,9 +3,9 @@ title: "Section 460uu - Establishment; description of area"
 usc_title: 16
 usc_section: "460uu"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 460uu"
-generated_at: "2026-03-29T19:59:08.045Z"
+generated_at: "2026-03-29T20:04:20.082Z"
 ---
 
 # § 460uu. Establishment; description of area

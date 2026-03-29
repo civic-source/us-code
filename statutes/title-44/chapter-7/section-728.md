@@ -3,9 +3,9 @@ title: "Section 728 - United States Statutes at Large: distribution"
 usc_title: 44
 usc_section: "728"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 728"
-generated_at: "2026-03-29T20:00:54.154Z"
+generated_at: "2026-03-29T20:05:29.587Z"
 ---
 
 # § 728. United States Statutes at Large: distribution

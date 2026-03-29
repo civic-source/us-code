@@ -5,7 +5,7 @@ usc_section: "661e"
 chapter: 17
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 661e"
-generated_at: "2026-03-29T20:01:46.526Z"
+generated_at: "2026-03-29T20:02:11.274Z"
 ---
 
 # § 661e. Treatment of deposit insurance and agencies and other insurance programs

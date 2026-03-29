@@ -3,9 +3,9 @@ title: "Section 284x - Sixteenth replenishment"
 usc_title: 22
 usc_section: "284x"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 284x"
-generated_at: "2026-03-29T19:59:23.991Z"
+generated_at: "2026-03-29T20:04:46.662Z"
 ---
 
 # § 284x. Sixteenth replenishment

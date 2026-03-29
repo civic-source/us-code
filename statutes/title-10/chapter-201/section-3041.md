@@ -3,9 +3,9 @@ title: "Section 3041 - Major system"
 usc_title: 10
 usc_section: "3041"
 chapter: 201
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3041"
-generated_at: "2026-03-29T19:58:02.221Z"
+generated_at: "2026-03-29T20:03:09.746Z"
 ---
 
 # § 3041. Major system
@@ -16,9 +16,9 @@ generated_at: "2026-03-29T19:58:02.221Z"
   - **(2)** the system is designated a “major system” by the head of the agency responsible for the system.
 - **(c)**
   - **(1)** For purposes of subsection (b), a system for which the Department of Defense is responsible shall be considered a major system if—
-    - **(A)** the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $115,000,000 (based on fiscal year 1990 constant dollars); or
-    - **(B)** the eventual total expenditure for procurement for the system is estimated to be more than $540,000,000 (based on fiscal year 1990 constant dollars).
+    - **(A)** the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $275,000,000 (based on fiscal year 2024 constant dollars); or
+    - **(B)** the eventual total expenditure for procurement for the system is estimated to be more than $1,300,000,000 (based on fiscal year 2024 constant dollars).
   - **(2)** Authority for the Secretary of Defense to adjust amounts and the base fiscal year in effect under this subsection is provided in section 4202(b) of this title .
 - **(d)** For purposes of subsection (b), a system for which a civilian agency is responsible shall be considered a major system if total expenditures for the system are estimated to exceed the greater of—
-  - **(1)** $750,000 (based on fiscal year 1980 constant dollars); or
+  - **(1)** $2,000,000 (based on fiscal year 2024 constant dollars); or
   - **(2)** the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.

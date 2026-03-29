@@ -3,9 +3,9 @@ title: "Section 24712 - State-supported routes operated by Amtrak"
 usc_title: 49
 usc_section: "24712"
 chapter: 247
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 24712"
-generated_at: "2026-03-29T20:01:51.034Z"
+generated_at: "2026-03-29T20:06:28.204Z"
 ---
 
 # § 24712. State-supported routes operated by Amtrak

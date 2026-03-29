@@ -3,9 +3,9 @@ title: "Section 808 - Repealed. Pub. L. 92–310, title II, § 227(c) , June 6, 
 usc_title: 22
 usc_section: "808"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 808"
-generated_at: "2026-03-29T19:59:24.029Z"
+generated_at: "2026-03-29T20:04:46.696Z"
 ---
 
 # § 808. Repealed. Pub. L. 92–310, title II, § 227(c) , June 6, 1972 , 86 Stat. 207

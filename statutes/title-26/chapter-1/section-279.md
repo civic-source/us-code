@@ -3,9 +3,9 @@ title: "Section 279 - Interest on indebtedness incurred by corporation to acquir
 usc_title: 26
 usc_section: "279"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 279"
-generated_at: "2026-03-29T19:59:49.205Z"
+generated_at: "2026-03-29T20:05:22.273Z"
 ---
 
 # § 279. Interest on indebtedness incurred by corporation to acquire stock or assets of another corporation

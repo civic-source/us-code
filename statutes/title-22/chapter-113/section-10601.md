@@ -3,9 +3,9 @@ title: "Section 10601 - Definitions"
 usc_title: 22
 usc_section: "10601"
 chapter: 113
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10601"
-generated_at: "2026-03-29T19:59:24.365Z"
+generated_at: "2026-03-29T20:04:47.057Z"
 ---
 
 # § 10601. Definitions

@@ -3,9 +3,9 @@ title: "Section 1143 - Employment assistance"
 usc_title: 10
 usc_section: "1143"
 chapter: 58
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1143"
-generated_at: "2026-03-29T19:58:02.070Z"
+generated_at: "2026-03-29T20:03:09.573Z"
 ---
 
 # § 1143. Employment assistance
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T19:58:02.070Z"
 - **(d)** The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, Marine Corps, or Space Force who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title , except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 - **(e)**
   - **(1)**
-    - **(a)** 1 1 So in original. Probably should be “(A)”. The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as “Skillbridge”.
+    - **(A)** The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as “Skillbridge”.
     - **(B)** The Secretary of a military department shall carry out one or more programs under this subsection.
   - **(2)** A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
     - **(A)** has completed at least 180 days on active duty in the armed forces; and

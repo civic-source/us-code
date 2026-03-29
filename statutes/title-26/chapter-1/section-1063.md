@@ -5,7 +5,7 @@ usc_section: "1063"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1063"
-generated_at: "2026-03-29T02:14:01.108Z"
+generated_at: "2026-03-29T20:05:22.490Z"
 ---
 
 # § 1063. Cross references

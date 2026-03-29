@@ -3,9 +3,9 @@ title: "Section 1501 - Definitions"
 usc_title: 47
 usc_section: "1501"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 1501"
-generated_at: "2026-03-29T20:01:40.121Z"
+generated_at: "2026-03-29T20:06:46.059Z"
 ---
 
 # § 1501. Definitions

@@ -3,9 +3,9 @@ title: "Section 17052 - Renewable fuel infrastructure grants"
 usc_title: 42
 usc_section: "17052"
 chapter: 152
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 17052"
-generated_at: "2026-03-29T20:01:33.817Z"
+generated_at: "2026-03-29T20:06:11.823Z"
 ---
 
 # § 17052. Renewable fuel infrastructure grants

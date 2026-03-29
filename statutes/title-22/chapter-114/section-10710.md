@@ -5,7 +5,7 @@ usc_section: "10710"
 chapter: 114
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 10710"
-generated_at: "2026-03-29T02:12:40.532Z"
+generated_at: "2026-03-29T20:04:47.061Z"
 ---
 
 # § 10710. Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans

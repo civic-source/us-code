@@ -5,7 +5,7 @@ usc_section: "6101"
 chapter: 61
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 6101"
-generated_at: "2026-03-29T20:01:52.189Z"
+generated_at: "2026-03-29T20:02:37.834Z"
 ---
 
 # § 6101. Basic 40-hour workweek; work schedules; regulations

@@ -1,12 +1,14 @@
 ---
-title: "Section 2010 - Renumbered § 321]"
+title: "Section 2010 - Requirements with respect to motorcycle safety training"
 usc_title: 10
 usc_section: "2010"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2010"
-generated_at: "2026-03-29T19:58:02.127Z"
+generated_at: "2026-03-29T20:03:09.636Z"
 ---
 
-# [§ 2010. Renumbered § 321]
+# § 2010. Requirements with respect to motorcycle safety training
+
+The Secretaries of the military departments shall ensure that all beginner motorcycle safety training provided to members of the Armed Forces meets the motorcycle safety training requirements for licensing of the State in which the permanent station of the member receiving the training is located.
 

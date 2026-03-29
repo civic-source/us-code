@@ -5,7 +5,7 @@ usc_section: "6634"
 chapter: 65
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6634"
-generated_at: "2026-03-29T20:01:46.647Z"
+generated_at: "2026-03-29T20:02:11.370Z"
 ---
 
 # § 6634. Senate Hair Care Services

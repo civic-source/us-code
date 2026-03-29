@@ -3,9 +3,9 @@ title: "Section 4371 - Imposition of tax"
 usc_title: 26
 usc_section: "4371"
 chapter: 34
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 4371"
-generated_at: "2026-03-29T19:59:49.502Z"
+generated_at: "2026-03-29T20:05:22.592Z"
 ---
 
 # § 4371. Imposition of tax

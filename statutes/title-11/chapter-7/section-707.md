@@ -3,9 +3,9 @@ title: "Section 707 - Dismissal of a case or conversion to a case under chapter 
 usc_title: 11
 usc_section: "707"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 707"
-generated_at: "2026-03-29T19:58:09.468Z"
+generated_at: "2026-03-29T20:03:14.797Z"
 ---
 
 # § 707. Dismissal of a case or conversion to a case under chapter 11 or 13

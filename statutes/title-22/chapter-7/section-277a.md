@@ -3,9 +3,9 @@ title: "Section 277a - Investigations of commission; construction of works or pr
 usc_title: 22
 usc_section: "277a"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 277a"
-generated_at: "2026-03-29T19:59:23.974Z"
+generated_at: "2026-03-29T20:04:46.650Z"
 ---
 
 # § 277a. Investigations of commission; construction of works or projects

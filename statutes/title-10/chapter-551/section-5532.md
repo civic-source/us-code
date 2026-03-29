@@ -3,9 +3,9 @@ title: "Section 5532 - Hypersonic defense capability development"
 usc_title: 10
 usc_section: "5532"
 chapter: 551
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 5532"
-generated_at: "2026-03-29T19:58:02.278Z"
+generated_at: "2026-03-29T20:03:09.809Z"
 ---
 
 # § 5532. Hypersonic defense capability development

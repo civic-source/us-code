@@ -5,7 +5,7 @@ usc_section: "2820"
 chapter: 169
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2820"
-generated_at: "2026-03-29T02:10:45.149Z"
+generated_at: "2026-03-29T20:03:09.725Z"
 ---
 
 # § 2820. Development of infrastructure improvement plan for each military department

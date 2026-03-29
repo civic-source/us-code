@@ -3,9 +3,9 @@ title: "Section 6571 - Federal regulations"
 usc_title: 20
 usc_section: "6571"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 6571"
-generated_at: "2026-03-29T19:58:56.889Z"
+generated_at: "2026-03-29T20:04:33.065Z"
 ---
 
 # § 6571. Federal regulations

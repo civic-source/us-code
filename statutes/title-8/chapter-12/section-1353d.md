@@ -3,9 +3,9 @@ title: "Section 1353d - Disposition of money received as extra compensation"
 usc_title: 8
 usc_section: "1353d"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1353d"
-generated_at: "2026-03-29T19:57:30.803Z"
+generated_at: "2026-03-29T20:02:46.248Z"
 ---
 
 # § 1353d. Disposition of money received as extra compensation

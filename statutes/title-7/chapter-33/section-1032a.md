@@ -3,9 +3,9 @@ title: "Section 1032a - Disbursing and certifying officers; exemption from liabi
 usc_title: 7
 usc_section: "1032a"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1032a"
-generated_at: "2026-03-29T19:57:38.982Z"
+generated_at: "2026-03-29T20:02:52.475Z"
 ---
 
 # § 1032a. Disbursing and certifying officers; exemption from liability for advances to defense relocation corporations

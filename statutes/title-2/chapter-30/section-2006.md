@@ -5,7 +5,7 @@ usc_section: "2006"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2006"
-generated_at: "2026-03-29T20:01:46.592Z"
+generated_at: "2026-03-29T20:02:11.324Z"
 ---
 
 # § 2006. Withdrawal by Representative of request for vacant rooms

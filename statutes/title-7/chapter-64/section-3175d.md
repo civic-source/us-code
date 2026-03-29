@@ -3,9 +3,9 @@ title: "Section 3175d - Administration of program of food, nutrition, and consum
 usc_title: 7
 usc_section: "3175d"
 chapter: 64
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3175d"
-generated_at: "2026-03-29T19:57:39.321Z"
+generated_at: "2026-03-29T20:02:52.681Z"
 ---
 
 # § 3175d. Administration of program of food, nutrition, and consumer education by State cooperative extension services

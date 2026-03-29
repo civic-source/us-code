@@ -3,9 +3,9 @@ title: "Section 404 - Overpayments and underpayments"
 usc_title: 42
 usc_section: "404"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 404"
-generated_at: "2026-03-29T20:01:32.248Z"
+generated_at: "2026-03-29T20:06:10.339Z"
 ---
 
 # § 404. Overpayments and underpayments
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T20:01:32.248Z"
       - **(i)** the rendering of a final decision on whether adjustment or recovery would defeat the purpose of this subchapter; or
       - **(ii)** the express revocation by the individual of the authorization, in a written notification to the Commissioner.
     - **(C)**
-      - **(i)** An authorization obtained by the Commissioner of Social Security pursuant this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act [ 12 U.S.C. 3401 et seq.] for purposes of section 1103(a) of such Act [ 12 U.S.C. 3403(a) ], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act [ 12 U.S.C. 3404(a) ].
+      - **(i)** An authorization obtained by the Commissioner of Social Security pursuant 2 2 So in original. Probably should be followed by “to”. this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act [ 12 U.S.C. 3401 et seq.] for purposes of section 1103(a) of such Act [ 12 U.S.C. 3403(a) ], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act [ 12 U.S.C. 3404(a) ].
       - **(ii)** The certification requirements of section 1103(b) of the Right to Financial Privacy Act [ 12 U.S.C. 3403(b) ] shall not apply to requests by the Commissioner of Social Security pursuant to an authorization provided under this paragraph.
       - **(iii)** A request by the Commissioner pursuant to an authorization provided under this paragraph is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act [ 12 U.S.C. 3404(a)(3) ] and the flush language of section 1102 of such Act [ 12 U.S.C. 3402 ].
     - **(D)** The Commissioner shall inform any person who provides authorization pursuant to this paragraph of the duration and scope of the authorization.
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T20:01:32.248Z"
   - **(7)** if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or (6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the legal representative of the estate of the deceased individual, if any.
 - **(e)** For payments which are adjusted by reason of payment of benefits under the supplemental security income program established by subchapter XVI, see section 1320a–6 of this title .
 - **(f)**
-  - **(1)** With respect to any deliquent 2 2 So in original. Probably should be “delinquent”. amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5 , all as in effect immediately after April 26, 1996 .
+  - **(1)** With respect to any deliquent 3 3 So in original. Probably should be “delinquent”. amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5 , all as in effect immediately after April 26, 1996 .
   - **(2)** For purposes of paragraph (1), the term “delinquent amount” means an amount—
     - **(A)** in excess of the correct amount of payment under this subchapter;
     - **(B)** paid to a person after such person has attained 18 years of age; and

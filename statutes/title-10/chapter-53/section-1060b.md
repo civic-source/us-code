@@ -3,9 +3,9 @@ title: "Section 1060b - Military ID cards: dependents and survivors of retirees"
 usc_title: 10
 usc_section: "1060b"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1060b"
-generated_at: "2026-03-29T19:58:02.044Z"
+generated_at: "2026-03-29T20:03:09.544Z"
 ---
 
 # § 1060b. Military ID cards: dependents and survivors of retirees

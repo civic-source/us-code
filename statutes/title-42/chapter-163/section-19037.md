@@ -3,9 +3,9 @@ title: "Section 19037 - Research security and integrity information sharing anal
 usc_title: 42
 usc_section: "19037"
 chapter: 163
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 19037"
-generated_at: "2026-03-29T20:01:33.924Z"
+generated_at: "2026-03-29T20:06:11.919Z"
 ---
 
 # § 19037. Research security and integrity information sharing analysis organization

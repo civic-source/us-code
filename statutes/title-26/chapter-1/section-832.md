@@ -3,9 +3,9 @@ title: "Section 832 - Insurance company taxable income"
 usc_title: 26
 usc_section: "832"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 832"
-generated_at: "2026-03-29T19:59:49.346Z"
+generated_at: "2026-03-29T20:05:22.423Z"
 ---
 
 # § 832. Insurance company taxable income

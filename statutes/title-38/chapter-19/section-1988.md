@@ -3,9 +3,9 @@ title: "Section 1988 - Savings provision"
 usc_title: 38
 usc_section: "1988"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1988"
-generated_at: "2026-03-29T20:00:43.036Z"
+generated_at: "2026-03-29T20:05:54.679Z"
 ---
 
 # § 1988. Savings provision

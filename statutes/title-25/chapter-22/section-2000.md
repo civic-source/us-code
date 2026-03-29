@@ -3,9 +3,9 @@ title: "Section 2000 - Declaration of policy"
 usc_title: 25
 usc_section: "2000"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 2000"
-generated_at: "2026-03-29T19:59:16.367Z"
+generated_at: "2026-03-29T20:04:54.391Z"
 ---
 
 # § 2000. Declaration of policy

@@ -5,7 +5,7 @@ usc_section: "6176"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6176"
-generated_at: "2026-03-29T02:10:45.256Z"
+generated_at: "2026-03-29T20:03:09.820Z"
 ---
 
 # § 6176. Defense environmental cleanup technology program

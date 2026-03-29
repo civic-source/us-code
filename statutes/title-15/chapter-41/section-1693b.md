@@ -3,9 +3,9 @@ title: "Section 1693b - Regulations"
 usc_title: 15
 usc_section: "1693b"
 chapter: 41
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1693b"
-generated_at: "2026-03-29T19:58:17.734Z"
+generated_at: "2026-03-29T20:03:27.467Z"
 ---
 
 # § 1693b. Regulations

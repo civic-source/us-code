@@ -5,7 +5,7 @@ usc_section: "2866a"
 chapter: 169
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2866a"
-generated_at: "2026-03-29T02:10:45.158Z"
+generated_at: "2026-03-29T20:03:09.731Z"
 ---
 
 # § 2866a. Risk-based approach to water management and water security at military installations

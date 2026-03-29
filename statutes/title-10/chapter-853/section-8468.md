@@ -3,9 +3,9 @@ title: "Section 8468 - Board of Visitors"
 usc_title: 10
 usc_section: "8468"
 chapter: 853
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8468"
-generated_at: "2026-03-29T19:58:02.310Z"
+generated_at: "2026-03-29T20:03:09.864Z"
 ---
 
 # § 8468. Board of Visitors
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:58:02.310Z"
   - **(5)** the chair of the Committee on Armed Services of the House of Representatives, or the designee of such chair;
   - **(6)** the ranking member of the Committee on Armed Services of the House of Representatives, or the designee of the ranking member;
   - **(7)** two other members of the House of Representatives designated by the Speaker of the House of Representatives, one of whom is a member of the Committee on Appropriations of the House of Representatives;
-  - **(8)** one other member of the House of Representatives designated by the Minority Leader of the House of Representatives; and
+  - **(8)** two other members of the House of Representatives designated by the Minority Leader of the House of Representatives; and
   - **(9)** six persons designated by the President.
 - **(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed by the President. The President shall designate two persons each year to succeed the members whose terms expire that year.
 - **(c)** If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.

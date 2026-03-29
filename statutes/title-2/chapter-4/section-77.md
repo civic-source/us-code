@@ -5,7 +5,7 @@ usc_section: "77"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 77"
-generated_at: "2026-03-29T20:01:46.479Z"
+generated_at: "2026-03-29T20:02:11.239Z"
 ---
 
 # § 77. Transferred

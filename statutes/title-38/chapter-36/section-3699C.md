@@ -3,9 +3,9 @@ title: "Section 3699C - High technology program"
 usc_title: 38
 usc_section: "3699C"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 3699C"
-generated_at: "2026-03-29T20:00:43.095Z"
+generated_at: "2026-03-29T20:05:54.728Z"
 ---
 
 # § 3699C. High technology program
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T20:00:43.095Z"
     - **(B)** An educational institution that requests a review under subparagraph (A)—
       - **(i)** shall request the review not later than 30 days after the start of the term, quarter, or semester for which the determination described in subparagraph (A) applies; and
       - **(ii)** may include any information that the educational institution believes the Department should have taken into account when making the determination, including with respect to any mitigating circumstances.
-- **(f)** Not later than one year after the date of the enactment of this section, and annually thereafter until the termination date specified in subsection (i), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of program under this section during the year covered by the report. Each such report shall include each of the following:
+- **(f)** Not later than one year after the date of the enactment of this section, and annually thereafter until the termination date specified in subsection (i), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of program 1 1 So in original. Probably should be preceded by “the”. under this section during the year covered by the report. Each such report shall include each of the following:
   - **(1)** The number of covered individuals enrolled in the program, disaggregated by type of educational institution, during the year covered by the report.
   - **(2)** The number of covered individuals who completed a high technology program of education under the program during the year covered by the report.
   - **(3)** The average employment rate of covered individuals who completed such a program of education during such year, as of 180 days after the date of completion.
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T20:00:43.095Z"
   - **(8)** The number of covered individuals who completed a program of education under the program and who subsequently enrolled in a second program of education under the program.
 - **(g)**
   - **(1)** The Secretary shall develop practices to use to collect information about covered individuals and providers of high technology programs of education.
-  - **(2)** For the purpose of carrying out program under this section, the Secretary may consult with providers of high technology programs of education and may establish an advisory group made up of representatives of such providers, private employers in the technology field, and other relevant groups or entities, as the Secretary determines necessary.
+  - **(2)** For the purpose of carrying out program 1 under this section, the Secretary may consult with providers of high technology programs of education and may establish an advisory group made up of representatives of such providers, private employers in the technology field, and other relevant groups or entities, as the Secretary determines necessary.
 - **(h)** In this section:
   - **(1)** The term “covered individual” means any of the following:
     - **(A)** A veteran whom the Secretary determines—

@@ -5,7 +5,7 @@ usc_section: "65"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 65"
-generated_at: "2026-03-29T20:01:46.478Z"
+generated_at: "2026-03-29T20:02:11.238Z"
 ---
 
 # § 65. Repealed. Pub. L. 92–310, title II, § 220(a) , (c), June 6, 1972 , 86 Stat. 204

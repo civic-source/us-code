@@ -5,7 +5,7 @@ usc_section: "2050"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2050"
-generated_at: "2026-03-29T20:01:46.593Z"
+generated_at: "2026-03-29T20:02:11.325Z"
 ---
 
 # § 2050. Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account

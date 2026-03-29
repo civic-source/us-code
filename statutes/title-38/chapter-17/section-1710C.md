@@ -3,9 +3,9 @@ title: "Section 1710C - Traumatic brain injury: plans for rehabilitation and rei
 usc_title: 38
 usc_section: "1710C"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1710C"
-generated_at: "2026-03-29T20:00:43.004Z"
+generated_at: "2026-03-29T20:05:54.652Z"
 ---
 
 # § 1710C. Traumatic brain injury: plans for rehabilitation and reintegration into the community

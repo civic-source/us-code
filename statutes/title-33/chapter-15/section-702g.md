@@ -3,9 +3,9 @@ title: "Section 702g - Appropriation for emergency fund"
 usc_title: 33
 usc_section: "702g"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 702g"
-generated_at: "2026-03-29T20:00:31.272Z"
+generated_at: "2026-03-29T20:05:35.688Z"
 ---
 
 # § 702g. Appropriation for emergency fund

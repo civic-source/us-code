@@ -3,9 +3,9 @@ title: "Section 8172 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8172"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 8172"
-generated_at: "2026-03-29T19:58:56.950Z"
+generated_at: "2026-03-29T20:04:33.126Z"
 ---
 
 # §§ 8171, 8172. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986

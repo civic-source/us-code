@@ -3,9 +3,9 @@ title: "Section 18615 - Agreements for commercializing technology pilot program"
 usc_title: 42
 usc_section: "18615"
 chapter: 161
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 18615"
-generated_at: "2026-03-29T20:01:33.884Z"
+generated_at: "2026-03-29T20:06:11.884Z"
 ---
 
 # § 18615. Agreements for commercializing technology pilot program

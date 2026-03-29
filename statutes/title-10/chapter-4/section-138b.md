@@ -3,9 +3,9 @@ title: "Section 138b - Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(
 usc_title: 10
 usc_section: "138b"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 138b"
-generated_at: "2026-03-29T19:58:01.932Z"
+generated_at: "2026-03-29T20:03:09.418Z"
 ---
 
 # [§§ 138a, 138b. Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4) , Dec. 19, 2014 , 128 Stat. 3467 ]

@@ -3,9 +3,9 @@ title: "Section 20108 - Members of Space Force: credit for service for purposes 
 usc_title: 10
 usc_section: "20108"
 chapter: 2003
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 20108"
-generated_at: "2026-03-29T19:58:02.389Z"
+generated_at: "2026-03-29T20:03:09.944Z"
 ---
 
 # § 20108. Members of Space Force: credit for service for purposes of laws providing pay and benefits for members, dependents, and survivors

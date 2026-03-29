@@ -3,14 +3,14 @@ title: "Section 48D - Advanced manufacturing investment credit"
 usc_title: 26
 usc_section: "48D"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 48D"
-generated_at: "2026-03-29T19:59:49.103Z"
+generated_at: "2026-03-29T20:05:22.165Z"
 ---
 
 # § 48D. Advanced manufacturing investment credit
 
-- **(a)** For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 25 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.
+- **(a)** For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 35 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.
 - **(b)**
   - **(1)** For purposes of subsection (a), the qualified investment with respect to any advanced manufacturing facility for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of an advanced manufacturing facility.
   - **(2)**

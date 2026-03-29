@@ -3,9 +3,9 @@ title: "Section 1457c - Power of Secretary or designated officer"
 usc_title: 43
 usc_section: "1457c"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1457c"
-generated_at: "2026-03-29T20:00:47.561Z"
+generated_at: "2026-03-29T20:05:36.538Z"
 ---
 
 # § 1457c. Power of Secretary or designated officer

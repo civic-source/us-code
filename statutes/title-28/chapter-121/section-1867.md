@@ -3,9 +3,9 @@ title: "Section 1867 - Challenging compliance with selection procedures"
 usc_title: 28
 usc_section: "1867"
 chapter: 121
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1867"
-generated_at: "2026-03-29T20:00:05.312Z"
+generated_at: "2026-03-29T20:05:24.788Z"
 ---
 
 # § 1867. Challenging compliance with selection procedures

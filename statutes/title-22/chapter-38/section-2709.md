@@ -3,14 +3,14 @@ title: "Section 2709 - Special agents"
 usc_title: 22
 usc_section: "2709"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2709"
-generated_at: "2026-03-29T19:59:24.146Z"
+generated_at: "2026-03-29T20:04:46.817Z"
 ---
 
 # § 2709. Special agents
 
-- **(a)** Under such regulations as the Secretary of State may prescribe, special agents of the Department of State and the Foreign Service may—
+- **(a)** Under such regulations as the Secretary of State, in consultation with Under Secretary of Management, may prescribe, special agents of the Department of State and the Foreign Service may—
   - **(1)** conduct investigations concerning—
     - **(A)** illegal passport or visa issuance or use;
     - **(B)** identity theft or document fraud affecting or relating to the programs, functions, or authorities of the Department of State;

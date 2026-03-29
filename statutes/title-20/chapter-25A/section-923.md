@@ -3,9 +3,9 @@ title: "Section 923 - Space-available enrollment of students; tuition"
 usc_title: 20
 usc_section: "923"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 923"
-generated_at: "2026-03-29T19:58:56.619Z"
+generated_at: "2026-03-29T20:04:32.765Z"
 ---
 
 # § 923. Space-available enrollment of students; tuition
@@ -31,4 +31,7 @@ generated_at: "2026-03-29T19:58:56.619Z"
     - **(A)** Children of officers and employees of the United States (other than civilian officers and employees who are sponsors under section 932(2) of this title ) stationed in overseas areas.
     - **(B)** Children of employees of contractors employed in carrying out work for the United States in overseas areas.
     - **(C)** Children of other citizens or nationals of the United States or of foreign nationals, if the Secretary determines that enrollment of such children is in the national interest.
+    - **(D)** Children of employees of the American Red Cross who—
+      - **(i)** are performing, on a full-time basis, services for the Armed Forces, including emergency services; and
+      - **(ii)** reside in an overseas area supported by a school of the defense dependents’ education system.
   - **(2)** Notwithstanding subsection (c), the Secretary may not waive the tuition requirements of subsection (b)(1) with respect to children referred to in paragraph (1).

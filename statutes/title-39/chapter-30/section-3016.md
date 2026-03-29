@@ -3,9 +3,9 @@ title: "Section 3016 - Administrative subpoenas"
 usc_title: 39
 usc_section: "3016"
 chapter: 30
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "39 U.S.C. § 3016"
-generated_at: "2026-03-29T20:00:36.438Z"
+generated_at: "2026-03-29T20:05:38.515Z"
 ---
 
 # § 3016. Administrative subpoenas

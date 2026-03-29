@@ -3,14 +3,14 @@ title: "Section 2872 - General authority"
 usc_title: 10
 usc_section: "2872"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2872"
-generated_at: "2026-03-29T19:58:02.209Z"
+generated_at: "2026-03-29T20:03:09.732Z"
 ---
 
 # § 2872. General authority
 
 In addition to any other authority provided under this chapter for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary concerned may exercise any authority or any combination of authorities provided under this subchapter in order to provide for the acquisition or construction by eligible entities of the following:
 
-  - **(1)** Family housing units on or near military installations within the United States and its territories and possessions.
+  - **(1)** Family housing units on or near military installations within the United States and its territories and possessions, including such units for civilian employees of the Department of Defense and defense contractors.
   - **(2)** Military unaccompanied housing units on or near such military installations.

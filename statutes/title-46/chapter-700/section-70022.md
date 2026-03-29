@@ -3,9 +3,9 @@ title: "Section 70022 - Prohibition on entry and operation"
 usc_title: 46
 usc_section: "70022"
 chapter: 700
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70022"
-generated_at: "2026-03-29T20:01:44.518Z"
+generated_at: "2026-03-29T20:07:02.759Z"
 ---
 
 # § 70022. Prohibition on entry and operation
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:01:44.518Z"
     - **(B)** Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made.
     - **(C)** The Secretary of State shall publish a notice in the Federal Register of each determination made under subparagraph (A).
 - **(b)** A vessel referred to in subsection (a) is a foreign vessel for which a notice of arrival is required to be filed under section 70001(a)(5), and that—
-  - **(1)** is on the most recent list of vessels published in Federal 1 1 So in original. Probably should be preceded by “the”. Register under subsection (c)(2); or
+  - **(1)** is on the most recent list of vessels published in the Federal Register under subsection (c)(2); or
   - **(2)** more than 180 days after the publication of such list, is knowingly registered, pursuant to the 1958 Convention on the High Seas entered into force on September 30, 1962 , by a government the agents or instrumentalities of which are maintaining a registration of a vessel that is included on such list.
 - **(c)** The Secretary of the department in which the Coast Guard is operating, with the concurrence of the Secretary of State, shall—
   - **(1)** maintain timely information on the registrations of all foreign vessels over 300 gross tons that are known to be—

@@ -3,9 +3,9 @@ title: "Section 6303a - Whole-school reform strategy"
 usc_title: 20
 usc_section: "6303a"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 6303a"
-generated_at: "2026-03-29T19:58:56.867Z"
+generated_at: "2026-03-29T20:04:33.040Z"
 ---
 
 # § 6303a. Whole-school reform strategy

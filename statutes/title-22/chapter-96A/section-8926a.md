@@ -5,7 +5,7 @@ usc_section: "8926a"
 chapter: 96
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 8926a"
-generated_at: "2026-03-29T02:12:40.479Z"
+generated_at: "2026-03-29T20:04:47.014Z"
 ---
 
 # § 8926a. Supporting the identification and recovery of abducted Ukrainian children

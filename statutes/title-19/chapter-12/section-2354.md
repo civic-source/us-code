@@ -3,9 +3,9 @@ title: "Section 2354 - Study by Secretary of Commerce when International Trade C
 usc_title: 19
 usc_section: "2354"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2354"
-generated_at: "2026-03-29T19:58:51.773Z"
+generated_at: "2026-03-29T20:04:27.377Z"
 ---
 
 # § 2354. Study by Secretary of Commerce when International Trade Commission begins investigation; action where there is affirmative finding

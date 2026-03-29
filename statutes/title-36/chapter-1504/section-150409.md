@@ -3,9 +3,9 @@ title: "Section 150409 - Restrictions"
 usc_title: 36
 usc_section: "150409"
 chapter: 1504
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 150409"
-generated_at: "2026-03-29T20:00:38.625Z"
+generated_at: "2026-03-29T20:05:40.588Z"
 ---
 
 # § 150409. Restrictions

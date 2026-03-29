@@ -3,9 +3,9 @@ title: "Section 7703 - Functions of the Administration"
 usc_title: 38
 usc_section: "7703"
 chapter: 77
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 7703"
-generated_at: "2026-03-29T20:00:43.170Z"
+generated_at: "2026-03-29T20:05:54.795Z"
 ---
 
 # § 7703. Functions of the Administration

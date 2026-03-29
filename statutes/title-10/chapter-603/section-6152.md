@@ -5,7 +5,7 @@ usc_section: "6152"
 chapter: 603
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6152"
-generated_at: "2026-03-29T02:10:45.253Z"
+generated_at: "2026-03-29T20:03:09.817Z"
 ---
 
 # § 6152. Completion of material protection, control, and accounting activities in the Russian Federation

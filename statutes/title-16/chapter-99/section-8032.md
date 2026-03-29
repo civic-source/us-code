@@ -3,9 +3,9 @@ title: "Section 8032 - Strategic plan"
 usc_title: 16
 usc_section: "8032"
 chapter: 99
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8032"
-generated_at: "2026-03-29T19:59:08.540Z"
+generated_at: "2026-03-29T20:04:20.515Z"
 ---
 
 # § 8032. Strategic plan

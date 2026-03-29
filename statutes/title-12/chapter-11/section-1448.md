@@ -3,9 +3,9 @@ title: "Section 1448 - Effect of partial invalidity of chapter"
 usc_title: 12
 usc_section: "1448"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1448"
-generated_at: "2026-03-29T19:58:40.762Z"
+generated_at: "2026-03-29T20:03:45.622Z"
 ---
 
 # § 1448. Effect of partial invalidity of chapter

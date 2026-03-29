@@ -3,9 +3,9 @@ title: "Section 6614 - Reporting"
 usc_title: 20
 usc_section: "6614"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 6614"
-generated_at: "2026-03-29T19:58:56.892Z"
+generated_at: "2026-03-29T20:04:33.068Z"
 ---
 
 # § 6614. Reporting

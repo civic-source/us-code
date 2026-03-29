@@ -3,9 +3,9 @@ title: "Section 355 - Laws applicable to lands of full-blooded members of Five C
 usc_title: 25
 usc_section: "355"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 355"
-generated_at: "2026-03-29T19:59:16.292Z"
+generated_at: "2026-03-29T20:04:54.325Z"
 ---
 
 # § 355. Laws applicable to lands of full-blooded members of Five Civilized Tribes

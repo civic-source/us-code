@@ -3,9 +3,9 @@ title: "Section 3354 - Automated valuation models used to estimate collateral va
 usc_title: 12
 usc_section: "3354"
 chapter: 34
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 3354"
-generated_at: "2026-03-29T19:58:41.014Z"
+generated_at: "2026-03-29T20:03:45.873Z"
 ---
 
 # § 3354. Automated valuation models used to estimate collateral value for mortgage lending purposes

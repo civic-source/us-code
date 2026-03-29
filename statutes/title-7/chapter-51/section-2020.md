@@ -3,9 +3,9 @@ title: "Section 2020 - Administration"
 usc_title: 7
 usc_section: "2020"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2020"
-generated_at: "2026-03-29T19:57:39.122Z"
+generated_at: "2026-03-29T20:02:52.620Z"
 ---
 
 # § 2020. Administration

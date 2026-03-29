@@ -5,7 +5,7 @@ usc_section: "13125"
 chapter: 131
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 13125"
-generated_at: "2026-03-29T20:01:52.298Z"
+generated_at: "2026-03-29T20:02:37.937Z"
 ---
 
 # § 13125. Authorization of appropriations

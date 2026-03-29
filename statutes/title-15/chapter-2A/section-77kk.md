@@ -3,9 +3,9 @@ title: "Section 77kk - Representations by Corporation as acting for Department o
 usc_title: 15
 usc_section: "77kk"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 77kk"
-generated_at: "2026-03-29T19:58:17.270Z"
+generated_at: "2026-03-29T20:03:27.110Z"
 ---
 
 # § 77kk. Representations by Corporation as acting for Department of State or United States forbidden; interference with foreign negotiations forbidden

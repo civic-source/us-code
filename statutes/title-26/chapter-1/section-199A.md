@@ -3,14 +3,14 @@ title: "Section 199A - Qualified business income"
 usc_title: 26
 usc_section: "199A"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 199A"
-generated_at: "2026-03-29T19:59:49.186Z"
+generated_at: "2026-03-29T20:05:22.257Z"
 ---
 
 # § 199A. Qualified business income
 
-- **(a)** In the case of a taxpayer other than a corporation, there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
+- **(a)** In the case of a taxpayer other than a corporation, except as provided in subsection (i), there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
   - **(1)** the combined qualified business income amount of the taxpayer, or
   - **(2)** an amount equal to 20 percent of the excess (if any) of—
     - **(A)** the taxable income of the taxpayer for the taxable year, over
@@ -28,11 +28,11 @@ generated_at: "2026-03-29T19:59:49.186Z"
     - **(A)** In the case of any taxpayer whose taxable income for the taxable year does not exceed the threshold amount, paragraph (2) shall be applied without regard to subparagraph (B).
     - **(B)**
       - **(i)** If—
-        - **(I)** the taxable income of a taxpayer for any taxable year exceeds the threshold amount, but does not exceed the sum of the threshold amount plus $50,000 ($100,000 in the case of a joint return), and
+        - **(I)** the taxable income of a taxpayer for any taxable year exceeds the threshold amount, but does not exceed the sum of the threshold amount plus $75,000 ($150,000 in the case of a joint return), and
         - **(II)** the amount determined under paragraph (2)(B) (determined without regard to this subparagraph) with respect to any qualified trade or business carried on by the taxpayer is less than the amount determined under paragraph (2)(A) with respect such trade or business,
       - **(ii)** The amount determined under this subparagraph is the amount which bears the same ratio to the excess amount as—
         - **(I)** the amount by which the taxpayer’s taxable income for the taxable year exceeds the threshold amount, bears to
-        - **(II)** $50,000 ($100,000 in the case of a joint return).
+        - **(II)** $75,000 ($150,000 in the case of a joint return).
       - **(iii)** For purposes of clause (ii), the excess amount is the excess of—
         - **(I)** the amount determined under paragraph (2)(A) (determined without regard to this paragraph), over
         - **(II)** the amount determined under paragraph (2)(B) (determined without regard to this paragraph).
@@ -69,8 +69,9 @@ generated_at: "2026-03-29T19:59:49.186Z"
       - **(vii)** Any item of deduction or loss properly allocable to an amount described in any of the preceding clauses.
   - **(4)** Qualified business income shall not include—
     - **(A)** reasonable compensation paid to the taxpayer by any qualified trade or business of the taxpayer for services rendered with respect to the trade or business,
-    - **(B)** any guaranteed payment described in section 707(c) paid to a partner for services rendered with respect to the trade or business, and
-    - **(C)** to the extent provided in regulations, any payment described in section 707(a) to a partner for services rendered with respect to the trade or business.
+    - **(B)** any guaranteed payment described in section 707(c) paid to a partner for services rendered with respect to the trade or business,
+    - **(C)** to the extent provided in regulations, any payment described in section 707(a) to a partner for services rendered with respect to the trade or business, and
+    - **(D)** any amount with respect to which a deduction is allowable to the taxpayer under section 224(a) for the taxable year.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified trade or business” means any trade or business other than—
     - **(A)** a specified service trade or business, or
@@ -79,14 +80,14 @@ generated_at: "2026-03-29T19:59:49.186Z"
     - **(A)** which is described in section 1202(e)(3)(A) (applied without regard to the words “engineering, architecture,”) or which would be so described if the term “employees or owners” were substituted for “employees” therein, or
     - **(B)** which involves the performance of services that consist of investing and investment management, trading, or dealing in securities (as defined in section 475(c)(2)), partnership interests, or commodities (as defined in section 475(e)(2)).
   - **(3)**
-    - **(A)** If, for any taxable year, the taxable income of any taxpayer is less than the sum of the threshold amount plus $50,000 ($100,000 in the case of a joint return), then—
+    - **(A)** If, for any taxable year, the taxable income of any taxpayer is less than the sum of the threshold amount plus $75,000 ($150,000 in the case of a joint return), then—
       - **(i)** any specified service trade or business of the taxpayer shall not fail to be treated as a qualified trade or business due to paragraph (1)(A), but
       - **(ii)** only the applicable percentage of qualified items of income, gain, deduction, or loss, and the W–2 wages and the unadjusted basis immediately after acquisition of qualified property, of the taxpayer allocable to such specified service trade or business shall be taken into account in computing the qualified business income, W–2 wages, and the unadjusted basis immediately after acquisition of qualified property of the taxpayer for the taxable year for purposes of applying this section.
     - **(B)** For purposes of subparagraph (A), the term “applicable percentage” means, with respect to any taxable year, 100 percent reduced (not below zero) by the percentage equal to the ratio of—
       - **(i)** the taxable income of the taxpayer for the taxable year in excess of the threshold amount, bears to
-      - **(ii)** $50,000 ($100,000 in the case of a joint return).
+      - **(ii)** $75,000 ($150,000 in the case of a joint return).
 - **(e)** For purposes of this section—
-  - **(1)** Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to any deduction allowable under this section.
+  - **(1)** Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to section 68 and without regard to any deduction allowable under this section.
   - **(2)**
     - **(A)** The term “threshold amount” means $157,500 (200 percent of such amount in the case of a joint return).
     - **(B)** In the case of any taxable year beginning after 2018, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
@@ -126,7 +127,7 @@ generated_at: "2026-03-29T19:59:49.186Z"
     - **(A)** In the case of any eligible taxpayer who receives a qualified payment from a specified agricultural or horticultural cooperative, there shall be allowed as a deduction for the taxable year in which such payment is received an amount equal to the portion of the deduction allowed under paragraph (1) to such cooperative which is—
       - **(i)** allowed with respect to the portion of the qualified production activities income to which such payment is attributable, and
       - **(ii)** identified by such cooperative in a written notice mailed to such taxpayer during the payment period described in section 1382(d).
-    - **(B)** The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
+    - **(B)** The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to section 68 or the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
     - **(C)** The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason of that portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
     - **(D)** For purposes of this paragraph, the term “eligible taxpayer” means—
       - **(i)** a taxpayer other than a corporation, or
@@ -176,4 +177,13 @@ generated_at: "2026-03-29T19:59:49.186Z"
 - **(h)** The Secretary shall—
   - **(1)** apply rules similar to the rules under section 179(d)(2) in order to prevent the manipulation of the depreciable period of qualified property using transactions between related parties, and
   - **(2)** prescribe rules for determining the unadjusted basis immediately after acquisition of qualified property acquired in like-kind exchanges or involuntary conversions.
-- **(i)** This section shall not apply to taxable years beginning after December 31, 2025 .
+- **(i)**
+  - **(1)** In the case of an applicable taxpayer for any taxable year, the deduction allowed under subsection (a) for the taxable year shall be equal to the greater of—
+    - **(A)** the amount of such deduction determined without regard to this subsection, or
+    - **(B)** $400.
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “applicable taxpayer” means, with respect to any taxable year, a taxpayer whose aggregate qualified business income with respect to all active qualified trades or businesses of the taxpayer for such taxable year is at least $1,000.
+    - **(B)** The term “active qualified trade or business” means, with respect to any taxpayer for any taxable year, any qualified trade or business of the taxpayer in which the taxpayer materially participates (within the meaning of section 469(h)).
+  - **(3)** In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to—
+    - **(A)** such dollar amount, multiplied by
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.

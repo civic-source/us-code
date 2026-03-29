@@ -5,7 +5,7 @@ usc_section: "6356"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6356"
-generated_at: "2026-03-29T02:10:45.268Z"
+generated_at: "2026-03-29T20:03:09.831Z"
 ---
 
 # § 6356. Authority to use passenger carriers for contractor commuting

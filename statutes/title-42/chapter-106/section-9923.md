@@ -3,9 +3,9 @@ title: "Section 9923 - National or regional programs designed to provide instruc
 usc_title: 42
 usc_section: "9923"
 chapter: 106
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 9923"
-generated_at: "2026-03-29T20:01:33.537Z"
+generated_at: "2026-03-29T20:06:11.565Z"
 ---
 
 # § 9923. National or regional programs designed to provide instructional activities for low-income youth

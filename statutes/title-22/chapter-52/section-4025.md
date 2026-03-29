@@ -3,9 +3,9 @@ title: "Section 4025 - Training grants"
 usc_title: 22
 usc_section: "4025"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4025"
-generated_at: "2026-03-29T19:59:24.200Z"
+generated_at: "2026-03-29T20:04:46.871Z"
 ---
 
 # § 4025. Training grants

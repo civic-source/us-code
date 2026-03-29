@@ -3,9 +3,9 @@ title: "Section 3101 - Congressional statement of findings and declaration of pu
 usc_title: 22
 usc_section: "3101"
 chapter: 46
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3101"
-generated_at: "2026-03-29T19:59:24.168Z"
+generated_at: "2026-03-29T20:04:46.841Z"
 ---
 
 # § 3101. Congressional statement of findings and declaration of purpose

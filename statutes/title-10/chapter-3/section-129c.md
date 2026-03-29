@@ -3,9 +3,9 @@ title: "Section 129c - Medical personnel: limitations on reductions"
 usc_title: 10
 usc_section: "129c"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 129c"
-generated_at: "2026-03-29T19:58:01.928Z"
+generated_at: "2026-03-29T20:03:09.414Z"
 ---
 
 # § 129c. Medical personnel: limitations on reductions
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T19:58:01.928Z"
   - **(2)** such reduction will not result in an increase in the cost of health care services provided under the Civilian Health and Medical Program of the Uniformed Services under chapter 55 of this title.
 - **(d)** Whenever the Secretary of Defense directs that there be a reduction in the total number of military medical personnel of the Department of Defense, the Secretary shall require that the reduction be carried out so as to ensure that the reduction is not exclusively or disproportionately borne by any one of the armed forces and is not exclusively or disproportionately borne by either the active or the reserve components.
 - **(e)** In this section, the term “medical personnel” means—
-  - **(1)** the members of the armed forces covered by the term “medical personnel” as defined in section 115a(e)(2) of this title ; and
+  - **(1)** the members of the armed forces covered by the term “medical personnel” as defined in section 115a(e)(2) 1 1 See References in Text note below. of this title; and
   - **(2)** the civilian personnel of the Department of Defense assigned to military medical facilities.

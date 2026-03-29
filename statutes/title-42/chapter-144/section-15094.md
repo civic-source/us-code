@@ -3,9 +3,9 @@ title: "Section 15094 - Application"
 usc_title: 42
 usc_section: "15094"
 chapter: 144
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 15094"
-generated_at: "2026-03-29T20:01:33.732Z"
+generated_at: "2026-03-29T20:06:11.745Z"
 ---
 
 # § 15094. Application

@@ -3,9 +3,9 @@ title: "Section 3334o - Requirements and report on workforce needs of intelligen
 usc_title: 50
 usc_section: "3334o"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334o"
-generated_at: "2026-03-29T20:01:54.768Z"
+generated_at: "2026-03-29T20:06:21.131Z"
 ---
 
 # § 3334o. Requirements and report on workforce needs of intelligence community relating to science, technology, engineering, and math, and related areas

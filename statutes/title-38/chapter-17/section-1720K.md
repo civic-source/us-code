@@ -3,9 +3,9 @@ title: "Section 1720K - Grants or contracts to provide mental health support to 
 usc_title: 38
 usc_section: "1720K"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1720K"
-generated_at: "2026-03-29T20:00:43.013Z"
+generated_at: "2026-03-29T20:05:54.660Z"
 ---
 
 # § 1720K. Grants or contracts to provide mental health support to family caregivers of veterans

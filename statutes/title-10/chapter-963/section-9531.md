@@ -1,14 +1,14 @@
 ---
-title: "Section 9531 - Commercial Augmentation Space Reserve. 1 1 So in original. The period probably should not appear."
+title: "Section 9531 - Commercial Augmentation Space Reserve"
 usc_title: 10
 usc_section: "9531"
 chapter: 963
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9531"
-generated_at: "2026-03-29T19:58:02.347Z"
+generated_at: "2026-03-29T20:03:09.903Z"
 ---
 
-# § 9531. Commercial Augmentation Space Reserve. 1 1 So in original. The period probably should not appear.
+# § 9531. Commercial Augmentation Space Reserve
 
 - **(a)** The Secretary may carry out a program to be known as the “Commercial Augmentation Space Reserve” program. Under the program, the Secretary may include in a contract for the procurement of space products or services one or more provisions under which a qualified contractor agrees to provide additional space products or services to the Department of Defense on an as-needed basis under circumstances determined by the Secretary.
 - **(b)** In carrying out the program under subsection (a), the Secretary—

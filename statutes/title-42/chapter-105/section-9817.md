@@ -3,9 +3,9 @@ title: "Section 9817 - Department of Agriculture; Rural Development Administrati
 usc_title: 42
 usc_section: "9817"
 chapter: 105
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 9817"
-generated_at: "2026-03-29T20:01:33.503Z"
+generated_at: "2026-03-29T20:06:11.533Z"
 ---
 
 # § 9817. Department of Agriculture; Rural Development Administration programs

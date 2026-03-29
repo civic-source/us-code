@@ -3,9 +3,9 @@ title: "Section 1702 - Exemptions"
 usc_title: 15
 usc_section: "1702"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1702"
-generated_at: "2026-03-29T19:58:17.739Z"
+generated_at: "2026-03-29T20:03:27.472Z"
 ---
 
 # § 1702. Exemptions

@@ -3,9 +3,9 @@ title: "Section 579e - Access to real estate data"
 usc_title: 33
 usc_section: "579e"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 579e"
-generated_at: "2026-03-29T20:00:31.253Z"
+generated_at: "2026-03-29T20:05:35.667Z"
 ---
 
 # § 579e. Access to real estate data

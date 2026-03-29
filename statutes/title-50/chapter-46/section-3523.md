@@ -3,9 +3,9 @@ title: "Section 3523 - Intelligence operations and cover enhancement authority"
 usc_title: 50
 usc_section: "3523"
 chapter: 46
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3523"
-generated_at: "2026-03-29T20:01:54.795Z"
+generated_at: "2026-03-29T20:06:21.157Z"
 ---
 
 # § 3523. Intelligence operations and cover enhancement authority

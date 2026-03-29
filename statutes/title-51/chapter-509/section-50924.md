@@ -5,7 +5,7 @@ usc_section: "50924"
 chapter: 509
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 50924"
-generated_at: "2026-03-29T02:16:19.259Z"
+generated_at: "2026-03-29T20:07:12.591Z"
 ---
 
 # § 50924. Space launch and reentry licensing and permitting user fees

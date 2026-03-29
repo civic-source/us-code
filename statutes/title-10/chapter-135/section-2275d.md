@@ -5,7 +5,7 @@ usc_section: "2275d"
 chapter: 135
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2275d"
-generated_at: "2026-03-29T02:10:45.089Z"
+generated_at: "2026-03-29T20:03:09.666Z"
 ---
 
 # § 2275d. Acquisition and operation of space systems for space warfighting and control

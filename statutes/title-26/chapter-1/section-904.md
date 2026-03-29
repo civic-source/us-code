@@ -3,9 +3,9 @@ title: "Section 904 - Limitation on credit"
 usc_title: 26
 usc_section: "904"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 904"
-generated_at: "2026-03-29T19:59:49.375Z"
+generated_at: "2026-03-29T20:05:22.455Z"
 ---
 
 # § 904. Limitation on credit
@@ -39,6 +39,16 @@ generated_at: "2026-03-29T19:59:49.375Z"
     - **(B)** any deductions properly allocable or apportioned to—
       - **(i)** income (other than amounts includible under section 951(a)(1) or 951A(a)) with respect to stock of such specified 10-percent owned foreign corporation, or
       - **(ii)** such stock to the extent income with respect to such stock is other than amounts includible under section 951(a)(1) or 951A(a).
+  - **(5)** Solely for purposes of the application of subsection (a) with respect to amounts described in subsection (d)(1)(A), the taxpayer’s taxable income from sources without the United States shall be determined by allocating and apportioning—
+    - **(A)** any deduction allowed under section 250(a)(1)(B) (and any deduction allowed under section 164(a)(3) for taxes imposed on amounts described in section 250(a)(1)(B)) to such income,
+    - **(B)** no amount of interest expense or research and experimental expenditures to such income, and
+    - **(C)** any other deduction to such income only if such deduction is directly allocable to such income.
+  - **(6)** For purposes of this section, if a United States person maintains an office or other fixed place of business in a foreign country (determined under rules similar to the rules of section 864(c)(5)), the portion of income which—
+    - **(A)** is from the sale or exchange outside the United States of inventory property (within the meaning of section 865(i)(1))—
+      - **(i)** which is produced in the United States,
+      - **(ii)** which is for use outside the United States, and
+      - **(iii)** to which the third sentence of section 863(b) applies, and
+    - **(B)** is attributable (determined under rules similar to the rules of section 864(c)(5)) to such office or other fixed place of business,
 - **(c)** Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States. This subsection shall not apply to taxes paid or accrued with respect to amounts described in subsection (d)(1)(A).
 - **(d)**
   - **(1)** The provisions of subsections (a), (b), and (c) and sections 902, 1 1 See References in Text note below. 907, and 960 shall be applied separately with respect to—
@@ -88,7 +98,7 @@ generated_at: "2026-03-29T19:59:49.375Z"
       - **(i)** which is manufactured, produced, grown, or extracted in the United States by the taxpayer or a related person, and
       - **(ii)** not more than 50 percent of the fair market value of which is attributable to products imported into the United States.
     - **(H)**
-      - **(i)** In the case of taxable years beginning after December 31, 2006 , tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles shall be treated as imposed on income described in paragraph (1)(B).
+      - **(i)** In the case of taxable years beginning after December 31, 2006 , tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles shall be treated as imposed on income described in paragraph (1)(D).
       - **(ii)**
         - **(I)** In the case of taxes paid or accrued in taxable years beginning after December 31, 2004 , and before January 1, 2007 , a taxpayer may elect to treat tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles as tax imposed on income described in subparagraph (C) or (I) of paragraph (1).
         - **(II)** Any such election shall apply to the taxable year for which made and all subsequent taxable years described in subclause (I) unless revoked with the consent of the Secretary.
@@ -123,7 +133,7 @@ generated_at: "2026-03-29T19:59:49.375Z"
       - **(i)**
         - **(I)** The rules of section 316 shall apply.
         - **(II)** The Secretary may prescribe regulations regarding the treatment of distributions out of earnings and profits for periods before the taxpayer’s acquisition of the stock to which the distributions relate.
-      - **(ii)** If the Secretary determines that the proper subparagraph of paragraph (1) in which a dividend is described has not been substantiated, such dividend shall be treated as income described in paragraph (1)(A).
+      - **(ii)** If the Secretary determines that the proper subparagraph of paragraph (1) in which a dividend is described has not been substantiated, such dividend shall be treated as income described in paragraph (1)(C).
       - **(iii)** Rules similar to the rules of paragraph (3)(F) shall apply for purposes of this paragraph.
       - **(iv)** Rules similar to subparagraph (A) also shall apply to any carryforward under subsection (c) from a taxable year beginning before January 1, 2003 , of tax allocable to a dividend from a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer. The Secretary may by regulations provide for the allocation of any carryback of tax allocable to a dividend from a noncontrolled 10-percent owned foreign corporation from a taxable year beginning on or after January 1, 2003 , to a taxable year beginning before such date for purposes of allocating such dividend among the separate categories in effect for the taxable year to which carried.
   - **(5)** For purposes of this subsection—

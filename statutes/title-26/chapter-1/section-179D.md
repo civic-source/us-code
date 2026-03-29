@@ -3,9 +3,9 @@ title: "Section 179D - Energy efficient commercial buildings deduction"
 usc_title: 26
 usc_section: "179D"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 179D"
-generated_at: "2026-03-29T19:59:49.182Z"
+generated_at: "2026-03-29T20:05:22.251Z"
 ---
 
 # § 179D. Energy efficient commercial buildings deduction
@@ -99,3 +99,4 @@ generated_at: "2026-03-29T19:59:49.182Z"
 - **(h)** The Secretary shall promulgate such regulations as necessary—
   - **(1)** to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
   - **(2)** to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) is not fully implemented.
+- **(i)** This section shall not apply with respect to property the construction of which begins after June 30, 2026 .

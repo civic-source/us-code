@@ -3,9 +3,9 @@ title: "Section 9413 - United States Air Force Institute of Technology: establis
 usc_title: 10
 usc_section: "9413"
 chapter: 951
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9413"
-generated_at: "2026-03-29T19:58:02.341Z"
+generated_at: "2026-03-29T20:03:09.894Z"
 ---
 
 # § 9413. United States Air Force Institute of Technology: establishment

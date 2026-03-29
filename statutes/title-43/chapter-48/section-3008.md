@@ -5,7 +5,7 @@ usc_section: "3008"
 chapter: 48
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 3008"
-generated_at: "2026-03-29T02:15:47.666Z"
+generated_at: "2026-03-29T20:05:36.619Z"
 ---
 
 # § 3008. Renewable energy revenue sharing

@@ -3,9 +3,9 @@ title: "Section 610 - Telephone service for disabled"
 usc_title: 47
 usc_section: "610"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 610"
-generated_at: "2026-03-29T20:01:40.083Z"
+generated_at: "2026-03-29T20:06:46.023Z"
 ---
 
 # § 610. Telephone service for disabled

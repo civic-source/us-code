@@ -3,9 +3,9 @@ title: "Section 8521 - Minimum automobile fuel purchase measures"
 usc_title: 42
 usc_section: "8521"
 chapter: 93
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 8521"
-generated_at: "2026-03-29T20:01:33.449Z"
+generated_at: "2026-03-29T20:06:11.480Z"
 ---
 
 # § 8521. Minimum automobile fuel purchase measures

@@ -5,7 +5,7 @@ usc_section: "6726"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6726"
-generated_at: "2026-03-29T02:14:01.370Z"
+generated_at: "2026-03-29T20:05:22.733Z"
 ---
 
 # § 6726. Failure to comply with information reporting requirements relating to qualified opportunity funds and qualified rural opportunity funds

@@ -3,9 +3,9 @@ title: "Section 2772 - Share of fines and forfeitures to benefit Armed Forces Re
 usc_title: 10
 usc_section: "2772"
 chapter: 165
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2772"
-generated_at: "2026-03-29T19:58:02.197Z"
+generated_at: "2026-03-29T20:03:09.716Z"
 ---
 
 # § 2772. Share of fines and forfeitures to benefit Armed Forces Retirement Home

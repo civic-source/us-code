@@ -3,9 +3,9 @@ title: "Section 2028 - Consolidated block grants for Puerto Rico and American Sa
 usc_title: 7
 usc_section: "2028"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2028"
-generated_at: "2026-03-29T19:57:39.132Z"
+generated_at: "2026-03-29T20:02:52.633Z"
 ---
 
 # § 2028. Consolidated block grants for Puerto Rico and American Samoa
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:57:39.132Z"
   - **(2)**
     - **(A)** From the sums appropriated under this chapter, the Secretary shall, subject to this section, pay to governmental entities to pay the expenditures for nutrition assistance programs for needy persons as described in subparagraphs (B) and (C)—
       - **(i)** for fiscal year 2003, $1,401,000,000; and
-      - **(ii)** subject to the availability of appropriations under section 2027(a) of this title , for each fiscal year thereafter, the amount specified in clause (i), as adjusted by the percentage by which the thrifty food plan has been adjusted under section 2012(u)(4) of this title between June 30, 2002 , and June 30 of the immediately preceding fiscal year.
+      - **(ii)** subject to the availability of appropriations under section 2027(a) of this title , for each fiscal year thereafter, the amount specified in clause (i), as adjusted by the percentage by which the thrifty food plan has been adjusted under section 2012(u)(3) of this title between June 30, 2002 , and June 30 of the immediately preceding fiscal year.
     - **(B)**
       - **(i)** For fiscal year 2003 and each fiscal year thereafter, the Secretary shall use 99.6 percent of the funds made available under subparagraph (A) for payment to the Commonwealth of Puerto Rico to pay—
         - **(I)** 100 percent of the expenditures by the Commonwealth for the fiscal year for the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b); and

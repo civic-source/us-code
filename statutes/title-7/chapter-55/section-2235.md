@@ -3,9 +3,9 @@ title: "Section 2235 - Working capital fund established; use of central services
 usc_title: 7
 usc_section: "2235"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2235"
-generated_at: "2026-03-29T19:57:39.149Z"
+generated_at: "2026-03-29T20:02:52.651Z"
 ---
 
 # § 2235. Working capital fund established; use of central services by bureaus, etc., of the Department

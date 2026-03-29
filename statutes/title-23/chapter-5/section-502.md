@@ -3,9 +3,9 @@ title: "Section 502 - Surface transportation research, development, and technolo
 usc_title: 23
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 502"
-generated_at: "2026-03-29T19:59:25.854Z"
+generated_at: "2026-03-29T20:04:52.026Z"
 ---
 
 # § 502. Surface transportation research, development, and technology

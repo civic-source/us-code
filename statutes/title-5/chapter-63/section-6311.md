@@ -5,7 +5,7 @@ usc_section: "6311"
 chapter: 63
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 6311"
-generated_at: "2026-03-29T20:01:52.195Z"
+generated_at: "2026-03-29T20:02:37.838Z"
 ---
 
 # § 6311. Regulations

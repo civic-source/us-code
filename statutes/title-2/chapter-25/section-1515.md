@@ -5,7 +5,7 @@ usc_section: "1515"
 chapter: 25
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1515"
-generated_at: "2026-03-29T20:01:46.565Z"
+generated_at: "2026-03-29T20:02:11.304Z"
 ---
 
 # § 1515. Exercise of rulemaking powers

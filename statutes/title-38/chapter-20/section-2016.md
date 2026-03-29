@@ -3,9 +3,9 @@ title: "Section 2016 - Authorization of appropriations"
 usc_title: 38
 usc_section: "2016"
 chapter: 20
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 2016"
-generated_at: "2026-03-29T20:00:43.040Z"
+generated_at: "2026-03-29T20:05:54.682Z"
 ---
 
 # § 2016. Authorization of appropriations
@@ -18,4 +18,6 @@ There is authorized to be appropriated to carry out this subchapter amounts as f
   - **(4)** $250,000,000 for fiscal year 2012.
   - **(5)** $250,000,000 for fiscal year 2013.
   - **(6)** $250,000,000 for fiscal year 2014.
-  - **(7)** $257,700,000 for fiscal year 2015 and each subsequent fiscal year.
+  - **(7)** $257,700,000 for each of fiscal years 2015 through 2024.
+  - **(8)** $344,000,000 for each of fiscal years 2025 and 2026.
+  - **(9)** $257,700,000 for each fiscal year thereafter through fiscal year 2030.

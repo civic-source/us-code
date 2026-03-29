@@ -3,9 +3,9 @@ title: "Section 2015 - Annual report; audits"
 usc_title: 25
 usc_section: "2015"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 2015"
-generated_at: "2026-03-29T19:59:16.378Z"
+generated_at: "2026-03-29T20:04:54.400Z"
 ---
 
 # § 2015. Annual report; audits

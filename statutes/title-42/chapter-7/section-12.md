@@ -3,9 +3,9 @@ title: "Section 12 - Definitions"
 usc_title: 42
 usc_section: "12"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-29T20:01:32.774Z"
+generated_at: "2026-03-29T20:06:10.806Z"
 ---
 
 # § 1397n–12. Definitions

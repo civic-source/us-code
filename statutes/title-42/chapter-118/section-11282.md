@@ -3,9 +3,9 @@ title: "Section 11282 - Transferred"
 usc_title: 42
 usc_section: "11282"
 chapter: 118
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 11282"
-generated_at: "2026-03-29T20:01:33.582Z"
+generated_at: "2026-03-29T20:06:11.608Z"
 ---
 
 # §§ 11281, 11282. Transferred

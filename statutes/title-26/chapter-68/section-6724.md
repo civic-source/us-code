@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-29T19:59:49.640Z"
+generated_at: "2026-03-29T20:05:22.733Z"
 ---
 
 # § 6724. Waiver; definitions and special rules
@@ -51,8 +51,10 @@ generated_at: "2026-03-29T19:59:49.640Z"
       - **(xxiii)** section 6050W (relating to returns to payments made in settlement of payment card transactions),
       - **(xxiv)** section 6055 (relating to returns relating to information regarding health insurance coverage),
       - **(xxv)** section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
-      - **(xxvi)** section 6050Y (relating to returns relating to certain life insurance contract transactions), 1 1 So in original. Probably should be followed by “or”.
+      - **(xxvi)** section 6050Y (relating to returns relating to certain life insurance contract transactions),
       - **(xxvii)** section 6045A(d) (relating to returns for certain digital assets),
+      - **(xxviii)** section 6050Z (relating to reports relating to long-term care premium statements), or
+      - **(xxix)** section 6050AA(a) (relating to returns relating to applicable passenger vehicle loan interest received in trade or business from individuals),
     - **(C)** any statement of the amount of payments to another person required to be made to the Secretary under—
       - **(i)** section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
       - **(ii)** section 6047(d) (relating to reports by employers, plan administrators, etc.), and
@@ -92,15 +94,19 @@ generated_at: "2026-03-29T19:59:49.640Z"
     - **(FF)** section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
     - **(GG)** section 6055(c) (relating to statements relating to information regarding health insurance coverage),
     - **(HH)** section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage),
-    - **(II)** section 6035 (other than a statement described in paragraph (1)(D)), or
-    - **(JJ)** 2 2 So in original. Two subpars. (JJ) have been enacted. section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section.
-    - **(JJ)** 2 subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
+    - **(II)** section 6035 (other than a statement described in paragraph (1)(D)),
+    - **(JJ)** section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section,
+    - **(KK)** subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions),
+    - **(LL)** section 6050Z (relating to reports relating to long-term care premium statements),
+    - **(MM)** section 6050AA(c) (relating to statements relating to applicable passenger vehicle loan interest received in trade or business from individuals),
+    - **(NN)** section 6039K(c) (relating to disposition of qualified opportunity fund investments), or
+    - **(OO)** section 6039L (relating to information required from certain qualified opportunity zone businesses and qualified rural opportunity zone businesses).
   - **(3)** The term “specified information reporting requirement” means—
     - **(A)** the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
     - **(B)** any requirement contained in the regulations prescribed under section 6109 that a person—
       - **(i)** include his TIN on any return, statement, or other document (other than an information return or payee statement),
       - **(ii)** furnish his TIN to another person, or
-      - **(iii)** include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person, 3 3 So in original. Probably should be followed by “and”.
+      - **(iii)** include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person, 1 1 So in original. Probably should be followed by “and”.
     - **(C)** any requirement under section 6109(h) that—
       - **(i)** a person include on his return the name, address, and TIN of another person, or
       - **(ii)** a person furnish his TIN to another person.

@@ -3,9 +3,9 @@ title: "Section 51302 - Commercial exploration and commercial recovery"
 usc_title: 51
 usc_section: "51302"
 chapter: 513
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "51 U.S.C. § 51302"
-generated_at: "2026-03-29T20:01:58.802Z"
+generated_at: "2026-03-29T20:07:12.591Z"
 ---
 
 # § 51302. Commercial exploration and commercial recovery

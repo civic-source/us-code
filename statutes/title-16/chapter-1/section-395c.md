@@ -3,9 +3,9 @@ title: "Section 395c - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "395c"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 395c"
-generated_at: "2026-03-29T19:59:07.883Z"
+generated_at: "2026-03-29T20:04:19.947Z"
 ---
 
 # § 395c. Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties

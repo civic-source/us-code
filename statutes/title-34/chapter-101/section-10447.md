@@ -3,9 +3,9 @@ title: "Section 10447 - Definitions and grant conditions"
 usc_title: 34
 usc_section: "10447"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 10447"
-generated_at: "2026-03-29T20:00:27.399Z"
+generated_at: "2026-03-29T20:05:30.352Z"
 ---
 
 # § 10447. Definitions and grant conditions

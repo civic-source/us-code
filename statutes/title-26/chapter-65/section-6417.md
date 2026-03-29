@@ -3,9 +3,9 @@ title: "Section 6417 - Elective payment of applicable credits"
 usc_title: 26
 usc_section: "6417"
 chapter: 65
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6417"
-generated_at: "2026-03-29T19:59:49.610Z"
+generated_at: "2026-03-29T20:05:22.702Z"
 ---
 
 # § 6417. Elective payment of applicable credits
@@ -94,6 +94,7 @@ generated_at: "2026-03-29T19:59:49.610Z"
     - **(C)** For purposes of this paragraph, the term “excessive payment” means, with respect to a facility or property for which an election is made under this section for any taxable year, an amount equal to the excess of—
       - **(i)** the amount treated as a payment which is made by the applicable entity under subsection (a), or the amount of the payment made pursuant to subsection (c), with respect to such facility or property for such taxable year, over
       - **(ii)** the amount of the credit which, without application of this section, would be otherwise allowable (as determined pursuant to paragraph (2) and without regard to section 38(c)) under this title with respect to such facility or property for such taxable year.
+    - **(D)** In the case of an applicable entity which made an election under subsection (a) with respect to an applicable credit for which there is a disallowance described in section 6662(m)(2), subparagraph (A) shall apply with respect to any excessive payment resulting from such disallowance.
 - **(e)** In the case of an applicable entity making an election under this section with respect to an applicable credit, such credit shall be reduced to zero and shall, for any other purposes under this title, be deemed to have been allowed to such entity for such taxable year.
 - **(f)** In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
 - **(g)** Except as otherwise provided in subsection (c)(2)(A), rules similar to the rules of section 50 shall apply for purposes of this section.

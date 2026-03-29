@@ -5,7 +5,7 @@ usc_section: "6105"
 chapter: 601
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6105"
-generated_at: "2026-03-29T02:10:45.246Z"
+generated_at: "2026-03-29T20:03:09.812Z"
 ---
 
 # § 6105. Common financial reporting system for the nuclear security enterprise

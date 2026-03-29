@@ -3,9 +3,9 @@ title: "Section 1426 - Reproduction of naturalization or citizenship papers"
 usc_title: 18
 usc_section: "1426"
 chapter: 69
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1426"
-generated_at: "2026-03-29T19:58:59.688Z"
+generated_at: "2026-03-29T20:03:53.744Z"
 ---
 
 # § 1426. Reproduction of naturalization or citizenship papers

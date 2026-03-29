@@ -3,9 +3,9 @@ title: "Section 1185b - Required coverage for reconstructive surgery following m
 usc_title: 29
 usc_section: "1185b"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1185b"
-generated_at: "2026-03-29T19:59:56.673Z"
+generated_at: "2026-03-29T20:05:03.735Z"
 ---
 
 # § 1185b. Required coverage for reconstructive surgery following mastectomies

@@ -3,9 +3,9 @@ title: "Section 6011 - General requirement of return, statement, or list"
 usc_title: 26
 usc_section: "6011"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6011"
-generated_at: "2026-03-29T19:59:49.557Z"
+generated_at: "2026-03-29T20:05:22.648Z"
 ---
 
 # § 6011. General requirement of return, statement, or list
@@ -43,6 +43,7 @@ generated_at: "2026-03-29T19:59:49.557Z"
       - **(iv)** in the case of calendar year 2021, 50.
   - **(6)** Notwithstanding paragraph (2)(A), the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.
   - **(6)** For purposes of applying the numerical limitation under paragraph (2)(A) to any return required under section 6058, information regarding each plan for which information is provided on such return shall be treated as a separate return.
+  - **(8)** Notwithstanding paragraphs (1) and (2), any return filed by a qualified opportunity fund or qualified rural opportunity fund under section 6039K shall be filed on magnetic media or other machine-readable form.
 - **(f)**
   - **(1)** The Secretary is authorized to promote the benefits of and encourage the use of electronic tax administration programs, as they become available, through the use of mass communications and other means.
   - **(2)** The Secretary may implement procedures to provide for the payment of appropriate incentives for electronically filed returns.

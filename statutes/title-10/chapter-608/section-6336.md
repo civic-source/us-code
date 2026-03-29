@@ -5,7 +5,7 @@ usc_section: "6336"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6336"
-generated_at: "2026-03-29T02:10:45.266Z"
+generated_at: "2026-03-29T20:03:09.830Z"
 ---
 
 # § 6336. Report on use of funds for certain research and development purposes

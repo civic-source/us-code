@@ -3,14 +3,14 @@ title: "Section 4663 - Prohibition on contracting with covered entities that con
 usc_title: 10
 usc_section: "4663"
 chapter: 363
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4663"
-generated_at: "2026-03-29T19:58:02.264Z"
+generated_at: "2026-03-29T20:03:09.794Z"
 ---
 
 # § 4663. Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies
 
-- **(a)** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract with an entity, a parent company of such entity, or a subsidiary of such entity is 1 1 So in original. a party to a contract with a covered lobbyist.
+- **(a)** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract with an entity, a parent company of such entity, or a subsidiary of such entity if such entity is a party to a contract with a covered lobbyist.
 - **(b)** The prohibition in subsection (a) shall not apply with respect to an entity that made reasonable inquires regarding the lobbying activities of another entity and determined such entity was not a covered lobbyist.
 - **(c)** Upon notification to Congress, the Secretary of Defense may waive the requirements of this section.
 - **(d)** In this section:

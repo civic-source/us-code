@@ -3,9 +3,9 @@ title: "Section 3691 - Jury trial of criminal contempts"
 usc_title: 18
 usc_section: "3691"
 chapter: 233
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 3691"
-generated_at: "2026-03-29T19:58:59.774Z"
+generated_at: "2026-03-29T20:03:53.834Z"
 ---
 
 # § 3691. Jury trial of criminal contempts

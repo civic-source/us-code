@@ -3,9 +3,9 @@ title: "Section 3204 - Use of procedures other than competitive procedures"
 usc_title: 10
 usc_section: "3204"
 chapter: 221
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3204"
-generated_at: "2026-03-29T19:58:02.224Z"
+generated_at: "2026-03-29T20:03:09.751Z"
 ---
 
 # § 3204. Use of procedures other than competitive procedures
@@ -42,9 +42,9 @@ generated_at: "2026-03-29T19:58:02.224Z"
   - **(1)** Except as provided in paragraphs (3), (4), and (7), the head of an agency may not award a contract using procedures other than competitive procedures unless—
     - **(A)** the contracting officer for the contract justifies the use of such procedures in writing and certifies the accuracy and completeness of the justification;
     - **(B)** the justification is approved—
-      - **(i)** in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
-      - **(ii)** in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $75,000,000), by the head of the procuring activity (or the head of the procuring activity’s delegate designated pursuant to paragraph (5)(A)); or
-      - **(iii)** in the case of a contract for an amount exceeding $75,000,000, by the senior procurement executive of the agency designated pursuant to section 1702(c) of title 41 (without further delegation) or in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary’s delegate designated pursuant to paragraph (5)(B); and
+      - **(i)** in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $100,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
+      - **(ii)** in the case of a contract for an amount exceeding $100,000,000 (but equal to or less than $500,000,000), by the head of the procuring activity (or the head of the procuring activity’s delegate designated pursuant to paragraph (5)(A)); or
+      - **(iii)** in the case of a contract for an amount exceeding $500,000,000, by the senior procurement executive of the agency designated pursuant to section 1702(c) of title 41 (without further delegation) or in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary’s delegate designated pursuant to paragraph (5)(B); and
     - **(C)** any required notice has been published with respect to such contract pursuant to section 1708 of title 41 and all bids or proposals received in response to that notice have been considered by the head of the agency.
   - **(2)** The justification required by paragraph (1)(A) shall include—
     - **(A)** a description of the agency’s needs;

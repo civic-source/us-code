@@ -5,7 +5,7 @@ usc_section: "147"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 147"
-generated_at: "2026-03-29T20:01:46.485Z"
+generated_at: "2026-03-29T20:02:11.244Z"
 ---
 
 # § 147. Repealed. Oct. 25, 1951, ch. 562, § 1(l) , 65 Stat. 638

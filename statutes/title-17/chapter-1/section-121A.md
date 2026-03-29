@@ -3,9 +3,9 @@ title: "Section 121A - Limitations on exclusive rights: reproduction for blind o
 usc_title: 17
 usc_section: "121A"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "17 U.S.C. § 121A"
-generated_at: "2026-03-29T19:58:44.455Z"
+generated_at: "2026-03-29T20:04:03.114Z"
 ---
 
 # § 121A. Limitations on exclusive rights: reproduction for blind or other people with disabilities in Marrakesh Treaty countries

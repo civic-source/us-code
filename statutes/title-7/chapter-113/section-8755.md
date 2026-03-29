@@ -3,9 +3,9 @@ title: "Section 8755 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "8755"
 chapter: 113
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8755"
-generated_at: "2026-03-29T19:57:39.507Z"
+generated_at: "2026-03-29T20:02:52.863Z"
 ---
 
 # § 8755. Producer agreement required as condition on provision of payments

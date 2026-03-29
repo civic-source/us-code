@@ -1,18 +1,12 @@
 ---
-title: "Section 3373 - Undefinitized contractual actions: limitation on inclusion of non-urgent requirements and on modification of scope"
+title: "Section 3373 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(4) , Dec. 18, 2025 , 139 Stat. 948 ]"
 usc_title: 10
 usc_section: "3373"
 chapter: 244
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3373"
-generated_at: "2026-03-29T19:58:02.229Z"
+generated_at: "2026-03-29T20:03:09.756Z"
 ---
 
-# § 3373. Undefinitized contractual actions: limitation on inclusion of non-urgent requirements and on modification of scope
+# [§ 3373. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(4) , Dec. 18, 2025 , 139 Stat. 948 ]
 
-- **(a)** Requirements for spare parts and support equipment that are not needed on an urgent basis may not be included in an undefinitized contractual action for spare parts and support equipment that are needed on an urgent basis unless the head of the agency approves such inclusion as being—
-  - **(1)** good business practice; and
-  - **(2)** in the best interests of the United States.
-- **(b)** The scope of an undefinitized contractual action under which performance has begun may not be modified unless the head of the agency approves such modification as being—
-  - **(1)** good business practice; and
-  - **(2)** in the best interests of the United States.

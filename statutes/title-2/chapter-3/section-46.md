@@ -5,7 +5,7 @@ usc_section: "46"
 chapter: 3
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 46"
-generated_at: "2026-03-29T20:01:46.475Z"
+generated_at: "2026-03-29T20:02:11.235Z"
 ---
 
 # §§ 44 to 46. Omitted

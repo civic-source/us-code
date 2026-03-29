@@ -3,9 +3,9 @@ title: "Section 615zz - Omitted"
 usc_title: 43
 usc_section: "615zz"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 615zz"
-generated_at: "2026-03-29T20:00:47.517Z"
+generated_at: "2026-03-29T20:05:36.494Z"
 ---
 
 # §§ 615ii to 615zz. Omitted

@@ -3,9 +3,9 @@ title: "Section 10221 - Mission plan"
 usc_title: 42
 usc_section: "10221"
 chapter: 108
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 10221"
-generated_at: "2026-03-29T20:01:33.549Z"
+generated_at: "2026-03-29T20:06:11.579Z"
 ---
 
 # § 10221. Mission plan

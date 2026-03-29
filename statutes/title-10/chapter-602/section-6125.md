@@ -5,7 +5,7 @@ usc_section: "6125"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6125"
-generated_at: "2026-03-29T02:10:45.249Z"
+generated_at: "2026-03-29T20:03:09.815Z"
 ---
 
 # § 6125. Selected acquisition reports 1 1 So in original. Probably should be “Selected Acquisition Reports”. and independent cost estimates and reviews of certain programs and facilities

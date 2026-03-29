@@ -3,9 +3,9 @@ title: "Section 3318 - Availability of Federal building project information"
 usc_title: 40
 usc_section: "3318"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 3318"
-generated_at: "2026-03-29T20:00:35.885Z"
+generated_at: "2026-03-29T20:05:42.939Z"
 ---
 
 # § 3318. 1 1 Another section 3318 is set out preceding this section. Availability of Federal building project information

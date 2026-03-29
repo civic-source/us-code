@@ -5,7 +5,7 @@ usc_section: "6118"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6118"
-generated_at: "2026-03-29T02:10:45.248Z"
+generated_at: "2026-03-29T20:03:09.815Z"
 ---
 
 # § 6118. Form of certifications regarding the safety or reliability of the nuclear weapons stockpile

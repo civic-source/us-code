@@ -3,9 +3,9 @@ title: "Section 222 - Repealed. Pub. L. 116–260, div. EE, title I, § 104(b)(1
 usc_title: 26
 usc_section: "222"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 222"
-generated_at: "2026-03-29T19:59:49.192Z"
+generated_at: "2026-03-29T20:05:22.263Z"
 ---
 
 # [§ 222. Repealed. Pub. L. 116–260, div. EE, title I, § 104(b)(1) , Dec. 27, 2020 , 134 Stat. 3041 ]

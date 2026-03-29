@@ -3,9 +3,9 @@ title: "Section 24315 - Reports and audits"
 usc_title: 49
 usc_section: "24315"
 chapter: 243
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 24315"
-generated_at: "2026-03-29T20:01:51.031Z"
+generated_at: "2026-03-29T20:06:28.199Z"
 ---
 
 # § 24315. Reports and audits

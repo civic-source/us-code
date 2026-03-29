@@ -3,9 +3,9 @@ title: "Section 4209 - Exaction of excessive fees generally; penalty of treble a
 usc_title: 22
 usc_section: "4209"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4209"
-generated_at: "2026-03-29T19:59:24.220Z"
+generated_at: "2026-03-29T20:04:46.890Z"
 ---
 
 # § 4209. Exaction of excessive fees generally; penalty of treble amount

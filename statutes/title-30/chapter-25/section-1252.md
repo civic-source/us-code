@@ -3,9 +3,9 @@ title: "Section 1252 - Initial regulatory procedures"
 usc_title: 30
 usc_section: "1252"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1252"
-generated_at: "2026-03-29T19:59:32.877Z"
+generated_at: "2026-03-29T20:05:08.740Z"
 ---
 
 # § 1252. Initial regulatory procedures

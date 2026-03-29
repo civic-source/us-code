@@ -3,9 +3,9 @@ title: "Section 6112 - Regulations"
 usc_title: 7
 usc_section: "6112"
 chapter: 90
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6112"
-generated_at: "2026-03-29T19:57:39.386Z"
+generated_at: "2026-03-29T20:02:52.745Z"
 ---
 
 # § 6112. Regulations

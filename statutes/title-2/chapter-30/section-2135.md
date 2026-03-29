@@ -5,7 +5,7 @@ usc_section: "2135"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2135"
-generated_at: "2026-03-29T20:01:46.599Z"
+generated_at: "2026-03-29T20:02:11.329Z"
 ---
 
 # § 2135. Private studios and works of art

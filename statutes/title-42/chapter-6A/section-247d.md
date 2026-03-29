@@ -3,9 +3,9 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-29T20:01:31.836Z"
+generated_at: "2026-03-29T20:06:09.985Z"
 ---
 
 # § 247d. Public health emergencies
@@ -76,7 +76,7 @@ generated_at: "2026-03-29T20:01:31.836Z"
   - **(7)** In this subsection—
     - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25 ; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title , the Freely Associated States.
-  - **(8)** This subsection shall terminate on September 30, 2025 .
+  - **(8)** This subsection shall terminate on January 30, 2026 .
 - **(f)**
   - **(1)** If the Secretary determines, after consultation with such public health officials as may be necessary, that—
     - **(A)**

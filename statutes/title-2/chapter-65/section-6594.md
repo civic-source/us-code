@@ -5,7 +5,7 @@ usc_section: "6594"
 chapter: 65
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6594"
-generated_at: "2026-03-29T20:01:46.644Z"
+generated_at: "2026-03-29T20:02:11.365Z"
 ---
 
 # § 6594. Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate

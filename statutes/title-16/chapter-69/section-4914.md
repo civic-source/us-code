@@ -3,9 +3,9 @@ title: "Section 4914 - Marking and recordkeeping"
 usc_title: 16
 usc_section: "4914"
 chapter: 69
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 4914"
-generated_at: "2026-03-29T19:59:08.477Z"
+generated_at: "2026-03-29T20:04:20.464Z"
 ---
 
 # § 4914. Marking and recordkeeping

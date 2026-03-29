@@ -5,7 +5,7 @@ usc_section: "2539"
 chapter: 25
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2539"
-generated_at: "2026-03-29T02:11:23.805Z"
+generated_at: "2026-03-29T20:03:17.311Z"
 ---
 
 # § 2539. Covered misconduct defined

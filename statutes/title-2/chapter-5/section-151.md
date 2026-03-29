@@ -5,7 +5,7 @@ usc_section: "151"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 151"
-generated_at: "2026-03-29T20:01:46.485Z"
+generated_at: "2026-03-29T20:02:11.244Z"
 ---
 
 # § 151. Smithsonian Library

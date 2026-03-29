@@ -3,9 +3,9 @@ title: "Section 3706 - Limitations, variations, tolerances, and exemptions"
 usc_title: 40
 usc_section: "3706"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 3706"
-generated_at: "2026-03-29T20:00:35.886Z"
+generated_at: "2026-03-29T20:05:42.941Z"
 ---
 
 # § 3706. Limitations, variations, tolerances, and exemptions

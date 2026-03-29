@@ -5,7 +5,7 @@ usc_section: "2732c"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2732c"
-generated_at: "2026-03-29T02:12:40.250Z"
+generated_at: "2026-03-29T20:04:46.821Z"
 ---
 
 # § 2732c. Submission of federally funded research and development center reports to Congress

@@ -5,7 +5,7 @@ usc_section: "1921"
 chapter: 29
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1921"
-generated_at: "2026-03-29T20:01:46.586Z"
+generated_at: "2026-03-29T20:02:11.317Z"
 ---
 
 # § 1921. Repealed. Pub. L. 108–7, div. H, title I, § 1018(h)(2) , Feb. 20, 2003 , 117 Stat. 369

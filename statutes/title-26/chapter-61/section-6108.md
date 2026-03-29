@@ -3,9 +3,9 @@ title: "Section 6108 - Statistical publications and studies"
 usc_title: 26
 usc_section: "6108"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6108"
-generated_at: "2026-03-29T19:59:49.586Z"
+generated_at: "2026-03-29T20:05:22.679Z"
 ---
 
 # § 6108. Statistical publications and studies

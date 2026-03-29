@@ -3,9 +3,9 @@ title: "Section 5605 - Penalty relating to return of materials used in the manuf
 usc_title: 26
 usc_section: "5605"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5605"
-generated_at: "2026-03-29T19:59:49.548Z"
+generated_at: "2026-03-29T20:05:22.641Z"
 ---
 
 # § 5605. Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered

@@ -3,9 +3,9 @@ title: "Section 150511 - Service of process"
 usc_title: 36
 usc_section: "150511"
 chapter: 1505
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 150511"
-generated_at: "2026-03-29T20:00:38.626Z"
+generated_at: "2026-03-29T20:05:40.588Z"
 ---
 
 # § 150511. Service of process

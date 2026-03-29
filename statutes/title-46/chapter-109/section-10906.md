@@ -3,9 +3,9 @@ title: "Section 10906 - Discharge of crew for unsuitability"
 usc_title: 46
 usc_section: "10906"
 chapter: 109
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 10906"
-generated_at: "2026-03-29T20:01:44.438Z"
+generated_at: "2026-03-29T20:07:02.684Z"
 ---
 
 # § 10906. Discharge of crew for unsuitability

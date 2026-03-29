@@ -3,9 +3,9 @@ title: "Section 2258B - Limited liability for the reporting, storage, and handli
 usc_title: 18
 usc_section: "2258B"
 chapter: 110
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2258B"
-generated_at: "2026-03-29T19:58:59.715Z"
+generated_at: "2026-03-29T20:03:53.772Z"
 ---
 
 # § 2258B. Limited liability for the reporting, storage, and handling of certain visual depictions of apparent child pornography to the National Center for Missing & Exploited Children

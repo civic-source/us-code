@@ -3,9 +3,9 @@ title: "Section 2511 - General authority to modify discriminatory purchasing req
 usc_title: 19
 usc_section: "2511"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2511"
-generated_at: "2026-03-29T19:58:51.790Z"
+generated_at: "2026-03-29T20:04:27.393Z"
 ---
 
 # § 2511. General authority to modify discriminatory purchasing requirements

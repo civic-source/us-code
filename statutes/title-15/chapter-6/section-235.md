@@ -3,9 +3,9 @@ title: "Section 235 - Sale or shipment of barrel of less capacity than standard;
 usc_title: 15
 usc_section: "235"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 235"
-generated_at: "2026-03-29T19:58:17.373Z"
+generated_at: "2026-03-29T20:03:27.226Z"
 ---
 
 # § 235. Sale or shipment of barrel of less capacity than standard; punishment

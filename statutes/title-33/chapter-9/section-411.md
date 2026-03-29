@@ -3,9 +3,9 @@ title: "Section 411 - Penalty for wrongful deposit of refuse; use of or injury t
 usc_title: 33
 usc_section: "411"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 411"
-generated_at: "2026-03-29T20:00:31.230Z"
+generated_at: "2026-03-29T20:05:35.644Z"
 ---
 
 # § 411. Penalty for wrongful deposit of refuse; use of or injury to harbor improvements, and obstruction of navigable waters generally

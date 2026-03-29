@@ -5,7 +5,7 @@ usc_section: "2008"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2008"
-generated_at: "2026-03-29T20:01:46.592Z"
+generated_at: "2026-03-29T20:02:11.324Z"
 ---
 
 # § 2008. Record of assignment of rooms

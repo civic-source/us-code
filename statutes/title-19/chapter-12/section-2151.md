@@ -3,9 +3,9 @@ title: "Section 2151 - Advice from International Trade Commission"
 usc_title: 19
 usc_section: "2151"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2151"
-generated_at: "2026-03-29T19:58:51.758Z"
+generated_at: "2026-03-29T20:04:27.362Z"
 ---
 
 # § 2151. Advice from International Trade Commission

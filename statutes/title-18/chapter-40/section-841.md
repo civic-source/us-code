@@ -3,9 +3,9 @@ title: "Section 841 - Definitions"
 usc_title: 18
 usc_section: "841"
 chapter: 40
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 841"
-generated_at: "2026-03-29T19:58:59.657Z"
+generated_at: "2026-03-29T20:03:53.710Z"
 ---
 
 # § 841. Definitions
@@ -36,4 +36,4 @@ As used in this chapter—
 - **(q)** “Plastic explosive” means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10− 4 Pa at a temperature of 25°C., is formulated with a binder material, and is as a mixture malleable or flexible at normal room temperature.
 - **(r)** “Alien” means any person who is not a citizen or national of the United States.
 - **(s)** “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
-- **(t)** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a )). 2 2 So in original. The second closing parenthesis probably should not appear. , 3 3 See References in Text note below.
+- **(t)** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a )). 2 2 So in original. The second closing parenthesis probably should not appear. \, \ 3 3 See References in Text note below.

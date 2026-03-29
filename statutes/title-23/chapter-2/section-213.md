@@ -3,9 +3,9 @@ title: "Section 213 - Repealed. Pub. L. 114–94, div. A, title I, § 1109(c)(2)
 usc_title: 23
 usc_section: "213"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 213"
-generated_at: "2026-03-29T19:59:25.842Z"
+generated_at: "2026-03-29T20:04:52.013Z"
 ---
 
 # [§ 213. Repealed. Pub. L. 114–94, div. A, title I, § 1109(c)(2) , Dec. 4, 2015 , 129 Stat. 1343 ]

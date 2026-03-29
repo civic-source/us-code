@@ -5,7 +5,7 @@ usc_section: "4565a"
 chapter: 55
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 4565a"
-generated_at: "2026-03-29T02:16:14.849Z"
+generated_at: "2026-03-29T20:06:21.212Z"
 ---
 
 # § 4565a. Enhanced intelligence community support to secure United States biological data

@@ -3,9 +3,9 @@ title: "Section 4704 - Removal of abandoned barges"
 usc_title: 46
 usc_section: "4704"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 4704"
-generated_at: "2026-03-29T20:01:44.423Z"
+generated_at: "2026-03-29T20:07:02.664Z"
 ---
 
 # § 4704. Removal of abandoned barges
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T20:01:44.423Z"
     - **(B)** If the identity of the owner or operator cannot be determined, the Secretary shall publish an announcement in—
       - **(i)** a notice to mariners; and
       - **(ii)** an official journal of the county in which the barge is located
-  - **(2)** The United States, and any officer or employee of the United States is not liable to an owner or operator for damages resulting from removal of an abandoned barge under this chapter.
-- **(b)** The owner or operator of an abandoned barge is liable, and an abandoned barge is liable in rem, for all expenses that the United States incurs in removing an abandoned barge under this chapter.
+  - **(2)** The United States, and any officer or employee of the United States is not liable to an owner or operator for damages resulting from removal of an abandoned barge under this subchapter.
+- **(b)** The owner or operator of an abandoned barge is liable, and an abandoned barge is liable in rem, for all expenses that the United States incurs in removing an abandoned barge under this subchapter.
 - **(c)**
   - **(1)** The Secretary may, after providing notice under subsection (a)(1), solicit by public advertisement sealed bids for the removal of an abandoned barge.
   - **(2)** After solicitation under paragraph (1) the Secretary may award a contract. The contract—

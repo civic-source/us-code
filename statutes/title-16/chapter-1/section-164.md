@@ -3,9 +3,9 @@ title: "Section 164 - Eliminating private holdings of lands; timber or public la
 usc_title: 16
 usc_section: "164"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 164"
-generated_at: "2026-03-29T19:59:07.853Z"
+generated_at: "2026-03-29T20:04:19.923Z"
 ---
 
 # § 164. Eliminating private holdings of lands; timber or public lands of equal value in exchange

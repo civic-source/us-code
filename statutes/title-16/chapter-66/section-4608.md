@@ -3,9 +3,9 @@ title: "Section 4608 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4608"
 chapter: 66
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 4608"
-generated_at: "2026-03-29T19:59:08.470Z"
+generated_at: "2026-03-29T20:04:20.458Z"
 ---
 
 # § 4608. Authorization of appropriations

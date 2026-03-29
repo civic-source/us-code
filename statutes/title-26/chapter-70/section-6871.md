@@ -3,9 +3,9 @@ title: "Section 6871 - Claims for income, estate, gift, and certain excise taxes
 usc_title: 26
 usc_section: "6871"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6871"
-generated_at: "2026-03-29T19:59:49.642Z"
+generated_at: "2026-03-29T20:05:22.735Z"
 ---
 
 # § 6871. Claims for income, estate, gift, and certain excise taxes in receivership proceedings, etc.

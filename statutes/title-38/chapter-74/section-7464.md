@@ -3,9 +3,9 @@ title: "Section 7464 - Disciplinary Appeals Boards"
 usc_title: 38
 usc_section: "7464"
 chapter: 74
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 7464"
-generated_at: "2026-03-29T20:00:43.164Z"
+generated_at: "2026-03-29T20:05:54.790Z"
 ---
 
 # § 7464. Disciplinary Appeals Boards

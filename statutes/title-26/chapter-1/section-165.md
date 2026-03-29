@@ -3,9 +3,9 @@ title: "Section 165 - Losses"
 usc_title: 26
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 165"
-generated_at: "2026-03-29T19:59:49.164Z"
+generated_at: "2026-03-29T20:05:22.234Z"
 ---
 
 # § 165. Losses
@@ -16,7 +16,11 @@ generated_at: "2026-03-29T19:59:49.164Z"
   - **(1)** losses incurred in a trade or business;
   - **(2)** losses incurred in any transaction entered into for profit, though not connected with a trade or business; and
   - **(3)** except as provided in subsection (h), losses of property not connected with a trade or business or a transaction entered into for profit, if such losses arise from fire, storm, shipwreck, or other casualty, or from theft.
-- **(d)** Losses from wagering transactions shall be allowed only to the extent of the gains from such transactions. For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017 , and before January 1, 2026 , the term “losses from wagering transactions” includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction.
+- **(d)**
+  - **(1)** For purposes of losses from wagering transactions, the amount allowed as a deduction for any taxable year—
+    - **(A)** shall be equal to 90 percent of the amount of such losses during such taxable year, and
+    - **(B)** shall be allowed only to the extent of the gains from such transactions during such taxable year.
+  - **(2)** For purposes of paragraph (1), the term “losses from wagering transactions” includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction.
 - **(e)** For purposes of subsection (a), any loss arising from theft shall be treated as sustained during the taxable year in which the taxpayer discovers such loss.
 - **(f)** Losses from sales or exchanges of capital assets shall be allowed only to the extent allowed in sections 1211 and 1212.
 - **(g)**
@@ -47,10 +51,13 @@ generated_at: "2026-03-29T19:59:49.164Z"
     - **(D)** No loss described in subsection (c)(3) shall be allowed if, at the time of filing the return, such loss has been claimed for estate tax purposes in the estate tax return.
     - **(E)** Any loss of an individual described in subsection (c)(3) to the extent covered by insurance shall be taken into account under this section only if the individual files a timely insurance claim with respect to such loss.
   - **(5)**
-    - **(A)** In the case of an individual, except as provided in subparagraph (B), any personal casualty loss which (but for this paragraph) would be deductible in a taxable year beginning after December 31, 2017 , and before January 1, 2026 , shall be allowed as a deduction under subsection (a) only to the extent it is attributable to a Federally declared disaster (as defined in subsection (i)(5)).
+    - **(A)** In the case of an individual, except as provided in subparagraph (B), any personal casualty loss which (but for this paragraph) would be deductible in a taxable year beginning after December 31, 2017 , shall be allowed as a deduction under subsection (a) only to the extent it is attributable to a Federally declared disaster (as defined in subsection (i)(5)) or a State declared disaster.
     - **(B)** If a taxpayer has personal casualty gains for any taxable year to which subparagraph (A) applies—
-      - **(i)** subparagraph (A) shall not apply to the portion of the personal casualty loss not attributable to a Federally declared disaster (as so defined) to the extent such loss does not exceed such gains, and
+      - **(i)** subparagraph (A) shall not apply to the portion of the personal casualty loss not attributable to a Federally declared disaster (as so defined) or a State declared disaster to the extent such loss does not exceed such gains, and
       - **(ii)** in applying paragraph (2) for purposes of subparagraph (A) to the portion of personal casualty loss which is so attributable to such a disaster, the amount of personal casualty gains taken into account under paragraph (2)(A) shall be reduced by the portion of such gains taken into account under clause (i).
+    - **(C)** For purposes of this paragraph—
+      - **(i)** The term “State declared disaster” means, with respect to any State, any natural catastrophe (including any hurricane, tornado, storm, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the State, which in the determination of the Governor of such State (or the Mayor, in the case of the District of Columbia) and the Secretary causes damage of sufficient severity and magnitude to warrant the application of the rules of this section.
+      - **(ii)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(i)**
   - **(1)** Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area and attributable to a federally declared disaster may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
   - **(2)** If an election is made under this subsection, the casualty resulting in the loss shall be treated for purposes of this title as having occurred in the taxable year for which the deduction is claimed.

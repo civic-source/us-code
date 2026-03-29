@@ -3,9 +3,9 @@ title: "Section 1015 - Naturalization, citizenship or alien registry"
 usc_title: 18
 usc_section: "1015"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1015"
-generated_at: "2026-03-29T19:58:59.674Z"
+generated_at: "2026-03-29T20:03:53.730Z"
 ---
 
 # § 1015. Naturalization, citizenship or alien registry

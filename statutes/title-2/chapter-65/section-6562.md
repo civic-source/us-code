@@ -5,7 +5,7 @@ usc_section: "6562"
 chapter: 65
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6562"
-generated_at: "2026-03-29T20:01:46.643Z"
+generated_at: "2026-03-29T20:02:11.364Z"
 ---
 
 # § 6562. Transfers of funds by Secretary of Senate; approval of Committee on Appropriations

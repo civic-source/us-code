@@ -3,9 +3,9 @@ title: "Section 332 - General bonus authority for officers"
 usc_title: 37
 usc_section: "332"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 332"
-generated_at: "2026-03-29T20:00:34.784Z"
+generated_at: "2026-03-29T20:05:44.906Z"
 ---
 
 # § 332. General bonus authority for officers
@@ -14,8 +14,9 @@ generated_at: "2026-03-29T20:00:34.784Z"
   - **(1)** accepts a commission or appointment as an officer in a uniformed service;
   - **(2)** affiliates with a reserve component of a uniformed service;
   - **(3)** agrees to remain on active duty or to serve in an active status for a specific period as an officer in a uniformed service;
-  - **(4)** transfers from a regular component of a uniformed service to a reserve component of that same uniformed service or from a reserve component of a uniformed service to the regular component of that same uniformed service; or
-  - **(5)** transfers from a regular component or reserve component of a uniformed service to a regular component or reserve component of another uniformed service, subject to the approval of the Secretary with jurisdiction over the uniformed service to which the member is transferring.
+  - **(4)** transfers from a regular component of a uniformed service to a reserve component of that same uniformed service or from a reserve component of a uniformed service to the regular component of that same uniformed service;
+  - **(5)** transfers from a regular component or reserve component of a uniformed service to a regular component or reserve component of another uniformed service, subject to the approval of the Secretary with jurisdiction over the uniformed service to which the member is transferring; or
+  - **(6)** transfers from a regular component or reserve component of a uniformed service to the Space Force or from the Space Force to a regular component or reserve component of another uniformed service, subject to the approval of the Secretary with jurisdiction over the uniformed service to which the member is transferring.
 - **(b)** A bonus authorized by subsection (a) may be paid to a person or officer only if the person or officer agrees under subsection (d)—
   - **(1)** to serve for a specified period in a designated career field, skill, unit, or grade; or
   - **(2)** to meet some other condition or conditions of service imposed by the Secretary concerned.
@@ -23,9 +24,9 @@ generated_at: "2026-03-29T20:00:34.784Z"
   - **(1)** The Secretary concerned shall determine the amount of a bonus to be paid under this section, except that—
     - **(A)** a bonus paid under paragraph (1) of subsection (a) may not exceed $60,000 for a minimum three-year period of obligated service agreed to under subsection (d);
     - **(B)** a bonus paid under paragraph (2) of subsection (a) may not exceed $20,000 for a minimum three-year period of obligated service agreed to under subsection (d);
-    - **(C)** a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component agreed to under subsection (d);
-    - **(D)** a bonus paid under paragraph (3) of subsection (a) may not exceed $12,000 for each year of obligated service in a reserve component agreed to under subsection (d); and
-    - **(E)** a bonus paid under paragraph (4) or (5) of subsection (a) may not exceed $10,000.
+    - **(C)** a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component, or in the Space Force on sustained duty under section 20105 of title 10 , agreed to under subsection (d);
+    - **(D)** a bonus paid under paragraph (3) of subsection (a) may not exceed $12,000 for each year of obligated service in a reserve component, or in the Space Force in space force active status not on sustained duty under section 20105 of title 10 , agreed to under subsection (d); and
+    - **(E)** a bonus paid under paragraph (4), (5), or (6) of subsection (a) may not exceed $10,000.
   - **(2)** A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
   - **(3)** Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
 - **(d)** To receive a bonus under this section, a person or officer determined to be eligible for the bonus shall enter into a written agreement with the Secretary concerned that specifies—
@@ -35,4 +36,4 @@ generated_at: "2026-03-29T20:00:34.784Z"
   - **(4)** the type or conditions of the service.
 - **(e)** The bonus paid to a person or officer under this section is in addition to any other pay and allowance to which the person or officer is entitled.
 - **(f)** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title .
-- **(g)** No agreement may be entered into under this section after December 31, 2025 .
+- **(g)** No agreement may be entered into under this section after December 31, 2026 .

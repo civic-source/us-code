@@ -3,9 +3,9 @@ title: "Section 2276a - Special authority for provision of space launch support 
 usc_title: 10
 usc_section: "2276a"
 chapter: 135
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2276a"
-generated_at: "2026-03-29T19:58:02.156Z"
+generated_at: "2026-03-29T20:03:09.667Z"
 ---
 
 # § 2276a. Special authority for provision of space launch support services to increase space launch capacity
@@ -18,10 +18,13 @@ generated_at: "2026-03-29T19:58:02.156Z"
     - **(B)** If the Secretary of a military department enters into a contract or other transaction with a commercial entity under paragraph (1), such contract or transaction may include a provision that requires the commercial entity to reimburse the Department of Defense for such indirect costs as the Secretary considers to be appropriate. In such a case, such contract or other transaction may provide for the reimbursement of such indirect costs through the establishment of a rate, fixed price, or similar mechanism the Secretary concerned determines is reasonable.
   - **(3)** Any amount collected from a commercial entity as a reimbursement under paragraph (2) shall be credited to the appropriations account from which the cost for which such reimbursement is provided was derived.
   - **(4)** The Secretary of each of the military departments shall prescribe regulations to carry out this subsection.
-- **(c)** In this section:
+- **(c)** In providing space launch support services to a commercial entity, the Secretary of the Air Force shall coordinate with the entity to—
+  - **(1)** study the noise caused by launches at launch sites of the Space Force; and
+  - **(2)** identify potential technologies and procedures to mitigate such noise to the extent practicable.
+- **(d)** In this section:
   - **(1)** The term “space launch” includes all activities, supplies, equipment, facilities, or services supporting launch preparation, launch, reentry, recovery, and other launch-related activities for both the payload and the space transportation vehicle.
   - **(2)** The term “commercial entity” or “commercial” means a non-Federal entity organized under the laws of the United States or of any jurisdiction within the United States.
-- **(d)** For each of fiscal years 2024, 2025, and 2026, the Secretary of a military department shall—
+- **(e)** For each of fiscal years 2024, 2025, and 2026, the Secretary of a military department shall—
   - **(1)** with respect to any contract or other transaction authority entered into pursuant to subsection (b), limit the amount of the indirect costs that are reimbursable under paragraph (2)(B) of such subsection to not more than 30 percent, not to exceed $5,000,000 annually (based on fiscal year 2024 constant dollars), of the total amount of the direct costs reimbursable under paragraph (2)(A) of such subsection; and
   - **(2)** not later than 90 days after the last day of each such fiscal year, provide for each of the congressional defense committees a briefing that includes—
     - **(A)** an identification of the total amounts of direct and indirect costs reimbursed to each spaceport for the fiscal year covered by the report;

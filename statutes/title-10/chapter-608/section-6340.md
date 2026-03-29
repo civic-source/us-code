@@ -5,7 +5,7 @@ usc_section: "6340"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6340"
-generated_at: "2026-03-29T02:10:45.267Z"
+generated_at: "2026-03-29T20:03:09.830Z"
 ---
 
 # § 6340. Appropriate scoping of artificial intelligence research within the administration

@@ -3,9 +3,9 @@ title: "Section 5203 - Other relief"
 usc_title: 16
 usc_section: "5203"
 chapter: 72
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 5203"
-generated_at: "2026-03-29T19:59:08.480Z"
+generated_at: "2026-03-29T20:04:20.467Z"
 ---
 
 # § 5203. Other relief

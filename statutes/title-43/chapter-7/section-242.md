@@ -3,9 +3,9 @@ title: "Section 242 - Repealed. Oct. 17, 1940, ch. 888 , article V, § 503(3), 5
 usc_title: 43
 usc_section: "242"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 242"
-generated_at: "2026-03-29T20:00:47.471Z"
+generated_at: "2026-03-29T20:05:36.444Z"
 ---
 
 # §§ 241, 242. Repealed. Oct. 17, 1940, ch. 888 , article V, § 503(3), 54 Stat. 1187

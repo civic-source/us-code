@@ -5,7 +5,7 @@ usc_section: "3116"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3116"
-generated_at: "2026-03-29T02:16:14.773Z"
+generated_at: "2026-03-29T20:06:21.114Z"
 ---
 
 # § 3116. Notice of impact of diplomatic and consular post closings on intelligence community

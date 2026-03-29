@@ -3,9 +3,9 @@ title: "Section 3009 - Coordination of trade policy and Convention"
 usc_title: 19
 usc_section: "3009"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 3009"
-generated_at: "2026-03-29T19:58:51.811Z"
+generated_at: "2026-03-29T20:04:27.414Z"
 ---
 
 # § 3009. Coordination of trade policy and Convention

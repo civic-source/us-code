@@ -3,9 +3,9 @@ title: "Section 15102 - Definitions"
 usc_title: 49
 usc_section: "15102"
 chapter: 151
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 15102"
-generated_at: "2026-03-29T20:01:51.002Z"
+generated_at: "2026-03-29T20:06:28.174Z"
 ---
 
 # § 15102. Definitions

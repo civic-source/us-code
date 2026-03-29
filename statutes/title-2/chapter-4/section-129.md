@@ -5,7 +5,7 @@ usc_section: "129"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 129"
-generated_at: "2026-03-29T20:01:46.481Z"
+generated_at: "2026-03-29T20:02:11.241Z"
 ---
 
 # §§ 128, 129. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 658 , 659

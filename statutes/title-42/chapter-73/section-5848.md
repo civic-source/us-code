@@ -3,9 +3,9 @@ title: "Section 5848 - Abnormal occurrence reports"
 usc_title: 42
 usc_section: "5848"
 chapter: 73
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5848"
-generated_at: "2026-03-29T20:01:33.206Z"
+generated_at: "2026-03-29T20:06:11.223Z"
 ---
 
 # § 5848. Abnormal occurrence reports

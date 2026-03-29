@@ -3,9 +3,9 @@ title: "Section 499a - Collection, storage, and sharing of data relating to nucl
 usc_title: 10
 usc_section: "499a"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 499a"
-generated_at: "2026-03-29T19:58:01.978Z"
+generated_at: "2026-03-29T20:03:09.469Z"
 ---
 
 # § 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:58:01.978Z"
 - **(d)** The Secretary and the Administrator shall ensure that any relevant contract relating to a program or project of the nuclear security enterprise and nuclear forces that is entered into after December 11, 2017 , appropriately includes—
   - **(1)** requirements and standards for data collection; and
   - **(2)** requirements for reporting on cost, programmatic, and technical data using procedures, standards, and formats approved by the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation.
-- **(e)** In this section, the term “nuclear security enterprise” has the meaning given that term in section 4002 of the Atomic Energy Defense Act ( 50 U.S.C. 2501 ).
+- **(e)** In this section, the term “nuclear security enterprise” has the meaning given that term in section 6101.

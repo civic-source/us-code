@@ -3,9 +3,9 @@ title: "Section 1 - Creation, purpose, and composition of council"
 usc_title: 50
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-29T20:01:54.615Z"
+generated_at: "2026-03-29T20:06:21.022Z"
 ---
 
 # § 1. Creation, purpose, and composition of council

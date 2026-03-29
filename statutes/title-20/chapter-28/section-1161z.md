@@ -3,9 +3,9 @@ title: "Section 1161z - Henry Kuualoha Giugni Kupuna Memorial Archives"
 usc_title: 20
 usc_section: "1161z"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1161z"
-generated_at: "2026-03-29T19:58:56.776Z"
+generated_at: "2026-03-29T20:04:32.941Z"
 ---
 
 # § 1161z. Henry Kuualoha Giugni Kupuna Memorial Archives

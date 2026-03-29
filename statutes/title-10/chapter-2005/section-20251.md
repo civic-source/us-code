@@ -3,16 +3,16 @@ title: "Section 20251 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "20251"
 chapter: 2005
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 20251"
-generated_at: "2026-03-29T19:58:02.392Z"
+generated_at: "2026-03-29T20:03:09.947Z"
 ---
 
 # § 20251. Failure of selection for promotion
 
-- **(a)** Except as provided in this section, sections 14501, 14503, and 1 1 So in original. 14504, 631, and 632 of this title shall apply to promotions of officers on the Space Force officer list. For the purpose of such applicability—
+- **(a)** Except as provided in this section, sections 14501, 14503, 14504, 631, and 632 of this title shall apply to promotions of officers on the Space Force officer list. For the purpose of such applicability—
   - **(1)** any reference in those sections to the reserve active-status list or the active-duty list shall apply to the Space Force officer list; and
-  - **(2)** any reference in those sections to a board convened under section 14201 2 2 See References in Text note below. or section 611 of this title shall apply to a board convened under section 20211 of this title .
+  - **(2)** any reference in those sections to a board convened under section 14201 1 1 See References in Text note below. or section 611 of this title shall apply to a board convened under section 20211 of this title .
 - **(b)** The reference in section 14501 of this title to an officer above the promotion zone shall not apply in the promotion of officers on the Space Force officer list.
 - **(c)** In applying section 631 or 632 of this title to such an officer, the reference in subsection (a)(3) of that section to qualifying for retirement under certain sections of this title shall be deemed to refer to qualifying for retirement under any provision of law other than chapter 61 of this title.
 - **(d)** In the administration of this chapter pursuant to subsection (a)—

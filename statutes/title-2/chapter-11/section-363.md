@@ -5,7 +5,7 @@ usc_section: "363"
 chapter: 11
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 363"
-generated_at: "2026-03-29T20:01:46.507Z"
+generated_at: "2026-03-29T20:02:11.259Z"
 ---
 
 # § 363. Additional function

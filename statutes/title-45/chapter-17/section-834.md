@@ -3,9 +3,9 @@ title: "Section 834 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) , Ju
 usc_title: 45
 usc_section: "834"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "45 U.S.C. § 834"
-generated_at: "2026-03-29T20:00:48.977Z"
+generated_at: "2026-03-29T20:05:24.351Z"
 ---
 
 # §§ 832 to 834. Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) , June 9, 1998 , 112 Stat. 477

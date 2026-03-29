@@ -5,7 +5,7 @@ usc_section: "804"
 chapter: 19
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 804"
-generated_at: "2026-03-29T20:01:46.528Z"
+generated_at: "2026-03-29T20:02:11.276Z"
 ---
 
 # § 804. Administration

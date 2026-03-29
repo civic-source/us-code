@@ -3,9 +3,9 @@ title: "Section 20923 - Membership and appointment"
 usc_title: 52
 usc_section: "20923"
 chapter: 209
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "52 U.S.C. § 20923"
-generated_at: "2026-03-29T20:01:57.980Z"
+generated_at: "2026-03-29T20:07:20.971Z"
 ---
 
 # § 20923. Membership and appointment

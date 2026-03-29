@@ -3,14 +3,14 @@ title: "Section 408 - Assistance in support of Department of Defense accounting 
 usc_title: 10
 usc_section: "408"
 chapter: 20
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 408"
-generated_at: "2026-03-29T19:58:01.970Z"
+generated_at: "2026-03-29T20:03:09.458Z"
 ---
 
 # § 408. Assistance in support of Department of Defense accounting for missing United States Government personnel
 
-- **(a)** The Secretary of Defense may provide assistance to any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
+- **(a)** The Secretary of Defense may provide assistance to and procure goods and services from any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
 - **(b)** The assistance provided under subsection (a) may include the following:
   - **(1)** Equipment.
   - **(2)** Supplies.
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:58:01.970Z"
   - **(5)** Funds.
 - **(c)** Assistance may not be provided under this section to any foreign nation unless the Secretary of State specifically approves the provision of such assistance.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), the amount of assistance provided under this section in any fiscal year may not exceed $5,000,000.
+  - **(1)** Except as provided in paragraph (2), the amount of assistance provided under this section in any fiscal year may not exceed $15,000,000.
   - **(2)** The Secretary may waive the limitation under paragraph (1) if the Secretary submits to the congressional defense committees notice of the waiver together with the reasons why the waiver is necessary.
   - **(3)** No assistance may be provided under this section to a foreign nation the government of which the Secretary of State determines has repeatedly provided support for international terrorism pursuant to—
     - **(A)** section 1754(c)(1)(A) of the Export Control Reform Act of 2018 ( 50 U.S.C. 4813(c)(1)(A) );

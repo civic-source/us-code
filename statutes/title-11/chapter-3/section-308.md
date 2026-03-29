@@ -3,9 +3,9 @@ title: "Section 308 - Debtor reporting requirements"
 usc_title: 11
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 308"
-generated_at: "2026-03-29T19:58:09.445Z"
+generated_at: "2026-03-29T20:03:14.773Z"
 ---
 
 # § 308. Debtor reporting requirements

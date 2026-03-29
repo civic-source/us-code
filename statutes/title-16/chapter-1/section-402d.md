@@ -3,9 +3,9 @@ title: "Section 402d - Extension of boundaries; laws applicable"
 usc_title: 16
 usc_section: "402d"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 402d"
-generated_at: "2026-03-29T19:59:07.885Z"
+generated_at: "2026-03-29T20:04:19.949Z"
 ---
 
 # § 402d. Extension of boundaries; laws applicable

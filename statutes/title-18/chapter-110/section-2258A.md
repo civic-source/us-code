@@ -3,9 +3,9 @@ title: "Section 2258A - Reporting requirements of providers"
 usc_title: 18
 usc_section: "2258A"
 chapter: 110
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2258A"
-generated_at: "2026-03-29T19:58:59.714Z"
+generated_at: "2026-03-29T20:03:53.771Z"
 ---
 
 # § 2258A. Reporting requirements of providers
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T19:58:59.714Z"
   - **(5)** The complete communication containing any visual depiction of apparent child pornography or other content, including—
     - **(A)** any data or information regarding the transmission of the communication; and
     - **(B)** any visual depictions, data, or other digital files contained in, or attached to, the communication.
-- **(c)** Pursuant to its clearinghouse role as a private, nonprofit organization, and at the conclusion of its review in furtherance of its nonprofit mission, NCMEC shall make available each report made under subsection (a)(1) to one or more of the following law enforcement agencies:
+- **(c)** Pursuant to its clearinghouse role as a private, nonprofit organization, and at the conclusion of its review in furtherance of its nonprofit mission, NCMEC shall make available each report made under subsection (a)(1) and all supplemental data included in the report to one or more of the following law enforcement agencies:
   - **(1)** Any Federal law enforcement agency that is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes.
   - **(2)** Any State or local law enforcement agency that is involved in the investigation of child sexual exploitation.
   - **(3)** A foreign law enforcement agency designated by the Attorney General under subsection (d)(3) or a foreign law enforcement agency that has an established relationship with the Federal Bureau of Investigation, Immigration and Customs Enforcement, or INTERPOL, and is involved in the investigation of child sexual exploitation, kidnapping, or enticement crimes.

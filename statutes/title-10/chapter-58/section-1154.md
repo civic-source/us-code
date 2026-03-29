@@ -3,9 +3,9 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-29T19:58:02.072Z"
+generated_at: "2026-03-29T20:03:09.575Z"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program

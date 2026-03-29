@@ -3,9 +3,9 @@ title: "Section 76 - President of bank as member of board; chairman of board"
 usc_title: 12
 usc_section: "76"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 76"
-generated_at: "2026-03-29T19:58:40.694Z"
+generated_at: "2026-03-29T20:03:45.564Z"
 ---
 
 # § 76. President of bank as member of board; chairman of board

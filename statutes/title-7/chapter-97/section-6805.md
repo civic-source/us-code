@@ -3,9 +3,9 @@ title: "Section 6805 - Exclusion; determinations"
 usc_title: 7
 usc_section: "6805"
 chapter: 97
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6805"
-generated_at: "2026-03-29T19:57:39.410Z"
+generated_at: "2026-03-29T20:02:52.768Z"
 ---
 
 # § 6805. Exclusion; determinations

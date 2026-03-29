@@ -5,7 +5,7 @@ usc_section: "1980B"
 chapter: 19
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1980B"
-generated_at: "2026-03-29T02:14:50.382Z"
+generated_at: "2026-03-29T20:05:54.678Z"
 ---
 
 # § 1980B. Periodic review of automatic maximum coverage

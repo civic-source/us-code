@@ -3,9 +3,9 @@ title: "Section 3528 - Compensation and professional standards for certain medic
 usc_title: 50
 usc_section: "3528"
 chapter: 46
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3528"
-generated_at: "2026-03-29T20:01:54.797Z"
+generated_at: "2026-03-29T20:06:21.159Z"
 ---
 
 # § 3528. Compensation and professional standards for certain medical officers

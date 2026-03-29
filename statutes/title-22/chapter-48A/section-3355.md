@@ -3,9 +3,9 @@ title: "Section 3355 - Multi-year plan to fulfill defensive requirements of mili
 usc_title: 22
 usc_section: "3355"
 chapter: 48
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3355"
-generated_at: "2026-03-29T19:59:24.175Z"
+generated_at: "2026-03-29T20:04:46.848Z"
 ---
 
 # § 3355. Multi-year plan to fulfill defensive requirements of military forces of Taiwan

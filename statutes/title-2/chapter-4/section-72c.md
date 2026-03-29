@@ -5,7 +5,7 @@ usc_section: "72c"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 72c"
-generated_at: "2026-03-29T20:01:46.478Z"
+generated_at: "2026-03-29T20:02:11.239Z"
 ---
 
 # § 72c. Repealed. Pub. L. 104–186, title II, § 204(13) , Aug. 20, 1996 , 110 Stat. 1732

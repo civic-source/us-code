@@ -3,9 +3,9 @@ title: "Section 2278a - Trespass on Commission installations"
 usc_title: 42
 usc_section: "2278a"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2278a"
-generated_at: "2026-03-29T20:01:32.995Z"
+generated_at: "2026-03-29T20:06:11.011Z"
 ---
 
 # § 2278a. Trespass on Commission installations

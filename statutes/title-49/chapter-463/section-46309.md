@@ -3,9 +3,9 @@ title: "Section 46309 - Concession and price violations"
 usc_title: 49
 usc_section: "46309"
 chapter: 463
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 46309"
-generated_at: "2026-03-29T20:01:51.161Z"
+generated_at: "2026-03-29T20:06:28.319Z"
 ---
 
 # § 46309. Concession and price violations

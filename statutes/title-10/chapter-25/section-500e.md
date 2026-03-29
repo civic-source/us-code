@@ -3,17 +3,21 @@ title: "Section 500e - Electromagnetic Spectrum Enterprise Operational Lead for 
 usc_title: 10
 usc_section: "500e"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 500e"
-generated_at: "2026-03-29T19:58:01.979Z"
+generated_at: "2026-03-29T20:03:09.470Z"
 ---
 
 # § 500e. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations
 
 - **(a)** Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, the Secretary of Defense shall establish an Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations (in this section referred to as the “operational lead”) at the United States Strategic Command. The operational lead shall report to the Commander of the United States Strategic Command.
-- **(b)** The operational lead shall be responsible for synchronizing, assessing, and making recommendations to the Chairman of the Joint Chiefs of Staff with respect to the readiness of the combatant commands to conduct joint electromagnetic spectrum operations.
+- **(b)** The operational lead shall be responsible for—
+  - **(1)** synchronizing, assessing, and making recommendations to the Chairman of the Joint Chiefs of Staff with respect to the readiness of the combatant commands to conduct joint electromagnetic spectrum operations; and
+  - **(2)** the evaluation of tactics, techniques, and procedures for dynamic spectrum sharing technologies for joint electromagnetic operations.
 - **(c)** Concurrent with the submission of the budget of the President to Congress under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Chairman, acting through the operational lead, shall provide to the congressional defense committees a briefing on the following:
   - **(1)** Progress made in achieving full operational capability to conduct joint electromagnetic spectrum operations and any impediments to achieving such capability.
   - **(2)** The readiness of the combatant commands to conduct such operations.
   - **(3)** Recommendations for overcoming any deficiencies in the readiness of the combatant commands to conduct such operations and any material gaps contributing to such deficiencies.
-  - **(4)** Such other matters as the Chairman considers important to ensuring that the combatant commands are capable of conducting such operations.
+  - **(4)** An assessment of any current gaps in evaluation mechanisms for future joint use of dynamic spectrum sharing technologies.
+  - **(5)** The feasibility and advisability of establishing designated virtual ranges for the evaluation of tactics, techniques, and procedures for dynamic spectrum sharing technologies.
+  - **(6)** Such other matters as the Chairman considers important to ensuring that the combatant commands are capable of conducting such operations.

@@ -3,9 +3,9 @@ title: "Section 9081 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "9081"
 chapter: 115
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 9081"
-generated_at: "2026-03-29T19:57:39.522Z"
+generated_at: "2026-03-29T20:02:52.879Z"
 ---
 
 # § 9081. Supplemental agricultural disaster assistance
@@ -42,13 +42,28 @@ generated_at: "2026-03-29T19:57:39.522Z"
     - **(C)** disease that, as determined by the Secretary—
       - **(i)** is caused or transmitted by a vector; and
       - **(ii)** is not susceptible to control by vaccination or acceptable management practices.
-  - **(2)** Indemnity payments to an eligible producer on a farm under paragraph (1) shall be made at a rate of 75 percent of the market value of the affected livestock, as determined by the Secretary, on, as applicable—
-    - **(A)** the day before the date of death of the livestock; or
-    - **(B)** the day before the date of the event that caused the harm to the livestock that resulted in a reduced sale price.
+  - **(2)**
+    - **(A)** Indemnity payments to an eligible producer on a farm under paragraph (1)(A) shall be made at a rate of 100 percent of the market value of the affected livestock on the applicable date, as determined by the Secretary.
+    - **(B)** Indemnity payments to an eligible producer on a farm under subparagraph (B) or (C) of paragraph (1) shall be made at a rate of 75 percent of the market value of the affected livestock on the applicable date, as determined by the Secretary.
+    - **(C)** In determining the market value described in subparagraphs (A) and (B), the Secretary may consider the ability of eligible producers to document regional price premiums for affected livestock that exceed the national average market price for those livestock.
+    - **(D)** In this paragraph, the term “applicable date” means, with respect to livestock, as applicable—
+      - **(i)** the day before the date of death of the livestock; or
+      - **(ii)** the day before the date of the event that caused the harm to the livestock that resulted in a reduced sale price.
   - **(3)** The Secretary shall ensure that payments made to an eligible producer under paragraph (1) are not made for the same livestock losses for which compensation is provided pursuant to section 8306(d) of this title .
   - **(4)** A payment made under paragraph (1) to an eligible producer on a farm that sold livestock for a reduced sale price shall—
     - **(A)** be made if the sale occurs within a reasonable period following the event, as determined by the Secretary; and
     - **(B)** be reduced by the amount that the producer received for the sale.
+  - **(5)**
+    - **(A)** In the case of unborn livestock death losses incurred on or after January 1, 2024 , the Secretary shall make an additional payment to eligible producers on farms that have incurred such losses in excess of the normal mortality due to a condition specified in paragraph (1).
+    - **(B)** Additional payments under subparagraph (A) shall be made at a rate—
+      - **(i)** determined by the Secretary; and
+      - **(ii)** less than or equal to 85 percent of the payment rate established with respect to the lowest weight class of the livestock, as determined by the Secretary, acting through the Administrator of the Farm Service Agency.
+    - **(C)** The amount of a payment to an eligible producer that has incurred unborn livestock death losses shall be equal to the payment rate determined under subparagraph (B) multiplied, in the case of livestock described in—
+      - **(i)** subparagraph (A), (B), or (F) of subsection (a)(4), by 1;
+      - **(ii)** subparagraph (D) of such subsection, by 2;
+      - **(iii)** subparagraph (E) of such subsection, by 12; and
+      - **(iv)** subparagraph (G) of such subsection, by the average number of birthed animals (for one gestation cycle) for the species of each such livestock, as determined by the Secretary.
+    - **(D)** In this paragraph, the term “unborn livestock death losses” means losses of any livestock described in subparagraph (A), (B), (D), (E), (F), or (G) of subsection (a)(4) that was gestating on the date of the death of the livestock.
 - **(c)**
   - **(1)** In this subsection:
     - **(A)**
@@ -100,7 +115,7 @@ generated_at: "2026-03-29T19:57:39.522Z"
         - **(I)** The Secretary shall determine the normal carrying capacity and normal grazing period for each type of grazing land or pastureland in the county served by the applicable committee.
         - **(II)** No change to the normal carrying capacity or normal grazing period established for a county under subclause (I) shall be made unless the change is requested by the appropriate State and county Farm Service Agency committees.
       - **(ii)**
-        - **(I)** An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
+        - **(I)** An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for not less than—
         - **(II)** An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
   - **(4)**
     - **(A)** An eligible livestock producer may receive assistance under this paragraph only if—
@@ -118,6 +133,18 @@ generated_at: "2026-03-29T19:57:39.522Z"
   - **(2)** Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary, including inspections of cattle tick fever.
   - **(3)** Any funds made available under this subsection shall remain available until expended.
   - **(4)** In the case of a covered producer that is eligible to receive assistance under this subsection, the Secretary shall provide reimbursement of 90 percent of the cost of losses described in paragraph (1) or (2).
+  - **(5)**
+    - **(A)** In this paragraph, the term “farm-raised fish” means fish propagated and reared in a controlled fresh water environment.
+    - **(B)** Eligible producers of farm-raised fish, including fish grown as food for human consumption, shall be eligible to receive payments under this subsection to aid in the reduction of losses due to piscivorous birds.
+    - **(C)**
+      - **(i)** The payment rate for payments under subparagraph (B) shall be determined by the Secretary, taking into account—
+        - **(I)** costs associated with the deterrence of piscivorous birds;
+        - **(II)** the value of lost fish and revenue due to bird depredation; and
+        - **(III)** costs associated with disease loss from bird depredation.
+      - **(ii)** The payment rate for payments under subparagraph (B) shall be not less than $600 per acre of farm-raised fish.
+    - **(D)** The amount of a payment under subparagraph (B) shall be the product obtained by multiplying—
+      - **(i)** the applicable payment rate under subparagraph (C); and
+      - **(ii)** 85 percent of the total number of acres of farm-raised fish farms that the eligible producer has in production for the calendar year.
 - **(e)**
   - **(1)** In this subsection:
     - **(A)** The term “eligible orchardist” means a person that produces annual crops from trees for commercial purposes.
@@ -128,12 +155,12 @@ generated_at: "2026-03-29T19:57:39.522Z"
     - **(A)** Subject to subparagraph (B), for fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to provide assistance—
       - **(i)** under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
       - **(ii)** under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees but lost the trees as a result of a natural disaster, as determined by the Secretary.
-    - **(B)** An eligible orchardist or nursery tree grower shall qualify for assistance under subparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
+    - **(B)** An eligible orchardist or nursery tree grower shall qualify for assistance under subparagraph (A) only if the tree mortality of the eligible orchardist or nursery tree grower, as a result of damaging weather or related condition, exceeds normal mortality.
   - **(3)** Subject to paragraphs (4) and (5), the assistance provided by the Secretary to eligible orchardists and nursery tree growers for losses described in paragraph (2) shall consist of—
     - **(A)**
-      - **(i)** reimbursement of 65 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of 15 percent mortality (adjusted for normal mortality); or
+      - **(i)** reimbursement of 65 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of normal mortality; or
       - **(ii)** at the option of the Secretary, sufficient seedlings to reestablish a stand; and
-    - **(B)** reimbursement of 50 percent of the cost of pruning, removal, and other costs incurred by an eligible orchardist or nursery tree grower to salvage existing trees or, in the case of tree mortality, to prepare the land to replant trees as a result of damage or tree mortality due to a natural disaster, as determined by the Secretary, in excess of 15 percent damage or mortality (adjusted for normal tree damage and mortality).
+    - **(B)** reimbursement of 65 percent of the cost of pruning, removal, and other costs incurred by an eligible orchardist or nursery tree grower to salvage existing trees or, in the case of tree mortality, to prepare the land to replant trees as a result of damage or tree mortality due to a natural disaster, as determined by the Secretary, in excess of normal tree damage or mortality.
   - **(4)**
     - **(A)** In this paragraph, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 ( 7 U.S.C. 1308(a) ).
     - **(B)** The total quantity of acres planted to trees or tree seedlings for which a person or legal entity shall be entitled to receive payments under this subsection may not exceed 1,000 acres.

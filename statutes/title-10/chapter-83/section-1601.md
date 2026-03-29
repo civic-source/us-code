@@ -3,9 +3,9 @@ title: "Section 1601 - Civilian intelligence personnel: general authority to est
 usc_title: 10
 usc_section: "1601"
 chapter: 83
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1601"
-generated_at: "2026-03-29T19:58:02.115Z"
+generated_at: "2026-03-29T20:03:09.620Z"
 ---
 
 # § 1601. Civilian intelligence personnel: general authority to establish excepted positions, appoint personnel, and fix rates of pay

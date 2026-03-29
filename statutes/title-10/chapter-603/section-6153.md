@@ -5,7 +5,7 @@ usc_section: "6153"
 chapter: 603
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6153"
-generated_at: "2026-03-29T02:10:45.253Z"
+generated_at: "2026-03-29T20:03:09.818Z"
 ---
 
 # § 6153. Disposition of weapons-usable plutonium at Savannah River Site

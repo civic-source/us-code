@@ -3,9 +3,9 @@ title: "Section 2652 - Regulations"
 usc_title: 42
 usc_section: "2652"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2652"
-generated_at: "2026-03-29T20:01:33.014Z"
+generated_at: "2026-03-29T20:06:11.029Z"
 ---
 
 # § 2652. Regulations

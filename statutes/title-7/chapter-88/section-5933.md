@@ -3,9 +3,9 @@ title: "Section 5933 - Assistive technology program for farmers with disabilitie
 usc_title: 7
 usc_section: "5933"
 chapter: 88
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 5933"
-generated_at: "2026-03-29T19:57:39.377Z"
+generated_at: "2026-03-29T20:02:52.736Z"
 ---
 
 # § 5933. Assistive technology program for farmers with disabilities
@@ -30,4 +30,5 @@ generated_at: "2026-03-29T19:57:39.377Z"
   - **(1)** Subject to paragraph (2), there are authorized to be appropriated to carry out this section—
     - **(A)** $6,000,000 for each of fiscal years 1999 through 2013; and
     - **(B)** $5,000,000 for each of fiscal years 2014 through 2023.
-  - **(2)** Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b).
+  - **(2)** Not more than 15 percent of the amounts made available under paragraph (1) and subsection (d) for a fiscal year shall be used to carry out subsection (b).
+- **(d)** Subject to subsection (c)(2), of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $8,000,000 for fiscal year 2026, to remain available until expended.

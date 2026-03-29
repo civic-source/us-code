@@ -3,9 +3,9 @@ title: "Section 1024 - Purchase or receipt of military, naval, or veteran’s fa
 usc_title: 18
 usc_section: "1024"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1024"
-generated_at: "2026-03-29T19:58:59.675Z"
+generated_at: "2026-03-29T20:03:53.731Z"
 ---
 
 # § 1024. Purchase or receipt of military, naval, or veteran’s facilities property

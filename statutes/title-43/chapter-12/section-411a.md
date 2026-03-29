@@ -3,9 +3,9 @@ title: "Section 411a - Repealed. Feb. 28, 1929, ch. 374, § 2 , 45 Stat. 1406"
 usc_title: 43
 usc_section: "411a"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 411a"
-generated_at: "2026-03-29T20:00:47.496Z"
+generated_at: "2026-03-29T20:05:36.471Z"
 ---
 
 # § 411a. Repealed. Feb. 28, 1929, ch. 374, § 2 , 45 Stat. 1406

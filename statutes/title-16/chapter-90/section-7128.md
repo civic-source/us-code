@@ -3,12 +3,12 @@ title: "Section 7128 - Termination of authority"
 usc_title: 16
 usc_section: "7128"
 chapter: 90
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 7128"
-generated_at: "2026-03-29T19:59:08.526Z"
+generated_at: "2026-03-29T20:04:20.504Z"
 ---
 
 # § 7128. Termination of authority
 
-- **(a)** The authority to initiate projects under this subchapter shall terminate on September 30, 2025 .
-- **(b)** Any project funds not obligated by September 30, 2026 , shall be deposited in the Treasury of the United States.
+- **(a)** The authority to initiate projects under this subchapter shall terminate on September 30, 2028 .
+- **(b)** Any project funds not obligated by September 30, 2029 , shall be deposited in the Treasury of the United States.

@@ -3,9 +3,9 @@ title: "Section 8742 - Identification of, and imposition of sanctions with respe
 usc_title: 22
 usc_section: "8742"
 chapter: 94
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 8742"
-generated_at: "2026-03-29T19:59:24.322Z"
+generated_at: "2026-03-29T20:04:47.005Z"
 ---
 
 # § 8742. Identification of, and imposition of sanctions with respect to, persons that support or conduct certain transactions with Iran’s Revolutionary Guard Corps or other sanctioned persons

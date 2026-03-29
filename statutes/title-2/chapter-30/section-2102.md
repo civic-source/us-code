@@ -5,7 +5,7 @@ usc_section: "2102"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2102"
-generated_at: "2026-03-29T20:01:46.597Z"
+generated_at: "2026-03-29T20:02:11.328Z"
 ---
 
 # § 2102. Duties of Commission

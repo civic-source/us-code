@@ -5,7 +5,7 @@ usc_section: "139K"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 139K"
-generated_at: "2026-03-29T02:14:00.805Z"
+generated_at: "2026-03-29T20:05:22.209Z"
 ---
 
 # § 139K. Scholarships for qualified elementary or secondary education expenses of eligible students

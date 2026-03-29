@@ -3,9 +3,9 @@ title: "Section 1252a - Transferred"
 usc_title: 8
 usc_section: "1252a"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1252a"
-generated_at: "2026-03-29T19:57:30.787Z"
+generated_at: "2026-03-29T20:02:46.233Z"
 ---
 
 # § 1252a. Transferred

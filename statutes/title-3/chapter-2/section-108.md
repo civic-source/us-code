@@ -5,7 +5,7 @@ usc_section: "108"
 chapter: 2
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 108"
-generated_at: "2026-03-29T20:01:43.989Z"
+generated_at: "2026-03-29T20:02:12.938Z"
 ---
 
 # § 108. Assistance to the President for unanticipated needs

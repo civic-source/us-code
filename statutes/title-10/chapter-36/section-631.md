@@ -3,9 +3,9 @@ title: "Section 631 - Effect of failure of selection for promotion: first lieute
 usc_title: 10
 usc_section: "631"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 631"
-generated_at: "2026-03-29T19:58:01.994Z"
+generated_at: "2026-03-29T20:03:09.484Z"
 ---
 
 # § 631. Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade)

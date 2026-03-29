@@ -3,9 +3,9 @@ title: "Section 5625 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5625"
 chapter: 82
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 5625"
-generated_at: "2026-03-29T19:58:17.858Z"
+generated_at: "2026-03-29T20:03:27.619Z"
 ---
 
 # §§ 5621 to 5625. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

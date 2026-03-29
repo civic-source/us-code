@@ -3,9 +3,9 @@ title: "Section 1124 - Program or project grants and contracts"
 usc_title: 33
 usc_section: "1124"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1124"
-generated_at: "2026-03-29T20:00:31.296Z"
+generated_at: "2026-03-29T20:05:35.712Z"
 ---
 
 # § 1124. Program or project grants and contracts

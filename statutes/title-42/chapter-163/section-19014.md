@@ -3,9 +3,9 @@ title: "Section 19014 - Expanding geographic and institutional diversity in rese
 usc_title: 42
 usc_section: "19014"
 chapter: 163
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 19014"
-generated_at: "2026-03-29T20:01:33.923Z"
+generated_at: "2026-03-29T20:06:11.917Z"
 ---
 
 # § 19014. Expanding geographic and institutional diversity in research
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T20:01:33.923Z"
       - **(iv)** capacity building activities for emerging research institutions, historically Black colleges and universities, Tribal Colleges or Universities, and minority serving institutions, consistent with this section and section 19183 of this title ; and
       - **(v)** leveraging the Partnerships for Innovation program, as well as the Foundation coordination role in the Department of Commerce technology and innovation hub program under section 3722a of title 15 as added by section 10621, to build sustainable innovation ecosystems in EPSCoR jurisdictions.
     - **(D)** The Director shall achieve the percentages specified in this paragraph to the maximum extent practicable, consistent with the National Science Foundation merit review process.
-    - **(E)** In the case of an award to a consortium, the Director may count the entire award toward meeting the funding requirements of subparagraph (A) if the lead entity of the consortium is located in an EPSCoR institution
+    - **(E)** In the case of an award to a consortium, the Director may count the entire award toward meeting the funding requirements of subparagraph (A) if the lead entity of the consortium is located in an EPSCoR institution 1 1 So in original. Probably should be followed by a period.
     - **(F)** Beginning with the fiscal year 2023, the Director shall submit to Congress a report describing—
       - **(i)** the Foundation’s implementation of this paragraph;
       - **(ii)** progress in building research capacity, including both infrastructure and personnel, in EPSCoR jurisdictions, including at historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, and emerging research institutions; and

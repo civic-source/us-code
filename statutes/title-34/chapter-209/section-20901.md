@@ -3,9 +3,9 @@ title: "Section 20901 - Declaration of purpose"
 usc_title: 34
 usc_section: "20901"
 chapter: 209
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 20901"
-generated_at: "2026-03-29T20:00:27.484Z"
+generated_at: "2026-03-29T20:05:30.429Z"
 ---
 
 # § 20901. Declaration of purpose

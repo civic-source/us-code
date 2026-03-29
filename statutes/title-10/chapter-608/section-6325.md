@@ -5,7 +5,7 @@ usc_section: "6325"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6325"
-generated_at: "2026-03-29T02:10:45.265Z"
+generated_at: "2026-03-29T20:03:09.829Z"
 ---
 
 # § 6325. Notice-and-wait requirement applicable to certain third-party financing arrangements

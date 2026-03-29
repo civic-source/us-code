@@ -3,9 +3,9 @@ title: "Section 4636a - Removal and prohibition authority"
 usc_title: 12
 usc_section: "4636a"
 chapter: 46
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 4636a"
-generated_at: "2026-03-29T19:58:41.061Z"
+generated_at: "2026-03-29T20:03:45.928Z"
 ---
 
 # § 4636a. Removal and prohibition authority

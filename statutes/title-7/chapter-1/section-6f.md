@@ -3,9 +3,9 @@ title: "Section 6f - Registration and financial requirements; risk assessment"
 usc_title: 7
 usc_section: "6f"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6f"
-generated_at: "2026-03-29T19:57:38.856Z"
+generated_at: "2026-03-29T20:02:52.347Z"
 ---
 
 # § 6f. Registration and financial requirements; risk assessment

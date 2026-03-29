@@ -5,7 +5,7 @@ usc_section: "1351"
 chapter: 24
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1351"
-generated_at: "2026-03-29T20:01:46.553Z"
+generated_at: "2026-03-29T20:02:11.295Z"
 ---
 
 # § 1351. Application of chapter 71 of title 5 relating to Federal service labor-management relations; procedures for remedy of violations

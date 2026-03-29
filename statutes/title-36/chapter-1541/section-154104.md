@@ -3,9 +3,9 @@ title: "Section 154104 - Governing body"
 usc_title: 36
 usc_section: "154104"
 chapter: 1541
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 154104"
-generated_at: "2026-03-29T20:00:38.636Z"
+generated_at: "2026-03-29T20:05:40.599Z"
 ---
 
 # § 154104. Governing body

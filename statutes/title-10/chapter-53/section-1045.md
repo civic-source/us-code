@@ -3,9 +3,9 @@ title: "Section 1045 - Voluntary withholding of State income tax from retired or
 usc_title: 10
 usc_section: "1045"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1045"
-generated_at: "2026-03-29T19:58:02.041Z"
+generated_at: "2026-03-29T20:03:09.541Z"
 ---
 
 # § 1045. Voluntary withholding of State income tax from retired or retainer pay

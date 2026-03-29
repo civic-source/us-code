@@ -3,9 +3,9 @@ title: "Section 44 - Actions to be taken by the Commission and the Administrator
 usc_title: 22
 usc_section: "44"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 44"
-generated_at: "2026-03-29T19:59:23.981Z"
+generated_at: "2026-03-29T20:04:46.654Z"
 ---
 
 # § 277d–44. Actions to be taken by the Commission and the Administrator

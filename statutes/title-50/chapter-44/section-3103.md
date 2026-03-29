@@ -3,9 +3,9 @@ title: "Section 3103 - Future budget projections"
 usc_title: 50
 usc_section: "3103"
 chapter: 44
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3103"
-generated_at: "2026-03-29T20:01:54.745Z"
+generated_at: "2026-03-29T20:06:21.112Z"
 ---
 
 # § 3103. Future budget projections

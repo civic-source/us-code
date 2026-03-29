@@ -3,9 +3,9 @@ title: "Section 3515a - Dedicated telephone service between employee residences 
 usc_title: 42
 usc_section: "3515a"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3515a"
-generated_at: "2026-03-29T20:01:33.071Z"
+generated_at: "2026-03-29T20:06:11.090Z"
 ---
 
 # § 3515a. Dedicated telephone service between employee residences and computer centers

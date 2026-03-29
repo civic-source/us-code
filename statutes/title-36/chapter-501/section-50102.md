@@ -3,9 +3,9 @@ title: "Section 50102 - Organization"
 usc_title: 36
 usc_section: "50102"
 chapter: 501
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 50102"
-generated_at: "2026-03-29T20:00:38.613Z"
+generated_at: "2026-03-29T20:05:40.571Z"
 ---
 
 # § 50102. Organization

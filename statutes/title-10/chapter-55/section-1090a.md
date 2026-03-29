@@ -3,9 +3,9 @@ title: "Section 1090a - Identifying and treating eating disorders"
 usc_title: 10
 usc_section: "1090a"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1090a"
-generated_at: "2026-03-29T19:58:02.060Z"
+generated_at: "2026-03-29T20:03:09.562Z"
 ---
 
 # § 1090a. Identifying and treating eating disorders

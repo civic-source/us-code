@@ -3,9 +3,9 @@ title: "Section 384 - Limitation on use of preacquisition losses to offset built
 usc_title: 26
 usc_section: "384"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 384"
-generated_at: "2026-03-29T19:59:49.223Z"
+generated_at: "2026-03-29T20:05:22.293Z"
 ---
 
 # § 384. Limitation on use of preacquisition losses to offset built-in gains

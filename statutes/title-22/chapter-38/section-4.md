@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-03-29T02:12:40.233Z"
+generated_at: "2026-03-29T20:04:46.812Z"
 ---
 
 # § 2680–4. Periodic briefings from Bureau of Intelligence and Research

@@ -5,7 +5,7 @@ usc_section: "1881d"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1881d"
-generated_at: "2026-03-29T20:01:46.583Z"
+generated_at: "2026-03-29T20:02:11.314Z"
 ---
 
 # § 1881d. Effective date

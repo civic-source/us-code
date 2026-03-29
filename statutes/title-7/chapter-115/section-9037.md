@@ -3,9 +3,9 @@ title: "Section 9037 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "9037"
 chapter: 115
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 9037"
-generated_at: "2026-03-29T19:57:39.518Z"
+generated_at: "2026-03-29T20:02:52.875Z"
 ---
 
 # § 9037. Special marketing loan provisions for upland cotton
@@ -48,7 +48,9 @@ generated_at: "2026-03-29T19:57:39.518Z"
   - **(3)** Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
 - **(c)**
   - **(1)** Subject to paragraph (2), the Secretary shall, on a monthly basis, make economic adjustment assistance available to domestic users of upland cotton in the form of payments for all documented use of that upland cotton during the previous monthly period regardless of the origin of the upland cotton.
-  - **(2)** Effective beginning on August 1, 2013 , the value of the assistance provided under paragraph (1) shall be 3 cents per pound.
+  - **(2)** The value of the assistance provided under paragraph (1) shall be—
+    - **(A)** for the period beginning on August 1, 2013 , and ending on July 31, 2025 , 3 cents per pound; and
+    - **(B)** beginning on August 1, 2025 , 5 cents per pound.
   - **(3)** Economic adjustment assistance under this subsection shall be made available only to domestic users of upland cotton that certify that the assistance shall be used only to acquire, construct, install, modernize, develop, convert, or expand land, plant, buildings, equipment, facilities, or machinery.
   - **(4)** The Secretary may conduct such review or audit of the records of a domestic user under this subsection as the Secretary determines necessary to carry out this subsection.
   - **(5)** If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—

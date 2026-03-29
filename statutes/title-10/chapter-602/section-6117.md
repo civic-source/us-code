@@ -5,7 +5,7 @@ usc_section: "6117"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6117"
-generated_at: "2026-03-29T02:10:45.248Z"
+generated_at: "2026-03-29T20:03:09.814Z"
 ---
 
 # § 6117. Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile

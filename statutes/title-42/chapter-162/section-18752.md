@@ -3,9 +3,9 @@ title: "Section 18752 - Property interests relating to certain projects and prot
 usc_title: 42
 usc_section: "18752"
 chapter: 162
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 18752"
-generated_at: "2026-03-29T20:01:33.904Z"
+generated_at: "2026-03-29T20:06:11.901Z"
 ---
 
 # § 18752. Property interests relating to certain projects and protection of information relating to certain agreements

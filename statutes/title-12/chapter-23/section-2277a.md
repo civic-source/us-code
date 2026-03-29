@@ -3,9 +3,9 @@ title: "Section 2277a - Definitions"
 usc_title: 12
 usc_section: "2277a"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 2277a"
-generated_at: "2026-03-29T19:58:40.975Z"
+generated_at: "2026-03-29T20:03:45.832Z"
 ---
 
 # § 2277a. Definitions

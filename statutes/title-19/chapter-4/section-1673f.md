@@ -3,9 +3,9 @@ title: "Section 1673f - Treatment of difference between deposit of estimated ant
 usc_title: 19
 usc_section: "1673f"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1673f"
-generated_at: "2026-03-29T19:58:51.730Z"
+generated_at: "2026-03-29T20:04:27.334Z"
 ---
 
 # § 1673f. Treatment of difference between deposit of estimated antidumping duty and final assessed duty under antidumping duty order

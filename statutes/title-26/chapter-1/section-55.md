@@ -3,9 +3,9 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-29T19:59:49.108Z"
+generated_at: "2026-03-29T20:05:22.174Z"
 ---
 
 # § 55. Alternative minimum tax imposed
@@ -68,19 +68,20 @@ generated_at: "2026-03-29T19:59:49.108Z"
       - **(iii)** each of the dollar amounts in subparagraphs (A) and (B) of paragraph (2).
     - **(C)** Any increased amount determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
   - **(4)**
-    - **(A)** In the case of any taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+    - **(A)** In the case of any taxable year beginning after December 31, 2017 —
       - **(i)** paragraph (1) shall be applied—
         - **(I)** by substituting “$109,400” for “$78,750” in subparagraph (A), and
         - **(II)** by substituting “$70,300” for “$50,600” in subparagraph (B),
       - **(ii)** paragraph (2) shall be applied—
         - **(I)** by substituting “$1,000,000” for “$150,000” in subparagraph (A),
-        - **(II)** by substituting “50 percent of the dollar amount applicable under subparagraph (A)” for “$112,500” in subparagraph (B), and
+        - **(II)** by substituting “50 percent of the dollar amount applicable under subparagraph (A)” for “$112,500” in subparagraph (B),
         - **(III)** in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I), and
+        - **(IV)** by substituting “50 percent” for “25 percent”, and
       - **(iii)** subsection (j) of section 59 shall not apply.
     - **(B)**
-      - **(i)** In the case of any taxable year beginning in a calendar year after 2018, the amounts described in clause (ii) shall each be increased by an amount equal to—
+      - **(i)** In the case of any taxable year beginning in a calendar year after 2018 (2026, in the case of the $1,000,000 amount in subparagraph (A)(ii)(I)), the amounts described in clause (ii) shall each be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2017” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting for “calendar year 2016” in subparagraph (A)(ii) thereof—
       - **(ii)** The amounts described in this clause are the $109,400 amount in subparagraph (A)(i)(I), the $70,300 amount in subparagraph (A)(i)(II), and the $1,000,000 amount in subparagraph (A)(ii)(I).
       - **(iii)** Any increased amount determined under clause (i) shall be rounded to the nearest multiple of $100.
       - **(iv)** In the case of any taxable year to which subparagraph (A) applies, no adjustment shall be made under paragraph (3) to any of the numbers which are substituted under subparagraph (A) and adjusted under this subparagraph.

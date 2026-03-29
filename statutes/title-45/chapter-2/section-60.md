@@ -3,9 +3,9 @@ title: "Section 60 - Penalty for suppression of voluntary information incident t
 usc_title: 45
 usc_section: "60"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "45 U.S.C. § 60"
-generated_at: "2026-03-29T20:00:48.932Z"
+generated_at: "2026-03-29T20:05:24.298Z"
 ---
 
 # § 60. Penalty for suppression of voluntary information incident to accidents; separability

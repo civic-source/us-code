@@ -3,9 +3,9 @@ title: "Section 14303 - Consolidation, merger, and acquisition of control of mot
 usc_title: 49
 usc_section: "14303"
 chapter: 143
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 14303"
-generated_at: "2026-03-29T20:01:50.996Z"
+generated_at: "2026-03-29T20:06:28.170Z"
 ---
 
 # § 14303. Consolidation, merger, and acquisition of control of motor carriers of passengers

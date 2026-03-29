@@ -3,9 +3,9 @@ title: "Section 2 - Awarding social impact partnership agreements"
 usc_title: 42
 usc_section: "2"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T20:01:32.772Z"
+generated_at: "2026-03-29T20:06:10.805Z"
 ---
 
 # § 1397n–2. Awarding social impact partnership agreements

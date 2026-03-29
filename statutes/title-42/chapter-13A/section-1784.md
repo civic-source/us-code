@@ -3,9 +3,9 @@ title: "Section 1784 - Definitions"
 usc_title: 42
 usc_section: "1784"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1784"
-generated_at: "2026-03-29T20:01:32.895Z"
+generated_at: "2026-03-29T20:06:10.906Z"
 ---
 
 # § 1784. Definitions

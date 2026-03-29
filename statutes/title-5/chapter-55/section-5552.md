@@ -5,7 +5,7 @@ usc_section: "5552"
 chapter: 55
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5552"
-generated_at: "2026-03-29T20:01:52.176Z"
+generated_at: "2026-03-29T20:02:37.819Z"
 ---
 
 # § 5552. Lump-sum payment for accumulated and accrued leave on entering active duty; election

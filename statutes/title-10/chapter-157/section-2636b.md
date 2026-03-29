@@ -5,7 +5,7 @@ usc_section: "2636b"
 chapter: 157
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2636b"
-generated_at: "2026-03-29T02:10:45.121Z"
+generated_at: "2026-03-29T20:03:09.696Z"
 ---
 
 # § 2636b. Responsibilities for oversight of personal property transportation

@@ -5,7 +5,7 @@ usc_section: "6211"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6211"
-generated_at: "2026-03-29T02:10:45.258Z"
+generated_at: "2026-03-29T20:03:09.822Z"
 ---
 
 # § 6211. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site

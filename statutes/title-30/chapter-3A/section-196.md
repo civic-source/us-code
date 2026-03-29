@@ -3,9 +3,9 @@ title: "Section 196 - Cooperative agreements; delegation of authority"
 usc_title: 30
 usc_section: "196"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 196"
-generated_at: "2026-03-29T19:59:32.829Z"
+generated_at: "2026-03-29T20:05:08.690Z"
 ---
 
 # § 196. Cooperative agreements; delegation of authority

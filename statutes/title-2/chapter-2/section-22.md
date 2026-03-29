@@ -5,7 +5,7 @@ usc_section: "22"
 chapter: 2
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 22"
-generated_at: "2026-03-29T20:01:46.473Z"
+generated_at: "2026-03-29T20:02:11.233Z"
 ---
 
 # § 22. Oath of President of Senate

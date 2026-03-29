@@ -3,9 +3,9 @@ title: "Section 2031 - Junior Reserve Officers’ Training Corps"
 usc_title: 10
 usc_section: "2031"
 chapter: 102
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2031"
-generated_at: "2026-03-29T19:58:02.128Z"
+generated_at: "2026-03-29T20:03:09.638Z"
 ---
 
 # § 2031. Junior Reserve Officers’ Training Corps
@@ -55,6 +55,7 @@ generated_at: "2026-03-29T19:58:02.128Z"
       - **(ii)** the Secretary determines that such action is in the national interest.
     - **(C)** Payments by the Secretary concerned under this subsection shall be made from funds appropriated for that purpose.
     - **(D)** The Secretary concerned may require successful applicants to transfer to the Individual Ready Reserve.
+  - **(3)** The Secretary concerned may not require an officer or noncommissioned officer described in paragraph (1)(B) to have completed more than 8 years of service as a member of the armed forces as a condition for approval by the Secretary to serve as an administrator or instructor in the program.
 - **(e)**
   - **(1)** When determined by the Secretary of the military department concerned to be in the national interest and agreed upon by the institution concerned, the institution may reimburse a Junior Reserve Officers’ Training Corps instructor for moving expenses incurred by the instructor to accept employment at the institution in a position that the Secretary concerned determines is hard-to-fill for geographic or economic reasons.
   - **(2)** As a condition on providing reimbursement under paragraph (1), the institution shall require the instructor to execute a written agreement to serve a minimum of two years of employment at the institution in the hard-to-fill position.

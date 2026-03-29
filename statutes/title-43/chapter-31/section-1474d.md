@@ -3,9 +3,9 @@ title: "Section 1474d - Environmental Improvement and Restoration Fund"
 usc_title: 43
 usc_section: "1474d"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1474d"
-generated_at: "2026-03-29T20:00:47.563Z"
+generated_at: "2026-03-29T20:05:36.540Z"
 ---
 
 # § 1474d. Environmental Improvement and Restoration Fund
@@ -37,10 +37,15 @@ generated_at: "2026-03-29T20:00:47.563Z"
     - **(I)** the Director of the Oil Spill Recovery Institute;
     - **(J)** the Director of the Alaska SeaLife Center;
     - **(K)** five members nominated by the Governor of Alaska and appointed by the Secretary of Commerce, one of whom shall represent fishing interests, one of whom shall represent Alaska Natives, one of whom shall represent environmental interests, one of whom shall represent academia, and one of whom shall represent oil and gas interests;
-    - **(L)** three members nominated by the Governor of Washington and appointed by the Secretary of Commerce; and 1 1 So in original. The word “and” probably should not appear.
-    - **(M)** one member nominated by the Governor of Oregon and appointed by the Secretary of Commerce. 2 2 So in original. The period probably should be “; and”.
-    - **(N)** one member who shall represent fishing interests and shall be nominated by the Board and appointed by the Secretary.
+    - **(L)** three members nominated by the Governor of Washington and appointed by the Secretary of Commerce;
+    - **(M)** one member nominated by the Governor of Oregon and appointed by the Secretary of Commerce;
+    - **(N)** one member who shall represent fishing interests and shall be nominated by the Board and appointed by the Secretary; and
+    - **(O)** one member who shall represent Alaska Natives and possesses personal knowledge of, and direct experience with, subsistence uses and shall be nominated by the Board and appointed by the Secretary.
   - **(4)**
     - **(A)** The Secretary of Commerce shall review grants recommended by the Board. If the Secretary does not approve a grant recommended by the Board, the Secretary shall explain in writing the reasons for not approving such grant, and the amount recommended to be used for such grant shall be available only for other grants recommended by the Board.
     - **(B)** The Board shall establish written criteria for the submission of grant requests through a competitive process and for deciding upon the award of grants. Grants shall be recommended by the Board on the basis of merit in accordance with the priorities established by the Board. The Secretary shall provide the Board such administrative and technical support as is necessary for the effective functioning of the Board. The Board shall be considered an advisory panel established under section 1852(g) of title 16 for the purposes of section 1852(i)(1) of title 16 , and the other procedural matters applicable to advisory panels under section 1852(i) of title 16 shall apply to the Board to the extent practicable. Members of the Board may be reimbursed for actual expenses incurred in performance of their duties for the Board. Not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.
-  - **(5)** All decisions of the Board, including grant recommendations, shall be by majority vote of the members listed in paragraphs (3)(A), (3)(F), (3)(G), (3)(J), and (3)(N), in consultation with the other members. The five voting members may act on behalf of the Board in all matters of administration, including the disposition of research funds not made available by this section, at any time on or after October 1, 2000 .
+  - **(5)** If the amount made available for a fiscal year under subsection (c)(2) is less than the amount made available in the previous fiscal year, the Administrator of the National Oceanic and Atmospheric Administration may increase the 15 percent cap on administrative expenses provided under paragraph (4)(B) for that fiscal year to prioritize—
+    - **(A)** continuing operation of the Board;
+    - **(B)** maximizing the percentage of funds directed to research; and
+    - **(C)** maintaining the highest quality standards in administering grants under this subsection.
+  - **(6)** All decisions of the Board, including grant recommendations, shall be by majority vote of the members listed in paragraphs (3)(A), (3)(F), (3)(G), (3)(J), and (3)(N), in consultation with the other members. The five voting members may act on behalf of the Board in all matters of administration, including the disposition of research funds not made available by this section, at any time on or after October 1, 2000 .

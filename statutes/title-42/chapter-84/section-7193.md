@@ -3,9 +3,9 @@ title: "Section 7193 - Remedial orders"
 usc_title: 42
 usc_section: "7193"
 chapter: 84
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7193"
-generated_at: "2026-03-29T20:01:33.319Z"
+generated_at: "2026-03-29T20:06:11.336Z"
 ---
 
 # § 7193. Remedial orders

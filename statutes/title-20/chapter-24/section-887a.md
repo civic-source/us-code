@@ -3,9 +3,9 @@ title: "Section 887a - Omitted"
 usc_title: 20
 usc_section: "887a"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 887a"
-generated_at: "2026-03-29T19:58:56.618Z"
+generated_at: "2026-03-29T20:04:32.763Z"
 ---
 
 # §§ 887, 887a. Omitted

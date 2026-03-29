@@ -3,9 +3,9 @@ title: "Section 24320 - Amtrak 5-year service line and asset line plans"
 usc_title: 49
 usc_section: "24320"
 chapter: 243
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 24320"
-generated_at: "2026-03-29T20:01:51.032Z"
+generated_at: "2026-03-29T20:06:28.202Z"
 ---
 
 # § 24320. Amtrak 5-year service line and asset line plans

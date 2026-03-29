@@ -3,9 +3,9 @@ title: "Section 3701 - Findings"
 usc_title: 15
 usc_section: "3701"
 chapter: 63
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3701"
-generated_at: "2026-03-29T19:58:17.814Z"
+generated_at: "2026-03-29T20:03:27.572Z"
 ---
 
 # § 3701. Findings

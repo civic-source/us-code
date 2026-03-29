@@ -3,9 +3,9 @@ title: "Section 389b - Elimination to permanently nonirrigable lands"
 usc_title: 25
 usc_section: "389b"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 389b"
-generated_at: "2026-03-29T19:59:16.295Z"
+generated_at: "2026-03-29T20:04:54.328Z"
 ---
 
 # § 389b. Elimination to permanently nonirrigable lands

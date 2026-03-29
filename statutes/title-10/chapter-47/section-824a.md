@@ -3,9 +3,9 @@ title: "Section 824a - Art. 24a. Special trial counsel"
 usc_title: 10
 usc_section: "824a"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 824a"
-generated_at: "2026-03-29T19:58:02.009Z"
+generated_at: "2026-03-29T20:03:09.503Z"
 ---
 
 # § 824a. Art. 24a. Special trial counsel
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:58:02.009Z"
 - **(a)** Each Secretary concerned shall promulgate regulations for the detail of commissioned officers to serve as special trial counsel.
 - **(b)** A special trial counsel shall be a commissioned officer who—
   - **(1)**
-    - **(A)** is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and
+    - **(A)** is a judge advocate who is qualified under section 806(a)(1) of this title (article 6(a)(1)); and
     - **(B)** is certified to be qualified, by reason of education, training, experience, and temperament, for duty as a special trial counsel by—
       - **(i)** the Judge Advocate General of the armed force of which the officer is a member; or
       - **(ii)** in the case of the Marine Corps, the Staff Judge Advocate to the Commandant of the Marine Corps; and

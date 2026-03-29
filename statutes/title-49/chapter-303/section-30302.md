@@ -3,9 +3,9 @@ title: "Section 30302 - National Driver Register"
 usc_title: 49
 usc_section: "30302"
 chapter: 303
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 30302"
-generated_at: "2026-03-29T20:01:51.053Z"
+generated_at: "2026-03-29T20:06:28.216Z"
 ---
 
 # § 30302. National Driver Register

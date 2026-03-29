@@ -5,7 +5,7 @@ usc_section: "10b"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 10b"
-generated_at: "2026-03-29T20:01:46.479Z"
+generated_at: "2026-03-29T20:02:11.239Z"
 ---
 
 # § 74a–10b. Transferred

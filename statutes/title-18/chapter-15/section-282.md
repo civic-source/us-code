@@ -3,9 +3,9 @@ title: "Section 282 - Repealed. Pub. L. 87–849, § 2 , Oct. 23, 1962 , 76 Stat
 usc_title: 18
 usc_section: "282"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 282"
-generated_at: "2026-03-29T19:58:59.639Z"
+generated_at: "2026-03-29T20:03:53.694Z"
 ---
 
 # [§ 282. Repealed. Pub. L. 87–849, § 2 , Oct. 23, 1962 , 76 Stat. 1126 ]

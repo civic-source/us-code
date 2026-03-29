@@ -3,9 +3,9 @@ title: "Section 13774 - Transferred"
 usc_title: 42
 usc_section: "13774"
 chapter: 136
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 13774"
-generated_at: "2026-03-29T20:01:33.711Z"
+generated_at: "2026-03-29T20:06:11.725Z"
 ---
 
 # § 13774. Transferred

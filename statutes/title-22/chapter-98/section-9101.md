@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 22
 usc_section: "9101"
 chapter: 98
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9101"
-generated_at: "2026-03-29T19:59:24.332Z"
+generated_at: "2026-03-29T20:04:47.016Z"
 ---
 
 # § 9101. Definitions
@@ -14,7 +14,7 @@ In this chapter:
 
   - **(1)** The term “abducted child” means a child who is the victim of international child abduction.
   - **(2)** The term “abduction” means the alleged wrongful removal of a child from the child’s country of habitual residence, or the wrongful retention of a child outside such country, in violation of a left-behind parent’s custodial rights, including the rights of a military parent.
-  - **(3)** The term abduction case 1 1 So in original. Probably should be “ ‘abduction case’ ”. means—
+  - **(3)** The term abduction case 1 1 So in original. The defined term probably should be within quotation marks. means—
     - **(A)** a case that—
       - **(i)** has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction;
       - **(ii)** meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country; and

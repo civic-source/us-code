@@ -3,9 +3,9 @@ title: "Section 5613 - Additional related matters"
 usc_title: 12
 usc_section: "5613"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5613"
-generated_at: "2026-03-29T19:58:41.143Z"
+generated_at: "2026-03-29T20:03:46.016Z"
 ---
 
 # § 5613. Additional related matters

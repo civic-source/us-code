@@ -3,9 +3,9 @@ title: "Section 6d - Repealed. Sept. 3, 1954, ch. 1263, § 13(b) , 68 Stat. 1231
 usc_title: 19
 usc_section: "6d"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 6d"
-generated_at: "2026-03-29T19:58:51.666Z"
+generated_at: "2026-03-29T20:04:27.267Z"
 ---
 
 # §§ 6a to 6d. Repealed. Sept. 3, 1954, ch. 1263, § 13(b) , 68 Stat. 1231

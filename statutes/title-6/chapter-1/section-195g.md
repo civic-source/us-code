@@ -3,9 +3,9 @@ title: "Section 195g - Countering Unmanned Aircraft Systems Coordinator"
 usc_title: 6
 usc_section: "195g"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 195g"
-generated_at: "2026-03-29T19:57:32.864Z"
+generated_at: "2026-03-29T20:02:41.970Z"
 ---
 
 # § 195g. Countering Unmanned Aircraft Systems Coordinator

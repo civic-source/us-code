@@ -3,9 +3,9 @@ title: "Section 10b - National Advisory Committee on Children and Disasters"
 usc_title: 42
 usc_section: "10b"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-29T20:01:32.212Z"
+generated_at: "2026-03-29T20:06:10.306Z"
 ---
 
 # § 300hh–10b. National Advisory Committee on Children and Disasters
@@ -44,4 +44,4 @@ generated_at: "2026-03-29T20:01:32.212Z"
   - **(5)** A member appointed under paragraph (2) may serve not more than 3 terms on the Advisory Committee, and not more than two of such terms may be served consecutively.
 - **(e)** The Advisory Committee shall meet not less than biannually. At least one meeting per year shall be an in-person meeting.
 - **(f)** The Secretary shall coordinate duties and activities authorized under this section in accordance with section 300hh–10e of this title .
-- **(g)** The Advisory Committee shall terminate on September 30, 2025 .
+- **(g)** The Advisory Committee shall terminate on January 30, 2026 .

@@ -3,9 +3,9 @@ title: "Section 228c - Acquisition of lands within enlarged boundaries by donati
 usc_title: 16
 usc_section: "228c"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 228c"
-generated_at: "2026-03-29T19:59:07.862Z"
+generated_at: "2026-03-29T20:04:19.930Z"
 ---
 
 # § 228c. Acquisition of lands within enlarged boundaries by donation, purchase, or exchange; transfer of jurisdiction over Federal lands

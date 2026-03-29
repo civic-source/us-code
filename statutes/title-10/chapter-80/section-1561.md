@@ -3,9 +3,9 @@ title: "Section 1561 - Complaints of sexual harassment: independent investigatio
 usc_title: 10
 usc_section: "1561"
 chapter: 80
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1561"
-generated_at: "2026-03-29T19:58:02.106Z"
+generated_at: "2026-03-29T20:03:09.612Z"
 ---
 
 # § 1561. Complaints of sexual harassment: independent investigation

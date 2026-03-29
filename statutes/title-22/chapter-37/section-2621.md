@@ -3,9 +3,9 @@ title: "Section 2621 - Definitions"
 usc_title: 22
 usc_section: "2621"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2621"
-generated_at: "2026-03-29T19:59:24.134Z"
+generated_at: "2026-03-29T20:04:46.802Z"
 ---
 
 # § 2621. Definitions

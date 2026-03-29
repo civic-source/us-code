@@ -3,9 +3,9 @@ title: "Section 2901 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2901"
 chapter: 30
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 2901"
-generated_at: "2026-03-29T19:59:56.719Z"
+generated_at: "2026-03-29T20:05:03.786Z"
 ---
 
 # §§ 2884 to 2901. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

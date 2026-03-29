@@ -3,9 +3,9 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-29T19:59:49.060Z"
+generated_at: "2026-03-29T20:05:22.119Z"
 ---
 
 # § 35. Health insurance costs of eligible individuals
@@ -116,5 +116,5 @@ generated_at: "2026-03-29T19:59:49.060Z"
       - **(i)** the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of—
         - **(I)** the sum of any advance payments made on behalf of the taxpayer under section 1412 of the Patient Protection and Affordable Care Act and section 7527 for months during such taxable year, over
         - **(II)** the sum of the credits allowed under this section (determined without regard to paragraph (1)) and section 36B (determined without regard to subsection (f)(1) thereof) for such taxable year; and
-      - **(ii)** section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
+      - **(ii)** section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then the amount determined under clause (i) shall be substituted for the amount determined under section 36B(f)(2).
   - **(13)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.

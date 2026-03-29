@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-29T19:59:28.513Z"
+generated_at: "2026-03-29T20:04:50.570Z"
 ---
 
 # § 823. Registration requirements
@@ -167,23 +167,23 @@ generated_at: "2026-03-29T19:59:28.513Z"
     - **(M)** The term “standing order” means a written medical protocol in which a medical director determines in advance the medical criteria that must be met before administering controlled substances to individuals in need of emergency medical services.
     - **(N)** The term “verbal order” means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
 - **(l)** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in section 801 of this title .
-- **(l)**
+- **(m)**
   - **(1)** As a condition on registration under this section to dispense controlled substances in schedule II, III, IV, or V, the Attorney General shall require any qualified practitioner, beginning with the first applicable registration for the practitioner, to meet the following:
     - **(A)** If the practitioner is a physician (as defined under section 1395x(r) of title 42 ) and the practitioner meets one or more of the following conditions:
       - **(i)** The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
       - **(ii)** The physician holds a board certification from the American Board of Addiction Medicine.
       - **(iii)** The physician holds a board certification in addiction medicine from the American Osteopathic Association.
       - **(iv)** The physician has, with respect to the treatment and management of patients with opioid or other substance use disorders, or the safe pharmacological management of dental pain and screening, brief intervention, and referral for appropriate treatment of patients with or at risk of developing opioid or other substance use disorders, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by—
-        - **(I)** the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Dental Association, the American Association of Oral and Maxillofacial Surgeons, the American Psychiatric Association, or any other organization accredited by the Accreditation Council for Continuing Medical Education (ACCME) or the Commission for Continuing Education Provider Recognition (CCEPR);
+        - **(I)** the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Dental Association, the American Association of Oral and Maxillofacial Surgeons, the American Psychiatric Association, the American Academy of Family Physicians, the American Podiatric Medical Association, the Academy of General Dentistry, the American Optometric Association, or any other organization accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Commission for Continuing Education Provider Recognition (CCEPR), or the Council on Podiatric Medical Education;
         - **(II)** any organization accredited by a State medical society accreditor that is recognized by the ACCME or the CCEPR;
-        - **(III)** any organization accredited by the American Osteopathic Association to provide continuing medical education; or
+        - **(III)** any organization accredited by the American Osteopathic Association or the American Academy of Family Physicians to provide continuing medical education; or
         - **(IV)** any organization approved by the Assistant Secretary for Mental Health and Substance Use, the ACCME, or the CCEPR.
-      - **(v)** The physician graduated in good standing from an accredited school of allopathic medicine, osteopathic medicine, dental surgery, or dental medicine in the United States during the 5-year period immediately preceding the date on which the physician first registers or renews under this section and has successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency or dental surgery or dental medicine curriculum that included not less than 8 hours of training on—
+      - **(v)** The physician graduated in good standing from an accredited school of allopathic medicine, osteopathic medicine, podiatric medicine, dental surgery, or dental medicine in the United States during the 5-year period immediately preceding the date on which the physician first registers or renews under this section and has successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency or dental surgery or dental or podiatric medicine curriculum that included not less than 8 hours of training on—
         - **(I)** treating and managing patients with opioid or other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder; or
         - **(II)** the safe pharmacological management of dental pain and screening, brief intervention, and referral for appropriate treatment of patients with or at risk of developing opioid and other substance use disorders.
     - **(B)** If the practitioner is not a physician (as defined under section 1395x(r) of title 42 ), the practitioner is legally authorized by the State to dispense controlled substances under schedule II, III, IV, or V and is dispensing such substances within such State in accordance with all applicable State laws, and the practitioner meets one or more of the following conditions:
-      - **(i)** The practitioner has completed not fewer than 8 hours of training with respect to the treatment and management of patients with opioid or other substance use disorders (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Associates, or any other organization approved or accredited by the Assistant Secretary for Mental Health and Substance Use or the Accreditation Council for Continuing Medical Education.
-      - **(ii)** The practitioner has graduated in good standing from an accredited physician assistant school or accredited school of advanced practice nursing in the United States during the 5-year period immediately preceding the date on which the practitioner first registers or renews under this section and has successfully completed a comprehensive physician assistant or advanced practice nursing curriculum that included not fewer than 8 hours of training on treating and managing patients with opioid and other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder.
+      - **(i)** The practitioner has completed not fewer than 8 hours of training with respect to the treatment and management of patients with opioid or other substance use disorders (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Associates, the American Pharmacists Association, the Accreditation Council on Pharmacy Education, the American Psychiatric Nurses Association, the American Academy of Nursing, the American Academy of Family Physicians, or any other organization approved or accredited by the Assistant Secretary for Mental Health and Substance Use, the American Academy of Family Physicians, or the Accreditation Council for Continuing Medical Education.
+      - **(ii)** The practitioner has graduated in good standing from an accredited physician assistant school, an accredited school of advanced practice nursing, or an accredited school of pharmacy in the United States during the 5-year period immediately preceding the date on which the practitioner first registers or renews under this section and has successfully completed a comprehensive physician assistant or advanced practice nursing curriculum that included not fewer than 8 hours of training on treating and managing patients with opioid and other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder.
   - **(2)**
     - **(A)** The Attorney General shall not require any qualified practitioner to complete the training described in clause (iv) or (v) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B) more than once.
     - **(B)** Not later than 90 days after December 29, 2022 , the Attorney General shall provide to qualified practitioners a single written, electronic notification of the training described in clauses (iv) and (v) of paragraph (1)(A) or clauses (i) and (ii) of paragraph (1)(B).
@@ -195,3 +195,38 @@ generated_at: "2026-03-29T19:59:28.513Z"
     - **(B)** In this subsection, the term “qualified practitioner” means a practitioner who—
       - **(i)** is licensed under State law to prescribe controlled substances; and
       - **(ii)** is not solely a veterinarian.
+- **(n)**
+  - **(1)** Notwithstanding subsection (g), a practitioner may conduct research described in paragraph (2) of this subsection with 1 or more schedule I substances in accordance with subparagraph (A) or (B) of paragraph (3) of this subsection.
+  - **(2)** Research described in this paragraph is research that—
+    - **(A)** is with respect to a drug that is the subject of an investigational use exemption under section 355(i) of this title ; or
+    - **(B)** is—
+      - **(i)** conducted by the Department of Health and Human Services, the Department of Defense, or the Department of Veterans Affairs; or
+      - **(ii)** funded partly or entirely by a grant, contract, cooperative agreement, or other transaction from the Department of Health and Human Services, the Department of Defense, or the Department of Veterans Affairs.
+  - **(3)**
+    - **(A)**
+      - **(i)** If a practitioner is registered to conduct research with a controlled substance in schedule I or II, the practitioner may conduct research under this subsection on and after the date that is 30 days after the date on which the practitioner sends a notice to the Attorney General containing the following information, with respect to each substance with which the practitioner will conduct the research:
+        - **(I)** The chemical name of the substance.
+        - **(II)** The quantity of the substance to be used in the research.
+        - **(III)** Demonstration that the research is in the category described in paragraph (2), which demonstration may be satisfied—
+        - **(IV)** Demonstration that the researcher is authorized to conduct research with respect to the substance under the laws of the State in which the research will take place.
+      - **(ii)** Upon request from the Attorney General, the Secretary of Health and Human Services, the Department of Defense, or the Secretary of Veterans Affairs, as appropriate, shall verify information submitted by an applicant under clause (i)(III).
+    - **(B)**
+      - **(i)** If a practitioner is not registered to conduct research with a controlled substance in schedule I or II, the practitioner may send a notice to the Attorney General containing the information listed in subparagraph (A)(i), with respect to each substance with which the practitioner will conduct the research.
+      - **(ii)** The Attorney General shall—
+        - **(I)** treat notice received under clause (i) as a sufficient application for a research registration; and
+        - **(II)** not later than 45 days of receiving such a notice that contains all information required under subparagraph (A)(i)—
+  - **(4)** The Attorney General shall provide a means to permit a practitioner to submit a notification under paragraph (3) electronically.
+  - **(5)** A practitioner conducting research with a schedule I substance under this subsection may only possess the amounts of schedule I substance identified in—
+    - **(A)** the notification to the Attorney General under paragraph (3); or
+    - **(B)** a supplemental notification that the practitioner may send if the practitioner needs additional amounts for the research, which supplemental notification shall include—
+      - **(i)** the name of the practitioner;
+      - **(ii)** the additional quantity needed of the substance; and
+      - **(iii)** an attestation that the research to be conducted with the substance is consistent with the scope of the research that was the subject of the notification under paragraph (3).
+  - **(6)** Nothing in this subsection alters the requirements of subchapter II, regarding the importation and exportation of controlled substances.
+  - **(7)** Not later than 1 year after July 16, 2025 , the Inspector General of the Department of Justice shall complete a study, and submit to Congress a report thereon, about research described in paragraph (2) of this subsection with fentanyl.
+- **(o)**
+  - **(1)** If the Attorney General determines, with respect to a controlled substance, that an application by a practitioner to conduct research with the substance should be considered under a process, or subject to criteria, different from the process or criteria applicable to applications to conduct research with other controlled substances in the same schedule, the Attorney General shall make public, including by posting on the website of the Drug Enforcement Administration—
+    - **(A)** the identities of all substances for which such determinations have been made;
+    - **(B)** the process and criteria that shall be applied to applications to conduct research with those substances; and
+    - **(C)** how the process and criteria described in subparagraph (B) differ from the process and criteria applicable to applications to conduct research with other controlled substances in the same schedule.
+  - **(2)** The Attorney General shall make information described in paragraph (1) public upon making a determination described in that paragraph, regardless of whether a practitioner has submitted such an application at that time.

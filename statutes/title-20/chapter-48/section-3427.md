@@ -3,9 +3,9 @@ title: "Section 3427 - Coordinator for the outlying areas"
 usc_title: 20
 usc_section: "3427"
 chapter: 48
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 3427"
-generated_at: "2026-03-29T19:58:56.834Z"
+generated_at: "2026-03-29T20:04:33.003Z"
 ---
 
 # § 3427. Coordinator for the outlying areas

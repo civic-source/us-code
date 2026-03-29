@@ -3,9 +3,9 @@ title: "Section 712a - Limitation of obligations for administrative expenses of 
 usc_title: 15
 usc_section: "712a"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 712a"
-generated_at: "2026-03-29T19:58:17.635Z"
+generated_at: "2026-03-29T20:03:27.337Z"
 ---
 
 # § 712a. Limitation of obligations for administrative expenses of certain agencies; limitation on life of certain agencies

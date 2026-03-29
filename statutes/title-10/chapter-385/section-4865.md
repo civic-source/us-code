@@ -5,7 +5,7 @@ usc_section: "4865"
 chapter: 385
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4865"
-generated_at: "2026-03-29T02:10:45.237Z"
+generated_at: "2026-03-29T20:03:09.802Z"
 ---
 
 # § 4865. Prohibition on acquisition of advanced batteries composed of materials from certain foreign sources

@@ -3,9 +3,9 @@ title: "Section 410i - Exterior boundaries; administration"
 usc_title: 16
 usc_section: "410i"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 410i"
-generated_at: "2026-03-29T19:59:07.900Z"
+generated_at: "2026-03-29T20:04:19.957Z"
 ---
 
 # § 410i. Exterior boundaries; administration

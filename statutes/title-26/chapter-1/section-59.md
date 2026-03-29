@@ -3,9 +3,9 @@ title: "Section 59 - Other definitions and special rules"
 usc_title: 26
 usc_section: "59"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 59"
-generated_at: "2026-03-29T19:59:49.111Z"
+generated_at: "2026-03-29T20:05:22.177Z"
 ---
 
 # § 59. Other definitions and special rules
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:59:49.111Z"
   - **(1)** For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section 173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph (2)(C), over the 60-month period beginning with the month in which such expenditure was paid or incurred).
   - **(2)** For purposes of this subsection, the term “qualified expenditure” means any amount which, but for an election under this subsection, would have been allowable as a deduction (determined without regard to section 291) for the taxable year in which paid or incurred under—
     - **(A)** section 173 (relating to circulation expenditures),
-    - **(B)** section 174(a) (relating to research and experimental expenditures),
+    - **(B)** section 174A(a) (relating to domestic research or experimental expenditures),
     - **(C)** section 263(c) (relating to intangible drilling and development expenditures),
     - **(D)** section 616(a) (relating to development expenditures), or
     - **(E)** section 617(a) (relating to mining exploration expenditures).

@@ -3,9 +3,9 @@ title: "Section 2136 - Registration of research facilities, handlers, carriers a
 usc_title: 7
 usc_section: "2136"
 chapter: 54
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2136"
-generated_at: "2026-03-29T19:57:39.139Z"
+generated_at: "2026-03-29T20:02:52.640Z"
 ---
 
 # § 2136. Registration of research facilities, handlers, carriers and unlicensed exhibitors

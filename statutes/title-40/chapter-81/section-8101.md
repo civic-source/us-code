@@ -3,9 +3,9 @@ title: "Section 8101 - Supervision of public buildings and grounds in District o
 usc_title: 40
 usc_section: "8101"
 chapter: 81
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 8101"
-generated_at: "2026-03-29T20:00:35.894Z"
+generated_at: "2026-03-29T20:05:42.948Z"
 ---
 
 # § 8101. Supervision of public buildings and grounds in District of Columbia not otherwise provided for by law

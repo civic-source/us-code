@@ -3,9 +3,9 @@ title: "Section 2891c - Transparency regarding finances and performance metrics"
 usc_title: 10
 usc_section: "2891c"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2891c"
-generated_at: "2026-03-29T19:58:02.214Z"
+generated_at: "2026-03-29T20:03:09.736Z"
 ---
 
 # § 2891c. Transparency regarding finances and performance metrics
@@ -19,6 +19,12 @@ generated_at: "2026-03-29T19:58:02.214Z"
     - **(D)** The amount of preferred return fees relating to such housing units.
     - **(E)** The residual cashflow distributions relating to such housing units.
     - **(F)** The amount of deferred fees or other fees relating to such housing units.
+    - **(G)** Information with respect to each insurance policy maintained by the landlord for such housing units, including the—
+      - **(i)** scope of coverage;
+      - **(ii)** deductible;
+      - **(iii)** policy limit; and
+      - **(iv)** total premium amount.
+    - **(H)** The total amount of any payments made by the landlord to tenants of such housing units pursuant to a dispute resolution process.
   - **(3)** In this subsection:
     - **(A)** The term “base management fees” means the monthly management fees collected for services associated with accepting and processing rent payments, ensuring tenant rent payments, property inspections, maintenance management, and emergency maintenance calls.
     - **(B)** the term “asset management fees” means fees paid to manage a housing unit for the purpose of ensuring the housing unit is maintained in good condition and making repairs over the lifecycle of the housing unit.

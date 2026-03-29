@@ -3,9 +3,9 @@ title: "Section 48C - Qualifying advanced energy project credit"
 usc_title: 26
 usc_section: "48C"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 48C"
-generated_at: "2026-03-29T19:59:49.102Z"
+generated_at: "2026-03-29T20:05:22.164Z"
 ---
 
 # § 48C. Qualifying advanced energy project credit
@@ -75,7 +75,7 @@ generated_at: "2026-03-29T19:59:49.102Z"
   - **(3)**
     - **(A)** Each applicant for certification under this subsection shall submit an application at such time and containing such information as the Secretary may require.
     - **(B)** Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
-    - **(C)** An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall be increased by the amount of the credit with respect to such revoked certification.
+    - **(C)** An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall not be increased by the amount of the credit with respect to such revoked certification.
     - **(D)** In the case of an applicant which receives a certification, if the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.
   - **(4)**
     - **(A)** For purposes of allocations under this subsection, the amount of the credit determined under subsection (a) shall be determined by substituting “6 percent” for “30 percent”.

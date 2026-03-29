@@ -3,9 +3,9 @@ title: "Section 760 - Declaration of purpose"
 usc_title: 29
 usc_section: "760"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 760"
-generated_at: "2026-03-29T19:59:56.603Z"
+generated_at: "2026-03-29T20:05:03.660Z"
 ---
 
 # § 760. Declaration of purpose

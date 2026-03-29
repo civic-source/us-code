@@ -3,9 +3,9 @@ title: "Section 10004 - Promulgation of standards"
 usc_title: 42
 usc_section: "10004"
 chapter: 107
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 10004"
-generated_at: "2026-03-29T20:01:33.538Z"
+generated_at: "2026-03-29T20:06:11.568Z"
 ---
 
 # § 10004. Promulgation of standards

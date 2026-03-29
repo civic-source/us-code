@@ -3,9 +3,9 @@ title: "Section 414 - Appropriation for projects essential"
 usc_title: 43
 usc_section: "414"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 414"
-generated_at: "2026-03-29T20:00:47.496Z"
+generated_at: "2026-03-29T20:05:36.472Z"
 ---
 
 # § 414. Appropriation for projects essential

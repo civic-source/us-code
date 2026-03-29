@@ -3,9 +3,9 @@ title: "Section 960 - Prohibited acts A"
 usc_title: 21
 usc_section: "960"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 960"
-generated_at: "2026-03-29T19:59:28.530Z"
+generated_at: "2026-03-29T20:04:50.588Z"
 ---
 
 # § 960. Prohibited acts A
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:59:28.530Z"
     - **(C)** 280 grams or more of a mixture or substance described in subparagraph (B) which contains cocaine base;
     - **(D)** 100 grams or more of phencyclidine (PCP) or 1 kilogram or more of a mixture or substance containing a detectable amount of phencyclidine (PCP);
     - **(E)** 10 grams or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
-    - **(F)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide;
+    - **(F)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
     - **(G)** 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
     - **(H)** 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers. 1 1 So in original. The period probably should be a semicolon.
   - **(2)** In the case of a violation of subsection (a) of this section involving—
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:59:28.530Z"
     - **(C)** 28 grams or more of a mixture or substance described in subparagraph (B) which contains cocaine base;
     - **(D)** 10 grams or more of phencyclidine (PCP) or 100 grams or more of a mixture or substance containing a detectable amount of phencyclidine (PCP);
     - **(E)** 1 gram or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
-    - **(F)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide;
+    - **(F)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
     - **(G)** 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
     - **(H)** 5 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 50 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers. 1
   - **(3)** In the case of a violation under subsection (a) of this section involving a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or flunitrazepam, the person committing such violation shall, except as provided in paragraphs (1), (2), and (4), be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18 , any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.

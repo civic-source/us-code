@@ -3,9 +3,9 @@ title: "Section 2576a - Excess personal property: sale or donation for law enfor
 usc_title: 10
 usc_section: "2576a"
 chapter: 153
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2576a"
-generated_at: "2026-03-29T19:58:02.177Z"
+generated_at: "2026-03-29T20:03:09.692Z"
 ---
 
 # § 2576a. Excess personal property: sale or donation for law enforcement activities

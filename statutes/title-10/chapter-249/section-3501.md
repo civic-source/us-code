@@ -3,16 +3,16 @@ title: "Section 3501 - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "3501"
 chapter: 249
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3501"
-generated_at: "2026-03-29T19:58:02.231Z"
+generated_at: "2026-03-29T20:03:09.758Z"
 ---
 
 # § 3501. Multiyear contracts: acquisition of property
 
 - **(a)** To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
   - **(1)** That the use of such a contract will result in—
-    - **(A)** significant savings of the total anticipated costs of carrying out the program through annual contracts; or
+    - **(A)** savings of the total anticipated costs of carrying out the program through annual contracts; or
     - **(B)** necessary defense industrial base stability not otherwise achievable through annual contracts.
   - **(2)** That the minimum need for the property to be purchased is expected to remain substantially unchanged during the contemplated contract period in terms of production rate, procurement rate, and total quantities.
   - **(3)** That there is a reasonable expectation that throughout the contemplated contract period the head of the agency will request funding for the contract at the level required to avoid contract cancellation.

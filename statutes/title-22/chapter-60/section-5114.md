@@ -3,9 +3,9 @@ title: "Section 5114 - Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5114"
 chapter: 60
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 5114"
-generated_at: "2026-03-29T19:59:24.235Z"
+generated_at: "2026-03-29T20:04:46.907Z"
 ---
 
 # §§ 5113, 5114. Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 , 107 Stat. 1505

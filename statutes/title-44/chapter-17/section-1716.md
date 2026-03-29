@@ -3,9 +3,9 @@ title: "Section 1716 - Public documents for legations and consulates of United S
 usc_title: 44
 usc_section: "1716"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 1716"
-generated_at: "2026-03-29T20:00:54.163Z"
+generated_at: "2026-03-29T20:05:29.594Z"
 ---
 
 # § 1716. Public documents for legations and consulates of United States

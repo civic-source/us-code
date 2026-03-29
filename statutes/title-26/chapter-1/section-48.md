@@ -3,9 +3,9 @@ title: "Section 48 - Energy credit"
 usc_title: 26
 usc_section: "48"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 48"
-generated_at: "2026-03-29T19:59:49.098Z"
+generated_at: "2026-03-29T20:05:22.160Z"
 ---
 
 # § 48. Energy credit
@@ -24,8 +24,9 @@ generated_at: "2026-03-29T19:59:49.098Z"
         - **(VII)** qualified biogas property,
         - **(VIII)** microgrid controllers, and
         - **(IX)** energy property described in clauses (v) and (vii) of paragraph (3)(A), and
-      - **(ii)** in the case of any energy property to which clause (i) does not apply, 2 percent.
+      - **(ii)** in the case of any energy property to which clause (i) does not apply, 0 percent.
     - **(B)** The energy percentage shall not apply to that portion of the basis of any property which is attributable to qualified rehabilitation expenditures.
+    - **(C)** For purposes of energy property described in subparagraph (A)(ii), the energy percentage applicable to such property pursuant to such subparagraph shall not be increased or otherwise adjusted by any provision of this section.
   - **(3)** For purposes of this subpart, the term “energy property” means any property—
     - **(A)** which is—
       - **(i)** equipment which uses solar energy to generate electricity, to heat or cool (or provide hot water for use in) a structure, or to provide solar process heat, excepting property used to generate energy for the purposes of heating a swimming pool,

@@ -3,9 +3,9 @@ title: "Section 9126 - Exempt operations"
 usc_title: 42
 usc_section: "9126"
 chapter: 99
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 9126"
-generated_at: "2026-03-29T20:01:33.466Z"
+generated_at: "2026-03-29T20:06:11.495Z"
 ---
 
 # § 9126. Exempt operations

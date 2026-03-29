@@ -5,7 +5,7 @@ usc_section: "1415"
 chapter: 24
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1415"
-generated_at: "2026-03-29T20:01:46.561Z"
+generated_at: "2026-03-29T20:02:11.301Z"
 ---
 
 # § 1415. Payments

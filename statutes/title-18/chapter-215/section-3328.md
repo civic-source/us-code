@@ -3,9 +3,9 @@ title: "Section 3328 - Repealed. Pub. L. 101–73, title IX, § 964(a) , Aug. 9,
 usc_title: 18
 usc_section: "3328"
 chapter: 215
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 3328"
-generated_at: "2026-03-29T19:58:59.753Z"
+generated_at: "2026-03-29T20:03:53.813Z"
 ---
 
 # [§§ 3323 to 3328. Repealed. Pub. L. 101–73, title IX, § 964(a) , Aug. 9, 1989 , 103 Stat. 505 ]

@@ -3,9 +3,9 @@ title: "Section 531 - Original appointments of commissioned officers"
 usc_title: 10
 usc_section: "531"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 531"
-generated_at: "2026-03-29T19:58:01.986Z"
+generated_at: "2026-03-29T20:03:09.476Z"
 ---
 
 # § 531. Original appointments of commissioned officers

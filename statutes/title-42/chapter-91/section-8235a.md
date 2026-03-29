@@ -3,9 +3,9 @@ title: "Section 8235a - Approval of plans for prototype residential energy effic
 usc_title: 42
 usc_section: "8235a"
 chapter: 91
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 8235a"
-generated_at: "2026-03-29T20:01:33.429Z"
+generated_at: "2026-03-29T20:06:11.458Z"
 ---
 
 # § 8235a. Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs

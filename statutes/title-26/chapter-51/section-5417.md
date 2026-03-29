@@ -3,9 +3,9 @@ title: "Section 5417 - Pilot brewing plants"
 usc_title: 26
 usc_section: "5417"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5417"
-generated_at: "2026-03-29T19:59:49.546Z"
+generated_at: "2026-03-29T20:05:22.639Z"
 ---
 
 # § 5417. Pilot brewing plants

@@ -3,9 +3,9 @@ title: "Section 1701 - Customs-enforcement area"
 usc_title: 19
 usc_section: "1701"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1701"
-generated_at: "2026-03-29T19:58:51.747Z"
+generated_at: "2026-03-29T20:04:27.349Z"
 ---
 
 # § 1701. Customs-enforcement area

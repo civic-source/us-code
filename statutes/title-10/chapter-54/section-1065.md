@@ -3,9 +3,9 @@ title: "Section 1065 - Use of commissary stores and MWR facilities: certain vete
 usc_title: 10
 usc_section: "1065"
 chapter: 54
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1065"
-generated_at: "2026-03-29T19:58:02.044Z"
+generated_at: "2026-03-29T20:03:09.544Z"
 ---
 
 # § 1065. Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers

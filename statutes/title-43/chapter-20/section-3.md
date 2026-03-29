@@ -3,9 +3,9 @@ title: "Section 3 - Authority for transfers; applicability of section 869–2 to
 usc_title: 43
 usc_section: "3"
 chapter: 20
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-29T20:00:47.535Z"
+generated_at: "2026-03-29T20:05:36.510Z"
 ---
 
 # § 869–3. Authority for transfers; applicability of section 869–2 to prior patents; termination of restrictions

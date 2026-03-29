@@ -3,9 +3,9 @@ title: "Section 1015 - Recordation of installment payment obligations for incent
 usc_title: 37
 usc_section: "1015"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 1015"
-generated_at: "2026-03-29T20:00:34.802Z"
+generated_at: "2026-03-29T20:05:44.925Z"
 ---
 
 # § 1015. Recordation of installment payment obligations for incentive pays and similar benefits

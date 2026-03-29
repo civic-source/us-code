@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 1
 current_through: "PL 119-73"
 classification: "1 U.S.C. § 1"
-generated_at: "2026-03-29T20:01:43.775Z"
+generated_at: "2026-03-29T20:02:17.112Z"
 ---
 
 # § 1. Words denoting number, gender, and so forth

@@ -3,9 +3,9 @@ title: "Section 2906 - Monitoring of estuary habitat restoration projects"
 usc_title: 33
 usc_section: "2906"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2906"
-generated_at: "2026-03-29T20:00:31.427Z"
+generated_at: "2026-03-29T20:05:35.861Z"
 ---
 
 # § 2906. Monitoring of estuary habitat restoration projects

@@ -3,9 +3,9 @@ title: "Section 805 - General deductions"
 usc_title: 26
 usc_section: "805"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 805"
-generated_at: "2026-03-29T19:59:49.342Z"
+generated_at: "2026-03-29T20:05:22.419Z"
 ---
 
 # § 805. General deductions
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T19:59:49.342Z"
       - **(ii)** the deductions provided by paragraphs (3) and (4) of subsection (a),
       - **(iii)** any net operating loss carryback to the taxable year under section 172, and
       - **(iv)** any capital loss carryback to the taxable year under section 1212(a)(1), and
-    - **(B)** under regulations prescribed by the Secretary, a rule similar to the rule contained in section 170(d)(2)(B) (relating to special rule for net operating loss carryovers) shall be applied.
+    - **(B)** under regulations prescribed by the Secretary, a rule similar to the rule contained in section 170(d)(2)(B) 1 1 See References in Text note below. (relating to special rule for net operating loss carryovers) shall be applied.
   - **(3)**
     - **(A)** Section 171 shall not apply.
     - **(B)** For rules relating to amortizable bond premium, see section 811(b).

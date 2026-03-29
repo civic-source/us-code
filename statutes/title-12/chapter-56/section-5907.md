@@ -5,7 +5,7 @@ usc_section: "5907"
 chapter: 56
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5907"
-generated_at: "2026-03-29T02:11:21.322Z"
+generated_at: "2026-03-29T20:03:46.028Z"
 ---
 
 # § 5907. Anti-money laundering protections

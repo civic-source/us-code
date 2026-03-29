@@ -5,7 +5,7 @@ usc_section: "6335"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6335"
-generated_at: "2026-03-29T02:10:45.266Z"
+generated_at: "2026-03-29T20:03:09.830Z"
 ---
 
 # § 6335. Limitations on use of funds for laboratory directed research and development purposes

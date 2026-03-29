@@ -5,7 +5,7 @@ usc_section: "6324"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6324"
-generated_at: "2026-03-29T02:10:45.265Z"
+generated_at: "2026-03-29T20:03:09.828Z"
 ---
 
 # § 6324. Contractor liability for injury or loss of property arising out of atomic weapons testing programs

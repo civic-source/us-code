@@ -3,9 +3,9 @@ title: "Section 7382 - Findings"
 usc_title: 42
 usc_section: "7382"
 chapter: 84
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7382"
-generated_at: "2026-03-29T20:01:33.329Z"
+generated_at: "2026-03-29T20:06:11.348Z"
 ---
 
 # § 7382. Findings

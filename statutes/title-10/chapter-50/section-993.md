@@ -3,9 +3,9 @@ title: "Section 993 - Notification of permanent reduction of sizable numbers of 
 usc_title: 10
 usc_section: "993"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 993"
-generated_at: "2026-03-29T19:58:02.037Z"
+generated_at: "2026-03-29T20:03:09.534Z"
 ---
 
 # § 993. Notification of permanent reduction of sizable numbers of members of the armed forces

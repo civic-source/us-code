@@ -3,9 +3,9 @@ title: "Section 1632a - Agricultural marketing resource center pilot project"
 usc_title: 7
 usc_section: "1632a"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1632a"
-generated_at: "2026-03-29T19:57:39.047Z"
+generated_at: "2026-03-29T20:02:52.543Z"
 ---
 
 # § 1632a. Agricultural marketing resource center pilot project

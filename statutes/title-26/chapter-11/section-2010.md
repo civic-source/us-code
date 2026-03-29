@@ -3,9 +3,9 @@ title: "Section 2010 - Unified credit against estate tax"
 usc_title: 26
 usc_section: "2010"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 2010"
-generated_at: "2026-03-29T19:59:49.452Z"
+generated_at: "2026-03-29T20:05:22.539Z"
 ---
 
 # § 2010. Unified credit against estate tax
@@ -18,11 +18,10 @@ generated_at: "2026-03-29T19:59:49.452Z"
     - **(A)** the basic exclusion amount, and
     - **(B)** in the case of a surviving spouse, the deceased spousal unused exclusion amount.
   - **(3)**
-    - **(A)** For purposes of this subsection, the basic exclusion amount is $5,000,000.
-    - **(B)** In the case of any decedent dying in a calendar year after 2011, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
+    - **(A)** For purposes of this subsection, the basic exclusion amount is $15,000,000.
+    - **(B)** In the case of any decedent dying in a calendar year after 2026, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2010” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-    - **(C)** In the case of estates of decedents dying or gifts made after December 31, 2017 , and before January 1, 2026 , subparagraph (A) shall be applied by substituting “$10,000,000” for “$5,000,000”.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** For purposes of this subsection, with respect to a surviving spouse of a deceased spouse dying after December 31, 2010 , the term “deceased spousal unused exclusion amount” means the lesser of—
     - **(A)** the basic exclusion amount, or
     - **(B)** the excess of—

@@ -3,9 +3,9 @@ title: "Section 5065 - Territorial extent of law"
 usc_title: 26
 usc_section: "5065"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5065"
-generated_at: "2026-03-29T19:59:49.538Z"
+generated_at: "2026-03-29T20:05:22.629Z"
 ---
 
 # § 5065. Territorial extent of law

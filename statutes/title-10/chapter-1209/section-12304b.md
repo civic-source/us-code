@@ -3,9 +3,9 @@ title: "Section 12304b - Selected Reserve: order to active duty for preplanned m
 usc_title: 10
 usc_section: "12304b"
 chapter: 1209
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 12304b"
-generated_at: "2026-03-29T19:58:02.365Z"
+generated_at: "2026-03-29T20:03:09.920Z"
 ---
 
 # § 12304b. Selected Reserve: order to active duty for preplanned missions in support of the combatant commands

@@ -5,7 +5,7 @@ usc_section: "6507"
 chapter: 65
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6507"
-generated_at: "2026-03-29T20:01:46.641Z"
+generated_at: "2026-03-29T20:02:11.362Z"
 ---
 
 # § 6507. Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums

@@ -3,16 +3,16 @@ title: "Section 6041A - Returns regarding payments of remuneration for services 
 usc_title: 26
 usc_section: "6041A"
 chapter: 61
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6041A"
-generated_at: "2026-03-29T19:59:49.565Z"
+generated_at: "2026-03-29T20:05:22.659Z"
 ---
 
 # § 6041A. Returns regarding payments of remuneration for services and direct sales
 
 - **(a)** If—
   - **(1)** any service-recipient engaged in a trade or business pays in the course of such trade or business during any calendar year remuneration to any person for services performed by such person, and
-  - **(2)** the aggregate of such remuneration paid to such person during such calendar year is $600 or more,
+  - **(2)** the aggregate of such remuneration paid to such person during such calendar year equals or exceeds the dollar amount in effect for such calendar year under section 6041(a),
 - **(b)**
   - **(1)** If—
     - **(A)** any person engaged in a trade or business in the course of such trade or business during any calendar year sells consumer products to any buyer on a buy-sell basis, a deposit-commission basis, or any similar basis which the Secretary prescribes by regulations, for resale (by the buyer or any other person) in the home or otherwise than in a permanent retail establishment, and
@@ -32,8 +32,9 @@ generated_at: "2026-03-29T19:59:49.565Z"
       - **(i)** services under contracts described in section 6050M(e)(3) with respect to which the requirements of section 6050M(e)(2) are met, and
       - **(ii)** such other services as the Secretary may specify in regulations prescribed after the date of the enactment of this paragraph.
 - **(e)** Every person required to make a return under subsection (a) or (b) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
-  - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
-  - **(2)** in the case of subsection (a), the aggregate amount of payments to the person required to be shown on such return.
+  - **(1)** the name, address, and phone number of the information contact of the person required to make such return,
+  - **(2)** in the case of subsection (a), the aggregate amount of payments to the person required to be shown on such return, and
+  - **(3)** in the case of subsection (a), the portion of payments that have been reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips.
 - **(f)**
   - **(1)** Any person with respect to whom a return or statement is required under this section to be made by another person shall furnish to such other person his name, address, and identification number at such time and in such manner as the Secretary may prescribe by regulations.
   - **(2)** The person to whom an identification number is furnished under paragraph (1) shall include such number on any return which such person is required to file under this section and to which such identification number relates.

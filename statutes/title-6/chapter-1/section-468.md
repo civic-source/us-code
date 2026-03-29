@@ -3,27 +3,14 @@ title: "Section 468 - Preserving Coast Guard mission performance"
 usc_title: 6
 usc_section: "468"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 468"
-generated_at: "2026-03-29T19:57:32.902Z"
+generated_at: "2026-03-29T20:02:42.010Z"
 ---
 
 # § 468. Preserving Coast Guard mission performance
 
-- **(a)** In this section:
-  - **(1)** The term “non-homeland security missions” means the following missions of the Coast Guard:
-    - **(A)** Marine safety.
-    - **(B)** Search and rescue.
-    - **(C)** Aids to navigation.
-    - **(D)** Living marine resources (fisheries law enforcement).
-    - **(E)** Marine environmental protection.
-    - **(F)** Ice operations.
-  - **(2)** The term “homeland security missions” means the following missions of the Coast Guard:
-    - **(A)** Ports, waterways and coastal security.
-    - **(B)** Drug interdiction.
-    - **(C)** Migrant interdiction.
-    - **(D)** Defense readiness.
-    - **(E)** Other law enforcement.
+- **(a)**
 - **(b)** There are transferred to the Department the authorities, functions, personnel, and assets of the Coast Guard, which shall be maintained as a distinct entity within the Department, including the authorities and functions of the Secretary of Transportation relating thereto.
 - **(c)** Notwithstanding any other provision of this chapter, the authorities, functions, and capabilities of the Coast Guard to perform its missions shall be maintained intact and without significant reduction after the transfer of the Coast Guard to the Department, except as specified in subsequent Acts.
 - **(d)** No mission, function, or asset (including for purposes of this subsection any ship, aircraft, or helicopter) of the Coast Guard may be diverted to the principal and continuing use of any other organization, unit, or entity of the Department, except for details or assignments that do not reduce the Coast Guard’s capability to perform its missions.

@@ -5,7 +5,7 @@ usc_section: "3309"
 chapter: 33
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 3309"
-generated_at: "2026-03-29T20:01:52.137Z"
+generated_at: "2026-03-29T20:02:37.777Z"
 ---
 
 # § 3309. Preference eligibles; examinations; additional points for

@@ -3,9 +3,9 @@ title: "Section 252 - Relief from certain existing claims under the Fair Labor S
 usc_title: 29
 usc_section: "252"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 252"
-generated_at: "2026-03-29T19:59:56.575Z"
+generated_at: "2026-03-29T20:05:03.632Z"
 ---
 
 # § 252. Relief from certain existing claims under the Fair Labor Standards Act of 1938, as amended, the Walsh-Healey Act, and the Bacon-Davis Act

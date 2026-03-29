@@ -5,7 +5,7 @@ usc_section: "4578"
 chapter: 45
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 4578"
-generated_at: "2026-03-29T20:01:46.619Z"
+generated_at: "2026-03-29T20:02:11.344Z"
 ---
 
 # § 4578. Restriction on payment of dual compensation by Secretary of Senate

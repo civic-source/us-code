@@ -5,7 +5,7 @@ usc_section: "2538"
 chapter: 25
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2538"
-generated_at: "2026-03-29T02:11:23.805Z"
+generated_at: "2026-03-29T20:03:17.311Z"
 ---
 
 # § 2538. Inclusion and command review of information on covered misconduct in personnel service records

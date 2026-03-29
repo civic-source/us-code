@@ -5,7 +5,7 @@ usc_section: "3374"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3374"
-generated_at: "2026-03-29T02:16:14.801Z"
+generated_at: "2026-03-29T20:06:21.148Z"
 ---
 
 # § 3374. Requirements with respect to duty to warn former senior officials and other United States persons

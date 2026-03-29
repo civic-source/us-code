@@ -3,9 +3,9 @@ title: "Section 3631 - Definitions"
 usc_title: 16
 usc_section: "3631"
 chapter: 56
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3631"
-generated_at: "2026-03-29T19:59:08.420Z"
+generated_at: "2026-03-29T20:04:20.413Z"
 ---
 
 # § 3631. Definitions

@@ -5,7 +5,7 @@ usc_section: "438"
 chapter: 14
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 438"
-generated_at: "2026-03-29T20:01:46.509Z"
+generated_at: "2026-03-29T20:02:11.261Z"
 ---
 
 # § 438. Transferred

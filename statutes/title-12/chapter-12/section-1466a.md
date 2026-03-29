@@ -3,9 +3,9 @@ title: "Section 1466a - District associations"
 usc_title: 12
 usc_section: "1466a"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1466a"
-generated_at: "2026-03-29T19:58:40.771Z"
+generated_at: "2026-03-29T20:03:45.634Z"
 ---
 
 # § 1466a. District associations

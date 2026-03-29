@@ -5,7 +5,7 @@ usc_section: "1952"
 chapter: 29
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1952"
-generated_at: "2026-03-29T20:01:46.588Z"
+generated_at: "2026-03-29T20:02:11.319Z"
 ---
 
 # § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut and certain other United States Capitol Police employees

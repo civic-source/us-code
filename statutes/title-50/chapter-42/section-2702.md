@@ -1,58 +1,12 @@
 ---
-title: "Section 2702 - Whistleblower protection program"
+title: "Section 2702 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
 usc_title: 50
 usc_section: "2702"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2702"
-generated_at: "2026-03-29T20:01:54.710Z"
+generated_at: "2026-03-29T20:06:21.089Z"
 ---
 
-# § 2702. Whistleblower protection program
+# §§ 2701, 2702. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
 
-- **(a)** The Secretary of Energy shall establish a program to ensure that covered individuals may not be discharged, demoted, or otherwise discriminated against as a reprisal for making protected disclosures.
-- **(b)** For purposes of this section, a covered individual is an individual who is an employee of the Department of Energy, or of a contractor of the Department, who is engaged in the defense activities of the Department.
-- **(c)** For purposes of this section, a protected disclosure is a disclosure—
-  - **(1)** made by a covered individual who takes appropriate steps to protect the security of the information in accordance with guidance provided under this section;
-  - **(2)** made to a person or entity specified in subsection (d); and
-  - **(3)** of classified or other information that the covered individual reasonably believes to provide direct and specific evidence of any of the following:
-    - **(A)** A violation of law or Federal regulation.
-    - **(B)** Gross mismanagement, a gross waste of funds, or abuse of authority.
-    - **(C)** A false statement to Congress on an issue of material fact.
-- **(d)** A person or entity specified in this subsection is any of the following:
-  - **(1)** A member of a committee of Congress having primary responsibility for oversight of the department, agency, or element of the Government to which the disclosed information relates.
-  - **(2)** An employee of Congress who is a staff member of such a committee and has an appropriate security clearance for access to information of the type disclosed.
-  - **(3)** The Inspector General of the Department of Energy.
-  - **(4)** The Federal Bureau of Investigation.
-  - **(5)** Any other element of the Government designated by the Secretary as authorized to receive information of the type disclosed.
-- **(e)** A member of, or an employee of Congress who is a staff member of, a committee of Congress specified in subsection (d) who receives a protected disclosure under this section does so in that member or employee’s official capacity as such a member or employee.
-- **(f)** The Secretary, acting through the Inspector General of the Department of Energy, shall provide assistance and guidance to each covered individual who seeks to make a protected disclosure under this section. Such assistance and guidance shall include the following:
-  - **(1)** Identifying the persons or entities under subsection (d) to which that disclosure may be made.
-  - **(2)** Advising that individual regarding the steps to be taken to protect the security of the information to be disclosed.
-  - **(3)** Taking appropriate actions to protect the identity of that individual throughout that disclosure.
-  - **(4)** Taking appropriate actions to coordinate that disclosure with any other Federal agency or agencies that originated the information.
-- **(g)** The Secretary shall prescribe regulations to ensure the security of any information disclosed under this section.
-- **(h)** The Secretary shall notify each covered individual of the following:
-  - **(1)** The rights of that individual under this section.
-  - **(2)** The assistance and guidance provided under this section.
-  - **(3)** That the individual has a responsibility to obtain that assistance and guidance before seeking to make a protected disclosure.
-- **(i)** If a covered individual believes that that individual has been discharged, demoted, or otherwise discriminated against as a reprisal for making a protected disclosure under this section, the individual may submit a complaint relating to such matter to the Director of the Office of Hearings and Appeals of the Department of Energy.
-- **(j)**
-  - **(1)** For each complaint submitted under subsection (i), the Director of the Office of Hearings and Appeals shall—
-    - **(A)** determine whether or not the complaint is frivolous; and
-    - **(B)** if the Director determines the complaint is not frivolous, conduct an investigation of the complaint.
-  - **(2)** The Director shall submit a report on each investigation undertaken under paragraph (1)(B) to—
-    - **(A)** the individual who submitted the complaint on which the investigation is based;
-    - **(B)** the contractor concerned, if any; and
-    - **(C)** the Secretary of Energy.
-- **(k)**
-  - **(1)** Whenever the Secretary determines that a covered individual has been discharged, demoted, or otherwise discriminated against as a reprisal for making a protected disclosure under this section, the Secretary shall—
-    - **(A)** in the case of a Department employee, take appropriate actions to abate the action; or
-    - **(B)** in the case of a contractor employee, order the contractor concerned to take appropriate actions to abate the action.
-  - **(2)**
-    - **(A)** If a contractor fails to comply with an order issued under paragraph (1)(B), the Secretary may file an action for enforcement of the order in the appropriate United States district court.
-    - **(B)** In any action brought under subparagraph (A), the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
-- **(l)** The protections provided by this section are independent of, and not subject to any limitations that may be provided in, the Whistleblower Protection Act of 1989 ( Public Law 101–12 ; 103 Stat. 16 ) or any other law that may provide protection for disclosures of information by employees of the Department of Energy or of a contractor of the Department.
-- **(m)**
-  - **(1)** Not later than 30 days after the commencement of each fiscal year, the Director shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the investigations undertaken under subsection (j)(1)(B) during the preceding fiscal year, including a summary of the results of each such investigation.
-  - **(2)** A report under paragraph (1) may not identify or otherwise provide any information about an individual submitting a complaint under this section without the consent of the individual.

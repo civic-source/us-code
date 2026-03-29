@@ -3,9 +3,9 @@ title: "Section 1467a - Working capital fund; credit card refunds or rebates"
 usc_title: 43
 usc_section: "1467a"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1467a"
-generated_at: "2026-03-29T20:00:47.562Z"
+generated_at: "2026-03-29T20:05:36.538Z"
 ---
 
 # § 1467a. Working capital fund; credit card refunds or rebates

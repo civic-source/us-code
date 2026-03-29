@@ -3,9 +3,9 @@ title: "Section 30a - Repealed. June 17, 1930, ch. 497, § 651(a)(3) , 46 Stat. 
 usc_title: 19
 usc_section: "30a"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 30a"
-generated_at: "2026-03-29T19:58:51.666Z"
+generated_at: "2026-03-29T20:04:27.267Z"
 ---
 
 # § 30a. Repealed. June 17, 1930, ch. 497, § 651(a)(3) , 46 Stat. 762 , eff. June 18, 1930

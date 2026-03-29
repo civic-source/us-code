@@ -3,9 +3,9 @@ title: "Section 1152 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1152"
 chapter: 58
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1152"
-generated_at: "2026-03-29T19:58:02.072Z"
+generated_at: "2026-03-29T20:03:09.574Z"
 ---
 
 # § 1152. Assistance to eligible members and former members to obtain employment with law enforcement agencies

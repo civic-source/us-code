@@ -3,9 +3,9 @@ title: "Section 886 - Payments and advances"
 usc_title: 21
 usc_section: "886"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 886"
-generated_at: "2026-03-29T19:59:28.527Z"
+generated_at: "2026-03-29T20:04:50.586Z"
 ---
 
 # § 886. Payments and advances

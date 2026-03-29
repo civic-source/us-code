@@ -3,9 +3,9 @@ title: "Section 436 - Regulations"
 usc_title: 10
 usc_section: "436"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 436"
-generated_at: "2026-03-29T19:58:01.972Z"
+generated_at: "2026-03-29T20:03:09.461Z"
 ---
 
 # § 436. Regulations

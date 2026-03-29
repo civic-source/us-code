@@ -5,7 +5,7 @@ usc_section: "5908"
 chapter: 56
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5908"
-generated_at: "2026-03-29T02:11:21.322Z"
+generated_at: "2026-03-29T20:03:46.029Z"
 ---
 
 # § 5908. Anti-money laundering innovation

@@ -3,9 +3,9 @@ title: "Section 1802 - Definitions"
 usc_title: 16
 usc_section: "1802"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1802"
-generated_at: "2026-03-29T19:59:08.344Z"
+generated_at: "2026-03-29T20:04:20.341Z"
 ---
 
 # § 1802. Definitions
@@ -14,7 +14,7 @@ As used in this chapter, unless the context otherwise requires—
 
   - **(1)** The term “anadromous species” means species of fish which spawn in fresh or estuarine waters of the United States and which migrate to ocean waters.
   - **(2)** The term “bycatch” means fish which are harvested in a fishery, but which are not sold or kept for personal use, and includes economic discards and regulatory discards. Such term does not include fish released alive under a recreational catch and release fishery management program.
-  - **(3)** The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in section 2101(30) of title 46 ) who is engaged in recreational fishing.
+  - **(3)** The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in section 2101 of title 46 ) who is engaged in recreational fishing.
   - **(4)** The term “commercial fishing” means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
   - **(5)** The term “conservation and management” refers to all of the rules, regulations, conditions, methods, and other measures (A) which are required to rebuild, restore, or maintain, and which are useful in rebuilding, restoring, or maintaining, any fishery resource and the marine environment; and (B) which are designed to assure that—
       - **(i)** a supply of food and other products may be taken, and that recreational benefits may be obtained, on a continuing basis;

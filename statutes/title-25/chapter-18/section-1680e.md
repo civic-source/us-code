@@ -3,9 +3,9 @@ title: "Section 1680e - Contract health services for the Trenton Service Area"
 usc_title: 25
 usc_section: "1680e"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 1680e"
-generated_at: "2026-03-29T19:59:16.357Z"
+generated_at: "2026-03-29T20:04:54.382Z"
 ---
 
 # § 1680e. Contract health services for the Trenton Service Area

@@ -3,9 +3,9 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-29T20:01:32.869Z"
+generated_at: "2026-03-29T20:06:10.884Z"
 ---
 
 # § 1758. Program requirements
@@ -18,16 +18,18 @@ generated_at: "2026-03-29T20:01:32.869Z"
     - **(B)** The Secretary shall provide technical assistance and training, including technical assistance and training in the preparation of lower-fat versions of foods commonly used in the school lunch program under this chapter, to schools participating in the school lunch program to assist the schools in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A) and in providing appropriate meals to children with medically certified special dietary needs. The Secretary shall provide additional technical assistance to schools that are having difficulty maintaining compliance with the requirements.
   - **(2)**
     - **(A)** Lunches served by schools participating in the school lunch program under this chapter—
-      - **(i)** shall offer students a variety of fluid milk. Such milk shall be consistent with the most recent Dietary Guidelines for Americans published under section 5341 of title 7 ;
-      - **(ii)** may offer students flavored and unflavored fluid milk and lactose-free fluid milk; and
-      - **(iii)** shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.
+      - **(i)** shall offer students a variety of fluid milk;
+      - **(ii)** may offer students options which may include flavored and unflavored organic or nonorganic whole, reduced-fat, low-fat, and fat-free fluid milk and lactose-free fluid milk, and nondairy beverages that are nutritionally equivalent to fluid milk and meet the nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow’s milk); and
+      - **(iii)** shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician, parent, or legal guardian that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.
     - **(B)**
       - **(i)** A school may substitute for the fluid milk provided under subparagraph (A), a nondairy beverage that is nutritionally equivalent to fluid milk and meets nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow’s milk) for students who cannot consume fluid milk because of a medical or other special dietary need other than a disability described in subparagraph (A)(iii).
       - **(ii)** The substitutions may be made if the school notifies the State agency that the school is implementing a variation allowed under this subparagraph, and if the substitution is requested by written statement of a medical authority or by a student’s parent or legal guardian that identifies the medical or other special dietary need that restricts the student’s diet, except that the school shall not be required to provide beverages other than beverages the school has identified as acceptable substitutes.
       - **(iii)** Expenses incurred in providing substitutions under this subparagraph that are in excess of expenses covered by reimbursements under this chapter shall be paid by the school food authority.
-    - **(C)** A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of fluid milk products by the school (or by a person approved by the school) at any time or any place—
+    - **(C)** A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of products described in subparagraph (A)(ii) by the school (or by a person approved by the school) at any time or any place—
       - **(i)** on the school premises; or
       - **(ii)** at any school-sponsored event.
+    - **(D)** Milk fat included in any fluid milk provided under subparagraph (A) shall not be considered saturated fat for purposes of measuring compliance with the allowable average saturated fat content of a meal under section 210.10 of title 7, Code of Federal Regulations (or successor regulations).
+    - **(E)** Subparagraph (B)(ii) is not applicable to a school that offers nondairy beverages under subparagraph (A)(ii).
   - **(3)** Students in senior high schools that participate in the school lunch program under this chapter (and, when approved by the local school district or nonprofit private schools, students in any other grade level) shall not be required to accept offered foods they do not intend to consume, and any such failure to accept offered foods shall not affect the full charge to the student for a lunch meeting the requirements of this subsection or the amount of payments made under this chapter to any such school for such lunch.
   - **(4)**
     - **(A)** Prior to the beginning of the school year beginning July 2004, the Secretary shall issue guidance to States and school food authorities to increase the consumption of foods and food ingredients that are recommended for increased serving consumption in the most recent Dietary Guidelines for Americans published under section 5341 of title 7 .
@@ -309,10 +311,10 @@ generated_at: "2026-03-29T20:01:32.869Z"
     - **(B)** post in a publicly visible location a report on the most recent inspection conducted under subparagraph (A); and
     - **(C)** on request, provide a copy of the report to a member of the public.
   - **(2)** Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
-  - **(3)** For fiscal year 2024, each State shall annually—
+  - **(3)** For fiscal year 2026, each State shall annually—
     - **(A)** audit food safety inspections of schools conducted under paragraphs (1) and (2); and
     - **(B)** submit to the Secretary a report of the results of the audit.
-  - **(4)** For fiscal year 2024, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+  - **(4)** For fiscal year 2026, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
   - **(5)**
     - **(A)** Each school food authority shall implement a school food safety program, in the preparation and service of each meal served to children, that complies with any hazard analysis and critical control point system established by the Secretary.
     - **(B)** Subparagraph (A) shall apply to any facility or part of a facility in which food is stored, prepared, or served for the purposes of the school nutrition programs under this chapter or section 4 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773 ).

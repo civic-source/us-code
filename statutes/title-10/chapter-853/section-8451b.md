@@ -5,7 +5,7 @@ usc_section: "8451b"
 chapter: 853
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8451b"
-generated_at: "2026-03-29T02:10:45.306Z"
+generated_at: "2026-03-29T20:03:09.862Z"
 ---
 
 # § 8451b. Director of admissions

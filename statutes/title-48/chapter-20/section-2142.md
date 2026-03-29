@@ -3,9 +3,9 @@ title: "Section 2142 - Approval of Budgets"
 usc_title: 48
 usc_section: "2142"
 chapter: 20
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 2142"
-generated_at: "2026-03-29T20:01:41.644Z"
+generated_at: "2026-03-29T20:06:17.942Z"
 ---
 
 # § 2142. Approval of Budgets

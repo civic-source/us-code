@@ -3,9 +3,9 @@ title: "Section 8118 - Authority for transfer of real property; Department of Ve
 usc_title: 38
 usc_section: "8118"
 chapter: 81
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 8118"
-generated_at: "2026-03-29T20:00:43.177Z"
+generated_at: "2026-03-29T20:05:54.801Z"
 ---
 
 # § 8118. Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T20:00:43.177Z"
   - **(2)** The Secretary may exercise the authority provided by this section notwithstanding sections 521, 522, and 541 through 545 of title 40. Any such transfer shall be in accordance with this section and section 8122 of this title .
   - **(3)** The authority provided by this section may not be used in a case to which section 8164 of this title applies.
   - **(4)** The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
-  - **(5)** The authority of the Secretary under paragraph (1) expires on September 30, 2025 .
+  - **(5)** The authority of the Secretary under paragraph (1) expires on September 30, 2026 .
 - **(b)**
   - **(1)** There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs Capital Asset Fund (hereinafter in this section referred to as the “Fund”). Amounts in the Fund shall remain available until expended.
   - **(2)** Proceeds from the transfer of real property under this section shall be deposited into the Fund.

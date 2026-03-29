@@ -3,9 +3,9 @@ title: "Section 502 - Liability of shareholders of Federal reserve banks on cont
 usc_title: 12
 usc_section: "502"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 502"
-generated_at: "2026-03-29T19:58:40.727Z"
+generated_at: "2026-03-29T20:03:45.592Z"
 ---
 
 # § 502. Liability of shareholders of Federal reserve banks on contracts, etc.

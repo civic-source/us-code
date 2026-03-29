@@ -3,9 +3,9 @@ title: "Section 2165 - National Defense University: component institutions"
 usc_title: 10
 usc_section: "2165"
 chapter: 108
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2165"
-generated_at: "2026-03-29T19:58:02.141Z"
+generated_at: "2026-03-29T20:03:09.649Z"
 ---
 
 # § 2165. National Defense University: component institutions
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:58:02.141Z"
   - **(1)** The National War College.
   - **(2)** The Dwight D. Eisenhower School for National Security and Resource Strategy.
   - **(3)** The Joint Forces Staff College.
-  - **(4)** The Institute for National Strategic Studies.
+  - **(4)** The Institute for National Strategic Studies (including a Center for Strategic Deterrence and Weapons of Mass Destruction Studies).
   - **(5)** The College of Information and Cyberspace.
   - **(6)** The College of International Security Affairs.
   - **(7)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.

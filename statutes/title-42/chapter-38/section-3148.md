@@ -3,9 +3,9 @@ title: "Section 3148 - Investment priorities"
 usc_title: 42
 usc_section: "3148"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3148"
-generated_at: "2026-03-29T20:01:33.060Z"
+generated_at: "2026-03-29T20:06:11.076Z"
 ---
 
 # § 3148. Investment priorities

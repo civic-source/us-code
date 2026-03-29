@@ -3,9 +3,9 @@ title: "Section 5d - Authorization of Secretary of the Army to contract with Sta
 usc_title: 42
 usc_section: "5d"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5d"
-generated_at: "2026-03-29T20:01:32.931Z"
+generated_at: "2026-03-29T20:06:10.944Z"
 ---
 
 # § 1962d–5d. Authorization of Secretary of the Army to contract with States and political subdivisions for increased law enforcement services during peak visitation periods; authorization of appropriations

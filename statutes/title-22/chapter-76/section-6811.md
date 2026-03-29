@@ -3,9 +3,9 @@ title: "Section 6811 - Coordinated donor strategy for support and education of o
 usc_title: 22
 usc_section: "6811"
 chapter: 76
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6811"
-generated_at: "2026-03-29T19:59:24.273Z"
+generated_at: "2026-03-29T20:04:46.951Z"
 ---
 
 # § 6811. Coordinated donor strategy for support and education of orphans in sub-Saharan Africa

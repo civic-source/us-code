@@ -3,9 +3,9 @@ title: "Section 8544 - Service First Initiative; permits for multijurisdictional
 usc_title: 16
 usc_section: "8544"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8544"
-generated_at: "2026-03-29T19:59:08.553Z"
+generated_at: "2026-03-29T20:04:20.526Z"
 ---
 
 # § 8544. Service First Initiative; permits for multijurisdictional trips

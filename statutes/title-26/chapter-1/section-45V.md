@@ -3,9 +3,9 @@ title: "Section 45V - Credit for production of clean hydrogen"
 usc_title: 26
 usc_section: "45V"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 45V"
-generated_at: "2026-03-29T19:59:49.091Z"
+generated_at: "2026-03-29T20:05:22.154Z"
 ---
 
 # § 45V. Credit for production of clean hydrogen
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T19:59:49.091Z"
   - **(3)** The term “qualified clean hydrogen production facility” means a facility—
     - **(A)** owned by the taxpayer,
     - **(B)** which produces qualified clean hydrogen, and
-    - **(C)** the construction of which begins before January 1, 2033 .
+    - **(C)** the construction of which begins before January 1, 2028 .
 - **(d)**
   - **(1)** Rules similar to the rules section 45(e)(3) shall apply for purposes of this section.
   - **(2)** No credit shall be allowed under this section with respect to any qualified clean hydrogen produced at a facility which includes carbon capture equipment for which a credit is allowed to any taxpayer under section 45Q for the taxable year or any prior taxable year.

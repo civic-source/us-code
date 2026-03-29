@@ -3,9 +3,9 @@ title: "Section 3732 - False claims jurisdiction"
 usc_title: 31
 usc_section: "3732"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 3732"
-generated_at: "2026-03-29T20:00:25.342Z"
+generated_at: "2026-03-29T20:05:32.600Z"
 ---
 
 # § 3732. False claims jurisdiction

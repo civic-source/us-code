@@ -1,14 +1,14 @@
 ---
-title: "Section 15735 - Mid-Atlantic Regional Commission."
+title: "Section 15735 - Mid-Atlantic Regional Commission. 1 1 So in original. The period probably should not appear."
 usc_title: 40
 usc_section: "15735"
 chapter: 157
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 15735"
-generated_at: "2026-03-29T20:00:35.909Z"
+generated_at: "2026-03-29T20:05:42.974Z"
 ---
 
-# § 15735. Mid-Atlantic Regional Commission.
+# § 15735. Mid-Atlantic Regional Commission. 1 1 So in original. The period probably should not appear.
 
 The region of the Mid-Atlantic Regional Commission shall include the following counties:
 

@@ -3,9 +3,9 @@ title: "Section 105 - Amounts received under accident and health plans"
 usc_title: 26
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 105"
-generated_at: "2026-03-29T19:59:49.127Z"
+generated_at: "2026-03-29T20:05:22.195Z"
 ---
 
 # § 105. Amounts received under accident and health plans

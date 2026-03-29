@@ -3,9 +3,9 @@ title: "Section 7153 - Commissioned officers: appointment without specification 
 usc_title: 10
 usc_section: "7153"
 chapter: 715
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7153"
-generated_at: "2026-03-29T19:58:02.282Z"
+generated_at: "2026-03-29T20:03:09.836Z"
 ---
 
 # § 7153. Commissioned officers: appointment without specification of branch; transfer between branches

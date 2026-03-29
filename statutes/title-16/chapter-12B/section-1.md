@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 88–426, title III, § 305(36) , Aug. 14,
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T19:59:08.239Z"
+generated_at: "2026-03-29T20:04:20.240Z"
 ---
 
 # § 832a–1. Repealed. Pub. L. 88–426, title III, § 305(36) , Aug. 14, 1964 , 78 Stat. 427

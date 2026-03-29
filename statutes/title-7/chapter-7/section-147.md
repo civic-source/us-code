@@ -3,9 +3,9 @@ title: "Section 147 - Omitted"
 usc_title: 7
 usc_section: "147"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 147"
-generated_at: "2026-03-29T19:57:38.930Z"
+generated_at: "2026-03-29T20:02:52.421Z"
 ---
 
 # §§ 146, 147. Omitted

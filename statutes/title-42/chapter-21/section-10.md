@@ -3,9 +3,9 @@ title: "Section 10 - Posting of notices; penalties"
 usc_title: 42
 usc_section: "10"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T20:01:32.946Z"
+generated_at: "2026-03-29T20:06:10.961Z"
 ---
 
 # § 2000e–10. Posting of notices; penalties

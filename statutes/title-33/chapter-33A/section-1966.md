@@ -5,7 +5,7 @@ usc_section: "1966"
 chapter: 33
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1966"
-generated_at: "2026-03-29T02:14:18.597Z"
+generated_at: "2026-03-29T20:05:35.794Z"
 ---
 
 # § 1966. Report requirements; petition of Attorney General for equitable relief

@@ -3,9 +3,9 @@ title: "Section 44103 - Registration of aircraft"
 usc_title: 49
 usc_section: "44103"
 chapter: 441
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 44103"
-generated_at: "2026-03-29T20:01:51.116Z"
+generated_at: "2026-03-29T20:06:28.277Z"
 ---
 
 # § 44103. Registration of aircraft

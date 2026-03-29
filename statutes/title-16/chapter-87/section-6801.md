@@ -3,9 +3,9 @@ title: "Section 6801 - Definitions"
 usc_title: 16
 usc_section: "6801"
 chapter: 87
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 6801"
-generated_at: "2026-03-29T19:59:08.513Z"
+generated_at: "2026-03-29T20:04:20.494Z"
 ---
 
 # § 6801. Definitions

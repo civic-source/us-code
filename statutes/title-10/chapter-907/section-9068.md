@@ -5,7 +5,7 @@ usc_section: "9068"
 chapter: 907
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9068"
-generated_at: "2026-03-29T02:10:45.337Z"
+generated_at: "2026-03-29T20:03:09.890Z"
 ---
 
 # § 9068. Air Force Global Strike Command

@@ -5,7 +5,7 @@ usc_section: "25b"
 chapter: 2
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 25b"
-generated_at: "2026-03-29T20:01:46.473Z"
+generated_at: "2026-03-29T20:02:11.233Z"
 ---
 
 # § 25b. Repealed. Pub. L. 104–186, title II, § 202(1) , Aug. 20, 1996 , 110 Stat. 1724

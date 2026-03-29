@@ -3,16 +3,16 @@ title: "Section 3202 - Application"
 usc_title: 46
 usc_section: "3202"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 3202"
-generated_at: "2026-03-29T20:01:44.408Z"
+generated_at: "2026-03-29T20:07:02.653Z"
 ---
 
 # § 3202. Application
 
 - **(a)** This chapter applies to a vessel that—
   - **(1)**
-    - **(A)** is transporting more than 12 passengers described in section 2101(29)(A) of this title ; or
+    - **(A)** is transporting more than 12 passengers described in section 2101(31)(A) of this title ; or
     - **(B)** is of at least 500 gross tons as measured under section 14302 of this title and is a tanker, freight vessel, bulk freight vessel, high speed freight vessel, or self-propelled mobile offshore drilling unit; and
   - **(2)**
     - **(A)** is engaged on a foreign voyage; or

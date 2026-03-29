@@ -3,9 +3,9 @@ title: "Section 2344 - Safety assurance review"
 usc_title: 33
 usc_section: "2344"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2344"
-generated_at: "2026-03-29T20:00:31.407Z"
+generated_at: "2026-03-29T20:05:35.838Z"
 ---
 
 # § 2344. Safety assurance review

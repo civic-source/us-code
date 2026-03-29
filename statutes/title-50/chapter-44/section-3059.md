@@ -3,9 +3,9 @@ title: "Section 3059 - Foreign Malign Influence Center"
 usc_title: 50
 usc_section: "3059"
 chapter: 44
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3059"
-generated_at: "2026-03-29T20:01:54.737Z"
+generated_at: "2026-03-29T20:06:21.106Z"
 ---
 
 # § 3059. Foreign Malign Influence Center

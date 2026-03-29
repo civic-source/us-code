@@ -5,7 +5,7 @@ usc_section: "8956"
 chapter: 89
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8956"
-generated_at: "2026-03-29T20:01:52.279Z"
+generated_at: "2026-03-29T20:02:37.919Z"
 ---
 
 # § 8956. Election of coverage

@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-29T19:58:01.957Z"
+generated_at: "2026-03-29T20:03:09.446Z"
 ---
 
 # § 333. Foreign security forces: authority to build capacity
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T19:58:01.957Z"
   - **(3)** Information, by recipient country, on the status of funds allocated for programs under subsection (a), including amounts of unobligated funds, unliquidated obligations, and disbursements.
 - **(g)**
   - **(1)** Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
-  - **(2)** Amounts made available in fiscal year 2025 or any subsequent fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the third fiscal year thereafter.
+  - **(2)** Amounts available in fiscal year 2025 or any subsequent fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the third fiscal year thereafter.
 - **(h)**
   - **(1)** The Secretary of Defense may treat as stocks of the Department of Defense—
     - **(A)** equipment procured to carry out a program pursuant to subsection (a) that has not yet been transferred to a foreign country and is no longer needed to support such program or any other program carried out pursuant to such subsection; and

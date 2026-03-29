@@ -3,9 +3,9 @@ title: "Section 716 - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "716"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 716"
-generated_at: "2026-03-29T20:00:31.275Z"
+generated_at: "2026-03-29T20:05:35.690Z"
 ---
 
 # § 716. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561

@@ -3,19 +3,20 @@ title: "Section 2350j - Burden sharing contributions by designated countries and
 usc_title: 10
 usc_section: "2350j"
 chapter: 138
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2350j"
-generated_at: "2026-03-29T19:58:02.161Z"
+generated_at: "2026-03-29T20:03:09.673Z"
 ---
 
 # § 2350j. Burden sharing contributions by designated countries and regional organizations
 
 - **(a)** The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
-- **(b)** Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
+- **(b)** Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from another country or a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
 - **(c)** Contributions accepted under subsection (a) shall be available only for the payment of the following costs:
-  - **(1)** Compensation for local national employees of the Department of Defense.
-  - **(2)** Military construction projects of the Department of Defense.
-  - **(3)** Supplies and services of the Department of Defense.
+  - **(1)** Compensation for local national employees of the Department of Defense in the host nation or another country.
+  - **(2)** Military construction projects of the Department of Defense in the host nation or another country.
+  - **(3)** Supplies and services of the Department of Defense in the host nation or another country.
+  - **(4)** Other logistical and operational support for the armed forces in a deployed or rotational status in a country that is a member of the North Atlantic Treaty Organization.
 - **(d)** Contributions placed in an account established under subsection (b) may be used—
   - **(1)** by the Secretary of Defense to carry out a military construction project that is consistent with the purposes for which the contributions were made and is not otherwise authorized by law; or
   - **(2)** by the Secretary of a military department, with the approval of the Secretary of Defense, to carry out such a project.
@@ -39,8 +40,15 @@ generated_at: "2026-03-29T19:58:02.161Z"
     - **(D)** For each designated country—
       - **(i)** the amount provided by the designated country; and
       - **(ii)** the amount of any remaining unobligated balance.
-    - **(E)** The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
+    - **(E)** The amount of such burden sharing contributions expended, by eligible category, including compensation for—
+      - **(i)** local national employees;
+      - **(ii)** military construction projects;
+      - **(iii)** supplies and services of the Department of Defense; and
+      - **(iv)** other logistical and operational support for the armed forces in a deployed or rotational status in a country that is a member of the North Atlantic Treaty Organization.
     - **(F)** Any other matter the Secretary of Defense considers relevant.
   - **(3)** In this subsection, the term “appropriate committees of Congress” means—
     - **(A)** the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+- **(g)** In this section, the term “other logistical and operational support for the armed forces”—
+  - **(1)** means the reasonable and proper costs of the armed forces for fuel, transportation, force protection (including cyber protection), training ammunition, utilities, and medical and maintenance services, including services required to maintain infrastructure, pre-positioned stocks, and equipment in good working order; and
+  - **(2)** does not include pay, allowances, and other normal benefits to which members of the United States armed forces are entitled.

@@ -3,9 +3,9 @@ title: "Section 460rrr - Definitions"
 usc_title: 16
 usc_section: "460rrr"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 460rrr"
-generated_at: "2026-03-29T19:59:08.077Z"
+generated_at: "2026-03-29T20:04:20.108Z"
 ---
 
 # § 460rrr. Definitions

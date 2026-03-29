@@ -3,9 +3,9 @@ title: "Section 267A - Certain related party amounts paid or accrued in hybrid t
 usc_title: 26
 usc_section: "267A"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 267A"
-generated_at: "2026-03-29T19:59:49.202Z"
+generated_at: "2026-03-29T20:05:22.271Z"
 ---
 
 # § 267A. Certain related party amounts paid or accrued in hybrid transactions or with hybrid entities

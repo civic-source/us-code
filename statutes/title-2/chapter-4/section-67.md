@@ -5,7 +5,7 @@ usc_section: "67"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 67"
-generated_at: "2026-03-29T20:01:46.478Z"
+generated_at: "2026-03-29T20:02:11.238Z"
 ---
 
 # § 67. Transferred

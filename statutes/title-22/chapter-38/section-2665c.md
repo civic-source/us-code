@@ -5,7 +5,7 @@ usc_section: "2665c"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2665c"
-generated_at: "2026-03-29T02:12:40.229Z"
+generated_at: "2026-03-29T20:04:46.809Z"
 ---
 
 # § 2665c. Thomas R. Pickering Foreign Affairs Fellowship Program

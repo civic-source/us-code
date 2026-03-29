@@ -3,9 +3,9 @@ title: "Section 715l - Repealed. June 22, 1942, ch. 436 , 56 Stat. 381"
 usc_title: 15
 usc_section: "715l"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 715l"
-generated_at: "2026-03-29T19:58:17.641Z"
+generated_at: "2026-03-29T20:03:27.342Z"
 ---
 
 # § 715l. Repealed. June 22, 1942, ch. 436 , 56 Stat. 381

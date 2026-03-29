@@ -3,9 +3,9 @@ title: "Section 269d - Inter American Statistical Institute; authorization of ap
 usc_title: 22
 usc_section: "269d"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 269d"
-generated_at: "2026-03-29T19:59:23.969Z"
+generated_at: "2026-03-29T20:04:46.646Z"
 ---
 
 # § 269d. Inter American Statistical Institute; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 411 - Supreme Court reports; printing, binding, and distribution
 usc_title: 28
 usc_section: "411"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 411"
-generated_at: "2026-03-29T20:00:05.268Z"
+generated_at: "2026-03-29T20:05:24.751Z"
 ---
 
 # § 411. Supreme Court reports; printing, binding, and distribution

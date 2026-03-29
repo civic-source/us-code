@@ -3,9 +3,9 @@ title: "Section 833m - Determination of compensation for acquisition of Indian l
 usc_title: 16
 usc_section: "833m"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 833m"
-generated_at: "2026-03-29T19:59:08.242Z"
+generated_at: "2026-03-29T20:04:20.242Z"
 ---
 
 # § 833m. Determination of compensation for acquisition of Indian lands; funds payable from; disposition of moneys

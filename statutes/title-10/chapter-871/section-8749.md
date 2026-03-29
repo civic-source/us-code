@@ -3,9 +3,9 @@ title: "Section 8749 - Civil service mariners of Military Sealift Command: relea
 usc_title: 10
 usc_section: "8749"
 chapter: 871
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8749"
-generated_at: "2026-03-29T19:58:02.326Z"
+generated_at: "2026-03-29T20:03:09.880Z"
 ---
 
 # § 8749. Civil service mariners of Military Sealift Command: release of drug and alcohol test results to Coast Guard

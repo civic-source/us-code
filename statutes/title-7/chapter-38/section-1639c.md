@@ -3,9 +3,9 @@ title: "Section 1639c - Savings provisions"
 usc_title: 7
 usc_section: "1639c"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1639c"
-generated_at: "2026-03-29T19:57:39.055Z"
+generated_at: "2026-03-29T20:02:52.550Z"
 ---
 
 # § 1639c. Savings provisions

@@ -5,7 +5,7 @@ usc_section: "1816b"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1816b"
-generated_at: "2026-03-29T20:01:46.573Z"
+generated_at: "2026-03-29T20:02:11.311Z"
 ---
 
 # § 1816b. Architect of the Capitol, authority for personal services contracts with legal entities

@@ -3,9 +3,9 @@ title: "Section 1415 - License and permit terms, conditions, and restrictions; i
 usc_title: 30
 usc_section: "1415"
 chapter: 26
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1415"
-generated_at: "2026-03-29T19:59:32.890Z"
+generated_at: "2026-03-29T20:05:08.754Z"
 ---
 
 # § 1415. License and permit terms, conditions, and restrictions; issuance and transfer of licenses and permits

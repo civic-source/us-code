@@ -3,9 +3,9 @@ title: "Section 2373 - Renumbered § 4023]"
 usc_title: 10
 usc_section: "2373"
 chapter: 139
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2373"
-generated_at: "2026-03-29T19:58:02.163Z"
+generated_at: "2026-03-29T20:03:09.678Z"
 ---
 
 # [§ 2373. Renumbered § 4023]

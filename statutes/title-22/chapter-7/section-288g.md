@@ -3,9 +3,9 @@ title: "Section 288g - Organization of American States; extension of privileges 
 usc_title: 22
 usc_section: "288g"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 288g"
-generated_at: "2026-03-29T19:59:24.010Z"
+generated_at: "2026-03-29T20:04:46.678Z"
 ---
 
 # § 288g. Organization of American States; extension of privileges and immunities to members

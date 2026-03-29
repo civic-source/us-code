@@ -3,9 +3,9 @@ title: "Section 9381 - Fatality reviews"
 usc_title: 10
 usc_section: "9381"
 chapter: 949
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9381"
-generated_at: "2026-03-29T19:58:02.340Z"
+generated_at: "2026-03-29T20:03:09.894Z"
 ---
 
 # § 9381. Fatality reviews

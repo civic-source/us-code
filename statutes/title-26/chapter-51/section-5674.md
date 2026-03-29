@@ -3,9 +3,9 @@ title: "Section 5674 - Penalty for unlawful production or removal of beer"
 usc_title: 26
 usc_section: "5674"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5674"
-generated_at: "2026-03-29T19:59:49.549Z"
+generated_at: "2026-03-29T20:05:22.642Z"
 ---
 
 # § 5674. Penalty for unlawful production or removal of beer

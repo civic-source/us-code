@@ -5,7 +5,7 @@ usc_section: "471"
 chapter: 5
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 471"
-generated_at: "2026-03-29T20:01:43.996Z"
+generated_at: "2026-03-29T20:02:12.941Z"
 ---
 
 # § 471. Effective date

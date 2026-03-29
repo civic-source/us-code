@@ -3,9 +3,9 @@ title: "Section 1393 - Repealed. Pub. L. 100–702, title X, § 1001(a) , Nov. 1
 usc_title: 28
 usc_section: "1393"
 chapter: 87
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1393"
-generated_at: "2026-03-29T20:00:05.297Z"
+generated_at: "2026-03-29T20:05:24.777Z"
 ---
 
 # [§ 1393. Repealed. Pub. L. 100–702, title X, § 1001(a) , Nov. 19, 1988 , 102 Stat. 4664 ]

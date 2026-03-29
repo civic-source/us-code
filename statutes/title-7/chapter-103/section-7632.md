@@ -3,9 +3,9 @@ title: "Section 7632 - Specialty crop research initiative"
 usc_title: 7
 usc_section: "7632"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 7632"
-generated_at: "2026-03-29T19:57:39.458Z"
+generated_at: "2026-03-29T20:02:52.815Z"
 ---
 
 # § 7632. Specialty crop research initiative
@@ -92,7 +92,9 @@ generated_at: "2026-03-29T19:57:39.458Z"
 - **(k)**
   - **(1)**
     - **(A)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2008 and $50,000,000 for each of fiscal years 2009 through 2012, from which activities under each of paragraphs (1) through (5) of subsection (b) shall be allocated not less than 10 percent.
-    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $80,000,000 for fiscal year 2014 and each fiscal year thereafter.
+    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+      - **(i)** $80,000,000 for each of fiscal years 2014 through 2025; and
+      - **(ii)** $175,000,000 for fiscal year 2026 and each fiscal year thereafter.
     - **(C)** For each of fiscal years 2014 through 2018, the Secretary shall reserve not less than $25,000,000 of the funds made available under subparagraph (B) to carry out the program established under subsection (j).
     - **(D)** Funds reserved under subparagraph (C) shall remain available and reserved for the purpose described in such subparagraph until expended.
   - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2014 through 2023.

@@ -3,9 +3,9 @@ title: "Section 178 - Fees on behalf of Indian parties in contests under public 
 usc_title: 25
 usc_section: "178"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 178"
-generated_at: "2026-03-29T19:59:16.281Z"
+generated_at: "2026-03-29T20:04:54.317Z"
 ---
 
 # § 178. Fees on behalf of Indian parties in contests under public land laws

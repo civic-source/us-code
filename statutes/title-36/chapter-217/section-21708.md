@@ -3,9 +3,9 @@ title: "Section 21708 - Annual report"
 usc_title: 36
 usc_section: "21708"
 chapter: 217
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 21708"
-generated_at: "2026-03-29T20:00:38.603Z"
+generated_at: "2026-03-29T20:05:40.561Z"
 ---
 
 # § 21708. Annual report

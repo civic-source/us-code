@@ -3,9 +3,9 @@ title: "Section 30 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(34) , 70 Stat. 948
 usc_title: 19
 usc_section: "30"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 30"
-generated_at: "2026-03-29T19:58:51.666Z"
+generated_at: "2026-03-29T20:04:27.267Z"
 ---
 
 # § 30. Repealed. Aug. 2, 1956, ch. 887, § 4(a)(34) , 70 Stat. 948

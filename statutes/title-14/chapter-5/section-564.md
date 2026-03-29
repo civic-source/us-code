@@ -3,9 +3,9 @@ title: "Section 564 - Administration of sexual assault forensic examination kits
 usc_title: 14
 usc_section: "564"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 564"
-generated_at: "2026-03-29T19:58:08.501Z"
+generated_at: "2026-03-29T20:03:17.282Z"
 ---
 
 # § 564. Administration of sexual assault forensic examination kits
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:58:08.501Z"
   - **(1)** Before embarking on any prescheduled voyage, a Coast Guard vessel shall have in place a written operating procedure that ensures that an embarked victim of sexual assault shall have access to a sexual assault forensic examination—
     - **(A)** as soon as possible after the victim requests an examination; and
     - **(B)** that is treated with the same level of urgency as emergency medical care.
-  - **(2)** The written operating procedure required by paragraph (1), 1 1 So in original. The comma probably should not appear. shall, at a minimum, account for—
+  - **(2)** The written operating procedure required by paragraph (1) shall, at a minimum, account for—
     - **(A)** the health, safety, and privacy of a victim of sexual assault;
     - **(B)** the proximity of ashore or afloat medical facilities, including coordination as necessary with the Department of Defense, including other military departments (as defined in section 101 of title 10 );
     - **(C)** the availability of aeromedical evacuation;
@@ -24,3 +24,4 @@ generated_at: "2026-03-29T19:58:08.501Z"
     - **(G)** the means of accessing a sexual assault forensic examination and medical care with a restricted report of sexual assault;
     - **(H)** the availability of nonprescription pregnancy prophylactics; and
     - **(I)** other unique military considerations.
+- **(b)** The Commandant shall submit to the Transportation and Infrastructure Committee of the House of Representatives and the Commerce, Science, and Transportation Committee of the Senate a report containing the number of sexual assault forensic examinations that were requested by, but not administered within 3 days to, alleged victims of sexual assault when such victims were onboard a Coast Guard vessel.

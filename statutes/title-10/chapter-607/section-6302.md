@@ -5,7 +5,7 @@ usc_section: "6302"
 chapter: 607
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6302"
-generated_at: "2026-03-29T02:10:45.264Z"
+generated_at: "2026-03-29T20:03:09.828Z"
 ---
 
 # § 6302. Restriction on use of funds to pay penalties under Clean Air Act

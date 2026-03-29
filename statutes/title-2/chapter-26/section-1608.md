@@ -5,7 +5,7 @@ usc_section: "1608"
 chapter: 26
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1608"
-generated_at: "2026-03-29T20:01:46.569Z"
+generated_at: "2026-03-29T20:02:11.308Z"
 ---
 
 # § 1608. Severability

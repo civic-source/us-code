@@ -3,9 +3,9 @@ title: "Section 373 - General authority of Secretary of the Interior"
 usc_title: 43
 usc_section: "373"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 373"
-generated_at: "2026-03-29T20:00:47.479Z"
+generated_at: "2026-03-29T20:05:36.452Z"
 ---
 
 # § 373. General authority of Secretary of the Interior

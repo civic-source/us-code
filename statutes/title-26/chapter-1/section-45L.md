@@ -3,9 +3,9 @@ title: "Section 45L - New energy efficient home credit"
 usc_title: 26
 usc_section: "45L"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 45L"
-generated_at: "2026-03-29T19:59:49.086Z"
+generated_at: "2026-03-29T20:05:22.150Z"
 ---
 
 # § 45L. New energy efficient home credit
@@ -58,4 +58,4 @@ generated_at: "2026-03-29T19:59:49.086Z"
     - **(A)** The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
     - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
   - **(3)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
-- **(h)** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2032 .
+- **(h)** This section shall not apply to any qualified new energy efficient home acquired after June 30, 2026 .

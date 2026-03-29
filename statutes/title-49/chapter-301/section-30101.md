@@ -3,9 +3,9 @@ title: "Section 30101 - Purpose and policy"
 usc_title: 49
 usc_section: "30101"
 chapter: 301
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 30101"
-generated_at: "2026-03-29T20:01:51.044Z"
+generated_at: "2026-03-29T20:06:28.209Z"
 ---
 
 # § 30101. Purpose and policy

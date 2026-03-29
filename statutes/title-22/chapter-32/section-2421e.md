@@ -3,9 +3,9 @@ title: "Section 2421e - Definitions"
 usc_title: 22
 usc_section: "2421e"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2421e"
-generated_at: "2026-03-29T19:59:24.117Z"
+generated_at: "2026-03-29T20:04:46.784Z"
 ---
 
 # § 2421e. Definitions

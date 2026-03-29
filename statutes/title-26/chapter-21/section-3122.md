@@ -3,9 +3,9 @@ title: "Section 3122 - Federal service"
 usc_title: 26
 usc_section: "3122"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 3122"
-generated_at: "2026-03-29T19:59:49.477Z"
+generated_at: "2026-03-29T20:05:22.563Z"
 ---
 
 # § 3122. Federal service

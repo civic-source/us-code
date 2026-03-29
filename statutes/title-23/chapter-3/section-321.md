@@ -3,9 +3,9 @@ title: "Section 321 - Signs identifying funding sources"
 usc_title: 23
 usc_section: "321"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 321"
-generated_at: "2026-03-29T19:59:25.844Z"
+generated_at: "2026-03-29T20:04:52.015Z"
 ---
 
 # § 321. Signs identifying funding sources

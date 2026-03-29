@@ -5,7 +5,7 @@ usc_section: "2808a"
 chapter: 169
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2808a"
-generated_at: "2026-03-29T02:10:45.146Z"
+generated_at: "2026-03-29T20:03:09.720Z"
 ---
 
 # § 2808a. Facility construction or repair: transactions other than contracts and grants

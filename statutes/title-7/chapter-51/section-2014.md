@@ -3,9 +3,9 @@ title: "Section 2014 - Eligible households"
 usc_title: 7
 usc_section: "2014"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2014"
-generated_at: "2026-03-29T19:57:39.111Z"
+generated_at: "2026-03-29T20:02:52.611Z"
 ---
 
 # § 2014. Eligible households
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T19:57:39.111Z"
     - **(A)** any payments or allowances made for the purpose of providing energy assistance under any Federal law (other than part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.)); or
     - **(B)** a 1-time payment or allowance made under a Federal or State law for the costs of weatherization or emergency repair or replacement of an unsafe or inoperative furnace or other heating or cooling device;
   - **(12)** through September 30 of any fiscal year, any increase in income attributable to a cost-of-living adjustment made on or after July 1 of such fiscal year under title II or XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.], section 3(a)(1) of the Railroad Retirement Act of 1974 ( 45 U.S.C. 231b(a)(1) ), or section 5312 of title 38 , if the household was certified as eligible to participate in the supplemental nutrition assistance program or received an allotment in the month immediately preceding the first month in which the adjustment was effective;
-  - **(13)** any payment made to the household under section 3507 1 of title 26 (relating to advance payment of earned income credit);
+  - **(13)** any payment made to the household under section 3507 1 1 See References in Text note below. of title 26 (relating to advance payment of earned income credit);
   - **(14)** any payment made to the household under section 2015(d)(4)(I) of this title or a pilot project under section 2025(h)(1)(F) of this title for work related expenses or for dependent care;
   - **(15)** any amounts necessary for the fulfillment of a plan for achieving self-support of a household member as provided under subparagraph (A)(iii) or (B)(iv) of section 1612(b)(4) of the Social Security Act ( 42 U.S.C. 1382a(b)(4) );
   - **(16)** at the option of the State agency, any educational loans on which payment is deferred, grants, scholarships, fellowships, veterans’ educational benefits, and the like (other than loans, grants, scholarships, fellowships, veterans’ educational benefits, and the like excluded under paragraph (3)), to the extent that they are required to be excluded under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.);
@@ -103,7 +103,7 @@ generated_at: "2026-03-29T19:57:39.111Z"
         - **(II)** A State agency that has not made the use of a standard utility allowance mandatory under subclause (I) shall allow a household to switch, at the end of a certification period, between the standard utility allowance and a deduction based on the actual utility costs of the household.
         - **(III)** Clauses (ii)(II) and (ii)(III) shall not apply in the case of a State agency that has made the use of a standard utility allowance mandatory under subclause (I).
       - **(iv)**
-        - **(I)** Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating and cooling costs, the standard utility allowance shall be made available to households that received a payment, or on behalf of which a payment was made, under the Low-Income Home Energy Assistance Act of 1981 ( 42 U.S.C. 8621 et seq.) or other similar energy assistance program, if in the current month or in the immediately preceding 12 months, the household either received such a payment, or such a payment was made on behalf of the household, that was greater than $20 annually, as determined by the Secretary.
+        - **(I)** Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating and cooling costs, the standard utility allowance shall be made available to households with an elderly or disabled member that received a payment, or on behalf of which a payment was made, under the Low-Income Home Energy Assistance Act of 1981 ( 42 U.S.C. 8621 et seq.) or other similar energy assistance program, if in the current month or in the immediately preceding 12 months, the household either received such a payment, or such a payment was made on behalf of the household, that was greater than $20 annually, as determined by the Secretary.
         - **(II)** A State agency may use a separate standard utility allowance for households on behalf of which a payment described in subclause (I) is made, but may not be required to do so.
         - **(III)** A State agency that does not elect to use a separate allowance but makes a single standard utility allowance available to households incurring heating or cooling expenses (other than a household described in subclause (I) or (II) of clause (ii)) may not be required to reduce the allowance due to the provision (directly or indirectly) of assistance under the Low-Income Home Energy Assistance Act of 1981 ( 42 U.S.C. 8621 et seq.).
         - **(IV)** For the purpose of the supplemental nutrition assistance program, assistance provided under the Low-Income Home Energy Assistance Act of 1981 ( 42 U.S.C. 8621 et seq.) shall be considered to be prorated over the entire heating or cooling season for which the assistance was provided.
@@ -114,6 +114,7 @@ generated_at: "2026-03-29T19:57:39.111Z"
         - **(III)** that do not opt to claim an excess shelter expense deduction under subparagraph (A).
       - **(ii)** For fiscal year 2019 and each subsequent fiscal year the amount of the homeless shelter deduction specified in clause (i) shall be adjusted to reflect changes for the 12-month period ending the preceding November 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
       - **(iii)** The State agency may make a household with extremely low shelter costs ineligible for the alternative deduction under clause (i).
+    - **(E)** Any service fee associated with internet connection shall not be used in computing the excess shelter expense deduction under this paragraph.
 - **(f)**
   - **(1)**
     - **(A)** Household income for those households that, by contract for other than an hourly or piecework basis or by self-employment, derive their annual income in a period of time shorter than one year shall be calculated by averaging such income over a twelve-month period. Notwithstanding the preceding sentence, household income resulting from the self-employment of a member in a farming operation, who derives income from such farming operation and who has irregular expenses to produce such income, may, at the option of the household, be calculated by averaging such income and expenses over a 12-month period. Notwithstanding the first sentence, if the averaged amount does not accurately reflect the household’s actual monthly circumstances because the household has experienced a substantial increase or decrease in business earnings, the State agency shall calculate the self-employment income based on anticipated earnings.
@@ -212,8 +213,8 @@ generated_at: "2026-03-29T19:57:39.111Z"
     - **(G)** assistance provided to a third party on behalf of a household under a State or local general assistance program, or another local basic assistance program comparable to general assistance (as determined by the Secretary), if, under State law, no assistance under the program may be provided directly to the household in the form of a cash payment.
   - **(3)** For purposes of subsection (d)(1), educational loans on which payment is deferred, grants, scholarships, fellowships, veterans’ educational benefits, and the like that are provided to a third party on behalf of a household for living expenses shall be treated as money payable directly to the household.
   - **(4)**
-    - **(A)** For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household shall be considered money payable directly to the household.
-    - **(B)** For purposes of subsection (e)(6), an expense paid on behalf of a household under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
+    - **(A)** For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household without an elderly or disabled member shall be considered money payable directly to the household.
+    - **(B)** For purposes of subsection (e)(6), an expense paid on behalf of a household with an elderly or disabled member under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
 - **(l)** Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3241(a)(2) ], earnings to individuals participating in on-the-job training under title I of such Act [ 29 U.S.C. 3111 et seq.] shall be considered earned income for purposes of the supplemental nutrition assistance program, except for dependents less than 19 years of age.
 - **(m)**
   - **(1)** Not later than 1 year after August 22, 1996 , the Secretary shall establish a procedure by which a State may submit a method, designed to not increase Federal costs, for the approval of the Secretary, that the Secretary determines will produce a reasonable estimate of income excluded under subsection (d)(9) in lieu of calculating the actual cost of producing self-employment income.

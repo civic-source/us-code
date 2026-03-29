@@ -3,9 +3,9 @@ title: "Section 6732 - Redomestication of mutual insurers"
 usc_title: 15
 usc_section: "6732"
 chapter: 93
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 6732"
-generated_at: "2026-03-29T19:58:17.876Z"
+generated_at: "2026-03-29T20:03:27.640Z"
 ---
 
 # § 6732. Redomestication of mutual insurers

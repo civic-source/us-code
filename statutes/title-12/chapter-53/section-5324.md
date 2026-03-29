@@ -3,9 +3,9 @@ title: "Section 5324 - Registration of nonbank financial companies supervised by
 usc_title: 12
 usc_section: "5324"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5324"
-generated_at: "2026-03-29T19:58:41.097Z"
+generated_at: "2026-03-29T20:03:45.962Z"
 ---
 
 # § 5324. Registration of nonbank financial companies supervised by the Board of Governors

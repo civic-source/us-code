@@ -3,9 +3,9 @@ title: "Section 4958 - Authority to provide certain types of technical assistanc
 usc_title: 10
 usc_section: "4958"
 chapter: 388
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4958"
-generated_at: "2026-03-29T19:58:02.276Z"
+generated_at: "2026-03-29T20:03:09.807Z"
 ---
 
 # § 4958. Authority to provide certain types of technical assistance
@@ -15,5 +15,9 @@ generated_at: "2026-03-29T19:58:02.276Z"
 - **(c)** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued—
   - **(1)** under section 38 of the Arms Export Control Act ( 22 U.S.C. 2778 ), and on compliance with those requirements;
   - **(2)** under section 9 of the Small Business Act ( 15 U.S.C. 638 ), and on compliance with those requirements;
-  - **(3)** under clause 252.204–7012 of the Defense Acquisition Regulation Supplement, or any successor regulation, and on compliance with those requirements (and any successor requirements); and
-  - **(4)** under section 847 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1505 ), and on compliance with those requirements (and any such successor requirements).
+  - **(3)** under clause 252.204–7012 of the Defense Acquisition Regulation Supplement, or any successor regulation, and on compliance with those requirements (and any successor requirements);
+  - **(4)** under section 847 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1505 ), and on compliance with those requirements (and any such successor requirements); and
+  - **(5)** under the AUKUS partnership (as defined in section 1321 of the National Defense Authorization Act for Fiscal Year 2024 ( 22 U.S.C. 10401 ).
+- **(d)** The Under Secretary of Defense for Acquisition and Sustainment may—
+  - **(1)** provide assistance to an eligible entity that is a center of excellence for the APEX Accelerator Program of the Department of Defense (or a successor program) to provide specialized expertise to business entities outside of the geographic area served by the center of excellence; and
+  - **(2)** may waive the government cost share restriction in accordance with section 4954(f) of this chapter.

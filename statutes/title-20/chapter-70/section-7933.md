@@ -3,9 +3,9 @@ title: "Section 7933 - Preventing improper use of taxpayer funds"
 usc_title: 20
 usc_section: "7933"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 7933"
-generated_at: "2026-03-29T19:58:56.946Z"
+generated_at: "2026-03-29T20:04:33.122Z"
 ---
 
 # § 7933. Preventing improper use of taxpayer funds

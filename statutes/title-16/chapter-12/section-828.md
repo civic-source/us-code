@@ -3,9 +3,9 @@ title: "Section 828 - Facilitation of development and construction of water cons
 usc_title: 16
 usc_section: "828"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 828"
-generated_at: "2026-03-29T19:59:08.232Z"
+generated_at: "2026-03-29T20:04:20.233Z"
 ---
 
 # § 828. Facilitation of development and construction of water conservation facilities; exemption from certain Federal requirements

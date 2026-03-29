@@ -3,9 +3,9 @@ title: "Section 906 - Purchase by bona fide purchasers from grantees; removal of
 usc_title: 43
 usc_section: "906"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 906"
-generated_at: "2026-03-29T20:00:47.538Z"
+generated_at: "2026-03-29T20:05:36.513Z"
 ---
 
 # § 906. Purchase by bona fide purchasers from grantees; removal of crops and improvements

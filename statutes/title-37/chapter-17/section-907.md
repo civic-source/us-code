@@ -3,9 +3,9 @@ title: "Section 907 - Enlisted members and warrant officers appointed as officer
 usc_title: 37
 usc_section: "907"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 907"
-generated_at: "2026-03-29T20:00:34.799Z"
+generated_at: "2026-03-29T20:05:44.922Z"
 ---
 
 # § 907. Enlisted members and warrant officers appointed as officers: pay and allowances stabilized

@@ -5,7 +5,7 @@ usc_section: "7541"
 chapter: 75
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 7541"
-generated_at: "2026-03-29T20:01:52.214Z"
+generated_at: "2026-03-29T20:02:37.855Z"
 ---
 
 # § 7541. Definitions

@@ -3,9 +3,9 @@ title: "Section 2254 - Monitoring, modification, and termination of action"
 usc_title: 19
 usc_section: "2254"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2254"
-generated_at: "2026-03-29T19:58:51.767Z"
+generated_at: "2026-03-29T20:04:27.370Z"
 ---
 
 # § 2254. Monitoring, modification, and termination of action

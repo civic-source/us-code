@@ -5,7 +5,7 @@ usc_section: "13104"
 chapter: 131
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 13104"
-generated_at: "2026-03-29T20:01:52.294Z"
+generated_at: "2026-03-29T20:02:37.932Z"
 ---
 
 # § 13104. Contents of reports

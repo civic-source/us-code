@@ -3,9 +3,9 @@ title: "Section 70305 - Governing body"
 usc_title: 36
 usc_section: "70305"
 chapter: 703
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 70305"
-generated_at: "2026-03-29T20:00:38.615Z"
+generated_at: "2026-03-29T20:05:40.573Z"
 ---
 
 # § 70305. Governing body

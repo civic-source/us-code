@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-29T19:58:01.916Z"
+generated_at: "2026-03-29T20:03:09.403Z"
 ---
 
 # § 101. Definitions
@@ -49,6 +49,7 @@ generated_at: "2026-03-29T19:58:01.916Z"
   - **(18)** The term “acquisition workforce” means the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of this title .
   - **(19)** The term “climate resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from, extreme weather, or from anticipated or unanticipated changes in environmental conditions, that do (or have the potential to) adversely affect the national security of the United States or of allies and partners of the United States.
   - **(20)** The term “extreme weather” means recurrent flooding, drought, desertification, wildfires, thawing permafrost, sea level fluctuation, changes in mean high tides, or any other weather-related event, or anticipated change in environmental conditions, that present (or are projected to present) a recurring annual threat to the climate security of the United States or of allies and partners of the United States.
+  - **(21)** The term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 4201 of this title ).
 - **(b)** The following definitions relating to military personnel apply in this title:
   - **(1)** The term “officer” means a commissioned or warrant officer.
   - **(2)** The term “commissioned officer” includes a commissioned warrant officer.
@@ -137,7 +138,7 @@ generated_at: "2026-03-29T19:58:01.916Z"
     - **(C)** remain unexploded, whether by malfunction, design, or any other cause.
   - **(6)** The term “energy resilience” means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
   - **(7)** The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
-  - **(8)** The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
+  - **(8)** The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, anticipated or unanticipated changes in environmental conditions, energy or water disruptions, or human-induced hazards with respect to the environment, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 - **(g)** In this title—
   - **(1)** “shall” is used in an imperative sense;
   - **(2)** “may” is used in a permissive sense;

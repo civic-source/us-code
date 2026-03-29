@@ -3,9 +3,9 @@ title: "Section 230b - Owner’s retention of right of use and occupancy for res
 usc_title: 16
 usc_section: "230b"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 230b"
-generated_at: "2026-03-29T19:59:07.863Z"
+generated_at: "2026-03-29T20:04:19.931Z"
 ---
 
 # § 230b. Owner’s retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; “improved property” defined

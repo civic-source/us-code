@@ -5,7 +5,7 @@ usc_section: "2a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2a"
-generated_at: "2026-03-29T20:01:46.476Z"
+generated_at: "2026-03-29T20:02:11.237Z"
 ---
 
 # § 60e–2a. Transferred

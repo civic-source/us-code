@@ -5,7 +5,7 @@ usc_section: "6120"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6120"
-generated_at: "2026-03-29T02:10:45.248Z"
+generated_at: "2026-03-29T20:03:09.815Z"
 ---
 
 # § 6120. Requirements for specific request for new or modified nuclear weapons

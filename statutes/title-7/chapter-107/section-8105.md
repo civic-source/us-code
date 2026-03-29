@@ -3,9 +3,9 @@ title: "Section 8105 - Bioenergy program for advanced biofuels"
 usc_title: 7
 usc_section: "8105"
 chapter: 107
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8105"
-generated_at: "2026-03-29T19:57:39.486Z"
+generated_at: "2026-03-29T20:02:52.842Z"
 ---
 
 # § 8105. Bioenergy program for advanced biofuels
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T19:57:39.486Z"
     - **(C)** $85,000,000 for fiscal year 2011;
     - **(D)** $105,000,000 for fiscal year 2012;
     - **(E)** $15,000,000 for each of fiscal years 2014 through 2018; and
-    - **(F)** $7,000,000 for each of fiscal years 2019 through 2024.
+    - **(F)** $7,000,000 for each of fiscal years 2019 through 2031.
   - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
   - **(3)** Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.

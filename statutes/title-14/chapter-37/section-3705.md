@@ -3,9 +3,9 @@ title: "Section 3705 - Benefits"
 usc_title: 14
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 3705"
-generated_at: "2026-03-29T19:58:08.529Z"
+generated_at: "2026-03-29T20:03:17.320Z"
 ---
 
 # § 3705. Benefits

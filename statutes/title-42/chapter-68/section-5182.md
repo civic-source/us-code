@@ -3,9 +3,9 @@ title: "Section 5182 - Legal services"
 usc_title: 42
 usc_section: "5182"
 chapter: 68
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5182"
-generated_at: "2026-03-29T20:01:33.171Z"
+generated_at: "2026-03-29T20:06:11.190Z"
 ---
 
 # § 5182. Legal services

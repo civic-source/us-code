@@ -3,9 +3,9 @@ title: "Section 714g - Board of Directors"
 usc_title: 15
 usc_section: "714g"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 714g"
-generated_at: "2026-03-29T19:58:17.640Z"
+generated_at: "2026-03-29T20:03:27.341Z"
 ---
 
 # § 714g. Board of Directors

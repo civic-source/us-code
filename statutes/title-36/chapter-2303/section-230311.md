@@ -3,9 +3,9 @@ title: "Section 230311 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "230311"
 chapter: 2303
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 230311"
-generated_at: "2026-03-29T20:00:38.650Z"
+generated_at: "2026-03-29T20:05:40.615Z"
 ---
 
 # § 230311. Liability for acts of officers and agents

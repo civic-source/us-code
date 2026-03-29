@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 3
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 5"
-generated_at: "2026-03-29T20:01:46.475Z"
+generated_at: "2026-03-29T20:02:11.236Z"
 ---
 
 # § 46d–5. Repealed. Pub. L. 92–342 , July 10, 1972 , 86 Stat. 435

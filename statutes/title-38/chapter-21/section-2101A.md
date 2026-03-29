@@ -3,9 +3,9 @@ title: "Section 2101A - Eligibility for benefits and assistance: members of the 
 usc_title: 38
 usc_section: "2101A"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 2101A"
-generated_at: "2026-03-29T20:00:43.046Z"
+generated_at: "2026-03-29T20:05:54.687Z"
 ---
 
 # § 2101A. Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States

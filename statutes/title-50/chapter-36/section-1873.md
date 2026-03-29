@@ -3,9 +3,9 @@ title: "Section 1873 - Annual reports"
 usc_title: 50
 usc_section: "1873"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 1873"
-generated_at: "2026-03-29T20:01:54.658Z"
+generated_at: "2026-03-29T20:06:21.060Z"
 ---
 
 # § 1873. Annual reports
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T20:01:54.658Z"
     - **(C)** the number of targets of such orders who are known to be United States persons;
   - **(2)** the total number of orders issued pursuant to section 1881a of this title , including pursuant to subsection (f)(2) of such section, and a good faith estimate of—
     - **(A)** the number of targets of such orders;
-    - **(B)** the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
+    - **(B)** the number of search terms concerning a known United States person used to retrieve the unminimized contents (or combined unminimized contents and noncontents information) of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
     - **(C)** the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 2 2 So in original. Probably should be followed by “and”.
     - **(D)** the number of instances in which the Federal Bureau of Investigation opened, under the Criminal Investigative Division or any successor division, an investigation of a United States person (who is not considered a threat to national security) based wholly or in part on an acquisition authorized under such section;
   - **(3)** the total number of orders issued pursuant to subchapter III and a good faith estimate of—
@@ -47,9 +47,7 @@ generated_at: "2026-03-29T20:01:54.658Z"
 - **(c)** The annual reports required by subsections (a) and (b) shall be made publicly available during April of each year and include information relating to the previous calendar year.
 - **(d)**
   - **(1)** If a good faith estimate required to be reported under subparagraph (B) of any of paragraphs (3), (5), or (6) of subsection (b) is fewer than 500, it shall be expressed as a numerical range of “fewer than 500” and shall not be expressed as an individual number.
-  - **(2)**
-    - **(A)** Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except with respect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title .
-    - **(B)** Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
+  - **(2)** Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
   - **(3)**
     - **(A)** If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(C) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
       - **(i)** certify that conclusion in writing to the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
@@ -59,6 +57,16 @@ generated_at: "2026-03-29T20:01:54.658Z"
     - **(B)** A certification described in subparagraph (A) shall be prepared in unclassified form, but may contain a classified annex.
     - **(C)** If the Director of National Intelligence continues to conclude that the good faith estimates described in this paragraph cannot be determined accurately, the Director shall annually submit a certification in accordance with this paragraph.
 - **(e)** The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, a report describing the accountability actions taken by the Federal Bureau of Investigation in the preceding 12-month period for noncompliant querying of information acquired under section 1881a of this title and any such actions taken pursuant to section 1803(m) of this title , to include the number of ongoing personnel investigations, the outcome of any completed personnel investigations and any related adverse personnel actions taken.
+- **(f)**
+  - **(1)** The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate a report that includes—
+    - **(A)** the number of United States person queries by the Federal Bureau of Investigation of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title ;
+    - **(B)** the number of approved queries using the Federal Bureau of Investigation’s batch job technology, or successor tool;
+    - **(C)** the number of queries using the Federal Bureau of Investigation’s batch job technology, or successor tool, conducted by the Federal Bureau of Investigation against information acquired pursuant to section 1881a(a) of this title for which pre-approval was not obtained due to emergency circumstances;
+    - **(D)** the number of United States person queries conducted by the Federal Bureau of Investigation of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title solely to retrieve evidence of a crime;
+    - **(E)** a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title primarily to protect the United States person who is the subject of the query; and
+    - **(F)** a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 1881a(a) of this title where the United States person who is the subject of the query is a target or subject of an investigation by the Federal Bureau of Investigation.
+  - **(2)** Subject to declassification review by the Attorney General and the Director of National Intelligence, each annual report submitted pursuant to paragraph (1) shall be available to the public during the first April following the calendar year covered by the report.
+  - **(3)** Beginning on the date that is not later than 1 year after the effective date of this paragraph, the Director of the Federal Bureau of Investigation shall submit a quarterly report to the congressional intelligence committees and to the Committees on the Judiciary of the House of Representatives and of the Senate that includes the number of U.S. person queries conducted during that quarter.
 - **(g)** In this section:
   - **(1)** The term “contents” has the meaning given that term under section 2510 of title 18 .
   - **(2)** The term “electronic communication” has the meaning given that term under section 2510 of title 18 .

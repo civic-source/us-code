@@ -5,7 +5,7 @@ usc_section: "8421a"
 chapter: 84
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8421a"
-generated_at: "2026-03-29T20:01:52.249Z"
+generated_at: "2026-03-29T20:02:37.890Z"
 ---
 
 # § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement

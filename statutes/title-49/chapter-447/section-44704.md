@@ -3,9 +3,9 @@ title: "Section 44704 - Type certificates, production certificates, airworthines
 usc_title: 49
 usc_section: "44704"
 chapter: 447
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 44704"
-generated_at: "2026-03-29T20:01:51.125Z"
+generated_at: "2026-03-29T20:06:28.289Z"
 ---
 
 # § 44704. Type certificates, production certificates, airworthiness certificates, and design and production organization certificates

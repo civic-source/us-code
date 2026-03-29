@@ -3,9 +3,9 @@ title: "Section 10306 - Vulnerability disclosure policy and bug bounty program r
 usc_title: 22
 usc_section: "10306"
 chapter: 110
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10306"
-generated_at: "2026-03-29T19:59:24.362Z"
+generated_at: "2026-03-29T20:04:47.052Z"
 ---
 
 # § 10306. Vulnerability disclosure policy and bug bounty program report

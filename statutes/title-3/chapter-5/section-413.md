@@ -5,7 +5,7 @@ usc_section: "413"
 chapter: 5
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 413"
-generated_at: "2026-03-29T20:01:43.991Z"
+generated_at: "2026-03-29T20:02:12.940Z"
 ---
 
 # § 413. Rights and protections under the Fair Labor Standards Act of 1938

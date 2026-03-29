@@ -3,14 +3,14 @@ title: "Section 352 - Assignment pay or special duty pay"
 usc_title: 37
 usc_section: "352"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 352"
-generated_at: "2026-03-29T20:00:34.786Z"
+generated_at: "2026-03-29T20:05:44.909Z"
 ---
 
 # § 352. Assignment pay or special duty pay
 
-- **(a)** The Secretary concerned may pay assignment or special duty pay under this section to a member of a regular or reserve component of the uniformed services who—
+- **(a)** The Secretary concerned may pay assignment or special duty pay under this section to a member of the uniformed services who—
   - **(1)** is entitled to basic pay under section 204 of this title or compensation under section 206 of this title ; and
   - **(2)** performs duties in an assignment, location (including a cold weather location), or unit designated by, and under the conditions of service specified by, the Secretary concerned.
 - **(b)**
@@ -31,4 +31,4 @@ generated_at: "2026-03-29T20:00:34.786Z"
 - **(d)** A member of a reserve component entitled to compensation under section 206 of this title who is authorized assignment or special duty pay under this section may be paid an amount of assignment or special duty pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
 - **(e)** Assignment or special duty pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 - **(f)** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of section 373 of this title .
-- **(g)** No agreement may be entered into under this section after December 31, 2025 .
+- **(g)** No agreement may be entered into under this section after December 31, 2026 .

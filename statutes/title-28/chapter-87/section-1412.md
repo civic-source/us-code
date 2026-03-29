@@ -3,9 +3,9 @@ title: "Section 1412 - Change of venue"
 usc_title: 28
 usc_section: "1412"
 chapter: 87
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1412"
-generated_at: "2026-03-29T20:00:05.298Z"
+generated_at: "2026-03-29T20:05:24.778Z"
 ---
 
 # § 1412. Change of venue

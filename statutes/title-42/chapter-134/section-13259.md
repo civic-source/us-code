@@ -3,9 +3,9 @@ title: "Section 13259 - Secretary’s recommendations to Congress"
 usc_title: 42
 usc_section: "13259"
 chapter: 134
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 13259"
-generated_at: "2026-03-29T20:01:33.688Z"
+generated_at: "2026-03-29T20:06:11.704Z"
 ---
 
 # § 13259. Secretary’s recommendations to Congress

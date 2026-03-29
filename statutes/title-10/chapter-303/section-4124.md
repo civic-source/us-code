@@ -3,9 +3,9 @@ title: "Section 4124 - Centers for Science, Technology, and Engineering Partners
 usc_title: 10
 usc_section: "4124"
 chapter: 303
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4124"
-generated_at: "2026-03-29T19:58:02.249Z"
+generated_at: "2026-03-29T20:03:09.777Z"
 ---
 
 # § 4124. Centers for Science, Technology, and Engineering Partnership

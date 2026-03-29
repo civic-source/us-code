@@ -3,9 +3,9 @@ title: "Section 9706 - Dissemination of information"
 usc_title: 42
 usc_section: "9706"
 chapter: 104
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 9706"
-generated_at: "2026-03-29T20:01:33.501Z"
+generated_at: "2026-03-29T20:06:11.531Z"
 ---
 
 # § 9706. Dissemination of information

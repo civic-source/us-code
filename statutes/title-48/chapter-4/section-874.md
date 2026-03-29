@@ -3,9 +3,9 @@ title: "Section 874 - Judicial process; officials to be citizens of United State
 usc_title: 48
 usc_section: "874"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 874"
-generated_at: "2026-03-29T20:01:41.587Z"
+generated_at: "2026-03-29T20:06:17.893Z"
 ---
 
 # § 874. Judicial process; officials to be citizens of United States; oath

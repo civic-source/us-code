@@ -3,9 +3,9 @@ title: "Section 121 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1),
 usc_title: 19
 usc_section: "121"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 121"
-generated_at: "2026-03-29T19:58:51.673Z"
+generated_at: "2026-03-29T20:04:27.273Z"
 ---
 
 # § 121. Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1), 46 Stat. 762 , eff. June 18, 1930

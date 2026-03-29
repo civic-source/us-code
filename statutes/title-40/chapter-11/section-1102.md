@@ -3,9 +3,9 @@ title: "Section 1102 - Definitions"
 usc_title: 40
 usc_section: "1102"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 1102"
-generated_at: "2026-03-29T20:00:35.878Z"
+generated_at: "2026-03-29T20:05:42.930Z"
 ---
 
 # § 1102. Definitions

@@ -3,9 +3,9 @@ title: "Section 701c - Rights-of-way, easements, etc.; acquisition by local auth
 usc_title: 33
 usc_section: "701c"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 701c"
-generated_at: "2026-03-29T20:00:31.265Z"
+generated_at: "2026-03-29T20:05:35.681Z"
 ---
 
 # § 701c. Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance

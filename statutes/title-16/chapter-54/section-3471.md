@@ -3,9 +3,9 @@ title: "Section 3471 - Payments for land removed from production for conservatio
 usc_title: 16
 usc_section: "3471"
 chapter: 54
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3471"
-generated_at: "2026-03-29T19:59:08.414Z"
+generated_at: "2026-03-29T20:04:20.411Z"
 ---
 
 # § 3471. Payments for land removed from production for conservation purposes; authorization of appropriations

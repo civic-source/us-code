@@ -3,9 +3,9 @@ title: "Section 6203 - Establishment of the Chief Executive Officer of the Unite
 usc_title: 22
 usc_section: "6203"
 chapter: 71
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6203"
-generated_at: "2026-03-29T19:59:24.256Z"
+generated_at: "2026-03-29T20:04:46.931Z"
 ---
 
 # § 6203. Establishment of the Chief Executive Officer of the United States Agency for Global Media

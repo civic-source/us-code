@@ -3,17 +3,17 @@ title: "Section 3515 - Security personnel at Agency installations"
 usc_title: 50
 usc_section: "3515"
 chapter: 46
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3515"
-generated_at: "2026-03-29T20:01:54.791Z"
+generated_at: "2026-03-29T20:06:21.152Z"
 ---
 
 # § 3515. Security personnel at Agency installations
 
 - **(a)**
   - **(1)** The Director may authorize Agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40 , with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
-    - **(A)** within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
-    - **(B)** in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 yards;
+    - **(A)** within the Agency Headquarters Installation and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Installation;
+    - **(B)** in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Installation and property and extending outward 500 yards;
     - **(C)** within any other Agency installation and protected property;
     - **(D)** within an installation owned, or contracted to be occupied for a period of one year or longer, by the Office of the Director of National Intelligence; and
     - **(E)** in the streets, sidewalks, and open areas within the zone beginning at the outside boundary of any installation or property referred to in subparagraph (C) or (D) and extending outward 500 yards.

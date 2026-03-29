@@ -3,9 +3,9 @@ title: "Section 2077 - Publication of rules; advisory committees"
 usc_title: 28
 usc_section: "2077"
 chapter: 131
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 2077"
-generated_at: "2026-03-29T20:00:05.316Z"
+generated_at: "2026-03-29T20:05:24.793Z"
 ---
 
 # § 2077. Publication of rules; advisory committees

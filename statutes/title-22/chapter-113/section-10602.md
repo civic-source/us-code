@@ -3,9 +3,9 @@ title: "Section 10602 - United States Foundation for International Conservation"
 usc_title: 22
 usc_section: "10602"
 chapter: 113
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10602"
-generated_at: "2026-03-29T19:59:24.365Z"
+generated_at: "2026-03-29T20:04:47.057Z"
 ---
 
 # § 10602. United States Foundation for International Conservation
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:59:24.365Z"
 - **(a)**
   - **(1)** Not later than 180 days after December 23, 2024 , the Secretary shall establish the United States Foundation for International Conservation, which shall be operated as a charitable, nonprofit corporation.
   - **(2)** The Foundation is not an agency or instrumentality of the United States Government.
-  - **(3)** The Board shall take all necessary and appropriate steps to ensure that the Foundation is an organization described in subsection (c) of section 501 of the Internal Revenue Code of 1986, which exempt the organization from taxation under subsection (a) of such section.
+  - **(3)** The Board shall take all necessary and appropriate steps to ensure that the Foundation is an organization described in subsection (c) of section 501 of title 26 , which exempt the organization from taxation under subsection (a) of such section.
   - **(4)** The Foundation shall terminate operations on the date that is 10 years after the date on which the Foundation becomes operational, in accordance with—
     - **(A)** a plan for winding down the activities of the Foundation that the Board shall submit to the appropriate congressional committees not later than 180 days before such termination date; and
     - **(B)** the bylaws established pursuant to section 10603(b)(13) of this title .

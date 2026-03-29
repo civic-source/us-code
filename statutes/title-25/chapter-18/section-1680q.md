@@ -3,9 +3,9 @@ title: "Section 1680q - Prescription drug monitoring"
 usc_title: 25
 usc_section: "1680q"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 1680q"
-generated_at: "2026-03-29T19:59:16.358Z"
+generated_at: "2026-03-29T20:04:54.383Z"
 ---
 
 # § 1680q. Prescription drug monitoring

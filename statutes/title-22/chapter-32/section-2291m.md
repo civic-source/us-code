@@ -3,9 +3,9 @@ title: "Section 2291m - Program to provide assistance to build the capacity of f
 usc_title: 22
 usc_section: "2291m"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2291m"
-generated_at: "2026-03-29T19:59:24.092Z"
+generated_at: "2026-03-29T20:04:46.761Z"
 ---
 
 # § 2291m. Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs

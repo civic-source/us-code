@@ -3,9 +3,9 @@ title: "Section 12l - Hi-Desert Water District in Yucca Valley, California waste
 usc_title: 43
 usc_section: "12l"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 12l"
-generated_at: "2026-03-29T20:00:47.489Z"
+generated_at: "2026-03-29T20:05:36.464Z"
 ---
 
 # § 390h–12l. Hi-Desert Water District in Yucca Valley, California wastewater collection and reuse facility

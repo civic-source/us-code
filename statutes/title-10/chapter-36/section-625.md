@@ -3,9 +3,9 @@ title: "Section 625 - Authority to vacate promotions to grades of brigadier gene
 usc_title: 10
 usc_section: "625"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 625"
-generated_at: "2026-03-29T19:58:01.992Z"
+generated_at: "2026-03-29T20:03:09.483Z"
 ---
 
 # § 625. Authority to vacate promotions to grades of brigadier general and rear admiral (lower half)

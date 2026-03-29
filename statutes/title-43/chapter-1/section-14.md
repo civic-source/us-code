@@ -3,9 +3,9 @@ title: "Section 14 - Returns relative to lands"
 usc_title: 43
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 14"
-generated_at: "2026-03-29T20:00:47.462Z"
+generated_at: "2026-03-29T20:05:36.434Z"
 ---
 
 # § 14. Returns relative to lands

@@ -3,9 +3,9 @@ title: "Section 398 - Sales of Government certificates to obtain funds for advan
 usc_title: 43
 usc_section: "398"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 398"
-generated_at: "2026-03-29T20:00:47.495Z"
+generated_at: "2026-03-29T20:05:36.470Z"
 ---
 
 # § 398. Sales of Government certificates to obtain funds for advances

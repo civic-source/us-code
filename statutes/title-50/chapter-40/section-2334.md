@@ -3,9 +3,9 @@ title: "Section 2334 - Training program"
 usc_title: 50
 usc_section: "2334"
 chapter: 40
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2334"
-generated_at: "2026-03-29T20:01:54.685Z"
+generated_at: "2026-03-29T20:06:21.082Z"
 ---
 
 # § 2334. Training program

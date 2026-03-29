@@ -3,9 +3,9 @@ title: "Section 150708 - Restrictions"
 usc_title: 36
 usc_section: "150708"
 chapter: 1507
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 150708"
-generated_at: "2026-03-29T20:00:38.626Z"
+generated_at: "2026-03-29T20:05:40.589Z"
 ---
 
 # § 150708. Restrictions

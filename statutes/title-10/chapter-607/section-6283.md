@@ -5,7 +5,7 @@ usc_section: "6283"
 chapter: 607
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6283"
-generated_at: "2026-03-29T02:10:45.263Z"
+generated_at: "2026-03-29T20:03:09.827Z"
 ---
 
 # § 6283. Funds available for all national security programs of the Department of Energy

@@ -3,9 +3,9 @@ title: "Section 7277 - Report concerning review of United States coal imports"
 usc_title: 42
 usc_section: "7277"
 chapter: 84
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7277"
-generated_at: "2026-03-29T20:01:33.325Z"
+generated_at: "2026-03-29T20:06:11.344Z"
 ---
 
 # § 7277. Report concerning review of United States coal imports

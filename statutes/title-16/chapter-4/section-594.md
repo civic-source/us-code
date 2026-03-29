@@ -3,9 +3,9 @@ title: "Section 594 - Protection of timber owned by United States from fire, dis
 usc_title: 16
 usc_section: "594"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 594"
-generated_at: "2026-03-29T19:59:08.155Z"
+generated_at: "2026-03-29T20:04:20.170Z"
 ---
 
 # § 594. Protection of timber owned by United States from fire, disease, or insect ravages

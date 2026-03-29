@@ -3,9 +3,9 @@ title: "Section 4028a - Per diem allowance for newly hired members of the Foreig
 usc_title: 22
 usc_section: "4028a"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4028a"
-generated_at: "2026-03-29T19:59:24.201Z"
+generated_at: "2026-03-29T20:04:46.871Z"
 ---
 
 # § 4028a. Per diem allowance for newly hired members of the Foreign Service

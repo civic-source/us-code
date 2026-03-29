@@ -3,9 +3,9 @@ title: "Section 10211 - Policies and regulations: participation of Reserve offic
 usc_title: 10
 usc_section: "10211"
 chapter: 1007
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 10211"
-generated_at: "2026-03-29T19:58:02.353Z"
+generated_at: "2026-03-29T20:03:09.909Z"
 ---
 
 # § 10211. Policies and regulations: participation of Reserve officers in preparation and administration

@@ -5,7 +5,7 @@ usc_section: "8698"
 chapter: 863
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8698"
-generated_at: "2026-03-29T02:10:45.321Z"
+generated_at: "2026-03-29T20:03:09.878Z"
 ---
 
 # § 8698. Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels

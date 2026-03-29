@@ -3,9 +3,9 @@ title: "Section 3008 - Grants"
 usc_title: 25
 usc_section: "3008"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 3008"
-generated_at: "2026-03-29T19:59:16.409Z"
+generated_at: "2026-03-29T20:04:54.428Z"
 ---
 
 # § 3008. Grants

@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-29T19:59:49.223Z"
+generated_at: "2026-03-29T20:05:22.294Z"
 ---
 
 # § 401. Qualified pension, profit-sharing, and stock bonus plans
@@ -321,6 +321,31 @@ generated_at: "2026-03-29T19:59:49.223Z"
         - **(I)** a feature which guarantees a minimum level of income annually (or more frequently) for at least the remainder of the life of the employee or the joint lives of the employee and the employee’s designated beneficiary, or
         - **(II)** an annuity payable on behalf of the employee under which payments are made in substantially equal periodic payments (not less frequently than annually) over the life of the employee or the joint lives of the employee and the employee’s designated beneficiary, and
       - **(iv)** the term “qualified plan distribution annuity contract” means an annuity contract purchased for a participant and distributed to the participant by a plan or contract described in subparagraph (B) of section 402(c)(8) (without regard to clauses (i) and (ii) thereof).
+  - **(39)**
+    - **(A)** A trust forming part of a defined contribution plan shall not be treated as failing to constitute a qualified trust under this section solely by reason of allowing qualified long-term care distributions.
+    - **(B)** For purposes of this paragraph—
+      - **(i)** The term “qualified long-term care distribution” means so much of the distributions made during the taxable year as does not exceed, in the aggregate, the least of the following:
+        - **(I)** The amount paid by or assessed to the employee during the taxable year for or with respect to certified long-term care insurance for the employee or the employee’s spouse (or other family member of the employee as provided by the Secretary by regulation).
+        - **(II)** An amount equal to 10 percent of the present value of the nonforfeitable accrued benefit of the employee under the plan.
+        - **(III)** $2,500.
+      - **(ii)** In the case of taxable years beginning after December 31, 2024 , the $2,500 amount in clause (i)(II) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2023” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(C)** The term “certified long-term care insurance” means—
+      - **(i)** a qualified long-term care insurance contract (as defined in section 7702B(b)) covering qualified long-term care services (as defined in section 7702B(c)),
+      - **(ii)** coverage of the risk that an insured individual would become a chronically ill individual (within the meaning of section 101(g)(4)(B)) under a rider or other provision of a life insurance contract which satisfies the requirements of section 101(g)(3) (determined without regard to subparagraph (D) thereof), or
+      - **(iii)** coverage of qualified long-term care services (as so defined) under a rider or other provision of an insurance or annuity contract which is treated as a separate contract under section 7702B(e) and satisfies the requirements of section 7702B(g),
+    - **(D)** Rules similar to the rules of section 402(l)(3) shall apply for purposes of this paragraph.
+    - **(E)**
+      - **(i)** No distribution shall be treated as a qualified long-term care distribution unless a long-term care premium statement with respect to the employee has been filed with the plan.
+      - **(ii)** For purposes of this paragraph, a long-term care premium statement is a statement provided by the issuer of long-term care coverage, upon request by the owner of such coverage, which includes—
+        - **(I)** the name and taxpayer identification number of such issuer,
+        - **(II)** a statement that the coverage is certified long-term care insurance,
+        - **(III)** identification of the employee as the owner of such coverage,
+        - **(IV)** identification of the individual covered and such individual’s relationship to the employee,
+        - **(V)** the premiums owed for the coverage for the calendar year, and
+        - **(VI)** such other information as the Secretary may require.
+      - **(iii)** A long-term care premium statement will be accepted only if the issuer has completed a disclosure to the Secretary for the specific coverage product to which the statement relates. Such disclosure shall identify the issuer, type of coverage, and such other information as the Secretary may require which is included in the filing of the product with the applicable State authority.
 - **(b)**
   - **(1)** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
   - **(2)** If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year. In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective deferrals (as defined in section 402(g)(3)) under a qualified cash or deferred arrangement to which the preceding sentence applies, which are made by such individual before the time for filing the return of such individual for the taxable year (determined without regard to any extensions) ending after or with the end of the plan’s first plan year, shall be treated as having been made before the end of such first plan year.
@@ -380,14 +405,15 @@ generated_at: "2026-03-29T19:59:49.223Z"
         - **(II)** an event described in paragraph (10),
         - **(III)** in the case of a profit-sharing or stock bonus plan, the attainment of age 59½,
         - **(IV)** subject to the provisions of paragraph (14), upon hardship of the employee,
-        - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, or
-        - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in subsection (a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the arrangement,
+        - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins,
+        - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in subsection (a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the arrangement, or
+        - **(VII)** as provided in section 401(a)(39),
       - **(ii)** will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years, and
       - **(iii)** except as may be otherwise provided by regulations, in the case of amounts described in clause (i)(VI), will be distributed only in the form of a qualified distribution (as defined in subsection (a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in subsection (a)(38)(B)(iv)),
     - **(C)** which provides that an employee’s right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
     - **(D)** which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
       - **(i)** the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof), or
-      - **(ii)** subject to the provisions of paragraph (15), the first period of 3 consecutive 12-month periods during each of which the employee has at least 500 hours of service.
+      - **(ii)** subject to the provisions of paragraph (15), the first period of 2 consecutive 12-month periods during each of which the employee has at least 500 hours of service.
   - **(3)**
     - **(A)** A cash or deferred arrangement shall not be treated as a qualified cash or deferred arrangement unless—
       - **(i)** those employees eligible to benefit under the arrangement satisfy the provisions of section 410(b)(1), and
@@ -554,7 +580,7 @@ generated_at: "2026-03-29T19:59:49.223Z"
   - **(15)** For purposes of paragraph (2)(D)(ii)—
     - **(A)** Paragraph (2)(D)(ii) shall not apply to an employee unless the employee has met the requirement of section 410(a)(1)(A)(i) by the close of the last of the 12-month periods described in such paragraph.
     - **(B)**
-      - **(i)** In the case of employees who are eligible to participate in the arrangement solely by reason of paragraph (2)(D)(ii)—
+      - **(i)** In the case of employees who are eligible to participate in the arrangement solely by reason of paragraph (2)(D)(ii), or by reason of such paragraph and section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974—
         - **(I)** notwithstanding subsection (a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the arrangement, and
         - **(II)** an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), paragraphs (2), (11), and (12) of subsection (m), and section 410(b).
       - **(ii)** An employer may elect to exclude all employees who are eligible to participate in a plan maintained by the employer solely by reason of paragraph (2)(D)(ii) from the application of the vesting and benefit requirements under subsections (b) and (c) of section 416.

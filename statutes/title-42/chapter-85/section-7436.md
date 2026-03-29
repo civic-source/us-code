@@ -3,9 +3,9 @@ title: "Section 7436 - Methane emissions and waste reduction incentive program f
 usc_title: 42
 usc_section: "7436"
 chapter: 85
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7436"
-generated_at: "2026-03-29T20:01:33.356Z"
+generated_at: "2026-03-29T20:06:11.376Z"
 ---
 
 # § 7436. Methane emissions and waste reduction incentive program for petroleum and natural gas systems
@@ -53,6 +53,6 @@ generated_at: "2026-03-29T20:01:33.356Z"
       - **(ii)** compliance with the requirements described in clause (i) will result in equivalent or greater emissions reductions as would be achieved by the proposed rule of the Administrator entitled “Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review” (86 Fed. Reg. 63110 ( November 15, 2021 )), if such rule had been finalized and implemented.
     - **(B)** If the conditions in clause (i) or (ii) of subparagraph (A) cease to apply after the Administrator has made the determination in that subparagraph, the applicable facility will again be subject to the charge under subsection (c) beginning in the first calendar year in which the conditions in either clause (i) or (ii) of that subparagraph are no longer met.
   - **(7)** Charges shall not be imposed with respect to the emissions rate from any well that has been permanently shut-in and plugged in the previous year in accordance with all applicable closure requirements, as determined by the Administrator.
-- **(g)** The charge under subsection (c) shall be imposed and collected beginning with respect to emissions reported for calendar year 2024 and for each year thereafter.
+- **(g)** The charge under subsection (c) shall be imposed and collected beginning with respect to emissions reported for calendar year 2034 and for each year thereafter.
 - **(h)** Not later than 2 years after August 16, 2022 , the Administrator shall revise the requirements of subpart W of part 98 of title 40, Code of Federal Regulations, to ensure the reporting under such subpart, and calculation of charges under subsections (e) and (f) of this section, are based on empirical data, including data collected pursuant to subsection (a)(4), accurately reflect the total methane emissions and waste emissions from the applicable facilities, and allow owners and operators of applicable facilities to submit empirical emissions data, in a manner to be prescribed by the Administrator, to demonstrate the extent to which a charge under subsection (c) is owed.
 - **(i)** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.

@@ -3,9 +3,9 @@ title: "Section 273 - Repealed. Pub. L. 117–317, § 2(8) , Dec. 27, 2022 , 136
 usc_title: 25
 usc_section: "273"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 273"
-generated_at: "2026-03-29T19:59:16.283Z"
+generated_at: "2026-03-29T20:04:54.319Z"
 ---
 
 # § 273. Repealed. Pub. L. 117–317, § 2(8) , Dec. 27, 2022 , 136 Stat. 4419

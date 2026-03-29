@@ -3,9 +3,9 @@ title: "Section 566a - Omitted"
 usc_title: 25
 usc_section: "566a"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 566a"
-generated_at: "2026-03-29T19:59:16.307Z"
+generated_at: "2026-03-29T20:04:54.338Z"
 ---
 
 # § 566a. Omitted

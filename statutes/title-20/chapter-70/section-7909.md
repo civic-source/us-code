@@ -3,9 +3,9 @@ title: "Section 7909 - Prohibition on federally sponsored testing"
 usc_title: 20
 usc_section: "7909"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 7909"
-generated_at: "2026-03-29T19:58:56.944Z"
+generated_at: "2026-03-29T20:04:33.120Z"
 ---
 
 # § 7909. Prohibition on federally sponsored testing

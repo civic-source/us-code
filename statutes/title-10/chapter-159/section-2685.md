@@ -3,9 +3,9 @@ title: "Section 2685 - Adjustment of or surcharge on selling prices in commissar
 usc_title: 10
 usc_section: "2685"
 chapter: 159
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2685"
-generated_at: "2026-03-29T19:58:02.187Z"
+generated_at: "2026-03-29T20:03:09.707Z"
 ---
 
 # § 2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities

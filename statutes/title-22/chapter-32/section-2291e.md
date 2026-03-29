@@ -3,9 +3,9 @@ title: "Section 2291e - Reallocation of funds withheld from countries which fail
 usc_title: 22
 usc_section: "2291e"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2291e"
-generated_at: "2026-03-29T19:59:24.091Z"
+generated_at: "2026-03-29T20:04:46.759Z"
 ---
 
 # § 2291e. Reallocation of funds withheld from countries which fail to take adequate steps to halt illicit drug production or trafficking

@@ -3,9 +3,9 @@ title: "Section 12806 - Home repair services grants for older and disabled homeo
 usc_title: 42
 usc_section: "12806"
 chapter: 130
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12806"
-generated_at: "2026-03-29T20:01:33.669Z"
+generated_at: "2026-03-29T20:06:11.687Z"
 ---
 
 # § 12806. Home repair services grants for older and disabled homeowners

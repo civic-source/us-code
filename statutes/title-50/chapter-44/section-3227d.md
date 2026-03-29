@@ -3,9 +3,9 @@ title: "Section 3227d - National Intelligence University acceptance of grants"
 usc_title: 50
 usc_section: "3227d"
 chapter: 44
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3227d"
-generated_at: "2026-03-29T20:01:54.753Z"
+generated_at: "2026-03-29T20:06:21.121Z"
 ---
 
 # § 3227d. National Intelligence University acceptance of grants

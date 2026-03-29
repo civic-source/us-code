@@ -5,7 +5,7 @@ usc_section: "2004c"
 chapter: 101
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2004c"
-generated_at: "2026-03-29T02:10:45.052Z"
+generated_at: "2026-03-29T20:03:09.634Z"
 ---
 
 # § 2004c. Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members

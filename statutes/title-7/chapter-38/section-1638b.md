@@ -3,9 +3,9 @@ title: "Section 1638b - Enforcement"
 usc_title: 7
 usc_section: "1638b"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1638b"
-generated_at: "2026-03-29T19:57:39.054Z"
+generated_at: "2026-03-29T20:02:52.549Z"
 ---
 
 # § 1638b. Enforcement

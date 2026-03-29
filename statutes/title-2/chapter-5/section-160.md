@@ -5,7 +5,7 @@ usc_section: "160"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 160"
-generated_at: "2026-03-29T20:01:46.486Z"
+generated_at: "2026-03-29T20:02:11.244Z"
 ---
 
 # § 160. Disbursement of gifts, etc., to Library

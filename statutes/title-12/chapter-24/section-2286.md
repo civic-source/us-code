@@ -3,9 +3,9 @@ title: "Section 2286 - Approval of financing plans by Secretary of the Treasury"
 usc_title: 12
 usc_section: "2286"
 chapter: 24
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 2286"
-generated_at: "2026-03-29T19:58:40.993Z"
+generated_at: "2026-03-29T20:03:45.849Z"
 ---
 
 # § 2286. Approval of financing plans by Secretary of the Treasury

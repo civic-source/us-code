@@ -5,7 +5,7 @@ usc_section: "402"
 chapter: 5
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 402"
-generated_at: "2026-03-29T20:01:43.990Z"
+generated_at: "2026-03-29T20:02:12.939Z"
 ---
 
 # § 402. Application of laws

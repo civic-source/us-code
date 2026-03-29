@@ -3,9 +3,9 @@ title: "Section 1382e - Supplementary assistance by State or sub­division to ne
 usc_title: 42
 usc_section: "1382e"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1382e"
-generated_at: "2026-03-29T20:01:32.423Z"
+generated_at: "2026-03-29T20:06:10.505Z"
 ---
 
 # § 1382e. Supplementary assistance by State or sub­division to needy individuals

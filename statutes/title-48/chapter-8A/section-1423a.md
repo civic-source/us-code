@@ -3,9 +3,9 @@ title: "Section 1423a - Power of legislature; limitation on indebtedness of Guam
 usc_title: 48
 usc_section: "1423a"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1423a"
-generated_at: "2026-03-29T20:01:41.595Z"
+generated_at: "2026-03-29T20:06:17.900Z"
 ---
 
 # § 1423a. Power of legislature; limitation on indebtedness of Guam; bond issues; guarantees for purchase by Federal Financing Bank of Guam Power Authority bonds or other obligations; interest rates; default

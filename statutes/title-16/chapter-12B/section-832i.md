@@ -3,9 +3,9 @@ title: "Section 832i - Employment of personnel"
 usc_title: 16
 usc_section: "832i"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 832i"
-generated_at: "2026-03-29T19:59:08.239Z"
+generated_at: "2026-03-29T20:04:20.241Z"
 ---
 
 # § 832i. Employment of personnel

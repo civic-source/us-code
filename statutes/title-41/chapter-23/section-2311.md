@@ -3,9 +3,9 @@ title: "Section 2311 - Enhanced transparency on interagency contracting and othe
 usc_title: 41
 usc_section: "2311"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "41 U.S.C. § 2311"
-generated_at: "2026-03-29T20:00:48.362Z"
+generated_at: "2026-03-29T20:05:26.592Z"
 ---
 
 # § 2311. Enhanced transparency on interagency contracting and other transactions

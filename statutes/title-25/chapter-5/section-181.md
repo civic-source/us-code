@@ -3,9 +3,9 @@ title: "Section 181 - Rights of white men marrying Indian women; tribal property
 usc_title: 25
 usc_section: "181"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 181"
-generated_at: "2026-03-29T19:59:16.281Z"
+generated_at: "2026-03-29T20:04:54.317Z"
 ---
 
 # § 181. Rights of white men marrying Indian women; tribal property

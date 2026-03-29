@@ -5,7 +5,7 @@ usc_section: "901a"
 chapter: 20
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 901a"
-generated_at: "2026-03-29T20:01:46.532Z"
+generated_at: "2026-03-29T20:02:11.280Z"
 ---
 
 # § 901a. Enforcement of budget goal

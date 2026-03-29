@@ -3,9 +3,9 @@ title: "Section 72 - Board of Trustees"
 usc_title: 20
 usc_section: "72"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 72"
-generated_at: "2026-03-29T19:58:56.594Z"
+generated_at: "2026-03-29T20:04:32.738Z"
 ---
 
 # § 72. Board of Trustees

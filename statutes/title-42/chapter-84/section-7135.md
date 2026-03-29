@@ -3,9 +3,9 @@ title: "Section 7135 - Energy Information Administration"
 usc_title: 42
 usc_section: "7135"
 chapter: 84
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7135"
-generated_at: "2026-03-29T20:01:33.311Z"
+generated_at: "2026-03-29T20:06:11.332Z"
 ---
 
 # § 7135. Energy Information Administration

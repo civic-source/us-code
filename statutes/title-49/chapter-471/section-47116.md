@@ -3,9 +3,9 @@ title: "Section 47116 - Small airport fund"
 usc_title: 49
 usc_section: "47116"
 chapter: 471
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 47116"
-generated_at: "2026-03-29T20:01:51.173Z"
+generated_at: "2026-03-29T20:06:28.331Z"
 ---
 
 # § 47116. Small airport fund
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T20:01:51.173Z"
 - **(d)**
   - **(1)** In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year proj­ects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
   - **(2)** Notwithstanding section 47124(b)(4)(A), the Secretary may provide grants under this section to an airport sponsor participating in the contract tower program under section 47124 for the construction or improvement of a nonapproach control tower, as defined by the Secretary, and for the acquisition and installation of air traffic control, communications, and related equipment to be used in that tower. Such grants shall be subject to the distribution requirements of subsection (b) and the eligibility requirements of section 47124(b)(4)(B).
-- **(e)** In distributing amounts from the fund described in subsection (a) to sponsors described in subsection 1 1 So in original. Probably should be “subsections”. (b)(2) and (b)(3), 5 percent of each amount shall be used for projects to construct or rehabilitate aprons intended to be used for itinerant general aviation aircraft parking.
+- **(e)** In distributing amounts from the fund described in subsection (a) to sponsors described in subsection 1 1 So in original. (b)(2) and 1 (b)(3), 5 percent of each amount shall be used for projects to construct or rehabilitate aprons intended to be used for itinerant general aviation aircraft parking.

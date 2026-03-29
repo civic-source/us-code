@@ -3,9 +3,9 @@ title: "Section 2274 - Study by Secretary of Labor when International Trade Comm
 usc_title: 19
 usc_section: "2274"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-03-29T19:58:51.768Z"
+generated_at: "2026-03-29T20:04:27.371Z"
 ---
 
 # § 2274. Study by Secretary of Labor when International Trade Commission begins investigation

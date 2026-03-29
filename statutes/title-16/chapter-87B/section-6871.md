@@ -5,7 +5,7 @@ usc_section: "6871"
 chapter: 87
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6871"
-generated_at: "2026-03-29T02:11:53.986Z"
+generated_at: "2026-03-29T20:04:20.497Z"
 ---
 
 # § 6871. Definitions

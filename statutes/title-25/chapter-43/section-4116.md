@@ -3,9 +3,9 @@ title: "Section 4116 - Regulations"
 usc_title: 25
 usc_section: "4116"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 4116"
-generated_at: "2026-03-29T19:59:16.442Z"
+generated_at: "2026-03-29T20:04:54.450Z"
 ---
 
 # § 4116. Regulations

@@ -3,9 +3,9 @@ title: "Section 1171 - Procedures to determine presumptions of service connectio
 usc_title: 38
 usc_section: "1171"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1171"
-generated_at: "2026-03-29T20:00:42.986Z"
+generated_at: "2026-03-29T20:05:54.638Z"
 ---
 
 # § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions
@@ -23,7 +23,4 @@ generated_at: "2026-03-29T20:00:42.986Z"
   - **(3)** the Secretary issues regulations under section 1174 of this title .
 - **(b)** In this subchapter:
   - **(1)** The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
-  - **(2)** The term “Individual Longitudinal Exposure Record” includes—
-    - **(A)** service records;
-    - **(B)** any database maintained by the Department of Defense and shared with the Department of Veterans Affairs to serve as a central portal for exposure-related data that compiles, collates, presents, and provides available occupational and environmental exposure information to support the needs of the Department of Defense and the Department of Veterans Affairs; or
-    - **(C)** any successor system to a database described in subparagraph (B).
+  - **(2)** The term “Individual Longitudinal Exposure Record” means the data system maintained under section 996 of title 10 .

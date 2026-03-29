@@ -5,7 +5,7 @@ usc_section: "529"
 chapter: 5
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 529"
-generated_at: "2026-03-29T02:11:23.777Z"
+generated_at: "2026-03-29T20:03:17.280Z"
 ---
 
 # § 529. Public availability of information

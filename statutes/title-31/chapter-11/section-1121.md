@@ -3,9 +3,9 @@ title: "Section 1121 - Progress reviews and use of performance information"
 usc_title: 31
 usc_section: "1121"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 1121"
-generated_at: "2026-03-29T20:00:25.310Z"
+generated_at: "2026-03-29T20:05:32.570Z"
 ---
 
 # § 1121. Progress reviews and use of performance information
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T20:00:25.310Z"
   - **(5)** for agency priority goals at greatest risk of not meeting the planned level of performance, identify prospects and strategies for performance improvement, including any needed changes to agency program activities, regulations, policies, or other activities.
 - **(c)**
   - **(1)** In this subsection, the term “covered goal” means a goal or objective established in the strategic plan of the agency under section 306(a) of title 5 .
-  - **(2)** Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency, shall—
+  - **(2)** Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency, 1 1 So in original. shall—
     - **(A)** for each covered goal, review with the appropriate agency official responsible for the covered goal—
       - **(i)** the progress achieved toward the covered goal—
         - **(I)** during the most recent fiscal year; or

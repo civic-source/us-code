@@ -3,9 +3,9 @@ title: "Section 4083b - Overseas operations leave"
 usc_title: 22
 usc_section: "4083b"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4083b"
-generated_at: "2026-03-29T19:59:24.213Z"
+generated_at: "2026-03-29T20:04:46.882Z"
 ---
 
 # § 4083b. Overseas operations leave

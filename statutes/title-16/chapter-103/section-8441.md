@@ -3,9 +3,9 @@ title: "Section 8441 - Gateway communities"
 usc_title: 16
 usc_section: "8441"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8441"
-generated_at: "2026-03-29T19:59:08.546Z"
+generated_at: "2026-03-29T20:04:20.521Z"
 ---
 
 # § 8441. Gateway communities

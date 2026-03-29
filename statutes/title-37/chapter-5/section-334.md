@@ -3,25 +3,25 @@ title: "Section 334 - Special aviation incentive pay and bonus authorities for o
 usc_title: 37
 usc_section: "334"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 334"
-generated_at: "2026-03-29T20:00:34.785Z"
+generated_at: "2026-03-29T20:05:44.906Z"
 ---
 
 # § 334. Special aviation incentive pay and bonus authorities for officers
 
 - **(a)**
-  - **(1)** The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
+  - **(1)** The Secretary concerned may pay aviation incentive pay under this section to an officer of a uniformed service who—
     - **(A)** is entitled to basic pay under section 204 of this title or compensation under section 206 of this title ;
     - **(B)** maintains, or is in training leading to, an aeronautical rating or designation that qualifies the officer to engage in operational flying duty or proficiency flying duty;
     - **(C)** engages in, or is in training leading to, frequent and regular performance of operational flying duty or proficiency flying duty;
     - **(D)** engages in or remains in aviation service for a specified period; and
     - **(E)** meets such other criteria as the Secretary concerned determines appropriate.
   - **(2)** The Secretary concerned may pay aviation incentive pay under this section to an officer who is otherwise qualified for such pay but who is not currently engaged in the performance of operational flying duty or proficiency flying duty if the Secretary determines, under regulations prescribed under section 374 of this title , that payment of aviation incentive pay to that officer is in the best interests of the service.
-- **(b)** The Secretary concerned may pay an aviation bonus under this section to an officer in a regular or reserve component of a uniformed service who—
+- **(b)** The Secretary concerned may pay an aviation bonus under this section to an officer of a uniformed service who—
   - **(1)** is entitled to aviation incentive pay under subsection (a);
   - **(2)** has completed any active duty service commitment incurred for undergraduate aviator training or is within one year of completing such commitment;
-  - **(3)** executes a written agreement to remain on active duty in a regular component or to serve in an active status in a reserve component in aviation service for at least one year; and
+  - **(3)** executes a written agreement to remain on active duty in a regular component or to serve in an active status in a reserve component, or, in the case of an officer of the Space Force, to remain in space force active status in aviation service for at least one year; and
   - **(4)** meets such other criteria as the Secretary concerned determines appropriate.
 - **(c)**
   - **(1)** The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
@@ -41,14 +41,14 @@ generated_at: "2026-03-29T20:00:34.785Z"
   - **(2)** the method of payment of the bonus under subsection (c)(2);
   - **(3)** the period of obligated service; and
   - **(4)** the type or conditions of the service.
-- **(e)** A reserve component officer who is entitled to compensation under section 206 of this title and who is authorized aviation incentive pay under this section may be paid an amount of incentive pay that is proportionate to the compensation received under section 206 for inactive-duty training.
+- **(e)** An officer who is entitled to compensation under section 206 of this title and who is authorized aviation incentive pay under this section may be paid an amount of incentive pay that is proportionate to the compensation received under section 206 for inactive-duty training.
 - **(f)**
   - **(1)** Aviation incentive pay paid to an officer under subsection (a) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 351(a)(2) or 353(a) of this title for the same skill and period of service.
   - **(2)** An aviation bonus paid to an officer under subsection (b) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a bonus payment under such subsection and section 332 or 353(b) of this title for the same skill and period of service.
 - **(g)** An officer who receives aviation incentive pay or an aviation bonus under this section and who fails to fulfill the eligibility requirements for the receipt of the incentive pay or bonus or complete the period of service for which the incentive pay or bonus is paid, as specified in the written agreement under subsection (d) in the case of a bonus, shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** In this section:
-  - **(1)** The term “aviation service” means service performed by an officer in a regular or reserve component while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
-  - **(2)** The term “operational flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
-  - **(3)** The term “proficiency flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
+  - **(1)** The term “aviation service” means service performed by an officer while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+  - **(2)** The term “operational flying duty” means flying performed under competent orders by rated or designated officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
+  - **(3)** The term “proficiency flying duty” means flying performed under competent orders by rated or designated officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
   - **(4)** The term “officer” includes an individual enlisted and designated as an aviation cadet under section 8411 of title 10 .
-- **(i)** No agreement may be entered into under this section after December 31, 2025 .
+- **(i)** No agreement may be entered into under this section after December 31, 2026 .

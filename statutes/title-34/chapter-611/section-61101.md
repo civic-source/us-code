@@ -5,7 +5,7 @@ usc_section: "61101"
 chapter: 611
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 61101"
-generated_at: "2026-03-29T02:14:25.401Z"
+generated_at: "2026-03-29T20:05:30.474Z"
 ---
 
 # § 61101. Bridging Immigration-related Deficits Experienced Nationwide Reimbursement Fund

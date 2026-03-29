@@ -3,15 +3,15 @@ title: "Section 5103 - Major acquisitions"
 usc_title: 14
 usc_section: "5103"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 5103"
-generated_at: "2026-03-29T19:58:08.534Z"
+generated_at: "2026-03-29T20:03:17.328Z"
 ---
 
 # § 5103. Major acquisitions
 
-- **(a)** In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all major acquisition programs.
-- **(b)** Each report under subsection (a) shall include for each major acquisition program—
+- **(a)** In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all Level 1 acquisitions or Level 2 acquisitions.
+- **(b)** Each report under subsection (a) shall include for each Level 1 acquisition or Level 2 acquisition—
   - **(1)** a statement of the Coast Guard’s mission needs and performance goals relating to such program, including a justification for any change to those needs and goals subsequent to a report previously submitted under this section;
   - **(2)** a justification explaining how the projected number and capabilities of assets acquired under such program meet applicable mission needs and performance goals;
   - **(3)** an identification of any and all mission hour gaps, accompanied by an explanation of how and when the Coast Guard will close those gaps;
@@ -41,4 +41,6 @@ generated_at: "2026-03-29T19:58:08.534Z"
     - **(B)** operate and sustain the cutters and aircraft described in paragraph (2);
     - **(C)** acquire related command, control, communications, computer, intelligence, surveillance, and reconnaissance systems; and
     - **(D)** acquire, construct, or renovate shoreside infrastructure.
-- **(f)** In this section, the term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+- **(f)** In this section:
+  - **(1)** The term “Level 1 acquisition” has the meaning given such term in section 1171.
+  - **(2)** The term “Level 2 acquisition” has the meaning given such term in section 1171.

@@ -3,9 +3,9 @@ title: "Section 221d - Relinquishment of interest in road"
 usc_title: 16
 usc_section: "221d"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 221d"
-generated_at: "2026-03-29T19:59:07.861Z"
+generated_at: "2026-03-29T20:04:19.929Z"
 ---
 
 # § 221d. Relinquishment of interest in road

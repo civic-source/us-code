@@ -5,7 +5,7 @@ usc_section: "9201"
 chapter: 92
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 9201"
-generated_at: "2026-03-29T20:01:52.282Z"
+generated_at: "2026-03-29T20:02:37.923Z"
 ---
 
 # § 9201. Definitions

@@ -3,9 +3,9 @@ title: "Section 418 - Printing of notes; denomination and form"
 usc_title: 12
 usc_section: "418"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 418"
-generated_at: "2026-03-29T19:58:40.724Z"
+generated_at: "2026-03-29T20:03:45.589Z"
 ---
 
 # § 418. Printing of notes; denomination and form

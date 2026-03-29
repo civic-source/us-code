@@ -3,9 +3,9 @@ title: "Section 9561 - Grants to nonprofit organizations that support minority b
 usc_title: 15
 usc_section: "9561"
 chapter: 120
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9561"
-generated_at: "2026-03-29T19:58:17.966Z"
+generated_at: "2026-03-29T20:03:27.745Z"
 ---
 
 # § 9561. Grants to nonprofit organizations that support minority business enterprises

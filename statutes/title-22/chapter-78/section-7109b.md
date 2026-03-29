@@ -3,9 +3,9 @@ title: "Section 7109b - Presidential Award for Extraordinary Efforts To Combat T
 usc_title: 22
 usc_section: "7109b"
 chapter: 78
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 7109b"
-generated_at: "2026-03-29T19:59:24.283Z"
+generated_at: "2026-03-29T20:04:46.963Z"
 ---
 
 # § 7109b. Presidential Award for Extraordinary Efforts To Combat Trafficking in Persons

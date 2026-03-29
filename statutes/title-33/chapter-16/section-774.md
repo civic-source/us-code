@@ -3,9 +3,9 @@ title: "Section 774 - Transferred"
 usc_title: 33
 usc_section: "774"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 774"
-generated_at: "2026-03-29T20:00:31.276Z"
+generated_at: "2026-03-29T20:05:35.692Z"
 ---
 
 # § 774. Transferred

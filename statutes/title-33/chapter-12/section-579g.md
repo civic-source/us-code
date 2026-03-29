@@ -3,9 +3,9 @@ title: "Section 579g - Annual reports"
 usc_title: 33
 usc_section: "579g"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 579g"
-generated_at: "2026-03-29T20:00:31.253Z"
+generated_at: "2026-03-29T20:05:35.668Z"
 ---
 
 # § 579g. Annual reports
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T20:00:31.253Z"
   - **(4)** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on the Environment and Public Works of the Senate on an annual basis a draft of each covered report.
   - **(5)** In this subsection, the term “covered report”—
     - **(A)** means any report or study required to be submitted by the Secretary under this Act or any Act providing authorizations for water resources development projects enacted after January 4, 2025 , to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate that has not been so submitted; and
-    - **(B)** does not include a feasibility study (as such term is defined in section 2215(d) of this title .
+    - **(B)** does not include a feasibility study (as such term is defined in section 2215(d) of this title ).

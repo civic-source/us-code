@@ -3,9 +3,9 @@ title: "Section 144 - Qualified small issue bond; qualified student loan bond; q
 usc_title: 26
 usc_section: "144"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 144"
-generated_at: "2026-03-29T19:59:49.148Z"
+generated_at: "2026-03-29T20:05:22.218Z"
 ---
 
 # § 144. Qualified small issue bond; qualified student loan bond; qualified redevelopment bond
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:59:49.148Z"
       - **(i)** to replace property destroyed or damaged by fire, storm, or other casualty, to the extent of the fair market value of the property replaced,
       - **(ii)** required by a change made after the date of issue of the issue in question in a Federal or State law or local ordinance of general application or required by a change made after such date in rules and regulations of general application issued under such a law or ordinance,
       - **(iii)** required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account under this clause with respect to any issue shall not exceed $1,000,000), or
-      - **(iv)** described in clause (i) or (ii) of section 41(b)(2)(A) for which a deduction was allowed under section 174(a),
+      - **(iv)** described in clause (i) or (ii) of section 41(b)(2)(A) for which a deduction was allowed under section 174A(a),
     - **(D)** In applying subparagraph (A)(ii) with respect to capital expenditures made after the date of any issue, no bond issued as a part of such issue shall cease to be treated as a qualified small issue bond by reason of any such expenditure for any period before the date on which such expenditure is paid or incurred.
     - **(E)** In the case of any issue described in paragraph (1)(B), an election may be made under subparagraph (A) of this paragraph only if all of the prior issues being redeemed are issues to which paragraph (1) (or the corresponding provision of prior law) applied. In applying subparagraph (A)(ii) with respect to such a refinancing issue, capital expenditures shall be taken into account only for purposes of determining whether the prior issues being redeemed qualified (and would have continued to qualify) under paragraph (1) (or the corresponding provision of prior law).
     - **(F)** In the case of any issue 95 percent or more of the net proceeds of which are to be used to provide facilities with respect to which an urban development action grant has been made under section 119 of the Housing and Community Development Act of 1974, capital expenditures of not to exceed $10,000,000 shall not be taken into account for purposes of applying subparagraph (A)(ii). This subparagraph shall not apply to bonds issued after December 31, 2006 .

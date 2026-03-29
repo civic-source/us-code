@@ -5,7 +5,7 @@ usc_section: "5516"
 chapter: 551
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 5516"
-generated_at: "2026-03-29T02:10:45.244Z"
+generated_at: "2026-03-29T20:03:09.809Z"
 ---
 
 # § 5516. Prohibition on privatized or subscription-based missile defense intercept capabilities

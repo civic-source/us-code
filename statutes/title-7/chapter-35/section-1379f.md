@@ -3,9 +3,9 @@ title: "Section 1379f - Conversion factors"
 usc_title: 7
 usc_section: "1379f"
 chapter: 35
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1379f"
-generated_at: "2026-03-29T19:57:39.003Z"
+generated_at: "2026-03-29T20:02:52.497Z"
 ---
 
 # § 1379f. Conversion factors

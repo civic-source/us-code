@@ -3,9 +3,9 @@ title: "Section 986 - Policy regarding identification of gender or personal pron
 usc_title: 10
 usc_section: "986"
 chapter: 49
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 986"
-generated_at: "2026-03-29T19:58:02.035Z"
+generated_at: "2026-03-29T20:03:09.532Z"
 ---
 
 # § 986. Policy regarding identification of gender or personal pronouns in official correspondence

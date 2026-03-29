@@ -3,9 +3,9 @@ title: "Section 2 - Grants to upgrade agriculture and food sciences facilities a
 usc_title: 7
 usc_section: "2"
 chapter: 64
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T19:57:39.326Z"
+generated_at: "2026-03-29T20:02:52.686Z"
 ---
 
 # § 3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities

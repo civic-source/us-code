@@ -3,9 +3,9 @@ title: "Section 281 - Procurement of equipment by State and local governments th
 usc_title: 10
 usc_section: "281"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 281"
-generated_at: "2026-03-29T19:58:01.954Z"
+generated_at: "2026-03-29T20:03:09.441Z"
 ---
 
 # § 281. Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities

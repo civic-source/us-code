@@ -3,14 +3,20 @@ title: "Section 3871d - Funding"
 usc_title: 16
 usc_section: "3871d"
 chapter: 58
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3871d"
-generated_at: "2026-03-29T19:59:08.455Z"
+generated_at: "2026-03-29T20:04:20.446Z"
 ---
 
 # § 3871d. Funding
 
-- **(a)** The Secretary shall use $300,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2019 through 2031 to carry out the program.
+- **(a)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out the program, to the maximum extent practicable—
+  - **(1)** $425,000,000 for fiscal year 2026;
+  - **(2)** $450,000,000 for fiscal year 2027;
+  - **(3)** $450,000,000 for fiscal year 2028;
+  - **(4)** $450,000,000 for fiscal year 2029;
+  - **(5)** $450,000,000 for fiscal year 2030; and
+  - **(6)** $450,000,000 for fiscal year 2031.
 - **(b)** Funds made available under subsection (a) shall remain available until expended.
 - **(c)** Of the funds made available for the program under subsection (a), the Secretary shall allocate—
   - **(1)** 50 percent of the funds to projects based on a State or multistate competitive process administered by the Secretary at the local level with the advice of the applicable State technical committees established under subchapter VI; and

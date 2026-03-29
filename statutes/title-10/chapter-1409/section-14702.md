@@ -3,9 +3,9 @@ title: "Section 14702 - Retention on reserve active-status list of certain offic
 usc_title: 10
 usc_section: "14702"
 chapter: 1409
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 14702"
-generated_at: "2026-03-29T19:58:02.381Z"
+generated_at: "2026-03-29T20:03:09.933Z"
 ---
 
 # § 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general

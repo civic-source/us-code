@@ -3,9 +3,9 @@ title: "Section 1794 - Child abuse prevention and safety at facilities"
 usc_title: 10
 usc_section: "1794"
 chapter: 88
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1794"
-generated_at: "2026-03-29T19:58:02.125Z"
+generated_at: "2026-03-29T20:03:09.633Z"
 ---
 
 # § 1794. Child abuse prevention and safety at facilities
@@ -22,3 +22,7 @@ generated_at: "2026-03-29T19:58:02.125Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), any violation of a safety, health, or child welfare law or regulation (discovered at an inspection or otherwise) at a military child development center shall be remedied immediately.
   - **(2)** In the case of a violation that is not life threatening, the commander of the major command under which the installation concerned operates may waive the requirement that the violation be remedied immediately for a period of up to 90 days beginning on the date of the discovery of the violation. If the violation is not remedied as of the end of that 90-day period, the military child development center shall be closed until the violation is remedied. The Secretary of the military department concerned may waive the preceding sentence and authorize the center to remain open in a case in which the violation cannot reasonably be remedied within that 90-day period or in which major facility reconstruction is required.
+- **(g)**
+  - **(1)** The Secretary of Defense shall prescribe regulations that require the director of a military child development center to notify a parent or guardian of a child who is the suspected victim of a covered incident not later than 24 hours after a child care employee at such military child development center learns of such covered incident.
+  - **(2)** The requirement under paragraph (1) shall not apply if notification under such paragraph threatens the integrity of a law enforcement investigation of such covered incident.
+  - **(3)** In this subsection, the term “covered incident” means alleged or suspected abuse or neglect of a child that occurs at a military child development center.

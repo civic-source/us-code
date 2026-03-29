@@ -3,9 +3,9 @@ title: "Section 7831 - Report on United States humanitarian assistance"
 usc_title: 22
 usc_section: "7831"
 chapter: 85
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 7831"
-generated_at: "2026-03-29T19:59:24.302Z"
+generated_at: "2026-03-29T20:04:46.983Z"
 ---
 
 # § 7831. Report on United States humanitarian assistance

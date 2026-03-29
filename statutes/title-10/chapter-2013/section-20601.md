@@ -3,9 +3,9 @@ title: "Section 20601 - Officers: voluntary retirement for length of service"
 usc_title: 10
 usc_section: "20601"
 chapter: 2013
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 20601"
-generated_at: "2026-03-29T19:58:02.394Z"
+generated_at: "2026-03-29T20:03:09.949Z"
 ---
 
 # § 20601. Officers: voluntary retirement for length of service

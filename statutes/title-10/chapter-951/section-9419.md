@@ -3,9 +3,9 @@ title: "Section 9419 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "9419"
 chapter: 951
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9419"
-generated_at: "2026-03-29T19:58:02.342Z"
+generated_at: "2026-03-29T20:03:09.897Z"
 ---
 
 # § 9419. Recruit basic training: separate housing for male and female recruits

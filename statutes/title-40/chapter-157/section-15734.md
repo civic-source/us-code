@@ -3,9 +3,9 @@ title: "Section 15734 - Great Lakes Authority"
 usc_title: 40
 usc_section: "15734"
 chapter: 157
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 15734"
-generated_at: "2026-03-29T20:00:35.909Z"
+generated_at: "2026-03-29T20:05:42.974Z"
 ---
 
 # § 15734. Great Lakes Authority

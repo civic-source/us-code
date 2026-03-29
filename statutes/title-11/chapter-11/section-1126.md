@@ -3,9 +3,9 @@ title: "Section 1126 - Acceptance of plan"
 usc_title: 11
 usc_section: "1126"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 1126"
-generated_at: "2026-03-29T19:58:09.480Z"
+generated_at: "2026-03-29T20:03:14.811Z"
 ---
 
 # § 1126. Acceptance of plan

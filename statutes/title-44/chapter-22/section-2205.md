@@ -3,9 +3,9 @@ title: "Section 2205 - Exceptions to restricted access"
 usc_title: 44
 usc_section: "2205"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 2205"
-generated_at: "2026-03-29T20:00:54.167Z"
+generated_at: "2026-03-29T20:05:29.599Z"
 ---
 
 # § 2205. Exceptions to restricted access

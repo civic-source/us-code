@@ -3,9 +3,9 @@ title: "Section 286g - Jurisdiction and venue of actions"
 usc_title: 22
 usc_section: "286g"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 286g"
-generated_at: "2026-03-29T19:59:23.997Z"
+generated_at: "2026-03-29T20:04:46.669Z"
 ---
 
 # § 286g. Jurisdiction and venue of actions

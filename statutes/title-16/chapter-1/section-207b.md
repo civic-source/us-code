@@ -3,9 +3,9 @@ title: "Section 207b - Exchange of lands with California; adjustment of boundary
 usc_title: 16
 usc_section: "207b"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 207b"
-generated_at: "2026-03-29T19:59:07.859Z"
+generated_at: "2026-03-29T20:04:19.928Z"
 ---
 
 # § 207b. Exchange of lands with California; adjustment of boundary

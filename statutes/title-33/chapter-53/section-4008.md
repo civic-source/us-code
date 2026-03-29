@@ -3,9 +3,9 @@ title: "Section 4008 - Definitions"
 usc_title: 33
 usc_section: "4008"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 4008"
-generated_at: "2026-03-29T20:00:31.455Z"
+generated_at: "2026-03-29T20:05:35.890Z"
 ---
 
 # § 4008. Definitions

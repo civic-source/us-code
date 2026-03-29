@@ -3,9 +3,9 @@ title: "Section 1432 - Repealed. July 15, 1949, ch. 338 , title VI, § 606, 63 S
 usc_title: 42
 usc_section: "1432"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1432"
-generated_at: "2026-03-29T20:01:32.792Z"
+generated_at: "2026-03-29T20:06:10.822Z"
 ---
 
 # § 1432. Repealed. July 15, 1949, ch. 338 , title VI, § 606, 63 Stat. 441

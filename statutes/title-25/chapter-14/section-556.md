@@ -3,9 +3,9 @@ title: "Section 556 - Omitted"
 usc_title: 25
 usc_section: "556"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 556"
-generated_at: "2026-03-29T19:59:16.306Z"
+generated_at: "2026-03-29T20:04:54.337Z"
 ---
 
 # § 556. Omitted

@@ -3,15 +3,15 @@ title: "Section 138 - Assistant Secretaries of Defense"
 usc_title: 10
 usc_section: "138"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 138"
-generated_at: "2026-03-29T19:58:01.931Z"
+generated_at: "2026-03-29T20:03:09.418Z"
 ---
 
 # § 138. Assistant Secretaries of Defense
 
 - **(a)**
-  - **(1)** There are 19 Assistant Secretaries of Defense.
+  - **(1)** There are 20 Assistant Secretaries of Defense.
   - **(2)** The Assistant Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 - **(b)**
   - **(1)** The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of Defense may prescribe.
@@ -35,8 +35,9 @@ generated_at: "2026-03-29T19:58:01.931Z"
     - **(B)** Unless otherwise directed by the President or statute, no officer other than the Secretary of Defense, Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Policy may intervene to exercise authority, direction, or control over the Assistant Secretary in the discharge of responsibilities specified in subparagraph (A).
   - **(5)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Space Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for space warfighting.
   - **(6)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Industrial Base Policy. The Assistant Secretary shall advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies.
-  - **(7)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Energy, Installations, and Environment. The principal duty of the Assistant Secretary shall be the overall supervision of matters relating to energy, installations, and the environment for the Department of Defense.
-  - **(8)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Cyber Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for cyber. The Assistant Secretary is the Principal Cyber Advisor described in section 392a(a) of this title .
+  - **(7)** One of the Assistant Secretaries is the Assistant Secretary of Defense for International Armaments Cooperation, who shall report directly to the Under Secretary of Defense for Acquisition and Sustainment. The principal duty of the Assistant Secretary shall be to carry out section 133b(b)(10) of this title .
+  - **(8)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Energy, Installations, and Environment. The principal duty of the Assistant Secretary shall be the overall supervision of matters relating to energy, installations, and the environment for the Department of Defense.
+  - **(9)** One of the Assistant Secretaries is the Assistant Secretary of Defense for Cyber Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for cyber. The Assistant Secretary is the Principal Cyber Advisor described in section 392a(a) of this title .
 - **(c)** Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
   - **(1)** the Secretary of Defense has specifically delegated that authority to the Assistant Secretary in writing; and
   - **(2)** the order is issued through the Secretary of the military department concerned.

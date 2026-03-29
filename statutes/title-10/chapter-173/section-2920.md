@@ -3,9 +3,9 @@ title: "Section 2920 - Energy resilience and energy security measures on militar
 usc_title: 10
 usc_section: "2920"
 chapter: 173
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2920"
-generated_at: "2026-03-29T19:58:02.218Z"
+generated_at: "2026-03-29T20:03:09.740Z"
 ---
 
 # § 2920. Energy resilience and energy security measures on military installations
@@ -15,6 +15,10 @@ generated_at: "2026-03-29T19:58:02.218Z"
   - **(2)** The Secretary of Defense shall issue standards establishing levels of availability relative to specific critical missions, with such standards providing a range of not less than 99.9 percent availability per fiscal year and not more than 99.9999 percent availability per fiscal year, depending on the criticality of the mission.
   - **(3)** The Secretary may establish interim goals to take effect prior to fiscal year 2025 to ensure the requirements under this subsection are met.
   - **(4)** The Secretary of each military department and the head of each Defense Agency shall ensure that their organizations meet the requirements of this subsection.
+  - **(5)** The Secretary shall establish internal processes to support coordination with external regulatory and planning entities involved in grid reliability, transmission infrastructure, and long-term energy planning, in order to assess and mitigate risks to defense-critical installations, advance the energy security objectives of the Department, and comply with statutory mandates under this section.
+  - **(6)** Coordination under paragraph (5)—
+    - **(A)** shall include identification of mission-critical loads and infrastructure dependencies and load profiles at or near military installations; and
+    - **(B)** may include consultation with relevant Federal and non-Federal entities.
 - **(b)**
   - **(1)** The Secretary of Defense shall require the Secretary of each military department and the head of each Defense Agency to plan for the provision of energy resilience and energy security for installations.
   - **(2)** Planning under paragraph (1) shall—

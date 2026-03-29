@@ -5,7 +5,7 @@ usc_section: "159"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 159"
-generated_at: "2026-03-29T20:01:46.486Z"
+generated_at: "2026-03-29T20:02:11.244Z"
 ---
 
 # § 159. Perpetual succession and suits by or against Library of Congress Trust Fund Board

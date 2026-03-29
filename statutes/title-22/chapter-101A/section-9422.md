@@ -3,9 +3,9 @@ title: "Section 9422 - Statement of policy"
 usc_title: 22
 usc_section: "9422"
 chapter: 101
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9422"
-generated_at: "2026-03-29T19:59:24.343Z"
+generated_at: "2026-03-29T20:04:47.027Z"
 ---
 
 # § 9422. Statement of policy

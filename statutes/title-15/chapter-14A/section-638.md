@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-29T19:58:17.420Z"
+generated_at: "2026-03-29T20:03:27.283Z"
 ---
 
 # § 638. Research and development
@@ -442,7 +442,7 @@ generated_at: "2026-03-29T19:58:17.420Z"
     - **(A)** The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 10 U.S.C. 2501 note). 1
     - **(B)** The Defense Technology Area Plan of the Department of Defense.
     - **(C)** The Basic Research Plan of the Department of Defense.
-  - **(3)** The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs).
+  - **(3)** The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs). 1
 - **(y)**
   - **(1)** The Secretary of Defense and the Secretary of each military department is authorized to create and administer a “Commercialization Readiness Program” to accelerate the transition of technologies, products, and services developed under the Small Business Innovation Research Program or Small Business Technology Transfer Program to Phase III, including the acquisition process. The authority to create and administer a Commercialization Readiness Program under this subsection may not be construed to eliminate or replace any other SBIR program or STTR program that enhances the insertion or transition of SBIR or STTR technologies, including any such program in effect on January 6, 2006 .
   - **(2)** In carrying out the Commercialization Readiness Program, the Secretary of Defense and the Secretary of each military department shall identify research programs of the Small Business Innovation Research Program or Small Business Technology Transfer Program that have the potential for rapid transitioning to Phase III and into the acquisition process.

@@ -3,9 +3,9 @@ title: "Section 17254 - Relation to Safe Drinking Water Act"
 usc_title: 42
 usc_section: "17254"
 chapter: 152
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 17254"
-generated_at: "2026-03-29T20:01:33.840Z"
+generated_at: "2026-03-29T20:06:11.844Z"
 ---
 
 # § 17254. Relation to Safe Drinking Water Act

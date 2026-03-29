@@ -3,9 +3,9 @@ title: "Section 410mm - Establishment"
 usc_title: 16
 usc_section: "410mm"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 410mm"
-generated_at: "2026-03-29T19:59:07.916Z"
+generated_at: "2026-03-29T20:04:19.971Z"
 ---
 
 # § 410mm. Establishment

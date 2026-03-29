@@ -5,7 +5,7 @@ usc_section: "6106"
 chapter: 601
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6106"
-generated_at: "2026-03-29T02:10:45.246Z"
+generated_at: "2026-03-29T20:03:09.813Z"
 ---
 
 # § 6106. Restriction on licensing requirement for certain defense activities and facilities

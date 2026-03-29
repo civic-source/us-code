@@ -3,9 +3,9 @@ title: "Section 1307 - Utilization of services and facilities"
 usc_title: 16
 usc_section: "1307"
 chapter: 29
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1307"
-generated_at: "2026-03-29T19:59:08.295Z"
+generated_at: "2026-03-29T20:04:20.293Z"
 ---
 
 # § 1307. Utilization of services and facilities

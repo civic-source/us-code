@@ -3,9 +3,9 @@ title: "Section 5939 - Foundation for Food and Agriculture Research"
 usc_title: 7
 usc_section: "5939"
 chapter: 88
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 5939"
-generated_at: "2026-03-29T19:57:39.378Z"
+generated_at: "2026-03-29T20:02:52.737Z"
 ---
 
 # § 5939. Foundation for Food and Agriculture Research
@@ -144,6 +144,7 @@ generated_at: "2026-03-29T19:57:39.378Z"
       - **(i)** On February 7, 2014 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
       - **(ii)** On the date on which the strategic plan described in subsection (f)(3)(B)(iv) is submitted, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $185,000,000, to remain available until expended.
       - **(iii)** Not later than 30 days after November 17, 2023 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
+      - **(iv)** Not later than 30 days after July 4, 2025 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
     - **(B)**
       - **(i)** The Foundation may use the funds made available under subparagraph (A) to carry out the purposes, duties, and powers of the Foundation only to the extent that the Foundation secures an equal amount of matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program.
       - **(ii)** Nothing in this section requires the Foundation to require a matching contribution from an individual grantee as a condition of receiving a grant under this section.

@@ -3,9 +3,9 @@ title: "Section 794e - Protection and advocacy of individual rights"
 usc_title: 29
 usc_section: "794e"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 794e"
-generated_at: "2026-03-29T19:59:56.611Z"
+generated_at: "2026-03-29T20:05:03.671Z"
 ---
 
 # § 794e. Protection and advocacy of individual rights
@@ -52,4 +52,4 @@ generated_at: "2026-03-29T19:59:56.611Z"
 - **(l)** There are authorized to be appropriated to carry out this section $17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.
 - **(m)** As used in this section:
   - **(1)** The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f).
-  - **(2)** The term “American Indian consortium” means a consortium established as described in section 142 2 of the Developmental Disabilities Assistance and Bill of Rights Act ( 42 U.S.C. 6042 ).
+  - **(2)** The term “American Indian consortium” means a consortium established as described in section 142 1 of the Developmental Disabilities Assistance and Bill of Rights Act ( 42 U.S.C. 6042 ).

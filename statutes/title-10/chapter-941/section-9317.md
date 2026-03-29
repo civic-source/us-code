@@ -3,9 +3,9 @@ title: "Section 9317 - Thirty years or more: regular enlisted members"
 usc_title: 10
 usc_section: "9317"
 chapter: 941
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9317"
-generated_at: "2026-03-29T19:58:02.339Z"
+generated_at: "2026-03-29T20:03:09.893Z"
 ---
 
 # § 9317. Thirty years or more: regular enlisted members

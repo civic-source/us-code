@@ -5,7 +5,7 @@ usc_section: "681"
 chapter: 17
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 681"
-generated_at: "2026-03-29T20:01:46.527Z"
+generated_at: "2026-03-29T20:02:11.274Z"
 ---
 
 # § 681. Disclaimer

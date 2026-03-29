@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-29T19:58:02.146Z"
+generated_at: "2026-03-29T20:03:09.657Z"
 ---
 
 # § 2208. Working-capital funds
@@ -95,4 +95,4 @@ generated_at: "2026-03-29T19:58:02.146Z"
     - **(A)** Except as provided in subparagraph (B), section 2805 of this title shall apply with respect to a project funded using a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805 of this title .
     - **(B)** For purposes of applying subparagraph (A), the dollar limitation specified in subsection (a)(2) of section 2805 of this title , subject to adjustment as provided in subsection (f) of such section, shall apply rather than the dollar limitation specified in subsection (c) of such section.
   - **(3)** In this subsection, the term “defense industrial base facility” means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
-  - **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2025 .
+  - **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2027 .

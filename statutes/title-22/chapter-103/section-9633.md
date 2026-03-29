@@ -3,12 +3,12 @@ title: "Section 9633 - Maximum contingent liability"
 usc_title: 22
 usc_section: "9633"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9633"
-generated_at: "2026-03-29T19:59:24.351Z"
+generated_at: "2026-03-29T20:04:47.037Z"
 ---
 
 # § 9633. Maximum contingent liability
 
-The maximum contingent liability of the Corporation outstanding at any one time shall not exceed in the aggregate $60,000,000,000.
-
+- **(a)** The maximum contingent liability of the Corporation outstanding at any one time shall not exceed in the aggregate $205,000,000,000.
+- **(b)** The maximum contingent liability shall apply to all extension of liability by the Corporation regardless of the authority cited thereto.

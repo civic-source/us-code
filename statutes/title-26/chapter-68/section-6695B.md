@@ -5,7 +5,7 @@ usc_section: "6695B"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6695B"
-generated_at: "2026-03-29T02:14:01.365Z"
+generated_at: "2026-03-29T20:05:22.727Z"
 ---
 
 # § 6695B. Penalty for substantial misstatements on certification provided by supplier

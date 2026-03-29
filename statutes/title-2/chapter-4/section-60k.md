@@ -5,7 +5,7 @@ usc_section: "60k"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 60k"
-generated_at: "2026-03-29T20:01:46.477Z"
+generated_at: "2026-03-29T20:02:11.237Z"
 ---
 
 # § 60k. Transferred

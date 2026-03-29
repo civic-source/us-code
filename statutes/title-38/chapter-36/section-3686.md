@@ -3,9 +3,9 @@ title: "Section 3686 - Correspondence courses"
 usc_title: 38
 usc_section: "3686"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 3686"
-generated_at: "2026-03-29T20:00:43.090Z"
+generated_at: "2026-03-29T20:05:54.724Z"
 ---
 
 # § 3686. Correspondence courses

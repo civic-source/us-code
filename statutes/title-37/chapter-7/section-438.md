@@ -3,9 +3,9 @@ title: "Section 438 - Preventive health services allowance"
 usc_title: 37
 usc_section: "438"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 438"
-generated_at: "2026-03-29T20:00:34.794Z"
+generated_at: "2026-03-29T20:05:44.917Z"
 ---
 
 # § 438. Preventive health services allowance

@@ -5,7 +5,7 @@ usc_section: "6354"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6354"
-generated_at: "2026-03-29T02:10:45.267Z"
+generated_at: "2026-03-29T20:03:09.830Z"
 ---
 
 # § 6354. Pilot program relating to use of proceeds of disposal or utilization of certain department of energy assets

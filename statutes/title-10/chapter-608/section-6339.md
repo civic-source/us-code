@@ -5,7 +5,7 @@ usc_section: "6339"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6339"
-generated_at: "2026-03-29T02:10:45.267Z"
+generated_at: "2026-03-29T20:03:09.830Z"
 ---
 
 # § 6339. Limitation on establishing an enduring bioassurance program within the administration

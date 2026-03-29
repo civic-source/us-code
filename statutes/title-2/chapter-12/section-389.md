@@ -5,7 +5,7 @@ usc_section: "389"
 chapter: 12
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 389"
-generated_at: "2026-03-29T20:01:46.509Z"
+generated_at: "2026-03-29T20:02:11.260Z"
 ---
 
 # § 389. Officer and witness fees

@@ -3,9 +3,9 @@ title: "Section 10215 - Officers of Army National Guard of the United States and
 usc_title: 10
 usc_section: "10215"
 chapter: 1007
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 10215"
-generated_at: "2026-03-29T19:58:02.353Z"
+generated_at: "2026-03-29T20:03:09.909Z"
 ---
 
 # § 10215. Officers of Army National Guard of the United States and Air National Guard of the United States: authority with respect to Federal status

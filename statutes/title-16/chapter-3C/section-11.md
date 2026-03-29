@@ -3,9 +3,9 @@ title: "Section 11 - Delegation of powers and duties by Secretary of the Interio
 usc_title: 16
 usc_section: "11"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-29T19:59:08.155Z"
+generated_at: "2026-03-29T20:04:20.170Z"
 ---
 
 # § 590z–11. Delegation of powers and duties by Secretary of the Interior

@@ -3,9 +3,9 @@ title: "Section 403 - Transfer of activities of Department of Agriculture to bur
 usc_title: 7
 usc_section: "403"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 403"
-generated_at: "2026-03-29T19:57:38.946Z"
+generated_at: "2026-03-29T20:02:52.438Z"
 ---
 
 # § 403. Transfer of activities of Department of Agriculture to bureau; employment of clerks, etc.

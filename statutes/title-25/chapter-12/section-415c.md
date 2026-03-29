@@ -3,9 +3,9 @@ title: "Section 415c - Approval of leases"
 usc_title: 25
 usc_section: "415c"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 415c"
-generated_at: "2026-03-29T19:59:16.303Z"
+generated_at: "2026-03-29T20:04:54.333Z"
 ---
 
 # § 415c. Approval of leases

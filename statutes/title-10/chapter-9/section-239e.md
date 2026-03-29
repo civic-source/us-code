@@ -3,9 +3,9 @@ title: "Section 239e - Nuclear command, control, and communications: major force
 usc_title: 10
 usc_section: "239e"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 239e"
-generated_at: "2026-03-29T19:58:01.952Z"
+generated_at: "2026-03-29T20:03:09.439Z"
 ---
 
 # § 239e. Nuclear command, control, and communications: major force program and budget assessment

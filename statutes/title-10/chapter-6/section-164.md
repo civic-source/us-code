@@ -3,9 +3,9 @@ title: "Section 164 - Commanders of combatant commands: assignment; powers and d
 usc_title: 10
 usc_section: "164"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 164"
-generated_at: "2026-03-29T19:58:01.937Z"
+generated_at: "2026-03-29T20:03:09.425Z"
 ---
 
 # § 164. Commanders of combatant commands: assignment; powers and duties
@@ -15,6 +15,9 @@ generated_at: "2026-03-29T19:58:01.937Z"
     - **(A)** has the joint specialty under section 661 of this title ; and
     - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(d) of this title ) as a general or flag officer.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
+  - **(3)**
+    - **(A)** If the President removes an officer assigned under paragraph (1) to serve as the commander of a unified or specified combatant command or transfers that officer to another position or location before the expected end of the officer’s service as a combatant commander, the President shall, not later than five days after the removal or transfer takes effect, submit to Congress, including the congressional defense committees, notice that the officer is being removed or transferred and a statement of the reason for the removal or transfer.
+    - **(B)** Nothing in this paragraph prohibits a personnel action authorized by another provision of law.
 - **(b)**
   - **(1)** The commander of a combatant command is responsible to the President and to the Secretary of Defense for the performance of missions assigned to that command by the President or by the Secretary with the approval of the President.
   - **(2)** Subject to the direction of the President, the commander of a combatant command—

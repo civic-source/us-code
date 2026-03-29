@@ -3,9 +3,9 @@ title: "Section 1928 - Authority for payment of interest on settlements"
 usc_title: 38
 usc_section: "1928"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1928"
-generated_at: "2026-03-29T20:00:43.026Z"
+generated_at: "2026-03-29T20:05:54.672Z"
 ---
 
 # § 1928. Authority for payment of interest on settlements

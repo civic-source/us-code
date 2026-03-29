@@ -3,9 +3,9 @@ title: "Section 2319 - Critical skill training bonus"
 usc_title: 14
 usc_section: "2319"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2319"
-generated_at: "2026-03-29T19:58:08.522Z"
+generated_at: "2026-03-29T20:03:17.304Z"
 ---
 
 # § 2319. Critical skill training bonus

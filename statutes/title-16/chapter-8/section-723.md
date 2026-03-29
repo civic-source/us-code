@@ -3,9 +3,9 @@ title: "Section 723 - Purposes of refuge; regulations by Secretary of the Interi
 usc_title: 16
 usc_section: "723"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 723"
-generated_at: "2026-03-29T19:59:08.193Z"
+generated_at: "2026-03-29T20:04:20.203Z"
 ---
 
 # § 723. Purposes of refuge; regulations by Secretary of the Interior

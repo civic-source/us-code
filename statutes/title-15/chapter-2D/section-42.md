@@ -3,9 +3,9 @@ title: "Section 42 - Court review of orders"
 usc_title: 15
 usc_section: "42"
 chapter: 2
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 42"
-generated_at: "2026-03-29T19:58:17.356Z"
+generated_at: "2026-03-29T20:03:27.209Z"
 ---
 
 # § 80a–42. Court review of orders

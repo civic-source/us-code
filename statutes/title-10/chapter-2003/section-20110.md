@@ -5,7 +5,7 @@ usc_section: "20110"
 chapter: 2003
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 20110"
-generated_at: "2026-03-29T02:10:45.394Z"
+generated_at: "2026-03-29T20:03:09.944Z"
 ---
 
 # § 20110. Strength in grade: Space Force general officers in a Space Force active status, not on sustained duty

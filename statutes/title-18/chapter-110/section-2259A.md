@@ -3,9 +3,9 @@ title: "Section 2259A - Assessments in child pornography cases"
 usc_title: 18
 usc_section: "2259A"
 chapter: 110
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2259A"
-generated_at: "2026-03-29T19:58:59.715Z"
+generated_at: "2026-03-29T20:03:53.774Z"
 ---
 
 # § 2259A. Assessments in child pornography cases

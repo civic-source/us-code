@@ -5,7 +5,7 @@ usc_section: "142g"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 142g"
-generated_at: "2026-03-29T20:01:46.484Z"
+generated_at: "2026-03-29T20:02:11.243Z"
 ---
 
 # § 142g. Copyright Royalty Tribunal; computation and disbursement of pay of Tribunal personnel by Library of Congress

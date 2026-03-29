@@ -3,9 +3,9 @@ title: "Section 3791 - Management of intellectual property matters within the De
 usc_title: 10
 usc_section: "3791"
 chapter: 275
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3791"
-generated_at: "2026-03-29T19:58:02.241Z"
+generated_at: "2026-03-29T20:03:09.767Z"
 ---
 
 # § 3791. Management of intellectual property matters within the Department of Defense

@@ -3,9 +3,9 @@ title: "Section 1724 - Hospital care, medical services, and nursing home care ab
 usc_title: 38
 usc_section: "1724"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1724"
-generated_at: "2026-03-29T20:00:43.014Z"
+generated_at: "2026-03-29T20:05:54.661Z"
 ---
 
 # § 1724. Hospital care, medical services, and nursing home care abroad
@@ -36,4 +36,4 @@ generated_at: "2026-03-29T20:00:43.014Z"
   - **(5)** In this subsection, the term “Freely Associated States” means—
     - **(A)** the Federated States of Micronesia, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 ( Public Law 99–239 ; 48 U.S.C. 1901 note);
     - **(B)** the Republic of the Marshall Islands, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 ( Public Law 99–239 ; 48 U.S.C. 1901 note); and
-    - **(C)** the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” ( Public Law 99–658 ; 48 U.S.C. 1931 note).
+    - **(C)** the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint 1 1 So in original. Probably should be preceded by “the”. Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” ( Public Law 99–658 ; 48 U.S.C. 1931 note).

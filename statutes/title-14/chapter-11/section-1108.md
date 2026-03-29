@@ -3,9 +3,9 @@ title: "Section 1108 - Department of Defense consultation"
 usc_title: 14
 usc_section: "1108"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 1108"
-generated_at: "2026-03-29T19:58:08.508Z"
+generated_at: "2026-03-29T20:03:17.291Z"
 ---
 
 # § 1108. Department of Defense consultation

@@ -3,14 +3,14 @@ title: "Section 2851 - Supervision of military construction projects"
 usc_title: 10
 usc_section: "2851"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2851"
-generated_at: "2026-03-29T19:58:02.206Z"
+generated_at: "2026-03-29T20:03:09.728Z"
 ---
 
 # § 2851. Supervision of military construction projects
 
-- **(a)** Each contract entered into by the United States in connection with a military construction project or a military family housing project shall be carried out under the direction and supervision of the Secretary of the Army (acting through the Chief of Engineers), the Secretary of the Navy (acting through the Commander of the Naval Facilities Engineering Command), or such other department or Government agency as the Secretary of Defense approves to assure the most efficient, expeditious, and cost-effective completion of the project.
+- **(a)** Each contract entered into by the United States in connection with a military construction project or a military family housing project shall be carried out under the direction and supervision of a Secretary of a military department or Government agency (as approved by the Secretary of Defense) to assure the most efficient, expeditious, and cost-effective completion of the project.
 - **(b)** A military construction project for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense shall be accomplished by or through a military department designated by the Secretary of Defense.
 - **(c)**
   - **(1)** The Secretary of Defense shall maintain an Internet site that will permit a person to access and view on a separate page of the Internet site a document or other file containing the information required by paragraph (2) for the following:

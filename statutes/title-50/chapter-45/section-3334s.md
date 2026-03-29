@@ -3,9 +3,9 @@ title: "Section 3334s - Programs for next-generation microelectronics in support
 usc_title: 50
 usc_section: "3334s"
 chapter: 45
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334s"
-generated_at: "2026-03-29T20:01:54.769Z"
+generated_at: "2026-03-29T20:06:21.132Z"
 ---
 
 # § 3334s. Programs for next-generation microelectronics in support of artificial intelligence
@@ -29,7 +29,3 @@ generated_at: "2026-03-29T20:01:54.769Z"
   - **(2)** consult with the Secretary of Commerce; and
   - **(3)** actively collaborate with relevant Government agencies and programs, including the programs established under subsection 2 2 So in original. Probably should be “subsections”. (c), (d), (e), and (f) of such section 4656 of title 15 , academic institutions, and private industry to leverage expertise and resources in conducting research.
 - **(d)** Amounts authorized to be appropriated for the National Intelligence Program of the Office of the Director of National Intelligence may be made available to carry out the program established under subsection (a).
-- **(e)** The Director of the Intelligence Advanced Research Projects Activity shall provide to the congressional intelligence committees, the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and, consistent with the protection of intelligence sources and methods, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, regular briefings on—
-  - **(1)** the progress, achievements, and outcomes of the program established under subsection (a);
-  - **(2)** the collaborations conducted pursuant to subsection (c); and
-  - **(3)** recommendations for future research priorities.

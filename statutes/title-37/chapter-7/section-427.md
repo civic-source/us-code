@@ -3,15 +3,15 @@ title: "Section 427 - Family separation allowance"
 usc_title: 37
 usc_section: "427"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 427"
-generated_at: "2026-03-29T20:00:34.793Z"
+generated_at: "2026-03-29T20:05:44.916Z"
 ---
 
 # § 427. Family separation allowance
 
 - **(a)**
-  - **(1)** In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance of not less than $250, and not more than $400, if—
+  - **(1)** In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance of not less than $300, and not more than $400, if—
     - **(A)** the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 452 of this title and his dependents do not reside at or near that station;
     - **(B)** he is on duty on board a ship away from the home port of the ship (or under orders to remain on board the ship while at the home port) for a continuous period of more than 30 days; or
     - **(C)** he is on temporary duty away from his permanent station for a continuous period of more than 30 days and his dependents do not reside at or near his temporary duty station.

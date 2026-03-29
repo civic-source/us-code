@@ -5,7 +5,7 @@ usc_section: "2654"
 chapter: 157
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2654"
-generated_at: "2026-03-29T02:10:45.123Z"
+generated_at: "2026-03-29T20:03:09.701Z"
 ---
 
 # § 2654. Aircraft safety: requirements for certain highly trafficked domestic airspace

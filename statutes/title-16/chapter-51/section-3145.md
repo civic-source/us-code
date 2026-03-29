@@ -3,9 +3,9 @@ title: "Section 3145 - Wildlife resources portion of study and impact of potenti
 usc_title: 16
 usc_section: "3145"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3145"
-generated_at: "2026-03-29T19:59:08.400Z"
+generated_at: "2026-03-29T20:04:20.396Z"
 ---
 
 # § 3145. Wildlife resources portion of study and impact of potential oil spills in Arctic Ocean

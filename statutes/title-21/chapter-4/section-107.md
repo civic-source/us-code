@@ -3,9 +3,9 @@ title: "Section 107 - Omitted"
 usc_title: 21
 usc_section: "107"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 107"
-generated_at: "2026-03-29T19:59:28.330Z"
+generated_at: "2026-03-29T20:04:50.376Z"
 ---
 
 # §§ 106, 107. Omitted

@@ -3,9 +3,9 @@ title: "Section 3417 - Assignment of Federal personnel to State Indian economic 
 usc_title: 25
 usc_section: "3417"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 3417"
-generated_at: "2026-03-29T19:59:16.425Z"
+generated_at: "2026-03-29T20:04:54.438Z"
 ---
 
 # § 3417. Assignment of Federal personnel to State Indian economic development programs

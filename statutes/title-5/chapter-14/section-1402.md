@@ -5,7 +5,7 @@ usc_section: "1402"
 chapter: 14
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 1402"
-generated_at: "2026-03-29T20:01:52.127Z"
+generated_at: "2026-03-29T20:02:37.767Z"
 ---
 
 # § 1402. Authority and functions of agency Chief Human Capital Officers

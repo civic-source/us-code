@@ -5,7 +5,7 @@ usc_section: "273"
 chapter: 9
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 273"
-generated_at: "2026-03-29T20:01:46.500Z"
+generated_at: "2026-03-29T20:02:11.252Z"
 ---
 
 # § 273. Compensation

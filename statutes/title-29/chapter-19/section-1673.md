@@ -3,9 +3,9 @@ title: "Section 1673 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1673"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1673"
-generated_at: "2026-03-29T19:59:56.708Z"
+generated_at: "2026-03-29T20:05:03.770Z"
 ---
 
 # §§ 1671 to 1673. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

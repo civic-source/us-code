@@ -5,7 +5,7 @@ usc_section: "6178"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6178"
-generated_at: "2026-03-29T02:10:45.257Z"
+generated_at: "2026-03-29T20:03:09.821Z"
 ---
 
 # § 6178. Report on defense environmental cleanup expenditures

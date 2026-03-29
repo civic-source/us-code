@@ -3,9 +3,9 @@ title: "Section 10603 - Governance of the Foundation"
 usc_title: 22
 usc_section: "10603"
 chapter: 113
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10603"
-generated_at: "2026-03-29T19:59:24.365Z"
+generated_at: "2026-03-29T20:04:47.057Z"
 ---
 
 # § 10603. Governance of the Foundation
@@ -68,7 +68,7 @@ generated_at: "2026-03-29T19:59:24.365Z"
       - **(v)** removal and exclusion procedures for implementing partners, employees, fellows, trainees, and other agents of the Foundation (including ex-officio members of the Board and appointed members of the Board) who fail to uphold the ethical and conflict of interest standards established pursuant to clause (iii);
       - **(vi)** policies for winding down the activities of the Foundation upon its dissolution, including a plan—
         - **(I)** to return unspent appropriations to the Treasury of the United States; and
-        - **(II)** to donate unspent private and philanthropic contributions to projects that align with the goals and requirements described in section 60106 of this title ;
+        - **(II)** to donate unspent private and philanthropic contributions to projects that align with the goals and requirements described in section 10606 of this title ;
       - **(vii)** policies for vetting implementing partners and grantees to ensure the Foundation does not provide grants to for profit entities whose primary objective is activities other than conservation activities; and
       - **(viii)** clawback policies and procedures to be incorporated into grant agreements to ensure compliance with the policies referred to in clause (vii).
     - **(B)** The Board shall ensure that the bylaws of the Foundation and the activities carried out under such bylaws do not—

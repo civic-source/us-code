@@ -5,7 +5,7 @@ usc_section: "710a"
 chapter: 40
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 710a"
-generated_at: "2026-03-29T02:10:44.903Z"
+generated_at: "2026-03-29T20:03:09.496Z"
 ---
 
 # § 710a. Parental leave for members of certain reserve components of the armed forces

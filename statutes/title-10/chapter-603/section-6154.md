@@ -5,7 +5,7 @@ usc_section: "6154"
 chapter: 603
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6154"
-generated_at: "2026-03-29T02:10:45.254Z"
+generated_at: "2026-03-29T20:03:09.818Z"
 ---
 
 # § 6154. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina

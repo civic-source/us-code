@@ -3,9 +3,9 @@ title: "Section 3025 - Length of service for promotion purposes"
 usc_title: 33
 usc_section: "3025"
 chapter: 43
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 3025"
-generated_at: "2026-03-29T20:00:31.429Z"
+generated_at: "2026-03-29T20:05:35.863Z"
 ---
 
 # § 3025. Length of service for promotion purposes

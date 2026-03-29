@@ -3,9 +3,9 @@ title: "Section 3142 - Arctic National Wildlife Refuge coastal plain resource as
 usc_title: 16
 usc_section: "3142"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3142"
-generated_at: "2026-03-29T19:59:08.399Z"
+generated_at: "2026-03-29T20:04:20.396Z"
 ---
 
 # § 3142. Arctic National Wildlife Refuge coastal plain resource assessment

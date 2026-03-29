@@ -5,7 +5,7 @@ usc_section: "1843"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1843"
-generated_at: "2026-03-29T20:01:46.575Z"
+generated_at: "2026-03-29T20:02:11.312Z"
 ---
 
 # § 1843. Obsolete references

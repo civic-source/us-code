@@ -5,7 +5,7 @@ usc_section: "2164c"
 chapter: 108
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2164c"
-generated_at: "2026-03-29T02:10:45.068Z"
+generated_at: "2026-03-29T20:03:09.648Z"
 ---
 
 # § 2164c. Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools

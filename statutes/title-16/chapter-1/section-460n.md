@@ -3,9 +3,9 @@ title: "Section 460n - Administration"
 usc_title: 16
 usc_section: "460n"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 460n"
-generated_at: "2026-03-29T19:59:08.011Z"
+generated_at: "2026-03-29T20:04:20.053Z"
 ---
 
 # § 460n. Administration

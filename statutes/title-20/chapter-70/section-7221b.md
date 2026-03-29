@@ -3,9 +3,9 @@ title: "Section 7221b - Grants to support high-quality charter schools"
 usc_title: 20
 usc_section: "7221b"
 chapter: 70
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 7221b"
-generated_at: "2026-03-29T19:58:56.906Z"
+generated_at: "2026-03-29T20:04:33.083Z"
 ---
 
 # § 7221b. Grants to support high-quality charter schools

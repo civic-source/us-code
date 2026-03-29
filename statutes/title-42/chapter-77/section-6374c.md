@@ -3,9 +3,9 @@ title: "Section 6374c - Omitted"
 usc_title: 42
 usc_section: "6374c"
 chapter: 77
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6374c"
-generated_at: "2026-03-29T20:01:33.258Z"
+generated_at: "2026-03-29T20:06:11.280Z"
 ---
 
 # § 6374c. Omitted

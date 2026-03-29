@@ -3,9 +3,9 @@ title: "Section 240f - Audits: selection of service providers for audit services
 usc_title: 10
 usc_section: "240f"
 chapter: 9
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 240f"
-generated_at: "2026-03-29T19:58:01.952Z"
+generated_at: "2026-03-29T20:03:09.440Z"
 ---
 
 # § 240f. Audits: selection of service providers for audit services

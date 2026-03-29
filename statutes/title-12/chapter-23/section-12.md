@@ -3,9 +3,9 @@ title: "Section 12 - Securities in credit enhanced pools"
 usc_title: 12
 usc_section: "12"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-29T19:58:40.990Z"
+generated_at: "2026-03-29T20:03:45.846Z"
 ---
 
 # § 2279aa–12. Securities in credit enhanced pools

@@ -5,7 +5,7 @@ usc_section: "4129"
 chapter: 303
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4129"
-generated_at: "2026-03-29T02:10:45.211Z"
+generated_at: "2026-03-29T20:03:09.779Z"
 ---
 
 # § 4129. Joint Federated Assurance Center

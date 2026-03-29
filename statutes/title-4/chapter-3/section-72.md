@@ -5,7 +5,7 @@ usc_section: "72"
 chapter: 3
 current_through: "PL 119-73"
 classification: "4 U.S.C. § 72"
-generated_at: "2026-03-29T20:01:43.693Z"
+generated_at: "2026-03-29T20:02:17.204Z"
 ---
 
 # § 72. Public offices; at seat of Government

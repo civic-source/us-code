@@ -3,9 +3,9 @@ title: "Section 870 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992"
 usc_title: 48
 usc_section: "870"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 870"
-generated_at: "2026-03-29T20:01:41.587Z"
+generated_at: "2026-03-29T20:06:17.893Z"
 ---
 
 # § 870. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992

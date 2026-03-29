@@ -3,9 +3,9 @@ title: "Section 3919 - Exercise of rights under chapter not to affect certain fu
 usc_title: 50
 usc_section: "3919"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3919"
-generated_at: "2026-03-29T20:01:54.816Z"
+generated_at: "2026-03-29T20:06:21.175Z"
 ---
 
 # § 3919. Exercise of rights under chapter not to affect certain future financial transactions

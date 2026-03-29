@@ -3,9 +3,9 @@ title: "Section 1301 - Charge of property transferred to the Federal Government"
 usc_title: 40
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 1301"
-generated_at: "2026-03-29T20:00:35.878Z"
+generated_at: "2026-03-29T20:05:42.930Z"
 ---
 
 # § 1301. Charge of property transferred to the Federal Government

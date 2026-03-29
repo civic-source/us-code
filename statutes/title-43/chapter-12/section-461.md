@@ -3,9 +3,9 @@ title: "Section 461 - Determination of construction charges generally"
 usc_title: 43
 usc_section: "461"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 461"
-generated_at: "2026-03-29T20:00:47.503Z"
+generated_at: "2026-03-29T20:05:36.479Z"
 ---
 
 # § 461. Determination of construction charges generally

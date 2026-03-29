@@ -3,9 +3,9 @@ title: "Section 497 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21
 usc_title: 25
 usc_section: "497"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 497"
-generated_at: "2026-03-29T19:59:16.306Z"
+generated_at: "2026-03-29T20:04:54.337Z"
 ---
 
 # §§ 496, 497. Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 1976 , 90 Stat. 2792

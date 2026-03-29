@@ -5,7 +5,7 @@ usc_section: "2536"
 chapter: 25
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2536"
-generated_at: "2026-03-29T02:11:23.805Z"
+generated_at: "2026-03-29T20:03:17.311Z"
 ---
 
 # § 2536. Notification of changes to Uniform Code of Military Justice or Manual for Courts 1 1 So in original. Probably should be followed by a hyphen. Martial relating to covered misconduct

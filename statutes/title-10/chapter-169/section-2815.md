@@ -3,14 +3,16 @@ title: "Section 2815 - Military installation resilience projects"
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-03-29T19:58:02.202Z"
+generated_at: "2026-03-29T20:03:09.724Z"
 ---
 
 # § 2815. Military installation resilience projects
 
-- **(a)** The Secretary of Defense shall carry out military construction projects for military installation resilience, in accordance with section 2802 of this title (except as provided in subsections (d)(3) and (e)).
+- **(a)** The Secretary of Defense shall carry out military construction projects, including unspecified minor military construction projects not otherwise authorized by law, for military installation resilience, in accordance with—
+  - **(1)** section 2802 of this title (except as provided in subsection (e)); or
+  - **(2)** section 2805 of this title .
 - **(b)**
   - **(1)** When a decision is made to carry out a project under this section, the Secretary of Defense shall notify the congressional defense committees of that decision.
   - **(2)** The Secretary of Defense shall include in each notification submitted under paragraph (1) the rationale for how the project would—

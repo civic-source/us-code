@@ -5,7 +5,7 @@ usc_section: "2719d"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2719d"
-generated_at: "2026-03-29T02:12:40.248Z"
+generated_at: "2026-03-29T20:04:46.820Z"
 ---
 
 # § 2719d. Language incentive pay for civil service employees

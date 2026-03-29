@@ -3,9 +3,9 @@ title: "Section 1396b - Payment to States"
 usc_title: 42
 usc_section: "1396b"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1396b"
-generated_at: "2026-03-29T20:01:32.692Z"
+generated_at: "2026-03-29T20:06:10.738Z"
 ---
 
 # § 1396b. Payment to States
@@ -339,7 +339,11 @@ generated_at: "2026-03-29T20:01:32.692Z"
     - **(A)** The systems must be capable of developing provider, physician, and patient profiles which are sufficient to provide specific information as to the use of covered types of services and items, including prescribed drugs.
     - **(B)** The State must provide that information on probable fraud or abuse which is obtained from, or developed by, the systems, is made available to the State’s medicaid fraud control unit (if any) certified under subsection (q) of this section.
     - **(C)** The systems must meet all performance standards and other requirements for initial approval developed by the Secretary.
-  - **(3)** In order to meet the requirements of this paragraph, a State must have in operation an eligibility determination system which provides for data matching through the Public Assistance Reporting Information System (PARIS) facilitated by the Secretary (or any successor system), including matching with medical assistance programs operated by other States.
+  - **(3)**
+    - **(A)** In order to meet the requirements of this paragraph, a State must have in operation an eligibility determination system which provides for data matching through—
+      - **(i)** the Public Assistance Reporting Information System (PARIS) facilitated by the Secretary (or any successor system), including matching with medical assistance programs operated by other States; and
+      - **(ii)** beginning October 1, 2029 , the system established by the Secretary under section 1396a(uu) of this title .
+    - **(B)** Beginning October 1, 2029 , the Secretary may determine that a State is not required to have in operation an eligibility determination system which provides for data matching (for purposes of address verification under section 1396a(vv) of this title ) through the system described in subparagraph (A)(i) to meet the requirements of this paragraph.
   - **(4)** For purposes of paragraph (1)(B)(iv), the Secretary shall do the following:
     - **(A)** Not later than September 1, 2010 :
       - **(i)** Identify those methodologies of the National Correct Coding Initiative administered by the Secretary (or any successor initiative to promote correct coding and to control improper coding leading to inappropriate payment) which are compatible to claims filed under this subchapter.
@@ -438,7 +442,7 @@ generated_at: "2026-03-29T20:01:32.692Z"
     - **(B)** In any case in which it is necessary for the Secretary to exercise his authority under subparagraph (A) to determine a State’s error rates for a fiscal year, the amount that would otherwise be payable to such State under this subchapter for quarters in such year shall be reduced by the costs incurred by the Secretary in making (directly or otherwise) such determination.
   - **(4)** This subsection shall not apply with respect to Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, or American Samoa.
 - **(v)**
-  - **(1)** Notwithstanding the preceding provisions of this section, except as provided in paragraphs (2) and (4), no payment may be made to a State under this section for medical assistance furnished to an alien who is not lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law.
+  - **(1)** Notwithstanding the preceding provisions of this section, except as provided in paragraphs (2), (4), and (5), no payment may be made to a State under this section for medical assistance furnished to an alien who is not lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law.
   - **(2)** Payment shall be made under this section for care and services that are furnished to an alien described in paragraph (1) only if—
     - **(A)** such care and services are necessary for the treatment of an emergency medical condition of the alien,
     - **(B)** such alien otherwise meets the eligibility requirements for medical assistance under the State plan approved under this subchapter (other than the requirement of the receipt of aid or assistance under subchapter IV, supplemental security income benefits under subchapter XVI, or a State supplementary payment), and
@@ -453,6 +457,13 @@ generated_at: "2026-03-29T20:01:32.692Z"
       - **(ii)** Individuals under 21 years of age, including optional targeted low-income children described in section 1396d(u)(2)(B) of this title .
     - **(B)** In the case of a State that has elected to provide medical assistance to a category of aliens under subparagraph (A), no debt shall accrue under an affidavit of support against any sponsor of such an alien on the basis of provision of assistance to such category and the cost of such assistance shall not be considered as an unreimbursed cost.
     - **(C)** As part of the State’s ongoing eligibility redetermination requirements and procedures for an individual provided medical assistance as a result of an election by the State under subparagraph (A), a State shall verify that the individual continues to lawfully reside in the United States using the documentation presented to the State by the individual on initial enrollment. If the State cannot successfully verify that the individual is lawfully residing in the United States in this manner, it shall require that the individual provide the State with further documentation or other evidence to verify that the individual is lawfully residing in the United States.
+  - **(5)** Notwithstanding the preceding paragraphs of this subsection, beginning on October 1, 2026 , except as provided in paragraphs (2) and (4), in no event shall payment be made to a State under this section for medical assistance furnished to an individual unless such individual is—
+    - **(A)** a resident of 1 of the 50 States, the District of Columbia, or a territory of the United States; and
+    - **(B)** either—
+      - **(i)** a citizen or national of the United States;
+      - **(ii)** an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country;
+      - **(iii)** an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 ( Public Law 96–422 ); or
+      - **(iv)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of title 8 .
 - **(w)**
   - **(1)**
     - **(A)** Notwithstanding the previous provisions of this section, for purposes of determining the amount to be paid to a State (as defined in paragraph (7)(D)) under subsection (a)(1) for quarters in any fiscal year, the total amount expended during such fiscal year as medical assistance under the State plan (as determined without regard to this subsection) shall be reduced by the sum of any revenues received by the State (or by a unit of local government in the State) during the fiscal year—
@@ -507,13 +518,31 @@ generated_at: "2026-03-29T20:01:32.692Z"
       - **(ii)** The Secretary shall approve such an application if the State establishes to the satisfaction of the Secretary that—
         - **(I)** the net impact of the tax and associated expenditures under this subchapter as proposed by the State is generally redistributive in nature, and
         - **(II)** the amount of the tax is not directly correlated to payments under this subchapter for items or services with respect to which the tax is imposed.
+      - **(iii)** For purposes of clause (ii)(I), a tax is not considered to be generally redistributive if any of the following conditions apply:
+        - **(I)** Within a permissible class, the tax rate imposed on any taxpayer or tax rate group (as defined in paragraph (7)(J)) explicitly defined by its relatively lower volume or percentage of Medicaid taxable units (as defined in paragraph (7)(H)) is lower than the tax rate imposed on any other taxpayer or tax rate group explicitly defined by its relatively higher volume or percentage of Medicaid taxable units.
+        - **(II)** Within a permissible class, the tax rate imposed on any taxpayer or tax rate group (as so defined) based upon its Medicaid taxable units (as so defined) is higher than the tax rate imposed on any taxpayer or tax rate group based upon its non-Medicaid taxable unit (as defined in paragraph (7)(I)).
+        - **(III)** The tax excludes or imposes a lower tax rate on a taxpayer or tax rate group (as so defined) based on or defined by any description that results in the same effect as described in subclause (I) or (II) for a taxpayer or tax rate group. Characteristics that may indicate such type of exclusion include the use of terminology to establish a tax rate group—
     - **(F)** In no case shall a tax not qualify as a broad-based health care related tax under this paragraph because it does not apply to a hospital that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code and that does not accept payment under the State plan under this subchapter or under subchapter XVIII.
   - **(4)** For purposes of paragraph (1)(A)(iii), there is in effect a hold harmless provision with respect to a broad-based health care related tax imposed with respect to a class of items or services if the Secretary determines that any of the following applies:
     - **(A)** The State or other unit of government imposing the tax provides (directly or indirectly) for a payment (other than under this subchapter) to taxpayers and the amount of such payment is positively correlated either to the amount of such tax or to the difference between the amount of the tax and the amount of payment under the State plan.
     - **(B)** All or any portion of the payment made under this subchapter to the taxpayer varies based only upon the amount of the total tax paid.
     - **(C)**
       - **(i)** The State or other unit of government imposing the tax provides (directly or indirectly) for any payment, offset, or waiver that guarantees to hold taxpayers harmless for any portion of the costs of the tax.
-      - **(ii)** For purposes of clause (i), a determination of the existence of an indirect guarantee shall be made under paragraph (3)(i) of section 433.68(f) of title 42, Code of Federal Regulations, as in effect on November 1, 2006 , except that for portions of fiscal years beginning on or after January 1, 2008 , and before October 1, 2011 , “5.5 percent” shall be substituted for “6 percent” each place it appears.
+      - **(ii)** For purposes of clause (i), a determination of the existence of an indirect guarantee shall be made under paragraph (3)(i) of section 433.68(f) of title 42, Code of Federal Regulations, as in effect on November 1, 2006 , except that for portions of fiscal years beginning on or after January 1, 2008 , and before October 1, 2011 , “5.5 percent” shall be substituted for “6 percent” each place it appears, and for fiscal years beginning on or after October 1, 2026 , the applicable percent determined under subparagraph (D) shall be substituted for “6 percent” each place it appears.
+    - **(D)**
+      - **(i)** For purposes of subparagraph (C)(ii), the applicable percent determined under this subparagraph is—
+        - **(I)** in the case of a non-expansion State or unit of local government in such State and a class of health care items or services described in section 433.56(a) of title 42, Code of Federal Regulations (as in effect on May 1, 2025 )—
+        - **(II)** in the case of an expansion State or unit of local government in such State and a class of health care items or services described in section 433.56(a) of title 42, Code of Federal Regulations (as in effect on May 1, 2025 ), subject to clause (iv)—
+      - **(ii)** For purposes of clause (i)(II)(aa)(BB), the applicable percent is—
+        - **(I)** for fiscal year 2028, 5.5 percent;
+        - **(II)** for fiscal year 2029, 5 percent;
+        - **(III)** for fiscal year 2030, 4.5 percent;
+        - **(IV)** for fiscal year 2031, 4 percent; and
+        - **(V)** for fiscal year 2032 and each subsequent fiscal year, 3.5 percent.
+      - **(iii)** For purposes of clause (i):
+        - **(I)** The term “expansion State” means a State that, beginning on January 1, 2014 , or on any date thereafter, elects to provide medical assistance to all individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title under the State plan under this subchapter or under a waiver of such plan.
+        - **(II)** The term “non-expansion State” means a State that is not an expansion State.
+      - **(iv)** In the case of a tax of an expansion State or unit of local government in such State in effect on July 4, 2025 , that applies to a class of health care items or services that is described in paragraph (3) or (4) of section 433.56(a) of title 42, Code of Federal Regulations (as in effect on May 1, 2025 ), and for which, on such date, is within the hold harmless threshold (as determined by the Secretary), the applicable percent of net patient revenue attributable to such class that has been so determined shall apply for a fiscal year instead of the applicable percent specified in clause (ii) for the fiscal year.
   - **(5)**
     - **(A)** For purposes of this subsection, the limit under this subparagraph with respect to a State is an amount equal to 25 percent (or, if greater, the State base percentage, as defined in subparagraph (B)) of the non-Federal share of the total amount expended under the State plan during a State fiscal year (or portion thereof), as it would be determined pursuant to paragraph (1)(A) without regard to paragraph (1)(A)(iv).
     - **(B)**
@@ -549,6 +578,17 @@ generated_at: "2026-03-29T20:01:32.692Z"
     - **(E)** The “State fiscal year” means, with respect to a specified year, a State fiscal year ending in that specified year.
     - **(F)** The term “tax” includes any licensing fee, assessment, or other mandatory payment, but does not include payment of a criminal or civil fine or penalty (other than a fine or penalty imposed in lieu of or instead of a fee, assessment, or other mandatory payment).
     - **(G)** The term “unit of local government” means, with respect to a State, a city, county, special purpose district, or other governmental unit in the State.
+    - **(H)** The term “Medicaid taxable unit” means a unit that is being taxed within a health care related tax that is applicable to the program under this subchapter. Such term includes a unit that is used as the basis for—
+      - **(i)** payment under the program under this subchapter (such as Medicaid bed days);
+      - **(ii)** Medicaid revenue;
+      - **(iii)** costs associated with the program under this subchapter (such as Medicaid charges, claims, or expenditures); and
+      - **(iv)** other units associated with the program under this subchapter, as determined by the Secretary.
+    - **(I)** The term “non-Medicaid taxable unit” means a unit that is being taxed within a health care related tax that is not applicable to the program under this subchapter. Such term includes a unit that is used as the basis for—
+      - **(i)** payment by non-Medicaid payers (such as non-Medicaid bed days);
+      - **(ii)** non-Medicaid revenue;
+      - **(iii)** costs that are not associated with the program under this subchapter (such as non-Medicaid charges, non-Medicaid claims, or non-Medicaid expenditures); and
+      - **(iv)** other units not associated with the program under this subchapter, as determined by the Secretary.
+    - **(J)** The term “tax rate group” means a group of entities contained within a permissible class of a health care related tax that are taxed at the same rate.
 - **(x)**
   - **(1)** For purposes of section 1396a(a)(46)(B)(i) of this title , the requirement of this subsection is, with respect to an individual declaring to be a citizen or national of the United States, that, subject to paragraph (2), there is presented satisfactory documentary evidence of citizenship or nationality (as defined in paragraph (3)) of the individual.
   - **(2)** The requirement of paragraph (1) shall not apply to an individual declaring to be a citizen or national of the United States who is eligible for medical assistance under this subchapter—

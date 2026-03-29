@@ -3,9 +3,9 @@ title: "Section 1356k - Importation of coffee under International Coffee Agreeme
 usc_title: 19
 usc_section: "1356k"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1356k"
-generated_at: "2026-03-29T19:58:51.685Z"
+generated_at: "2026-03-29T20:04:27.287Z"
 ---
 
 # § 1356k. Importation of coffee under International Coffee Agreement, 1983; Presidential powers and duties

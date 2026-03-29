@@ -5,7 +5,7 @@ usc_section: "124"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 124"
-generated_at: "2026-03-29T20:01:46.481Z"
+generated_at: "2026-03-29T20:02:11.240Z"
 ---
 
 # § 124. Transferred

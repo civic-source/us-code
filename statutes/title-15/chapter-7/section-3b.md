@@ -3,9 +3,9 @@ title: "Section 3b - Security standards and guidelines for agencies on use and m
 usc_title: 15
 usc_section: "3b"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3b"
-generated_at: "2026-03-29T19:58:17.378Z"
+generated_at: "2026-03-29T20:03:27.234Z"
 ---
 
 # § 278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices

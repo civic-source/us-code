@@ -3,9 +3,9 @@ title: "Section 3102 - Bonds"
 usc_title: 31
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 3102"
-generated_at: "2026-03-29T20:00:25.322Z"
+generated_at: "2026-03-29T20:05:32.579Z"
 ---
 
 # § 3102. Bonds

@@ -3,9 +3,9 @@ title: "Section 1384 - Transfer of shares of corporations owning agricultural la
 usc_title: 22
 usc_section: "1384"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 1384"
-generated_at: "2026-03-29T19:59:24.033Z"
+generated_at: "2026-03-29T20:04:46.700Z"
 ---
 
 # § 1384. Transfer of shares of corporations owning agricultural lands; consideration; indemnification

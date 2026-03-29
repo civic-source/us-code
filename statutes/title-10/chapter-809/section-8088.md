@@ -3,9 +3,9 @@ title: "Section 8088 - Judge Advocate General’s Corps: Office of the Judge Adv
 usc_title: 10
 usc_section: "8088"
 chapter: 809
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8088"
-generated_at: "2026-03-29T19:58:02.301Z"
+generated_at: "2026-03-29T20:03:09.855Z"
 ---
 
 # § 8088. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
@@ -21,3 +21,4 @@ generated_at: "2026-03-29T19:58:02.301Z"
 - **(e)** No officer or employee of the Department of Defense may interfere with—
   - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Navy or the Chief of Naval Operations; or
   - **(2)** the ability of judge advocates of the Navy assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
+- **(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (b), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.

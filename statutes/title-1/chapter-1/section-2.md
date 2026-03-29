@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 1
 current_through: "PL 119-73"
 classification: "1 U.S.C. § 2"
-generated_at: "2026-03-29T20:01:43.775Z"
+generated_at: "2026-03-29T20:02:17.112Z"
 ---
 
 # § 2. “County” as including “parish”, and so forth

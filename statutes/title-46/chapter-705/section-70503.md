@@ -3,17 +3,17 @@ title: "Section 70503 - Prohibited acts"
 usc_title: 46
 usc_section: "70503"
 chapter: 705
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70503"
-generated_at: "2026-03-29T20:01:44.529Z"
+generated_at: "2026-03-29T20:07:02.771Z"
 ---
 
 # § 70503. Prohibited acts
 
-- **(a)** While on board a covered vessel, an individual may not knowingly or intentionally—
-  - **(1)** manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance;
-  - **(2)** destroy (including jettisoning any item or scuttling, burning, or hastily cleaning a vessel), or attempt or conspire to destroy, property that is subject to forfeiture under section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 881(a) ); or
-  - **(3)** conceal, or attempt or conspire to conceal, more than $100,000 in currency or other monetary instruments on the person of such individual or in any conveyance, article of luggage, merchandise, or other container, or compartment of or aboard the covered vessel if that vessel is outfitted for smuggling.
+- **(a)** An individual may not knowingly or intentionally—
+  - **(1)** manufacture or distribute, possess with intent to manufacture or distribute, or place or cause to be placed with intent to manufacture or distribute a controlled substance on board a covered vessel;
+  - **(2)** destroy (including jettisoning any item or scuttling, burning, or hastily cleaning a vessel), or attempt or conspire to destroy, property that is subject to forfeiture under section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 881(a) ) on board a covered vessel; or
+  - **(3)** conceal, or attempt or conspire to conceal, more than $100,000 in currency or other monetary instruments on the person of such individual while on board a covered vessel or in any conveyance, article of luggage, merchandise, or other container, or compartment of or aboard the covered vessel if that vessel is outfitted for smuggling.
 - **(b)** Subsection (a) applies even though the act is committed outside the territorial jurisdiction of the United States.
 - **(c)**
   - **(1)** Subject to paragraph (2), subsection (a) does not apply to—

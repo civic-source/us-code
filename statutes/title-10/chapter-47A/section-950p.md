@@ -3,9 +3,9 @@ title: "Section 950p - Definitions; construction of certain offenses; common cir
 usc_title: 10
 usc_section: "950p"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 950p"
-generated_at: "2026-03-29T19:58:02.032Z"
+generated_at: "2026-03-29T20:03:09.529Z"
 ---
 
 # § 950p. Definitions; construction of certain offenses; common circumstances

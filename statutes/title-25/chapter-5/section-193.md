@@ -3,9 +3,9 @@ title: "Section 193 - Proceedings against goods seized for certain violations"
 usc_title: 25
 usc_section: "193"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 193"
-generated_at: "2026-03-29T19:59:16.281Z"
+generated_at: "2026-03-29T20:04:54.317Z"
 ---
 
 # § 193. Proceedings against goods seized for certain violations

@@ -3,9 +3,9 @@ title: "Section 402A - Optional treatment of elective deferrals as Roth contribu
 usc_title: 26
 usc_section: "402A"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 402A"
-generated_at: "2026-03-29T19:59:49.234Z"
+generated_at: "2026-03-29T20:05:22.306Z"
 ---
 
 # § 402A. Optional treatment of elective deferrals as Roth contributions

@@ -3,9 +3,9 @@ title: "Section 1141 - Involuntary separation defined"
 usc_title: 10
 usc_section: "1141"
 chapter: 58
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1141"
-generated_at: "2026-03-29T19:58:02.069Z"
+generated_at: "2026-03-29T20:03:09.572Z"
 ---
 
 # § 1141. Involuntary separation defined

@@ -3,9 +3,9 @@ title: "Section 7222 - Rank: commissioned officers serving under temporary appoi
 usc_title: 10
 usc_section: "7222"
 chapter: 725
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7222"
-generated_at: "2026-03-29T19:58:02.282Z"
+generated_at: "2026-03-29T20:03:09.837Z"
 ---
 
 # § 7222. Rank: commissioned officers serving under temporary appointments

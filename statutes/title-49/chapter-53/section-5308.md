@@ -3,9 +3,9 @@ title: "Section 5308 - Repealed. Pub. L. 112–141, div. B, § 20002(a) , July 6
 usc_title: 49
 usc_section: "5308"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 5308"
-generated_at: "2026-03-29T20:01:50.945Z"
+generated_at: "2026-03-29T20:06:28.131Z"
 ---
 
 # [§ 5308. Repealed. Pub. L. 112–141, div. B, § 20002(a) , July 6, 2012 , 126 Stat. 622 ]

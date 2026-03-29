@@ -3,9 +3,9 @@ title: "Section 219 - Officers and employees acting as agents of foreign princip
 usc_title: 18
 usc_section: "219"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 219"
-generated_at: "2026-03-29T19:58:59.636Z"
+generated_at: "2026-03-29T20:03:53.690Z"
 ---
 
 # § 219. Officers and employees acting as agents of foreign principals

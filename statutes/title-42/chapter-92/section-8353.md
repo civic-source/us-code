@@ -3,9 +3,9 @@ title: "Section 8353 - General requirements for exemptions"
 usc_title: 42
 usc_section: "8353"
 chapter: 92
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 8353"
-generated_at: "2026-03-29T20:01:33.443Z"
+generated_at: "2026-03-29T20:06:11.471Z"
 ---
 
 # § 8353. General requirements for exemptions

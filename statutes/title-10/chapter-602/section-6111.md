@@ -5,7 +5,7 @@ usc_section: "6111"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6111"
-generated_at: "2026-03-29T02:10:45.246Z"
+generated_at: "2026-03-29T20:03:09.813Z"
 ---
 
 # § 6111. Stockpile stewardship program

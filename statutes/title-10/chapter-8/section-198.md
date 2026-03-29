@@ -3,9 +3,9 @@ title: "Section 198 - Office of Local Defense Community Cooperation"
 usc_title: 10
 usc_section: "198"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 198"
-generated_at: "2026-03-29T19:58:01.947Z"
+generated_at: "2026-03-29T20:03:09.433Z"
 ---
 
 # § 198. Office of Local Defense Community Cooperation

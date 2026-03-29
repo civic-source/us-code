@@ -5,7 +5,7 @@ usc_section: "500g"
 chapter: 25
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 500g"
-generated_at: "2026-03-29T02:10:44.877Z"
+generated_at: "2026-03-29T20:03:09.471Z"
 ---
 
 # § 500g. Integration of electronic warfare into Tier 1 and Tier 2 joint training exercises

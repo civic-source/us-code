@@ -3,9 +3,9 @@ title: "Section 2506 - Suspension of payment of retired pay of members who are a
 usc_title: 14
 usc_section: "2506"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2506"
-generated_at: "2026-03-29T19:58:08.523Z"
+generated_at: "2026-03-29T20:03:17.305Z"
 ---
 
 # § 2506. Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution

@@ -5,7 +5,7 @@ usc_section: "1961"
 chapter: 29
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1961"
-generated_at: "2026-03-29T20:01:46.588Z"
+generated_at: "2026-03-29T20:02:11.319Z"
 ---
 
 # § 1961. Policing of Capitol Buildings and Grounds

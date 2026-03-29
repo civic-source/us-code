@@ -3,9 +3,9 @@ title: "Section 139a - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "139a"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 139a"
-generated_at: "2026-03-29T19:58:01.932Z"
+generated_at: "2026-03-29T20:03:09.419Z"
 ---
 
 # § 139a. Director of Cost Assessment and Program Evaluation
@@ -13,14 +13,14 @@ generated_at: "2026-03-29T19:58:01.932Z"
 - **(a)** There is a Director of Cost Assessment and Program Evaluation in the Department of Defense, appointed by the President, by and with the advice and consent of the Senate.
 - **(b)**
   - **(1)** The Director of Cost Assessment and Program Evaluation is the principal advisor to the Secretary of Defense and other senior officials of the Department of Defense, and shall provide independent analysis and advice to such officials, on the following matters:
-    - **(A)** Matters assigned to the Director pursuant to this section and section 2334 1 1 See References in Text note below. of this title.
+    - **(A)** Matters assigned to the Director pursuant to this section and section 3221 of this title .
     - **(B)** Matters assigned to the Director by the Secretary pursuant to section 113 of this title .
   - **(2)** The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
 - **(c)** There are two Deputy Directors within the Office of the Director of Cost Assessment and Program Evaluation, as follows:
   - **(1)** The Deputy Director for Cost Assessment.
   - **(2)** The Deputy Director for Program Evaluation.
-- **(d)** The Director of Cost Assessment and Program Evaluation shall serve as the principal official within the senior management of the Department of Defense for the following:
-  - **(1)** Cost estimation and cost analysis for acquisition programs of the Department of Defense, and carrying out the duties assigned pursuant to section 2334 1 of this title.
+- **(d)** The Director of Cost Assessment and Program Evaluation shall carry out the requirements of this section in accordance with the objectives established pursuant to section 3102 of this title and shall serve as the principal official within the senior management of the Department of Defense for the following:
+  - **(1)** Cost estimation and cost analysis for acquisition programs of the Department of Defense, and carrying out the duties assigned pursuant to section section 3221 of this title .
   - **(2)** Analysis and advice on matters relating to the planning and programming phases of the Planning, Programming, Budgeting and Execution system, and the preparation of materials and guidance for such system, as directed by the Secretary of Defense, working in coordination with the Under Secretary of Defense (Comptroller).
   - **(3)** Analysis and advice for resource discussions relating to requirements under consideration in the Joint Requirements Oversight Council pursuant to section 181 of this title .
   - **(4)** Formulation of study guidance for analyses of alternatives for major defense acquisition programs and performance of such analyses, as directed by the Secretary of Defense.

@@ -3,9 +3,9 @@ title: "Section 1002 - Golden Gate Bridge tolls; Government traffic and personne
 usc_title: 15
 usc_section: "1002"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1002"
-generated_at: "2026-03-29T19:58:17.656Z"
+generated_at: "2026-03-29T20:03:27.367Z"
 ---
 
 # § 1002. Golden Gate Bridge tolls; Government traffic and personnel in performance of office business not subject to tolls

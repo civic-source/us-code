@@ -5,7 +5,7 @@ usc_section: "1501"
 chapter: 15
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 1501"
-generated_at: "2026-03-29T20:01:52.128Z"
+generated_at: "2026-03-29T20:02:37.767Z"
 ---
 
 # § 1501. Definitions

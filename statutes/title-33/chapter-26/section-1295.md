@@ -3,9 +3,9 @@ title: "Section 1295 - Requirements for American materials"
 usc_title: 33
 usc_section: "1295"
 chapter: 26
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1295"
-generated_at: "2026-03-29T20:00:31.317Z"
+generated_at: "2026-03-29T20:05:35.735Z"
 ---
 
 # § 1295. Requirements for American materials

@@ -5,7 +5,7 @@ usc_section: "8617A"
 chapter: 861
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8617A"
-generated_at: "2026-03-29T02:10:45.313Z"
+generated_at: "2026-03-29T20:03:09.869Z"
 ---
 
 # § 8617A. United States Navy Museum System

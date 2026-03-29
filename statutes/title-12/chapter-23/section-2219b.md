@@ -3,9 +3,9 @@ title: "Section 2219b - Application of uninsured accounts"
 usc_title: 12
 usc_section: "2219b"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 2219b"
-generated_at: "2026-03-29T19:58:40.970Z"
+generated_at: "2026-03-29T20:03:45.825Z"
 ---
 
 # § 2219b. Application of uninsured accounts

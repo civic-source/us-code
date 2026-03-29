@@ -3,9 +3,9 @@ title: "Section 8815 - Sunset"
 usc_title: 15
 usc_section: "8815"
 chapter: 114
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 8815"
-generated_at: "2026-03-29T19:58:17.932Z"
+generated_at: "2026-03-29T20:03:27.699Z"
 ---
 
 # § 8815. Sunset

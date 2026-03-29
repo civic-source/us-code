@@ -3,9 +3,9 @@ title: "Section 45AA - Military spouse retirement plan eligibility credit for sm
 usc_title: 26
 usc_section: "45AA"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 45AA"
-generated_at: "2026-03-29T19:59:49.097Z"
+generated_at: "2026-03-29T20:05:22.159Z"
 ---
 
 # § 45AA. Military spouse retirement plan eligibility credit for small employers

@@ -5,7 +5,7 @@ usc_section: "416"
 chapter: 5
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 416"
-generated_at: "2026-03-29T20:01:43.995Z"
+generated_at: "2026-03-29T20:02:12.940Z"
 ---
 
 # § 416. Rights and protections relating to veterans’ employment and reemployment

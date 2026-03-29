@@ -5,7 +5,7 @@ usc_section: "1869"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1869"
-generated_at: "2026-03-29T20:01:46.577Z"
+generated_at: "2026-03-29T20:02:11.314Z"
 ---
 
 # § 1869. Advance payments

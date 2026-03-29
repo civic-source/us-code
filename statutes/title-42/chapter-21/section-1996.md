@@ -3,9 +3,9 @@ title: "Section 1996 - Protection and preservation of traditional religions of N
 usc_title: 42
 usc_section: "1996"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1996"
-generated_at: "2026-03-29T20:01:32.939Z"
+generated_at: "2026-03-29T20:06:10.951Z"
 ---
 
 # § 1996. Protection and preservation of traditional religions of Native Americans

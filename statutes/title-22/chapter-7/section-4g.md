@@ -3,9 +3,9 @@ title: "Section 4g - Directives regarding government-owned enterprises in countr
 usc_title: 22
 usc_section: "4g"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4g"
-generated_at: "2026-03-29T19:59:23.957Z"
+generated_at: "2026-03-29T20:04:46.639Z"
 ---
 
 # § 262p–4g. Directives regarding government-owned enterprises in countries receiving IADB loans

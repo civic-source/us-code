@@ -3,9 +3,9 @@ title: "Section 315q - Withdrawal of lands for war or national defense purposes;
 usc_title: 43
 usc_section: "315q"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 315q"
-generated_at: "2026-03-29T20:00:47.475Z"
+generated_at: "2026-03-29T20:05:36.448Z"
 ---
 
 # § 315q. Withdrawal of lands for war or national defense purposes; payment for cancellation of permits or licenses

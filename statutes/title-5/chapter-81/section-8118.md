@@ -5,7 +5,7 @@ usc_section: "8118"
 chapter: 81
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8118"
-generated_at: "2026-03-29T20:01:52.220Z"
+generated_at: "2026-03-29T20:02:37.860Z"
 ---
 
 # § 8118. Continuation of pay; election to use annual or sick leave

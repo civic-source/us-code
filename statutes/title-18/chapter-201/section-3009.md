@@ -3,9 +3,9 @@ title: "Section 3009 - Records—(Rule)"
 usc_title: 18
 usc_section: "3009"
 chapter: 201
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 3009"
-generated_at: "2026-03-29T19:58:59.741Z"
+generated_at: "2026-03-29T20:03:53.801Z"
 ---
 
 # § 3009. Records—(Rule)

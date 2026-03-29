@@ -5,7 +5,7 @@ usc_section: "1964"
 chapter: 33
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1964"
-generated_at: "2026-03-29T02:14:18.597Z"
+generated_at: "2026-03-29T20:05:35.794Z"
 ---
 
 # § 1964. Administrative services and support

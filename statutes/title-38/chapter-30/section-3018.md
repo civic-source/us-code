@@ -3,9 +3,9 @@ title: "Section 3018 - Opportunity for certain active-duty personnel to withdraw
 usc_title: 38
 usc_section: "3018"
 chapter: 30
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 3018"
-generated_at: "2026-03-29T20:00:43.059Z"
+generated_at: "2026-03-29T20:05:54.696Z"
 ---
 
 # § 3018. Opportunity for certain active-duty personnel to withdraw election not to enroll

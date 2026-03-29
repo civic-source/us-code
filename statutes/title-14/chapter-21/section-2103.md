@@ -3,9 +3,9 @@ title: "Section 2103 - Number and distribution of commissioned officers on activ
 usc_title: 14
 usc_section: "2103"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2103"
-generated_at: "2026-03-29T19:58:08.513Z"
+generated_at: "2026-03-29T20:03:17.298Z"
 ---
 
 # § 2103. Number and distribution of commissioned officers on active duty promotion list
@@ -29,4 +29,7 @@ generated_at: "2026-03-29T19:58:08.513Z"
   - **(2)** Subject to subsection (a), in making the computations under paragraph (1), any fraction shall be rounded to the nearest whole number.
   - **(3)** The number of commissioned officers on the active duty promotion list below the rank of vice admiral serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
 - **(d)** The numbers resulting from computations under subsection (c) shall be, for all purposes, the authorized number in each grade; except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason.
-- **(e)** The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
+- **(e)** The Secretary shall prescribe the number of officers authorized to be serving on active duty in each grade of—
+  - **(1)** the permanent commissioned teaching staff of the Coast Guard Academy;
+  - **(2)** the officers designated by the Secretary pursuant to this section; and
+  - **(3)** the officers of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components.

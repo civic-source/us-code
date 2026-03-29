@@ -3,9 +3,9 @@ title: "Section 79p - Community services and employment opportunities of Redwood
 usc_title: 16
 usc_section: "79p"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 79p"
-generated_at: "2026-03-29T19:59:07.840Z"
+generated_at: "2026-03-29T20:04:19.911Z"
 ---
 
 # § 79p. Community services and employment opportunities of Redwoods United, Inc. to be maintained at present rate of employment

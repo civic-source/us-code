@@ -3,9 +3,9 @@ title: "Section 4955 - Funding"
 usc_title: 10
 usc_section: "4955"
 chapter: 388
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4955"
-generated_at: "2026-03-29T19:58:02.276Z"
+generated_at: "2026-03-29T20:03:09.806Z"
 ---
 
 # § 4955. Funding
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:58:02.276Z"
   - **(1)** in the case of a program operating on a Statewide basis, other than a program referred to in paragraph (3) or (4), $1,500,000;
   - **(2)** in the case of a program operating on less than a Statewide basis, other than a program referred to in paragraph (3) or (4), $750,000;
   - **(3)** in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title , $450,000; or
-  - **(4)** in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title , $1,000,000.
+  - **(4)** in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title , $1,500,000.
 - **(b)** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 4951(1)(D) of this title shall be made in accordance with regulations prescribed by the Secretary of Defense.
 - **(c)** The value of the assistance provided in accordance with section 4959(b) of this title is not subject to the limitations in subsection (a).
 - **(d)**
@@ -23,3 +23,4 @@ generated_at: "2026-03-29T19:58:02.276Z"
     - **(A)** shall notify the Secretary of the amount of any income the eligible entity carried over from the previous fiscal year; and
     - **(B)** may retain an amount of such income equal to 10 percent of the value of assistance furnished by the Secretary under this section during the previous fiscal year.
   - **(3)** In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.
+- **(e)** The Secretary may accept and use funds from other Federal agencies and departments for execution and administration of the program authorized by this chapter.

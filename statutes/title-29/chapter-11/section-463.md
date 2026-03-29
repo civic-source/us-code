@@ -3,9 +3,9 @@ title: "Section 463 - Unlawful acts relating to labor organization under trustee
 usc_title: 29
 usc_section: "463"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 463"
-generated_at: "2026-03-29T19:59:56.581Z"
+generated_at: "2026-03-29T20:05:03.636Z"
 ---
 
 # § 463. Unlawful acts relating to labor organization under trusteeship

@@ -3,9 +3,9 @@ title: "Section 622 - Bribery of or gifts to inspectors or other officers and ac
 usc_title: 21
 usc_section: "622"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 622"
-generated_at: "2026-03-29T19:59:28.503Z"
+generated_at: "2026-03-29T20:04:50.559Z"
 ---
 
 # § 622. Bribery of or gifts to inspectors or other officers and acceptance of gifts

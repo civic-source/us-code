@@ -3,9 +3,9 @@ title: "Section 921b - Art. 121b. False pretenses to obtain services"
 usc_title: 10
 usc_section: "921b"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 921b"
-generated_at: "2026-03-29T19:58:02.021Z"
+generated_at: "2026-03-29T20:03:09.520Z"
 ---
 
 # § 921b. Art. 121b. False pretenses to obtain services

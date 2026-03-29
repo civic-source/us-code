@@ -5,7 +5,7 @@ usc_section: "190"
 chapter: 6
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 190"
-generated_at: "2026-03-29T20:01:46.498Z"
+generated_at: "2026-03-29T20:02:11.251Z"
 ---
 
 # § 190. Repealed. S. Res. 4, § 301(b), Feb. 4, 1977

@@ -5,7 +5,7 @@ usc_section: "5381"
 chapter: 53
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5381"
-generated_at: "2026-03-29T20:01:52.165Z"
+generated_at: "2026-03-29T20:02:37.810Z"
 ---
 
 # § 5381. Definitions

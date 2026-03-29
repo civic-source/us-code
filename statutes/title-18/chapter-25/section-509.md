@@ -3,9 +3,9 @@ title: "Section 509 - Possessing and making plates or stones for Government tran
 usc_title: 18
 usc_section: "509"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 509"
-generated_at: "2026-03-29T19:58:59.645Z"
+generated_at: "2026-03-29T20:03:53.699Z"
 ---
 
 # § 509. Possessing and making plates or stones for Government transportation requests

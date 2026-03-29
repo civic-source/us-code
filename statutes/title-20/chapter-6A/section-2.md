@@ -3,9 +3,9 @@ title: "Section 2 - Arbitration"
 usc_title: 20
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-29T19:58:56.612Z"
+generated_at: "2026-03-29T20:04:32.757Z"
 ---
 
 # § 107d–2. Arbitration

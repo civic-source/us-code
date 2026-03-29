@@ -5,7 +5,7 @@ usc_section: "5701"
 chapter: 57
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5701"
-generated_at: "2026-03-29T20:01:52.180Z"
+generated_at: "2026-03-29T20:02:37.823Z"
 ---
 
 # § 5701. Definitions

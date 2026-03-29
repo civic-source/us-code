@@ -3,9 +3,9 @@ title: "Section 2166 - Renumbered § 343]"
 usc_title: 10
 usc_section: "2166"
 chapter: 108
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2166"
-generated_at: "2026-03-29T19:58:02.141Z"
+generated_at: "2026-03-29T20:03:09.649Z"
 ---
 
 # [§ 2166. Renumbered § 343]

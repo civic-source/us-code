@@ -3,9 +3,9 @@ title: "Section 891 - Resident Commissioner; election"
 usc_title: 48
 usc_section: "891"
 chapter: 4
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 891"
-generated_at: "2026-03-29T20:01:41.587Z"
+generated_at: "2026-03-29T20:06:17.893Z"
 ---
 
 # § 891. Resident Commissioner; election

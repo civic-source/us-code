@@ -3,9 +3,9 @@ title: "Section 40728A - Recovery of excess firearms, ammunition, and parts gran
 usc_title: 36
 usc_section: "40728A"
 chapter: 407
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 40728A"
-generated_at: "2026-03-29T20:00:38.613Z"
+generated_at: "2026-03-29T20:05:40.571Z"
 ---
 
 # § 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation

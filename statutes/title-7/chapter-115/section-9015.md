@@ -3,24 +3,25 @@ title: "Section 9015 - Producer election"
 usc_title: 7
 usc_section: "9015"
 chapter: 115
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 9015"
-generated_at: "2026-03-29T19:57:39.513Z"
+generated_at: "2026-03-29T20:02:52.871Z"
 ---
 
 # § 9015. Producer election
 
-- **(a)** For the 2014 through 2018 crop years (except as provided in subsection (g)) and for the 2019 through 2023 crop years (subject to subsection (h)), all of the producers on a farm shall make a 1-time, irrevocable election to obtain—
+- **(a)** For the 2014 through 2018 crop years (except as provided in subsection (g)) and for the 2019 through 2031 crop years (subject to subsection (h)), all of the producers on a farm shall make a 1-time, irrevocable election to obtain—
   - **(1)** price loss coverage under section 9016 of this title on a covered commodity-by-covered-commodity basis; or
   - **(2)** agriculture risk coverage under section 9017 of this title .
 - **(b)** In the election under subsection (a) or (h), as applicable, the producers on a farm that elect to obtain agriculture risk coverage shall unanimously select whether to receive agriculture risk coverage payments based on—
   - **(1)** county coverage applicable on a covered commodity-by-covered-commodity basis; or
   - **(2)** individual coverage applicable to all of the covered commodities on the farm.
-- **(c)** If all the producers on a farm fail to make a unanimous election under subsection (a) for the 2014 crop year or the 2019 crop year, as applicable—
-  - **(1)** the Secretary shall not make any payments with respect to the farm for the 2014 crop year or the 2019 crop year, as applicable, under section 9016 or 9017 of this title; and
+- **(c)** If all the producers on a farm fail to make a unanimous election under subsection (a) for the 2014 crop year, the 2019 crop year, or the 2026 crop year, as applicable—
+  - **(1)** the Secretary shall not make any payments with respect to the farm for the 2014 crop year, the 2019 crop year, or the 2026 crop year, as applicable, under section 9016 or 9017 of this title; and
   - **(2)** subject to subsection (h), the producers on the farm shall be deemed to have elected, as applicable—
-    - **(A)** price loss coverage for all covered commodities on the farm for the 2015 through 2018 crop years; and
-    - **(B)** the same coverage for each covered commodity on the farm for the 2020 through 2023 crop years as was applicable for the 2015 through 2018 crop years.
+    - **(A)** price loss coverage for all covered commodities on the farm for the 2015 through 2018 crop years;
+    - **(B)** the same coverage for each covered commodity on the farm for the 2020 through 2023 crop years as was applicable for the 2015 through 2018 crop years; and
+    - **(C)** the same coverage for each covered commodity on the farm for the 2027 through 2031 crop years as was applicable for the 2025 crop year.
 - **(d)** If all the producers on a farm select county coverage for a covered commodity under subsection (b)(1), the Secretary may not make price loss coverage payments under section 9016 of this title to the producers on the farm with respect to that covered commodity.
 - **(e)** If all the producers on a farm select individual coverage under subsection (b)(2), in addition to the selection and election under this section applying to each producer on the farm, the Secretary shall consider, for purposes of making the calculations required by subsections (b)(2) and (c)(3) of section 9017 of this title , the producer’s share of all farms in the same State—
   - **(1)** in which the producer has an interest; and
@@ -34,3 +35,4 @@ generated_at: "2026-03-29T19:57:39.513Z"
   - **(2)** An election change under paragraph (1) shall apply to—
     - **(A)** the crop year for which the election change is made; and
     - **(B)** each crop year thereafter until another election change is made under that paragraph.
+- **(i)** For the 2025 crop year, the Secretary shall, on a covered commodity-by-covered commodity basis, make the higher of price loss coverage payments under section 9016 of this title and agriculture risk coverage county coverage payments under section 9017 of this title to the producers on a farm for the payment acres for each covered commodity on the farm.

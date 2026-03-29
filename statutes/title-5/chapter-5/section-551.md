@@ -5,7 +5,7 @@ usc_section: "551"
 chapter: 5
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 551"
-generated_at: "2026-03-29T20:01:52.105Z"
+generated_at: "2026-03-29T20:02:37.742Z"
 ---
 
 # § 551. Definitions

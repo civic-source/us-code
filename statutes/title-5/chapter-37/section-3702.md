@@ -5,7 +5,7 @@ usc_section: "3702"
 chapter: 37
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 3702"
-generated_at: "2026-03-29T20:01:52.149Z"
+generated_at: "2026-03-29T20:02:37.790Z"
 ---
 
 # § 3702. General provisions

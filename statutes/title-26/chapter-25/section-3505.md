@@ -3,9 +3,9 @@ title: "Section 3505 - Liability of third parties paying or providing for wages"
 usc_title: 26
 usc_section: "3505"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 3505"
-generated_at: "2026-03-29T19:59:49.491Z"
+generated_at: "2026-03-29T20:05:22.579Z"
 ---
 
 # § 3505. Liability of third parties paying or providing for wages

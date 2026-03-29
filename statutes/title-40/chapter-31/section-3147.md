@@ -3,9 +3,9 @@ title: "Section 3147 - Suspension of this subchapter during a national emergency
 usc_title: 40
 usc_section: "3147"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 3147"
-generated_at: "2026-03-29T20:00:35.882Z"
+generated_at: "2026-03-29T20:05:42.935Z"
 ---
 
 # § 3147. Suspension of this subchapter during a national emergency

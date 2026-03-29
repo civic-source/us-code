@@ -3,9 +3,9 @@ title: "Section 3915 - Notification of benefits"
 usc_title: 50
 usc_section: "3915"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3915"
-generated_at: "2026-03-29T20:01:54.816Z"
+generated_at: "2026-03-29T20:06:21.174Z"
 ---
 
 # § 3915. Notification of benefits

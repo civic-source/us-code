@@ -3,14 +3,14 @@ title: "Section 352 - Naval Small Craft Instruction and Technical Training Schoo
 usc_title: 10
 usc_section: "352"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 352"
-generated_at: "2026-03-29T19:58:01.961Z"
+generated_at: "2026-03-29T20:03:09.450Z"
 ---
 
 # § 352. Naval Small Craft Instruction and Technical Training School
 
-- **(a)** The Secretary of Defense may operate an education and training facility known as the “Naval Small Craft Instruction and Technical Training School” (in this section referred to as the “School”).
+- **(a)** The Secretary of Defense shall operate an education and training facility known as the “Naval Small Craft Instruction and Technical Training School” (in this section referred to as the “School”).
 - **(b)** The Secretary of Defense shall designate the Secretary of a military department as the Department of Defense executive agent for carrying out the responsibilities of the Secretary of Defense under this section.
 - **(c)** The purpose of the School shall be to provide to the military and other security forces of one or more friendly foreign countries education and training under any other provision of law related to naval small craft instruction and training and to increase professionalism, readiness, and respect for human rights through formal courses of instruction or mobile training teams for—
   - **(1)** the operation, employment, maintenance, and logistics of specialized equipment;
@@ -29,4 +29,5 @@ generated_at: "2026-03-29T19:58:01.961Z"
   - **(2)** The food procurement and service costs of the School that may be paid from amounts made available to the Navy for operation and maintenance are as follows:
     - **(A)** The costs of providing food services to personnel, visitors, and international students at the School.
     - **(B)** The costs of operating, maintaining, and sustaining a dining facility or contracted food services at the School.
+  - **(3)** Tuition fees charged for personnel who attend the School may not include any amount for the fixed costs of operating and maintaining the School.
 - **(f)** Not later than March 15 each year, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a detailed report on the activities and operating costs of the School during the preceding fiscal year.

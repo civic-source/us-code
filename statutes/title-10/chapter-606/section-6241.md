@@ -5,7 +5,7 @@ usc_section: "6241"
 chapter: 606
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6241"
-generated_at: "2026-03-29T02:10:45.260Z"
+generated_at: "2026-03-29T20:03:09.824Z"
 ---
 
 # § 6241. Authority for appointment of certain scientific, engineering, and technical personnel

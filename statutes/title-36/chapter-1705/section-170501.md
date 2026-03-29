@@ -3,9 +3,9 @@ title: "Section 170501 - Definition"
 usc_title: 36
 usc_section: "170501"
 chapter: 1705
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 170501"
-generated_at: "2026-03-29T20:00:38.638Z"
+generated_at: "2026-03-29T20:05:40.602Z"
 ---
 
 # § 170501. Definition

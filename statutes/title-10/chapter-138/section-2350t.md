@@ -5,7 +5,7 @@ usc_section: "2350t"
 chapter: 138
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2350t"
-generated_at: "2026-03-29T02:10:45.097Z"
+generated_at: "2026-03-29T20:03:09.675Z"
 ---
 
 # § 2350t. Military medical cooperation arrangements among Five Eyes countries

@@ -3,9 +3,9 @@ title: "Section 4201 - Definitions"
 usc_title: 33
 usc_section: "4201"
 chapter: 55
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 4201"
-generated_at: "2026-03-29T20:00:31.457Z"
+generated_at: "2026-03-29T20:05:35.893Z"
 ---
 
 # § 4201. Definitions
@@ -19,30 +19,21 @@ In this chapter:
   - **(2)** The term “EPA Administrator” means the Administrator of the Environmental Protection Agency.
   - **(3)** The term “Indian Tribe” has the meaning given the term “Indian tribe” in section 5304 of title 25 , without regard to capitalization.
   - **(4)** The term “Interagency Marine Debris Coordinating Committee” means the Interagency Marine Debris Coordinating Committee established under section 1954 of this title .
-  - **(5)** The term “marine debris” has the meaning given that term in section 1956 of this title .
+  - **(5)** The term “marine debris” has the meaning given that term in section 1981 1 1 See References in Text note below. of this title.
   - **(6)** The term “marine debris event” means an event or related events that affects or may imminently affect the United States involving—
     - **(A)** marine debris caused by a natural event, including a tsunami, flood, landslide, hurricane, or other natural source;
     - **(B)** distinct, nonrecurring marine debris, including derelict vessel groundings and container spills, that have immediate or long-term impacts on habitats with high ecological, economic, or human-use values; or
     - **(C)** marine debris caused by an intentional or grossly negligent act or acts that causes substantial economic or environmental harm.
-  - **(7)** The term “non-Federal funds” means funds provided by—
-    - **(A)** a State;
-    - **(B)** an Indian Tribe;
-    - **(C)** a territory of the United States;
-    - **(D)** one or more units of local governments or Tribal organizations (as defined in section 5304 of title 25 );
-    - **(E)** a foreign government;
-    - **(F)** a private for-profit entity;
-    - **(G)** a nonprofit organization; or
-    - **(H)** a private individual.
-  - **(8)** The term “nonprofit organization” means an organization that is described in section 501(c) of title 26 and exempt from tax under section 501(a) of such title.
-  - **(9)** The term “post-consumer materials management” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
+  - **(7)** The term “nonprofit organization” means an organization that is described in section 501(c) of title 26 and exempt from tax under section 501(a) of such title.
+  - **(8)** The term “post-consumer materials management” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
     - **(A)** collection;
     - **(B)** transport;
     - **(C)** safe disposal of waste that cannot be recovered, reused, recycled, repaired, or refurbished; and
     - **(D)** systems and processes related to post-use materials that can be recovered, reused, recycled, repaired, or refurbished.
-  - **(10)** The term “State” means—
+  - **(9)** The term “State” means—
     - **(A)** a State;
     - **(B)** an Indian Tribe;
     - **(C)** the District of Columbia;
     - **(D)** a territory or possession of the United States; or
     - **(E)** any political subdivision of an entity described in subparagraphs (A) through (D).
-  - **(11)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+  - **(10)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.

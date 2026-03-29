@@ -3,9 +3,9 @@ title: "Section 8691 - Nuclear-powered aircraft carriers: dismantlement and disp
 usc_title: 10
 usc_section: "8691"
 chapter: 863
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8691"
-generated_at: "2026-03-29T19:58:02.322Z"
+generated_at: "2026-03-29T20:03:09.876Z"
 ---
 
 # § 8691. Nuclear-powered aircraft carriers: dismantlement and disposal

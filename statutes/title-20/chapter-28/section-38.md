@@ -3,9 +3,9 @@ title: "Section 38 - Stipends and scholarship conditions"
 usc_title: 20
 usc_section: "38"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 38"
-generated_at: "2026-03-29T19:58:56.668Z"
+generated_at: "2026-03-29T20:04:32.820Z"
 ---
 
 # § 1070d–38. Stipends and scholarship conditions

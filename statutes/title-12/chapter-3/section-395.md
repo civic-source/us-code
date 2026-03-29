@@ -3,9 +3,9 @@ title: "Section 395 - Federal reserve banks as depositaries, custodians and fisc
 usc_title: 12
 usc_section: "395"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 395"
-generated_at: "2026-03-29T19:58:40.723Z"
+generated_at: "2026-03-29T20:03:45.589Z"
 ---
 
 # § 395. Federal reserve banks as depositaries, custodians and fiscal agents for Commodity Credit Corporation

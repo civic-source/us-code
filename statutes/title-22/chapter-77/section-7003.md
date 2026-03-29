@@ -5,7 +5,7 @@ usc_section: "7003"
 chapter: 77
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7003"
-generated_at: "2026-03-29T02:12:40.408Z"
+generated_at: "2026-03-29T20:04:46.955Z"
 ---
 
 # § 7003. Strategy to respond to global bases of the People’s Republic of China

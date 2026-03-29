@@ -3,9 +3,9 @@ title: "Section 582a - Congressional findings"
 usc_title: 16
 usc_section: "582a"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 582a"
-generated_at: "2026-03-29T19:59:08.145Z"
+generated_at: "2026-03-29T20:04:20.162Z"
 ---
 
 # § 582a. Congressional findings

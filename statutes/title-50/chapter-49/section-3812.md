@@ -3,9 +3,9 @@ title: "Section 3812 - Nonapplicability of certain laws"
 usc_title: 50
 usc_section: "3812"
 chapter: 49
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3812"
-generated_at: "2026-03-29T20:01:54.814Z"
+generated_at: "2026-03-29T20:06:21.172Z"
 ---
 
 # § 3812. Nonapplicability of certain laws

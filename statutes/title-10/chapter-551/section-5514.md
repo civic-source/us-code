@@ -3,9 +3,9 @@ title: "Section 5514 - Acquisition accountability on the missile defense system"
 usc_title: 10
 usc_section: "5514"
 chapter: 551
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 5514"
-generated_at: "2026-03-29T19:58:02.278Z"
+generated_at: "2026-03-29T20:03:09.808Z"
 ---
 
 # § 5514. Acquisition accountability on the missile defense system
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T19:58:02.278Z"
     - **(B)** system requirements, including performance requirements;
     - **(C)** how the proposed capability satisfies a capability requirement or performance attribute identified through—
       - **(i)** the missile defense warfighter involvement process, as governed by United States Strategic Command Instruction 538–03, or such successor document; or
-      - **(ii)** processes and products approved by the Joint Chiefs of Staff or Joint Requirements Oversight Council;
+      - **(ii)** processes and products reviewed by the Joint Chiefs of Staff or Joint Requirements Oversight Council;
     - **(D)** key knowledge points that must be achieved to permit continuation of the program and to inform production and deployment decisions; and
     - **(E)** how the Director plans to improve the capability over time.
   - **(3)** A cost estimate, including—

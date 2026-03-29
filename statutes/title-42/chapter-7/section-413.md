@@ -3,9 +3,9 @@ title: "Section 413 - Quarter and quarter of coverage"
 usc_title: 42
 usc_section: "413"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 413"
-generated_at: "2026-03-29T20:01:32.261Z"
+generated_at: "2026-03-29T20:06:10.352Z"
 ---
 
 # § 413. Quarter and quarter of coverage

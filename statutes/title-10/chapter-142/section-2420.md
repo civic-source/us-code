@@ -3,9 +3,9 @@ title: "Section 2420 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1872
 usc_title: 10
 usc_section: "2420"
 chapter: 142
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2420"
-generated_at: "2026-03-29T19:58:02.165Z"
+generated_at: "2026-03-29T20:03:09.680Z"
 ---
 
 # [§ 2420. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1872(b)(1) , Jan. 1, 2021 , 134 Stat. 4289 ]

@@ -5,7 +5,7 @@ usc_section: "6504"
 chapter: 65
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 6504"
-generated_at: "2026-03-29T20:01:52.204Z"
+generated_at: "2026-03-29T20:02:37.844Z"
 ---
 
 # § 6504. Policy and support

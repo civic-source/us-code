@@ -5,7 +5,7 @@ usc_section: "1181"
 chapter: 11
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 1181"
-generated_at: "2026-03-29T02:11:23.787Z"
+generated_at: "2026-03-29T20:03:17.294Z"
 ---
 
 # § 1181. Special appropriations

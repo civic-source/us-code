@@ -3,9 +3,9 @@ title: "Section 1861 - Declaration of policy"
 usc_title: 28
 usc_section: "1861"
 chapter: 121
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1861"
-generated_at: "2026-03-29T20:00:05.311Z"
+generated_at: "2026-03-29T20:05:24.787Z"
 ---
 
 # § 1861. Declaration of policy

@@ -3,15 +3,15 @@ title: "Section 2201b - Commission workforce"
 usc_title: 42
 usc_section: "2201b"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2201b"
-generated_at: "2026-03-29T20:01:32.986Z"
+generated_at: "2026-03-29T20:06:11.000Z"
 ---
 
 # § 2201b. Commission workforce
 
 - **(a)**
-  - **(1)** Notwithstanding section 2201(d) of this title and any provision of Reorganization Plan No. 1 of 1980 ( 94 Stat. 3585 ; 5 U.S.C. app.), and without regard to any provision of title 5 (except section 3328) governing appointments in the civil service, the Chairman of the Nuclear Regulatory Commission (in this section referred to as the “Chairman”) may, in order to carry out the Nuclear Regulatory Commission’s (in this section referred to as the “Commission”) responsibilities and activities in a timely, efficient, and effective manner and subject to the limitations described in paragraphs (2), (3), and (4)—
+  - **(1)** Notwithstanding section 2201(d) of this title and any provision of Reorganization Plan No. 1 of 1980 ( 94 Stat. 3585 ; 5 U.S.C. app.), 1 1 So in original. Probably should be capitalized. and without regard to any provision of title 5 (except section 3328) governing appointments in the civil service, the Chairman of the Nuclear Regulatory Commission (in this section referred to as the “Chairman”) may, in order to carry out the Nuclear Regulatory Commission’s (in this section referred to as the “Commission”) responsibilities and activities in a timely, efficient, and effective manner and subject to the limitations described in paragraphs (2), (3), and (4)—
     - **(A)** recruit and directly appoint exceptionally well-qualified individuals into the excepted service for covered positions; and
     - **(B)** establish in the excepted service term-limited covered positions and recruit and directly appoint exceptionally well-qualified individuals into such term-limited covered positions, which may not exceed a term of 4 years.
   - **(2)**

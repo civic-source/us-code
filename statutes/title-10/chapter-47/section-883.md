@@ -3,9 +3,9 @@ title: "Section 883 - Art. 83. Malingering"
 usc_title: 10
 usc_section: "883"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 883"
-generated_at: "2026-03-29T19:58:02.017Z"
+generated_at: "2026-03-29T20:03:09.515Z"
 ---
 
 # § 883. Art. 83. Malingering

@@ -3,9 +3,9 @@ title: "Section 2266 - Canadian tidal power study"
 usc_title: 33
 usc_section: "2266"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2266"
-generated_at: "2026-03-29T20:00:31.384Z"
+generated_at: "2026-03-29T20:05:35.810Z"
 ---
 
 # § 2266. Canadian tidal power study

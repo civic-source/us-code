@@ -3,9 +3,9 @@ title: "Section 1247 - Omitted"
 usc_title: 48
 usc_section: "1247"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1247"
-generated_at: "2026-03-29T20:01:41.588Z"
+generated_at: "2026-03-29T20:06:17.894Z"
 ---
 
 # § 1247. Omitted

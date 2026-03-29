@@ -3,9 +3,9 @@ title: "Section 1655 - Evaluations; renewals"
 usc_title: 25
 usc_section: "1655"
 chapter: 18
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 1655"
-generated_at: "2026-03-29T19:59:16.345Z"
+generated_at: "2026-03-29T20:04:54.371Z"
 ---
 
 # § 1655. Evaluations; renewals

@@ -3,9 +3,9 @@ title: "Section 591 - Countering Weapons of Mass Destruction Office"
 usc_title: 6
 usc_section: "591"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 591"
-generated_at: "2026-03-29T19:57:32.912Z"
+generated_at: "2026-03-29T20:02:42.024Z"
 ---
 
 # § 591. Countering Weapons of Mass Destruction Office

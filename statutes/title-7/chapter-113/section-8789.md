@@ -3,9 +3,9 @@ title: "Section 8789 - Storage facility loans"
 usc_title: 7
 usc_section: "8789"
 chapter: 113
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8789"
-generated_at: "2026-03-29T19:57:39.509Z"
+generated_at: "2026-03-29T20:02:52.866Z"
 ---
 
 # § 8789. Storage facility loans

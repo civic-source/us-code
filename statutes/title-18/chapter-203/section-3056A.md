@@ -3,9 +3,9 @@ title: "Section 3056A - Powers, authorities, and duties of United States Secret 
 usc_title: 18
 usc_section: "3056A"
 chapter: 203
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 3056A"
-generated_at: "2026-03-29T19:58:59.742Z"
+generated_at: "2026-03-29T20:03:53.802Z"
 ---
 
 # § 3056A. Powers, authorities, and duties of United States Secret Service Uniformed Division

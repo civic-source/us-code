@@ -3,9 +3,9 @@ title: "Section 507 - Orders for printing to be acted upon within one year"
 usc_title: 44
 usc_section: "507"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 507"
-generated_at: "2026-03-29T20:00:54.152Z"
+generated_at: "2026-03-29T20:05:29.585Z"
 ---
 
 # § 507. Orders for printing to be acted upon within one year

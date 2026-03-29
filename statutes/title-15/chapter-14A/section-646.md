@@ -3,9 +3,9 @@ title: "Section 646 - Liens"
 usc_title: 15
 usc_section: "646"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 646"
-generated_at: "2026-03-29T19:58:17.603Z"
+generated_at: "2026-03-29T20:03:27.299Z"
 ---
 
 # § 646. Liens

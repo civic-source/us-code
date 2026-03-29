@@ -3,9 +3,9 @@ title: "Section 1 - Environmental reviews"
 usc_title: 7
 usc_section: "1"
 chapter: 31
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T19:57:38.980Z"
+generated_at: "2026-03-29T20:02:52.472Z"
 ---
 
 # § 950cc–1. Environmental reviews

@@ -3,9 +3,9 @@ title: "Section 1515 - Program compliance and integrity"
 usc_title: 7
 usc_section: "1515"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1515"
-generated_at: "2026-03-29T19:57:39.029Z"
+generated_at: "2026-03-29T20:02:52.523Z"
 ---
 
 # § 1515. Program compliance and integrity
@@ -120,4 +120,6 @@ generated_at: "2026-03-29T19:57:39.029Z"
         - **(II)** for each of fiscal years 2015 through 2018, $9,000,000; or
       - **(ii)** if the Acreage Crop Reporting Streamlining Initiative (ACRSI) project is substantially completed by September 30, 2015 , not more than $14,000,000 for each of the fiscal years 2015 through 2018.
     - **(B)** The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the substantial completion of the Acreage Crop Reporting Streamlining Initiative (ACRSI) project not later than July 1, 2015 .
-  - **(2)** To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.
+  - **(2)** To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than—
+    - **(A)** $4,000,000 for each of fiscal years 2009 through 2025; and
+    - **(B)** $6,000,000 for fiscal year 2026 and each subsequent fiscal year.

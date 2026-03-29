@@ -3,9 +3,9 @@ title: "Section 2070 - Criminal penalties"
 usc_title: 15
 usc_section: "2070"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 2070"
-generated_at: "2026-03-29T19:58:17.754Z"
+generated_at: "2026-03-29T20:03:27.494Z"
 ---
 
 # § 2070. Criminal penalties

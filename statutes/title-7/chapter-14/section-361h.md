@@ -3,9 +3,9 @@ title: "Section 361h - Relation of college or university to State unaffected; di
 usc_title: 7
 usc_section: "361h"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 361h"
-generated_at: "2026-03-29T19:57:38.944Z"
+generated_at: "2026-03-29T20:02:52.436Z"
 ---
 
 # § 361h. Relation of college or university to State unaffected; division of appropriations

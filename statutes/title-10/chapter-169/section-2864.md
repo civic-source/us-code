@@ -3,9 +3,9 @@ title: "Section 2864 - Master plans for major military installations"
 usc_title: 10
 usc_section: "2864"
 chapter: 169
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2864"
-generated_at: "2026-03-29T19:58:02.208Z"
+generated_at: "2026-03-29T20:03:09.730Z"
 ---
 
 # § 2864. Master plans for major military installations
@@ -36,8 +36,7 @@ generated_at: "2026-03-29T19:58:02.208Z"
   - **(7)** Extent of current coordination efforts and plans for additional coordination, as of the time of the development of the plan, with public or private entities for the purpose of maintaining or enhancing military installation resilience or resilience of the community infrastructure and resources described in paragraph (5).
   - **(8)** Projections from recognized governmental and scientific entities such as the Census Bureau, the National Academies of Sciences, the United States Geological Survey, and the United States Global Change Research Office (or any similar successor entities) with respect to future risks and threats (including the risks and threats described in paragraph (1)) to the resilience of any project considered in the installation master plan during the 50-year lifespan of the installation.
 - **(d)** Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report listing all master plans completed pursuant to this section in the prior calendar year.
-- **(e)** Nothing in this section shall supersede the requirements of section 2859(a) of this title .
-- **(f)** In this section:
+- **(e)** In this section:
   - **(1)** The term “major military installation” has the meaning given to the term “large site” in the most recent version of the Department of Defense Base Structure Report issued before the time interval prescribed for development of installation master plans arises under subsection (a).
   - **(2)** The terms “metropolitan planning area” and “metropolitan planning organization” have the meanings given those terms in section 134(b) of title 23 and section 5303(b) of title 49 .
   - **(3)** The term “energy and climate resiliency” means anticipation, preparation for, and adaptation to utility disruptions and changing environmental conditions and the ability to withstand, respond to, and recover rapidly from utility disruptions while ensuring the sustainment of mission-critical operations.

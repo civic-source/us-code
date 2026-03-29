@@ -3,9 +3,9 @@ title: "Section 3014 - Repealed. Pub. L. 97–115, § 2(e)(1) , Dec. 29, 1981 , 
 usc_title: 42
 usc_section: "3014"
 chapter: 35
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3014"
-generated_at: "2026-03-29T20:01:33.030Z"
+generated_at: "2026-03-29T20:06:11.045Z"
 ---
 
 # § 3014. Repealed. Pub. L. 97–115, § 2(e)(1) , Dec. 29, 1981 , 95 Stat. 1596

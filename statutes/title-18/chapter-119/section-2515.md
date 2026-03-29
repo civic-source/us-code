@@ -3,9 +3,9 @@ title: "Section 2515 - Prohibition of use as evidence of intercepted wire or ora
 usc_title: 18
 usc_section: "2515"
 chapter: 119
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2515"
-generated_at: "2026-03-29T19:58:59.732Z"
+generated_at: "2026-03-29T20:03:53.792Z"
 ---
 
 # § 2515. Prohibition of use as evidence of intercepted wire or oral communications

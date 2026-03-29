@@ -3,9 +3,9 @@ title: "Section 35 - Repealed. Aug. 8, 1953, ch. 397, § 2(a) , 67 Stat. 507"
 usc_title: 19
 usc_section: "35"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 35"
-generated_at: "2026-03-29T19:58:51.666Z"
+generated_at: "2026-03-29T20:04:27.267Z"
 ---
 
 # §§ 33 to 35. Repealed. Aug. 8, 1953, ch. 397, § 2(a) , 67 Stat. 507

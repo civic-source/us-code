@@ -3,9 +3,9 @@ title: "Section 6f - Provision of medical countermeasures to Indian programs and
 usc_title: 42
 usc_section: "6f"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6f"
-generated_at: "2026-03-29T20:01:31.853Z"
+generated_at: "2026-03-29T20:06:09.998Z"
 ---
 
 # § 247d–6f. Provision of medical countermeasures to Indian programs and facilities

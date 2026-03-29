@@ -3,9 +3,9 @@ title: "Section 892a - Functions of the Administrator"
 usc_title: 33
 usc_section: "892a"
 chapter: 17
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 892a"
-generated_at: "2026-03-29T20:00:31.281Z"
+generated_at: "2026-03-29T20:05:35.696Z"
 ---
 
 # § 892a. Functions of the Administrator
@@ -25,5 +25,5 @@ generated_at: "2026-03-29T20:00:31.281Z"
   - **(3)** where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, may acquire hydrographic data and provide hydrographic services to support the conservation and management of coastal and ocean resources;
   - **(4)** where appropriate, may acquire hydrographic data and provide hydrographic services to save and protect life and property and support the resumption of commerce in response to emergencies, natural and man-made disasters, and homeland security and maritime domain awareness needs, including obtaining mission assignments (as defined in section 741 of title 6 );
   - **(5)** may create, support, and maintain such joint centers with other Federal agencies and other entities as the Administrator deems appropriate or necessary to carry out the purposes of this subchapter; and
-  - **(6)** notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40. 1 1 See References in Text note below.
+  - **(6)** notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with chapter 11 of title 40.
 - **(c)** Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.

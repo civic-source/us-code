@@ -5,7 +5,7 @@ usc_section: "6130"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6130"
-generated_at: "2026-03-29T02:10:45.250Z"
+generated_at: "2026-03-29T20:03:09.816Z"
 ---
 
 # § 6130. Authorization of workforce development and training partnership programs within National Nuclear Security Administration

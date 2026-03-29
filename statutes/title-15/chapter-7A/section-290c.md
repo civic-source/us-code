@@ -3,9 +3,9 @@ title: "Section 290c - Standards, criteria, and procedures for preparation and p
 usc_title: 15
 usc_section: "290c"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 290c"
-generated_at: "2026-03-29T19:58:17.387Z"
+generated_at: "2026-03-29T20:03:27.243Z"
 ---
 
 # § 290c. Standards, criteria, and procedures for preparation and publication of standard reference data; publication in Federal Register

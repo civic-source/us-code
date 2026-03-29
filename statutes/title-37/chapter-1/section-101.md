@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 37
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 101"
-generated_at: "2026-03-29T20:00:34.768Z"
+generated_at: "2026-03-29T20:05:44.890Z"
 ---
 
 # § 101. Definitions
@@ -50,8 +50,8 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
   - **(20)** The term “active service” means service on active duty.
   - **(21)** The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
   - **(22)** The term “inactive-duty training” means—
-    - **(A)** duty prescribed for members of a reserve component by the Secretary concerned under section 206 of this title or any other law; and
-    - **(B)** special additional duties authorized for members of a reserve component by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
+    - **(A)** duty prescribed for members of a reserve component, or for members of the Space Force in space force active status not on sustained duty, by the Secretary concerned under section 206 of this title or any other law; and
+    - **(B)** special additional duties authorized for members of a reserve component, or for members of the Space Force in space force active status not on sustained duty, by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
   - **(23)** The term “member” means a person appointed or enlisted in, or conscripted into, a uniformed service.
   - **(24)** The term “reserve component” means—
     - **(A)** the Army National Guard of the United States;
@@ -64,3 +64,5 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
     - **(H)** the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
   - **(25)** The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
   - **(26)** The term “contingency operation” has the meaning given that term in section 101 of title 10 .
+  - **(27)** The term “space force active status” has the meaning given that term in section 101 of title 10 .
+  - **(28)** The term “sustained duty” has the meaning given that term in section 101 of title 10 .

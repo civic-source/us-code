@@ -3,9 +3,9 @@ title: "Section 2321a - Repealed. Pub. L. 94–329, title I, § 106(b)(1) , June
 usc_title: 22
 usc_section: "2321a"
 chapter: 32
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2321a"
-generated_at: "2026-03-29T19:59:24.099Z"
+generated_at: "2026-03-29T20:04:46.767Z"
 ---
 
 # § 2321a. Repealed. Pub. L. 94–329, title I, § 106(b)(1) , June 30, 1976 , 90 Stat. 733

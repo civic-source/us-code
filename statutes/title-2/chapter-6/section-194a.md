@@ -5,7 +5,7 @@ usc_section: "194a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 194a"
-generated_at: "2026-03-29T20:01:46.499Z"
+generated_at: "2026-03-29T20:02:11.251Z"
 ---
 
 # § 194a. Request by Congressional committees to officers or employees of Federal departments, agencies, etc., concerned with foreign countries or multilateral organizations for expression of views and opinions

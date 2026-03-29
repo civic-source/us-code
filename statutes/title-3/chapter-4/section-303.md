@@ -5,7 +5,7 @@ usc_section: "303"
 chapter: 4
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 303"
-generated_at: "2026-03-29T20:01:43.990Z"
+generated_at: "2026-03-29T20:02:12.939Z"
 ---
 
 # § 303. Definitions

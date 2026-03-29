@@ -5,7 +5,7 @@ usc_section: "143"
 chapter: 5
 current_through: "PL 119-73"
 classification: "4 U.S.C. § 143"
-generated_at: "2026-03-29T20:01:43.699Z"
+generated_at: "2026-03-29T20:02:17.208Z"
 ---
 
 # § 143. Employment and utilization of other personnel; cost of copy reading and indexing

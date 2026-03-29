@@ -5,7 +5,7 @@ usc_section: "722"
 chapter: 7
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 722"
-generated_at: "2026-03-29T02:11:23.780Z"
+generated_at: "2026-03-29T20:03:17.284Z"
 ---
 
 # § 722. Cooperation with eligible entities

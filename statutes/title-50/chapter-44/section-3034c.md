@@ -3,9 +3,9 @@ title: "Section 3034c - Intelligence Community Innovation Unit"
 usc_title: 50
 usc_section: "3034c"
 chapter: 44
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3034c"
-generated_at: "2026-03-29T20:01:54.728Z"
+generated_at: "2026-03-29T20:06:21.101Z"
 ---
 
 # § 3034c. Intelligence Community Innovation Unit
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T20:01:54.728Z"
   - **(1)** Not later than 180 days after December 22, 2023 , the Director of National Intelligence shall develop a plan for how to implement the Intelligence Community Innovation Unit within the intelligence community.
   - **(2)** The plan developed pursuant to paragraph (1) shall cover how the Unit will—
     - **(A)** benefit heads of the elements of the intelligence community in identifying commercial emerging technologies and associated capabilities to address critical mission needs of elements of the intelligence community;
-    - **(B)** provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.
+    - **(B)** provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies. 1 1 So in original. The period probably should be a semicolon.
     - **(C)** facilitate the transition of potential prototypes and solutions to critical mission needs of the intelligence community from research and prototype projects to production; and
     - **(D)** serve as a liaison between the intelligence community and the private sector, in which capacity such liaison shall focus on small- and medium-sized companies and other organizations that do not have significant experience engaging with the intelligence community.
   - **(3)** The plan developed pursuant to paragraph (1) shall—

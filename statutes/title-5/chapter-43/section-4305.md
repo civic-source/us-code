@@ -5,7 +5,7 @@ usc_section: "4305"
 chapter: 43
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 4305"
-generated_at: "2026-03-29T20:01:52.152Z"
+generated_at: "2026-03-29T20:02:37.793Z"
 ---
 
 # § 4305. Regulations

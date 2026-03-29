@@ -3,9 +3,9 @@ title: "Section 2263 - Filing of habeas corpus application; time requirements; t
 usc_title: 28
 usc_section: "2263"
 chapter: 154
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 2263"
-generated_at: "2026-03-29T20:00:05.318Z"
+generated_at: "2026-03-29T20:05:24.796Z"
 ---
 
 # § 2263. Filing of habeas corpus application; time requirements; tolling rules

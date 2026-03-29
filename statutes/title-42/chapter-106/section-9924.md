@@ -3,9 +3,9 @@ title: "Section 9924 - References"
 usc_title: 42
 usc_section: "9924"
 chapter: 106
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 9924"
-generated_at: "2026-03-29T20:01:33.537Z"
+generated_at: "2026-03-29T20:06:11.565Z"
 ---
 
 # § 9924. References

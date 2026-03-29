@@ -3,9 +3,9 @@ title: "Section 3273 - Offenses committed by certain United States personnel sta
 usc_title: 18
 usc_section: "3273"
 chapter: 212
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 3273"
-generated_at: "2026-03-29T19:58:59.752Z"
+generated_at: "2026-03-29T20:03:53.811Z"
 ---
 
 # § 3273. Offenses committed by certain United States personnel stationed in Canada in furtherance of border security initiatives

@@ -3,9 +3,9 @@ title: "Section 34 - Protection of authorized purposes of reclamation projects"
 usc_title: 16
 usc_section: "34"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 34"
-generated_at: "2026-03-29T19:59:08.010Z"
+generated_at: "2026-03-29T20:04:20.052Z"
 ---
 
 # § 460l–34. Protection of authorized purposes of reclamation projects

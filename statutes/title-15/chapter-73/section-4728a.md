@@ -3,9 +3,9 @@ title: "Section 4728a - State and Federal Export Promotion Coordination Working 
 usc_title: 15
 usc_section: "4728a"
 chapter: 73
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 4728a"
-generated_at: "2026-03-29T19:58:17.848Z"
+generated_at: "2026-03-29T20:03:27.610Z"
 ---
 
 # § 4728a. State and Federal Export Promotion Coordination Working Group

@@ -3,9 +3,9 @@ title: "Section 2103a - Students not eligible for advanced training: commitment 
 usc_title: 10
 usc_section: "2103a"
 chapter: 103
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2103a"
-generated_at: "2026-03-29T19:58:02.132Z"
+generated_at: "2026-03-29T20:03:09.639Z"
 ---
 
 # § 2103a. Students not eligible for advanced training: commitment to military service

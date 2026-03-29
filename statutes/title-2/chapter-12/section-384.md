@@ -5,7 +5,7 @@ usc_section: "384"
 chapter: 12
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 384"
-generated_at: "2026-03-29T20:01:46.508Z"
+generated_at: "2026-03-29T20:02:11.260Z"
 ---
 
 # § 384. Service and filing of papers other than notice of contest

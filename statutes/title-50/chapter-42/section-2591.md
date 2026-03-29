@@ -1,14 +1,12 @@
 ---
-title: "Section 2591 - Public statement of environmental liabilities"
+title: "Section 2591 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
 usc_title: 50
 usc_section: "2591"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2591"
-generated_at: "2026-03-29T20:01:54.703Z"
+generated_at: "2026-03-29T20:06:21.089Z"
 ---
 
-# § 2591. Public statement of environmental liabilities
-
-Each year, at the same time that the Department of Energy submits its annual financial report under section 3516 of title 31 , the Secretary of Energy shall make available to the public a statement of environmental liabilities, as calculated for the most recent audited financial statement of the Department under section 3515 of that title, for each defense nuclear facility at which defense environmental cleanup activities are occurring.
+# §§ 2590, 2591. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
 

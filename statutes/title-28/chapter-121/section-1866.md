@@ -3,9 +3,9 @@ title: "Section 1866 - Selection and summoning of jury panels"
 usc_title: 28
 usc_section: "1866"
 chapter: 121
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1866"
-generated_at: "2026-03-29T20:00:05.312Z"
+generated_at: "2026-03-29T20:05:24.788Z"
 ---
 
 # § 1866. Selection and summoning of jury panels

@@ -3,9 +3,9 @@ title: "Section 1607 - NTIA program for preventing future vulnerabilities"
 usc_title: 47
 usc_section: "1607"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 1607"
-generated_at: "2026-03-29T20:01:40.125Z"
+generated_at: "2026-03-29T20:06:46.064Z"
 ---
 
 # § 1607. NTIA program for preventing future vulnerabilities

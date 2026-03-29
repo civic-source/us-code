@@ -3,9 +3,9 @@ title: "Section 10224 - Support for greater United Nations action with respect t
 usc_title: 22
 usc_section: "10224"
 chapter: 109
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10224"
-generated_at: "2026-03-29T19:59:24.360Z"
+generated_at: "2026-03-29T20:04:47.049Z"
 ---
 
 # § 10224. Support for greater United Nations action with respect to Burma

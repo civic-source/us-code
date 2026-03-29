@@ -3,9 +3,9 @@ title: "Section 1693r - Exemption for State regulation"
 usc_title: 15
 usc_section: "1693r"
 chapter: 41
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1693r"
-generated_at: "2026-03-29T19:58:17.738Z"
+generated_at: "2026-03-29T20:03:27.472Z"
 ---
 
 # § 1693r. Exemption for State regulation

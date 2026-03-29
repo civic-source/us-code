@@ -3,9 +3,9 @@ title: "Section 931 - Regulations; issuance and contents"
 usc_title: 20
 usc_section: "931"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 931"
-generated_at: "2026-03-29T19:58:56.620Z"
+generated_at: "2026-03-29T20:04:32.766Z"
 ---
 
 # § 931. Regulations; issuance and contents

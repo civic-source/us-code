@@ -3,9 +3,9 @@ title: "Section 3901 - Congressional findings and objectives"
 usc_title: 22
 usc_section: "3901"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3901"
-generated_at: "2026-03-29T19:59:24.191Z"
+generated_at: "2026-03-29T20:04:46.864Z"
 ---
 
 # § 3901. Congressional findings and objectives

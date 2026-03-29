@@ -3,9 +3,9 @@ title: "Section 481 - Terms of office and election procedures"
 usc_title: 29
 usc_section: "481"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 481"
-generated_at: "2026-03-29T19:59:56.581Z"
+generated_at: "2026-03-29T20:05:03.636Z"
 ---
 
 # § 481. Terms of office and election procedures

@@ -5,7 +5,7 @@ usc_section: "798B"
 chapter: 37
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 798B"
-generated_at: "2026-03-29T02:12:02.380Z"
+generated_at: "2026-03-29T20:03:53.709Z"
 ---
 
 # § 798B. Unauthorized access to intelligence community property

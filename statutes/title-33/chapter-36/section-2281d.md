@@ -3,9 +3,9 @@ title: "Section 2281d - Declaration of policy"
 usc_title: 33
 usc_section: "2281d"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2281d"
-generated_at: "2026-03-29T20:00:31.387Z"
+generated_at: "2026-03-29T20:05:35.813Z"
 ---
 
 # § 2281d. Declaration of policy

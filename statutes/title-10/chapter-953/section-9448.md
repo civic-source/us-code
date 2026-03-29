@@ -3,9 +3,9 @@ title: "Section 9448 - Cadets: service obligation"
 usc_title: 10
 usc_section: "9448"
 chapter: 953
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9448"
-generated_at: "2026-03-29T19:58:02.343Z"
+generated_at: "2026-03-29T20:03:09.898Z"
 ---
 
 # § 9448. Cadets: service obligation
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T19:58:02.343Z"
   - **(1)** Subject to paragraph (4), the Secretary of the Air Force may transfer to the Air Force Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title .
   - **(2)** A cadet who is transferred to the Air Force Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
   - **(3)** For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet’s agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
-  - **(4)** Each academic year, the Secretary of the Air Force may transfer not more than three cadets, who obtain employment in violation of paragraph (5) of subsection (a), to the Selected Reserve of the Air Force. Each cadet so transferred shall—
+  - **(4)** Each academic year, the Secretary of the Air Force may transfer not more than five cadets, who obtain employment in violation of paragraph (5) of subsection (a), to the Selected Reserve of the Air Force. Each cadet so transferred shall—
     - **(A)** serve as a commissioned officer—
       - **(i)** in an appropriate grade or rating, determined by the Secretary of the Air Force; and
       - **(ii)** for a period, determined by the Secretary of the Air Force, not longer than 10 years; and

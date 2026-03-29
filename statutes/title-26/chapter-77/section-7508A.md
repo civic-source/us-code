@@ -3,9 +3,9 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Fed
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-29T19:59:49.661Z"
+generated_at: "2026-03-29T20:05:22.755Z"
 ---
 
 # § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
@@ -15,11 +15,15 @@ generated_at: "2026-03-29T19:59:49.661Z"
   - **(2)** the amount of any interest, penalty, additional amount, or addition to the tax for periods after such date, and
   - **(3)** the amount of any credit or refund.
 - **(b)** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
-- **(c)** The rules of section 7508(b) shall apply for purposes of this section.
-- **(d)**
+- **(c)**
+  - **(1)** The Secretary (after consultation with the Administrator of the Federal Emergency Management Agency) may, upon the written request of the Governor of a State (or the Mayor, in the case of the District of Columbia), apply the rules of subsections (a) and (b) to a qualified State declared disaster in the same manner as a disaster, fire, or action otherwise described in subsection (a).
+  - **(2)** For purposes of this section, the term “qualified State declared disaster” means, with respect to any State, any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the State, which in the determination of the Governor of such State (or the Mayor, in the case of the District of Columbia) causes damage of sufficient severity and magnitude to warrant the application of the rules of this section.
+  - **(3)** For purposes of this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+- **(d)** The rules of section 7508(b) shall apply for purposes of this section.
+- **(e)**
   - **(1)** In the case of any qualified taxpayer, the period—
     - **(A)** beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
-    - **(B)** ending on the date which is 60 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
+    - **(B)** ending on the date which is 120 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
   - **(2)** For purposes of this subsection, the term “qualified taxpayer” means—
     - **(A)** any individual whose principal residence (for purposes of section 1033(h)(4)) is located in a disaster area,
     - **(B)** any taxpayer if the taxpayer’s principal place of business (other than the business of performing services as an employee) is located in a disaster area,
@@ -34,5 +38,6 @@ generated_at: "2026-03-29T19:59:49.661Z"
     - **(C)** recharacterizing contributions under section 408A(d)(6), and
     - **(D)** making a rollover under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3).
   - **(5)** Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
-  - **(6)** For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
-- **(e)** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+  - **(6)** For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 120-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
+- **(f)** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+- **(f)** For purposes of section 6511(b)(2)(A), any period disregarded under this section with respect to the time prescribed for filing any return of tax shall be treated as an extension of time for filing such return.

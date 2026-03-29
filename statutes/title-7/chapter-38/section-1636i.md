@@ -3,12 +3,12 @@ title: "Section 1636i - Termination of authority"
 usc_title: 7
 usc_section: "1636i"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1636i"
-generated_at: "2026-03-29T19:57:39.052Z"
+generated_at: "2026-03-29T20:02:52.548Z"
 ---
 
 # § 1636i. Termination of authority
 
-The authority provided by this subchapter terminates on September 30, 2025 .
+The authority provided by this subchapter terminates on September 30, 2026 .
 

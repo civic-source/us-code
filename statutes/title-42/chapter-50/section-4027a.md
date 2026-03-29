@@ -3,9 +3,9 @@ title: "Section 4027a - Report of the Administrator on activities under the Nati
 usc_title: 42
 usc_section: "4027a"
 chapter: 50
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 4027a"
-generated_at: "2026-03-29T20:01:33.096Z"
+generated_at: "2026-03-29T20:06:11.116Z"
 ---
 
 # § 4027a. Report of the Administrator on activities under the National Flood Insurance Program

@@ -3,9 +3,9 @@ title: "Section 824p - Siting of interstate electric transmission facilities"
 usc_title: 16
 usc_section: "824p"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 824p"
-generated_at: "2026-03-29T19:59:08.226Z"
+generated_at: "2026-03-29T20:04:20.229Z"
 ---
 
 # § 824p. Siting of interstate electric transmission facilities

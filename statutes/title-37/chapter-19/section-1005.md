@@ -3,9 +3,9 @@ title: "Section 1005 - Army, Air Force, and Space Force: prompt payments require
 usc_title: 37
 usc_section: "1005"
 chapter: 19
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 1005"
-generated_at: "2026-03-29T20:00:34.800Z"
+generated_at: "2026-03-29T20:05:44.923Z"
 ---
 
 # § 1005. Army, Air Force, and Space Force: prompt payments required

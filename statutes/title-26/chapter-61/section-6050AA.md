@@ -5,7 +5,7 @@ usc_section: "6050AA"
 chapter: 61
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6050AA"
-generated_at: "2026-03-29T02:14:01.295Z"
+generated_at: "2026-03-29T20:05:22.666Z"
 ---
 
 # § 6050AA. Returns relating to applicable passenger vehicle loan interest received in trade or business from individuals

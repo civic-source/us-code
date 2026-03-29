@@ -3,9 +3,9 @@ title: "Section 9502 - Airport and Airway Trust Fund"
 usc_title: 26
 usc_section: "9502"
 chapter: 98
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 9502"
-generated_at: "2026-03-29T19:59:49.695Z"
+generated_at: "2026-03-29T20:05:22.785Z"
 ---
 
 # § 9502. Airport and Airway Trust Fund

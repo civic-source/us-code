@@ -3,9 +3,9 @@ title: "Section 4905 - Liability in case of death or change of location"
 usc_title: 26
 usc_section: "4905"
 chapter: 40
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 4905"
-generated_at: "2026-03-29T19:59:49.509Z"
+generated_at: "2026-03-29T20:05:22.600Z"
 ---
 
 # § 4905. Liability in case of death or change of location

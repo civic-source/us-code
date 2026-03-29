@@ -3,9 +3,9 @@ title: "Section 5497 - Funding; penalties and fines"
 usc_title: 12
 usc_section: "5497"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5497"
-generated_at: "2026-03-29T19:58:41.125Z"
+generated_at: "2026-03-29T20:03:45.998Z"
 ---
 
 # § 5497. Funding; penalties and fines
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:58:41.125Z"
     - **(A)** Notwithstanding paragraph (1), and in accordance with this paragraph, the amount that shall be transferred to the Bureau in each fiscal year shall not exceed a fixed percentage of the total operating expenses of the Federal Reserve System, as reported in the Annual Report, 2009, of the Board of Governors, equal to—
       - **(i)** 10 percent of such expenses in fiscal year 2011;
       - **(ii)** 11 percent of such expenses in fiscal year 2012; and
-      - **(iii)** 12 percent of such expenses in fiscal year 2013, and in each year thereafter.
+      - **(iii)** 6.5 percent of such expenses in fiscal year 2013, and in each year thereafter.
     - **(B)** The dollar amount referred to in subparagraph (A)(iii) shall be adjusted annually, using the percent increase, if any, in the employment cost index for total compensation for State and local government workers published by the Federal Government, or the successor index thereto, for the 12-month period ending on September 30 of the year preceding the transfer.
     - **(C)** Notwithstanding any other provision in this title, 1 1 See References in Text note below. the funds derived from the Federal Reserve System pursuant to this subsection shall not be subject to review by the Committees on Appropriations of the House of Representatives and the Senate.
   - **(3)** Beginning on July 21, 2010 , and until the designated transfer date, the Board of Governors shall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.

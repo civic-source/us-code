@@ -5,7 +5,7 @@ usc_section: "9803"
 chapter: 98
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 9803"
-generated_at: "2026-03-29T20:01:52.286Z"
+generated_at: "2026-03-29T20:02:37.925Z"
 ---
 
 # § 9803. Restrictions

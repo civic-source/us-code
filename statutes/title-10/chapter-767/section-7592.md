@@ -3,9 +3,9 @@ title: "Section 7592 - Radiograms and telegrams: forwarding charges due connecti
 usc_title: 10
 usc_section: "7592"
 chapter: 767
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7592"
-generated_at: "2026-03-29T19:58:02.291Z"
+generated_at: "2026-03-29T20:03:09.846Z"
 ---
 
 # § 7592. Radiograms and telegrams: forwarding charges due connecting commercial facilities

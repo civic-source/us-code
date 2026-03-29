@@ -3,9 +3,9 @@ title: "Section 109d - Transferred"
 usc_title: 8
 usc_section: "109d"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 109d"
-generated_at: "2026-03-29T19:57:30.732Z"
+generated_at: "2026-03-29T20:02:46.181Z"
 ---
 
 # §§ 109a to 109d. Transferred

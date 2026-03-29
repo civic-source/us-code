@@ -3,9 +3,9 @@ title: "Section 9901 - Prohibition on transfer of personally identifiable sensit
 usc_title: 15
 usc_section: "9901"
 chapter: 123
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9901"
-generated_at: "2026-03-29T19:58:17.970Z"
+generated_at: "2026-03-29T20:03:27.749Z"
 ---
 
 # § 9901. Prohibition on transfer of personally identifiable sensitive data of United States individuals to foreign adversaries

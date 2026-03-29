@@ -5,7 +5,7 @@ usc_section: "7371"
 chapter: 73
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 7371"
-generated_at: "2026-03-29T20:01:52.212Z"
+generated_at: "2026-03-29T20:02:37.854Z"
 ---
 
 # § 7371. Mandatory removal from employment of law enforcement officers convicted of felonies

@@ -5,7 +5,7 @@ usc_section: "1101"
 chapter: 11
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 1101"
-generated_at: "2026-03-29T20:01:52.120Z"
+generated_at: "2026-03-29T20:02:37.762Z"
 ---
 
 # § 1101. Office of Personnel Management

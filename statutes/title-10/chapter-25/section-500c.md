@@ -3,9 +3,9 @@ title: "Section 500c - Annual assessment of budget with respect to electromagnet
 usc_title: 10
 usc_section: "500c"
 chapter: 25
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 500c"
-generated_at: "2026-03-29T19:58:01.979Z"
+generated_at: "2026-03-29T20:03:09.470Z"
 ---
 
 # § 500c. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities

@@ -3,9 +3,9 @@ title: "Section 341 - Repealed. Pub. L. 108–27, title III, § 302(e)(4)(A) , M
 usc_title: 26
 usc_section: "341"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 341"
-generated_at: "2026-03-29T19:59:49.215Z"
+generated_at: "2026-03-29T20:05:22.286Z"
 ---
 
 # [§ 341. Repealed. Pub. L. 108–27, title III, § 302(e)(4)(A) , May 28, 2003 , 117 Stat. 763 ]

@@ -3,21 +3,21 @@ title: "Section 98e - Stockpile management"
 usc_title: 50
 usc_section: "98e"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 98e"
-generated_at: "2026-03-29T20:01:54.618Z"
+generated_at: "2026-03-29T20:06:21.024Z"
 ---
 
 # § 98e. Stockpile management
 
-- **(a)** The President shall—
+- **(a)** The National Defense Stockpile Manager shall—
   - **(1)** acquire the materials determined under section 98b(a) of this title to be strategic and critical materials;
   - **(2)** provide for the proper storage, security, and maintenance of materials in the stockpile;
   - **(3)** provide for the upgrading, refining, or processing of any material in the stockpile (notwithstanding any intermediate stockpile quantity established for such material) when necessary to convert such material into a form more suitable for storage, subsequent disposition, and immediate use in a national emergency;
   - **(4)** provide for the rotation of any material in the stockpile when necessary to prevent deterioration or technological obsolescence of such material by replacement of such material with an equivalent quantity of substantially the same material or better material;
   - **(5)** provide for the appropriate recovery of any strategic and critical materials under section 98b(a) of this title that may be available from other Federal agencies, either directly as materials or embedded in excess-to-need, end-of-life items, or waste streams;
   - **(6)** subject to the notification required by subsection (d)(2), provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
-  - **(7)** subject to the provisions of section 98d(b) of this title , dispose of materials in the stockpile the disposal of which is specifically authorized by law.
+  - **(7)** dispose of materials in the stockpile in accordance with the most recent annual materials plan submitted to the congressional defense committees (as defined in section 101(a) of title 10 ) under section 98h–2(b)(1)(G) of this title and notify the congressional defense committees of such disposals as required by section 98d(b)(2) of this title .
 - **(b)** Except as provided in subsections (c) and (d), acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) and in section 98f(a) of this title , disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
   - **(1)** competitive procedures shall be used in the acquisition and disposal of such materials; and
   - **(2)** efforts shall be made in the acquisition and disposal of such materials to consult with producers and processors of such materials to avoid undue disruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
@@ -27,8 +27,8 @@ generated_at: "2026-03-29T20:01:54.618Z"
   - **(3)** Notwithstanding section 98b(c) of this title or any other provision of law, whenever the President provides under subsection (a)(3) for the upgrading, refining, or processing of a material in the stockpile to convert that material into a form more suitable for storage, subsequent disposition, and immediate use in a national emergency, the President may barter a portion of the same material (or any other material in the stockpile that is authorized for disposal) to finance that upgrading, refining, or processing.
   - **(4)** To the extent otherwise authorized by law, property owned by the United States may be bartered for materials needed for the stockpile.
 - **(d)**
-  - **(1)** The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
-  - **(2)** Materials in the stockpile may be disposed of under subsection (a)(6) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
+  - **(1)** The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 30 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+  - **(2)** Materials in the stockpile may be disposed of under subsection (a)(6) only if such congressional committees are notified in writing of the proposed disposal at least 30 days before any obligation of the United States is incurred in connection with such disposal.
 - **(e)** The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 - **(f)** The President may loan stockpile materials to the Department of Energy or the military departments if the President—
   - **(1)** has a reasonable assurance that stockpile materials of a similar or superior quantity and quality to the materials loaned will be returned to the stockpile or paid for;

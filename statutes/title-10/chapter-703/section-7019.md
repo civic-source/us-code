@@ -3,9 +3,9 @@ title: "Section 7019 - General Counsel"
 usc_title: 10
 usc_section: "7019"
 chapter: 703
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7019"
-generated_at: "2026-03-29T19:58:02.279Z"
+generated_at: "2026-03-29T20:03:09.834Z"
 ---
 
 # § 7019. General Counsel

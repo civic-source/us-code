@@ -3,9 +3,9 @@ title: "Section 9 - Information as confidential; exception"
 usc_title: 13
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "13 U.S.C. § 9"
-generated_at: "2026-03-29T19:58:06.013Z"
+generated_at: "2026-03-29T20:03:15.410Z"
 ---
 
 # § 9. Information as confidential; exception
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T19:58:06.013Z"
   - **(1)** use the information furnished under the provisions of this title for any purpose other than the statistical purposes for which it is supplied; or
   - **(2)** make any publication whereby the data furnished by any particular establishment or individual under this title can be identified; or
   - **(3)** permit anyone other than the sworn officers and employees of the Department or bureau or agency thereof to examine the individual reports.
-- **(b)** The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public rec­ords.
+- **(b)** The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public records.

@@ -3,9 +3,9 @@ title: "Section 5462 - Definitions"
 usc_title: 12
 usc_section: "5462"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5462"
-generated_at: "2026-03-29T19:58:41.119Z"
+generated_at: "2026-03-29T20:03:45.989Z"
 ---
 
 # § 5462. Definitions

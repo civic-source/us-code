@@ -5,7 +5,7 @@ usc_section: "6114"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6114"
-generated_at: "2026-03-29T02:10:45.247Z"
+generated_at: "2026-03-29T20:03:09.813Z"
 ---
 
 # § 6114. Nuclear weapons stockpile stewardship, management, and responsiveness plan

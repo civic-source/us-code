@@ -5,7 +5,7 @@ usc_section: "5903"
 chapter: 56
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5903"
-generated_at: "2026-03-29T02:11:21.317Z"
+generated_at: "2026-03-29T20:03:46.023Z"
 ---
 
 # § 5903. Requirements for issuing payment stablecoins

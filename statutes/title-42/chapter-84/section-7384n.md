@@ -3,9 +3,9 @@ title: "Section 7384n - Exposure in the performance of duty"
 usc_title: 42
 usc_section: "7384n"
 chapter: 84
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7384n"
-generated_at: "2026-03-29T20:01:33.332Z"
+generated_at: "2026-03-29T20:06:11.351Z"
 ---
 
 # § 7384n. Exposure in the performance of duty
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:01:33.332Z"
     - **(B)** incorporate the methods established under subsection (d); and
     - **(C)** take into consideration the type of cancer, past health-related activities (such as smoking), information on the risk of developing a radiation-related cancer from workplace exposure, and other relevant factors.
   - **(4)** In the case of an atomic weapons employee described in section 7384 l (3)(B) of this title, the following doses of radiation shall be treated, for purposes of paragraph (3)(A) of this subsection, as part of the radiation dose received by the employee at such facility:
-    - **(A)** Any dose of ionizing radiation received by that employee from facilities, materials, devices, or byproducts used or generated in the research, development, production, dismantlement, transportation, or testing of nuclear weapons, or from any activities to research, produce, process, store, remediate, or dispose of radioactive materials by or on behalf of the Department of Energy (except for activities covered by Executive Order No. 12344, dated February 1, 1982 ( 42 U.S.C. 7158 note) pertaining to the Naval Nuclear Propulsion Program).
+    - **(A)** Any dose of ionizing radiation received by that employee from facilities, materials, devices, or byproducts used or generated in the research, development, production, dismantlement, transportation, or testing of nuclear weapons, or from any activities to research, produce, process, store, remediate, or dispose of radioactive materials by or on behalf of the Department of Energy (except for activities covered by Executive Order No. 12344, dated February 1, 1982 ( 42 U.S.C. 7158 note) 1 1 See References in Text note below. pertaining to the Naval Nuclear Propulsion Program).
     - **(B)** Any dose of ionizing radiation received by that employee from a source not covered by subparagraph (A) that is not distinguishable through reliable documentation from a dose covered by subparagraph (A).
 - **(d)**
   - **(1)** The President shall, through any Federal agency (other than the Department of Energy) or official (other than the Secretary of Energy or any other official within the Department of Energy) that the President may designate, establish by regulation methods for arriving at reasonable estimates of the radiation doses received by an individual specified in subparagraph (B) of section 7384 l (9) of this title at a facility specified in that subparagraph by each of the following employees:

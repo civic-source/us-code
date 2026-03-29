@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-29T19:59:49.631Z"
+generated_at: "2026-03-29T20:05:22.723Z"
 ---
 
 # § 6662. Imposition of accuracy-related penalty on underpayments
@@ -99,3 +99,8 @@ generated_at: "2026-03-29T19:59:49.631Z"
   - **(3)** In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
 - **(k)** For purposes of this section, the term “inconsistent estate basis” means any portion of an underpayment attributable to the failure to comply with section 1014(f).
 - **(l)** In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting “50 percent” for “20 percent”.
+- **(m)**
+  - **(1)** In the case of a taxpayer for which there is a disallowance of an applicable energy credit for any taxable year, for purposes of determining whether there is a substantial understatement of income tax for such taxable year, subsection (d)(1) shall be applied—
+    - **(A)** in subparagraphs (A) and (B), by substituting “1 percent” for “10 percent” each place it appears, and
+    - **(B)** without regard to subparagraph (C).
+  - **(2)** For purposes of this subsection, the term “disallowance of an applicable energy credit” means the disallowance of a credit under section 45X, 45Y, or 48E by reason of overstating the material assistance cost ratio (as determined under section 7701(a)(52)) with respect to any qualified facility, energy storage technology, or facility which produces eligible components.

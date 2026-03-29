@@ -3,9 +3,9 @@ title: "Section 2297g - Uranium Enrichment Decontamination and Decommissioning F
 usc_title: 42
 usc_section: "2297g"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2297g"
-generated_at: "2026-03-29T20:01:33.001Z"
+generated_at: "2026-03-29T20:06:11.018Z"
 ---
 
 # § 2297g. Uranium Enrichment Decontamination and Decommissioning Fund

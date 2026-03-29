@@ -3,9 +3,9 @@ title: "Section 6715 - Enforcement by the Attorney General of prohibitions on di
 usc_title: 31
 usc_section: "6715"
 chapter: 67
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 6715"
-generated_at: "2026-03-29T20:00:25.374Z"
+generated_at: "2026-03-29T20:05:32.637Z"
 ---
 
 # § 6715. Enforcement by the Attorney General of prohibitions on discrimination

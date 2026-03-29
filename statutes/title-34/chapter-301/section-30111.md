@@ -3,9 +3,9 @@ title: "Section 30111 - Training and technical assistance for States"
 usc_title: 34
 usc_section: "30111"
 chapter: 301
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 30111"
-generated_at: "2026-03-29T20:00:27.502Z"
+generated_at: "2026-03-29T20:05:30.444Z"
 ---
 
 # § 30111. Training and technical assistance for States

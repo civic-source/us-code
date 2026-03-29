@@ -3,9 +3,9 @@ title: "Section 9523 - Establishment"
 usc_title: 15
 usc_section: "9523"
 chapter: 120
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9523"
-generated_at: "2026-03-29T19:58:17.963Z"
+generated_at: "2026-03-29T20:03:27.742Z"
 ---
 
 # § 9523. Establishment

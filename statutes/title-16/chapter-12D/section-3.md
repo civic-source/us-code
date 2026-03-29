@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 6
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T19:59:08.243Z"
+generated_at: "2026-03-29T20:04:20.243Z"
 ---
 
 # § 835c–3. Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 678

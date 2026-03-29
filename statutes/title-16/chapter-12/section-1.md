@@ -3,9 +3,9 @@ title: "Section 1 - Southwestern area sale and transmission of electric power; d
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T19:59:08.231Z"
+generated_at: "2026-03-29T20:04:20.233Z"
 ---
 
 # § 825s–1. Southwestern area sale and transmission of electric power; disposition of receipts; creation of continuing fund; use of fund

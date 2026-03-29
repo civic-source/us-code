@@ -3,9 +3,9 @@ title: "Section 657f - Procurement program for small business concerns owned and
 usc_title: 15
 usc_section: "657f"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 657f"
-generated_at: "2026-03-29T19:58:17.615Z"
+generated_at: "2026-03-29T20:03:27.314Z"
 ---
 
 # § 657f. Procurement program for small business concerns owned and controlled by service-disabled veterans

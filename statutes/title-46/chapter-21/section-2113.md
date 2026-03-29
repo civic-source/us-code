@@ -3,9 +3,9 @@ title: "Section 2113 - Authority to exempt certain vessels"
 usc_title: 46
 usc_section: "2113"
 chapter: 21
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 2113"
-generated_at: "2026-03-29T20:01:44.406Z"
+generated_at: "2026-03-29T20:07:02.651Z"
 ---
 
 # § 2113. Authority to exempt certain vessels
@@ -14,5 +14,5 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
   - **(1)** for a vessel, issue a special permit specifying the conditions of operation and equipment;
   - **(2)** exempt an oceanographic research vessel from that provision under conditions the Secretary may specify;
-  - **(3)** establish different operating and equipment requirements for vessels defined in section 2101(53)(A) of this title ; and
+  - **(3)** establish different operating and equipment requirements for vessels defined in section 2101(55)(A) of this title ; and
   - **(4)** maintain different structural fire protection, manning, operating, and equipment requirements for vessels that satisfied requirements set forth in the Passenger Vessel Safety Act of 1993 ( Public Law 103–206 ) before June 21, 1994 .

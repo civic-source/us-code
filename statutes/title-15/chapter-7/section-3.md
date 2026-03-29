@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-29T19:58:17.377Z"
+generated_at: "2026-03-29T20:03:27.234Z"
 ---
 
 # § 278g–3. Computer standards program

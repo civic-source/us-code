@@ -3,9 +3,9 @@ title: "Section 410t - Acquisition and transfer of lands; private owner’s rete
 usc_title: 16
 usc_section: "410t"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 410t"
-generated_at: "2026-03-29T19:59:07.905Z"
+generated_at: "2026-03-29T20:04:19.962Z"
 ---
 
 # § 410t. Acquisition and transfer of lands; private owner’s retention of right of use and occupancy

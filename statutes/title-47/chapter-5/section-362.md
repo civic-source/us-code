@@ -3,9 +3,9 @@ title: "Section 362 - Forfeitures; recovery"
 usc_title: 47
 usc_section: "362"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 362"
-generated_at: "2026-03-29T20:01:40.059Z"
+generated_at: "2026-03-29T20:06:46.000Z"
 ---
 
 # § 362. Forfeitures; recovery

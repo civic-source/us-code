@@ -3,9 +3,9 @@ title: "Section 2395 - Renumbered § 3132]"
 usc_title: 10
 usc_section: "2395"
 chapter: 141
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2395"
-generated_at: "2026-03-29T19:58:02.164Z"
+generated_at: "2026-03-29T20:03:09.679Z"
 ---
 
 # [§ 2395. Renumbered § 3132]

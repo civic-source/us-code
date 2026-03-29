@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-29T19:59:49.071Z"
+generated_at: "2026-03-29T20:05:22.132Z"
 ---
 
 # § 42. Low-income housing credit
@@ -290,12 +290,16 @@ generated_at: "2026-03-29T19:59:49.071Z"
       - **(ii)**
         - **(I)** In the case of the $2,000,000 amount, any increase under clause (i) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
         - **(II)** In the case of the $1.75 amount, any increase under clause (i) which is not a multiple of 5 cents shall be rounded to the next lowest multiple of 5 cents.
-    - **(I)** In the case of calendar years 2018, 2019, 2020, and 2021, each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.125.
+    - **(I)** In the case of calendar years beginning after December 31, 2025 , each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.12.
   - **(4)**
     - **(A)** Paragraph (1) shall not apply to the portion of any credit allowable under subsection (a) which is attributable to eligible basis financed by any obligation the interest on which is exempt from tax under section 103 if—
       - **(i)** such obligation is taken into account under section 146, and
       - **(ii)** principal payments on such financing are applied within a reasonable period to redeem obligations the proceeds of which were used to provide such financing or such financing is refunded as described in section 146(i)(6).
-    - **(B)** For purposes of subparagraph (A), if 50 percent or more of the aggregate basis of any building and the land on which the building is located is financed by any obligation described in subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to such building.
+    - **(B)** For purposes of subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to a building if—
+      - **(i)** 50 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), or
+      - **(ii)**
+        - **(I)** 25 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), and
+        - **(II)** 1 or more of such obligations—
   - **(5)**
     - **(A)** Not more than 90 percent of the State housing credit ceiling for any State for any calendar year shall be allocated to projects other than qualified low-income housing projects described in subparagraph (B).
     - **(B)** For purposes of subparagraph (A), a qualified low-income housing project is described in this subparagraph if a qualified nonprofit organization is to own an interest in the project (directly or through a partnership) and materially participate (within the meaning of section 469(h)) in the development and operation of the project throughout the compliance period.

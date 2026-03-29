@@ -3,9 +3,9 @@ title: "Section 631 - False representations as to liability of United States for
 usc_title: 12
 usc_section: "631"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 631"
-generated_at: "2026-03-29T19:58:40.733Z"
+generated_at: "2026-03-29T20:03:45.596Z"
 ---
 
 # § 631. False representations as to liability of United States for acts of corporation; punishment

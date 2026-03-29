@@ -3,9 +3,9 @@ title: "Section 4342 - Limitations on disposition of personal prop­erty"
 usc_title: 22
 usc_section: "4342"
 chapter: 53
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4342"
-generated_at: "2026-03-29T19:59:24.224Z"
+generated_at: "2026-03-29T20:04:46.895Z"
 ---
 
 # § 4342. Limitations on disposition of personal prop­erty

@@ -3,9 +3,9 @@ title: "Section 300jj - Definitions"
 usc_title: 42
 usc_section: "300jj"
 chapter: 6
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 300jj"
-generated_at: "2026-03-29T20:01:32.217Z"
+generated_at: "2026-03-29T20:06:10.312Z"
 ---
 
 # § 300jj. Definitions

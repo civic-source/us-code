@@ -5,7 +5,7 @@ usc_section: "199"
 chapter: 8
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 199"
-generated_at: "2026-03-29T02:10:44.842Z"
+generated_at: "2026-03-29T20:03:09.434Z"
 ---
 
 # § 199. Joint Interagency Task Force 401

@@ -3,9 +3,9 @@ title: "Section 8904 - National Capital Memorial Advisory Commission"
 usc_title: 40
 usc_section: "8904"
 chapter: 89
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 8904"
-generated_at: "2026-03-29T20:00:35.898Z"
+generated_at: "2026-03-29T20:05:42.956Z"
 ---
 
 # § 8904. National Capital Memorial Advisory Commission

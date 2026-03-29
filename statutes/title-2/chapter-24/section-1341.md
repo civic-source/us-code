@@ -5,7 +5,7 @@ usc_section: "1341"
 chapter: 24
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1341"
-generated_at: "2026-03-29T20:01:46.553Z"
+generated_at: "2026-03-29T20:02:11.294Z"
 ---
 
 # § 1341. Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations

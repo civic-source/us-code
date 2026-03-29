@@ -5,7 +5,7 @@ usc_section: "951B"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 951B"
-generated_at: "2026-03-29T02:14:01.082Z"
+generated_at: "2026-03-29T20:05:22.464Z"
 ---
 
 # § 951B. Amounts included in gross income of foreign controlled United States shareholders

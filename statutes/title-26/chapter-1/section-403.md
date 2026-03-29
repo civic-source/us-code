@@ -3,9 +3,9 @@ title: "Section 403 - Taxation of employee annuities"
 usc_title: 26
 usc_section: "403"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 403"
-generated_at: "2026-03-29T19:59:49.235Z"
+generated_at: "2026-03-29T20:05:22.307Z"
 ---
 
 # § 403. Taxation of employee annuities
@@ -21,6 +21,7 @@ generated_at: "2026-03-29T19:59:49.235Z"
       - **(iii)** in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
     - **(B)** The rules of paragraphs (2) through (7) and (11) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
   - **(5)** Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
+  - **(6)** An annuity contract shall not fail to be subject to this subsection solely by reason of allowing distributions to which section 401(a)(39) applies.
 - **(b)**
   - **(1)** If—
     - **(A)** an annuity contract is purchased—
@@ -47,8 +48,9 @@ generated_at: "2026-03-29T19:59:49.235Z"
         - **(II)** the employee attains age 59½,
         - **(III)** the employee has a severance from employment,
         - **(IV)** the employee becomes disabled (within the meaning of section 72(m)(7)),
-        - **(V)** subject to the provisions of paragraph (17), the employee encounters financial hardship, or
-        - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
+        - **(V)** subject to the provisions of paragraph (17), the employee encounters financial hardship,
+        - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, or
+        - **(VII)** as provided for distributions to which section 401(a)(39) applies, and
       - **(ii)** in the case of amounts described in clause (i)(VI), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
     - **(B)** For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
     - **(C)** For purposes of this paragraph, the term “regulated investment company” means a domestic corporation which is a regulated investment company within the meaning of section 851(a).
@@ -70,16 +72,21 @@ generated_at: "2026-03-29T19:59:49.235Z"
   - **(11)** This subsection shall not apply to any annuity contract unless under such contract distributions attributable to contributions made pursuant to a salary reduction agreement (within the meaning of section 402(g)(3)(C)) may be paid only—
     - **(A)** when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
     - **(B)** subject to the provisions of paragraph (17), in the case of hardship,
-    - **(C)** for distributions to which section 72(t)(2)(G) applies, or
+    - **(C)** for distributions to which section 72(t)(2)(G) applies,
     - **(D)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii))—
       - **(i)** on or after the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
-      - **(ii)** in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
+      - **(ii)** in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)), or
+    - **(E)** for distributions to which section 401(a)(39) applies.
   - **(12)**
     - **(A)** For purposes of paragraph (1)(D), a plan meets the nondiscrimination requirements of this paragraph if—
       - **(i)** with respect to contributions not made pursuant to a salary reduction agreement, such plan meets the requirements of paragraphs (4), (5), (17), and (26) of section 401(a), section 401(m), and section 410(b) in the same manner as if such plan were described in section 401(a), and
       - **(ii)** all employees of the organization may elect to have the employer make contributions of more than $200 pursuant to a salary reduction agreement if any employee of the organization may elect to have the organization make contributions for such contracts pursuant to such agreement.
     - **(B)** For purposes of paragraph (1)(D), the term “church” has the meaning given to such term by section 3121(w)(3)(A). Such term shall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
     - **(C)** For purposes of paragraph (1)(D), the requirements of subparagraph (A)(i) (other than those relating to section 401(a)(17)) shall not apply to a governmental plan (within the meaning of section 414(d)) maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof).
+    - **(D)**
+      - **(i)** In the case of employees who are eligible to participate in the agreement solely by reason of section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974—
+        - **(I)** notwithstanding section 401(a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the plan, and
+        - **(II)** the employer may elect to exclude such employees from the application of subsections (a)(4), (k)(3), (k)(12), (k)(13), and (m)(2) of section 401 and section 410(b).
   - **(13)** No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
     - **(A)** for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
     - **(B)** a repayment to which section 415 does not apply by reason of subsection (k)(3) thereof.

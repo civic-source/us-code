@@ -3,9 +3,9 @@ title: "Section 4024 - Functions of Secretary"
 usc_title: 22
 usc_section: "4024"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4024"
-generated_at: "2026-03-29T19:59:24.200Z"
+generated_at: "2026-03-29T20:04:46.871Z"
 ---
 
 # § 4024. Functions of Secretary
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:59:24.200Z"
 - **(b)** In furtherance of the objectives of this chapter, the Secretary may—
   - **(1)** pay the tuition and other expenses of members of the Service and employees of the Department who are assigned or detailed in accordance with law for special instruction or training, including orientation, language, and career development training;
   - **(2)** pay the salary (excluding premium pay or any special differential under section 3972 of this title ) of members of the Service selected and assigned for training; and
-  - **(3)** provide special monetary or other incentives to encourage members of the Service to acquire or retain proficiency in foreign languages or special abilities needed in the Service.
+  - **(3)** provide special monetary or other incentives to encourage members of the Service to acquire or retain proficiency in and reutilize foreign languages or special abilities needed in the Service.
 - **(c)** The Secretary may provide to family members of members of the Service or of employees of the Department or other agencies, in anticipation of their assignment abroad or while abroad—
   - **(1)** appropriate orientation and language training; and
   - **(2)** functional training for anticipated prospective employment under section 3951 of this title .

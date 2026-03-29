@@ -3,9 +3,9 @@ title: "Section 9452 - Cadets: hazing"
 usc_title: 10
 usc_section: "9452"
 chapter: 953
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9452"
-generated_at: "2026-03-29T19:58:02.343Z"
+generated_at: "2026-03-29T20:03:09.899Z"
 ---
 
 # § 9452. Cadets: hazing

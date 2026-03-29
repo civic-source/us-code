@@ -5,7 +5,7 @@ usc_section: "511"
 chapter: 5
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 511"
-generated_at: "2026-03-29T02:11:23.776Z"
+generated_at: "2026-03-29T20:03:17.279Z"
 ---
 
 # § 511. Retention of certain records

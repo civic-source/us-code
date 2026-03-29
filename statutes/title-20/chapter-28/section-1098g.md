@@ -3,9 +3,9 @@ title: "Section 1098g - Exemption from State disclosure requirements"
 usc_title: 20
 usc_section: "1098g"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1098g"
-generated_at: "2026-03-29T19:58:56.741Z"
+generated_at: "2026-03-29T20:04:32.904Z"
 ---
 
 # § 1098g. Exemption from State disclosure requirements

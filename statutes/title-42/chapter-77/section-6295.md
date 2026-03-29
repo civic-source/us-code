@@ -3,9 +3,9 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-29T20:01:33.228Z"
+generated_at: "2026-03-29T20:06:11.246Z"
 ---
 
 # § 6295. Energy conservation standards
@@ -500,7 +500,9 @@ generated_at: "2026-03-29T20:01:33.228Z"
       - **(i)**
         - **(I)** Not later than 2 years after August 8, 2005 , the Secretary shall issue a final rule that determines whether energy conservation standards shall be issued for external power supplies or classes of external power supplies.
         - **(II)** Not later than July 1, 2011 , the Secretary shall issue a final rule that prescribes energy conservation standards for battery chargers or classes of battery chargers or determine that no energy conservation standard is technically feasible and economically justified.
-- **(ii)** For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
+      - **(ii)** For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
+        - **(I)** meets the criteria and procedures of subsections ( o ), (p), (q), (r), (s), and (t); and
+        - **(II)** would result in significant overall annual energy savings, considering standby mode and other operating modes.
   - **(2)** The Secretary and the Administrator shall collaborate and develop programs (including programs under section 6294a of this title and other voluntary industry agreements or codes of conduct) that are designed to reduce standby mode energy use.
   - **(3)**
     - **(A)** Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008 , or December 19, 2007 , shall meet the following standards: Active Mode Nameplate Output Required Efficiency (decimal equivalent of a percentage) Less than 1 watt 0.5 times the Nameplate Output From 1 watt to not more than 51 watts The sum of 0.09 times the Natural Logarithm of the Nameplate Output and 0.5 Greater than 51 watts 0.85 No-Load Mode Nameplate Output Maximum Consumption Not more than 250 watts 0.5 watts
@@ -547,8 +549,6 @@ generated_at: "2026-03-29T20:01:33.228Z"
         - **(III)** meets the standards that were in effect prior to the amendment; and
         - **(IV)** is made available by the manufacturer as a service part or a spare part for an end-use product that—
       - **(ii)** The Secretary may require manufacturers of a product exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that do not meet the amended standard.
-        - **(I)** meets the criteria and procedures of subsections ( o ), (p), (q), (r), (s), and (t); and
-        - **(II)** would result in significant overall annual energy savings, considering standby mode and other operating modes.
 - **(v)**
   - **(1)** Not later than 4 years after August 8, 2005 , the Secretary shall prescribe, by rule, energy conservation standards for refrigerated bottle or canned beverage vending machines.
   - **(2)** In establishing energy conservation standards under this subsection, the Secretary shall use the criteria and procedures prescribed under subsections ( o ) and (p).

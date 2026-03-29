@@ -3,9 +3,9 @@ title: "Section 21 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 21"
-generated_at: "2026-03-29T20:00:47.463Z"
+generated_at: "2026-03-29T20:05:36.435Z"
 ---
 
 # §§ 19 to 21. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

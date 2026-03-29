@@ -5,7 +5,7 @@ usc_section: "6322"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6322"
-generated_at: "2026-03-29T02:10:45.265Z"
+generated_at: "2026-03-29T20:03:09.828Z"
 ---
 
 # § 6322. Prohibition and report 1 1 So in original. Requirement to submit report was repealed by Pub. L. 112–239 without corresponding amendment to section catchline. on bonuses to contractors operating defense nuclear facilities

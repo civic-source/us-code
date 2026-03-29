@@ -3,9 +3,9 @@ title: "Section 5067 - Reduced rates not allowed for smuggled or illegally produ
 usc_title: 26
 usc_section: "5067"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5067"
-generated_at: "2026-03-29T19:59:49.538Z"
+generated_at: "2026-03-29T20:05:22.631Z"
 ---
 
 # § 5067. Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits

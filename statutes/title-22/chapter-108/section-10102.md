@@ -3,9 +3,9 @@ title: "Section 10102 - Authorization of imposition of sanctions"
 usc_title: 22
 usc_section: "10102"
 chapter: 108
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10102"
-generated_at: "2026-03-29T19:59:24.359Z"
+generated_at: "2026-03-29T20:04:47.047Z"
 ---
 
 # § 10102. Authorization of imposition of sanctions

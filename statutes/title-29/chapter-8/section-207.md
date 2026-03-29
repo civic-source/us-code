@@ -3,9 +3,9 @@ title: "Section 207 - Maximum hours"
 usc_title: 29
 usc_section: "207"
 chapter: 8
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 207"
-generated_at: "2026-03-29T19:59:56.569Z"
+generated_at: "2026-03-29T20:05:03.626Z"
 ---
 
 # § 207. Maximum hours

@@ -5,7 +5,7 @@ usc_section: "803"
 chapter: 8
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 803"
-generated_at: "2026-03-29T20:01:52.117Z"
+generated_at: "2026-03-29T20:02:37.758Z"
 ---
 
 # § 803. Special rule on statutory, regulatory, and judicial deadlines

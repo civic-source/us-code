@@ -5,7 +5,7 @@ usc_section: "6253"
 chapter: 606
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6253"
-generated_at: "2026-03-29T02:10:45.261Z"
+generated_at: "2026-03-29T20:03:09.825Z"
 ---
 
 # § 6253. Fellowship program for development of skills critical to the nuclear security enterprise

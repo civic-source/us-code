@@ -5,7 +5,7 @@ usc_section: "13106"
 chapter: 131
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 13106"
-generated_at: "2026-03-29T20:01:52.296Z"
+generated_at: "2026-03-29T20:02:37.935Z"
 ---
 
 # § 13106. Failure to file or filing false reports

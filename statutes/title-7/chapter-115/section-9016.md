@@ -3,9 +3,9 @@ title: "Section 9016 - Price loss coverage"
 usc_title: 7
 usc_section: "9016"
 chapter: 115
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 9016"
-generated_at: "2026-03-29T19:57:39.514Z"
+generated_at: "2026-03-29T20:02:52.871Z"
 ---
 
 # § 9016. Price loss coverage
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:57:39.514Z"
   - **(1)** for any of the 2014 through 2018 crop years—
     - **(A)** the effective price for the covered commodity for the crop year; is less than
     - **(B)** the reference price for the covered commodity for the crop year; or
-  - **(2)** for any of the 2019 through 2023 crop years—
+  - **(2)** for any of the 2019 through 2031 crop years—
     - **(A)** the effective price for the covered commodity for the crop year; is less than
     - **(B)** the effective reference price for the covered commodity for the crop year.
 - **(b)** The effective price for a covered commodity for a crop year shall be the higher of—
@@ -25,20 +25,20 @@ generated_at: "2026-03-29T19:57:39.514Z"
     - **(A)** For the 2014 through 2018 crop years, the payment rate shall be equal to the difference between—
       - **(i)** the reference price for the covered commodity; and
       - **(ii)** the effective price determined under subsection (b) for the covered commodity.
-    - **(B)** For the 2019 through 2023 crop years, the payment rate shall be equal to the difference between—
+    - **(B)** For the 2019 through 2031 crop years, the payment rate shall be equal to the difference between—
       - **(i)** the effective reference price for the covered commodity; and
       - **(ii)** the effective price determined under subsection (b) for the covered commodity.
   - **(2)** Not later than 30 days after the end of each applicable 12-month marketing year for each covered commodity, the Secretary shall publish the payment rate determined under paragraph (1).
   - **(3)** In the case of a covered commodity, such as temperate japonica rice, for which the Secretary cannot determine the payment rate for the most recent 12-month marketing year by the date described in paragraph (2) due to insufficient reporting of timely pricing data by 1 or more nongovernmental entities, including a marketing cooperative for the covered commodity, the Secretary shall publish the payment rate as soon as practicable after the marketing year data are made available.
-- **(d)** If price loss coverage payments are required to be provided under this section for any of the 2014 through 2025 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+- **(d)** If price loss coverage payments are required to be provided under this section for any of the 2014 through 2031 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
   - **(1)** the payment rate for the covered commodity under subsection (c);
   - **(2)** the payment yield for the covered commodity; and
   - **(3)** the payment acres for the covered commodity.
 - **(e)** If the Secretary determines under this section that price loss coverage payments are required to be provided for the covered commodity, the payments shall be made beginning October 1, or as soon as practicable thereafter, after the end of the applicable marketing year for the covered commodity.
 - **(f)** In determining the effective price for barley under subsection (b), the Secretary shall use the all-barley price.
-- **(g)** In order to reflect price premiums, the Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to the amount established under subparagraph (F) of section 9011(19) of this title , as adjusted by paragraph (8) of such section, multiplied by the ratio obtained by dividing—
-  - **(1)** the simple average of the marketing year average price of medium grain rice from the 2012 through 2016 crop years; by
-  - **(2)** the simple average of the marketing year average price of all rice from the 2012 through 2016 crop years.
+- **(g)** In order to reflect price premiums, the Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to the amount established under paragraph (19)(A)(vi) of section 9011 of this title , as adjusted by paragraph (8) of such section, multiplied by the ratio obtained by dividing—
+  - **(1)** the simple average of the marketing year average price of medium grain rice from the 2017 through 2021 crop years; by
+  - **(2)** the simple average of the marketing year average price of all rice from the 2017 through 2021 crop years.
 - **(h)**
   - **(1)** The effective price for seed cotton under subsection (b) shall be equal to the marketing year average price for seed cotton, as calculated under paragraph (2).
   - **(2)** The marketing year average price for seed cotton for a crop year shall be equal to the quotient obtained by dividing—

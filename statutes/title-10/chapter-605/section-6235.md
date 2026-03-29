@@ -5,7 +5,7 @@ usc_section: "6235"
 chapter: 605
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6235"
-generated_at: "2026-03-29T02:10:45.260Z"
+generated_at: "2026-03-29T20:03:09.824Z"
 ---
 
 # § 6235. Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities

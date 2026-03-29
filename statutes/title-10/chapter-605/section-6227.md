@@ -5,7 +5,7 @@ usc_section: "6227"
 chapter: 605
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6227"
-generated_at: "2026-03-29T02:10:45.259Z"
+generated_at: "2026-03-29T20:03:09.823Z"
 ---
 
 # § 6227. Protection of certain nuclear facilities and assets from unmanned aircraft

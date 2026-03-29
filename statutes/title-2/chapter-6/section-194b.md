@@ -5,7 +5,7 @@ usc_section: "194b"
 chapter: 6
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 194b"
-generated_at: "2026-03-29T20:01:46.499Z"
+generated_at: "2026-03-29T20:02:11.251Z"
 ---
 
 # § 194b. Omitted

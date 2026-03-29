@@ -3,9 +3,9 @@ title: "Section 2609 - Repealed. Pub. L. 104–106, div. A, title II, § 253(9) 
 usc_title: 10
 usc_section: "2609"
 chapter: 155
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2609"
-generated_at: "2026-03-29T19:58:02.179Z"
+generated_at: "2026-03-29T20:03:09.695Z"
 ---
 
 # [§ 2609. Repealed. Pub. L. 104–106, div. A, title II, § 253(9) , Feb. 10, 1996 , 110 Stat. 235 ]

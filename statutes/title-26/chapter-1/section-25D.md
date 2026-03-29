@@ -3,9 +3,9 @@ title: "Section 25D - Residential clean energy credit"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-29T19:59:49.054Z"
+generated_at: "2026-03-29T20:05:22.111Z"
 ---
 
 # § 25D. Residential clean energy credit
@@ -56,8 +56,6 @@ generated_at: "2026-03-29T19:59:49.054Z"
 - **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 - **(g)** For purposes of subsection (a), the applicable percentage shall be—
   - **(1)** in the case of property placed in service after December 31, 2016 , and before January 1, 2020 , 30 percent,
-  - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2022 , 26 percent,
-  - **(3)** in the case of property placed in service after December 31, 2021 , and before January 1, 2033 , 30 percent,
-  - **(4)** in the case of property placed in service after December 31, 2032 , and before January 1, 2034 , 26 percent, and
-  - **(5)** in the case of property placed in service after December 31, 2033 , and before January 1, 2035 , 22 percent.
-- **(h)** The credit allowed under this section shall not apply to property placed in service after December 31, 2034 .
+  - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2022 , 26 percent, and
+  - **(3)** in the case of property placed in service after December 31, 2021 , 30 percent.
+- **(h)** The credit allowed under this section shall not apply with respect to any expenditures made after December 31, 2025 .

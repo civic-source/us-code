@@ -3,9 +3,9 @@ title: "Section 5240 - Preservation of authority"
 usc_title: 12
 usc_section: "5240"
 chapter: 52
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5240"
-generated_at: "2026-03-29T19:58:41.093Z"
+generated_at: "2026-03-29T20:03:45.959Z"
 ---
 
 # § 5240. Preservation of authority

@@ -3,9 +3,9 @@ title: "Section 1141m - Incontestability"
 usc_title: 15
 usc_section: "1141m"
 chapter: 22
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1141m"
-generated_at: "2026-03-29T19:58:17.669Z"
+generated_at: "2026-03-29T20:03:27.384Z"
 ---
 
 # § 1141m. Incontestability

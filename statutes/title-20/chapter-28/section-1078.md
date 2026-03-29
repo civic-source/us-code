@@ -3,9 +3,9 @@ title: "Section 1078 - Federal payments to reduce student interest costs"
 usc_title: 20
 usc_section: "1078"
 chapter: 28
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1078"
-generated_at: "2026-03-29T19:58:56.677Z"
+generated_at: "2026-03-29T20:04:32.829Z"
 ---
 
 # § 1078. Federal payments to reduce student interest costs
@@ -178,7 +178,7 @@ generated_at: "2026-03-29T19:58:56.677Z"
       - **(ii)** a graduated repayment plan paid over a fixed period of time, not to exceed 10 years;
       - **(iii)** an income-sensitive repayment plan, with income-sensitive repayment amounts paid over a fixed period of time, not to exceed 10 years, except that the borrower’s scheduled payments shall not be less than the amount of interest due;
       - **(iv)** for new borrowers on or after October 7, 1998 , who accumulate (after October 7, 1998 ) outstanding loans under this part totaling more than $30,000, an extended repayment plan, with a fixed annual or graduated repayment amount paid over an extended period of time, not to exceed 25 years, except that the borrower shall repay annually a minimum amount determined in accordance with paragraph (1)(L)(i); and
-      - **(v)** beginning July 1, 2009 , an income-based repayment plan that enables a borrower who has a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title , except that the plan described in this clause shall not be available to a borrower for a loan under section 1078–2 of this title made on behalf of a dependent student or for a consolidation loan under section 1078–3 of this title , if the proceeds of such loan were used to discharge the liability of a loan under section 1078–2 of this title made on behalf of a dependent student.
+      - **(v)** beginning July 1, 2009 , an income-based repayment plan that enables a borrower to make a lower monthly payment in accordance with section 1098e of this title , except that the plan described in this clause shall not be available to a borrower for a loan under section 1078–2 of this title made on behalf of a dependent student or for a consolidation loan under section 1078–3 of this title , if the proceeds of such loan were used to discharge the liability of a loan under section 1078–2 of this title made on behalf of a dependent student.
     - **(B)** If a borrower of a loan made under this part does not select a repayment plan described in subparagraph (A), the lender shall provide the borrower with a repayment plan described in subparagraph (A)(i).
 - **(c)**
   - **(1)**

@@ -5,7 +5,7 @@ usc_section: "13121"
 chapter: 131
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 13121"
-generated_at: "2026-03-29T20:01:52.297Z"
+generated_at: "2026-03-29T20:02:37.936Z"
 ---
 
 # § 13121. Establishment; appointment of Director

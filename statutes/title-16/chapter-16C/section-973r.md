@@ -3,9 +3,9 @@ title: "Section 973r - Authorization of appropriations"
 usc_title: 16
 usc_section: "973r"
 chapter: 16
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 973r"
-generated_at: "2026-03-29T19:59:08.265Z"
+generated_at: "2026-03-29T20:04:20.262Z"
 ---
 
 # § 973r. Authorization of appropriations

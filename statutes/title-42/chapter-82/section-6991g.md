@@ -3,9 +3,9 @@ title: "Section 6991g - State authority"
 usc_title: 42
 usc_section: "6991g"
 chapter: 82
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6991g"
-generated_at: "2026-03-29T20:01:33.308Z"
+generated_at: "2026-03-29T20:06:11.328Z"
 ---
 
 # § 6991g. State authority

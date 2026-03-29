@@ -3,9 +3,9 @@ title: "Section 12c - Disciplinary actions"
 usc_title: 7
 usc_section: "12c"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 12c"
-generated_at: "2026-03-29T19:57:38.867Z"
+generated_at: "2026-03-29T20:02:52.360Z"
 ---
 
 # § 12c. Disciplinary actions

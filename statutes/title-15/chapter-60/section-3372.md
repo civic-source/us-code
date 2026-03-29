@@ -3,9 +3,9 @@ title: "Section 3372 - Assignment of contractual rights to receive surplus natur
 usc_title: 15
 usc_section: "3372"
 chapter: 60
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3372"
-generated_at: "2026-03-29T19:58:17.810Z"
+generated_at: "2026-03-29T20:03:27.567Z"
 ---
 
 # § 3372. Assignment of contractual rights to receive surplus natural gas

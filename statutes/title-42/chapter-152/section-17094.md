@@ -3,9 +3,9 @@ title: "Section 17094 - Storm water runoff requirements for Federal development 
 usc_title: 42
 usc_section: "17094"
 chapter: 152
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 17094"
-generated_at: "2026-03-29T20:01:33.822Z"
+generated_at: "2026-03-29T20:06:11.827Z"
 ---
 
 # § 17094. Storm water runoff requirements for Federal development projects

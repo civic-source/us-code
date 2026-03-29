@@ -3,9 +3,9 @@ title: "Section 10b - Authority to regulate golden parachute and indemnification
 usc_title: 12
 usc_section: "10b"
 chapter: 23
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 10b"
-generated_at: "2026-03-29T19:58:40.978Z"
+generated_at: "2026-03-29T20:03:45.834Z"
 ---
 
 # § 2277a–10b. Authority to regulate golden parachute and indemnification payments

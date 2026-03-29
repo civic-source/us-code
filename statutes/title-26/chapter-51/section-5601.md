@@ -3,9 +3,9 @@ title: "Section 5601 - Criminal penalties"
 usc_title: 26
 usc_section: "5601"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5601"
-generated_at: "2026-03-29T19:59:49.547Z"
+generated_at: "2026-03-29T20:05:22.641Z"
 ---
 
 # § 5601. Criminal penalties

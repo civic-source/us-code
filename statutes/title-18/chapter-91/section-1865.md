@@ -3,9 +3,9 @@ title: "Section 1865 - National Park Service"
 usc_title: 18
 usc_section: "1865"
 chapter: 91
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1865"
-generated_at: "2026-03-29T19:58:59.703Z"
+generated_at: "2026-03-29T20:03:53.759Z"
 ---
 
 # § 1865. National Park Service

@@ -5,7 +5,7 @@ usc_section: "6173"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6173"
-generated_at: "2026-03-29T02:10:45.255Z"
+generated_at: "2026-03-29T20:03:09.820Z"
 ---
 
 # § 6173. Requirement to develop future use plans for defense environmental cleanup

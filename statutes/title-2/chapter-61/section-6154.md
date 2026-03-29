@@ -5,7 +5,7 @@ usc_section: "6154"
 chapter: 61
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6154"
-generated_at: "2026-03-29T20:01:46.633Z"
+generated_at: "2026-03-29T20:02:11.359Z"
 ---
 
 # § 6154. Offices of the Secretaries of the Conference of the Majority and the Conference of the Minority

@@ -5,7 +5,7 @@ usc_section: "3709"
 chapter: 271
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3709"
-generated_at: "2026-03-29T02:10:45.194Z"
+generated_at: "2026-03-29T20:03:09.763Z"
 ---
 
 # § 3709. Program to accelerate contracting and pricing processes

@@ -3,9 +3,9 @@ title: "Section 936 - Art. 136. Authority to administer oaths"
 usc_title: 10
 usc_section: "936"
 chapter: 47
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 936"
-generated_at: "2026-03-29T19:58:02.023Z"
+generated_at: "2026-03-29T20:03:09.522Z"
 ---
 
 # § 936. Art. 136. Authority to administer oaths

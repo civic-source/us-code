@@ -3,9 +3,9 @@ title: "Section 1555 - Closing of appropriation accounts available for indefinit
 usc_title: 31
 usc_section: "1555"
 chapter: 15
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 1555"
-generated_at: "2026-03-29T20:00:25.321Z"
+generated_at: "2026-03-29T20:05:32.578Z"
 ---
 
 # § 1555. Closing of appropriation accounts available for indefinite periods

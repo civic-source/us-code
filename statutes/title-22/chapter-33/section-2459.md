@@ -3,9 +3,9 @@ title: "Section 2459 - Immunity from seizure under judicial process of cultural 
 usc_title: 22
 usc_section: "2459"
 chapter: 33
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2459"
-generated_at: "2026-03-29T19:59:24.122Z"
+generated_at: "2026-03-29T20:04:46.790Z"
 ---
 
 # § 2459. Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display

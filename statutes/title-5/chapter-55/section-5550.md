@@ -5,7 +5,7 @@ usc_section: "5550"
 chapter: 55
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5550"
-generated_at: "2026-03-29T20:01:52.175Z"
+generated_at: "2026-03-29T20:02:37.818Z"
 ---
 
 # § 5550. Border patrol rate of pay

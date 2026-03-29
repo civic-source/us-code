@@ -5,7 +5,7 @@ usc_section: "2003"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2003"
-generated_at: "2026-03-29T20:01:46.591Z"
+generated_at: "2026-03-29T20:02:11.324Z"
 ---
 
 # § 2003. Speaker as member of House Office Building commission

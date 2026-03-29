@@ -3,9 +3,9 @@ title: "Section 6904 - Qualified organizations"
 usc_title: 15
 usc_section: "6904"
 chapter: 95
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 6904"
-generated_at: "2026-03-29T19:58:17.885Z"
+generated_at: "2026-03-29T20:03:27.649Z"
 ---
 
 # § 6904. Qualified organizations

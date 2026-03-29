@@ -3,9 +3,9 @@ title: "Section 3710b - Rewards for scientific, engineering, and technical perso
 usc_title: 15
 usc_section: "3710b"
 chapter: 63
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3710b"
-generated_at: "2026-03-29T19:58:17.818Z"
+generated_at: "2026-03-29T20:03:27.576Z"
 ---
 
 # § 3710b. Rewards for scientific, engineering, and technical personnel of Federal agencies

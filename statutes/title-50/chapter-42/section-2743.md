@@ -1,22 +1,12 @@
 ---
-title: "Section 2743 - Minor construction projects"
+title: "Section 2743 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
 usc_title: 50
 usc_section: "2743"
 chapter: 42
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2743"
-generated_at: "2026-03-29T20:01:54.712Z"
+generated_at: "2026-03-29T20:06:21.090Z"
 ---
 
-# § 2743. Minor construction projects
+# §§ 2741 to 2743. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
 
-- **(a)** Using operation and maintenance funds or facilities and infrastructure funds authorized by a DOE national security authorization, the Secretary of Energy may carry out minor construction projects.
-- **(b)** The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report. The report shall include with respect to each project the following:
-  - **(1)** The estimated original total project cost and the estimated original date of completion.
-  - **(2)** The percentage of the project that is complete.
-  - **(3)** The current estimated total project cost and estimated date of completion.
-- **(c)** If, at any time during the construction of any minor construction project authorized by a DOE national security authorization, the estimated cost of the project is revised and the revised cost of the project exceeds the minor construction threshold, the Secretary shall immediately submit to the congressional defense committees a report explaining the reasons for the cost variation.
-- **(d)** Notwithstanding subsection (a), the Secretary may not start a minor construction project with a total estimated cost of more than $5,000,000 until—
-  - **(1)** the Secretary notifies the congressional defense committees of such project and total estimated cost; and
-  - **(2)** a period of 15 days has elapsed after the date on which such notification is received.
-- **(e)** In this section, the term “minor construction project” means any plant project not specifically authorized by law for which the approved total estimated cost does not exceed the minor construction threshold.

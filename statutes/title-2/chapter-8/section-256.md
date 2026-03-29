@@ -5,7 +5,7 @@ usc_section: "256"
 chapter: 8
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 256"
-generated_at: "2026-03-29T20:01:46.500Z"
+generated_at: "2026-03-29T20:02:11.252Z"
 ---
 
 # §§ 252 to 256. Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7, 1972 , 86 Stat. 20

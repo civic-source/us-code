@@ -3,9 +3,9 @@ title: "Section 204 - Practice in United States Court of Federal Claims or the U
 usc_title: 18
 usc_section: "204"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 204"
-generated_at: "2026-03-29T19:58:59.633Z"
+generated_at: "2026-03-29T20:03:53.685Z"
 ---
 
 # § 204. Practice in United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Members of Congress

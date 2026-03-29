@@ -5,7 +5,7 @@ usc_section: "10705"
 chapter: 114
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 10705"
-generated_at: "2026-03-29T02:12:40.530Z"
+generated_at: "2026-03-29T20:04:47.060Z"
 ---
 
 # § 10705. Democratic and economic development and prosperity initiatives

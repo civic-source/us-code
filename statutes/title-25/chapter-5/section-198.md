@@ -3,9 +3,9 @@ title: "Section 198 - Contagious and infectious diseases; quarantine"
 usc_title: 25
 usc_section: "198"
 chapter: 5
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 198"
-generated_at: "2026-03-29T19:59:16.282Z"
+generated_at: "2026-03-29T20:04:54.318Z"
 ---
 
 # § 198. Contagious and infectious diseases; quarantine

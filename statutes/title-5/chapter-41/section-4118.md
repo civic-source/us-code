@@ -5,7 +5,7 @@ usc_section: "4118"
 chapter: 41
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 4118"
-generated_at: "2026-03-29T20:01:52.151Z"
+generated_at: "2026-03-29T20:02:37.792Z"
 ---
 
 # § 4118. Regulations

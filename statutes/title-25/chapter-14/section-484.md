@@ -3,9 +3,9 @@ title: "Section 484 - Omitted"
 usc_title: 25
 usc_section: "484"
 chapter: 14
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 484"
-generated_at: "2026-03-29T19:59:16.306Z"
+generated_at: "2026-03-29T20:04:54.335Z"
 ---
 
 # § 484. Omitted

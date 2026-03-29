@@ -5,7 +5,7 @@ usc_section: "6659"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6659"
-generated_at: "2026-03-29T02:14:01.361Z"
+generated_at: "2026-03-29T20:05:22.723Z"
 ---
 
 # § 6659. Improper claim for Trump account contribution pilot program credit

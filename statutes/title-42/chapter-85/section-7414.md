@@ -3,9 +3,9 @@ title: "Section 7414 - Recordkeeping, inspections, monitoring, and entry"
 usc_title: 42
 usc_section: "7414"
 chapter: 85
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7414"
-generated_at: "2026-03-29T20:01:33.351Z"
+generated_at: "2026-03-29T20:06:11.372Z"
 ---
 
 # § 7414. Recordkeeping, inspections, monitoring, and entry
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T20:01:33.351Z"
     - **(G)** provide such other information as the Administrator may reasonably require; and 2 2 So in original. The “and” probably should not appear.
   - **(2)** the Administrator or his authorized representative, upon presentation of his credentials—
     - **(A)** shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintained under paragraph (1) of this section are located, and
-    - **(B)** may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1). 3 3 The period probably should be “; and”.
+    - **(B)** may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1). 3 3 So in original. The period probably should be “; and”.
   - **(3)** The 4 4 So in original. Probably should not be capitalized. Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance is continuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator’s authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990 .
 - **(b)**
   - **(1)** Each State may develop and submit to the Administrator a procedure for carrying out this section in such State. If the Administrator finds the State procedure is adequate, he may delegate to such State any authority he has to carry out this section.

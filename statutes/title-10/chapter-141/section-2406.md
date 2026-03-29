@@ -3,9 +3,9 @@ title: "Section 2406 - Repealed. Pub. L. 103–355, title II, § 2201(b)(1) , Oc
 usc_title: 10
 usc_section: "2406"
 chapter: 141
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2406"
-generated_at: "2026-03-29T19:58:02.164Z"
+generated_at: "2026-03-29T20:03:09.680Z"
 ---
 
 # [§ 2406. Repealed. Pub. L. 103–355, title II, § 2201(b)(1) , Oct. 13, 1994 , 108 Stat. 3318 ]

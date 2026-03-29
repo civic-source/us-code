@@ -3,9 +3,9 @@ title: "Section 2669b - Reaffirming United States international telecommunicatio
 usc_title: 22
 usc_section: "2669b"
 chapter: 38
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2669b"
-generated_at: "2026-03-29T19:59:24.140Z"
+generated_at: "2026-03-29T20:04:46.810Z"
 ---
 
 # § 2669b. Reaffirming United States international telecommunications policy

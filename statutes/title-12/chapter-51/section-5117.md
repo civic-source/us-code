@@ -3,9 +3,9 @@ title: "Section 5117 - Employment transition of loan originators"
 usc_title: 12
 usc_section: "5117"
 chapter: 51
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5117"
-generated_at: "2026-03-29T19:58:41.083Z"
+generated_at: "2026-03-29T20:03:45.950Z"
 ---
 
 # § 5117. Employment transition of loan originators

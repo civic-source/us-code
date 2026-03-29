@@ -3,9 +3,9 @@ title: "Section 2484 - Commissary stores: merchandise that may be sold; uniform 
 usc_title: 10
 usc_section: "2484"
 chapter: 147
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2484"
-generated_at: "2026-03-29T19:58:02.169Z"
+generated_at: "2026-03-29T20:03:09.685Z"
 ---
 
 # § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
@@ -84,3 +84,6 @@ generated_at: "2026-03-29T19:58:02.169Z"
     - **(A)** Establishing the representative market basket of goods pursuant to subsection (i)(2)(B).
     - **(B)** Establishing the variable pricing program under subsection (i)(1).
     - **(C)** Converting the defense commissary system to a nonappropriated fund entity or instrumentality under subsection (j)(1).
+- **(l)** The Secretary of Defense shall prohibit the sale at any commissary store of fresh or chilled garlic—
+  - **(1)** classified under subheading 0703.20.00 of the Harmonized Tariff Schedule of the United States; and
+  - **(2)** that originated from, or was processed in, the People’s Republic of China.

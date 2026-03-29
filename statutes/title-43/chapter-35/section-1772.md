@@ -3,9 +3,9 @@ title: "Section 1772 - Vegetation managment, 1 1 So in original. Probably should
 usc_title: 43
 usc_section: "1772"
 chapter: 35
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-03-29T20:00:47.609Z"
+generated_at: "2026-03-29T20:05:36.594Z"
 ---
 
 # § 1772. Vegetation managment, 1 1 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T20:00:47.609Z"
       - **(i)** includes timelines and benchmarks for—
         - **(I)** the submission of agency comments on the plans and schedules for final decision; and
         - **(II)** the timely review of modifications of the plans in cases in which modifications are necessary;
-      - **(ii)** is consistent with applicable law; and 1 1 So in original.
+      - **(ii)** is consistent with applicable law; and 2 2 So in original.
       - **(iii)** includes a process for modifications to a plan in a prompt manner if changed conditions necessitate a modification to a plan; and
       - **(iv)** ensures, to the maximum extent practicable, a prompt review and approval process not to exceed 120 days.
     - **(B)** Upon reasonable advance notice to an owner or operator of an electric transmission or distribution facility of any changed conditions that warrant a modification to a plan, the Secretary concerned shall—
@@ -88,7 +88,7 @@ generated_at: "2026-03-29T20:00:47.609Z"
       - **(ii)** entrance into an agreement under subsection (d); or
     - **(B)** the Secretary concerned unreasonably failing to adhere to an applicable schedule in a plan approved under subsection (c) or an agreement entered into under subsection (d).
   - **(2)** For the period ending 10 years after March 23, 2018 , the Secretary concerned shall not impose strict liability in an amount greater than $500,000 per incident for damages or injury resulting from activities conducted by an owner or operator in accordance with an approved agreement under subsection (d).
-  - **(3)** Nothing in paragraph (2) shall be construed to effect 1 any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018 ) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018 ), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
+  - **(3)** Nothing in paragraph (2) shall be construed to effect 2 any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018 ) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018 ), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
 - **(h)**
   - **(1)** The Secretary concerned shall report requests and actions made under subsection (f) annually on the website of the Secretary concerned.
   - **(2)** Not later than four years after March 23, 2018 , the Secretary concerned shall prepare and submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate that describes the effect on the Treasury of the strict liability limitation established by subsection (g)(2).

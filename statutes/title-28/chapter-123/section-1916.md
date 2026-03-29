@@ -3,9 +3,9 @@ title: "Section 1916 - Seamen’s suits"
 usc_title: 28
 usc_section: "1916"
 chapter: 123
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1916"
-generated_at: "2026-03-29T20:00:05.313Z"
+generated_at: "2026-03-29T20:05:24.791Z"
 ---
 
 # § 1916. Seamen’s suits

@@ -3,9 +3,9 @@ title: "Section 3202 - Enforcement of judgments"
 usc_title: 28
 usc_section: "3202"
 chapter: 176
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 3202"
-generated_at: "2026-03-29T20:00:05.330Z"
+generated_at: "2026-03-29T20:05:24.808Z"
 ---
 
 # § 3202. Enforcement of judgments

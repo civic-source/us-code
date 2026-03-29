@@ -3,9 +3,9 @@ title: "Section 607 - Mandatory work requirements"
 usc_title: 42
 usc_section: "607"
 chapter: 7
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 607"
-generated_at: "2026-03-29T20:01:32.286Z"
+generated_at: "2026-03-29T20:06:10.373Z"
 ---
 
 # § 607. Mandatory work requirements
@@ -28,10 +28,11 @@ generated_at: "2026-03-29T20:01:32.286Z"
   - **(3)**
     - **(A)** The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
       - **(i)** the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title ) is less than
-      - **(ii)** the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2005.
-    - **(B)** The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
+      - **(ii)** the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2015.
+    - **(B)** The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2015. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
   - **(4)** For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved under section 612 of this title or under a tribal work program to which funds are provided under this part.
   - **(5)** For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has not attained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) for not more than 12 months.
+  - **(6)** The Secretary shall determine participation rates under this section without regard to any individual engaged in work in a family that receives no assistance under this part and less than $35 in assistance funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title ).
 - **(c)**
   - **(1)**
     - **(A)** For purposes of subsection (b)(1)(B)(i), a recipient is engaged in work for a month in a fiscal year if the recipient is participating in work activities for at least the minimum average number of hours per week specified in the following table during the month, not fewer than 20 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d), subject to this subsection: If the month is in fiscal year: The minimum average number of hours per week is: 1997 20 1998 20 1999 25 2000 or thereafter 30.

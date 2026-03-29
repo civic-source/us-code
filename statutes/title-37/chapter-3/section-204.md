@@ -3,9 +3,9 @@ title: "Section 204 - Entitlement"
 usc_title: 37
 usc_section: "204"
 chapter: 3
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 204"
-generated_at: "2026-03-29T20:00:34.769Z"
+generated_at: "2026-03-29T20:05:44.892Z"
 ---
 
 # § 204. Entitlement
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T20:00:34.769Z"
 - **(e)** A payment accruing under any law to a member of a uniformed service incident to his release from active duty or for his return home incident to that release may be paid to him before his departure from his last duty station, whether or not he actually performs the travel involved. If a member receives a payment under this subsection but dies before that payment would have been made but for this subsection, no part of that payment may be recovered by the United States.
 - **(f)** A cadet of the United States Military Academy or the United States Air Force Academy, or a midshipman of the United States Naval Academy, who, upon graduation from one of those academies, is appointed as a second lieutenant of the Army or the Air Force is entitled to the basic pay of pay grade O–1 beginning upon the date of his graduation.
 - **(g)**
-  - **(1)** A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member is physically disabled as the result of an injury, illness, or disease incurred or aggravated—
+  - **(1)** A member of a reserve component of a uniformed service, or a member of the Space Force in space force active status not on sustained duty, is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member is physically disabled as the result of an injury, illness, or disease incurred or aggravated—
     - **(A)** in line of duty while performing active duty;
     - **(B)** in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
     - **(C)** while traveling directly to or from such duty or training;
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T20:00:34.769Z"
       - **(iii)** remaining overnight at or in the vicinity of that place immediately before so serving, if the place is outside reasonable commuting distance from the member’s residence.
   - **(2)** In the case of a member who receives earned income from nonmilitary employment or self-employment performed in any month in which the member is otherwise entitled to pay and allowances under paragraph (1), the total pay and allowances shall be reduced by the amount of such income. In calculating earned income for the purpose of the preceding sentence, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 - **(h)**
-  - **(1)** A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service for each month for which the member demonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
+  - **(1)** A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service, or a member of the Space Force in space force active status not on sustained duty, of corresponding grade and length of service for each month for which the member demonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
     - **(A)** in line of duty while performing active duty;
     - **(B)** in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
     - **(C)** while traveling directly to or from such duty or training;

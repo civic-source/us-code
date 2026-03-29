@@ -3,9 +3,9 @@ title: "Section 2291 - Federal Project Repayment District"
 usc_title: 33
 usc_section: "2291"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2291"
-generated_at: "2026-03-29T20:00:31.393Z"
+generated_at: "2026-03-29T20:05:35.819Z"
 ---
 
 # § 2291. Federal Project Repayment District

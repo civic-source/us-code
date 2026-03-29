@@ -3,9 +3,9 @@ title: "Section 10192 - Applicability"
 usc_title: 42
 usc_section: "10192"
 chapter: 108
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 10192"
-generated_at: "2026-03-29T20:01:33.547Z"
+generated_at: "2026-03-29T20:06:11.577Z"
 ---
 
 # § 10192. Applicability

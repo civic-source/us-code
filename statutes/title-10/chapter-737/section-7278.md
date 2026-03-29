@@ -3,9 +3,9 @@ title: "Section 7278 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7278"
 chapter: 737
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7278"
-generated_at: "2026-03-29T19:58:02.283Z"
+generated_at: "2026-03-29T20:03:09.837Z"
 ---
 
 # § 7278. Medal of honor; distinguished-service cross; distinguished-service medal; silver star: availability of appropriations

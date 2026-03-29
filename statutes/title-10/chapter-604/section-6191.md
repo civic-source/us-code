@@ -5,7 +5,7 @@ usc_section: "6191"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6191"
-generated_at: "2026-03-29T02:10:45.257Z"
+generated_at: "2026-03-29T20:03:09.821Z"
 ---
 
 # § 6191. Reports in connection with permanent closures of Department of Energy defense nuclear facilities

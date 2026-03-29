@@ -3,9 +3,9 @@ title: "Section 2466b - Termination of benefits for sub-Saharan African countrie
 usc_title: 19
 usc_section: "2466b"
 chapter: 12
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2466b"
-generated_at: "2026-03-29T19:58:51.783Z"
+generated_at: "2026-03-29T20:04:27.388Z"
 ---
 
 # § 2466b. Termination of benefits for sub-Saharan African countries

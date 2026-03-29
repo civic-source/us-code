@@ -3,9 +3,9 @@ title: "Section 642 - Special rules for credits and deductions"
 usc_title: 26
 usc_section: "642"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 642"
-generated_at: "2026-03-29T19:59:49.331Z"
+generated_at: "2026-03-29T20:05:22.406Z"
 ---
 
 # § 642. Special rules for credits and deductions
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:59:49.331Z"
     - **(B)** A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300.
     - **(C)**
       - **(i)** A qualified disability trust shall be allowed a deduction equal to the exemption amount under section 151(d), determined—
-        - **(I)** by treating such trust as an individual described in section 68(b)(1)(C), and
+        - **(I)** by treating such trust as an individual described in section 68(b)(1)(C), 1 1 See References in Text note below. and
         - **(II)** by applying section 67(e) (without the reference to section 642(b)) for purposes of determining the adjusted gross income of the trust.
       - **(ii)** For purposes of clause (i), the term “qualified disability trust” means any trust if—
         - **(I)** such trust is a disability trust described in subsection (c)(2)(B)(iv) of section 1917 of the Social Security Act ( 42 U.S.C. 1396p ), and

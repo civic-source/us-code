@@ -3,9 +3,9 @@ title: "Section 1805 - Issuance of order"
 usc_title: 50
 usc_section: "1805"
 chapter: 36
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 1805"
-generated_at: "2026-03-29T20:01:54.648Z"
+generated_at: "2026-03-29T20:06:21.051Z"
 ---
 
 # § 1805. Issuance of order
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T20:01:54.648Z"
   - **(1)** An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for the period specified in the application or for one year, whichever is less.
   - **(2)** At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
   - **(3)** A denial of the application made under section 1804 of this title may be reviewed as provided in section 1803 of this title .
-  - **(5)** 3 3 So in original. No par. (4) has been enacted. An extension of an order issued under this subchapter for surveillance targeted against a United States person, to the extent practicable and absent exigent circumstances, shall be granted or denied by the same judge who issued the original order unless the term of such judge has expired or such judge is otherwise no longer serving on the court.
+  - **(5)** 3 3 So in original. There is no par. (4). An extension of an order issued under this subchapter for surveillance targeted against a United States person, to the extent practicable and absent exigent circumstances, shall be granted or denied by the same judge who issued the original order unless the term of such judge has expired or such judge is otherwise no longer serving on the court.
 - **(e)**
   - **(1)** Notwithstanding any other provision of this subchapter, the Attorney General may authorize the emergency employment of electronic surveillance if the Attorney General—
     - **(A)** reasonably determines that an emergency situation exists with respect to the employment of electronic surveillance to obtain foreign intelligence information before an order authorizing such surveillance can with due diligence be obtained;

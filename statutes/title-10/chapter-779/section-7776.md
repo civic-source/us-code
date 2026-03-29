@@ -3,9 +3,9 @@ title: "Section 7776 - Emergency construction: fortifications"
 usc_title: 10
 usc_section: "7776"
 chapter: 779
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7776"
-generated_at: "2026-03-29T19:58:02.296Z"
+generated_at: "2026-03-29T20:03:09.848Z"
 ---
 
 # § 7776. Emergency construction: fortifications

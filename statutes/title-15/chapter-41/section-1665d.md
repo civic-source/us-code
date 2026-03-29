@@ -3,9 +3,9 @@ title: "Section 1665d - Reasonable penalty fees on open end consumer credit plan
 usc_title: 15
 usc_section: "1665d"
 chapter: 41
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1665d"
-generated_at: "2026-03-29T19:58:17.710Z"
+generated_at: "2026-03-29T20:03:27.436Z"
 ---
 
 # § 1665d. Reasonable penalty fees on open end consumer credit plans

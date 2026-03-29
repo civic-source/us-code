@@ -3,9 +3,9 @@ title: "Section 10a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "10a"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 10a"
-generated_at: "2026-03-29T19:59:08.008Z"
+generated_at: "2026-03-29T20:04:20.051Z"
 ---
 
 # § 460l–10a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

@@ -3,9 +3,9 @@ title: "Section 2012 - Credit for gift tax"
 usc_title: 26
 usc_section: "2012"
 chapter: 11
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 2012"
-generated_at: "2026-03-29T19:59:49.453Z"
+generated_at: "2026-03-29T20:05:22.539Z"
 ---
 
 # § 2012. Credit for gift tax

@@ -3,9 +3,9 @@ title: "Section 151 - Allowance of deductions for personal exemptions"
 usc_title: 26
 usc_section: "151"
 chapter: 1
-current_through: "PL 119-4"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 151"
-generated_at: "2026-03-29T19:59:49.158Z"
+generated_at: "2026-03-29T20:05:22.226Z"
 ---
 
 # § 151. Allowance of deductions for personal exemptions
@@ -17,13 +17,25 @@ generated_at: "2026-03-29T19:59:49.158Z"
   - **(1)** Except as otherwise provided in this subsection, the term “exemption amount” means $2,000.
   - **(2)** In the case of an individual with respect to whom a deduction under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, the exemption amount applicable to such individual for such individual’s taxable year shall be zero.
   - **(3)**
-    - **(A)** In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b), the exemption amount shall be reduced by the applicable percentage.
-    - **(B)** For purposes of subparagraph (A), the term “applicable percentage” means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting “$1,250” for “$2,500”. In no event shall the applicable percentage exceed 100 percent.
+    - **(A)** In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b), 1 1 See References in Text note below. the exemption amount shall be reduced by the applicable percentage.
+    - **(B)** For purposes of subparagraph (A), the term “applicable percentage” means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). 1 In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting “$1,250” for “$2,500”. In no event shall the applicable percentage exceed 100 percent.
     - **(C)** The provisions of this paragraph shall not apply for purposes of determining whether a deduction under this section with respect to any individual is allowable to another taxpayer for any taxable year.
   - **(4)** Except as provided in paragraph (5), in the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1988” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(5)** In the case of a taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+  - **(5)** In the case of a taxable year beginning after December 31, 2017 —
     - **(A)** The term “exemption amount” means zero.
     - **(B)** For purposes of any other provision of this title, the reduction of the exemption amount to zero under subparagraph (A) shall not be taken into account in determining whether a deduction is allowed or allowable, or whether a taxpayer is entitled to a deduction, under this section.
+    - **(C)**
+      - **(i)** In the case of a taxable year beginning before January 1, 2029 , there shall be allowed a deduction in an amount equal to $6,000 for each qualified individual with respect to the taxpayer.
+      - **(ii)** For purposes of clause (i), the term “qualified individual” means—
+        - **(I)** the taxpayer, if the taxpayer has attained age 65 before the close of the taxable year, and
+        - **(II)** in the case of a joint return, the taxpayer’s spouse, if such spouse has attained age 65 before the close of the taxable year.
+      - **(iii)**
+        - **(I)** In the case of any taxpayer for any taxable year, the $6,000 amount in clause (i) shall be reduced (but not below zero) by 6 percent of so much of the taxpayer’s modified adjusted gross income as exceeds $75,000 ($150,000 in the case of a joint return).
+        - **(II)** For purposes of this clause, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+      - **(iv)**
+        - **(I)** Clause (i) shall not apply with respect to a qualified individual unless the taxpayer includes such qualified individual’s social security number on the return of tax for the taxable year.
+        - **(II)** For purposes of subclause (I), the term “social security number” has the meaning given such term in section 24(h)(7).
+      - **(v)** If the taxpayer is a married individual (within the meaning of section 7703), this subparagraph shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
 - **(e)** No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.
